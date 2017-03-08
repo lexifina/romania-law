@@ -1,0 +1,205 @@
+{
+ "key": "iccj-hp-4-2017",
+ "label": "Decizia ÎCCJ nr. 4/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "4",
+ "date": "2017-01-30",
+ "year": "2017",
+ "heading": "DECIZIE nr. 4 din 30 ianuarie 2017",
+ "subtitle": "privind interpretarea şi aplicarea dispoziţiilor art. 109 din Ordonanţa de urgenţă a Guvernului nr. 195/2002, art. 180 şi 181 din Regulamentul de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002, coroborate cu art. 15 şi art. 21 din Ordonanţa Guvernului nr. 2/2001",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2017-03-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.478/1/2016",
+  "23.520/271/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunţarea unei hotărâri prealabile, formulată de Tribunalul Caraş-Severin prin Încheierea din 17 mai 2016, pronunţată în Dosarul nr. 23.520/271/2014 şi, în consecinţă, stabileşte că:",
+  "În interpretarea şi aplicarea dispoziţiilor art. 109 din Ordonanţa de urgenţă a Guvernului nr. 195/2002 privind circulaţia pe drumurile publice, republicată, cu modificările şi completările ulterioare, art. 180 şi 181 din Regulamentul de aplicare a Ordonanţei de urgenţă a Guvernului nr. 195/2002, aprobat prin Hotărârea Guvernului nr. 1.391/2006, cu modificările şi completările ulterioare, coroborate cu art. 15 şi art. 21 din Ordonanţa Guvernului nr. 2/2001 privind regimul juridic al contravenţiilor, aprobată cu modificări şi completări prin Legea nr. 180/2002, cu modificările şi completările ulterioare, poliţistul rutier poate încheia procesul-verbal de constatare şi sancţionare a contravenţiei pe baza informaţiilor comunicate prin radio de către operatorul radar, aflat în alt loc decât acela în care se afla poliţistul rutier.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "oug/2001/2"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187114",
+  "text_sha256": "1b9eab6302a31a6cb8e10435842dd36fcf9c8e79a8db0aa55db80dad5ddd8424",
+  "catalogue_sha256": "1b9eab6302a31a6cb8e10435842dd36fcf9c8e79a8db0aa55db80dad5ddd8424",
+  "fetched": "2026-11-03T03:23:24Z",
+  "chars": 60239,
+  "portal_id": "187114",
+  "tip": "DECIZIE"
+ }
+}
