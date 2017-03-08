@@ -1,0 +1,283 @@
+{
+ "key": "dcc-769-2016",
+ "label": "Decizia CCR nr. 769/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "769",
+ "date": "2016-12-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 769 din 15 decembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. II pct. 1 din Legea nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, astfel cum au fost modificate prin articolul unic pct. 8 din Legea nr. 303/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, precum şi pentru modificarea Legii nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, cu referire la imobilul menţionat la poziţia nr. 272 din anexa nr. 1 la Ordonanţa Guvernului nr. 39/2005",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "169",
+  "bis": false,
+  "date": "2017-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.776/325/2014",
+  "1.514D/2015",
+  "15.957/2000"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 328/2006",
+    "number": "328",
+    "year": "2006",
+    "path": "lege/2006/328"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2008",
+    "number": "303",
+    "year": "2008",
+    "path": "lege/2008/303"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Regia Autonomă a Distribuţiei şi Exploatării Filmelor RomâniaFilm, în calitate de reprezentant al statului român, prin Ministerul Culturii şi Cultelor, în Dosarul nr. 6.776/325/2014 al Tribunalului Timiş - Secţia I civilă şi constată că dispoziţiile art. II pct. 1 din Legea nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, astfel cum au fost modificate prin articolul unic pct. 8 din Legea nr. 303/2008 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 7/2008 pentru modificarea şi completarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, precum şi pentru modificarea Legii nr. 328/2006 pentru aprobarea Ordonanţei Guvernului nr. 39/2005 privind cinematografia, cu referire la imobilul menţionat la poziţia nr. 272 din anexa nr. 1 la Ordonanţa Guvernului nr. 39/2005 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Timiş - Secţia I civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2008",
+    "number": "303",
+    "year": "2008",
+    "path": "lege/2008/303"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 15/1990",
+    "number": "15",
+    "year": "1990",
+    "path": "lege/1990/15"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 530/1991",
+    "number": "530",
+    "year": "1991",
+    "path": "hg/1991/530"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "oug/1997/88"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 328/2006",
+    "number": "328",
+    "year": "2006",
+    "path": "lege/2006/328"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187104",
+  "text_sha256": "13a713422d951932a9006c85f2faab4731b9dceca945280a4423167d3deb065d",
+  "catalogue_sha256": "13a713422d951932a9006c85f2faab4731b9dceca945280a4423167d3deb065d",
+  "fetched": "2026-11-03T03:23:24Z",
+  "chars": 25508,
+  "portal_id": "187104",
+  "tip": "DECIZIE"
+ }
+}
