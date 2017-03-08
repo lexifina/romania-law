@@ -1,0 +1,216 @@
+{
+ "key": "dcc-790-2016",
+ "label": "Decizia CCR nr. 790/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "790",
+ "date": "2016-12-15",
+ "year": "2016",
+ "heading": "DECIZIE nr. 790 din 15 decembrie 2016",
+ "subtitle": "privind excepţia de neconstituţionalitate a dispoziţiilor art. 308 alin. (1) din Codul penal cu referire la sintagma \"ori în cadrul oricărei persoane juridice\" raportat la art. 292 alin. (1) din Codul penal",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2017-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "18.532/180/2014/a9",
+  "364D/2016",
+  "18.532/180/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 308 alin. (1) din Codul penal cu referire la sintagma \"ori în cadrul oricărei persoane juridice\" raportat la art. 292 alin. (1) din Codul penal, excepţie ridicată de Societatea Comercială Dragoliv Service - S.R.L. din Sascut, judeţul Bacău, în Dosarul nr. 18.532/180/2014/a9 al Curţii de Apel Bacău - Secţia penală, cauze minori şi familie.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bacău - Secţia penală, cauze minori şi familie şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "301",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "92",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187110",
+  "text_sha256": "9d4726eca12697ea400282bb9e395fd5b9c4d0cd08718a29647a6562abad6db5",
+  "catalogue_sha256": "9d4726eca12697ea400282bb9e395fd5b9c4d0cd08718a29647a6562abad6db5",
+  "fetched": "2026-11-03T03:23:24Z",
+  "chars": 24689,
+  "portal_id": "187110",
+  "tip": "DECIZIE"
+ }
+}
