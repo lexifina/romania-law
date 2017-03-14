@@ -1,0 +1,713 @@
+{
+ "key": "dcc-68-2017",
+ "label": "Decizia CCR nr. 68/2017",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "68",
+ "date": "2017-02-27",
+ "year": "2017",
+ "heading": "DECIZIE nr. 68 din 27 februarie 2017",
+ "subtitle": "referitoare la cererea de soluţionare a conflictului juridic de natură constituţională dintre Guvernul României şi Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie - Direcţia Naţională Anticorupţie, cerere formulată de preşedintele Senatului",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "181",
+  "bis": false,
+  "date": "2017-03-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "430E/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 13/2017",
+    "number": "13",
+    "year": "2017",
+    "path": "oug/2017/13"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Constată că a existat şi există un conflict juridic de natură constituţională între Ministerul Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie - Direcţia Naţională Anticorupţie şi Guvernul României, generat de acţiunea Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie - Direcţia Naţională Anticorupţie de a-şi aroga atribuţia de a verifica legalitatea şi oportunitatea unui act normativ, respectiv Ordonanţa de urgenţă a Guvernului nr. 13/2017, cu încălcarea competenţelor constituţionale ale Guvernului şi Parlamentului, prevăzute de art. 115 alin. (4) şi (5) din Constituţie, respectiv ale Curţii Constituţionale, prevăzute de art. 146 lit. d) din Constituţie.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică preşedintelui Senatului României, Ministerului Public - Parchetul de pe lângă Înalta Curte de Casaţie şi Justiţie - Direcţia Naţională Anticorupţie şi Guvernului şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 84
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 13/2017",
+    "number": "13",
+    "year": "2017",
+    "path": "oug/2017/13"
+   },
+   "articles": [],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "285",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "294",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "d",
+      "f"
+     ]
+    },
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "305",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "311",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "393",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/1999",
+    "number": "115",
+    "year": "1999",
+    "path": "lege/1999/115"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 130/1999",
+    "number": "130",
+    "year": "1999",
+    "path": "oug/1999/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "286",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187509",
+  "text_sha256": "fd92460a5e92da54d40456b148a442dfbe11f9f66fad2d3edf3f2ce6659be4f5",
+  "catalogue_sha256": "fd92460a5e92da54d40456b148a442dfbe11f9f66fad2d3edf3f2ce6659be4f5",
+  "fetched": "2026-11-03T16:58:33Z",
+  "chars": 189134,
+  "portal_id": "187509",
+  "tip": "DECIZIE"
+ }
+}
