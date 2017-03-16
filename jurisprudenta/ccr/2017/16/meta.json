@@ -1,0 +1,213 @@
+{
+ "key": "dcc-16-2017",
+ "label": "Decizia CCR nr. 16/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "16",
+ "date": "2017-01-17",
+ "year": "2017",
+ "heading": "DECIZIE nr. 16 din 17 ianuarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 54 lit. a) şi ale art. 56 alin. (1) din Legea sănătăţii mintale şi a protecţiei persoanelor cu tulburări psihice nr. 487/2002",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "188",
+  "bis": false,
+  "date": "2017-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.401/314/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sănătăţii mintale şi a protecţiei persoanelor cu tulburări psihice nr. 487/2002",
+    "number": "487",
+    "year": "2002",
+    "path": "lege/2002/487"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Timofti Onoriu-Valentin în Dosarul nr. 6.401/314/2016 al Judecătoriei Suceava şi constată că dispoziţiile art. 54 lit. a) şi ale art. 56 alin. (1) din Legea sănătăţii mintale şi a protecţiei persoanelor cu tulburări psihice nr. 487/2002 sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Suceava şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea sănătăţii mintale şi a protecţiei persoanelor cu tulburări psihice nr. 487/2002",
+    "number": "487",
+    "year": "2002",
+    "path": "lege/2002/487"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187548",
+  "text_sha256": "1eb30a6403f416f6be1fba0595776f49cceba165bafbf977a7171c0328c897c7",
+  "catalogue_sha256": "1eb30a6403f416f6be1fba0595776f49cceba165bafbf977a7171c0328c897c7",
+  "fetched": "2026-11-03T03:23:11Z",
+  "chars": 16993,
+  "portal_id": "187548",
+  "tip": "DECIZIE"
+ }
+}
