@@ -1,0 +1,46 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/406 AL COMISIEI
+din 8 martie 2017
+de aprobare a substanței active cu risc redus virusul mozaic pepino, izolatul atenuat VX1, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 22 alineatul (1) coroborat cu articolul 13 alineatul (2),
+întrucât:
+(1) În conformitate cu articolul 7 alineatul (1) din Regulamentul (CE) nr. 1107/2009, Țările de Jos au primit, la 2 decembrie 2013, o cerere din partea Valto BV pentru aprobarea substanței active virusul mozaic pepino, izolatul atenuat VX1. În conformitate cu articolul 9 alineatul (3) din regulamentul respectiv, la 30 iunie 2014, Țările de Jos, în calitate de stat membru raportor, au notificat admisibilitatea cererii solicitantului, celorlalte state membre, Comisiei și Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”).
+(2) La 10 noiembrie 2015, statul membru raportor a transmis Comisiei un proiect de raport de evaluare, cu o copie către autoritate, în care a evaluat posibilitatea ca substanța activă în cauză să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009.
+(3) Autoritatea s-a conformat dispozițiilor articolului 12 alineatul (1) din Regulamentul (CE) nr. 1107/2009. În conformitate cu articolul 12 alineatul (3) din Regulamentul (CE) nr. 1107/2009, autoritatea a cerut solicitantului să furnizeze informații suplimentare statelor membre, Comisiei și autorității. Evaluarea informațiilor suplimentare, realizată de către statul membru raportor, a fost transmisă autorității la 8 septembrie 2016, sub forma unui proiect de raport de evaluare actualizat.
+(4) La data de 18 noiembrie 2016, autoritatea a comunicat solicitantului, statelor membre și Comisiei concluzia sa (2) cu privire la posibilitatea ca substanța activă virusul mozaic pepino, izolatul atenuat VX1, să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Autoritatea și-a făcut publică concluzia.
+(5) La 6 decembrie 2016, Comisia a prezentat Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale raportul de reexaminare pentru virusul mozaic pepino, izolatul atenuat VX1, și un proiect de regulament care prevede aprobarea substanței virusul mozaic pepino, izolatul atenuat VX1.
+(6) Solicitantului i s-a oferit posibilitatea de a trimite observații cu privire la raportul de reexaminare.
+(7) Cu privire la una sau mai multe utilizări reprezentative ale cel puțin unui produs de protecție a plantelor care conține substanța activă în cauză, în special în ceea ce privește utilizările examinate și detaliate în raportul de examinare, s-a stabilit că sunt îndeplinite criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Prin urmare, se consideră că respectivele criterii de aprobare sunt îndeplinite. Prin urmare, este oportun să se aprobe virusul mozaic pepino, izolatul atenuat VX1.
+(8) Cu toate acestea, în conformitate cu articolul 13 alineatul (2) coroborat cu articolul 6 din Regulamentul (CE) nr. 1107/2009 și având în vedere cunoștințele științifice și tehnice actuale, este necesară includerea anumitor condiții și restricții.
+(9) De asemenea, Comisia consideră că virusul mozaic pepino, izolatul atenuat VX1, este o substanță activă cu risc redus în temeiul articolului 22 din Regulamentul (CE) nr. 1107/2009. Virusul mozaic pepino, izolatul atenuat VX1, nu este o substanță care să prezinte motive de îngrijorare și îndeplinește condițiile stabilite la punctul 5 din anexa II la Regulamentul (CE) nr. 1107/2009. Virusul mozaic pepino, izolatul atenuat VX1, este o tulpină virală prezentă în mod natural în plante. Virusurile plantelor nu se reproduc în afara celulelor plantelor, nu au o structură celulară și nu produc metaboliți. De asemenea, ele nu sunt patogene pentru oameni sau animale. Se preconizează că expunerea suplimentară a oamenilor, a animalelor și a mediului prin utilizările aprobate în conformitate cu Regulamentul (CE) nr. 1107/2009 va fi neglijabilă în comparație cu expunerea naturală.
+(10) Prin urmare, este oportun să se aprobe virusul mozaic pepino, izolatul atenuat VX1, ca substanță cu risc redus. În conformitate cu articolul 13 alineatul (4) din Regulamentul (CE) nr. 1107/2009, anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (3) ar trebui modificată în consecință.
+(11) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Aprobarea substanței active
+Substanța activă virusul mozaic pepino, izolatul atenuat VX1, astfel cum este specificată în anexa I, se aprobă în condițiile prezentate în anexa respectivă.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 8 martie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2017. Conclusion on the peer review of the pesticide risk assessment of the active substance Mild Pepino mosaic virus isolate VX1. EFSA Journal 2017;15(1):4650 [16 pp.]. doi:10.2903/j.efsa.2017.4650.
+(3) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+ANEXA I
+Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+Virusul mozaic pepino, izolatul atenuat VX1 Număr de referință DSM 26974 în Colecția germană de microorganisme și culturi de celule (DSMZ) | Nu se aplică | Nicotină < 0,1 mg/L | 29 martie 2017 | 29 martie 2032 | Numai utilizarea în sere poate fi autorizată. În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se va ține seama de concluziile din raportul de reexaminare privind virusul mozaic pepino, izolatul atenuat VX1, în special din apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre trebuie să acorde o atenție deosebită protecției operatorilor și a lucrătorilor, ținând seama de faptul că virusul mozaic pepino, izolatul atenuat VX1, trebuie considerat un potențial sensibilizant, ca orice microorganism. Condițiile de utilizare trebuie să includă, dacă este cazul, măsuri de atenuare a riscurilor. Producătorul trebuie să asigure menținerea strictă a condițiilor de mediu și analiza controlului de calitate pe parcursul procesului de fabricație.
+(1) În raportul de reexaminare sunt furnizate mai multe detalii privind identitatea și specificațiile substanței active.
+ANEXA II
+În partea D din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se adaugă următoarea rubrică:
+| Denumire comună, numere de identificare | Denumire IUPAC | Puritate(*1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+„9 | Virusul mozaic pepino, izolatul atenuat VX1 Număr de referință DSM 26974 în Colecția germană de microorganisme și culturi de celule (DSMZ) | Nu se aplică | Nicotină < 0,1 mg/L | 29 martie 2017 | 29 martie 2032 | Numai utilizarea în sere poate fi autorizată. În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se va ține seama de concluziile din raportul de reexaminare privind virusul mozaic pepino, izolatul atenuat VX1, în special din apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre trebuie să acorde o atenție deosebită protecției operatorilor și a lucrătorilor, ținând seama de faptul că virusul mozaic pepino, izolatul atenuat VX1, trebuie considerat un potențial sensibilizant, ca orice microorganism. Condițiile de utilizare trebuie să includă, dacă este cazul, măsuri de atenuare a riscurilor. Producătorul trebuie să asigure menținerea strictă a condițiilor de mediu și analiza controlului de calitate pe parcursul procesului de fabricație.”
+(*1) În raportul de reexaminare sunt furnizate mai multe detalii privind identitatea și specificațiile substanței active.
