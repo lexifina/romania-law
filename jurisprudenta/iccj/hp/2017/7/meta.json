@@ -1,0 +1,213 @@
+{
+ "key": "iccj-hp-7-2017",
+ "label": "Decizia ÎCCJ nr. 7/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2017-01-30",
+ "year": "2017",
+ "heading": "DECIZIA nr. 7 din 30 ianuarie 2017",
+ "subtitle": "privind interpretarea şi aplicarea unitară a dispoziţiilor art. VII din Ordonanţa de urgenţă a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă şi a unor acte normative conexe, raportat la art. 640 şi art. 666 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "2017-03-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.769/1/2016",
+  "4.403/212/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "oug/2016/1"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "640",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Constanţa - Secţia a II-a civilă în Dosarul nr. 4.403/212/2016 şi, în consecinţă, stabileşte că",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. VII din Ordonanţa de urgenţă a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă şi a unor acte normative conexe, raportat la art. 640 şi art. 666 din Codul de procedură civilă, învestirea cu formulă executorie a biletului la ordin se face în cadrul procedurii de încuviinţare a executării silite, iar nu ca o etapă prealabilă distinctă.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "oug/2016/1"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "640",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1934",
+    "number": "58",
+    "year": "1934",
+    "path": "lege/1934/58"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "374-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1934",
+    "number": "59",
+    "year": "1934",
+    "path": "lege/1934/59"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-03-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187844",
+  "text_sha256": "a00cdbc454d66c7575ead94a6d785eb0e802dcdc27a3c9dd28bbb78018927f4f",
+  "catalogue_sha256": "a00cdbc454d66c7575ead94a6d785eb0e802dcdc27a3c9dd28bbb78018927f4f",
+  "fetched": "2026-11-03T03:22:49Z",
+  "chars": 36807,
+  "portal_id": "187844",
+  "tip": "DECIZIE"
+ }
+}
