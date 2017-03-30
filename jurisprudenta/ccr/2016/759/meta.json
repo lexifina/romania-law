@@ -1,0 +1,222 @@
+{
+ "key": "dcc-759-2016",
+ "label": "Decizia CCR nr. 759/2016",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "759",
+ "date": "2016-12-13",
+ "year": "2016",
+ "heading": "DECIZIA nr. 759 din 13 decembrie 2016",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 10 din Ordonanţa de urgenţă a Guvernului nr. 51/2015 privind unele măsuri pentru realizarea de investiţii la operatorii economici din industria de apărare şi pentru modificarea şi completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "218",
+  "bis": false,
+  "date": "2017-03-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.365/2/2015",
+  "762D/2016",
+  "1.943D/2016",
+  "20.248/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2015",
+    "number": "51",
+    "year": "2015",
+    "path": "oug/2015/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Constanţa Valuşca Teişan în Dosarul nr. 7.365/2/2015 al Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi de Florin Laurenţiu Dăncău în Dosarul nr. 20.248/3/2016 al Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi constată că dispoziţiile art. 10 din Ordonanţa de urgenţă a Guvernului nr. 51/2015 privind unele măsuri pentru realizarea de investiţii la operatorii economici din industria de apărare şi pentru modificarea şi completarea unor acte normative sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Bucureşti - Secţia a VIII-a contencios administrativ şi fiscal şi Tribunalului Bucureşti - Secţia a II-a contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 51/2015",
+    "number": "51",
+    "year": "2015",
+    "path": "oug/2015/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 47/2015",
+    "number": "47",
+    "year": "2015",
+    "path": "oug/2015/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 79/2016",
+    "number": "79",
+    "year": "2016",
+    "path": "lege/2016/79"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-03-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187830",
+  "text_sha256": "e58258e818f37f46f450e82f5ab961d456ccc9339e7658ff2910edffad6114ae",
+  "catalogue_sha256": "e58258e818f37f46f450e82f5ab961d456ccc9339e7658ff2910edffad6114ae",
+  "fetched": "2026-11-03T15:44:59Z",
+  "chars": 21033,
+  "portal_id": "187830",
+  "tip": "DECIZIE"
+ }
+}
