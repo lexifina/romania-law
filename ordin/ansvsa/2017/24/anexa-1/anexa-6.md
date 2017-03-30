@@ -1,0 +1,12 @@
+# Anexa nr. 6 la norma pentru siguranța alimentelor
+Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor............
+Nr.................. din...............
+ORDONANȚĂ privind interzicerea desfășurării activității de producere a semințelor germinate
+Directorul executiv al Direcției Sanitar-Veterinare și pentru Siguranța Alimentelor........................, având în vedere prevederile Ordonanței Guvernului nr. 42/2004 privind organizarea activității sanitar-veterinare și pentru siguranța alimentelor, aprobată cu modificări și completări prin Legea nr. 215/2004, cu modificările și completările ulterioare, și prevederile Regulamentului (CE) nr. 882/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind controalele oficiale efectuate pentru a asigura verificarea conformității cu legislația privind hrana pentru animale și produsele alimentare și cu normele de sănătate animală și de bunăstare a animalelor, cu amendamentele ulterioare, și Procesul-verbal de constatare înregistrat la Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor cu nr....... din data de.........., întocmită de..........., în calitate de........................... în cadrul Serviciului/Biroului/Compartimentului...................................., în baza verificării efectuate la unitatea........................................., din......................................, reprezentant legal al unității...........................................,...................................................................., (adresa completă)
+DISPUNE:
+Începând cu data de............................... se interzice desfășurarea activității de producere a semințelor germinate de către unitatea..................., reprezentant legal al unității..............................., și se retrage Autorizația pentru siguranța alimentelor nr...... din data de............................
+Reluarea activității se efectuează la solicitarea reprezentantului legal al unității, după remedierea deficiențelor, asigurarea condițiilor privind siguranța alimentelor sanitare veterinare de funcționare și obținerea autorizației pentru siguranța alimentelor conform prevederilor legislației în vigoare.
+Nerespectarea prezentelor măsuri atrage, după caz, sancționarea contravențională sau penală, conform prevederilor legislative în vigoare.
+Director executiv,....................................... (semnătura, ștampila)
+Reprezentantul legal al operatorului economic,.................................................... (semnătura, ștampila)
+----

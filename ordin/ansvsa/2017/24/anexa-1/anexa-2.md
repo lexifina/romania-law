@@ -1,0 +1,9 @@
+# Anexa nr. 2 la norma pentru siguranța alimentelor
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR
+Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor............................................................................................
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR
+Direcția Generală...................
+În atenția domnului director general......................
+În urma efectuării controlului de către reprezentanții Direcției Sanitar-Veterinare și pentru Siguranța Alimentelor.................... la unitatea aparținând.............................. din localitatea.................., str................... nr......, sectorul..............., codul......................., județul............., în baza Solicitării înregistrate la Direcția Sanitar-Veterinară și pentru Siguranța Alimentelor................................ cu nr...... din data de............... privind acordarea autorizației pentru unitatea:.............................., s-a constatat că unitatea îndeplinește condițiile privind siguranța alimentelor, cu respectarea prevederilor anexei la Regulamentul UE nr. 210/2013 al Comisiei din 11 martie 2013 privind aprobarea unităților care produc germeni în conformitate cu Regulamentul (CE) nr. 852/2004 al Parlamentului European și al Consiliului și cerințele aplicabile prevăzute în anexa 1 a Regulamentului Parlamentului European și al Consiliului Uniunii Europene nr. 852/2004/CE privind igiena produselor alimentare.
+În conformitate cu prevederile legislației în vigoare privind procedura de autorizare a unităților producătoare de semințe germinate, vă rugăm să ne comunicați numărul de autorizare pentru unitatea menționată mai sus.
+Director executiv,............................................ (semnătura, ștampila)
