@@ -1,0 +1,394 @@
+{
+ "key": "iccj-ril-1-2017",
+ "label": "Decizia ÎCCJ nr. 1/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2017-01-30",
+ "year": "2017",
+ "heading": "DECIZIA nr. 1 din 30 ianuarie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 85 alin. (2) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, art. 115 alin. (1) lit. a) și art. 133 alin. (1) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare, și art. 10 alin. (3) din Hotărârea Guvernului nr. 1.437/2004 privind organizarea și metodologia de funcționare a comisiei pentru protecția copilului, raportate la art. 2 alin. (1) lit. b), c) și f), art. 8 alin. (1) și art. 10 alin. (1) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "223",
+  "bis": false,
+  "date": "2017-03-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "21/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.437/2004",
+    "number": "1437",
+    "year": "2004",
+    "path": "hg/2004/1437"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 85 alin. (2) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, art. 115 alin. (1) lit. a) și art. 133 alin. (1) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare, și art. 10 alin. (3) din Hotărârea Guvernului nr. 1.437/2004 privind organizarea și metodologia de funcționare a comisiei pentru protecția copilului, raportate la art. 2 alin. (1) lit. b), c) și f), art. 8 alin. (1) și art. 10 alin. (1) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, competența de soluționare în primă instanță a litigiilor având ca obiect anularea hotărârilor comisiei pentru protecția copilului de încadrare în grad și tip de handicap a copilului cu dizabilități revine tribunalelor - secțiile de contencios administrativ/completele specializate în materia contenciosului administrativ.",
+  "Obligatorie, potrivit art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.437/2004",
+    "number": "1437",
+    "year": "2004",
+    "path": "hg/2004/1437"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90-2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 40/2016",
+    "number": "40",
+    "year": "2016",
+    "path": "oug/2016/40"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-03-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187867",
+  "text_sha256": "f6a7ec79c365bade9024982feea5bd752dce99f4b38bbb895e2cb45d8d4abf82",
+  "catalogue_sha256": "f6a7ec79c365bade9024982feea5bd752dce99f4b38bbb895e2cb45d8d4abf82",
+  "fetched": "2026-11-03T03:22:47Z",
+  "chars": 49796,
+  "portal_id": "187867",
+  "tip": "DECIZIE"
+ }
+}
