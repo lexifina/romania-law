@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-361-14-hotarare-2017-04-05",
+ "label": "CJUE, Hotărârea Tribunalului (Camera întâi) din 5 aprilie 2017, Cauza T-361/14",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2017-04-05",
+ "year": "2017",
+ "case": "Cauza T-361/14",
+ "celex": "62014TJ0361",
+ "ecli": "ECLI:EU:T:2017:252",
+ "heading": "Hotărârea Tribunalului (Camera întâi) din 5 aprilie 2017",
+ "formation": "CHAMB_01_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Drept instituțional – Inițiativă cetățenească europeană – Protecția animalelor fără stăpân – Efecte psihologice asupra adulților și a copiilor – Refuz de înregistrare – Lipsă vădită a unor competențe ale Comisiei – Articolul 4 alineatul (2) litera (b) și alineatul (3) din Regulamentul (UE) nr. 211/2011",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62014TJ0361",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-361/14&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
