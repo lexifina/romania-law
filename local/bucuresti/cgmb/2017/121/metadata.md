@@ -1,0 +1,11 @@
+# HCGMB nr. 121/2017
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 121/2017
+- Adopted: 2017-04-05
+- Title: PRIVIND REPARTIZAREA PE SECTORELE MUNICIPIULUI BUCURESTI A SUMELOR DIN COTELE DEFALCATE DIN IMPOZITUL PE VENIT PENTRU ECHILIBRAREA BUGETELOR LOCALE PENTRU ACHITAREA ARIERATELOR PROVENITE DIN NEPLATA CHELTUIELILOR DE FUNCTIONARE SI/SAU DE CAPITAL IN ORDINEA CRONOLOGICA A VECHIMII ARIERATELOR SI PENTRU SUSTINEREA PROGRAMELOR DE DEZVOLTARE LOCALA SI A PROIECTELOR DE INFRASTRUCTURA CARE NECESITA COFINANTARE LOCALA PE ANUL 2017
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36631
+- Document: https://doc.pmb.ro/legis/acteinterne/2017/36631/H121_17.pdf
+- Document sha256: ef582aab13a14a73dc446747bb81050284b341026398cf034595fd528318ff41
