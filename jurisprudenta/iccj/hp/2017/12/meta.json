@@ -1,0 +1,329 @@
+{
+ "key": "iccj-hp-12-2017",
+ "label": "Decizia ÎCCJ nr. 12/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2017-02-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 12 din 27 februarie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiuni de drept privind aplicabilitatea dispozițiilor art. 98 lit. f) teza a II-a din Legea nr. 188/1999 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "233",
+  "bis": false,
+  "date": "2017-04-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.776/1/2016",
+  "3.498/100/2015",
+  "8.275/182/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1968",
+    "number": "15",
+    "year": "1968",
+    "path": "lege/1968/15"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a de contencios administrativ și fiscal, în Dosarul nr. 3.498/100/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept",
+  "Aplicabilitatea dispozițiilor art. 98 lit. f) teza a II-a din Legea nr. 188/1999 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare, forma în vigoare la data de 28 decembrie 2012 - ce vizează încetarea de drept a raportului de serviciu - în caz de condamnare prin hotărâre judecătorească definitivă pentru o altă faptă decât cele prevăzute de art. 54 lit. h) din aceeași lege la o sancțiune privativă de libertate cu suspendarea condiționată a executării pedepsei, cu aplicarea art. 81-82 din Legea nr. 15/1968 privind Codul penal al României, republicată, cu modificările și completările ulterioare, respectiv cu executarea în alte condiții decât cele prevăzute de art. 57 alin. (1) din Codul penal din 1969",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 15/1968",
+    "number": "15",
+    "year": "1968",
+    "path": "lege/1968/15"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1999",
+    "number": "18",
+    "year": "1999",
+    "path": "lege/1999/18"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/187945",
+  "text_sha256": "ebb1046f64416f73a47d3dd14f567c6ad8c2afed901229664b35a525044c324f",
+  "catalogue_sha256": "ebb1046f64416f73a47d3dd14f567c6ad8c2afed901229664b35a525044c324f",
+  "fetched": "2026-11-03T03:22:42Z",
+  "chars": 42978,
+  "portal_id": "187945",
+  "tip": "DECIZIE"
+ }
+}
