@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-9-2017",
+ "label": "Decizia ÎCCJ nr. 9/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "9",
+ "date": "2017-02-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 9 din 20 februarie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile cu privire la drepturile acordate în temeiul art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanţă, aprobată cu modificări şi completări prin Legea nr. 94/2014, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "246",
+  "bis": false,
+  "date": "2017-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.317/1/2016",
+  "1.217/111/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea - Secţia a II-a civilă, de contencios administrativ şi fiscal în Dosarul nr. 1.217/111/2015 în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "I. Dacă în sfera destinatarilor drepturilor acordate în temeiul art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanţă, aprobată cu modificări şi completări prin Legea nr. 94/2014, cu modificările şi completările ulterioare - forma iniţială a reglementării - este inclus numai personalul contractual ori sunt incluşi şi funcţionarii publici, respectiv funcţionarii publici cu statut special;",
+  "II. Dacă noţiunea de „funcţionar public“ la care face referire art. 1 alin. (2) din Ordonanţa de urgenţă a Guvernului nr. 8/2009, astfel cum a fost modificat prin Legea nr. 173/2015 privind aprobarea Ordonanţei Guvernului nr. 8/2014 pentru modificarea unor termene prevăzute în Ordonanţa de urgenţă a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanţă, include şi funcţionarii publici cu statut special. Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 94/2014",
+    "number": "94",
+    "year": "2014",
+    "path": "lege/2014/94"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 173/2015",
+    "number": "173",
+    "year": "2015",
+    "path": "lege/2015/173"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 142/1998",
+    "number": "142",
+    "year": "1998",
+    "path": "lege/1998/142"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăţilor nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188055",
+  "text_sha256": "3939506bb4cdcba49b3c647a518e9352900a05588b9029454937fb51ffd9027e",
+  "catalogue_sha256": "3939506bb4cdcba49b3c647a518e9352900a05588b9029454937fb51ffd9027e",
+  "fetched": "2026-11-03T03:22:32Z",
+  "chars": 78902,
+  "portal_id": "188055",
+  "tip": "DECIZIE"
+ }
+}
