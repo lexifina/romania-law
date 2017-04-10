@@ -1,0 +1,126 @@
+{
+ "key": "iccj-ril-3-2017",
+ "label": "Decizia ÎCCJ nr. 3/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "3",
+ "date": "2017-03-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 3 din 6 martie 2017",
+ "subtitle": "referitoarea la interpretarea unitară a dispoziţiilor art. 324 alin. 1 pct. 3 teza a doua din Codul de procedură civilă de la 1865",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "245",
+  "bis": false,
+  "date": "2017-04-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "23/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curţii de Apel Cluj.",
+  "În interpretarea unitară a dispoziţiilor art. 324 alin. 1 pct. 3 teza a doua din Codul de procedură civilă de la 1865 stabileşte că momentul de la care începe să curgă termenul de revizuire de o lună îl constituie data la care partea a luat cunoştinţă, în orice mod, de împrejurările pentru care constatarea infracţiunii nu se mai poate face printr-o hotărâre penală.",
+  "Această dată nu poate depăşi intervalul de 3 ani de la data producerii împrejurărilor sus-menţionate.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "511",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188064",
+  "text_sha256": "cda856850c44ce46cdb00e349959d8cfaef47cd5f82fece14316d57cde328078",
+  "catalogue_sha256": "cda856850c44ce46cdb00e349959d8cfaef47cd5f82fece14316d57cde328078",
+  "fetched": "2026-11-03T03:22:32Z",
+  "chars": 33377,
+  "portal_id": "188064",
+  "tip": "DECIZIE"
+ }
+}
