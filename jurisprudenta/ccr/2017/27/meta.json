@@ -1,0 +1,247 @@
+{
+ "key": "dcc-27-2017",
+ "label": "Decizia CCR nr. 27/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "27",
+ "date": "2017-01-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 27 din 19 ianuarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 209 alin. (16) şi art. 265 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "270",
+  "bis": false,
+  "date": "2017-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "173/59/2016",
+  "154D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "209",
+     "alin": [
+      "16"
+     ],
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 265 din Codul de procedură penală, excepţie ridicată de Sorin-Petru Muntean în Dosarul nr. 173/59/2016 al Curţii de Apel Timişoara - Secţia penală.",
+  "2. Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de acelaşi autor în acelaşi dosar al aceleiaşi instanţe şi constată că dispoziţiile art. 209 alin. (16) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Timişoara - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": [
+      "16"
+     ],
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188393",
+  "text_sha256": "b9e771fc6c91a3e476eda93814ba67e9100559887041206bf2ea3b9f7bb72a79",
+  "catalogue_sha256": "b9e771fc6c91a3e476eda93814ba67e9100559887041206bf2ea3b9f7bb72a79",
+  "fetched": "2026-11-03T03:22:11Z",
+  "chars": 24616,
+  "portal_id": "188393",
+  "tip": "DECIZIE"
+ }
+}
