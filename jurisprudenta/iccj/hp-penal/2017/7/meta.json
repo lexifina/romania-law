@@ -1,0 +1,369 @@
+{
+ "key": "iccj-hp-penal-7-2017",
+ "label": "Decizia ÎCCJ nr. 7/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "7",
+ "date": "2017-03-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 7 din 15 martie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „dacă, în aplicarea dispoziţiilor art. 41 alin. 1 din Codul penal, la stabilirea stării de recidivă postexecutorie se are în vedere ca prim termen al recidivei pedeapsa stabilită prin cumul, potrivit art. 83 din Codul penal din 1969 (art. 96 raportat la art. 43 din Codul penal), sau pedepsele componente ale pluralităţii de infracţiuni constatate“",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "269",
+  "bis": false,
+  "date": "2017-04-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1/1/2017",
+  "54/244/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iaşi - Secţia penală şi pentru cauze cu minori în Dosarul nr. 54/244/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „dacă, în aplicarea dispoziţiilor art. 41 alin. 1 din Codul penal, la stabilirea stării de recidivă postexecutorie se are în vedere ca prim termen al recidivei pedeapsa stabilită prin cumul, potrivit art. 83 din Codul penal din 1969 (art. 96 raportat la art. 43 din Codul penal), sau pedepsele componente ale pluralităţii de infracţiuni constatate“.",
+  "În aplicarea dispoziţiilor art. 41 alin. 1 din Codul penal, la stabilirea stării de recidivă postexecutorie se are în vedere, ca prim termen al recidivei, pedeapsa stabilită prin cumul, potrivit art. 83 din Codul penal anterior (art. 96 raportat la art. 43 din Codul penal).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 82
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "447",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 286/2006",
+    "number": "286",
+    "year": "2006",
+    "path": "lege/2006/286"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188389",
+  "text_sha256": "c3638634169698831e066af5a804fc60224fa089de0446d3229c3e081ecab478",
+  "catalogue_sha256": "c3638634169698831e066af5a804fc60224fa089de0446d3229c3e081ecab478",
+  "fetched": "2026-11-03T03:22:11Z",
+  "chars": 70077,
+  "portal_id": "188389",
+  "tip": "DECIZIE"
+ }
+}
