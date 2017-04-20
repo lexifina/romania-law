@@ -1,0 +1,109 @@
+{
+ "key": "cedo-2337-04-2016-10-20",
+ "label": "CEDO, Teică şi alţii c. României, 2016-10-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-10-20",
+ "year": "2016",
+ "heading": "HOTĂRÂREA din 20 octombrie 2016",
+ "subtitle": "în Cauza Teică şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "278",
+  "bis": false,
+  "date": "2017-04-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "2337/04",
+  "26485/04",
+  "28121/04",
+  "40757/06",
+  "48595/10"
+ ],
+ "case_name": "Teică şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. declară capetele de cerere formulate de reclamanţii S.C. Alma Bucovina - S.R.L. (în Cererea nr. 26.485/04), S.C. T &amp; G Trading - S.R.L. (în Cererea nr. 28.121/04), Florian Miţoi (cu privire la perioada 13 iunie 2001-25 martie 2005, în Cererea nr. 40.757/06) şi Federalcoop Constanţa (cu privire la perioada 26 aprilie 2001-21 ianuarie 2011, în Cererea nr. 48.595/10) inadmisibile;",
+  "3. declară celelalte capete de cerere referitoare la durata excesivă a procedurilor civile admisibile şi restul cererilor inadmisibile;",
+  "4. hotărăşte că în privinţa acestor capete de cerere a avut loc o încălcare a art. 6 §1 din Convenţie referitoare la durata excesivă a procedurilor civile;",
+  "5. hotărăşte: a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni, sumele indicate în tabelul anexat, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata de împrumut marginal practicată de Banca Centrală Europeană pe parcursul perioadei de neplată, majorată cu trei puncte procentuale;",
+  "6. respinge restul cererilor de acordare a unei reparaţii echitabile formulate de reclamanţi."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188457",
+  "text_sha256": "3966f70dc414118b73a82985137db3df4916133d88e1189c2952740554303cc3",
+  "catalogue_sha256": "3966f70dc414118b73a82985137db3df4916133d88e1189c2952740554303cc3",
+  "fetched": "2026-11-03T03:22:05Z",
+  "chars": 22177,
+  "portal_id": "188457",
+  "tip": "HOTĂRÂRE"
+ }
+}
