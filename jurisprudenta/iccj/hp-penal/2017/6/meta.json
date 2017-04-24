@@ -1,0 +1,405 @@
+{
+ "key": "iccj-hp-penal-6-2017",
+ "label": "Decizia ÎCCJ nr. 6/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "6",
+ "date": "2017-02-28",
+ "year": "2017",
+ "heading": "DECIZIE nr. 6 din 28 februarie 2017",
+ "subtitle": "referitoare la interpretarea dispoziţiilor art. 253^1 din Codul penal din 1969, în sensul de a lămuri dacă intră sub incidenţa Deciziei Curţii Constituţionale nr. 603 din 6 octombrie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 845 din 13 noiembrie 2015",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETULUI PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2017-04-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4.056/1/2016",
+  "9.694/55/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "253-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "301",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timişoara - Secţia penală în Dosarul nr. 9.694/55/2015, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Interpretarea dispoziţiilor art. 253^1 din Codul penal din 1969, în sensul de a lămuri dacă intră sub incidenţa Deciziei Curţii Constituţionale nr. 603 din 6 octombrie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 845 din 13 noiembrie 2015 [prin care s-a constatat că sintagma «raporturi comerciale» din cuprinsul dispoziţiilor art. 301 alin. (1) din Codul penal este neconstituţională], fiind dezincriminată, fapta funcţionarului public care, în exerciţiul atribuţiilor de serviciu, a îndeplinit un act ori a participat la luarea unei decizii prin care s-a realizat, direct sau indirect, un folos material pentru o altă persoană cu care s-a aflat în raporturi comerciale în sensul art. 253^1 din Codul penal din 1969, în situaţia în care atât actul sau decizia funcţionarului public, cât şi raporturile comerciale cu beneficiarul au avut loc anterior datei de 1.10.2011 când a intrat în vigoare Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, când noţiunea de «raport comercial» avea un înţeles normativ determinat şi determinabil prin prisma dispoziţiilor Codului comercial, cum s-a stabilit în paragraful 20 din Decizia Curţii Constituţionale nr. 603 din 6 octombrie 2015“ şi stabileşte:",
+  "Fapta funcţionarului public care, în exercitarea atribuţiilor de serviciu, a îndeplinit un act ori a participat la luarea unei decizii prin care s-a obţinut, direct sau indirect, un folos patrimonial pentru o persoană cu care s-a aflat în raporturi comerciale intră sub incidenţa Deciziei Curţii Constituţionale nr. 603 din 6 octombrie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 845 din 13 noiembrie 2015, fiind dezincriminată, indiferent de data îndeplinirii actului ori a participării la luarea deciziei şi indiferent de data raporturilor comerciale.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "253-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "301",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţia României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2557",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 79/2011",
+    "number": "79",
+    "year": "2011",
+    "path": "oug/2011/79"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "280-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188509",
+  "text_sha256": "10351c6f84c1b29822b2e0353024d911749a39341d173a0266cb2b1e82dab934",
+  "catalogue_sha256": "10351c6f84c1b29822b2e0353024d911749a39341d173a0266cb2b1e82dab934",
+  "fetched": "2026-11-03T03:22:02Z",
+  "chars": 60559,
+  "portal_id": "188509",
+  "tip": "DECIZIE"
+ }
+}
