@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-17-2017",
+ "label": "Decizia ÎCCJ nr. 17/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "17",
+ "date": "2017-03-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 17 din 13 martie 2017",
+ "subtitle": "referitoare la interpretarea şi aplicarea dispoziţiilor art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare şi modificarea unor acte normative",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "292",
+  "bis": false,
+  "date": "2017-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.774/1/2016",
+  "4.190/109/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Piteşti - Secţia a II-a civilă, de contencios administrativ şi fiscal în Dosarul nr. 4.190/109/2015, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Interpretarea şi aplicarea dispoziţiilor art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare şi modificarea unor acte normative situaţiei în care agentul economic a achitat taxa de autorizare înainte de termenele prevăzute de dispoziţiile art. 14 alin. (2) lit. b) pct. (v) B din Ordonanţa de urgenţă a Guvernului nr. 77/2009 privind organizarea şi exploatarea jocurilor de noroc, aprobată cu modificări şi completări prin Legea nr. 246/2010, cu modificările şi completările ulterioare, şi înainte de intrarea în vigoare a Ordonanţei de urgenţă a Guvernului nr. 92/2014 şi a Legii nr. 124/2015",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "II",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţei de urgenţă a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188545",
+  "text_sha256": "b32a1fccc25d5c6bfac9cd9894ab167f5d75960bc022452f5e6c2d6a5660b029",
+  "catalogue_sha256": "b32a1fccc25d5c6bfac9cd9894ab167f5d75960bc022452f5e6c2d6a5660b029",
+  "fetched": "2026-11-03T03:22:00Z",
+  "chars": 33068,
+  "portal_id": "188545",
+  "tip": "DECIZIE"
+ }
+}
