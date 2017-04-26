@@ -1,0 +1,172 @@
+{
+ "key": "dcc-31-2017",
+ "label": "Decizia CCR nr. 31/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "31",
+ "date": "2017-01-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 31 din 19 ianuarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 346 alin. (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "294",
+  "bis": false,
+  "date": "2017-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.008/84/2015",
+  "224D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Claudia Hosu în Dosarul nr. 2.008/84/2015 al Tribunalului Sălaj - Secţia penală şi constată că dispoziţiile art. 346 alin. (7) din Codul de procedură penală sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Sălaj - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188565",
+  "text_sha256": "a6c16eb257b2486555dd227830ae0b3057b4072f92cda885921b7d2eeb5458a0",
+  "catalogue_sha256": "a6c16eb257b2486555dd227830ae0b3057b4072f92cda885921b7d2eeb5458a0",
+  "fetched": "2026-11-06T03:23:22Z",
+  "chars": 9086,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/188565",
+   "timestamp": "20250910225939",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533122.47/warc/CC-MAIN-20250910224025-20250911014025-00109.warc.gz",
+   "offset": "293624766",
+   "length": "15840",
+   "sha256": "fc28d33df697953acbcbe49a7df5c2fa13d5d46f0000a5b580c42ec4b141c7b7"
+  },
+  "portal_id": "188565",
+  "tip": "DECIZIE"
+ }
+}
