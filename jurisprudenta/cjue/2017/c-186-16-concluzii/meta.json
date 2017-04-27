@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-186-16-concluzii-2017-04-27",
+ "label": "CJUE, Concluziile avocatului general N. Wahl prezentate la 27 aprilie 2017, Cauza C-186/16.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2017-04-27",
+ "year": "2017",
+ "case": "Cauza C-186/16.",
+ "celex": "62016CC0186",
+ "ecli": "ECLI:EU:C:2017:313",
+ "heading": "Concluziile avocatului general N. Wahl prezentate la 27 aprilie 2017",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Oradea.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția consumatorilor – Directiva 93/13/CEE – Clauze abuzive în contractele încheiate cu consumatorii – Articolul 3 alineatul (1) și articolul 4 alineatul (2) – Aprecierea caracterului abuziv al clauzelor contractuale – Contract de credit încheiat într‑o monedă străină – Risc de schimb valutar în sarcina exclusivă a consumatorului – Dezechilibru semnificativ între drepturile și obligațiile părților care decurg din contract – Momentul la care trebuie apreciată existența dezechilibrului – Conținutul noțiunii de clauze „exprimate în mod clar și inteligibil” – Nivelul de informare care trebuie furnizat de bancă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CC0186",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-186/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/7d8345e0-2b37-11e7-9412-01aa75ed71a1.0006.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "09cb99b0f18cd3ec02e68dfc85f5d7ec046f30b44a0207a4f98629befc8bdb43"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
