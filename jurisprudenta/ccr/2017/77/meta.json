@@ -1,0 +1,183 @@
+{
+ "key": "dcc-77-2017",
+ "label": "Decizia CCR nr. 77/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "77",
+ "date": "2017-02-28",
+ "year": "2017",
+ "heading": "DECIZIA nr. 77 din 28 februarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 9 alin. (1) lit. d) şi q) din Ordonanţa de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "303",
+  "bis": false,
+  "date": "2017-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "770/44/2015",
+  "453D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 9 alin. (1) lit. d) şi q) din Ordonanţa de urgenţă a Guvernului nr. 196/2005 privind Fondul pentru mediu, excepţie ridicată de SUD EST GROUP - S.R.L. din Brăila în Dosarul nr. 770/44/2015 al Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Curţii de Apel Galaţi - Secţia contencios administrativ şi fiscal şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "q"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului mediului şi gospodăririi apelor nr. 578/2006",
+    "number": "578",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/188638",
+  "text_sha256": "8627cbb0a2d73275a16a5bf7b0cd15ee3d95c6f952ff433a7ec653d7600a15c2",
+  "catalogue_sha256": "8627cbb0a2d73275a16a5bf7b0cd15ee3d95c6f952ff433a7ec653d7600a15c2",
+  "fetched": "2026-11-06T00:44:03Z",
+  "chars": 14415,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406111222/https://legislatie.just.ro/Public/DetaliiDocumentAfis/188638",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/188638",
+   "timestamp": "20250406111222",
+   "sha256": "e59ff51ed38bcc38f31dd2a107bdf8ab9fae3fe487ec3473d2b08ad9b0f3fc25"
+  },
+  "portal_id": "188638",
+  "tip": "DECIZIE"
+ }
+}
