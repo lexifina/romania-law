@@ -1,0 +1,265 @@
+{
+ "key": "dcc-29-2017",
+ "label": "Decizia CCR nr. 29/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "29",
+ "date": "2017-01-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 29 din 19 ianuarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 340 alin. (1) şi (2) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "320",
+  "bis": false,
+  "date": "2017-05-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.604/93/2015",
+  "180D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 340 alin. (1) şi (2) din Codul de procedură penală, excepţie ridicată de Cecilia Jabre şi Amer Jabre în Dosarul nr. 2.604/93/2015 al Tribunalului Ilfov - Secţia penală.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Ilfov - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189004",
+  "text_sha256": "379027e4899a73730e5dca2824ce1913c79d33adf494641a9dd9d70f10ee40ed",
+  "catalogue_sha256": "379027e4899a73730e5dca2824ce1913c79d33adf494641a9dd9d70f10ee40ed",
+  "fetched": "2026-11-03T03:21:39Z",
+  "chars": 21122,
+  "portal_id": "189004",
+  "tip": "DECIZIE"
+ }
+}
