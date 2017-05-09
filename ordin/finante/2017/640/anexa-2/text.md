@@ -1,0 +1,17 @@
+# Anexa nr. 2
+MODIFICĂRI ȘI COMPLETĂRI la Normele metodologice privind organizarea și conducerea contabilității instituțiilor publice, Planul de conturi pentru instituțiile publice și instrucțiunile de aplicare a acestuia, aprobate prin Ordinul ministrului finanțelor publice nr. 1.917/2005
+I.
+CAPITOLUL VI: „ Planul de conturi general pentru instituții publice” se completează astfel: La clasa 3 „Conturi de stocuri și producție în curs de execuție”, grupa 39 „Ajustări pentru deprecierea stocurilor și producției în curs de execuție”, după contul sintetic de gradul III 3920200 „Ajustări pentru deprecierea materialelor de natura obiectelor de inventar” se introduce contul sintetic de gradul II 39203 „Ajustări pentru deprecierea materialelor rezervă de stat și de mobilizare” și contul sintetic de gradul III 3920300 „Ajustări pentru deprecierea materialelor rezervă de stat și de mobilizare”.
+II.
+CAPITOLUL VIII „Monografia privind înregistrarea în contabilitate a principalelor operațiuni” se modifică astfel: La punctul V „Conturi de trezorerie” se elimină asteriscul și nota aferentă acestuia de la pct. 6. „Sumele reprezentând venituri ale bugetelor locale, venituri proprii ale instituțiilor publice sau venituri cuvenite altor bugete, achitate prin intermediul cardurilor bancare la terminale de plată electronice instalate la sediile instituțiilor publice beneficiare”, referitoare la completarea formularelor prevăzute în anexele nr. 5, 9 și 12 la situațiile financiare.
+III.
+Anexa nr. 2 „Dezvoltarea conturilor sintetice în conturi analitice în scop de raportare a Balanței de verificare la Ministerul Finanțelor Publice” se modifică și se completează astfel: 1.
+Contul 3920300 „Ajustări pentru deprecierea materialelor rezervă de stat și de mobilizare” se dezvoltă în analitic pe cod sector și sursă de finanțare.
+2.
+Conturile 6270000 „Cheltuieli cu serviciile bancare și asimilate”, 6290100 „Alte cheltuieli autorizate prin dispoziții legale - cheltuieli curente” și 7660000 „Venituri din dobânzi”: - se dezvoltă în analitic pe clasificația funcțională și economică a cheltuielilor în situația în care sumele sunt cuprinse în bugetul instituției;
+- nu se dezvoltă în analitic pe clasificația funcțională și economică a cheltuielilor, pentru sumele care nu sunt cuprinse în buget (de exemplu: sumele aferente operațiunilor Trezoreriei Centrale).
+3.
+Contul 7180000 „Alte venituri ale trezoreriei statului” nu se dezvoltă în analitic pe clasificația veniturilor, pentru sumele care nu sunt cuprinse în buget, aferente operațiunilor Trezoreriei Centrale.
+4.
+Conturile în afara bilanțului 8060000 „Credite bugetare aprobate”, 8066000 „Angajamente bugetare”, 8067000 „Angajamente legale”, 8071000 „Credite de angajament aprobate” și 8072000 „Credite de angajament angajate”: - se dezvoltă în analitic pe clasificația funcțională și economică a cheltuielilor în situația în care sumele sunt cuprinse în bugetul instituției;
+- nu se dezvoltă în analitic pe clasificația funcțională și economică a cheltuielilor, în situația în care sumele nu sunt cuprinse în buget (de exemplu: sumele provenite din fonduri externe nerambursabile aflate în conturile de disponibilități ale autorităților de management, operator de program, autoritate națională și alte sume gestionate prin conturi de disponibilități, în condițiile legii, de către instituții publice și pentru care nu sunt aprobate bugete de venituri și cheltuieli).
