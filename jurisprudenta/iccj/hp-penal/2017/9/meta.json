@@ -1,0 +1,476 @@
+{
+ "key": "iccj-hp-penal-9-2017",
+ "label": "Decizia ÎCCJ nr. 9/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "9",
+ "date": "2017-03-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 9 din 15 martie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „dacă art. 10 alin. 1 din Legea nr. 241/2005, în forma în vigoare până la data 1 februarie 2014, reglementează o cauză de nepedepsire/reducere a limitelor de pedeapsă cu caracter real sau personal“",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "346",
+  "bis": false,
+  "date": "2017-05-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "71/1/2017",
+  "9.131/2/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Înalta Curte de Casaţie şi Justiţie, Secţia penală, în Dosarul nr. 9.131/2/2011*, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „dacă art. 10 alin. 1 din Legea nr. 241/2005, în forma în vigoare până la data 1 februarie 2014, reglementează o cauză de nepedepsire/reducere a limitelor de pedeapsă cu caracter real sau personal“.",
+  "Stabileşte că dispoziţiile art. 10 alin. 1 din Legea nr. 241/2005, în forma în vigoare până la data 1 februarie 2014, reglementează o cauză de nepedepsire/reducere a limitelor de pedeapsă cu caracter personal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. 3 din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86-3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "86-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "74-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i-1"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189175",
+  "text_sha256": "57d3ffbcdee8b57f32ecffbb72588fcb54da31407ed4458f5a250d38e8e95a6e",
+  "catalogue_sha256": "57d3ffbcdee8b57f32ecffbb72588fcb54da31407ed4458f5a250d38e8e95a6e",
+  "fetched": "2026-11-03T03:21:25Z",
+  "chars": 84860,
+  "portal_id": "189175",
+  "tip": "DECIZIE"
+ }
+}
