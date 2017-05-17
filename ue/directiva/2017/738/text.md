@@ -1,0 +1,37 @@
+DIRECTIVA (UE) 2017/738 A CONSILIULUI
+din 27 martie 2017
+de modificare, în scopul adaptării la progresul tehnic, a anexei II la Directiva 2009/48/CE a Parlamentului European și a Consiliului privind siguranța jucăriilor, în ceea ce privește plumbul
+(Text cu relevanță pentru SEE)
+CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva 2009/48/CE a Parlamentului European și a Consiliului din 18 iunie 2009 privind siguranța jucăriilor (1), în special articolul 46 alineatul (1) litera (b),
+având în vedere propunerea Comisiei Europene,
+întrucât:
+(1) În ceea ce privește jucăriile sau componentele acestora, Directiva 2009/48/CE stabilește limite de migrare în materialul uscat, în materialul lichid și în materialul răzuit al jucăriilor pentru o serie de elemente, printre care și plumbul. Limitele pentru plumb sunt de 13,5 mg/kg în materialul uscat, 3,4 mg/kg în materialul lichid, respectiv 160 mg/kg în materialul răzuit.
+(2) Limitele menționate se bazează pe recomandările Institutului național olandez pentru sănătate publică și mediu (RIVM), cuprinse în raportul din 2008 intitulat „Substanțe chimice în jucării. O metodologie generală pentru evaluarea siguranței chimice a jucăriilor cu accent pe elemente”. Recomandările RIVM se bazau pe concluzia că expunerea copiilor la plumb nu poate depăși un anumit nivel, numit „doză zilnică tolerabilă”. În respectivul raport s-a stabilit că valoarea toxicologică de referință pentru doza zilnică tolerabilă de plumb este de 3,6 micrograme pe kilogram de greutate corporală.
+(3) Deoarece copiii sunt expuși la plumb și din alte surse în afara jucăriilor, acestora din urmă ar trebui să le fie alocat doar un anumit procent din valoarea toxicologică de referință. În avizul său privind „Assessment of the bioavailability of certain elements in toys”, adoptat la 22 iunie 2004, Comitetul științific pentru toxicitate, ecotoxicitate și mediu a recomandat limitarea la 10 % a contribuției maxime a jucăriilor la doza maximă tolerabilă de plumb. În avizul său privind „Evaluarea limitelor de migrare pentru elemente chimice din jucării”, adoptat la 1 iulie 2010, Comitetul științific pentru riscurile asupra sănătății și mediului (CSRSM) a fost de acord cu abordarea conform căreia absorbția din jucării a plumbului nu ar trebui să depășească 10 % dintr-o valoare de referință bazată pe date toxicologice. În plus, dat fiind că plumbul este considerat deosebit de toxic, Directiva 2009/48/CE a stabilit pentru acest element limite la jumătate din nivelul considerat sigur în conformitate cu criteriile comitetului științific competent, pentru a garanta prezența în jucării doar a unor urme de plumb compatibile cu bunele practici de producție. În consecință, limitele pentru plumb au fost stabilite în respectiva directivă la 5 % din doza zilnică tolerabilă, determinate ca migrare a plumbului din jucării.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (EFSA) a concluzionat că, în cazul plumbului, care este un metal toxic, nu există un prag sub care expunerea la acest element să nu aibă niciun efect critic asupra sănătății. Chiar și o expunere de nivel scăzut la plumb poate provoca neurotoxicitate și anume, leziuni ale sistemului nervos și ale creierului, în special dificultăți de învățare. Prin urmare, în conformitate cu aceste noi cunoștințe publicate de către EFSA, doza zilnică tolerabilă nu ar mai trebui să fie folosită ca valoare toxicologică de referință.
+(5) Conform EFSA, noua valoare toxicologică de referință care ar trebui utilizată la stabilirea limitelor pentru plumb este BMDL01 (benchmark dose limit) referitoare la efectele asupra dezvoltării neurologice. BMDL01 este limita inferioară a intervalului de încredere (95 %) a dozei de referință (benchmark dose) corespunzătoare unui risc suplimentar de 1 % de apariție a unor deficiențe intelectuale la copii, măsurată conform scării complete a coeficientului intelectual (IQ), cu alte cuvinte o scădere cu 1 punct procentual a IQ pe scara respectivă. BMDL01 este echivalentă cu o doză zilnică de plumb de 0,5 micrograme pe kilogram de greutate corporală.
+(6) Comitetul pentru evaluarea riscurilor instituit în cadrul Agenției Europene pentru Produse Chimice a împărtășit avizul EFSA conform căruia BMDL01 reprezintă expunerea maximă tolerabilă la plumb. Având în vedere faptul că nivelul mediu actual al concentrației de plumb în sânge la copiii europeni este de până la patru ori mai mare decât nivelul maxim de expunere tolerabil și întrucât nu se poate stabili niciun prag în ceea ce privește efectele asupra dezvoltării neurologice, orice expunere suplimentară trebuie să fie, pe cât posibil, evitată.
+(7) Aplicând cele mai recente evoluții științifice la metodologia raportului RIVM din 2008 pentru a calcula limitele de siguranță ale elementelor în jucării și aplicând abordarea din Directiva 2009/48/CE la gestionarea riscurilor prezentate de elemente deosebit de toxice, precum plumbul, limitele pentru plumb în jucării stabilite în Directiva 2009/48/CE ar trebui să fie revizuite și ar trebui să fie fixate la o alocare de 5 % din BMDL01, pentru a proteja sănătatea copiilor.
+(8) Potrivit unei erate la Raportul RIVM din 2008, publicată în 2015, cantitățile de material solid și lichid din jucării care se presupune că sunt ingerate de copii, cantități care se bazau pe recomandările pentru valori-limită din raportul RIVM din 2008, ar trebui să fie exprimate ca total săptămânal, în loc de cantități zilnice. CSRSM a susținut ulterior că dozele de ingestie recomandate inițial sunt adecvate și ar trebui să fie exprimate în continuare ca valori zilnice, nu săptămânale, confirmând astfel că metodologia utilizată în Raportul RIVM din 2008 pentru a calcula limitele de siguranță pentru elemente în jucării este corectă. În consecință, metodologia utilizată în Raportul RIVM în 2008 ar trebui să se aplice în continuare în scopul stabilirii limitelor pentru plumb în jucării.
+(9) Prin urmare, Directiva 2009/48/CE ar trebui modificată în consecință.
+(10) Comitetul instituit în temeiul articolului 47 din Directiva 2009/48/CE nu a emis niciun aviz privind măsurile prevăzute în prezenta directivă; prin urmare, Comisia a transmis Consiliului o propunere cu privire la măsurile respective și a înaintat-o, de asemenea, Parlamentului European,
+ADOPTĂ PREZENTA DIRECTIVĂ:
+Articolul 1
+În tabelul din anexa II partea III punctul 13 la Directiva 2009/48/CE, rubrica pentru plumb se înlocuiește cu următorul text:
+„Plumb | 2,0 | 0,5 | 23”
+Articolul 2
+(1) Statele membre adoptă și publică, până cel târziu la 28 octombrie 2018, actele cu putere de lege și actele administrative necesare pentru a se conforma prezentei directive. Statele membre comunică Comisiei textul acestor acte.
+Statele membre aplică aceste dispoziții de la 28 octombrie 2018.
+Atunci când statele membre adoptă aceste dispoziții, acestea cuprind o trimitere la prezenta directivă sau sunt însoțite de o astfel de trimitere la data publicării lor oficiale. Statele membre stabilesc modalitatea de efectuare a acestei trimiteri.
+(2) Statele membre comunică Comisiei textul principalelor dispoziții de drept intern pe care le adoptă în domeniul reglementat de prezenta directivă.
+Articolul 3
+Prezenta directivă intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Articolul 4
+Prezenta directivă se adresează statelor membre.
+Adoptată la Bruxelles, 27 martie 2017.
+Pentru Consiliu
+Președintele
+C. ABELA
+(1) JO L 170, 30.6.2009, p. 1.
