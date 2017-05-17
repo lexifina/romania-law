@@ -1,0 +1,220 @@
+{
+ "key": "dcc-121-2017",
+ "label": "Decizia CCR nr. 121/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "121",
+ "date": "2017-03-09",
+ "year": "2017",
+ "heading": "DECIZIA nr. 121 din 9 martie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 142 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "368",
+  "bis": false,
+  "date": "2017-05-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.782/197/2016/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a dispoziţiilor art. 142 alin. (1) din Codul de procedură penală, excepţie ridicată de Nicolae Cristoloveanu şi Mihai Adrian Panaite în Dosarul nr. 1.782/197/2016/a1 al Judecătoriei Braşov - Secţia penală.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Braşov - Secţia penală şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţiei",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 6/2016",
+    "number": "6",
+    "year": "2016",
+    "path": "oug/2016/6"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-05-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189346",
+  "text_sha256": "e8954f5c8d93a23e33e2633bdfeefa8068112c4207405ea4a118d0fc22e5c771",
+  "catalogue_sha256": "e8954f5c8d93a23e33e2633bdfeefa8068112c4207405ea4a118d0fc22e5c771",
+  "fetched": "2026-11-03T15:50:17Z",
+  "chars": 10080,
+  "portal_id": "189346",
+  "tip": "DECIZIE"
+ }
+}
