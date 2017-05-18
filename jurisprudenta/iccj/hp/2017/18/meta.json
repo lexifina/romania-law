@@ -1,0 +1,159 @@
+{
+ "key": "iccj-hp-18-2017",
+ "label": "Decizia ÎCCJ nr. 18/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2017-03-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 18 din 20 martie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile cu privire la dezlegarea chestiunii de drept ce vizează interpretarea dispoziţiilor art. 24 alin. (1) din Legea nr. 230/2007",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "370",
+  "bis": false,
+  "date": "2017-05-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.946/1/2016",
+  "37.978/299/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bucureşti - Secţia a V-a civilă în Dosarul nr. 37.978/299/2014, în vederea pronunţării unei hotărâri prealabile cu privire la dezlegarea chestiunii de drept ce vizează interpretarea dispoziţiilor art. 24 alin. (1) din Legea nr. 230/2007, respectiv dacă, pentru întrunirea cvorumului necesar adoptării unei hotărâri a asociaţiei de proprietari, raportarea trebuie făcută la numărul de proprietăţi sau la numărul de membri ai condominiului.",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f",
+      "b"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189353",
+  "text_sha256": "7ac3efe9f1a8a010edc9e633284d51466fe1febb5d1cd5fd62bcf328f1714502",
+  "catalogue_sha256": "7ac3efe9f1a8a010edc9e633284d51466fe1febb5d1cd5fd62bcf328f1714502",
+  "fetched": "2026-11-03T03:21:10Z",
+  "chars": 64935,
+  "portal_id": "189353",
+  "tip": "DECIZIE"
+ }
+}
