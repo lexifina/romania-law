@@ -1,0 +1,186 @@
+{
+ "key": "iccj-hp-penal-15-2017",
+ "label": "Decizia ÎCCJ nr. 15/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "15",
+ "date": "2017-04-25",
+ "year": "2017",
+ "heading": "DECIZIA nr. 15 din 25 aprilie 2017",
+ "subtitle": "referitoare la interpretarea dispoziţiilor art. 2 şi art. 3 din Legea nr. 143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "369",
+  "bis": false,
+  "date": "2017-05-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "635/1/2017",
+  "47.050/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bucureşti, Secţia a II-a penală, în Dosarul nr. 47.050/3/2015*/a10 (2.344/2016), prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă acţiunea unică continuă de transport a drogurilor de risc/mare risc, pe teritoriul altui stat şi ulterior pe teritoriul României, poate constitui elementul material al infracţiunilor prevăzute de art. 2 şi 3 din Legea nr. 143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri, în concurs ideal, sau infracţiunea unică prevăzută de art. 3 din aceeaşi lege“, şi stabileşte:",
+  "În interpretarea dispoziţiilor art. 2 şi art. 3 din Legea nr. 143/2000 privind prevenirea şi combaterea traficului şi consumului ilicit de droguri, republicată, cu modificările şi completările ulterioare, acţiunea unică continuă de transport al drogurilor pe teritoriul unui stat străin şi pe teritoriul României, fără drept, întruneşte atât elementele constitutive ale infracţiunii prevăzute în art. 2 din Legea nr. 143/2000, cât şi elementele constitutive ale infracţiunii prevăzute în art. 3 din acelaşi act normativ, în concurs formal (ideal).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 114
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189358",
+  "text_sha256": "40386180748cc7ecc25a91a71e3c505116ba7a24e9d874d9d32c2c3aa927de22",
+  "catalogue_sha256": "40386180748cc7ecc25a91a71e3c505116ba7a24e9d874d9d32c2c3aa927de22",
+  "fetched": "2026-11-03T03:21:10Z",
+  "chars": 64736,
+  "portal_id": "189358",
+  "tip": "DECIZIE"
+ }
+}
