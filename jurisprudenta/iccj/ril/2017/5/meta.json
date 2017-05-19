@@ -1,0 +1,346 @@
+{
+ "key": "iccj-ril-5-2017",
+ "label": "Decizia ÎCCJ nr. 5/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2017-03-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 5 din 20 martie 2017",
+ "subtitle": "referitoare la interpretarea şi aplicarea unitară a dispoziţiilor art. 485 alin. (1) lit. b) teza I din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "375",
+  "bis": false,
+  "date": "2017-05-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "26/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "485",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casaţie şi Justiţie şi, în consecinţă:",
+  "În interpretarea şi aplicarea unitară a dispoziţiilor art. 485 alin. (1) lit. b) teza I din Codul de procedură penală stabileşte că:",
+  "Retragerea de către inculpat, în faţa instanţei de judecată, a consimţământului valabil exprimat în cursul urmăririi penale, în condiţiile art. 482 lit. g) din Codul de procedură penală, nu constituie temei pentru respingerea acordului de recunoaştere a vinovăţiei.",
+  "Obligatorie, potrivit dispoziţiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "485",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "478",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": [
+      "h",
+      "g"
+     ]
+    },
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "484",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "320-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "413",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189386",
+  "text_sha256": "ca352e78a5918dcc61ff51298b397ac23db477d058c018c2e4ee4cb5eef0b416",
+  "catalogue_sha256": "ca352e78a5918dcc61ff51298b397ac23db477d058c018c2e4ee4cb5eef0b416",
+  "fetched": "2026-11-03T03:21:08Z",
+  "chars": 53466,
+  "portal_id": "189386",
+  "tip": "DECIZIE"
+ }
+}
