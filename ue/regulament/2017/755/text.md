@@ -1,0 +1,55 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/755 AL COMISIEI
+din 28 aprilie 2017
+de reînnoire a aprobării substanței active mezosulfuron în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, precum și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 20 alineatul (1),
+întrucât:
+(1) Directiva 2003/119/CE a Comisiei (2) a inclus substanța activă mezosulfuron ca substanță activă în anexa I la Directiva 91/414/CEE a Consiliului (3).
+(2) Substanțele active incluse în anexa I la Directiva 91/414/CEE se consideră a fi fost aprobate în temeiul Regulamentului (CE) nr. 1107/2009 și sunt enumerate în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (4).
+(3) Aprobarea substanței active mezosulfuron, în condițiile stabilite în partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011, expiră la 31 ianuarie 2018.
+(4) O cerere de reînnoire a aprobării substanței mezosulfuron a fost transmisă în conformitate cu articolul 1 din Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (5) în termenul prevăzut la articolul respectiv.
+(5) Solicitantul a transmis dosarele suplimentare necesare în conformitate cu articolul 6 din Regulamentul de punere în aplicare (UE) nr. 844/2012. Statul membru raportor a constatat că cererea era completă.
+(6) Statul membru raportor, în colaborare cu statul membru coraportor, a întocmit un raport de evaluare a reînnoirii, pe care l-a transmis, la data de 5 octombrie 2015, Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) și Comisiei.
+(7) Autoritatea a transmis solicitantului și statelor membre raportul de evaluare a reînnoirii în vederea formulării de observații, iar observațiile primite le-a transmis Comisiei. De asemenea, autoritatea a pus la dispoziția publicului dosarul suplimentar rezumativ.
+(8) La 22 septembrie 2016, autoritatea a comunicat Comisiei concluzia sa (6) cu privire la posibilitatea ca substanța mezosulfuron (considerată a fi o variantă a substanței mezosulfuron-metil) să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. La 6 decembrie 2016, Comisia a prezentat proiectul de raport de reînnoire pentru substanța mezosulfuron-metil Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale.
+(9) În cazul uneia sau al mai multor utilizări reprezentative ale cel puțin unui produs de protecție a plantelor care conține substanța activă s-a constatat îndeplinirea criteriilor de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009.
+(10) Prin urmare, este adecvat să se reînnoiască aprobarea substanței mezosulfuron.
+(11) Evaluarea riscurilor în contextul reînnoirii aprobării substanței mezosulfuron se bazează pe un număr limitat de utilizări reprezentative, care, totuși, nu limitează utilizările pentru care pot fi autorizate produsele de protecție a plantelor care conțin mezosulfuron. Prin urmare, este adecvat să nu se mențină restricția pentru utilizare doar ca erbicid.
+(12) Cu toate acestea, în conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1107/2009 coroborat cu articolul 6 din același regulament și având în vedere cunoștințele științifice și tehnice actuale, este necesară includerea anumitor condiții și restricții. În particular, este adecvat să se solicite informații de confirmare suplimentare.
+(13) În conformitate cu articolul 20 alineatul (3) din Regulamentul (CE) nr. 1107/2009, coroborat cu articolul 13 alineatul (4) din același regulament, anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 ar trebui modificată în consecință.
+(14) Regulamentul de punere în aplicare (UE) 2016/2016 al Comisiei (7) a prelungit data expirării substanței mezosulfuron până la 31 ianuarie 2018 pentru a permite ca procesul de reînnoire să fie finalizat înainte de expirarea aprobării substanței respective. Având în vedere faptul că o decizie cu privire la reînnoire a fost luată înainte de data prelungită a expirării, prezentul regulament se aplică de la 1 iulie 2017.
+(15) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Reînnoirea aprobării substanței active
+Aprobarea substanței active mezosulfuron, cu specificațiile din anexa I, se reînnoiește sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrarea în vigoare și data aplicării
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică începând cu 1 iulie 2017.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 28 aprilie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Directiva 2003/119/CE a Comisiei din 5 decembrie 2003 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii substanțelor active mezosulfuron, propoxicarbazon și zoxamidă (JO L 325, 12.12.2003, p. 41).
+(3) Directiva 91/414/CEE a Consiliului din 15 iulie 1991 privind introducerea pe piață a produselor de uz fitosanitar (JO L 230, 19.8.1991, p. 1).
+(4) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(5) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(6) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2016. Conclusion on the peer review of the pesticide risk assessment of the active substance mesosulfuron (variant evaluates mesosulfuron-methyl) [Concluzie privind revizuirea inter pares a riscului utilizării ca pesticid a substanței active mezosulfuron (varianta evaluată: mezosulfuron-metil)]. EFSA Journal 2016;14(10):4584, 26 pp. doi:10.2903/j.efsa.2016.4584. Document disponibil online la adresa: www.efsa.europa.eu
+(7) Regulamentul de punere în aplicare (UE) 2016/2016 al Comisiei din 17 noiembrie 2016 de modificare a Regulamentului (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active acetamiprid, acid benzoic, flazasulfuron, mecoprop-P, mepanipirim, mezosulfuron, propineb, propoxicarbazon, propizamid, propiconazol, Pseudomonas chlororaphis tulpina: MA 342, piraclostrobin, quinoxifen, tiacloprid, tiram, ziram și zoxamid (JO L 312, 18.11.2016, p. 21).
+ANEXA I
+Denumire comună, Numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+Mezosulfuron (precursor) Mezosulfuron-metil (variantă) Nr. CAS: 208465-21-8 (mezosulfuron-metil) Nr. CIPAC: 663 (mezosulfuron) Nr. CIPAC: 663.201 (mezosulfuron-metil) | Mezosulfuron-metil: Metil-2-[4,6-dimetoxipirimidin-2-il carbamoil)sulfamoil]-α-(metansulfonamido)-p-toluat Mezosulfuron: Acid 2-[(4,6-dimetoxipirimidin-2-il carbamoil)sulfamoil]-α-(metan-sulfonamido)-p-toluic | ≥ 930 g/kg (exprimat ca mezolsulfuron-metil) | 1 iulie 2017 | 30 iunie 2032 | În vederea punerii în aplicare a principiilor uniforme, astfel cum sunt prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului de evaluare a reînnoirii privind substanța mezosulfuron, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre acordă o atenție deosebită: — protecției organismelor acvatice și a plantelor terestre nevizate; — protecției apelor subterane; Condițiile de utilizare includ măsuri de atenuare a riscurilor, după caz. Solicitantul transmite Comisiei, statelor membre și autorității informații de confirmare în ceea ce privește efectul proceselor de tratare a apelor asupra naturii reziduurilor prezente în apa potabilă în termen de doi ani de la adoptarea unui ghid privind evaluarea efectului proceselor de tratare a apelor asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane, informații puse la dispoziția publicului de către Comisie.
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active se găsesc în raportul de examinare.
+ANEXA II
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică după cum urmează:
+1. în partea A, se elimină rubrica 75 referitoare la mezosulfuron;
+2. în partea B, se adaugă următoarea rubrică:
+„111 | Mezosulfuron (precursor) Mezosulfuron-metil (variantă) Nr. CAS: 208465-21-8 (mezosulfuron-metil) Nr. CIPAC: 663 (mezosulfuron) Nr. CIPAC: 663.201 (mezosulfuron-metil) | Mezosulfuron-metil: metil-2-[4,6-dimetoxipirimidin-2-ilcarbamoil)sulfamoil]-α-(metansulfonamido)-p-toluat Mezosulfuron: Acid 2-[(4,6-dimetoxipirimidin-2-ilcarbamoil)sulfamoil]-α-(metan-sulfonamido)-p-toluic | ≥ 930 g/kg (exprimat ca mezolsulfuron-metil) | 1 iulie 2017 | 30 iunie 2032 | În vederea punerii în aplicare a principiilor uniforme, astfel cum sunt prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului de evaluare a reînnoirii privind substanța mezosulfuron, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre acordă o atenție deosebită: — protecției organismelor acvatice și a plantelor terestre nevizate; — protecției apelor subterane; Condițiile de utilizare includ măsuri de atenuare a riscurilor, după caz. Solicitantul transmite Comisiei, statelor membre și autorității informații de confirmare în ceea ce privește efectul proceselor de tratare a apelor asupra naturii reziduurilor prezente în apa potabilă în termen de doi ani de la adoptarea unui ghid privind evaluarea efectului proceselor de tratare a apelor asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane, informații puse la dispoziția publicului de către Comisie.”
