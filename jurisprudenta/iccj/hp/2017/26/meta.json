@@ -1,0 +1,346 @@
+{
+ "key": "iccj-hp-26-2017",
+ "label": "Decizia ÎCCJ nr. 26/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "26",
+ "date": "2017-04-10",
+ "year": "2017",
+ "heading": "DECIZIA nr. 26 din 10 aprilie 2017",
+ "subtitle": "referitoare la pronunţarea unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "374",
+  "bis": false,
+  "date": "2017-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "125/1/2017",
+  "4.536/62/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 861/2009",
+    "number": "861",
+    "year": "2009",
+    "path": "hg/2009/861"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Braşov - Secţia de contencios administrativ şi fiscal în Dosarul nr. 4.536/62/2015, în vederea pronunţării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "– natura juridică a creanţei constând în compensaţiile prevăzute de art. 97 alin. (1) lit. b) din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările şi completările ulterioare;",
+  "– interpretarea dispoziţiilor art. 6 din Hotărârea Guvernului nr. 861/2009 pentru aprobarea Normelor metodologice de acordare, utilizare şi control al sumelor anuale destinate gestionării durabile a fondului forestier proprietate privată a persoanelor fizice şi juridice şi a celui proprietate publică şi privată a unităţilor administrativ-teritoriale şi pentru aprobarea Procedurii de realizare a serviciilor silvice şi de efectuare a controalelor de fond, cu modificările ulterioare - respectiv dacă această normă instituie sau nu o condiţie suspensivă pentru acordarea compensaţiilor;",
+  "– stabilirea criteriilor pentru determinarea actului normativ aplicabil cererilor de acordare a compensaţiilor (actul normativ în vigoare în perioada pentru care sunt solicitate compensaţiile sau actul normativ în vigoare la data cererii de acordare a compensaţiilor, adresată autorităţii publice).",
+  "Obligatorie, potrivit dispoziţiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 861/2009",
+    "number": "861",
+    "year": "2009",
+    "path": "hg/2009/861"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "i"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 14/2010",
+    "number": "14",
+    "year": "2010",
+    "path": "og/2010/14"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 157/2005",
+    "number": "157",
+    "year": "2005",
+    "path": "lege/2005/157"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 861/2008",
+    "number": "861",
+    "year": "2008",
+    "path": "hg/2008/861"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189398",
+  "text_sha256": "cdf99d824e411432eeb194b4003bcb0dc2c9be49f7440ddf8e8265d40bfe6a44",
+  "catalogue_sha256": "cdf99d824e411432eeb194b4003bcb0dc2c9be49f7440ddf8e8265d40bfe6a44",
+  "fetched": "2026-11-03T03:21:08Z",
+  "chars": 61922,
+  "portal_id": "189398",
+  "tip": "DECIZIE"
+ }
+}
