@@ -1,0 +1,92 @@
+{
+ "key": "cedo-17282-09-2016-10-06",
+ "label": "CEDO, Bartok şi alţii c. României, 2016-10-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-10-06",
+ "year": "2016",
+ "heading": "HOTĂRÂREA din 6 octombrie 2016",
+ "subtitle": "în Cauza Bartok şi alţii împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECŢIA A PATRA",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2017-05-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "17282/09"
+ ],
+ "case_name": "Bartok şi alţii",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. declară cererile admisibile;",
+  "3. hotărăşte că în aceste cereri a avut loc o încălcare a art. 6 § 1 din Convenţie referitoare la durata excesivă a procesului penal;",
+  "4. hotărăşte a) că statul pârât trebuie să plătească reclamanţilor, în termen de 3 luni, sumele indicate în tabelul anexat, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul perioadei de neplată şi majorată cu trei puncte procentuale. Redactată în limba engleză, apoi comunicată în scris, la 6 octombrie 2016, în temeiul art. 77 § 2 şi art. 77 § 3 din Regulamentul Curţii."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189448",
+  "text_sha256": "c64594c0970b435d3d508e30bac62a5f325a98e845cbb5ade196c7791c7df20b",
+  "catalogue_sha256": "c64594c0970b435d3d508e30bac62a5f325a98e845cbb5ade196c7791c7df20b",
+  "fetched": "2026-11-03T03:21:05Z",
+  "chars": 7981,
+  "portal_id": "189448",
+  "tip": "HOTĂRÂRE"
+ }
+}
