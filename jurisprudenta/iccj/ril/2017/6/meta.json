@@ -1,0 +1,338 @@
+{
+ "key": "iccj-ril-6-2017",
+ "label": "Decizia ÎCCJ nr. 6/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2017-03-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 6 din 20 martie 2017",
+ "subtitle": "privind recursul în interesul legii referitor la interpretarea şi aplicarea dispoziţiilor art. 7 alin. (4) din Ordonanţa Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, aprobată cu modificări şi completări prin Legea nr. 189/2000, cu modificările şi completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2017-05-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "24/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului şi, în consecinţă, stabileşte următoarele:",
+  "Dispoziţiile art. 7 alin. (4) din Ordonanţa Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, aprobată cu modificări şi completări prin Legea nr. 189/2000, cu modificările şi completările ulterioare, se interpretează în sensul că hotărârile judecătoreşti pronunţate în cauzele având ca obiect contestaţii împotriva hotărârilor pronunţate de comisiile din cadrul caselor judeţene de pensii sau din cadrul Casei de Pensii a Municipiului Bucureşti nu sunt supuse recursului, hotărârea judecătorească pronunţată în primă instanţă având caracter definitiv.",
+  "Obligatorie, potrivit dispoziţiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanţa Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 189/2000",
+    "number": "189",
+    "year": "2000",
+    "path": "lege/2000/189"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţiei pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenţie",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1999",
+    "number": "118",
+    "year": "1999",
+    "path": "decret-lege/1999/118"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "oug/1999/105"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 2",
+    "path": null,
+    "slug": "conventia-edo-protocolul-2"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189447",
+  "text_sha256": "3224d5790e1f2a2aeb0ba491248419c0df2e0d5eefd99b8cd4ba57bb0cb03f4a",
+  "catalogue_sha256": "3224d5790e1f2a2aeb0ba491248419c0df2e0d5eefd99b8cd4ba57bb0cb03f4a",
+  "fetched": "2026-11-03T03:21:07Z",
+  "chars": 49349,
+  "portal_id": "189447",
+  "tip": "DECIZIE"
+ }
+}
