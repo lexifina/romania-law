@@ -1,0 +1,238 @@
+{
+ "key": "dcc-157-2017",
+ "label": "Decizia CCR nr. 157/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "157",
+ "date": "2017-03-14",
+ "year": "2017",
+ "heading": "DECIZIA nr. 157 din 14 martie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a prevederilor art. 6^1 din Ordonanţa de urgenţă a Guvernului nr. 146/2002 privind formarea şi utilizarea resurselor derulate prin trezoreria statului, republicată",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2017-05-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "12.582/314/2014",
+  "542D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2002",
+    "number": "146",
+    "year": "2002",
+    "path": "oug/2002/146"
+   },
+   "articles": [
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepţia de neconstituţionalitate a prevederilor art. 6^1 din Ordonanţa de urgenţă a Guvernului nr. 146/2002 privind formarea şi utilizarea resurselor derulate prin trezoreria statului, republicată, excepţie ridicată de Societatea Comercială Farmexpert DCI - S.R.L. din Bucureşti în Dosarul nr. 12.582/314/2014 al Tribunalului Suceava - Secţia a II-a civilă.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Tribunalului Suceava - Secţia a II-a civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanţa de urgenţă a Guvernului nr. 146/2002",
+    "number": "146",
+    "year": "2002",
+    "path": "oug/2002/146"
+   },
+   "articles": [
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 819/2011",
+    "number": "819",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului preşedintelui Casei Naţionale de Asigurări de Sănătate nr. 819/2011",
+    "number": "819",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2011",
+    "number": "125",
+    "year": "2011",
+    "path": "lege/2011/125"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-05-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189496",
+  "text_sha256": "0e669f8f285dc4a39fb1d0e481b6552de6334c64d48ec069f2e8fce9f1339b2d",
+  "catalogue_sha256": "0e669f8f285dc4a39fb1d0e481b6552de6334c64d48ec069f2e8fce9f1339b2d",
+  "fetched": "2026-11-03T03:21:02Z",
+  "chars": 20093,
+  "portal_id": "189496",
+  "tip": "DECIZIE"
+ }
+}
