@@ -1,0 +1,237 @@
+{
+ "key": "iccj-hp-penal-10-2017",
+ "label": "Decizia ÎCCJ nr. 10/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2017-03-29",
+ "year": "2017",
+ "heading": "DECIZIA nr. 10 din 29 martie 2017",
+ "subtitle": "referitoare la interpretarea dispoziţiilor art. 426 lit. b) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAŢIE ŞI JUSTIŢIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "2017-05-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "148/1/2017",
+  "6.664/2/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bucureşti - Secţia I penală în Dosarul nr. 6.664/2/2016, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă, în interpretarea dispoziţiilor art. 426 lit. b) din Codul de procedură penală, instanţa care soluţionează contestaţia în anulare, după admiterea în principiu a acesteia, poate reanaliza o cauză de încetare a procesului penal, în cazul în care instanţa de apel a dezbătut şi a analizat incidenţa cauzei de încetare a procesului penal, pentru care existau probe la dosar“.",
+  "Stabileşte că, în interpretarea dispoziţiilor art. 426 lit. b) din Codul de procedură penală, instanţa care soluţionează contestaţia în anulare nu poate reanaliza o cauză de încetare a procesului penal, în cazul în care instanţa de apel a dezbătut şi a analizat incidenţa cauzei de încetare a procesului penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "h"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g",
+      "i"
+     ]
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189512",
+  "text_sha256": "bbc667e11697fd4eb0f18b3c69e1c6b88f1b162d33cdda6dc255a5155584e9e0",
+  "catalogue_sha256": "bbc667e11697fd4eb0f18b3c69e1c6b88f1b162d33cdda6dc255a5155584e9e0",
+  "fetched": "2026-11-03T03:20:59Z",
+  "chars": 56202,
+  "portal_id": "189512",
+  "tip": "DECIZIE"
+ }
+}
