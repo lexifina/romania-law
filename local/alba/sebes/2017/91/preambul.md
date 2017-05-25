@@ -1,0 +1,10 @@
+Consiliul local al Municipiului Sebeș, jud. Alba, întrunit în ședința, publică,ordinară, din data de 25.05.2017, ora 14,00;
+Luând în dezbatere proiectul de hotărâre cu privire la modificarea anexei 23 a H.C.L. 24/2009 privind Aprobarea Regulamentului de transport taxi și Regulamentul de organizare a Activității de dispecerat la transport în regim de taxi pe raza administrativ teritorială a Municipiului Sebeș, modificată prin HCL nr. 228/2013 și HCL nr. 73/2017, în sensul introducerii punctajelor pentru autovehiculele hibride și electrice;
+Analizând prevederile H.C.L. 24/2009, privind Aprobarea Regulamentului de transport taxi și Regulamentul de organizare a ActivităDii de dispecerat la transport în regim de taxi pe raza administrativ teritorială a Municipiului Sebeș, modificată prin HCL nr. 228/2013 și HCL nr. 73/2017.
+Luând în dezbatere expunerea de motive a prezentului proiect de hotărâre;
+Văzând raportul de specialitate nr.17860/11.05.2017 întocmit de Compartimentul Patrimoniu și Transport din cadrul Aparatului de Specialitate al Primarului Municipiului Sebeș;
+Având avizul Comisiei pentru administrație publică locală, juridică și de disciplină din cadrul Consiliului local Sebeș ;
+În temeiul atribuțiunilor prevăzute la art. 13 și art. 14 din Legea nr. 38/2003, cu completările și modificările ulterioare, privind transportul în regim de taxi și în regim de închiriere;
+În conformitate cu prevederile art. 3, art. 6, art. 11 lit. f, art. 14, art. 15, art. 16, art. 17 și ale art. 31 din Anexa 1 la Ordinul nr. 356/2007 privind aprobarea Normelor metodologice pentru aplicarea prevederilor Legii nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere precum Di prevederile Legii nr. 92/2007 a serviciilor de transport public local;
+În temeiul prevederilor art.36, alin.(2), lit."d" coroborat cu alin.(5) lit."a" și (6), lit.”a” pct.14 și art. 115 alin. 1 lit. b din Legea nr.215/2001 republicată în 2007, privind administrația publică locală;
+În baza art.45 din aceeași lege, - HOTĂRĂȘTE
