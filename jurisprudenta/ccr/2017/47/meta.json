@@ -1,0 +1,232 @@
+{
+ "key": "dcc-47-2017",
+ "label": "Decizia CCR nr. 47/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "47",
+ "date": "2017-01-31",
+ "year": "2017",
+ "heading": "DECIZIA nr. 47 din 31 ianuarie 2017",
+ "subtitle": "referitoare la excepţia de neconstituţionalitate a dispoziţiilor art. 40 alin. (1) şi ale art. 41 alin. (2) lit. d) din Legea nr. 489/2006 privind libertatea religioasă şi regimul general al cultelor",
+ "issuer": "CURTEA CONSTITUŢIONALĂ",
+ "mo": {
+  "number": "409",
+  "bis": false,
+  "date": "2017-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.239/212/2016",
+  "305D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2006",
+    "number": "489",
+    "year": "2006",
+    "path": "lege/2006/489"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepţia de neconstituţionalitate ridicată de Stere Beca în Dosarul nr. 1.239/212/2016 al Judecătoriei Constanţa - Secţia civilă şi constată că dispoziţiile art. 40 alin. (1) şi ale art. 41 alin. (2) lit. d) din Legea nr. 489/2006 privind libertatea religioasă şi regimul general al cultelor sunt constituţionale în raport cu criticile formulate.",
+  "Definitivă şi general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanţa - Secţia civilă şi se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2006",
+    "number": "489",
+    "year": "2006",
+    "path": "lege/2006/489"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituţie",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia pentru apărarea drepturilor omului şi a libertăţilor fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 15/2012",
+    "number": "15",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului culturii şi cultelor nr. 2.274/2007",
+    "number": "2274",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul secretarului de stat al Secretariatului de Stat pentru Culte nr. 15/2012",
+    "number": "15",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189644",
+  "text_sha256": "a975aacb74964f7da17db031db30f2e7eb15e4fc4b01f60a417bcf0913661f1f",
+  "catalogue_sha256": "a975aacb74964f7da17db031db30f2e7eb15e4fc4b01f60a417bcf0913661f1f",
+  "fetched": "2026-11-03T03:20:44Z",
+  "chars": 19532,
+  "portal_id": "189644",
+  "tip": "DECIZIE"
+ }
+}
