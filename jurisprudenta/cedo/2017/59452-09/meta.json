@@ -1,0 +1,111 @@
+{
+ "key": "cedo-59452-09-2017-02-14",
+ "label": "CEDO, Potoroc c. României, 2017-02-14",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2017-02-14",
+ "year": "2017",
+ "heading": "HOTĂRÂREA din 14 februarie 2017",
+ "subtitle": "în Cauza Potoroc împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECŢIA A PATRA",
+ "mo": {
+  "number": "411",
+  "bis": false,
+  "date": "2017-05-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "59452/09"
+ ],
+ "case_name": "Potoroc",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţie",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăşte că a fost încălcat art. 6 § 1 din Convenţie;",
+  "3. hotărăşte: a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni, 3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral, care va fi convertită în moneda statului pârât, la rata de schimb aplicabilă la data plăţii;",
+  "b) că, de la expirarea termenului menţionat şi până la efectuarea plăţii, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilităţii de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade şi majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparaţii echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenţia",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189663",
+  "text_sha256": "100e8170d6985be82c671b4474748c0e100b85dad9c41fecb22e6a0fa1ebf46d",
+  "catalogue_sha256": "100e8170d6985be82c671b4474748c0e100b85dad9c41fecb22e6a0fa1ebf46d",
+  "fetched": "2026-11-03T03:20:46Z",
+  "chars": 21676,
+  "portal_id": "189663",
+  "tip": "HOTĂRÂRE"
+ }
+}
