@@ -1,0 +1,325 @@
+{
+ "key": "iccj-hp-penal-12-2017",
+ "label": "Decizia ÎCCJ nr. 12/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2017-04-25",
+ "year": "2017",
+ "heading": "DECIZIA nr. 12 din 25 aprilie 2017",
+ "subtitle": "referitoare la pronunţarea hotărârii prealabile pentru dezlegarea unei chestiunii de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "412",
+  "bis": false,
+  "date": "2017-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "389/1/2017",
+  "4.953/312/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "583",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "86-5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ialomiţa în Dosarul nr. 4.953/312/2016, prin care se solicită pronunţarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: Dacă în aplicarea dispoziţiilor art. 585 alin. (1) lit. a) din Codul de procedură penală, în cazul pluralităţii de infracţiuni constând într-o infracţiune pentru care, potrivit Codului penal anterior, a fost aplicată prin hotărâre definitivă o pedeapsă cu suspendare sub supraveghere a executării pedepsei, conform art. 86^1 din Codul penal anterior, şi, respectiv, o infracţiune pentru care, potrivit noului Cod penal, a fost aplicată prin hotărâre definitivă o pedeapsă cu suspendare sub supraveghere a executării pedepsei conform art. 91 din Codul penal, stabilirea şi executarea pedepsei rezultante în urma anulării suspendării sub supraveghere se realizează potrivit art. 16 alin. (1) din Legea nr. 187/2012 raportat la art. 86^5 alin. 1 din Codul penal anterior sau conform art. 97 din Codul penal raportat la art. 583 din Codul de procedură penală, cu consecinţa modificării modalităţii de executare a pedepsei pentru prima dată în cursul executării",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "583",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "9",
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "86-5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "583",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189674",
+  "text_sha256": "cbf90eb0c18b1d4f296d4a4212824c3349c4bce15dbeedc29dd6989edfa00e04",
+  "catalogue_sha256": "cbf90eb0c18b1d4f296d4a4212824c3349c4bce15dbeedc29dd6989edfa00e04",
+  "fetched": "2026-11-03T03:20:47Z",
+  "chars": 53822,
+  "portal_id": "189674",
+  "tip": "DECIZIE"
+ }
+}
