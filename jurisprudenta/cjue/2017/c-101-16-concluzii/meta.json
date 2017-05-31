@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-101-16-concluzii-2017-05-31",
+ "label": "CJUE, Concluziile avocatului general P. Mengozzi prezentate la 31 mai 2017, Cauza C-101/16.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2017-05-31",
+ "year": "2017",
+ "case": "Cauza C-101/16.",
+ "celex": "62016CC0101",
+ "ecli": "ECLI:EU:C:2017:413",
+ "heading": "Concluziile avocatului general P. Mengozzi prezentate la 31 mai 2017",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Fiscalitate – Taxa pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Drept de deducere – Condiții de exercitare – Articolul 273 – Măsuri naționale – Combaterea fraudei și a evaziunii fiscale – Factură emisă de un contribuabil declarat „inactiv” de administrația fiscală – Risc de fraudă – Refuzarea dreptului de deducere – Proporționalitate – Refuzul de a lua în considerare dovezi privind absența unei fraude sau a unei pierderi fiscale – Limitarea în timp a efectelor hotărârii care urmează a fi pronunțată – Lipsă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CC0101",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-101/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/8ed8bfbb-45eb-11e7-aea8-01aa75ed71a1.0012.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "ae704af2acb20cdf9829783a6e4f54c6ca47162cb8fde3e3ff05f24ea854bdd3"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
