@@ -1,0 +1,452 @@
+{
+ "key": "iccj-hp-13-2017",
+ "label": "Decizia ÎCCJ nr. 13/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "13",
+ "date": "2017-03-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 13 din 6 martie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 5 alin. (5), art. 33 alin. (3) teza ultimă și art. 64 din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "419",
+  "bis": false,
+  "date": "2017-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.554/1/2016",
+  "7.430/118/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța - Secția I civilă, în Dosarul nr. 7.430/118/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "În interpretarea și aplicarea dispozițiilor art. 5 alin. (5), art. 33 alin. (3) teza ultimă și art. 64 din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare, măsura impusă prin decizia Curții de Conturi privind recuperarea prejudiciului produs prin alocarea nelegală de fonduri publice, printr-un act al administrației publice locale cu caracter individual, constatat nelegal în temeiul dispozițiilor art. 4 din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, deschide calea recuperării sumelor de la terții beneficiari, conform dispozițiilor art. 1.635 și următoarele din Codul civil ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "n",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2011",
+    "number": "293",
+    "year": "2011",
+    "path": "lege/2011/293"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 350/2005",
+    "number": "350",
+    "year": "2005",
+    "path": "lege/2005/350"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1341",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1382",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1384",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1635",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2000",
+    "number": "500",
+    "year": "2000",
+    "path": "lege/2000/500"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/189949",
+  "text_sha256": "617dd0f57b57c7d954a4af364b79f6b7e7a44ca22ed47ac1e77127760ac2a5c3",
+  "catalogue_sha256": "617dd0f57b57c7d954a4af364b79f6b7e7a44ca22ed47ac1e77127760ac2a5c3",
+  "fetched": "2026-11-03T20:13:04Z",
+  "chars": 70602,
+  "portal_id": "189949",
+  "tip": "DECIZIE"
+ }
+}
