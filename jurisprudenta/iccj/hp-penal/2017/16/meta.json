@@ -1,0 +1,329 @@
+{
+ "key": "iccj-hp-penal-16-2017",
+ "label": "Decizia ÎCCJ nr. 16/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "16",
+ "date": "2017-05-10",
+ "year": "2017",
+ "heading": "DECIZIA nr. 16 din 10 mai 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea de principiu a unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "439",
+  "bis": false,
+  "date": "2017-06-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "739/1/2017",
+  "10.869/55/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "549",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de judecătorul de cameră preliminară din cadrul Tribunalului Arad - Secția penală în Dosarul nr. 10.869/55/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept:",
+  "1. Dacă prevederile art. 25 alin. (3) din Legea nr. 295/2004 privind regimul armelor și al munițiilor, așa cum au fost modificate prin Legea nr. 319/2015, prin care s-a instituit obligația de notificare a titularului permisului de portarmă cu 6 luni înainte de expirarea valabilității permisului, constituie o normă de dezincriminare, instituind o condiție preexistentă pentru realizarea conținutului constitutiv al infracțiunii de nerespectare a regimului armelor și munițiilor, prevăzută de art. 342 alin. (6) din Codul penal sau, dimpotrivă, fapta rămâne infracțiune independent de îndeplinirea sau neîndeplinirea obligației de notificare.",
+  "2. În caz de dezincriminare, având în vedere prevederile art. 2 din Codul penal privind legalitatea sancțiunilor de drept penal, dacă prin încheiere, în procedura prevăzută de art. 340, art. 341 din Codul de procedură penală s-a dispus respingerea plângerii împotriva ordonanței de clasare, clasarea fiind întemeiată pe prevederile art. 16 alin. (1) lit. b) teza a II-a din Codul de procedură penală (fapta nu a fost săvârșită cu vinovăția prevăzută de lege), în procedura prevăzută de art. 549 ind. 1 din Codul de procedură penală, judecătorul de cameră preliminară poate pronunța oricare dintre soluțiile prevăzute de lege sau, dimpotrivă, încheierea prin care s-a decis cu privire la temeiul clasării este intrată în puterea lucrului judecat.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "549",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "549-1",
+     "alin": [
+      "2",
+      "3",
+      "5",
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 319/2015",
+    "number": "319",
+    "year": "2015",
+    "path": "lege/2015/319"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190070",
+  "text_sha256": "25eac589958e974d5eeb257d7c075e5613afc5b2ed29157bb09c8d902757120f",
+  "catalogue_sha256": "25eac589958e974d5eeb257d7c075e5613afc5b2ed29157bb09c8d902757120f",
+  "fetched": "2026-11-03T03:20:29Z",
+  "chars": 68116,
+  "portal_id": "190070",
+  "tip": "DECIZIE"
+ }
+}
