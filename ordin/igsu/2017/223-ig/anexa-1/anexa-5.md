@@ -1,0 +1,9 @@
+# Anexa nr. 5 la metodologie
+MINISTERUL AFACERILOR INTERNE
+DEPARTAMENTUL PENTRU SITUAȚII DE URGENȚĂ
+INSPECTORATUL GENERAL PENTRU SITUAȚII DE URGENȚĂ
+AVIZ nr........ din...........
+La Cererea............................, înregistrată cu nr....... din......., în baza prevederilor art. 11 lit. l) din Regulamentul de organizare și funcționare al Inspectoratului General pentru Situații de Urgență, aprobat prin Hotărârea Guvernului nr. 1.490/2004, cu modificările și completările ulterioare, și ale anexei nr. 6 la Metodologia de autorizare a furnizorilor de formare profesională a adulților, aprobată prin Ordinul ministrului muncii, solidarității sociale și familiei și al ministrului educației, cercetării și tineretului nr. 353/5.202/2003, cu modificările și completările ulterioare, Inspectoratul General pentru Situații de Urgență emite avizul în vederea autorizării................................. ca furnizor de formare profesională în ocupația de ".................." - cod COR -..............
+Inspector general,.....................
+NOTĂ: Se anexează un exemplar al documentației conținând...... pagini ștampilate spre neschimbare.
+-----
