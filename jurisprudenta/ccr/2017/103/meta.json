@@ -1,0 +1,239 @@
+{
+ "key": "dcc-103-2017",
+ "label": "Decizia CCR nr. 103/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "103",
+ "date": "2017-03-07",
+ "year": "2017",
+ "heading": "DECIZIA nr. 103 din 7 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 352 alin. (9) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2017-06-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "34.611/3/2015",
+  "601D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "352",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ataș Abdullah în Dosarul nr. 34.611/3/2015 al Tribunalului București - Secția I penală și constată că dispozițiile art. 352 alin. (9) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "352",
+     "alin": [
+      "9",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-06-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190181",
+  "text_sha256": "fedc7f42a8eb392aeba4326810063fd32b61e3a09ef37e31af95231e2d2ecf6e",
+  "catalogue_sha256": "fedc7f42a8eb392aeba4326810063fd32b61e3a09ef37e31af95231e2d2ecf6e",
+  "fetched": "2026-11-06T03:27:15Z",
+  "chars": 33537,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/190181",
+   "timestamp": "20180624223140",
+   "crawl": "CC-MAIN-2018-26",
+   "filename": "crawl-data/CC-MAIN-2018-26/segments/1529267867095.70/warc/CC-MAIN-20180624215228-20180624235228-00052.warc.gz",
+   "offset": "188284062",
+   "length": "33395",
+   "sha256": "4a378df3a1d77ffd18c51930145eaa0b794525badb6f01b3a795b2ecd88baf76"
+  },
+  "portal_id": "190181",
+  "tip": "DECIZIE"
+ }
+}
