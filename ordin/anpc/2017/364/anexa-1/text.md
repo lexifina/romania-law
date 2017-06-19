@@ -1,0 +1,11 @@
+# Anexa nr. 1
+CERERE pentru înscrierea la testarea în vederea autorizării operațiunii de marcare a metalelor prețioase cu marca de garanție
+Subscrisa Societatea/PFA/AF............, cu sediul social/domiciliul în localitatea........., str.......... nr....., bl....., sc....., et....., ap....., județul/sectorul......., posesoare a Autorizației pentru efectuarea de operațiuni cu metale prețioase și pietre prețioase nr........., eliberată la data de.........., vă rugăm să ne aprobați înscrierea la testarea în vederea obținerii autorizației pentru efectuarea operațiunii de marcare a metalelor prețioase, pentru următoarele persoane desemnate: 1........., legitimat cu B.I./C.I. seria..... nr......, CNP............., pentru*1): aur [], argint [], platină [], paladiu [];
+2........., legitimat cu B.I./C.I. seria..... nr......, CNP............., pentru*1): aur [], argint [], platină [], paladiu [];
+3........., legitimat cu B.I./C.I. seria..... nr......, CNP............., pentru*1): aur [], argint [], platină [], paladiu [];
+4........., legitimat cu B.I./C.I. seria..... nr......, CNP............., pentru*1): aur [], argint [], platină [], paladiu [];
+5........., legitimat cu B.I./C.I. seria..... nr......, CNP............., pentru*1): aur [], argint [], platină [], paladiu [].
+Notă...
+*1) Se va marca cu X căsuța corespunzătoare metalului prețios pentru care se solicită autorizarea sau menținerea autorizării.
+Activitatea de analiză și marcare cu marca de garanție proprie se va face la următorul punct de lucru/sediu social din județul................., localitatea..................................., str.................. nr............, bl.............., sc........., ap........, et.........., dotat în conformitate cu prevederile art. 7 al Ordinului președintelui Autorității Naționale pentru Protecția Consumatorilor nr. 364/2017 pentru stabilirea condițiilor aplicabile în vederea autorizării operațiunii de marcare a metalelor prețioase cu marca de garanție proprie în anul 2017.
+Semnătura și ștampila.........................
