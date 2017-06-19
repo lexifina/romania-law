@@ -1,0 +1,312 @@
+{
+ "key": "iccj-hp-29-2017",
+ "label": "Decizia ÎCCJ nr. 29/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "29",
+ "date": "2017-04-24",
+ "year": "2017",
+ "heading": "DECIZIA nr. 29 din 24 aprilie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "456",
+  "bis": false,
+  "date": "2017-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "438/1/2017",
+  "219/119/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția de contencios administrativ și fiscal în Dosarul nr. 219/119/2016, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1) dacă dispozițiile art. 1 alin. (1) lit. d) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare, pot fi interpretate în sensul că din categoria persoanelor îndreptățite a beneficia de facilitățile și drepturile prevăzute de acest act normativ face parte și cel care nu a avut voie să părăsească locuința decât cu acordul expres al organelor de stat și doar în situații speciale, fiind nevoit să se prezinte la miliție pentru a fi verificat în virtutea stabilirii statutului de chiabur ce i-a fost atribuit;",
+  "2) dacă dispozițiile art. 10 alin. (1) din același act normativ pot fi interpretate în sensul că dovada calității de persoană care a avut stabilit domiciliu obligatoriu poate fi făcută exclusiv prin declarații de martori;",
+  "3) dacă dezlegarea dată problemei enunțate la punctul 2 este în sens afirmativ, care sunt condițiile pentru ca dovada exclusiv prin declarații de martori să fie admisibilă?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "d",
+      "e"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "264",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "310",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "311",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "313",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "314",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "318",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "320",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "326",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190212",
+  "text_sha256": "6eb8725cb438fa1ef083b5aefe0ddc6c23642468d0915b10dc60f401dbe73511",
+  "catalogue_sha256": "6eb8725cb438fa1ef083b5aefe0ddc6c23642468d0915b10dc60f401dbe73511",
+  "fetched": "2026-11-03T03:20:14Z",
+  "chars": 42879,
+  "portal_id": "190212",
+  "tip": "DECIZIE"
+ }
+}
