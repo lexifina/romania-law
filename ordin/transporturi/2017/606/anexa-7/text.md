@@ -1,0 +1,3 @@
+# Anexa nr. 6
+Modelul legitimației nominale de control destinate utilizării de către personalul Autorității Rutiere Române - A.R.R., împuternicit să constate contravențiile și să aplice sancțiunile contravenționale prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră
+Modelul legitimației nominale de control destinate utilizării de către personalul Autorității Rutiere Române - A.R.R. împuternicit să constate contravențiile și să aplice sancțiunile contravenționale prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare, este următorul:
