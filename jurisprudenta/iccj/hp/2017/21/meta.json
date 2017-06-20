@@ -1,0 +1,137 @@
+{
+ "key": "iccj-hp-21-2017",
+ "label": "Decizia ÎCCJ nr. 21/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "21",
+ "date": "2017-04-03",
+ "year": "2017",
+ "heading": "DECIZIA nr. 21 din 3 aprilie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „dacă dispozițiile art. 413 alin. (1) pct. 2 Cod de procedură civilă conferă judecătorului prerogativa suspendării judecării cauzei și în ipoteza începerii urmăririi penale numai cu privire la faptă?“",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2017-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.945/1/2016",
+  "24.938/3/2016",
+  "108.708/299/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă, în Dosarul nr. 24.938/3/2016, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „dacă dispozițiile art. 413 alin. (1) pct. 2 Cod de procedură civilă conferă judecătorului prerogativa suspendării judecării cauzei și în ipoteza începerii urmăririi penale numai cu privire la faptă?“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "305",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "320",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190245",
+  "text_sha256": "c232b8bec7bd2ffee0cead8cdddd6f3f320973c75892a0f96091f839bd22db69",
+  "catalogue_sha256": "c232b8bec7bd2ffee0cead8cdddd6f3f320973c75892a0f96091f839bd22db69",
+  "fetched": "2026-11-03T03:20:13Z",
+  "chars": 53137,
+  "portal_id": "190245",
+  "tip": "DECIZIE"
+ }
+}
