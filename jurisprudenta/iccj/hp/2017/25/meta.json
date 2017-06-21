@@ -1,0 +1,263 @@
+{
+ "key": "iccj-hp-25-2017",
+ "label": "Decizia ÎCCJ nr. 25/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "25",
+ "date": "2017-04-10",
+ "year": "2017",
+ "heading": "DECIZIA nr. 25 din 10 aprilie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 54 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "467",
+  "bis": false,
+  "date": "2017-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.970/1/2016",
+  "38.427/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal în Dosarul nr. 38.427/3/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Cum se interpretează dispozițiile art. 54 din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, în ceea ce privește sfera cheltuielilor finanțate pentru învățământul special și special integrat, respectiv posibilitatea de decontare a acestora între autoritățile administrației publice locale?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.251/2005",
+    "number": "1251",
+    "year": "2005",
+    "path": "hg/2005/1251"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 68/2003",
+    "number": "68",
+    "year": "2003",
+    "path": "og/2003/68"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 448/2016",
+    "number": "448",
+    "year": "2016",
+    "path": "lege/2016/448"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190283",
+  "text_sha256": "55fdd4c2fc66d3a03878219ede52b25af7f4f4429334d3ee86c7488da75158c2",
+  "catalogue_sha256": "55fdd4c2fc66d3a03878219ede52b25af7f4f4429334d3ee86c7488da75158c2",
+  "fetched": "2026-11-03T03:20:04Z",
+  "chars": 45562,
+  "portal_id": "190283",
+  "tip": "DECIZIE"
+ }
+}
