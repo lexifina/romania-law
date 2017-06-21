@@ -1,0 +1,297 @@
+{
+ "key": "iccj-hp-33-2017",
+ "label": "Decizia ÎCCJ nr. 33/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "33",
+ "date": "2017-05-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 33 din 15 mai 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 1 alin. (1) din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, prin raportare la dispozițiile art. 5 și art. 10 din Normele metodologice de aplicare a prevederilor Legii nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, precum și a Procedurii de efectuare a restituirilor, aprobate prin Ordinul ministrului muncii, familiei, protecției sociale și persoanelor vârstnice și al ministrului finanțelor publice nr. 2.073/1.623/2014",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "467",
+  "bis": false,
+  "date": "2017-06-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "4.105/1/2016",
+  "42.999/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 42.999/3/2015 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 1 alin. (1) din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, prin raportare la dispozițiile art. 5 și art. 10 din Normele metodologice de aplicare a prevederilor Legii nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii, precum și a Procedurii de efectuare a restituirilor, aprobate prin Ordinul ministrului muncii, familiei, protecției sociale și persoanelor vârstnice și al ministrului finanțelor publice nr. 2.073/1.623/2014, nu se recuperează sumele reprezentând pensie, indemnizație socială pentru pensionari și indemnizație pentru însoțitor, încasate necuvenit după data de 1 octombrie 2014, dacă aceste sume reprezintă drepturi aferente unei perioade anterioare datei de 1 octombrie 2014.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 737/2010",
+    "number": "737",
+    "year": "2010",
+    "path": "hg/2010/737"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2011",
+    "number": "59",
+    "year": "2011",
+    "path": "oug/2011/59"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190284",
+  "text_sha256": "9de97fd31b8bcf772353bb6f9da4b0903f9b6290ec30f0d6057b0d30af17e8e5",
+  "catalogue_sha256": "9de97fd31b8bcf772353bb6f9da4b0903f9b6290ec30f0d6057b0d30af17e8e5",
+  "fetched": "2026-11-03T03:20:04Z",
+  "chars": 59298,
+  "portal_id": "190284",
+  "tip": "DECIZIE"
+ }
+}
