@@ -1,0 +1,54 @@
+{
+ "key": "cjue-c-556-15-ordonanta-2017-06-22",
+ "label": "CJUE, Ordonanța Curții (Camera a cincea) din 22 iunie 2017, Cauzele conexate C-556/15 și C-22/16",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2017-06-22",
+ "year": "2017",
+ "case": "Cauzele conexate C-556/15 și C-22/16",
+ "celex": "62015CO0556",
+ "ecli": "ECLI:EU:C:2017:494",
+ "heading": "Ordonanța Curții (Camera a cincea) din 22 iunie 2017",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Craiova",
+   "date": "2015-10-13",
+   "national_file": "07/95/2014"
+  }
+ ],
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Craiova și de Tribunalul Bucureşti",
+ "national_followup": [
+  "Tribunalul Bucureşti, închiere din 03/07/2015 (9648/3/2014)"
+ ],
+ "parties": "Fondul Proprietatea SA împotriva Complexului Energetic Oltenia SA și a SC Hidroelectrica SA",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 53 alineatul (2) și articolul 94 din Regulamentul de procedură al Curții – Ajutoare de stat – Participarea unei societăți cu capital majoritar de stat la majorarea capitalului unei societăți la care statul este acționar unic sau la constituirea capitalului social al unei societăți comerciale deținute de stat – Întrebări de natură ipotetică – Lipsa de precizări suficiente în privința contextului factual – Inadmisibilitate vădită",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62015CO0556",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-556/15&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b35d0c68-615a-11e7-951d-01aa75ed71a1.0001.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "cb3287d78da8ebd9dd7fa06f7b184d3666e75c9ee273563b4d0444ce9cb1d968"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) dispune:",
+  "Cererile de decizie preliminară introduse de Curtea de Apel Craiova, prin decizia din 13 octombrie 2015, și de Tribunalul București, prin decizia din 3 iulie 2015, sunt în mod vădit inadmisibile."
+ ]
+}
