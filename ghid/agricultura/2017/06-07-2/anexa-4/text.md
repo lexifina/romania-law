@@ -1,0 +1,6 @@
+# Anexa 4
+Anexa nr. 1 lit. d)
+la Contractul de Finanțare nr. .../...
+Condiții aferente POPAM 2014-2020
+(Ghidul solicitantului aferent măsurii ..........)
+* Se va completa de expertul CC, conform condițiilor din Ghidul solicitantului aferent măsurii .............
