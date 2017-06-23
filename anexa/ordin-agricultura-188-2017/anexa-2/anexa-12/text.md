@@ -1,0 +1,19 @@
+# Anexa 12
+Anexa nr. 17
+APROB,
+Director general
+DGP-AMPOPAM
+SOLICITANT ..........
+Nr./data înregistrare ..........
+SOLICITARE DE RENUNȚARE
+la cererea de finanțare
+CĂTRE: Direcția Generală Pescuit - Autoritate de Management pentru POPAM
+Stimate Domnule director general,
+Vă rugăm să luați la cunoștință de renunțarea la cererea de finanțare înregistrată la DGP-AMPOPAM cu codul SMIS:
+COD SMIS [ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+pentru proiectul cu titlul .............., înregistrat în sesiunea din luna .......... anul ..........
+Reprezentant legal al solicitantului:
+Nume ..........
+Prenume ..........
+Semnătura ..........
+-----
