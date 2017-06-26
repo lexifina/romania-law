@@ -1,0 +1,300 @@
+{
+ "key": "iccj-hp-penal-11-2017",
+ "label": "Decizia ÎCCJ nr. 11/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2017-04-12",
+ "year": "2017",
+ "heading": "DECIZIA nr. 11 din 12 aprilie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIA PENALĂ",
+ "mo": {
+  "number": "479",
+  "bis": false,
+  "date": "2017-06-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "347/1/2017",
+  "9.349/325/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "334",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timișoara, Secția penală, prin Încheierea din data de 27 ianuarie 2017, în Dosarul nr. 9.349/325/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „în ce măsură tractorul agricol sau forestier condus pe drumurile publice devine asimilat autovehiculului, iar conducerea pe drumurile publice a unui tractor agricol sau forestier neînregistrat, potrivit legii, sau de către o persoană care nu posedă permis de conducere întrunește condițiile de tipicitate a infracțiunilor prevăzute de art. 334 alin. (1) din Codul penal, respectiv art. 335 alin. (1) din Codul penal“ și stabilește:",
+  "În interpretarea noțiunii de „autovehicul“, prevăzută de art. 334 alin. (1) din Codul penal și art. 335 alin. (1) din Codul penal, raportat la art. 6 pct. 6 și pct. 30 din O.U.G. nr. 195/2002, modificată și completată prin OG nr. 21/26.08.2014, conducerea pe drumurile publice a unui tractor agricol sau forestier neînmatriculat/neînregistrat potrivit legii sau de către o persoană care nu posedă permis de conducere nu întrunește condițiile de tipicitate ale infracțiunilor prevăzute de art. 334 alin. (1) din Codul penal, respectiv de art. 335 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispozițiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "334",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 84
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/2014",
+    "number": "21",
+    "year": "2014",
+    "path": "og/2014/21"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190349",
+  "text_sha256": "96a688c2b707003fe25b8189dce01083868126dfbb7d253a5adaed3928528a64",
+  "catalogue_sha256": "96a688c2b707003fe25b8189dce01083868126dfbb7d253a5adaed3928528a64",
+  "fetched": "2026-11-03T03:19:54Z",
+  "chars": 61708,
+  "portal_id": "190349",
+  "tip": "DECIZIE"
+ }
+}
