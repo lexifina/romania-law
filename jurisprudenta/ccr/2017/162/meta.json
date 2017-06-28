@@ -1,0 +1,152 @@
+{
+ "key": "dcc-162-2017",
+ "label": "Decizia CCR nr. 162/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "162",
+ "date": "2017-03-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 162 din 16 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. XV din Ordonanța de urgență a Guvernului nr. 8/2014 pentru modificarea și completarea unor acte normative și alte măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "491",
+  "bis": false,
+  "date": "2017-06-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "25.819/300/2015",
+  "159D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. XV din Ordonanța de urgență a Guvernului nr. 8/2014 pentru modificarea și completarea unor acte normative și alte măsuri fiscal-bugetare, excepție ridicată de Valentin Vasluianu în Dosarul nr. 25.819/300/2015 al Judecătoriei Sectorului 2 din București - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 din București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190437",
+  "text_sha256": "17c1b04af92727d393831bac8fb2d56caac5284f9357b1b1fe23fdce6473231a",
+  "catalogue_sha256": "17c1b04af92727d393831bac8fb2d56caac5284f9357b1b1fe23fdce6473231a",
+  "fetched": "2026-11-03T03:19:48Z",
+  "chars": 12050,
+  "portal_id": "190437",
+  "tip": "DECIZIE"
+ }
+}
