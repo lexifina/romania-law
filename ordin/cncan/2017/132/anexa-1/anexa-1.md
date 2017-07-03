@@ -1,0 +1,13 @@
+# Anexa nr. 1 la norme
+Definiții
+Accident - reprezintă orice eveniment neintenționat ale cărui consecințe reale sau potențiale sunt semnificative din punctul de vedere al protecției împotriva radiațiilor sau al securității nucleare; în înțelesul prezentelor norme, accidentele reprezintă evenimentele de nivel 4, 5, 6 și 7 pe scala internațională a evenimentelor nucleare și radiologice.
+Cauza directă - reprezintă starea materială, defectul, acțiunea, omisiunea sau condiția care a condus în mod direct la apariția unei condiții anormale; cauza directă poată fi funcționarea defectuoasă a unui echipament, acțiunea/ intervenția defectuoasă a personalului sau o eroare de procedură.
+Cauzele de profunzime - reprezintă cauzele fundamentale care trebuie corectate pentru a preveni reapariția unei condiții anormale.
+Eveniment semnificativ - reprezintă orice condiție anormală care are sau poate avea impact semnificativ asupra securității nucleare, protecției împotriva radiațiilor ionizante, sănătății și securității în muncă, protecției mediului, protecției fizice a instalației și materialelor nucleare sau protecției instalației nucleare împotriva amenințărilor cibernetice.
+Funcție de securitate nucleară - un scop specific care trebuie îndeplinit pentru asigurarea securității nucleare. Funcțiile generale de securitate nucleară sunt următoarele: a) controlul reactivității; pentru un reactor nuclear, această funcție se referă inclusiv la oprirea reactorului și menținerea acestuia într-o stare de oprire sigură pentru o perioadă de timp nedeterminată;
+b) răcirea combustibilului nuclear;
+c) reținerea materialelor radioactive, inclusiv menținerea barierelor fizice în calea eliberării acestora în mediul înconjurător;
+d) monitorizarea stării instalației nucleare și furnizarea serviciilor-suport necesare pentru menținerea funcțiilor prevăzute la lit. a), b) și c).
+Incident - reprezintă orice eveniment neintenționat ale cărui consecințe reale sau potențiale nu sunt neglijabile din punctul de vedere al protecției împotriva radiațiilor sau al securității nucleare; în înțelesul prezentelor norme, incidentele reprezintă evenimentele de nivel 2 și 3 pe scala internațională a evenimentelor nucleare și radiologice.
+SSCE - sistemele, structurile, componentele și echipamentele instalației nucleare.
+SSCE importante pentru securitatea nucleară - sunt acele SSCE care contribuie, direct sau indirect, în condiții de operare normală, în cazul evenimentelor anticipate în exploatare și/sau în condiții de accident, la îndeplinirea funcțiilor generale de securitate nucleară; acestea includ SSCE a căror defectare poate avea un impact advers asupra îndeplinirii unei funcții de securitate nucleară.

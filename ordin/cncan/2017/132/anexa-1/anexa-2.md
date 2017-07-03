@@ -1,0 +1,62 @@
+# Anexa nr. 2 la norme
+Criteriile de raportare către CNCAN a evenimentelor importante
+Secțiunea 1
+Evenimente care se raportează imediat
+Pentru evenimentele din această secțiune, notificarea se face verbal, imediat ce este posibil în funcție de natura evenimentului, de către personalul desemnat de titularul de autorizație.
+Notificarea scrisă se face în maximum 3 zile lucrătoare de la producerea/descoperirea evenimentului, cu excepția situațiilor care impun declararea unei urgențe nucleare sau radiologice, pentru care notificarea la CNCAN se face imediat, verbal și în scris, conform procedurilor de răspuns la urgență aprobate de CNCAN. 1.1.
+Evenimente importante din punctul de vedere al securității nucleare: a) orice situație în care se impune declararea unei urgențe nucleare sau radiologice - alertă cu incident radiologic, urgență internă la instalație, urgență pe amplasament sau urgență generală;
+b) orice eveniment pentru care se impune oprirea reactorului nuclear, conform cerințelor din autorizații și/sau limitelor și condițiilor tehnice de operare;
+c) orice declanșare a sistemelor de securitate nucleară cu funcții protective;
+d) orice scurgere tehnologică de agent de răcire din circuitul primar de transport al căldurii, pentru reactoarele nucleare, care depășește 20 kg/h sau 250 kg la un singur eveniment;
+e) orice incendiu, explozie sau eveniment care implică substanțe chimice, care poate induce o amenințare la adresa securității nucleare sau care poate împiedica personalul de pe amplasament în executarea sarcinilor necesare pentru operarea instalației nucleare în condiții de siguranță;
+f) producerea unui cutremur de pământ care depășește cutremurul bază de amplasament sau cutremurul bază de proiect pentru instalația nucleară;
+g) producerea unei inundații interne sau externe care afectează funcționarea instalației nucleare;
+h) evenimente datorate prezenței umane în interiorul zonei de excludere din jurul instalației nucleare, cum ar fi accidente de transport sau explozii chimice, care ar putea afecta capacitatea instalației nucleare de a funcționa în condiții de siguranță;
+i) orice situație datorată unor cauze naturale sau apărută ca urmare a unor activități umane în zona de excludere, care reprezintă o amenințare reală asupra securității nucleare și necesită acțiuni din partea titularului de autorizație pentru a asigura protecția instalației nucleare, respectiv operarea în condiții de securitate nucleară;
+j) orice defectare/indisponibilitate a SSCE cu funcții de securitate nucleară care poate conduce la defectarea combustibilului nuclear sau la eliberări radioactive în absența sistemelor speciale de securitate, respectiv în cazul indisponibilității uneia din barierele fizice prevăzute prin proiect;
+k) orice situație în care se constată că nu sunt asigurate resursele minime necesare/efectivul minim de personal pentru răspunsul operativ la tranzienți, accidente și situații de urgență.
+1.2.
+Evenimente importante din punctul de vedere al protecției fizice a instalației și materialelor nucleare: a) orice tentativă sau violare a protecției fizice a instalației nucleare sau a materialelor nucleare și orice încercare sau act de sabotaj;
+b) apariția sau iminența unor conflicte industriale sau demonstrații civile care ar putea să afecteze funcționarea instalației nucleare, protecția fizică a acesteia, accesul personalului pe amplasamentul instalației nucleare sau planurile de evacuare în caz de urgență;
+c) orice eveniment care interferează cu operarea sistemului de control garanții nucleare sau care conduce la desfacerea fără aprobare a sigiliilor;
+d) furtul sau pierderea de materiale nucleare;
+e) o întrerupere sau o funcționare defectuoasă a sistemului de protecție fizică sau o deficiență în procedurile aferente care ar putea conduce la nerespectarea cerințelor din autorizații sau la scăderea eficacității măsurilor de detecție, evaluare, întârziere și răspuns la evenimente.
+1.3.
+Evenimente importante din punctul de vedere al protecției radiologice: a) orice eveniment radiologic în exteriorul amplasamentului instalației nucleare care a avut loc în timpul transportului de materiale radioactive sau alte materiale nucleare, titularul de autorizație fiind transportatorul sau beneficiarul acestor materiale;
+b) eliberări de materiale radioactive în efluenții gazoși și lichizi peste limitele derivate de evacuare aprobate de CNCAN;
+c) detectarea creșterii semnificative a câmpurilor de radiații sau a concentrațiilor de radionuclizi artificiali din mediu măsurate pe amplasament sau în vecinătatea instalației nucleare, care are potențialul de a depăși limitele de evacuare în lipsa unor acțiuni;
+d) orice eveniment petrecut pe amplasamentul instalației nucleare care implică manipularea sau transportul de materiale radioactive, care a afectat sau a avut potențialul de a afecta integritatea materialului radioactiv.
+1.4.
+Evenimente importante din punctul de vedere al protecției instalației nucleare împotriva amenințărilor cibernetice: a) orice eveniment de securitate cibernetică în care sunt afectate sistemele, componentele sau echipamentele cu funcții de securitate nucleară, care fac parte din sistemul de protecție fizică, care au funcții în răspunsul la situații de urgență sau care fac parte din sistemul de control de garanții nucleare, precum și orice condiție anormală cu impact real sau potențial asupra securității cibernetice a acestor sisteme, componente sau echipamente;
+b) orice eveniment de securitate cibernetică în care sunt accesate neautorizat sau afectate în orice alt mod bazele de date sau rețeaua de intranet în care sunt stocate informații privind SSCE ale instalației nucleare, procedurile tehnice și administrative și date privind angajații titularului de autorizație.
+1.5.
+Alte evenimente: a) orice eveniment neplanificat care generează o reducere de putere cu mai mult de 10% din puterea nominală, pentru reactoarele nucleare;
+b) orice deconectare neplanificată de la rețeaua națională de alimentare cu energie electrică;
+c) orice eveniment în care o persoană este grav rănită sau își pierde viața în interiorul zonei protejate a instalației nucleare;
+d) orice deversare accidentală în mediu de substanțe chimice peste limitele admise de legislația în vigoare, provenind de la instalația nucleară sau de la alte instalații de pe amplasamentul acesteia.
+Secțiunea a 2-a
+Evenimente care se notifică în scris în maximum 3 zile lucrătoare de la producerea/descoperirea evenimentului 2.1.
+Evenimente importante din punctul de vedere al securității nucleare: a) orice abatere de la limitele și condițiile tehnice de operare, de la limitele și condițiile din autorizațiile în vigoare sau de la limitele și condițiile din documentele la care se face referire în autorizații și care au fost aprobate de CNCAN sau acceptate de CNCAN ca parte a documentației bază de autorizare;
+b) orice eroare procedurală care poate conduce la defectarea combustibilului nuclear sau la eliberări radioactive în absența sistemelor speciale de securitate, respectiv în cazul indisponibilității uneia din barierele fizice prevăzute prin proiect;
+c) orice defectare a SSCE cu funcții de securitate nucleară care sunt creditate în analizele de securitate nucleară din documentația bază de autorizare, dacă defectarea conduce la situația în care sistemul nu își poate realiza funcția de securitate nucleară conform proiectului;
+d) orice defectare a SSCE care sunt creditate în răspunsul la tranzienți, accidente și situații de urgență, inclusiv pentru managementul accidentelor severe, dacă defectarea conduce la situația în care sistemul nu își poate realiza funcția de securitate nucleară conform proiectului;
+e) orice tranzient care a afectat o funcție de securitate nucleară, dacă nu a fost deja raportat în conformitate cu criteriile din secțiunea 1;
+f) orice eveniment care a afectat calificarea la condiții de mediu sau calificarea seismică ale oricărui SSCE cu funcții de securitate nucleară;
+g) orice eveniment care a afectat limitele de temperatură și presiune ale oricărui SSCE cu funcții de securitate nucleară;
+h) orice situație în care se descoperă ca starea SSCE cu funcții de securitate nucleară, respectiv configurația, condiția materială sau performanțele SSCE, nu este conformă cu ipotezele din analizele de securitate nucleară și analizele de tensiuni care fac parte din documentația bază de autorizare pentru instalația nucleară sau cu cerințele din codurile și standardele aplicabile;
+i) orice reducere a eficienței, sub limitele specificațiilor tehnice pentru operarea normală, a sistemelor de control al puterii reactorului, a inventarului și presiunii sistemului primar de transport al căldurii sau pentru protecția turbinei, pentru centralele nuclearoelectrice;
+j) orice deficiență de proiectare, construcție, testare la punerea în funcțiune sau de exploatare care, dacă nu este corectată, ar putea conduce la afectarea sau chiar pierderea unei funcții de securitate nucleară;
+k) identificarea unei probleme de securitate nucleară, în urma analizei experienței de exploatare interne sau externe, care implică sau poate implica un risc radiologic diferit ca natură sau care are o probabilitate de apariție sau consecințe mai mari decât orice risc prevăzut anterior în documentația de securitate nucleară bază de autorizare;
+l) identificarea unei probleme de securitate nucleară, în urma activităților de cercetare sau în urma aplicării unor metode îmbunătățite de efectuare a analizelor de securitate nucleară, care implică sau poate implica un risc radiologic diferit ca natură sau care are o probabilitate de apariție sau consecințe mai mari decât orice risc prevăzut anterior în documentația de securitate nucleară bază de autorizare; la acest punct sunt incluse și situațiile în care se descoperă că ipotezele, datele de intrare, metodele analitice sau rezultatele unei analize de securitate sunt afectate de erori sau sunt invalidate de noi date și informații, provenite, de exemplu, din experiența de exploatare sau din experimente relevante;
+m) orice degradare a sistemelor sau componentelor sub presiune care ar conduce la degajarea unei cantități semnificative de energie care să depășească limitele indicate în analizele bază de proiectare sau în standardele și codurile industriale aplicabile; degradarea include defecte de sudură sau de material, utilizarea incorectă a materialelor, reducerea grosimii peretelui conductelor, modificări ale configurației componentelor, rezultate ale testelor în afara criteriilor de acceptare și apariția scurgerilor care precedă ruperea (Leak Before Break);
+n) orice fisură sau defecțiune a componentelor sub presiune pentru sisteme sub presiune care duce la nerespectarea cerințelor și limitelor din analizele de protecție la suprapresiune;
+o) orice eveniment pentru care este necesară efectuarea unei evaluări tehnice a operabilității SSCE cu funcții de securitate nucleară;
+p) orice situație în care se identifică un comportament sau o degradare neașteptată a SSCE cu funcții de securitate nucleară sau alte condiții care conduc la diminuarea neanticipată a duratei de viață în serviciu a acestora, estimată conform programelor de management al îmbătrânirii.
+2.2.
+Evenimente importante din punctul de vedere al protecției împotriva radiațiilor ionizante: - orice eveniment în urma căruia o persoană primește sau ar fi putut primi o doză de radiații care depășește limitele prevăzute în legislația în vigoare.
+2.3.
+Evenimente importante din punctul de vedere al protecției mediului: - orice deficiență de control și monitorizare a eliberării de materiale radioactive care se impune a fi monitorizată și controlată în permanență.
+2.4.
+Alte evenimente: a) descoperirea oricărui produs, componentă sau echipament contrafăcut, fraudulos sau suspect destinat utilizării în SSCE cu funcții de securitate nucleară sau protecție fizică;
+b) descoperirea de înregistrări falsificate prin contrafacere, alterare ori prin determinarea atestării unor împrejurări necorespunzătoare adevărului sau omisiunea înregistrării unor date sau informații, dacă acestea se referă la SSCE cu funcții de securitate nucleară sau protecție fizică;
+c) defectarea sau deteriorarea unor echipamente cu funcții de securitate nucleară, care nu fac obiectul altor criterii de raportare, în cazul în care timpul necesar remedierii defectului conduce la o contribuție semnificativă la riscul cumulat în 12 luni, exprimat în creșterea frecvenței estimate de avarie a zonei active a reactorului.
