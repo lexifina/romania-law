@@ -1,0 +1,162 @@
+{
+ "key": "dcc-115-2017",
+ "label": "Decizia CCR nr. 115/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "115",
+ "date": "2017-03-09",
+ "year": "2017",
+ "heading": "DECIZIA nr. 115 din 9 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 715 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "523",
+  "bis": false,
+  "date": "2017-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "80.186/301/2014",
+  "45D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "715",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 715 din Codul de procedură civilă, excepție ridicată de Gheorghe Vasile Cornel Ilie în Dosarul nr. 80.186/301/2014 al Judecătoriei Sectorului 3 din București.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 3 din București și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "714",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "715",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190847",
+  "text_sha256": "2c80bc2c4effeffc772f029d393b0fcc1f2ca9f8d83096cb8d92c7b31da1afe3",
+  "catalogue_sha256": "2c80bc2c4effeffc772f029d393b0fcc1f2ca9f8d83096cb8d92c7b31da1afe3",
+  "fetched": "2026-11-03T03:19:28Z",
+  "chars": 15510,
+  "portal_id": "190847",
+  "tip": "DECIZIE"
+ }
+}
