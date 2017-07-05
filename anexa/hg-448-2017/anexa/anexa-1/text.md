@@ -1,0 +1,39 @@
+# Anexa 1
+Anexa nr. 1
+la metodologie
+EXPRIMARE ACORD
+pentru prelucrarea datelor cu caracter personal
+Subsemnatul/a, ......................, domiciliat/ă în ............................, CNP ..............., posesor/posesoare al/a BI/CI/pașaport seria ...... nr. ............, eliberat/ă de ......................... la data de ..................,
+în calitate de: [] adoptat
+[] părinte firesc
+[] rudă biologică
+[] reprezentant legal al minorului ……………, născut la data de …………….…,
+declar următoarele: 1.
+Sunt de acord/Nu sunt de acord ca datele mele cu caracter personal^1 să fie prelucrate de către Autoritatea Națională pentru Protecția Drepturilor Copilului și Adopție, în vederea soluționării cererii referitoare la ................................... (Se completează numai de persoana care are calitate de reprezentant legal al minorului.)
+Sunt de acord/Nu sunt de acord ca datele cu caracter personal^1 ale minorului să fie prelucrate de către Autoritatea Națională pentru Protecția Drepturilor Copilului și Adopție, în vederea soluționării cererii referitoare la ................................
+Notă
+...
+^1 Datele cu caracter personal prevăzute de art. 3 lit. a) al Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date, cu modificările și completările ulterioare.
+2.
+Sunt de acord/Nu sunt de acord cu prelucrarea ulterioară a datelor mele cu caracter personal în scopuri de arhivare.
+3.
+Am luat cunoștință de prevederile art. 3 alin. b) și c) din Legea nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date, cu modificările și completările ulterioare:
+–
+4.
+Am fost informat că datele cu caracter personal pot fi dezvăluite oricăror persoane fizice sau juridice de drept public și privat și structurile teritoriale ale acestora ce urmează să fie implicate în soluționarea cererii menționate la pct. 1.
+5.
+Nu sunt de acord ca datele mele cu caracter personal să fie dezvăluite următorilor destinatari: ..........................................................
+..........................................................
+..........................................................
+(Se completează numai de persoana care are calitate de reprezentant legal al minorului.)
+Nu sunt de acord ca datele cu caracter personal ale minorului să fie dezvăluite următorilor destinatari: ..........................................................
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+6.
+Am luat la cunoștință că, în conformitate cu prevederile Legii nr. 677/2001 , cu modificările și completările ulterioare, am dreptul de acces, de opoziție și de intervenție asupra datelor, dreptul de a nu fi supus unei decizii individuale și dreptul de a mă adresa justiției.
+7.
+Am înțeles că refuzul prelucrării datelor mele cu caracter personal poate conduce la imposibilitatea soluționării cererii menționate la pct. 1. Semnătura Data
