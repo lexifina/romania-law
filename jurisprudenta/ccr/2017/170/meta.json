@@ -1,0 +1,189 @@
+{
+ "key": "dcc-170-2017",
+ "label": "Decizia CCR nr. 170/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "2017-03-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 170 din 16 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. XV din Ordonanța de urgență a Guvernului nr. 8/2014 pentru modificarea și completarea unor acte normative și alte măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "521",
+  "bis": false,
+  "date": "2017-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.254/300/2016",
+  "1.329D/2016",
+  "1.343D/2016",
+  "9.059/300/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ionuț Răzvan Budulac și de Societatea Hobby House Movers - S.R.L. din București în Dosarul nr. 17.254/300/2016, respectiv Dosarul nr. 9.059/300/2016 ale Judecătoriei Sectorului 2 din București - Secția civilă și constată că prevederile art. XV din Ordonanța de urgență a Guvernului nr. 8/2014 pentru modificarea și completarea unor acte normative și alte măsuri fiscal-bugetare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 din București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2014",
+    "number": "8",
+    "year": "2014",
+    "path": "oug/2014/8"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190830",
+  "text_sha256": "04b902d589bffd6d25841fcea1b0d9f4de49b6176b2057d05be4606676145d03",
+  "catalogue_sha256": "04b902d589bffd6d25841fcea1b0d9f4de49b6176b2057d05be4606676145d03",
+  "fetched": "2026-11-03T15:39:52Z",
+  "chars": 19496,
+  "portal_id": "190830",
+  "tip": "DECIZIE"
+ }
+}
