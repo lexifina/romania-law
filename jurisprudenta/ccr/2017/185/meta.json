@@ -1,0 +1,219 @@
+{
+ "key": "dcc-185-2017",
+ "label": "Decizia CCR nr. 185/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "185",
+ "date": "2017-03-21",
+ "year": "2017",
+ "heading": "DECIZIA nr. 185 din 21 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 202 alin. (1) și art. 223 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "521",
+  "bis": false,
+  "date": "2017-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "144/90/2016/a7"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Huseyin Sincar în Dosarul nr. 144/90/2016/a7 al Curții de Apel Pitești - Secția penală și pentru cauze cu minori și de familie și constată că dispozițiile art. 202 alin. (1) și art. 223 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția penală și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190831",
+  "text_sha256": "3b029472215588d864d7efa53cff9b1d8c6441aaaa0728f22f0253912560d776",
+  "catalogue_sha256": "3b029472215588d864d7efa53cff9b1d8c6441aaaa0728f22f0253912560d776",
+  "fetched": "2026-11-06T03:05:35Z",
+  "chars": 21676,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/190831",
+   "timestamp": "20191020125316",
+   "crawl": "CC-MAIN-2019-43",
+   "filename": "crawl-data/CC-MAIN-2019-43/segments/1570986707990.49/warc/CC-MAIN-20191020105426-20191020132926-00273.warc.gz",
+   "offset": "116703337",
+   "length": "24401",
+   "sha256": "924644707c4cf6f1555a1191face1cb98378afea4957e1335696dc960be64a09"
+  },
+  "portal_id": "190831",
+  "tip": "DECIZIE"
+ }
+}
