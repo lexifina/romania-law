@@ -1,0 +1,225 @@
+{
+ "key": "dcc-167-2017",
+ "label": "Decizia CCR nr. 167/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "167",
+ "date": "2017-03-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 167 din 16 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 200 prin raportare la art. 194-197 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2017-07-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "45.586/3/2015/a1",
+  "418D/2016",
+  "455D/2016",
+  "64.381/300/2015/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Elena Lucia Tănasa în Dosarul nr. 45.586/3/2015/a1 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și de Alexandru Sfîrăială în Dosarul nr. 64.381/300/2015/a1 al Judecătoriei Sectorului 2 București - Secția civilă și constată că dispozițiile art. 200 prin raportare la art. 194-197 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și Judecătoriei Sectorului 2 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190857",
+  "text_sha256": "b69f9641feb87292dc2ab06d7b3a4cd56a5f0f81b5bd4c729f0f87092347d2b1",
+  "catalogue_sha256": "b69f9641feb87292dc2ab06d7b3a4cd56a5f0f81b5bd4c729f0f87092347d2b1",
+  "fetched": "2026-11-03T03:19:25Z",
+  "chars": 16530,
+  "portal_id": "190857",
+  "tip": "DECIZIE"
+ }
+}
