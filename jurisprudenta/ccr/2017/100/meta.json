@@ -1,0 +1,220 @@
+{
+ "key": "dcc-100-2017",
+ "label": "Decizia CCR nr. 100/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "100",
+ "date": "2017-03-07",
+ "year": "2017",
+ "heading": "DECIZIA nr. 100 din 7 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 613 alin. (4) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "532",
+  "bis": false,
+  "date": "2017-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "770/44/2014",
+  "201D/2016",
+  "417D/2016",
+  "2.541D/2016",
+  "2.542D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "613",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vlad Mihai, Societatea L&amp;D Construct Serv - S.R.L. din București, Societatea Euroconstruct - S.A. din Chișoda, județul Timiș, prin lichidator judiciar Casa de insolvență Transilvania Filiala Timiș S.P.R.L. din Timișoara, Societatea Construcții Unu - S.A. din Iași, Societatea Iamsat Muntenia - S.A. din București și Comuna Biharia, județul Bihor, în dosarele nr. 770/44/2014, nr. 5.114/2/2014, nr. 5.105/2/2014, nr. 4.982/2/2014, nr. 2.764/2/2015 și nr. 282/35/2015 ale Înaltei Curți de Casație și Justiție - Secția a II-a civilă, precum și de Înalta Curte de Casație și Justiție - Secția a II-a civilă, din oficiu, în dosarele acestei instanțe nr. 122/42/2015, nr. 448/35/2015, nr. 3.589/2/2015 și nr. 5.363/2/2015, și constată că dispozițiile art. 613 alin. (4) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "613",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "608",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190901",
+  "text_sha256": "46e4cef7b5a55cd51a07b7b4df61371ea61afeaf4159a60a70301c7846983c65",
+  "catalogue_sha256": "46e4cef7b5a55cd51a07b7b4df61371ea61afeaf4159a60a70301c7846983c65",
+  "fetched": "2026-11-03T03:19:22Z",
+  "chars": 41697,
+  "portal_id": "190901",
+  "tip": "DECIZIE"
+ }
+}
