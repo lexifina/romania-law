@@ -1,0 +1,328 @@
+{
+ "key": "iccj-hp-penal-20-2017",
+ "label": "Decizia ÎCCJ nr. 20/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "20",
+ "date": "2017-06-14",
+ "year": "2017",
+ "heading": "DECIZIA nr. 20 din 14 iunie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"Dacă sfera de incidență a obligației de păstrare a contraprobelor prevăzută de art. 17 alin. (1) din Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri include și procedeele probatorii ale constatării tehnico-științifice și care este sancțiunea ce poate fi aplicată de către instanța de apel în cazul nerespectării obligației de a păstra contraprobe.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2017-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.211/1/2017",
+  "913/30/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția penală, în Dosarul penal nr. 913/30/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Dacă sfera de incidență a obligației de păstrare a contraprobelor prevăzută de art. 17 alin. (1) din Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri include și procedeele probatorii ale constatării tehnico-științifice și care este sancțiunea ce poate fi aplicată de către instanța de apel în cazul nerespectării obligației de a păstra contraprobe.“",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "574",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "160",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "215-1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "172",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191131",
+  "text_sha256": "2e998c213f65be644a38a7d4a92d6fcd2efca2bc9b54528aecec0218399135b3",
+  "catalogue_sha256": "2e998c213f65be644a38a7d4a92d6fcd2efca2bc9b54528aecec0218399135b3",
+  "fetched": "2026-11-03T03:19:17Z",
+  "chars": 90525,
+  "portal_id": "191131",
+  "tip": "DECIZIE"
+ }
+}
