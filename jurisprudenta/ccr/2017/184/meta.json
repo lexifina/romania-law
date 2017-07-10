@@ -1,0 +1,258 @@
+{
+ "key": "dcc-184-2017",
+ "label": "Decizia CCR nr. 184/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "184",
+ "date": "2017-03-21",
+ "year": "2017",
+ "heading": "DECIZIA nr. 184 din 21 martie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 397 alin. (5) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "542",
+  "bis": false,
+  "date": "2017-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.653/245/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "397",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioan Mircea Samoil în Dosarul nr. 19.653/245/2015 al Curții de Apel Iași - Secția penală și pentru cauze cu minori și constată că dispozițiile art. 397 alin. (5) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "397",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "e",
+      "i",
+      "j"
+     ]
+    },
+    {
+     "art": "486",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191130",
+  "text_sha256": "fc04e6b7f7a4dca93b0aea0c9c5df0c0f8b042547657347320c4df6b00280a81",
+  "catalogue_sha256": "fc04e6b7f7a4dca93b0aea0c9c5df0c0f8b042547657347320c4df6b00280a81",
+  "fetched": "2026-11-06T01:48:48Z",
+  "chars": 16046,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20170713190924/https://legislatie.just.ro/Public/DetaliiDocument/191130",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/191130",
+   "timestamp": "20170713190924",
+   "sha256": "f038ff58ac844eadd6428b4dd73aa60a6ecab72e09bd60025e542bccf563edd6"
+  },
+  "portal_id": "191130",
+  "tip": "DECIZIE"
+ }
+}
