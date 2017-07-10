@@ -1,0 +1,382 @@
+{
+ "key": "dcc-283-2017",
+ "label": "Decizia CCR nr. 283/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "283",
+ "date": "2017-05-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 283 din 4 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 5 alin. (7) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei și ale art. 4 alin. (4), (4^1) și (4^2) și ale art. 6 alin. (2^1), (2^2) și (9) din Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "540",
+  "bis": false,
+  "date": "2017-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.453/33/2015",
+  "822D/2016",
+  "983D/2016",
+  "1.454/33/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "oug/2007/33"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2008",
+    "number": "220",
+    "year": "2008",
+    "path": "lege/2008/220"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de S.C. Renewpower Energy - S.A. din Cluj-Napoca în Dosarul nr. 1.453/33/2015 al Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și de Societatea Pve Project - S.R.L. din Cluj-Napoca în Dosarul nr. 1.454/33/2015 al aceleiași instanțe judecătorești și constată că prevederile art. 5 alin. (7) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei și ale art. 4 alin. (4), (4^1) și (4^2) și ale art. 6 alin. (2^1), (2^2) și (9) din Legea nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "oug/2007/33"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 220/2008",
+    "number": "220",
+    "year": "2008",
+    "path": "lege/2008/220"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4",
+      "4-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "2-1",
+      "9",
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 160/2012",
+    "number": "160",
+    "year": "2012",
+    "path": "lege/2012/160"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii gazelor nr. 351/2004",
+    "number": "351",
+    "year": "2004",
+    "path": "lege/2004/351"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2017",
+    "number": "24",
+    "year": "2017",
+    "path": "oug/2017/24"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 23/2014",
+    "number": "23",
+    "year": "2014",
+    "path": "lege/2014/23"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191103",
+  "text_sha256": "57b4805fe038a6a2c1ebfda9be5f7c8ec6d453b819ae9b420763e86a5f6d5689",
+  "catalogue_sha256": "57b4805fe038a6a2c1ebfda9be5f7c8ec6d453b819ae9b420763e86a5f6d5689",
+  "fetched": "2026-11-03T03:19:17Z",
+  "chars": 38341,
+  "portal_id": "191103",
+  "tip": "DECIZIE"
+ }
+}
