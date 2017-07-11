@@ -1,0 +1,17 @@
+# Anexa nr. 2 la regulament
+DECLARAȚIE
+Subsemnatul................./(numele și prenumele)............., în calitate de............/(director general/administrator unic).............. la Societatea............/(denumirea societății)..............., având forma juridică de.............., cu sediul în localitatea.............., str............. nr....., bl....., sc....., et...., ap....., sectorul/județul..............., nr. telefon....., nr. fax...., e-mail....................., înmatriculată la registrul comerțului cu nr.............., cod unic de înregistrare................, cont deschis la banca..............., sucursala............., declar pe propria răspundere că societatea va respecta și va asigura următoarele condiții impuse pentru montarea și exploatarea sistemelor de repartizare a costurilor pentru încălzire: a) deținerea unui software propriu sau a unei licențe de software pentru repartizarea cheltuielilor de încălzire, adaptat pentru corpurile de încălzire din România;
+b) asigurarea întocmirii fișelor de consum pentru fiecare spațiu cu destinație de locuință, precum și pentru întregul imobil de tip condominiu;
+c) va conveni, de comun acord cu furnizorii de energie termică, aplicația software și modul de transmitere în format electronic a tabelului centralizator cu repartizarea consumurilor individuale de energie termică pentru încălzire de la asociațiile de proprietari/locatari care au optat pentru preluarea în facturare individuală;
+d) asigurarea exploatării sistemelor de repartizare a costurilor pentru încălzire, pe toată durata de viață a acestora; durata de viață este de minimum 10 ani;
+e) acordarea de certificate de garanție pentru robinete termostatate și repartitoare de costuri o perioadă de minimum 3 ani;
+f) acordarea de certificate de garanție pentru montaj o perioadă de minimum 3 ani;
+g) asigurarea postgaranției pe toată durata de viață a sistemelor de repartizare a costurilor, în ceea ce privește efectuarea lucrărilor de întreținere, service, înlocuirea bateriilor și aplicarea sigiliilor;
+h) responsabilitatea corectitudinii alegerii repartitoarelor de costuri în conformitate cu domeniul de utilizare prevăzut în standardele SR EN 834 și SR EN 835, precum și a corectitudinii montajului în conformitate cu specificațiile producătorului;
+i) va notifica asociația de proprietari/locatari cu privire la prevederile art. 10 alin. (5) din Legea nr. 121/2014 privind eficiența energetică, cu modificările și completările ulterioare;
+j) oferta economică transmisă asociațiilor de proprietari/locatari va conține costurile de achiziționare și de montare a setului format dintr-un robinet termostat și un repartitor de costuri pentru un corp de încălzire, costurile defalcate pentru citirea, respectiv repartizarea consumurilor individuale de energie termică pentru încălzire;
+k) va notifica asociația de proprietari/locatari cu privire la necesitatea efectuării echilibrării hidraulice în imobilele de tip condominiu unde s-au efectuat modificări ale instalațiilor interioare de încălzire din acesta față de proiectul inițial.
+Data:................................................................................. (numele și prenumele în clar și semnătura)
+Loc pentru ștampilă
+Către Autoritatea Națională de Reglementare în Domeniul Energiei - Departamentul pentru eficiență energetică
+Comisia de autorizare a persoanelor juridice care desfășoară activități de montare și exploatare a sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu

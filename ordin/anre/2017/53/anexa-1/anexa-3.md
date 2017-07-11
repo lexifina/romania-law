@@ -1,0 +1,16 @@
+# Anexa nr. 3 la regulament
+DECLARAȚIE
+Subsemnatul.........../(numele și prenumele)..........., în calitate de.........../(director general/administrator unic)......... la Societatea.........../(denumirea societății)..........., având forma juridică de..........., cu sediul în localitatea.........., str.......... nr....., bl....., sc....., et....., ap....., sectorul/județul..........., nr. telefon............, nr. fax........., e-mail............., înmatriculată la registrul comerțului cu nr......, cod unic de înregistrare......, cont deschis la banca....., sucursala....., declar pe propria răspundere că societatea va respecta și va asigura următoarele condiții impuse pentru montarea și exploatarea sistemelor de repartizare a costurilor pentru apa caldă de consum: a) respectarea specificațiilor producătorului referitoare la corectitudinea montajului;
+b) asigurarea postgaranției pe toată durata de viață a sistemelor de repartizare a costurilor, în ceea ce privește efectuarea lucrărilor de întreținere, service și aplicarea sigiliilor;
+c) asigurarea întocmirii fișelor de consum pentru fiecare spațiu cu destinație de locuință, precum și pentru întregul imobil de tip condominiu;
+d) convenirea, de comun acord cu furnizorii de energie termică, a aplicației software și a modului de transmitere în format electronic a tabelului centralizator cu repartizarea consumurilor individuale de energie termică pentru apa caldă de consum de la asociațiile de proprietari/locatari care au optat pentru preluarea în facturare individuală;
+e) exploatarea sistemelor de repartizare a costurilor pentru apa caldă de consum pe toată durata de viață a acestora;
+f) va notifica asociația de proprietari/locatari cu privire la prevederile art. 10 alin. (5) din Legea nr. 121/2014 privind eficiența energetică, cu modificările și completările ulterioare;
+g) oferta economică transmisă asociațiilor de proprietari/locatari va conține costurile de montare a filtrelor de impurități pe coloanele de distribuție a apei calde din condominiu, costurile de achiziționare și montare a unui contor de apă caldă utilizat ca repartitor de costuri, costurile de achiziție și montare a repartitoarelor de costuri instalate în locurile de consum din spațiile comune, costurile defalcate pentru citirea, respectiv repartizarea consumurilor individuale de energie termică pentru apa caldă de consum din condominiul respectiv;
+h) declarație pe propria răspundere că la montarea contoarelor de apă caldă utilizate ca repartitoare de costuri va asigura marcarea/aplicarea literelor RC pe fiecare aparat;
+i) acordarea de certificate de garanție pentru contoarele de apă caldă utilizate ca repartitoare de costuri pe o perioadă de minimum 3 ani;
+j) acordarea de certificate de garanție pentru montaj pe o perioadă de minimum 3 ani.
+Data:................................................................................. (numele și prenumele în clar și semnătura)
+Loc pentru ștampilă
+Către Autoritatea Națională de Reglementare în Domeniul Energiei - Departamentul pentru eficiență energetică
+Comisia de autorizare a persoanelor juridice care desfășoară activități de montare și exploatare a sistemelor de repartizare a costurilor pentru încălzire și apă caldă de consum în imobile de tip condominiu
