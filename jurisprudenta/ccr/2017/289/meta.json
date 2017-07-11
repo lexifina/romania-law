@@ -1,0 +1,301 @@
+{
+ "key": "dcc-289-2017",
+ "label": "Decizia CCR nr. 289/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "289",
+ "date": "2017-05-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 289 din 4 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Ordonanței Guvernului nr. 12/2014 pentru modificarea și completarea Legii nr. 11/1991 privind combaterea concurenței neloiale și a altor acte în domeniul protecției concurenței, în ansamblul său, și în special, a prevederilor art. III pct. 1 din Ordonanța Guvernului nr. 12/2014, ale Legii nr. 117/2015 privind aprobarea Ordonanței Guvernului nr. 12/2014 pentru modificarea și completarea Legii nr. 11/1991 privind combaterea concurenței neloiale și a altor acte în domeniul protecției concurenței, în ansamblul său, și, în special, a prevederilor articolului unic pct. 6 din Legea nr. 117/2015, ale Ordonanței de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996, în ansamblul său, și, în special, a prevederilor art. 50 pct. 1 din Ordonanța de urgență a Guvernului nr. 77/2014 și ale Legii nr. 20/2015 pentru aprobarea Ordonanței de urgență a Guvernului nr. 77/2014, în ansamblul său, și, în special, a prevederilor art. I din Legea nr. 20/2015",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "543",
+  "bis": false,
+  "date": "2017-07-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.258/2/2015",
+  "1.079D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 12/2014",
+    "number": "12",
+    "year": "2014",
+    "path": "og/2014/12"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 117/2015",
+    "number": "117",
+    "year": "2015",
+    "path": "lege/2015/117"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 77/2014",
+    "number": "77",
+    "year": "2014",
+    "path": "oug/2014/77"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 20/2015",
+    "number": "20",
+    "year": "2015",
+    "path": "lege/2015/20"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Macromex - S.R.L. din București în Dosarul nr. 3.258/2/2015 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile Ordonanței Guvernului nr. 12/2014 pentru modificarea și completarea Legii nr. 11/1991 privind combaterea concurenței neloiale și a altor acte în domeniul protecției concurenței, în ansamblul său, și în special, prevederile art. III pct. 1 din Ordonanța Guvernului nr. 12/2014, Legea nr. 117/2015 privind aprobarea Ordonanței Guvernului nr. 12/2014 pentru modificarea și completarea Legii nr. 11/1991 privind combaterea concurenței neloiale și a altor acte în domeniul protecției concurenței, în ansamblul său, și, în special, articolul unic pct. 6 din Legea nr. 117/2015, Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996, în ansamblul său, și, în special, art. 50 pct. 1 din Ordonanța de urgență a Guvernului nr. 77/2014 și prevederile Legii nr. 20/2015 pentru aprobarea Ordonanței de urgență a Guvernului nr. 77/2014, în ansamblul său, și, în special, art. I din Legea nr. 20/2015 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 12/2014",
+    "number": "12",
+    "year": "2014",
+    "path": "og/2014/12"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 117/2015",
+    "number": "117",
+    "year": "2015",
+    "path": "lege/2015/117"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2014",
+    "number": "77",
+    "year": "2014",
+    "path": "oug/2014/77"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 20/2015",
+    "number": "20",
+    "year": "2015",
+    "path": "lege/2015/20"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2014",
+    "number": "119",
+    "year": "2014",
+    "path": "lege/2014/119"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191134",
+  "text_sha256": "ece5ecbd7bf3be0bdc9c15e902fcbb67f035da636bd8e4df3ced5cf7d09a5b87",
+  "catalogue_sha256": "ece5ecbd7bf3be0bdc9c15e902fcbb67f035da636bd8e4df3ced5cf7d09a5b87",
+  "fetched": "2026-11-03T03:19:13Z",
+  "chars": 30389,
+  "portal_id": "191134",
+  "tip": "DECIZIE"
+ }
+}
