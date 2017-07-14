@@ -1,0 +1,160 @@
+{
+ "key": "dcc-269-2017",
+ "label": "Decizia CCR nr. 269/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "269",
+ "date": "2017-04-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 269 din 27 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 109 alin. (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "559",
+  "bis": false,
+  "date": "2017-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.516/114/2015",
+  "1.116D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 109 alin. (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, excepție ridicată de Florin Stoian în Dosarul nr. 1.516/114/2015 al Tribunalului Buzău - Secția a-II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Buzău - Secția a-II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului directorului general al Biroului Român de Metrologie Legală nr. 301/2005",
+    "number": "301",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191232",
+  "text_sha256": "f2bc896e24ee7988b7fdebc2114094b3122e44a1f03663bcbc3a6e156b726e91",
+  "catalogue_sha256": "f2bc896e24ee7988b7fdebc2114094b3122e44a1f03663bcbc3a6e156b726e91",
+  "fetched": "2026-11-03T03:19:06Z",
+  "chars": 10229,
+  "portal_id": "191232",
+  "tip": "DECIZIE"
+ }
+}
