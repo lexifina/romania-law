@@ -1,0 +1,200 @@
+{
+ "key": "dcc-265-2017",
+ "label": "Decizia CCR nr. 265/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "265",
+ "date": "2017-04-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 265 din 27 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 257 alin. (3) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în forma anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 88/2013 privind adoptarea unor măsuri fiscal-bugetare pentru îndeplinirea unor angajamente convenite cu organismele internaționale, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "560",
+  "bis": false,
+  "date": "2017-07-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.359/90/2015",
+  "463D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 88/2013",
+    "number": "88",
+    "year": "2013",
+    "path": "oug/2013/88"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Adriana Dinescu Mărăcinescu în Dosarul nr. 3.359/90/2015 al Tribunalului Vâlcea - Secția a II-a civilă și constată că dispozițiile art. 257 alin. (3) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în forma anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 88/2013 privind adoptarea unor măsuri fiscal-bugetare pentru îndeplinirea unor angajamente convenite cu organismele internaționale, precum și pentru modificarea și completarea unor acte normative, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vâlcea - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2013",
+    "number": "88",
+    "year": "2013",
+    "path": "oug/2013/88"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191239",
+  "text_sha256": "3f206e79bacee09c6fc0f14f3efae81dbc5d78be2d1dcde58c8c9ef2f1be8c6c",
+  "catalogue_sha256": "3f206e79bacee09c6fc0f14f3efae81dbc5d78be2d1dcde58c8c9ef2f1be8c6c",
+  "fetched": "2026-11-03T03:19:06Z",
+  "chars": 12950,
+  "portal_id": "191239",
+  "tip": "DECIZIE"
+ }
+}
