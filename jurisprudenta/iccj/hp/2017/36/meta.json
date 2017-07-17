@@ -1,0 +1,383 @@
+{
+ "key": "iccj-hp-36-2017",
+ "label": "Decizia ÎCCJ nr. 36/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "36",
+ "date": "2017-05-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 36 din 15 mai 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 114 alin. (1) lit. b) raportat la dispozițiile art. 6 alin. (1) pct. I lit. d) și art. 6 alin. (1) pct. IV lit. e) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "567",
+  "bis": false,
+  "date": "2017-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.508/1/2016",
+  "11/40/2016",
+  "81/40/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizările conexate formulate de Curtea de Apel Suceava - Secția I civilă în dosarele nr. 11/40/2016 și nr. 81/40/2016 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 114 alin. (1) lit. b) raportat la dispozițiile art. 6 alin. (1) pct. I lit. d) și art. 6 alin. (1) pct. IV lit. e) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, sintagma „venituri de natură profesională, altele decât cele salariale, (...) din contracte/convenții încheiate potrivit Codului civil“ prevăzută de art. 6 alin. (1) pct. I lit. d) din Legea nr. 263/2010, cu modificările și completările ulterioare, are în vedere venituri obținute din activități profesionale exercitate în mod dependent în baza unor contracte sau convenții întemeiate pe dispozițiile Codului civil, cu respectarea principiilor ce guvernează aplicarea în timp a legii civile, iar sintagma „venituri din activități profesionale“ prevăzută de art. 6 alin. (1) pct. IV lit. e) din același act normativ are în vedere veniturile obținute din activități profesionale exercitate independent, conform criteriilor prevăzute în art. 7 alin. (1) pct. 4 din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, pentru perioada 1 ianuarie 2011-31 decembrie 2015, și art. 7 pct. 3 din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, începând cu 1 ianuarie 2016.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "e"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 200/2004",
+    "number": "200",
+    "year": "2004",
+    "path": "lege/2004/200"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 509/2002",
+    "number": "509",
+    "year": "2002",
+    "path": "lege/2002/509"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 178/1934",
+    "number": "178",
+    "year": "1934",
+    "path": "lege/1934/178"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191300",
+  "text_sha256": "fe6151c04a8c77e5323b0f9a0eaa7b0df7189a16235cf480ef8999b83683ab19",
+  "catalogue_sha256": "fe6151c04a8c77e5323b0f9a0eaa7b0df7189a16235cf480ef8999b83683ab19",
+  "fetched": "2026-11-03T03:19:03Z",
+  "chars": 59383,
+  "portal_id": "191300",
+  "tip": "DECIZIE"
+ }
+}
