@@ -1,0 +1,240 @@
+{
+ "key": "iccj-hp-45-2017",
+ "label": "Decizia ÎCCJ nr. 45/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "45",
+ "date": "2017-06-12",
+ "year": "2017",
+ "heading": "DECIZIA nr. 45 din 12 iunie 2017",
+ "subtitle": "referitoare la interpretarea art. 9 alin. (3) și (4) și art. 12 alin. (3) din Legea nr. 393/2004 privind Statutul aleșilor locali",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "565",
+  "bis": false,
+  "date": "2017-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "863/1/2017",
+  "2.446/98/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunțarea unei hotărâri prealabile, formulată de Tribunalul Ialomița - Secția civilă, în Dosarul nr. 2.446/98/2016 și, în consecință, stabilește că:",
+  "Dispozițiile art. 9 alin. (3) și (4) și art. 12 alin. (3) din Legea nr. 393/2004 privind Statutul aleșilor locali, cu modificările și completările ulterioare, se interpretează în sensul că în situația pierderii de către consilierul local sau județean a calității de membru al partidului politic sau al organizației minorităților naționale pe a cărui/cărei listă a fost ales, prefectului îi este recunoscută competența exclusivă de a constata, prin ordin, încetarea mandatului alesului local, înainte de expirarea duratei normale a acestuia, la sesizarea partidului politic sau a organizației cetățenilor aparținând minorităților naționale pe a cărui/cărei listă a fost ales consilierul în cauză.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3",
+      "4",
+      "2"
+     ],
+     "lit": [
+      "h-1",
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 54
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 249/2006",
+    "number": "249",
+    "year": "2006",
+    "path": "lege/2006/249"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2004",
+    "number": "340",
+    "year": "2004",
+    "path": "lege/2004/340"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191290",
+  "text_sha256": "13749302ade331f5de2d516e9a520338f0890e2d26589fa151604c48a653ddce",
+  "catalogue_sha256": "13749302ade331f5de2d516e9a520338f0890e2d26589fa151604c48a653ddce",
+  "fetched": "2026-11-03T03:19:03Z",
+  "chars": 51013,
+  "portal_id": "191290",
+  "tip": "DECIZIE"
+ }
+}
