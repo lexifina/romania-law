@@ -1,0 +1,290 @@
+{
+ "key": "dcc-302-2017",
+ "label": "Decizia CCR nr. 302/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "302",
+ "date": "2017-05-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 302 din 4 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 281 alin. (1) lit. b) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "566",
+  "bis": false,
+  "date": "2017-07-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.914/103/2014",
+  "86/102/2016/a1",
+  "1.474/88/2016",
+  "4.014/108/2016/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Cristinel Mocioi în Dosarul nr. 3.914/103/2014 al Tribunalului Neamț - Secția penală, de Ovidiu Eugen Knobloch în Dosarul nr. 86/102/2016/a1 al Curții de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie, de Budi Rua Doru în Dosarul nr. 1.474/88/2016 al Tribunalului Tulcea - Secția penală, de Delia Marina Podea în Dosarul nr. 4.014/108/2016/a1 al Curții de Apel Timișoara - Secția penală și constată că soluția legislativă cuprinsă în dispozițiile art. 281 alin. (1) lit. b) din Codul de procedură penală, care nu reglementează în categoria nulităților absolute încălcarea dispozițiilor referitoare la competența materială și după calitatea persoanei a organului de urmărire penală, este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Guvernului, celor două Camere ale Parlamentului, Tribunalului Neamț - Secția penală, Curții de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie, Tribunalului Tulcea - Secția penală și Curții de Apel Timișoara - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "282",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "325",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 508/2004",
+    "number": "508",
+    "year": "2004",
+    "path": "lege/2004/508"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 78/2016",
+    "number": "78",
+    "year": "2016",
+    "path": "oug/2016/78"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191291",
+  "text_sha256": "05759d0c356cf6e2f171be3ca746c26f2d1a5d1a3b1339b7847674e65768d8cb",
+  "catalogue_sha256": "05759d0c356cf6e2f171be3ca746c26f2d1a5d1a3b1339b7847674e65768d8cb",
+  "fetched": "2026-11-06T03:05:22Z",
+  "chars": 47375,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/191291",
+   "timestamp": "20260211124748",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506154.34/warc/CC-MAIN-20260211112802-20260211142802-00299.warc.gz",
+   "offset": "244977695",
+   "length": "40502",
+   "sha256": "6f5f8ed8842be9600b840c2e339f1fca5c8779e4f38d065bed797c317c188c53"
+  },
+  "portal_id": "191291",
+  "tip": "DECIZIE"
+ }
+}
