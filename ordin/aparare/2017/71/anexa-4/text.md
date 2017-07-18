@@ -1,0 +1,19 @@
+# Anexa nr. 4 (Anexa nr. 3^1 la criterii și metodologie)
+- Model -
+ROMÂNIA
+MINISTERUL APĂRĂRII NAȚIONALE
+UNITATEA MILITARĂ 0......
+Grad, nume, prenume
+Nr................ din...............
+ȘEFULUI (COMANDANTULUI) UNITĂȚII MILITARE.........
+Raportez:
+Rog aprobați participarea la selecția organizată în vederea încadrării, pe bază de voluntariat, a funcției de...... (ofițer de stat major, observator militar, ofițer de legătură sau denumirea din fișa postului) în teatrul de operații/la misiunea sub egida NATO/ONU/OSCE/UE din....., în perioada......
+Consimt să mă supun regulilor și restricțiilor specifice misiunii desfășurate sub egida NATO/ONU/OSCE/UE, indiferent de riscurile existente, și accept condițiile de retribuire specifice misiunii.
+Menționez că în prezent nu sunt anchetat, cercetat sau judecat pentru săvârșirea vreunei infracțiuni, nu am cunoștință despre existența vreunei acuzații/plângeri la adresa mea referitoare la comiterea sau complicitate la comiterea unei infracțiuni, prin acțiune sau inacțiune, nu am probleme personale care să mă împiedice să particip la misiune, nu figurez în baza de date pentru o altă formă de pregătire și nu am depus candidaturi pentru încadrarea altor funcții militare sau civile în structuri internaționale.
+Dacă voi fi selecționat și nominalizat să particip la misiune, dar nu mai pot participa din motive imputabile mie, mă oblig să suport consecințele legale și/sau disciplinare, precum și costurile aferente procedurilor de selecție și deplasării în și din misiune.
+Dacă voi fi repatriat înainte de terminarea misiunii, din cauze imputabile mie sau la cerere, mă oblig să suport consecințele legale și/sau disciplinare, precum și costurile aferente procedurilor de selecție și ale deplasării în și din misiune.
+Am luat la cunoștință de prevederile Ordinului ministrului apărării naționale nr. M.101/2011 pentru aprobarea Criteriilor și metodologiei privind selecția personalului în vederea participării la misiuni și operații în afara teritoriului statului român, cu modificările și completările ulterioare.
+Menționez că nu sunt suspendat din funcție sau pus la dispoziție în condițiile prevăzute în Legea nr. 80/1995 privind statutul cadrelor militare, cu modificările și completările ulterioare.
+Mă angajez să respect prevederile Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare.
+Data........................
+Semnătura...........................
