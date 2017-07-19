@@ -1,0 +1,11 @@
+# HCGMB nr. 316/2017
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 316/2017
+- Adopted: 2017-07-19
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 188/18.05.2017 PRIVIND APROBAREA EXTINDERII ACTIVITATII AUTORITATII MUNICIPALE DE REGLEMENTARE A SERVICIILOR PUBLICE (AMRSP) IN DOMENIUL SERVICIILOR PUBLICE DE ADMINISTRARE A DOMENIULUI PUBLIC SI PRIVAT DE INTERES LOCAL DIN RASPUNDEREA MUNICIPIULUI BUCURESTI SI INCHEIEREA ACTULUI ADITIONAL NR. 2 LA STATUTUL AMRSP ISI INCETEAZA APLICABILITATEA - PRIN HCGMB NR. 488/2025
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36851
+- Document: https://doc.pmb.ro/legis/acteinterne/2017/36851/H316_17.pdf
+- Document sha256: 71276f5c84c02fd50a754516eb25274cbbf9e105356783e4f770d958524e3aea
