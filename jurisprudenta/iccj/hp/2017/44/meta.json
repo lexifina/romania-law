@@ -1,0 +1,141 @@
+{
+ "key": "iccj-hp-44-2017",
+ "label": "Decizia ÎCCJ nr. 44/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "44",
+ "date": "2017-06-12",
+ "year": "2017",
+ "heading": "DECIZIA nr. 44 din 12 iunie 2017",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Craiova în vederea pronunțării unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "575",
+  "bis": false,
+  "date": "2017-07-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "672/1/2017",
+  "7.461/63/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția contencios administrativ și fiscal, în Dosarul nr. 7.461/63/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dispozițiile art. 59 alin. (3) din Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009, se interpretează în sensul că: – pentru emiterea autorizației de construire, în vederea intrării în legalitate a unei construcții edificate anterior emiterii acesteia, sunt necesare exclusiv documentele prevăzute de această dispoziție legală? sau se interpretează în sensul că: – sunt necesare atât documentele prevăzute de dispozițiile art. 59 alin. (3) din Normele metodologice de aplicare a Legii nr. 50/1991, cât și cele prevăzute de dispozițiile art. 7 din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191421",
+  "text_sha256": "bb822180e6e588d479038801c3cf2d3eea1d668ad203c7f8780a180841e00676",
+  "catalogue_sha256": "bb822180e6e588d479038801c3cf2d3eea1d668ad203c7f8780a180841e00676",
+  "fetched": "2026-11-04T03:12:08Z",
+  "chars": 34404,
+  "portal_id": "191421",
+  "tip": "DECIZIE"
+ }
+}
