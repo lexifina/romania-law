@@ -1,0 +1,147 @@
+{
+ "key": "cedo-9164-02-2009-03-10",
+ "label": "CEDO, Ichim c. României, 2009-03-10",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2009-03-10",
+ "year": "2009",
+ "heading": "HOTĂRÂRE din 10 martie 2009",
+ "subtitle": "în Cauza Ichim împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A TREIA",
+ "mo": {
+  "number": "575",
+  "bis": false,
+  "date": "2017-07-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "9164/02"
+ ],
+ "case_name": "Ichim",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. alătură fondului excepția preliminară a Guvernului referitoare la neepuizarea căilor de atac interne și o respinge;",
+  "2. declară cererea admisibilă;",
+  "3. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191422",
+  "text_sha256": "f488ecb9a118ae8963c7fbf7d498f00a82c8eece560d222413c705bdbd745393",
+  "catalogue_sha256": "f488ecb9a118ae8963c7fbf7d498f00a82c8eece560d222413c705bdbd745393",
+  "fetched": "2026-11-03T03:18:57Z",
+  "chars": 24227,
+  "portal_id": "191422",
+  "tip": "HOTĂRÂRE"
+ }
+}
