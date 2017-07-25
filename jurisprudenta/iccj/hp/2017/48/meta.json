@@ -1,0 +1,286 @@
+{
+ "key": "iccj-hp-48-2017",
+ "label": "Decizia ÎCCJ nr. 48/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "48",
+ "date": "2017-06-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 48 din 19 iunie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 126 alin. (1) lit. a) și art. 129 din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, art. 98 alin. (1) lit. g^1) și art. 106^5 din Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "595",
+  "bis": false,
+  "date": "2017-07-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "390/1/2017",
+  "34.946/3/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g-1"
+     ]
+    },
+    {
+     "art": "106-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a IV-a civilă în Dosarul nr. 34.946/3/2013 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 126 alin. (1) lit. a) și art. 129 din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, art. 98 alin. (1) lit. g^1) și art. 106^5 din Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, cu modificările și completările ulterioare, colectarea de către organismul de gestiune colectivă a remunerațiilor cuvenite artiștilor interpreți și executanți pentru radiodifuzarea sau comunicarea publică a înregistrărilor sonore conținând fixarea prestațiilor artistice ale acestora nu reprezintă o operațiune impozabilă din punctul de vedere al taxei pe valoarea adăugată.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "127",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "134",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g-1"
+     ]
+    },
+    {
+     "art": "106-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134-2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191637",
+  "text_sha256": "a557e8d6078eb3d5409e92852d6b44b01c7308503423272e584ee630925d9c74",
+  "catalogue_sha256": "a557e8d6078eb3d5409e92852d6b44b01c7308503423272e584ee630925d9c74",
+  "fetched": "2026-11-03T03:18:38Z",
+  "chars": 61725,
+  "portal_id": "191637",
+  "tip": "DECIZIE"
+ }
+}
