@@ -1,0 +1,207 @@
+{
+ "key": "dcc-260-2017",
+ "label": "Decizia CCR nr. 260/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "260",
+ "date": "2017-04-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 260 din 27 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 alin. (1) din anexa nr. VI la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice și ale art. 10 alin. (2) din anexa nr. VI la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2017-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "807/103/2015",
+  "335D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Felicia Marian în Dosarul nr. 807/103/2015 al Curții de Apel Bacău - Secția I civilă și constată că dispozițiile art. 12 alin. (1) din anexa nr. VI la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice și ale art. 10 alin. (2) din anexa nr. VI la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Bacău - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": [
+      "w"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191699",
+  "text_sha256": "9ac9a1908524dd920ddb24ae6ed60438d0c72a184bb1be767586491dfb7510cf",
+  "catalogue_sha256": "9ac9a1908524dd920ddb24ae6ed60438d0c72a184bb1be767586491dfb7510cf",
+  "fetched": "2026-11-03T03:18:35Z",
+  "chars": 18020,
+  "portal_id": "191699",
+  "tip": "DECIZIE"
+ }
+}
