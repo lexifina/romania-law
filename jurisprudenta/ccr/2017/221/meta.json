@@ -1,0 +1,236 @@
+{
+ "key": "dcc-221-2017",
+ "label": "Decizia CCR nr. 221/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "221",
+ "date": "2017-04-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 221 din 4 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a art. 1 alin. (13) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "614",
+  "bis": false,
+  "date": "2017-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.332/105/2015",
+  "978D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Victor Năstase, Sanda Radu, Loredana Țurcan, Tudorița Popa și Eugenia Slăniceanu în Dosarul nr. 8.332/105/2015 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 1 alin. (13) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "13",
+      "5-5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2015",
+    "number": "293",
+    "year": "2015",
+    "path": "lege/2015/293"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 35/2015",
+    "number": "35",
+    "year": "2015",
+    "path": "oug/2015/35"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 70/2014",
+    "number": "70",
+    "year": "2014",
+    "path": "oug/2014/70"
+   },
+   "articles": [
+    {
+     "art": "1-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191758",
+  "text_sha256": "1238610baad2b8e727a799f4e180a08c9236b09aada8c0336f494cfa510a3697",
+  "catalogue_sha256": "1238610baad2b8e727a799f4e180a08c9236b09aada8c0336f494cfa510a3697",
+  "fetched": "2026-11-03T03:18:29Z",
+  "chars": 18600,
+  "portal_id": "191758",
+  "tip": "DECIZIE"
+ }
+}
