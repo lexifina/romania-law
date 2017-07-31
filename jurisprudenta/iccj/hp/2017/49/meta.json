@@ -1,0 +1,225 @@
+{
+ "key": "iccj-hp-49-2017",
+ "label": "Decizia ÎCCJ nr. 49/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "49",
+ "date": "2017-06-26",
+ "year": "2017",
+ "heading": "DECIZIA nr. 49 din 26 iunie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept cu privire la încălcarea dispozițiilor art. 96 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "616",
+  "bis": false,
+  "date": "2017-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "899/1/2017",
+  "385/262/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dâmbovița - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 385/262/2016 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "– dacă încălcarea dispoziției legale prevăzute de art. 96 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare - prin neconsemnarea în procesul-verbal (I) a sancțiunii complementare a suspendării dreptului de a conduce, (II) a intervalului de timp (conținutul concret al sancțiunii complementare) în care este suspendat dreptul de conducere și (III) a temeiului juridic - este sancționată cu nulitatea parțială a procesului-verbal și atrage anularea inclusiv a mențiunilor privind măsura reținerii permisului de conducere, nulitate ce nu poate fi înlăturată sau este suficientă numai consemnarea măsurii tehnico-administrative a reținerii permisului de conducere pentru valabilitatea procesului-verbal, inclusiv cu privire la măsura complementară de suspendare, durată și temei juridic;",
+  "– dacă încălcarea dispozițiilor art. 96 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare, prin raportare la interesul ocrotit, poate fi invocată de instanță, este sancționată cu nulitatea absolută sau relativă și este o nulitate procedurală, ce poate sau nu poate fi înlăturată sau este o nulitate materială.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191776",
+  "text_sha256": "c894475f2e753509ce4d038043ba45b7a57f9cc81dad62dc63b4663fa1173759",
+  "catalogue_sha256": "c894475f2e753509ce4d038043ba45b7a57f9cc81dad62dc63b4663fa1173759",
+  "fetched": "2026-11-03T03:18:27Z",
+  "chars": 63791,
+  "portal_id": "191776",
+  "tip": "DECIZIE"
+ }
+}
