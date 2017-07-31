@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, întrunit în ședința publică în data de 31 iulie 2017;
+Având în vedere Expunerea de motive nr.10953/2017 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.10954/2017 al Biroului cadastru și Avizul Comisiei pentru amenajarea teritoriului și urbanism, administrarea domeniului public și privat, realizarea lucrărilor publice, protecția mediului, turism, conservarea monumentelor istorice și arhitectură a Consiliului Local;
+În baza prevederilor art. 21 din Legea nr. 213/1998 privind proprietatea publică și regimul juridic al acesteia, cu modificările și completările ulterioare, Legii nr. 7/1996 a cadastrului și a publicității imobiliare, republicată, cu modificările și completările ulterioare, HG nr. 966/2002 – anexa nr. 5, HCL nr. 47/1999 și ale art. 36 alin. 2 lit. c din Legea nr. 215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+În temeiul art. 45 alin. 3 din Legea nr. 215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+H O T Ă R Ă Ș T E:
