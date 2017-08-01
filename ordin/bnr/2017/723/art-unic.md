@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții financiare nebancare ținut la Banca Națională a României a Societății PURPLE FINANCIAL SERVICES IFN - S.A., cu sediul în București, str. Prof. Gheorghe Țițeica nr. 142, camera 5, sectorul 2, înregistrată la registrul comerțului cu nr. J40/5453/2015, cod unic de înregistrare 33333761, înscrisă în Registrul general cu nr. RG-PJR-41-110298, la secțiunea k) - „Activități multiple de creditare”.
