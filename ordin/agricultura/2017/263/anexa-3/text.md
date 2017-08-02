@@ -1,0 +1,33 @@
+# Anexa nr. 3 (Anexa nr. 11 la procedurile specifice) (model)
+SC/PFA/ÎI/ÎF/PF...........................
+CUI/CNP...................................
+ID APIA...................................
+Sediul/Domiciliul.........................
+Localitatea...............................
+Județul...................................
+SITUAȚIA CENTRALIZATOARE a cantităților de apă pentru irigații
+Perioada.................. anul.......
+```
+┌────┬────────────┬───────────────────────┬────────────────────────┬──────────┐
+│Nr. │ Furnizorul │ Nr. facturii fiscale/ │ Data facturii fiscale/ │Cantitatea│
+│crt.│            │ nr. procesului-verbal │ data procesului-verbal │  de apă  │
+│    │            │    de confirmare a    │    de confirmare a     │   (mc)   │
+│    │            │   volumului de apă    │    volumului de apă    │          │
+│    │            │livrat pentru irigații,│ livrat pentru irigații,│          │
+│    │            │întocmit de către ANIF │ întocmit de către ANIF │          │
+├────┼────────────┼───────────────────────┼────────────────────────┼──────────┤
+│    │            │                       │                        │          │
+├────┼────────────┼───────────────────────┼────────────────────────┼──────────┤
+│    │            │                       │                        │          │
+├────┼────────────┼───────────────────────┼────────────────────────┼──────────┤
+│    │            │                       │                        │          │
+├────┼────────────┼───────────────────────┼────────────────────────┼──────────┤
+│    │            │                       │                        │          │
+├────┴────────────┴───────────────────────┴────────────────────────┼──────────┤
+│ TOTAL:                                                           │          │
+└──────────────────────────────────────────────────────────────────┴──────────┘
+```
+Data........................
+Numele și prenumele.........................
+Funcția................................................ (administrator, reprezentant legal, după caz)
+Semnătura și ștampila, după caz.........................
