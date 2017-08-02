@@ -1,0 +1,245 @@
+{
+ "key": "dcc-268-2017",
+ "label": "Decizia CCR nr. 268/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "268",
+ "date": "2017-04-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 268 din 27 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 9 alin. (1) lit. v) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2017-08-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.868/2/2015",
+  "1.096D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "v"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ecopim Recycling - S.A. din București în Dosarul nr. 7.868/2/2015 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile art. 9 alin. (1) lit. v) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 384/2013",
+    "number": "384",
+    "year": "2013",
+    "path": "lege/2013/384"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 31/2013",
+    "number": "31",
+    "year": "2013",
+    "path": "og/2013/31"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": [
+      "v"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "lege/2006/105"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "v",
+      "d"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 39/2016",
+    "number": "39",
+    "year": "2016",
+    "path": "oug/2016/39"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului mediului, apelor și pădurilor nr. 2.413/2016",
+    "number": "2413",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191981",
+  "text_sha256": "c911e7b6ca3da1d7962067d46b7c0e7b9b8f2668fb6140db709febf94f7785b5",
+  "catalogue_sha256": "c911e7b6ca3da1d7962067d46b7c0e7b9b8f2668fb6140db709febf94f7785b5",
+  "fetched": "2026-11-03T03:18:19Z",
+  "chars": 21145,
+  "portal_id": "191981",
+  "tip": "DECIZIE"
+ }
+}
