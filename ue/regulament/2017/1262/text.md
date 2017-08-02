@@ -1,0 +1,56 @@
+REGULAMENTUL (UE) 2017/1262 AL COMISIEI
+din 12 iulie 2017
+de modificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește utilizarea dejecțiilor provenite de la animalele de fermă drept combustibil în instalațiile de ardere
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+Având în vedere Regulamentul (CE) nr. 1069/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de abrogare a Regulamentului (CE) nr. 1774/2002 (Regulament privind subprodusele de origine animală) (1), în special articolul 15 alineatul (1) litera (e) și articolul 27 litera (i),
+întrucât:
+(1) Regulamentul (UE) nr. 142/2011 al Comisiei (2) stabilește normele de punere în aplicare a Regulamentului (CE) nr. 1069/2009, inclusiv parametrii pentru eliminarea subproduselor de origine animală și pentru tratarea, transformarea sau prelucrarea în condiții de siguranță a subproduselor de origine animală în vederea obținerii de produse derivate.
+(2) În conformitate cu Regulamentul (CE) nr. 1069/2009, combustia, astfel cum este definită la punctul 41 din anexa I la Regulamentul (UE) nr. 142/2011, este unul dintre procesele utilizate pentru eliminarea subproduselor de origine animală, inclusiv a dejecțiilor.
+(3) Articolul 6 din Regulamentul (UE) nr. 142/2011 stabilește normele privind aprobarea instalațiilor de ardere care utilizează subproduse de origine animală drept combustibil. La acest articol, alineatul (8) ar trebui modificat în consecință, pentru a aborda utilizarea dejecțiilor provenite de la animalele de fermă drept combustibil.
+(4) Dejecțiile provenite de la animalele de fermă pot reprezenta o sursă sustenabilă de combustibil pentru ardere, cu condiția ca procesul de combustie să respecte cerințe specifice în vederea reducerii eficiente a efectelor adverse pe care utilizarea dejecțiilor respective drept combustibil le are asupra sănătății animalelor, asupra sănătății publice și asupra mediului. Regulamentul (UE) nr. 592/2014 al Comisiei (3) a introdus cerințe în ceea ce privește utilizarea dejecțiilor provenite de la păsările de curte drept combustibil în instalațiile de ardere Acest regulament stabilește cerințe generale pentru orice instalație care utilizează drept combustibil subproduse de origine animală sau produse derivate, precum și cerințe specifice privind tipul de combustibil și tipul de instalație de ardere. În prezent, dejecțiile provenite de la animalele de fermă din alte specii decât păsările de curte pot fi utilizate, la rândul lor, drept combustibil în instalațiile de ardere cu o putere termică nominală totală de maximum 50 MW, în aceleași condiții ca cele stabilite pentru combustia dejecțiilor provenite de la păsările de curte, inclusiv limitele de emisii și cerințele de monitorizare.
+(5) Operatorii instalațiilor de ardere care utilizează drept combustibil dejecțiile provenite de la animalele de fermă ar trebui să ia măsurile de igienă necesare pentru a preveni răspândirea unor posibili agenți patogeni. În acest sens, aceste instalații ar trebui să respecte cerințele generale privind utilizarea drept combustibil a subproduselor de origine animală și a produselor derivate, astfel cum sunt prevăzute în capitolul IV din anexa III la Regulamentul (UE) nr. 142/2011, precum și cerințele specifice privind anumite tipuri de instalații și de combustibili care pot fi utilizați pentru ardere, cerințe ce urmează să fie stabilite de prezentul regulament.
+(6) Din cauza compoziției lor, dejecțiile provenite de la erbivore produc, prin ardere, emisii de particule mai mari decât cele produse prin arderea dejecțiilor provenite de la păsările de curte. Pentru a soluționa această problemă, prezentul regulament ar trebui să prevadă valori limită mai flexibile ale emisiilor de particule pentru fiecare instalație de ardere de foarte mici dimensiuni, pentru a permite eliminarea dejecțiilor care nu pot fi eliminate altfel sub formă de combustibil pentru ardere.
+(7) În mod similar, prezentul regulament ar trebui să permită autorităților competente să acorde instalațiilor de ardere existente o perioadă de tranziție pentru ca acestea să se conformeze cerințelor privind creșterea controlată a temperaturii gazelor, cu condiția ca emisiile respective să nu prezinte riscuri pentru sănătatea animalelor, pentru sănătatea publică sau pentru mediu. Legislația privind subprodusele de origine animală nu împiedică statele membre să aplice normele relevante în materie de calculare a valorilor limită de emisii, stabilite în legislația de mediu, atunci când dejecțiile provenite de la animalele de fermă sunt arse împreună cu alți combustibili sau cu alte deșeuri.
+(8) Anexa XVI la Regulamentul (UE) nr. 142/2011 prevede cerințe specifice privind controalele oficiale. Ca urmare a introducerii, prin prezentul regulament, a unor cerințe privind arderea drept combustibil a dejecțiilor provenite de la animalele de fermă, respectivele cerințe specifice ar trebui să se aplice și în cazul acestui proces.
+(9) Anexele III și XVI la Regulamentul (CE) nr. 142/2011 ar trebui modificate în consecință.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+În Regulamentul (UE) nr. 142/2011, la articolul 6, alineatul (8) se înlocuiește cu următorul text:
+„(8) Pentru utilizarea dejecțiilor provenite de la animalele de fermă drept combustibil pentru ardere, în conformitate cu capitolul V din anexa III, se aplică următoarele norme, în plus față de cele menționate la alineatul (7) de la prezentul articol:
+(a) cererea de autorizare transmisă de operator autorității competente în conformitate cu articolul 24 alineatul (1) litera (d) din Regulamentul (CE) nr. 1069/2009 trebuie să conțină dovezi certificate de autoritatea competentă sau de o organizație profesională autorizată de autoritățile competente din statul membru în cauză, din care să rezulte că instalația de ardere în care dejecțiile provenite de la animalele de fermă sunt utilizate drept combustibil respectă pe deplin cerințele stabilite la punctul B subpunctele 3, 4 și 5 din capitolul V din anexa III la prezentul regulament, fără a aduce atingere posibilității autorităților competente din statul membru în cauză de a acorda o derogare de la respectarea anumitor dispoziții în conformitate cu punctul C subpunctul 4 din capitolul V din anexa III;
+(b) procedura de autorizare prevăzută la articolul 44 din Regulamentul (CE) nr. 1069/2009 nu este încheiată decât după efectuarea, în cursul primelor șase luni de funcționare a instalației de ardere, a cel puțin două verificări consecutive, dintre care una neanunțată, de către autoritatea competentă sau de către o organizație profesională autorizată de autoritatea respectivă, incluzând măsurătorile necesare privind temperatura și emisiile. După ce rezultatele verificărilor respective demonstrează conformitatea cu cerințele stabilite la punctul B subpunctele 3, 4 și 5 și, dacă este cazul, la punctul C subpunctul 4 din capitolul V din anexa III la prezentul regulament, se poate acorda autorizația completă.”
+Articolul 2
+Anexele III și XVI la Regulamentul (UE) nr. 142/2011 se modifică în conformitate cu textul din anexa la prezentul regulament.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 12 iulie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 300, 14.11.2009, p. 1.
+(2) Regulamentul (UE) nr. 142/2011 al Comisiei din 25 februarie 2011 de punere în aplicare a Regulamentului (CE) nr. 1069/2009 al Parlamentului European și al Consiliului de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de punere în aplicare a Directivei 97/78/CE a Consiliului în ceea ce privește anumite probe și produse care sunt scutite de la controalele sanitar-veterinare la frontieră în conformitate cu directiva menționată (JO L 54, 26.2.2011, p. 1).
+(3) Regulamentul (UE) nr. 592/2014 al Comisiei din 3 iunie 2014 de modificare a Regulamentului (UE) nr. 142/2011 în ceea ce privește utilizarea subproduselor de origine animală și a produselor derivate drept combustibil în instalațiile de ardere (JO L 165, 4.6.2014, p. 33).
+ANEXĂ
+Anexele III și XVI la Regulamentul (UE) nr. 142/2011 se modifică după cum urmează:
+1. În capitolul V din anexa III, se adaugă următorul punct C:
+„C. Instalații de ardere în care se utilizează drept combustibil dejecții provenite de la animalele de fermă, altele decât dejecțiile provenite de la păsările de curte prevăzute la punctul B
+1. Tipul de instalație:
+Instalație de ardere cu o putere termică nominală totală de maximum 50 MW.
+2. Materii prime:
+Doar dejecții provenite de la animalele de fermă, altele decât dejecțiile provenite de la păsările de curte prevăzute la punctul B, care urmează să fie utilizate drept combustibil pentru ardere în conformitate cu cerințele stabilite la punctul 3.
+Arderea altor subproduse de origine animală sau a altor produse derivate, utilizate drept combustibil, nu este permisă în instalațiile de ardere menționate la punctul 1. Dejecțiile provenite de la animalele de fermă, altele decât dejecțiile provenite de la păsările de curte prevăzute la punctul B, generate în afara exploatației nu trebuie să intre în contact cu animalele de fermă.
+3. Metodologie:
+Instalațiile de ardere în care se utilizează drept combustibil dejecții provenite de la animalele de fermă, altele decât dejecțiile provenite de la păsările de curte prevăzute la punctul B, respectă cerințele stabilite la punctul B subpunctele 3, 4 și 5.
+4. Derogare și perioadă de tranziție:
+Autoritatea competentă din statul membru în cauză, responsabilă cu aspectele de mediu, poate:
+(a) prin derogare de la punctul B subpunctul 3 litera (b) punctul (ii), să acorde instalațiilor de ardere aflate în stare de funcționare la 2 august 2017 o perioadă de timp suplimentară de maximum 6 ani pentru a se conforma cerințelor capitolului IV secțiunea 2 punctul 2 primul paragraf din anexa III la prezentul regulament;
+(b) prin derogare de la punctul B subpunctul 4, să autorizeze emisii de particule de maximum 50 mg/m3, cu condiția ca puterea termică nominală totală a instalațiilor de ardere să nu depășească 5 MW;
+(c) prin derogare de la punctul B subpunctul 3 litera (b) punctul (i), să autorizeze introducerea manuală a dejecțiilor provenite de la ecvidee drept combustibil în camera de ardere, în cazul în care puterea termică nominală totală nu depășește 0,5 MW.”
+2. În anexa XVI, secțiunea 12 de la capitolul III se înlocuiește cu următorul text:
+„Secțiunea 12
+Controalele oficiale ale instalațiilor autorizate pentru arderea subproduselor de origine animală
+Autoritatea competentă efectuează verificări ale documentelor în conformitate cu procedurile menționate la articolul 6 alineatele (7) și (8) în instalațiile autorizate menționate în capitolul V din anexa III.”
