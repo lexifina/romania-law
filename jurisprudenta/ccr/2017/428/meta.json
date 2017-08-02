@@ -1,0 +1,195 @@
+{
+ "key": "dcc-428-2017",
+ "label": "Decizia CCR nr. 428/2017",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "428",
+ "date": "2017-06-21",
+ "year": "2017",
+ "heading": "DECIZIA nr. 428 din 21 iunie 2017",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a dispozițiilor Hotărârii Camerei Deputaților nr. 37/2017 privind modificarea și completarea Regulamentului Camerei Deputaților",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "626",
+  "bis": false,
+  "date": "2017-08-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.754C/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată și constată că dispozițiile Hotărârii Camerei Deputaților nr. 37/2017 privind modificarea și completarea Regulamentului Camerei Deputaților sunt constituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Camerei Deputaților și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 286/2009",
+    "number": "286",
+    "year": "2009",
+    "path": "lege/2009/286"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191973",
+  "text_sha256": "d06831a59b25449e198b2a05aaae26c11ab9b7205845093e5f73d9f10960d345",
+  "catalogue_sha256": "d06831a59b25449e198b2a05aaae26c11ab9b7205845093e5f73d9f10960d345",
+  "fetched": "2026-11-03T03:18:19Z",
+  "chars": 27563,
+  "portal_id": "191973",
+  "tip": "DECIZIE"
+ }
+}
