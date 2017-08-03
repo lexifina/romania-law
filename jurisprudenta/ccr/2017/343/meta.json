@@ -1,0 +1,217 @@
+{
+ "key": "dcc-343-2017",
+ "label": "Decizia CCR nr. 343/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "343",
+ "date": "2017-05-11",
+ "year": "2017",
+ "heading": "DECIZIA nr. 343 din 11 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 alin. (1) lit. c) și ale art. 16 alin. (2) lit. h) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "634",
+  "bis": false,
+  "date": "2017-08-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.361/89/2015",
+  "511D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 12 alin. (1) lit. c) și ale art. 16 alin. (2) lit. h) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, excepție ridicată de Tribunalul Vaslui - Secția civilă, din oficiu, în Dosarul nr. 2.361/89/2015.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vaslui - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 66/2016",
+    "number": "66",
+    "year": "2016",
+    "path": "lege/2016/66"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 116/2009",
+    "number": "116",
+    "year": "2009",
+    "path": "lege/2009/116"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/191996",
+  "text_sha256": "d0ca4beca551b2da606d5cf9b05ec9ce965ce3f14420760ab2d05a7179c6ab1b",
+  "catalogue_sha256": "d0ca4beca551b2da606d5cf9b05ec9ce965ce3f14420760ab2d05a7179c6ab1b",
+  "fetched": "2026-11-03T03:18:15Z",
+  "chars": 20916,
+  "portal_id": "191996",
+  "tip": "DECIZIE"
+ }
+}
