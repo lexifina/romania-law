@@ -1,0 +1,206 @@
+{
+ "key": "dcc-281-2017",
+ "label": "Decizia CCR nr. 281/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "281",
+ "date": "2017-05-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 281 din 4 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 50 alin. (1) din Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "633",
+  "bis": false,
+  "date": "2017-08-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.245/211/2016",
+  "818D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mihai Seplecan în Dosarul nr. 7.245/211/2016 al Judecătoriei Cluj-Napoca și constată că dispozițiile art. 50 alin. (1) din Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Cluj-Napoca și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192021",
+  "text_sha256": "2710dd281a53e87e00f55b207779d9034c1b30f1d0e1530b86fcb43a498e041d",
+  "catalogue_sha256": "2710dd281a53e87e00f55b207779d9034c1b30f1d0e1530b86fcb43a498e041d",
+  "fetched": "2026-11-03T03:18:11Z",
+  "chars": 16537,
+  "portal_id": "192021",
+  "tip": "DECIZIE"
+ }
+}
