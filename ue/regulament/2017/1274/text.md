@@ -1,0 +1,47 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/1274 AL COMISIEI
+din 14 iulie 2017
+de aprobare a clorului activ eliberat din hipoclorit de calciu ca substanță activă existentă destinată utilizării în produsele biocide aparținând tipurilor de produs 2, 3, 4 și 5
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide (1), în special articolul 89 alineatul (1) al treilea paragraf,
+întrucât:
+(1) Regulamentul delegat (UE) nr. 1062/2014 (2) al Comisiei stabilește o listă de substanțe active existente care trebuie evaluate în vederea unei eventuale aprobări pentru utilizarea în produse biocide. Pe lista respectivă figurează și clorul activ eliberat din hipoclorit de calciu (denumit în continuare „hipoclorit de calciu”).
+(2) Hipocloritul de calciu a fost evaluat în conformitate cu articolul 16 alineatul (2) din Directiva 98/8/CE a Parlamentului European și a Consiliului (3) în vederea utilizării în produse care aparțin tipului de produs 2, dezinfectanți utilizați în domeniul privat și în domeniul sănătății publice și alte produse biocide, tipului de produs 3, produse biocide destinate igienei veterinare, tipului de produs 4, dezinfectanți pentru suprafețele în contact cu produsele alimentare sau hrana pentru animale, și tipului de produs 5, dezinfectanți pentru apa potabilă, astfel cum sunt definite în anexa V la directiva respectivă, care corespund tipurilor de produs 2, 3, 4 și 5 definite în anexa V la Regulamentul (UE) nr. 528/2012.
+(3) Italia a fost desemnată drept autoritate competentă responsabilă cu evaluarea și a transmis rapoartele de evaluare însoțite de recomandările sale, la 7 iulie 2010.
+(4) În conformitate cu articolul 7 alineatul (2) din Regulamentul delegat (UE) nr. 1062/2014, avizele Agenției Europene pentru Produse Chimice au fost formulate la 14 decembrie 2016 de către Comitetul pentru produse biocide, luând în considerare concluziile autorității competente responsabile cu evaluarea.
+(5) Conform avizelor respective, este de așteptat ca produsele biocide care aparțin tipurilor de produs 2, 3, 4 și 5 și care conțin hipoclorit de calciu să îndeplinească cerințele de la articolul 5 din Directiva 98/8/CE, sub rezerva respectării anumitor specificații și condiții referitoare la utilizarea acestei substanțe.
+(6) Prin urmare, este adecvat să se aprobe utilizarea substanței hipoclorit de calciu în produsele biocide aparținând tipurilor de produs 2, 3, 4 și 5, sub rezerva îndeplinirii anumitor specificații și condiții.
+(7) Ar trebui ca, înainte de aprobarea unei substanțe active, să se permită trecerea unei perioade de timp rezonabile pentru a li se permite părților interesate să ia măsurile pregătitoare necesare pentru a îndeplini noile cerințe.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru produse biocide,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Substanța clor activ eliberat din hipoclorit de calciu se aprobă ca substanță activă destinată utilizării în produsele biocide aparținând tipurilor de produs 2, 3, 4 și 5, sub rezerva respectării specificațiilor și condițiilor prevăzute în anexă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 14 iulie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 167, 27.6.2012, p. 1.
+(2) Regulamentul delegat (UE) nr. 1062/2014 al Comisiei din 4 august 2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide, menționat în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (JO L 294, 10.10.2014, p. 1).
+(3) Directiva 98/8/CE a Parlamentului European și a Consiliului din 16 februarie 1998 privind comercializarea produselor biodestructive (JO L 123, 24.4.1998, p. 1).
+ANEXĂ
+Denumirea comună | Denumirea IUPAC Numerele de identificare | Gradul minim de puritate a substanței active(1) | Data aprobării | Data de expirare a aprobării | Tipul de produs | Condiții specifice
+Clor activ eliberat din hipoclorit de calciu (denumit în continuare „hipoclorit de calciu”). | Denumirea IUPAC: Hipoclorit de calciu Nr. CE: 231-908-7 Nr. CAS: 7778-54-3 | Puritatea minimă a hipocloritului de calciu care eliberează clorul activ: ≥ 655 g/kg (adică ≥ 65,5 % g/g, echivalent unui conținut de clor activ de 65 % g/g). | 1 ianuarie 2019 | 31 decembrie 2028 | 2 | Autorizarea produselor biocide este supusă următoarelor condiții: 1. În cadrul evaluării produsului se acordă o atenție deosebită expunerilor, riscurilor și eficacității aflate în relație cu orice utilizare care face obiectul unei cereri de autorizare, dar care nu sunt abordate în evaluarea substanței active din punct de vedere al riscurilor la nivelul Uniunii. 2. Având în vedere riscurile identificate pentru utilizările evaluate, în cadrul evaluării produsului se acordă o atenție deosebită: (a) utilizatorilor profesionali și neprofesionali; (b) apei de suprafață și sedimentelor pentru dezinfectarea apei reziduale/uzate din fluxul de efluenți al instalației de epurare a apei (postclorurare).
+3 Autorizarea produselor biocide este supusă următoarelor condiții:
+1. În cadrul evaluării produsului se acordă o atenție deosebită expunerilor, riscurilor și eficacității aflate în relație cu orice utilizare care face obiectul unei cereri de autorizare, dar care nu sunt abordate în evaluarea substanței active din punct de vedere al riscurilor la nivelul Uniunii.
+2. Având în vedere riscurile identificate pentru utilizările evaluate, în cadrul evaluării produsului se va acorda o atenție deosebită utilizatorilor profesionali.
+3. Pentru produsele care pot lăsa reziduuri în alimente sau în hrana pentru animale, se verifică necesitatea de a stabili noi limite maxime de reziduuri (LMR) sau de a le modifica pe cele existente, în conformitate cu Regulamentul (CE) nr. 470/2009 al Parlamentului European și al Consiliului(2) sau cu Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului(3), și se iau măsuri adecvate de atenuare a riscurilor pentru a se garanta că LMR aplicabile nu sunt depășite.
+4 Autorizarea produselor biocide este supusă următoarelor condiții:
+1. În cadrul evaluării produsului se acordă o atenție deosebită expunerilor, riscurilor și eficacității aflate în relație cu orice utilizare care face obiectul unei cereri de autorizare, dar care nu sunt abordate în evaluarea substanței active din punct de vedere al riscurilor la nivelul Uniunii.
+2. Având în vedere riscurile identificate pentru utilizările evaluate, în cadrul evaluării produsului se va acorda o atenție deosebită utilizatorilor profesionali.
+3. Pentru produsele care pot lăsa reziduuri în alimente sau în hrana pentru animale, se verifică necesitatea de a stabili noi limite maxime pentru reziduuri (LMR) sau de a le modifica pe cele existente, în conformitate cu Regulamentul (CE) nr. 470/2009 sau cu Regulamentul (CE) nr. 396/2005, și se iau măsuri adecvate de atenuare a riscurilor pentru a se garanta că LMR aplicabile nu sunt depășite.
+5 Autorizarea produselor biocide este supusă următoarelor condiții:
+1. În cadrul evaluării produsului se acordă o atenție deosebită expunerilor, riscurilor și eficacității aflate în relație cu orice utilizare care face obiectul unei cereri de autorizare, dar care nu sunt abordate în evaluarea substanței active din punct de vedere al riscurilor la nivelul Uniunii.
+2. Având în vedere riscurile identificate pentru utilizările evaluate, în cadrul evaluării produsului se va acorda o atenție deosebită utilizatorilor profesionali.
+3. Pentru produsele care pot lăsa reziduuri în alimente sau în hrana pentru animale, se verifică necesitatea de a stabili noi limite maxime pentru reziduuri (LMR) sau de a le modifica pe cele existente, în conformitate cu Regulamentul (CE) nr. 470/2009 sau cu Regulamentul (CE) nr. 396/2005, și se iau măsuri adecvate de atenuare a riscurilor pentru a se garanta că LMR aplicabile nu sunt depășite.
+(1) Puritatea indicată în această coloană este gradul minim de puritate a substanței active evaluate. Substanța activă din produsul introdus pe piață poate avea o puritate egală sau diferită dacă s-a demonstrat, din punct de vedere tehnic, echivalența ei cu substanța activă evaluată.
+(2) Regulamentul (CE) nr. 470/2009 al Parlamentului European și al Consiliului din 6 mai 2009 de stabilire a procedurilor comunitare în vederea stabilirii limitelor de reziduuri ale substanțelor farmacologic active din alimentele de origine animală, de abrogare a Regulamentului (CEE) nr. 2377/90 al Consiliului și de modificare a Directivei 2001/82/CE a Parlamentului European și a Consiliului și a Regulamentului (CE) nr. 726/2004 al Parlamentului European și al Consiliului (JO L 152, 16.6.2009, p. 11).
+(3) Regulamentul (CE) nr. 396/2005 al Parlamentului European și al Consiliului din 23 februarie 2005 privind conținuturile maxime aplicabile reziduurilor de pesticide din sau de pe produse alimentare și hrana de origine vegetală și animală pentru animale și de modificare a Directivei 91/414/CEE (JO L 70, 16.3.2005, p. 1).
