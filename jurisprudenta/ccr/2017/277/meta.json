@@ -1,0 +1,215 @@
+{
+ "key": "dcc-277-2017",
+ "label": "Decizia CCR nr. 277/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "277",
+ "date": "2017-05-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 277 din 4 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "663",
+  "bis": false,
+  "date": "2017-08-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "188D/2016",
+  "361D/2016",
+  "2.385/40/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea „Royal Cash“ - S.R.L. din București în Dosarul nr. 35.691/3/CA/2015 al Tribunalului București - Secția a II-a de contencios administrativ și fiscal și de Societatea „Play&amp;Win Games“ - S.R.L. din Botoșani în Dosarul nr. 2.385/40/2015 al Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și constată că prevederile art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a de contencios administrativ și fiscal și Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192367",
+  "text_sha256": "7de3fe7f461d600ba13cd33f6ba0273b00492cf5489563cfcb7453db77b9e755",
+  "catalogue_sha256": "7de3fe7f461d600ba13cd33f6ba0273b00492cf5489563cfcb7453db77b9e755",
+  "fetched": "2026-11-03T03:17:56Z",
+  "chars": 18846,
+  "portal_id": "192367",
+  "tip": "DECIZIE"
+ }
+}
