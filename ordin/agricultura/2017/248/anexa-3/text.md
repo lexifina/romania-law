@@ -1,0 +1,164 @@
+# Anexa nr. 3
+PROCES-VERBAL DE PREDARE-PRIMIRE a fișelor de identificare și înregistrare a ecvideelor
+Încheiat astăzi,.........................
+Subsemnații,.................................., medic veterinar de liberă practică împuternicit în Circumscripția sanitar-veterinară de asistență..........., și..........., salariat al Agenției Naționale pentru Zootehnie "Prof. dr. G.K. Constantinescu" - Oficiul Județean de Zootehnie.................., am procedat astăzi, data de mai sus, primul la predarea, iar secundul la primirea unui număr de.............. fișe de identificare și înregistrare a ecvideelor, cu serii de la................. până la................ sau cu următoarele serii:.................................. și a unui număr de.......... cereri pentru eliberarea unui pașaport de ecvidee, după cum urmează:.........(Se vor înscrie numele și prenumele proprietarului/deținătorului de ecvidee și numărul de microcip al ecvideelor pentru care se solicită eliberarea pașaportului.)......
+Am predat......................
+Am primit.......................
+Anexa nr. 4
+FORMULAR de vânzare-cumpărăre/donație/moștenire a ecvideului
+SOLICITANT (Se completează cu majuscule.)
+Numele și prenumele/Denumirea....................
+CNP/CUI....................
+Adresa domiciliului/Sediul social....................
+Codul de exploatație....................
+Adresa exploatației.................... (Se completează doar dacă diferă de adresa de domiciliu/sediul social.)
+Solicit înregistrarea ca proprietar/deținător în baza de date și în pașaportul ecvideului/pașapoartele ecvideelor din tabelul de mai jos:
+```
+┌────┬────────┬─────┬────┬─────────┬────────┬─────────────────┬─────────────┐
+│Nr. │ Specia │Rasa │Sex │Culoarea │ Numele │Microcip/Dangale │Nr. pașaport │
+│crt.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  1.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  2.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  3.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  4.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  5.│        │     │    │         │        │                 │             │
+└────┴────────┴─────┴────┴─────────┴────────┴─────────────────┴─────────────┘
+```
+Menționez că ecvideul/ecvideele a/au fost obținute prin: Vânzare-cumpărare []
+Donație []
+Moștenire []
+Atașez: pașaportul/pașapoartele ecvideului/ecvideelor, copie B.I./C.I., CUI, copie card de exploatație sau adeverință cod exploatație.
+DECLARAȚIE DE PROPRIETATE
+Declar pe propria răspundere că sunt proprietarul legal al animalului/animalelor menționat(e) în tabelul de mai sus și declar că informațiile din acest formular sunt adevărate și cunosc faptul că falsul în declarații constituie infracțiune și se pedepsește conform legii.
+Data................
+Semnătura/Semnătura reprezentantului legal și ștampila...............................................
+Această secțiune trebuie completată de către persoana autorizată.
+În urma verificării prin citirea microcipului/dangalelor confirm identitatea ecvideului/ecvideelor din tabelul anterior.
+Numele și prenumele persoanei autorizate..................... (Se completează cu majuscule.)
+Semnătura persoanei autorizate........................
+Ștampila oficială a persoanei autorizate
+Data..................
+Anexa nr. 5
+FORMULAR pentru schimbarea adresei de domiciliu/a sediului social al proprietarului/deținătorului, respectiv pentru schimbarea exploatației ecvideului
+SOLICITANT (Se completează cu majuscule.)
+Numele și prenumele/Denumirea....................
+CNP/CUI....................
+Adresa veche (dacă este cazul)
+Adresa domiciliului/Sediul social....................
+Exploatația veche (dacă este cazul)
+Codul de exploatare....................
+Adresa exploatației.................... (Se completează doar dacă diferă de adresa de domiciliu/sediul social.)
+Adresa nouă (dacă este cazul)
+Adresa domiciliului/Sediul social....................
+Exploatația nouă (dacă este cazul)
+Codul de exploatație....................
+Adresa exploatației.................... (Se completează doar dacă diferă de adresa de domiciliu/sediul social.)
+Pentru ecvideul/ecvideele din tabelul de mai jos
+```
+┌────┬────────┬─────┬────┬─────────┬────────┬─────────────────┬─────────────┐
+│Nr. │ Specia │Rasa │Sex │Culoarea │ Numele │Microcip/Dangale │Nr. pașaport │
+│crt.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  1.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  2.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  3.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  4.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  5.│        │     │    │         │        │                 │             │
+└────┴────────┴─────┴────┴─────────┴────────┴─────────────────┴─────────────┘
+```
+[] Solicit schimbarea adresei de domiciliu/adresei sediului a proprietarului/deținătorului. [] Solicit schimbarea exploatației pe care este/sunt înregistrat/înregistrate ecvideul/ecvideele.
+Atașez: pașaportul/pașapoartele ecvideului/ecvideelor (în cazul schimbării adresei de domiciliu/sediului social), copia B.I./C.I./CUI, copia cardului de exploatație sau adeverință cod exploatație.
+DECLARAȚIE DE PROPRIETATE
+Declar pe propria răspundere că sunt proprietarul legal al animalului/animalelor menționat(e) în tabelul de mai sus și declar că informațiile din acest formular sunt adevărate și cunosc faptul că falsul în declarații constituie infracțiune și se pedepsește conform legii.
+Data..................
+Semnătura/Semnătura reprezentantului legal și ștampila............................................
+Anexa nr. 6
+FORMULAR pentru declararea morții/dispariției/găsirii unui ecvideu
+SOLICITANT (Se completează cu majuscule.)
+Numele și prenumele/Denumirea....................
+CNP/CUI....................
+Adresa domiciliului/Sediul social....................
+Codul de exploatație....................
+Adresa exploatației.................... (Se completează doar dacă diferă de adresa de domiciliu/sediul social.)
+Pentru ecvideul/ecvideele din tabelul de mai jos
+```
+┌────┬────────┬─────┬────┬─────────┬────────┬─────────────────┬─────────────┐
+│Nr. │ Specia │Rasa │Sex │Culoarea │ Numele │Microcip/Dangale │Nr. pașaport │
+│crt.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  1.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  2.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  3.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  4.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  5.│        │     │    │         │        │                 │             │
+└────┴────────┴─────┴────┴─────────┴────────┴─────────────────┴─────────────┘
+```
+[] Declar pe propria răspundere moartea ecvideului/ecvideelor. [] Declar pe propria răspundere că ecvideul/ecvideele a/au dispărut. [] Declar pe propria răspundere că ecvideul/ecvideele pe care l-am/le-am declarat dispărut/dispărute a/au fost găsit/găsite.
+Data morții/dispariției/găsirii:
+Atașez: pașaportul/pașapoartele ecvideului/ecvideelor (în cazul morții/dispariției), copia B.I./C.I./CUI, copia cardului de exploatație sau adeverință cod exploatație.
+DECLARAȚIE DE PROPRIETATE
+Declar pe propria răspundere că sunt proprietarul legal al animalului/animalelor menționat(e) în tabelul de mai sus și declar că informațiile din acest formular sunt adevărate și cunosc faptul că falsul în declarații constituie infracțiune și se pedepsește conform legii.
+Data................
+Semnătura/Semnătura reprezentantului legal și ștampila.............................................
+SE COMPLETEAZĂ DOAR ÎN CAZUL GĂSIRII ECVIDEULUI/ECVIDEELOR.
+Această secțiune trebuie completată de către persoana autorizată.
+În urma verificării prin citirea microcipului/dangalelor confirm identitatea ecvideului/ecvideelor din tabelul anterior.
+Numele și prenumele persoanei autorizate.................. (Se completează cu majuscule.)
+Semnătura persoanei autorizate......................
+Ștampila oficială a persoanei autorizate............
+Data....................
+Anexa nr. 7
+Formular de eliberare a unui pașaport duplicat/înlocuitor pentru ecvideu
+SOLICITANT (Se completează cu majuscule.)
+Numele și prenumele/Denumirea....................
+CNP/CUI....................
+Adresa domiciliului/Sediul social....................
+Codul de exploatație....................
+Adresa exploatației.................... (Se completează doar dacă diferă de adresa de domiciliu/sediul social.)
+Solicit eliberarea unui duplicat/înlocuitor al pașaportului/pașapoartelor pentru ecvideul/ecvideele din tabelul de mai jos:
+```
+┌────┬────────┬─────┬────┬─────────┬────────┬─────────────────┬─────────────┐
+│Nr. │ Specia │Rasa │Sex │Culoarea │ Numele │Microcip/Dangale │Nr. pașaport │
+│crt.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  1.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  2.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  3.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  4.│        │     │    │         │        │                 │             │
+├────┼────────┼─────┼────┼─────────┼────────┼─────────────────┼─────────────┤
+│  5.│        │     │    │         │        │                 │             │
+└────┴────────┴─────┴────┴─────────┴────────┴─────────────────┴─────────────┘
+```
+Declar pe propria răspundere că NU mai dețin pașaportul/pașapoartele ecvideului/ecvideelor din următorul motiv: Pierdere []
+Furt []
+Deteriorare []
+Altele []
+Dacă motivul este altul, detaliați:.........................
+Atașez: copia B.I./C.I./CUI, copia cardului de exploatație sau adeverință cod exploatație.
+DECLARAȚIE DE PROPRIETATE
+Declar pe propria răspundere că sunt proprietarul legal al animalului/animalelor menționat(e) în tabelul de mai sus și declar că informațiile din acest formular sunt adevărate și cunosc faptul că falsul în declarații constituie infracțiune și se pedepsește conform legii.
+Data...............
+Semnătura/Semnătura reprezentantului legal și ștampila............................................
+Această secțiune trebuie completată de către persoana autorizată.
+În urma verificării prin citirea microcipului/dangalelor confirm identitatea ecvideului/ecvideelor din tabelul anterior. []
+În urma verificării prin citirea microcipului/dangalelor nu se poate confirma identitatea ecvideului/ecvideelor din tabelul anterior. []
+Numele și prenumele persoanei autorizate...................... (Se completează cu majuscule.)
+Semnătura persoanei autorizate......................
+Ștampila oficială a persoanei autorizate............
+Data...................
