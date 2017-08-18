@@ -1,0 +1,45 @@
+# DECIZIA nr. 467 din 27 iunie 2017
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 1.043 alin. (1) din Codul de procedură civilă
+Valer Dorneanu - președinte
+Marian Enache - judecător
+Petre Lăzăroiu - judecător
+Mircea Ștefan Minea - judecător
+Mona-Maria Pivniceru - judecător
+Livia Doina Stanciu - judecător
+Simona-Maya Teodoroiu - judecător
+Andreea Costin - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Ioan Sorin Daniel Chiriazi.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 1.043 alin. (1) din Codul de procedură civilă, excepție ridicată de Daniel Matei și Doinița Ion în Dosarul nr. 3.192/281/2016 al Judecătoriei Ploiești - Secția civilă și care formează obiectul Dosarului Curții Constituționale nr. 608D/2016.
+2. La apelul nominal lipsesc părțile. Procedura de citare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere, ca neîntemeiată, a excepției de neconstituționalitate. În acest sens arată că dispozițiile legale criticate au mai format obiect al controlului de constituționalitate, Curtea, prin Decizia nr. 27 din 20 ianuarie 2016 și Decizia nr. 576 din 29 septembrie 2015, constatând constituționalitatea acestora.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Sentința civilă nr. 3.424 din 19 aprilie 2016, pronunțată în Dosarul nr. 3.192/281/2016, Judecătoria Ploiești - Secția civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 1.043 alin. (1) din Codul de procedură civilă, excepție ridicată de Daniel Matei și Doinița Ion într-o cauză având ca obiect soluționarea unei cereri de evacuare.
+5. În motivarea excepției de neconstituționalitate se susține, în esență, că procedura prevăzută de art. 1.043 din Codul de procedură civilă lipsește pârâții de posibilitatea formulării unei cereri reconvenționale prin care să solicite instanței un drept de retenție, ă această procedură nu este accesibilă și previzibilă și că încalcă dreptul la un proces echitabil.
+6. Judecătoria Ploiești - Secția civilă apreciază că excepția de neconstituționalitate este neîntemeiată, întrucât textul legal contestat nu contravine niciuneia dintre dispozițiile constituționale invocate.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, actul de sesizare a fost comunicat președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate ridicate.
+8. Guvernul apreciază că excepția de neconstituționalitate este neîntemeiată.
+9. Avocatul Poporului apreciază că dispozițiile legale criticate sunt constituționale.
+10. Președinții celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând actul de sesizare, punctele de vedere ale Guvernului și Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+11. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3,
+10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+12. Obiectul excepției de neconstituționalitate îl reprezintă dispozițiile art. 1.043 alin. (1) din Codul de procedură civilă, care au următorul conținut: „Pârâtul chemat în judecată, potrivit procedurii prevăzute în prezentul titlu, nu poate formula cerere reconvențională, de chemare în judecată a altei persoane sau în garanție, pretențiile sale urmând a fi valorificate numai pe cale separată.“
+13. În opinia autorilor excepției de neconstituționalitate, dispozițiile legale criticate încalcă prevederile constituționale ale art. 1 alin. (5) privind obligativitatea respectării Constituției, a supremației sale și a legilor, art. 16 privind egalitatea în drepturi și ale art. 24 privind dreptul la apărare. De asemenea, se invocă și dispozițiile art. 6 privind dreptul la un proces echitabil din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale.
+14. Examinând excepția de neconstituționalitate, Curtea reține că dispoziția legală este considerată a fi neconstituțională, întrucât lipsește pârâții de posibilitatea formulării unei cereri reconvenționale prin care să solicite instanței un drept de retenție, astfel încât nu este accesibilă și previzibilă și încalcă dreptul la un proces echitabil.
+15. Curtea a mai analizat textul legal criticat dintr-o perspectivă similară și a constatat constituționalitatea acestuia prin Decizia nr. 576 din 29 septembrie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 827 din 5 noiembrie 2015, paragrafele 12-17. Cu acel prilej, Curtea a statuat că dispozițiile art. 1.043 cuprinse în titlul XI - Evacuarea din imobilele folosite sau ocupate fără drept al cărții a VI-a - Proceduri speciale din Codul de procedură civilă prevăd că pârâtul chemat în judecată, potrivit procedurii reglementate din acest titlu, nu poate formula cerere reconvențională, de chemare în judecată a altei persoane sau în garanție, pretențiile sale urmând a fi valorificate numai pe cale separată. Spre deosebire de acțiunea în evacuare promovată pe calea dreptului comun, în cadrul procedurii speciale pârâtul nu are posibilitatea formulării unor asemenea cereri, situație care se justifică prin caracterul urgent al soluționării cererii principale și prin caracterul sumar al dezbaterilor care privesc condițiile în care pârâtul ocupă imobilul, precum și obligația acestuia de a părăsi imobilul. Însă pârâtul poate invoca apărări de fond privind temeinicia motivelor de fapt și de drept ale cererii, inclusiv lipsa titlului reclamantului, astfel cum rezultă din alin. (2) al art. 1.043. De altfel, Curtea a mai reținut că cererile menționate de dispoziția legală criticată pot fi promovate în cadrul unui litigiu distinct.
+16. Prin urmare, faptul că pârâtul nu poate formula cerere reconvențională, deci nu poate emite pretenții proprii împotriva reclamantului, nu este de natură a afecta caracterul echitabil al procedurii, având în vedere că, potrivit art. 1.043 și următoarele din Codul de procedură civilă, procedura evacuării este una contradictorie, în cadrul căreia pârâtul poate depune întâmpinare și are posibilitatea de a-și formula apărările necesare.
+17. În această situație, Curtea a constatat că dispoziția legală criticată nu încalcă dreptul la un proces echitabil, iar pârâții nu pot fi considerați dezavantajați față de reclamant în cadrul procedurii speciale a evacuării, având la îndemână mijloacele necesare și suficiente pentru a-și formula apărarea.
+18. De altfel, Curtea a reținut, în jurisprudența sa, că principiul egalității armelor constituie o garanție a dreptului la un proces echitabil care urmărește crearea unui just echilibru procesual între părțile aflate într-un litigiu, însă acest principiu nu presupune o egalitate formală, în sensul reglementării unor proceduri identice indiferent de statutul juridic sau calitatea procesuală a părților, ci o egalitate materială, în sensul că prin procedurile, chiar diferit reglementate, să se ajungă la echitate procesuală între părți, cu alte cuvinte să se ajungă la o egalitate de rezultat (în acest sens, a se vedea Decizia nr. 633 din 11 noiembrie 2014, publicată în Monitorul Oficial al României, Partea I, nr. 16 din 9 ianuarie 2015, paragraful 19).
+19. Prin aceeași decizie, Curtea a mai reținut că dispozițiile legale criticate nu aduc atingere nici dreptului la apărare. Textul de lege criticat nu conține norme care prin natura lor ar îngrădi posibilitatea autoarei excepției de a se apăra, aceasta putânduse prevala de toate garanțiile dreptului la apărare în cadrul unui proces echitabil.
+20. Întrucât nu au intervenit elemente noi, de natură a schimba jurisprudența Curții Constituționale, considerentele și soluția deciziei amintite își păstrează valabilitatea și în prezenta cauză.
+21. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Matei și Doinița Ion în Dosarul nr. 3.192/281/2016 al Judecătoriei Ploiești - Secția civilă și constată că dispozițiile art. 1.043 alin. (1) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Ploiești - Secția civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 27 iunie 2017.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Andreea Costin
