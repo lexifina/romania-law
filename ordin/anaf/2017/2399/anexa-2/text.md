@@ -1,0 +1,3 @@
+# Anexa nr. 2
+PROCEDURĂ din 10 august 2017 de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor aferente acestuia, potrivit prevederilor art. III din Ordonanța de urgență a Guvernului nr. 32/2016 pentru completarea
+Legii nr. 227/2015 privind Codul fiscal și reglementarea unor măsuri financiar-fiscale
