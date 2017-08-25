@@ -1,0 +1,196 @@
+{
+ "key": "dcc-338-2017",
+ "label": "Decizia CCR nr. 338/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "338",
+ "date": "2017-05-11",
+ "year": "2017",
+ "heading": "DECIZIA nr. 338 din 11 mai 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (2) din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977 nr. 341/2004 și ale art. 2 din Legea nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "690",
+  "bis": false,
+  "date": "2017-08-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.840/3/2016",
+  "298D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3 alin. (2) din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977 nr. 341/2004 și ale art. 2 din Legea nr. 42/1990 pentru cinstirea eroilor-martiri și acordarea unor drepturi urmașilor acestora, răniților, precum și luptătorilor pentru victoria Revoluției din decembrie 1989, excepție ridicată de Constantin Hodoroagă, în Dosarul nr. 4.840/3/2016 al Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/2016",
+    "number": "199",
+    "year": "2016",
+    "path": "lege/2016/199"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-08-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192533",
+  "text_sha256": "17af0273e3f1b0d69d575c1ae74d478f48e5cccfa29ceb2c4adec2ea29875eb6",
+  "catalogue_sha256": "17af0273e3f1b0d69d575c1ae74d478f48e5cccfa29ceb2c4adec2ea29875eb6",
+  "fetched": "2026-11-03T03:17:41Z",
+  "chars": 16734,
+  "portal_id": "192533",
+  "tip": "DECIZIE"
+ }
+}
