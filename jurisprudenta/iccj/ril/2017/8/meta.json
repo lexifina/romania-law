@@ -1,0 +1,376 @@
+{
+ "key": "iccj-ril-8-2017",
+ "label": "Decizia ÎCCJ nr. 8/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "8",
+ "date": "2017-05-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 8 din 15 mai 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 58 și art. 59 alin. (2) din Legea nr. 215/2001",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "698",
+  "bis": false,
+  "date": "2017-08-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "28/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "534",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de Colegiul de conducere al Curții de Apel București și de Ministerul Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea art. 58 și art. 59 alin. (2) din Legea nr. 215/2001, hotărârile primei instanțe pronunțate în cauzele având ca obiect validarea sau invalidarea alegerii primarilor sunt încheieri, executorii, susceptibile de a fi atacate cu apel în 30 de zile, în condițiile art. 534 alin. (3) și (4) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "534",
+     "alin": [
+      "3",
+      "2",
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "533",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "527",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "531",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "535",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "536",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "537",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "538",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "539",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "540",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2001",
+    "number": "115",
+    "year": "2001",
+    "path": "lege/2001/115"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2008",
+    "number": "20",
+    "year": "2008",
+    "path": "oug/2008/20"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-08-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/192583",
+  "text_sha256": "2e58d1c044358d1077a8d4e7e1020e51cbc79959ababc71227b4c88952ce10fd",
+  "catalogue_sha256": "2e58d1c044358d1077a8d4e7e1020e51cbc79959ababc71227b4c88952ce10fd",
+  "fetched": "2026-11-03T03:17:37Z",
+  "chars": 58712,
+  "portal_id": "192583",
+  "tip": "DECIZIE"
+ }
+}
