@@ -1,0 +1,11 @@
+# HCGMB nr. 363/2017
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 363/2017
+- Adopted: 2017-08-30
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 3 DE A HOTARI CU PRIVIRE LA ASOCIEREA SECTORULUI 3 AL MUNICIPIULUI BUCURESTI CU PERSOANE JURIDICE ROMANE SAU STRAINE, CU ORGANIZATII NEGUVERNAMENTALE SI CU ALTI PARTENERI SOCIALI IN VEDEREA INFIINTARII GRUPULUI DE ACTIUNE LOCALA SECTOR 3 PENTRU REALIZAREA IN COMUN A PROIECTULUI GRUP DE ACTIUNE LOCALA SECTOR 3 - "SPRIJIN PREGATITOR PENTRU ELABORAREA STRATEGIEI DE DEZVOLTARE LOCALA" - ZONA FAUR REPUBLICA - 23 AUGUST
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/36927
+- Document: https://doc.pmb.ro/legis/acteinterne/2017/36927/H363_17.pdf
+- Document sha256: a7d96605d05bf156dadc6f5fca39d0b64cc818986394324ee2a2418a5351f4ae
