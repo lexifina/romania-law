@@ -1,0 +1,121 @@
+{
+ "key": "iccj-ril-13-2017",
+ "label": "Decizia ÎCCJ nr. 13/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "13",
+ "date": "2017-07-03",
+ "year": "2017",
+ "heading": "DECIZIA nr. 13 din 3 iulie 2017",
+ "subtitle": "referitoarea la interpretarea și aplicarea unitară a dispozițiilor art. 469 alin. (3) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "735",
+  "bis": false,
+  "date": "2017-09-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.360/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "469",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Târgu Mureș și, în consecință: În interpretarea și aplicarea unitară a dispozițiilor art. 469 alin. (3) din Codul de procedură penală, stabilește că:",
+  "În urma admiterii cererii de redeschidere a procesului penal pentru persoanele condamnate judecate în lipsă, cauza se reia din faza judecății în primă instanță.",
+  "Notă",
+  "Prin Decizia nr. 590 din 8 octombrie 2019, publicată în Monitorul Oficial nr. 1019 din 18 decembrie 2019, Curtea Constituțională a admis excepția de neconstituționalitate și a constatat că dispozițiile art. 469 alin. (3) din Codul de procedură penală, în interpretarea dată prin Decizia nr. 13 din 3 iulie 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, în ceea ce privește faza procesuală de la care se reia procesul penal, sunt neconstituționale.",
+  "Obligatorie, conform dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "469",
+     "alin": [
+      "3",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "467",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193173",
+  "text_sha256": "30336a72311e8ed3c63a018035cad366b06e7850a724e98df03a6094345b29f7",
+  "catalogue_sha256": "30336a72311e8ed3c63a018035cad366b06e7850a724e98df03a6094345b29f7",
+  "fetched": "2026-11-03T03:17:13Z",
+  "chars": 25857,
+  "portal_id": "193173",
+  "tip": "DECIZIE"
+ }
+}
