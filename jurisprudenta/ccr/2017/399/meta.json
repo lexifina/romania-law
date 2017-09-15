@@ -1,0 +1,195 @@
+{
+ "key": "dcc-399-2017",
+ "label": "Decizia CCR nr. 399/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "399",
+ "date": "2017-06-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 399 din 13 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II din Ordonanța de urgență a Guvernului nr. 95/2014 pentru modificarea și completarea Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "744",
+  "bis": false,
+  "date": "2017-09-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "190/113/2016",
+  "682D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Rodica Kalimtzachis și Gheorghiță Stan în Dosarul nr. 190/113/2016 al Tribunalului Brăila - Secția a II-a civilă de contencios administrativ și fiscal și constată că dispozițiile art. II alin. (1) și (3) din Ordonanța de urgență a Guvernului nr. 95/2014 pentru modificarea și completarea Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004 sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. II alin. (2) din Ordonanța de urgență a Guvernului nr. 95/2014, excepție ridicată de aceiași autori în același dosar al aceleiași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Brăila - Secția a II-a civilă de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193225",
+  "text_sha256": "03c49a4aa93eccb317ca72428489c14f0526593f4a5c652b4224a55eba6d509f",
+  "catalogue_sha256": "03c49a4aa93eccb317ca72428489c14f0526593f4a5c652b4224a55eba6d509f",
+  "fetched": "2026-11-03T18:50:18Z",
+  "chars": 17000,
+  "portal_id": "193225",
+  "tip": "DECIZIE"
+ }
+}
