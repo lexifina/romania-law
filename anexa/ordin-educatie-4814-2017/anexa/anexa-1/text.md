@@ -1,0 +1,62 @@
+# Anexa 1
+Anexa nr. 1
+la metodologie
+*Font 9*
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│INSPECTORATUL ȘCOLAR AL JUDEȚULUI ...................................... │
+│La data susținerii examenului de definitivare în învățământ, │
+│candidatul(a) ........................ are o vechime efectivă în activitatea de predare │
+│de ......... ani, .......... luni, ............. zile*). │
+│ │
+│Inspector școlar general adjunct │
+│Numele și prenumele .......................... │
+│Semnătura .................................... │
+│ │
+│Inspector școlar pentru dezvoltarea resursei umane │
+│Numele și prenumele .......................... │
+│Semnătura .................................... │
+│ │
+│Consilier juridic │
+│Numele și prenumele .......................... │
+│Semnătura .................................... │
+│ │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+FIȘĂ DE ÎNSCRIERE
+la examenul național de definitivare în învățământ
+*Font 9*
+a candidatului .......(numele, inițiala tatălui, prenumele - cu majuscule)...........
+în anul .......(sesiunea)........, la disciplina de examen ..........................
+Instituția/Instituțiile de învățământ absolvită/absolvite: ..........................,
+cu durata de ...... ani.
+Specializarea/Specializările obținută/obținute prin studii ..........................
+Vechimea efectivă în activitatea didactică de predare la data înscrierii: ....... ani,
+............ luni, .............. zile*).
+Prezentat la examenul de definitivare în învățământ în următoarele sesiuni:
+sesiunea I ..............., sesiunea a II-a ..........., sesiunea a III-a ............. .
+Date de contact: telefon ...................., e-mail ...............................
+Data ...................... Semnătura ...........................
+Se certifică datele din prezenta fișă de înscriere și se adeverește că, potrivit
+înscrisurilor din carnetul de muncă/documentelor prezentate, domnul
+(doamna) ................................ a funcționat în învățământ de la data obținerii
+examenului de absolvire/licență, după cum urmează:
+┌────┬────────────┬─────────┬────────────────────────┬────────────────────────────┐
+│Nr. │Unitatea de │ Funcția │ Perioada: │ Total vechime în │
+│crt.│ învățământ │didactică│ │ activitatea didactică*) │
+│ │ │ │ ├───────┬────────┬───────────┤
+│ │ │ │ │ ani │ luni │ zile │
+│ │ │ ├──────────┬─────────────┼───────┼────────┼───────────┤
+│ │ │ │de la ....│până la .....│ │ │ │
+├────┼────────────┼─────────┼──────────┼─────────────┼───────┼────────┼───────────┤
+│ │ │ │ │ │ │ │ │
+└────┴────────────┴─────────┴──────────┴─────────────┴───────┴────────┴───────────┘
+În anul școlar ........... este încadrat la unitatea noastră în funcția didactică
+de**) ................., pe postul/catedra ......................, cu activitatea de bază/
+normă întreagă, cu ............. ore/săptămână.
+Candidatul solicită traducerea subiectelor în limba ...................... .
+Director, Data .................
+.............................
+(numele/prenumele/semnătura)
+Notă
+...
+*) Se calculează vechimea de predare în calitate de cadru didactic calificat.
+**) Educatoare, învățător, maistru-instructor, antrenor, cadru didactic medical, învățător-itinerant, institutor, profesor pentru învățământul preșcolar, profesor pentru învățământul primar, profesor.
