@@ -1,0 +1,3 @@
+# ANEXĂ
+SCHEMĂ DE AJUTOR DE STAT pentru organizarea și derularea de programe de formare a adulților, având ca obiectiv
+"Creșterea numărului de angajați care beneficiază de instrumente, metode, practici, standard de management al resurselor umane și de condiții de lucru îmbunătățite în vederea adaptării activității la dinamica sectoarelor economice cu potențial competitiv identificate conform Strategiei naționale pentru competitivitate/domeniilor de specializare inteligentă conform Strategiei naționale de cercetare, dezvoltare și inovare 2014-2020", aferentă Programului operațional Capital uman 2014-2020, axa prioritară 3 "Locuri de muncă pentru toți", obiectivul specific 3.8
