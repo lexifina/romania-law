@@ -1,0 +1,228 @@
+{
+ "key": "iccj-ril-11-2017",
+ "label": "Decizia ÎCCJ nr. 11/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2017-06-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 11 din 19 iunie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 39, art. 102 alin. (1) pct. 14 și art. 105 pct. 10 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare, prin raportare la dispozițiile art. 7 lit. h) din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "750",
+  "bis": false,
+  "date": "2017-09-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului și, în consecință, stabilește următoarele:",
+  "În interpretarea și aplicarea dispozițiilor art. 39, art. 102 alin. (1) pct. 14 și art. 105 pct. 10 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare, prin raportare la dispozițiile art. 7 lit. h) din Legea poliției locale nr. 155/2010, republicată, cu modificările și completările ulterioare, doar agentul constatator din cadrul poliției rutiere are competența de a solicita proprietarului sau deținătorului mandatat al unui vehicul comunicarea identității persoanei căreia i-a încredințat vehiculul pentru a fi condus pe drumurile publice, precum și de a aplica sancțiunile contravenționale prevăzute de lege, în cazul necomunicării relațiilor solicitate.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea poliției locale nr. 155/2010",
+    "number": "155",
+    "year": "2010",
+    "path": "lege/2010/155"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 965/2016",
+    "number": "965",
+    "year": "2016",
+    "path": "hg/2016/965"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-09-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193264",
+  "text_sha256": "acd6a7f9a429d508f2ac90ea9ad8353ef557d6aae981451ca362e67799cb88fa",
+  "catalogue_sha256": "acd6a7f9a429d508f2ac90ea9ad8353ef557d6aae981451ca362e67799cb88fa",
+  "fetched": "2026-11-03T03:17:07Z",
+  "chars": 39858,
+  "portal_id": "193264",
+  "tip": "DECIZIE"
+ }
+}
