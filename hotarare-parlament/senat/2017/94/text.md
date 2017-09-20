@@ -1,0 +1,10 @@
+ HOTĂRÂRE nr. 94 din 18 septembrie 2017  privind încuviințarea desfășurării unei anchete parlamentare de către o comisie permanentă     EMITENT     SENATUL       Publicat în
+			  MONITORUL OFICIAL nr. 752 din 20 septembrie 2017      În temeiul prevederilor  art. 67 din Constituția României, republicată , precum și ale  art. 76 din Regulamentul Senatului , aprobat prin  Hotărârea Senatului nr. 28/2005, republicat , cu modificările și completările ulterioare,   Senatul adoptă prezenta hotărâre.
+				 +
+			  Articolul 1      Se încuviințează desfășurarea unei anchete parlamentare privind situația deșeurilor în România desfășurată de Comisia pentru mediu.
+				 +
+			  Articolul 2       (1)    Ancheta parlamentară prevăzută la  art. 1  își desfășoară activitatea în perioada 18 septembrie - 21 noiembrie 2017.    (2)    Comisia are drept scop și obiective analizarea problemelor actuale în domeniul deșeurilor, a cauzelor care au generat aceste probleme și propuneri de soluționare a acestora.
+				 +
+			  Articolul 3       (1)    Comisia poate invita la discuții și dezbateri factorii relevanți în domeniul de activitate al Comisiei, care să servească la aflarea adevărului privind situația deșeurilor în România.    (2)    Dispozițiile legale referitoare la invitarea, prezentarea și ascultarea persoanelor audiate, precum și cele privitoare la prezentarea și predarea obiectivelor ori înscrisurilor sau efectuarea expertizelor se aplică în mod corespunzător.
+				 +
+			  Articolul 4       (1)    Concluziile anchetei parlamentare realizate de Comisia pentru mediu vor fi cuprinse într-un raport ce va fi prezentat Biroului permanent până la data de 28 noiembrie 2017.    (2)    Raportul Comisiei se va supune dezbaterii plenului Senatului, în prima ședință programată a se desfășura după prezentarea acestuia în Biroul permanent.     Această hotărâre a fost adoptată de Senat în ședința din data de 18 septembrie 2017, cu respectarea prevederilor  art. 76 alin. (2) din Constituția României, republicată .     p. PREȘEDINTELE SENATULUI,    IULIAN-CLAUDIU MANDA    București, 18 septembrie 2017.   Nr. 94.   ----
