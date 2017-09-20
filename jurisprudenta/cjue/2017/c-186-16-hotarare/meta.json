@@ -1,0 +1,61 @@
+{
+ "key": "cjue-c-186-16-hotarare-2017-09-20",
+ "label": "CJUE, Hotărârea Curții (Camera a doua) din 20 septembrie 2017, Cauza C-186/16",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2017-09-20",
+ "year": "2017",
+ "case": "Cauza C-186/16",
+ "celex": "62016CJ0186",
+ "ecli": "ECLI:EU:C:2017:703",
+ "heading": "Hotărârea Curții (Camera a doua) din 20 septembrie 2017",
+ "formation": "CHAMB_02_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Oradea",
+   "date": "2016-03-03",
+   "national_file": "1713/111/2014"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Oradea",
+ "national_followup": [
+  "Curtea de Apel Oradea, Secţia a II-a civilă de Contencios Administrativ şi Fiscal, decizie 28/11/2017 (ECLI:RO:CAORA:2017:007.00370)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția consumatorilor – Directiva 93/13/CEE – Clauze abuzive în contractele încheiate cu consumatorii – Articolul 3 alineatul (1) și articolul 4 alineatul (2) – Aprecierea caracterului abuziv al clauzelor contractuale – Contract de credit încheiat într‑o monedă străină – Risc de schimb valutar în sarcina exclusivă a consumatorului – Dezechilibru semnificativ între drepturile și obligațiile părților care decurg din contract – Momentul la care trebuie apreciată existența dezechilibrului – Conținutul noțiunii de clauze „exprimate în mod clar și inteligibil” – Nivelul de informare care trebuie furnizat de bancă",
+ "interprets": [
+  {
+   "celex": "31993L0013",
+   "folder": "ue/directiva/1993/13"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CJ0186",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-186/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/eeebb88b-9de0-11e7-b92d-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "25656e850cf26eb02c5f60c8e5f42a24e34742f644dbecf1fc2670d7034a62ab"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a doua) declară:",
+  "1) Articolul 4 alineatul (2) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretat în sensul că noțiunea „obiectul principal al contractului”, în sensul acestei dispoziții, include o clauză contractuală, precum cea în discuție în litigiul principal, inserată într‑un contract de împrumut încheiat în monedă străină, care nu a făcut obiectul unei negocieri individuale și potrivit căreia împrumutul trebuie restituit în aceeași monedă străină în care a fost contractat, având în vedere că această clauză stabilește o prestație esențială care caracterizează acest contract. În consecință, această clauză nu poate fi considerată ca fiind abuzivă, în măsura în care este exprimată în mod clar și inteligibil.",
+  "2) Articolul 4 alineatul (2) din Directiva 93/13 trebuie interpretat în sensul că cerința potrivit căreia o clauză contractuală trebuie exprimată în mod clar și inteligibil presupune că, în cazul contractelor de credit, instituțiile financiare trebuie să furnizeze împrumutaților informații suficiente pentru a le permite să adopte decizii prudente și în cunoștință de cauză. În această privință, această cerință presupune ca o clauză potrivit căreia împrumutul trebuie restituit în aceeași monedă străină în care a fost contractat să fie înțeleasă de consumator atât pe plan formal și gramatical, cât și în ceea ce privește efectele concrete ale acesteia, în sensul ca un consumator mediu, normal informat și suficient de atent și de avizat să poată nu numai să cunoască posibilitatea aprecierii sau a deprecierii monedei străine în care a fost contractat împrumutul, ci și să evalueze consecințele economice, potențial semnificative, ale unei astfel de clauze asupra obligațiilor sale financiare. Este de competența instanței naționale să efectueze verificările necesare în această privință.",
+  "3) Articolul 3 alineatul (1) din Directiva 93/13 trebuie interpretat în sensul că aprecierea caracterului abuziv al unei clauze contractuale trebuie efectuată în raport cu momentul încheierii contractului respectiv, ținând seama de ansamblul împrejurărilor de care profesionistul putea avea cunoștință la momentul respectiv și care erau de natură să influențeze executarea ulterioară a contractului respectiv. Revine instanței de trimitere sarcina să evalueze, având în vedere ansamblul circumstanțelor din cauza principală și ținând seama în special de expertiza și de cunoștințele profesionistului, în speță ale băncii, în ceea ce privește posibilele variații ale cursurilor de schimb valutar și riscurile inerente contractării unui împrumut în monedă străină, existența unui eventual dezechilibru, în sensul dispoziției menționate."
+ ]
+}
