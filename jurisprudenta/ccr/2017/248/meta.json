@@ -1,0 +1,304 @@
+{
+ "key": "dcc-248-2017",
+ "label": "Decizia CCR nr. 248/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "248",
+ "date": "2017-04-25",
+ "year": "2017",
+ "heading": "DECIZIA nr. 248 din 25 aprilie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 297 alin. (1) din Codul penal și ale art. 13^2 din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "753",
+  "bis": false,
+  "date": "2017-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "7.949/99/2009",
+  "743D/2016",
+  "817/45/2013",
+  "925/240/2015/a1",
+  "5.939/281/2010",
+  "17/45/2013",
+  "4.493/1/2014",
+  "11.123/3/2014",
+  "635/39/2015/a3",
+  "3.469/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 297 alin. (1) din Codul penal, excepție ridicată de Iulian Lazăr și Constantin Bebi Manole în Dosarul nr. 7.949/99/2009* al Curții de Apel Iași - Secția penală și pentru cauze cu minori, de Nicolai Bogdan Cihodaru și Ioana Necula în Dosarul nr. 817/45/2013*/a4 al Curții de Apel Suceava - Secția penală și pentru cauze cu minori, de Elena Lucia Drăgan în Dosarul nr. 925/240/2015/a1 al Tribunalului Hunedoara - Secția penală, de Teodorescu Dan Victor Enea, Ion Militaru Ion și Ionașcu Vasile Vali în Dosarul nr. 5.939/281/2010 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie, de Vasile Dumitru Pomârleanu și Dumitru Contoloru în Dosarul nr. 17/45/2013*/a5 al Curții de Apel Suceava - Secția penală și pentru cauze cu minori, de Dănuț Culețu în Dosarul nr. 4.493/1/2014 al Tribunalului Constanța - Secția penală, de Marcu Marius Ovidiu în Dosarul nr. 11.123/3/2014 (2.969/2015) al Curții de Apel București - Secția I penală, de Andrei Varga în Dosarul nr. 230/1.752/2016 al Judecătoriei Jibou, de Dorin Andronic în Dosarul nr. 635/39/2015/a3 al Curții de Apel Suceava - Secția penală și pentru cauze cu minori, de Valentina Elena Mușuroiu în Dosarul nr. 3.469/3/2015 al Tribunalului București - Secția I penală, de Maria Flore (fostă Bale), Sergiu Tiberiu Jupîn, Darius Chivari în Dosarul nr. 1.270/83/2016 al Tribunalului Satu Mare - Secția penală și de Dumitru Adrian Dume în Dosarul nr. 352/111/2015 al Curții de Apel Oradea - Secția penală și pentru cauze cu minori.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași părți în aceleași dosare ale acelorași instanțe și constată că dispozițiile art. 13^2 din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția penală și pentru cauze cu minori, Curții de Apel Suceava - Secția penală și pentru cauze cu minori, Tribunalului Hunedoara - Secția penală, Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie, Tribunalului Constanța - Secția penală, Curții de Apel București - Secția I penală, Judecătoriei Jibou, Tribunalului București - Secția I penală, Tribunalului Satu Mare - Secția penală și Curții de Apel Oradea - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 59/1968",
+    "number": "59",
+    "year": "1968",
+    "path": "lege/1968/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193294",
+  "text_sha256": "5c274576655e97a3b67be5093c3f6edc2f09f017899278637cd4fa98d1119b11",
+  "catalogue_sha256": "5c274576655e97a3b67be5093c3f6edc2f09f017899278637cd4fa98d1119b11",
+  "fetched": "2026-11-03T03:17:04Z",
+  "chars": 49981,
+  "portal_id": "193294",
+  "tip": "DECIZIE"
+ }
+}
