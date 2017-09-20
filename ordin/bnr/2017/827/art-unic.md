@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății EASY CREDIT 2 ALL IFN - S.A., cu sediul în Constanța, Bulevardul Alexandru Lăpușneanu nr. 82, birourile nr. 1 și nr. 2, bl. LE 31, parter, județul Constanța, înregistrată la Registrul Comerțului cu nr. J13/565/2016, cod unic de înregistrare 35767759, înscrisă în Registrul general cu nr. RG-PJR-14-110309, la secțiunea k) - „Activități multiple de creditare”.
