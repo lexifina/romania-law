@@ -1,0 +1,108 @@
+{
+ "key": "cedo-41468-10-2016-11-08",
+ "label": "CEDO, Gutău c. României, 2016-11-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2016-11-08",
+ "year": "2016",
+ "heading": "HOTĂRÂREA din 8 noiembrie 2016",
+ "subtitle": "în Cauza Gutău împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "755",
+  "bis": false,
+  "date": "2017-09-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "41468/10"
+ ],
+ "case_name": "Gutău",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193315",
+  "text_sha256": "408cbb8aed8b4de894f7a662d8ba07208595918516b0b8e97e8e07dfe962877c",
+  "catalogue_sha256": "408cbb8aed8b4de894f7a662d8ba07208595918516b0b8e97e8e07dfe962877c",
+  "fetched": "2026-11-03T03:16:59Z",
+  "chars": 20535,
+  "portal_id": "193315",
+  "tip": "HOTĂRÂRE"
+ }
+}
