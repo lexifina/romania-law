@@ -1,0 +1,63 @@
+{
+ "key": "cjue-c-441-16-hotarare-2017-09-21",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 21 septembrie 2017, Cauza C-441/16",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2017-09-21",
+ "year": "2017",
+ "case": "Cauza C-441/16",
+ "celex": "62016CJ0441",
+ "ecli": "ECLI:EU:C:2017:712",
+ "heading": "Hotărârea Curții (Camera a zecea) din 21 septembrie 2017",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2016-06-22",
+   "national_file": "8780/2/2011"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie",
+ "national_followup": [
+  "Înalta Curte de Casaţie şi Justiţie, Decizia din 13/12/2017 (4060/2017)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Taxa pe valoarea adăugată (TVA) – A opta directivă 79/1072/CEE – Directiva 2006/112/CE – Persoană impozabilă cu reședința într‑un alt stat membru – Rambursarea TVA‑ului pentru bunuri importate – Condiții – Elemente obiective care confirmă intenția persoanei impozabile de a utiliza bunurile importate în cadrul activităților sale economice – Risc serios de nerealizare a operațiunii care a justificat importul",
+ "interprets": [
+  {
+   "celex": "31979L1072",
+   "folder": "ue/directiva/1979/1072"
+  },
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CJ0441",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-441/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/21d9966a-9eb0-11e7-b92d-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "81c46b8307946619bd56c082492f9f58f28b46791947e2d83053a965aa4f09f3"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "A opta directivă 79/1072/CEE a Consiliului din 6 decembrie 1979 privind armonizarea legislațiilor statelor membre referitoare la impozitele pe cifra de afaceri – Sisteme de restituire a taxei pe valoarea adăugată persoanelor impozabile care nu sunt stabilite pe teritoriul țării coroborată cu articolul 170 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie să fie interpretată în sensul că se opune ca un stat membru să refuze unei persoane impozabile care nu este stabilită pe teritoriul său dreptul la rambursarea taxei pe valoarea adăugată achitate pentru importul de bunuri într‑o situație precum cea în discuție în litigiul principal, în care, la momentul importului, executarea contractului în cadrul căruia persoana impozabilă a cumpărat și a importat aceste bunuri era suspendată, operațiunea pentru care acestea urmau să fie utilizate nu s‑a mai realizat, iar persoana impozabilă nu a făcut dovada circuitului ulterior al acestora."
+ ]
+}
