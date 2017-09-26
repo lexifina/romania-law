@@ -1,0 +1,145 @@
+{
+ "key": "iccj-hp-52-2017",
+ "label": "Decizia ÎCCJ nr. 52/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "52",
+ "date": "2017-07-03",
+ "year": "2017",
+ "heading": "DECIZIA Nr. 52 din 3 iulie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 520 alin. (4) prin raportare la art. 416 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "764",
+  "bis": false,
+  "date": "2017-09-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "501/1/2017",
+  "1.644/87/2015",
+  "4.296/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în dosarele nr. 1.644/87/2015, nr. 1.188/87/2015, nr. 1.461/87/2015, nr. 1.467/87/2015, nr. 3.118/87/2015, nr. 1.443/87/2015, nr. 1.305/87/2015 și nr. 1.456/87/2015, pentru pronunțarea unei hotărâri prealabile privind „interpretarea dispozițiilor art. 520 alin. (4) prin raportare la art. 416 alin. (3) din Codul de procedură civilă, în sensul de a se stabili dacă redeschiderea judecății cauzei, după pronunțarea hotărârii prealabile, este un act de procedură ce trebuie efectuat din oficiu“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1031",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2004",
+    "number": "115",
+    "year": "2004",
+    "path": "oug/2004/115"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-09-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193374",
+  "text_sha256": "e8eb220411702077ecabc0a63095fb2e3e1f57abdd5b0dc7413744334e88eb91",
+  "catalogue_sha256": "e8eb220411702077ecabc0a63095fb2e3e1f57abdd5b0dc7413744334e88eb91",
+  "fetched": "2026-11-03T18:39:19Z",
+  "chars": 25596,
+  "portal_id": "193374",
+  "tip": "DECIZIE"
+ }
+}
