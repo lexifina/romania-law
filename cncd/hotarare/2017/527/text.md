@@ -1,0 +1,118 @@
+Piața Valter Mărăcineanu 1-3, sector 1
+
+București, Tel / fax 021-312.65.78/79/85
+
+            www.cncd.org.ro
+1
+
+CONSILIUL NAȚIONAL PENTRU COMBATEREA DISCRIMINĂRII
+     Autoritate de stat autonomă
+
+Operator de date cu caracter personal nr. 11375
+
+HOTĂRÂREA nr. 527
+din 27.09.2017
+
+Dosar nr: 442/2017
+Petiția nr: 4310/24.08.2017
+Petent: ..
+Reclamat: —
+Obiect: distrugerea mediului prin pășunatul oilor.
+
+I. Numele, domiciliul și sediul părților
+
+I. 1. Numele și domiciliul petentului
+1.1.1. ..
+
+I. 2. Numele, domiciliul sau sediul reclamatului
+1.2.1. —
+
+II. Obiectul sesizării și descrierea presupusei fapte de discriminare
+
+2.1. Petentul arată ilegalități privind acordarea dreptului la pășunat.
+
+III. Citarea părților
+
+3.1. S-a invocat din oficiu excepția lipsei obiectului raportat la prevederile O.G. nr.
+137/2000 (fila 27 din dosar).
+3.2. Petentul nu a schimbat obiectul petiției, nu a descris o faptă de diferențiere bazată
+pe un criteriu care ar atinge un drept.
+3.3. În consecință citarea părților nu a fost necesară.
+
+Piața Valter Mărăcineanu 1-3, sector 1
+
+București, Tel / fax 021-312.65.78/79/85
+
+            www.cncd.org.ro
+2
+
+IV. Susținerile părților
+
+4.1. Susținerile petentului
+
+4.1.1. Prin petiția înregistrată la CNCD cu nr. 4310/24.08.2017 (fila 1, înscrisuri filele 2-
+26 din dosar) petentul arată că autoritatea locală nu respectă legislația privind acordarea
+dreptului la pășunat.
+
+4.2. Susținerile reclamatului
+—
+
+V. Motivele de fapt și de drept
+
+5.1. Colegiul director admite excepția lipsei obiectului petiției raportat la prevederile O.G.
+nr. 137/2000, întrucât petentul nu a prezentat o faptă de discriminare (diferențiere bazată pe
+un criteriu care atinge un drept), ci o problemă de legalitate a actelor emise de o autoritate
+publică locală.
+
+Față de cele de mai sus, în temeiul art. 20 alin. (2) din O.G. 137/2000 privind
+prevenirea și sancționarea tuturor formelor de discriminare, republicată, cu unanimitatea
+membrilor prezenți la ședință
+
+COLEGIUL DIRECTOR
+HOTĂRĂȘTE:
+
+1. Admite excepția lipsei obiectului petiției invocată din oficiu conform Procedurii de
+soluționare a petiților și sesizărilor, art. 33-37;
+2. O copie a prezentei hotărâri se va comunica petentului.
+
+VI. Modalitatea de plată a amenzii: —
+
+VII. Calea de atac și termenul în care se poate exercita
+
+Prezenta hotărâre poate fi atacată în termenul legal de 15 zile potrivit O.G. 137/2000
+privind prevenirea și sancționarea faptelor de discriminare și Legii nr. 554/2004 a
+contenciosului administrativ la instanța de contencios administrativ.
+
+Membrii Colegiului director prezenți la ședință
+
+BERTZI THEODORA – Membru
+
+DINCĂ ILIE – Membru
+
+Piața Valter Mărăcineanu 1-3, sector 1
+
+București, Tel / fax 021-312.65.78/79/85
+
+            www.cncd.org.ro
+3
+
+GHEORGHIU LUMINIȚA – Membru
+
+HALLER ISTVÁN – Membru
+
+JURA CRISTIAN – Membru
+
+LAZĂR MARIA – Membru
+
+POPA CLAUDIA SORINA – Membru
+
+SANDU TATIANA VERONICA – Membru
+
+Data redactării: 27.09.2017
+
+Notă: Hotărârile emise de Colegiul Director al Consiliului Național pentru Combaterea
+Discriminării potrivit prevederilor legii și care nu sunt atacate în termenul legal, potrivit O.G.
+137/2000 privind prevenirea și sancționarea faptelor de discriminare și Legii 554/2004 a
+contenciosului administrativ, constituie de drept titlu executoriu.
+
+Red.: Haller István
