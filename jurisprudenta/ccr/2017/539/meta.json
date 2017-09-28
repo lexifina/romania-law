@@ -1,0 +1,376 @@
+{
+ "key": "dcc-539-2017",
+ "label": "Decizia CCR nr. 539/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "539",
+ "date": "2017-07-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 539 din 13 iulie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 296^3 lit. a) și d), art. 296^21, art. 296^22, art. 296^25, art. 296^27 și ale art. 296^28 din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2017-09-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.044/63/2015",
+  "557D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "296-21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Predică în Dosarul nr. 11.044/63/2015 al Tribunalului Dolj - Secția de contencios administrativ și fiscal și constată că prevederile art. 296^3 lit. a) și d), art. 296^21, art. 296^22, art. 296^25, art. 296^27 și ale art. 296^28 din Legea nr. 571/2003 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "293-3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "296-21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "i"
+     ]
+    },
+    {
+     "art": "296-22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "296-26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "296-18",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "296-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "257",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "502",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-09-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193423",
+  "text_sha256": "1b0171301357cb608c1d53a40502cabcdee15c8233ad7eeb693eeaaa819a204a",
+  "catalogue_sha256": "1b0171301357cb608c1d53a40502cabcdee15c8233ad7eeb693eeaaa819a204a",
+  "fetched": "2026-11-06T03:12:40Z",
+  "chars": 34593,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406072713/https://legislatie.just.ro/Public/DetaliiDocumentAfis/193423",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/193423",
+   "timestamp": "20250406072713",
+   "sha256": "3c893a2f37268b0b579bee048e7cd750997e8a5f00c18009b7dcdcee27d19258"
+  },
+  "portal_id": "193423",
+  "tip": "DECIZIE"
+ }
+}
