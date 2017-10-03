@@ -1,0 +1,265 @@
+{
+ "key": "dcc-485-2017",
+ "label": "Decizia CCR nr. 485/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "485",
+ "date": "2017-06-27",
+ "year": "2017",
+ "heading": "DECIZIA nr. 485 din 27 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 9 alin. (1) lit. v) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu și ale acestui act normativ în ansamblul său, precum și cea a prevederilor Legii nr. 105/2006 pentru aprobarea Ordonanței de urgență a Guvernului nr. 196/2005",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "783",
+  "bis": false,
+  "date": "2017-10-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25/44/2016",
+  "1.350D/2016",
+  "1.358D/2016",
+  "3/46/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "v"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "lege/2006/105"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Ecologic 3R - S.A., cu sediul în Brăila, în Dosarul nr. 25/44/2016 al Curții de Apel Galați - Secția contencios administrativ și fiscal, precum și de către Societatea Sota Grup 21 - S.A., cu sediul în Pitești, în Dosarul nr. 3/46/2016 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, și constată că prevederile art. 9 alin. (1) lit. v) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu și ale acestui act normativ în ansamblul său, precum și prevederile Legii nr. 105/2006 pentru aprobarea Ordonanței de urgență a Guvernului nr. 196/2005 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția contencios administrativ și fiscal și Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 384/2013",
+    "number": "384",
+    "year": "2013",
+    "path": "lege/2013/384"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 31/2013",
+    "number": "31",
+    "year": "2013",
+    "path": "og/2013/31"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "v"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 105/2006",
+    "number": "105",
+    "year": "2006",
+    "path": "lege/2006/105"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 73/2000",
+    "number": "73",
+    "year": "2000",
+    "path": "lege/2000/73"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 39/2016",
+    "number": "39",
+    "year": "2016",
+    "path": "oug/2016/39"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-10-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193713",
+  "text_sha256": "46e3171a023d02e5645f5e34a17263365e5b78676b294dadac5d628156e98827",
+  "catalogue_sha256": "46e3171a023d02e5645f5e34a17263365e5b78676b294dadac5d628156e98827",
+  "fetched": "2026-11-03T20:05:49Z",
+  "chars": 23017,
+  "portal_id": "193713",
+  "tip": "DECIZIE"
+ }
+}
