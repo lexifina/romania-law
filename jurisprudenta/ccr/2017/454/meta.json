@@ -1,0 +1,227 @@
+{
+ "key": "dcc-454-2017",
+ "label": "Decizia CCR nr. 454/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "454",
+ "date": "2017-06-22",
+ "year": "2017",
+ "heading": "DECIZIA nr. 454 din 22 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 45 alin. (2)-(4) și (7) din Legea concurenței nr. 21/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "785",
+  "bis": false,
+  "date": "2017-10-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.821/2/2015",
+  "461D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 45 alin. (2)-(4) și (7) din Legea concurenței nr. 21/1996, excepție ridicată de Societatea Energobit - S.A., cu sediul în Cluj-Napoca, în Dosarul nr. 5.821/2/2015 al Înaltei Curți de Casație și Justiție - Secția contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "2",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-10-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193730",
+  "text_sha256": "07649034d83cae3411621e57e9b0578a235f5e68041096e7dc65be6d5999c686",
+  "catalogue_sha256": "07649034d83cae3411621e57e9b0578a235f5e68041096e7dc65be6d5999c686",
+  "fetched": "2026-11-03T03:16:43Z",
+  "chars": 18844,
+  "portal_id": "193730",
+  "tip": "DECIZIE"
+ }
+}
