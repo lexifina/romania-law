@@ -1,0 +1,184 @@
+{
+ "key": "dcc-405-2017",
+ "label": "Decizia CCR nr. 405/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "405",
+ "date": "2017-06-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 405 din 13 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Legii nr. 183/2008 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2008 pentru stabilirea tarifului lunar al chiriei pe mp care se aplică pentru închirierea locuințelor și terenului aferent acestora, aflate în domeniul public și privat al statului, administrate de Regia Autonomă \"Administrația Patrimoniului Protocolului de Stat\"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "802",
+  "bis": false,
+  "date": "2017-10-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "31.962/3/2014",
+  "832D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 183/2008",
+    "number": "183",
+    "year": "2008",
+    "path": "lege/2008/183"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioan Țiriac în Dosarul nr. 31.962/3/2014 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie și constată că dispozițiile Legii nr. 183/2008 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2008 pentru stabilirea tarifului lunar al chiriei pe mp care se aplică pentru închirierea locuințelor și terenului aferent acestora, aflate în domeniul public și privat al statului, administrate de Regia Autonomă „Administrația Patrimoniului Protocolului de Stat“, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 183/2008",
+    "number": "183",
+    "year": "2008",
+    "path": "lege/2008/183"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "oug/2008/9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinței nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-10-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193854",
+  "text_sha256": "fe5e8ea7bc0afb48808f839645e1db0a6261db9c05884e8962da0766f4f14ea8",
+  "catalogue_sha256": "fe5e8ea7bc0afb48808f839645e1db0a6261db9c05884e8962da0766f4f14ea8",
+  "fetched": "2026-11-03T03:16:31Z",
+  "chars": 15240,
+  "portal_id": "193854",
+  "tip": "DECIZIE"
+ }
+}
