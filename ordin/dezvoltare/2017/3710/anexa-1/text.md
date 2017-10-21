@@ -1,0 +1,2 @@
+# ANEXĂ
+METODOLOGIE pentru stabilirea distanțelor adecvate față de sursele potențiale de risc din cadrul amplasamentelor care se încadrează în prevederile Legii nr. 59/2016 privind controlul asupra pericolelor de accident major în care sunt implicate substanțe periculoase în activitățile de amenajare a teritoriului și urbanism
