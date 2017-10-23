@@ -1,0 +1,19 @@
+# Anexa nr. 4 (Anexa nr. 5 la procedură)
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+Direcția pentru Agricultură a Județului............
+Adresa: localitatea............., str................... nr................., cod poștal...................., telefon/fax..................., e-mail..................., web................
+NOTĂ DE CONSTATARE nr................./din data de.................... privind verificarea îndeplinirii condițiilor în vederea acordării/neacordării dreptului de utilizare a mențiunii de calitate facultative „produs montan”
+1.
+Obiectul controlului: verificarea realității datelor înscrise în documentația depusă la direcția pentru agricultură județeană, conform anexei nr. 1 la procedura aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2017, cu modificările ulterioare, înregistrată cu nr............ în data de...................., Adresei Direcției Sanitar-Veterinare și pentru Siguranța Alimentelor a Județului........... nr.................din data de................., Registrului special de autocontrol și a documentelor specifice, conform modelului din anexa nr. 2 la procedura aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 52/2017, cu modificările ulterioare
+2.
+Subsemnatul/Subsemnata,................................., posesor/posesoare al/a legitimației nr.........., eliberată de Ministerul Agriculturii și Dezvoltării Rurale, în urma verificării realității datelor pentru acordarea dreptului de utilizare a mențiunii de calitate facultative „produs montan” pentru produsul.................... (Se va numi produsul.), fabricat de......................
+3.
+Solicitantul..............., înmatriculat în registrul comerțului cu nr....................., cod unic de înregistrare....................., nr. înregistrare în registrul asociațiilor și fundațiilor............................., Atestat de producător nr................/, adresa sediului........................../tel................./fax.................. la
+4.
+Unitatea (filială, punct de lucru), adresa:......................................, unde am fost primiți de domnul/doamna......................., în calitate de................., posesor/posesoare al/a actului de identitate.................... seria............... nr.........., eliberat de.................... la data de...................., CNP........................., am constatat următoarele: - unitatea de producție îndeplinește/nu îndeplinește condițiile.................... pentru acordarea dreptului de utilizare a mențiunii de calitate facultative „produs montan”
+(Se vor menționa distinct motivele acordării/neacordării dreptului de utilizare a mențiunii de calitate facultative „produs montan”.)....................................................................................
+5.
+Măsuri stabilite în baza constatării unor neconcordanțe și termenul finalizării lor:....................
+Reprezentantul direcției pentru agricultură județene, (persoana cu atribuții din direcția pentru agricultură județeană)
+Funcția................................. (semnătura și ștampila)...................................
+Operatorul economic sau reprezentantul împuternicit,.............................. (semnătura și ștampila)
