@@ -1,0 +1,299 @@
+{
+ "key": "dcc-433-2017",
+ "label": "Decizia CCR nr. 433/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "433",
+ "date": "2017-06-22",
+ "year": "2017",
+ "heading": "DECIZIA nr. 433 din 22 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 107-110 din Codul penal și art. 566-571 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "841",
+  "bis": false,
+  "date": "2017-10-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "277/281/2016",
+  "1.232D/2016",
+  "2.909/200/2015",
+  "1.124D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "566",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "567",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "568",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "569",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "570",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "571",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Marin Duță în Dosarul nr. 277/281/2016 al Tribunalului Prahova - Secția penală și Dosarul nr. 2.909/200/2015 al Tribunalului Buzău - Secția penală și constată că dispozițiile art. 107-110 din Codul penal și art. 566-571 din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secția penală și Tribunalului Buzău - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "566",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "567",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "568",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "569",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "570",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "571",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194213",
+  "text_sha256": "4ff8d8d7ded10ce586cb6d863879670bff1a2d213e6783b6c74583c07435827b",
+  "catalogue_sha256": "4ff8d8d7ded10ce586cb6d863879670bff1a2d213e6783b6c74583c07435827b",
+  "fetched": "2026-11-03T03:16:12Z",
+  "chars": 19732,
+  "portal_id": "194213",
+  "tip": "DECIZIE"
+ }
+}
