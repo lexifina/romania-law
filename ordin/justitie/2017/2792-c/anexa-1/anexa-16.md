@@ -1,0 +1,13 @@
+# Anexa nr. 16 la regulament
+CENTRALIZATOR NOMINAL la soluționarea contestațiilor Camera Notarilor Publici......................
+Data......................
+Nr. crt.
+Numărul de ordine al lucrării
+Numele și prenumele
+Numărul de răspunsuri corecte la întrebările din drept civil și procedură civilă
+Numărul de răspunsuri corecte la întrebările din procedură notarială și legislație notarială
+Nota lucrării după soluționarea contestațiilor
+Președintele Comisiei de soluționare a contestațiilor,
+Semnătura,.................................................................................
+Membrii comisiei:
+Semnătura,.................................................................................

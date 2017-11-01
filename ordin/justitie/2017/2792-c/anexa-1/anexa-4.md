@@ -1,0 +1,6 @@
+# Anexa nr. 4 la regulament
+Cabinetul psihologic
+Nr....../...............................
+AVIZ PSIHOLOGIC
+În conformitate cu dispozițiile art. 22 alin. (2) din Legea notarilor publici și a activității notariale nr. 36/1995, republicată, cu modificările și completările ulterioare, și ale Ordonanței Guvernului nr. 124/1998 privind organizarea și funcționarea cabinetelor medicale, republicată, cu modificările și completările ulterioare, doamna/domnul..............................., CNP......................., domiciliată/domiciliat în........................, în urma examinării psihologice, este declarată/declarat APT/INAPT pentru dobândirea calității de notar stagiar.
+Semnătura și parafa psihologului.....................

@@ -1,0 +1,13 @@
+# Anexa nr. 13 la regulament
+LISTA cuprinzând rezultatele examenului sau concursului
+Camera Notarilor Publici......................
+Data.......................
+Nr. crt.
+Numele și prenumele
+Numărul de răspunsuri corecte la întrebările din drept civil și procedură civilă
+Numărul de răspunsuri corecte la întrebările din procedură notarială și legislație notarială
+Nota lucrării
+Președintele Comisiei de examinare,
+Semnătura,.................................................................................
+Membrii comisiei:
+Semnătura,.................................................................................
