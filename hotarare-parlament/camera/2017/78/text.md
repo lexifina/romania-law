@@ -1,0 +1,6 @@
+ HOTĂRÂRE nr. 78 din 31 octombrie 2017  privind contul de execuție a bugetului Camerei Deputaților pe anul 2016     EMITENT     CAMERA DEPUTAȚILOR       Publicat în
+			  MONITORUL OFICIAL nr. 863 din 1 noiembrie 2017      În temeiul  art. 64 alin. (1) din Constituția României, republicată , precum și al  art. 32 alin. (1) lit. d) din Regulamentul Camerei Deputaților , aprobat prin  Hotărârea Camerei Deputaților nr. 8/1994 , republicat, cu modificările și completările ulterioare,   Camera Deputaților adoptă prezenta hotărâre.
+				 +
+			  ARTICOL UNIC      Se aprobă contul de execuție a bugetului Camerei Deputaților pe anul 2016, conform datelor cuprinse în anexele nr. 1 și 2 și în Raportul privind execuția bugetului Camerei Deputaților la 31 decembrie 2016*), care fac parte integrantă din prezenta hotărâre.
+						Notă   ...
+			    *) Raportul explicativ și anexele nr. 1 și 2 se comunică celor interesați.      Această hotărâre a fost adoptată de Camera Deputaților în ședința din 31 octombrie 2017, cu respectarea prevederilor  art. 76 alin. (2) din Constituția României, republicată .     p. PREȘEDINTELE CAMEREI DEPUTAȚILOR,    FLORIN IORDACHE    București, 31 octombrie 2017.   Nr. 78.   ----
