@@ -1,0 +1,305 @@
+{
+ "key": "iccj-hp-penal-24-2017",
+ "label": "Decizia ÎCCJ nr. 24/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "24",
+ "date": "2017-09-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 24 din 19 septembrie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 83 alin. (1) lit. b) din Codul penal și art. 88 alin. (3) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "860",
+  "bis": false,
+  "date": "2017-11-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.785/1/2017",
+  "14.607/197/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "88",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Brașov, Secția penală, în Dosarul nr. 14.607/197/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă, în raport cu dispozițiile art. 83 alin. (1) lit. b) din Codul penal și art. 88 alin. (3) din Codul penal, în ipoteza săvârșirii unei noi infracțiuni intenționate în termenul de supraveghere al amânării aplicării unei pedepse este obligatorie dispunerea condamnării pentru noua infracțiune ori se poate dispune din nou amânarea aplicării pedepsei pentru aceasta, fără revocarea amânării aplicării pedepsei anterioare“.",
+  "În interpretarea și aplicarea dispozițiilor art. 83 alin. (1) lit. b) din Codul penal și art. 88 alin. (3) din Codul penal stabilește că:",
+  "În ipoteza săvârșirii unei noi infracțiuni intenționate în termenul de supraveghere al amânării aplicării unei pedepse, atât pronunțarea soluției de condamnare pentru noua infracțiune, cât și revocarea amânării aplicării pedepsei anterioare sunt obligatorii.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "b",
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "88",
+     "alin": [
+      "3",
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 157
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1",
+      "10",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194451",
+  "text_sha256": "76e8c6bccdf2dbce74c467f049329ac2ddecd56cfe5f9ec7c2a17a91031a3fd9",
+  "catalogue_sha256": "76e8c6bccdf2dbce74c467f049329ac2ddecd56cfe5f9ec7c2a17a91031a3fd9",
+  "fetched": "2026-11-03T03:16:03Z",
+  "chars": 105293,
+  "portal_id": "194451",
+  "tip": "DECIZIE"
+ }
+}
