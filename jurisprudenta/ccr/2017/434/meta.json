@@ -1,0 +1,275 @@
+{
+ "key": "dcc-434-2017",
+ "label": "Decizia CCR nr. 434/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "434",
+ "date": "2017-06-22",
+ "year": "2017",
+ "heading": "DECIZIA nr. 434 din 22 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 341 alin. (8) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "865",
+  "bis": false,
+  "date": "2017-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.423/1/2015",
+  "185/285/2016",
+  "15.487/280/2015",
+  "2.757/193/2016",
+  "3.061/245/2016",
+  "12.684/211/2015",
+  "2.273/303/2016",
+  "3.870/285/2016",
+  "4.486/233/2016",
+  "1.209D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioana Sultana Stan în Dosarul nr. 4.423/1/2015 al Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie, precum și în Dosarul nr. 2.757/193/2016 al Judecătoriei Botoșani - Secția penală, de Societatea Comercială „Labirint Com“ - S.R.L. din Frătăuții Vechi, județul Suceava, în dosarele nr. 185/285/2016 și nr. 3.870/285/2016 ale Tribunalului Suceava - Secția penală, de Gheorghe Coadă în Dosarul nr. 15.487/280/2015 al Tribunalului Argeș - Secția penală, de Mihai Stoica în Dosarul nr. 3.061/245/2016 al Tribunalului Iași - Secția penală, de Dan Radu Sima în Dosarul nr. 12.684/211/2015 al Curții de Apel Cluj - Secția penală și de minori, de Dumitru Argeșanu în Dosarul nr. 2.273/303/2016 al Tribunalului București - Secția I penală și de Mihai Mândru În Dosarul nr. 4.486/233/2016 al Judecătoriei Galați - Secția penală și constată că dispozițiile art. 341 alin. (8) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie, Tribunalului Suceava - Secția penală, Tribunalului Argeș - Secția penală, Judecătoriei Botoșani - Secția penală, Tribunalului Iași - Secția penală, Curții de Apel Cluj - Secția penală și de minori, Tribunalului București - Secția I penală și Judecătoriei Galați - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "8",
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194482",
+  "text_sha256": "3f6e75f3af8a19713748aa5d713f4140728d8fef8e52c87a956f20f8a68e30ca",
+  "catalogue_sha256": "3f6e75f3af8a19713748aa5d713f4140728d8fef8e52c87a956f20f8a68e30ca",
+  "fetched": "2026-11-03T03:15:56Z",
+  "chars": 24504,
+  "portal_id": "194482",
+  "tip": "DECIZIE"
+ }
+}
