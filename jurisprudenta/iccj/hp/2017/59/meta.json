@@ -1,0 +1,175 @@
+{
+ "key": "iccj-hp-59-2017",
+ "label": "Decizia ÎCCJ nr. 59/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2017-09-18",
+ "year": "2017",
+ "heading": "DECIZIA nr. 59 din 18 septembrie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile având ca obiect obligarea pârâtului la suportarea pretenției constând în cheltuielile de judecată generate de un alt litigiu soluționat definitiv",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "871",
+  "bis": false,
+  "date": "2017-11-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "767/1/2017",
+  "18.858/4/2015",
+  "14.667/225/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a V-a civilă în Dosarul nr. 18.858/4/2015, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În cauzele având ca obiect obligarea pârâtului la suportarea pretenției constând în cheltuielile de judecată generate de un alt litigiu soluționat definitiv, dispozițiile art. 453 alin. (1) din Codul de procedură civilă rămân aplicabile.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "628",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194514",
+  "text_sha256": "1122c7f68c19c3d39657be843557510d8bcd3e63541f9af06609f747945ad71c",
+  "catalogue_sha256": "1122c7f68c19c3d39657be843557510d8bcd3e63541f9af06609f747945ad71c",
+  "fetched": "2026-11-03T03:15:55Z",
+  "chars": 53121,
+  "portal_id": "194514",
+  "tip": "DECIZIE"
+ }
+}
