@@ -1,0 +1,152 @@
+{
+ "key": "cedo-30474-03-2017-04-11",
+ "label": "CEDO, Costache și alții c. României, 2017-04-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2017-04-11",
+ "year": "2017",
+ "heading": "HOTĂRÂREA din 11 aprilie 2017 din 11 aprilie 2017",
+ "subtitle": "în Cauza Costache și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "874",
+  "bis": false,
+  "date": "2017-11-07",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "30474/03"
+ ],
+ "case_name": "Costache și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să scoată de pe rolul său cererea în ceea ce îi privește pe domnul Ștefan Costache și pe doamnele Otilia Costache și Anghelina Costache;",
+  "2. decide că doamna Floarea Costache are calitatea procesuală activă pentru a continua procedura în numele soțului său decedat, domnul Ion Costache;",
+  "3. declară admisibil capătul de cerere formulat de domnul Ion Costache în temeiul art. 6 § 1 în ceea ce privește anularea deciziei definitive din 9 aprilie 1998;",
+  "4. hotărăște că nu este necesară examinarea admisibilității și a fondului capătului de cerere formulat de domnul Ion Costache în temeiul art. 1 din Protocolul nr. 1 la Convenție în ceea ce privește anularea deciziei definitive din 9 aprilie 1998;",
+  "5. declară inadmisibile celelalte capete de cerere;",
+  "6. hotărăște că a existat o încălcare a art. 6 § 1 din Convenție ca urmare a anulării deciziei definitive din 9 aprilie 1998;",
+  "7. hotărăște (a) că statul pârât trebuie să plătească doamnei Floarea Costache, în termen de trei luni, 3 600 EUR (trei mii șase sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral, sumă care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "(b) că, de la expirarea termenului de trei luni menționat anterior și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "8. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194532",
+  "text_sha256": "7c97251e3d2d2f20ee53fb3deba2118a637681b1bd3e46faa9169c3940638bed",
+  "catalogue_sha256": "7c97251e3d2d2f20ee53fb3deba2118a637681b1bd3e46faa9169c3940638bed",
+  "fetched": "2026-11-03T03:15:55Z",
+  "chars": 23462,
+  "portal_id": "194532",
+  "tip": "HOTĂRÂRE"
+ }
+}
