@@ -1,0 +1,51 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2017/1896 AL COMISIEI
+din 17 octombrie 2017
+privind autorizarea unui preparat de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) ca aditiv furajer pentru pui pentru îngrășare, găini ouătoare, porci pentru îngrășare, specii minore de păsări de curte și specii minore de porcine pentru îngrășare, de modificare a Regulamentului (CE) 255/2005 și de abrogare a Regulamentului (CE) nr. 668/2003 (titular al autorizației Andrés Pintaluba S.A.)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și justificarea și procedurile de acordare a unei astfel de autorizații. Articolul 10 din regulamentul respectiv prevede reevaluarea aditivilor autorizați în temeiul Directivei 70/524/CEE a Consiliului (2).
+(2) Preparatul de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) a fost autorizat fără limită de timp în conformitate cu Directiva 70/524/CEE ca aditiv furajer pentru puii pentru îngrășare prin Regulamentul (CE) nr. 668/2003 al Comisiei (3) și ca aditiv furajer pentru găinile ouătoare prin Regulamentul (CE) nr. 255/2005 al Comisiei (4). Preparatul respectiv a fost ulterior înscris în Registrul aditivilor pentru hrana animalelor ca produs existent, în conformitate cu articolul 10 alineatul (1) din Regulamentul (CE) nr. 1831/2003.
+(3) În conformitate cu articolul 10 alineatul (2) din Regulamentul (CE) nr. 1831/2003 coroborat cu articolul 7 din respectivul regulament, s-a depus o cerere pentru reevaluarea preparatului de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) ca aditiv furajer pentru puii pentru îngrășare și găinile ouătoare și, în conformitate cu articolul 7 din regulamentul respectiv, pentru autorizarea utilizării pentru porcii pentru îngrășare, speciile minore de păsări de curte și de porcine, solicitându-se ca aditivul respectiv să fie clasificat în categoria de „aditivi zootehnici”. Cererea a fost însoțită de informațiile și documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizele sale din 11 iulie 2013 (5) și din 25 ianuarie 2017 (6) că, în condițiile de utilizare propuse, preparatul de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) nu are un efect advers asupra sănătății animale, a sănătății umane sau asupra mediului. Autoritatea a mai concluzionat că utilizarea preparatului respectiv are potențialul de a fi eficace în ceea ce privește îmbunătățirea parametrilor zootehnici la puii pentru îngrășare, la găinile ouătoare și la porcii pentru îngrășare. În continuare, autoritatea a considerat că modul de acțiune al enzimelor prezente în aditiv poate fi considerat similar în cazul tuturor speciilor minore de păsări de curte și de porcine, așadar concluziile privind eficacitatea la puii pentru îngrășare, la găinile ouătoare și la porcii pentru îngrășare pot fi extrapolate la speciile minore de păsări de curte și la speciile minore de porcine pentru îngrășare. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. Ea a verificat, de asemenea, raportul privind metoda de analiză a aditivului furajer în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea preparatului de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea preparatului respectiv ar trebui autorizată, astfel cum se specifică în anexa la prezentul regulament.
+(6) Deoarece niciun motiv de siguranță nu impune aplicarea imediată a modificărilor condițiilor de autorizare, este rezonabil să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care decurg din autorizare.
+(7) Prin urmare, Regulamentul (CE) nr. 255/2005 ar trebui modificat în consecință. Regulamentul (CE) nr. 668/2003 ar trebui abrogat.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Preparatul indicat în anexă, aparținând categoriei „aditivi zootehnici” și grupului funcțional „promotori de digestibilitate”, se autorizează ca aditiv pentru hrana pentru animale în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Modificări aduse Regulamentului (CE) nr. 255/2005
+În anexa II la Regulamentul (CE) nr. 255/2005, rubrica E 1601 referitoare la endo-1,3(4)-beta-glucanază EC 3.2.1.6 și endo-1,4-beta-xilanază EC 3.2.1.8 se elimină.
+Articolul 3
+Abrogare
+Regulamentul (CE) nr. 668/2003 se abrogă.
+Articolul 4
+Măsuri tranzitorii
+Preparatul specificat în anexă și hrana pentru animale care conține acest preparat care sunt produse și etichetate înainte de 7 mai 2018 în conformitate cu normele aplicabile înainte de 7 noiembrie 2017 pot continua să fie introduse pe piață și utilizate până la epuizarea stocurilor existente.
+Articolul 5
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 17 octombrie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Directiva 70/524/CEE a Consiliului din 23 noiembrie 1970 privind aditivii din hrana animalelor (JO L 270, 14.12.1970, p. 1).
+(3) Regulamentul (CE) nr. 668/2003 al Comisiei din 11 aprilie 2003 privind autorizarea permanentă a unui aditiv în hrana animalelor (JO L 96, 12.4.2003, p. 14).
+(4) Regulamentul (CE) nr. 255/2005 al Comisiei din 15 februarie 2005 cu privire la autorizarea permanentă a anumitor aditivi în hrana pentru animale (JO L 45, 16.2.2005, p. 3).
+(5) EFSA Journal 2013; 11(8):3322.
+(6) EFSA Journal 2017; 15(3):4706.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de furaj complet cu un conținut de umiditate de 12 %
+Categoria de aditivi zootehnici. Grupa funcțională: promotori de digestibilitate.
+4a1601 | Andrés Pintaluba S.A. | Endo-1,3(4)-beta-glucanază EC 3.2.1.6 și endo-1,4-beta-xilanază EC 3.2.1.8 | Compoziția aditivului Preparat de endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produs de Aspergillus niger (NRRL 25541) având o activitate minimă de: endo-1,3(4)-beta-glucanază 1 100 U(1)/g și endo-1,4-beta-xilanază 1 600 U(2)/g. (în stare solidă) Caracterizarea substanței active Endo-1,3(4)-beta-glucanază (EC 3.2.1.6) și endo-1,4-beta-xilanază (EC 3.2.1.8) produse de Aspergillus niger (NRRL 25541) Metoda de analiză (3) Pentru caracterizarea în aditivul furajer sau în preamestecurile de: — activitatea endo-1,3(4)-beta-glucanazei: metoda colorimetrică de măsurare a zaharurilor reductoare (în echivalenți glucoză) eliberate prin acțiunea endo-1,3(4)-beta-glucanazei asupra substratului de beta-glucan de orz în prezența acidului 3,5-dinitrosalicilic (DNS); — activitatea endo-1,4-beta-xilanazei: metoda colorimetrică de măsurare a zaharurilor reductoare (în echivalenți glucoză) eliberate prin acțiunea endo-1,4-beta-xilanazei asupra substratului de xilan de ovăz în prezența acidului 3,5-dinitrosalicilic (DNS). Pentru caracterizarea în hrana pentru animale: — activitatea endo-1,3(4)-beta-glucanazei: metoda colorimetrică de măsurare a fragmentelor solubile depolimerizate eliberate prin acțiunea endo-1,3(4)-beta-glucanazei asupra azo-glucanului de orz; — activitatea endo-1,4-beta-xilanazei: metoda colorimetrică de măsurare a fragmentelor solubile depolimerizate eliberate prin acțiunea endo-1,4-beta-xilanazei asupra azo-xilanului. | Pui pentru îngrășare Găini ouătoare Porci pentru îngrășare Specii minore de păsări de curte Specii minore de porcine pentru îngrășare | — | Endo-1,3(4)-beta-glucanază: 138 U Endo-1,4-beta-xilanază 200 U | — | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție respiratorie, de protecție pentru ochi și de protecție pentru piele. | 7.11.2027
+(1) 1 U (unitate) de endo-1,3(4)-beta-glucanază este cantitatea de enzimă care eliberează 1 micromol de zaharuri reductoare (în echivalenți glucoză) pe minut din beta-glucan de ovăz la 30 °C și pH 4.
+(2) 1 U (unitate) de endo-1,4-beta-xilanază este cantitatea de enzimă care eliberează 1 micromol de zaharuri reductoare (în echivalenți xiloză) pe minut din xilan de ovăz la 30 °C și pH 4.
+(3) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports.
