@@ -1,0 +1,510 @@
+{
+ "key": "dcc-611-2017",
+ "label": "Decizia CCR nr. 611/2017",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "611",
+ "date": "2017-10-03",
+ "year": "2017",
+ "heading": "DECIZIA nr. 611 din 3 octombrie 2017",
+ "subtitle": "referitoare la cererile de soluționare a conflictelor juridice de natură constituțională dintre Parlamentul României, pe de o parte, și Ministerul Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție, pe de altă parte, cereri formulate de președinții Senatului și Camerei Deputaților",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "877",
+  "bis": false,
+  "date": "2017-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.428E/2017",
+  "2.429E/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Constată că există un conflict juridic de natură constituțională între Parlamentul României, pe de o parte, și Ministerul Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție, pe de altă parte, generat de refuzul procurorului șef al Direcției Naționale Anticorupție de a se prezenta în fața Comisiei speciale de anchetă a Senatului și Camerei Deputaților pentru verificarea aspectelor ce țin de organizarea alegerilor din 2009 și de rezultatul scrutinului prezidențial.",
+  "2. Constată obligația doamnei Laura Codruța Kövesi de a se prezenta în fața Parlamentului României - Comisia specială de anchetă a Senatului și Camerei Deputaților pentru verificarea aspectelor ce țin de organizarea alegerilor din 2009 și de rezultatul scrutinului prezidențial și de a furniza informațiile solicitate sau de a pune la dispoziție celelalte documente sau mijloace de probă deținute, utile activității comisiei.",
+  "3. Constată că nu există un conflict juridic de natură constituțională între Parlamentul României, pe de o parte, și Ministerul Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție, pe de altă parte, generat de refuzul procurorului general al Parchetului de pe lângă Înalta Curte de Casație și Justiție de a exercita acțiunea disciplinară împotriva procurorului șef al Direcției Naționale Anticorupție pentru neprezentarea în fața Comisiei speciale de anchetă a Senatului și Camerei Deputaților pentru verificarea aspectelor ce țin de organizarea alegerilor din 2009 și de rezultatul scrutinului prezidențial și de refuzul Parchetului de pe lângă Înalta Curte de Casație și Justiție de a transmite comisiei speciale de anchetă o copie după dosarul de urmărire penală aflat pe rolul acestui parchet.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Senatului României, președintelui Camerei Deputaților, Ministerului Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție și Ministerului Public - Parchetul de pe lângă Înalta Curte de Casație și Justiție - Direcția Națională Anticorupție și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 73
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 94/1999",
+    "number": "94",
+    "year": "1999",
+    "path": "og/1999/94"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 370/2004",
+    "number": "370",
+    "year": "2004",
+    "path": "lege/2004/370"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 195/2017",
+    "number": "195",
+    "year": "2017",
+    "path": "lege/2017/195"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/1997",
+    "number": "35",
+    "year": "1997",
+    "path": "lege/1997/35"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2009",
+    "number": "95",
+    "year": "2009",
+    "path": "oug/2009/95"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194558",
+  "text_sha256": "73d9b3c2b5082de2ae2dfed5f8bb8ed9188fa6e47761c73073b54ab1d3b4d7ba",
+  "catalogue_sha256": "73d9b3c2b5082de2ae2dfed5f8bb8ed9188fa6e47761c73073b54ab1d3b4d7ba",
+  "fetched": "2026-11-03T14:18:10Z",
+  "chars": 279052,
+  "portal_id": "194558",
+  "tip": "DECIZIE"
+ }
+}
