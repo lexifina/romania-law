@@ -1,0 +1,285 @@
+{
+ "key": "iccj-hp-penal-23-2017",
+ "label": "Decizia ÎCCJ nr. 23/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "23",
+ "date": "2017-09-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 23 din 19 septembrie 2017",
+ "subtitle": "reeferitoare la interpretarea dispozițiilor art. 33 din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor și art. 9 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "878",
+  "bis": false,
+  "date": "2017-11-08",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.563/1/2017",
+  "27.910/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția I penală, în Dosarul nr. 27.910/3/2015, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept, dacă: „În interpretarea dispozițiilor art. 33 din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor și art. 9 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, în ipoteza concursului de infracțiuni dintre infracțiunea de evaziune fiscală și infracțiunea de spălare a banilor se impune luarea măsurii de siguranță a confiscării speciale a sumelor de bani ce au făcut obiectul infracțiunii de spălare a banilor și care provin din săvârșirea infracțiunii de evaziune fiscală concomitent cu obligarea inculpaților la plata sumelor reprezentând obligații fiscale datorate statului ca urmare a săvârșirii infracțiunii de evaziune fiscală și, în caz afirmativ, suma ce face obiectul confiscării este reprezentată de valoarea totală a cheltuielilor care nu au la bază operațiuni reale sau de valoarea prejudiciului cauzat bugetului de stat ca urmare a săvârșirii infracțiunii de evaziune fiscală prevăzută în art. 9 alin. 1 lit. c) din Legea nr. 241/2005 ?“",
+  "Stabilește că „În interpretarea dispozițiilor art. 33 din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor și art. 9 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale în ipoteza concursului de infracțiuni dintre infracțiunea de evaziune fiscală și infracțiunea de spălare a banilor nu se impune luarea măsurii de siguranță a confiscării speciale a sumelor de bani ce au făcut obiectul infracțiunii de spălare a banilor și care provin din săvârșirea infracțiunii de evaziune fiscală concomitent cu obligarea inculpaților la plata sumelor reprezentând obligații fiscale datorate statului ca urmare a săvârșirii infracțiunii de evaziune fiscală.“",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "e",
+      "c"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53-1",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "535",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194570",
+  "text_sha256": "fdb0dca8dac9eb7dc4e7e007d7cbaf8c95ba1c300f0d952af0bae4296a1a8845",
+  "catalogue_sha256": "fdb0dca8dac9eb7dc4e7e007d7cbaf8c95ba1c300f0d952af0bae4296a1a8845",
+  "fetched": "2026-11-03T03:15:48Z",
+  "chars": 76286,
+  "portal_id": "194570",
+  "tip": "DECIZIE"
+ }
+}
