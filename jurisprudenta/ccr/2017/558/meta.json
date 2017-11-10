@@ -1,0 +1,246 @@
+{
+ "key": "dcc-558-2017",
+ "label": "Decizia CCR nr. 558/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "558",
+ "date": "2017-09-19",
+ "year": "2017",
+ "heading": "DECIZIA nr. 558 din 19 septembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 264 alin. (1) raportat la art. 259 alin. (5) lit. f) și g) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "887",
+  "bis": false,
+  "date": "2017-11-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.445/233/2016",
+  "1.409D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 259 alin. (5) lit. f) și g) din Codul de procedură penală, excepție ridicată de Ioana Suatean în Dosarul nr. 4.445/233/2016 al Judecătoriei Galați - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor, în același dosar al aceleiași instanțe, și constată că dispozițiile art. 264 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Galați - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "261",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "263",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194627",
+  "text_sha256": "52926d1f545fd75288a4d1548ba34f84af56c320ac0b825a8e46e296419635a8",
+  "catalogue_sha256": "52926d1f545fd75288a4d1548ba34f84af56c320ac0b825a8e46e296419635a8",
+  "fetched": "2026-11-03T03:15:44Z",
+  "chars": 21775,
+  "portal_id": "194627",
+  "tip": "DECIZIE"
+ }
+}
