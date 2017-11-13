@@ -1,0 +1,254 @@
+{
+ "key": "dcc-536-2017",
+ "label": "Decizia CCR nr. 536/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "536",
+ "date": "2017-07-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 536 din 13 iulie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 8 alin. (1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "888",
+  "bis": false,
+  "date": "2017-11-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "22.971/245/2015",
+  "68D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Anca-Mădălina Hapău în Dosarul nr. 22.971/245/2015 al Judecătoriei Iași - Secția civilă și constată că prevederile art. 8 alin. (1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "8",
+      "2",
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2015",
+    "number": "8",
+    "year": "2015",
+    "path": "oug/2015/8"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 55/2016",
+    "number": "55",
+    "year": "2016",
+    "path": "oug/2016/55"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194631",
+  "text_sha256": "08ea26d55096c4ec0322f0ecff6dc515ff75505746966d12e0efdd04710823cb",
+  "catalogue_sha256": "08ea26d55096c4ec0322f0ecff6dc515ff75505746966d12e0efdd04710823cb",
+  "fetched": "2026-11-03T03:15:42Z",
+  "chars": 16141,
+  "portal_id": "194631",
+  "tip": "DECIZIE"
+ }
+}
