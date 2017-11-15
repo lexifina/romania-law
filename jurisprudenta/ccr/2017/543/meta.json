@@ -1,0 +1,210 @@
+{
+ "key": "dcc-543-2017",
+ "label": "Decizia CCR nr. 543/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "543",
+ "date": "2017-07-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 543 din 13 iulie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 9 alin. (1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "895",
+  "bis": false,
+  "date": "2017-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "818/212/2016",
+  "1.244D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Metropolitan - S.R.L. din Ovidiu în dosarele nr. 818/212/2016, nr. 5.032/212/2016/a1, nr. 5.036/212/2016/a1, nr. 4.137/212/2016, nr. 5.031/212/2016, nr. 28.878/212/2015, nr. 31.408/212/2015/a1, nr. 5.037/212/2016, nr. 31.410/212/2015/a1, nr. 4.136/212/2016/a1, nr. 8.023/212/2016/a1, nr. 28.384/212/2016/a1, nr. 28.390/212/2016/a1, nr. 28.385/212/2016/a1, nr. 28.313/212/2016 și nr. 28.386/212/2016/a1 ale Judecătoriei Constanța - Secția civilă și constată că prevederile art. 9 alin. (1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanța - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 55/2016",
+    "number": "55",
+    "year": "2016",
+    "path": "oug/2016/55"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194691",
+  "text_sha256": "5a6a8d37bade6959535b9e5ac9bfc0f8916c9f688fc00e6e96c1c2e032d5e3b3",
+  "catalogue_sha256": "5a6a8d37bade6959535b9e5ac9bfc0f8916c9f688fc00e6e96c1c2e032d5e3b3",
+  "fetched": "2026-11-03T03:15:40Z",
+  "chars": 18449,
+  "portal_id": "194691",
+  "tip": "DECIZIE"
+ }
+}
