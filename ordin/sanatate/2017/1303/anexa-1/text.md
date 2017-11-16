@@ -1,0 +1,3 @@
+# ANEXĂ
+ANEXA la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.303/1.185/2017 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății publice și al președintelui
+Casei Naționale de Asigurări de Sănătate nr. 1.301/500/2008 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008
