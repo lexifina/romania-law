@@ -1,0 +1,145 @@
+{
+ "key": "iccj-hp-72-2017",
+ "label": "Decizia ÎCCJ nr. 72/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "72",
+ "date": "2017-10-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 72 din 16 octombrie 2017",
+ "subtitle": "referitoare la modul de interpretare și aplicare a prevederilor art. 62 alin. (3) din Legea nr. 46/2008 - Codul silvic, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "901",
+  "bis": false,
+  "date": "2017-11-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.276/1/2017",
+  "1.588/336/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I civilă în Dosarul nr. 1.588/336/2015 privind pronunțarea unei hotărâri prealabile pentru dezlegarea modului de interpretare și aplicare a prevederilor art. 62 alin. (3) din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările și completările ulterioare, prin raportare la alin. (1) și (2) ale aceluiași articol.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului mediului și pădurilor nr. 3.283/2012",
+    "number": "3283",
+    "year": "2012"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194724",
+  "text_sha256": "d00cb8a1597cc50117d6582562a36020fb10073478711424276386760c57eefe",
+  "catalogue_sha256": "d00cb8a1597cc50117d6582562a36020fb10073478711424276386760c57eefe",
+  "fetched": "2026-11-03T03:15:36Z",
+  "chars": 39447,
+  "portal_id": "194724",
+  "tip": "DECIZIE"
+ }
+}
