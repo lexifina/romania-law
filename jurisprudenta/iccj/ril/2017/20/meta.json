@@ -1,0 +1,127 @@
+{
+ "key": "iccj-ril-20-2017",
+ "label": "Decizia ÎCCJ nr. 20/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "20",
+ "date": "2017-10-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 20 din 16 octombrie 2017",
+ "subtitle": "referitoare la recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Târgu Mureș",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "904",
+  "bis": false,
+  "date": "2017-11-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.983/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "235",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Târgu Mureș și, în consecință:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 235 alin. (1) din Codul de procedură penală, stabilește că:",
+  "Termenul de 5 zile prevăzut de art. 235 alin. (1) din Codul de procedură penală se calculează potrivit art. 269 alin. (1), (2) și (4) din Codul de procedură penală.",
+  "Obligatorie, conform dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "235",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194735",
+  "text_sha256": "fbe45587e5e37aa7ec63c8bf6f4a9cd3001ade43cb7eaa4690b634c4ab357040",
+  "catalogue_sha256": "fbe45587e5e37aa7ec63c8bf6f4a9cd3001ade43cb7eaa4690b634c4ab357040",
+  "fetched": "2026-11-03T03:15:33Z",
+  "chars": 23318,
+  "portal_id": "194735",
+  "tip": "DECIZIE"
+ }
+}
