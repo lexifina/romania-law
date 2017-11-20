@@ -1,0 +1,155 @@
+{
+ "key": "iccj-ril-14-2017",
+ "label": "Decizia ÎCCJ nr. 14/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2017-09-18",
+ "year": "2017",
+ "heading": "DECIZIA nr. 14 din 18 septembrie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 56 din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "908",
+  "bis": false,
+  "date": "2017-11-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.693/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București și stabilește că:",
+  "În interpretarea dispozițiilor art. 56 din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, cu modificările și completările ulterioare, judecătorul de supraveghere a privării de libertate din cadrul penitenciarului a cărui administrație a dispus măsuri pretins a fi îngrădit exercitarea drepturilor persoanei condamnate este competent să soluționeze pe fond plângerea formulată, chiar dacă ulterior aceasta a fost transferată definitiv sau temporar.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "6",
+      "4",
+      "1",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194781",
+  "text_sha256": "e53b22e0189d54915b2c3288c08e908545bcf676ee1d760b79bd9097873f6a1b",
+  "catalogue_sha256": "e53b22e0189d54915b2c3288c08e908545bcf676ee1d760b79bd9097873f6a1b",
+  "fetched": "2026-11-06T04:02:17Z",
+  "chars": 33598,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194781",
+   "timestamp": "20260210184555",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506117.12/warc/CC-MAIN-20260210170533-20260210200533-00446.warc.gz",
+   "offset": "285852406",
+   "length": "22823",
+   "sha256": "beae88c6fd6e7edbaebd7f9f3776b33e8ccd3da6d73f7f79f2b17ff9914bd847"
+  },
+  "portal_id": "194781",
+  "tip": "DECIZIE"
+ }
+}
