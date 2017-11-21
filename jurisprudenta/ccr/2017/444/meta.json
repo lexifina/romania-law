@@ -1,0 +1,200 @@
+{
+ "key": "dcc-444-2017",
+ "label": "Decizia CCR nr. 444/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "444",
+ "date": "2017-06-22",
+ "year": "2017",
+ "heading": "DECIZIA nr. 444 din 22 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 69 alin. (1) lit. a), c)-f) și alin. (2)-(5) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "909",
+  "bis": false,
+  "date": "2017-11-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.321/197/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Alen Moisin în Dosarul nr. 6.321/197/2016 al Judecătoriei Brașov - Secția penală și constată că dispozițiile art. 69 alin. (1) lit. a), c)-f) și alin. (2)-(5) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Brașov – Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194903",
+  "text_sha256": "f111b7a09aa83b87c7550b828a894e2a53166035355ce77eeff13a80d3b357d6",
+  "catalogue_sha256": "f111b7a09aa83b87c7550b828a894e2a53166035355ce77eeff13a80d3b357d6",
+  "fetched": "2026-11-03T03:15:29Z",
+  "chars": 12428,
+  "portal_id": "194903",
+  "tip": "DECIZIE"
+ }
+}
