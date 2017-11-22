@@ -1,0 +1,228 @@
+{
+ "key": "dcc-542-2017",
+ "label": "Decizia CCR nr. 542/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "542",
+ "date": "2017-07-13",
+ "year": "2017",
+ "heading": "DECIZIA nr. 542 din 13 iulie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 13 alin. (1) din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "915",
+  "bis": false,
+  "date": "2017-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "44.991/3/2015",
+  "1.212D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Lupsa Realini în Dosarul nr. 44.991/3/2015 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. 13 alin. (1) din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194930",
+  "text_sha256": "5920adb8d2609d2e44bab34bfe6bed408e9bf3072df89fd1cbb5da55c71921ab",
+  "catalogue_sha256": "5920adb8d2609d2e44bab34bfe6bed408e9bf3072df89fd1cbb5da55c71921ab",
+  "fetched": "2026-11-03T03:15:26Z",
+  "chars": 18921,
+  "portal_id": "194930",
+  "tip": "DECIZIE"
+ }
+}
