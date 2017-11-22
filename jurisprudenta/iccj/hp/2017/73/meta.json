@@ -1,0 +1,214 @@
+{
+ "key": "iccj-hp-73-2017",
+ "label": "Decizia ÎCCJ nr. 73/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "73",
+ "date": "2017-10-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 73 din 16 octombrie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 906 alin. (1) și (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "914",
+  "bis": false,
+  "date": "2017-11-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.363/1/2017",
+  "10.022/211/2016",
+  "2.877/307/2009",
+  "102/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Cluj - Secția civilă în Dosarul nr. 10.022/211/2016 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 906 alin. (1) ș i (2) din Codul de procedură civilă, încheierea de soluționare a cererii de obligare la plata de penalități pe zi de întârziere a debitorului unei obligații de a face sau a nu face, evaluabile în bani, care nu poate fi îndeplinită prin altă persoană, este definitivă, indiferent de soluția adoptată de instanța de executare, respectiv de admitere sau de respingere a cererii creditorului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "703",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "462",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "464",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194913",
+  "text_sha256": "77c42aa269bd5dc95a58ac50d0d03dbc28d0b094004333b68ed170e2bb602f63",
+  "catalogue_sha256": "77c42aa269bd5dc95a58ac50d0d03dbc28d0b094004333b68ed170e2bb602f63",
+  "fetched": "2026-11-03T15:49:55Z",
+  "chars": 44658,
+  "portal_id": "194913",
+  "tip": "DECIZIE"
+ }
+}
