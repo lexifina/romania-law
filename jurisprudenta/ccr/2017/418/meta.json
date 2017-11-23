@@ -1,0 +1,250 @@
+{
+ "key": "dcc-418-2017",
+ "label": "Decizia CCR nr. 418/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "418",
+ "date": "2017-06-15",
+ "year": "2017",
+ "heading": "DECIZIA nr. 418 din 15 iunie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "922",
+  "bis": false,
+  "date": "2017-11-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.611/328/2015",
+  "378D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Delia-Voica Blasiu și Elena Maria Georgeta Belu în Dosarul nr. 4.611/328/2015 al Judecătoriei Turda și de Societatea Das Construcții - S.R.L. din comuna Dumbrăvița, județul Timiș, în dosarele nr. 1.946/220/2015, nr. 1.939/220/2015 și nr. 1.950/220/2015 ale Judecătoriei Deta și constată că prevederile art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Turda și Judecătoriei Deta și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 68/2014",
+    "number": "68",
+    "year": "2014",
+    "path": "lege/2014/68"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194972",
+  "text_sha256": "c89fbb63d72091c89d8745a98bd291eafd8b9f3d6752fd8834c296de4c4e007b",
+  "catalogue_sha256": "c89fbb63d72091c89d8745a98bd291eafd8b9f3d6752fd8834c296de4c4e007b",
+  "fetched": "2026-11-03T18:52:08Z",
+  "chars": 32124,
+  "portal_id": "194972",
+  "tip": "DECIZIE"
+ }
+}
