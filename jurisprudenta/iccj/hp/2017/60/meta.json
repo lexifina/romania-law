@@ -1,0 +1,414 @@
+{
+ "key": "iccj-hp-60-2017",
+ "label": "Decizia ÎCCJ nr. 60/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "60",
+ "date": "2017-09-18",
+ "year": "2017",
+ "heading": "DECIZIA nr. 60 din 18 septembrie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 2.431 din Codul civil raportat la art. 632 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "928",
+  "bis": false,
+  "date": "2017-11-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "845/1/2017",
+  "22.006/303/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2431",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "632",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a IV-a civilă în Dosarul nr. 22.006/303/2016 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 2.431 din Codul civil raportat la art. 632 din Codul de procedură civilă este posibilă executarea silită a unei creanțe garantate printr-un contract de ipotecă valabil încheiat, ce constituie titlu executoriu, chiar dacă dreptul de creanță însuși nu este constatat printr-un înscris care să constituie, potrivit dispozițiilor legale, titlu executoriu.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1798",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2372",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2365",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2388",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2387",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2445",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2435",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2504",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2427",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2371",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2428",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2405",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2396",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2409",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2167",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1270",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 81
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "632",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "664",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2431",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "379",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "lege/1999/99"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195015",
+  "text_sha256": "59ff4768d74f1153f7efade74ffa02646341c49f8b684e8d4b2fa04abc91284a",
+  "catalogue_sha256": "59ff4768d74f1153f7efade74ffa02646341c49f8b684e8d4b2fa04abc91284a",
+  "fetched": "2026-11-06T04:00:26Z",
+  "chars": 72235,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/195015",
+   "timestamp": "20250515225752",
+   "crawl": "CC-MAIN-2025-21",
+   "filename": "crawl-data/CC-MAIN-2025-21/segments/1746990412489.64/warc/CC-MAIN-20250515211546-20250516001546-00297.warc.gz",
+   "offset": "300083738",
+   "length": "59842",
+   "sha256": "8bf49e99faeec502854c4c63190f38e4ac1b6794d26be483bcc373cae94b41af"
+  },
+  "portal_id": "195015",
+  "tip": "DECIZIE"
+ }
+}
