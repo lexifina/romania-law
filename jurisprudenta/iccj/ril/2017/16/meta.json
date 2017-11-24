@@ -1,0 +1,306 @@
+{
+ "key": "iccj-ril-16-2017",
+ "label": "Decizia ÎCCJ nr. 16/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2017-09-18",
+ "year": "2017",
+ "heading": "DECIZIA nr. 16 din 18 septembrie 2017",
+ "subtitle": "privind recursul în interesul legii referitor la interpretarea și aplicarea unitară a dispozițiilor art. 54 alin. (5) din Legea nr. 115/2015",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "924",
+  "bis": false,
+  "date": "2017-11-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "731/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 208/2015",
+    "number": "208",
+    "year": "2015",
+    "path": "lege/2015/208"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 54 alin. (5) din Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali și art. 59 alin. (7) din Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, cu modificările și completările ulterioare, competența materială procesuală de soluționare a contestațiilor împotriva deciziilor birourilor electorale de circumscripție de admitere sau respingere a candidaturilor revine instanțelor civile.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 208/2015",
+    "number": "208",
+    "year": "2015",
+    "path": "lege/2015/208"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 35/2008",
+    "number": "35",
+    "year": "2008",
+    "path": "lege/2008/35"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "31-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/194992",
+  "text_sha256": "45d1f4dfeab574a871a4401fdb2f6abbd8106cc655e0c5688ecb820c1fb4077d",
+  "catalogue_sha256": "45d1f4dfeab574a871a4401fdb2f6abbd8106cc655e0c5688ecb820c1fb4077d",
+  "fetched": "2026-11-06T03:57:26Z",
+  "chars": 57062,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/194992",
+   "timestamp": "20251009022833",
+   "crawl": "CC-MAIN-2025-43",
+   "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648358353.67/warc/CC-MAIN-20251009004034-20251009034034-00400.warc.gz",
+   "offset": "341472269",
+   "length": "36664",
+   "sha256": "e3cf1c6b84ee51fca1bc5ad8145a67fb60be80b63f28b2c2044cc4505d43e17e"
+  },
+  "portal_id": "194992",
+  "tip": "DECIZIE"
+ }
+}
