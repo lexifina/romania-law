@@ -9,7 +9,9 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2017-11-23: first record in the bill file
+- 2017-11-28: documents published: Aviz Consiliul Legislativ, Punct de vedere
 
 ## Documents
 
-- none held as text
+- 2017-11-28: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L096LG.PDF
+- 2017-11-28: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L096PV.PDF
