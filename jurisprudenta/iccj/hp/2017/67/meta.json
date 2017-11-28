@@ -1,0 +1,119 @@
+{
+ "key": "iccj-hp-67-2017",
+ "label": "Decizia ÎCCJ nr. 67/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "67",
+ "date": "2017-10-02",
+ "year": "2017",
+ "heading": "DECIZIA nr. 67 din 2 octombrie 2017",
+ "subtitle": "referitoare la examinarea sesizării formulată de Tribunalul Covasna - Secția civilă, în Dosarul nr. 3.663/305/2013, privind pronunțarea unei hotărâri prealabile",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "939",
+  "bis": false,
+  "date": "2017-11-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.663/305/2013",
+  "1.166/1/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Covasna - Secția civilă, în Dosarul nr. 3.663/305/2013*, în vederea pronunțării unei hotărâri prealabile.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195080",
+  "text_sha256": "6ffa6ac817aef5bb1f69ae9994b740a7ff0d9594525b8cb0746b463d0dda047f",
+  "catalogue_sha256": "6ffa6ac817aef5bb1f69ae9994b740a7ff0d9594525b8cb0746b463d0dda047f",
+  "fetched": "2026-11-03T03:15:16Z",
+  "chars": 47618,
+  "portal_id": "195080",
+  "tip": "DECIZIE"
+ }
+}
