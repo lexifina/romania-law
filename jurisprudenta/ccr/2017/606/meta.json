@@ -1,0 +1,227 @@
+{
+ "key": "dcc-606-2017",
+ "label": "Decizia CCR nr. 606/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "606",
+ "date": "2017-09-28",
+ "year": "2017",
+ "heading": "DECIZIA nr. 606 din 28 septembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 64 lit. i) din Ordonanța de urgență a Guvernului nr. 23/2008 privind pescuitul și acvacultura",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "955",
+  "bis": false,
+  "date": "2017-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.112/189/2015",
+  "1.564D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 23/2008",
+    "number": "23",
+    "year": "2008",
+    "path": "oug/2008/23"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Bogdan Ionuț Rusu și Iulian Dragoș Rusu în Dosarul nr. 6.112/189/2015 al Judecătoriei Bârlad și constată că dispozițiile art. 64 lit. i) din Ordonanța de urgență a Guvernului nr. 23/2008 privind pescuitul și acvacultura sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Bârlad și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 23/2008",
+    "number": "23",
+    "year": "2008",
+    "path": "oug/2008/23"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii și dezvoltării rurale nr. 449/2008",
+    "number": "449",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 32/2008",
+    "number": "32",
+    "year": "2008",
+    "path": "oug/2008/32"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195250",
+  "text_sha256": "97874f9c1a5560cafd0608a2928529c24f3718565a7f38b39e2514ff1230ff58",
+  "catalogue_sha256": "97874f9c1a5560cafd0608a2928529c24f3718565a7f38b39e2514ff1230ff58",
+  "fetched": "2026-11-03T03:14:57Z",
+  "chars": 25321,
+  "portal_id": "195250",
+  "tip": "DECIZIE"
+ }
+}
