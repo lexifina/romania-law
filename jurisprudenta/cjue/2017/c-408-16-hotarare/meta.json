@@ -1,0 +1,65 @@
+{
+ "key": "cjue-c-408-16-hotarare-2017-12-06",
+ "label": "CJUE, Hotărârea Curții (Camera a opta) din 6 decembrie 2017, Cauza C-408/16",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2017-12-06",
+ "year": "2017",
+ "case": "Cauza C-408/16",
+ "celex": "62016CJ0408",
+ "ecli": "ECLI:EU:C:2017:940",
+ "heading": "Hotărârea Curții (Camera a opta) din 6 decembrie 2017",
+ "formation": "CHAMB_08_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti",
+   "date": "2016-05-20",
+   "national_file": "7839/2/2015"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, Secţia a VIII-a contencios administrativ şi fiscal, Sentinţa civilă din 30/03/2018 (7839/2/2015)"
+ ],
+ "parties": "Compania Naţională de Administrare a Infrastructurii Rutiere SA împotriva Ministerului Fondurilor Europene - Direcţia Generală Managementul Fondurilor Externe",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Achiziții publice – Directiva 2004/18/CE – Domeniu de aplicare – Regulamentul (CE) nr. 1083/2006 – Fondul european de dezvoltare regională, Fondul social european și Fondul de coeziune – Contract de finanțare a construcției unei autostrăzi încheiat cu Banca Europeană de Investiții înainte de aderarea statului membru la Uniunea Europeană – Noțiunea „neregularitate” în sensul Regulamentului nr. 1083/2006",
+ "interprets": [
+  {
+   "celex": "32004L0018",
+   "folder": "ue/directiva/2004/18"
+  },
+  {
+   "celex": "32006R1083",
+   "folder": "ue/regulament/2006/1083"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CJ0408",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-408/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/216c02c0-da68-11e7-a506-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "4df1534e379f87346edde2e2ca5be44d0d45a8f88d503e0658f3759f87ea1bb3"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a opta) declară:",
+  "1) Directiva 2004/18/CE a Parlamentului European și a Consiliului din 31 martie 2004 privind coordonarea procedurilor de atribuire a contractelor de achiziții publice de lucrări, de bunuri și de servicii, în special articolul 15 litera (c), trebuie interpretată în sensul că se opune ca reglementarea unui stat membru să prevadă, pentru o procedură de atribuire a unui contract de achiziții publice angajată ulterior datei aderării sale la Uniunea Europeană, în vederea realizării unui proiect inițiat pe baza unui contract de finanțare încheiat cu Banca Europeană de Investiții anterior aderării menționate, aplicarea criteriilor specifice prevăzute de dispozițiile Ghidului de atribuire a contractelor de achiziții publice al Băncii Europene de Investiții care nu sunt conforme cu dispozițiile acestei directive.",
+  "2) Articolul 9 alineatul (5) și articolul 60 litera (a) din Regulamentul (CE) nr. 1083/2006 al Consiliului din 11 iulie 2006 de stabilire a anumitor dispoziții generale privind Fondul european de dezvoltare regională, Fondul social european și Fondul de coeziune și de abrogare a Regulamentului (CE) nr. 1260/1999 trebuie interpretate în sensul că o procedură de atribuire a unui contract de achiziții publice precum cea în discuție în litigiul principal, în care au fost aplicate criterii mai restrictive decât cele prevăzute de Directiva 2004/18, nu poate fi considerată că a fost desfășurată în deplină conformitate cu dreptul Uniunii și nu este eligibilă pentru o finanțare europeană nerambursabilă, acordată retrospectiv.",
+  "Articolul 2 punctul 7 din Regulamentul nr. 1083/2006 trebuie interpretat în sensul că utilizarea unor criterii de precalificare a ofertanților mai restrictive decât cele prevăzute de Directiva 2004/18 constituie o „neregularitate ”, în sensul acestei dispoziții, care justifică aplicarea unei corecții financiare în temeiul articolului 98 din acest regulament, în măsura în care nu se poate exclude ca o astfel de utilizare să fi avut o incidență asupra bugetului fondului în cauză, aspect a cărui verificare revine instanței de trimitere."
+ ]
+}
