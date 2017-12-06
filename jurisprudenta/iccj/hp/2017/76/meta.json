@@ -1,0 +1,233 @@
+{
+ "key": "iccj-hp-76-2017",
+ "label": "Decizia ÎCCJ nr. 76/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "76",
+ "date": "2017-10-16",
+ "year": "2017",
+ "heading": "DECIZIA nr. 76 din 16 octombrie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept ce decurge din \"interpretarea dispozițiilor art. 113 lit. A alin. (1) lit. b) din Regulamentul Comisiei Naționale a Valorilor Mobiliare nr. 1/2006, prin neîndeplinirea formalității publicării în Buletinul electronic al Autorității de Supraveghere Financiară a convocatorului unei adunări generale a acționarilor societății admise la tranzacționare pe Piața Rasdaq reprezintă o cauză de nulitate absolută sau de nulitate relativă a hotărârii Adunării Generale a Acționarilor adoptate în aceste condiții\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "964",
+  "bis": false,
+  "date": "2017-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.296/1/2017",
+  "5.707/99/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția civilă, în Dosarul nr. 5.707/99/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea chestiunii de drept ce decurge din „interpretarea dispozițiilor art. 113 lit. A alin. (1) lit. b) din Regulamentul Comisiei Naționale a Valorilor Mobiliare nr. 1/2006, prin neîndeplinirea formalității publicării în Buletinul electronic al Autorității de Supraveghere Financiară a convocatorului unei adunări generale a acționarilor societății admise la tranzacționare pe Piața Rasdaq reprezintă o cauză de nulitate absolută sau de nulitate relativă a hotărârii Adunării Generale a Acționarilor adoptate în aceste condiții“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "226",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1250",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "6",
+      "3",
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 151/2014",
+    "number": "151",
+    "year": "2014",
+    "path": "lege/2014/151"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195452",
+  "text_sha256": "9f02a95965489fb53ad3ad79813806e9e0cf6570446d1bd558467a630c4e9dd4",
+  "catalogue_sha256": "9f02a95965489fb53ad3ad79813806e9e0cf6570446d1bd558467a630c4e9dd4",
+  "fetched": "2026-11-03T03:14:51Z",
+  "chars": 75332,
+  "portal_id": "195452",
+  "tip": "DECIZIE"
+ }
+}
