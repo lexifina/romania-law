@@ -1,0 +1,215 @@
+{
+ "key": "iccj-hp-56-2017",
+ "label": "Decizia ÎCCJ nr. 56/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "56",
+ "date": "2017-09-11",
+ "year": "2017",
+ "heading": "DECIZIA nr. 56 din 11 septembrie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "966",
+  "bis": false,
+  "date": "2017-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.047/1/2017",
+  "20.249/3/2015",
+  "11.935/2/2010"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, în Dosarul nr. 20.249/3/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă noțiunea de «poliție politică», prevăzută de art. 54 lit. j) din Legea nr. 188/1999 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare, o include și pe cea de «colaborator al Securității» (colaborator al poliției politice comuniste), astfel cum este definită de art. 5 alin. (3) raportat la art. 5 alin. (1) din Legea nr. 187/1999 privind accesul la propriul dosar și deconspirarea poliției politice comuniste, cu modificările și completările ulterioare, respectiv de art. 2 lit. b) din Ordonanța de urgență a Guvernului nr. 24/2008 privind accesul la propriul dosar și deconspirarea Securității, aprobată cu modificări și completări prin Legea nr. 293/2008, cu modificările ulterioare, sau se referă doar la cea de «lucrător al Securității» (agent al poliției politice comuniste), astfel cum este definită de art. 5 alin. (2) raportat la art. 5 alin. (1) din Legea nr. 187/1999, respectiv de art. 2 lit. a) din Ordonanța de urgență a Guvernului nr. 24/2008.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/1999",
+    "number": "187",
+    "year": "1999",
+    "path": "lege/1999/187"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2008",
+    "number": "24",
+    "year": "2008",
+    "path": "oug/2008/24"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195474",
+  "text_sha256": "48adeb8c0b94f3fc581a84fcdf35949541ebd55aab863c8c9593daa1049735bb",
+  "catalogue_sha256": "48adeb8c0b94f3fc581a84fcdf35949541ebd55aab863c8c9593daa1049735bb",
+  "fetched": "2026-11-05T03:26:43Z",
+  "chars": 41075,
+  "portal_id": "195474",
+  "tip": "DECIZIE"
+ }
+}
