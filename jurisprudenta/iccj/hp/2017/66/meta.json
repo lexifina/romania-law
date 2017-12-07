@@ -1,0 +1,318 @@
+{
+ "key": "iccj-hp-66-2017",
+ "label": "Decizia ÎCCJ nr. 66/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "66",
+ "date": "2017-10-02",
+ "year": "2017",
+ "heading": "DECIZIA nr. 66 din 2 octombrie 2017",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 623 din Codul de procedură civilă raportat la art. 220 alin. (3) și (5) și art. 226 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, art. 3 alin. (1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, și art. 3 pct. 18 din Legea responsabilității fiscal-bugetare nr. 69/2010, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "969",
+  "bis": false,
+  "date": "2017-12-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.055/1/2017",
+  "4.754/270/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "220",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Bacău - Secția a II-a civilă și de contencios administrativ și fiscal, în Dosarul nr. 4.754/270/2016.",
+  "În interpretarea dispozițiilor art. 623 din Codul de procedură civilă raportat la art. 220 alin. (3) ș i (5) și art. 226 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, art. 3 alin. (1) din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, și art. 3 pct. 18 din Legea responsabilității fiscal-bugetare nr. 69/2010, republicată, stabilește că:",
+  "Executarea silită a titlurilor executorii - hotărâri judecătorești privind creanțe bugetare, datorate în temeiul unor raporturi juridice contractuale care se fac venit la bugetul consolidat al statului, se realizează prin executori fiscali, ca organe de executare silită ale statului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "220",
+     "alin": [
+      "3",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "3",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195488",
+  "text_sha256": "2005b627921ff98d871877ab85b85c96c786137dc2977b01a07bcb3d2a7d913b",
+  "catalogue_sha256": "2005b627921ff98d871877ab85b85c96c786137dc2977b01a07bcb3d2a7d913b",
+  "fetched": "2026-11-03T19:53:34Z",
+  "chars": 54426,
+  "portal_id": "195488",
+  "tip": "DECIZIE"
+ }
+}
