@@ -1,0 +1,202 @@
+{
+ "key": "dcc-580-2017",
+ "label": "Decizia CCR nr. 580/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "580",
+ "date": "2017-09-21",
+ "year": "2017",
+ "heading": "DECIZIA nr. 580 din 21 septembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 pct. 29 din Hotărârea Guvernului nr. 69/2012 privind stabilirea încălcărilor cu caracter contravențional ale prevederilor Regulamentului (CE) nr. 1.071/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme comune privind condițiile care trebuie îndeplinite pentru exercitarea ocupației de operator de transport rutier și de abrogare a Directivei 96/26/CE a Consiliului, ale Regulamentului (CE) nr. 1.072/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața transportului rutier internațional de mărfuri, ale Regulamentului (CE) nr. 1.073/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața internațională a serviciilor de transport cu autocarul și autobuzul și de modificare a Regulamentului (CE) nr. 561/2006 și ale Ordonanței Guvernului nr. 27/2011 privind transporturile rutiere și ale normelor de aplicare a acesteia, precum și a sancțiunilor contravenționale și a altor măsuri aferente aplicabile în cazul constatării încălcărilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "971",
+  "bis": false,
+  "date": "2017-12-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.662/94/2015",
+  "1.398D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 69/2012",
+    "number": "69",
+    "year": "2012",
+    "path": "hg/2012/69"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 4 pct. 29 din Hotărârea Guvernului nr. 69/2012 privind stabilirea încălcărilor cu caracter contravențional ale prevederilor Regulamentului (CE) nr. 1.071/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme comune privind condițiile care trebuie îndeplinite pentru exercitarea ocupației de operator de transport rutier și de abrogare a Directivei 96/26/CE a Consiliului, ale Regulamentului (CE) nr. 1.072/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața transportului rutier internațional de mărfuri, ale Regulamentului (CE) nr. 1.073/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind normele comune pentru accesul la piața internațională a serviciilor de transport cu autocarul și autobuzul și de modificare a Regulamentului (CE) nr. 561/2006 și ale Ordonanței Guvernului nr. 27/2011 privind transporturile rutiere și ale normelor de aplicare a acesteia, precum și a sancțiunilor contravenționale și a altor măsuri aferente aplicabile în cazul constatării încălcărilor, excepție ridicată de Societatea Dianthus Company - S.R.L. din comuna Bradu, sat Geamăna, județul Argeș, în Dosarul nr. 11.662/94/2015** al Judecătoriei Buftea - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Buftea - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 69/2012",
+    "number": "69",
+    "year": "2012",
+    "path": "hg/2012/69"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 40/2016",
+    "number": "40",
+    "year": "2016",
+    "path": "hg/2016/40"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195511",
+  "text_sha256": "367ddf076a4b954d27f937c3da200829a3156fd01f78c1c3698bc2fdc8c90d7b",
+  "catalogue_sha256": "367ddf076a4b954d27f937c3da200829a3156fd01f78c1c3698bc2fdc8c90d7b",
+  "fetched": "2026-11-03T03:14:48Z",
+  "chars": 15071,
+  "portal_id": "195511",
+  "tip": "DECIZIE"
+ }
+}
