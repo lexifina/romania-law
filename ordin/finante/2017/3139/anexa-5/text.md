@@ -1,0 +1,11 @@
+# Anexa nr. 4 la anexă
+Către Trezoreria....................................................
+CERERE de alimentare cont de subscriere cu sumele aferente răscumpărării certificatelor de trezorerie către populație transformate în depozite la Trezoreria Statului
+Subsemnatul
+Numele și prenumele..................., posesor al BI/CI seria....... nr..........., emis(ă) de................., la data de................, CNP....................., locul nașterii...................., data nașterii.................., domiciliat(ă) în localitatea........................, str.......................... nr....., bl......, sc..... et....., ap......, județul................., cod poștal..............................., telefon........................., adresa de e-mail.........................
+Reprezentat prin:
+Împuternicit legal: doamna/domnul
+Numele și prenumele..................., posesor al BI/CI seria...... nr......, emis(ă) de.................. la data de......................., CNP................................., locul nașterii........................, data nașterii............, domiciliat(ă) în localitatea.............................., str........................... nr...., bl......, sc....., et....., ap...... județul............................., cod poștal........................, telefon................., adresa de e-mail....................., în baza Procurii nr....... din data de.............., anexată, deținător al următoarelor certificate de trezorerie (se vor înscrie codul de emisiune, seria, nr., valoarea)................................................................................................................................................................................................................................................................................................................................................................................................... solicit ca sumele aferente răscumpărării acestora, respectiv valoarea nominală și dobânda, să alimenteze contul de subscriere......................................................, în scopul cumpărării de titluri de stat emise în baza (se va completa cu Ordinul ministrului finanțelor publice nr............. privind prospectul de emisiune a.............).
+Numele și prenumele titularului/împuternicitului legal
+Semnătura
+----
