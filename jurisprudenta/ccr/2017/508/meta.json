@@ -1,0 +1,219 @@
+{
+ "key": "dcc-508-2017",
+ "label": "Decizia CCR nr. 508/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "508",
+ "date": "2017-07-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 508 din 4 iulie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"în cazul în care conviețuiesc\" din cuprinsul dispozițiilor art. 5 lit. c) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței în familie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "976",
+  "bis": false,
+  "date": "2017-12-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "18.627/212/2016",
+  "1.372D/2016",
+  "925D/2017",
+  "5.420/4/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a sintagmei „în cazul în care conviețuiesc“ din cuprinsul dispozițiilor art. 5 lit. c) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței în familie, excepție ridicată de instanța de judecată, din oficiu, în Dosarul nr. 18.627/212/2016 al Judecătoriei Constanța - Secția civilă și de reprezentantul Ministerului Public în Dosarul nr. 5.420/4/2017 al Judecătoriei Sectorului 4 București - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanța - Secția civilă și Judecătoriei Sectorului 4 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/2016",
+    "number": "30",
+    "year": "2016",
+    "path": "lege/2016/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/2012",
+    "number": "25",
+    "year": "2012",
+    "path": "lege/2012/25"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-12-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195538",
+  "text_sha256": "02c7af80622cb6ba374c33774747213f36bc9f7307a5d704fab074fc2aedeec7",
+  "catalogue_sha256": "02c7af80622cb6ba374c33774747213f36bc9f7307a5d704fab074fc2aedeec7",
+  "fetched": "2026-11-03T03:14:45Z",
+  "chars": 19813,
+  "portal_id": "195538",
+  "tip": "DECIZIE"
+ }
+}
