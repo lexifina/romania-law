@@ -1,0 +1,1229 @@
+# Anexa 21
+Anexa nr. 25 la Instrucțiuni
+Indicativ de cazarmă:...........
+Pavilion: ...............
+- MODEL -
+(Clasificarea documentului se face după completare)
+EXTRAS DE MATERIALE
+Nivel de clasificare
+(neclasificat, secret de serviciu, secret, după caz)
+Exemplarul nr...
+137
+pentru lucrările de întreținere și reparații curente executate la construcții în cazarma .......
+Nr. crt
+Indicator norme de deviz
+U.M
+Cantitatea
+Broască îngropată cu cheie
+- buc.-
+Burlane 110 - ml -
+Cilindru siguranță 62 mm - buc-
+Dale din beton 0,90 x0,30 - buc.-
+Vopsea - kg -
+Diluant - kg -
+Chit de cuțit - kg -
+Ipsos de construcții - kg -
+Șmirghel coli - buc -
+Amorsă transparent - kg -
+Vinarom - kg -
+Vopsea lavabilă - kg -
+Cremon aplicat cu tijă - buc -
+Glet perete - kg -
+Humă - kg -
+Aracet - kg -
+Jgheaburi tablă zincată - ml -
+Cărămidă eficientă 240x115x88 -buc -
+Multibat - kg -
+Plasă rapitz - kg -
+1
+RpCO45A1
+buc
+1
+N.U. C.T.
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2
+RpCI25A1
+ml
+2
+N.U. C.T.
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+RpCO88A1
+buc
+3
+N.U. C.T.
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4
+RpCS03A1
+buc
+14
+N.U. C.T.
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+14
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5
+RpCR19A1
+mp
+331,5
+N.U. C.T.
+-
+-
+-
+-
+0,24
+0,2
+0,07
+0,005
+0,5
+0,1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+79,56
+66,3
+23,2
+16,5
+165
+33
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6
+RpCR25A1
+mp
+66,7
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+0,05
+-
+-
+0,300
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3,3
+-
+-
+20,01
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7
+RpCR25A1
+mp
+250
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+9
+-
+-
+-
+0,3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+22,5
+-
+-
+-
+75
+-
+-
+-
+-
+-
+-
+-
+-
+8
+RpCO07A1
+buc
+1
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+9
+RpCJ36A1
+mp
+44,3
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2,6
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+115,18
+-
+-
+-
+-
+-
+-
+10
+RpCR06A1
+mp
+266,7
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+0,05
+-
+-
+-
+-
+-
+-
+0,15
+0,012
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+13,3
+-
+-
+-
+-
+-
+-
+40
+3,201
+-
+-
+-
+-
+11
+RpCI21A1
+ml
+9
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+9
+-
+-
+-
+12
+RpCG01A1
+mp
+0,6
+N.U.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+34
+-
+-
+Nr. crt
+Indicator norme de deviz
+U.M
+Cantitatea
+Broască îngropată cu cheie
+- buc.-
+Burlane 110 - ml -
+Cilindru siguranță 62 mm - buc-
+Dale din beton 0,90 x0,30 - buc.-
+Vopsea - kg -
+Diluant - kg -
+Chit de cuțit - kg -
+Ipsos de construcții - kg -
+Șmirghel coli - buc -
+Amorsă transparent - kg -
+Vinarom - kg -
+Vopsea lavabilă - kg -
+Cremon aplicat cu tijă - buc -
+Glet perete - kg -
+Humă - kg -
+Aracet - kg -
+Jgheaburi tablă zincată - ml -
+Cărămidă eficientă 240x115x88 -buc -
+Multibat - kg -
+Plasă rapitz - kg -
+C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+20,4
+-
+-
+13
+RpCJ32A1
+mp
+5
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5
+0,362
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+25
+1,810
+..
+.....
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+..
+....
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+TOTAL DIN NORME
+1
+2
+3
+14
+79,56
+66,3
+23,2
+-
+165
+33
+20,01
+75
+1
+115,18
+40
+-
+9
+20,4
+25
+1,810
+IEȘIT DIN DEPOZIT
+1
+2
+3
+14
+79,50
+17
+6
+-
+20
+33
+20
+75
+1
+115
+40
+-
+9
+20
+25
+1,5
+DREPT DE SCĂDERE
+1
+2
+3
+14
+*
+17
+6
+-
+20
+13
+20
+75
+1
+115
+40
+-
+9
+20
+25
+1,5
+138
+Întocmit,
+* Vopsea: -vopsea albă = 63,5 kg
+-vopsea crem = 12,0 kg
+-vopsea neagră =&#160; 4,0 kg Total = 79,50 kg
+Indicator norme de deviz
+U.M
+Cantitatea
+Faianță - mp -
+Adeziv gresie faianță - kg -
+Chit ptr. rosturi faianță - kg -
+Gresie - mp -
+Vopsea lavabilă - kg -
+Ipsos de construcții - kg -
+Yallă aplicată - buc -
+Glet perete - kg -
+Aracet - kg -
+Plasă fibră - mp -
+Țiglă profilată - buc -
+Polistiren expandat - mp -
+Dibluri ptr polistiren - buc -
+Ciupercuțe - buc -
+Adeziv polistiren - kg -
+.......
+1
+RpCM33A1
+mp
+42
+N.U. C.T.
+1,05
+6,5
+0,39
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+44,10
+273
+16,38
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2
+RpCM37A1
+buc
+8
+N.U. C.T.
+-
+6,5
+-
+1,05
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+52
+-
+8,40
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+RpCR25A1
+mp
+1.623,5
+N.U. C.T.
+-
+-
+-
+-
+0,300
+0,05
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+48
+81,17
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4
+RpCO88A1
+buc
+4
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+4
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5
+CF10D1
+mp
+339
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+0,856
+0,132
+1,05
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+290,1
+44,74
+355
+-
+-
+-
+-
+-
+-
+6
+RpCK10D1
+mp
+48
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+0,693
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+32,26
+-
+-
+-
+-
+-
+-
+-
+7
+RpCI06A1
+mp
+6
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+16
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+96
+-
+-
+-
+-
+-
+8
+IzF12A1
+mp
+44,6
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1,05
+-
+1,01
+5
+3
+11
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+46,83
+-
+45,04
+223
+133
+490
+-
+.
+.......
+..
+N.U. C.T.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+TOTAL DIN NORME
+44,10
+325
+16,38
+8,40
+487
+136,7
+4
+290,1
+77
+401
+96
+45,04
+223
+133
+490
+-
+IEȘIT DIN DEPOZIT
+26,26
+325
+13
+1,45
+487
+80
+4
+290
+77
+130
+95
+45
+200
+130
+475
+-
+DREPT DE SCĂDERE
+26,26
+**
+13
+1,45
+487
+80
+4
+290
+77
+130
+95
+45
+200
+130
+475
+-
+** Adeziv: - adeziv gresie = 125 kg
+- adeziv faianță = 200 kg
+AVIZAT
+VERIFICAT TEHNIC
+INTOCMIT
+Șef logistic/similar
+Specialist din cadrul centrului de domenii
+Administrator de cazarmă
+.............
+și infrastructuri/centrului de cartiruire trupe și
+.................
+.................
+(grad, nume și prenume, semnătură)
+(grad, nume și prenume, semnătură)
+(grad, nume și prenume, semnătură)
+Total = 325 kg
+administrare cazărmi/comandamentului/direcției/similar
+NOTE: Extrasul de materiale poate fi elaborat cu ajutorul programelor de calcul al devizelor (SOFTEH, DOCLIB, WINDEV etc.), iar abrevierile reprezintă:
+- N.U = normă unitară pe articol de deviz;
+139
+- C.T = consum tehnic normat.
+140
+-MODEL-
+(Clasificarea documentului se face după completare)
+Nivel de clasificare
