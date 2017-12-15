@@ -1,0 +1,132 @@
+# Anexa 4
+Anexa nr. 4
+la metodologie
+CONTRACT-CADRU DE PRESTĂRI SERVICII
+privind realizarea evaluării de impact asupra siguranței rutiere (A.R.R. - auditor de siguranță rutieră)
+I.
+Părțile contractante 1.
+Autoritatea Rutieră Română - A.R.R., cu sediul în București, ....................................., cod fiscal nr. ..................., având contul nr. ....................., deschis la ............................., reprezentată prin ....................., având funcția de ................, în calitate de Beneficiar, și
+2.
+Dl/Dna …....................................………….., cu domiciliul în ……..……………….....……………., cod fiscal nr. ..................., având contul nr. ................................................., deschis la .................................................., având calitatea de auditor de siguranță rutieră, posesor/posesoare al/a atestatului de auditor de siguranță rutieră seria ASR nr. .........................., în calitate de Prestator, au convenit să încheie prezentul contract de prestări servicii privind realizarea evaluării de impact asupra siguranței rutiere în baza Legii nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare, cu respectarea următoarelor clauze:
+II.
+Obiectul contractului Prestarea de servicii privind asigurarea realizării evaluării de impact asupra siguranței rutiere, pentru proiectul ...................................................................................................................*), având lungimea totală de …….. km, defalcată astfel:
+Notă
+...
+*) Nu se va completa în cazul proiectelor care vizează intersecția/nodul rutier/pasajul rutier.
+– număr km în interiorul localității/localităților ……….;
+– număr km în afara localității/localităților…………… .
+III.
+Drepturile și obligațiile părților 1.1.
+Drepturile Beneficiarului: – de a refuza plata sumei stabilite în cazul neîndeplinirii obligațiilor ce decurg din prezentul contract.
+1.2.
+Obligațiile Beneficiarului: a)
+să pună la dispoziția auditorului de siguranță rutieră documentația primită de la investitorul proiectului de infrastructură rutieră, respectiv: (i)
+părțile scrise ale proiectului**);
+Notă
+...
+**) În conformitate cu prevederile Ordinului ministrului dezvoltării, lucrărilor publice și locuințelor nr. 863/2008 pentru aprobarea „ Instrucțiunilor de aplicare a unor prevederi din Hotărârea Guvernului nr. 28/2008 privind aprobarea conținutului-cadru al documentației tehnico-economice aferente investițiilor publice, precum și a structurii și metodologiei de elaborare a devizului general pentru obiective de investiții și lucrări de intervenții“.
+(ii)
+părțile desenate ale proiectului**);
+Notă
+...
+**) În conformitate cu prevederile Ordinului ministrului dezvoltării, lucrărilor publice și locuințelor nr. 863/2008 pentru aprobarea „ Instrucțiunilor de aplicare a unor prevederi din Hotărârea Guvernului nr. 28/2008 privind aprobarea conținutului-cadru al documentației tehnico-economice aferente investițiilor publice, precum și a structurii și metodologiei de elaborare a devizului general pentru obiective de investiții și lucrări de intervenții“.
+(iii)
+caietele de sarcini ale proiectului;
+(iv)
+situația obiectivelor generatoare atât de trafic rutier, cât și de trafic pietonal;
+(v)
+situația accidentelor rutiere petrecute în ultimii 3 ani pe sectorul studiat sau în zona intersecțiilor cu acesta;
+(vi)
+analiza cost-beneficiu, dacă aceasta este disponibilă la data realizării evaluării de impact asupra siguranței rutiere;
+(vii)
+alte date/informații/documente necesare realizării evaluării de impact asupra siguranței rutiere;
+b)
+să efectueze plata în termen de maximum 15 zile de la data încasării contravalorii facturii emise către investitor.
+2.1.
+Drepturile Prestatorului: – de a primi de la beneficiar documentația transmisă de investitor aferentă proiectului de infrastructură rutieră care face obiectul prezentului contract.
+2.2.
+Obligațiile Prestatorului: a)
+să depună la Beneficiar, în termenul prevăzut la cap. IV pct. 2 , un exemplar, în original, al Raportului privind evaluarea de impact asupra siguranței rutiere, redactat în limba română;
+b)
+să depună, în termenul prevăzut la cap. IV pct. 3 , un exemplar original al Raportului privind evaluarea de impact asupra siguranței rutiere la investitorul proiectului de infrastructură rutieră;
+c)
+să depună la Beneficiar o copie a dovezii privind depunerea raportului de evaluare de impact la investitorul proiectului de infrastructură rutieră în termenul prevăzut la cap. IV pct. 3 ;
+d)
+să redacteze Raportul de evaluare de impact asupra siguranței rutiere, cu respectarea prevederilor anexei nr. 1 la Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare, în următoarea structură: – denumirea proiectului, perioada de realizare și auditorul de siguranță rutieră;
+– cuprins;
+– scopul și obiectivele specifice evaluării de impact asupra siguranței rutiere;
+– descrierea generală a situației actuale și situația în cazul neinițierii vreunei acțiuni;
+– date specifice proiectului;
+– analiza impactului alternativelor propuse asupra siguranței rutiere;
+– compararea alternativelor propuse, inclusiv analiza raportului cost-beneficii, dacă aceasta este disponibilă;
+– recomandări privind adoptarea soluției optime din punctul de vedere al siguranței rutiere;
+– opis cu planurile, documentele, standardele și formularele utilizate;
+e)
+să asigure deplină confidențialitate cu privire la datele și informațiile la care a avut acces în cursul realizării evaluării de impact asupra siguranței rutiere;
+f)
+să nu implice în realizarea evaluării de impact asupra siguranței rutiere persoane care nu respectă condițiile de independență prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare;
+g)
+să notifice Beneficiarului orice modificare intervenită cu privire la datele și informațiile completate în declarația pe propria răspundere privind respectarea condițiilor de independență cu ocazia încheierii prezentului contract;
+h)
+să returneze Beneficiarului documentele primite pentru realizarea evaluării de impact, odată cu predarea Raportului de evaluare de impact asupra siguranței rutiere;
+i)
+să răspundă pentru conținutul Raportului de evaluare de impact asupra siguranței rutiere;
+j)
+să completeze și să depună la data încheierii prezentului contract, în original, Declarația pe propria răspundere privind respectarea condițiilor de independență prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare.
+IV.
+Durata contractului 1.
+Durata contractului este de 60 de zile de la data comunicării contractului la Autoritatea Rutieră Română.
+2.
+În intervalul de timp prevăzut la punctul anterior, Prestatorul va depune la sediul Beneficiarului Raportul privind evaluarea de impact asupra siguranței rutiere.
+3.
+Fără a depăși durata prevăzută la pct. 1 , Prestatorul va depune la investitorul proiectului de infrastructură rutieră un exemplar original al Raportului privind evaluarea de impact asupra siguranței rutiere.
+V.
+Valoarea contractului 1.
+Valoarea contractului este de (în cifre și litere) ............. lei, inclusiv T.V.A., și va fi plătită de Beneficiar în contul indicat de prestator la cap. I din prezentul contract, în termen de 15 zile de la data încasării contravalorii facturii emise către investitor.
+2.
+Valoarea contractului este calculată astfel: a)
+valoare contract pentru un sector de drum:
+(i)
+nr. km în interiorul localităților x tarif onorariu/km în interiorul localității = ........ lei;
+(ii)
+nr. km în afara localităților x tarif onorariu/km în afara localității = ....... lei.
+Total valoare contract: i) + ii) = ........ lei;
+b)
+valoare contract pentru o intersecție = tarif onorariu/buc. pentru intersecție = ....... lei: (i)
+valoare contract pentru un nod rutier = tarif onorariu/buc. pentru nod rutier = ..... lei;
+(ii)
+valoare contract pentru un pasaj rutier = tarif onorariu/buc. pentru pasaj rutier = ...... lei.
+VI.
+Aplicarea penalităților de întârziere 1.
+Pentru neexecutarea, în totalitate sau în parte, a obligațiilor prevăzute în prezentul contract, părțile se supun și răspund conform prevederilor legale în vigoare.
+2.
+În cazul în care, din vina sa exclusivă, Prestatorul nu reușește să își îndeplinească obligațiile asumate, atunci Beneficiarul are dreptul de a deduce din onorariul Prestatorului, ca penalități, o sumă echivalentă cu 0,03% pentru fiecare zi de întârziere, până la îndeplinirea efectivă a obligațiilor.
+3.
+În cazul în care Beneficiarul nu își onorează obligațiile prevăzute la cap. V , atunci acestuia îi revine obligația de a plăti, ca penalități, o sumă echivalentă cu 0,03% din plata neefectuată pentru fiecare zi de întârziere, până la îndeplinirea efectivă a obligațiilor.
+VII.
+Modificarea clauzelor contractuale Modificarea prezentului contract se face numai prin act adițional încheiat între părțile contractante.
+VIII.
+Rezilierea contractului 1.
+Nerespectarea obligațiilor asumate prin prezentul contract de către una dintre părțile contractante dă dreptul părții lezate de a cere rezilierea contractului și de a pretinde plata de daune-interese, cu condiția notificării acestui lucru celeilalte părți cu cel puțin 5 zile înainte de data de la care dorește rezilierea.
+2.
+Când Prestatorul sau orice altă persoană implicată încalcă principiul independenței prevăzut de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare.
+3.
+Prin acordul scris al părților.
+Prevederile prezentului capitol nu înlătură răspunderea părții care, din culpă, a cauzat rezilierea contractului.
+IX.
+Soluționarea litigiilor 1.
+Beneficiarul și Prestatorul vor face toate eforturile pentru a rezolva pe cale amiabilă, prin tratative directe, orice neînțelegere sau dispută care se poate ivi între ei în cadrul sau în legătură cu îndeplinirea contractului.
+2.
+În caz contrar, părțile se vor adresa instanțelor competente în domeniu.
+X.
+Forța majoră 1.
+Forța majoră exonerează părțile contractante de îndeplinirea obligațiilor asumate prin prezentul contract, pe toată perioada în care aceasta acționează.
+2.
+Îndeplinirea contractului va fi suspendată în perioada de acțiune a forței majore, dar fără a prejudicia drepturile ce li se cuveneau părților până la apariția acesteia.
+3.
+Partea contractantă care invocă forța majoră are obligația de a notifica imediat cealaltă parte despre producerea acesteia și să ia orice măsuri care îi stau la dispoziție în vederea limitării consecințelor.
+XI.
+Alte clauze Legea aplicabilă prezentului contract este legea română.
+Prezentul contract s-a încheiat în … exemplare, din care un exemplar pentru Beneficiar și câte un exemplar pentru fiecare prestator.
+BENEFICIAR
+PRESTATOR

@@ -1,0 +1,134 @@
+# Anexa 5
+Anexa nr. 5
+la metodologie
+CONTRACT-CADRU
+de prestări servicii privind asigurarea realizării auditului de siguranță rutieră (A.R.R. - auditor de siguranță rutieră)
+I.
+Părțile contractante 1.
+Autoritatea Rutieră Română - A.R.R. cu sediul în București ....................................., cod fiscal nr. ..................., având contul nr. ....................., deschis la ............................., reprezentată prin ....................., având funcția de ................, în calitate de Beneficiar, pe de o parte, și
+2.
+dl/dna ………............................…….., cu domiciliul în ……..………………..……………., cod fiscal nr. ..................., având contul nr. ......................................................, deschis la .................................................., având calitatea de auditor de siguranță rutieră, posesor/posesoare al/a atestatului de auditor de siguranță rutieră seria ASR nr. .........................., în calitate de Prestator,
+au convenit să încheie prezentul contract de prestări servicii privind realizarea auditului de siguranță rutieră în baza Legii nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare, cu respectarea următoarelor clauze:
+II.
+Obiectul contractului Prestarea de servicii privind asigurarea realizării auditului de siguranță rutieră pentru proiectul .................................., stadiul ...................................*), având lungimea totală de ……… km defalcată astfel:
+Notă
+...
+*) Nu se va completa în cazul proiectelor care vizează intersecția/nodul rutier/pasajul rutier.
+– număr km în interiorul localității/localităților ……..;
+– număr km în afara localității/localităților …………… .
+III.
+Drepturile și obligațiile părților 1.
+Drepturile Beneficiarului: – de a refuza plata sumei stabilite în cazul neîndeplinirii obligațiilor ce decurg din prezentul contract.
+2.
+Obligațiile Beneficiarului: a)
+să pună la dispoziția auditorului de siguranță rutieră documentația primită de la investitorul proiectului de infrastructură rutieră, respectiv: a.1)
+evaluarea de impact asupra siguranței rutiere;
+a.2)
+documentele conținute în studiul de prefezabilitate, studiul de fezabilitate, proiect tehnic și detalii de execuție, dar nu mai puțin decât: (i)
+planurile generale ale traseului;
+(ii)
+planurile de situație și profilurile transversale și longitudinale ale traseului;
+(iii)
+planurile terenurilor pe care este proiectat traseul;
+(iv)
+planurile de semnalizare orizontală și verticală de pe traseu, precum și ale echipamentelor de tip sistem de transport inteligent;
+(v)
+memorii tehnice;
+(vi)
+analizele de trafic, existent și prognozat;
+a.3)
+datele și informațiile privind accidentele rutiere înregistrate pe drumuri auditate;
+a.4)
+informațiile cu privire la recomandările conținute în raportul anterior;
+a.5)
+alte informații necesare;
+b)
+să efectueze plata în termen de 15 zile de la data încasării facturii emise către investitor.
+3.
+Drepturile Prestatorului: – de a primi de la Beneficiar documentele transmise de investitor aferente proiectului de infrastructură rutieră care face obiectul prezentului contract.
+4.
+Obligațiile Prestatorului: a)
+să depună la Beneficiar, în termenul prevăzut la cap. IV pct. 1 , un exemplar, în original, al Raportului privind auditul de siguranță rutieră pe capitole corespunzător stadiului, redactat în limba română;
+b)
+să depună, în termenul prevăzut la cap. IV pct. 1 , un exemplar original al Raportului privind auditul de siguranță rutieră pe capitole corespunzător stadiului la investitorul proiectului de infrastructură rutieră;
+c)
+să depună la Beneficiar o copie a dovezii privind depunerea Raportului de audit de siguranță rutieră pe capitole corespunzător stadiului la investitorul proiectului de infrastructură rutieră în termenul prevăzut la cap. IV pct. 1 ;
+d)
+să redacteze Raportul de audit de siguranță rutieră pe capitole corespunzător stadiului, cu respectarea prevederilor anexei nr. 1 la Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare, în următoarea structură: – denumirea proiectului, perioada de realizare și auditorul;
+– cuprins;
+– scopul și obiectivele specifice auditului de siguranță rutieră;
+– descrierea generală a situației actuale și situația în cazul neinițierii vreunei acțiuni;
+– date specifice proiectului;
+– analiza impactului alternativelor propuse asupra siguranței rutiere;
+– compararea alternativelor propuse, inclusiv analiza raportului cost-beneficii, dacă aceasta este disponibilă;
+– recomandări privind adoptarea soluției optime din punctul de vedere al siguranței rutiere;
+– opis cu planurile, documentele, standardele și formularele utilizate;
+e)
+să asigure deplină confidențialitate cu privire la datele și informațiile la care a avut acces în cursul realizării auditului de siguranță rutieră;
+f)
+să nu implice în realizarea auditului de siguranță rutieră persoane care nu respectă condițiile de independență prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare;
+g)
+să notifice Beneficiarului orice modificare intervenită cu privire la datele și informațiile completate în declarația pe propria răspundere privind respectarea condițiilor de independență cu ocazia încheierii prezentului contract;
+h)
+să returneze Beneficiarului documentele primite pentru realizarea auditului de siguranță rutieră, odată cu predarea Raportului de audit de siguranță rutieră pe capitole corespunzător stadiului;
+i)
+să răspundă pentru conținutul Raportului de audit de siguranță rutieră pe capitole corespunzător stadiului;
+j)
+să completeze și să depună la data încheierii prezentului contract, în original, Declarația pe propria răspundere privind respectarea condițiilor de independență prevăzute de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare.
+IV.
+Durata contractului 1.
+Durata contractului este de 60 de zile de la data comunicării contractului la Autoritatea Rutieră Română - A.R.R. în cazul stadiilor studiul de fezabilitate/documentația de avizare a lucrărilor de intervenții, proiect tehnic și detalii de execuție și imediat după darea în exploatare a drumului public, în trafic, respectiv 18 zile calendaristice în cazul stadiului anterior recepției la terminarea lucrărilor la drumul public.
+2.
+În intervalul de timp prevăzut la punctul anterior, Prestatorul va depune la sediul Beneficiarului Raportul privind auditul de siguranță rutieră corespunzător stadiului.
+3.
+Fără a depăși durata prevăzută la pct. 1 , Prestatorul va depune la investitorul proiectului de infrastructură rutieră un exemplar original al Raportului privind auditul de siguranță rutieră pe capitole corespunzător stadiului.
+V.
+Valoarea contractului 1.
+Valoarea contractului este de (în cifre și litere) ..................... lei, inclusiv T.V.A., și va fi plătită de Beneficiar în contul indicat de Prestator la cap. I din prezentul contract, în termen de 15 zile de la data încasării contravalorii facturii emise către investitor.
+2.
+Valoarea contractului este calculată astfel: a)
+valoare contract pentru un sector de drum:
+(i)
+nr. km în interiorul localităților x tarif onorariu/km în interiorul localității x procent stadiu = ........... lei;
+(ii)
+nr. km în afara localităților x tarif onorariu/km în afara localității x procent stadiu = ..... lei.
+Total valoare contract: (i) + (ii) = ........ lei;
+b)
+valoare contract pentru o intersecție = tarif onorariu/buc. pentru intersecție x procent stadiu = ....... lei: (i)
+valoare contract pentru un nod rutier = tarif onorariu/buc. pentru nod rutier x procent stadiu = ..... lei;
+(ii)
+valoare contract pentru un pasaj rutier = tarif onorariu/buc. pentru pasaj rutier x procent stadiu = .... lei.
+VI.
+Aplicarea penalităților de întârziere 1.
+Pentru neexecutarea, în totalitate sau în parte, a obligațiilor prevăzute în prezentul contract, părțile se supun și răspund conform prevederilor legale în vigoare.
+2.
+În cazul în care, din vina sa exclusivă, Prestatorul nu reușește să își îndeplinească obligațiile asumate, atunci Beneficiarul are dreptul de a deduce din onorariul Prestatorului, ca penalități, o sumă echivalentă cu 0,03% pentru fiecare zi de întârziere, până la îndeplinirea efectivă a obligațiilor.
+3.
+În cazul în care Beneficiarul nu își onorează obligațiile prevăzute la cap. V, atunci acestuia îi revine obligația de a plăti, ca penalități, o sumă echivalentă cu 0,03% din plata neefectuată pentru fiecare zi de întârziere, până la îndeplinirea efectivă a obligațiilor.
+VII.
+Modificarea clauzelor contractuale Modificarea prezentului contract se face numai prin act adițional încheiat între părțile contractante.
+VIII.
+Rezilierea contractului 1.
+Nerespectarea obligațiilor asumate prin prezentul contract de către una dintre părțile contractante dă dreptul părții lezate de a cere rezilierea contractului și de a pretinde plata de daune-interese, cu condiția notificării acestui lucru celeilalte părți cu cel puțin 5 zile înainte de data de la care dorește rezilierea.
+2.
+Când Prestatorul sau orice altă persoană implicată încalcă principiul independenței prevăzut de Legea nr. 265/2008 privind gestionarea siguranței circulației pe infrastructura rutieră, republicată, cu modificările și completările ulterioare.
+3.
+Prin acordul scris al părților.
+Prevederile prezentului capitol nu înlătură răspunderea părții care, din culpă, a cauzat rezilierea contractului.
+IX.
+Soluționarea litigiilor 1.
+Beneficiarul și Prestatorul vor face toate eforturile pentru a rezolva pe cale amiabilă, prin tratative directe, orice neînțelegere sau dispută care se poate ivi între ei în cadrul sau în legătură cu îndeplinirea contractului.
+2.
+În caz contrar, părțile se vor adresa instanțelor competente în domeniu.
+X.
+Forța majoră 1.
+Forța majoră exonerează părțile contractante de îndeplinirea obligațiilor asumate prin prezentul contract, pe toată perioada în care aceasta acționează.
+2.
+Îndeplinirea contractului va fi suspendată în perioada de acțiune a forței majore, dar fără a prejudicia drepturile ce li se cuveneau părților până la apariția acesteia.
+3.
+Partea contractantă care invocă forța majoră are obligația de a notifica imediat cealaltă parte despre producerea acesteia și să ia orice măsuri care îi stau la dispoziție în vederea limitării consecințelor.
+XI.
+Alte clauze Legea aplicabilă prezentului contract este legea română.
+Prezentul contract s-a încheiat în … exemplare, din care un exemplar pentru Beneficiar și câte un exemplar pentru fiecare Prestator.
+BENEFICIAR
+PRESTATOR
