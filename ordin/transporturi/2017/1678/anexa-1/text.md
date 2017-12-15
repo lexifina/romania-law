@@ -1,0 +1,2 @@
+# ANEXE nr. 1-7
+ANEXE referitoare la modificarea și completarea Ordinului ministrului transporturilor, construcțiilor și turismului nr. 2.133/2005 pentru aprobarea Reglementărilor privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică - RNTR 1
