@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-17: documents published: Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2017-11-16: registered at the Senate
 - 2017-12-06: documents published: Aviz comisie
+- 2017-12-18: registered at the Chamber of Deputies
 
 ## Documents
 
