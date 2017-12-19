@@ -1,0 +1,61 @@
+{
+ "key": "cedo-18492-14-2017-09-28",
+ "label": "CEDO, Nicolae-Corneliu Diaconiță c. României, 2017-09-28",
+ "court": "cedo",
+ "kind": "decizie",
+ "date": "2017-09-28",
+ "year": "2017",
+ "heading": "DECIZIE din 28 septembrie 2017",
+ "subtitle": "cu privire la Cererea nr. 18.492/14 introdusă de Nicolae-Corneliu Diaconiță împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "1007",
+  "bis": false,
+  "date": "2017-12-19",
+  "part": "I"
+ },
+ "outcome": "struck-out",
+ "findings": [
+  "struck-out"
+ ],
+ "applications": [
+  "18492/14"
+ ],
+ "case_name": "Nicolae-Corneliu Diaconiță",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA: decide să radieze cauza de pe rol, în temeiul art. 39 din Convenție."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/195788",
+  "text_sha256": "f2a5877dd535eb0ae6f443a10b6e594755c2257ea235b087f3c18ece1711189f",
+  "catalogue_sha256": "f2a5877dd535eb0ae6f443a10b6e594755c2257ea235b087f3c18ece1711189f",
+  "fetched": "2026-11-03T03:14:25Z",
+  "chars": 3175,
+  "portal_id": "195788",
+  "tip": "DECIZIE"
+ }
+}
