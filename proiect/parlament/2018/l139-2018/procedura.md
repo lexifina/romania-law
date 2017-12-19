@@ -11,9 +11,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2017-12-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2017-12-19: documents published: Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2017-12-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L139AD.PDF
 - 2017-12-14: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L139FG.PDF
 - 2017-12-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L139EM.PDF
+- 2017-12-19: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L139LG.PDF
