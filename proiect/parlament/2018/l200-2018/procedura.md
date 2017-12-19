@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2017-12-18: first record in the bill file
+- 2017-12-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2017-12-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L200AD.PDF
+- 2017-12-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L200FG.PDF
+- 2017-12-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L200EM.PDF
