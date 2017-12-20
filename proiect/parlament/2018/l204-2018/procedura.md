@@ -1,0 +1,19 @@
+# Propunere legislativă L204/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 167/2020 (`legea-167-2020`).
+
+Propunere legislativă pentru modificarea şi completarea Ordonanţei de Guvern nr.137/2000 privind prevenirea şi sancţionarea tuturor formelor de discriminare şi a Legii nr.202/2002 privind egalitatea de şanse între femei şi bărbaţi
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2017-12-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2017-12-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204AD.PDF
+- 2017-12-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204FG.PDF
+- 2017-12-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204EM.PDF
