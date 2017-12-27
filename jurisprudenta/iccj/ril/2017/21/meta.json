@@ -1,0 +1,237 @@
+{
+ "key": "iccj-ril-21-2017",
+ "label": "Decizia ÎCCJ nr. 21/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "21",
+ "date": "2017-11-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 21 din 6 noiembrie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor vizând încadrarea juridică a faptei de evidențiere, în actele contabile sau în alte documente legale, a cheltuielilor care nu au la bază operațiuni reale ori evidențierea altor operațiuni fictive, în ipoteza înregistrării unor facturi fiscale și chitanțe de plată întocmite în fals în numele unor societăți comerciale care nu recunosc tranzacțiile sau care au avut în perioada funcționării comportamentul fiscal asemănător societăților comerciale „fantomă“, în scopul sustragerii de la îndeplinirea obligațiilor fiscale; raportul dintre infracțiunea de evaziune fiscală prevăzută de art. 9 alin. (1) din Legea nr. 241/2005 și infracțiunile de fals în înscrisuri sub semnătură privată/uz de fals prevăzute de art. 322 și art. 323 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1024",
+  "bis": false,
+  "date": "2017-12-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.297/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și:",
+  "În interpretarea și aplicarea unitară a dispozițiilor vizând încadrarea juridică a faptei de evidențiere, în actele contabile sau în alte documente legale, a cheltuielilor care nu au la bază operațiuni reale ori evidențierea altor operațiuni fictive, în ipoteza înregistrării unor facturi fiscale și chitanțe de plată întocmite în fals în numele unor societăți comerciale care nu recunosc tranzacțiile sau care au avut în perioada funcționării comportamentul fiscal asemănător societăților comerciale „fantomă“, în scopul sustragerii de la îndeplinirea obligațiilor fiscale; raportul dintre infracțiunea de evaziune fiscală prevăzută de art. 9 alin. (1) din Legea nr. 241/2005 și infracțiunile de fals în înscrisuri sub semnătură privată/uz de fals prevăzute de art. 322 ș i art. 323 din Codul penal stabilește că:",
+  "Fapta de evidențiere în actele contabile sau în alte documente legale a cheltuielilor care nu au la bază operațiuni reale ori evidențierea altor operațiuni fictive, prin folosirea de facturi și chitanțe fiscale falsificate, în scopul sustragerii de la îndeplinirea obligațiilor fiscale, constituie infracțiunea de evaziune fiscală prevăzută de art. 9 alin. (1) lit. c) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "320",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilității nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanțelor publice nr. 2.634/2015",
+    "number": "2634",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "474-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 2.634/2015",
+    "number": "2634",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2017-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196206",
+  "text_sha256": "ee68034c674c9f024f3e7aebb8e383674f84b199cc67e5916c6c5f5bcd753bdb",
+  "catalogue_sha256": "ee68034c674c9f024f3e7aebb8e383674f84b199cc67e5916c6c5f5bcd753bdb",
+  "fetched": "2026-11-03T03:14:01Z",
+  "chars": 40394,
+  "portal_id": "196206",
+  "tip": "DECIZIE"
+ }
+}
