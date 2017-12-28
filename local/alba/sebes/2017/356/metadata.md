@@ -1,0 +1,11 @@
+# HCL Sebeș nr. 356/2017
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Municipiului Sebeș
+- Decision: nr. 356/2017
+- Adopted: 2017-12-28
+- Title: privind aprobarea listei de licitație, a tipului de valorificare, tipului de licitație și a prețului de pornire conform listei partizilor pentru licitația principală “pe picior” producția anului 2018 pentru masa lemnoasă ce se valorifica din fondul forestier proprietate publică a Municipiului Sebeș
+- Record: https://www.primariasebes.ro/consiliul-local/acte-legislative/hotarari-de-consiliu/hotarari-2017/
+- Document: http://www.primariasebes.ro/wp-content/uploads/2018/01/hcl-356.pdf
+- Document sha256: 3ad4e706bead2528df354460b012725973ac3df3577dc1361f7ee7ccf89baaee
