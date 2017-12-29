@@ -1,0 +1,157 @@
+{
+ "key": "dcc-730-2017",
+ "label": "Decizia CCR nr. 730/2017",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "730",
+ "date": "2017-11-22",
+ "year": "2017",
+ "heading": "DECIZIA nr. 730 din 22 noiembrie 2017",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a Hotărârii Parlamentului României nr. 72/2017 pentru modificarea anexei la Hotărârea Parlamentului României nr. 15/2017 privind aprobarea componenței nominale și a conducerii Comitetului director al Grupului Român al Uniunii Interparlamentare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1043",
+  "bis": false,
+  "date": "2017-12-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.680L/2/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea de neconstituționalitate formulată de Grupul parlamentar al Uniunii Salvați România și constată că Hotărârea Parlamentului României nr. 72/2017 pentru modificarea anexei la Hotărârea Parlamentului României nr. 15/2017 privind aprobarea componenței nominale și a conducerii Comitetului director al Grupului Român al Uniunii Interparlamentare este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l",
+      "a"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2017-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196302",
+  "text_sha256": "485cf3d5868269a283181e5f083593a541f28e13bfebc8401b3f505dd9e6d13e",
+  "catalogue_sha256": "485cf3d5868269a283181e5f083593a541f28e13bfebc8401b3f505dd9e6d13e",
+  "fetched": "2026-11-03T03:13:55Z",
+  "chars": 42218,
+  "portal_id": "196302",
+  "tip": "DECIZIE"
+ }
+}
