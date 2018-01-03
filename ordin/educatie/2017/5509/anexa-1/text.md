@@ -1,0 +1,3 @@
+# Anexa nr. 1
+NORME METODOLOGICE privind organizarea și exercitarea activității de audit public intern la nivelul Ministerului
+Educației Naționale și în entitățile publice aflate în subordinea, coordonarea sau sub autoritatea Ministerului Educației Naționale la nivelul cărora nu există norme specifice de audit public intern întocmite conform prevederilor Hotărârii Guvernului nr. 1.086/2013
