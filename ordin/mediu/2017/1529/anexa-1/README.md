@@ -1,0 +1,7 @@
+# Anexa nr. 1: INSTRUCTIUNI pentru organizarea și desfășurarea licitațiilor publice pentru atribuirea contractelor de închiriere a unor bunuri imobile, proprietate publică a statului, aflate în administrarea Adminis
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 196337 (https://legislatie.just.ro/Public/DetaliiDocument/196337)
+- sha256 of that document's text as the service returned it: c099522fb28192c6fab7590509d307c092ce4e65364dd8c57758cc5e3955ef3c
+- Retrieved: 2026-11-03
