@@ -1,0 +1,354 @@
+{
+ "key": "iccj-hp-83-2017",
+ "label": "Decizia ÎCCJ nr. 83/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "83",
+ "date": "2017-11-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 83 din 20 noiembrie 2017",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la interpretarea și aplicarea dispozițiilor art. 4 din Legea nr. 22/1969",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "17",
+  "bis": false,
+  "date": "2018-01-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.806/1/2017",
+  "1.483/89/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 22/1969",
+    "number": "22",
+    "year": "1969",
+    "path": "lege/1969/22"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 1.483/89/2016, pentru pronunțarea unei hotărâri prealabile privind dezlegarea următoarelor chestiuni de drept:",
+  "În interpretarea și aplicarea dispozițiilor art. 4 din Legea nr. 22/1969 privind angajarea gestionarilor, constituirea de garanții și răspunderea în legătură cu gestionarea bunurilor agenților economici, autorităților sau instituțiilor publice, cu modificările ulterioare, contractul individual de muncă al persoanei angajate ca gestionar sau având și atribuții de gestionar care a fost condamnată definitiv pentru una din infracțiunile prevăzute de textul indicat la pedeapsa închisorii cu suspendarea sub supraveghere încetează de drept la data rămânerii definitive a hotărârii penale de condamnare?",
+  "În ipoteza unui răspuns afirmativ, textul legal - art. 4 din Legea nr. 22/1969 - reglementează un caz special, distinct de încetare de drept a raporturilor de muncă sau încetarea de drept operează prin interpretarea și aplicarea extensivă a dispozițiilor art. 56 alin. (1) lit. h) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, fiind, în consecință, obligatorie și emiterea unei decizii potrivit art. 56 alin. (2) din Codul muncii ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 22/1969",
+    "number": "22",
+    "year": "1969",
+    "path": "lege/1969/22"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "h",
+      "f"
+     ]
+    },
+    {
+     "art": "80",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "320",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "g"
+     ]
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/1972/10",
+    "slug": "legea-10-1972"
+   },
+   "articles": [
+    {
+     "art": "130",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 500/2011",
+    "number": "500",
+    "year": "2011",
+    "path": "hg/2011/500"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196424",
+  "text_sha256": "91893266605067b669471b7a70e5fd6f0e77c6b35c1cdf7cd6a149a89ee1329f",
+  "catalogue_sha256": "91893266605067b669471b7a70e5fd6f0e77c6b35c1cdf7cd6a149a89ee1329f",
+  "fetched": "2026-11-03T03:13:48Z",
+  "chars": 54030,
+  "portal_id": "196424",
+  "tip": "DECIZIE"
+ }
+}
