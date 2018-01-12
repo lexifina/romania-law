@@ -1,0 +1,10 @@
+# Anexa nr. 9
+Anexa nr. 3A la Metodologia și procedura de înregistrare a aparatelor de marcat electronice fiscale în etapa postoperaționalizare a Registrului
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul/Subsemnata,.............................., domiciliat(ă) în..........................., str................... nr...., bl...., sc...., ap...., județul/sectorul.................., legitimat(ă) cu B.I./C.I./pașaport, seria............, nr................, eliberat(ă) de..................... la data de............, având CNP/NIF............................, în calitate de administrator/reprezentant legal al utilizatorului...................................., având CIF/CNP/NIF........................., cunoscând prevederile legii penale privind falsul în declarații, declar pe propria răspundere următoarele:
+Aparatul de marcat electronic fiscal cu seria de fabricație nr......................... urmează să fie instalat și utilizat la adresa din localitatea.................., str................ nr.... bl...., sc...., ap...., județul/sectorul..........
+Solicit ca punerea în funcțiune și fiscalizarea să fie efectuate la sediul distribuitorului autorizat/unității acreditate pentru service S.C..............................., CIF............, deoarece adresa de utilizare este lipsită de oricare mijloc de conexiune la internet.
+Am luat cunoștință de obligația prevăzută la art. 3^1 alin. (4) din Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, republicată, cu modificările și completările ulterioare, respectiv de a asigura conectarea la distanță a aparatelor de marcat electronice fiscale, în vederea transmiterii de date fiscale către Agenția Națională de Administrare Fiscală.
+Dau prezenta declarație spre a fi utilizată în raporturile cu organele fiscale aflate în subordinea Agenției Naționale de Administrare Fiscală.
+Data
+Semnătura,..............................................................
