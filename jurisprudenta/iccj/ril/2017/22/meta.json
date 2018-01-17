@@ -1,0 +1,207 @@
+{
+ "key": "iccj-ril-22-2017",
+ "label": "Decizia ÎCCJ nr. 22/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "22",
+ "date": "2017-11-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 22 din 6 noiembrie 2017",
+ "subtitle": "privind recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Constanța cu privire la interpretarea și aplicarea art. 320 alin. (1) din Legea nr. 95/2006",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "43",
+  "bis": false,
+  "date": "2018-01-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.440/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "320",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Constanța și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 320 alin. (1) din Legea nr. 95/2006, persoana care a suferit o vătămare corporală prin fapta altuia nu poate fi obligată, către furnizorul de servicii medicale, la plata cheltuielilor de spitalizare și tratament medical de care a beneficiat în cadrul unității medicale respective, potrivit legii, în limitele pachetului de bază ori minimal, după caz, în situațiile în care autorul vătămării nu a fost identificat sau persoana vătămată nu a formulat sau și-a retras plângerea prealabilă ori a intervenit împăcarea părților.",
+  "În interpretarea și aplicarea acelorași dispoziții legale, autorul vătămării poate fi chemat în judecată, pe cale civilă separată, pentru suportarea cheltuielilor de spitalizare și tratament medical de care a beneficiat persoana vătămată, în limitele pachetului de bază ori minimal, în situația în care acesta nu răspunde penal, întrucât a intervenit împăcarea părților.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "320",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "317",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1978",
+    "number": "3",
+    "year": "1978",
+    "path": "lege/1978/3"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 150/2002",
+    "number": "150",
+    "year": "2002",
+    "path": "oug/2002/150"
+   },
+   "articles": [
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196757",
+  "text_sha256": "fbfc63e0824541998ed97b8bbe3d2b16ad830be23e9f902ec62b67decc61a8a3",
+  "catalogue_sha256": "fbfc63e0824541998ed97b8bbe3d2b16ad830be23e9f902ec62b67decc61a8a3",
+  "fetched": "2026-11-03T22:20:28Z",
+  "chars": 41660,
+  "portal_id": "196757",
+  "tip": "DECIZIE"
+ }
+}
