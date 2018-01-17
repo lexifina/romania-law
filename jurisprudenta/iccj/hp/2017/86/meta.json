@@ -1,0 +1,243 @@
+{
+ "key": "iccj-hp-86-2017",
+ "label": "Decizia ÎCCJ nr. 86/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "86",
+ "date": "2017-11-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 86 din 20 noiembrie 2017",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 58 alin. (2) din Norma Autorității de Supraveghere Financiară nr. 23/2014 privind asigurarea obligatorie de răspundere civilă pentru prejudicii produse prin accidente de vehicule, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2018-01-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.865/1/2017",
+  "114.907/299/2015"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a VI-a civilă, în Dosarul nr. 114.907/299/2015, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea prevederilor art. 58 alin. (2) din Norma Autorității de Supraveghere Financiară nr. 23/2014 privind asigurarea obligatorie de răspundere civilă pentru prejudicii produse prin accidente de vehicule, cu modificările și completările ulterioare, asigurătorul subrogat în drepturile persoanei păgubite este îndreptățit să obțină penalizările prevăzute de dispozițiile art. 38 din același act normativ dacă asigurătorul RCA nu își îndeplinește obligațiile la scadență sau și le îndeplinește necorespunzător.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2210",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1594",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1596",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "1597",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 5/2010",
+    "number": "5",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Comisiei de Supraveghere a Asigurărilor nr. 14/2011",
+    "number": "14",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196771",
+  "text_sha256": "550df65a8d3b74359dd3d05191890a0efe0b2599e455102463a943df772f0e81",
+  "catalogue_sha256": "550df65a8d3b74359dd3d05191890a0efe0b2599e455102463a943df772f0e81",
+  "fetched": "2026-11-03T03:13:25Z",
+  "chars": 46478,
+  "portal_id": "196771",
+  "tip": "DECIZIE"
+ }
+}
