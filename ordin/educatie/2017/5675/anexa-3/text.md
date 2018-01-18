@@ -1,0 +1,154 @@
+# Anexa nr. 3
+Numărul de locuri - granturi de studii (anul I) finanțate de la bugetul de stat pentru studii universitare de doctorat, cu bursă pentru forma de învățământ cu frecvență și fără bursă pentru formele de învățământ cu frecvență redusă, din instituțiile de învățământ superior de stat, pentru anul universitar 2017-2018
+Nr. crt.
+Instituția de învățământ superior pentru tineri cu cetățenie română, UE și SEE pentru tineri de origine română din Republica Moldova, țări învecinate și diasporă și cetățeni străini, conform documentelor unilaterale și cooperare bilaterală
+TOTAL, din care: romi
+Doctorat cu frecvență
+Doctorat cu frecvență redusă, fără bursă
+TOTAL, din care: fără plata taxelor de școlarizare, dar cu bursă fără plata taxelor de școlarizare, dar fără bursă cu bursă de la bugetul de stat fără bursă de la bugetul de stat
+1.
+UNIVERSITATEA POLITEHNICA DIN BUCUREȘTI 442 5 200 242 0 1 1 0
+2.
+UNIVERSITATEA TEHNICĂ DE CONSTRUCȚII DIN BUCUREȘTI 52 0 22 30 0 2 0 2
+3.
+UNIVERSITATEA DE ARHITECTURĂ ȘI URBANISM „ION MINCU” DIN BUCUREȘTI 16 1 8 4 4 3 2 1
+4.
+UNIVERSITATEA DE ȘTIINȚE AGRONOMICE ȘI MEDICINĂ VETERINARĂ DIN BUCUREȘTI 83 0 42 0 41 2 2 0
+5.
+UNIVERSITATEA DIN BUCUREȘTI 354 0 175 179 0 10 9 1
+6.
+UNIVERSITATEA DE MEDICINĂ
+ȘI FARMACIE „CAROL DAVILA”
+DIN BUCUREȘTI 105 0 50 55 0 1 0 1
+7.
+ACADEMIA DE STUDII ECONOMICE DIN BUCUREȘTI 110 0 55 55 0 2 2 0
+8.
+UNIVERSITATEA NAȚIONALĂ DE MUZICĂ DIN BUCUREȘTI 16 0 8 8 0 0 0 0
+9.
+UNIVERSITATEA NAȚIONALĂ DE ARTE DIN BUCUREȘTI 15 1 8 7 0 2 1 1
+10.
+UNIVERSITATEA NAȚIONALĂ DE ARTĂ TEATRALĂ ȘI CINEMATOGRAFICĂ
+„I. L. CARAGIALE” DIN BUCUREȘTI 16 1 8 8 0 0 0 0
+11.
+UNIVERSITATEA NAȚIONALĂ
+DE EDUCAȚIE FIZICĂ ȘI SPORT
+DIN BUCUREȘTI 12 1 6 6 0 0 0 0
+12.
+ȘCOALA NAȚIONALĂ DE STUDII POLITICE ȘI ADMINISTRATIVE
+DIN BUCUREȘTI 60 2 30 30 0 1 1 0
+13.
+UNIVERSITATEA „1 DECEMBRIE 1918” DIN ALBA IULIA 16 2 7 9 0 4 3 1
+14.
+UNIVERSITATEA „AUREL VLAICU”
+DIN ARAD 6 0 3 3 0 0 0 0
+15.
+UNIVERSITATEA „VASILE ALECSANDRI” DIN BACĂU 4 0 1 0 3 1 0 1
+16.
+UNIVERSITATEA „TRANSILVANIA”
+DIN BRAȘOV 60 0 30 14 16 0 0 0
+17.
+UNIVERSITATEA TEHNICĂ DIN CLUJ-NAPOCA 205 0 100 105 0 1 1 0
+18.
+UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ DIN CLUJ-NAPOCA 81 0 41 0 40 0 0 0
+19.
+UNIVERSITATEA „BABEȘ-BOLYAI”
+DIN CLUJ-NAPOCA 334 9 165 108 61 12 11 1
+20.
+UNIVERSITATEA DE MEDICINĂ ȘI FARMACIE „IULIU HAȚIEGANU” DIN CLUJ-NAPOCA 75 0 36 0 39 1 1 0
+Nr. crt.
+Instituția de învățământ superior pentru tineri cu cetățenie română, UE și SEE pentru tineri de origine română din Republica Moldova, țări învecinate și diasporă și cetățeni străini, conform documentelor unilaterale și cooperare bilaterală
+TOTAL, din care: romi
+Doctorat cu frecvență
+Doctorat cu frecvență redusă, fără bursă
+TOTAL, din care: fără plata taxelor de școlarizare, dar cu bursă fără plata taxelor de școlarizare, dar fără bursă cu bursă de la bugetul de stat fără bursă de la bugetul de stat
+21.
+ACADEMIA DE MUZICĂ „GHEORGHE DIMA” DIN CLUJ-NAPOCA 16 0 7 9 0 1 1 0
+22.
+UNIVERSITATEA DE ARTĂ ȘI DESIGN DIN CLUJ-NAPOCA 13 0 7 6 0 1 1 0
+23.
+UNIVERSITATEA „OVIDIUS”
+DIN CONSTANȚA 23 2 12 0 11 2 2 0
+24.
+UNIVERSITATEA MARITIMĂ
+DIN CONSTANȚA 3 0 1 0 2 0 0 0
+25.
+UNIVERSITATEA DIN CRAIOVA 51 3 23 28 0 2 2 0
+26.
+UNIVERSITATEA DE MEDICINĂ
+ȘI FARMACIE DIN CRAIOVA 27 0 12 5 10 1 1 0
+27.
+UNIVERSITATEA „DUNĂREA DE JOS” DIN GALAȚI 74 0 27 0 47 6 6 0
+28.
+UNIVERSITATEA TEHNICĂ „GHEORGHE ASACHI” DIN IAȘI 141 5 70 71 0 3 3 0
+29.
+UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ „ION IONESCU DE LA BRAD” DIN IAȘI 40 0 15 0 25 0 0 0
+30.
+UNIVERSITATEA „ALEXANDRU IOAN CUZA” DIN IAȘI 166 8 80 72 14 1 1 0
+31.
+UNIVERSITATEA DE MEDICINĂ ȘI FARMACIE „GR. T. POPA” DIN IAȘI 59 0 31 28 0 0 0 0
+32.
+UNIVERSITATEA NAȚIONALĂ DE ARTE „GEORGE ENESCU” DIN IAȘI 18 0 9 0 9 4 4 0
+33.
+UNIVERSITATEA DIN ORADEA 20 2 8 12 0 0 0 0
+34.
+UNIVERSITATEA DIN PETROȘANI 7 1 4 3 0 4 3 1
+35.
+UNIVERSITATEA DIN PITEȘTI 13 2 6 7 0 0 0 0
+36.
+UNIVERSITATEA „PETROL-GAZE” DIN PLOIEȘTI 11 1 2 0 9 2 2 0
+37.
+UNIVERSITATEA „EFTIMIE MURGU” DIN REȘIȚA 3 0 2 1 0 0 0 0
+38.
+UNIVERSITATEA „LUCIAN BLAGA”
+DIN SIBIU 43 0 20 23 0 2 2 0
+39.
+UNIVERSITATEA „ȘTEFAN CEL MARE” DIN SUCEAVA 45 2 17 25 3 9 9 0
+40.
+UNIVERSITATEA „VALAHIA”
+DIN TÂRGOVIȘTE 12 2 6 6 0 2 1 1
+41.
+UNIVERSITATEA „CONSTANTIN BRÂNCUȘI” DIN TÂRGU JIU 0 0 0 0 0 0 0 0
+42.
+UNIVERSITATEA „PETRU MAIOR”
+DIN TÂRGU MUREȘ 12 2 6 6 0 0 0 0
+43.
+UNIVERSITATEA DE MEDICINĂ
+ȘI FARMACIE DIN TÂRGU MUREȘ 28 2 12 16 0 0 0 0
+44.
+UNIVERSITATEA DE ARTE DIN TÂRGU MUREȘ 4 0 2 2 0 1 1 0
+45.
+UNIVERSITATEA POLITEHNICA TIMIȘOARA 90 2 46 44 0 0 0 0
+46.
+UNIVERSITATEA DE ȘTIINȚE AGRICOLE ȘI MEDICINĂ VETERINARĂ A BANATULUI „REGELE MIHAI I
+AL ROMÂNIEI” DIN TIMIȘOARA 25 1 13 12 0 1 1 0
+Nr. crt.
+Instituția de învățământ superior pentru tineri cu cetățenie română, UE și SEE pentru tineri de origine română din Republica Moldova, țări învecinate și diasporă și cetățeni străini, conform documentelor unilaterale și cooperare bilaterală
+TOTAL, din care: romi
+Doctorat cu frecvență
+Doctorat cu frecvență redusă, fără bursă
+TOTAL, din care: fără plata taxelor de școlarizare, dar cu bursă fără plata taxelor de școlarizare, dar fără bursă cu bursă de la bugetul de stat fără bursă de la bugetul de stat
+47.
+UNIVERSITATEA DE VEST
+DIN TIMIȘOARA 85 3 43 42 0 7 4 3
+48.
+UNIVERSITATEA DE MEDICINĂ
+ȘI FARMACIE „VICTOR BABEȘ”
+DIN TIMIȘOARA 24 0 12 12 0 0 0 0
+49.
+ACADEMIA TEHNICĂ MILITARĂ
+DIN BUCUREȘTI 14 0 0 4 10 0 0 0
+50.
+UNIVERSITATEA NAȚIONALĂ DE APĂRARE „CAROL I” DIN BUCUREȘTI 7 0 0 0 7 0 0 0
+51.
+ACADEMIA NAȚIONALĂ DE INFORMAȚII „MIHAI VITEAZUL”
+DIN BUCUREȘTI 2 0 2 0 0 0 0 0
+52.
+ACADEMIA DE POLIȚIE „ALEXANDRU IOAN CUZA” DIN BUCUREȘTI 0 0 0 0 0 1 1 0
+53.
+ACADEMIA FORȚELOR AERIENE „HENRI COANDĂ” DIN BRAȘOV 0 0 0 0 0 0 0 0
+54.
+ACADEMIA NAVALĂ „MIRCEA CEL BĂTRÂN” DIN CONSTANȚA 0 0 0 0 0 0 0 0
+55.
+ACADEMIA FORȚELOR TERESTRE „NICOLAE BĂLCESCU” DIN SIBIU 0 0 0 0 0 0 0 0
+TOTAL 3.138 60 1.490 1.297 351 93 79 14
+------
