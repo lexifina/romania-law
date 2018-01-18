@@ -1,0 +1,224 @@
+{
+ "key": "iccj-hp-87-2017",
+ "label": "Decizia ÎCCJ nr. 87/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "87",
+ "date": "2017-11-20",
+ "year": "2017",
+ "heading": "DECIZIA nr. 87 din 20 noiembrie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile cu privire la o chestiune de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "52",
+  "bis": false,
+  "date": "2018-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.182/1/2017",
+  "176/110/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1489",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția I civilă în Dosarul nr. 176/110/2016, pentru pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Din coroborarea dispozițiilor art. 1.489 alin. (2) din Codul civil, art. 8 alin. (3) și art. 18 alin. (3) din Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, aprobată prin Legea nr. 43/2012, cu modificările și completările ulterioare, rezultă că pot fi acordate de instanță doar dobânzi la dobânzile remuneratorii prevăzute într-un contract sau, dimpotrivă, că pot fi acordate și dobânzi la dobânzile penalizatoare prevăzute de lege (dobânda legală)?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1489",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 92/2012",
+    "number": "92",
+    "year": "2012",
+    "path": "oug/2012/92"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196824",
+  "text_sha256": "64028588b1137d31e73e2d0c2729c3a513003bb6b9e1c5d1395216f7645da520",
+  "catalogue_sha256": "64028588b1137d31e73e2d0c2729c3a513003bb6b9e1c5d1395216f7645da520",
+  "fetched": "2026-11-06T03:50:06Z",
+  "chars": 48494,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406002400/https://legislatie.just.ro/Public/DetaliiDocumentAfis/196824",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/196824",
+   "timestamp": "20250406002400",
+   "sha256": "6534f2efd27a1cdec294b35525977aa79236d233655a4ba0279130c833769721"
+  },
+  "portal_id": "196824",
+  "tip": "DECIZIE"
+ }
+}
