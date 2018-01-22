@@ -1,0 +1,184 @@
+{
+ "key": "iccj-hp-penal-27-2017",
+ "label": "Decizia ÎCCJ nr. 27/2017 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "27",
+ "date": "2017-12-12",
+ "year": "2017",
+ "heading": "DECIZIA nr. 27 din 12 decembrie 2017",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "65",
+  "bis": false,
+  "date": "2018-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.683/1/2017",
+  "1.710/295/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara în Dosarul nr. 1.710/295/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: – dacă manifestarea acordului de a presta o muncă neremunerată în folosul comunității de către inculpat, prevăzută la art. 83 alin. (1) lit. c) din Codul penal, reprezintă o condiție imperativă pentru a se putea reține ca fiind îndeplinite condițiile prevăzute de art. 83 din Codul penal pentru amânarea aplicării pedepsei în situația în care inculpatul nu se prezintă la judecată pentru a-și exprima acordul de a presta muncă neremunerată în folosul comunității, iar instanța apreciază că nu se impune stabilirea obligației prevăzute de art. 85 alin. (2) lit. b) din Codul penal, respectiv stabilirea obligației de a presta muncă neremunerată în folosul comunității pe o perioadă între 30 și 60 de zile;",
+  "– dacă manifestarea acordului de a presta o muncă neremunerată în folosul comunității de către inculpat, prevăzută la art. 83 alin. (1) lit. c) din Codul penal, reprezintă o condiție imperativă pentru a se putea reține ca fiind îndeplinite condițiile prevăzute de art. 83 din Codul penal pentru amânarea aplicării pedepsei în situația în care inculpatul, cu ocazia audierii arată că nu își dă acordul de a presta muncă neremunerată în folosul comunității, iar instanța apreciază că nu se impune stabilirea obligației prevăzute de art. 85 alin. (2) lit. b) din Codul penal, respectiv stabilirea obligației de a presta muncă neremunerată în folosul comunității pe o perioadă între 30 și 60 de zile.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 75
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "378",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/196907",
+  "text_sha256": "9d95a443bc65b85f1f35c1e3901f1ddb8c2be36b03cf48236e0abeb248c043f1",
+  "catalogue_sha256": "9d95a443bc65b85f1f35c1e3901f1ddb8c2be36b03cf48236e0abeb248c043f1",
+  "fetched": "2026-11-03T03:13:14Z",
+  "chars": 52593,
+  "portal_id": "196907",
+  "tip": "DECIZIE"
+ }
+}
