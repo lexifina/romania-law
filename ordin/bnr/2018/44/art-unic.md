@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății TOTAL LEASING IFN - S.A., cu sediul în București, strada Nicolae Filipescu nr. 39-41, et. 3, biroul nr. 9, sectorul 2, înregistrată la oficiul registrului comerțului sub nr. J40/2799/2001, cod unic de înregistrare 13769872, înscrisă în Registrul general cu nr. RG-PJR-41-080115, la secțiunea h) - Leasing financiar.
