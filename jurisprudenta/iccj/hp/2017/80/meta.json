@@ -1,0 +1,158 @@
+{
+ "key": "iccj-hp-80-2017",
+ "label": "Decizia ÎCCJ nr. 80/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "80",
+ "date": "2017-11-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 80 din 6 noiembrie 2017",
+ "subtitle": "referitoarea la sesizarea privind pronunțarea unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "2018-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.562/1/2017",
+  "3.794/197/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 3.794/197/2015, privind pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept:",
+  "1. Dacă noțiunii de «consumator», astfel cum este definită de dispozițiile art. 2 din Legea nr. 193/2000, i se circumscrie și situația persoanei fizice care a achitat integral, voluntar, creditul contractat?",
+  "2. Dacă, din interpretarea coroborată a art. 6 și 13 din Legea nr. 193/2000, se poate aprecia că persoana fizică - parte contractantă într-un contract de credit care a încetat prin achitarea integrală voluntară, justifică un interes în solicitarea constatării caracterului abuziv al unor clauze contractuale, cu consecința restituirii prestațiilor efectuate în baza respectivelor clauze?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197118",
+  "text_sha256": "1ea89824d279cc137a3fd885981e74718169df776be69e4470853154f083c6e0",
+  "catalogue_sha256": "1ea89824d279cc137a3fd885981e74718169df776be69e4470853154f083c6e0",
+  "fetched": "2026-11-03T15:24:20Z",
+  "chars": 27238,
+  "portal_id": "197118",
+  "tip": "DECIZIE"
+ }
+}
