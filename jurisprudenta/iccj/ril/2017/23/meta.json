@@ -1,0 +1,146 @@
+{
+ "key": "iccj-ril-23-2017",
+ "label": "Decizia ÎCCJ nr. 23/2017 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "23",
+ "date": "2017-11-06",
+ "year": "2017",
+ "heading": "DECIZIA nr. 23 din 6 noiembrie 2017",
+ "subtitle": "privind recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Constanța referitor la interpretarea și aplicarea art. 480 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "2018-01-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.442/1/2017",
+  "1.142/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Constanța, referitor la interpretarea și aplicarea unitară a dispozițiilor art. 480 alin. (3) din Codul de procedură civilă, sub următoarele aspecte:",
+  "a) înțelesul corect al sintagmei „prima instanță a soluționat procesul fără a intra în judecata fondului“;",
+  "b) termenul și actul de procedură prin care partea interesată poate cere instanței de apel trimiterea cauzei spre rejudecare primei instanțe sau altei instanțe egale în grad cu aceasta, din aceeași circumscripție.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "445",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197117",
+  "text_sha256": "e07e0799a63821b6fec2d79cc9eb61cc022e9d20c784b5fc3fe809e816210d86",
+  "catalogue_sha256": "e07e0799a63821b6fec2d79cc9eb61cc022e9d20c784b5fc3fe809e816210d86",
+  "fetched": "2026-11-06T03:48:11Z",
+  "chars": 41416,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/197117",
+   "timestamp": "20250804155307",
+   "crawl": "CC-MAIN-2025-33",
+   "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151279808.15/warc/CC-MAIN-20250804145214-20250804175214-00842.warc.gz",
+   "offset": "295073052",
+   "length": "33976",
+   "sha256": "a3eb192339e2f9644483b52328f3faeed467d7f13fc95e1f0f9219f91b2da2ae"
+  },
+  "portal_id": "197117",
+  "tip": "DECIZIE"
+ }
+}
