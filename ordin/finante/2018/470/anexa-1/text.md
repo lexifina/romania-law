@@ -1,0 +1,233 @@
+# Anexa nr. 1
+Principalele aspecte legate de întocmirea și depunerea situațiilor financiare anuale
+I.
+Prevederi generale 1.1.
+Entitățile prevăzute la art. 3 din ordin întocmesc situații financiare anuale potrivit Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate, aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+1.2.
+Entitățile prevăzute la art. 4 din ordin întocmesc situații financiare anuale potrivit Reglementărilor contabile conforme cu Standardele Internaționale de Raportare Financiară, aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+1.3.
+(1)
+Persoanele juridice fără scop patrimonial prevăzute la art. 1 alin. (2) din Legea contabilității nr. 82/1991, republicată, cu modificările și completările ulterioare, care nu desfășoară activități economice, întocmesc situații financiare anuale la 31 decembrie compuse din bilanț prescurtat și contul prescurtat al rezultatului exercițiului, utilizând programul de asistență elaborat de Ministerul Finanțelor Publice pentru acestea.
+(2)
+Persoanele juridice fără scop patrimonial întocmesc situații financiare anuale la 31 decembrie compuse din bilanț și contul rezultatului exercițiului, utilizând programul de asistență elaborat de Ministerul Finanțelor Publice pentru acestea. Pentru activitățile economice desfășurate, potrivit legii, de către persoanele juridice fără scop patrimonial, Reglementările contabile pentru persoanele juridice fără scop patrimonial, aprobate prin Ordinul ministrului economiei și finanțelor nr. 1.969/2007, cu modificările și completările ulterioare, se completează, după caz, cu Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+1.4.
+(1)
+Entitățile autorizate, reglementate și supravegheate de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară vor depune la unitățile teritoriale ale Ministerului Finanțelor Publice situații financiare anuale, în formatul și în termenele prevăzute de reglementările emise de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară.
+(2)
+Situațiile financiare anuale întocmite de entitățile autorizate, reglementate și supravegheate de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară, cu excepția situațiilor financiare anuale individuale conforme cu IFRS, vor fi însoțite de formularul „Date informative” și formularul „Situația activelor imobilizate”, în formatul stabilit de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară.
+1.5.
+(1)
+Situațiile financiare anuale individuale conforme cu IFRS întocmite de instituțiile de credit și de către entitățile autorizate, reglementate și supravegheate de Autoritatea de Supraveghere Financiară, potrivit reglementărilor contabile emise de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară, au componentele prevăzute de Standardele internaționale de raportare financiară (IFRS), potrivit prevederilor art. 28 alin. (3) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare.
+(2)
+Entitățile prevăzute la alin. (1) întocmesc raportări contabile anuale la 31 decembrie în formatul stabilit de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară, distinct de situațiile financiare anuale. Raportările contabile anuale la 31 decembrie vor fi însoțite de formularul „Date informative” și formularul „Situația activelor imobilizate”, în formatul stabilit de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară. Formatul electronic al raportării contabile anuale la 31 decembrie conținând formularistica necesară și programul de verificare cu documentația de utilizare aferentă, precum și al declarației de inactivitate se obține prin folosirea programului de asistență elaborat de Ministerul Finanțelor Publice. Programul de asistență este pus la dispoziție, gratuit, de unitățile teritoriale ale Ministerului Finanțelor Publice sau poate fi descărcat de pe serverul de web al Agenției Naționale pentru Administrare Fiscală, de la adresa www.anaf.ro. Depunerea la unitățile teritoriale ale Ministerului Finanțelor Publice a raportărilor contabile anuale la 31 decembrie se efectuează în termen de 150 de zile de la încheierea anului calendaristic.
+(3)
+Pentru entitățile autorizate, reglementate și supravegheate de Banca Națională a României, respectiv de Autoritatea de Supraveghere Financiară, cu excepția cazurilor menționate la alin. (1), formatul electronic al situațiilor financiare anuale conținând formularistica necesară și programul de verificare cu documentația de utilizare aferentă se obține prin folosirea programului de asistență elaborat de Ministerul Finanțelor Publice. Programul de asistență este pus la dispoziție, gratuit, de unitățile teritoriale ale Ministerului Finanțelor Publice sau poate fi descărcat de pe serverul de web al Agenției Naționale pentru Administrare Fiscală, de la adresa www.anaf.ro.
+1.6.
+(1)
+Entitățile prevăzute la art. 1 alin. (1)-(3) din Legea contabilității nr. 82/1991, republicată, cu modificările și completările ulterioare, indiferent de forma de organizare, forma de proprietate și de reglementările contabile aplicabile, au obligația să depună situații financiare anuale la unitățile teritoriale ale Ministerului Finanțelor Publice, potrivit prevederilor legale în vigoare.
+(2)
+Pentru asigurarea informațiilor destinate sistemului instituțional al statului, entitățile depun la unitățile teritoriale ale Ministerului Finanțelor Publice o raportare contabilă anuală, în condițiile prevăzute de ordin.
+(3)
+Erorile contabile constatate după depunerea situațiilor financiare anuale se corectează la data constatării lor, potrivit reglementărilor contabile emise de instituțiile prevăzute la art. 4 alin. (1) și (3) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, după caz.
+1.7.
+Situațiile financiare anuale se întocmesc și se publică, potrivit legii, în limba română și în lei. Această unitate de măsură se va trece pe fiecare formular în parte.
+1.8.
+(1)
+Entitățile completează datele de identificare (denumirea entității, adresa, numărul de telefon și numărul de înmatriculare la registrul comerțului), precum și datele referitoare la încadrarea corectă în forma de proprietate și codul unic de înregistrare, fără a se folosi prescurtări sau inițiale. În căsuțe se vor trece codurile care delimitează încadrarea entității.
+(2)
+Entitățile completează codul privind activitatea, cod format din 4 cifre (clase de activități), potrivit Clasificării activităților din economia națională - CAEN, aprobată prin Hotărârea Guvernului nr. 656/1997, cu modificările ulterioare. Entitățile completează, de asemenea, codul CAEN privind activitatea preponderentă efectiv desfășurată. În cazul subunităților fără personalitate juridică din România, care aparțin unor persoane juridice cu sediul în străinătate, codul CAEN înscris în situațiile financiare anuale/raportările contabile anuale întocmite de sediul permanent/sediul permanent desemnat din România corespunde propriei activități desfășurate de acesta.
+(3)
+Necompletarea corectă pe prima pagină a formularului „Bilanț”, respectiv „Bilanț prescurtat” cu datele prevăzute la alin. (1) sau completarea formularelor cuprinse în situațiile financiare anuale cu date eronate conduce la imposibilitatea identificării entității, aceasta fiind sancționată potrivit prevederilor art. 42 din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare.
+(4)
+Prevederile referitoare la completarea formei de proprietate se vor avea în vedere și de subunitățile înregistrate în România, care aparțin unor persoane juridice cu sediul în străinătate.
+(5)
+Societățile care, potrivit actului constitutiv, reprezintă filiale ale unor societăți cu capital integral sau majoritar de stat completează la forma de proprietate codul 15, respectiv 29, după caz.
+1.9.
+(1)
+Situațiile financiare anuale se semnează de persoanele abilitate potrivit legii.
+(2)
+Situațiile financiare anuale se semnează și de către administratorul sau persoana care are obligația gestionării entității.
+1.10.
+(1)
+Potrivit art. 185 din Legea societăților nr. 31/1990, republicată, cu modificările și completările ulterioare, consiliul de administrație, respectiv directoratul este obligat să depună la unitățile teritoriale ale Ministerului Finanțelor Publice, în format hârtie și în format electronic sau numai în formă electronică pe portalul www.e-guvernare.ro, având atașată o semnătură electronică extinsă, situațiile financiare anuale, însoțite de documentele prevăzute de lege.
+(2)
+La depunerea situațiilor financiare anuale se vor avea în vedere și prevederile Hotărârii Guvernului nr. 1.085/2003 pentru aplicarea unor prevederi ale Legii nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, referitoare la implementarea Sistemului Electronic Național, cu modificările și completările ulterioare.
+(3)
+Entitățile pot depune situațiile financiare anuale și documentele cerute de lege, în format hârtie și în format electronic, la registratura unităților teritoriale ale Ministerului Finanțelor Publice sau la oficiile poștale, prin scrisori cu valoare declarată, potrivit prevederilor Hotărârii Guvernului nr. 627/1995 privind îmbunătățirea disciplinei depunerii bilanțurilor contabile și a altor documente cu caracter financiar-contabil și fiscal, de către agenții economici și alți contribuabili, sau numai în formă electronică pe portalul www.e-guvernare.ro, având atașată o semnătură electronică extinsă. Entitățile depun situațiile financiare anuale la registratura unităților teritoriale ale Ministerului Finanțelor Publice sau la oficiile poștale, prin scrisori cu valoare declarată, pe suport magnetic, împreună cu situațiile financiare anuale listate cu ajutorul programului de asistență elaborat de Ministerul Finanțelor Publice, semnate potrivit legii.
+(4)
+Fișierele zip atașate situațiilor financiare anuale nu vor conține parolă.
+II.
+Cerințe privind întocmirea și depunerea situațiilor financiare anuale A.
+Pentru entitățile care aplică Reglementările contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate, aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare 2.1.
+Entitățile care la data bilanțului nu depășesc limitele a cel puțin două dintre următoarele trei criterii de mărime prevăzute la pct. 9 alin. (2) din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, și anume: a) totalul activelor: 1.500.000 lei;
+b) cifra de afaceri netă: 3.000.000 lei;
+c) numărul mediu de salariați în cursul exercițiului financiar: 10, întocmesc situații financiare anuale care cuprind: 1. bilanț prescurtat (cod 10), în structura prevăzută la pct. 599 din reglementările contabile;
+2. cont prescurtat de profit și pierdere (cod 20), în structura prevăzută la pct. 601 din reglementările contabile. Acestea vor fi însoțite de formularul „Date informative” (cod 30) și formularul „Situația activelor imobilizate” (cod 40), cuprinse în structura prevăzută la pct. 6, respectiv 8 din anexa nr. 4 la ordin.
+Microentitățile prezintă informații potrivit pct. 576 alin. (2) din reglementările contabile.
+2.2.
+Entitățile care la data bilanțului nu se încadrează în categoria microentităților și care nu depășesc limitele a cel puțin două dintre următoarele trei criterii de mărime prevăzute la pct. 9 alin. (3) din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, și anume: a) totalul activelor: 17.500.000 lei;
+b) cifra de afaceri netă: 35.000.000 lei;
+c) numărul mediu de salariați în cursul exercițiului financiar: 50, întocmesc situații financiare anuale care cuprind: 1. bilanț prescurtat (cod 10), în structura prevăzută la pct. 599 din reglementările contabile;
+2. cont de profit și pierdere (cod 20), în structura prevăzută la pct. 600 din reglementările contabile;
+3. note explicative la situațiile financiare anuale. Opțional, ele pot întocmi situația modificărilor capitalului propriu și/sau situația fluxurilor de trezorerie.
+Acestea vor fi însoțite de formularul „Date informative” (cod 30) și formularul „Situația activelor imobilizate” (cod 40), cuprinse în structura prevăzută la pct. 7, respectiv 8 din anexa nr. 4 la ordin.
+2.3.
+Entitățile care la data bilanțului depășesc limitele a cel puțin două dintre următoarele trei criterii de mărime prevăzute la pct. 9 alin. (4) din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, și anume: a) totalul activelor: 17.500.000 lei;
+b) cifra de afaceri netă: 35.000.000 lei;
+c) numărul mediu de salariați în cursul exercițiului financiar: 50, precum și entitățile de interes public întocmesc situații financiare anuale care cuprind: 1. bilanț (cod 10), în structura prevăzută la pct. 598 din reglementările contabile;
+2. cont de profit și pierdere (cod 20) în structura prevăzută la pct. 600 din reglementările contabile;
+3. situația modificărilor capitalului propriu;
+4. situația fluxurilor de trezorerie;
+5. notele explicative la situațiile financiare anuale. Acestea vor fi însoțite de formularul „Date informative” (cod 30) și formularul „Situația activelor imobilizate” (cod 40), cuprinse în structura prevăzută la pct. 7, respectiv 8 din anexa nr. 4 la ordin.
+2.4.
+În vederea raportării unitare a informațiilor, bilanțul/bilanțul prescurtat va purta simbolul „cod 10”, iar contul de profit și pierdere/contul prescurtat de profit și pierdere, simbolul „cod 20”.
+2.5.
+În cazul entităților nou-înființate, acestea pot întocmi pentru primul exercițiu financiar de raportare situații financiare anuale prevăzute fie la pct. 20, fie la pct. 21 din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+2.6.
+(1)
+Pentru exercițiul financiar al anului 2017, entitățile întocmesc situații financiare anuale corespunzător categoriei în care se încadrează, potrivit pct. 9 din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+(2)
+Pentru întocmirea situațiilor financiare anuale la 31 decembrie 2017, încadrarea în criteriile de mărime prevăzute la pct. 2.1, 2.2 sau 2.3, după caz, se efectuează la sfârșitul exercițiului financiar, pe baza indicatorilor determinați din situațiile financiare anuale aferente exercițiului financiar precedent și a indicatorilor determinați pe baza datelor din contabilitate și a balanței de verificare încheiate la finele exercițiului financiar curent. Entitățile care au ales un exercițiu financiar diferit de anul calendaristic determină criteriile respective pe baza indicatorilor determinați din situațiile financiare anuale aferente exercițiului financiar precedent și a indicatorilor determinați pe baza datelor din contabilitate și a balanței de verificare întocmite la finele exercițiului financiar astfel ales și care se încheie la o dată ulterioară datei de 1 ianuarie 2018.
+(3)
+Entitățile mijlocii și mari, precum și entitățile de interes public întocmesc situații financiare anuale în structura prevăzută la pct. 21 din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare. Respectivele situații financiare anuale fac obiectul auditului statutar.
+(4)
+Sunt supuse, de asemenea, auditului entitățile care, la data bilanțului, depășesc limitele a cel puțin două dintre următoarele trei criterii: a) totalul activelor: 16.000.000 lei;
+b) cifra de afaceri netă: 32.000.000 lei;
+c) numărul mediu de salariați în cursul exercițiului financiar: 50. Obligația de auditare pentru entitățile prevăzute la prezentul alineat se aplică atunci când acestea depășesc limitele respective în două exerciții financiare consecutive.
+(5)
+Entitățile care au ales un exercițiu financiar diferit de anul calendaristic determină criteriile prevăzute la alin. (4) pe baza indicatorilor determinați din situațiile financiare anuale aferente exercițiului financiar precedent și a indicatorilor determinați pe baza datelor din contabilitate și a balanței de verificare întocmite la finele exercițiului financiar astfel ales și care se încheie la o dată ulterioară datei de 1 ianuarie 2018.
+2.7.
+(1)
+Prevederile de mai sus referitoare la situațiile financiare anuale se aplică și subunităților fără personalitate juridică din România, care aparțin unor persoane juridice cu sediul în străinătate, cu excepția subunităților deschise în România de societăți rezidente în state aparținând Spațiului Economic European.
+(2)
+În cazul subunităților fără personalitate juridică din România, care aparțin unor persoane juridice cu sediul în străinătate, în scopul întocmirii situațiilor financiare anuale, soldul conturilor 481 „Decontări între unitate și subunități” și 482 „Decontări între subunități” se transferă în contul 461 „Debitori diverși”/analitic distinct sau 462 „Creditori diverși”/analitic distinct, după caz, urmând ca, la începutul exercițiului financiar următor, să se repună în conturile din care au provenit.
+(3)
+În situația în care persoana juridică cu sediul în străinătate își desfășoară activitatea în România prin mai multe sedii permanente, situațiile financiare anuale se întocmesc de sediul permanent desemnat să îndeplinească obligațiile fiscale, acestea reflectând activitatea tuturor sediilor permanente. În acest scop, sediul permanent desemnat procedează la însumarea informațiilor corespunzătoare activității desfășurate de fiecare sediu permanent.
+2.8.
+Notele explicative cuprinse în cap. 6 „Note explicative la situațiile financiare anuale” din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, nu sunt limitative, acestea urmând să conțină cel puțin informațiile cerute de capitolul respectiv.
+2.9.
+(1)
+Entitățile înscriu în formularul „Contul de profit și pierdere”, la rândul 23 „Salarii și indemnizații”, respectiv în formularul „Contul prescurtat de profit și pierdere”, la rândul 04, toate cheltuielile reprezentând drepturi salariale.
+(2)
+La rândul 37 din formularul „Date informative” (cod 30) se cuprinde contravaloarea tichetelor acordate, potrivit legii.
+B.
+Pentru entitățile cărora le sunt incidente Reglementările contabile conforme cu Standardele Internaționale de Raportare Financiară, aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016 (societățile ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată), cu modificările și completările ulterioare 2.10.
+Entitățile prevăzute la art. 4 din ordin întocmesc și publică, conform prevederilor art. 3 din Ordinul viceprim-ministrului, ministrul finanțelor publice, nr. 881/2012 privind aplicarea de către societățile comerciale ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată a Standardelor Internaționale de Raportare Financiară, cu modificările ulterioare, situații financiare anuale individuale întocmite în baza Standardelor Internaționale de Raportare Financiară (IFRS).
+2.11.
+(1)
+Efectuarea retratării, înregistrarea în contabilitate a rezultatelor acesteia, întocmirea balanței de verificare și a situațiilor financiare anuale, respectiv a raportării contabile anuale de către societățile ale căror valori mobiliare au fost admise la tranzacționare în cursul exercițiului financiar 2017 se efectuează conform prevederilor Ordinului ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+(2)
+Pentru înregistrarea în contabilitate a rezultatelor retratării se folosesc conturile cuprinse în Planul de conturi prevăzut la punctul 196 din Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+(3)
+Pentru exercițiul financiar al anului 2017, societățile ale căror valori mobiliare au fost admise la tranzacționare în cursul exercițiului financiar 2017 întocmesc situațiile financiare anuale individuale în baza IFRS prin retratarea informațiilor din contabilitatea organizată în baza Reglementărilor contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare. În acest scop, pentru data de 31 decembrie 2017 se procedează la întocmirea balanței de verificare cuprinzând informații determinate în baza Reglementărilor contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, se efectuează și se înregistrează în contabilitate operațiunile de retratare și se obține balanța de verificare cuprinzând informații determinate potrivit prevederilor IFRS.
+(4)
+Balanța de verificare cuprinzând informații determinate prin retratare potrivit prevederilor IFRS stă la baza întocmirii situațiilor financiare anuale, precum și a raportării contabile prevăzute la art. 14 alin. (2) din Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+(5)
+Elementele raportate prin situațiile financiare anuale, respectiv raportările contabile anuale întocmite de societățile prevăzute la alin. (1), se determină pe baza prevederilor cuprinse în Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+2.12.
+(1)
+Entitățile prevăzute la pct. 2.10 au obligația să depună situații financiare anuale la unitățile teritoriale ale Ministerului Finanțelor Publice, însoțite de documentele prevăzute de lege. Potrivit prevederilor art. 28 alin. (3) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, pentru persoanele juridice care aplică Standardele Internaționale de Raportare Financiară (IFRS), situațiile financiare au componentele prevăzute de aceste standarde.
+(2)
+Odată cu documentele prevăzute la alin. (1), entitățile prevăzute la pct. 2.11 depun și o situație cuprinzând rezultatele retratării, în baza IFRS, a informațiilor din contabilitatea organizată în baza Reglementărilor contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate, aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+(3)
+Situația menționată la alin. (2) se depune în formatul prevăzut în anexa nr. 2 la Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+2.13.
+Situațiile financiare anuale se auditează potrivit legii.
+2.14.
+În vederea depunerii situațiilor financiare anuale, societățile menționate la pct. 2.10 folosesc programul de asistență pus la dispoziție gratuit de către Ministerul Finanțelor Publice pe site-ul Agenției Naționale de Administrare Fiscală, prin care se generează un fișier de tip PDF, având atașat un fișier xml, care conține datele de identificare a societății, precum și un fișier cu extensia zip. Fișierul cu extensia zip va conține situațiile financiare anuale și documentele cerute de lege, așa cum acestea sunt întocmite de societăți și scanate, alb-negru, lizibil și cu o rezoluție care să permită încadrarea în limita a 9,5 MB a fișierului PDF la care este atașat fișierul zip.
+III.
+Termenul de depunere a situațiilor financiare anuale la unitățile teritoriale ale Ministerului Finanțelor Publice 3.1.
+(1)
+Termenele pentru depunerea situațiilor financiare anuale la unitățile teritoriale ale Ministerului Finanțelor Publice sunt următoarele: a) pentru societățile, societățile/companiile naționale, regiile autonome, institutele naționale de cercetare-dezvoltare, 150 de zile de la încheierea exercițiului financiar;
+b) pentru celelalte persoane prevăzute la art. 1 alin. (1)-(3) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, 120 de zile de la încheierea exercițiului financiar.
+(2)
+Cu excepția subunităților deschise în România de societăți rezidente în state aparținând Spațiului Economic European, subunitățile din România, care aparțin unor persoane juridice cu sediul sau domiciliul în străinătate, depun situații financiare anuale la unitățile teritoriale ale Ministerului Finanțelor Publice în termen de 150 de zile de la încheierea exercițiului financiar. Același termen se aplică și pentru depunerea situațiilor financiare anuale întocmite de sediile permanente prevăzute la art. 7 din ordin. Sediile permanente desemnate depun situațiile financiare anuale la unitatea teritorială unde acestea sunt înregistrate.
+3.2.
+(1)
+Entitățile vor depune, potrivit legii, la unitățile teritoriale ale Ministerului Finanțelor Publice situații financiare anuale întocmite cu ajutorul programului de asistență elaborat de Ministerul Finanțelor Publice.
+(2)
+Situațiile financiare anuale întocmite de către entitățile al căror exercițiu financiar coincide cu anul calendaristic, cu excepția situațiilor financiare anuale întocmite de societățile ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată, vor fi însoțite de formularul „Date informative” (cod 30) și formularul „Situația activelor imobilizate” (cod 40), cuprinse în anexa nr. 4 la ordin.
+3.3.
+(1)
+Entitățile care nu au desfășurat activitate de la constituire până la sfârșitul exercițiului financiar de raportare nu întocmesc situații financiare anuale, urmând să depună în acest sens la unitățile teritoriale ale Ministerului Finanțelor Publice o declarație pe propria răspundere a persoanei care are obligația gestionării entității.
+(2)
+Persoanele care optează pentru un exercițiu financiar diferit de anul calendaristic, potrivit art. 27 alin. (3) și (5) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, au obligația să înștiințeze în scris unitatea teritorială a Ministerului Finanțelor Publice despre exercițiul financiar ales.
+(3)
+Declarația prevăzută la alin. (1) și înștiințarea prevăzută la alin. (2) se vor depune în format electronic. În vederea depunerii declarației de inactivitate și a înștiințării menționate în formă electronică, având atașată o semnătură electronică extinsă, sau numai în format hârtie și în format electronic, entitățile folosesc programul de asistență pus la dispoziție gratuit de către Ministerul Finanțelor Publice pe site-ul Agenției Naționale de Administrare Fiscală.
+(4)
+Declarația prevăzută la alin. (1) și înștiințarea prevăzută la alin. (2) vor cuprinde toate datele de identificare a entității: - denumirea completă (conform certificatului de înmatriculare);
+- adresa și numărul de telefon;
+- numărul de înregistrare la registrul comerțului;
+- codul unic de înregistrare;
+- capitalul social.
+(5)
+Depunerea la unitățile teritoriale ale Ministerului Finanțelor Publice a declarației menționate la alin. (1) se efectuează în termen de 60 de zile de la încheierea exercițiului financiar.
+(6)
+Depunerea la unitățile teritoriale ale Ministerului Finanțelor Publice a înștiințării menționate la alin. (2) se efectuează cu cel puțin 30 de zile calendaristice înainte de începutul exercițiului financiar ales sau în termen de 30 de zile calendaristice de la data înființării pentru persoanele nou-înființate care optează pentru un exercițiu financiar diferit de anul calendaristic de la data înființării acestora.
+(7)
+Prevederile alin. (1)-(6) se aplică în mod corespunzător și subunităților fără personalitate juridică din România, care aparțin unor persoane juridice cu sediul în străinătate, de către fiecare asemenea subunitate.
+3.4.
+Nedepunerea situațiilor financiare anuale la 31 decembrie, a declarației sau a înștiințării, după caz, menționate la pct. 3.1 și 3.3 se sancționează conform prevederilor art. 42 din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare.
+3.5.
+(1)
+Potrivit art. 29 și 30 din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, situațiile financiare anuale vor fi însoțite de raportul administratorilor, raportul de audit sau raportul comisiei de cenzori, după caz, și de propunerea de distribuire a profitului sau de acoperire a pierderii contabile.
+(2)
+Entitățile active în industria extractivă sau în sectorul exploatării pădurilor primare obligate, potrivit reglementărilor contabile aplicabile, să întocmească și să publice anual un raport asupra plăților către guverne depun acel raport la unitățile teritoriale ale Ministerului Finanțelor Publice, odată cu situațiile financiare anuale.
+(3)
+Situațiile financiare anuale vor fi însoțite de o declarație scrisă a persoanelor prevăzute la art. 10 alin. (1) din Legea nr. 82/1991, republicată, cu modificările și completările ulterioare, prin care își asumă răspunderea pentru întocmirea situațiilor financiare anuale și confirmă că: a) politicile contabile utilizate la întocmirea situațiilor financiare anuale sunt în conformitate cu reglementările contabile aplicabile;
+b) situațiile financiare anuale oferă o imagine fidelă a poziției financiare, performanței financiare și a celorlalte informații referitoare la activitatea desfășurată;
+c) persoana juridică își desfășoară activitatea în condiții de continuitate.
+IV.
+Completarea situațiilor financiare anuale A.
+Completarea situațiilor financiare anuale de către entitățile ale căror valori mobiliare nu sunt admise la tranzacționare pe o piață reglementată se efectuează folosinduse Planul de conturi general prevăzut la cap. 14 din Reglementările contabile privind situațiile financiare anuale individuale și situațiile financiare anuale consolidate, aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare.
+B.
+Completarea situațiilor financiare anuale de către societățile ale căror valori mobiliare sunt admise la tranzacționare pe o piață reglementată se efectuează folosinduse Planul de conturi prevăzut la cap. 10 din Reglementările contabile conforme cu Standardele Internaționale de Raportare Financiară, aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare.
+V.
+Nomenclator - forme de proprietate
+Codul
+Denumirea 10
+PROPRIETATE INTEGRALĂ DE STAT 11
+Regii autonome 12
+Societăți cu capital integral de stat 13
+Institute naționale de cercetare-dezvoltare 14
+Companii și societăți naționale^3 15
+Societăți reprezentând filiale ale unor societăți cu capital integral de stat și societăți la care una sau mai multe societăți cu capital integral de stat dețin capitalul social 16
+Alte unități economice de stat netransformate în societăți sau regii autonome 20
+PROPRIETATE MIXTĂ^4 (cu capital de stat și privat - sub 50%, 50% și peste 50%)
+PROPRIETATE MIXTĂ (cu capital de stat - sub 50%) 21
+Societăți cu capital de stat autohton și de stat străin 22
+Societăți cu capital de stat și privat autohton și străin 23
+Societăți cu capital de stat și privat autohton 24
+Societăți cu capital de stat și privat străin
+PROPRIETATE MIXTĂ (cu capital de stat - 50% și peste 50%) 25
+Societăți cu capital de stat autohton și de stat străin 26
+Societăți cu capital de stat și privat autohton și străin 27
+Societăți cu capital de stat și privat autohton 28
+Societăți cu capital de stat și privat străin 29
+Societăți reprezentând filiale ale unor societăți cu capital de stat de peste 50% inclusiv și societăți la care una sau mai multe societăți cu capital de stat de peste 50% inclusiv dețin între 50% și 100% din capitalul social al acestora 30
+PROPRIETATE INDIVIDUALĂ - PRIVATĂ (cu capital: privat autohton, privat autohton și străin, privat străin, societăți agricole) 31
+Societăți în nume colectiv 32
+Societăți în comandită simplă 33
+Societăți în comandită pe acțiuni 34
+Societăți pe acțiuni 35
+Societăți cu răspundere limitată 36
+Societăți agricole 37
+Societăți cu capital de stat, privatizate în cursul anului curent 40
+PROPRIETATE COOPERATISTĂ 41
+Cooperative de consum 42
+Cooperative meșteșugărești 43
+Cooperative și asociații agricole netransformate 44
+Cooperative de credit 50
+PROPRIETATE OBȘTEASCĂ (societăți aparținând organizațiilor și instituțiilor politice și obștești)
+Notă...
+^3 La codul 14 se înscriu doar acele companii și societăți naționale care au capital integral de stat. ^4 La proprietatea mixtă se înscriu și acele companii și societăți naționale al căror capital nu este integral de stat.
+VI.
+Formatul electronic al situațiilor financiare anuale 6.1.
+(1)
+Formatul electronic al situațiilor financiare anuale întocmite de entitățile cărora le sunt incidente Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 1.802/2014, cu modificările și completările ulterioare, conținând formularistica necesară și programul de verificare cu documentația de utilizare aferentă, se obține prin folosirea programului de asistență elaborat de Ministerul Finanțelor Publice.
+(2)
+Programul de asistență este pus la dispoziția entităților, gratuit, de unitățile teritoriale ale Ministerului Finanțelor Publice sau poate fi descărcat de pe portalul Agenției Naționale pentru Administrare Fiscală, de la adresa www.anaf.ro
+(3)
+Formatul electronic al situațiilor financiare anuale, generat prin programele de asistență, constă într-un fișier PDF având atașat un fișier xml și un fișier cu extensia zip. Fișierul cu extensia zip va conține documentele cerute de lege scanate alb-negru, lizibil, și cu o rezoluție care să permită încadrarea în limita a 9,5 MB a fișierului PDF la care este atașat fișierul zip.
+6.2.
+În vederea depunerii situațiilor financiare anuale în format hârtie și în format electronic sau numai în formă electronică, având atașată o semnătură electronică extinsă, societățile care aplică Reglementările contabile aprobate prin Ordinul ministrului finanțelor publice nr. 2.844/2016, cu modificările și completările ulterioare, precum și entitățile prevăzute la pct. 6.1, al căror exercițiu financiar este diferit de anul calendaristic, folosesc programul de asistență pus la dispoziție gratuit de către Ministerul Finanțelor Publice pe siteul Agenției Naționale de Administrare Fiscală, prin care se generează un fișier de tip PDF, având atașat un fișier xml, care conține datele de identificare a entității, precum și un fișier cu extensia zip. Fișierul cu extensia zip va conține situațiile financiare anuale și documentele cerute de lege, așa cum acestea sunt întocmite de entități și scanate, alb-negru, lizibil și cu o rezoluție care sǎ permitǎ încadrarea în limita a 9,5 MB a fișierului PDF la care este atașat fișierul zip.
