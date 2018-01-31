@@ -1,0 +1,11 @@
+Consiliul Local al municipiului Husi,judetul Vaslui ;
+Avand in vedere :
+• expunerea de motive privind aprobarea cuantumului tarifelor utilizate de S.C. PARCURI VERZI S.R.L. –HUSI pentru prestarea serviciilor de amenajarea , intretinerea si infrumusetarea spatiilor verzi utilizate pe raza municipiului Husi incepand cu data de
+01.02.2018 ;
+• raportul de avizare al Comisiei juridice și de disciplină, pentru administrație publică locală, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenești ;
+• raportul de avizare al Comisiei de studii, prognoze și programe economico-sociale, buget, finanțe, privatizare, servicii publice și comerț;
+In conformitate cu prevederile Legii serviciilor comunitare de utilitati
+publice nr.51/2006 republicata , Hotararea de Guvern nr. 846 din 29 11 2017 pentru stabilirea salariului de baza minim brut pe tara garantat in plata , Ordonanta de Urgenta a Guvernului nr.79/2017 pentru modificarea si completarea Legii nr. 227/2015 privind Codul fiscal si cu prevederile art.36 alin.(2) lit .d) coroborat cu art.36 alin.(6) lit.a) pct.14 din Legea nr.
+215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+In temeiul art. 45 alin (2) din Legea nr. 215/2001 privind administratia publica locala, republicata, cu modificarile si completarile ulterioare;
+HOTARASTE:
