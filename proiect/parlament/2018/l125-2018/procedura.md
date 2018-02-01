@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2017-09-25: registered at the Chamber of Deputies
+- 2018-02-01: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2018-02-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L125CR.PDF
