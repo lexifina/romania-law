@@ -1,0 +1,390 @@
+{
+ "key": "dcc-703-2017",
+ "label": "Decizia CCR nr. 703/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "703",
+ "date": "2017-11-09",
+ "year": "2017",
+ "heading": "DECIZIA nr. 703 din 9 noiembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 494 alin. 3 teza a doua din Codul civil din 1864",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "106",
+  "bis": false,
+  "date": "2018-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.964/189/2010",
+  "631D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 494 alin. 3 teza a doua din Codul civil din 1864, excepție ridicată de Teofil Bolea în Dosarul nr. 5.964/189/2010 al Tribunalului Vaslui - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vaslui - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "1169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1178",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1195",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197463",
+  "text_sha256": "8a1221d0ce9a66fb17922f71f62e7437d489c8e0ad0fb3f0f0269c17c9223da3",
+  "catalogue_sha256": "8a1221d0ce9a66fb17922f71f62e7437d489c8e0ad0fb3f0f0269c17c9223da3",
+  "fetched": "2026-11-03T03:12:36Z",
+  "chars": 13041,
+  "portal_id": "197463",
+  "tip": "DECIZIE"
+ }
+}
