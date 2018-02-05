@@ -1,0 +1,165 @@
+{
+ "key": "iccj-hp-91-2017",
+ "label": "Decizia ÎCCJ nr. 91/2017 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "91",
+ "date": "2017-12-04",
+ "year": "2017",
+ "heading": "DECIZIA nr. 91 din 4 decembrie 2017",
+ "subtitle": "referitoare la aplicarea și interpretarea dispozițiilor art. 1.658 alin. (3) din Codul civil și art. 1.743 alin. (1) teza a doua din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2018-02-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.091/1/2017",
+  "5.198/231/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1658",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1743",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vrancea - Secția I civilă, în Dosarul nr. 5.198/231/2015, privind pronunțarea unei hotărâri prealabile referitoare la: 1. aplicarea și interpretarea dispozițiilor art. 1.743 alin. (1) teza a doua din Codul civil, în sensul dacă reducerea corespunzătoare a prețului la care se referă dispozițiile legale: poate fi cerută și obținută de cumpărător în situația în care prețul convenit privește două imobile distincte, două suprafețe de teren de categorii diferite, fără o indicare a prețului pe unitate de măsură; poate fi cerută și obținută, în situația bunurilor imobile determinate, în care prețul este unul global pentru două imobile distincte, iar vânzarea se referă la unul dintre acestea (cererea de perfectare);",
+  "2. interpretarea și aplicarea dispozițiilor art. 1.658 alin. (3) din Codul civil, în sensul dacă aceste dispoziții sunt incidente și în situația bunurilor imobile determinate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1743",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1658",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1746",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1745",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1744",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1333",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-02-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197479",
+  "text_sha256": "1cee0f65c15aa3a2c856109638ead30158dd869e6578ddd503810c5a0f83d6cf",
+  "catalogue_sha256": "1cee0f65c15aa3a2c856109638ead30158dd869e6578ddd503810c5a0f83d6cf",
+  "fetched": "2026-11-03T03:12:32Z",
+  "chars": 36142,
+  "portal_id": "197479",
+  "tip": "DECIZIE"
+ }
+}
