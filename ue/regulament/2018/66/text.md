@@ -1,0 +1,51 @@
+REGULAMENTUL DELEGAT (UE) 2018/66 AL COMISIEI
+din 29 septembrie 2017
+de completare a Regulamentului (UE) 2016/1011 al Parlamentului European și al Consiliului privind precizarea modului în care trebuie evaluate cuantumul nominal al instrumentelor financiare, altele decât instrumentele financiare derivate, cuantumul noțional al instrumentelor financiare derivate și valoarea netă a activelor fondurilor de investiții
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/1011 al Parlamentului European și al Consiliului din 8 iunie 2016 privind indicii utilizați ca indici de referință în cadrul instrumentelor financiare și al contractelor financiare sau pentru a măsura performanțele fondurilor de investiții și de modificare a Directivelor 2008/48/CE și 2014/17/UE și a Regulamentului (UE) nr. 596/2014 (1), în special articolul 20 alineatul (6) litera (a),
+întrucât:
+(1) Valoarea totală a instrumentelor financiare, a contractelor financiare sau a fondurilor de investiții care se raportează la un indice de referință este un criteriu esențial pentru clasificarea acestui indice de referință, în conformitate cu Regulamentul (UE) 2016/1011, ca fiind critic, semnificativ sau nesemnificativ. Prin urmare, este necesar ca cuantumul nominal al instrumentelor financiare, altele decât instrumentele financiare derivate, cuantumul noțional al instrumentelor financiare derivate și valoarea netă a activelor fondurilor de investiții să se calculeze în același mod pe întreg teritoriul Uniunii, astfel încât să se asigure o clasificare consecventă a indicilor de referință în statele membre și o aplicare uniformă a Regulamentului (UE) 2016/1011.
+(2) Prin urmare, pentru a se asigura fiabilitatea indicilor de referință, cuantumul nominal al instrumentelor financiare, cuantumul noțional al instrumentelor financiare derivate și valoarea netă a activelor fondurilor de investiții ar trebui să se calculeze pe baza datelor de reglementare, în cazul în care acestea sunt disponibile.
+(3) Valoarea totală a instrumentelor financiare, a contractelor financiare sau a fondurilor de investiții ar trebui să se calculeze ținând seama atât de raportările directe la respectivele instrumente financiare, contracte financiare și fonduri de investiții, cât și de raportările indirecte la un indice de referință din cadrul unei combinații de indici de referință. În cazul în care un instrument financiar, un contract financiar sau un fond de investiții se raportează la mai mulți indici de referință, este oportun să se țină cont de această raportare multiplă la calcularea valorii totale a instrumentelor financiare, a contractelor financiare și a fondurilor de investiții care se raportează la un indice de referință, întrucât aceste produse financiare nu depind exclusiv de indicele de referință respectiv. Prin urmare, trebuie să se precizeze modul de calcul al valorii totale în cazul raportărilor indirecte, astfel încât să fie direct aplicabil și să se măsoare în mod consecvent în cadrul Uniunii,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Cuantumul nominal al instrumentelor financiare, altele decât instrumentele financiare derivate și titlurile de participare la organisme de plasament colectiv
+Cuantumul nominal al instrumentelor financiare, altele decât instrumentele financiare derivate și titlurile de participare în organisme de plasament colectiv, este valoarea nominală totală emisă, exprimată în valoare monetară, menționată în tabelul 3, rubrica 14 din anexa la Regulamentul delegat (UE) 2017/585 al Comisiei (2).
+Articolul 2
+Valoarea noțională a instrumentelor financiare derivate
+Valoarea noțională a instrumentelor financiare derivate, menționată la articolul 20 alineatul (6) litera (a) din Regulamentul (UE) 2016/1011 este valoarea noțională menționată în tabelul 2, rubrica 20 din anexa la Regulamentul delegat (UE) 2017/104 al Comisiei (3). Cu toate acestea, atunci când valoarea noțională este negativă, valoarea noțională este egală cu valoarea absolută.
+În cazul tranzacțiilor cu indici de instrumente derivate de credit, la valoarea noțională se aplică un factor de indexare preluat din tabelul 2, rubrica 89 din anexa la Regulamentul delegat (UE) 2017/104.
+Articolul 3
+Valoarea netă a activelor organismelor de plasament colectiv
+Valoarea netă a activelor organismelor de plasament colectiv menționată la articolul 20 alineatul (6) litera (a) din Regulamentul (UE) 2016/1011 este una dintre următoarele:
+(a) pentru organismele de plasament colectiv care intră sub incidența Directivei 2009/65/UE a Parlamentului European și a Consiliului (4): valoarea unitară a activului net corespunzătoare unui titlu de participare raportată în cel mai recent raport anual sau semestrial menționat la articolul 68 alineatul (2) din directiva respectivă, înmulțită cu numărul de unități;
+(b) pentru organismele de plasament colectiv care intră sub incidența Directivei 2011/61/UE a Parlamentului European și a Consiliului (5): cea mai recentă valoare a activelor nete menționate la articolul 104 alineatul (1) litera (c) din Regulamentul delegat (UE) nr. 231/2013 al Comisiei (6).
+Articolul 4
+Utilizarea unor cuantumuri și valori alternative
+În cazul în care cuantumurile sau valorile pentru calcularea valorii totale a instrumentelor financiare, a contractelor financiare sau a fondurilor de investiții care se raportează la indicele de referință menționate la articolele 1, 2 și 3 nu sunt disponibile sau sunt incomplete, valoarea totală menționată la articolul 20 alineatul (1) litera (a) din Regulamentul (UE) 2016/1011 și valoarea medie totală menționată la articolul 24 alineatul (1) litera (a) din respectivul regulament se calculează utilizând cuantumuri sau valori alternative, inclusiv substituenți și cuantumuri sau valori raportate de furnizori de informații privați sau date privind totalul pozițiilor deschise calculate și publicate de operatorii de pe piață, cu condiția ca respectivii substituenți și respectivele cuantumuri sau valori să aibă o reputație suficient de bună și să fie suficient de fiabile.
+Un administrator care utilizează cuantumuri sau date alternative calculează cuantumul total cât mai bine cu putință, în măsura posibilităților, pe baza datelor disponibile.
+Un administrator care utilizează cuantumuri sau date alternative furnizează autorității competente o precizare scrisă a surselor de date folosite atunci când informează autoritatea competentă respectivă în conformitate cu articolul 24 alineatul (3) din Regulamentul (UE) 2016/1011.
+Articolul 5
+Moneda
+Cuantumurile și valorile menționate la articolele 1, 2 și 3 sunt exprimate în EUR. În cazul în care este necesar, cuantumurile sau valorile sunt convertite la cursul de schimb zilnic de referință al euro publicat de Banca Centrală Europeană.
+Articolul 6
+Raportare indirectă la un indice de referință din cadrul unei combinații de indici de referință
+În cazul în care un indice de referință este utilizat indirect în cadrul unei combinații de indici de referință, cuantumurile sau valorile în sensul pragurilor menționate la articolul 20 alineatul (1) și la articolul 24 alineatul (1) litera (a) din Regulamentul (UE) 2016/1011 sunt fie:
+(a) ponderea indicelui de referință, exprimată în procente, în cadrul combinației de indici de referință, înmulțită cu cuantumul total, cu valoarea totală sau cu valoarea medie, după caz, a instrumentului financiar sau a fondului de investiții în cauză, în cazul în care ponderea este precizată în mod clar sau poate fi estimată pe baza altor informații disponibile; fie
+(b) cuantumul total, valoarea totală sau valoarea medie, după caz, a instrumentului financiar sau a fondului de investiții în cauză, împărțit(ă) la numărul de indici de referință din cadrul combinației de indici de referință, în cazul în care ponderea efectivă a indicelui de referință nu este precizată sau nu poate fi estimată.
+Articolul 7
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 29 septembrie 2017.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 171, 29.6.2016, p. 1.
+(2) Regulamentul delegat (UE) 2017/585 al Comisiei din 14 iulie 2016 de completare a Regulamentului (UE) nr. 600/2014 al Parlamentului European și al Consiliului în ceea ce privește standardele tehnice de reglementare pentru standardele în materie de date și formatele aplicabile datelor de referință privind instrumentele financiare și pentru măsurile tehnice necesare în legătură cu modalitățile care trebuie stabilite de Autoritatea Europeană pentru Valori Mobiliare și Piețe și de autoritățile competente (JO L 87, 31.3.2017, p. 368).
+(3) Regulamentul delegat (UE) 2017/104 al Comisiei din 19 octombrie 2016 de modificare a Regulamentului delegat (UE) nr. 148/2013 al Comisiei de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții în ceea ce privește standardele tehnice de reglementare privind detaliile minime ale datelor care trebuie raportate registrelor centrale de tranzacții (JO L 17, 21.1.2017, p. 1).
+(4) Directiva 2009/65/CE a Parlamentului European și a Consiliului din 13 iulie 2009 de coordonare a actelor cu putere de lege și a actelor administrative privind organismele de plasament colectiv în valori mobiliare (OPCVM) (JO L 302, 17.11.2009, p. 32).
+(5) Directiva 2011/61/UE a Parlamentului European și a Consiliului din 8 iunie 2011 privind administratorii fondurilor de investiții alternative și de modificare a Directivelor 2003/41/CE și 2009/65/CE și a Regulamentelor (CE) nr. 1060/2009 și (UE) nr. 1095/2010 (JO L 174, 1.7.2011, p. 1).
+(6) Regulamentul delegat (UE) nr. 231/2013 al Comisiei din 19 decembrie 2012 de completare a Directivei 2011/61/UE a Parlamentului European și a Consiliului în ceea ce privește derogările, condițiile generale de operare, depozitarii, efectul de levier, transparența și supravegherea (JO L 83, 22.3.2013, p. 1).
