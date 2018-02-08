@@ -1,0 +1,209 @@
+{
+ "key": "dcc-642-2017",
+ "label": "Decizia CCR nr. 642/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "642",
+ "date": "2017-10-17",
+ "year": "2017",
+ "heading": "DECIZIA nr. 642 din 17 octombrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 348 alin. (2) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "125",
+  "bis": false,
+  "date": "2018-02-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "21.928/325/2016/a1",
+  "2.804D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 348 alin. (2) din Codul de procedură penală, cu privire la sintagma „sau, după caz, judecătorul de cameră preliminară de la instanța ierarhic superioară ori completul competent de la Înalta Curte de Casație și Justiție, învestit cu soluționarea contestației“ din cuprinsul acestora, excepție ridicată de Adrian Vlad în Dosarul nr. 21.928/325/2016/a1 al Tribunalului Timiș - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/2016",
+    "number": "75",
+    "year": "2016",
+    "path": "lege/2016/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197563",
+  "text_sha256": "a730678d4ab356cc3de55dd879fe09880ed6efe3cc362362cf7a89b42940e7c4",
+  "catalogue_sha256": "a730678d4ab356cc3de55dd879fe09880ed6efe3cc362362cf7a89b42940e7c4",
+  "fetched": "2026-11-03T18:51:31Z",
+  "chars": 10971,
+  "portal_id": "197563",
+  "tip": "DECIZIE"
+ }
+}
