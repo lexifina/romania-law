@@ -1,0 +1,49 @@
+REGULAMENTUL (UE) 2018/79 AL COMISIEI
+din 18 ianuarie 2018
+de modificare a Regulamentului (UE) nr. 10/2011 privind materialele și obiectele din plastic destinate să vină în contact cu produsele alimentare
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1935/2004 al Parlamentului European și al Consiliului din 27 octombrie 2004 privind materialele și obiectele destinate să vină în contact cu produsele alimentare și de abrogare a Directivelor 80/590/CEE și 89/109/CEE (1), în special articolul 5 alineatul (1) literele (a), (d), (e), (h) și (i), articolul 11 alineatul (3) și articolul 12 alineatul (6),
+întrucât:
+(1) Regulamentul (UE) nr. 10/2011 al Comisiei (2) („regulamentul”) stabilește o listă a Uniunii cuprinzând substanțele autorizate care pot fi utilizate în materialele și obiectele din plastic destinate să vină în contact cu alimente.
+(2) De la cea mai recentă modificare a Regulamentului (UE) nr. 10/2011, Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a publicat noi avize științifice referitoare la anumite substanțe care pot fi utilizate în materialele care vin în contact cu alimente (MCA), precum și la utilizarea permisă a substanțelor deja autorizate. Pentru a se asigura faptul că Regulamentul (UE) nr. 10/2011 reflectă cele mai recente constatări ale autorității, respectivul regulament ar trebui modificat.
+(3) Autoritatea a adoptat un aviz științific favorabil (3) cu privire la utilizarea copolimerului substanței (butadienă, stiren, metacrilat de metil, acrilat de butil) legate colateral de divinilbenzen sau de dimetacrilat de 1,3-butandiol (substanța MCA nr. 856 și nr. CAS 25101-28-4). Autoritatea a concluzionat că substanța nu reprezintă o problemă de siguranță pentru consumator în cazul în care este utilizată ca aditiv polimeric în concentrație de până la 40 % G/G în articole cu utilizare repetată formate din amestecuri de copolimer de stiren acrilonitril (SAN)/poli (metacrilat de metil) (PMMA) destinate să vină în contact, la temperatura camerei, cu alimente apoase, acide și/sau ușor alcoolice (< 20 %) timp de mai puțin de o zi și cu alimente uscate în condițiile unui timp de contact oricât de lung, incluzând depozitarea pe termen lung. Autorizația actuală a acestei substanțe ar trebui să fie extinsă pentru a include respectiva utilizare, cu condiția ca specificațiile respective să fie respectate.
+(4) Autoritatea a adoptat un aviz științific favorabil (4) cu privire la utilizarea monomerului 2,4,4′-trifluorbenzofenonă (substanța MCA nr. 1061 și nr. CAS 80512-44-3). Autoritatea a concluzionat că această substanță nu reprezintă o problemă de siguranță pentru consumator în cazul în care este utilizată ca monomer în concentrație de până la 0,3 % G/G pe baza materialului final utilizat la fabricarea materialelor plastice din polieter eter cetonă. Prin urmare, monomerul respectiv ar trebui inclus în lista Uniunii cu substanțe autorizate, cu condiția ca această specificație să fie respectată.
+(5) Autoritatea a adoptat un aviz științific favorabil (5) cu privire la utilizarea monomerului 2,3,3,4,4,5,5-heptafluor-1-pentenă (substanța MCA nr. 1063 și nr. CAS 1547-26-8). Autoritatea a concluzionat că substanța nu reprezintă o problemă de siguranță pentru consumator în cazul în care este utilizată în calitate de comonomer împreună cu tetrafluoretilena și/sau comonomerii de etilenă la fabricarea fluorcopolimerilor care sunt destinați doar să fie aplicați ca adjuvanți tehnologici polimerici în concentrație de până la 0,2 % G/G de MCA. Pentru această aplicație, fracțiunea masică cu greutate moleculară mică sub 1 500 Da în fluorcopolimer nu ar trebui să fie în concentrație mai mare de 30 mg/kg. Monomerul respectiv ar trebui inclus în lista Uniunii cu substanțe autorizate, cu condiția ca respectivele specificații să fie respectate.
+(6) Autoritatea a adoptat un aviz științific favorabil (6) cu privire la utilizarea substanței oxid de tungsten [WOn (n = 2,72 – 2,90)] (substanța MCA nr. 1064 și nr. CAS 39318-18-8). Autoritatea a concluzionat că substanța nu reprezintă o problemă de siguranță pentru consumator în cazul în care aditivul este utilizat ca agent de reîncălzire în polietilentereftalat (PET). Autoritatea a considerat că din cauza insolubilității substanței, pentru orice utilizare previzibilă ca aditiv de reîncălzire în PET este de așteptat o migrare slabă. Prin urmare, verificarea limitei de migrare nu este necesară. Pentru alte funcții tehnice sau pentru utilizarea în alți polimeri, autoritatea a concluzionat că migrarea nu ar trebui să depășească 0,05 mg/kg (exprimată ca tungsten). Substanța respectivă ar trebui inclusă în lista Uniunii cu substanțe autorizate, cu condiția ca respectivele specificații să fie respectate.
+(7) Autoritatea a adoptat un aviz științific favorabil (7) cu privire la utilizarea amestecului de alkanamide cu resturi de metil și alkanamide cu catenă liniară C14 – C18, derivate din acizi grași (substanța MCA nr. 1065 și nr. CAS 85711-28-0). Autoritatea a concluzionat că substanța nu reprezintă o problemă de siguranță pentru consumator dacă este utilizată la fabricarea de obiecte de poliolefină destinate să intre în contact cu toate alimentele cu excepția celor bogate în lipide (astfel cum sunt definite de simulantul D2) și atunci când migrarea sa nu depășește 5 mg/kg de aliment. Prin urmare, amestecul respectiv ar trebui inclus în lista Uniunii cu substanțe autorizate, cu condiția ca aceste specificații să fie respectate.
+(8) Prin urmare, anexa I la Regulamentul (UE) nr. 10/2011 ar trebui modificată în consecință.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa I la Regulamentul (UE) nr. 10/2011 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Materialele și obiectele din plastic care respectă Regulamentul (UE) nr. 10/2011, astfel cum este aplicabil înainte de intrarea în vigoare a prezentului regulament, pot fi introduse pe piață până la 8 februarie 2019 și pot rămâne pe piață până la epuizarea stocurilor.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 ianuarie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 338, 13.11.2004, p. 4.
+(2) Regulamentul (UE) nr. 10/2011 al Comisiei din 14 ianuarie 2011 privind materialele și obiectele din plastic destinate să vină în contact cu produsele alimentare (JO L 12, 15.1.2011, p. 1).
+(3) EFSA Journal 2016;14(11):4637.
+(4) EFSA Journal 2016;14(7):4532.
+(5) EFSA Journal 2016;14(10):4582.
+(6) EFSA Journal 2017;15(1):4661.
+(7) EFSA Journal 2017;15(2):4724.
+ANEXĂ
+Anexa I la Regulamentul (UE) nr. 10/2011 se modifică după cum urmează:
+1. La punctul 1, tabelul 1 se modifică după cum urmează:
+(a) rubrica referitoare la substanța MCA nr. 856 se înlocuiește cu următorul text:
+„856 | 40563 | 25101-28-4 | copolimer de (butadienă, stiren, metacrilat de metil, acrilat de butil) legat colateral de divinilbenzen sau de dimetacrilat de 1,3-butandiol | da | nu | nu | | | A se utiliza numai în: — poli(clorură de vinil) (PVC) rigidă la un nivel maxim de 12 % la temperatura camerei sau mai mică; sau — în concentrație de până la 40 % G/G în articole cu utilizare repetată formate din amestecuri de copolimer de stiren acrilonitril (SAN)/poli (metacrilat de metil) (PMMA), la temperatura camerei sau mai mică, și când există contact doar cu alimente apoase, acide și/sau ușor alcoolice (< 20 %) timp de mai puțin de 1 zi sau când există contact doar cu alimente uscate pentru o perioadă de timp oricât de lungă.”; |
+(b) următoarele rubrici se introduc în ordinea numerică a numerelor substanțelor MCA:
+„1061 | | 80512-44-3 | 2,4,4′-trifluorbenzofenonă | nu | da | nu | | | A se utiliza doar ca un comonomer la fabricarea materialelor plastice din polieter eter cetonă în concentrație de până la 0,3 % G/G din materialul finit. |
+1063 | | 1547-26-8 | 2,3,3,4,4,5,5-heptafluor-1-pentenă | nu | da | nu | | | A se utiliza numai împreună cu comonomerii de tetrafluoretilenă și/sau de etilenă la fabricarea fluorcopolimerilor pentru aplicația ca adjuvanți tehnologici polimerici la concentrații de până la 0,2 % G/G din materialele care vin în contact cu alimentele și în cazurile în care fracția masică cu greutate moleculară mică sub 1 500 Da în fluorcopolimer nu depășește concentrația de 30 mg/kg |
+1064 | | 39318-18-8 | oxid de tungsten | da | nu | nu | 0,05 | | Stoichiometrie: WOn, n = 2,72 – 2,90 | (25)
+1065 | | 85711-28-0 | amestec de alkanamide cu resturi de metil și alkanamide cu catenă liniară C14 – C18, derivate din acizi grași | da | nu | nu | 5 | | A se utiliza doar la fabricarea de articole produse din poliolefine și care nu intră în contact cu alimentele pentru care simulantul alimentar D2 este atribuit în tabelul 2 din anexa III. | (26)”.
+2. La punctul 3, în tabelul 3, se adaugă următoarele rubrici:
+„(25) | Atunci când este utilizat ca agent de reîncălzire în polietilentereftalat (PET), verificarea conformității cu limita de migrare specifică nu este necesară; în toate celelalte cazuri, conformitatea cu limita de migrare specifică se verifică în conformitate cu articolul 18; limita specifică de migrare este exprimată ca mg de tungsten/kg de aliment.
+(26) Migrarea stearamidei, menționată în tabelul 1 ca substanța MCA nr. 306, căreia nu i se aplică nicio limită de migrare specifică, este exclusă din verificarea conformității migrării amestecului, limita de migrare specifică pentru amestec fiind precizată.”
