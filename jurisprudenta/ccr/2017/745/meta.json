@@ -1,0 +1,180 @@
+{
+ "key": "dcc-745-2017",
+ "label": "Decizia CCR nr. 745/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "745",
+ "date": "2017-11-23",
+ "year": "2017",
+ "heading": "DECIZIA nr. 745 din 23 noiembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 9 lit. b) coroborate cu cele ale art. 40 alin. (3) din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "121",
+  "bis": false,
+  "date": "2018-02-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.024/1/2016",
+  "1.452D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ionuț Alexandru, Mariana Damian și Mihaela Marin în Dosarul nr. 2.024/1/2016 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că prevederile art. 9 lit. b) coroborate cu cele ale art. 40 alin. (3) din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197534",
+  "text_sha256": "68cecf0641197589ff2eff7351b6f72c0cf38694241fbc502935eafbbd24d641",
+  "catalogue_sha256": "68cecf0641197589ff2eff7351b6f72c0cf38694241fbc502935eafbbd24d641",
+  "fetched": "2026-11-03T03:12:26Z",
+  "chars": 19214,
+  "portal_id": "197534",
+  "tip": "DECIZIE"
+ }
+}
