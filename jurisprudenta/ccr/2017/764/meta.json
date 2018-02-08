@@ -1,0 +1,233 @@
+{
+ "key": "dcc-764-2017",
+ "label": "Decizia CCR nr. 764/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "764",
+ "date": "2017-11-28",
+ "year": "2017",
+ "heading": "DECIZIA nr. 764 din 28 noiembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (2) lit. c) și art. 16 alin. (2) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social, în forma anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 23/2017 pentru modificarea Legii dialogului social nr. 62/2011 și a art. 11 alin. (2) lit. c) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "124",
+  "bis": false,
+  "date": "2018-02-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "812/2/2016",
+  "1.479D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 23/2017",
+    "number": "23",
+    "year": "2017",
+    "path": "oug/2017/23"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Eugen Lucan și Asociația „Anticorupție“ în Dosarul nr. 812/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (2) lit. c) și art. 16 alin. (2) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social, în forma anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 23/2017 pentru modificarea Legii dialogului social nr. 62/2011 și a art. 11 alin. (2) lit. c) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2016",
+    "number": "30",
+    "year": "2016",
+    "path": "oug/2016/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 23/2017",
+    "number": "23",
+    "year": "2017",
+    "path": "oug/2017/23"
+   },
+   "articles": [],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197558",
+  "text_sha256": "54b4d6c113daf108de3d9ee656f4f06cec510ab365a3cbe9d17bb2ac195274fd",
+  "catalogue_sha256": "54b4d6c113daf108de3d9ee656f4f06cec510ab365a3cbe9d17bb2ac195274fd",
+  "fetched": "2026-11-03T15:48:24Z",
+  "chars": 28641,
+  "portal_id": "197558",
+  "tip": "DECIZIE"
+ }
+}
