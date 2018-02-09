@@ -1,0 +1,46 @@
+# DECIZIA nr. 746 din 23 noiembrie 2017
+referitoare la excepția de neconstituționalitate a prevederilor art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru
+Valer Dorneanu - președinte
+Marian Enache - judecător
+Petre Lăzăroiu - judecător
+Mircea Ștefan Minea - judecător
+Daniel-Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Livia Doina Stanciu - judecător
+Simona-Maya Teodoroiu - judecător
+Varga Attila - judecător
+Ingrid Alina Tudora - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Ioan Sorin Daniel Chiriazi.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a prevederilor art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru, excepție ridicată de Ion Scarlat în Dosarul nr. 3.219/226/2014/a1 al Tribunalului Brașov - Secția I civilă. Excepția formează obiectul Dosarului Curții Constituționale nr. 1.453D/2016.
+2. La apelul nominal lipsesc părțile. Procedura de citare a fost legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere, ca neîntemeiată, a excepției de neconstituționalitate. În acest sens, invocă jurisprudența în materie a Curții Constituționale concretizată, spre exemplu, prin Decizia nr. 721 din 29 octombrie 2015 și Decizia nr. 198 din 31 martie 2015.
+CURTEA, având în vedere actele și lucrările dosarului, reține următoarele:
+4. Prin Încheierea din 3 iunie 2016, pronunțată în Dosarul nr. 3.219/226/2014/a1, Tribunalul Brașov - Secția I civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru. Excepția a fost ridicată de Ion Scarlat cu prilejul soluționării unei cereri de reexaminare a taxei judiciare de timbru, formulată într-o cauză având ca obiect o contestație la executare pentru perimare.
+5. În motivarea excepției de neconstituționalitate autorul acesteia consideră că prevederile legale criticate din Ordonanța de urgență a Guvernului nr. 80/2013 contravin dispozițiilor constituționale ale art. 16 privind egalitatea în drepturi, întrucât stabilește un tratament discriminatoriu între apelanți și recurenți.
+6. Tribunalul Brașov - Secția I civilă apreciază că prevederile art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 nu contravin dispozițiilor constituționale invocate în susținerea excepției de neconstituționalitate. În acest sens, instanța de judecată învederează faptul că este atributul exclusiv al legiuitorului intervenția asupra actelor normative și reglementarea situațiilor care să corespundă nevoilor sociale existente la un moment dat.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+8. Guvernul apreciază că excepția de neconstituționalitate invocată este neîntemeiată, sens în care invocă jurisprudența în materie a Curții Constituționale, concretizată, spre exemplu, prin Decizia nr. 721 din 29 octombrie 2015. Arată, totodată, că prin reglementarea legală criticată se instituie un tratament egal între persoane aflate în aceeași situație juridică, recurenții, consacrând obligația de plată a taxelor de timbru. Prin urmare, nu se pune problema unei discriminări în cadrul aceleiași categorii de participanți la proces, dispoziția legală criticată stabilind, în mod nediscriminatoriu, obligația de plată a taxei de timbru în cazul recursului declarat împotriva hotărârilor judecătorești. Situația apelanților este, însă, diferită de cea a recurenților, legiuitorul reglementând două căi de atac distincte, în ambele situații egalitatea de șanse a celor două categorii de participanți la proces fiind respectată.
+9. Avocatul Poporului menționează că prevederile legale criticate au mai făcut obiect al controlului de constituționalitate, exemplu fiind Decizia nr. 721 din 29 octombrie 2015. În acest context, învederează faptul că își menține punctul de vedere exprimat anterior, în sensul constituționalității prevederilor art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013.
+10. Președinții celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului și Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+11. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+12. Obiectul excepției de neconstituționalitate îl constituie prevederile art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru, publicată în Monitorul Oficial al României, Partea I, nr. 392 din 29 iunie 2013, cu modificările și completările ulterioare, potrivit cărora:
+(1) Recursul împotriva hotărârilor judecătorești se taxează cu 100 lei dacă se invocă unul sau mai multe dintre motivele prevăzute la art. 488 alin. (1) pct. 1-7 din Codul de procedură civilă.
+(2) În cazul în care se invocă încălcarea sau aplicarea greșită a normelor de drept material, pentru cereri și acțiuni evaluabile în bani, recursul se taxează cu 50% din taxa datorată la suma contestată, dar nu mai puțin de 100 lei; în aceeași ipoteză, pentru cererile neevaluabile în bani, cererea de recurs se taxează cu 100 lei.
+(3) Recursul incident și recursul provocat se taxează după regulile prevăzute la alin. (1) și (2).“
+13. În opinia autorului excepției de neconstituționalitate, prevederile criticate din Ordonanța de urgență a Guvernului nr. 80/2013 contravin dispozițiilor constituționale ale art. 16 privind egalitatea în drepturi.
+14. Examinând excepția de neconstituționalitate, Curtea reține că, prin criticile formulate, autorul acesteia susține că „taxa datorată este în cuantum de 10 lei, întrucât, potrivit art. 9 lit. d) din Ordonanța de urgență a Guvernului nr. 80/2013, cererile de perimare se timbrează cu 20 de lei, iar pentru calea de atac taxa datorată este de 50% din taxa stabilită pentru judecata în fond a cererii“. Or, „în condițiile în care taxa de 100 de lei a fost stabilită, de către instanța de judecată, în temeiul art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013, aceste prevederi contravin dispozițiilor constituționale ale art. 16 privind egalitatea în drepturi, întrucât se stabilește un tratament discriminatoriu între apelanți și recurenți“.
+15. Având în vedere criticile de neconstituționalitate formulate, Curtea apreciază că acestea vizează, mai degrabă, aspecte ce țin de interpretarea legislației în materie și aplicarea acesteia, de către instanța de judecată, în cauza concretă dedusă judecății.
+16. Curtea observă, totodată, că autorul excepției de neconstituționalitate invocă existența unei situații discriminatorii între apelanți și recurenți, instituită prin reglementarea cuprinsă în art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013, fără a preciza, însă, în ce anume constă pretinsa contrarietate a textului de lege criticat cu normele constituționale invocate, limitându-se a menționa numai unele aspecte legate de împrejurările concrete ale cauzei deduse judecății.
+17. Din această perspectivă, Curtea apreciază că, prin modul general în care este formulată excepția de neconstituționalitate, nu se poate deduce care sunt, în concret, motivele pentru care autorul excepției consideră că prevederile legale criticate ar fi neconstituționale. Simpla enumerare, în susținerea excepției, a unor norme constituționale nu este de natură să satisfacă exigențele art. 10 alin. (2) din Legea nr. 47/1992, prevederi potrivit cărora „Sesizările trebuie făcute în formă scrisă și motivate“, deoarece, dacă ar proceda la examinarea excepției de neconstituționalitate motivate într-o asemenea manieră eliptică, acest fapt ar avea semnificația exercitării unui control de constituționalitate din oficiu, ceea ce este inadmisibil în raport cu dispozițiile art. 146 din Constituție.
+18. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și art. 147 alin. (4) din Constituție, precum și al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 24 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru, excepție ridicată de Ion Scarlat în Dosarul nr. 3.219/226/2014/a1 al Tribunalului Brașov - Secția I civilă.
+Definitivă și general obligatorie.
+Decizia se comunică Tribunalului Brașov - Secția I civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 23 noiembrie 2017.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Ingrid Alina Tudora
