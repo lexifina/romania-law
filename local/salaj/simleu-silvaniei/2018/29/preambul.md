@@ -1,0 +1,5 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 9 februarie 2018;
+Având în vedere Expunerea de motive nr.1941/2018 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr.1942/2018 al Direcției Economice și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultură a Consiliului Local;
+În baza prevederilor Legii nr. 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare, Legii nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, Legii nr. 350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general, cu modificările și completările ulterioare și ale art. 36 alin. 2 lit. b și d, alin. 4 lit. a, alin. 6 din Legea nr. 215/2001;
+În temeiul art. 45 alin. 2 lit. a din Legea nr. 215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
