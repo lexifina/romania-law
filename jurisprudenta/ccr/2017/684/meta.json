@@ -1,0 +1,260 @@
+{
+ "key": "dcc-684-2017",
+ "label": "Decizia CCR nr. 684/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "684",
+ "date": "2017-11-02",
+ "year": "2017",
+ "heading": "DECIZIA nr. 684 din 2 noiembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 din Legea nr. 393/2004 privind Statutul aleșilor locali",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "132",
+  "bis": false,
+  "date": "2018-02-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "533/112/2016",
+  "2.060D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Maxim Gagea și Bogdan Iclenzan în Dosarul nr. 533/112/2016 al Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 12 din Legea nr. 393/2004 privind Statutul aleșilor locali sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": [
+      "h-1"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2015",
+    "number": "115",
+    "year": "2015",
+    "path": "lege/2015/115"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2004",
+    "number": "340",
+    "year": "2004",
+    "path": "lege/2004/340"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197616",
+  "text_sha256": "1479bfc9ab5f85b61fbd9dc3418308c205177471323616468d584c2e5bce587c",
+  "catalogue_sha256": "1479bfc9ab5f85b61fbd9dc3418308c205177471323616468d584c2e5bce587c",
+  "fetched": "2026-11-03T03:12:20Z",
+  "chars": 19173,
+  "portal_id": "197616",
+  "tip": "DECIZIE"
+ }
+}
