@@ -1,0 +1,275 @@
+{
+ "key": "dcc-599-2017",
+ "label": "Decizia CCR nr. 599/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "599",
+ "date": "2017-09-28",
+ "year": "2017",
+ "heading": "DECIZIA nr. 599 din 28 septembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 296^22 și art. 296^26 din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "134",
+  "bis": false,
+  "date": "2018-02-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.432/3/2015",
+  "616D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Corina Maria Cincan în Dosarul nr. 17.432/3/2015 al Tribunalului București - Secția a II-a de contencios administrativ și fiscal și constată că prevederile art. 296^22 și art. 296^26 din Legea nr. 571/2003 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "296-26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "296-27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-18",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "296-21",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "502",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197625",
+  "text_sha256": "05e81785d31e81fbe75d9fae61d3632e5fa36e9be51948ae7f026210792e55dd",
+  "catalogue_sha256": "05e81785d31e81fbe75d9fae61d3632e5fa36e9be51948ae7f026210792e55dd",
+  "fetched": "2026-11-03T03:12:20Z",
+  "chars": 25701,
+  "portal_id": "197625",
+  "tip": "DECIZIE"
+ }
+}
