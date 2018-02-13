@@ -1,0 +1,9 @@
+# Anexa nr. 2 la normele metodologice
+MINISTERUL SĂNĂTĂȚII
+DIRECȚIA GENERALĂ DE ASISTENȚĂ MEDICALĂ ȘI SĂNĂTATE PUBLICĂ
+ADEVERINȚĂ DE NOTIFICARE
+Nr......... din...............
+În baza Formularului de notificare înregistrat la nr...... din............. și a evaluării documentației depuse împreună cu formularul de notificare, se eliberează prezenta adeverință de notificare organizației..................., cu sediul (adresa, telefon, fax, e-mail)..................................................................., înregistrată cu nr......../data.............. la...................
+Prezenta adeverință este valabilă 2 ani de la data eliberării.
+Director general,................................
+----
