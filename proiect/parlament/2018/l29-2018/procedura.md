@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2017-11-29: documents published: Raport comisie sesizată pe fond
 - 2017-12-20: adopted by the Chamber of Deputies
 - 2017-12-27: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2018-02-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2017-12-27: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029EM.PDF
 - 2017-12-27: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029LG.PDF
 - 2017-12-27: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029HG.PDF
+- 2018-02-14: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029CA1.PDF
