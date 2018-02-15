@@ -1,0 +1,825 @@
+{
+ "key": "dcc-655-2017",
+ "label": "Decizia CCR nr. 655/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "655",
+ "date": "2017-10-17",
+ "year": "2017",
+ "heading": "DECIZIA nr. 655 din 17 octombrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 272 alin. (2) lit. a) din Legea nr. 297/2004 privind piața de capital",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "143",
+  "bis": false,
+  "date": "2018-02-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.909/2/2014",
+  "1.264D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Iaciu în Dosarul nr. 1.909/2/2014 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 272 alin. (2) lit. a) din Legea nr. 297/2004 privind piața de capital sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a",
+      "g",
+      "c"
+     ]
+    },
+    {
+     "art": "195",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": [
+      "5-1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "203",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "204",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "212",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "225",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "231",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "232",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "236",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "238",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "240",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "273-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "69",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 93/2012",
+    "number": "93",
+    "year": "2012",
+    "path": "oug/2012/93"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197879",
+  "text_sha256": "7707039faa0cdcf6c6eab15c25c41489cf97c32ba6212bd208e119889e0e6dee",
+  "catalogue_sha256": "7707039faa0cdcf6c6eab15c25c41489cf97c32ba6212bd208e119889e0e6dee",
+  "fetched": "2026-11-03T03:12:11Z",
+  "chars": 31726,
+  "portal_id": "197879",
+  "tip": "DECIZIE"
+ }
+}
