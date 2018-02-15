@@ -1,0 +1,34 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2018/129 AL COMISIEI
+din 25 ianuarie 2018
+privind autorizarea L-argininei produsă de Corynebacterium glutamicum KCCM 80099 ca aditiv în hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003 a fost depusă o cerere pentru autorizarea L-argininei produsă de Corynebacterium glutamicum KCCM 80099 ca aditiv pentru utilizare în hrana pentru animale și în apa de băut. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea privește autorizarea L-argininei produsă de Corynebacterium glutamicum KCCM 80099 ca aditiv pentru hrana tuturor speciilor de animale, în vederea clasificării în categoria „aditivi nutriționali”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizul ei din 17 mai 2017 (2) că, în condițiile de utilizare propuse, L-arginina produsă de Corynebacterium glutamicum KCCM 80099 nu are efecte adverse asupra sănătății animalelor, a sănătății consumatorilor sau asupra mediului și nu generează preocupări privind siguranța utilizatorilor, cu condiția adoptării măsurilor de protecție adecvate.
+(5) De asemenea, autoritatea a concluzionat că aditivul reprezintă o sursă eficientă de aminoacidul arginină pentru toate speciile de animale și că, pentru ca L-arginina administrată ca supliment să fie pe deplin eficace la rumegătoare, ea ar trebui să fie protejată contra degradării în rumen. În avizele sale, autoritatea și-a exprimat preocuparea cu privire la siguranța L-argininei administrate prin intermediul apei de băut. Cu toate acestea, autoritatea nu propune niciun conținut maxim pentru L-arginină. Mai mult, autoritatea recomandă suplimentarea cu L-arginină în cantități corespunzătoare. Astfel, în cazul suplimentării cu L-arginină, îndeosebi prin intermediul apei de băut, este indicat să se avertizeze utilizatorul pentru a lua în considerare aportul alimentar cu toți aminoacizii esențiali și esențiali în anumite condiții.
+(6) Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. Ea a verificat, de asemenea, raportul privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(7) Evaluarea L-argininei produsă de Corynebacterium glutamicum KCCM 80099 arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea substanței respective ar trebui autorizată în conformitate cu specificațiile din anexa la prezentul regulament.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Substanța menționată în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „aminoacizi, sărurile acestora și produsele analoage”, este autorizată ca aditiv pentru hrana animalelor în condițiile prevăzute în anexă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 25 ianuarie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2017; 15(6):4858.
+ANEXĂ
+Număr de identificare al aditivului | Numele deținătorului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda de analiză. | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivi nutriționali. Grupa funcțională: aminoacizi, sărurile acestora și produse analoage
+3c362 | — | L-arginină | Compoziția aditivului Pulbere cu un conținut minim de L-arginină de 98 % (raportat la substanța uscată) și un conținut maxim de apă de 0,5 % Caracterizarea substanței active L-arginină [acid (S)-2-amino-5-guanidinpentanoic] produsă prin fermentare cu Corynebacterium glutamicum KCCM 80099. Formula chimică: C6H14N4O2 Numărul CAS: 74-79-3 Metoda analitică (1) Pentru caracterizarea L-argininei în aditivul destinat hranei animalelor: — Codexul substanțelor chimice din alimente (Food Chemical Codex) „L-arginine monograph”. Pentru cuantificarea argininei în aditivul destinat hranei animalelor și în apă: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și detecție fotometrică (IEC-VIS). Pentru determinarea argininei în preamestecuri, hrana combinată pentru animale și materiile prime destinate hranei animalelor: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și cu detecție fotometrică (IEC-VIS) – Regulamentul (CE) nr. 152/2009 al Comisiei. | Toate speciile de animale | | | | 1. L-arginina poate fi introdusă pe piață și utilizată ca aditiv sub formă de preparat. 2. Aditivul poate fi utilizat, de asemenea, în apa de băut. 3. În instrucțiunile de utilizare a aditivului și a preamestecului, se menționează condițiile de depozitare, stabilitatea la tratament termic și stabilitatea în apa de băut. 4. Declarațiile care trebuie menționate pe eticheta aditivului și a preamestecurilor: „Suplimentarea cu L-arginină, îndeosebi prin intermediul apei de băut, ar trebui să țină seama de toți aminoacizii esențiali și esențiali în anumite condiții pentru a evita dezechilibrele.” 5. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a aborda riscurile potențiale care decurg din utilizarea lor, în special având în vedere că ele sunt corozive pentru piele și ochi. În cazul în care riscurile respective nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează purtând echipament individual de protecție, inclusiv ochelari de protecție și mănuși. | 15 februarie 2028
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports.
