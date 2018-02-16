@@ -1,0 +1,21 @@
+# Proiect de lege L121/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 178/2018 (`legea-178-2018`).
+
+Proiect de lege pentru modificarea şi completarea Legii nr.202/2002 privind egalitatea de şanse şi de tratament între femei şi bărbaţi
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-02-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-02-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L121AD.PDF
+- 2018-02-16: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L121FG.PDF
+- 2018-02-16: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L121EM.PDF
+- 2018-02-16: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L121LG.PDF
+- 2018-02-16: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L121HG.PDF
