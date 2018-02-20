@@ -1,0 +1,199 @@
+{
+ "key": "dcc-623-2017",
+ "label": "Decizia CCR nr. 623/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "623",
+ "date": "2017-10-17",
+ "year": "2017",
+ "heading": "DECIZIA nr. 623 din 17 octombrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 68 alin. (3) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "157",
+  "bis": false,
+  "date": "2018-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.640/180/2015",
+  "412D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Liliana Boghițoiu în Dosarul nr. 8.640/180/2015 al Tribunalului Bacău - Secția I civilă și constată că dispozițiile art. 68 alin. (3) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bacău - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/197984",
+  "text_sha256": "da8cab495a03d93377a558a9ffa566411a5d560ff6bd3b1e4200ed1cf1ebed73",
+  "catalogue_sha256": "da8cab495a03d93377a558a9ffa566411a5d560ff6bd3b1e4200ed1cf1ebed73",
+  "fetched": "2026-11-06T01:50:02Z",
+  "chars": 12973,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406211141/https://legislatie.just.ro/Public/DetaliiDocumentAfis/197984",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/197984",
+   "timestamp": "20250406211141",
+   "sha256": "781aaae73e4177ee83c5f71e6637119e10f807a8385b8d9b3021a95543c4927a"
+  },
+  "portal_id": "197984",
+  "tip": "DECIZIE"
+ }
+}
