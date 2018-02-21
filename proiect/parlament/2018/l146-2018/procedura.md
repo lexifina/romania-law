@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 2018-02-01: registered at the Chamber of Deputies
 - 2018-02-14: documents published: Raport comisie sesizată pe fond
+- 2018-02-21: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
 - 2018-02-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CR.PDF
+- 2018-02-21: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146OG.PDF
