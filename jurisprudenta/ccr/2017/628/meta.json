@@ -1,0 +1,307 @@
+{
+ "key": "dcc-628-2017",
+ "label": "Decizia CCR nr. 628/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "628",
+ "date": "2017-10-17",
+ "year": "2017",
+ "heading": "DECIZIA nr. 628 din 17 octombrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 10 alin. (4) și (6) din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "166",
+  "bis": false,
+  "date": "2018-02-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.373/118/2015",
+  "1.132D/2016",
+  "1.412D/2016",
+  "7.051/3/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Maria Boboc, Oprea Porumbel, Veta Humă, Ioana Firică, Veronica Bădescu, Alexandru Porumbeu și Maria Neagu în Dosarul nr. 7.373/118/2015 al Tribunalului Constanța - Secția de contencios administrativ și fiscal și de Victoria Mitu în Dosarul nr. 7.051/3/2013 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile art. 10 alin. (4) și (6) din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Constanța - Secția de contencios administrativ și fiscal și Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 286/2004",
+    "number": "286",
+    "year": "2004",
+    "path": "hg/2004/286"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198032",
+  "text_sha256": "1b8395bb7f617ad269127144680b21e646db53e6af38b61c7c1e677c25b766f1",
+  "catalogue_sha256": "1b8395bb7f617ad269127144680b21e646db53e6af38b61c7c1e677c25b766f1",
+  "fetched": "2026-11-04T11:00:07Z",
+  "chars": 28866,
+  "portal_id": "198032",
+  "tip": "DECIZIE"
+ }
+}
