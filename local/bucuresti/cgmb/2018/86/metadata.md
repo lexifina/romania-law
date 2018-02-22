@@ -1,0 +1,11 @@
+# HCGMB nr. 86/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 86/2018
+- Adopted: 2018-02-22
+- Title: PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI TOTAL DE POSTURI SI STATULUI DE FUNCTII SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ADMINISTRATIEI MONUMENTELOR SI PATRIMONIULUI TURISTIC, PRECUM SI PENTRU REDUCEREA NUMARULUI TOTAL DE POSTURI LA UNELE SERVICII PUBLICE DE INTERES LOCAL MODIFICA HCGMB NR. 305/2013 MODIFICA HCGMB NR. 297/2016 SE MODIFICA PRIN HCGMB NR. 351/2018 SE MODIFICA PRIN HCGMB NR. 734/2019 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 261/2020/
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/37648
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/37648/H086_18.pdf
+- Document sha256: 49666b7fc2f4aaf30442ecfa096a3d793b79d98dee2f39004603438e7d232c04
