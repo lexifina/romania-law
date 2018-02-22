@@ -1,0 +1,11 @@
+# HCGMB nr. 40/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 40/2018
+- Adopted: 2018-02-22
+- Title: PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE (DALI) SI A INDICATORILOR TEHNICO-ECONOMICI AFERENTI OBIECTIVELOR DE INVESTITII LUCRARI DE MODERNIZARE SI INTEGRARE IN SISTEMUL BTMS A INTERSECTIILOR SEMAFORIZATE DE PE ARTERELE COLENTINA, CAMIL RESSU - THEODOR PALLADY, 13 SEPTEMBRIE - BD. GHENCEA, CALEA GRIVITEI - BUCURESTII NOI, GIURGIULUI ANEXELE NR. 22, 26, 29, 30, 45, 46 SI 47 SE MODIFICA PRIN HCGMB NR. 77/2020 ANEXA NR. 8 SE MODIFICA PRIN HCGMB NR. 290/2020 ANEXELE NR. 1, 3 SI 4 MODIFICATE PRIN HCGMB NR. 643/2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/37572
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/37572/H040_18.pdf
+- Document sha256: ef20be8a9977fd94e6236e53c97f011eee29338ad490e676d99d42d7f07b0658
