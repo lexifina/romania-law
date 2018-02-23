@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-02-19: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-02-20: registered at the Chamber of Deputies
 - 2018-02-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-02-23: sent for promulgation; promulgated, becomes Legea nr. 46/2018; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2018-02-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120AM.PDF
 - 2018-02-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120AXS.PDF
 - 2018-02-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120LP.PDF
+- 2018-02-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120DP.PDF
+- 2018-02-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120AFP.PDF
+- 2018-02-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L120FP.PDF
