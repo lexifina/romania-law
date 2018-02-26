@@ -1,0 +1,199 @@
+{
+ "key": "dcc-748-2017",
+ "label": "Decizia CCR nr. 748/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "748",
+ "date": "2017-11-23",
+ "year": "2017",
+ "heading": "DECIZIA nr. 748 din 23 noiembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (2) și (3), precum și ale anexei nr. 3.21 la Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\" și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "177",
+  "bis": false,
+  "date": "2018-02-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "40/191/2012",
+  "2.635D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate a prevederilor art. 31 alin. (2) și (3), precum și ale anexei nr. 3.21 la Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, excepție ridicată de Renate-Valerie Ambrosi, prin mandatar Hugo-Andrei Schneider, și de intervenienții Aurel Oltean, Tereza Lucia Hâncu (născută Dragoș), Ileana Gabriș, Antonia Elisabeta Rusu, Maria Gabriș, Alexandra Gabriș și Maria Ioana Lazăr, precum și de Iacob Cornel Mendl, Iuliana Mendl, Eva Hellman și Paul Mendl, prin mandatar Viorel Ivan, în Dosarul nr. 40/191/2012* al Tribunalului Bihor - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2011",
+    "number": "72",
+    "year": "2011",
+    "path": "lege/2011/72"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2008",
+    "number": "45",
+    "year": "2008",
+    "path": "lege/2008/45"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-02-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198097",
+  "text_sha256": "17a535b5973625f12ab7bc5eb65423c245cbb59a920d1a7094d8cce984c3edb1",
+  "catalogue_sha256": "17a535b5973625f12ab7bc5eb65423c245cbb59a920d1a7094d8cce984c3edb1",
+  "fetched": "2026-11-03T03:11:53Z",
+  "chars": 30235,
+  "portal_id": "198097",
+  "tip": "DECIZIE"
+ }
+}
