@@ -1,0 +1,271 @@
+{
+ "key": "iccj-hp-5-2018",
+ "label": "Decizia ÎCCJ nr. 5/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "5",
+ "date": "2018-01-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 5 din 22 ianuarie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 329 din Codul de procedură civilă, coroborate cu art. 103 din Codul civil, ale art. 53 din Codul civil, coroborate cu art. 328 alin. (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "186",
+  "bis": false,
+  "date": "2018-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.195/1/2017",
+  "161/248/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Covasna - Secția civilă, în Dosarul nr. 161/248/2014, privind pronunțarea unei hotărâri prealabile referitoare la modul de interpretare și aplicare a dispozițiilor art. 329 din Codul de procedură civilă, coroborate cu art. 103 din Codul civil, ale art. 53 din Codul civil, coroborate cu art. 328 alin. (2) din Codul de procedură civilă, vizând prezumția legală a capacității de folosință, posibilitatea înlăturării acesteia prin aplicarea unei prezumții judiciare, precum și raportul între cele două tipuri de prezumții.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1050",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "327",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1846",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1847",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1848",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1849",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1850",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1851",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1890",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1203",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198204",
+  "text_sha256": "67c820204cca7e07ffc6775425567a4d74bfab4f89147041ebe4e29ed7dbcb8b",
+  "catalogue_sha256": "67c820204cca7e07ffc6775425567a4d74bfab4f89147041ebe4e29ed7dbcb8b",
+  "fetched": "2026-11-03T03:11:44Z",
+  "chars": 34613,
+  "portal_id": "198204",
+  "tip": "DECIZIE"
+ }
+}
