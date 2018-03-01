@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2018-01-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2018-02-14: documents published: Aviz comisie
 - 2018-02-27: documents published: Aviz comisie
+- 2018-03-01: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2018-02-14: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L002CA15.PDF
 - 2018-02-14: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L002CA7.PDF
 - 2018-02-27: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L002CA12.PDF
+- 2018-03-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L002CR.PDF
