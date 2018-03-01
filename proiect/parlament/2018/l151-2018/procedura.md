@@ -1,0 +1,22 @@
+# Proiect de lege L151/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 109/2022 (`legea-109-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.8/2018 privind reglementarea unor măsuri în domeniul sănătăţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-03-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-03-01: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151AD.PDF
+- 2018-03-01: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151FG.PDF
+- 2018-03-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151EM.PDF
+- 2018-03-01: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151LG.PDF
+- 2018-03-01: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151OG.PDF
+- 2018-03-01: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151HG.PDF
