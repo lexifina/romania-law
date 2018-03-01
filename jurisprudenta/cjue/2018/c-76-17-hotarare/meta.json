@@ -1,0 +1,60 @@
+{
+ "key": "cjue-c-76-17-hotarare-2018-03-01",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 1 martie 2018, Cauza C-76/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2018-03-01",
+ "year": "2018",
+ "case": "Cauza C-76/17",
+ "celex": "62017CJ0076",
+ "ecli": "ECLI:EU:C:2018:139",
+ "heading": "Hotărârea Curții (Camera a patra) din 1 martie 2018",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2016-11-17",
+   "national_file": "3224"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie",
+ "national_followup": [
+  "Înalta Curte de Casaţie şi Justiţie, Secţia de Contencios Administrativ şi Fiscal, Decizia din 02/10/2019 (4401/2019)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Taxă cu efect echivalent taxelor vamale – Articolul 30 TFUE – Impozit intern – Articolul 110 TFUE – Taxă aplicată produselor petroliere exportate – Nerepercutarea taxei asupra consumatorului – Sarcina taxei suportată de contribuabil – Rambursarea sumelor plătite de contribuabil",
+ "interprets": [
+  {
+   "celex": "12008E030",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0076",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-76/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a26f25ec-1d37-11e8-ac73-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3cfb548eb8a4b7db6d871fbd79ff2ed552601fe894318f1bf1845074e2cfd876"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "Dreptul Uniunii, în particular articolul 30 TFUE, trebuie interpretat în sensul că contribuabilul care a suportat efectiv sarcina unei taxe cu efect echivalent contrare acestui articol trebuie să poată obține rambursarea sumelor plătite cu acest titlu, chiar și într‑o situație în care mecanismul de plată a taxei a fost conceput, în legislația națională, astfel încât această taxă să fie repercutată asupra consumatorului.",
+  "von Danwitz"
+ ]
+}
