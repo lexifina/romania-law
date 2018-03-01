@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2018-02-19: registered at the Chamber of Deputies
+- 2018-03-01: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2018-03-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186CR.PDF
