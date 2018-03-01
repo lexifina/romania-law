@@ -1,0 +1,13 @@
+# Anexa nr. 1 [Antetul structurii solicitante]
+Nr.................. din..........
+CERERE privind avizarea personalului care are ca obiect de activitate gestionarea asistenței financiare nerambursabile europene
+În temeiul dispozițiilor art. 7 alin. (7) din Hotărârea Guvernului nr. 29/2018 pentru stabilirea criteriilor pe baza cărora se aplică majorarea prevăzută la art. 17 alin. (1) și (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, vă rugăm să eliberați un aviz favorabil pentru următoarele persoane din cadrul.........(denumirea structurii care solicită avizul favorabil)........... care au ca obiect de activitate gestionarea asistenței financiare nerambursabile europene și îndeplinesc criteriile prevăzute la art. 4 alin. (1) din Hotărârea Guvernului nr. 29/2018:
+Nr.
+Persoanele pentru care se solicită avizarea favorabilă (nume, prenume)
+Funcția
+Compartimentul [direcția (generală), serviciul, biroul, compartimentul]
+1.........................................................
+2................................................................
+3..........................................................
+Persoana de contact din cadrul structurii noastre desemnată în acest sens este doamna/domnul............... (tel...................., fax...................., e-mail....................).
+Cu stimă,.................................................................... (numele și prenumele conducătorului structurii solicitante).................................... (funcția) [L.S.]
