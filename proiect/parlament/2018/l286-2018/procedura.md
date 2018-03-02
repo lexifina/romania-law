@@ -1,0 +1,19 @@
+# Propunere legislativă L286/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 37/2022 (`legea-37-2022`).
+
+Propunere legislativă pentru modificarea şi completarea Ordonanţei de Guvern nr.20/1994 privind măsuri pentru reducerea riscului seismic al construcţiilor existente, pentru modificarea şi completarea Legii nr.500/2002 privind finanţele publice, precum şi pentru modificarea şi completarea Legii nr.273/2006 privind finanţele publice locale
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-03-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-03-02: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L286AD.PDF
+- 2018-03-02: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L286FG.PDF
+- 2018-03-02: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L286EM.PDF
