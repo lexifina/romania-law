@@ -1,0 +1,382 @@
+{
+ "key": "dcc-845-2017",
+ "label": "Decizia CCR nr. 845/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "845",
+ "date": "2017-12-14",
+ "year": "2017",
+ "heading": "DECIZIA nr. 845 din 14 decembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (1) lit. c), art. 3 alin. (10), art. 6 alin. (7) și (8), art. 10, art. 11 alin. (3), art. 12 alin. (1), art. 13 alin. (1), art. 15 alin. (1), art. 16 alin. (1) lit. f) din Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale, precum și a dispozițiilor art. 5 alin. (3) din Legea partidelor politice nr. 14/2003",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "196",
+  "bis": false,
+  "date": "2018-03-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4/3/2000",
+  "2.811D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3 alin. (1) lit. c), art. 3 alin. (10), art. 6 alin. (7) și (8), art. 10, art. 11 alin. (3), art. 12 alin. (1), art. 13 alin. (1), art. 15 alin. (1), art. 16 alin. (1) lit. f) din Legea nr. 334/2006 privind finanțarea activității partidelor politice și a campaniilor electorale, precum și a dispozițiilor art. 5 alin. (3) din Legea partidelor politice nr. 14/2003, excepție ridicată de „Partidul Solidarității Democratice pentru Șanse Egale și o Societate mai Bună“ în Dosarul nr. 4/3/2000 al Tribunalului București - Secția a IV-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 334/2006",
+    "number": "334",
+    "year": "2006",
+    "path": "lege/2006/334"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198266",
+  "text_sha256": "327d61b33c746e92eaff6332c2f0633382d6bb0be70122809843ab582754522e",
+  "catalogue_sha256": "327d61b33c746e92eaff6332c2f0633382d6bb0be70122809843ab582754522e",
+  "fetched": "2026-11-03T03:11:39Z",
+  "chars": 16530,
+  "portal_id": "198266",
+  "tip": "DECIZIE"
+ }
+}
