@@ -1,0 +1,509 @@
+{
+ "key": "dcc-63-2018",
+ "label": "Decizia CCR nr. 63/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "63",
+ "date": "2018-02-13",
+ "year": "2018",
+ "heading": "DECIZIA nr. 63 din 13 februarie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. I pct. 21 [cu referire la art. 16 din Ordonanța de urgență a Guvernului nr. 75/2005 privind asigurarea calității educației] și pct. 26 [cu referire la art. 4 alin. (1) din Legea nr. 288/2004 privind organizarea studiilor universitare] din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 96/2016 pentru modificarea și completarea unor acte normative în domeniile educației, cercetării, formării profesionale și sănătății, precum și ale legii, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "201",
+  "bis": false,
+  "date": "2018-03-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "7A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/2005",
+    "number": "75",
+    "year": "2005",
+    "path": "oug/2005/75"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2004",
+    "number": "288",
+    "year": "2004",
+    "path": "lege/2004/288"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 96/2016",
+    "number": "96",
+    "year": "2016",
+    "path": "lege/2016/96"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată și constată că dispozițiile art. I pct. 21 [cu referire la art. 16 din Ordonanța de urgență a Guvernului nr. 75/2005 privind asigurarea calității educației] și pct. 26 [cu referire la art. 4 alin. (1) din Legea nr. 288/2004 privind organizarea studiilor universitare] din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 96/2016 pentru modificarea și completarea unor acte normative în domeniile educației, cercetării, formării profesionale și sănătății, precum și legea, în ansamblul său, sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 96/2016",
+    "number": "96",
+    "year": "2016",
+    "path": "lege/2016/96"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 96/2016",
+    "number": "96",
+    "year": "2016",
+    "path": "oug/2016/96"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "12-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/2005",
+    "number": "75",
+    "year": "2005",
+    "path": "oug/2005/75"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "oug/2006/96"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2004",
+    "number": "288",
+    "year": "2004",
+    "path": "lege/2004/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "1-7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198286",
+  "text_sha256": "320af65027c188a9b1c00882d968cc114f003214d09cd563f5bdba842d5e5160",
+  "catalogue_sha256": "320af65027c188a9b1c00882d968cc114f003214d09cd563f5bdba842d5e5160",
+  "fetched": "2026-11-06T02:19:51Z",
+  "chars": 49219,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198286",
+   "timestamp": "20260209084725",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395505955.49/warc/CC-MAIN-20260209072213-20260209102213-00065.warc.gz",
+   "offset": "247897560",
+   "length": "35134",
+   "sha256": "083691960164aae45e2b885b4fdc17b42775a59ed8c8f2ef70167db8059c64c8"
+  },
+  "portal_id": "198286",
+  "tip": "DECIZIE"
+ }
+}
