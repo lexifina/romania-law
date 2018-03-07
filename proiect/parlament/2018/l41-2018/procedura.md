@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-24: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-02-12: documents published: Raport comisie sesizată pe fond
 - 2018-02-28: documents published: Aviz comisie
+- 2018-03-07: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-24: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L041PV.PDF
 - 2018-02-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L041CR.PDF
 - 2018-02-28: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L041CA16.PDF
+- 2018-03-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L041AM.PDF
