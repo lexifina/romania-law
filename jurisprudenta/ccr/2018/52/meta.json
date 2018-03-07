@@ -1,0 +1,667 @@
+{
+ "key": "dcc-52-2018",
+ "label": "Decizia CCR nr. 52/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "52",
+ "date": "2018-02-01",
+ "year": "2018",
+ "heading": "DECIZIA nr. 52 din 1 februarie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru completarea Legii nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "206",
+  "bis": false,
+  "date": "2018-03-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.949A/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru completarea Legii nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea alt"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată și constată că dispozițiile Legii pentru completarea Legii nr. 176/2010 privind integritatea în exercitarea funcțiilor și demnităților publice, pentru modificarea și completarea Legii nr. 144/2007 privind înființarea, organizarea și funcționarea Agenției Naționale de Integritate, precum și pentru modificarea și completarea altor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "3",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 116/2013",
+    "number": "116",
+    "year": "2013",
+    "path": "lege/2013/116"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 219/2013",
+    "number": "219",
+    "year": "2013",
+    "path": "lege/2013/219"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "301",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "253-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2014",
+    "number": "119",
+    "year": "2014",
+    "path": "lege/2014/119"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 12/2014",
+    "number": "12",
+    "year": "2014",
+    "path": "og/2014/12"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2007",
+    "number": "144",
+    "year": "2007",
+    "path": "lege/2007/144"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/2008",
+    "number": "94",
+    "year": "2008",
+    "path": "lege/2008/94"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 126/2014",
+    "number": "126",
+    "year": "2014",
+    "path": "lege/2014/126"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 44/2015",
+    "number": "44",
+    "year": "2015",
+    "path": "oug/2015/44"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 144/2012",
+    "number": "144",
+    "year": "2012",
+    "path": "lege/2012/144"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 543/2002",
+    "number": "543",
+    "year": "2002",
+    "path": "lege/2002/543"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-03-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198461",
+  "text_sha256": "49f236d0506057e224631e4cad2e89cc34f9c94d585166aa5dd012ac92565049",
+  "catalogue_sha256": "49f236d0506057e224631e4cad2e89cc34f9c94d585166aa5dd012ac92565049",
+  "fetched": "2026-11-03T17:05:59Z",
+  "chars": 94377,
+  "portal_id": "198461",
+  "tip": "DECIZIE"
+ }
+}
