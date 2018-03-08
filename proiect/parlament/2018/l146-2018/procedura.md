@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2018-02-21: adopted by the Chamber of Deputies; documents published: Document
 - 2018-02-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2018-03-07: documents published: Aviz comisie
+- 2018-03-08: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Guvernul României.
 - 2018-02-22: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146HG.PDF
 - 2018-03-07: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CA1.PDF
 - 2018-03-07: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CA3.PDF
+- 2018-03-08: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CA8.PDF
