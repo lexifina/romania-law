@@ -1,0 +1,240 @@
+{
+ "key": "iccj-hp-4-2018",
+ "label": "Decizia ÎCCJ nr. 4/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "4",
+ "date": "2018-01-22",
+ "year": "2018",
+ "heading": "DECIZIE nr. 4 din 22 ianuarie 2018",
+ "subtitle": "referitoare la dobânda legală penalizatoare acordată prin hotărâri judecătorești pentru eșalonarea plății sumelor stabilite cu titlu de drepturi salariale, reprezintă venituri salariale sau venituri asimilate salariilor, supuse impozitării și plății celorlalte contribuții sau dacă reprezintă despăgubiri nesupuse impozitului",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "213",
+  "bis": false,
+  "date": "2018-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.524/1/2017",
+  "4.337/107/2016",
+  "4.768/107/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind Codul fiscal nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j-1"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Curtea de Apel Alba Iulia - Secția civilă în dosarele nr. 4.337/107/2016 și nr. 4.768/107/2016 pentru pronunțarea unei hotărâri prealabile privind dezlegarea următoarei chestiuni de drept:",
+  "Dacă dobânda legală penalizatoare acordată prin hotărâri judecătorești pentru eșalonarea plății sumelor stabilite prin hotărâri judecătorești cu titlu de drepturi salariale reprezintă venituri salariale sau venituri asimilate salariilor în sensul art. 55 alin. (2) lit. j^1) din Legea privind Codul fiscal nr. 571/2003, cu modificările și completările ulterioare [art. 76 alin. (2) lit. p) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare], supuse impozitării și plății celorlalte contribuții sau reprezintă despăgubiri în sensul art. 42 lit. b) din Legea nr. 571/2003 [art. 62 lit. h) din Legea nr. 227/2015], nesupuse impozitului",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind Codul fiscal nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j-1"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j-1"
+     ]
+    },
+    {
+     "art": "166",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2013",
+    "number": "571",
+    "year": "2013",
+    "path": "lege/2013/571"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198496",
+  "text_sha256": "60b6f2338783d8c8a42fd76faf5292babbf8ac94e48fc75cdd4677c63df876f1",
+  "catalogue_sha256": "60b6f2338783d8c8a42fd76faf5292babbf8ac94e48fc75cdd4677c63df876f1",
+  "fetched": "2026-11-03T03:11:26Z",
+  "chars": 47492,
+  "portal_id": "198496",
+  "tip": "DECIZIE"
+ }
+}
