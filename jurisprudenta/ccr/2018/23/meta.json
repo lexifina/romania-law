@@ -1,0 +1,284 @@
+{
+ "key": "dcc-23-2018",
+ "label": "Decizia CCR nr. 23/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "23",
+ "date": "2018-01-23",
+ "year": "2018",
+ "heading": "DECIZIA nr. 23 din 23 ianuarie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 13^3 alin. (5) și a sintagmei \"numai după identificarea acestora\", cuprinsă în art. 13^4 din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, prin raportare la teza întâi a acestui articol, referitoare la \"acțiunea de vaccinare antirabică a câinilor cu stăpân\"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "216",
+  "bis": false,
+  "date": "2018-03-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "920/33/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "13-3",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Asociația Registrul Electronic al Animalelor Domestice și de Companie în Dosarul nr. 920/33/2015* al Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și constată că dispozițiile art. 13^3 alin. (5) din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân sunt constituționale în raport cu criticile formulate.",
+  "2. Admite excepția de neconstituționalitate formulată de același autor în dosarul aceleiași instanțe și constată că sintagma „numai după identificarea acestora“, cuprinsă în art. 13^4 din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, prin raportare la teza întâi a acestui articol, referitoare la „acțiunea de vaccinare antirabică a câinilor cu stăpân“, este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "13-3",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 42/2004",
+    "number": "42",
+    "year": "2004",
+    "path": "og/2004/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1375",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/2004",
+    "number": "60",
+    "year": "2004",
+    "path": "lege/2004/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2004",
+    "number": "205",
+    "year": "2004",
+    "path": "lege/2004/205"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 160/1998",
+    "number": "160",
+    "year": "1998",
+    "path": "lege/1998/160"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198510",
+  "text_sha256": "900bf00055eddc60a773b1863eb057ebabb0526e74c5f58e71b736f67821fc6e",
+  "catalogue_sha256": "900bf00055eddc60a773b1863eb057ebabb0526e74c5f58e71b736f67821fc6e",
+  "fetched": "2026-11-03T03:11:29Z",
+  "chars": 30967,
+  "portal_id": "198510",
+  "tip": "DECIZIE"
+ }
+}
