@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-26: registered at the Chamber of Deputies
 - 2018-02-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-02: sent for promulgation
+- 2018-03-12: promulgated, becomes Legea nr. 64/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119AM.PDF
 - 2018-02-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119AXS.PDF
 - 2018-02-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119LP.PDF
+- 2018-03-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119DP.PDF
+- 2018-03-12: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119AFP.PDF
+- 2018-03-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L119FP.PDF
