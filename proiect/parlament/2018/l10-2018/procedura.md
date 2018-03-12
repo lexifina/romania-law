@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-02-21: documents published: Aviz comisie
 - 2018-02-27: documents published: Aviz comisie
 - 2018-02-28: documents published: Aviz comisie
+- 2018-03-12: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2018-02-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L010CA3.PDF
 - 2018-02-27: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L010CA12.PDF
 - 2018-02-28: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L010CA14.PDF
+- 2018-03-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L010CR.PDF
