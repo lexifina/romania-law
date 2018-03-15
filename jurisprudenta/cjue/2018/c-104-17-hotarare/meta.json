@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-104-17-hotarare-2018-03-15",
+ "label": "CJUE, Hotărârea Curții (Camera a noua) din 15 martie 2018, Cauza C-104/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2018-03-15",
+ "year": "2018",
+ "case": "Cauza C-104/17",
+ "celex": "62017CJ0104",
+ "ecli": "ECLI:EU:C:2018:188",
+ "heading": "Hotărârea Curții (Camera a noua) din 15 martie 2018",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Piteşti",
+   "date": "2017-02-02",
+   "national_file": "244/90/2015"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Piteşti",
+ "national_followup": [
+  "Curtea de Apel Piteşti, Secţia a II-a Civilă, Decizie din 17/05/2018 (ECLI:RO:CAPIT:2018:002.001175)"
+ ],
+ "parties": "SC Cali Esprou SRL împotriva Administraţiei Fondului pentru Mediu",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Directiva 94/62/CE – Ambalaje și deșeuri din ambalaje – Recuperarea și reciclarea deșeurilor – Contribuție la un fond național pentru mediu – Introducere pe piața națională a unor produse ambalate și a unor ambalaje, fără intervenție asupra acestora – Principiul denumit „poluatorul plătește” – Calitatea de poluator",
+ "interprets": [
+  {
+   "celex": "31994L0062",
+   "folder": "ue/directiva/1994/62"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0104",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-104/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/cf21af46-2861-11e8-b5fe-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9920efeb8e2d55f12f5a5daa19b3d5d9ac846b805d6ffc8850ca1ea2d4bb0c0e"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) declară:",
+  "Articolul 15 din Directiva 94/62/CE a Parlamentului European și a Consiliului din 20 decembrie 1994 privind ambalajele și deșeurile de ambalaje și principiul denumit „poluatorul plătește ” pe care îl pune în aplicare nu se opun unei reglementări naționale, precum cea în discuție în litigiul principal, care impune o contribuție unui agent economic care nu intervine asupra ambalajelor pe care le introduce pe piață, calculată în funcție de diferența de greutate dintre, pe de o parte, cantitatea de deșeuri de ambalaje corespunzătoare obiectivelor minime de valorificare energetică și de valorificare prin reciclare și, pe de altă parte, cantitatea de deșeuri de ambalaje efectiv valorificate sau reciclate."
+ ]
+}

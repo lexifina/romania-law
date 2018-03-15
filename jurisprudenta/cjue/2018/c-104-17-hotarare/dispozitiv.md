@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a noua) din 15 martie 2018, Cauza C-104/17
+
+Pentru aceste motive, Curtea (Camera a noua) declară:
+Articolul 15 din Directiva 94/62/CE a Parlamentului European și a Consiliului din 20 decembrie 1994 privind ambalajele și deșeurile de ambalaje și principiul denumit „poluatorul plătește ” pe care îl pune în aplicare nu se opun unei reglementări naționale, precum cea în discuție în litigiul principal, care impune o contribuție unui agent economic care nu intervine asupra ambalajelor pe care le introduce pe piață, calculată în funcție de diferența de greutate dintre, pe de o parte, cantitatea de deșeuri de ambalaje corespunzătoare obiectivelor minime de valorificare energetică și de valorificare prin reciclare și, pe de altă parte, cantitatea de deșeuri de ambalaje efectiv valorificate sau reciclate.
