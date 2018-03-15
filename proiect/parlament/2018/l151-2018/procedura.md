@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2018-03-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2018-03-15: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,8 @@ Initiator: Guvernul României.
 - 2018-03-01: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151LG.PDF
 - 2018-03-01: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151OG.PDF
 - 2018-03-01: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151HG.PDF
+- 2018-03-15: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151CA1.PDF
+- 2018-03-15: Aviz comisie (CA11): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151CA11.PDF
+- 2018-03-15: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151CA12.PDF
+- 2018-03-15: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151CA3.PDF
+- 2018-03-15: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L151CA7.PDF
