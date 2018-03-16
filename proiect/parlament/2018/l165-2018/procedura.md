@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2017-11-27: registered at the Chamber of Deputies
 - 2018-02-26: documents published: Raport comisie sesizată pe fond
 - 2018-03-14: rejected by the Chamber of Deputies
+- 2018-03-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2018-02-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165CR.PDF
+- 2018-03-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165AD.PDF
+- 2018-03-16: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165FG.PDF
+- 2018-03-16: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165EM.PDF
