@@ -1,0 +1,16 @@
+# Anexa nr. 2.J
+MODEL REGISTRU DE EVIDENȚĂ A CERERILOR DE AZIL
+Nr...... din.... 20...
+REGISTRU DE EVIDENȚĂ A CERERILOR DE AZIL
+Început:......
+Terminat:......
+Nr. file =.........
+Termen de păstrare.......
+Nr. Crt.
+ANUL
+LUNA
+ZIUA
+NUMELE SI PRENUMELE PERSOANEI PRIVATE DE LIBERTATE
+- date de stare civilă -
+Nr. înregistrare și data transmiterii cererii de azil
+„Document care conține date cu caracter personal protejate de prevederile Legii nr. 677/2001 pentru protecția persoanelor cu privire la prelucrarea datelor cu caracter personal și libera circulație a acestor date, cu modificările și completările ulterioare !"

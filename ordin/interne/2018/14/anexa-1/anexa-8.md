@@ -1,0 +1,7 @@
+# Anexa nr. 1.D.1
+B.
+Caracteristicile privind amenajarea și dotarea camerei destinate izolării persoanelor private de libertate care se manifestă violent, cu elemente de mobilier și de încălzire Camera destinată izolării persoanelor private de libertate care se manifestă violent, va fi construită în sistem monovolum și nu va fi utilată cu obiecte de mobilier, aparat de aer condiționat sau alte dotări. Pardoseala și pereții camerei vor fi capitonate, astfel încât să se evite producerea de către persoana privată de libertate de răni sau leziuni și să nu permită dislocarea capitonajului prin acțiuni de vandalism.
+Tot pentru siguranța persoanelor private de libertate se vor efectua lucrări de capitonare a ușii de acces în interiorul camerei de izolare a persoanelor private de libertate care se manifestă violent.
+Singurul obiect ce va intra în dotarea camerei destinate executării sancțiunii disciplinare cu izolarea a persoanelor private de libertate, va fi o saltea pentru dormit, ce va fi amplasată direct pe pardoseala camerei. Aceasta va fi confecționată din materiale rezistente la uzură și după caz, impermeabile și incombustibile, context în care nu vor exista elemente metalice în componența acesteia.
+Iluminatul natural și ventilația camerei se va asigura prin amplasarea unei ferestre orizontale cu trapă, deasupra zonei capitonate, inaccesibilă persoanei private de libertate. Pentru fereastră se urmăresc specificațiile din Anexa nr. 1.C.1.
+În interiorul camerei va fi montat un sistem de panică pentru persoanele private de libertate.
