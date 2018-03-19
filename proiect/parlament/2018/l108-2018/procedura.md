@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-05: adopted by the Chamber of Deputies
 - 2018-02-08: registered at the Senate
 - 2018-03-08: documents published: Raport comisie sesizată pe fond
+- 2018-03-19: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-04-19: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L108LG.PDF
 - 2017-04-19: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L108PV.PDF
 - 2018-03-08: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L108CR.PDF
+- 2018-03-19: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L108FS.PDF
