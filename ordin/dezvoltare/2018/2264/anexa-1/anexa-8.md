@@ -1,0 +1,16 @@
+# Anexa nr. 8 la procedură
+CERERE
+- model pentru prelungirea dreptului de practică -
+Subsemnatul(a),............................., născut(ă) la data de (ziua/luna/anul)....../....../......, CNP |_|_|_|_|_|_|_|_|_|_|_|_|_|, posesor al/posesoare a documentului de identitate BI/CI cu seria.......... nr..........., eliberat(ă) la data de........................, cu valabilitate până la data de................., domiciliat(ă) în județul/sectorul....................., localitatea..............., str....................................... nr........, bl......., sc......., et......., ap......., solicit prelungirea valabilității legitimației de................ în domeniul/subdomeniul..........................
+În susținerea cererii anexez dosarul cu următoarele documente: a) legitimația, în original;
+b) actul de identitate, în copie;
+c) certificatul/certificatele de atestare, în copie;
+d) registrul verificatorului de proiecte/expertului tehnic completat la zi, în copie, sau, după caz, declarație pe propria răspundere că nu a desfășurat activitate ca verificator de proiecte/expert tehnic după expirarea valabilității legitimației;
+e) adeverință medicală din care rezultă capacitatea fizică și psihică pentru exercitarea atribuțiilor profesiei;
+f) dovada - diplomă, certificat, adeverință sau altele asemenea, în copie, privind efectuarea unui curs de pregătire profesională continuă în domeniile prevăzute prin prezenta procedură, organizat de către o instituție acreditată de Agenția Română de Asigurare a Calității în Învățământul Superior - ARACIS -, sau document prin care să se certifice participarea, în calitate de cadru didactic universitar, la predarea de cursuri, însoțit de fișa disciplinei, corespunzătoare domeniilor pentru care se solicită prelungirea atestării, în domeniile și subdomeniile și specialitățile prevăzute prin prezenta procedură;
+g) certificat de cazier judiciar, în termenul de valabilitate la data înregistrării cererii, din care să rezulte că verificatorul de proiecte/expertul tehnic nu are antecedente penale sau declarație pe propria răspundere că la data înregistrării cererii de prelungire nu are antecedente penale.
+În prezent îmi desfășor activitatea în cadrul......................., unde am funcția de...................., cu sediul în țara...................., județul/sectorul..............................., localitatea.........................., str......................... nr........, telefon/fax...................., e-mail............................
+Declar că am luat cunoștință despre obligațiile ce îmi revin potrivit prevederilor legale și înțeleg să le respect întocmai.
+Adresă de corespondență: codul poștal......, țara............., județul/sectorul............, telefon..........., fax............, e-mail....................
+Data.............................
+Semnătura...............................
