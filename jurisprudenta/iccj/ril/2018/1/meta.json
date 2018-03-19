@@ -1,0 +1,161 @@
+{
+ "key": "iccj-ril-1-2018",
+ "label": "Decizia ÎCCJ nr. 1/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2018-01-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 1 din 22 ianuarie 2018",
+ "subtitle": "referitoare la recursul în interesul legii vizând calificarea și competența de soluționare a cererii de recunoaștere a unei hotărâri de condamnare la pedeapsa închisorii pronunțate de o instanță străină formulată de condamnat în vederea contopirii cu pedepse aplicate de instanțele române și deducerii duratei executate în străinătate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "239",
+  "bis": false,
+  "date": "2018-03-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.094/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "140-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel București și, în consecință:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 140^1 alin. (2) din Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală, republicată, cu modificările și completările ulterioare, stabilește următoarele:",
+  "Cererea de recunoaștere a unei hotărâri de condamnare la pedeapsa închisorii pronunțată de o instanță străină, formulată de persoana condamnată, aflată în România, în vederea contopirii cu pedepse aplicate de instanțele române și deducerii duratei executate în străinătate, este o cerere incidentală de competența instanței învestite cu soluționarea cererii de contopire.",
+  "Obligatorie, conform dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140-1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 236/2017",
+    "number": "236",
+    "year": "2017",
+    "path": "lege/2017/236"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198809",
+  "text_sha256": "ae7c706e9593e32302de7053742d3859d85bf1b349de97ecc97441951ff50089",
+  "catalogue_sha256": "ae7c706e9593e32302de7053742d3859d85bf1b349de97ecc97441951ff50089",
+  "fetched": "2026-11-03T03:11:12Z",
+  "chars": 46216,
+  "portal_id": "198809",
+  "tip": "DECIZIE"
+ }
+}
