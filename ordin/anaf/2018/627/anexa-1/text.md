@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA de transmitere a datelor prevăzute la art. 3 alin. (1) lit. a) sau art. 3 alin. (2) lit. a), b) sau c), după caz, respectiv cele prevăzute la art. 3 alin. (1) lit. b) și c) din anexa nr. 11 la Normele metodologice pentru aplicarea Ordonanței de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, aprobate prin Hotărârea Guvernului nr. 479/2003, către Agenția Națională de Administrare Fiscală
