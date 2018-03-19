@@ -1,0 +1,22 @@
+# Proiect de lege L160/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 39/2019 (`legea-39-2019`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.16/2018 privind asigurarea măsurilor necesare organizării şi desfăşurării unor proiecte culturale, precum şi pentru modificarea şi completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-03-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-03-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160AD.PDF
+- 2018-03-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160FG.PDF
+- 2018-03-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160EM.PDF
+- 2018-03-19: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160LG.PDF
+- 2018-03-19: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160OG.PDF
+- 2018-03-19: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160HG.PDF
