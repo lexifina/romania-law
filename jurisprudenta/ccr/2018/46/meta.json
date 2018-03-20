@@ -1,0 +1,429 @@
+{
+ "key": "dcc-46-2018",
+ "label": "Decizia CCR nr. 46/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "46",
+ "date": "2018-02-01",
+ "year": "2018",
+ "heading": "DECIZIA nr. 46 din 1 februarie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru aprobarea Ordonanței Guvernului nr. 7/2013 privind instituirea impozitului asupra veniturilor suplimentare obținute ca urmare a dereglementării prețurilor din sectorul gazelor naturale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "242",
+  "bis": false,
+  "date": "2018-03-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.979A/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței Guvernului nr. 7/2013",
+    "number": "7",
+    "year": "2013",
+    "path": "lege/2013/7"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că Legea pentru aprobarea Ordonanței Guvernului nr. 7/2013 privind instituirea impozitului asupra veniturilor suplimentare obținute ca urmare a dereglementării prețurilor din sectorul gazelor naturale este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței Guvernului nr. 7/2013",
+    "number": "7",
+    "year": "2013",
+    "path": "lege/2013/7"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 7/2013",
+    "number": "7",
+    "year": "2013",
+    "path": "og/2013/7"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 112/2008",
+    "number": "112",
+    "year": "2008",
+    "path": "decret-lege/2008/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 64/2016",
+    "number": "64",
+    "year": "2016",
+    "path": "oug/2016/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 488/2015",
+    "number": "488",
+    "year": "2015",
+    "path": "hg/2015/488"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea tratatelor nr. 590/2003",
+    "number": "590",
+    "year": "2003",
+    "path": "lege/2003/590"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "177",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 174/2014",
+    "number": "174",
+    "year": "2014",
+    "path": "lege/2014/174"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/2017",
+    "number": "18",
+    "year": "2017",
+    "path": "lege/2017/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 81/1994",
+    "number": "81",
+    "year": "1994",
+    "path": "lege/1994/81"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1994",
+    "number": "3",
+    "year": "1994",
+    "path": "lege/1994/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 59/1999",
+    "number": "59",
+    "year": "1999",
+    "path": "lege/1999/59"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 356/2009",
+    "number": "356",
+    "year": "2009",
+    "path": "lege/2009/356"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 220/2010",
+    "number": "220",
+    "year": "2010",
+    "path": "lege/2010/220"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-03-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/198835",
+  "text_sha256": "6c7c48c8e17bfce4314c03d31a362314bacb3bfcd4660f3c3d7a8df9dbe6ec47",
+  "catalogue_sha256": "6c7c48c8e17bfce4314c03d31a362314bacb3bfcd4660f3c3d7a8df9dbe6ec47",
+  "fetched": "2026-11-03T03:11:11Z",
+  "chars": 68059,
+  "portal_id": "198835",
+  "tip": "DECIZIE"
+ }
+}
