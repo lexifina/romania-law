@@ -1,0 +1,19 @@
+# Propunere legislativă L324/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 217/2019 (`legea-217-2019`).
+
+Propunere legislativă privind întreţinerea animalelor de serviciu scoase din funcţiune şi care au aparţinut instituţiilor şi structurilor publice din România
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-03-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-03-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L324AD.PDF
+- 2018-03-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L324FG.PDF
+- 2018-03-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L324EM.PDF
