@@ -1,0 +1,65 @@
+{
+ "key": "cjue-c-133-17-hotarare-2018-03-21",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 21 martie 2018, Cauzele conexate C-133/17 și C-134/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2018-03-21",
+ "year": "2018",
+ "case": "Cauzele conexate C-133/17 și C-134/17",
+ "celex": "62017CJ0133",
+ "ecli": "ECLI:EU:C:2018:203",
+ "heading": "Hotărârea Curții (Camera a zecea) din 21 martie 2018",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Cluj",
+ "national_followup": [
+  "Curtea de Apel Cluj, Secţia i civilă, încheiere din 16/01/2017 (5127/111/2014)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Directiva 89/391/CEE – Securitatea și sănătatea lucrătorilor la locul de muncă – Încadrare ca loc de muncă care expune lucrătorii unor condiții speciale sau deosebite – Evaluare a riscurilor privind securitatea și sănătatea la locul de muncă – Obligații ale angajatorului",
+ "interprets": [
+  {
+   "celex": "12008E114",
+   "folder": null
+  },
+  {
+   "celex": "12008E151",
+   "folder": null
+  },
+  {
+   "celex": "12008E153",
+   "folder": null
+  },
+  {
+   "celex": "31989L0391",
+   "folder": "ue/directiva/1989/391"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0133",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-133/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/f9967a96-2cf8-11e8-b5fe-01aa75ed71a1.0002.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "6a60c1696fa0482786a06115bd92f57701ffb2812fd0bd2694e3aa0452d3b282"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "Articolul 114 alineatul (3) și articolele 151 și 153 TFUE, precum și Directiva 89/391/CEE a Consiliului din 12 iunie 1989 privind introducerea de măsuri pentru promovarea îmbunătățirii securității și sănătății lucrătorilor la locul de muncă trebuie interpretate în sensul că nu se aplică unei reglementări naționale, precum cea în discuție în litigiul principal, care stabilește termene stricte și proceduri care nu permit instanțelor naționale să reexamineze sau să stabilească încadrarea activităților desfășurate de lucrători în diferite grupe de risc, pe baza căreia se calculează pensiile pentru limită de vârstă ale acestor lucrători."
+ ]
+}
