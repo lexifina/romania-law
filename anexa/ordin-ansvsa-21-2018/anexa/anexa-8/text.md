@@ -1,0 +1,46 @@
+# Anexa 8
+Anexa nr. 8
+la norma sanitar-veterinară
+CERTIFICAT DE SĂNĂTATE
+pentru comercializarea ouălor de incubat provenite din exploatațiile comerciale
+de păsări și destinate stațiilor de incubație de pe teritoriul României
+Seria ........... Nr. .....................
+Cabinet medical veterinar/Societatea Comercială .................................................................................................................
+Nr. de înregistrare unic în Registrul colegiului medicilor veterinari ...........................................................................................
+1. Furnizor^1 ....................................................................................................................................................................................
+1.1. Codul exploatației RO |_|_|_|_|_|_|_|_|_|_|
+1.2. Hala/Halele de unde sunt ouăle de incubat …………………………………….........................................................................
+2. Cumpărător^2 .............................................................................................................................................................................
+2.1. Codul exploatației RO |_|_|_|_|_|_|_|_|_|_|
+3. Numărul mijlocului de transport ................................................................................................................................................
+4. Numărul înregistrării/autorizării mijlocului de transport ................................................... din data de ......................................
+5. Date despre păsările de unde provin ouăle de incubat
+5.1. Specia .....................................................................................................................................................................................
+5.2. Categoria^3 ...............................................................................................................................................................................
+5.3. Rasa/linie/hibrid …………………………………...............................................................................................................……
+5.4. Data populării ……………………….........................................................................................................................………….
+6.
+Subsemnatul certific prin prezentul certificat faptul că: a)
+atât ouăle de incubat, cât și exploatația comercială de păsări de proveniență a ouălor nu sunt supuse niciunui fel de restricții sanitar-veterinare privind mișcarea păsărilor sau a ouălor de incubat;
+b)
+ouăle provin din efective de păsări indemne de boli infecto-contagioase declarabile;
+c)
+ouăle provin din efective de păsări care au fost supuse programelor naționale de supraveghere monitorizare și control la păsări în conformitate cu legislația sanitar-veterinară în vigoare;
+d)
+ouăle de incubat: (i)
+provin dintr-un efectiv de păsări care au fost vaccinate împotriva bolii Newcastle cu (denumirea vaccinului) ................... la data de^4 ...................., la vârsta de .............. zile/săptămâni^5;
+(ii)
+provin dintr-un efectiv care a fost supus testării pentru depistarea serotipurilor de Salmonella care prezintă interes din punctul de vedere al sănătății publice în conformitate cu Regulamentul (CE) nr. 2.160/2003 . Data ultimei testări a efectivului este ....................., conform Buletinului de analiză nr. ............ din data de ............, emis de ......................... .
+7.
+Acest certificat este valabil timp de 3 zile de la data îmbarcării.
+Întocmit la data de ..........................
+Ștampila
+........................................................................................
+(semnătura și parafa medicului veterinar de liberă practică împuternicit)
+Notă
+...
+^1 Denumirea societății comerciale avicole sau incubatorului autorizate/înregistrate/autorizat/înregistrat sanitar-veterinar.
+^2 Denumirea societății comerciale avicole sau incubatorului autorizate/înregistrate/autorizat/înregistrat sanitar-veterinar.
+^3 Se vor specifica păsări adulte reproducție rase ușoare, rase grele sau rase mixte.
+^4 Data ultimei vaccinări.
+^5 Se va tăia ce nu corespunde.
