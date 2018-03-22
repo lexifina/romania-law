@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății ACORD LEASING IFN - S.A., cu sediul în șoseaua Alba Iulia nr. 108, Sibiu, județul Sibiu, înregistrată la registrul comerțului cu nr. J32/1010/1997, cod unic de înregistrare 9680784, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-33-080137, la secțiunea h) - Leasing financiar.
