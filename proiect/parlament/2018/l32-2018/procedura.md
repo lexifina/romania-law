@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-02-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-06: sent for promulgation
+- 2018-03-22: promulgated, becomes Legea nr. 75/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2018-02-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032FS.PDF
 - 2018-02-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032AXS.PDF
 - 2018-02-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032LP.PDF
+- 2018-03-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032DP.PDF
+- 2018-03-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032AFP.PDF
+- 2018-03-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L032FP.PDF
