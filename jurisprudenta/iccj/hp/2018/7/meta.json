@@ -1,0 +1,320 @@
+{
+ "key": "iccj-hp-7-2018",
+ "label": "Decizia ÎCCJ nr. 7/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2018-01-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 7 din 22 ianuarie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 666 alin. (5) pct. 2, 3, 4 din Codul de procedură civilă prin raportare la art. 8 din Ordonanța Guvernului nr. 85/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "254",
+  "bis": false,
+  "date": "2018-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.506/1/2017",
+  "1.256/303/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 85/2004",
+    "number": "85",
+    "year": "2004",
+    "path": "og/2004/85"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a III-a civilă, în Dosarul nr. 1.256/303/2017, pentru pronunțarea unei hotărâri prealabile cu privire la modalitatea de interpretare a dispozițiilor art. 666 alin. (5) pct. 2, 3, 4 din Codul de procedură civilă prin raportare la art. 8 din Ordonanța Guvernului nr. 85/2004, respectiv de a stabili dacă, pentru încheierea valabilă a unui contract la distanță, nu mai este necesară semnătura olografă sau electronică a debitorului, primirea mesajului de confirmare de către consumator, referitor la comanda sa, fiind suficientă pentru încheierea valabilă a contractului, deci pentru a conferi valoare de titlu executoriu contractului de credit încheiat în această modalitate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 85/2004",
+    "number": "85",
+    "year": "2004",
+    "path": "og/2004/85"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 93/2009",
+    "number": "93",
+    "year": "2009",
+    "path": "lege/2009/93"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1186",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2157",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1200",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2001",
+    "number": "455",
+    "year": "2001",
+    "path": "lege/2001/455"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2004",
+    "number": "297",
+    "year": "2004",
+    "path": "lege/2004/297"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199021",
+  "text_sha256": "d08fd14d52301bbbefe914c213de455563b344e37440d7ba7d048a835b7dacd6",
+  "catalogue_sha256": "d08fd14d52301bbbefe914c213de455563b344e37440d7ba7d048a835b7dacd6",
+  "fetched": "2026-11-04T07:28:30Z",
+  "chars": 62958,
+  "portal_id": "199021",
+  "tip": "DECIZIE"
+ }
+}
