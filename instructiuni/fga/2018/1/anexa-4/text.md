@@ -1,0 +1,43 @@
+# Anexa nr. 4
+SITUAȚIA FLUXURILOR DE TREZORERIE
+- lei -
+DENUMIREA INDICATORULUI
+Cod rând
+TOTAL (col. 2 + col. 3)
+Casa în lei și în valută
+(531)
+Alte disponibilități în lei și în valută la instituții bancare (ct. 512, din ct. 508)
+A
+B 1 2 3
+I. FLUXURI DE TREZORERIE DIN ACTIVITATEA DE EXPLOATARE
+1. Încasări în numerar aferente activității Fondului de garantare a asiguraților 01
+2. Încasări în numerar provenite din alte venituri 02
+3. Alte încasări în numerar 03
+4. Plăți în numerar efectuate către furnizorii de bunuri și prestatorii de servicii 04
+5. Plățile în numerar efectuate către și în numele angajaților 05
+6. Alte plăți în numerar 06
+7. Numerar net din activitatea de exploatare (rd. 01 + rd. 02 + rd. 03 - rd. 04 - rd. 05 - rd. 06) 07
+II. FLUXURI DE TREZORERIE DIN ACTIVITATEA DE INVESTIȚII
+1. Încasări în numerar din vânzarea de imobilizări corporale, necorporale și alte active imobilizate 08
+2. Încasările în numerar din rambursarea avansurilor și împrumuturilor acordate altor părți 09
+3. Plăți în numerar pentru dobândirea de imobilizări corporale, necorporale și alte active imobilizate 10
+4. Avansurile în numerar și împrumuturile acordate altor părți 11
+5. Numerar net din activitatea de investiții (rd. 08 + rd. 09 - rd. 10 - rd. 11) 12
+III. NUMERAR DIN ACTIVITATEA DE FINANȚARE
+1. Încasări în numerar provenite din emisiunea titlurilor de creanță, împrumuturilor, obligațiunilor și altor împrumuturi pe termen scurt 13
+2. Rambursările în numerar ale sumelor împrumutate 14
+3. Plățile în numerar efectuate de locatar pentru reducerea datoriei existente aferente unui contract de leasing financiar 15
+4. Numerar net din activitatea de finanțare (rd. 13 + rd. 14 - rd. 15) 16
+IV. CREȘTEREA (DESCREȘTEREA) NETĂ DE NUMERAR ȘI ECHIVALENT DE
+NUMERAR (rd. 07 + rd. 12 + rd. 16) 17
+V. NUMERAR ȘI ECHIVALENT DE NUMERAR LA ÎNCEPUTUL ANULUI 18
+1. Diferențe de curs favorabile 19
+2. Diferențe de curs nefavorabile 20
+VI. NUMERAR ȘI ECHIVALENT DE NUMERAR LA FINELE ANULUI (rd. 17 + rd. 18 + rd. 19 - rd. 20) 21
+DIRECTOR GENERAL
+Numele și prenumele................
+Semnătura..........................
+ÎNTOCMIT,
+Numele și prenumele............
+Calitatea......................
+Semnătura......................
