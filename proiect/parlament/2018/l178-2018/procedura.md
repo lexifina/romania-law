@@ -1,0 +1,22 @@
+# Proiect de lege L178/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 238/2018 (`legea-238-2018`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.22/2018 pentru modificarea şi completarea Ordonanţei Guvernului nr.5/2017 privind stabilirea unor măsuri organizatorice la nivelul administraţiei publice centrale cu privire la Centenarul României
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-03-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-03-26: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178AD.PDF
+- 2018-03-26: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178FG.PDF
+- 2018-03-26: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178EM.PDF
+- 2018-03-26: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178LG.PDF
+- 2018-03-26: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178OG.PDF
+- 2018-03-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L178HG.PDF
