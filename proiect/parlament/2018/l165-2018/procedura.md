@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-26: documents published: Raport comisie sesizată pe fond
 - 2018-03-14: rejected by the Chamber of Deputies
 - 2018-03-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2018-03-28: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165AD.PDF
 - 2018-03-16: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165FG.PDF
 - 2018-03-16: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165EM.PDF
+- 2018-03-28: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L165CA3.PDF
