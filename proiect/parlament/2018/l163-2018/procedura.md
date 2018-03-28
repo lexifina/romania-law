@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-26: documents published: Raport comisie sesizată pe fond
 - 2018-03-14: rejected by the Chamber of Deputies
 - 2018-03-16: registered at the Senate
+- 2018-03-28: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2017-09-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163LG.PDF
 - 2017-11-01: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163CA15.PDF
 - 2018-02-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163CR.PDF
+- 2018-03-28: Aviz comisie (CA18): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163CA18.PDF
+- 2018-03-28: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163CA3.PDF
+- 2018-03-28: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L163CA7.PDF
