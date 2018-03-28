@@ -1,0 +1,3 @@
+# Anexa nr. 2
+CRITERII ce stau la baza îndeplinirii atribuțiilor comisiei constituite în baza prevederilor art. 22 alin. (4) și (5) și art. 40 alin. (2) și (3) din anexa nr. 2 la Hotărârea Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019
+- pentru asistența medicală ambulatorie de specialitate pentru specialitățile clinice și pentru specialitatea clinică medicină fizică și de reabilitare -
