@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-03-05: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-03-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-13: sent for promulgation
+- 2018-03-29: promulgated, becomes Legea nr. 84/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2018-03-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027FS.PDF
 - 2018-03-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027AXS.PDF
 - 2018-03-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027LP.PDF
+- 2018-03-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027DP.PDF
+- 2018-03-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027AFP.PDF
+- 2018-03-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L027FP.PDF
