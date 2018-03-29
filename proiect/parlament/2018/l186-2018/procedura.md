@@ -13,7 +13,12 @@ Initiator: Guvernul României.
 - 2018-02-19: registered at the Chamber of Deputies
 - 2018-03-01: documents published: Raport comisie sesizată pe fond
 - 2018-03-28: adopted by the Chamber of Deputies
+- 2018-03-29: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2018-03-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186CR.PDF
+- 2018-03-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186FG.PDF
+- 2018-03-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186EM.PDF
+- 2018-03-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186LG.PDF
+- 2018-03-29: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L186HG.PDF
