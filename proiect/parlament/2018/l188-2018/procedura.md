@@ -12,7 +12,9 @@ Initiator: Membri ai Parlamentului.
 
 - 2017-11-20: registered at the Chamber of Deputies
 - 2018-03-28: adopted by the Chamber of Deputies
+- 2018-03-29: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2018-03-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188FG.PDF
+- 2018-03-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188EM.PDF
