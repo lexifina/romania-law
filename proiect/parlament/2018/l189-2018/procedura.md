@@ -1,0 +1,21 @@
+# Proiect de lege L189/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 188/2018 (`legea-188-2018`).
+
+Proiect de lege privind limitarea emisiilor în aer a anumitor poluanţi proveniţi de la instalaţii medii de ardere
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-04-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-04-03: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L189AD.PDF
+- 2018-04-03: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L189FG.PDF
+- 2018-04-03: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L189EM.PDF
+- 2018-04-03: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L189LG.PDF
+- 2018-04-03: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L189HG.PDF
