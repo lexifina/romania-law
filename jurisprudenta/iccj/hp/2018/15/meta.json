@@ -1,0 +1,266 @@
+{
+ "key": "iccj-hp-15-2018",
+ "label": "Decizia ÎCCJ nr. 15/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "15",
+ "date": "2018-03-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 15 din 5 martie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 179 alin. (4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "302",
+  "bis": false,
+  "date": "2018-04-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.011/1/2017",
+  "1.793/93/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 1.793/93/2016 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 179 alin. (4) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, recuperarea sumelor plătite cu titlu de prestații de asigurări sociale, în temeiul unei hotărâri judecătorești desființate în calea de atac, se poate face de către casa de pensii, în mod direct, prin emiterea unei decizii de debit, care constituie titlu executoriu.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2017",
+    "number": "103",
+    "year": "2017",
+    "path": "oug/2017/103"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "172",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "724",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "637",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 236/2010",
+    "number": "236",
+    "year": "2010",
+    "path": "lege/2010/236"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199451",
+  "text_sha256": "0ae508931ea5d65111dac3369060b2949444e222400260cf2b19a11323895bb3",
+  "catalogue_sha256": "0ae508931ea5d65111dac3369060b2949444e222400260cf2b19a11323895bb3",
+  "fetched": "2026-11-03T03:10:19Z",
+  "chars": 61536,
+  "portal_id": "199451",
+  "tip": "DECIZIE"
+ }
+}
