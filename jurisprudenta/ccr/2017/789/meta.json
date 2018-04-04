@@ -1,0 +1,168 @@
+{
+ "key": "dcc-789-2017",
+ "label": "Decizia CCR nr. 789/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "789",
+ "date": "2017-12-05",
+ "year": "2017",
+ "heading": "DECIZIA nr. 789 din 5 decembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 4^4 alin. (4) și (5) din Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "302",
+  "bis": false,
+  "date": "2018-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "527/54/2016",
+  "1.906D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [
+    {
+     "art": "4-4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea UNICONFEX EXIM - S.R.L., cu sediul în Slatina, în Dosarul nr. 527/54/2016 al Curții de Apel Craiova - Secția contencios administrativ și fiscal și constată că prevederile art. 4^4 alin. (4) și (5) din Legea nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [
+    {
+     "art": "4-4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199450",
+  "text_sha256": "9d0e73a98735ec391038535ec53717a2eac77fc4cada87f943b87dd2bf12d6bf",
+  "catalogue_sha256": "9d0e73a98735ec391038535ec53717a2eac77fc4cada87f943b87dd2bf12d6bf",
+  "fetched": "2026-11-03T03:10:22Z",
+  "chars": 14511,
+  "portal_id": "199450",
+  "tip": "DECIZIE"
+ }
+}
