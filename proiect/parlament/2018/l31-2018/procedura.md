@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-03-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-13: sent for promulgation
 - 2018-03-29: promulgated, becomes Legea nr. 83/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-04-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Guvernul României.
 - 2018-03-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031DP.PDF
 - 2018-03-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031AFP.PDF
 - 2018-03-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031FP.PDF
+- 2018-04-05: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-04-05: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-04-05: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-04-05: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L031TC.PDF (its day is not given by the bill file: shown from the last stage held)
