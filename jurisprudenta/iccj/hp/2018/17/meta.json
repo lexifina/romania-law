@@ -1,0 +1,214 @@
+{
+ "key": "iccj-hp-17-2018",
+ "label": "Decizia ÎCCJ nr. 17/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "17",
+ "date": "2018-03-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 17",
+ "subtitle": "din 5 martie 2018 referitoare la interpretarea dispozițiilor art. 123 raportat la art. 120 și art. 112 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare; art. 126 lit. b) prin raportare la art. 125 din Codul muncii; art. 137 alin. (3) din Codul muncii; art. 142 alin. (2) din Codul muncii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "306",
+  "bis": false,
+  "date": "2018-04-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.823/1/2017",
+  "2/95/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția I civilă, în Dosarul nr. 2/95/2015, privind pronunțarea unei hotărâri prealabile cu privire la următoarele chestiuni de drept: 1) dacă în interpretarea dispozițiilor art. 123 raportat la art. 120 și art. 112 din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, sporul pentru muncă suplimentară se acordă doar pentru munca efectiv prestată peste durata normală a timpului de muncă sau se acordă și pentru orele în care salariatul s-a aflat la dispoziția angajatorului, la domiciliu sau în locuri special amenajate; 2) dacă în interpretarea dispozițiilor art. 126 lit. b) prin raportare la art. 125 din Codul muncii, sporul pentru muncă prestată în timpul nopții se acordă doar pentru munca efectiv prestată în timpul nopții, în condițiile art. 126 lit. a) și b), sau se acordă și pentru orele de noapte în care salariatul s-a aflat la dispoziția angajatorului, la domiciliu sau în locuri special amenajate; 3) dacă în interpretarea dispozițiilor art. 137 alin. (3) din Codul muncii, sporul pentru neacordarea repausului în zilele de sâmbătă și duminică se acordă doar pentru munca efectiv prestată în zilele de sâmbătă și duminică sau se acordă și pentru zilele de sâmbătă sau duminică în care salariatul s-a aflat la dispoziția angajatorului, la domiciliu sau în locuri special amenajate; 4) dacă în interpretarea dispozițiilor art. 142 alin. (2) din Codul muncii, sporul pentru munca prestată în zilele de sărbătoare legală se acordă doar pentru munca efectiv prestată în zilele de sărbătoare legală sau se acordă și pentru zilele de sărbători legale în care salariatul s-a aflat la dispoziția angajatorului, la domiciliu sau în locuri special amenajate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-04-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199481",
+  "text_sha256": "340b737a2e25e5ba1eaec73a6ef8036e899232aa07c1ed64918658191ac413e2",
+  "catalogue_sha256": "340b737a2e25e5ba1eaec73a6ef8036e899232aa07c1ed64918658191ac413e2",
+  "fetched": "2026-11-03T03:10:14Z",
+  "chars": 65579,
+  "portal_id": "199481",
+  "tip": "DECIZIE"
+ }
+}
