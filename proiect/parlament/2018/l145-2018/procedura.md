@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-03-15: documents published: Aviz comisie
 - 2018-04-03: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2018-04-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-22: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L145EM.PDF
 - 2018-03-15: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L145CA7.PDF
 - 2018-04-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L145FS.PDF
+- 2018-04-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L145AXS.PDF
+- 2018-04-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L145LP.PDF
