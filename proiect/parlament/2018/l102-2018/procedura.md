@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-12-05: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-02-21: documents published: Aviz comisie
 - 2018-03-13: documents published: Raport comisie sesizată pe fond
+- 2018-04-10: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-12-05: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L102PV.PDF
 - 2018-02-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L102CA3.PDF
 - 2018-03-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L102CR.PDF
+- 2018-04-10: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L102AM.PDF
