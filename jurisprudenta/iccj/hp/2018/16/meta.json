@@ -1,0 +1,250 @@
+{
+ "key": "iccj-hp-16-2018",
+ "label": "Decizia ÎCCJ nr. 16/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2018-03-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 16 din 5 martie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 15 alin. (1) și (2) din Legea nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "319",
+  "bis": false,
+  "date": "2018-04-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.027/1/2017",
+  "4.833/62/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2006",
+    "number": "200",
+    "year": "2006",
+    "path": "lege/2006/200"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Brașov - Secția contencios administrativ și fiscal, în Dosarul nr. 4.833/62/2016, pentru pronunțarea unei hotărâri prealabile și, în consecință, în interpretarea și aplicarea dispozițiilor art. 15 alin. (1) și (2) din Legea nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, cu modificările ulterioare, coroborate cu prevederile art. 7 din Normele metodologice de aplicare a Legii nr. 200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale, aprobate prin Hotărârea Guvernului nr. 1.850/2006, cu modificările ulterioare, stabilește că: – perioada de maximum 3 luni, pentru care Fondul de garantare poate prelua și plăti creanțele salariale ale angajatorului în insolvență, se situează în intervalul de referință de 3 luni imediat anterioare deschiderii procedurii de insolvență - 3 luni imediat ulterioare deschiderii procedurii de insolvență;",
+  "– perioada de 3 luni, pentru care Fondul de garantare poate prelua și plăti creanțele salariale ale angajatorului în insolvență, se raportează exclusiv la data deschiderii procedurii insolvenței.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2006",
+    "number": "200",
+    "year": "2006",
+    "path": "lege/2006/200"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 503/2004",
+    "number": "503",
+    "year": "2004",
+    "path": "lege/2004/503"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 151/2015",
+    "number": "151",
+    "year": "2015",
+    "path": "lege/2015/151"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 311/2015",
+    "number": "311",
+    "year": "2015",
+    "path": "lege/2015/311"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2015",
+    "number": "213",
+    "year": "2015",
+    "path": "lege/2015/213"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199574",
+  "text_sha256": "dce038af9bd4cfbbb7c168f327ff96672abfc3a6b7048d9dbad8d56543b2ca4e",
+  "catalogue_sha256": "dce038af9bd4cfbbb7c168f327ff96672abfc3a6b7048d9dbad8d56543b2ca4e",
+  "fetched": "2026-11-03T03:10:07Z",
+  "chars": 58648,
+  "portal_id": "199574",
+  "tip": "DECIZIE"
+ }
+}
