@@ -1,0 +1,19 @@
+# Propunere legislativă L387/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 48/2020 (`legea-48-2020`).
+
+Propunere legislativă pentru modificarea Ordonanţei Guvernului nr.43/1997 privind regimul drumurilor
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-04-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-04-11: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L387AD.PDF
+- 2018-04-11: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L387FG.PDF
+- 2018-04-11: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L387EM.PDF
