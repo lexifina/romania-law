@@ -1,0 +1,343 @@
+{
+ "key": "iccj-hp-14-2018",
+ "label": "Decizia ÎCCJ nr. 14/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "14",
+ "date": "2018-03-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 14 din 5 martie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 6 alin. (7) teza a treia din anexa nr. 3 la Ordonanța de urgență a Guvernului nr. 107/2002",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "322",
+  "bis": false,
+  "date": "2018-04-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.875/1/2017",
+  "27.182/215/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Dolj - Secția contencios administrativ și fiscal, în Dosarul nr. 27.182/215/2016, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că: 1.",
+  "Natura juridică a procesului-verbal de constatare a abaterilor de la normele de utilizare/exploatare a resursei reglementat de art. 6 alin. (6) din anexa nr. 3 la Ordonanța de urgență a Guvernului nr. 107/2002 privind înființarea Administrației Naționale „Apele Române“, aprobată cu modificări prin Legea nr. 404/2003, cu modificările și completările ulterioare, este aceea de act administrativ.",
+  "2. În interpretarea și aplicarea dispozițiilor art. 6 alin. (7) teza a treia din anexa nr. 3 la Ordonanța de urgență a Guvernului nr. 107/2002 raportat la dispozițiile art. 7 alin. (1) și (3) din Legea nr. 76/2012 pentru punerea în aplicare a L egii nr. 134/2010 privind Codul de procedură civilă, cu modificările și completările ulterioare, hotărârea prin care se rezolvă plângerea este supusă numai căii de atac a apelului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "7",
+      "6",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": [
+      "3",
+      "3-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 400/2005",
+    "number": "400",
+    "year": "2005",
+    "path": "lege/2005/400"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199585",
+  "text_sha256": "51956d8c93c707bf38203d3647dcc18fac622f25a53a5ee0600a8193349838f1",
+  "catalogue_sha256": "51956d8c93c707bf38203d3647dcc18fac622f25a53a5ee0600a8193349838f1",
+  "fetched": "2026-11-03T03:10:04Z",
+  "chars": 52854,
+  "portal_id": "199585",
+  "tip": "DECIZIE"
+ }
+}
