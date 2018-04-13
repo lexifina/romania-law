@@ -1,0 +1,42 @@
+# DECIZIA nr. 20 din 18 ianuarie 2018
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 alin. (1) lit. b) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite
+Valer Dorneanu - președinte
+Marian Enache - judecător
+Petre Lăzăroiu - judecător
+Mircea Ștefan Minea - judecător
+Daniel Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Livia Doina Stanciu - judecător
+Simona-Maya Teodoroiu - judecător
+Varga Attila - judecător
+Cosmin-Marian Văduva - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Loredana Veisa.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 4 alin. (1) lit. b) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de Floarea Doina Cachiță și Lorin Cachiță în Dosarul nr. 10.804/211/2016 al Tribunalului Specializat Cluj. Excepția de neconstituționalitate formează obiectul Dosarului Curții Constituționale nr. 2.844D/2017.
+2. La apelul nominal lipsesc părțile, procedura de citare fiind legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele acordă cuvântul reprezentantului Ministerului Public, care solicită respingerea, ca neîntemeiată, a excepției de neconstituționalitate. În plus, acesta face trimitere la Decizia Curții nr. 620 din 10 octombrie 2017, nepublicată în Monitorul Oficial al României, Partea I, la data pronunțării prezentei decizii.
+CURTEA, având în vedere actele și lucrările dosarelor, constată următoarele:
+4. Prin Încheierea civilă nr. 1.239/A din 2 octombrie 2017, pronunțată în Dosarul nr. 10.804/211/2016, Tribunalul Specializat Cluj a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 4 alin. (1) lit. b) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de Floarea Doina Cachiță și Lorin Cachiță într-o cauză civilă întemeiată pe dispozițiile Legii nr. 77/2016.
+5. În motivarea excepției de neconstituționalitate, autoarea susține, în esență, că Legea nr. 77/2016 instituie o discriminare în rândul debitorilor, cât timp se stabilește un plafon valoric de 250.000 euro, a cărui depășire face imposibilă prevalarea de dispozițiile Legii nr. 77/2016. Această discriminare este nejustificată, întrucât devalorizarea imobilelor îi afectează pe aceștia în mod nediferențiat.
+6. Tribunalul Specializat Cluj arată că stabilirea plafonului maxim în lei al sumei de 250.000 euro, sumă calculată la cursul de schimb publicat de BNR în ziua încheierii contractului de credit, încalcă dispozițiile art. 16 din Constituție.
+7. Potrivit dispozițiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului, precum și Avocatului Poporului, pentru a-și exprima punctul de vedere asupra excepției de neconstituționalitate.
+8. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând actul de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+9. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3,
+10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+10. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 4 alin. (1) lit. b) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, publicată în Monitorul Oficial al României, Partea I, nr. 330 din 28 aprilie 2016. Dispozițiile legale criticate punctual au următorul cuprins: „(1) Pentru stingerea creanței izvorând dintr-un contract de credit și a accesoriilor sale prin dare în plată trebuie îndeplinite, în mod cumulativ, următoarele condiții: [...] b) cuantumul sumei împrumutate, la momentul acordării, nu depășea echivalentul în lei al 250.000 euro, sumă calculată la cursul de schimb publicat de către Banca Națională a României în ziua încheierii contractului de credit;“.
+11. În opinia autorilor excepției, prevederile legale criticate contravin dispozițiilor constituționale cuprinse în art. 16, care consacră principiul egalității în drepturi a cetățenilor.
+12. Examinând excepția de neconstituționalitate, Curtea constată că sunt pe deplin aplicabile considerentele reținute de Curte în Decizia nr. 571 din 19 septembrie 2017, publicată în Monitorul Oficial al României, Partea I, nr. 979 din 11 decembrie 2017. Astfel, Curtea a reținut că, indiferent de momentul la care a fost încheiat un contract de credit, sub imperiul reglementării vechiului Cod civil sau al celei din actualul Cod civil, și independent de incidența Legii nr. 77/2016 (sub aspectul îndeplinirii condițiilor de admisibilitate prevăzute de art. 4 din lege), instanța judecătorească care, în condițiile legii, este independentă în aprecierea sa, va putea face aplicarea teoriei impreviziunii. Așadar, în lipsa acordului părților și în temeiul art. 969 și art. 970 din Codul civil din 1864, respectiv al art. 1.271 din actualul Cod civil, instanța judecătorească va pronunța o hotărâre prin care va dispune fie păstrarea contractului de credit în forma agreată de părți la data semnării sale, fie adaptarea contractului în forma pe care instanța o decide, fie încetarea sa.
+13. Așa fiind, critica de neconstituționalitate care vizează încălcarea principiului egalității în drepturi, întrucât textul de lege criticat ar crea un privilegiu persoanelor care cad sub incidența art. 4 și, implicit, a Legii nr. 77/2016, nu este întemeiată, orice debitor al unui contract de credit, indiferent de valoarea contractului sau de scopul în care a angajat creditul, având deschisă calea unei acțiuni în justiție, întemeiată pe dispozițiile dreptului comun în materie, respectiv pe dispozițiile referitoare la teoria impreviziunii din codurile civile.
+14. Prin urmare, Curtea reține că acei consumatori care au împrumutat sume al căror cuantum, la momentul acordării, nu depășește echivalentul în lei al 250.000 euro, sumă calculată la cursul de schimb publicat de către Banca Națională a României în ziua încheierii contractului de credit, se pot prevala de remediile judiciare instituite de legea specială, respectiv Legea nr. 77/2016. În schimb, acele persoane care au împrumutat sume al căror cuantum, la momentul acordării, depășește echivalentul în lei a 250.000 euro, se pot prevala de remediile judiciare instituite de dreptul comun, respectiv prevederile art. 969 și art. 970 din Codul civil din 1864 ori, după caz, cele ale art. 1.271 din actualul Cod civil.
+15. Protecția specială oferită unei categorii de persoane, prin instituirea unui prag maxim al sumei efectiv împrumutate, nu reprezintă o discriminare, în sensul art. 16 din Constituție, a persoanelor care au împrumutat sume al căror cuantum depășește 250.000 euro, atâta vreme cât acestea pot recurge la mijloacele puse la dispoziție de dreptul comun, în vederea remedierii problemei impreviziunii cu care se confruntă și acea categorie de consumatori în mod special protejată de către legiuitorul ordinar.
+16. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituți e, precum și al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Floarea Doina Cachiță și Lorin Cachiță în Dosarul nr. 10.804/211/2016 al Tribunalului Specializat Cluj și constată că dispozițiile art. 4 alin. (1) lit. b) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Tribunalului Specializat Cluj și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 18 ianuarie 2018.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Cosmin-Marian Văduva
