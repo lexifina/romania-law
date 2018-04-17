@@ -1,0 +1,207 @@
+{
+ "key": "iccj-hp-18-2018",
+ "label": "Decizia ÎCCJ nr. 18/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2018-03-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 18 din 5 martie 2018",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "337",
+  "bis": false,
+  "date": "2018-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.970/1/2017",
+  "33.510/301/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "870",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "691",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a IV-a civilă în Dosarul nr. 33.510/301/2015 privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă dispozițiile art. 870 alin. (1) din Codul de procedură civilă, care reglementează posibilitatea participării la distribuirea de sume pentru toți creditorii interesați, presupun în mod necesar parcurgerea procedurii de intervenție prevăzute de art. 691 și următoarele din Codul de procedură civilă",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "870",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "691",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "705",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "703",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "690",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "695",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "874",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "869",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "865",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "866",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "867",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "868",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "696",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "692",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199798",
+  "text_sha256": "2ba1cf204f7498c7adf1e1b8b32eb801b3be3106dc071f8534675fa53a7fdec8",
+  "catalogue_sha256": "2ba1cf204f7498c7adf1e1b8b32eb801b3be3106dc071f8534675fa53a7fdec8",
+  "fetched": "2026-11-03T03:09:52Z",
+  "chars": 40219,
+  "portal_id": "199798",
+  "tip": "DECIZIE"
+ }
+}
