@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-02-15: documents published: Raport comisie sesizată pe fond
 - 2018-02-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-02-26: registered at the Chamber of Deputies
+- 2018-04-18: adopted by the Chamber of Deputies
 
 ## Documents
 
