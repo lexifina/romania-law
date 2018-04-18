@@ -1,0 +1,16 @@
+# Anexa nr. 4 la metodologie
+GRILA de evaluare a interviului
+Numele și prenumele candidatului..............................
+Numele candidatului
+Motivație -
+Gradul de cunoaștere al sistemului școlilor europene
+Competență didactică adecvată specificului postului:
+Abilități de predare diferențiată în mediu educațional multicultural și plurilingvistic:
+Studiu de caz. Identificarea soluțiilor adecvate pentru situații pedagogice concrete propuse de comisia de selecție:
+Inițiativă și creativitate -
+Total punctaj* 2 puncte 2 puncte 3 puncte 5 puncte 10 puncte 3 puncte 25 puncte
+*Punctajul acordat fiecărui candidat este de maximum 25 p. Sunt declarați admiși pentru participarea la etapa următoare candidații care obțin minimum 20 puncte.
+Data...............................
+Președintele Comisiei de selecție................................................................................
+Membrii Comisiei de selecție................................................................................................................................................................
+Vicepreședinții Comisiei de selecție........................................................................
