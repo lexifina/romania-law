@@ -1,0 +1,180 @@
+{
+ "key": "dcc-14-2018",
+ "label": "Decizia CCR nr. 14/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "14",
+ "date": "2018-01-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 14 din 18 ianuarie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II din Legea nr. 133/2012 pentru aprobarea Ordonanței de urgență a Guvernului nr. 64/2010 privind modificarea și completarea Legii cadastrului și a publicității imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "339",
+  "bis": false,
+  "date": "2018-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.305/122/2012",
+  "2.037D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de comuna Vidra, județul Ilfov, prin primar, în Dosarul nr. 2.305/122/2012 al Tribunalului Giurgiu - Secția civilă și constată că dispozițiile art. II din Legea nr. 133/2012 pentru aprobarea Ordonanței de urgență a Guvernului nr. 64/2010 privind modificarea și completarea Legii cadastrului și a publicității imobiliare nr. 7/1996 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Giurgiu - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 133/2012",
+    "number": "133",
+    "year": "2012",
+    "path": "lege/2012/133"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199801",
+  "text_sha256": "609bf93522d58fc478d15738543afdd62a1eada68e816b6de92019386a716528",
+  "catalogue_sha256": "609bf93522d58fc478d15738543afdd62a1eada68e816b6de92019386a716528",
+  "fetched": "2026-11-03T03:09:45Z",
+  "chars": 14925,
+  "portal_id": "199801",
+  "tip": "DECIZIE"
+ }
+}
