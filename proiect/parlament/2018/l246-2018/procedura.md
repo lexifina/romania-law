@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2018-02-28: registered at the Chamber of Deputies
+- 2018-04-18: adopted by the Chamber of Deputies
 
 ## Documents
 
