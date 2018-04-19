@@ -12,7 +12,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2018-02-28: registered at the Chamber of Deputies
 - 2018-04-18: adopted by the Chamber of Deputies
+- 2018-04-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2018-04-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246AD.PDF
+- 2018-04-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246FG.PDF
+- 2018-04-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246EM.PDF
