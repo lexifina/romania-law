@@ -1,0 +1,22 @@
+# Proiect de lege L243/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 260/2018 (`legea-260-2018`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.30/2018 privind instituirea unor măsuri în domeniul fondurilor europene şi pentru completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-04-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-04-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243AD.PDF
+- 2018-04-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243FG.PDF
+- 2018-04-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243EM.PDF
+- 2018-04-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243LG.PDF
+- 2018-04-20: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243OG.PDF
+- 2018-04-20: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243HG.PDF
