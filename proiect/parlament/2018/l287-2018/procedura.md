@@ -9,8 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2018-04-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului
+- 2018-04-23: documents published: Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2018-04-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L287AD.PDF
 - 2018-04-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L287FG.PDF
+- 2018-04-23: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L287LG.PDF
