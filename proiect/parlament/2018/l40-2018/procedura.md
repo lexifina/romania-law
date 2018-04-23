@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-24: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-03-12: documents published: Raport comisie sesizată pe fond
 - 2018-04-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2018-04-23: registered at the Chamber of Deputies
 
 ## Documents
 
