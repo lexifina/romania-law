@@ -1,0 +1,9 @@
+# Anexa nr. 1 (Anexa nr. 1A la Ordinul nr. 20/208/2015)
+Modelul copertei carnetului de comercializare
+Seria.....................
+ROMÂNIA
+Județul...........
+Primăria.................
+CARNET DE COMERCIALIZARE A PRODUSELOR DIN SECTORUL AGRICOL
+Valabilitatea prezentului carnet de comercializare a produselor din sectorul agricol este de 7 ani de la data emiterii, respectiv de la............................. până la............................................., și conține câte o filă distinctă pentru fiecare an.
+Carnetul de comercializare este valabil numai însoțit de atestatul de producător.
