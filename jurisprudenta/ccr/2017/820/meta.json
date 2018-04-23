@@ -1,0 +1,460 @@
+{
+ "key": "dcc-820-2017",
+ "label": "Decizia CCR nr. 820/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "820",
+ "date": "2017-12-12",
+ "year": "2017",
+ "heading": "DECIZIA nr. 820 din 12 decembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 91^2 alin. 1 teza a doua din Codul de procedură penală din 1968, ale art. 282 alin. (4) lit. a) ș i c) din Codul de procedură penală, precum și ale art. 3, art. 4 alin. (2) ș i ale art. 7 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "353",
+  "bis": false,
+  "date": "2018-04-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "126/84/2015",
+  "1.122D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "91-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3 și a rt. 7 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale, excepție ridicată de Felician Volin Ștefan, Alin Gabriel Botiș, Darius Florin Ciurte, Dan Radu Bartiș, Cristian Ioan Pop, Ioan Ciure, Dan Moldovan și Mircea Cristian Ciobăncan în Dosarul nr. 126/84/2015 al Tribunalului Sălaj - Secția penală, precum și a dispozițiilor art. 282 alin. (4) lit. a) și c) din Codul de procedură penală și ale art. 4 alin. (2) din Legea nr. 255/2013, excepție ridicată de aceiași autori și de Simion Ielciu în același dosar.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori și de Simion Ielciu în același dosar și constată că dispozițiile art. 91^2 alin. 1 teza a doua din Codul de procedură penală din 1968 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Sălaj - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "91-2",
+     "alin": [
+      "1",
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "142",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 60/2006",
+    "number": "60",
+    "year": "2006",
+    "path": "oug/2006/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-04-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/199889",
+  "text_sha256": "613555ec58e3b966c7d7affd763c536cb88673cf22af6c875fe0938dd6370b28",
+  "catalogue_sha256": "613555ec58e3b966c7d7affd763c536cb88673cf22af6c875fe0938dd6370b28",
+  "fetched": "2026-11-03T03:09:37Z",
+  "chars": 64961,
+  "portal_id": "199889",
+  "tip": "DECIZIE"
+ }
+}
