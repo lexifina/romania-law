@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2018-03-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-31: sent for promulgation
 - 2018-04-19: promulgated, becomes Legea nr. 93/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-04-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2018-04-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029DP.PDF
 - 2018-04-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029AFP.PDF
 - 2018-04-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029FP.PDF
+- 2018-04-24: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-04-24: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-04-24: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L029TC.PDF (its day is not given by the bill file: shown from the last stage held)
