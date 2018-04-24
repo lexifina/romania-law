@@ -1,0 +1,46 @@
+{
+ "key": "cedo-55116-12-2018-04-24",
+ "label": "CEDO, OVIDIU CRISTIAN STOICA c. României, 2018-04-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2018-04-24",
+ "year": "2018",
+ "heading": "AFFAIRE OVIDIU CRISTIAN STOICA CONTRE LA ROUMANIE",
+ "subtitle": "OVIDIU CRISTIAN STOICA v. Romania",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": null,
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "55116/12"
+ ],
+ "case_name": "OVIDIU CRISTIAN STOICA",
+ "subjects": [],
+ "operative": [],
+ "cites": [],
+ "articles_violated": [],
+ "final_date": "2018-07-24",
+ "hudoc_itemid": "001-225828",
+ "hudoc_item_is_translation": false,
+ "ecli": "ECLI:CE:ECHR:2018:0424JUD005511612",
+ "hudoc_url": "https://hudoc.echr.coe.int/eng?i=001-225828",
+ "execution": {
+  "type": "repetitive",
+  "record": "004-50085",
+  "url": "https://hudoc.exec.coe.int/eng?i=004-50085"
+ },
+ "text": null,
+ "text_note": "Metadata only: no Romanian translation of this judgment was published in the Monitorul Oficial; the official English or French text is on HUDOC.",
+ "source": {
+  "name": "HUDOC-EXEC",
+  "url": "https://hudoc.exec.coe.int/app/query/results?query=contentsitename%3AEXEC%20AND%20%28execstate%3D%22ROU%22%29%20AND%20%28execdocumenttype%3D%22CEC%22%29%20AND%20%28execlanguage%3D%22ENG%22%29&select=execappno,exectitle,execdocnamefromechr,execitemidfromechr,execjudgmentdate,execfinaljudgmentdate,exectype,execsupervision,execisclosed,execviolationsfromechr,execfinalresolutiondate,execidentifier,appnocode,execprecedentappnos,execisgroupmaster,execmasterappno,execfs,execlanguage,execstate&sort=&start=0&length=1000",
+  "sha256": [
+   "f9992850c9a6516b84a3e63bcfa927659fd049f24938e1dac37e07bcf38acd8e",
+   "9c3978adde9f7e56f1428f2313627f789c2e0b47600f672fbaf128aad955328c",
+   "ac7e1ecaf4613753e6f15a5350489d0069ca89891198223b0aadf43ee93ca659"
+  ]
+ },
+ "warnings": []
+}
