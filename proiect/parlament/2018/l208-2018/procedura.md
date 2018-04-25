@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2017-12-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-02-05: documents published: Aviz Consiliul Legislativ
+- 2018-04-25: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-12-21: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L208FG.PDF
 - 2017-12-21: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L208EM.PDF
 - 2018-02-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L208LG.PDF
+- 2018-04-25: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L208CR.PDF
