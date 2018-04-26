@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-05: first record in the bill file
 - 2018-02-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-02-13: documents published: Aviz Consiliul Legislativ, Punct de vedere
+- 2018-04-26: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L231EM.PDF
 - 2018-02-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L231LG.PDF
 - 2018-02-13: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L231PV.PDF
+- 2018-04-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L231CR.PDF
