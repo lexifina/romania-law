@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale în condițiile art. 1 din Ordonanța de urgență a Guvernului nr. 11/2018 pentru adoptarea unor măsuri bugetare și pentru completarea art. 63 din Legea nr. 273/2006 privind finanțele publice locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice
