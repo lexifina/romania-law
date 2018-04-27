@@ -13,7 +13,13 @@ Initiator: Guvernul României.
 - 2018-04-10: registered at the Chamber of Deputies
 - 2018-04-24: documents published: Raport comisie sesizată pe fond
 - 2018-04-25: adopted by the Chamber of Deputies
+- 2018-04-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2018-04-24: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260CR.PDF
+- 2018-04-27: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260AD.PDF
+- 2018-04-27: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260FG.PDF
+- 2018-04-27: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260EM.PDF
+- 2018-04-27: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260LG.PDF
+- 2018-04-27: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260HG.PDF
