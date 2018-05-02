@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2017-11-07: documents published: Aviz Consiliul Legislativ
 - 2018-02-21: documents published: Aviz comisie
+- 2018-05-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-31: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L059EM.PDF
 - 2017-11-07: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L059LG.PDF
 - 2018-02-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L059CA3.PDF
+- 2018-05-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L059FS.PDF
+- 2018-05-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L059AM.PDF
