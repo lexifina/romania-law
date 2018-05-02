@@ -1,0 +1,368 @@
+{
+ "key": "dcc-62-2018",
+ "label": "Decizia CCR nr. 62/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "62",
+ "date": "2018-02-13",
+ "year": "2018",
+ "heading": "DECIZIA nr. 62 din 13 februarie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru modificarea art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "373",
+  "bis": false,
+  "date": "2018-05-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.980A/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată de un număr de 64 de deputați aparținând Grupului parlamentar al Partidului Național Liberal și constată că Legea pentru modificarea art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 109/2011 privind guvernanța corporativă a întreprinderilor publice este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 190/2011",
+    "number": "190",
+    "year": "2011",
+    "path": "oug/2011/190"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 29/2017",
+    "number": "29",
+    "year": "2017",
+    "path": "oug/2017/29"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 267/2017",
+    "number": "267",
+    "year": "2017",
+    "path": "lege/2017/267"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2017",
+    "number": "161",
+    "year": "2017",
+    "path": "lege/2017/161"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-05-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200237",
+  "text_sha256": "0ea5b42ba9d3c7c1bab463cc97cc9087df580ef3ca5aa09f0b9b2215ec8e6d79",
+  "catalogue_sha256": "0ea5b42ba9d3c7c1bab463cc97cc9087df580ef3ca5aa09f0b9b2215ec8e6d79",
+  "fetched": "2026-11-03T03:09:14Z",
+  "chars": 66757,
+  "portal_id": "200237",
+  "tip": "DECIZIE"
+ }
+}
