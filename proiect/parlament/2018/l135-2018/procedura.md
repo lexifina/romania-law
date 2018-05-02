@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-28: documents published: Aviz comisie
 - 2018-03-07: documents published: Aviz comisie
 - 2018-03-13: documents published: Aviz comisie
+- 2018-05-02: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-28: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L135CA3.PDF
 - 2018-03-07: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L135CA1.PDF
 - 2018-03-13: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L135CA16.PDF
+- 2018-05-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L135AM.PDF
