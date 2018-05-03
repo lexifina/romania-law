@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-02-13: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-04-24: documents published: Aviz comisie
+- 2018-05-03: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L229LG.PDF
 - 2018-02-13: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L229PV.PDF
 - 2018-04-24: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L229CA15.PDF
+- 2018-05-03: Aviz comisie (CA4): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L229CA4.PDF
+- 2018-05-03: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L229CA7.PDF
