@@ -1,0 +1,16 @@
+# ANEXĂ (Anexa nr. 2 la procedură)
+Denumirea instituției publice..............................
+Adresa................................................................
+Nr.............../data...................
+SITUAȚIA sumelor care se indisponibilizează din disponibilitățile/creditele bugetare deschise și neutilizate existente în conturi la data de....., comunicate prin situația prevăzută în anexa nr. 1 nr....../data.....
+- lei -
+Sume din conturi de disponibilități care se indisponibilizează
+Credite bugetare deschise și neutilizate care se indisponibilizează
+Simbol cont
+Suma
+Simbol cont
+Suma
+În cazul bugetelor locale, va fi nominalizată și secțiunea de la care se efectuează indisponibilizarea.
+Declar că prezenta anexă a fost completată cu respectarea prevederilor Ordonanței Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, aprobată cu completări prin Legea nr. 288/2002, cu modificările și completările ulterioare, atât în ceea ce privește sumele ce sunt exceptate de la executarea silită, cât și termenele și obligațiile ordonatorilor de credite prevăzute de Ordonanța Guvernului nr. 22/2002, aprobată cu completări prin Legea nr. 288/2002, cu modificările și completările ulterioare, sau alte acte normative în vigoare.
+Ordonator de credite,.....................
+----
