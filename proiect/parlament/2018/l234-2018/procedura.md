@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-02-13: documents published: Aviz Consiliul Legislativ
 - 2018-05-03: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2018-05-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234LG.PDF
 - 2018-05-03: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234CA7.PDF
 - 2018-05-03: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234CR.PDF
+- 2018-05-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234FS.PDF
+- 2018-05-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234AM.PDF
