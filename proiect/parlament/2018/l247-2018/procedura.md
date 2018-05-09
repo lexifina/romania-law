@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: rejected by the Chamber of Deputies
 - 2018-04-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-05-08: documents published: Aviz comisie
+- 2018-05-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L247FG.PDF
 - 2018-04-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L247EM.PDF
 - 2018-05-08: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L247CA15.PDF
+- 2018-05-09: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L247CA7.PDF
