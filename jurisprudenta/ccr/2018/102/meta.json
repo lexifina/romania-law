@@ -1,0 +1,374 @@
+{
+ "key": "dcc-102-2018",
+ "label": "Decizia CCR nr. 102/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "102",
+ "date": "2018-03-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 102 din 6 martie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 505 alin. (2) din Codul de procedură penală, precum și a sintagmei \"care nu a împlinit 16 ani\" din cuprinsul dispozițiilor art. 505 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "400",
+  "bis": false,
+  "date": "2018-05-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "22.750/245/2016/a1",
+  "2.805D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "505",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Marius-Iulian Druțu în Dosarul nr. 22.750/245/2016/a1 al Judecătoriei Iași - Secția penală și constată că dispozițiile art. 505 alin. (2) din Codul de procedură penală, precum și sintagma „care nu a împlinit 16 ani“ din cuprinsul art. 505 alin. (1) din Codul de procedură sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președinților celor două Camere ale Parlamentului, Guvernului și Judecătoriei Iași - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "505",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "508",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": [
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "504",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "506",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "507",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "510",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "511",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "512",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "513",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1990",
+    "number": "18",
+    "year": "1990",
+    "path": "lege/1990/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-05-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200576",
+  "text_sha256": "ad0fb31b7f750427d2e7a2be5054180e9473950b17a26352da95a38b0ca13fc8",
+  "catalogue_sha256": "ad0fb31b7f750427d2e7a2be5054180e9473950b17a26352da95a38b0ca13fc8",
+  "fetched": "2026-11-03T03:08:51Z",
+  "chars": 34267,
+  "portal_id": "200576",
+  "tip": "DECIZIE"
+ }
+}
