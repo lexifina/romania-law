@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-04-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-04-25: sent for promulgation
 - 2018-05-10: promulgated, becomes Legea nr. 106/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-05-14: published in the Monitorul Oficial
 
 ## Documents
 
