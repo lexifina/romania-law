@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-21: first record in the bill file
 - 2018-02-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-02-27: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
+- 2018-05-15: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-27: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L269ES.PDF
 - 2018-02-27: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L269LG.PDF
 - 2018-02-27: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L269PV.PDF
+- 2018-05-15: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L269CA15.PDF
