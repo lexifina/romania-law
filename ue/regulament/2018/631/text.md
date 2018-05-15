@@ -1,0 +1,31 @@
+REGULAMENTUL DELEGAT (UE) 2018/631 AL COMISIEI
+din 7 februarie 2018
+de completare a Regulamentului (UE) 2017/625 al Parlamentului European și al Consiliului prin stabilirea de laboratoare de referință ale Uniunii Europene pentru organismele dăunătoare plantelor
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2017/625 al Parlamentului European și al Consiliului din 15 martie 2017 privind controalele oficiale și alte activități oficiale efectuate pentru a asigura aplicarea legislației privind alimentele și furajele, a normelor privind sănătatea și bunăstarea animalelor, sănătatea plantelor și produsele de protecție a plantelor, de modificare a Regulamentelor (CE) nr. 999/2001, (CE) nr. 396/2005, (CE) nr. 1069/2009, (CE) nr. 1107/2009, (UE) nr. 1151/2012, (UE) nr. 652/2014, (UE) 2016/429 și (UE) 2016/2031 ale Parlamentului European și ale Consiliului, a Regulamentelor (CE) nr. 1/2005 și (CE) nr. 1099/2009 ale Consiliului și a Directivelor 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE și 2008/120/CE ale Consiliului și de abrogare a Regulamentelor (CE) nr. 854/2004 și (CE) nr. 882/2004 ale Parlamentului European și ale Consiliului, precum și a Directivelor 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE și 97/78/CE ale Consiliului și a Deciziei 92/438/CEE a Consiliului (Regulamentul privind controalele oficiale) (1), în special articolul 92 alineatul (4),
+întrucât:
+(1) Autoritățile competente au obligația de a lua măsuri corespunzătoare și la timp împotriva organismelor dăunătoare de carantină în sensul articolului 3 din Regulamentul (UE) 2016/2031 al Parlamentului European și al Consiliului (2), precum și împotriva organismelor dăunătoare care nu sunt incluse pe lista organismelor dăunătoare de carantină pentru Uniune, dar care, în conformitate cu articolul 30 alineatul (1) din regulamentul menționat, pot îndeplini condițiile pentru a fi incluse pe lista respectivă. Eficacitatea controalelor oficiale și a altor activități oficiale care asigură conformarea la legislația Uniunii este extrem de importantă în acest sens.
+(2) Eficacitatea menționată depinde de calitatea, uniformitatea și fiabilitatea metodelor de analizare, testare sau diagnosticare utilizate de laboratoarele oficiale desemnate în conformitate cu articolul 37 alineatul (1) din Regulamentul (UE) 2017/625, dar și de rezultatele analizelor, testelor și diagnosticărilor efectuate de respectivele laboratoare oficiale.
+(3) Aceste metode trebuie să fie mereu actualizate și, dacă este necesar, îmbunătățite pentru a asigura calitatea, uniformitatea și fiabilitatea datelor pe care le generează pe baza analizelor, testelor și diagnosticărilor.
+(4) Măsurile luate în cazul unor infestări anterioare indică faptul că laboratoarele oficiale desemnate în conformitate cu articolul 37 din Regulamentul (UE) 2017/625 ar putea beneficia de pe urma coordonării și asistenței pentru a îmbunătăți și pentru a promova practici uniforme în ceea ce privește elaborarea sau utilizarea metodelor de analizare, testare sau diagnosticare folosite de respectivele laboratoare oficiale, precum și în ceea ce privește interpretarea rezultatelor.
+(5) Laboratoarele de referință ale Uniunii Europene ar trebui, prin urmare, să contribuie la îmbunătățirea și la armonizarea metodelor de analizare, testare sau diagnosticare, la dezvoltarea unor metode validate și la coordonarea asistenței oferite respectivelor laboratoare oficiale.
+(6) Pentru a asigura specializarea corespunzătoare, ar trebui înființat câte un laborator de referință al Uniunii Europene pentru fiecare categorie specifică de organisme dăunătoare. Categoriile respective ar trebui să țină seama de natura și de biologia organismelor dăunătoare, astfel cum se reflectă în clasificarea acestora prevăzută în partea A din anexa I și în partea A din anexa II la Directiva 2000/29/CE a Consiliului (3). Din această perspectivă, ar trebui înființate laboratoare de referință ale Uniunii Europene pentru următoarele categorii de organisme dăunătoare: insecte și acarieni, nematozi, bacterii, ciuperci și mană, precum și virusuri, viroizi și fitoplasme (termenul actualizat pentru „micoplasme” astfel cum sunt menționate în directiva menționată),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se înființează laboratoare de referință ale Uniunii Europene în ceea ce privește organismele dăunătoare de carantină prevăzute la articolul 3 din Regulamentul (UE) 2016/2031 și în ceea ce privește organismele dăunătoare care nu sunt incluse pe lista organismelor dăunătoare de carantină pentru Uniune, dar care, în conformitate cu articolul 30 alineatul (1) din regulamentul menționat, pot îndeplini condițiile pentru a fi incluse pe lista respectivă, pe baza clasificării prevăzute în Directiva 2000/29/CE:
+(a) un laborator de referință al Uniunii Europene pentru insecte și acarieni;
+(b) un laborator de referință al Uniunii Europene pentru nematozi;
+(c) un laborator de referință al Uniunii Europene pentru bacterii;
+(d) un laborator de referință al Uniunii Europene pentru ciuperci și mană;
+(e) un laborator de referință al Uniunii Europene pentru virusuri, viroizi și fitoplasme.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 7 februarie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 95, 7.4.2017, p. 1.
+(2) Regulamentul (UE) 2016/2031 al Parlamentului European și al Consiliului din 26 octombrie 2016 privind măsurile de protecție împotriva organismelor dăunătoare plantelor, de modificare a Regulamentelor (UE) nr. 228/2013, (UE) nr. 652/2014 și (UE) nr. 1143/2014 ale Parlamentului European și ale Consiliului și de abrogare a Directivelor 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE și 2007/33/CE ale Consiliului (JO L 317, 23.11.2016, p. 4).
+(3) Directiva 2000/29/CE a Consiliului din 8 mai 2000 privind măsurile de protecție împotriva introducerii în Comunitate a unor organisme dăunătoare plantelor sau produselor vegetale și împotriva răspândirii lor în Comunitate (JO L 169, 10.7.2000, p. 1).
