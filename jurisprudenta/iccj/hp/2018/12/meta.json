@@ -1,0 +1,259 @@
+{
+ "key": "iccj-hp-12-2018",
+ "label": "Decizia ÎCCJ nr. 12/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2018-02-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 12 din 22 februarie 2018",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Iași, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: termenul în care creditorul poate solicita fixarea sumei definitive care i se va datora de debitor cu titlu de penalități",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "418",
+  "bis": false,
+  "date": "2018-05-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.341/1/2017",
+  "2.711/99/2016",
+  "1.560/118/2012",
+  "842/99/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunțarea unei hotărâri prealabile, formulată de Curtea de Apel Iași - Secția de contencios administrativ și fiscal în Dosarul nr. 2.711/99/2016, și, în consecință, stabilește că:",
+  "În interpretarea prevederilor art. 24 alin. (4) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare: – termenul în care creditorul poate solicita fixarea sumei ce i se datorează de către debitor cu titlu de penalități este termenul de prescripție a executării silite, de 3 ani, reglementat de art. 706 din Codul de procedură civilă, termen care curge de la data executării obligației sau, în caz de neexecutare, de la data expirării termenului de trei luni, înăuntrul căruia debitorul avea posibilitatea să execute în natură obligația;",
+  "– penalitățile stabilite în procent pe zi de întârziere se calculează de la momentul indicat în încheierea pronunțată în cadrul procedurii reglementate de art. 24 alin. (3) din Legea nr. 554/2004, cu modificările și completările ulterioare, până la executarea obligației, dar nu mai târziu de momentul expirării termenului de trei luni, înăuntrul căruia debitorul avea posibilitatea să execute în natură obligația, în caz de neexecutare;",
+  "– în cadrul procedurii reglementate de art. 24 alin. (4) din Legea nr. 554/2004, cu modificările și completările ulterioare, instanța de judecată poate stabili valoarea obiectului obligației la care se aplică penalitățile de întârziere stabilite în procent pe zi de întârziere, în ipoteza în care instanța prevăzută la art. 24 alin. (3) din aceeași lege nu a stabilit acest lucru.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4",
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "705",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4",
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 72
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 109/2007",
+    "number": "109",
+    "year": "2007"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1534",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200703",
+  "text_sha256": "15d15bb6e4a0dd1f91eb03bea6a6560cd6839c4409b008e974df11f8efecb818",
+  "catalogue_sha256": "15d15bb6e4a0dd1f91eb03bea6a6560cd6839c4409b008e974df11f8efecb818",
+  "fetched": "2026-11-03T03:08:43Z",
+  "chars": 75840,
+  "portal_id": "200703",
+  "tip": "DECIZIE"
+ }
+}
