@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-11-13: registered at the Chamber of Deputies
 - 2018-04-25: adopted by the Chamber of Deputies
 - 2018-04-27: registered at the Senate
+- 2018-05-16: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Membri ai Parlamentului.
 - 2017-09-13: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270EM.PDF
 - 2017-09-19: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270LG.PDF
 - 2017-11-01: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270CA1.PDF
+- 2018-05-16: Aviz comisie (CA11): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270CA11.PDF
+- 2018-05-16: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270CA8.PDF
+- 2018-05-16: Aviz comisie (CA4): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270CA4.PDF
