@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-04-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-04-18: sent for promulgation
 - 2018-05-07: promulgated, becomes Legea nr. 105/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-05-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Guvernul României.
 - 2018-05-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164DP.PDF
 - 2018-05-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164AFP.PDF
 - 2018-05-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164FP.PDF
+- 2018-05-16: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-05-16: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-05-16: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-05-16: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L164TC.PDF (its day is not given by the bill file: shown from the last stage held)
