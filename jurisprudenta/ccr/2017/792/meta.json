@@ -1,0 +1,342 @@
+{
+ "key": "dcc-792-2017",
+ "label": "Decizia CCR nr. 792/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "792",
+ "date": "2017-12-05",
+ "year": "2017",
+ "heading": "DECIZIA nr. 792 din 5 decembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Legii nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, în integralitatea sa",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "415",
+  "bis": false,
+  "date": "2018-05-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "8.018/231/2016",
+  "2.013D/2016",
+  "9.581/1748/2016",
+  "15.387/215/2016",
+  "13.242/212/2016/a1",
+  "28.081/299/2016",
+  "23.870/299/2016",
+  "26.711/299/2016",
+  "1.392/277/2016",
+  "1.191/184/2016/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, raportate la prevederile art. 3 teza întâi, precum și excepția de neconstituționalitate a prevederilor art. 11 teza a doua din același act normativ, excepție ridicată de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 8.018/231/2016 al Judecătoriei Focșani - Secția civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 6.466/1.748/2016 al Judecătoriei Cornetu, de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 9.581/1748/2016 al Judecătoriei Cornetu, de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 15.387/215/2016 al Judecătoriei Craiova - Secția civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 13.242/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 28.081/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 23.870/299/2016 al Judecătoriei Sectorului 1 București, de Societatea ING Bank NV Amsterdam, sucursala din București, în Dosarul nr. 26.711/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 1.392/277/2016 al Judecătoriei Pătârlagele, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 7.811/1748/2016 al Judecătoriei Cornetu, de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 1.191/184/2016/a1 al Tribunalului Olt - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 18.378/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 16.939/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 13.217/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București în Dosarul nr. 15.752/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 8.462/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 2.737/337/2016 al Judecătoriei Zalău, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 13.490/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Banca Transilvania - S.A. din Cluj în Dosarul nr. 13.259/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București, în Dosarul nr. 11.807/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 13.399/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București în Dosarul nr. 14.825/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 14.343/325/2016 al Judecătoriei Timișoara - Secția a IIa civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 7.177/200/2016 al Judecătoriei Târgoviște, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 6.267/1.748/2016 al Judecătoriei Cornetu, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 8.595/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 16.252/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 8.714/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 4.322/204/2016 al Judecătoriei Câmpina - Secția civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 13.912/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 15.804/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Piraeus Bank România - S.A. din București în Dosarul nr. 13.309/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 7.200/315/2016 al Judecătoriei Târgoviște, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 6.147/296/2016 al Judecătoriei Satu Mare - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 8.242/200/2016 al Judecătoriei Buzău - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 8.353/200/2016 al Judecătoriei Buzău - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 15.386/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 6.200/190/2016 al Judecătoriei Bistrița - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 5.241/176/2016 al Judecătoriei Alba Iulia, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 2.087/257/2016 al Judecătoriei Mediaș - Secția generală, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 19.512/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 2.952/337/2016 al Judecătoriei Zalău, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 11.139/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 12.800/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea ALPHA BANK ROMÂNIA - S.A. din București în Dosarul nr. 26.183/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 6.268/1.748/2016 al Judecătoriei Cornetu, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 19.077/325/2016 al Judecătoriei Timișoara - Secția I civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 22.016/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 911/833/2016 al Judecătoriei Salonta, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 17.221/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 15.423/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 15.990/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 3.033/337/2016 al Judecătoriei Zalău, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 14.292/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 10.259/200/2016 al Judecătoriei Buzău - Secția civilă, de Societatea Piraeus Bank România - S.A., cu sediul în București, în Dosarul nr. 15.122/212/2016 al Judecătoriei Constanța - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 15.122/212/2016 al Judecătoriei Constanța - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 4.016/176/2016 al Judecătoriei Alba Iulia, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 17.658/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 12.560/197/2016 al Judecătoriei Brașov, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 27.146/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 18.692/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 20.276/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 12.090/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 12.020/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, cu sediul în București, în Dosarul nr. 22.128/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 10.015/1.748/2016 al Judecătoriei Cornetu, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 16.862/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 18.733/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 18.452/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 684/191/2016 al Judecătoriei Blaj, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 11.614/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 18.520/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 18.521/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului Nati onal Bank of Greece, în Dosarul nr. 11.370/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 9.510/94/2016 al Judecătoriei Buftea, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 10.067/211/2016 al Judecătoriei Cluj-Napoca, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 18.380/245/2016 al Judecătoriei Iași - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 15.803/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 3.452/176/2016 al Judecătoriei Alba Iulia, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 3.232/176/2016 al Judecătoriei Alba Iulia, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 13.773/325/2016/a1 al Judecătoriei Timișoara - Secția I civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 10.268/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 11.152/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, precum și de către Societatea Banca Românească - S.A., membră a Grupului National Bank of Greece, în Dosarul nr. 4.891/202/2016 al Judecătoriei Călărași.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, raportate la prevederile art. 3 teza a doua, art. 4, art. 7 alin. (1)-(3) și alin. (5)-(6) și ale art. 8 din același act normativ, excepție ridicată de aceleași părți în aceleași dosare ale acelorași instanțe judecătorești.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate a prevederilor art. 11 teza întâi raportate la celelalte prevederi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de aceleași părți în aceleași dosare ale acelorași instanțe judecătorești, și constată că acestea sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică către Judecătoria Focșani - Secția civilă, Judecătoria Sectorului 1 București, Judecătoria Cornetu, Judecătoria Bacău - Secția civilă, Judecătoria Zalău, Judecătoria Mediaș, Judecătoria Buzău - Secția civilă, Judecătoria Sectorului 2 București - Secția civilă, Judecătoria Alba Iulia, Judecătoria Sectorului 6 București - Secția civilă, Judecătoria Constanța - Secția civilă, Judecătoria Sectorului 3 București - Secția civilă, Judecătoria Timișoara - Secția a II-a civilă, Judecătoria Târgoviște, Judecătoria Satu Mare - Secția civilă, Judecătoria Bistrița - Secția civilă, Judecătoria Sectorului 5 București - Secția a II-a civilă, Judecătoria Iași - Secția civilă, Judecătoria Cluj-Napoca, Judecătoria Călărași, Judecătoria Craiova - Secția civilă, Judecătoria Pătârlagele, Tribunalul Olt - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoria Sectorului 4 București, Judecătoria Buftea - Secția civilă, Judecătoria Câmpina - Secția civilă, Judecătoria Salonta, Judecătoria Sectorului 5 București - Secția civilă, Judecătoria Galați - Secția civilă, Judecătoria Sectorului 5 București, Judecătoria Brașov, Judecătoria Blaj și Judecătoria Timișoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "0",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 133
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200691",
+  "text_sha256": "bce665e8c61538978a0b89c2aa7a4f735e39aae2eb8b8f512796a9ae681a9d4d",
+  "catalogue_sha256": "bce665e8c61538978a0b89c2aa7a4f735e39aae2eb8b8f512796a9ae681a9d4d",
+  "fetched": "2026-11-03T03:08:42Z",
+  "chars": 106840,
+  "portal_id": "200691",
+  "tip": "DECIZIE"
+ }
+}
