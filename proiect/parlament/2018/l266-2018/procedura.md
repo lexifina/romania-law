@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-27: documents published: Aviz Consiliul Legislativ
 - 2018-05-09: documents published: Aviz comisie
 - 2018-05-15: documents published: Aviz comisie
+- 2018-05-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-27: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L266LG.PDF
 - 2018-05-09: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L266CA7.PDF
 - 2018-05-15: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L266CA15.PDF
+- 2018-05-17: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L266CA12.PDF
+- 2018-05-17: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L266CA3.PDF
