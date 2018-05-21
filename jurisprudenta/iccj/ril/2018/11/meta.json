@@ -1,0 +1,287 @@
+{
+ "key": "iccj-ril-11-2018",
+ "label": "Decizia ÎCCJ nr. 11/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2018-04-16",
+ "year": "2018",
+ "heading": "DECIZIA nr. 11 din 16 aprilie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 784 alin. (1) teza a doua din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "430",
+  "bis": false,
+  "date": "2018-05-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.547/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "784",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 784 alin. (1) teza a doua din Codul de procedură civilă, suspendarea urmăririi silite prin poprire bancară înlătură obligația terțului poprit de a indisponibiliza și încasările, în contul debitorului poprit, ulterioare suspendării.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "784",
+     "alin": [
+      "1",
+      "7",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "701",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "781",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "783",
+     "alin": [
+      "4",
+      "2",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "782",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "787",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "689",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "8",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 459/2006",
+    "number": "459",
+    "year": "2006",
+    "path": "lege/2006/459"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "233",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "236",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1560",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1407",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1412",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2191",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "783",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200916",
+  "text_sha256": "f9897b0954d9d14b47ffde40bea217b53f19095e50faa3933aae862786adb8a1",
+  "catalogue_sha256": "f9897b0954d9d14b47ffde40bea217b53f19095e50faa3933aae862786adb8a1",
+  "fetched": "2026-11-06T03:50:16Z",
+  "chars": 62372,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405185621/https://legislatie.just.ro/Public/DetaliiDocumentAfis/200916",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/200916",
+   "timestamp": "20250405185621",
+   "sha256": "e03c88389d5ec65a3ea72e0929df4658f3c765769706cb903db224445f086332"
+  },
+  "portal_id": "200916",
+  "tip": "DECIZIE"
+ }
+}
