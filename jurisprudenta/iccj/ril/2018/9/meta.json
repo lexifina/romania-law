@@ -1,0 +1,213 @@
+{
+ "key": "iccj-ril-9-2018",
+ "label": "Decizia ÎCCJ nr. 9/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "9",
+ "date": "2018-03-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 9 din din 19 martie 2018",
+ "subtitle": "referitoare la recursul în interesul legii promovat de Colegiul de conducere al Curții de Apel București privind \"posibilitatea cenzurării procedurii de cameră preliminară în apel și limitele acestei cenzuri\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "429",
+  "bis": false,
+  "date": "2018-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "142/1/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii promovat de Colegiul de conducere al Curții de Apel București privind „posibilitatea cenzurării procedurii de cameră preliminară în apel și limitele acestei cenzuri“.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "1",
+      "4",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "280",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": [
+      "1",
+      "4",
+      "5",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "f"
+     ]
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "364",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200910",
+  "text_sha256": "ed25e61c6b19feac63afb804c5e8a00a45725df779a2ef221c247362fbdb87a5",
+  "catalogue_sha256": "ed25e61c6b19feac63afb804c5e8a00a45725df779a2ef221c247362fbdb87a5",
+  "fetched": "2026-11-03T03:08:32Z",
+  "chars": 61528,
+  "portal_id": "200910",
+  "tip": "DECIZIE"
+ }
+}
