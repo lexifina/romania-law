@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2018-05-09: documents published: Aviz comisie
 - 2018-05-17: documents published: Aviz comisie
 - 2018-05-18: documents published: Aviz comisie
+- 2018-05-22: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2018-05-09: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260CA8.PDF
 - 2018-05-17: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260CA3.PDF
 - 2018-05-18: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260CA16.PDF
+- 2018-05-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260FS.PDF
