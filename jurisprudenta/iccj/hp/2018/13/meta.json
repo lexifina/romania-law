@@ -1,0 +1,183 @@
+{
+ "key": "iccj-hp-13-2018",
+ "label": "Decizia ÎCCJ nr. 13/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "13",
+ "date": "2018-02-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 13 din 26 februarie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea unor chestiuni de drept: natura juridică a certificatului de urbanism și în ce măsură certificatul de urbanism emis în scop preoperațional poate fi cenzurat de instanță, sub aspectul legalității, în lipsa unei solicitări exprese a părții interesate",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "432",
+  "bis": false,
+  "date": "2018-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.562/1/2017",
+  "3.411/100/2015",
+  "5.575/100/2010"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 3.411/100/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Natura juridică a certificatului de urbanism emis în scop preoperațional este aceea de act administrativ individual sau, dimpotrivă, aceea de operațiune administrativă neproducătoare de efecte juridice?",
+  "2. În ipoteza în care prima cerere ar fi considerată inadmisibilă sau în situația în care Înalta Curte de Casație și Justiție stabilește că un astfel de certificat este operațiune administrativă, în ce măsură certificatul de urbanism emis în scop preoperațional poate fi cenzurat de instanță, sub aspectul legalității, în lipsa unei solicitări exprese a părții interesate, în temeiul art. 18 alin. (2) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 350/2001",
+    "number": "350",
+    "year": "2001",
+    "path": "lege/2001/350"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/200922",
+  "text_sha256": "ab0c8250c8862d57f26e093c16fb8eec58b0249b7ce98c26f7ad6136134d07f3",
+  "catalogue_sha256": "ab0c8250c8862d57f26e093c16fb8eec58b0249b7ce98c26f7ad6136134d07f3",
+  "fetched": "2026-11-03T03:08:32Z",
+  "chars": 54541,
+  "portal_id": "200922",
+  "tip": "DECIZIE"
+ }
+}
