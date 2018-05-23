@@ -1,0 +1,19 @@
+# Propunere legislativă L372/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 228/2018 (`legea-228-2018`).
+
+Propunere legislativă pentru modificarea şi completarea Legii nr.267/2008 privind unele măsuri speciale pentru reglementarea avansului rest de justificat şi pentru efectuarea recepţiei în fază unică a lucrărilor de construcţii şi a instalaţiilor aferente acestora la obiectivul de investiţii Palatul Parlamentului, precum şi pentru reglementarea unor măsuri cu privire la administrarea imobilului „Palatul Parlamentului"
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-05-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-05-23: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L372AD.PDF
+- 2018-05-23: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L372FG.PDF
+- 2018-05-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L372EM.PDF
