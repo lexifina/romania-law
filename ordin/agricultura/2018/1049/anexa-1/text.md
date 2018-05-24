@@ -1,0 +1,2 @@
+# Anexe nr. 1-5
+ANEXE privind modificarea si completarea Normelor metodologice privind conditiile de punere in aplicare a masurii de restructurare/reconversie a plantatiilor viticole, eligibila pentru finantare in cadrul Programului National de Sprijin al Romaniei in sectorul vitivinicol 2014-2018, aprobate prin Ordinul viceprim-ministrului, ministrul agriculturii si dezvoltarii rurale, nr. 1.763/2014
