@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-04-23: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-05-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-08: sent for promulgation
+- 2018-05-25: promulgated, becomes Legea nr. 118/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2018-04-23: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185FS.PDF
 - 2018-05-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185AXS.PDF
 - 2018-05-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185LP.PDF
+- 2018-05-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185DP.PDF
+- 2018-05-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185AFP.PDF
+- 2018-05-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L185FP.PDF
