@@ -1,0 +1,34 @@
+# Anexa nr. 1 la normele metodologice
+Repartizarea compensației ce va fi cuprinsă în contractele de servicii publice/actele adiționale la acestea pentru a fi acordată de la bugetul de stat pentru susținerea transportului feroviar public de călători se face după cum urmează: 1.
+Valoarea totală a compensației de la bugetul de stat se repartizează în funcție de cei doi indicatori luați în calcul, tren-km și, respectiv, călători-km, a căror pondere în total compensație poate diferi de la un an la altul, dar a căror valoare procentuală însumată este 100%: (procentul din valoarea totală a compensației acordat pentru indicatorul tren-km) + (procentul din valoarea totală a compensației acordat pentru indicatorul călători-km) = 100% Stabilirea compensației în funcție de indicatorii tren-km și călători-km se face astfel: - valoarea compensației pentru volumul total de tren-km = (procentul din valoarea totală a compensației acordat pentru indicatorul tren-km) x (valoarea totală a compensației de la bugetul de stat);
+- valoarea compensației pentru volumul total de călători-km = (procentul din valoarea totală a compensației acordat pentru indicatorul călători-km) x (valoarea totală a compensației de la bugetul de stat).
+2.
+Stabilirea compensației aferente indicatorului călători-km în funcție de rangul trenului Întrucât se consideră că operarea trenurilor de rang inferior, respectiv trenuri Regio, are nevoie de o compensare diferențiată față de trenurile de rang superior, respectiv InterRegio, valoarea compensației pentru volumul total de călători-km se distribuie diferențiat pe ranguri de trenuri, Regio și InterRegio, în funcție de cei doi indicatori luați în calcul, călători-km - tren Regio și călători-km - tren InterRegio, cu o pondere în valoarea compensației aferente indicatorului călători-km, dar a căror valoare procentuală însumată este 100%: (procentul din valoarea compensației aferente indicatorului călători-km acordat pentru indicatorul călători-km - tren Regio) + (procentul din valoarea compensației aferente indicatorului călători-km acordat pentru indicatorul călători-km - tren InterRegio) = 100%.
+a)
+Pentru trenurile Regio, valoarea compensației aferente indicatorului călători-km - tren Regio se calculează astfel: valoarea compensației aferente indicatorului călători-km - tren Regio = (procentul din valoarea compensației aferente indicatorului călători-km acordat pentru indicatorul călători-km - tren Regio) * (compensația pentru volumul total de călători-km).
+b)
+Pentru trenurile InterRegio, valoarea compensației aferente indicatorului călători-km - tren InterRegio se calculează astfel: valoarea compensației aferente indicatorului călători-km - tren InterRegio = (procentul din valoarea compensației aferente indicatorului călători-km acordat pentru indicatorul călători-km - tren InterRegio) * (compensația pentru volumul total călători-km).
+3.
+Calculul valorii unitare a compensației pentru indicatorul tren-km Această valoare este aceeași indiferent de rangul trenului și se calculează astfel: valoarea unitară a compensației pentru tren-km = valoarea compensației pentru volumul total de trenkm/numărul total de tren-km.
+4.
+Calculul valorii unitare a compensației pentru indicatorul călători-km în funcție de rangul trenului a)
+Valoarea unitară a compensației pentru indicatorul călători-km pentru trenurile Regio se calculează astfel: valoarea unitară a compensației pentru indicatorul călători-km - tren Regio = valoarea compensației aferente indicatorului călătorikm - tren Regio/numărul total de călători-km - tren Regio.
+b)
+Valoarea unitară a compensației pentru indicatorul călătorikm pentru trenurile InterRegio se calculează astfel: valoarea unitară a compensației pentru indicatorul călători-km - tren InterRegio = valoarea compensației aferente indicatorului călători-km - tren InterRegio/număr total călători-km - tren InterRegio.
+5.
+Pachetul de servicii de rezervă a)
+Pachetul de servicii de rezervă se stabilește anual și se actualizează lunar de către CNCF „CFR” - S.A. până în luna octombrie când își încetează aplicabilitatea, iar suma calculată/constituită va reîntregi suma alocată de Ministerul Transporturilor pentru plata compensațiilor conform contractelor de servicii publice încheiate cu operatorii de transport feroviar public de călători și actelor adiționale corespunzătoare.
+b)
+După schimbarea mersului de tren, CNCF „CFR” - S.A., anterior datei de 31 decembrie, stabilește pachetul de servicii de rezervă la un număr de 4 trenuri/zi pentru fiecare secție neinteroperabilă pe care nu se realizează transport public de călători și îl transmite cu celeritate A.R.F. în vederea cuprinderii sumei în bugetul anului următor.
+c)
+În limita pachetului de rezervă constituit conform celor de mai sus, CNCF „CFR” - S.A. are dreptul să scoată lunar la licitație linii neinteroperabile neînchiriate, cu un pachet de servicii de 4 trenuri/zi pentru fiecare secție, cu încadrarea în pachetul de rezervă calculat până la sfârșitul anului.
+d)
+Diferența de cuantum în lei dintre pachetul de rezervă alocat la angajarea acestuia și cel rezultat în urma actualizării lunare poate fi folosită la încheierea unor contracte noi cu operatorii de transport feroviar de călători licențiați care solicită/prestează servicii de transport feroviar de călători și îndeplinesc condițiile legale, cu realocarea fondurilor neutilizate din rezervă și/sau pentru completarea compensației ce poate fi acordată operatorilor de transport feroviar de călători care au încheiat contract de servicii publice.
+6.
+Încheierea contractelor de servicii publice
+a)
+Operatorii de transport feroviar care îndeplinesc condițiile legale pentru a opera pe piața de transport feroviar de călători au obligația să depună la A.R.F. documentația completă pentru încheierea unui contract de servicii publice cu cel puțin 90 de zile înainte de începerea anului bugetar.
+b)
+Operatorii de transport feroviar care îndeplinesc condițiile legale pentru a opera pe piața de transport feroviar de călători și demarează activitatea de transport în primul semestru al anului respectiv au obligația să depună la A.R.F. documentația completă pentru încheierea unui contract de servicii publice cu cel puțin 90 de zile înainte de începerea celui de-al doilea semestru al anului.
+c)
+Sumele de la bugetul de stat necesare achitării compensației pentru operatorii de transport feroviar care îndeplinesc condițiile prevăzute la art. 5 și la art. 6 din prezentele norme metodologice se vor aloca din rezerva disponibilă și/sau din sumele asigurate la rectificarea bugetului. A.R.F. va încheia contractul de servicii publice în cel mult 30 de zile de la data primirii documentației complete din partea operatorilor de transport feroviar, coroborat cu prevederile art. 39 alin. (1) din Ordonanța de urgență a Guvernului nr. 12/1998, republicată, cu modificările și completările ulterioare.
