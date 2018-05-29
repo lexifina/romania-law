@@ -1,0 +1,16 @@
+# Anexa nr. 3
+Ministerul Fondurilor Europene
+Direcția generală managementul resurselor umane
+Nr................./.................
+AVIZ CONSULTATIV
+În temeiul dispozițiilor art. 7 alin. (7) și art. 9 alin. (1) din Hotărârea Guvernului nr. 29/2018 pentru stabilirea criteriilor pe baza cărora se aplică majorarea prevăzută la art. 17 alin. (1) și (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, având în vedere Cererea.............(denumirea instituției publice care solicită avizul favorabil)........ cu nr........... din................, în urma analizării reglementărilor europene și naționale privind gestionarea fondurilor nerambursabile europene și a următoarelor documente prezentate: 1............................................................................................................................................................................................;
+2............................................................................................................................................................................................;
+3............................................................................................................................................................................................;
+4............................................................................................................................................................................................;
+5............................................................................................................................................................................................;
+...............................................................................................................................................................................................,
+Direcția generală managementul resurselor umane atestă faptul că persoanele menționate în anexă au ca obiect de activitate gestionarea asistenței financiare nerambursabile europene sau desfășoară activități-suport pentru sistemul de management și control al fondurilor europene și îndeplinesc criteriile prevăzute la art. 4 alin. (1) din Hotărârea Guvernului nr. 29/2018........................................, (numele și prenumele) director [L. S.]
+Avizat:.....(numele, prenumele/funcția/data)........
+Semnătura:.........................................
+Redactat:....(numele, prenumele/funcția/data).....
+Semnătura:.........................................
