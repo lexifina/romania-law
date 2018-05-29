@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-03-12: documents published: Aviz comisie
 - 2018-03-15: documents published: Aviz comisie
 - 2018-05-22: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2018-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2018-03-12: Aviz comisie (CA34): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CA34.PDF
 - 2018-03-15: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146CA16.PDF
 - 2018-05-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146FS.PDF
+- 2018-05-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146AXS.PDF
+- 2018-05-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L146LP.PDF
