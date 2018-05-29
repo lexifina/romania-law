@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-20: documents published: Aviz Consiliul Legislativ
 - 2018-03-20: registered at the Senate
 - 2018-04-23: registered at the Chamber of Deputies
+- 2018-05-29: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L337FG.PDF
 - 2018-02-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L337EM.PDF
 - 2018-02-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L337LG.PDF
+- 2018-05-29: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L337CR.PDF
