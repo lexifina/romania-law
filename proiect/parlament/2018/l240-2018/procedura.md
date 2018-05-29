@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-05-03: documents published: Aviz comisie
 - 2018-05-15: documents published: Raport comisie sesizată pe fond
 - 2018-05-22: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2018-05-29: registered at the Chamber of Deputies
 
 ## Documents
 
