@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-03-06: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-05-17: documents published: Aviz comisie
+- 2018-05-29: withdrawn by the initiator
 
 ## Documents
 
