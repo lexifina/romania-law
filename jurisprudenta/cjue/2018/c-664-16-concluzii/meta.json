@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-664-16-concluzii-2018-05-30",
+ "label": "CJUE, Concluziile avocatului general E. Tanchev prezentate la 30 mai 2018, Cauza C-664/16.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2018-05-30",
+ "year": "2018",
+ "case": "Cauza C-664/16.",
+ "celex": "62016CC0664",
+ "ecli": "ECLI:EU:C:2018:346",
+ "heading": "Concluziile avocatului general E. Tanchev prezentate la 30 mai 2018",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Alba Iulia.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Sistemul comun al taxei pe valoarea adăugată – Directiva 2006/112/CE – Articolele 167, 168, 178 și 273 – Sfera de aplicare a dreptului de deducere – Lipsa facturilor – Recurgere la o expertiză judiciară – Sarcina probei privind dreptul de deducere – Principiile neutralității fiscale și proporționalității.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62016CC0664",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-664/16&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/cb783bdf-63f2-11e8-ab9c-01aa75ed71a1.0003.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "62264c43e565c8cac318f428cc7ce051e347456fe1d0f648530d48bf23ddcbab"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
