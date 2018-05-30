@@ -1,0 +1,21 @@
+# Proiect de lege L333/2018
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 326/2018 (`legea-326-2018`).
+
+Proiect de lege pentru modificarea şi completarea Ordonanţei Guvernului nr.59/1994 privind reglementarea operaţiunilor de import-export care se derulează prin cliring, barter şi cooperare economică internaţională în baza acordurilor comerciale şi de plăţi guvernamentale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2018-05-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2018-05-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L333AD.PDF
+- 2018-05-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L333FG.PDF
+- 2018-05-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L333EM.PDF
+- 2018-05-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L333LG.PDF
+- 2018-05-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L333HG.PDF
