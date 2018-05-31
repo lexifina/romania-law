@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2018-03-20: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-05-23: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2018-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-05-31: sent for promulgation
 
 ## Documents
 
