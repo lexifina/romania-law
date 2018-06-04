@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-05-09: adopted by the Chamber of Deputies
 - 2018-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-16: sent for promulgation
+- 2018-06-04: promulgated, becomes Legea nr. 121/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2018-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019AM.PDF
 - 2018-05-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019AXS.PDF
 - 2018-05-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019LP.PDF
+- 2018-06-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019DP.PDF
+- 2018-06-04: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019AFP.PDF
+- 2018-06-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L019FP.PDF
