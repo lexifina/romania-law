@@ -1,0 +1,20 @@
+# Anexa nr. 6 (Anexa nr. 6 la Ordinul nr. 1.488/3.198/2017)
+ANTET^1)
+Nr......... din..........
+BORDEROU privind programarea plății sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule, precum și a dobânzilor aferente acestora
+Nr. crt.
+Numele și prenumele/Denumirea
+C.I.F.
+Sumele rămase de restituit după eventualele compensări
+- lei -
+Data plății sumei rămase de restituit^2)
+Suma de restituit din taxă/timbru
+Suma de restituit din dobânda calculată
+Conducătorul organului fiscal
+Numele și prenumele.........................
+Semnătura..........................................
+L.S.
+Șeful compartimentului,.....................................
+Semnătura.......................
+Întocmit la data de.......................
+Inspector,.................................... ^1) Se vor trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului și caracteristicilor siglelor utilizate la nivelul Agenției Naționale de Administrare Fiscală, cu modificările ulterioare, denumirea și adresa organului fiscal emitent al prezentului act administrativ. ^2) Se va menționa data programată pentru virarea sumelor cuvenite contribuabilului.
