@@ -1,0 +1,438 @@
+{
+ "key": "iccj-ril-2-2018",
+ "label": "Decizia ÎCCJ nr. 2/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2018-02-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 2 din 19 februarie 2018",
+ "subtitle": "referitoare la recursul în interesul legii cu privire la existența unor măsuri asigurătorii înființate în cadrul unui proces penal asupra bunurilor unei persoane fizice sau juridice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "463",
+  "bis": false,
+  "date": "2018-06-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.739/1/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursurile în interesul legii formulate de Colegiul de conducere al Curții de Apel Bacău, Colegiul de conducere al Curții de Apel Brașov și Colegiul de conducere al Curții de Apel București și, în consecință, stabilește următoarele:",
+  "Cu referire la dispozițiile art. 249 din Codul de procedură penală (art. 163 din Codul de procedură penală de la 1968) și art. 2.345 din Codul civil, existența unui sechestru asigurător penal asupra imobilelor unei persoane fizice sau juridice nu suspendă executarea silită începută de un creditor ipotecar, al cărui drept de ipotecă asupra acelorași bunuri a devenit opozabil terților anterior înființării măsurii asigurătorii din procesul penal și nu determină nulitatea actelor de executare ulterioare înființării măsurii asigurătorii din procesul penal asupra acelorași bunuri.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "701",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "813",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "857",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "745",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "690",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "955",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "865",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "867",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "563",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "564",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "497",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "559",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "261",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2324",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2329",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1365",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2328",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 14/2007",
+    "number": "14",
+    "year": "2007",
+    "path": "og/2007/14"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201313",
+  "text_sha256": "0e205c13a4a0c504265376c51f0bacdfe9507e07f1093ef755b112e0b6a79bee",
+  "catalogue_sha256": "0e205c13a4a0c504265376c51f0bacdfe9507e07f1093ef755b112e0b6a79bee",
+  "fetched": "2026-11-03T03:08:04Z",
+  "chars": 71937,
+  "portal_id": "201313",
+  "tip": "DECIZIE"
+ }
+}
