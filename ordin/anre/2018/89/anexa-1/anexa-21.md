@@ -1,0 +1,19 @@
+# Anexa nr. 21 la normele tehnice
+Operatorul economic titular al licenței de operare a sistemului de distribuție a gazelor naturale/sistem de distribuție închis.....(denumirea).....
+PROCES-VERBAL de instalare a mijloacelor de măsurare a gazelor naturale
+Numărul...../data......................... (zi/luna/an)
+Delegatul OSD............ și clientul final............., domiciliat în localitatea............, str............... nr.........., sc....., et........., ap.........., județul............, am procedat la predarea și primirea mijloacelor de măsurare a gazelor naturale, inclusiv a racordurilor, proprietate a S.C................, în stare de funcționare, cu următoarele caracteristici:
+Contor
+Corector
+Tip
+Serie
+An fabricație
+Nr. inventar
+Debit maxim......
+Index volum necorectat
+Index volum corectat.......
+Dn (mm)......
+Subsemnatul,........................., mă oblig a păstra mijloacele de măsurare a gazelor naturale în bune condiții, cunoscând că sunt răspunzător de orice defecțiuni s-ar produce acestora, iar în caz de defecțiuni să anunț Serviciul reclamații, telefon........................
+Prezentul proces-verbal s-a încheiat în 3 exemplare, din care unul pentru consumator și 2 pentru OSD.
+Delegatul OSD,
+Client final,...........................................
