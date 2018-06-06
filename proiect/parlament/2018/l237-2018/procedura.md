@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-05-29: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-05-30: registered at the Chamber of Deputies
+- 2018-06-06: adopted by the Chamber of Deputies
 
 ## Documents
 
