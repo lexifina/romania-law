@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2018-05-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2018-06-05: documents published: Aviz comisie
+- 2018-06-06: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Guvernul României.
 - 2018-05-22: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320OG.PDF
 - 2018-05-22: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320HG.PDF
 - 2018-06-05: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320CA3.PDF
+- 2018-06-06: Aviz comisie (CA15): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320CA15.PDF
+- 2018-06-06: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320CA7.PDF
