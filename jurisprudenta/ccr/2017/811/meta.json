@@ -1,0 +1,449 @@
+{
+ "key": "dcc-811-2017",
+ "label": "Decizia CCR nr. 811/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "811",
+ "date": "2017-12-07",
+ "year": "2017",
+ "heading": "DECIZIA nr. 811 din 7 decembrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1-5, art. 6 alin. (1), art. 7 alin. (1)-(3) și (5)-(6), art. 8 alin. (1) și (5), art. 10 și 11 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și a legii în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "475",
+  "bis": false,
+  "date": "2018-06-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "325D/2017",
+  "30.700/245/2016",
+  "35.554/245/2016",
+  "25.966/245/2016",
+  "22.189/245/2016",
+  "20.019/300/2016",
+  "22.557/300/2016",
+  "17.215/300/2016",
+  "17.654/233/2016",
+  "12.793/197/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza a doua, precum și a dispozițiilor art. 11 teza întâi, raportate la dispozițiile art. 3, art. 4 alin. (1), art. 7 alin. (1)-(3), (5)-(6) și ale art. 8 alin. (1) și (5) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de Societatea Bancpost - S.A. din București, Societatea ERB New Europe Funding II BV din București, Societatea Raiffeisen Bank - S.A. din București, Societatea Banca Românească S.A. - din București, membră a Grupului National Bank of Greece și Societatea OTP Bank România - S.A. din București, în dosarele nr. 30.700/245/2016, nr. 35.554/245/2016, nr. 25.966/245/2016 și nr. 22.189/245/2016 ale Judecătoriei Iași - Secția civilă, nr. 20.019/300/2016, nr. 22.557/300/2016 și nr. 17.215/300/2016 ale Judecătoriei Sectorului 2 București - Secția civilă, nr. 17.654/233/2016 al Judecătoriei Galați - Secția civilă, nr. 12.793/197/2016 al Judecătoriei Brașov - Secția civilă, nr. 23.381/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, nr. 9.696/320/2016/a1 al Judecătoriei Târgu Mureș - Secția civilă, nr. 14.566/301/2016, nr. 24.366/301/2016, nr. 29.300/301/2016 și nr. 27.353/301/2016 ale Judecătoriei Sectorului 3 București - Secția civilă, nr. 2.639/330/2016, nr. 2.690/330/2016 și nr. 2.707/330/2016 ale Judecătoriei Urziceni, nr. 35.637/299/2016* al Judecătoriei Sectorului 1 București - Secția civilă, nr. 2.850/290/2016, nr. 3.627/290/2016 și nr. 3.923/290/2016 ale Judecătoriei Reșița, nr. 8.727/94/2016 al Judecătoriei Buftea - Secția civilă, nr. 11.137/303/2016 și nr. 13.454/303/2016 ale Judecătoriei Sectorului 6 București – Secția civilă, nr. 12.778/55/2016 și nr. 12.940/55/2016 ale Judecătoriei Arad - Secția civilă, nr. 4.644/314/2016 și nr. 6.636/314/2016 ale Judecătoriei Suceava, nr. 18.727/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, nr. 7.264/288/2016 al Judecătoriei Râmnicu Vâlcea - Secția civilă, nr. 11.372/281/2016 al Judecătoriei Ploiești - Secția civilă, nr. 16.501/236/2016 al Judecătoriei Giurgiu - Secția civilă, nr. 9.226/280/2016 al Judecătoriei Pitești - Secția civilă, nr. 11.829/211/2016 al Judecătoriei Cluj-Napoca - Secția civilă, nr. 9.384/231/2016/a1* al Tribunalului Vrancea - Secția I civilă și nr. 13.490/212/2016 al Tribunalului Constanța - Secția a II-a civilă.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi, raportate la celelalte dispoziții din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de aceleași părți în aceleași dosare ale acelorași instanțe, și constată că acestea sunt constituționale, prin raportare la criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă, Judecătoriei Sectorului 2 București - Secția civilă, Judecătoriei Galați - Secția civilă, Judecătoriei Brașov - Secția civilă, Judecătoriei Sectorului 5 București - Secția civilă, Judecătoriei Târgu Mureș - Secția civilă, Judecătoriei Sectorului 3 București - Secția civilă, Judecătoriei Urziceni, Judecătoriei Sectorului 1 București - Secția civilă, Judecătoriei Reșița, Judecătoriei Buftea - Secția civilă, Judecătoriei Sectorului 6 București - Secția civilă, Judecătoriei Arad - Secția civilă, Judecătoriei Suceava, Judecătoriei Sectorului 4 București - Secția civilă, Judecătoriei Râmnicu Vâlcea - Secția civilă, Judecătoriei Ploiești - Secția civilă, Judecătoriei Giurgiu - Secția civilă, Judecătoriei Pitești - Secția civilă, Judecătoriei Cluj-Napoca - Secția civilă, Tribunalului Vrancea - Secția I civilă și Tribunalului Constanța - Secția a IIa civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1",
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 113
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/1999",
+    "number": "190",
+    "year": "1999",
+    "path": "lege/1999/190"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-06-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201395",
+  "text_sha256": "c2512e5c91f03170d879891d6c6b12582dbb79d8d2a75bad8853fe12f9869027",
+  "catalogue_sha256": "c2512e5c91f03170d879891d6c6b12582dbb79d8d2a75bad8853fe12f9869027",
+  "fetched": "2026-11-03T03:07:59Z",
+  "chars": 84340,
+  "portal_id": "201395",
+  "tip": "DECIZIE"
+ }
+}
