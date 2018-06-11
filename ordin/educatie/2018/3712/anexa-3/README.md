@@ -1,0 +1,7 @@
+# Anexa nr. 3: la standardul ocupațional PLAN DE PREGĂTIRE Nr. crt. Competența dobândită Modul Număr de ore de teorie Număr de ore de practică 1 2.......n Total ore Total general
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 201430 (https://legislatie.just.ro/Public/DetaliiDocument/201430)
+- sha256 of that document's text as the service returned it: 7d0bee3cf5ea7c95fd3fdc105d28098d511c2dc6ae7ab10b52db0dc9f71d9d64
+- Retrieved: 2026-11-03
