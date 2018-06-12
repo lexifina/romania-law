@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-10: documents published: Raport comisie sesizată pe fond
 - 2018-05-23: adopted by the Chamber of Deputies
 - 2018-05-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2018-06-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-24: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322AD.PDF
 - 2018-05-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FG.PDF
 - 2018-05-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322EM.PDF
+- 2018-06-12: Aviz comisie (CA32): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322CA32.PDF
