@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-15: documents published: Aviz comisie
 - 2018-03-20: documents published: Aviz comisie
 - 2018-06-11: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2018-06-12: registered at the Chamber of Deputies
 
 ## Documents
 
