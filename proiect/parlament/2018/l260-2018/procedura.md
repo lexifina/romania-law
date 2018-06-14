@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-05-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-31: sent for promulgation
+- 2018-06-14: promulgated, becomes Legea nr. 129/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2018-05-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260FS.PDF
 - 2018-05-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260AXS.PDF
 - 2018-05-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260LP.PDF
+- 2018-06-14: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260DP.PDF
+- 2018-06-14: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260AFP.PDF
+- 2018-06-14: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L260FP.PDF
