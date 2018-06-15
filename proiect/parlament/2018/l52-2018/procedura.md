@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-16: adopted by the Chamber of Deputies
 - 2018-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-29: sent for promulgation
+- 2018-06-15: promulgated, becomes Legea nr. 131/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052AM.PDF
 - 2018-05-22: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052AXS.PDF
 - 2018-05-22: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052LP.PDF
+- 2018-06-15: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052DP.PDF
+- 2018-06-15: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052AFP.PDF
+- 2018-06-15: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L052FP.PDF
