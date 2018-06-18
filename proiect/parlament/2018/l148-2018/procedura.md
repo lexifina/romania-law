@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2018-05-23: adopted by the Chamber of Deputies; documents published: Forma adoptată de Camera Deputaților
 - 2018-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-31: sent for promulgation
+- 2018-06-18: promulgated, becomes Legea nr. 136/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2018-05-23: Forma adoptată de Camera Deputaților (FC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148FC.PDF
 - 2018-05-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148AXS.PDF
 - 2018-05-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148LP.PDF
+- 2018-06-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148DP.PDF
+- 2018-06-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148AFP.PDF
+- 2018-06-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L148FP.PDF
