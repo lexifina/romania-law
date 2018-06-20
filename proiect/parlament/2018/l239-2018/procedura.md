@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-06-13: registered at the Chamber of Deputies; adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-06-18: adopted by the Chamber of Deputies
+- 2018-06-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239PV.PDF
 - 2018-06-13: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239FS.PDF
 - 2018-06-13: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239AM.PDF
+- 2018-06-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239AXS.PDF
+- 2018-06-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239LP.PDF
