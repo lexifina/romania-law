@@ -1,0 +1,215 @@
+{
+ "key": "iccj-hp-19-2018",
+ "label": "Decizia ÎCCJ nr. 19/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "19",
+ "date": "2018-03-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 19 din 19 martie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 664 alin. (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "510",
+  "bis": false,
+  "date": "2018-06-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.251/1/2017",
+  "8.860/306/2015",
+  "507/1/2016",
+  "21.531/197/2015",
+  "181/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "664",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Sibiu - Secția I civilă în Dosarul nr. 8.860/306/2015 și, în consecință, stabilește că: În interpretarea și aplicarea art. 664 alin. (2) din Codul de procedură civilă, reprezentarea convențională a persoanei juridice nu se poate face prin mandatar persoană juridică, nici prin consilierul juridic sau avocatul acesteia din urmă, potrivit art. 84 alin. (1) din Codul de procedură civilă, astfel cum acesta a fost interpretat prin Decizia nr. 9/2016 pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "664",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "810",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "792",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201766",
+  "text_sha256": "76eb9a00e7d39c0b07e7647d3c94ec334a326950ef85c24aedbb92feebd48ea8",
+  "catalogue_sha256": "76eb9a00e7d39c0b07e7647d3c94ec334a326950ef85c24aedbb92feebd48ea8",
+  "fetched": "2026-11-03T03:07:05Z",
+  "chars": 40128,
+  "portal_id": "201766",
+  "tip": "DECIZIE"
+ }
+}
