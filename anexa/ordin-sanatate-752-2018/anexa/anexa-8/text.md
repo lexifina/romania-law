@@ -1,0 +1,9 @@
+# Anexa 8
+Anexa nr. 8
+la norme
+Definiția și utilizarea indicelui concentrației activității pentru radiațiile gamma emise de materialele de construcții
+1. În sensul art. 74, pentru tipurile identificate de materiale de construcții, se determină concentrațiile activității radionuclizilor primordiali Ra-226, Th-232 (sau produsul acestora din lanțul de dezintegrare Ra-228) și K-40.
+2. Indicele concentrației activității I exprimat in Bq/kg se calculează după următoarea formulă:
+I = C Ra226 /300 + C Th232 /200 + C K40 /3 000
+unde C Ra226 , C Th232 și C K40 sunt concentrațiile activității în Bq/kg ale radionuclizilor corespunzători din materialul de construcții. Indicele concentrației activității face referire la doza de radiații gamma, care depășește expunerea externă tipică, dintr-o clădire construită dintr-un material de construcții specificat. Indicele concentrației activității se aplică pentru materialul de construcții ca întreg, nu componentelor acestuia, cu excepția cazului în care componentele respective sunt materiale de construcții ele însele și sunt evaluate separat ca atare. Pentru a aplica indicele concentrației activității respectiv componentelor, în special deșeurilor rezultate din industriile de prelucrare a materialelor radioactive naturale reciclate în materiale de construcții, trebuie aplicat un factor corespunzător de partiție. Valoarea 1 a indicelui concentrației activității poate fi utilizată ca instrument convențional de depistare pentru identificarea materialelor care pot determina depășirea nivelului de referință prevăzut la art. 73.
+3. Calculul dozelor trebuie să țină seama de alți factori, precum densitatea și grosimea materialului, cât și de factori referitori la tipul construcției și utilizarea preconizată a materialului, în profunzime sau la suprafață.
