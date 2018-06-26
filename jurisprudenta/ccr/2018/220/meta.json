@@ -1,0 +1,239 @@
+{
+ "key": "dcc-220-2018",
+ "label": "Decizia CCR nr. 220/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "220",
+ "date": "2018-04-17",
+ "year": "2018",
+ "heading": "DECIZIA nr. 220 din 17 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 374 alin. (4), art. 375 și art. 396 alin. (10) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "523",
+  "bis": false,
+  "date": "2018-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.311/90/2015",
+  "1.588D/2017",
+  "1.589D/2017",
+  "612/30/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "374",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ionuț Chera în Dosarul nr. 4.311/90/2015 al Tribunalului Vâlcea - Secția penală și de Păuna Mihai Cosmin în Dosarul nr. 612/30/2017 al Tribunalului Timiș - Secția penală și constată că dispozițiile art. 374 alin. (4), art. 375 și art. 396 alin. (10) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vâlcea - Secția penală și Tribunalului Timiș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "374",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11",
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201876",
+  "text_sha256": "3b3a6a1666f2341a45f6c09fcb6dbb39e07fb278f264b215c4f955ea43b1c591",
+  "catalogue_sha256": "3b3a6a1666f2341a45f6c09fcb6dbb39e07fb278f264b215c4f955ea43b1c591",
+  "fetched": "2026-11-03T03:06:47Z",
+  "chars": 23868,
+  "portal_id": "201876",
+  "tip": "DECIZIE"
+ }
+}
