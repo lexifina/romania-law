@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-05-24: sent for promulgation
 - 2018-06-11: promulgated, becomes Legea nr. 126/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-06-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2018-06-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L220DP.PDF
 - 2018-06-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L220AFP.PDF
 - 2018-06-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L220FP.PDF
+- 2018-06-26: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L220TA.PDF (its day is not given by the bill file: shown from the last stage held)
