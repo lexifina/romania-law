@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-28: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-03-01: documents published: Aviz comisie
 - 2018-03-05: registered at the Chamber of Deputies
+- 2018-06-26: adopted by the Chamber of Deputies
 
 ## Documents
 
