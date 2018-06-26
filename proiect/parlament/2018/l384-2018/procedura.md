@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-07: documents published: Raport comisie sesizată pe fond
 - 2018-06-13: adopted by the Chamber of Deputies
 - 2018-06-14: registered at the Senate
+- 2018-06-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-10-17: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384SJ.PDF
 - 2017-12-06: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384CA41.PDF
 - 2018-05-07: Raport comisie sesizată pe fond (CR): [cr-b8293649.md](cr-b8293649.md); official file https://www.senat.ro/legis/PDF/2018/18L384CR.PDF
+- 2018-06-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384CA45.PDF
