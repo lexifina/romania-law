@@ -1,0 +1,201 @@
+{
+ "key": "iccj-hp-26-2018",
+ "label": "Decizia ÎCCJ nr. 26/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "26",
+ "date": "2018-04-16",
+ "year": "2018",
+ "heading": "DECIZIA nr. 26 din 16 aprilie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile privind: \"analiza posibilității ca instituția Camerei executorilor judecătorești să stea în instanță, în nume propriu, respectiv verificarea calității procesuale a Camerei executorilor judecătorești în litigiile având ca obiect acte emise de executorii judecătorești care nu mai profesează\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "522",
+  "bis": false,
+  "date": "2018-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.464/1/2017",
+  "1.721/208/2016"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Caraș-Severin - Secția I civilă în Dosarul nr. 1.721/208/2016 referitoare la pronunțarea unei hotărâri prealabile privind: „analiza posibilității ca instituția Camerei executorilor judecătorești să stea în instanță, în nume propriu, respectiv verificarea calității procesuale a Camerei executorilor judecătorești în litigiile având ca obiect acte emise de executorii judecătorești care nu mai profesează“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "645",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201856",
+  "text_sha256": "2ce4c8f92ab6e4e6bae6677d96bef5d3c313aab59ef349740c2ca8687f78b1da",
+  "catalogue_sha256": "2ce4c8f92ab6e4e6bae6677d96bef5d3c313aab59ef349740c2ca8687f78b1da",
+  "fetched": "2026-11-03T18:39:24Z",
+  "chars": 48670,
+  "portal_id": "201856",
+  "tip": "DECIZIE"
+ }
+}
