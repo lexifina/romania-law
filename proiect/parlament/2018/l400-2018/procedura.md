@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-20: adopted by the Chamber of Deputies
 - 2018-06-21: registered at the Senate
 - 2018-06-26: documents published: Aviz comisie
+- 2018-06-27: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-12-19: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400LG.PDF
 - 2018-05-30: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400CR.PDF
 - 2018-06-26: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400CA14.PDF
+- 2018-06-27: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400CA8.PDF
+- 2018-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400FS.PDF
+- 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400AXS.PDF
+- 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400LP.PDF
