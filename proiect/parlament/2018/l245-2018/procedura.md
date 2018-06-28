@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-05: sent for promulgation
 - 2018-06-22: promulgated, becomes Legea nr. 151/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-06-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2018-06-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245DP.PDF
 - 2018-06-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245AFP.PDF
 - 2018-06-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245FP.PDF
+- 2018-06-28: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-06-28: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-06-28: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L245TC.PDF (its day is not given by the bill file: shown from the last stage held)
