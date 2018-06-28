@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-20: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-06-13: documents published: Aviz comisie
 - 2018-06-20: documents published: Aviz comisie
+- 2018-06-28: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-20: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L314CA12.PDF
 - 2018-06-20: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L314CA14.PDF
 - 2018-06-20: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L314CA7.PDF
+- 2018-06-28: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L314CR.PDF
