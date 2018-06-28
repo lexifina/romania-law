@@ -1,0 +1,10 @@
+# HCL Lehliu Gară nr. 40/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Lehliu Gară
+- Decision: nr. 40/2018
+- Adopted: 2018-06-28
+- Record: https://www.primarialehliugara.ro/document-category/hotarari-2019/
+- Document: https://www.primarialehliugara.ro/wp-content/uploads/2020/05/Hotarare-privind-modificarea-hotararii-nr.-40-din-28.06.2018-a-Consiliului-Local.pdf
+- Document sha256: 0111952ac32998bf5b2af7166c4fc5f280093daeb2679548c1b57f38dde4d762
