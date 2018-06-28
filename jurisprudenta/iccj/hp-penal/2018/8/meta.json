@@ -1,0 +1,279 @@
+{
+ "key": "iccj-hp-penal-8-2018",
+ "label": "Decizia ÎCCJ nr. 8/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "8",
+ "date": "2018-05-23",
+ "year": "2018",
+ "heading": "DECIZIA nr. 8 din 23 mai 2018",
+ "subtitle": "privind pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a unor chestiuni de drept în materie penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2018-06-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "664/1/2018",
+  "4.920/270/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie în Dosarul nr. 4.920/270/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „dacă pentru întrunirea tipicității infracțiunii prevăzute de art. 196 alin. (1) din Codul penal, privind vătămarea corporală din culpă, sintagma din teza I a acestui text incriminator, respectiv «(…) sub influența băuturilor alcoolice (…)», trebuie interpretată ca referindu-se la un anumit grad de îmbibație de alcool pur în sânge, eventual cel indicat de legiuitor la art. 336 alin. (1) din Codul penal, sau, indiferent de gradul de îmbibație alcoolică în sânge, este atrasă răspunderea penală a oricărei persoane care săvârșește o vătămare corporală din culpă sub această modalitate normativă, dacă a consumat alcool depistabil prin mijloace tehnice sau medico-legale prevăzute de legislație.“",
+  "Stabilește că, în interpretarea dispozițiilor art. 196 alin. (1) teza I din Codul penal, care incriminează fapta prevăzută în art. 193 alin. (2) din Codul penal săvârșită din culpă de către o persoană aflată sub influența băuturilor alcoolice, existența infracțiunii de vătămare corporală din culpă nu este condiționată de o anumită limită a îmbibației alcoolice.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 107
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "184",
+     "alin": [
+      "4-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 29/1997",
+    "number": "29",
+    "year": "1997",
+    "path": "og/1997/29"
+   },
+   "articles": [
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/2003",
+    "number": "191",
+    "year": "2003",
+    "path": "lege/2003/191"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/201952",
+  "text_sha256": "49c31591d657bbd3c07c8a9d159c2d9d3cb15476c79e1c8fbfcc0254eeaddb2f",
+  "catalogue_sha256": "49c31591d657bbd3c07c8a9d159c2d9d3cb15476c79e1c8fbfcc0254eeaddb2f",
+  "fetched": "2026-11-03T03:06:41Z",
+  "chars": 64516,
+  "portal_id": "201952",
+  "tip": "DECIZIE"
+ }
+}
