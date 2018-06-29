@@ -1,0 +1,269 @@
+{
+ "key": "dcc-313-2018",
+ "label": "Decizia CCR nr. 313/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "313",
+ "date": "2018-05-09",
+ "year": "2018",
+ "heading": "DECIZIA nr. 313 din 9 mai 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "543",
+  "bis": false,
+  "date": "2018-06-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "519A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2007",
+    "number": "57",
+    "year": "2007",
+    "path": "lege/2007/57"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de un număr de 29 de senatori aparținând grupurilor parlamentare ale Partidului Național Liberal, Uniunii Salvați România și Partidului Mișcarea Populară și constată că dispozițiile Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2007 privind regimul ariilor naturale protejate, conservarea habitatelor naturale, a florei și faunei sălbatice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 57/2007",
+    "number": "57",
+    "year": "2007",
+    "path": "lege/2007/57"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2007",
+    "number": "57",
+    "year": "2007",
+    "path": "oug/2007/57"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 5/2000",
+    "number": "5",
+    "year": "2000",
+    "path": "lege/2000/5"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea minelor nr. 85/2003",
+    "number": "85",
+    "year": "2003",
+    "path": "lege/2003/85"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202117",
+  "text_sha256": "5c55838e481482e26071a03d81a0d0794f00a860b92df73c20edb8f2f427b883",
+  "catalogue_sha256": "5c55838e481482e26071a03d81a0d0794f00a860b92df73c20edb8f2f427b883",
+  "fetched": "2026-11-03T03:06:36Z",
+  "chars": 46624,
+  "portal_id": "202117",
+  "tip": "DECIZIE"
+ }
+}
