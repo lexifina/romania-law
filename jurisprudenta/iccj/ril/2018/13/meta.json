@@ -1,0 +1,114 @@
+{
+ "key": "iccj-ril-13-2018",
+ "label": "Decizia ÎCCJ nr. 13/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "13",
+ "date": "2018-05-14",
+ "year": "2018",
+ "heading": "DECIZIA nr. 13 din 14 mai 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 16 și 17 din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "541",
+  "bis": false,
+  "date": "2018-06-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "408/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului și, în consecință, stabilește că, în interpretarea și aplicarea dispozițiilor art. 16 și 17 din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare:",
+  "Descrierea insuficientă a faptei echivalează cu neîndeplinirea cerinței privind descrierea faptei contravenționale și atrage nulitatea relativă a procesului-verbal de constatare a contravenției, potrivit dispozițiilor art. 16 din Ordonanța Guvernului nr. 2/2001.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202104",
+  "text_sha256": "a3229a1adc8bb7e1b2d28cbb83e0c03d3ac9615bc0264c720df4dbe748878a4b",
+  "catalogue_sha256": "a3229a1adc8bb7e1b2d28cbb83e0c03d3ac9615bc0264c720df4dbe748878a4b",
+  "fetched": "2026-11-03T03:06:41Z",
+  "chars": 33864,
+  "portal_id": "202104",
+  "tip": "DECIZIE"
+ }
+}
