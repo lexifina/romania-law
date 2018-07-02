@@ -1,0 +1,280 @@
+{
+ "key": "iccj-hp-penal-7-2018",
+ "label": "Decizia ÎCCJ nr. 7/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "7",
+ "date": "2018-04-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 7 din 26 aprilie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 55^1 din Legea nr. 254/2013",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+ "mo": {
+  "number": "548",
+  "bis": false,
+  "date": "2018-07-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "436/1/2018",
+  "16.205/299/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/2017",
+    "number": "169",
+    "year": "2017",
+    "path": "lege/2017/169"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 16.205/299/2017 (3.358/2017), prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „în interpretarea dispozițiilor art. 55^1 din Legea nr. 254/2013, pentru determinarea restului de pedeapsă rămas neexecutat în vederea aplicării tratamentului sancționator de la art. 104 alin. (2) coroborat cu art. 43 alin. (1) din Codul penal, trebuie recalculată, începând cu data de 24.07.2012, «perioada executată efectiv» din pedeapsa din executarea căreia inculpatul a fost liberat condiționat anterior intrării în vigoare a Legii nr. 169/2017 (prin considerarea ca executate, suplimentar, a 6 zile din pedeapsa aplicată pentru fiecare perioadă de 30 de zile executate în condiții necorespunzătoare), cu efectul micșorării restului rămas neexecutat din pedeapsa anterioară“.",
+  "Stabilește că, în interpretarea dispozițiilor art. 55^1 din Legea nr. 254/2013, pentru determinarea restului de pedeapsă rămas neexecutat în vederea aplicării tratamentului sancționator de la art. 104 alin. (2) coroborat cu art. 43 alin. (1) din Codul penal, trebuie recalculată, începând cu data de 24.07.2012 - perioada executată efectiv din pedeapsa din a cărei executare a fost dispusă liberarea condiționată anterior intrării în vigoare a Legii nr. 169/2017 prin considerarea ca executate suplimentar a zilelor calculate ca executate în considerarea condițiilor de detenție necorespunzătoare.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": [
+      "1",
+      "8",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/2017",
+    "number": "169",
+    "year": "2017",
+    "path": "lege/2017/169"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202143",
+  "text_sha256": "98ce441cf775514d38170e6e347a4c710378006bf01a4d3ea9debe384f409fe4",
+  "catalogue_sha256": "98ce441cf775514d38170e6e347a4c710378006bf01a4d3ea9debe384f409fe4",
+  "fetched": "2026-11-03T14:32:02Z",
+  "chars": 51932,
+  "portal_id": "202143",
+  "tip": "DECIZIE"
+ }
+}
