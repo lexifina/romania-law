@@ -1,0 +1,188 @@
+{
+ "key": "dcc-180-2018",
+ "label": "Decizia CCR nr. 180/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "180",
+ "date": "2018-03-29",
+ "year": "2018",
+ "heading": "DECIZIA nr. 180 din 29 martie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 2 alin. (3)-(5), art. 3 alin. (1) lit. a) și b), art. 14 și art. 15, precum și ale anexei nr. 1 din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "548",
+  "bis": false,
+  "date": "2018-07-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.276/269/2016",
+  "15D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 2 alin. (3)-(5), art. 3 alin. (1) lit. a) și b), art. 14 și art. 15, precum și ale anexei nr. 1 din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, excepție ridicată de Florin Onuși în Dosarul nr. 3.276/269/2016 al Judecătoriei Oltenița.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Oltenița și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202140",
+  "text_sha256": "8457e75b13c6f9c01cf88176fb35a064133539f00a53616cd800a282c12cdd15",
+  "catalogue_sha256": "8457e75b13c6f9c01cf88176fb35a064133539f00a53616cd800a282c12cdd15",
+  "fetched": "2026-11-03T03:06:33Z",
+  "chars": 17672,
+  "portal_id": "202140",
+  "tip": "DECIZIE"
+ }
+}
