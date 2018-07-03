@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2018-04-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Punct de vedere
+- 2018-07-03: registered at the Chamber of Deputies; adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -17,3 +18,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L238EM.PDF
 - 2018-04-18: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L238LG.PDF
 - 2018-04-18: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L238PV.PDF
+- 2018-07-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L238FS.PDF
+- 2018-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L238AM.PDF
