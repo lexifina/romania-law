@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-09: documents published: Aviz comisie
 - 2018-05-16: documents published: Aviz comisie
 - 2018-06-27: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2018-07-03: sent for promulgation
 
 ## Documents
 
