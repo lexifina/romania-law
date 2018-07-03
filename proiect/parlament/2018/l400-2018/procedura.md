@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-21: registered at the Senate
 - 2018-06-26: documents published: Aviz comisie
 - 2018-06-27: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-07-03: sent for promulgation
 
 ## Documents
 
