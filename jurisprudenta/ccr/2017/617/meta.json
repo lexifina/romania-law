@@ -1,0 +1,528 @@
+{
+ "key": "dcc-617-2017",
+ "label": "Decizia CCR nr. 617/2017",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "617",
+ "date": "2017-10-10",
+ "year": "2017",
+ "heading": "DECIZIA nr. 617 din 10 octombrie 2017",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1, art. 2, art. 3, art. 4, art. 5, art. 6, art. 7, art. 8, art. 10 și art. 11 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și a legii în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "553",
+  "bis": false,
+  "date": "2018-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "9.025/193/2016",
+  "1.788D/2016",
+  "1.129/195/2016",
+  "12.428/212/2016/a1",
+  "2.224/337/2016",
+  "2.289/337/2016",
+  "2.129/337/2016",
+  "2.068/337/2016",
+  "2.070/337/2016",
+  "7.258/271/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi, raportate la dispozițiile art. 3 teza întâi, precum și a prevederilor art. 11 teza a doua din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de Societatea Bancpost - S.A. în Dosarul nr. 9.025/193/2016 al Judecătoriei Botoșani - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 1.129/195/2016 al Judecătoriei Brad, de Societatea OTP Bank România - S.A. în Dosarul nr. 12.428/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 2.224/337/2016 al Judecătoriei Zalău, de Judecătoria Zalău, din oficiu, în Dosarul nr. 2.289/337/2016, de Societatea Bancpost - S.A. în Dosarul nr. 2.129/337/2016 al Judecătoriei Zalău, de Societatea Bancpost - S.A. în Dosarul nr. 2.068/337/2016 al Judecătoriei Zalău, de Societatea Bancpost - S.A. în Dosarul nr. 2.070/337/2016 al Judecătoriei Zalău, de Societatea Kredyt Inkaso Portfolio Investments (Luxemburg) - S.A. în Dosarul nr. 7.258/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea OTP Faktoring ZRT în Dosarul nr. 7.774/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 9.295/55/2016 al Judecătoriei Arad - Secția civilă, de Societatea Bancpost - S.A. și ERB New Europe Funding II B.V. în Dosarul nr. 9.296/55/2016 al Judecătoriei Arad - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 11.719/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 12.347/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 12.794/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea Banca Comercială Română - S.A. în Dosarul nr. 1.629/227/2016 al Judecătoriei Fălticeni, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 15.743/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 5.550/190/2016 al Judecătoriei Bistrița - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 10.818/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea Bancpost - S.A. în Dosarul nr. 8.373/55/2016 al Judecătoriei Arad - Secția civilă, de Societatea Bancpost - S.A. și ERB New Europe Funding II B.V. în Dosarul nr. 9.031/55/2016 al Judecătoriei Arad - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 1.111/259/2016 al Judecătoriei Mizil, de Societatea Bancpost - S.A. în Dosarul nr. 14.123/325/2016 al Judecătoriei Timișoara - Secția I civilă, Societatea OTP Faktoring ZRT în Dosarul nr. 3.144/305/2016 al Judecătoriei Sfântu Gheorghe, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 3.885/204/2016 al Judecătoriei Câmpina - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 2.084/289/2016/a1 al Judecătoriei Reghin, de Societatea Bancpost - S.A. în Dosarul nr. 2.565/337/2016 al Judecătoriei Zalău, de Societatea Bancpost - S.A. în Dosarul nr. 1.045/251/2016 al Judecătoriei Luduș, de Societatea OTP Faktoring ZRT prin reprezentant legal OTP Factoring - S.R.L. în Dosarul nr. 7.879/288/2016 al Judecătoriei Râmnicu Vâlcea, de Societatea OTP Bank România - S.A. în Dosarul nr. 10.485/211/2016 al Judecătoriei Cluj-Napoca - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 1.062/177/2016 al Judecătoriei Aleșd, de Societatea OTP Bank România - S.A. în Dosarul nr. 1.539/257/2016 al Judecătoriei Mediaș, de Societatea OTP Bank România - S.A. în Dosarul nr. 12.214/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 7.651/1.748/2016 al Judecătoriei Cornetu, de Societatea OTP Faktoring ZRT în Dosarul nr. 4.369/202/2016 al Judecătoriei Călărași, de Societatea OTP Faktoring ZRT în Dosarul nr. 2.988/305/2016 al Judecătoriei Sfântu Gheorghe, de Societatea OTP Bank România - S.A. în Dosarul nr. 7.175/1.748/2016 al Judecătoriei Cornetu, de Societatea OTP Bank România - S.A. în Dosarul nr. 20.246/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 10.408/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea OTP Faktoring ZRT în Dosarul nr. 1.286/234/2016 al Judecătoriei Gheorgheni, de Societatea Banca Comercială Română - S.A. în Dosarul nr. 1.681/330/2016 al Judecătoriei Urziceni, de Societatea OTP Bank România - S.A. în Dosarul nr. 2.621/257/2016 al Judecătoriei Mediaș, de Societatea Banca Transilvania - S.A. în Dosarul nr. 1.595/321/2016 al Judecătoriei Târgu-Neamț, de Societatea OTP Bank România - S.A. în Dosarul nr. 8.243/193/2016 al Judecătoriei Botoșani - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 11.720/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 27.653/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 24.376/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea OTP Bank România - S.A. în Dosarul nr. 10.055/280/2016 al Judecătoriei Pitești - Secția civilă, de Societatea Raiffeisen Bank - S.A. în Dosarul nr. 2.220/866/2016 al Judecătoriei Pașcani - Secția civilă, de Judecătoria Zalău, din oficiu, în Dosarul nr. 2.191/337/2016 al Judecătoriei Zalău, de ING Bank N.V. Amsterdam - Sucursala București în Dosarul nr. 12.043/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Alpha Bank România - S.A. în Dosarul nr. 14.292/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Alpha Bank România - S.A. în Dosarul nr. 17.779/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Alpha Bank România - S.A. în Dosarul nr. 17.219/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Alpha Bank România - S.A. în Dosarul nr. 26.852/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea Improvement Credit Collection - S.R.L. în Dosarul nr. 32.503/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 20.298/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 27.723/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 13.402/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 6.491/190/2016 al Judecătoriei Bistrița - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 23.840/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 16.957/300/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 15.967/215/2016 al Judecătoriei Craiova - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 13.328/280/2016 al Judecătoriei Pitești - Secția civilă, de Investcapital Malta LTD în Dosarul nr. 17.869/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 11.863/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 13.980/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 2.386/235/2016 al Judecătoriei Gherla, de Societatea Banca Transilvania - S.A. în Dosarul nr. 36.323/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 23.765/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Banca Comercială Română - S.A. în Dosarul nr. 14.428/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Transilvania - S.A. în Dosarul nr. 11.241/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 7.831/1.748/2016 al Judecătoriei Cornetu, de Societatea Banca Transilvania - S.A. în Dosarul nr. 9.020/1.748/2016 al Judecătoriei Cornetu, de Societatea Improvement Credit Collection - S.R.L. în Dosarul nr. 12.571/236/2016 al Judecătoriei Giurgiu - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 28.127/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Banca Comercială Română - S.A. în Dosarul 12.607/281/2016 al Judecătoriei Ploiești - Secția civilă, de Societatea Banca Comercială Română - S.A. în Dosarul nr. 18.648/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea BRD - Groupe Société Générale - S.A. în Dosarul nr. 16.173/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Piraeus Bank România - S.A. în Dosarul nr. 9.256/200/2016 al Judecătoriei Buzău - Secția civilă, de Societatea Alpha Bank România - S.A. în Dosarul nr. 5.849/279/2016 al Judecătoriei Piatra-Neamț, de Societatea Banca Comercială Română - S.A. în Dosarul nr. 22.509/245/2016 al Judecătoriei Iași - Secția civilă și de Societatea Banca Românească - S.A. în Dosarul nr. 11.467/233/2016 al Judecătoriei Galați - Secția civilă.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi, raportate la dispozițiile art. 3 teza a doua, art. 4, art. 7 alin. (1)-(3) și alin. (5)-(6) și ale art. 8 alin. (1)-(4) din Legea nr. 77/2016, precum și a sintagmei „precum și din devalorizarea bunurilor imobile“ din art. 11 teza întâi din Legea nr. 77/2016, excepție ridicată de aceleași părți, în aceleași dosare, ale acelorași instanțe de judecată.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași părți, în aceleași dosare, ale acelorași instanțe de judecată, și constată că dispozițiile art. 11 teza întâi, raportate la art. 5 alin. (3), și ale art. 11 teza întâi raportate la celelalte dispoziții din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și a legii în ansamblul său, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Aleșd, Judecătoriei Arad - Secția civilă, Judecătoriei Bacău - Secția civilă, Judecătoriei Bistrița - Secția civilă, Judecătoriei Botoșani - Secția civilă, Judecătoriei Brad, Judecătoriei Brașov - Secția civilă, Judecătoriei Sectorului 1 București - Secția civilă, Judecătoriei Sectorului 2 București - Secția civilă, Judecătoriei Sectorului 3 București - Secția civilă, Judecătoriei Sectorului 4 București - Secția civilă, Judecătoriei Sectorului 5 București - Secția civilă, Judecătoriei Sectorului 6 București - Secția civilă, Judecătoriei Buzău - Secția civilă, Judecătoriei Călărași, Judecătoriei Câmpina - Secția civilă, Judecătoriei Cluj-Napoca - Secția civilă, Judecătoriei Constanța - Secția civilă, Judecătoriei Cornetu, Judecătoriei Craiova - Secția civilă, Judecătoriei Fălticeni, Judecătoriei Galați - Secția civilă, Judecătoriei Gheorgheni, Judecătoriei Gherla, Judecătoriei Giurgiu - Secția civilă, Judecătoriei Iași - Secția civilă, Judecătoriei Luduș, Judecătoriei Mediaș, Judecătoriei Mizil, Judecătoriei Oradea - Secția civilă, Judecătoriei Piatra-Neamț, Judecătoriei Pașcani - Secția civilă, Judecătoriei Pitești - Secția civilă, Judecătoriei Ploiești - Secția civilă, Judecătoriei Râmnicu Vâlcea, Judecătoriei Reghin, Judecătoriei Sfântu Gheorghe, Judecătoriei Târgu-Neamț, Judecătoriei Timișoara - Secția I civilă, Judecătoriei Urziceni, Judecătoriei Zalău și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 168
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/1999",
+    "number": "190",
+    "year": "1999",
+    "path": "lege/1999/190"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1492",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1493",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202185",
+  "text_sha256": "fd6c5e38e96832c62ab79c9c20d7791f869f1fbf35cc06ee7d3c79f6b3af8c7c",
+  "catalogue_sha256": "fd6c5e38e96832c62ab79c9c20d7791f869f1fbf35cc06ee7d3c79f6b3af8c7c",
+  "fetched": "2026-11-03T03:06:31Z",
+  "chars": 165848,
+  "portal_id": "202185",
+  "tip": "DECIZIE"
+ }
+}
