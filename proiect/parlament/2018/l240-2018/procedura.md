@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2018-05-15: documents published: Raport comisie sesizată pe fond
 - 2018-05-22: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2018-05-29: registered at the Chamber of Deputies
+- 2018-07-04: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2018-05-03: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L240CA8.PDF
 - 2018-05-15: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L240CR.PDF
 - 2018-05-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L240AM.PDF
+- 2018-07-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L240AXS.PDF
+- 2018-07-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L240LP.PDF
