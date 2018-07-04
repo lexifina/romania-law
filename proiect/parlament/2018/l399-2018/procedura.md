@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-06-28: documents published: Aviz comisie
 - 2018-07-03: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
+- 2018-07-04: documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-28: Aviz comisie (CA11): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399CA11.PDF
 - 2018-07-03: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399CR.PDF
 - 2018-07-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399FS.PDF
+- 2018-07-04: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399CA7.PDF
+- 2018-07-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399AXS.PDF
+- 2018-07-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399LP.PDF
