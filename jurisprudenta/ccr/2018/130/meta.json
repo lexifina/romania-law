@@ -1,0 +1,385 @@
+{
+ "key": "dcc-130-2018",
+ "label": "Decizia CCR nr. 130/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "130",
+ "date": "2018-03-20",
+ "year": "2018",
+ "heading": "DECIZIA nr. 130 din 20 martie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 250 alin. (4) ș i alin. (5^1), art. 255 alin. (1) teza a doua, art. 426 lit. d) ș i art. 431 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "569",
+  "bis": false,
+  "date": "2018-07-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.940/40/2016",
+  "176D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": [
+      "4",
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 426 lit. d) din Codul de procedură penală, excepție ridicată de Lucia Prusac în Dosarul nr. 2.940/40/2016 al Tribunalului Botoșani - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Lucia Prusac în Dosarul nr. 2.940/40/2016 al Tribunalului Botoșani - Secția penală și constată că dispozițiile art. 250 alin. (4) și alin. (5^1),art. 255 alin. (1) teza a doua și art. 431 din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": [
+      "4",
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "427",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202243",
+  "text_sha256": "79abdfe9d8e8bb702b4a2277450b6158aba87ab4bf7a1e49a34acc369c908713",
+  "catalogue_sha256": "79abdfe9d8e8bb702b4a2277450b6158aba87ab4bf7a1e49a34acc369c908713",
+  "fetched": "2026-11-06T02:41:41Z",
+  "chars": 30952,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/202243",
+   "timestamp": "20250621141857",
+   "crawl": "CC-MAIN-2025-26",
+   "filename": "crawl-data/CC-MAIN-2025-26/segments/1749709481681.43/warc/CC-MAIN-20250621130606-20250621160606-00399.warc.gz",
+   "offset": "281551691",
+   "length": "29372",
+   "sha256": "4d5102ecdbab238bfd76f7d6f6351fe7fa63dd6261bb381d14be590e11711997"
+  },
+  "portal_id": "202243",
+  "tip": "DECIZIE"
+ }
+}
