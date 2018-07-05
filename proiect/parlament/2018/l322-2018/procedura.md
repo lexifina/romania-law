@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-23: adopted by the Chamber of Deputies
 - 2018-05-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-06-12: documents published: Aviz comisie
+- 2018-07-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FG.PDF
 - 2018-05-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322EM.PDF
 - 2018-06-12: Aviz comisie (CA32): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322CA32.PDF
+- 2018-07-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FS.PDF
+- 2018-07-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322AXS.PDF
+- 2018-07-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322LP.PDF
