@@ -1,0 +1,124 @@
+{
+ "key": "dcc-226-2018",
+ "label": "Decizia CCR nr. 226/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "226",
+ "date": "2018-04-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 226 din 19 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Decretului fostului Consiliu de Stat al Republicii Socialiste România nr. 223/1974 privind reglementarea situației unor bunuri",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "579",
+  "bis": false,
+  "date": "2018-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.382/220/2015",
+  "414D/2016"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor Decretului fostului Consiliu de Stat al Republicii Socialiste România nr. 223/1974 privind reglementarea situației unor bunuri, excepție ridicată de Stela Ghibuși în Dosarul nr. 1.382/220/2015 al Tribunalului Timiș - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 223/1974",
+    "number": "223",
+    "year": "1974",
+    "path": "decret/1974/223"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 9
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202307",
+  "text_sha256": "0cbd05721641b638cfd4f8bee17e9da8c052d0f6642e584a33872deacbfea411",
+  "catalogue_sha256": "0cbd05721641b638cfd4f8bee17e9da8c052d0f6642e584a33872deacbfea411",
+  "fetched": "2026-11-03T03:06:13Z",
+  "chars": 13523,
+  "portal_id": "202307",
+  "tip": "DECIZIE"
+ }
+}
