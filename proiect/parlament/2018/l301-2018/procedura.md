@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-13: adopted by the Chamber of Deputies
 - 2018-06-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-23: sent for promulgation
+- 2018-07-10: promulgated, becomes Legea nr. 166/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L301AM.PDF
 - 2018-06-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L301AXS.PDF
 - 2018-06-18: Forma trimisă la promulgare (LP): [lp-e19f8817.md](lp-e19f8817.md); official file https://www.senat.ro/legis/PDF/2018/18L301LP.PDF
+- 2018-07-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L301DP.PDF
+- 2018-07-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L301AFP.PDF
+- 2018-07-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L301FP.PDF
