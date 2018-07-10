@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-18: documents published: Raport comisie sesizată pe fond
 - 2018-06-13: adopted by the Chamber of Deputies
 - 2018-06-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2018-07-10: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -21,3 +22,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AD.PDF
 - 2018-06-14: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376FG.PDF
 - 2018-06-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376EM.PDF
+- 2018-07-10: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376FS.PDF
+- 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AXS.PDF
+- 2018-07-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376LP.PDF
