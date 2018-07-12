@@ -1,0 +1,245 @@
+{
+ "key": "dcc-198-2018",
+ "label": "Decizia CCR nr. 198/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "198",
+ "date": "2018-04-03",
+ "year": "2018",
+ "heading": "DECIZIA nr. 198 din 3 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 20 alin. (3) din Legea nr. 19/2000 privind sistemul de pensii publice și alte drepturi de asigurări sociale, art. 1 alin. (1) și (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și art. 30 alin. (2) și (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "592",
+  "bis": false,
+  "date": "2018-07-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "893/90/2015",
+  "3.570D/2016",
+  "4.073/118/2014",
+  "1.102/90/2016",
+  "3.547/90/2015",
+  "1.629/90/2016",
+  "4.237/90/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Rodica Diaconescu și alții, Ion Ghidarcea și alții, Ion Dafinca și alții, Alexandru Ivan și alții, Dumitru Ghițulescu și alții, Marian Octavian Diaconescu și alții, Gheorghe Dan Crăciun și alții, Emil Alexescu și alții, Marin Bănițoiu și alții, precum și de Gheorghe Croitoru și alții în dosarele nr. 893/90/2015, nr. 894/90/2015, nr. 895/90/2015, nr. 896/90/2015, nr. 897/90/2015, nr. 898/90/2015, nr. 1.102/90/2016, nr. 3.547/90/2015, nr. 1.629/90/2016 și nr. 4.237/90/2015 ale Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale, precum și de Nicolae Gălbinașu în Dosarul nr. 4.073/118/2014 al Curții de Apel Constanța - Secția I civilă și constată că dispozițiile art. 20 alin. (3) din Legea nr. 19/2000 privind sistemul de pensii publice și alte drepturi de asigurări sociale, art. 1 alin. (1) și (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și art. 30 alin. (2) și (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vâlcea - Secția I civilă, conflicte de muncă și asigurări sociale și Curții de Apel Constanța - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202571",
+  "text_sha256": "7e13805290c7657ce69611ccd9f02fd1cda30a2e75a821c0372bc046701ce98f",
+  "catalogue_sha256": "7e13805290c7657ce69611ccd9f02fd1cda30a2e75a821c0372bc046701ce98f",
+  "fetched": "2026-11-03T03:05:59Z",
+  "chars": 17841,
+  "portal_id": "202571",
+  "tip": "DECIZIE"
+ }
+}
