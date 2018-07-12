@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-23: sent for promulgation
 - 2018-07-10: promulgated, becomes Legea nr. 166/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-12: published in the Monitorul Oficial
 
 ## Documents
 
