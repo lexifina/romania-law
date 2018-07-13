@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-06-20: adopted by the Chamber of Deputies
 - 2018-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-27: sent for promulgation
+- 2018-07-13: promulgated, becomes Legea nr. 170/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2018-05-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191AM.PDF
 - 2018-06-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191AXS.PDF
 - 2018-06-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191LP.PDF
+- 2018-07-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191DP.PDF
+- 2018-07-13: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191AFP.PDF
+- 2018-07-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L191FP.PDF
