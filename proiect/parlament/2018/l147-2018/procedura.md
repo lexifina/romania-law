@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2018-06-18: adopted by the Chamber of Deputies
 - 2018-06-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-27: sent for promulgation
+- 2018-07-13: promulgated, becomes Legea nr. 174/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,6 @@ Initiator: Guvernul României.
 - 2018-04-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147AM.PDF
 - 2018-06-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147AXS.PDF
 - 2018-06-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147LP.PDF
+- 2018-07-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147DP.PDF
+- 2018-07-13: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147AFP.PDF
+- 2018-07-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L147FP.PDF
