@@ -1,0 +1,208 @@
+{
+ "key": "dcc-273-2018",
+ "label": "Decizia CCR nr. 273/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "273",
+ "date": "2018-04-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 273 din 24 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 din Ordonanța de urgență a Guvernului nr. 19/2012 privind aprobarea unor măsuri pentru recuperarea reducerilor salariale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "608",
+  "bis": false,
+  "date": "2018-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "38.866/3/2016",
+  "2.545D/2017",
+  "38.837/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 19/2012",
+    "number": "19",
+    "year": "2012",
+    "path": "oug/2012/19"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele și pentru membrii de sindicat Elena Tudor ș.a., în dosarele nr. 38.866/3/2016, nr. 38.837/3/2016, nr. 38.860/3/2016, nr. 38.918/3/2016, nr. 38.835/3/2016, nr. 38.855/3/2016, nr. 38.862/3/2016, nr. 38.920/3/2016, nr. 38.873/3/2016, nr. 38.792/3/2016, nr. 38.861/3/2016, nr. 38.793/3/2016, nr. 38.856/3/2016, nr. 38.772/3/2016, nr. 38.909/3/2016, nr. 38.902/3/2016, nr. 38.808/3/2016, nr. 38.891/3/2016, nr. 38.782/3/2016, nr. 38.801/3/2016, nr. 38.819/3/2016, nr. 38.921/3/2016, nr. 38.804/3/2016, nr. 38.888/3/2016, nr. 38.777/3/2016, nr. 38.816/3/2016, nr. 38.788/3/2016, nr. 38.890/3/2016, nr. 38.899/3/2016, nr. 38.880/3/2016, nr. 38.896/3/CAF/2016, nr. 38.917/3/2016, nr. 38.925/3/2016, nr. 38.774/3/2016, nr. 38.799/3/2016, nr. 38.817/3/2016, nr. 38.867/3/2016, nr. 38.876/3/2016, nr. 38.904/3/2016, nr. 38.912/3/2016, nr. 38.800/3/2016, nr. 38.841/3/2016, nr. 38.868/3/2016, nr. 38.919/3/2016, nr. 38.893/3/2016, și, respectiv, nr. 38.823/3/2016 ale Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal și constată că dispozițiile art. 4 din Ordonanța de urgență a Guvernului nr. 19/2012 privind aprobarea unor măsuri pentru recuperarea reducerilor salariale sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 19/2012",
+    "number": "19",
+    "year": "2012",
+    "path": "oug/2012/19"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2010",
+    "number": "118",
+    "year": "2010",
+    "path": "lege/2010/118"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 65/2003",
+    "number": "65",
+    "year": "2003",
+    "path": "hg/2003/65"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202678",
+  "text_sha256": "b1f5e96cb23154b0e6213616efbd4643028dc0090accfef026a34b5bea85f9cd",
+  "catalogue_sha256": "b1f5e96cb23154b0e6213616efbd4643028dc0090accfef026a34b5bea85f9cd",
+  "fetched": "2026-11-03T03:05:51Z",
+  "chars": 47332,
+  "portal_id": "202678",
+  "tip": "DECIZIE"
+ }
+}
