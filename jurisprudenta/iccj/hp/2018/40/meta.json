@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-40-2018",
+ "label": "Decizia ÎCCJ nr. 40/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "40",
+ "date": "2018-06-04",
+ "year": "2018",
+ "heading": "DECIZIA nr. 40 din 4 iunie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 3 alin. (1) și (3) din Legea nr. 216/2015 privind acordarea pensiei de serviciu membrilor Corpului diplomatic și consular al României, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "603",
+  "bis": false,
+  "date": "2018-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "514/1/2018",
+  "2.041/3/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 216/2015",
+    "number": "216",
+    "year": "2015",
+    "path": "lege/2015/216"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 2.041/3/2017, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 3 alin. (1) și (3) din Legea nr. 216/2015 privind acordarea pensiei de serviciu membrilor Corpului diplomatic și consular al României, cu modificările ulterioare, de prevederile legii beneficiază și membrii Corpului diplomatic și consular al României care au desfășurat activitate în Departamentul de Comerț Exterior cel puțin 15 ani, din care cel puțin 4 ani în misiuni permanente cu grade diplomatice sau consulare la ambasadele, consulatele și alte reprezentanțe ale României din străinătate, fără a fi necesară o vechime de 15 ani în calitatea de membru al Corpului diplomatic și consular.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 216/2015",
+    "number": "216",
+    "year": "2015",
+    "path": "lege/2015/216"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 269/2003",
+    "number": "269",
+    "year": "2003",
+    "path": "lege/2003/269"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 36/2003",
+    "number": "36",
+    "year": "2003",
+    "path": "oug/2003/36"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 96/2013",
+    "number": "96",
+    "year": "2013",
+    "path": "oug/2013/96"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202646",
+  "text_sha256": "711ea6058a7b780d08f4d93a12fa873b21e1f1c4b69be4fddd70d39b5caf25c4",
+  "catalogue_sha256": "711ea6058a7b780d08f4d93a12fa873b21e1f1c4b69be4fddd70d39b5caf25c4",
+  "fetched": "2026-11-03T03:05:51Z",
+  "chars": 48011,
+  "portal_id": "202646",
+  "tip": "DECIZIE"
+ }
+}
