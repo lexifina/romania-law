@@ -1,0 +1,231 @@
+{
+ "key": "dcc-265-2018",
+ "label": "Decizia CCR nr. 265/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "265",
+ "date": "2018-04-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 265 din 24 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19 alin. (4) lit. a) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2018-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.524/188/2016",
+  "1.873D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Euro Fish - S.R.L. din comuna Tasca, județul Neamț în Dosarul nr. 1.524/188/2016 al Judecătoriei Bicaz și constată că dispozițiile art. 19 alin. (4) lit. a) din Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Bicaz și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2016",
+    "number": "51",
+    "year": "2016",
+    "path": "oug/2016/51"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 470/2014",
+    "number": "470",
+    "year": "2014",
+    "path": "hg/2014/470"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2017",
+    "number": "134",
+    "year": "2017",
+    "path": "lege/2017/134"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 996/2008",
+    "number": "996",
+    "year": "2008",
+    "path": "hg/2008/996"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202664",
+  "text_sha256": "000867f89c35f5949d438edf0cf7e8499796266e41a33a6432b6484a14f0df12",
+  "catalogue_sha256": "000867f89c35f5949d438edf0cf7e8499796266e41a33a6432b6484a14f0df12",
+  "fetched": "2026-11-03T03:05:44Z",
+  "chars": 24031,
+  "portal_id": "202664",
+  "tip": "DECIZIE"
+ }
+}
