@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-25: documents published: Raport comisie sesizată pe fond
 - 2018-06-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-29: sent for promulgation
+- 2018-07-17: promulgated, becomes Legea nr. 190/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294FS.PDF
 - 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294AXS.PDF
 - 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294LP.PDF
+- 2018-07-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294DP.PDF
+- 2018-07-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294AFP.PDF
+- 2018-07-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294FP.PDF
