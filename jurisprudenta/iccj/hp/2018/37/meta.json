@@ -1,0 +1,293 @@
+{
+ "key": "iccj-hp-37-2018",
+ "label": "Decizia ÎCCJ nr. 37/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "37",
+ "date": "2018-06-04",
+ "year": "2018",
+ "heading": "DECIZIA nr. 37 din 4 iunie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile privind aplicabilitatea dispozițiilor Legii nr. 77/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "624",
+  "bis": false,
+  "date": "2018-07-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "426/1/2018",
+  "7.765/306/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Sibiu - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 7.765/306/2016 pentru pronunțarea unei hotărâri prealabile privind dezlegarea următoarei chestiuni de drept: „aplicabilitatea dispozițiilor Legii nr. 77/2016, în situația prevăzută de art. 4 alin. (1) lit. c) teza a II-a: «(1) Pentru stingerea creanței izvorând dintr-un contract de credit și a accesoriilor sale prin dare în plată trebuie îndeplinite, în mod cumulativ, următoarele condiții: c) (...) indiferent de scopul pentru care a fost contractat, este garantat cu cel puțin un imobil având destinația de locuință» raportat la dispozițiile art. 1 alin. (1) și (3) din același act normativ: «(1) Prezenta lege se aplică raporturilor juridice dintre consumatori și instituțiile de credit, instituțiile financiare nebancare sau cesionarii creanțelor deținute asupra consumatorilor. (...) (3) Dispozițiile prezentei legi se aplică și în cazul în care creanța creditorului izvorând dintr-un contract de credit este garantată cu fideiusiunea și/sau solidaritatea unuia sau mai multor codebitori sau coplătitori» și în ipoteza în care debitorul principal - împrumutatul titular al contractului de credit nu este consumator, respectiv este profesionist“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a",
+      "k"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nu se aplică creditelor acordate în baza Ordonanței de urgență a Guvernului nr. 60/2009",
+    "number": "60",
+    "year": "2009",
+    "path": "lege/2009/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVII",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202763",
+  "text_sha256": "c79b9990801c90f02e0aba179416d5944365a29d08012d426321cde0a3d00b83",
+  "catalogue_sha256": "c79b9990801c90f02e0aba179416d5944365a29d08012d426321cde0a3d00b83",
+  "fetched": "2026-11-03T03:05:29Z",
+  "chars": 74811,
+  "portal_id": "202763",
+  "tip": "DECIZIE"
+ }
+}
