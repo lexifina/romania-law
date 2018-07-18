@@ -1,0 +1,181 @@
+{
+ "key": "dcc-433-2018",
+ "label": "Decizia CCR nr. 433/2018",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "433",
+ "date": "2018-06-21",
+ "year": "2018",
+ "heading": "DECIZIA nr. 433 din 21 iunie 2018",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate privind Hotărârea Parlamentului României nr. 48/2017 privind numirea unui membru al Colegiului director al Consiliului Național pentru Combaterea Discriminării",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "617",
+  "bis": false,
+  "date": "2018-07-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "729L/2/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată de Grupul parlamentar al Partidului Național Liberal din Camera Deputaților și constată că Hotărârea Parlamentului României nr. 48/2017 privind numirea unui membru al Colegiului director al Consiliului Național pentru Combaterea Discriminării este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Camerei Deputaților și președintelui Senatului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202722",
+  "text_sha256": "897a872a4709810723b5cdff4dc95877ea3daec37a75d2e6aa7250f44ef7d360",
+  "catalogue_sha256": "897a872a4709810723b5cdff4dc95877ea3daec37a75d2e6aa7250f44ef7d360",
+  "fetched": "2026-11-03T03:05:34Z",
+  "chars": 36754,
+  "portal_id": "202722",
+  "tip": "DECIZIE"
+ }
+}
