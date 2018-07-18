@@ -1,0 +1,217 @@
+{
+ "key": "dcc-390-2018",
+ "label": "Decizia CCR nr. 390/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "390",
+ "date": "2018-06-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 390 din 6 iunie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "621",
+  "bis": false,
+  "date": "2018-07-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "660A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecția de neconstituționalitate a dispozițiilor Legii privind aprobarea Programului de susținere a crescătorilor de suine pentru activitatea de reproducție.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2014",
+    "number": "77",
+    "year": "2014",
+    "path": "oug/2014/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/202742",
+  "text_sha256": "5af80dc157375bac168fe0585c520122973cc8a33a4d1d568fbb3fab75b2a65c",
+  "catalogue_sha256": "5af80dc157375bac168fe0585c520122973cc8a33a4d1d568fbb3fab75b2a65c",
+  "fetched": "2026-11-06T02:53:12Z",
+  "chars": 26981,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406180606/https://legislatie.just.ro/Public/DetaliiDocumentAfis/202742",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/202742",
+   "timestamp": "20250406180606",
+   "sha256": "5033a79ca7a4e1878d13a7df9f66449266cd3a9fe61c567818b43d2525a59bdb"
+  },
+  "portal_id": "202742",
+  "tip": "DECIZIE"
+ }
+}
