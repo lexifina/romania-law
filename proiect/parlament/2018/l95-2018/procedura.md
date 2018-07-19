@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-05: registered at the Chamber of Deputies
 - 2018-06-26: adopted by the Chamber of Deputies
 - 2018-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-07-19: promulgated, becomes Legea nr. 197/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-01: Aviz comisie (CA11): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095CA11.PDF
 - 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095AXS.PDF
 - 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095LP.PDF
+- 2018-07-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095DP.PDF
+- 2018-07-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095AFP.PDF
+- 2018-07-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L095FP.PDF
