@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-20: registered at the Chamber of Deputies
 - 2018-06-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-03: sent for promulgation
+- 2018-07-19: promulgated, becomes Legea nr. 199/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350AM.PDF
 - 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350AXS.PDF
 - 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350LP.PDF
+- 2018-07-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350DP.PDF
+- 2018-07-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350AFP.PDF
+- 2018-07-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L350FP.PDF
