@@ -1,0 +1,293 @@
+{
+ "key": "dcc-452-2018",
+ "label": "Decizia CCR nr. 452/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "452",
+ "date": "2018-07-04",
+ "year": "2018",
+ "heading": "DECIZIA nr. 452 din 4 iulie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor articolului unic pct. 3 [cu referire la art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații] și ale articolului unic pct. 5 [cu referire la art. 11 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații] din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2018-07-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "853A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 22/2009",
+    "number": "22",
+    "year": "2009",
+    "path": "oug/2009/22"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017",
+    "number": "33",
+    "year": "2017",
+    "path": "lege/2017/33"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, obiecția de neconstituționalitate a dispozițiilor articolului unic pct. 5 [cu referire la art. 11 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații] - cu privire la soluția legislativă care nu prevede o cale de atac împotriva hotărârilor Parlamentului de demitere a conducerii ANCOM - din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații.",
+  "2. Admite obiecția de neconstituționalitate și constată că sintagmele „cu votul majorității deputaților și senatorilor“ din cuprinsul articolului unic pct. 3 [cu referire la art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații] și al articolului unic pct. 5 [cu referire la art. 11 alin. (5^1) din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații] din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017 pentru modificarea și completarea art. 11 din Ordonanța de urgență a Guvernului nr. 22/2009 privind înființarea Autorității Naționale pentru Administrare și Reglementare în Comunicații, sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 33/2017",
+    "number": "33",
+    "year": "2017",
+    "path": "lege/2017/33"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 22/2009",
+    "number": "22",
+    "year": "2009",
+    "path": "oug/2009/22"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 73/1993",
+    "number": "73",
+    "year": "1993",
+    "path": "lege/1993/73"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203008",
+  "text_sha256": "e9ada8d8e75bec9a4163ca15ba5ab15b404677f77b5f20dda2c51a979a31bd8f",
+  "catalogue_sha256": "e9ada8d8e75bec9a4163ca15ba5ab15b404677f77b5f20dda2c51a979a31bd8f",
+  "fetched": "2026-11-03T03:05:24Z",
+  "chars": 58505,
+  "portal_id": "203008",
+  "tip": "DECIZIE"
+ }
+}
