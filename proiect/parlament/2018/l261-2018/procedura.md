@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-16: documents published: Aviz comisie
 - 2018-06-27: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-07-03: sent for promulgation
+- 2018-07-19: promulgated, becomes Legea nr. 201/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-16: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261CA14.PDF
 - 2018-05-16: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261CA8.PDF
 - 2018-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261FS.PDF
+- 2018-07-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261DP.PDF
+- 2018-07-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261AFP.PDF
+- 2018-07-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261FP.PDF
