@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-26: adopted by the Chamber of Deputies
 - 2018-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-03: sent for promulgation
+- 2018-07-20: promulgated, becomes Legea nr. 202/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215AM.PDF
 - 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215AXS.PDF
 - 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215LP.PDF
+- 2018-07-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215DP.PDF
+- 2018-07-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215AFP.PDF
+- 2018-07-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L215FP.PDF
