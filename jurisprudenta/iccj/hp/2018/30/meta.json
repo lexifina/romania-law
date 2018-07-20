@@ -1,0 +1,208 @@
+{
+ "key": "iccj-hp-30-2018",
+ "label": "Decizia ÎCCJ nr. 30/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "30",
+ "date": "2018-05-14",
+ "year": "2018",
+ "heading": "DECIZIA nr. 30 din 14 mai 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 13 din Ordonanța de urgență a Guvernului nr. 27/2006",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "635",
+  "bis": false,
+  "date": "2018-07-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "336/1/2018",
+  "5.100/62/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.860/2006",
+    "number": "1860",
+    "year": "2006",
+    "path": "hg/2006/1860"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția civilă în Dosarul nr. 5.100/62/2016 în vederea pronunțării unei hotărâri prealabile cu privire la următoarea problemă de drept: „dacă în interpretarea și aplicarea dispozițiilor art. 13 din Ordonanța de urgență a Guvernului nr. 27/2006, art. 18 din Hotărârea Guvernului nr. 1.860/2006 face parte din categoria reglementărilor aplicabile personalului din instituțiile publice, care vin în completarea art. 13 alin. (1) din Ordonanța de urgență a Guvernului nr. 27/2006“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.860/2006",
+    "number": "1860",
+    "year": "2006",
+    "path": "hg/2006/1860"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.806/2006",
+    "number": "1806",
+    "year": "2006",
+    "path": "hg/2006/1806"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-07-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203042",
+  "text_sha256": "44c8bc524e72c881933cf6622102e7aac8e7a8abc8582f7bd02426a07eb9d02e",
+  "catalogue_sha256": "44c8bc524e72c881933cf6622102e7aac8e7a8abc8582f7bd02426a07eb9d02e",
+  "fetched": "2026-11-04T03:31:09Z",
+  "chars": 48482,
+  "portal_id": "203042",
+  "tip": "DECIZIE"
+ }
+}
