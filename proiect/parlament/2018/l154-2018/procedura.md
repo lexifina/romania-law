@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-06-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-29: sent for promulgation
 - 2018-07-17: promulgated, becomes Legea nr. 187/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-23: published in the Monitorul Oficial
 
 ## Documents
 
