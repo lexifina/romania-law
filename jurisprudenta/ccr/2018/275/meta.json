@@ -1,0 +1,380 @@
+{
+ "key": "dcc-275-2018",
+ "label": "Decizia CCR nr. 275/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "275",
+ "date": "2018-04-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 275 din 24 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 67 alin. (5) teza finală și art. 68 alin. (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "644",
+  "bis": false,
+  "date": "2018-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.547/2/2017",
+  "30D/2018",
+  "23.372/3/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioana Sfîrăială în Dosarul nr. 5.547/2/2017 (2.321/2017) al Curții de Apel București - Secția I penală și constată că dispozițiile art. 67 alin. (5) teza finală și art. 68 alin. (7) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "385-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "410",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "413",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "418",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "419",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "420",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "422",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "423",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 281/2003",
+    "number": "281",
+    "year": "2003",
+    "path": "lege/2003/281"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203106",
+  "text_sha256": "d55552c85b09416b385e6d02961f231e41569b2a8bf298b8608f39c144afbd36",
+  "catalogue_sha256": "d55552c85b09416b385e6d02961f231e41569b2a8bf298b8608f39c144afbd36",
+  "fetched": "2026-11-03T03:05:16Z",
+  "chars": 30541,
+  "portal_id": "203106",
+  "tip": "DECIZIE"
+ }
+}
