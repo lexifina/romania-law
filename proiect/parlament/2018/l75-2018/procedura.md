@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-03: sent for promulgation
 - 2018-07-19: promulgated, becomes Legea nr. 198/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-25: published in the Monitorul Oficial
 
 ## Documents
 
