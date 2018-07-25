@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-27: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-03: sent for promulgation
 - 2018-07-20: promulgated, becomes Legea nr. 206/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400DP.PDF
 - 2018-07-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400AFP.PDF
 - 2018-07-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400FP.PDF
+- 2018-07-25: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L400AL.PDF (its day is not given by the bill file: shown from the last stage held)
