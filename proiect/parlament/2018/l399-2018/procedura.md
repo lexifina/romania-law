@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-03: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
 - 2018-07-04: documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-06: sent for promulgation
+- 2018-07-25: promulgated, becomes Legea nr. 212/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-04: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399CA7.PDF
 - 2018-07-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399AXS.PDF
 - 2018-07-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399LP.PDF
+- 2018-07-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399DP.PDF
+- 2018-07-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399AFP.PDF
+- 2018-07-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L399FP.PDF
