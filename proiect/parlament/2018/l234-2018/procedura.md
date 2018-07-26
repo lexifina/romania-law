@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-09: registered at the Chamber of Deputies
 - 2018-07-04: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-10: sent for promulgation
+- 2018-07-26: promulgated, becomes Legea nr. 214/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234AM.PDF
 - 2018-07-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234AXS.PDF
 - 2018-07-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234LP.PDF
+- 2018-07-26: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234DP.PDF
+- 2018-07-26: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234AFP.PDF
+- 2018-07-26: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L234FP.PDF
