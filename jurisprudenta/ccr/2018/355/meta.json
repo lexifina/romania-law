@@ -1,0 +1,374 @@
+{
+ "key": "dcc-355-2018",
+ "label": "Decizia CCR nr. 355/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "355",
+ "date": "2018-05-23",
+ "year": "2018",
+ "heading": "DECIZIA nr. 355 din 23 mai 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru modificarea și completarea unor acte normative din domeniul sănătății",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "652",
+  "bis": false,
+  "date": "2018-07-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "601A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea și completarea unor acte normative din domeniul sănătății"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată și constată că Legea pentru modificarea și completarea unor acte normative din domeniul sănătății este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "11",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "701-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "800",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "803",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "814",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "d-2"
+     ]
+    },
+    {
+     "art": "857",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": [
+      "1",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "14"
+     ],
+     "lit": null
+    },
+    {
+     "art": "699-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "699",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "804",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "693",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "889",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "701",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 734/2010",
+    "number": "734",
+    "year": "2010",
+    "path": "hg/2010/734"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2017",
+    "number": "88",
+    "year": "2017",
+    "path": "oug/2017/88"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2018",
+    "number": "8",
+    "year": "2018",
+    "path": "oug/2018/8"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "14"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203155",
+  "text_sha256": "4a25357baf812adc8213941cb3330cf3189dc3c9517c9bd6bfb2c0ea6e371b3f",
+  "catalogue_sha256": "4a25357baf812adc8213941cb3330cf3189dc3c9517c9bd6bfb2c0ea6e371b3f",
+  "fetched": "2026-11-03T03:05:05Z",
+  "chars": 55996,
+  "portal_id": "203155",
+  "tip": "DECIZIE"
+ }
+}
