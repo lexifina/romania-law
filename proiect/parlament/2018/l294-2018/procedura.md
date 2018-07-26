@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-06-29: sent for promulgation
 - 2018-07-17: promulgated, becomes Legea nr. 190/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294DP.PDF
 - 2018-07-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294AFP.PDF
 - 2018-07-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294FP.PDF
+- 2018-07-26: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-07-26: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L294AL.PDF (its day is not given by the bill file: shown from the last stage held)
