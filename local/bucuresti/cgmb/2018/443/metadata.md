@@ -1,0 +1,11 @@
+# HCGMB nr. 443/2018
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 443/2018
+- Adopted: 2018-07-26
+- Title: PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL ZONA DE SUD A SECTORULUI 4, BUCURESTI SE SUSPENDA 12 LUNI PRIN HCGMB NR. 67/2021 PRIN SENTINTA CIVILA NR. 299/05.02.2021 PRONUNTATA DE TRIBUNALUL CLUJ- SECTIA MIXTA DE CONTENCIOS ADMINISTRATIV SI FISCAL SE ANULEAZA IN PARTE HCGMB NR. 443/26.07.2018- PUZ ZONA DE SUD A SECTORULUI 4 PRIN SENTINTA CIVILA NR. 860/2022 A TRIBUNALULUI BUCURESTI - SECTIA A II-A - CONTENCIOS ADMINISTRATIV SI FISCAL, S-A DISPUS SUSPENDAREA EXECUTARII HCGMB NR. 443/26.07.2018
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38414
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38414/H443_18.pdf
+- Document sha256: d62d7a15e32f77ac96caa14844a266fbeaf65529250577567b49c2d59d5f3ba4
