@@ -1,0 +1,2 @@
+# ANEXĂ la regulament
+-----
