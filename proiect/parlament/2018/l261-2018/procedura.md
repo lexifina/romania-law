@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-03: sent for promulgation
 - 2018-07-19: promulgated, becomes Legea nr. 201/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2018-07-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-07-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261FP.PDF
 - 2018-07-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261AXS.PDF
 - 2018-07-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261LP.PDF
+- 2018-07-30: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L261AL.PDF (its day is not given by the bill file: shown from the last stage held)
