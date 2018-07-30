@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-26: adopted by the Chamber of Deputies
 - 2018-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-19: promulgated, becomes Legea nr. 197/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-30: published in the Monitorul Oficial
 
 ## Documents
 
