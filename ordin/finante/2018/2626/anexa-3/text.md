@@ -1,0 +1,11 @@
+# Anexa nr. 3 (Anexa nr. 4 la anexă)
+FORMULAR de anulare a subscrierii de către investitor
+Formularul de anulare a subscrierii de către investitor se întocmește în două exemplare.
+Subsemnatul:
+Numele și prenumele.............................., posesor al BI/CI seria..... nr........., emis(ă) de............. la data de.................., CNP..........................., locul nașterii........................, data nașterii...................., domiciliat(ă) în localitatea.................................., str............................. nr......., bl.........., sc....... et......., ap........, județul/sectorul......................, cod poștal..........................., telefon..........................., adresa de e-mail...........................
+Reprezentat prin:
+Împuternicit legal: doamna/domnul:
+Numele și prenumele....................................., posesoare/posesor a/al BI/CI seria.......... nr............., emis(ă) de............... la data de...................., CNP........................, locul nașterii.........................., data nașterii............, domiciliată/domiciliat în localitatea................................................., str................................. nr......, bl........, sc......., et......., ap........, județul/sectorul........................, cod poștal.........................., telefon..................., adresa de e-mail................., în baza Procurii nr.................... din data de.................., anexată, solicit anularea formularului/formularelor de subscriere și a chitanțelor 14-4-1 aferente (Se înscriu pentru fiecare document: codul de emisiune, seria, nr., valoarea.)........................................................................................................................................................................................................................................................................................................................... motivat de faptul că: a) s-a depășit plafonul valoric al subscrierilor specificat în prospectul de emisiune; 
+b) doresc să îmi retrag subscrierea. 
+Numele și prenumele investitorului/ împuternicitului
+Semnătura și data.............................
