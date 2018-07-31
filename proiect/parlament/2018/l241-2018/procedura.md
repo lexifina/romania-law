@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-07-09: adopted by the Chamber of Deputies
 - 2018-07-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-12: sent for promulgation
+- 2018-07-31: promulgated, becomes Legea nr. 226/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2018-05-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241AM.PDF
 - 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241AXS.PDF
 - 2018-07-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241LP.PDF
+- 2018-07-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241DP.PDF
+- 2018-07-31: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241AFP.PDF
+- 2018-07-31: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L241FP.PDF
