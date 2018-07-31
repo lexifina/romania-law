@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-04: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-10: sent for promulgation
 - 2018-07-26: promulgated, becomes Legea nr. 216/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-07-31: published in the Monitorul Oficial
 
 ## Documents
 
