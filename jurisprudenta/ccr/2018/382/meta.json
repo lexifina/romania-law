@@ -1,0 +1,272 @@
+{
+ "key": "dcc-382-2018",
+ "label": "Decizia CCR nr. 382/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "382",
+ "date": "2018-05-31",
+ "year": "2018",
+ "heading": "DECIZIA nr. 382 din 31 mai 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 114 alin. (3) din Legea societăților nr. 31/1990",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "668",
+  "bis": false,
+  "date": "2018-08-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "906/118/2016",
+  "4.373/118/2016",
+  "3.376D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Dragoș Băldescu în dosarele nr. 6.860/118/2015 și nr. 7.902/118/2015 ale Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal și nr. 906/118/2016 al Tribunalului Constanța - Secția a II-a civilă, precum și de Mariana Georgescu și Paul-Alexandru Băldescu în Dosarul nr. 4.373/118/2016 al Tribunalului Constanța - Secția a II-a civilă și constată că soluția legislativă cuprinsă în art. 114 alin. (3) din Legea societăților nr. 31/1990, care nu permite contestarea în justiție, pe calea acțiunii în anulare prevăzute de art. 132 din lege, a deciziilor consiliului de administrație, respectiv directoratului luate în exercitarea atribuției delegate de majorare a capitalului social, este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Constanța - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "210",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 82/2007",
+    "number": "82",
+    "year": "2007",
+    "path": "oug/2007/82"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 441/2006",
+    "number": "441",
+    "year": "2006",
+    "path": "lege/2006/441"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2017",
+    "number": "24",
+    "year": "2017",
+    "path": "lege/2017/24"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-08-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203303",
+  "text_sha256": "cac74fbc931f839a5caf85ed9138844d0a2b09dcbbcf48adaf5d51b9d3a0954d",
+  "catalogue_sha256": "cac74fbc931f839a5caf85ed9138844d0a2b09dcbbcf48adaf5d51b9d3a0954d",
+  "fetched": "2026-11-06T02:24:06Z",
+  "chars": 29767,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/203303",
+   "timestamp": "20250912203654",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533273.13/warc/CC-MAIN-20250912181024-20250912211024-00027.warc.gz",
+   "offset": "309732240",
+   "length": "30298",
+   "sha256": "f2cd00beb19a1df8809839ef18a2152d87ee6417aa6ee9261c4a9d310064fac8"
+  },
+  "portal_id": "203303",
+  "tip": "DECIZIE"
+ }
+}
