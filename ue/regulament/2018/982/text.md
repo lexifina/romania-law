@@ -1,0 +1,33 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2018/982 AL COMISIEI
+din 11 iulie 2018
+privind autorizarea unui preparat de acid benzoic, formiat de calciu și acid fumaric ca aditiv pentru hrana puilor pentru îngrășare și a puicuțelor pentru ouat (titularul autorizației: Novus Europe N.A./S.V.)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unor astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, s-a depus o cerere de autorizare a unui preparat de acid benzoic, formiat de calciu și acid fumaric ca aditiv pentru hrana puilor pentru îngrășare, a puicuțelor pentru ouat și a speciilor aviare minore pentru îngrășare și pentru ouat. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Respectiva cerere vizează autorizarea unui preparat de acid benzoic, formiat de calciu și acid fumaric ca aditiv pentru hrana puilor pentru îngrășare, a puicuțelor pentru ouat și a speciilor aviare minore pentru îngrășare și pentru ouat, urmând a fi clasificat în categoria „aditivi zootehnici”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat, în avizele ei din 2 decembrie 2014 (2) și 28 septembrie 2017 (3) că, în condițiile de utilizare propuse, preparatul de acid benzoic, formiat de calciu și acid fumaric nu are efecte adverse asupra sănătății animalelor, a sănătății umane sau asupra mediului. De asemenea, autoritatea a concluzionat că preparatul are potențialul de a îmbunătăți performanța puilor pentru îngrășare, iar această concluzie poate fi extinsă asupra puicuțelor pentru ouat. Totuși, întrucât nu se pot trage concluzii cu privire la marja de siguranță a aditivului pentru speciile-țintă majore, concluziile privind siguranța nu pot fi extrapolate la speciile aviare minore pentru îngrășare și nici la speciile aviare minore pentru ouat. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea preparatului de acid benzoic, formiat de calciu și acid fumaric arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea preparatului respectiv ar trebui autorizată conform specificațiilor din anexa la prezentul regulament.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se autorizează preparatul menționat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „alți aditivi zootehnici”, ca aditiv destinat hranei pentru animale, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 11 iulie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2015;13(5):3794.
+(3) EFSA Journal 2017;15(10):5025.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de aditiv/kg de hrană completă pentru animale, cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupa funcțională: alți aditivi zootehnici (de îmbunătățire a performanțelor zootehnice)
+4d14 | Novus Europe N.A./S.V. | Preparat de acid benzoic, formiat de calciu și acid fumaric | Compoziția aditivului Preparat de acid benzoic, formiat de calciu și acid fumaric cu un conținut minim de: Acid benzoic: 42,5 %-50 % Formiat de calciu: 2,5 %-3,5 % Acid fumaric: 0,8 %-1,2 % Sub formă de granule Caracterizarea substanței active acid benzoic: număr CAS: 65-85-0 (puritate ≥ 99,0 %); C7H6O2 formiat de calciu: număr CAS: 544-17-2; C2H2O4Ca; acid fumaric (puritate ≥ 99,5 %): număr CAS 110-17-8; C4H4O4. Metoda analitică (1) Pentru determinarea acidului benzoic, a formiatului de calciu și a acidului fumaric în aditivul pentru hrana animalelor: — cromatografie în fază lichidă de înaltă performanță cu detecție UV (HPLC-UV) Pentru determinarea calciului total în aditivul pentru hrana animalelor: — spectrometrie de absorbție atomică (AAS) – EN ISO 6869 sau — spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES) – EN 15510 Pentru determinarea acidului benzoic în preamestecuri și în hrana pentru animale: — cromatografie în fază lichidă de înaltă performanță cu detecție UV (HPLC-UV) Pentru determinarea formiatului de calciu și a acidului fumaric în preamestecuri: — cromatografie în fază lichidă de înaltă performanță de excludere ionică, cu detecție UV sau cu detecție cu indice de refracție (HPLC-UV/RI) | Pui pentru îngrășare Puicuțe pentru ouat | — | 500 | 1 000 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. A nu se utiliza aditivul cu alte surse de acid benzoic sau benzoați, formiat de calciu sau formiat și acid fumaric. 3. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a aborda riscurile potențiale legate de utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, incluzând echipamente de protecție respiratorie. | 1 august 2028
+(1) Detaliile metodelor analitice pot fi consultate la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
