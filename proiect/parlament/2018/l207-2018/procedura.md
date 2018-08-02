@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: registered at the Chamber of Deputies
 - 2018-07-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-16: sent for promulgation
+- 2018-08-02: promulgated, becomes Legea nr. 231/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207AM.PDF
 - 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207AXS.PDF
 - 2018-07-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207LP.PDF
+- 2018-08-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207DP.PDF
+- 2018-08-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207AFP.PDF
+- 2018-08-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L207FP.PDF
