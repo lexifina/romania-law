@@ -1,0 +1,350 @@
+{
+ "key": "dcc-533-2018",
+ "label": "Decizia CCR nr. 533/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "533",
+ "date": "2018-07-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 533 din 18 iulie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. I pct. 2 [cu referire la art. 2 alin. (3)], pct. 4 [cu referire la art. 3 alin. (1^1)], pct. 7 [cu referire la art. 5 alin. (1) și (2)], pct. 8 [cu referire la art. 6 alin. (2^1)], pct. 9 [cu referire la art. 7 alin. (6)-(9)], pct. 23 [cu referire la art. 18 alin. (2)], pct. 30 [cu referire la art. 21 alin. (3)], pct. 37 [cu referire la art. 26 alin. (1)], pct. 49 (cu referire la art. 35), pct. 54 [cu referire la art. 40 alin. (4)], pct. 61 (cu referire la art. 46^3), pct. 75 [cu referire la art. 51 alin. (8)-(10)], pct. 104 [cu referire la art. 62 alin. (1) lit. a)], pct. 107 [cu referire la art. 62 alin. (1^1)], pct. 125-128 și 133, pct. 134 (cu referire la art. 75) și pct. 142 [cu referire la art. 82 alin. (3)] din Legea pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "673",
+  "bis": false,
+  "date": "2018-08-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.104A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecția de neconstituționalitate a dispozițiilor art. I pct. 2 [cu referire la art. 2 alin. (3)], pct. 4 [cu referire la art. 3 alin. (1^1)], pct. 7 [cu referire la art. 5 alin. (1) și (2)], pct. 8 [cu referire la art. 6 alin. (2^1)], pct. 9 [cu referire la art. 7 alin. (6)-(9)], pct. 23 [cu referire la art. 18 alin. (2)], pct. 30 [cu referire la art. 21 alin. (3)], pct. 37 [cu referire la art. 26 alin. (1)], pct. 49 (cu referire la art. 35), pct. 54 [cu referire la art. 40 alin. (4)], pct. 61 (cu referire la art. 46^3), pct. 75 [cu referire la art. 51 alin. (8)-(10)], pct. 104 [cu referire la art. 62 alin. (1) lit. a)], pct. 107 [cu referire la art. 62 alin. (1^1)], pct. 125-128 și 133, pct. 134 (cu referire la art. 75) și pct. 142 [cu referire la art. 82 alin. (3)] din Legea pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "6",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "1",
+      "1-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-08-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203318",
+  "text_sha256": "8ebcef2165716e2cd37c3b9a209a8d30f13ea05efe2f4d4e858b63768f93ff5d",
+  "catalogue_sha256": "8ebcef2165716e2cd37c3b9a209a8d30f13ea05efe2f4d4e858b63768f93ff5d",
+  "fetched": "2026-11-03T03:04:39Z",
+  "chars": 46709,
+  "portal_id": "203318",
+  "tip": "DECIZIE"
+ }
+}
