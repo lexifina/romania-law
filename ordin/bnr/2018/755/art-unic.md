@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății DIRECT FACTOR IFN - S.A., cu sediul în București, str. Tudor Vianu nr. 25-27, ap. 2, sectorul 1, înregistrată la oficiul registrului comerțului cu nr. J40/17594/2006, având codul unic de înregistrare 19159075, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-41-050074 din data de 31.01.2007, la secțiunea e) "Factoring".
