@@ -1,0 +1,3 @@
+# ANEXĂ (Anexă la regulament)
+ORGANIGRAMA AUTORITĂȚII DE SUPRAVEGHERE FINANCIARĂ
+----
