@@ -1,0 +1,3 @@
+# ANEXĂ
+REGULAMENTUL ariei de protecție specială avifaunistică ROSPA0016 Câmpia Nirului-Valea Ierului, al siturilor de importanță comunitară ROSCI0020 Câmpia Careiului și ROSCI0021 Câmpia Ierului și al ariilor naturale protejate de interes național 2.182. Pășunea cu Corynephorus de la Voivozi, 2.676. Pădurea Urziceni, 2.677. Dunele de nisip Foieni, 2.679. Mlaștina Vermeș și 2.183.
+Complexul hidrografic Valea Rece
