@@ -1,0 +1,253 @@
+{
+ "key": "dcc-366-2018",
+ "label": "Decizia CCR nr. 366/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "366",
+ "date": "2018-05-31",
+ "year": "2018",
+ "heading": "DECIZIA nr. 366 din 31 mai 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Legea nr. 489/2006 privind libertatea religioasă și regimul general al cultelor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "703",
+  "bis": false,
+  "date": "2018-08-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "949/321/2013",
+  "1.925D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2006",
+    "number": "489",
+    "year": "2006",
+    "path": "lege/2006/489"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 27 din Legea nr. 489/2006 privind libertatea religioasă și regimul general al cultelor, excepție ridicată de Ștefaniea Anton, Valerian Mihail Anton, Daniela Tatiana Trifan și Ciprian Anton în Dosarul nr. 949/321/2013 al Tribunalului Neamț - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2006",
+    "number": "489",
+    "year": "2006",
+    "path": "lege/2006/489"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/1998",
+    "number": "54",
+    "year": "1998",
+    "path": "lege/1998/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 53/2008",
+    "number": "53",
+    "year": "2008",
+    "path": "hg/2008/53"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2003",
+    "number": "489",
+    "year": "2003",
+    "path": "lege/2003/489"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1837",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1895",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1896",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1897",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1898",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1899",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1900",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1049",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-08-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/203751",
+  "text_sha256": "8dd25581c7c9f00f6b580824dfd924c0d4d70a195cb3a3cec316d0ce1138b694",
+  "catalogue_sha256": "8dd25581c7c9f00f6b580824dfd924c0d4d70a195cb3a3cec316d0ce1138b694",
+  "fetched": "2026-11-03T03:04:06Z",
+  "chars": 17958,
+  "portal_id": "203751",
+  "tip": "DECIZIE"
+ }
+}
