@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății EKO LEASING SOLUTIONS IFN S.A., cu sediul în Pitești, bulevardul Ion C. Brătianu nr. 48-52, etaj 7, ap. 707A, județul Argeș, înregistrată la registrul comerțului cu nr. J03/1644/2003, având codul unic de înregistrare 15978050, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-03-080103, la secțiunea h) - Leasing financiar.
