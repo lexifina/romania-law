@@ -1,0 +1,7 @@
+# Anexa nr. 5
+Formular de notificare instrumente de plată electronică cu acces la distanță......(numele instituției emitente)...., înmatriculată la oficiul registrului comerțului sub nr......../........., având cod unic de înregistrare nr........................., având sediul în țara/județul.............................., localitatea.............................., str.......................... nr....., cod poștal............., prin................................., în calitate de reprezentant legal, notificăm emiterea și punerea în circulație a instrumentului de plată electronică cu acces la distanță de tip.................................., în următoarele condiții:
+a) denumire produs........................................................................;
+b) operațiuni efectuate prin intermediul instrumentului............................................................................................................................................................................................................................................;
+c) producătorul programului informatic este societatea........................., înmatriculată la oficiul registrului comerțului sub nr........................, având cod unic de înregistrare............., cu sediul în localitatea.............................., str....................... nr................, cod poștal.....................
+Semnătura autorizată a solicitantului,
+S.S./L.S.
