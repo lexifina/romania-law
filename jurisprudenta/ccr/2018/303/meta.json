@@ -1,0 +1,262 @@
+{
+ "key": "dcc-303-2018",
+ "label": "Decizia CCR nr. 303/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "303",
+ "date": "2018-05-08",
+ "year": "2018",
+ "heading": "DECIZIA nr. 303 din 8 mai 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"la care se atașează dovada de primire/procesul-verbal și înștiințarea prevăzute la art. 163\", cuprinsă în art. 154 alin. (4), precum și a sintagmei \"dispozițiile art. 200 nefiind aplicabile în acest caz\", cuprinsă în art. 717 alin. (1) teza finală din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "724",
+  "bis": false,
+  "date": "2018-08-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "26/325/2016",
+  "1.974D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "717",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Emanuel Cristian în Dosarul nr. 26/325/2016 al Tribunalului Timiș - Secția a II-a civilă și constată că sintagma „la care se atașează dovada de primire/procesul-verbal și înștiințarea prevăzute la art. 163“ cuprinsă în art. 154 alin. (4), precum și sintagma „dispozițiile art. 200 nefiind aplicabile în acest caz“ cuprinsă în art. 717 alin. (1) teza finală din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "717",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "716",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 13/2013",
+    "number": "13",
+    "year": "2013",
+    "path": "oug/2013/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-08-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204046",
+  "text_sha256": "a316edf1abad266588b9a36499f0364d5d964a8671d2df7c9877d76652ba860b",
+  "catalogue_sha256": "a316edf1abad266588b9a36499f0364d5d964a8671d2df7c9877d76652ba860b",
+  "fetched": "2026-11-03T18:47:42Z",
+  "chars": 25750,
+  "portal_id": "204046",
+  "tip": "DECIZIE"
+ }
+}
