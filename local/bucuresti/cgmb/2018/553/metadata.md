@@ -1,0 +1,11 @@
+# HCGMB nr. 553/2018
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 553/2018
+- Adopted: 2018-08-23
+- Title: PENTRU APROBAREA REGULAMENTULUI PRIVIND REGIMUL FINANTARILOR NERAMBURSABILE ALOCATE DE LA BUGETUL LOCAL AL MUNICIPIULUI BUCURESTI, PENTRU ACTIVITATI NONPROFIT DE INTERES LOCAL IN DOMENIUL CULTURA, PROTECTIA MEDIULUI INCONJURATOR, ACTIVITATI DE TINERET, PRECUM SI A MODELULUI DE CONTRACT CADRU DE FINANTARE NERAMBURSABILA A ACTIVITATILOR NONPROFIT DE INTERES LOCAL, POTRIVIT LEGII NR. 350/2005 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 243/2021
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38493
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38493/H553_18.pdf
+- Document sha256: c18ff9dfec41310ce67d253e80bf233ea37bb883106d5b2b9ba5e2f7ce459b2e
