@@ -1,0 +1,11 @@
+# HCGMB nr. 563/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 563/2018
+- Adopted: 2018-08-23
+- Title: PRIVIND APROBAREA ORGANIGRAMEI, NUMARULUI TOTAL DE POSTURI , STATULUI DE FUNCTIL SI REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE CENTRULUI PENTRU TINERET AL MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 381/2016 MODIFICA HCGMB NR. 229/2017 MODIFICA HCGMB NR. 408/2016 MODIFICA ANEXA HCGMB NR. 196/2018 INCETEAZA APLICABILITATEA ART. 1 AL HCGMB NR. 280/2018 ANEXA NR. 3 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 446/2019 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 108/2026
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38544
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38544/H563_18.pdf
+- Document sha256: 76925404e7022e34d82bd4701aaa467229452dc6268a70a45868a69e5f7e5584
