@@ -1,0 +1,26 @@
+# Anexa nr. 3 la anexa nr. 2
+ANEXĂ la procesul-verbal înregistrat la Ocolul Silvic................................. cu nr.........../.......................
+Formular autocopiant
+Delegații ocolului silvic Inginer/Tehnician........................................
+Pădurar..........................................................
+Proprietar/Împuternicit legal al proprietarului,...............................................................
+FIȘĂ DE INVENTAR a arborilor inventariați și marcați conform procesului-verbal înregistrat la Ocolul Silvic................. cu nr.........../............
+Nr. crt.
+Specia
+Diametrul
+- cm -
+Înălțime
+- m -
+Clasa de calitate
+Nr. crt.
+Specia
+Diametrul
+- cm -
+Înălțime
+- m -
+Clasa de calitate 1 31 2 32 3 33 4 34 5 35 6 36 7 37 8 38 9 39 10 40 11 41 12 42 13 43 14 44 15 45 16 46 17 47 18 48 19 49 20 50 21 51 22 52 23 53 24 54 25 55 26 56 27 57 28 58 29 59 30 60
+Am predat. Delegații ocolului silvic Inginer/Tehnician............................
+Pădurar............................................
+Am primit. Proprietar/Împuternicit legal al proprietarului,...................................................................
+Situația arborilor inventariați și marcați conform procesului-verbal poate fi prezentată potrivit anexei la procesul-verbal sau în format electronic.
+-----
