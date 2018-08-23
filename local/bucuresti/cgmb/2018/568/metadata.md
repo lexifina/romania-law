@@ -1,0 +1,11 @@
+# HCGMB nr. 568/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 568/2018
+- Adopted: 2018-08-23
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 292/2016 PRIVIND IMPUTERNICIREA CONSILIULUI LOCAL SECTOR 1 DE A HOTARI CU PRIVIRE LA INFIINTAREA UNEI SOCIETATI COMERCIALE AVAND CA SCOP PRESTAREA DE SERVICII SI EXECUTAREA DE LUCRARI PENTRU IMOBILELE PROPRIETATE PUBLICA SI PRIVATA A MUNICIPIULUI BUCURESTI, AFLATE IN ADMINISTRAREA CONSILIULUI LOCAL SECTOR 1, CU EXCEPTIA CLADIRILOR MODIFICA ART. 1 AL HCGMB NR. 292/2016 ABROGA HCGMB NR. 291/2016
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38541
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38541/H568_18.pdf
+- Document sha256: e54de0dee9f8dcee48239df287bd8eadd7dad43d186fcd122c10459a48c4cd4b
