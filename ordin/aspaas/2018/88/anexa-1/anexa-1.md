@@ -1,0 +1,26 @@
+# Anexa nr. 1 la norme
+CERERE de suspendare a auditorilor financiari
+Subsemnatul/Subsemnata,......................., născut(ă) la data de........... în localitatea............., județul/sectorul............, cu domiciliul în localitatea.............., str................. nr......., bl......., sc......., et......., ap......., județul/sectorul............., legitimat(ă) cu buletinul/cartea de identitate/pașaportul seria...... nr..............., eliberat(ă) de............ la data de..........., cod numeric personal (CNP)................., în calitate de auditor financiar, autorizat prin..............., Autorizație nr........, solicit suspendarea exercitării activității desfășurate în calitate de auditor financiar pentru o perioadă de................
+Declar că mă aflu în unul dintre următoarele cazuri: *^1) a) concediu pentru creșterea sau îngrijirea copilului minor;
+b) pensionare anticipată sau incapacitate temporară de muncă;
+c) incapacitate temporară de muncă, pe caz de boală gravă pentru care se poate acorda concediu medical pentru o perioadă mai mare de trei luni conform recomandărilor cadrelor medicale de specialitate;
+d) șomaj;
+e) nu am un loc de muncă, nu obțin venituri sau veniturile pe care le obțin din activități autorizate legal sunt mai mici decât valoarea indicatorului social de referință (ISR) în ultimele 12 luni anterior formulării cererii de suspendare;
+f) nu sunt angajat în domeniul auditului financiar și nu am obținut venituri din exercitarea profesiei de auditor financiar în ultimele 12 luni anterior formulării cererii de suspendare;
+g) am împlinit vârsta legală de pensionare și nu am obținut venituri din exercitarea activității în ultimele 12 luni anterior formulării cererii de suspendare;
+h) sunt angajat cu contract de muncă într-un alt stat membru sau țară terță și nu obțin venituri pe teritoriul României;
+i) îmi desfășor activitatea într-un alt stat membru sau țară terță și nu obțin venituri pe teritoriul României;
+j) mă aflu în misiune oficială într-un alt stat membru sau țară terță;
+k) am un handicap grav sau accentuat definit conform Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, și nu obțin venituri sau veniturile pe care le obțin, din activități autorizate legal, sunt mai mici decât valoarea indicatorului social de referință (ISR);
+l) alte situații cu caracter social care conduc la imposibilitatea temporară a exercitării profesiei de auditor financiar............................................................................................................................................
+.............................................................................
+Anexez la prezenta cerere următoarele documente:........................................................................................................................................................
+Declar următoarele: • am/nu am obținut anterior o suspendare pentru unul din cazurile prevăzute la lit. a)-l) pe care am întrerupt-o la cerere; • în perioada cuprinsă între data reluării activității și până în prezent am/nu am obținut venituri din exercitarea profesiei de auditor financiar.
+Menționez ca mă/nu mă aflu într-o situație de incompatibilitate cu exercitarea activității de audit financiar, potrivit legii.
+Date de contact: Adresă de e-mail..............................
+Telefon..............................................
+Adresa de corespondență: localitatea.................., str.................... nr......, bl......, sc....., et......, ap......, sectorul/județul.....................
+Subsemnatul/Subsemnata,............................................, declar că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către ASPAAS a datelor cu caracter personal în exercitarea atribuțiilor legale.
+Data
+Semnătura....................................................
+*^1) Se va încercui una dintre lit. a)-l) în funcție de situația aplicabilă.
