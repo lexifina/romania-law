@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut la Banca Națională a României, a Societății STEINER & CO LEASING IFN - S.A., cu sediul în Câmpina, str. Bobâlna nr. 44, C16 (fostă AMC), camera 8, etaj 1, județul Prahova, înregistrată la registrul comerțului cu nr. J29/356/2007, cod unic de înregistrare 21044468, înscrisă în Registrul general cu nr. RG-PJR-30-110149, la secțiunea k) "Activități multiple de creditare".
