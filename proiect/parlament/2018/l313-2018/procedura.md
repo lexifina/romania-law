@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-30: documents published: Aviz comisie
 - 2018-06-06: documents published: Aviz comisie
 - 2018-06-26: documents published: Aviz comisie
+- 2018-08-26: registered at the Chamber of Deputies
 
 ## Documents
 
