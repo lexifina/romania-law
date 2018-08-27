@@ -1,0 +1,49 @@
+# DECIZIA nr. 347 din 22 mai 2018
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 107 alin. (1) și art. 117 alin. (2) din Codul de procedură civilă
+Valer Dorneanu - președinte
+Marian Enache - judecător
+Petre Lăzăroiu - judecător
+Mircea Ștefan Minea - judecător
+Mona-Maria Pivniceru - judecător
+Livia Doina Stanciu - judecător
+Simona-Maya Teodoroiu - judecător
+Varga Attila - judecător
+Andreea Costin - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Ioan-Sorin-Daniel Chiriazi.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 107 alin. (1) ș i art. 117 alin. (2) din Codul de procedură civilă, excepție ridicată de Kerezsi József în Dosarul nr. 3.612/197/2016 al Judecătoriei Brașov și care formează obiectul Dosarului Curții Constituționale nr. 3.406D/2016.
+2. La apelul nominal se prezintă, personal, autorul excepției de neconstituționalitate, lipsind celelalte părți. Procedura de citare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul autorului excepției de neconstituționalitate, care solicită admiterea acesteia și prezintă aspecte referitoare la fondul litigiului.
+4. Având cuvântul, reprezentantul Ministerului Public pune concluzii de respingere, ca neîntemeiată, a excepției de neconstituționalitate. În acest sens arată că modalitatea de stabilire a competenței teritoriale a instanțelor de judecată pentru introducerea cererilor de chemare în judecată nu aduce atingere dreptului părților de a se adresa justiției și de a beneficia de un proces echitabil. De asemenea, menționează jurisprudența Curții referitoare la dispozițiile legale similare din Codul de procedură civilă din 1865, respectiv Decizia nr. 979 din 25 iunie 2009.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+5. Prin Încheierea din 14 decembrie 2016, pronunțată în Dosarul nr. 3.612/197/2016, Judecătoria Brașov a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 107 alin. (1) ș i art. 117 alin. (2) din Codul de procedură civilă, excepție ridicată de Kerezsi József, într-o cauză având ca obiect uzucapiune.
+6. În motivarea excepției de neconstituționalitate se susține, în esență, că dispozițiile art. 107 alin. (1) din Codul de procedură civilă stabilesc ca regulă generală faptul că cererea de chemare în judecată se introduce la instanța în a cărei circumscripție își are domiciliul sau sediul pârâtul, dacă legea nu prevede altfel. Prin aplicarea acestor dispoziții se creează în mod mecanic și evident excluderea posibilității alegerii instanței în mod liber de către reclamant.
+7. În continuare, referitor la dispozițiile art. 117 alin. (2) din Codul de procedură civilă, se arată, în esență, că legiuitorul a stabilit că, în cazul în care imobilul este situat în circumscripțiile mai multor instanțe, cererea de chemare în judecată se va face la instanța domiciliului sau reședinței pârâtului, dacă domiciliul sau reședința acestuia se află în aceste circumscripții, iar, în caz contrar, legiuitorul se contrazice, acceptând în mod necondiționat regula stabilirii competenței instanței de judecată în funcție de circumscripția în care se află imobilul.
+8. Așadar, se apreciază că mecanismul stabilirii și determinării instanței competente în funcție de locul situării imobilului și al domiciliului pârâtului exclude și limitează, în mod nelegal, dreptul procesual al reclamantului de a alege în mod liber instanța din circumscripția domiciliului acestuia. Prin urmare, dispozițiile legale criticate sunt neconstituționale, deoarece încalcă atât principiul securității raporturilor juridice, cât și dreptul la un proces echitabil.
+9. Judecătoria Brașov, contrar dispozițiilor art. 29 alin. (4) din Legea nr. 47/1992, nu și-a exprimat opinia cu privire la excepția de neconstituționalitate.
+10. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate ridicate.
+11. Guvernul apreciază că excepția de neconstituționalitate este neîntemeiată.
+12. Avocatul Poporului apreciază că dispozițiile legale criticate sunt constituționale.
+13. Președinții celor două Camere ale Parlamentului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, punctele de vedere ale Guvernului și Avocatului Poporului, raportul întocmit de judecătorul-raportor, susținerile autorului excepției de neconstituționalitate, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+14. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+15. Obiectul excepției de neconstituționalitate îl reprezintă dispozițiile art. 107 alin. (1) ș i art. 117 alin. (2) din Codul de procedură civilă, care au următorul cuprins:
+–
+Art. 107 alin. (1): „Cererea de chemare în judecată se introduce la instanța în a cărei circumscripție domiciliază sau își are sediul pârâtul, dacă legea nu prevede altfel.“;
+–
+Art. 117 alin. (2): „Când imobilul este situat în circumscripțiile mai multor instanțe, cererea se va face la instanța domiciliului sau reședinței pârâtului, dacă aceasta se află în vreuna dintre aceste circumscripții, iar în caz contrar, la oricare dintre instanțele în circumscripțiile cărora se află imobilul.“.
+16. În opinia autorului excepției de neconstituționalitate, dispozițiile legale criticate încalcă prevederile constituționale ale art. 16 privind egalitatea în drepturi, art. 21 privind accesul liber la justiție astfel cum acesta se interpretează potrivit a rt. 20 din Constituție și prin prisma art. 6 privind dreptul la un proces echitabil din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale.
+17. Examinând excepția de neconstituționalitate, Curtea reține că dispozițiile art. 107 alin. (1) din Codul de procedură civilă stabilesc instanța competentă din punct de vedere teritorial să soluționeze litigiile dintre părți, și anume cea de la domiciliul sau sediul pârâtului, în absența unei norme contrare. În litigiile privitoare la imobile, legiuitorul a stabilit, prin art. 117 alin. (1) din Codul de procedură civilă, o competență teritorială exclusivă, instituită printr-o normă imperativă de ordine publică, instanța competentă fiind cea pe teritoriul căreia se află imobilul. Dacă imobilul este situat în circumscripțiile mai multor instanțe, legiuitorul a prevăzut, prin art. 117 alin. (2) din Codul de procedură civilă, o competență alternativă, în sensul că cererea va putea fi introdusă la oricare dintre aceste instanțe. Însă, dacă pârâtul își are domiciliul sau reședința în una dintre aceste circumscripții, cererea va fi introdusă la instanța competentă din această circumscripție.
+18. Prevederile criticate reglementează conduita reclamantului în faza preprocesuală, stabilind cadrul și limitele în care acesta poate sesiza instanța cu cererea de chemare în judecată. În ceea ce privește susținerea conform căreia există o inegalitate de tratament aplicabil, sub acest aspect, părților din proces, Curtea reține că această critică este neîntemeiată, având în vedere că poziția juridică a reclamantului care declanșează procesul este total diferită de cea a pârâtului chemat în judecată prin acțiunea introdusă de reclamant. Mai mult, în condițiile în care însăși legea stabilește instanța competentă și limitele în care reclamantul își poate exercita dreptul de opțiune, Curtea constată că susținerile autorului excepției potrivit cărora dispozițiile criticate ar sta la baza pronunțării unei hotărâri arbitrare nu pot fi primite. Stabilirea prin prevederile legale criticate a competenței teritoriale alternative nu aduce atingere, sub nicio formă, dreptului părților de a beneficia de un proces echitabil și nu afectează imparțialitatea justiției.
+19. În fine, potrivit dispozițiilor art. 126 alin. (2) din Constituție, procedura de judecată este prevăzută de lege, astfel încât stabilirea regulilor referitoare la competența teritorială imperativă și/sau alternativă, precum și la părțile care au dreptul de a alege reprezintă o atribuție exclusivă a legiuitorului.
+20. Totodată, Curtea observă că, din criticile formulate, reiese că autorul excepției este nemulțumit de faptul că nu poate introduce acțiunile pe rolul instanței competente din circumscripția în care își are domiciliul/sediul în calitate de reclamant. Or asemenea critici nu se pot converti într-un fine de neconstituționalitate, autorul excepției urmărind, în realitate, obținerea unei soluții legislative favorabile situației sale particulare.
+21. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Kerezsi József în Dosarul nr. 3.612/197/2016 al Judecătoriei Brașov și constată că dispozițiile art. 107 alin. (1) și art. 117 alin. (2) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Brașov și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 22 mai 2018.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Andreea Costin
