@@ -1,0 +1,3 @@
+# ANEXĂ
+NORME METODOLOGICE pentru aplicarea de către Ministerul pentru Mediul de Afaceri, Comerț și Antreprenoriat a prevederilor Ordonanței de urgență a Guvernului nr. 8/2017 privind lansarea în cadrul
+Ministerului pentru Mediul de Afaceri, Comerț și Antreprenoriat a Programului de susținere a internaționalizării operatorilor economici români, cu finanțare de la bugetul de stat, pentru perioada 2017-2020
