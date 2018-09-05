@@ -1,0 +1,27 @@
+# Anexa nr. 1.a
+SIGLA ANAF
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+DIRECȚIA...........................................
+Data............/......../.....................
+Nr. înregistrare...........................
+Număr de înregistrare ca operator de date cu caracter personal:.......................................................
+AVIZ DE VERIFICARE
+Domnului/Doamnei:............................., CIF:.......................,
+Adresa: localitatea:.............., bd./str.................... nr......, bl......, sc....., et......, ap....., județul/sectorul......, cod poștal................
+Stimate domn/doamnă,
+Vă înștiințăm că începând cu data de............ veți face obiectul: [] unei verificări a situației fiscale personale cu privire la impozitul pe venit, pentru perioada.........-..........., în conformitate cu prevederile art. 138 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare; [] unei refaceri a verificării situației fiscale personale cu privire la impozitul pe venit, pentru perioada.........-.........., în baza dispozițiilor cuprinse în Decizia de soluționare a contestației nr................ din data de....................., emisă de................, și în conformitate cu prevederile art. 129, coroborate cu prevederile art. 147 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare.
+Potrivit prevederilor art. 141 alin. (1) lit. d) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, aveți posibilitatea de a solicita o singură dată, în scris, amânarea datei de începere a verificării pentru motive justificate.
+Pe parcursul verificării aveți dreptul de a beneficia de asistență de specialitate și/sau juridică.
+Prezentul aviz este însoțit de Carta drepturilor și obligațiilor persoanei fizice supuse verificării situației fiscale personale, aprobată prin Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 1.162/2016.
+La data începerii verificării situației fiscale personale, respectiv.............., ora......, sunteți invitat(ă) să vă prezentați la sediul organului fiscal situat în localitatea................, strada............. nr......, camera......., județul/sectorul............, loc unde se va desfășura verificarea situației fiscale personale.
+Potrivit prevederilor art. 140 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, verificarea situației fiscale personale se poate desfășura la domiciliul dumneavoastră ori la domiciliul/sediul persoanei care vă acordă asistență de specialitate sau juridică, în condițiile a rt. 140 alin. (4) și (5) din același act normativ.
+Pentru stabilirea situației fiscale personale, urmează ca în termen de cel mult 60 de zile de la comunicarea prezentului aviz: a)
+În situația în care faceți obiectul unei verificări a situației fiscale personale, în conformitate cu prevederile art. 138 alin. (6) și (7) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare: - să prezentați organelor fiscale, sub sancțiunea decăderii, extrasele conturilor bancare, documentele justificative și orice alte înscrisuri sau clarificări relevante pentru stabilirea situației fiscale personale, aferente perioadei care face obiectul verificării;
+- să depuneți la sediul organului fiscal declarația de patrimoniu și de venituri, aprobată prin Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.704/2015 privind stabilirea elementelor de patrimoniu și de venituri ce trebuie declarate de persoana fizică supusă verificării situației fiscale personale, precum și a modelului declarației. Modelul declarației de patrimoniu și de venituri poate fi descărcat în vederea completării de pe pagina de internet a Agenției Naționale de Administrare Fiscală, de la secțiunea „Asistență contribuabili persoane fizice - legislație - formulare fiscale și ghid de completare - formulare fiscale - fără număr - declarația de patrimoniu și venituri (Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.704/2015) - formular editabil”.
+b)
+În situația în care faceți obiectul unei refaceri a verificării situației fiscale personale, în conformitate cu prevederile art. 138 alin. (6) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare: - să prezentați organelor fiscale, sub sancțiunea decăderii, documentele justificative și orice alte înscrisuri sau clarificări relevante pentru stabilirea situației fiscale personale, aferente perioadei care face obiectul refacerii, având în vedere strict considerentele Deciziei de soluționare a contestației nr................ din data de............................., emisă de.................................
+Termenul de depunere se poate prelungi cu 30 de zile, o singură dată, la solicitarea dumneavoastră, cu acordul organului fiscal.
+Avizul de verificare a fost emis în baza art. 138 alin. (5) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare.
+Vă asigurăm de întreaga noastră colaborare pe parcursul desfășurării verificării situației fiscale personale.
+Conducătorul organului fiscal,................................................................... (funcția, numele, prenumele, semnătura și ștampila)
+Persoana de contact:..................... Telefon:.................
