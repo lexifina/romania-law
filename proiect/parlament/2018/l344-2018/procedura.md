@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-04-04: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-06-27: documents published: Aviz comisie
+- 2018-09-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-04: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L344LG.PDF
 - 2018-04-04: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L344PV.PDF
 - 2018-06-27: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L344CA12.PDF
+- 2018-09-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L344CR.PDF
