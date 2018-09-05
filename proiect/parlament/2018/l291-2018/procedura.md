@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2018-05-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2018-05-23: documents published: Aviz comisie
 - 2018-05-24: documents published: Aviz comisie
+- 2018-09-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2018-05-23: Aviz comisie (CA32): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L291CA32.PDF
 - 2018-05-23: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L291CA8.PDF
 - 2018-05-24: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L291CA3.PDF
+- 2018-09-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L291FS.PDF
+- 2018-09-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L291AM.PDF
