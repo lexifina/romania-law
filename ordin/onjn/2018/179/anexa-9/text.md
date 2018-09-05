@@ -1,0 +1,26 @@
+# Anexa nr. 9
+Declarație lunară privind veniturile realizate de organizatorii de jocuri de noroc tip tombolă pentru luna.......................... anul........
+Date de identificare a organizatorului de jocuri de noroc
+Denumirea:...................................................
+Codul unic de înregistrare:............................
+Adresa:.........................................................
+Nr. crt.
+Indicator
+Valoare (lei)/Număr 1
+Taxă de participare 1.1
+Valoarea biletului de participare 1.2
+Numărul biletelor emise 1.3
+Numărul biletelor vândute 1.4
+Numărul biletelor rămase 2
+Total încasări (1.1 x 1.3) 3
+Valoarea bonusurilor acordate 4
+Valoarea premiilor acordate 5
+Venitul din activitatea de tip tombolă (2 + 3 - 4) 6
+Taxă de licențiere achitată în luna declarată 7
+Taxă de autorizare achitată în luna declarată
+Reprezentant legal....................................
+Nume, prenume....................................
+Semnătura....................................
+Data....................................
+NOTĂ: Se va completa de operatorii ce desfășoară activități de jocuri de noroc definite la art. 10 alin. (1) lit. n) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, aprobată cu modificări și completări prin Legea nr. 246/2010, cu modificările și completările ulterioare.
+-----
