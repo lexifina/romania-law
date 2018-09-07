@@ -1,0 +1,416 @@
+{
+ "key": "dcc-39-2018",
+ "label": "Decizia CCR nr. 39/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "39",
+ "date": "2018-01-30",
+ "year": "2018",
+ "heading": "DECIZIA nr. 39 din 30 ianuarie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 alin. (3), art. 3, art. 4, art. 5, art. 6, art. 7, art. 8, art. 10 și art. 11 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și ale legii în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "772",
+  "bis": false,
+  "date": "2018-09-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.668/324/2016",
+  "1.615D/2016",
+  "8.150/94/2016",
+  "10.487/211/2016",
+  "6.390/315/2016",
+  "7.698/231/2016",
+  "12.185/212/2016/a1",
+  "14.295/301/2016",
+  "15.518/325/2016",
+  "8.481/180/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi r aportate la dispozițiile art. 3 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepția de neconstituționalitate a prevederilor art. 8 alin. (5) din Legea nr. 77/2016, precum și excepția de neconstituționalitate a prevederilor art. 11 teza a doua din Legea nr. 77/2016, excepție ridicată de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 2.668/324/2016 al Judecătoriei Tecuci, Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 8.150/94/2016 al Judecătoriei Buftea, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 10.487/211/2016 al Judecătoriei Cluj-Napoca, de Societatea BRD-Groupe Société Générale din București prin Sucursala Târgoviște în Dosarul nr. 6.390/315/2016 al Judecătoriei Târgoviște, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 7.698/231/2016 al Judecătoriei Focșani - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 12.185/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.295/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București, Societatea Credit Europe Bank (România) - S.A din București și de Societatea Credit Europe Bank NV din Amsterdam, Olanda, în Dosarul nr. 15.518/325/2016 al Judecătoriei Timișoara - Secția I civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 8.481/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București, Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 9.557/320/2016/a1 al Judecătoriei Târgu Mureș - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 9.712/55/2016 al Judecătoriei Arad - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București și de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 13.124/197/2016 al Judecătoriei Brașov, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 7.705/180/2016 al Judecătoriei Bacău - Secția civilă, de Societatea Credit Europe Bank Ipotecar IFN - S.A. din București în Dosarul nr. 16.205/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 8.361/231/2016 al Judecătoriei Focșani - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 4.540/204/2016 al Judecătoriei Câmpina - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 4.314/221/2016 al Judecătoriei Deva, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 7.348/288/2016 al Judecătoriei Râmnicu Vâlcea - Secția civilă, de Societatea Credit Europe Bank N.V. din Amsterdam, Olanda în Dosarul nr. 22.110/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank N.V. din Amsterdam, Olanda în Dosarul nr. 9.853/318/2016 al Judecătoriei Târgu Jiu - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 12.677/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.878/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 12.346/197/2016 al Judecătoriei Brașov, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 8.514/196/2016 al Judecătoriei Brăila - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.065/318/2016 al Judecătoriei Târgu Jiu - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 12.188/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.305/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe IFN - S.A. din București în Dosarul nr. 13.519/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 4.204/312/2016 al Judecătoriei Slobozia, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 13.451/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 14.877/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 16.486/4/2016 al Judecătoriei Sectorului 4 din București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 9.408/280/2016 al Judecătoriei Pitești - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 3.969/327/2016 al Judecătoriei Tulcea - Secția civilă și penală, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 14.562/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 18.217/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 3.460/290/2016 al Judecătoriei Reșița, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 17.085/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 5.214/1.748/2016 al Judecătoriei Cornetu, de Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 8.685/318/2016 al Judecătoriei Târgu Jiu - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 11.061/318/2016 al Judecătoriei Târgu Jiu - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 12.343/197/2016 al Judecătoriei Brașov, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 10.442/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.134/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 1.314/828/2016 al Judecătoriei Topoloveni, de Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 3.910/740/2016 al Judecătoriei Alexandria, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 13.544/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN din București în Dosarul nr. 1.371/308/2016 al Judecătoriei Sighișoara - Secția civilă și penală, de Societatea Credit Europe Bank (România) - S.A. din București, Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN din București în Dosarul nr. 12.344/197/2016 al Judecătoriei Brașov, de Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 17.070/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 16.479/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.931/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 12.534/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 16.807/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.241/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe România - S.A. din București și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 15.693/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank - S.A. din București în Dosarul nr. 3.453/176/2016 al Judecătoriei Alba Iulia, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.064/318/2016 al Judecătoriei Târgu Jiu - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.965/197/2016 al Judecătoriei Brașov, de Banca Transilvania - S.A. din Cluj-Napoca în Dosarul nr. 29.791/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 20.190/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe (România) - S.A. din București, Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 18.038/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe (România) - S.A. din București și de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 6.029/314/2016 al Judecătoriei Suceava, de Societatea Credit Europe Bank (România) - S.A. din București și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 4.645/314/2016 al Judecătoriei Suceava, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 20.440/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.649/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Bank România - S.A. din București, Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 9.358/1.748/2016 al Judecătoriei Cornetu, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 12.233/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 14.873/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 16.947/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 17.146/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank România - S.A. din București, Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.395/281/2016 al Judecătoriei Ploiești - Secția civilă, de Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 8.716/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 10.420/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 20.486/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 1.096/267/2016 al Judecătoriei Novaci, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 10.786/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București și Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 7.297/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 8.661/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 11.783/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 34.290/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.981/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 20.162/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 10.196/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 11.235/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) -- S.A. din București în Dosarul nr. 8.752/94/2016 al Judecătoriei Buftea - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 8.046/200/2016 al Judecătoriei Buzău - Secția civilă, de Societatea Credit Europe Ipotecar IFN -- S.A. din București în Dosarul nr. 12.345/197/2016 al Judecătoriei Brașov, de Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 25.226/301/2016 al Judecătoriei Sectorului 3 din București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 10.414/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 10.445/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 13.181/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 21.326/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 16.734/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Secapital S.a.R.L. din Luxembourg prin reprezentant convențional Kruk România - S.A. din București în Dosarul nr. 25.648/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 28.055/300/2016 al Judecătoriei Sectorului 2 din București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.394/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 17.526/215/2016 al Judecătoriei Craiova - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 10.671/281/2016 al Judecătoriei Ploiești - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 15.450/281/2016 al Judecătoriei Ploiești - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 10.844/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 14.735/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.254/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 12.531/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 4.002/327/2016 al Judecătoriei Tulcea - Secția civilă și penală, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 4.239/176/2016 al Judecătoriei Alba Iulia, de Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 18.562/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 11.239/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.267/303/2016 al Judecătoriei Sectorului 6 din București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 13.663/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 13.762/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 15.657/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 7.251/1.748/2016 al Judecătoriei Cornetu, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 9.045/1.748/2016 al Judecătoriei Cornetu, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.608/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 16.246/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 19.782/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.269/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 24.592/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 14.964/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 14.472/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.027/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 20.831/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 22.517/4/2016 al Judecătoriei Sectorului 4 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 15.933/302/2016 al Judecătoriei Sectorului 5 București - Secția a II-a civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 23.845/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 10.642/271/2016 al Judecătoriei Oradea - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 14.419/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 17.539/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 13.818/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 11.268/94/2016 al Judecătoriei Buftea, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 18.558/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 5.214/314/2016 al Judecătoriei Suceava, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 24.231/299/2016 al Judecătoriei Sectorului 1 București, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 28.709/300/2016 al Judecătoriei Sectorului 2 București, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 11.737/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 15.859/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 20.819/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 13.675/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 13.619/302/2016 al Judecătoriei Sectorului 5 București, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 23.290/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 17.745/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank România - S.A. din București în Dosarul nr. 17.162/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 24.474/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 24.196/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 21.211/212/2016/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda prin mandatar Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 12.439/280/2016 al Judecătoriei Pitești - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 17.069/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 14.587/302/2016 al Judecătoriei Sectorului 5 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 5.369/314/2016 al Judecătoriei Suceava, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 12.642/303/2016 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 23.021/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 25.040/197/2016 al Judecătoriei Brașov - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 7.453/306/2016 al Judecătoriei Sibiu - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 15.377/233/2016 al Judecătoriei Galați - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 19.871/301/2016 al Judecătoriei Sectorului 3 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda și Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 14.874/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 3.777/333/2016 al Judecătoriei Vaslui, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 3.928/333/2016 al Judecătoriei Vaslui, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 21.556/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarul nr. 13.822/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 17.962/4/2016 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Credit Europe Ipotecar IFN - S.A. din București în Dosarul nr. 7.310/94/2016 al Judecătoriei Buftea - Secția civilă și de Societatea Credit Europe Bank NV din Amsterdam, Olanda în Dosarul nr. 19.292/212/2016/a1 al Judecătoriei Constanța - Secția civilă.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 11 teza întâi sintagma „precum și din devalorizarea bunurilor imobile“ din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite și excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi r aportate la prevederile art. 3 teza a doua, art. 4, art. 7 alin. (1),",
+  "(2),",
+  "(3),",
+  "(5) și (6) și art. 8 alin. (1),",
+  "(2),",
+  "(3) și (4) din Legea nr. 77/2016, excepție ridicată de aceleași părți în dosarele acelorași instanțe.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași părți în dosarele acelorași instanțe și constată că dispozițiile art. 11 teza întâi, raportate la dispozițiile art. 5 alin. (3), art. 7 alin. (4), precum și la celelalte prevederi criticate din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite sunt constituționale, prin raportare la criticile formulate.",
+  "Decizia se comunică Judecătoriei Alba Iulia, Judecătoriei Alexandria, Judecătoriei Arad - Secția civilă, Judecătoriei Bacău - Secția civilă, Judecătoriei Brașov, Judecătoriei Buzău - Secția civilă, Judecătoriei Câmpina - Secția civilă, Judecătoriei Cornetu, Judecătoriei Cluj-Napoca, Judecătoriei Constanța - Secția civilă, Judecătoriei Craiova - Secția civilă, Judecătoriei Deva, Judecătoriei Focșani - Secția civilă, Judecătoriei Galați - Secția civilă, Judecătoriei Novaci, Judecătoriei Oradea - Secția civilă, Judecătoriei Pitești - Secția civilă, Judecătoriei Ploiești - Secția civilă, Judecătoriei Râmnicu Vâlcea - Secția civilă, Judecătoriei Reșița, Judecătoriei Sectorului 1 București, Judecătoriei Sectorului 2 București - Secția civilă, Judecătoriei Sectorului 3 București - Secția civilă, Judecătoriei Sectorului 4 București, Judecătoriei Sectorului 4 București - Secția civilă, Judecătoriei Sectorului 5 București - Secția a II-a civilă, Judecătoriei Sectorului 6 București - Secția civilă, Judecătoriei Sibiu - Secția civilă, Judecătoriei Sighișoara - Secția civilă și penală, Judecătoriei Slobozia, Judecătoriei Suceava, Judecătoriei Târgoviște, Judecătoriei Târgu Jiu - Secția civilă, Judecătoriei Târgu Mureș - Secția civilă, Judecătoriei Tecuci, Judecătoriei Timișoara - Secția civilă, Judecătoriei Topoloveni, Judecătoriei Tulcea - Secția civilă și penală, precum și Judecătoriei Vaslui și se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă și general obligatorie."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 209
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-09-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204701",
+  "text_sha256": "bfa8c1975ded056f0d9b1c03d14697d27cde107d40a34de815ba0938b19ee45e",
+  "catalogue_sha256": "bfa8c1975ded056f0d9b1c03d14697d27cde107d40a34de815ba0938b19ee45e",
+  "fetched": "2026-11-03T03:02:55Z",
+  "chars": 206575,
+  "portal_id": "204701",
+  "tip": "DECIZIE"
+ }
+}
