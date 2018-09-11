@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a societății MINDI IFN - S.A., cu sediul în București, str. Bilciurești nr. 9A, etaj 7, sector 1, înregistrată la Oficiul Registrului Comerțului cu nr. J40/12362/2016, cod unic de înregistrare 36542096, înscrisă în Registrul general și în Registrul special Instituții Financiare Nebancare cu nr. RG-PJR-41-110319, respectiv nr. RS-PJR-41-110095 la secțiunea k) - "Activități multiple de creditare".
