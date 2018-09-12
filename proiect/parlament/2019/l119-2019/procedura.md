@@ -10,9 +10,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2018-09-03: first record in the bill file
 - 2018-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2018-09-12: documents published: Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2018-09-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L119AD.PDF
 - 2018-09-05: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L119FG.PDF
 - 2018-09-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L119EM.PDF
+- 2018-09-12: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L119LG.PDF
