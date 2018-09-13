@@ -1,0 +1,97 @@
+{
+ "key": "cedo-36900-03-2017-12-05",
+ "label": "CEDO, Toșcuță și alții c. României, 2017-12-05",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2017-12-05",
+ "year": "2017",
+ "heading": "HOTĂRÂRE din 5 decembrie 2017",
+ "subtitle": "în Cauza Toșcuță și alții împotriva României (revizuire)",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI FOSTA SECȚIE A TREIA",
+ "mo": {
+  "number": "787",
+  "bis": false,
+  "date": "2018-09-13",
+  "part": "I"
+ },
+ "outcome": "inadmissible",
+ "findings": [
+  "inadmissible"
+ ],
+ "applications": [
+  "36900/03"
+ ],
+ "case_name": "Toșcuță și alții",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. hotărăște să admită cererea de revizuire a Hotărârii din 25 noiembrie 2008; în consecință,",
+  "1. declară cererea admisibilă în ceea ce privește capătul de cerere formulat în temeiul art. 1 din Protocolul nr. 1 de reclamanții Adrian Toșcuță, Paul Ion Șerban Toșcuță, Dănuț Negulescu, George Negulescu, Maria Negulescu și Sevastița Negulescu și inadmisibilă în ceea ce îl privește pe reclamantul Gheorghe Negulescu; [...]",
+  "5. hotărăște: a) că statul pârât trebuie să plătească în solidar reclamanților Adrian Toșcuță, Paul Ion Șerban Toșcuță, Dănuț Negulescu, George Negulescu, Maria Negulescu și Sevastița Negulescu, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, suma de 4.000 EUR (patru mii euro) pentru toate cheltuielile, plus orice sumă ce poate fi datorată cu titlu de impozit; [...]",
+  "2. hotărăște să admită cererea de revizuire a Hotărârii din 3 martie 2015; în consecință,",
+  "1. hotărăște: a) că statul pârât trebuie, prin mijloace adecvate, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, să îi pună pe reclamanții Adrian Toșcuță și Paul Ion Șerban Toșcuță în posesia efectivă asupra celor 6.581 m^2 de teren și să îi pună pe reclamanții Dănuț Negulescu, George Negulescu, Maria Negulescu și Sevastița Negulescu în posesia efectivă asupra celor 1.666 m^2 de teren și că trebuie să asigure tuturor reclamanților eliberarea unui titlu de proprietate asupra terenului lor;",
+  "b) că, în absența măsurilor prevăzute la lit. a) supra, statul pârât trebuie, în același termen de trei luni, să plătească primilor doi reclamanți în solidar suma de 1.665.000 EUR (un milion șase sute șaizeci și cinci de mii de euro) pentru prejudiciul material, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plății, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "c) că, în absența măsurilor prevăzute la lit. a) supra, statul pârât trebuie, în același termen de trei luni, să plătească reclamanților Dănuț Negulescu, George Negulescu, Maria Negulescu și Sevastița Negulescu în solidar suma de EUR 420.000 (patru sute douăzeci de mii de euro) pentru prejudiciul material, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plății, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "d) că statul pârât trebuie, în același termen de trei luni, să plătească reclamanților Adrian Toșcuță, Paul Ion Șerban Toșcuță, Dănuț Negulescu, George Negulescu, Maria Negulescu și Sevastița Negulescu în solidar suma de 2.300 EUR (două mii trei sute de euro), care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății, pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată cu titlu de impozit; [...]"
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204783",
+  "text_sha256": "d6dd4cd9ee11dfd66984b4acbdaacda78499b830b36d64d8652868a37e4d8f8c",
+  "catalogue_sha256": "d6dd4cd9ee11dfd66984b4acbdaacda78499b830b36d64d8652868a37e4d8f8c",
+  "fetched": "2026-11-03T13:00:53Z",
+  "chars": 17575,
+  "portal_id": "204783",
+  "tip": "HOTĂRÂRE"
+ }
+}
