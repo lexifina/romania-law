@@ -1,0 +1,255 @@
+{
+ "key": "iccj-hp-38-2018",
+ "label": "Decizia ÎCCJ nr. 38/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "38",
+ "date": "2018-06-04",
+ "year": "2018",
+ "heading": "DECIZIA nr. 38 din 4 iunie 2018",
+ "subtitle": "referitoare la interpretarea prevederilor art. 76 din Legea nr. 85/2006 privind procedura insolvenței, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "790",
+  "bis": false,
+  "date": "2018-09-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "437/1/2018",
+  "202/84/2017",
+  "2.321/84/2012"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 202/84/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Prevederile art. 76 din Legea nr. 85/2006 privind procedura insolvenței, cu modificările și completările ulterioare, se pot interpreta în sensul că, în măsura în care o creanță fiscală nu a fost valorificată în procedura insolvenței din cauza omisiunii organului fiscal în a depune o declarație de creanță, printre efectele decăderii acestui creditor din dreptul de a-și realiza creanța se regăsesc și acelea că nu va mai putea uza de mijloacele specifice de stabilire, impunere și recuperare reglementate de Codul fiscal și Codul de procedură fiscală, respectiv nu va mai putea emite o decizie de impunere care să cuprindă creanța împotriva debitorului său, anterioară deschiderii procedurii ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civil ă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "122-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-09-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/204795",
+  "text_sha256": "3678b7fd4acd18f485cfa0c8eb60141df6770bbc7b1a61b3c700e329d4022a1c",
+  "catalogue_sha256": "3678b7fd4acd18f485cfa0c8eb60141df6770bbc7b1a61b3c700e329d4022a1c",
+  "fetched": "2026-11-03T03:02:39Z",
+  "chars": 46445,
+  "portal_id": "204795",
+  "tip": "DECIZIE"
+ }
+}
