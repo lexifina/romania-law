@@ -1,0 +1,305 @@
+{
+ "key": "iccj-hp-54-2018",
+ "label": "Decizia ÎCCJ nr. 54/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "54",
+ "date": "2018-06-25",
+ "year": "2018",
+ "heading": "DECIZIA nr. 54 din din 25 iunie 2018",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "807",
+  "bis": false,
+  "date": "2018-09-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "807/1/2018",
+  "1.362/117/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 1.362/117/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Dacă Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, reprezentând dreptul comun în materia contenciosului administrativ, este aplicabilă litigiilor de funcție publică vizând stabilirea/acordarea drepturilor salariale, din perspectiva necesității parcurgerii procedurii prealabile, în raport cu prevederile art. 30 din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fondurile publice, cu modificările și completările ulterioare, art. 11 din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice, aprobată cu modificări și completări prin Legea nr. 71/2015, cu modificările și completările ulterioare, precum și cu cele statuate în Decizia nr. 9 din 29 mai 2017 pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, respectiv, în măsura în care legea specială care reglementează salarizarea personalului plătit din fonduri publice nu prevede parcurgerea unei proceduri prealabile pentru anumite categorii de drepturi salariale, neprevăzând explicit nici vreo excepție cu privire la acestea de la regula generală reglementată de art. 7 alin. (1) din Legea nr. 554/2004, este obligatoriu ca, anterior sesizării instanței, funcționarul public să parcurgă procedura prealabilă ?",
+  "2. Dacă omisiunea parcurgerii procedurii prealabile, în termenele și în condițiile prevăzute de art. 30 din Legea-cadru nr. 284/2010, art. 11 din Ordonanța de urgență a Guvernului nr. 83/2014, respectiv Legea nr. 554/2004, după caz, împotriva actelor administrative ai căror beneficiari sunt funcționarii publici, prin care li s-au stabilit anterior drepturi salariale, definitivează aceste drepturi salariale stabilite prin deciziile de salarizare, consecința acestei definitivări fiind aceea că funcționarii publici nu vor mai putea solicita ulterior obligarea angajatorului, pe o altă cale judiciară, la acordarea altor drepturi salariale în afara celor stabilite în aceste decizii de salarizare, indiferent dacă actul de stabilire a drepturilor salariale face sau nu referire la componenta salarială pretinsă ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "i"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 35/2015",
+    "number": "35",
+    "year": "2015",
+    "path": "oug/2015/35"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-09-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205057",
+  "text_sha256": "e483ab26c49b6dbe7f1589e2e7ee2d5c1efc2ffca1f2727ebc5026f6e0805b66",
+  "catalogue_sha256": "e483ab26c49b6dbe7f1589e2e7ee2d5c1efc2ffca1f2727ebc5026f6e0805b66",
+  "fetched": "2026-11-03T03:02:26Z",
+  "chars": 60886,
+  "portal_id": "205057",
+  "tip": "DECIZIE"
+ }
+}
