@@ -1,0 +1,441 @@
+{
+ "key": "iccj-hp-50-2018",
+ "label": "Decizia ÎCCJ nr. 50/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "50",
+ "date": "2018-06-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 50 din 18 iunie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 94 din Legea nr. 7/2006 privind statutul funcționarului public parlamentar, republicată, cu modificările și completările ulterioare, și ale art. 102 alin. (2) teza a doua din Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "815",
+  "bis": false,
+  "date": "2018-09-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "831/1/2018",
+  "46.987/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2006",
+    "number": "7",
+    "year": "2006",
+    "path": "lege/2006/7"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 208/2015",
+    "number": "208",
+    "year": "2015",
+    "path": "lege/2015/208"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 46.987/3/2016, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 94 din Legea nr. 7/2006 privind statutul funcționarului public parlamentar, republicată, cu modificările și completările ulterioare, și ale art. 102 alin. (2) teza a doua din Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente, cu modificările și completările ulterioare, pensia de serviciu reglementată de art. 73^1 din Legea nr. 7/2006 nu se cuvine personalului Autorității Electorale Permanente.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2006",
+    "number": "7",
+    "year": "2006",
+    "path": "lege/2006/7"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73-1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 208/2015",
+    "number": "208",
+    "year": "2015",
+    "path": "lege/2015/208"
+   },
+   "articles": [
+    {
+     "art": "73-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2015",
+    "number": "215",
+    "year": "2015",
+    "path": "lege/2015/215"
+   },
+   "articles": [
+    {
+     "art": "73-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-09-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205118",
+  "text_sha256": "78bb408ec91e599509d177e943e29a4bcbdaabaef780fb8ea52f24c3cd6bd8e9",
+  "catalogue_sha256": "78bb408ec91e599509d177e943e29a4bcbdaabaef780fb8ea52f24c3cd6bd8e9",
+  "fetched": "2026-11-03T17:02:24Z",
+  "chars": 50794,
+  "portal_id": "205118",
+  "tip": "DECIZIE"
+ }
+}
