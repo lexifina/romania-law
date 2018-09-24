@@ -1,0 +1,6 @@
+# Anexa nr. 21
+COMISIA DE MEDICINĂ VETERINARĂ
+Standarde naționale minimale pentru acordarea titlului de doctor
+În vederea acordării titlului de doctor este necesară îndeplinirea următoarelor standarde minimale: 1. publicarea ca autor sau autor corespondent a minimum trei articole științifice din tematica tezei (cel puțin două articole in extenso) în reviste sau volume ale conferințelor naționale sau internaționale indexate BDI, recunoscute în domeniu și dovedite prin programul conferinței, din care unul dintre cele trei articole științifice poate fi echivalat cu o cerere de brevet de invenție național înregistrată la OSIM, din tematica tezei;
+2. studentul doctorand trebuie să fie prim-autor/autor corespondent la cel puțin două dintre articolele științifice publicate din tematica tezei;
+3. bazele de date internaționale (BDI) recunoscute pentru articolele publicate în reviste și în volumele unor manifestări științifice, cu excepția articolelor publicate în reviste cotate ISI, sunt cele recunoscute pe plan științific internațional: Scopus, IEEE Xplore, Science Direct, Elsevier, Wiley, ACM, DBLP, Springerlink, Engineering Village, Cabi, Emerald, CSA, Compendex, INSPEC, Referativnai Jurnal, Thomson Reuters Master Journal List, DOAJ și Google Scholar.

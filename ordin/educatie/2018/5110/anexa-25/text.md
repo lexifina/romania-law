@@ -1,0 +1,5 @@
+# Anexa nr. 25
+COMISIA DE SOCIOLOGIE, ȘTIINȚE POLITICE ȘI ADMINISTRATIVE
+Standarde naționale minimale pentru acordarea titlului de doctor
+În vederea acordării titlului de doctor este necesară îndeplinirea următoarelor standarde minimale: 1. publicarea a cel puțin două articole în reviste indexate în baze de date internaționale (BDI) sau a cel puțin două capitole de cărți în volume publicate la o editură din categoria A1 (edituri cu prestigiu internațional) sau A2 (edituri cu prestigiu recunoscut), din anexa nr. 25 la Ordinul ministrului educației naționale și cercetării științifice nr. 6.129/2016 privind aprobarea standardelor minimale necesare și obligatorii pentru conferirea titlurilor didactice din învățământul superior, a gradelor profesionale de cercetare-dezvoltare, a calității de conducător de doctorat și a atestatului de abilitare;
+2. bazele de date internaționale (BDI) recunoscute sunt: ISI Web of Science, SCOPUS, EBSCO, ProQuest, CEEOL, Ulrich, ERIH, Index Copernicus, CSA, GESIS, IBSS, SAGE, OVID, ECOLIT, Psychlit, PubMEd, Elsevier, Springerlink, Persee, DOAJ, Jstor, SSRN, REPEC, Informa, Project MUSE și HEIN Online.
