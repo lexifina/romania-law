@@ -1,0 +1,11 @@
+# HCGMB nr. 615/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 615/2018
+- Adopted: 2018-09-26
+- Title: PRIVIND MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 250/04.05.2018 PRIVIND SOLICITAREA CATRE GUVERNUL ROMANIEI DE EMITERE A UNEI HOTARARI PENTRU TRANSMITEREA IMOBILULUL POD CF BUCURESTI - CONSTANTA KM 4+327 DIN DOMENIUL PUBLIC AL STATULUI SI ADMINISTRAREA MINISTERULUI TRANSPORTURILOR IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SI ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38720
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38720/H615_18.pdf
+- Document sha256: 5487b5fd9174c0b9bdf45d68314bf32a78574b7629307bfa46a5a136a687f788
