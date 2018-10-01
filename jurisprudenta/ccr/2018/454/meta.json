@@ -1,0 +1,431 @@
+{
+ "key": "dcc-454-2018",
+ "label": "Decizia CCR nr. 454/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "454",
+ "date": "2018-07-04",
+ "year": "2018",
+ "heading": "DECIZIA nr. 454 din 4 iulie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. I pct. 37 [cu referire la art. 402 din Codul de procedură civilă] și pct. 58 [cu referire la art. 497 din Codul de procedură civilă], precum și art. III pct. 3 [cu referire la art. XVIII alin. (2) din Legea nr. 2/2013] și pct. 4 [cu referire la art. XVIII^1 din Legea nr. 2/2013] din Legea pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "836",
+  "bis": false,
+  "date": "2018-10-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "879A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "497",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XVIII-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată și constată că dispozițiile art. I pct. 37 [cu referire la art. 402 din Codul de procedură civilă] și pct. 58 [cu referire la art. 497 din Codul de procedură civilă] din Legea pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative sunt constituționale în raport cu criticile formulate.",
+  "2. Admite obiecția de neconstituționalitate formulată și constată că art. III pct. 3 [cu referire la art. XVIII alin. (2) din Legea nr. 2/2013] și pct. 4 [cu referire la art. XVIII^1 din Legea nr. 2/2013] din Legea pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "497",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "538",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "498",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XVIII-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XVIII-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1064",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205411",
+  "text_sha256": "504a4dc238e1570506e28744da21de6751f44f6e8b394d8c03d08665131d0f39",
+  "catalogue_sha256": "504a4dc238e1570506e28744da21de6751f44f6e8b394d8c03d08665131d0f39",
+  "fetched": "2026-11-03T03:02:04Z",
+  "chars": 77550,
+  "portal_id": "205411",
+  "tip": "DECIZIE"
+ }
+}
