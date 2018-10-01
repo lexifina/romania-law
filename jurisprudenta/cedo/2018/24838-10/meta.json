@@ -1,0 +1,164 @@
+{
+ "key": "cedo-24838-10-2018-02-27",
+ "label": "CEDO, Hulpe și alții c. României, 2018-02-27",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2018-02-27",
+ "year": "2018",
+ "heading": "HOTĂRÂREA din 27 februarie 2018",
+ "subtitle": "în Cauza Hulpe și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "836",
+  "bis": false,
+  "date": "2018-10-01",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "24838/10",
+  "66252/11",
+  "32758/13",
+  "49385/13",
+  "57813/13"
+ ],
+ "case_name": "Hulpe și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. declară cererile admisibile în ceea ce privește capătul de cerere întemeiat pe art. 6 § 1 din Convenție cu privire la accesul la o instanță;",
+  "3. hotărăște că nu este necesar să fie examinate admisibilitatea și fondul capătului de cerere întemeiat pe art. 1 din Protocolul nr. 1 la Convenție, formulată în cadrul Cererii nr. 32.758/13 (Stoian împotriva României);",
+  "4. hotărăște că a fost încălcat art. 6 § 1 din Convenție care garantează dreptul de acces la o instanță al reclamanților;",
+  "5. hotărăște: a) că statul pârât trebuie să plătească reclamanților, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "3.600 EUR (trei mii șase sute euro) plus orice sumă ce poate fi datorată cu titlu de impozit fiecărui reclamant, cu titlu de despăgubire pentru prejudiciul moral;",
+  "(ii)",
+  "141,02 EUR (o sută patruzeci și unu euro și doi cenți) plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, în Cererea nr. 66.252/11 (Dolha împotriva României), pentru cheltuielile de judecată;",
+  "(iii)",
+  "124,22 EUR (o sută douăzeci și patru euro și douăzeci și doi cenți) plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, în Cererea nr. 32.758/13 (Stoian împotriva României), pentru cheltuielile de judecată;",
+  "(iv)",
+  "218,05 EUR (două sute optsprezece euro și cinci cenți) plus orice sumă ce poate fi datorată de societatea reclamantă cu titlu de impozit, în Cererea nr. 49.385/13 (S.C. Vastrans împotriva României), cu titlu de cheltuieli de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "92",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205412",
+  "text_sha256": "a381d1e634feb5bc11cf7c218d4ef931b1305d8b6f6272cee79cecbdb787dee8",
+  "catalogue_sha256": "a381d1e634feb5bc11cf7c218d4ef931b1305d8b6f6272cee79cecbdb787dee8",
+  "fetched": "2026-11-03T03:02:04Z",
+  "chars": 24096,
+  "portal_id": "205412",
+  "tip": "HOTĂRÂRE"
+ }
+}
