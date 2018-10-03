@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-11: documents published: Raport comisie sesizată pe fond
 - 2018-09-12: documents published: Aviz comisie
 - 2018-09-13: documents published: Aviz comisie
+- 2018-10-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-11: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347CR.PDF
 - 2018-09-12: Aviz comisie (CA6): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347CA6.PDF
 - 2018-09-13: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347CA41.PDF
+- 2018-10-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347FS.PDF
+- 2018-10-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347AM.PDF
