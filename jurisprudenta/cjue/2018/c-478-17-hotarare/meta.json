@@ -1,0 +1,52 @@
+{
+ "key": "cjue-c-478-17-hotarare-2018-10-04",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 4 octombrie 2018, Cauza C-478/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2018-10-04",
+ "year": "2018",
+ "case": "Cauza C-478/17",
+ "celex": "62017CJ0478",
+ "ecli": "ECLI:EU:C:2018:812",
+ "heading": "Hotărârea Curții (Camera a cincea) din 4 octombrie 2018",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Cluj",
+   "date": "2017-07-17",
+   "national_file": "1057117"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Cluj",
+ "national_followup": null,
+ "parties": "IQ împotriva JP",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Cooperare judiciară în materie civilă – Competență în materia răspunderii părintești – Regulamentul (CE) nr. 2201/2003 – Articolul 15 – Trimitere la o instanță mai bine plasată pentru a soluționa cauza – Domeniu de aplicare – Articolul 19 – Litispendență",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0478",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-478/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/686027c5-c7b5-11e8-9424-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "7eb87cad37efea30d9af0b0444a9dce696c82b07384d23ed0818ec7d17b45107"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Articolul 15 din Regulamentul (CE) nr. 2201/2003 al Consiliului din 27 noiembrie 2003 privind competența, recunoașterea și executarea hotărârilor judecătorești în materie matrimonială și în materia răspunderii părintești, de abrogare a Regulamentului (CE) nr. 1347/2000, trebuie interpretat în sensul că nu este aplicabil într‑o situație precum cea în discuție în cauza principală, în care cele două instanțe sesizate sunt competente pe fond, în temeiul articolelor 12 și, respectiv, 8 din acest regulament."
+ ]
+}
