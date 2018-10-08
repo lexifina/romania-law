@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-09-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-09-19: sent for promulgation
 - 2018-10-05: promulgated, becomes Legea nr. 236/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-10-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2018-10-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L303DP.PDF
 - 2018-10-05: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L303AFP.PDF
 - 2018-10-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L303FP.PDF
+- 2018-10-08: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L303TA.PDF (its day is not given by the bill file: shown from the last stage held)
