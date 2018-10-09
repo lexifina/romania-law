@@ -1,0 +1,27 @@
+# Anexa nr. 8 la convenția de garantare
+Finanțator......................................
+CERERE DE PLATĂ A GARANȚIEI privind Contractul de garantare nr....../zz/ll/aaaa „INVESTEȘTE ÎN TINE”
+1.
+Finanțatorul..........................., prin Sucursala/Agenția..................., cu sediul în localitatea......................, str.................... nr......., județul/sectorul................., înmatriculat în registrul comerțului sub nr............................, cod unic de înregistrare............., telefon.................., fax..............., e-mail................., reprezentat de...................................., în calitate de......................., și de......................, în calitate de.................., având cont bancar nr.................., deschis la.............., vă comunicăm că la data de......................,
+2.
+Beneficiarul..........(numele și prenumele).........., pseudonim.................................., cetățean............................, data nașterii.............., locul nașterii....................., cu domiciliul/rezidența în localitatea............., str........................ nr......, bl......, sc......., et......, ap......., județul/sectorul..............., telefon................., e-mail..................., legitimat cu......... seria...... nr.................., eliberat de............... la data de.................., CNP........................., stare civilă....................., de profesie.............................., angajat la.............., a rambursat din finanțarea garantată suma de......................... lei
+3.
+Finanțare restantă.................... lei
+4.
+Valoarea garanției solicitate la plată proporțional cu procentul de garantare................. lei
+5.
+Plata se va efectua în contul Finanțatorului, de către MFP, deschis la......................................
+6.
+Anexăm prezentei cereri următoarele documente: a) documentul de identitate a beneficiarului, documentul de identitate a ocrotitorului legal/codebitorului/codebitorilor, după caz; se transmit cele mai recente documente aflate în posesia Finanțatorului, în copie certificată de finanțator pentru conformitate cu originalul;
+b) cele două exemplare originale ale contractului de garantare, inclusiv actele adiționale, după caz, dacă până la transmiterea cererii de plată nu s-a procedat la returnarea acestora către Fondul de garantare, semnate de toate părțile contractuale;
+c) contractul de credit, inclusiv graficul de rambursare și anexele aferente, însoțit de toate actele adiționale încheiate la acesta, în copie certificată pentru conformitate cu originalul;
+d) avizul de înscriere/reînnoire/modificare în AEGRM, după caz, a garanției asupra sumelor urmăribile reprezentând venituri și disponibilități bănești în lei și în valută, deținute și/sau datorate, cu orice titlu, beneficiarului și codebitorului/codebitorilor de către terțe persoane sau pe care aceștia le vor datora și/sau deține în viitor în temeiul unor raporturi juridice existente;
+e) rezultatul consultării Biroului de credite, din care să rezulte faptul că beneficiarul/ocrotitorul legal și/sau codebitorul/codebitorii nu înregistrează întârzieri la plata altor credite bancare/leasinguri mai mari de 30 de zile, emis cu cel mult 10 zile înainte de data transmiterii solicitării de garantare. În cazul în care au existat întârzieri mai mari de 30 de zile, se consideră îndeplinită condiția dacă Finanțatorul transmite documente din care să reiasă că s-au achitat sumele restante;
+f) declarația beneficiarului pe propria răspundere, sub semnătură privată, cu privire la utilizarea creditului numai pentru cheltuielile eligibile prevăzute la art. 2 alin. (8) din OUG nr. 50/2018 și că nu a accesat și nu va accesa un alt credit în cadrul Programului de la un alt Finanțator, completată cu cel mult 10 zile înainte de data transmiterii de către Finanțator a solicitării de garantare, în original;
+g) extrasul contului curent sau un document echivalent, aferent ultimelor 6 luni de finanțare până la data formulării cererii de plată, în copie certificată de Finanțator pentru conformitate cu originalul;
+h) extrasul contului de credit al beneficiarului și/sau un document echivalent, aferent ultimelor 6 luni de finanțare până la data formulării cererii de plată, din care să rezulte fără echivoc întreaga valoare a finanțării garantate nerambursate și data trecerii la restanță a acesteia, precum și serviciul datoriei aferent principalului, în copie certificată de Finanțator pentru conformitate cu originalul;
+i) notificarea Finanțatorului către beneficiar și toți ceilalți semnatari ai contractului de garantare cu privire la declararea exigibilității anticipate a finanțării garantate, însoțită de dovada transmiterii, în copii certificate pentru conformitate cu originalul; din documentele anexate trebuie să rezulte faptul că notificarea a fost transmisă beneficiarului și celorlalți semnatari ai contractului de garantare la adresa de domiciliu, cu cel puțin 15 zile înainte de data declarării exigibilității anticipate a finanțării.
+Finanțatorul declară pe propria răspundere că a respectat prevederile OUG nr. 50/2018, ale Hotărârii Guvernului nr. 741/2018 pentru aprobarea Normelor de aplicare a Ordonanței de urgență a Guvernului nr. 50/2018 privind implementarea Programului guvernamental „INVESTEȘTE ÎN TINE” și și-a asumat îndeplinirea obligațiilor prevăzute la art. 5.1 lit. a), d), i), j) și k) din Convenția de garantare.
+Finanțator
+Persoane autorizate:
+Finanțator................................

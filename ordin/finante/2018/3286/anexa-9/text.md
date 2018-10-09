@@ -1,0 +1,6 @@
+# Anexa nr. 2 la convenția de garantare
+ADEVERINȚĂ emisă la data de zz/ll/aaaa
+Subscrisa^1)..........................................................
+Date de identificare.................., adresă...................., acreditată de..................... la data de........, declar pe propria răspundere cunoscând prevederile legii penale privind sancționarea declarațiilor false că dl/dna........................, identificat/ă cu CNP:....................., este cuprins în sistemul de învățământ sau efectuează cursuri de specializare, autorizate de către Ministerul Educației Naționale și, după caz, de către Ministerul Muncii și Justiției Sociale, și/sau reconversie profesională, din data de...... la cursurile................ autorizate care se desfășoară în perioada.........................
+Se eliberează în vederea contractării unui credit în condițiile Normelor de aplicare a Ordonanței de urgență a Guvernului nr. 50/2018 privind implementarea Programului guvernamental „INVESTEȘTE ÎN TINE”.
+Semnătura^2)......................... ^1) Denumirea instituției de învățământ, instituției care organizează cursuri de specializare și sau/reconversie profesională. ^2) Semnătura reprezentantului legal/convențional al instituției de învățământ/care organizează cursuri de specializare și/sau reconversie profesională.
