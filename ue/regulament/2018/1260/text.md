@@ -1,0 +1,37 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2018/1260 AL COMISIEI
+din 20 septembrie 2018
+de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active piridaben, chinmerac și fosfură de zinc
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 17 primul paragraf,
+întrucât:
+(1) Partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (2) stabilește substanțele active considerate a fi fost aprobate în temeiul Regulamentului (CE) nr. 1107/2009.
+(2) Substanțele active piridaben, chinmerac și fosfură de zinc sunt incluse în partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011.
+(3) Perioadele de aprobare ale substanțelor piridaben, chinmerac și fosfură de zinc vor expira la 30 aprilie 2021.
+(4) Cererile de reînnoire a aprobării substanțelor active incluse în prezentul regulament au fost depuse în conformitate cu Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (3). Totuși, este posibil ca aprobarea substanțelor respective să expire din motive independente de solicitant, înainte de a se lua o decizie privind reînnoirea aprobării lor. Prin urmare, este necesar să se prelungească perioadele lor de aprobare în conformitate cu articolul 17 din Regulamentul (CE) nr. 1107/2009.
+(5) Având în vedere timpul și resursele necesare pentru finalizarea evaluării cererilor de reînnoire a aprobărilor pentru un număr mare de substanțe active ale căror aprobări vor expira între 2019 și 2021, Decizia de punere în aplicare C(2016)6104 a Comisiei (4) a stabilit un program de lucru implicând gruparea substanțelor active similare și stabilirea de priorități în funcție de preocupările legate de siguranța pentru sănătatea oamenilor și a animalelor sau pentru mediu, astfel cum se prevede la articolul 18 din Regulamentul (CE) nr. 1107/2009.
+(6) Deoarece substanțele active incluse în prezentul regulament nu intră în categoriile prioritare din Decizia de punere în aplicare C(2016)6104, perioadele lor de aprobare ar trebui să fie prelungite cu doi sau trei ani, ținând seama de data de expirare actuală, de faptul că, în conformitate cu articolul 6 alineatul (3) din Regulamentul de punere în aplicare (UE) nr. 844/2012, dosarul suplimentar pentru o substanță activă trebuie depus cel târziu cu 30 de luni înainte de expirarea aprobării, de necesitatea de a se asigura o distribuție echilibrată a responsabilităților și a sarcinilor între statele membre care acționează ca raportori și coraportori și de resursele disponibile necesare pentru evaluare și luarea deciziilor. Prin urmare, este oportun să se prelungească perioada de aprobare a substanței active piridaben cu doi ani și să se prelungească perioadele de aprobare ale substanțelor active chinmerac și fosfură de zinc cu trei ani.
+(7) Având în vedere scopul articolului 17 primul paragraf din Regulamentul (CE) nr. 1107/2009, în ceea ce privește cazurile în care nu se depune un dosar suplimentar în conformitate cu dispozițiile Regulamentului de punere în aplicare (UE) nr. 844/2012 cel târziu cu 30 de luni înainte de data de expirare respectivă stabilită în anexa la prezentul regulament, Comisia va stabili data de expirare ca fiind data prevăzută înainte de intrarea în vigoare a prezentului regulament sau cea mai apropiată dată ulterioară acesteia.
+(8) Având în vedere obiectivul articolului 17 primul paragraf din Regulamentul (CE) nr. 1107/2009, în ceea ce privește cazurile în care Comisia va adopta un regulament care prevede că aprobarea unei substanțe active menționate în anexa la prezentul regulament nu se reînnoiește deoarece nu sunt îndeplinite criteriile de aprobare, Comisia va stabili ca dată de expirare fie data prevăzută înainte de intrarea în vigoare a prezentului regulament, fie data intrării în vigoare a regulamentului care prevede că aprobarea substanței active nu se reînnoiește, oricare dintre aceste date survine mai târziu. În ceea ce privește cazurile în care Comisia va adopta un regulament care prevede reînnoirea aprobării unei substanțe active menționate în anexa la prezentul regulament, Comisia va depune eforturi pentru a stabili, în funcție de circumstanțe, cea mai timpurie dată posibilă de punere în aplicare.
+(9) Prin urmare, Regulamentul de punere în aplicare (UE) nr. 540/2011 ar trebui modificat în consecință.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 20 septembrie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(3) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(4) Decizia de punere în aplicare a Comisiei din 28 septembrie 2016 privind stabilirea unui program de lucru pentru evaluarea cererilor de reînnoire a aprobărilor substanțelor active care expiră în 2019, 2020 și 2021, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului (JO C 357, 29.9.2016, p. 9).
+ANEXĂ
+Partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică după cum urmează:
+1. în a șasea coloană, „Expirarea aprobării”, la rândul 311, „Chinmerac”, data se înlocuiește cu „30 aprilie 2024”;
+2. în a șasea coloană, „Expirarea aprobării”, la rândul 313, „Piridaben”, data se înlocuiește cu „30 aprilie 2023”;
+3. în a șasea coloană, „Expirarea aprobării”, la rândul 314, „Fosfură de zinc”, data se înlocuiește cu „30 aprilie 2024”.
