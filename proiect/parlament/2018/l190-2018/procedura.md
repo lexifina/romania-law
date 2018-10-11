@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2018-09-19: adopted by the Chamber of Deputies
 - 2018-09-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-09-26: sent for promulgation
+- 2018-10-11: promulgated, becomes Legea nr. 240/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2018-05-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190AM.PDF
 - 2018-09-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190AXS.PDF
 - 2018-09-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190LP.PDF
+- 2018-10-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190DP.PDF
+- 2018-10-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190AFP.PDF
+- 2018-10-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L190FP.PDF
