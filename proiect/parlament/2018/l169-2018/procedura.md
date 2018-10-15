@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-09-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-09-26: sent for promulgation
 - 2018-10-11: promulgated, becomes Legea nr. 239/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-10-15: published in the Monitorul Oficial
 
 ## Documents
 
