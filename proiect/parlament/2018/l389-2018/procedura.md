@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-17: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-09-20: documents published: Aviz comisie
 - 2018-10-10: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2018-10-15: registered at the Chamber of Deputies
 
 ## Documents
 
