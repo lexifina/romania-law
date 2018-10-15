@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-09-20: documents published: Aviz comisie
 - 2018-09-25: documents published: Aviz comisie
 - 2018-09-26: documents published: Raport comisie sesizată pe fond
+- 2018-10-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2018-09-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392CA45.PDF
 - 2018-09-25: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392CA14.PDF
 - 2018-09-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392CR.PDF
+- 2018-10-15: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392FS.PDF
+- 2018-10-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392AM.PDF
