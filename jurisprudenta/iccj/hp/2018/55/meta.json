@@ -1,0 +1,149 @@
+{
+ "key": "iccj-hp-55-2018",
+ "label": "Decizia ÎCCJ nr. 55/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "55",
+ "date": "2018-09-17",
+ "year": "2018",
+ "heading": "DECIZIA nr. 55 din 17 septembrie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 114 alin. (1) lit. b) coroborat cu art. 118 și cu art. 6 alin. (1) pct. IV din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "874",
+  "bis": false,
+  "date": "2018-10-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.064/1/2018",
+  "2.123/62/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția civilă, în Dosarul nr. 2.123/62/2017, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă, în interpretarea dispozițiilor art. 114 alin. (1) lit. b) coroborat cu art. 118 și cu art. 6 alin. (1) pct. IV din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare - forma în vigoare în anul 2014, pensia anticipată sau pensia anticipată parțială încasată de către un pensionar care se regăsește în una dintre situațiile prevăzute la art. 6 alin. (1) pct. IV din lege constituie un venit încasat necuvenit în sensul art. 179 din aceeași lege din luna următoare celei în care au devenit incidente în ceea ce îl privește pe beneficiarul pensiei prevederile art. 6 alin. (1) pct. IV din lege [pensionarul anticipat a realizat un venit brut pe an calendaristic echivalent cu cel puțin de 4 ori câștigul salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat și se află în una dintre situațiile prevăzute la lit. a)-e) din norma legală menționată] sau începând cu data de 1 ianuarie, adică pentru întregul an calendaristic în care pensionarul anticipat a intrat sub incidența art. 6 alin. (1) pct. IV din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "e"
+     ]
+    },
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-10-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206037",
+  "text_sha256": "ce56ea3a0642cceafe5d73ce8b4bdf155db2620b182d0267cf44313836b64c2f",
+  "catalogue_sha256": "ce56ea3a0642cceafe5d73ce8b4bdf155db2620b182d0267cf44313836b64c2f",
+  "fetched": "2026-11-03T03:01:22Z",
+  "chars": 36063,
+  "portal_id": "206037",
+  "tip": "DECIZIE"
+ }
+}
