@@ -1,0 +1,11 @@
+# HCGMB nr. 721/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 721/2018
+- Adopted: 2018-10-18
+- Title: PRIVIND INCETAREA ACTIVITATII UNOR SERVICII PUBLICE DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI MODIFICA HCGMB NR. 304/2017 INCETEAZA APLICABILITATEA HCGMB NR. 297/2016 INCETEAZA APLICABILITATEA HCGMB NR. 59/2018 INCETEAZA APLICABILITATEA HCGMB NR. 428/2018 INCETEAZA APLICABILITATEA HCGMB NR. 657/2018 SE SUSPENDA PANA LA PRONUNTAREA INSTANTEI DE FOND SE ANULEAZA HCGMB NR. 721/18.10.2018 PRIN SENTINTA CIVILA NR. 5157/10.07.2019 SI DECIZIA CIVILA NR. 603/04.06.2020 PRONUNTATE IN DOSARUL NR. 42604/3/2028
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/39007
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/39007/H721_18.pdf
+- Document sha256: 44f9b43d8fa8a9f60001b5514c8e3dd0b16b2232793bd6f200a5069bcdb4a5bd
