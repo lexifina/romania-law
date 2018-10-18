@@ -1,0 +1,11 @@
+# HCGMB nr. 703/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 703/2018
+- Adopted: 2018-10-18
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 514/31.10.2017 PRIVIND TRANSMITEREA CATRE ADMINISTRATIA MUNICIPALA PENTRU CONSOLIDAREA CLADIRILOR CU RISC SEISMIC A LOCUINTELOR DE NECESITATE LIBERE SITUATE IN SECTORUL 4, PIATA NATIUNILE UNITE NR. 8, BL. 108, TRONSON 2 SI PIATA NATIUNILOR UNITE NR. 9, BL. 107, TRONSON 2 DE LA ADMINISTRATIA FONDULUI LMOBILIAR, IN VEDEREA EFECTUARII LUCRARILOR DE REPARATII SI IGIENIZARE
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/38865
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/38865/H703_18.pdf
+- Document sha256: 9529bf45714b946a2e48a819657c3b05b49db6f04656bc3297d1247ed132542e
