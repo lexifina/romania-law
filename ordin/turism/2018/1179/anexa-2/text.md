@@ -1,0 +1,16 @@
+# Anexa nr. 2 (Anexa nr. 8 la normele metodologice)
+Criterii minime obligatorii de funcționare pentru agenția de turism de tip organizatoare sau intermediară și a filialei/sucursalei/sediului secundar/reprezentanței acesteia
+Criterii minime obligatorii Agenție de turism/filială
+ORGANIZATOARE INTERMEDIARĂ
+1. Minimum 50% din personalul încadrat ca agent de turism să fie calificat ca „agent de turism - ghid” atestat prin certificat de absolvire a unui curs de calificare organizat de către un furnizor de formare profesională autorizat sau să dețină certificat de competențe profesionale pentru ocupația/calificarea „agent de turism” emis de un centru de evaluare și certificare acreditat/autorizat sau să aibă experiență în domeniul turismului de minimum 2 ani X X
+2. Asigurarea cu ghizi posesori ai atestatului de ghid de turism^1) X -
+3. Instrument de garantare în conformitate cu art. 18 din Ordonanța Guvernului nr. 2/2018
+X -
+4. Firmă cu denumirea agenției de turism/brandul folosit, iar în cazul amplasării acesteia în imobile cu spații de locuit/activități economice, aplicarea unui autocolant sau a unei plăcuțe la intrarea în imobil cu denumirea agenției de turism X X
+5. Afișare pe web site-ul/pagina web al/a agenției de turism (în cazul în care agenția de turism deține web site/pagină web):
+- a datelor de identificare ale operatorului economic;
+- a copiei licenței de turism eliberate agenției de turism;
+- a dovezii instrumentului de garantare în conformitate cu art. 18 din Ordonanța Guvernului nr. 2/2018.^2)
+X X
+6. Persoana care asigură conducerea operativă a agenției de turism și a sediului/sediilor secundar/secundare al/ale acesteia trebuie să fie angajată cu contract individual de muncă cu normă întreagă, înregistrat în registrul de evidență a salariaților^3), sau să aibă contract de management și să dețină cel puțin unul dintre următoarele documente^4): certificat de absolvire a unui curs de formare managerială în domeniu, organizat de un furnizor de formare profesională autorizat, diplomă de licență/masterat/doctorat privind absolvirea de cursuri universitare/postuniversitare în domeniul turismului, brevet de turism specific funcției sau dovada experienței în domeniul turismului de minimum 5 ani. X X
+7. Numele comercial al agenției de turism să nu creeze confuzie prin asemănare de nume cu agențiile de turism existente deja în piață, exceptând situațiile prevăzute de legislația în vigoare (exemplu: contractul de franciză, protecția numelui prin înregistrare O.S.I.M.) X X ^1) Se aplică în cazul desfășurării de către agenția de turism a programelor turistice. ^2) Doar pentru agenția de turism organizatoare. ^3) Cu excepția situațiilor în care conducerea este asigurată de unul dintre acționari sau asociați care deține documentele de calificare (certificat de absolvire a unui curs de formare managerială în domeniu, organizat de un furnizor de formare profesională autorizat, diplomă de licență/masterat/doctorat privind absolvirea de cursuri universitare/postuniversitare în domeniul turismului, brevet de turism specific funcției) sau are experiență în domeniul turismului de minimum 5 ani. ^4) Cu excepțiile prevăzute de art. 34 alin. (2) din normele metodologice.
