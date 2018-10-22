@@ -1,0 +1,206 @@
+{
+ "key": "dcc-563-2018",
+ "label": "Decizia CCR nr. 563/2018",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "partid-politic",
+ "number": "563",
+ "date": "2018-09-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 563 din 18 septembrie 2018",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a dispozițiilor Hotărârii Parlamentului României nr. 31/2018 privind constituirea Comisiei parlamentare de anchetă a Camerei Deputaților și Senatului pentru verificarea posibilei implicări a Serviciului de Protecție și Pază în activitatea unor partide politice și în activitatea unor lideri ai acestor partide",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "887",
+  "bis": false,
+  "date": "2018-10-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.092L/2/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată de Grupul parlamentar al Partidului Național Liberal din Camera Deputaților și constată că Hotărârea Parlamentului României nr. 31/2018 privind constituirea Comisiei parlamentare de anchetă a Camerei Deputaților și Senatului pentru verificarea posibilei implicări a Serviciului de Protecție și Pază în activitatea unor partide politice și în activitatea unor lideri ai acestor partide este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/1998",
+    "number": "191",
+    "year": "1998",
+    "path": "lege/1998/191"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206124",
+  "text_sha256": "36d7f969d366cdb23af345b70a95aeaed4bb661625d1efad9e6f97595346e2d1",
+  "catalogue_sha256": "36d7f969d366cdb23af345b70a95aeaed4bb661625d1efad9e6f97595346e2d1",
+  "fetched": "2026-11-03T03:01:01Z",
+  "chars": 59443,
+  "portal_id": "206124",
+  "tip": "DECIZIE"
+ }
+}
