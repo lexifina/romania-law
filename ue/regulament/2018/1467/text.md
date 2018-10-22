@@ -1,0 +1,29 @@
+REGULAMENTUL DELEGAT (UE) 2018/1467 AL COMISIEI
+din 27 iulie 2018
+de modificare a Regulamentului delegat (UE) 2016/1675 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului în ceea ce privește adăugarea Pakistanului în tabelul prevăzut la punctul I din anexă
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva (UE) 2015/849 a Parlamentului European și a Consiliului din 20 mai 2015 privind prevenirea utilizării sistemului financiar în scopul spălării banilor sau finanțării terorismului, de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului și de abrogare a Directivei 2005/60/CE a Parlamentului European și a Consiliului și a Directivei 2006/70/CE a Comisiei (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Uniunea trebuie să asigure o protecție eficace a integrității și a bunei funcționări a sistemului său financiar și a pieței interne împotriva spălării banilor și a finanțării terorismului. Astfel, în Directiva (UE) 2015/849 se prevede obligația Comisiei de a identifica țările terțe cu grad înalt de risc care au deficiențe strategice în regimurile lor de combatere a spălării banilor și a finanțării terorismului, deficiențe ce prezintă pericole semnificative pentru sistemul financiar al Uniunii.
+(2) Comisia ar trebui să revizuiască lista țărilor terțe cu grad înalt de risc enumerate în Regulamentul delegat (UE) 2016/1675 (2), atunci când este cazul, în funcție de progresele înregistrate de aceste țări terțe cu grad înalt de risc în ceea ce privește eliminarea deficiențelor strategice din regimul lor de combatere a spălării banilor și a finanțării terorismului („AML/CFT”). Comisia ar trebui să țină seama, în evaluările sale, de informațiile noi furnizate de organizațiile internaționale și de organismele de standardizare, cum ar fi cele puse la dispoziție de Grupul de Acțiune Financiară Internațională (GAFI). În lumina acestor informații, Comisia ar trebui, de asemenea, să identifice alte țări terțe cu grad înalt de risc care au deficiențe strategice în regimurile lor de combatere a spălării banilor și a finanțării terorismului.
+(3) În conformitate cu criteriile prevăzute în Directiva (UE) 2015/849, Comisia a ținut seama de informațiile disponibile recente, în special de declarațiile publice recente ale GAFI, de documentul GAFI intitulat „Improving Global AML/CFT Compliance: ongoing process”, precum și de rapoartele Grupului de examinare a cooperării internaționale din cadrul GAFI în ceea ce privește riscurile prezentate de anumite țări terțe, în conformitate cu articolul 9 alineatul (4) din Directiva (UE) 2015/849.
+(4) GAFI a identificat Pakistanul ca având deficiențe strategice în regimul său de combatere a spălării banilor și a finanțării terorismului („AML/CFT”), deficiențe care prezintă un risc pentru sistemul financiar internațional; pentru remedierea acestor deficiențe, Pakistanul a elaborat un plan de acțiune cu GAFI.
+(5) Cadrul AML/CFT în vigoare în Pakistan și modul în care acest cadru este aplicat indică existența unor deficiențe strategice. Deficiențele includ supravegherea și executarea controalelor AML/CFT de către instituțiile financiare, inclusiv de către societățile de servicii financiare, măsuri insuficiente de prevenire a transporturilor transfrontaliere ilicite de numerar, lipsa unui bilanț solid de anchete și urmăriri penale în domeniul finanțării terorismului, inclusiv lipsa coordonării necesare între diversele autorități, punerea în aplicare insuficientă a unor sancțiuni financiare specifice și a Rezoluțiilor 1267 (1999) și 1373 (2001) ale Consiliului de Securitate al ONU, precum și aplicarea insuficientă a interdicției de a pune la dispoziție fonduri și de a presta servicii financiare.
+(6) Având în vedere nivelul ridicat de integrare a sistemului financiar internațional, legătura strânsă dintre operatorii de pe piață, volumul mare al tranzacțiilor transfrontaliere către sau dinspre Uniune, precum și gradul de deschidere a pieței, Comisia consideră că orice pericol pentru sistemul financiar internațional în ceea ce privește spălarea banilor/finanțarea terorismului reprezintă un pericol și pentru sistemul financiar al Uniunii.
+(7) În conformitate cu cele mai recente informații relevante, în analiza Comisiei se concluzionează că Pakistanul ar trebui considerat țară terță cu deficiențe strategice în regimul său AML/CFT, deficiențe care prezintă pericole semnificative pentru sistemul financiar al Uniunii, în conformitate cu criteriile prevăzute la articolul 9 din Directiva (UE) 2015/849. Cu toate acestea, Pakistanul a formulat în scris un angajament politic la nivel înalt de a remedia deficiențele identificate și a elaborat cu GAFI un plan de acțiune care vizează îndeplinirea cerințelor prevăzute în Directiva (UE) 2015/849. Comisia va reexamina situația acestei țări din prisma punerii în aplicare a angajamentului respectiv.
+(8) Prin urmare, Regulamentul delegat (UE) 2016/1675 ar trebui modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+În anexa la Regulamentul delegat (UE) 2016/1675, în tabelul de la punctul I se introduce următorul rând:
+„14 | Pakistan”
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 27 iulie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 141, 5.6.2015, p. 73.
+(2) Regulamentul delegat (UE) 2016/1675 al Comisiei din 14 iulie 2016 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului prin identificarea țărilor terțe cu un grad ridicat de risc care au deficiențe strategice (JO L 254, 20.9.2016, p. 1).
