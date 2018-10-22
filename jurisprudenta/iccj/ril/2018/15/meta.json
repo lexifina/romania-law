@@ -1,0 +1,232 @@
+{
+ "key": "iccj-ril-15-2018",
+ "label": "Decizia ÎCCJ nr. 15/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "15",
+ "date": "2018-09-17",
+ "year": "2018",
+ "heading": "DECIZIA nr. 15 din 17 septembrie 2018",
+ "subtitle": "referitoare la recursul în interesul legii să soluționeze cererile formulate de persoanele condamnate în cursul executării pedepsei",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "885",
+  "bis": false,
+  "date": "2018-10-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.318/1/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că:",
+  "Instanța competentă să soluționeze cererile formulate de persoanele condamnate în cursul executării pedepsei este instanța în a cărei circumscripție se află locul de deținere la data formulării cererii, indiferent dacă locul de deținere este reprezentat de penitenciarul stabilit inițial sau de penitenciarul stabilit prin transferarea definitivă ori temporară a persoanei condamnate.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "553",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "584",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "587",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "593",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "595",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 157/2016",
+    "number": "157",
+    "year": "2016",
+    "path": "hg/2016/157"
+   },
+   "articles": [
+    {
+     "art": "227",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206128",
+  "text_sha256": "47ee3d5c76048de0bfc4e860141604df6c8afff22c098c6e62722f1ad2292f5c",
+  "catalogue_sha256": "47ee3d5c76048de0bfc4e860141604df6c8afff22c098c6e62722f1ad2292f5c",
+  "fetched": "2026-11-03T03:01:03Z",
+  "chars": 80710,
+  "portal_id": "206128",
+  "tip": "DECIZIE"
+ }
+}
