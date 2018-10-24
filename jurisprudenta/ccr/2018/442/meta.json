@@ -1,0 +1,429 @@
+{
+ "key": "dcc-442-2018",
+ "label": "Decizia CCR nr. 442/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "442",
+ "date": "2018-06-28",
+ "year": "2018",
+ "heading": "DECIZIA nr. 442 din 28 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II art. 7 alin. (1) teza a doua din Ordonanța de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar, precum și pentru instituirea altor măsuri financiare în domeniul bugetar, ale art. 9 alin. (1) teza a doua și art. 13 alin. (5) din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, în forma anterioară intrării în vigoare a Legii nr. 183/2014 privind aprobarea Ordonanței de urgență a Guvernului nr. 37/2014 pentru modificarea și completarea art. 13 din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, precum și ale art. 8 alin. (1) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "896",
+  "bis": false,
+  "date": "2018-10-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "149D/2017",
+  "44.182/3/2015",
+  "44.222/3/2015",
+  "44.212/3/2015",
+  "44.207/3/2015",
+  "44.317/3/2015",
+  "44.202/3/2015",
+  "44.280/3/2015",
+  "44.194/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 183/2014",
+    "number": "183",
+    "year": "2014",
+    "path": "lege/2014/183"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Administrației și Internelor, în numele și pentru membrii săi de sindicat, în dosarele nr. 44.209/3/CAF/2015, nr. 44.182/3/CAF/2015, nr. 44.222/3/CAF/2015, nr. 44.212/3/2015, nr. 44.207/3/2015, nr. 44.317/3/2015, nr. 44.202/3/2015, nr. 44.280/3/2015 și nr. 44.194/3/2015 ale Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, și constată că dispozițiile art. II art. 7 alin. (1) teza a doua din Ordonanța de urgență a Guvernului nr. 80/2010 pentru completarea art. 11 din Ordonanța de urgență a Guvernului nr. 37/2008 privind reglementarea unor măsuri financiare în domeniul bugetar, precum și pentru instituirea altor măsuri financiare în domeniul bugetar, ale art. 9 alin. (1) teza a doua și art. 13 alin. (5) din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, în forma anterioară intrării în vigoare a Legii nr. 183/2014 privind aprobarea Ordonanței de urgență a Guvernului nr. 37/2014 pentru modificarea și completarea art. 13 din Ordonanța de urgență a Guvernului nr. 103/2013 privind salarizarea personalului plătit din fonduri publice în anul 2014, precum și alte măsuri în domeniul cheltuielilor publice, precum și ale art. 8 alin. (1) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 283/2011",
+    "number": "283",
+    "year": "2011",
+    "path": "lege/2011/283"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2014",
+    "number": "37",
+    "year": "2014",
+    "path": "oug/2014/37"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 183/2014",
+    "number": "183",
+    "year": "2014",
+    "path": "lege/2014/183"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "122",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206167",
+  "text_sha256": "0564b96c422022cb2401a9001f8d8830878a2ca15f07fb2e565b14df91bbefc5",
+  "catalogue_sha256": "0564b96c422022cb2401a9001f8d8830878a2ca15f07fb2e565b14df91bbefc5",
+  "fetched": "2026-11-03T03:00:53Z",
+  "chars": 28496,
+  "portal_id": "206167",
+  "tip": "DECIZIE"
+ }
+}
