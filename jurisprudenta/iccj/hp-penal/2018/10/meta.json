@@ -1,0 +1,201 @@
+{
+ "key": "iccj-hp-penal-10-2018",
+ "label": "Decizia ÎCCJ nr. 10/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2018-09-12",
+ "year": "2018",
+ "heading": "DECIZIA nr. 10 din 12 septembrie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 16 alin. (1) din Legea nr. 194/2011",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "894",
+  "bis": false,
+  "date": "2018-10-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.129/1/2018",
+  "4.877/86/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Suceava - Secția penală și pentru cauze cu minori în Dosarul nr. 4.877/86/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Dacă activitatea de procurare, ca modalitate alternativă a operațiunii cu produse susceptibile de a avea efecte psihoactive, astfel cum această noțiune este definită de art. 2 lit. b) din Legea nr. 194/2011 și incriminată la art. 16 din aceeași lege, se referă la procurare ca activitate legală de import, export ori intermediere de produse sau privește procurarea unor astfel de produse în orice împrejurare și cu orice titlu, inclusiv de către consumatorul final al produselor susceptibile a avea efecte psihoactive.“",
+  "În interpretarea și aplicarea dispozițiilor art. 16 alin. (1) din Legea nr. 194/2011 stabilește că:",
+  "Procurarea de produse susceptibile de a avea efecte psihoactive constituie o operațiune cu produse în sensul art. 2 lit. b) din Legea nr. 194/2011 și intră sub incidența dispozițiilor art. 16 alin. (1) din același act normativ în ipoteza în care este efectuată în cadrul unei activități de import, export ori intermediere de produse.",
+  "Procurarea de produse susceptibile de a avea efecte psihoactive de către consumatorul final în vederea consumului propriu, efectuată exclusiv în acest scop, nu constituie operațiune cu produse în sensul art. 2 lit. b) din Legea nr. 194/2011 și nu intră sub incidența dispozițiilor art. 16 alin. (1) din același act normativ.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 61
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "375",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206175",
+  "text_sha256": "4cc3bdbeada0f31e02f161c24ae3dbe30be0a8a600ae5214f9ad63d6fe30e18a",
+  "catalogue_sha256": "4cc3bdbeada0f31e02f161c24ae3dbe30be0a8a600ae5214f9ad63d6fe30e18a",
+  "fetched": "2026-11-03T03:00:55Z",
+  "chars": 71558,
+  "portal_id": "206175",
+  "tip": "DECIZIE"
+ }
+}
