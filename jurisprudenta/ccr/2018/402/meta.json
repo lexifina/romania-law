@@ -1,0 +1,201 @@
+{
+ "key": "dcc-402-2018",
+ "label": "Decizia CCR nr. 402/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "402",
+ "date": "2018-06-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 402 din 19 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. V alin. (21) din Ordonanța de urgență a Guvernului nr. 50/2013 privind reglementarea unor măsuri fiscale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "902",
+  "bis": false,
+  "date": "2018-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.490/62/2015",
+  "1.455D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 50/2013",
+    "number": "50",
+    "year": "2013",
+    "path": "oug/2013/50"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "21"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Arteta - S.R.L. din Brașov în Dosarul nr. 1.490/62/2015 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. V alin. (21) din Ordonanța de urgență a Guvernului nr. 50/2013 privind reglementarea unor măsuri fiscale sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 50/2013",
+    "number": "50",
+    "year": "2013",
+    "path": "oug/2013/50"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": [
+      "21"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 209/2015",
+    "number": "209",
+    "year": "2015",
+    "path": "lege/2015/209"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206214",
+  "text_sha256": "2fbaf9a33df19475c35f7c4f3bb978c652b73084f50c07b6f42a8236f8a0da7a",
+  "catalogue_sha256": "2fbaf9a33df19475c35f7c4f3bb978c652b73084f50c07b6f42a8236f8a0da7a",
+  "fetched": "2026-11-03T18:49:13Z",
+  "chars": 19693,
+  "portal_id": "206214",
+  "tip": "DECIZIE"
+ }
+}
