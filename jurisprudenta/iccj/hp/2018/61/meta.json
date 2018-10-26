@@ -1,0 +1,171 @@
+{
+ "key": "iccj-hp-61-2018",
+ "label": "Decizia ÎCCJ nr. 61/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "61",
+ "date": "2018-09-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 61 din 24 septembrie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 19 din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "905",
+  "bis": false,
+  "date": "2018-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.381/1/2018",
+  "2.489/98/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal în Dosarul nr. 2.489/98/2016, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Interpretarea și aplicarea prevederilor art. 19 din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, prin raportare la dispozițiile art. 11 alin. (2) din același act normativ, în sensul de a se stabili care este momentul de la care începe să curgă termenul de prescripție pentru introducerea acțiunii în despăgubire, respectiv de la momentul comunicării actului administrativ nelegal sau de la data rămânerii definitive a hotărârii de anulare a acestui act.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206228",
+  "text_sha256": "c1a7fdfb3b2cbbe0af75c15b5548c438e4420cb67025eb4bf193f0714105290e",
+  "catalogue_sha256": "c1a7fdfb3b2cbbe0af75c15b5548c438e4420cb67025eb4bf193f0714105290e",
+  "fetched": "2026-11-03T03:00:44Z",
+  "chars": 52626,
+  "portal_id": "206228",
+  "tip": "DECIZIE"
+ }
+}
