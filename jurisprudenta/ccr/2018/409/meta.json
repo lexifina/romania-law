@@ -1,0 +1,185 @@
+{
+ "key": "dcc-409-2018",
+ "label": "Decizia CCR nr. 409/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "409",
+ "date": "2018-06-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 409 din 19 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 16 din Legea nr. 85/1992 privind vânzarea de locuințe și spații cu altă destinație construite din fondurile statului și din fondurile unităților economice sau bugetare de stat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "911",
+  "bis": false,
+  "date": "2018-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "42.752/215/2013",
+  "2.529D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mișu Popescu în Dosarul nr. 42.752/215/2013 al Tribunalului Dolj - Secția I civilă și constată că dispozițiile art. 16 din Legea nr. 85/1992 privind vânzarea de locuințe și spații cu altă destinație construite din fondurile statului și din fondurile unităților economice sau bugetare de stat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/1992",
+    "number": "85",
+    "year": "1992",
+    "path": "lege/1992/85"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 244/2011",
+    "number": "244",
+    "year": "2011",
+    "path": "lege/2011/244"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 61/1990",
+    "number": "61",
+    "year": "1990",
+    "path": "decret-lege/1990/61"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206261",
+  "text_sha256": "4f912c516606b15d0db26c871a220f12b3d7c11215af2ab78292e87898d7f63d",
+  "catalogue_sha256": "4f912c516606b15d0db26c871a220f12b3d7c11215af2ab78292e87898d7f63d",
+  "fetched": "2026-11-03T03:00:36Z",
+  "chars": 13478,
+  "portal_id": "206261",
+  "tip": "DECIZIE"
+ }
+}
