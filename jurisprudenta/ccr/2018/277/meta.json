@@ -1,0 +1,186 @@
+{
+ "key": "dcc-277-2018",
+ "label": "Decizia CCR nr. 277/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "277",
+ "date": "2018-04-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 277 din 26 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 alin. (5) din Ordonanța de urgență a Guvernului nr. 30/2007 privind organizarea și funcționarea Ministerului Internelor și Reformei Administrative, precum și a ordonanței de urgență în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "911",
+  "bis": false,
+  "date": "2018-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.848/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 12 alin. (5) din Ordonanța de urgență a Guvernului nr. 30/2007 privind organizarea și funcționarea Ministerului Internelor și Reformei Administrative, precum și a ordonanței de urgență în ansamblul său, excepție ridicată de Alexandru Burducea, Gabriel Buga, Lucian Ioan Baieș, Daniel Brăilescu, Florin Homoc, Magda Gabriela Moraru, Ionuț Radu, Vasile Sidorenco, Lucian Tudor, Robert Emilian Tița, Florin Vieru, George Doru Vasile, Adrian Pena, Doru Alexandru Vasile, Vanghele Geamalinga, Dacian Dateș, Florin Ungureanu, Sorin Andrei Chirilă, Marin Anton Săndulescu, Ioan Alexandru Mareș, Simona Elena Vitoreanu, Gheorghe Diaconu, George Paul Păun, Marian Tiberiu Diaconu, Mihaela Dumitru și Florin Adrian Ionescu, prin reprezentant Sindicatul Polițiștilor din România „Diamantul“, în Dosarul nr. 14.848/3/2015 al Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 24/2007",
+    "number": "24",
+    "year": "2007",
+    "path": "oug/2007/24"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206260",
+  "text_sha256": "d862c4a35949882ac860da1c6bf5beaeb562c2e8b6ad02b2ffe75cc3287421d0",
+  "catalogue_sha256": "d862c4a35949882ac860da1c6bf5beaeb562c2e8b6ad02b2ffe75cc3287421d0",
+  "fetched": "2026-11-03T03:00:36Z",
+  "chars": 17345,
+  "portal_id": "206260",
+  "tip": "DECIZIE"
+ }
+}
