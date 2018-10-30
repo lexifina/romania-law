@@ -1,0 +1,193 @@
+{
+ "key": "iccj-hp-62-2018",
+ "label": "Decizia ÎCCJ nr. 62/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "62",
+ "date": "2018-09-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 62 din 24 septembrie 2018",
+ "subtitle": "referitoare la interpretarea art. 31 alin. (1) teza I coroborat cu art. 15 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, precum și pronunțarea hotărârii prealabile pentru dezlegarea unor chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "912",
+  "bis": false,
+  "date": "2018-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.432/1/2018",
+  "11.132/211/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale în Dosarul nr. 11.132/11/2017 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Dacă poate fi calificată ca sancțiune contravențională situația în care călătorul care urcă într-un mijloc de transport în comun fără bilet de călătorie este obligat să își procure un bilet la suprataxă, urmând ca în cazul refuzului să i se încheie proces-verbal de contravenție și să i se aplice o sancțiune contravențională?",
+  "2. Dacă art. 31 alin. (1) teza I coroborat cu art. 15 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, trebuie interpretat în sensul că se poate formula plângere contravențională împotriva unui înscris prin intermediul căruia se aplică o sancțiune de natură contravențională chiar dacă acesta nu a fost denumit «proces-verbal de constatare și sancționare a contravenției»?",
+  "3. În situația în care răspunsul la întrebările anterioare este afirmativ, ar putea instanța sesizată cu o plângere contravențională să dispună anularea sancțiunii constând în plata biletului cu suprataxă, în condițiile în care persoana interesată nu a atacat și nu a obținut anularea actului administrativ care prevede posibilitatea achiziționării biletului cu suprataxă?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 203/1994",
+    "number": "203",
+    "year": "1994",
+    "path": "hg/1994/203"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206259",
+  "text_sha256": "e3e1f7f6820c89a7c6aaf517458d6f7243a1601212adfd7094712cde2a1ebdf5",
+  "catalogue_sha256": "e3e1f7f6820c89a7c6aaf517458d6f7243a1601212adfd7094712cde2a1ebdf5",
+  "fetched": "2026-11-03T03:00:36Z",
+  "chars": 40237,
+  "portal_id": "206259",
+  "tip": "DECIZIE"
+ }
+}
