@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-09-12: documents published: Aviz Consiliul Legislativ
 - 2018-10-12: registered at the Senate
+- 2018-10-31: registered at the Chamber of Deputies
 
 ## Documents
 
