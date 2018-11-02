@@ -1,0 +1,265 @@
+{
+ "key": "dcc-548-2018",
+ "label": "Decizia CCR nr. 548/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "548",
+ "date": "2018-09-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 548 din 18 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 456 alin. (1) lit. f) și art. 464 alin. (1) lit. f) din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "925",
+  "bis": false,
+  "date": "2018-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.402/3/2017",
+  "2.584/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "464",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Centrul Internațional pentru Învățământ Superior Technoeconomia Europeană în Dosarul nr. 17.402/3/2017 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. 456 alin. (1) lit. f) și art. 464 alin. (1) lit. f) din Legea nr. 227/2015 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "464",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "292",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 88/1993",
+    "number": "88",
+    "year": "1993",
+    "path": "lege/1993/88"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/2005",
+    "number": "75",
+    "year": "2005",
+    "path": "oug/2005/75"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206382",
+  "text_sha256": "18cf944775a7e6bb2586107acb07088aa378a343330108251270a1ab5d301bc7",
+  "catalogue_sha256": "18cf944775a7e6bb2586107acb07088aa378a343330108251270a1ab5d301bc7",
+  "fetched": "2026-11-03T03:00:17Z",
+  "chars": 17210,
+  "portal_id": "206382",
+  "tip": "DECIZIE"
+ }
+}
