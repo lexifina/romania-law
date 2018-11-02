@@ -1,0 +1,356 @@
+{
+ "key": "iccj-ril-16-2018",
+ "label": "Decizia ÎCCJ nr. 16/2018 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2018-09-17",
+ "year": "2018",
+ "heading": "DECIZIA nr. 16 din 17 septembrie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 207 alin. (1) ș i (2) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "927",
+  "bis": false,
+  "date": "2018-11-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.512/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București și, în consecință:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 207 alin. (1) ș i (2) din Codul de procedură penală stabilește că:",
+  "Termenul „cu cel puțin 5 zile înainte de expirarea duratei acesteia“ este un termen peremptoriu, iar încălcarea sa atrage decăderea procurorului din dreptul de a formula cereri privind măsurile preventive și nulitatea actului făcut în acest sens peste termen, precum și imposibilitatea judecătorului de cameră preliminară de a verifica din oficiu legalitatea și temeinicia măsurii preventive înainte de expirarea duratei acesteia.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "330",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "306",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "311",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "313",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "356",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "364",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "365",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "366",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 147
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206377",
+  "text_sha256": "d2772477003c6ba8f99ed3667ae9c75768f53d98ebda49a3b9a774bcc0c9de39",
+  "catalogue_sha256": "d2772477003c6ba8f99ed3667ae9c75768f53d98ebda49a3b9a774bcc0c9de39",
+  "fetched": "2026-11-03T15:13:56Z",
+  "chars": 95973,
+  "portal_id": "206377",
+  "tip": "DECIZIE"
+ }
+}
