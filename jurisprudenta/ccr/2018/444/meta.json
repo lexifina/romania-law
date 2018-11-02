@@ -1,0 +1,364 @@
+{
+ "key": "dcc-444-2018",
+ "label": "Decizia CCR nr. 444/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "444",
+ "date": "2018-06-28",
+ "year": "2018",
+ "heading": "DECIZIA nr. 444 din 28 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 4, 6, 16, 17 și pct. 19-23 din Ordonanța de urgență a Guvernului nr. 95/2014 pentru modificarea și completarea Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "928",
+  "bis": false,
+  "date": "2018-11-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "38.513/3/2016",
+  "312D/2017",
+  "851D/2017",
+  "1.317D/2017",
+  "26.043/3/2016",
+  "41.920/3/2016",
+  "37.228/3/2016",
+  "24.501/3/2016",
+  "11.246/3/2016",
+  "45.454/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dan Gheorghe, Ion Cutăr, Constantin Giosu, Laurențiu Răuță, Ilie Gață, Marioara Gicoveanu, Florea Dinu, Octavian Costin, Anton Popescu, Constantin Topoliceanu, Gheorghe Enescu, Ion Cojocaru, Nicolae Trifan, Mihai Bosun, Iuliana Lipoviceanu, Dumitru Puia, Doinița Chitic, Sergiu-Valeriu Cicu, Marin Florescu, Alexandru Irimie, Alexandru Preduș, Florea Ciulică, Constantin Nedea, Constantin Ghiță și Floarea Ciachir, în dosarele nr. 38.513/3/2016, nr. 42.605/3/2016, nr. 42.624/3/2016, nr. 42.627/3/2016, nr. 43.235/3/2016, nr. 43.239/3/2016, nr. 26.043/3/2016, nr. 41.920/3/2016, nr. 37.228/3/2016, nr. 24.501/3/2016, nr. 41.326/3/2016, nr. 41.336/3/2016, nr. 44.346/3/2016, nr. 28.442/3/2016, nr. 24.510/3/CA/2016, nr. 30.232/3/2016, nr. 30.238/3/2016, nr. 41.349/3/2016, nr. 41.356/3/2016, nr. 41.725/3/2016, nr. 41.858/3/2016 și nr. 42.625/3/2016, nr. 11.246/3/2016, nr. 45.454/3/2016 și nr. 38.509/CA/2016 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal, și constată că dispozițiile art. I pct. 4, 6, 16, 17 și pct. 19-23 din Ordonanța de urgență a Guvernului nr. 95/2014 pentru modificarea și completarea Legii recunoștinței față de eroii-martiri și luptătorii care au contribuit la victoria Revoluției române din decembrie 1989, precum și față de persoanele care și-au jertfit viața sau au avut de suferit în urma revoltei muncitorești anticomuniste de la Brașov din noiembrie 1987 nr. 341/2004 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2014",
+    "number": "95",
+    "year": "2014",
+    "path": "oug/2014/95"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 94/2015",
+    "number": "94",
+    "year": "2015",
+    "path": "oug/2015/94"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206393",
+  "text_sha256": "8bb0e3e59feb9e3ad371525b5c8e8ffc040d6266942a251a9ff17250b36cf20e",
+  "catalogue_sha256": "8bb0e3e59feb9e3ad371525b5c8e8ffc040d6266942a251a9ff17250b36cf20e",
+  "fetched": "2026-11-03T16:55:10Z",
+  "chars": 44540,
+  "portal_id": "206393",
+  "tip": "DECIZIE"
+ }
+}
