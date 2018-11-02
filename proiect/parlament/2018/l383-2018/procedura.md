@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-10-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-10-20: sent for promulgation
+- 2018-11-02: promulgated, becomes Legea nr. 246/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-08: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383FS.PDF
 - 2018-10-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383AXS.PDF
 - 2018-10-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383LP.PDF
+- 2018-11-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383DP.PDF
+- 2018-11-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383AFP.PDF
+- 2018-11-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L383FP.PDF
