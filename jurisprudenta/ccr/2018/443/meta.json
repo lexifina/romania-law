@@ -1,0 +1,204 @@
+{
+ "key": "dcc-443-2018",
+ "label": "Decizia CCR nr. 443/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "443",
+ "date": "2018-06-28",
+ "year": "2018",
+ "heading": "DECIZIA nr. 443 din 28 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1^2) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "931",
+  "bis": false,
+  "date": "2018-11-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.682/54/2016",
+  "215D/2017",
+  "36.204/3/2016",
+  "36.408/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1^2) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ridicată de Emilia Ion, Cristian Mihai Ban, Maria Magdalena Militaru, Florin Popa, Cristina Aldea, Cristina Badea, Bogdan Beligan, Corina Anca Bican, Luiza Maria Blaj, Radu Mihăiță Cazacu, Teodor Manea, Mioara Moșoiu, Florica Nan, Mirela Neagoe, Nicolae Neagoe, Ana Maria Nilă, Laura Popescu, Silvana Augusta Dobre, Cristian Anghel, Andreea Corina Băjenaru, Diana Berlic, Elena Eliana Bucur, Marius Bogdan Ionuț Comșa, Camelia Grațiela Costea, Laura Maria Curea, Ioana Codruța Dărângă, Florina Dinescu, Elena Aurora Dogaru, Lajos Imre Miklos, Florela Andreea Palici, Ilona Valușa Panica, Oana Raluca Peltechi, Ioana Ursache, Virginia Chiriță, Tudorița Chiriță, Camelia Laurenția Lică, Mihaela Cozmaciuc, Carmen Dunca Robert, Nicolae Iorga, Mircea Claudiu Popescu, Iulia Petrescu, Viviana Ștefania Ciucă, Neculai Cârlescu, Alexandrina Lili Deaconu, Marian Drăgulescu, Mădălina Enache, Ana Maria Ilie, Nicoleta Ilie, Florina Lucan, Maria Daniela Manolache, Claudiu Victor Neagoe, Simona Maria Veronica Nicolici, în Dosarul nr. 1.682/54/2016 al Curții de Apel Craiova - Secția contencios administrativ și fiscal și de Adriana Popescu și Felicia Băjan, în dosarele nr. 36.204/3/2016 și nr. 36.408/3/2016 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția contencios administrativ și fiscal și Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 156/2016",
+    "number": "156",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206399",
+  "text_sha256": "65cb7fe22dcd406623149336534a4cd0b963ee9e82be91e7e69b0206ce7060ca",
+  "catalogue_sha256": "65cb7fe22dcd406623149336534a4cd0b963ee9e82be91e7e69b0206ce7060ca",
+  "fetched": "2026-11-03T15:38:07Z",
+  "chars": 19715,
+  "portal_id": "206399",
+  "tip": "DECIZIE"
+ }
+}
