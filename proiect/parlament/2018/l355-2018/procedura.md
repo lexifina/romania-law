@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-10-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-10-17: sent for promulgation
 - 2018-11-05: promulgated, becomes Legea nr. 248/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-11-06: published in the Monitorul Oficial
 
 ## Documents
 
