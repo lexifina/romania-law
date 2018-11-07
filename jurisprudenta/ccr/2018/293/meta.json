@@ -1,0 +1,320 @@
+{
+ "key": "dcc-293-2018",
+ "label": "Decizia CCR nr. 293/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "293",
+ "date": "2018-04-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 293 din 26 aprilie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 461 alin. (1), alin. (5) și alin. (7) teza a doua, art. 466 alin. (1) și alin. (3) și ale art. 471 alin. (1) și alin. (4) teza a doua din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "938",
+  "bis": false,
+  "date": "2018-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.177D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "461",
+     "alin": [
+      "1",
+      "5",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată direct de Avocatul Poporului și constată că dispozițiile art. 461 alin. (1), (5) și alin. (7) teza a doua, art. 466 alin. (1) și (3) și ale art. 471 alin. (1) și alin. (4) teza a doua din Legea nr. 227/2015 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Avocatului Poporului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "461",
+     "alin": [
+      "1",
+      "5",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206463",
+  "text_sha256": "8802530eff4673469031add624470bde1e394b124bdd773ff39686ad6ec9fe5a",
+  "catalogue_sha256": "8802530eff4673469031add624470bde1e394b124bdd773ff39686ad6ec9fe5a",
+  "fetched": "2026-11-03T03:00:05Z",
+  "chars": 58142,
+  "portal_id": "206463",
+  "tip": "DECIZIE"
+ }
+}
