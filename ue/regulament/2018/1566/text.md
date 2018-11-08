@@ -1,0 +1,49 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2018/1566 AL COMISIEI
+din 18 octombrie 2018
+privind autorizarea preparatului de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) ca aditiv furajer pentru purceii înțărcați și pentru speciile porcine minore (înțărcate) și de modificare a Regulamentului (CE) nr. 1453/2004 (titularul autorizației: Andrès Pintaluba S.A.)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unor astfel de autorizații. Articolul 10 din regulamentul respectiv prevede reevaluarea aditivilor autorizați în temeiul Directivei 70/524/CEE a Consiliului (2).
+(2) Preparatul de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) a fost autorizat în conformitate cu Directiva 70/524/CEE fără limită de timp ca aditiv furajer pentru purceii înțărcați prin Regulamentul (CE) nr. 1453/2004 al Comisiei (3). Preparatul respectiv a fost ulterior înscris în Registrul aditivilor furajeri ca produs existent, în conformitate cu articolul 10 alineatul (1) litera (b) din Regulamentul (CE) nr. 1831/2003.
+(3) În conformitate cu articolul 10 alineatul (2) din Regulamentul (CE) nr. 1831/2003 coroborat cu articolul 7 din respectivul regulament, s-a depus o cerere pentru reevaluarea preparatului de endo-1,3(4)-beta-glucanază și doplňkovéendo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) ca aditiv furajer pentru purceii înțărcați și pentru speciile porcine minore (înțărcate). Solicitantul a cerut ca aditivul respectiv să fie clasificat în categoria „aditivi zootehnici”. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizele sale din 8 octombrie 2013 (4), 16 mai 2017 (5) și 17 aprilie 2018 (6) că, în condițiile de utilizare propuse, preparatul de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) nu are efecte adverse asupra sănătății animale, asupra sănătății oamenilor sau asupra mediului. De asemenea, autoritatea a concluzionat că utilizarea preparatului are potențialul de a îmbunătăți greutatea corporală finală și indicele de conversie a hranei la purceii înțărcați și că aceeași concluzie poate fi extrapolată la speciile porcine minore (înțărcate). Autoritatea nu consideră necesară prevederea unor cerințe specifice de monitorizare ulterioară introducerii pe piață. Ea a verificat, de asemenea, raportul privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea preparatului de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, ar trebui autorizată utilizarea preparatului respectiv, astfel cum se specifică în anexa la prezentul regulament.
+(6) În urma acordării autorizației pentru preparat, Regulamentul (CE) nr. 1453/2004 ar trebui să fie modificat în consecință.
+(7) Întrucât niciun motiv de siguranță nu impune aplicarea imediată a modificărilor condițiilor de autorizare, este adecvat să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care decurg din autorizare.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Preparatul indicat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „promotori de digestibilitate”, se autorizează ca aditiv pentru hrana animalelor, în condițiile prevăzute în anexă.
+Articolul 2
+Modificări aduse Regulamentului (CE) nr. 1453/2004
+În anexa II la Regulamentul (CE) nr. 1453/2004, rubrica E 1612 referitoare la preparatul de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază și alfa-amilază se elimină.
+Articolul 3
+Măsuri tranzitorii
+Preparatul specificat în anexă și hrana pentru animale care conține acest preparat, care sunt produse și etichetate înainte de 8 mai 2019 în conformitate cu normele aplicabile înainte de 8 noiembrie 2018, pot continua să fie introduse pe piață și utilizate până la epuizarea stocurilor existente.
+Articolul 4
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 octombrie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Directiva 70/524/CEE a Consiliului din 23 noiembrie 1970 privind aditivii din hrana animalelor (JO L 270, 14.12.1970, p. 1).
+(3) Regulamentul (CE) nr. 1453/2004 al Comisiei din 16 august 2004 privind autorizarea permanentă a unor aditivi în hrana animalelor (JO L 269, 17.8.2004, p. 3).
+(4) EFSA Journal 2013; 11(10):3430.
+(5) EFSA Journal 2017; 15(6):4856.
+(6) EFSA Journal 2018; 1(5):5271.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de furaj complet cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupa funcțională: promotori de digestibilitate
+4a1612i | Andrés Pintaluba S.A. | Endo-1,3(4)-beta-glucanază EC 3.2.1.6 Endo-1,4-beta-xilanază EC 3.2.1.8 Alfa-amilază EC 3.2.1.1 | Compoziția aditivului Preparatul de endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) având o activitate minimă de — Endo-1,3(4)-beta-glucanază: 900 U(1)/g; — Endo-1,4-beta-xilanază: 1 000 U(2)/g; — alfa-amilază: 3 000 U(3)/g; Stare solidă Caracterizarea substanței active endo-1,3(4)-beta-glucanază și endo-1,4-beta-xilanază produse de Aspergillus niger (NRRL 25541) și alfa-amilază produsă de Aspergillus niger (ATCC66222) Metode analitice (4) Determinarea în aditivii furajeri a: — endo-1,3(4)-beta-glucanazei: metoda colorimetrică bazată pe reacția enzimatică a glucanazei asupra substratului cu conținut de betaglucan de orz în prezența acidului 3,5-dinitrosalicilic (DNS) la un pH de 4,0 și la 30 °C; — endo-1,4-β-xilanază în aditivul furajer: metodă colorimetrică bazată pe reacția enzimatică a xilanazei asupra substratului de arabinoxilan de secară în prezența DNS, la un pH de 4,0 și la 30 °C; — alfa-amilazei: metoda colorimetrică bazată pe reacția enzimatică a amilazei asupra substratului cu conținut de amidon de grâu în prezența DNS la un pH de 5,0 și la 30 °C. Determinarea substanțelor active în preamestecuri și hrana pentru animale: — metodă colorimetrică de măsurare a fragmentelor solubile depolimerizate eliberate prin acțiunea glucanazei asupra azo-glucanului de orz; — metoda colorimetrică de măsurare a fragmentelor solubile depolimerizate eliberate prin acțiunea endo-1,4-β-xilanazei asupra azo-xilanului; — metodă colorimetrică de măsurare a fragmentelor solubile depolimerizate eliberate prin acțiunea amilazei asupra p-nitrofenilmaltoheptaozidei; | Purcei înțărcați Specii porcine minore (înțărcate) | | endo-1,3(4)-beta-glucanază 450 U beta-xilanază 500 U alfa-amilază 1 500 U | | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție pentru piele, de protecție pentru ochi și de protecție respiratorie. 3. Se utilizează la purceii înțărcați cu greutate de până la aproximativ 35 kg | 8 noiembrie 2028
+(1) 1 U reprezintă cantitatea de enzimă care eliberează 1 micromol de zaharuri reducătoare (măsurate în echivalenți glucoză) pe minut din beta-glucan de orz, cu un pH de 4,0 și la 30 °C.
+(2) 1 U reprezintă cantitatea de enzimă care eliberează 1 micromol de zaharuri reducătoare (măsurate în echivalenți glucoză) pe minut din arabinoxilan din secară, cu un pH de 4,0 și la 30 °C.
+(3) 1 U reprezintă cantitatea de enzimă care eliberează 1 micromol de zaharuri reducătoare (măsurate în echivalenți glucoză) pe minut din amidon de grâu, cu un pH de 5,0 și la 30 °C.
+(4) Detalii privind metodele de analiză sunt disponibile la următoarea adresă a laboratorului de referință pentru aditivi furajeri: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
