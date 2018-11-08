@@ -1,0 +1,161 @@
+{
+ "key": "dcc-400-2018",
+ "label": "Decizia CCR nr. 400/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "400",
+ "date": "2018-06-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 400 din 19 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "946",
+  "bis": false,
+  "date": "2018-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.309/176/2015",
+  "1.398D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2 din Legea nr. 193/2000 privind clauzele abuzive din contractele încheiate între profesioniști și consumatori, excepție ridicată de Lup Adrian Dumitru în Dosarul nr. 6.309/176/2015 al Judecătoriei Alba Iulia.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Alba Iulia și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206634",
+  "text_sha256": "14e31aba34f63b36e19721b18c9006b7507047d80180b129a823bb434dabb1b5",
+  "catalogue_sha256": "14e31aba34f63b36e19721b18c9006b7507047d80180b129a823bb434dabb1b5",
+  "fetched": "2026-11-03T03:00:00Z",
+  "chars": 11655,
+  "portal_id": "206634",
+  "tip": "DECIZIE"
+ }
+}
