@@ -1,0 +1,153 @@
+{
+ "key": "dcc-424-2018",
+ "label": "Decizia CCR nr. 424/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "424",
+ "date": "2018-06-21",
+ "year": "2018",
+ "heading": "DECIZIA nr. 424 din 21 iunie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Ordonanței de urgență a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenților promoțiilor 2012 ale instituțiilor de formare profesională inițială din sistemul de apărare națională, ordine publică și siguranță națională",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "949",
+  "bis": false,
+  "date": "2018-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "14.659/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Vameșilor Pro Lex din București, în numele membrului de sindicat Cosmin Gheorghe Buzilă, în Dosarul nr. 14.659/3/2015 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile Ordonanței de urgență a Guvernului nr. 37/2012 pentru stabilirea unor măsuri privind încadrarea absolvenților promoțiilor 2012 ale instituțiilor de formare profesională inițială din sistemul de apărare națională, ordine publică și siguranță națională, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 37/2012",
+    "number": "37",
+    "year": "2012",
+    "path": "oug/2012/37"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 293/2011",
+    "number": "293",
+    "year": "2011",
+    "path": "lege/2011/293"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206644",
+  "text_sha256": "72548f262b41d9aa281bea8de09f4e9e7ecbfd5aa20df1ede45ccad4be8753e9",
+  "catalogue_sha256": "72548f262b41d9aa281bea8de09f4e9e7ecbfd5aa20df1ede45ccad4be8753e9",
+  "fetched": "2026-11-03T02:59:58Z",
+  "chars": 16418,
+  "portal_id": "206644",
+  "tip": "DECIZIE"
+ }
+}
