@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-02: registered at the Chamber of Deputies
 - 2018-10-31: adopted by the Chamber of Deputies
 - 2018-11-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-11-10: sent for promulgation
 
 ## Documents
 
