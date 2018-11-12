@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-10-17: adopted by the Chamber of Deputies
 - 2018-10-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-10-24: sent for promulgation
+- 2018-11-12: promulgated, becomes Legea nr. 260/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2018-05-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243AM.PDF
 - 2018-10-22: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243AXS.PDF
 - 2018-10-22: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243LP.PDF
+- 2018-11-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243DP.PDF
+- 2018-11-12: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243AFP.PDF
+- 2018-11-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L243FP.PDF
