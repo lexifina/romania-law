@@ -1,0 +1,15 @@
+# Propunere legislativă L53/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind modificarea OUG nr.194/2002 privind regimul străinilor în România şi OG nr.25/2014 privind încadrarea în muncă şi detaşarea străinilor pe teritoriul României şi pentru modificarea şi completarea unor acte normative privind regimul străinilor în România
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-11-12: first record in the bill file
+
+## Documents
+
+- none held as text
