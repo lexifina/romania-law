@@ -1,0 +1,338 @@
+{
+ "key": "dcc-573-2018",
+ "label": "Decizia CCR nr. 573/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "573",
+ "date": "2018-09-20",
+ "year": "2018",
+ "heading": "DECIZIA nr. 573 din 20 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 434 alin. (2) lit. g) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "959",
+  "bis": false,
+  "date": "2018-11-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "589/180/2016",
+  "2.186D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "434",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Adrian Movilă în Dosarul nr. 589/180/2016 al Înaltei Curți de Casație și Justiție - Secția penală și constată că dispozițiile art. 434 alin. (2) lit. g) din Codul de procedură penală sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Înaltei Curți de Casație și Justiție - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "434",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g",
+      "f"
+     ]
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "484",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "448",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "485",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "487",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206724",
+  "text_sha256": "7ecc9c988a30b17814f99ddecc65fbd596800d9afdb7130e61eb97a8c71adce8",
+  "catalogue_sha256": "7ecc9c988a30b17814f99ddecc65fbd596800d9afdb7130e61eb97a8c71adce8",
+  "fetched": "2026-11-03T02:59:46Z",
+  "chars": 50533,
+  "portal_id": "206724",
+  "tip": "DECIZIE"
+ }
+}
