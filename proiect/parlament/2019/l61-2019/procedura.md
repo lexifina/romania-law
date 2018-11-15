@@ -1,0 +1,19 @@
+# Propunere legislativă L61/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 126/2019 (`legea-126-2019`).
+
+Propunere legislativă pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.23/2008 privind pescuitul şi acvacultura, cu modificările şi completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-11-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-11-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L061AD.PDF
+- 2018-11-15: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L061FG.PDF
+- 2018-11-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L061EM.PDF
