@@ -1,0 +1,252 @@
+{
+ "key": "iccj-hp-penal-15-2018",
+ "label": "Decizia ÎCCJ nr. 15/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "15",
+ "date": "2018-09-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 15 din 26 septembrie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 43 alin. (1) și (5) Cod penal pentru pedeapsa anterioară ce constituie primul termen al recidivei",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "975",
+  "bis": false,
+  "date": "2018-11-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.748/1/2018",
+  "676/267/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția penală și pentru cauze cu minori în Dosarul nr. 676/267/2017 prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „în interpretarea dispozițiilor art. 43 alin. (1) și (5) Cod penal pentru pedeapsa anterioară ce constituie primul termen al recidivei, prin pedeapsă «executată sau considerată ca executată» se are în vedere pedeapsa astfel recalculată urmare a aplicării art. 55^1 din Legea nr. 254/2013 sau durata pedepsei aplicată anterior prin hotărârea definitivă de condamnare calculată conform dispozițiilor art. 71 din Codul penal raportat la art. 186 din Codul penal“.",
+  "Stabilește că, în interpretarea dispozițiilor art. 43 alin. (1) și (5) din Codul penal, prin pedeapsa „executată sau considerată ca executată“, ce constituie primul termen al recidivei, se are în vedere pedeapsa recalculată ca urmare a aplicării art. 55^1 din Legea nr. 254/2013.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/2017",
+    "number": "169",
+    "year": "2017",
+    "path": "lege/2017/169"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/206985",
+  "text_sha256": "c07791ffe8b0fd3413a76206ec565c7db49e0c6242370d4e9d2e694f5147a605",
+  "catalogue_sha256": "c07791ffe8b0fd3413a76206ec565c7db49e0c6242370d4e9d2e694f5147a605",
+  "fetched": "2026-11-03T02:59:27Z",
+  "chars": 55178,
+  "portal_id": "206985",
+  "tip": "DECIZIE"
+ }
+}
