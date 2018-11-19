@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-13: documents published: Raport comisie sesizată pe fond
 - 2018-04-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-05-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2018-11-19: returned for re-examination
 
 ## Documents
 
