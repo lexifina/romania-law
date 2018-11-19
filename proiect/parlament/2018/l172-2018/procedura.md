@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-10-31: adopted by the Chamber of Deputies
 - 2018-11-01: returned for re-examination
+- 2018-11-19: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,8 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172FS.PDF
 - 2018-05-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172AXS.PDF
 - 2018-05-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172LP.PDF
+- 2018-11-19: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-11-19: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-11-19: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-11-19: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-11-19: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L172ARD.PDF (its day is not given by the bill file: shown from the last stage held)
