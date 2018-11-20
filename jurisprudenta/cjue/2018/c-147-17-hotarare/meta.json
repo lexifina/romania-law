@@ -1,0 +1,63 @@
+{
+ "key": "cjue-c-147-17-hotarare-2018-11-20",
+ "label": "CJUE, Hotărârea Curții (Marea Cameră) din 20 noiembrie 2018, Cauza C-147/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2018-11-20",
+ "year": "2018",
+ "case": "Cauza C-147/17",
+ "celex": "62017CJ0147",
+ "ecli": "ECLI:EU:C:2018:926",
+ "heading": "Hotărârea Curții (Marea Cameră) din 20 noiembrie 2018",
+ "formation": "CHAMB_GD_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Constanţa",
+   "date": "2017-02-08",
+   "national_file": "4793/118/2015"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Constanţa",
+ "national_followup": [
+  "Curtea de Apel Constanţa, decizie civila, Încheiere din 02/04/2019 (ECLI:RO:CACTA:2019:024)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția securității și a sănătății lucrătorilor – Organizarea timpului de lucru – Carta drepturilor fundamentale a Uniunii Europene – Articolul 31 – Directiva 2003/88/CE – Domeniu de aplicare – Derogare – Articolul 1 alineatul (3) – Directiva 89/391/CEE – Articolul 2 alineatul (2) – Activitate de asistent maternal",
+ "interprets": [
+  {
+   "celex": "31989L0391",
+   "folder": "ue/directiva/1989/391"
+  },
+  {
+   "celex": "32003L0088",
+   "folder": "ue/directiva/2003/88"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CJ0147",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-147/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/5c6fed69-eca8-11e8-b690-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "91d0b4fd2289599a3de4955f5e97e435698653c0dbdc7591d5ec5ea98ef8c259"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Marea Cameră) declară:",
+  "Articolul 1 alineatul (3) din Directiva 2003/88/CE a Consiliului din 4 noiembrie 2003 privind anumite aspecte ale organizării timpului de lucru coroborat cu articolul 2 alineatul (2) din Directiva 89/391/CEE a Parlamentului European și a Consiliului din 12 iunie 1989 privind punerea în aplicare de măsuri pentru promovarea îmbunătățirii securității și sănătății lucrătorilor la locul de muncă trebuie interpretat în sensul că nu se încadrează în domeniul de aplicare al Directivei 2003/88 activitatea de asistent maternal care constă, în cadrul unui raport de muncă cu o autoritate publică, în primirea și integrarea unui copil în căminul propriu și în asigurarea, în mod continuu, a dezvoltării armonioase și a educației acestui copil."
+ ]
+}

@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Marea Cameră) din 20 noiembrie 2018, Cauza C-147/17
+
+Pentru aceste motive, Curtea (Marea Cameră) declară:
+Articolul 1 alineatul (3) din Directiva 2003/88/CE a Consiliului din 4 noiembrie 2003 privind anumite aspecte ale organizării timpului de lucru coroborat cu articolul 2 alineatul (2) din Directiva 89/391/CEE a Parlamentului European și a Consiliului din 12 iunie 1989 privind punerea în aplicare de măsuri pentru promovarea îmbunătățirii securității și sănătății lucrătorilor la locul de muncă trebuie interpretat în sensul că nu se încadrează în domeniul de aplicare al Directivei 2003/88 activitatea de asistent maternal care constă, în cadrul unui raport de muncă cu o autoritate publică, în primirea și integrarea unui copil în căminul propriu și în asigurarea, în mod continuu, a dezvoltării armonioase și a educației acestui copil.
