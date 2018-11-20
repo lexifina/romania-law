@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-26: documents published: Aviz comisie
 - 2018-09-12: documents published: Aviz comisie
 - 2018-11-12: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2018-11-20: documents published: Forma trimisă la promulgare
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-26: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385CA14.PDF
 - 2018-09-12: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385CA8.PDF
 - 2018-11-12: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385FS.PDF
+- 2018-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L385LP.PDF
