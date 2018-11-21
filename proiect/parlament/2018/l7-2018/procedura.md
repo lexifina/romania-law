@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2018-03-12: registered at the Chamber of Deputies
 - 2018-11-14: adopted by the Chamber of Deputies
 - 2018-11-20: documents published: Forma trimisă la promulgare
+- 2018-11-21: sent for promulgation
 
 ## Documents
 
