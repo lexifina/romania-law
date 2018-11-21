@@ -1,0 +1,189 @@
+{
+ "key": "dcc-465-2018",
+ "label": "Decizia CCR nr. 465/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "465",
+ "date": "2018-07-12",
+ "year": "2018",
+ "heading": "DECIZIA nr. 465 din 12 iulie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 9 alin. (1) și (5) și art. 10 alin. (1) din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului-Lupeni-august 1977 nr. 341/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "984",
+  "bis": false,
+  "date": "2018-11-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.086/3/2015",
+  "1.012D/2016"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Georgeta Coc în Dosarul nr. 10.086/3/2015 al Tribunalului București - Secția a II-a contencios administrativ și fiscal, și constată că dispozițiile art. 9 alin. (1) și (5) și art. 10 alin. (1) din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului-Lupeni-august 1977 nr. 341/2004 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "lege/1990/42"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207057",
+  "text_sha256": "1d9a1f207685e215d972d4a0782288fe847a45535c73e0e3997c83949d913e5d",
+  "catalogue_sha256": "1d9a1f207685e215d972d4a0782288fe847a45535c73e0e3997c83949d913e5d",
+  "fetched": "2026-11-03T02:59:11Z",
+  "chars": 12959,
+  "portal_id": "207057",
+  "tip": "DECIZIE"
+ }
+}
