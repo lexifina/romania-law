@@ -1,0 +1,187 @@
+{
+ "key": "dcc-462-2018",
+ "label": "Decizia CCR nr. 462/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "462",
+ "date": "2018-07-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 462 din 5 iulie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 282 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "991",
+  "bis": false,
+  "date": "2018-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.234/105/2016/a1",
+  "1.682D/2017",
+  "1.904D/2017",
+  "6.067/62/2016/a1",
+  "2.528D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Tudorică Marin în Dosarul nr. 5.234/105/2016/a1 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie - Judecătorul de cameră preliminară și de Aristotel Adrian Căncescu în Dosarul nr. 6.067/62/2016/a1 al Curții de Apel Brașov - Secția penală - Judecătorul de cameră preliminară și constată că dispozițiile art. 282 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie - Judecătorul de cameră preliminară și Curții de Apel Brașov - Secția penală - Judecătorul de cameră preliminară și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "282",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207090",
+  "text_sha256": "d11a9ea6bcfba2b72ee57013b159b4666f1af5d10157908d4eaca22cafa0d4a8",
+  "catalogue_sha256": "d11a9ea6bcfba2b72ee57013b159b4666f1af5d10157908d4eaca22cafa0d4a8",
+  "fetched": "2026-11-03T02:59:12Z",
+  "chars": 29173,
+  "portal_id": "207090",
+  "tip": "DECIZIE"
+ }
+}
