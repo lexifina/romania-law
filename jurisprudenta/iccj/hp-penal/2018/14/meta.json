@@ -1,0 +1,249 @@
+{
+ "key": "iccj-hp-penal-14-2018",
+ "label": "Decizia ÎCCJ nr. 14/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "14",
+ "date": "2018-09-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 14 din 26 septembrie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"Care este numărul de judecători ce intră în componența completului de judecată învestit cu soluționarea unei contestații formulate împotriva unei hotărâri date de către instanța de apel într-o cauză având ca obiect contestație la executare întemeiată pe dispozițiile art. 598 alin. (1) lit. c) teza I din Codul de procedură penală și care vizează o hotărâre ce a fost pronunțată potrivit dispozițiilor Codului de procedură penală anterior \"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "988",
+  "bis": false,
+  "date": "2018-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.562/1/2018",
+  "3.654/245/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de către Curtea de Apel Suceava - Secția penală și pentru cauze cu minori în Dosarul nr. 3.654/245/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Care este numărul de judecători ce intră în componența completului de judecată învestit cu soluționarea unei contestații formulate împotriva unei hotărâri date de către instanța de apel într-o cauză având ca obiect contestație la executare întemeiată pe dispozițiile art. 598 alin. (1) lit. c) teza I din Codul de procedură penală și care vizează o hotărâre ce a fost pronunțată potrivit dispozițiilor Codului de procedură penală anterior“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "552",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2018",
+    "number": "207",
+    "year": "2018",
+    "path": "lege/2018/207"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "712",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207089",
+  "text_sha256": "c4c949915618ef7f7d954df06cd4ba976151f1862ef0783e01bcba39bcfb56a6",
+  "catalogue_sha256": "c4c949915618ef7f7d954df06cd4ba976151f1862ef0783e01bcba39bcfb56a6",
+  "fetched": "2026-11-05T00:55:40Z",
+  "chars": 64514,
+  "portal_id": "207089",
+  "tip": "DECIZIE"
+ }
+}
