@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-10-31: adopted by the Chamber of Deputies
 - 2018-11-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-11-07: sent for promulgation
+- 2018-11-23: promulgated, becomes Legea nr. 284/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2018-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244AM.PDF
 - 2018-11-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244AXS.PDF
 - 2018-11-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244LP.PDF
+- 2018-11-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244DP.PDF
+- 2018-11-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244AFP.PDF
+- 2018-11-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L244FP.PDF
