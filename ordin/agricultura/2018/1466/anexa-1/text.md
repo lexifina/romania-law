@@ -1,0 +1,2 @@
+# Anexa nr. 1
+SISTEM DE SANCTIUNI pentru schema de ajutor de stat "Sprijin pentru prima împădurire și crearea de suprafețe împădurite", aferentă măsurii 08 "Investiții în dezvoltarea zonelor împădurite și în îmbunătățirea viabilității pădurilor", submăsura 8.1 "Împăduriri și crearea de suprafețe împădurite" din cadrul PNDR 2014-2020, aferent Primei 1 - Prima de înființare a plantațiilor forestiere
