@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-03-12: registered at the Chamber of Deputies
 - 2018-11-21: adopted by the Chamber of Deputies
+- 2018-11-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-28: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090CA19.PDF
 - 2018-03-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090FS.PDF
 - 2018-03-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090AM.PDF
+- 2018-11-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090AXS.PDF
+- 2018-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090LP.PDF
