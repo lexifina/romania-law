@@ -1,0 +1,434 @@
+{
+ "key": "iccj-hp-63-2018",
+ "label": "Decizia ÎCCJ nr. 63/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "63",
+ "date": "2018-10-01",
+ "year": "2018",
+ "heading": "DECIZIA nr. 63 din 1 octombrie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 296^4 alin. (1) lit. k) din Legea nr. 571 din 22 decembrie 2003 privind Codul fiscal, respectiv art. 139 alin. (1) lit. i) și art. 155 alin. (1) lit. a) din Legea nr. 227 din 8 septembrie 2015 privind Codul fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "998",
+  "bis": false,
+  "date": "2018-11-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.685/1/2018",
+  "4.656/109/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Pitești - Secția I civilă în Dosarul nr. 4.656/109/2016 cu privire la dezlegarea următoarei chestiuni de drept: „interpretarea dispozițiilor art. 296^4 alin. (1) lit. k) din Legea nr. 571 din 22 decembrie 2003 privind Codul fiscal, respectiv art. 139 alin. (1) lit. i) și art. 155 alin. (1) lit. a) din Legea nr. 227 din 8 septembrie 2015 privind Codul fiscal, în sensul dacă există sau nu obligația de plată a C.A.S. și C.A.S.S. și pentru veniturile reprezentate de dobânzile legale acordate pentru plata cu întârziere a drepturilor salariale stabilite prin hotărâri judecătorești ce constituie titluri executorii“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "296-4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "j-1"
+     ]
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2",
+      "2-2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "157",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296-15",
+     "alin": null,
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "296-18",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "j-1",
+      "k"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "296-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1082",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "1531",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1079",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-11-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/207325",
+  "text_sha256": "f5a8f1683785a0ffc304ab38e5c9593f55facc54c01b625950b6b6e56090abfe",
+  "catalogue_sha256": "f5a8f1683785a0ffc304ab38e5c9593f55facc54c01b625950b6b6e56090abfe",
+  "fetched": "2026-11-03T02:58:57Z",
+  "chars": 89455,
+  "portal_id": "207325",
+  "tip": "DECIZIE"
+ }
+}
