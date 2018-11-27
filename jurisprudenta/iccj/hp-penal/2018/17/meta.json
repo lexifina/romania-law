@@ -1,0 +1,407 @@
+{
+ "key": "iccj-hp-penal-17-2018",
+ "label": "Decizia ÎCCJ nr. 17/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "17",
+ "date": "2018-10-11",
+ "year": "2018",
+ "heading": "DECIZIA nr. 17 din 11 octombrie 2018",
+ "subtitle": "referitoare la interpretarea art. 189 alin. (1) lit. e) din Codul penal și a art. 169 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1000",
+  "bis": false,
+  "date": "2018-11-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.018/1/2018",
+  "6.533/107/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "189",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secția penală în Dosarul nr. 6.533/107/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a chestiunii de drept:",
+  "Dacă în interpretarea dispozițiilor art. 189 alin. (1) lit. e) din Codul penal prin raportare la dispozițiile art. 169 din Codul penal, intervenirea reabilitării sau împlinirea termenului de reabilitare cu privire la persoana unui inculpat, condamnat anterior definitiv pentru o infracțiune de omor sau tentativă la infracțiunea de omor, împiedică reținerea agravantei prevăzute de art. 189 alin. (1) lit. e) din Codul penal, în cazul comiterii unei noi infracțiuni de omor sau tentative la infracțiunea de omor",
+  "Stabilește că în interpretarea art. 189 alin. (1) lit. e) din Codul penal și a art. 169 alin. (1) din Codul penal, în cazul săvârșirii unei noi infracțiuni de omor sau tentative la infracțiunea de omor, reabilitarea ori împlinirea termenului de reabilitare cu privire la persoana condamnată definitiv care a comis anterior o infracțiune de omor sau o tentativă la infracțiunea de omor nu împiedică reținerea elementului circumstanțial agravant prevăzut în art. 189 alin. (1) lit. e) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală“."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "189",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 95
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "176",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "236",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "238",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "240",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/208007",
+  "text_sha256": "7d34c3dbb8e24b1b0310eeba1e6bfdfad9cd664baebec6cfb7f36e9338980394",
+  "catalogue_sha256": "7d34c3dbb8e24b1b0310eeba1e6bfdfad9cd664baebec6cfb7f36e9338980394",
+  "fetched": "2026-11-03T02:58:50Z",
+  "chars": 68577,
+  "portal_id": "208007",
+  "tip": "DECIZIE"
+ }
+}
