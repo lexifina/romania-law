@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2018-11-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-11-07: sent for promulgation
 - 2018-11-23: promulgated, becomes Legea nr. 279/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-11-28: published in the Monitorul Oficial
 
 ## Documents
 
