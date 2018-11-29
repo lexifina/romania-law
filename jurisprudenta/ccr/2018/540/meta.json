@@ -1,0 +1,188 @@
+{
+ "key": "dcc-540-2018",
+ "label": "Decizia CCR nr. 540/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "540",
+ "date": "2018-09-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 540 din 18 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 449 alin. (1) teza întâi din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1022",
+  "bis": false,
+  "date": "2018-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.579/86/2015",
+  "1.928D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "449",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Total Strada - S.R.L. din București în Dosarul nr. 4.579/86/2015 al Tribunalului Suceava - Secția a II-a civilă și constată că dispozițiile art. 449 alin. (1) teza întâi din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Suceava - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "449",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "633",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "637",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "450",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "279",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/208185",
+  "text_sha256": "bd87c1faa33c8b54b0f086c62859bffa47b03b92a29b879d95c7460ec5d4fde6",
+  "catalogue_sha256": "bd87c1faa33c8b54b0f086c62859bffa47b03b92a29b879d95c7460ec5d4fde6",
+  "fetched": "2026-11-03T02:58:37Z",
+  "chars": 12926,
+  "portal_id": "208185",
+  "tip": "DECIZIE"
+ }
+}
