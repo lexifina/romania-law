@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXA privind modificările și completările anexelor nr. 1 și 2 la Ordinul ministrului sănătății nr. 251/2017 pentru aprobarea prețurilor maximale ale medicamentelor utilizate/comercializate de către furnizorii de servicii medicale sau medicamente aflați în relație contractuală cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul national al prețurilor medicamentelor autorizate de punere pe piață în România și a prețurilor de referință generice ale acestora
