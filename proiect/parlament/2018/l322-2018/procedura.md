@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-07-11: sent for promulgation
 - 2018-10-03: published in the Monitorul Oficial
+- 2018-11-29: promulgated, becomes Legea nr. 290/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FS.PDF
 - 2018-07-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322AXS.PDF
 - 2018-07-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322LP.PDF
+- 2018-11-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322DP.PDF
+- 2018-11-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322AFP.PDF
+- 2018-11-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FP.PDF
