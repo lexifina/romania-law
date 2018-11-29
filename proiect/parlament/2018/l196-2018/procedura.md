@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-31: adopted by the Chamber of Deputies
 - 2018-11-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-11-10: sent for promulgation
+- 2018-11-29: promulgated, becomes Legea nr. 287/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196AM.PDF
 - 2018-11-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196AXS.PDF
 - 2018-11-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196LP.PDF
+- 2018-11-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196DP.PDF
+- 2018-11-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196AFP.PDF
+- 2018-11-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L196FP.PDF
