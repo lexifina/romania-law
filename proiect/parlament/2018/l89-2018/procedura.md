@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-04: adopted by the Senate
 - 2018-11-14: returned for re-examination
 - 2018-11-24: sent for promulgation
+- 2018-12-03: promulgated, becomes Legea nr. 296/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-28: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089AM.PDF
 - 2018-04-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089AXS.PDF
 - 2018-04-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089LP.PDF
+- 2018-12-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089DP.PDF
+- 2018-12-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089AFP.PDF
+- 2018-12-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089FP.PDF
