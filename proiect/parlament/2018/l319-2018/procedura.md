@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-11-07: adopted by the Chamber of Deputies
 - 2018-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-11-14: sent for promulgation
+- 2018-12-03: promulgated, becomes Legea nr. 292/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2018-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319AM.PDF
 - 2018-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319AXS.PDF
 - 2018-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319LP.PDF
+- 2018-12-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319DP.PDF
+- 2018-12-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319AFP.PDF
+- 2018-12-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L319FP.PDF
