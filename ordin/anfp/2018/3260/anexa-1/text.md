@@ -1,0 +1,28 @@
+# Anexa nr. 1
+Nominalizarea evaluatorilor care vor realiza activitățile de evaluare externă a managerilor publici
+Nr. crt.
+Nume și prenume
+1.
+APOPEI MARIUS VASILE
+2.
+CHENARU-GHENEA ALEXANDRA
+3.
+LĂCRĂMIOARA CORCHEȘ
+4.
+DOINA DIACONESCU
+5.
+CĂTĂLIN DANIEL DUMITRICĂ
+6.
+NECULAI ENACHE
+7.
+SIMION ILIE
+8.
+ORVENTINA LEU
+9.
+ILEANA MAICAN
+10.
+RENALDO RENY NITA
+11.
+CRINA RAMONA RĂDULESCU
+12.
+LOREDANA STANCIU

@@ -1,0 +1,8 @@
+# Anexa nr. 2
+Planificarea desfășurării activităților de evaluare externă a managerilor publici în vederea evaluării performanțelor profesionale pentru activitatea desfășurată în anul 2017 7-13 decembrie 2018 - verificarea depunerii declarației pe propria răspundere de către evaluatori că nu se află în conflict de interese;
+- verificarea de către evaluatori a documentelor relevante necesare evaluării externe, din punctul de vedere al conformității întocmirii acestora cu prevederile legale în domeniul evaluării;
+- analizarea conținutului documentelor și, după caz, stabilirea necesității organizării și desfășurării interviului de către evaluatori;
+- solicitarea refacerii evaluării de către autoritățile sau instituțiile publice în care a fost încadrat managerul public pe perioada evaluată, dacă este cazul.
+14-20 decembrie 2018 - interviuri cu managerii publici evaluați, dacă este cazul;
+- întocmirea rapoartelor de evaluare a performanțelor profesionale individuale ale managerilor publici;
+- consemnarea rezultatului îndeplinirii atribuțiilor de către evaluatori într-un raport înaintat spre aprobare conducerii Agenției Naționale a Funcționarilor Publici.
