@@ -9,7 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2018-11-28: first record in the bill file
+- 2018-12-04: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
 
 ## Documents
 
-- none held as text
+- 2018-12-04: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L129ES.PDF
+- 2018-12-04: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L129LG.PDF
+- 2018-12-04: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L129SJ.PDF
+- 2018-12-04: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L129PV.PDF
