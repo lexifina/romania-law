@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-14: returned for re-examination
 - 2018-11-24: sent for promulgation
 - 2018-12-03: promulgated, becomes Legea nr. 296/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,9 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089DP.PDF
 - 2018-12-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089AFP.PDF
 - 2018-12-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089FP.PDF
+- 2018-12-05: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-05: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-05: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-05: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-05: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-05: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L089PX.PDF (its day is not given by the bill file: shown from the last stage held)
