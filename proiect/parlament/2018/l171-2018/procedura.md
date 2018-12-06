@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-11-10: sent for promulgation
 - 2018-11-29: promulgated, becomes Legea nr. 288/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171DP.PDF
 - 2018-11-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171AFP.PDF
 - 2018-11-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171FP.PDF
+- 2018-12-06: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-06: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-06: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L171AL.PDF (its day is not given by the bill file: shown from the last stage held)
