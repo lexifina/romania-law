@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-15: returned for re-examination
 - 2018-11-12: adopted by the Senate
 - 2018-11-28: adopted by the Chamber of Deputies
+- 2018-12-08: sent for promulgation
 
 ## Documents
 
