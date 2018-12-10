@@ -1,0 +1,230 @@
+{
+ "key": "dcc-649-2018",
+ "label": "Decizia CCR nr. 649/2018",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "regulament-parlament",
+ "number": "649",
+ "date": "2018-10-24",
+ "year": "2018",
+ "heading": "DECIZIA nr. 649 din 24 octombrie 2018",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. 153 alin. (3) și art. 243 alin. (1) lit. g) din Regulamentul Camerei Deputaților, astfel cum acestea au fost modificate prin Hotărârea Camerei Deputaților nr. 47 din 5 septembrie 2018 privind modificarea și completarea Regulamentului Camerei Deputaților",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1045",
+  "bis": false,
+  "date": "2018-12-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.309C/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată de Grupul parlamentar al Uniunii Salvați România și constată că dispozițiile art. 153 alin. (3) din Regulamentul Camerei Deputaților, introduse prin Hotărârea Camerei Deputaților nr. 47/2018, sunt constituționale în raport cu criticile formulate.",
+  "2. Admite sesizarea de neconstituționalitate formulată de grupurile parlamentare ale Uniunii Salvați România și Partidului Național Liberal și constată că dispozițiile art. 243 alin. (1) lit. g) din Regulamentul Camerei Deputaților, introduse prin Hotărârea Camerei Deputaților nr. 47/2018, sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Camerei Deputaților și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "153",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "19-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-12-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/208599",
+  "text_sha256": "553bf47ae3b2520f0cdda2668907d1759773dafe5f77d650f183d9d5659f3a28",
+  "catalogue_sha256": "553bf47ae3b2520f0cdda2668907d1759773dafe5f77d650f183d9d5659f3a28",
+  "fetched": "2026-11-03T02:57:27Z",
+  "chars": 69634,
+  "portal_id": "208599",
+  "tip": "DECIZIE"
+ }
+}
