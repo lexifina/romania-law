@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-11-14: adopted by the Chamber of Deputies
 - 2018-11-20: documents published: Forma trimisă la promulgare
 - 2018-11-21: sent for promulgation
+- 2018-12-10: promulgated, becomes Legea nr. 304/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2018-03-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007FS.PDF
 - 2018-03-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007AM.PDF
 - 2018-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007LP.PDF
+- 2018-12-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007DP.PDF
+- 2018-12-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007AFP.PDF
+- 2018-12-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L007FP.PDF
