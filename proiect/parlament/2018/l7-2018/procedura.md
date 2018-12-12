@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-11-20: documents published: Forma trimisă la promulgare
 - 2018-11-21: sent for promulgation
 - 2018-12-10: promulgated, becomes Legea nr. 304/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-12: published in the Monitorul Oficial
 
 ## Documents
 
