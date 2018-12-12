@@ -1,0 +1,11 @@
+# HCGMB nr. 864/2018
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 864/2018
+- Adopted: 2018-12-12
+- Title: PENTRU COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 109/2017 PRIVIND INAINTAREA CATRE GUVERNUL ROMANIEI A CERERII DE EMITERE A UNEI HOTARARI PENTRU TRANSMITEREA TEATRULUI DE VARA ,NICOLAE BALCESCU" DIN DOMENIUL PUBLIC AL STATULUI SI DIN ADMINISTRAREA INSTITUTULUI NATIONAL AL PATRIMONIULUI, IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SI ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/39227
+- Document: https://doc.pmb.ro/legis/acteinterne/2018/39227/H864_18.pdf
+- Document sha256: 53314b9a14e8c94d69608f460e011b1b622e6bb2590319e75e0c98ec38c2735e
