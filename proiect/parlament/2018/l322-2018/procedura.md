@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-11: sent for promulgation
 - 2018-10-03: published in the Monitorul Oficial
 - 2018-11-29: promulgated, becomes Legea nr. 290/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-12: published in the Monitorul Oficial
 
 ## Documents
 
