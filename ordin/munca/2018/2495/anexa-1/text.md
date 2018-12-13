@@ -1,0 +1,6 @@
+# ANEXĂ
+LISTA ocupațiilor elementare pentru care se pot organiza programe de calificare de nivel 1
+Nr. crt.
+Denumire ocupație
+Cod COR 1 menajeră 911101 2 femeie de serviciu 911201 3 lucrător room-service hotel 911203 4 curățătoreasă lenjerie 912102 5 îngrijitor animale 921201 6 muncitor manipulare și pregătire furaje 921301 7 văcar 921303 8 îngrijitor pomi 921501 9 muncitor piscicol 921602 10 lucrător la amenajarea terenurilor sportive (amenajator bază sportivă) 931201 11 îngrijitor spații verzi 931202 12 ambalator manual 932101 13 marcator piese 932902 14 cărăuș 933101 15 încărcător-descărcător 933301 16 legător de sarcină 933302 17 manipulant mărfuri 933303 18 operator transport și distribuire butelii de GPL 933304 19 muncitor spălare și curățare cisterne 933305 20 muncitor în serviciile de trafic aerian 933306 21 ajutor bucătar 941101 22 lucrător operativ pentru autocompactoare 961101 23 lucrător utilaje specializate pentru salubrizare 961304 24 îngrijitor câini în adăposturi 962201 25 incinerator 962203 26 cantaragiu 962301 27 încasator și cititor contoare de energie electrică, gaze, apă 962303 28 operator deratizare, dezinsecție, dezinfecție 962402 29 garderobier 962903 30 controlor poartă 962906
+-----
