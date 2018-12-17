@@ -1,0 +1,256 @@
+{
+ "key": "iccj-hp-75-2018",
+ "label": "Decizia ÎCCJ nr. 75/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "75",
+ "date": "2018-11-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 75 din 5 noiembrie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Față de abrogarea expresă a dispozițiilor art. 720^1 din vechiul Cod de procedură civilă, este obligatorie parcurgerea procedurii prealabile, reglementate de art. 7 alin. (6) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, în cazul acțiunilor având ca obiect nulitatea, anularea, executarea, rezilierea sau rezoluțiunea unui contract administrativ, inclusiv în situația în care acțiunea este formulată de o autoritate publică, precum și în situația în care acțiunea este formulată de o autoritate publică la recomandarea/propunerea unui organism de control intern sau internațional?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1066",
+  "bis": false,
+  "date": "2018-12-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.301/1/2018",
+  "2.371/3/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, în Dosarul nr. 2.371/3/2014*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Față de abrogarea expresă a dispozițiilor art. 720^1 din vechiul Cod de procedură civilă, este obligatorie parcurgerea procedurii prealabile, reglementate de art. 7 alin. (6) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, în cazul acțiunilor având ca obiect nulitatea, anularea, executarea, rezilierea sau rezoluțiunea unui contract administrativ, inclusiv în situația în care acțiunea este formulată de o autoritate publică, precum și în situația în care acțiunea este formulată de o autoritate publică la recomandarea/propunerea unui organism de control intern sau internațional?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "286",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "720-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2017",
+    "number": "107",
+    "year": "2017",
+    "path": "oug/2017/107"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-12-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/208949",
+  "text_sha256": "99c2807910422e55af093adfcc310e49c573f3c6c46768307a882021fafd01e1",
+  "catalogue_sha256": "99c2807910422e55af093adfcc310e49c573f3c6c46768307a882021fafd01e1",
+  "fetched": "2026-11-03T02:57:00Z",
+  "chars": 57100,
+  "portal_id": "208949",
+  "tip": "DECIZIE"
+ }
+}
