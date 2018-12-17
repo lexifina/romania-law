@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-12: adopted by the Senate
 - 2018-11-28: adopted by the Chamber of Deputies
 - 2018-12-08: sent for promulgation
+- 2018-12-17: promulgated, becomes Legea nr. 310/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237AM.PDF
 - 2018-06-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237AXS.PDF
 - 2018-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237LP.PDF
+- 2018-12-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237DP.PDF
+- 2018-12-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237AFP.PDF
+- 2018-12-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237FP.PDF
