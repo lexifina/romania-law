@@ -1,0 +1,71 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2018/1981 AL COMISIEI
+din 13 decembrie 2018
+de reînnoire a aprobării substanțelor active compuși de cupru, ca substanțe susceptibile de înlocuire, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 24 coroborat cu articolul 20 alineatul (1),
+întrucât:
+(1) În temeiul Directivei 2009/37/CE a Comisiei (2), compușii de cupru au fost incluși ca substanțe active în anexa I la Directiva 91/414/CEE a Consiliului (3).
+(2) Substanțele active incluse în anexa I la Directiva 91/414/CEE sunt considerate aprobate în temeiul Regulamentului (CE) nr. 1107/2009 și sunt incluse în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (4).
+(3) Aprobarea substanțelor active compuși de cupru, astfel cum se menționează în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011, expiră la 31 ianuarie 2019.
+(4) O cerere vizând reînnoirea aprobării compușilor de cupru a fost transmisă în conformitate cu articolul 1 din Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (5), în termenul prevăzut la articolul respectiv.
+(5) Solicitantul a transmis dosarele suplimentare necesare în conformitate cu articolul 6 din Regulamentul de punere în aplicare (UE) nr. 844/2012. Statul membru raportor a constatat că cererea era completă.
+(6) Statul membru raportor, în colaborare cu statul membru coraportor, a pregătit un raport de evaluare a reînnoirii aprobării, pe care l-a transmis, la data de 16 decembrie 2016, Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) și Comisiei.
+(7) Autoritatea a transmis solicitantului și statelor membre raportul de evaluare a reînnoirii aprobării în vederea formulării de observații și a transmis Comisiei observațiile primite. De asemenea, autoritatea a pus dosarul rezumativ suplimentar la dispoziția publicului.
+(8) La 20 decembrie 2017, autoritatea a comunicat Comisiei concluzia sa (6) cu privire la posibilitatea ca substanța activă compuși de cupru să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. La 25 mai 2018, Comisia a prezentat proiectul de raport de reînnoire a aprobării compușilor de cupru Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale.
+(9) Solicitantului i s-a oferit posibilitatea de a prezenta observații privind proiectul de raport de reînnoire a aprobării.
+(10) În cazul uneia sau al mai multor utilizări reprezentative ale cel puțin unui produs pentru fiecare compus de cupru, s-a stabilit că sunt îndeplinite criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Prin urmare, este adecvat să se reînnoiască aprobarea compușilor de cupru.
+(11) Evaluarea riscurilor în vederea reînnoirii aprobării compușilor de cupru se bazează pe un număr limitat de utilizări reprezentative, care, totuși, nu restricționează utilizările pentru care pot fi autorizate produsele de protecție a plantelor care conțin compuși de cupru. Prin urmare, este adecvat să se elimine restricția utilizării în exclusivitate ca fungicid și bactericid.
+(12) Totuși, Comisia consideră că compușii de cupru sunt substanțe susceptibile de înlocuire în temeiul articolului 24 din Regulamentul (CE) nr. 1107/2009. Compușii de cupru sunt substanțe persistente și toxice în conformitate cu punctele 3.7.2.1 și, respectiv, 3.7.2.3 din anexa II la Regulamentul (CE) nr. 1107/2009, dat fiind că perioada de înjumătățire în sol este mai mare de 120 de zile, iar concentrația fără efecte observate pe termen lung pentru organismele acvatice este mai mică de 0,01 mg/L. Ca atare, compușii de cupru îndeplinesc condiția stabilită la punctul 4 a doua liniuță din anexa II la Regulamentul (CE) nr. 1107/2009.
+(13) Prin urmare, reînnoirea aprobării compușilor de cupru ca substanțe susceptibile de înlocuire în temeiul articolului 24 din Regulamentul (CE) nr. 1107/2009 este adecvată.
+(14) Totuși, în conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1107/2009 coroborat cu articolul 6 din același regulament și având în vedere cunoștințele științifice și tehnice actuale, este necesară includerea anumitor condiții și restricții.
+(15) În particular, este adecvat să se restricționeze utilizarea produselor de protecție a plantelor care conțin compuși de cupru la o rată maximă de aplicare de 28 kg de cupru/ha pe o perioadă de 7 ani (și anume, în medie 4 kg/ha/an) pentru a reduce la minimum acumularea potențială în sol și expunerea pentru organismele nevizate, ținând în același timp seama de condițiile agroclimatice care apar periodic în statele membre și care conduc la o creștere a presiunii fungice. În cadrul autorizării produselor, statele membre ar trebui să acorde atenție anumitor aspecte și să depună eforturi pentru reducerea la minimum a ratelor de aplicare.
+(16) De asemenea, este adecvat să se limiteze conținutul maxim de anumite impurități care prezintă risc toxicologic.
+(17) Prin urmare, anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 ar trebui modificată în consecință.
+(18) Regulamentul de punere în aplicare (UE) 2018/84 al Comisiei (7) a prelungit perioada de aprobare a compușilor de cupru până la 31 ianuarie 2019, pentru a se permite ca procesul de reînnoire a aprobării să fie finalizat înainte de expirarea aprobării substanțelor respective. Totuși, având în vedere faptul că o decizie cu privire la reînnoirea aprobării a fost luată înainte de această dată de expirare amânată, prezentul regulament ar trebui să se aplice de la 1 ianuarie 2019.
+(19) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Reînnoirea aprobării substanțelor active ca substanțe susceptibile de înlocuire
+Aprobarea substanțelor active compuși de cupru ca substanță susceptibilă de înlocuire se reînnoiește astfel cum se prevede în anexa I.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrarea în vigoare și data aplicării
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 1 ianuarie 2019.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 13 decembrie 2018.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Directiva 2009/37/CE a Comisiei din 23 aprilie 2009 de modificare a Directivei 91/414/CEE a Consiliului în vederea includerii clormequat, compușilor de cupru, propaquizafop, quizalofop-P, teflubenzuron și zeta-cipermetrin ca substanțe active (JO L 104, 24.4.2009, p. 23).
+(3) Directiva 91/414/CEE a Consiliului din 15 iulie 1991 privind introducerea pe piață a produselor de uz fitosanitar (JO L 230, 19.8.1991, p. 1).
+(4) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(5) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(6) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2018. Conclusion on the peer review of the pesticide risk assessment of the active substance copper compounds (Concluzia evaluării inter pares a riscului utilizării ca pesticid a substanței active compuși de cupru) EFSA Journal 2018;16(1):5152.
+(7) Regulamentul de punere în aplicare (UE) 2018/84 al Comisiei din 19 ianuarie 2018 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active clorpirifos, clorpirifos-metil, clotianidin, compuși de cupru, dimoxistrobin, mancozeb, mecoprop-P, metiram, oxamil, petoxamid, propiconazol, propineb, propizamid, piraclostrobin și zoxamid (JO L 16, 20.1.2018, p. 8).
+ANEXA I
+Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+Compuși de cupru: | | | 1 ianuarie 2019 | 31 decembrie 2025 | Se autorizează numai utilizările care implică o aplicare totală de maximum 28 kg de cupru per hectar în cursul unei perioade de 7 ani. În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, se va ține seama de concluziile raportului de examinare privind compușii de cupru, în special de apendicele I și II. În cadrul evaluării generale, statele membre acordă o atenție deosebită: — siguranței operatorilor, lucrătorilor și trecătorilor și asigurării faptului că în condițiile de utilizare sunt prevăzute folosirea unor echipamente adecvate de protecție individuală și alte măsuri de atenuare a riscurilor, în funcție de necesități; — protecției apei și organismelor nevizate. În ceea ce privește aceste riscuri identificate, acolo unde este cazul, se aplică măsuri de reducere a riscurilor, cum ar fi zonele tampon; — cantității de substanță activă care se aplică și asigurării faptului că toate cantitățile autorizate, în ceea ce privește ratele de aplicare și numărul de aplicări, nu depășesc minimul necesar pentru a obține efectele dorite și nu cauzează niciun efect inacceptabil asupra mediului, luând în considerare nivelurile de fond ale cuprului la locul aplicării și, în cazul în care sunt disponibile informații, aportul de cupru din alte surse. În particular, statele membre pot decide să stabilească o rată de aplicare anuală maximă de cel mult 4 kg de cupru/ha.
+Hidroxid de cupru Nr. CAS 20427-59-2 Nr. CIPAC 44.305 | Hidroxid de cupru (II) | ≥ 573 g/kg
+Oxiclorură de cupru Nr. CAS 1332-65-6 sau 1332-40-7 Nr. CIPAC 44.602 | Trihidroxiclorură dicuprică | ≥ 550 g/kg
+Oxid de cupru Nr. CAS 1317-39-1 Nr. CIPAC 44.603 | Oxid de cupru | ≥ 820 g/kg
+Amestec de Bordeaux Nr. CAS 8011-63-0 Nr. CIPAC 44.604 | Nealocat | ≥ 245 g/kg
+Sulfat de cupru tribazic Nr. CAS 12527-76-3 Nr. CIPAC 44.306 | Nealocat | ≥ 490 g/kg Următoarele impurități nu trebuie să depășească următoarele niveluri: Arsen max. 0,1 mg/g Cu Cadmiu max. 0,1 mg/g Cu Plumb max. 0,3 mg/g Cu Nichel max. 1 mg/g Cu Cobalt max. 3 mg/kg Mercur max. 5 mg/kg Crom max. 100 mg/kg Stibiu max. 7 mg/kg
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active sunt puse la dispoziție în raportul de examinare.
+ANEXA II
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică după cum urmează:
+1. în partea A, rubrica 277 referitoare la compușii de cupru se elimină;
+2. în partea E, se adaugă următoarea rubrică:
+Nr. | Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+„10 | Compuși de cupru: | | | 1 ianuarie 2019 | 31 decembrie 2025 | Se autorizează numai utilizările care implică o aplicare totală de maximum 28 kg de cupru per hectar în cursul unei perioade de 7 ani. În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, se va ține seama de concluziile raportului de examinare privind compușii de cupru, în special de apendicele I și II. În cadrul evaluării generale, statele membre acordă o atenție deosebită: — siguranței operatorilor, lucrătorilor și trecătorilor și asigurării faptului că în condițiile de utilizare sunt prevăzute folosirea unor echipamente adecvate de protecție individuală și alte măsuri de atenuare a riscurilor, în funcție de necesități; — protecției apei și organismelor nevizate. În ceea ce privește aceste riscuri identificate, acolo unde este cazul, se aplică măsuri de reducere a riscurilor, cum ar fi zonele tampon; — cantității de substanță activă care se aplică și asigurării faptului că toate cantitățile autorizate, în ceea ce privește ratele de aplicare și numărul de aplicări, nu depășesc minimul necesar pentru a obține efectele dorite și nu cauzează niciun efect inacceptabil asupra mediului, luând în considerare nivelurile de fond ale cuprului la locul aplicării și, în cazul în care sunt disponibile informații, aportul de cupru din alte surse. În particular, statele membre pot decide să stabilească o rată de aplicare anuală maximă de cel mult 4 kg de cupru/ha.”
+Hidroxid de cupru Nr. CAS 20427-59-2 Nr. CIPAC 44.305 | Hidroxid de cupru (II) | ≥ 573 g/kg
+Oxiclorură de cupru Nr. CAS 1332-65-6 sau 1332-40-7 Nr. CIPAC 44.602 | Trihidroxiclorură dicuprică | ≥ 550 g/kg
+Oxid de cupru Nr. CAS 1317-39-1 Nr. CIPAC 44.603 | Oxid de cupru | ≥ 820 g/kg
+Amestec de Bordeaux Nr. CAS 8011-63-0 Nr. CIPAC 44.604 | Nealocat | ≥ 245 g/kg
+Sulfat de cupru tribazic Nr. CAS 12527-76-3 Nr. CIPAC 44.306 | Nealocat | ≥ 490 g/kg Următoarele impurități nu trebuie să depășească următoarele niveluri: Arsen max. 0,1 mg/g Cu Cadmiu max. 0,1 mg/g Cu Plumb max. 0,3 mg/g Cu Nichel max. 1 mg/g Cu Cobalt max. 3 mg/kg Mercur max. 5 mg/kg Crom max. 100 mg/kg Stibiu max. 7 mg/kg
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active sunt puse la dispoziție în raportul de examinare.
