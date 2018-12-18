@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-28: adopted by the Chamber of Deputies
 - 2018-12-08: sent for promulgation
 - 2018-12-17: promulgated, becomes Legea nr. 310/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,9 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237DP.PDF
 - 2018-12-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237AFP.PDF
 - 2018-12-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237FP.PDF
+- 2018-12-18: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-18: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-18: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-18: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-18: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2018-12-18: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L237PX.PDF (its day is not given by the bill file: shown from the last stage held)
