@@ -1,0 +1,388 @@
+{
+ "key": "iccj-hp-67-2018",
+ "label": "Decizia ÎCCJ nr. 67/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "67",
+ "date": "2018-10-15",
+ "year": "2018",
+ "heading": "DECIZIA nr. 67 din 15 octombrie 2018",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. II din Legea nr. 263/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 209/2005 pentru modificarea și completarea unor acte normative din domeniul proprietății, cu completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1068",
+  "bis": false,
+  "date": "2018-12-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.746/1/2018",
+  "369/87/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2006",
+    "number": "263",
+    "year": "2006",
+    "path": "lege/2006/263"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București -Secția a VIII-a contencios administrativ și fiscal, în Dosarul nr. 369/87/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Interpretarea dispozițiilor art. II din Legea nr. 263/2006 privind aprobarea Ordonanței de urgență a Guvernului nr. 209/2005 pentru modificarea și completarea unor acte normative din domeniul proprietății, cu completările ulterioare, în sensul de a se lămuri dacă, din interpretarea coroborată a dispozițiilor art. II alin. (1) teza întâi și art. II alin. (1) teza a doua, se deduce că sporul lunar de dificultate de până la 50% din salariul de bază se acordă membrilor comisiilor constituite în baza Legii fondului funciar nr. 18/1991, republicate, cu modificările și completările ulterioare, doar pe o perioadă de un an ce curge de la intrarea în vigoare a legii, respectiv doar pentru perioada 3 iulie 2006-3 iulie 2007, sau acest spor se cuvine membrilor comisiilor pe întreaga perioadă de derulare a activității specifice în cadrul acestor comisii, doar stabilirea beneficiarilor acestui spor urmând a fi realizată anual de către conducătorul instituției.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2006",
+    "number": "263",
+    "year": "2006",
+    "path": "lege/2006/263"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 136/2006",
+    "number": "136",
+    "year": "2006",
+    "path": "oug/2006/136"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2004",
+    "number": "340",
+    "year": "2004",
+    "path": "lege/2004/340"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 209/2005",
+    "number": "209",
+    "year": "2005",
+    "path": "oug/2005/209"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 83/1999",
+    "number": "83",
+    "year": "1999",
+    "path": "oug/1999/83"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2018-12-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/208974",
+  "text_sha256": "e318c4911496e0676ab2cb74ab4ee3d47a6c528c1d5dfbf9d333f269245489ca",
+  "catalogue_sha256": "e318c4911496e0676ab2cb74ab4ee3d47a6c528c1d5dfbf9d333f269245489ca",
+  "fetched": "2026-11-03T02:56:45Z",
+  "chars": 55607,
+  "portal_id": "208974",
+  "tip": "DECIZIE"
+ }
+}
