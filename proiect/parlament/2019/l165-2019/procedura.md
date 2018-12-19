@@ -1,0 +1,17 @@
+# Propunere legislativă L165/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.7 din 13 martie 1996 cadastrului şi publicităţii imobiliare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2018-12-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2018-12-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L165AD.PDF
+- 2018-12-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L165FG.PDF
+- 2018-12-19: Expunere de motive (EM): [em-92b18632.md](em-92b18632.md); official file https://www.senat.ro/legis/PDF/2019/19L165EM.PDF
