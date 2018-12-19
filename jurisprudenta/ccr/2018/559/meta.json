@@ -1,0 +1,222 @@
+{
+ "key": "dcc-559-2018",
+ "label": "Decizia CCR nr. 559/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "559",
+ "date": "2018-09-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 559 din 18 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Legii nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1078",
+  "bis": false,
+  "date": "2018-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.854/120/2016",
+  "3D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor Legii nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale, excepție ridicată de Victor Constantin, Ion Binu și Dumitru-Adrian Badea în Dosarul nr. 3.854/120/2016 al Curții de Apel Ploiești - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 60/1997",
+    "number": "60",
+    "year": "1997",
+    "path": "og/1997/60"
+   },
+   "articles": [
+    {
+     "art": "37-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 307/2006",
+    "number": "307",
+    "year": "2006",
+    "path": "lege/2006/307"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 121/1996",
+    "number": "121",
+    "year": "1996",
+    "path": "lege/1996/121"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209022",
+  "text_sha256": "b5222a4109d6e21c8b9a1ddbd15c99a38741a8761f68796085dff04367a17dfb",
+  "catalogue_sha256": "b5222a4109d6e21c8b9a1ddbd15c99a38741a8761f68796085dff04367a17dfb",
+  "fetched": "2026-11-06T03:08:04Z",
+  "chars": 12188,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406183703/https://legislatie.just.ro/Public/DetaliiDocumentAfis/209022",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/209022",
+   "timestamp": "20250406183703",
+   "sha256": "c267087c801ff37ac7da137914e53498bdc06fc2585df47a1df3bea8bbd4ca3a"
+  },
+  "portal_id": "209022",
+  "tip": "DECIZIE"
+ }
+}
