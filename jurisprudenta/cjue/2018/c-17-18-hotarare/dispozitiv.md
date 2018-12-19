@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a zecea) din 19 decembrie 2018, Cauza C-17/18
+
+Pentru aceste motive, Curtea (Camera a zecea) declară:
+1) Noțiunea „transfer al tuturor activelor sau al unei părţi a acestora”, în sensul articolului 19 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, trebuie interpretată în sensul că nu acoperă operaţiunea prin care un bun imobil care servea unei exploatări comerciale este închiriat, împreună cu mijloacele fixe şi cu obiectele de inventar necesare acestei exploatări, chiar dacă locatarul continuă activitatea locatorului sub aceeaşi denumire.
+2) Articolul 135 alineatul (1) litera (l) din Directiva 2006/112 trebuie interpretat în sensul că un contract de închiriere având ca obiect un bun imobil care servea unei exploatări comerciale, precum şi toate mijloacele fixe şi obiectele de inventar necesare acestei exploatări constituie o prestaţie unică în care închirierea bunului imobil este prestaţia principală.
