@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-07-16: returned for re-examination
 - 2018-10-16: adopted by the Senate
 - 2018-12-12: adopted by the Chamber of Deputies
+- 2018-12-19: sent for promulgation
 
 ## Documents
 
