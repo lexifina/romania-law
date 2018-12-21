@@ -1,0 +1,225 @@
+{
+ "key": "dcc-875-2018",
+ "label": "Decizia CCR nr. 875/2018",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "875",
+ "date": "2018-12-19",
+ "year": "2018",
+ "heading": "DECIZIA nr. 875 din 19 decembrie 2018",
+ "subtitle": "asupra cererii de soluționare a conflictului juridic de natură constituțională între Președintele României, pe de o parte, și Guvernul României, reprezentat de prim-ministru, pe de altă parte",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1093",
+  "bis": false,
+  "date": "2018-12-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.129E/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Admite cererea formulată de prim-ministrul României și constată existența conflictului juridic de natură constituțională între Președintele României, pe de o parte, și Guvern, reprezentat de prim-ministru, pe de altă parte, generat de refuzul Președintelui României de a emite decretele de revocare din funcție a doi miniștri și/sau de a emite decretele de constatare a vacantării funcțiilor de ministru ca urmare a demisiilor celor doi miniștri.",
+  "2. Președintele României urmează să emită de îndată decretele de constatare a vacantării celor două funcții de ministru.",
+  "3. Președintele României urmează să răspundă, de îndată, în scris și motivat, propunerilor înaintate de prim-ministrul României cu privire la numirile în funcția de ministru.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică prim-ministrului și Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 71
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 925/2018",
+    "number": "925",
+    "year": "2018",
+    "path": "decret/2018/925"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-12-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209344",
+  "text_sha256": "9c68c32fc7397e92f084eb726208e7771f04e6d1b54853713e800c5a92fdadd8",
+  "catalogue_sha256": "9c68c32fc7397e92f084eb726208e7771f04e6d1b54853713e800c5a92fdadd8",
+  "fetched": "2026-11-03T02:56:17Z",
+  "chars": 90734,
+  "portal_id": "209344",
+  "tip": "DECIZIE"
+ }
+}
