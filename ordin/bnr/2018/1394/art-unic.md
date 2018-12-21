@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare ținute la Banca Națională a României a Societății ERB LEASING IFN - S.A., cu sediul în str. George Barițiu nr. 1, județul Cluj, înregistrată la registrul comerțului cu nr. J12/1560/2018, având cod unic de înregistrare 17607105, înscrisă în Registrul general și în Registrul special Instituții financiare nebancare cu nr. RG-PJR-13-080164 și, respectiv, nr. RS-PJR-13-080027, la secțiunea h) - Leasing financiar.
