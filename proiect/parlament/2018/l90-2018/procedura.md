@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-21: adopted by the Chamber of Deputies
 - 2018-11-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-04: sent for promulgation
+- 2018-12-21: promulgated, becomes Legea nr. 330/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090AM.PDF
 - 2018-11-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090AXS.PDF
 - 2018-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090LP.PDF
+- 2018-12-21: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090DP.PDF
+- 2018-12-21: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090AFP.PDF
+- 2018-12-21: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L090FP.PDF
