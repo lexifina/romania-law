@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2018-11-28: adopted by the Chamber of Deputies
 - 2018-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-05: sent for promulgation
+- 2018-12-21: promulgated, becomes Legea nr. 342/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2018-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336AM.PDF
 - 2018-12-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336AXS.PDF
 - 2018-12-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336LP.PDF
+- 2018-12-21: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336DP.PDF
+- 2018-12-21: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336AFP.PDF
+- 2018-12-21: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L336FP.PDF
