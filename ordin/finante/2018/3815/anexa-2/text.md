@@ -1,0 +1,6 @@
+# Anexa nr. 2
+Scrisoare de înștiințare
+Stimate domnule/doamnă....................................., cod numeric personal........................., vă aducem la cunoștință faptul că sunteți unul dintre cei 1.000 de câștigători ai bonusului de dobândă în valoare de 5.000 lei acordat cu ocazia celebrării Centenarului Marii Uniri. La procesul de selecție au participat investitorii de titluri de stat cod 0003 dedicate populației, cu o subscriere minimă de 500 de lei, emise în anul 2018, în cadrul Programului Tezaur.
+Vă mulțumim pentru încrederea acordată prin investirea în titlurile de stat emise de statul român prin Ministerul Finanțelor Publice.
+Va aducem la cunoștință că, potrivit prevederilor art. 8 din Ordinul ministrului finanțelor publice nr. 3.815/2018 privind acordarea unui bonus de dobândă pentru investitorii în titlurile de stat emise prin Programul Tezaur, prin încasarea bonusului de dobândă investitorul renunță la posibilitatea tranzacționării și răscumpărării anticipate a titlurilor de stat subscrise în cadrul emisiunii de titluri de stat destinate populației cod 0003.
+Bonusul de dobândă poate fi ridicat în perioada 10 ianuarie 2019 - 20 decembrie 2019 la sediul unității operative a Trezoreriei Statului din...................................................
