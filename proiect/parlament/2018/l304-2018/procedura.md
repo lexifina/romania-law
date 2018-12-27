@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2018-11-28: adopted by the Chamber of Deputies
 - 2018-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-08: sent for promulgation
+- 2018-12-27: promulgated, becomes Legea nr. 356/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2018-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304AM.PDF
 - 2018-12-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304AXS.PDF
 - 2018-12-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304LP.PDF
+- 2018-12-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304DP.PDF
+- 2018-12-27: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304AFP.PDF
+- 2018-12-27: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L304FP.PDF
