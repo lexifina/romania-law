@@ -1,0 +1,13 @@
+# Anexa nr. 6
+Modelul declarației date de agresor, autor al actului de violență domestică
+DECLARAȚIE
+Subsemnatul(a),.............................., posesor/posesoare al/a C.I./B.I. seria...... nr..................., C.N.P _l_l_l_l_l_l_l_l_l_l_l_l_l, domiciliat(ă) în localitatea......................., str......................... nr.........., bl......., sc......., et......., ap......., județul.................., în calitate de agresor, autor al actului de violență domestică:
+1. declar că mi-au fost comunicate drepturile și obligațiile pe care le am în conformitate cu prevederile Legii nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare, după cum urmează: a) dreptul de a fi cazat în unul dintre centrele rezidențiale care oferă cazare pentru persoanele fără adăpost sau adăposturile de noapte, gestionate de autoritățile administrației publice locale, sau orice alt loc adecvat;
+b) dreptul de a solicita și a obține o copie a ordinului de protecție provizoriu, oricând în perioada de valabilitate a acestuia, de la unitatea de poliție din care face parte polițistul care l-a emis;
+c) dreptul de a contesta ordinul de protecție provizoriu la judecătoria competentă în a cărei rază teritorială acesta a fost emis, în termen de 48 de ore de la comunicare;
+2. pe perioada valabilității ordinului de protecție provizoriu: [] solicit cazarea în unul dintre centrele rezidențiale care oferă cazare pentru persoanele fără adăpost sau adăposturile de noapte, gestionate de autoritățile administrației publice locale, sau orice alt loc adecvat; [] declar că voi locui în localitatea......................., str........................... nr.........., bl......., sc......., et......., ap......., județul...................
+Urmează a fi cazat(ă) la...............................................................; [] pot fi contactat(ă) la numărul de telefon........................................
+Data...........................................
+Numele, prenumele, semnătura..................................................
+Document care conține date cu caracter personal, protejate potrivit legii!
+-----
