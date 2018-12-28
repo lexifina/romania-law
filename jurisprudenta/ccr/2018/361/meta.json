@@ -1,0 +1,265 @@
+{
+ "key": "dcc-361-2018",
+ "label": "Decizia CCR nr. 361/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "361",
+ "date": "2018-05-31",
+ "year": "2018",
+ "heading": "DECIZIA nr. 361 din 31 mai 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 206^33 alin. (1) lit. b), art. 221^3 alin. (2) lit. j), precum și ale art. 221^3 alin. (3) lit. a) din Legea nr. 571/2003 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1106",
+  "bis": false,
+  "date": "2018-12-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.469/280/2012",
+  "1.427D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "206-33",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "221-3",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "j",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea AGPC Import House - S.R.L. din Pitești în Dosarul nr. 5.469/280/2012 al Judecătoriei Pitești - Secția civilă și constată că prevederile art. 206^33 alin. (1) lit. b), art. 221^3 alin. (2) lit. j), precum și ale art. 221^3 alin. (3) lit. a) din Legea nr. 571/2003 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Pitești – Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "206-33",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "221-3",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "j",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "9",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "502",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "206-34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2018-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209446",
+  "text_sha256": "5a765019a15ee7bd9f88440b0a618a702769b7123502b473b4fae350617d68ba",
+  "catalogue_sha256": "5a765019a15ee7bd9f88440b0a618a702769b7123502b473b4fae350617d68ba",
+  "fetched": "2026-11-03T02:55:37Z",
+  "chars": 19734,
+  "portal_id": "209446",
+  "tip": "DECIZIE"
+ }
+}
