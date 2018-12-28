@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2018-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-05: sent for promulgation
 - 2018-12-21: promulgated, becomes Legea nr. 339/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-28: published in the Monitorul Oficial
 
 ## Documents
 
