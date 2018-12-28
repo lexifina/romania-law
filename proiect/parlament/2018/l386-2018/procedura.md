@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-10: adopted by the Chamber of Deputies
 - 2018-10-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-10-17: sent for promulgation
+- 2018-12-28: promulgated, becomes Legea nr. 363/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386AM.PDF
 - 2018-10-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386AXS.PDF
 - 2018-10-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386LP.PDF
+- 2018-12-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386DP.PDF
+- 2018-12-28: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386AFP.PDF
+- 2018-12-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L386FP.PDF
