@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2018-11-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-04: sent for promulgation
 - 2018-12-20: promulgated, becomes Legea nr. 327/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2018-12-28: published in the Monitorul Oficial
 
 ## Documents
 
