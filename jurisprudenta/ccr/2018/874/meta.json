@@ -1,0 +1,338 @@
+{
+ "key": "dcc-874-2018",
+ "label": "Decizia CCR nr. 874/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "874",
+ "date": "2018-12-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 874 din 18 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, a prevederilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma \"precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv\", precum și a prevederilor art. 521 alin. (3) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "2",
+  "bis": false,
+  "date": "2019-01-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.980/176/2016",
+  "1.404D/2018",
+  "1.544D/2018",
+  "1.478D/2018",
+  "1.654/306/2017",
+  "912/252/2016",
+  "23.561/301/2015",
+  "1.538D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Admite excepția de neconstituționalitate ridicată de Banca Comercială Română - S.A. din București în Dosarul nr. 7.980/176/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, în Dosarul nr. 12.555/225/2015 al Curții de Apel Craiova - Secția a II-a civilă și în Dosarul nr. 23.561/301/2015 al Curții de Apel București - Secția a VI-a civilă, de Societatea Cez Vânzare - S.A. din Craiova în Dosarul nr. 21.715/215/2015 al Curții de Apel Craiova - Secția a II-a civilă, de Paraschiva Vulcu în Dosarul nr. 1.654/306/2017 al Curții de Apel Alba Iulia - Secția a II-a civilă, de Societatea Distribuție Energie Oltenia - S.A. din Craiova în Dosarul nr. 8.355/225/2015 al Curții de Apel Craiova - Secția a II-a civilă, de Societatea Park Modoș - S.R.L. din Timișoara în Dosarul nr. 912/252/2016 al Curții de Apel Timișoara - Secția I civilă și de Societatea Auto Kino - S.R.L. din Brașov în Dosarul nr. 5.741/197/2015 al Curții de Apel Brașov - Secția civilă și constată că dispozițiile art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt neconstituționale.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“, precum și excepția de neconstituționalitate a prevederilor art. 521 alin. (3) din Codul de procedură civilă, excepție ridicată de Banca Comercială Română - S.A. din București în Dosarul nr. 7.980/176/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, în Dosarul nr. 4.756/296/C/2016 al Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal și în Dosarul nr. 10.771/197/2016 al Curții de Apel Brașov - Secția civilă, precum și de Lilica Constantinescu și Dan Constantinescu în Dosarul nr. 1.288/305/2015 al Curții de Apel Brașov - Secția civilă",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Curții de Apel Alba Iulia - Secția a II-a civilă, Curții de Apel Brașov - Secția civilă, Curții de Apel Craiova - Secția a II-a civilă, Curții de Apel Timișoara - Secția I civilă, Curții de Apel București - Secția a VI-a civilă, precum și Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 75
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-01-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209522",
+  "text_sha256": "68f13ec590bd146f83021b7c283a9424770bcacd03a29c41357e7dd0a7c37ce9",
+  "catalogue_sha256": "68f13ec590bd146f83021b7c283a9424770bcacd03a29c41357e7dd0a7c37ce9",
+  "fetched": "2026-11-03T02:55:31Z",
+  "chars": 103432,
+  "portal_id": "209522",
+  "tip": "DECIZIE"
+ }
+}
