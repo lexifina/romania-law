@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-08: sent for promulgation
 - 2018-12-27: promulgated, becomes Legea nr. 355/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-01-03: published in the Monitorul Oficial
 
 ## Documents
 
