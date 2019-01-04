@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2018-12-12: adopted by the Chamber of Deputies
 - 2018-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-19: sent for promulgation
+- 2019-01-04: promulgated, becomes Legea nr. 5/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2018-03-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014AM.PDF
 - 2018-12-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014AXS.PDF
 - 2018-12-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014LP.PDF
+- 2019-01-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014DP.PDF
+- 2019-01-04: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014AFP.PDF
+- 2019-01-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L014FP.PDF
