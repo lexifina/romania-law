@@ -1,0 +1,9 @@
+# Anexa 4
+Anexa nr. 1
+la Contractul de finanțare nerambursabilă nr. ....N/GES/.........
+CATEGORII DE CHELTUIELI ELIGIBILE
+Administrația Fondului pentru Mediu
+Președinte,
+............................
+Beneficiar,
+...........................
