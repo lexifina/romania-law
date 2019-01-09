@@ -1,0 +1,26 @@
+# Anexa 11
+Anexa nr. 11
+la norme
+SITUAȚIA CENTRALIZATOARE*
+a biletelor de valoare pe suport hârtie pe unități afiliate
+utilizate de unitatea emitentă în luna ...... anul ............
+* Evidența se ține separat pentru fiecare tip de bilet de valoare.
+Denumirea unității emitente ...........................
+Adresa:
+localitatea .................., str. ......................... nr. ......, sectorul ....., județul ...............................
+Numărul autorizației de funcționare .............................................
+Numărul de înmatriculare la oficiul registrului comerțului ...............
+Codul fiscal ......................................
+Semnificația coloanelor din tabelul de mai jos este următoarea: A - nr. crt.;
+B - denumirea unității afiliate;
+C - numărul biletelor de valoare pe suport hârtie primite de la salariați;
+D - valoarea totală a biletelor de valoare pe suport hârtie primite de la salariați;
+E - numărul biletelor de valoare pe suport hârtie decontate de către unitatea emitentă;
+F - valoarea totală a biletelor de valoare pe suport hârtie decontată unității afiliate de către unitatea emitentă;
+G - numărul și data documentului de decontare;
+H - observații.
+A B C D E F G H
+0 1 2 3 4 5 6 7
+Conducătorul unității emitente, Conducătorul compartimentului financiar-contabilitate,
+................................................
+....................................................................................
