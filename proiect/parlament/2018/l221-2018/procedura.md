@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2018-12-12: adopted by the Chamber of Deputies
 - 2018-12-19: sent for promulgation
 - 2018-12-28: promulgated, becomes Legea nr. 362/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-01-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,9 @@ Initiator: Guvernul României.
 - 2018-12-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221DP.PDF
 - 2018-12-28: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221AFP.PDF
 - 2018-12-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221FP.PDF
+- 2019-01-09: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-09: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-09: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-09: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-09: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-09: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L221PX.PDF (its day is not given by the bill file: shown from the last stage held)
