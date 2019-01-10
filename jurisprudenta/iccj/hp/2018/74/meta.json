@@ -1,0 +1,235 @@
+{
+ "key": "iccj-hp-74-2018",
+ "label": "Decizia ÎCCJ nr. 74/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "74",
+ "date": "2018-10-29",
+ "year": "2018",
+ "heading": "DECIZIA nr. 74 din 29 octombrie 2018",
+ "subtitle": "referitoare la pronunțarea hotărârii prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "25",
+  "bis": false,
+  "date": "2019-01-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.960/1/2018",
+  "530/100/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "21"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 530/100/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Dacă termenul de 30 de zile, în care terțul care se consideră vătămat prin emiterea unei autorizații de construire în beneficiul unei alte persoane poate formula plângere prealabilă, în condițiile art. 7 alin. (1) și (3) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, începe să curgă, în toate cazurile, de la data afișării autorizației de construire pe pagina proprie de internet a autorității administrației publice emitente sau la sediul acesteia, în condițiile art. 7 alin. (21) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare, dacă acest termen începe să curgă, în toate cazurile, de la data afișării panoului de identificare a investiției la locul realizării construcției, în temeiul art. 76 alin. (1) lit. b) din Normele metodologice de aplicare a Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, aprobate prin Ordinul ministrului dezvoltării regionale și locuinței nr. 839/2009, sau dacă acest termen curge, în toate cazurile, de la momentul la care se dovedește că terțul a luat efectiv la cunoștință de autorizația de construire? În acest din urmă caz, termenul curge de la data când a fost cunoscută existența autorizației de construire și, eventual, conținutul său sau de la data la care terțul putea, cu eforturi rezonabile, să cunoască conținutul documentației care a stat la baza emiterii ei?",
+  "Dacă, în situația în care au fost începute lucrările de construire, se poate considera că autorizația de construire a intrat în circuitul civil, în sensul prevederilor art. 1 alin. (6) din Legea nr. 554/2004, astfel încât a devenit irevocabilă? În situația în care răspunsul la această întrebare este afirmativ, dacă, în acest caz, ținând cont de faptul că autorizația de construire este irevocabilă, mai trebuie formulată plângere prealabilă împotriva acesteia înainte de formularea acțiunii în anulare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "3",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "21"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-01-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/209703",
+  "text_sha256": "74c34a8e19cfd84bfd4c695f4f4ea3ce7439a8a61d27bca938db3a5d6258cd7a",
+  "catalogue_sha256": "74c34a8e19cfd84bfd4c695f4f4ea3ce7439a8a61d27bca938db3a5d6258cd7a",
+  "fetched": "2026-11-03T02:54:59Z",
+  "chars": 69886,
+  "portal_id": "209703",
+  "tip": "DECIZIE"
+ }
+}
