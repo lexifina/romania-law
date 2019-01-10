@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2018-12-19: adopted by the Chamber of Deputies
 - 2018-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-22: sent for promulgation
+- 2019-01-10: promulgated, becomes Legea nr. 30/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -44,3 +45,6 @@ Initiator: Guvernul României.
 - 2018-05-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181AM.PDF
 - 2018-12-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181AXS.PDF
 - 2018-12-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181LP.PDF
+- 2019-01-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181DP.PDF
+- 2019-01-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181AFP.PDF
+- 2019-01-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L181FP.PDF
