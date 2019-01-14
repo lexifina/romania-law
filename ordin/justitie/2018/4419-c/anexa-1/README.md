@@ -1,0 +1,7 @@
+# Anexa nr. 1: (Anexa nr. 1 la normele metodologice) MINISTERUL JUSTIȚIEI ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR PENITENCIAR-SPITAL............................................ Nr............./.............. AVIZA
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 209962 (https://legislatie.just.ro/Public/DetaliiDocument/209962)
+- sha256 of that document's text as the service returned it: 27f97061ba5b9093a50b5417fec8b93096079d8836417a5487e06b0fdcccbbb3
+- Retrieved: 2026-11-03

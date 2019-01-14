@@ -1,0 +1,19 @@
+# Anexa nr. 1 (Anexa nr. 1 la normele metodologice)
+MINISTERUL JUSTIȚIEI
+ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR
+PENITENCIAR-SPITAL............................................
+Nr............./..............
+AVIZAT
+ORDONATOR TERȚIAR DE CREDITE...........................................................
+APROBAT
+ORDONATOR SECUNDAR DE CREDITE
+DIRECTOR GENERAL
+ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR
+AVIZAT
+DIRECTOR
+DIRECȚIA ECONOMICO-ADMINISTRATIVĂ
+ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR
+ȘEF SERVICIU
+PLANIFICARE ȘI EXECUȚIE BUGETARĂ, SALARIZARE
+ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR
+BUGETUL DE VENITURI ȘI CHELTUIELI pentru anul...... pe capitole, subcapitole, paragrafe, titluri de cheltuieli, articole și alineate, după caz
