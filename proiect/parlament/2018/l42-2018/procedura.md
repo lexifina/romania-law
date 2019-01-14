@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-22: sent for promulgation
 - 2019-01-10: promulgated, becomes Legea nr. 28/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-01-14: published in the Monitorul Oficial
 
 ## Documents
 
