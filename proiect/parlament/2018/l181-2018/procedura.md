@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2018-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-22: sent for promulgation
 - 2019-01-10: promulgated, becomes Legea nr. 30/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-01-17: published in the Monitorul Oficial
 
 ## Documents
 
