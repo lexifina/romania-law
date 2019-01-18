@@ -1,0 +1,535 @@
+{
+ "key": "dcc-668-2018",
+ "label": "Decizia CCR nr. 668/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "668",
+ "date": "2018-10-30",
+ "year": "2018",
+ "heading": "DECIZIA nr. 668 din 30 octombrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5, art. 6, art. 7, art. 62 alin. (2), art. 63 alin. (1), art. 64 alin. (5), art. 65 alin. (3), art. 70 alin. (1), (3) și alin. (4) lit. a), b), c), d) și g), art. 71 alin. (6), art. 72 alin. (5), art. 78, art. 79, art. 83, art. 86, art. 87 alin. (1) lit. a) și b), art. 90, art. 91 alin. (3), art. 92 alin. (5) și (6), art. 96 alin. (1) lit. e) și alin. (2) și art. 97 alin. (3) lit. d) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "48",
+  "bis": false,
+  "date": "2019-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.255/320/2016",
+  "2.392D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "71",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate având ca obiect dispozițiile art. 5, art. 6, art. 7, art. 62 alin. (2), art. 63 alin. (1), art. 64 alin. (5), art. 65 alin. (3), art. 70 alin. (1),",
+  "(3) și alin. (4) lit. a), b),",
+  "c), d) și g), art. 71 alin. (6), art. 72 alin. (5), art. 78, art. 79, art. 83, art. 86, art. 87 alin. (1) lit. a) și b), art. 90, art. 91 alin. (3), art. 92 alin. (5) și (6), art. 96 alin. (1) lit. e) și alin. (2) și art. 97 alin. (3) lit. d) din Legea nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, excepție ridicată de Viorel Bubău în Dosarul nr. 14.255/320/2016 al Judecătoriei Târgu Mureș - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Mureș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "1",
+      "4",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "g",
+      "i"
+     ]
+    },
+    {
+     "art": "71",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "729",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210026",
+  "text_sha256": "521411e5466010b5007843f338945bc6c57e88ac622a6203cb3c2cc1f60c0415",
+  "catalogue_sha256": "521411e5466010b5007843f338945bc6c57e88ac622a6203cb3c2cc1f60c0415",
+  "fetched": "2026-11-03T02:54:19Z",
+  "chars": 31208,
+  "portal_id": "210026",
+  "tip": "DECIZIE"
+ }
+}
