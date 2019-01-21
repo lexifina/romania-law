@@ -1,0 +1,397 @@
+{
+ "key": "dcc-655-2018",
+ "label": "Decizia CCR nr. 655/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "655",
+ "date": "2018-10-30",
+ "year": "2018",
+ "heading": "DECIZIA nr. 655 din 30 octombrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 20 alin. (2) și (3) din Legea nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, ale art. 1 alin. (1) și (2) și art. 2 alin. (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și ale anexelor la această lege, ale art. 2-6, art. 9, art. 13 și art. 16 din Hotărârea Guvernului nr. 1.025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale, ale art. 30 alin. (1) lit. e) din Legea nr. 263/2010 privind sistemul unitar de pensii publice și ale anexelor nr. 2 și 3 la această lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "52",
+  "bis": false,
+  "date": "2019-01-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.096/117/2015",
+  "427D/2017",
+  "606D/2017",
+  "499/83/2015",
+  "847D/2017",
+  "4.182/90/2014",
+  "850D/2017",
+  "5.127/111/2014",
+  "1.177D/2017",
+  "3.946/85/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Curtea de Apel Cluj - Secția I civilă în Dosarul nr. 3.096/117/2015*, de Vasile Daniel Pal și alții în Dosarul nr. 499/83/2015 al Curții de Apel Oradea - Secția I civilă, de Maria Trascau și alții în Dosarul nr. 4.182/90/2014 al Tribunalului Vâlcea - Secția I civilă, de Dănuț Podilă și alții în Dosarul nr. 5.127/111/2014 al Curții de Apel Cluj - Secția I civilă, de Banu Nicolae Alexandru în Dosarul nr. 3.946/85/2014 al Curții de Apel Alba Iulia - Secția I civilă, de Florin Șuteu în Dosarul nr. 338/111/2015 al Curții de Apel Alba Iulia - Secția I civilă, de Ștefan Adam și alții în Dosarul nr. 34.824/3/2014 (nr. vechi 121/2017) al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Elena Ababei și alții în Dosarul nr. 5.416/62/2014 al Curții de Apel Brașov - Secția civilă, de Gheorghe Alradei și alții în Dosarul nr. 192/62/2015 al Curții de Apel Brașov - Secția civilă, de Virgil Ioan Anghel în Dosarul nr. 378/57/2017 al Curții de Apel Alba Iulia - Secția I civilă, de Emil Dulău în Dosarul nr. 383/57/2017 al Curții de Apel Alba Iulia - Secția I civilă și de Tiberius Ioan Tatu în Dosarul nr. 404/57/2017 al Curții de Apel Alba Iulia - Secția I civilă și constată că dispozițiile art. 20 alin. (2) și (3) din Legea nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, ale art. 1 alin. (1) și (2) și art. 2 alin. (2) din Legea nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și ale anexelor la această lege, precum și ale art. 30 alin. (1) lit. e) din Legea nr. 263/2010 privind sistemul unitar de pensii publice și ale anexelor nr. 2 și 3 la această lege sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2-6, art. 9, art. 13 și art. 16 din Hotărârea Guvernului nr. 1.025/2003 privind metodologia și criteriile de încadrare a persoanelor în locuri de muncă în condiții speciale, excepție ridicată de aceiași autori în aceleași dosare.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Cluj - Secția I civilă, Curții de Apel Oradea - Secția I civilă, Tribunalului Vâlcea - Secția I civilă, Curții de Apel Alba Iulia - Secția I civilă, Curții de Apel Brașov - Secția civilă și Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-01-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210050",
+  "text_sha256": "5939e075325fb2da48e85d11f39d48dc0f078d35d9de150ca8075757c9dee29d",
+  "catalogue_sha256": "5939e075325fb2da48e85d11f39d48dc0f078d35d9de150ca8075757c9dee29d",
+  "fetched": "2026-11-03T02:54:07Z",
+  "chars": 39697,
+  "portal_id": "210050",
+  "tip": "DECIZIE"
+ }
+}
