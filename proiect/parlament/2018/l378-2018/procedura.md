@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-12-29: sent for promulgation
 - 2019-01-17: promulgated, becomes Legea nr. 38/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-01-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-01-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378DP.PDF
 - 2019-01-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378AFP.PDF
 - 2019-01-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378FP.PDF
+- 2019-01-21: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-21: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-01-21: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L378AL.PDF (its day is not given by the bill file: shown from the last stage held)
