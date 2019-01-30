@@ -1,0 +1,210 @@
+{
+ "key": "iccj-hp-penal-18-2018",
+ "label": "Decizia ÎCCJ nr. 18/2018 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "18",
+ "date": "2018-12-05",
+ "year": "2018",
+ "heading": "DECIZIA nr. 18 din 5 decembrie 2018",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: \"dacă acțiunea unică de transport, respectiv deținerea fără drept pentru consum a drogurilor de risc sau de mare risc pe teritoriul altui stat și, ulterior, pe teritoriul României, poate constitui elementul material al infracțiunilor prevăzute de art. 3 și art. 4 din Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri în concurs formal de infracțiuni sau constituie infracțiunea unică prevăzută de art. 4 din aceeași lege\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "73",
+  "bis": false,
+  "date": "2019-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.621/1/2018",
+  "135/97/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Alba Iulia, Secția penală, în Dosarul nr. 135/97/2018, prin care se solicită pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: „dacă acțiunea unică de transport, respectiv deținerea fără drept pentru consum a drogurilor de risc sau de mare risc pe teritoriul altui stat și, ulterior, pe teritoriul României, poate constitui elementul material al infracțiunilor prevăzute de art. 3 ș i art. 4 din Legea nr. 143/2000 privind prevenirea și combaterea traficului și consumului ilicit de droguri în concurs formal de infracțiuni sau constituie infracțiunea unică prevăzută de art. 4 din aceeași lege“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 109
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "386",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "574",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210419",
+  "text_sha256": "2fbdf385a075d2e1cf8800cec69486ac27e7b367634edd03f0954a05d3972dad",
+  "catalogue_sha256": "2fbdf385a075d2e1cf8800cec69486ac27e7b367634edd03f0954a05d3972dad",
+  "fetched": "2026-11-03T02:53:30Z",
+  "chars": 82115,
+  "portal_id": "210419",
+  "tip": "DECIZIE"
+ }
+}
