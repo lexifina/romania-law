@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut la Banca Națională a României, a Societății DEBO LEASING IFN - S.A., cu sediul în București, Str. Ghețarilor nr. 23-25, sectorul 1, înregistrată la registrul comerțului cu nr. J40/16182/2003, cod unic de înregistrare 15948432, înscrisă în Registrul general cu nr. RG-PJR-41-110197, la secțiunea k) - "Activități multiple de creditare".
