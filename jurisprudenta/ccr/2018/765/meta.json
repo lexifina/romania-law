@@ -1,0 +1,247 @@
+{
+ "key": "dcc-765-2018",
+ "label": "Decizia CCR nr. 765/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "765",
+ "date": "2018-11-29",
+ "year": "2018",
+ "heading": "DECIZIA nr. 765 din 29 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 46, art. 49 și art. 50 din Legea nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și ale art. 34 și 35 din Hotărârea Guvernului nr. 1.588/2007 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "75",
+  "bis": false,
+  "date": "2019-01-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.209/243/2016",
+  "716D/2017",
+  "717D/2017",
+  "5.211/243/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.588/2007",
+    "number": "1588",
+    "year": "2007",
+    "path": "hg/2007/1588"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 46, art. 49 și art. 50 din Legea nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și ale art. 34 și 35 din Hotărârea Guvernului nr. 1.588/2007 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 230/2007 privind înființarea, organizarea și funcționarea asociațiilor de proprietari, excepție ridicată de Corneliu Ilie în Dosarul nr. 5.209/243/2016 și de Vasile Harja în Dosarul nr. 5.211/243/2016 ale Judecătoriei Hunedoara.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Hunedoara și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.588/2007",
+    "number": "1588",
+    "year": "2007",
+    "path": "hg/2007/1588"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 196/2018",
+    "number": "196",
+    "year": "2018",
+    "path": "lege/2018/196"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210434",
+  "text_sha256": "2ec5cc461ea8f99d12bcdd03f11e7c64913c4621d5f21f84f80620fcd5146b86",
+  "catalogue_sha256": "2ec5cc461ea8f99d12bcdd03f11e7c64913c4621d5f21f84f80620fcd5146b86",
+  "fetched": "2026-11-03T02:53:30Z",
+  "chars": 14215,
+  "portal_id": "210434",
+  "tip": "DECIZIE"
+ }
+}
