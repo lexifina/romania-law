@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-426-18-ordonanta-2019-01-31",
+ "label": "CJUE, Ordonanța Curții (Camera a noua) din 31 ianuarie 2019, Cauza C-426/18 P",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2019-01-31",
+ "year": "2019",
+ "case": "Cauza C-426/18 P",
+ "celex": "62018CO0426",
+ "ecli": "ECLI:EU:C:2019:89",
+ "heading": "Ordonanța Curții (Camera a noua) din 31 ianuarie 2019",
+ "formation": "CHAMB_09_C",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Articolul 181 din Regulamentul de procedură al Curții – Directiva 2014/40/UE – Fabricarea, prezentarea și vânzarea produselor din tutun și a produselor conexe – Acțiune în anulare – Nerespectarea termenului de introducere a acțiunii – Concluzii în despăgubire – Încălcarea cerințelor de formă",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CO0426",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-426/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/5c1817fe-2bad-11e9-8d04-01aa75ed71a1.0001.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "e9613c26a6c3a165b11071e8fdea983a01cf85db1eac16c2acb444b4c33bde03"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
