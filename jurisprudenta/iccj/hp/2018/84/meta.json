@@ -1,0 +1,224 @@
+{
+ "key": "iccj-hp-84-2018",
+ "label": "Decizia ÎCCJ nr. 84/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "84",
+ "date": "2018-11-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 84 din 26 noiembrie 2018",
+ "subtitle": "referitoarea la interpretarea dispozițiilor art. 781 alin. (5) lit. a) din Codul de procedură civilă, art. 46-48 din Legea nr. 230/2007, art. 12 pct. B lit. c) din Hotărârea Guvernului nr. 1.588/2007",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "84",
+  "bis": false,
+  "date": "2019-02-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.297/1/2018",
+  "8.187/320/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.588/2007",
+    "number": "1588",
+    "year": "2007",
+    "path": "hg/2007/1588"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Mureș - Secția civilă, în Dosarul nr. 8.187/320/2016*, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 781 alin. (5) lit. a) din Codul de procedură civilă, art. 46-48 din Legea nr. 230/2007, art. 12 pct. B lit. c) din Hotărârea Guvernului nr. 1.588/2007, sumele datorate lunar de terțul poprit, membru al asociației de proprietari, debitoarei asociația de proprietari, cu titlu de cheltuieli de întreținere, au afectațiunea specială corespunzătoare diferitelor componente ale acestor cheltuieli, astfel cum sunt determinate de legislația în materie.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2007",
+    "number": "230",
+    "year": "2007",
+    "path": "lege/2007/230"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.588/2007",
+    "number": "1588",
+    "year": "2007",
+    "path": "hg/2007/1588"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210500",
+  "text_sha256": "51c3cd0b1dfba0c6722894f4aeeedb27f487ea32e6467ffdca99708fb3c5c84f",
+  "catalogue_sha256": "51c3cd0b1dfba0c6722894f4aeeedb27f487ea32e6467ffdca99708fb3c5c84f",
+  "fetched": "2026-11-03T02:53:12Z",
+  "chars": 70877,
+  "portal_id": "210500",
+  "tip": "DECIZIE"
+ }
+}
