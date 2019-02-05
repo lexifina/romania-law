@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-676-17-concluzii-2019-02-05",
+ "label": "CJUE, Concluziile avocatului general M. Bobek prezentate la 5 februarie 2019, Cauza C-676/17.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2019-02-05",
+ "year": "2019",
+ "case": "Cauza C-676/17.",
+ "celex": "62017CC0676",
+ "ecli": "ECLI:EU:C:2019:94",
+ "heading": "Concluziile avocatului general M. Bobek prezentate la 5 februarie 2019",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Ploiești.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Principiile dreptului Uniunii – Autonomie procedurală – Principiile echivalenței și efectivității – Principiul securității juridice – Autoritate de lucru judecat – Restituirea taxelor percepute de un stat membru cu încălcarea dreptului Uniunii – Hotărâre judecătorească definitivă prin care se impune plata unei taxe incompatibile cu dreptul Uniunii – Cerere de revizuire a unei astfel de hotărâri – Termen pentru formularea acestei cereri.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CC0676",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-676/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/7857545b-2937-11e9-8d04-01aa75ed71a1.0004.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "ce4e3a71cc13b483f9ed7d14d824d7cd781073e128283ffb30dbe5506ebcb4a3"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
