@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut la Banca Națională a României, a societății REGIO LEASING IFN - S.A., cu sediul în Miercurea-Ciuc, Piața Libertății nr. 8, județul Harghita, înregistrată la registrul comerțului cu nr. J19/207/2002, cod unic de înregistrare 14780160, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-21-110096, la secțiunea k) "Activități multiple de creditare".
