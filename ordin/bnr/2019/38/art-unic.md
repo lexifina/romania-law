@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut la Banca Națională a României, a societății LOCUINȚA ACCESIBILĂ LEASING IFN - S.A., cu sediul în București, str. Jean Louis Calderon nr. 59, lot nr. 1, ap. 4, sectorul 2, înregistrată la registrul comerțului cu nr. J40/16204/2016, cod unic de înregistrare 36823970, înscrisă în Registrul general cu nr. RG-PJR-41-110325/5.05.2017, la secțiunea k) "Activități multiple de creditare".
