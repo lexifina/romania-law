@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut la Banca Națională a României, a societății FAIR CREDIT HOUSE IFN S.A., cu sediul în București, Bd. Unirii nr. 20, bl. C5, sc. 1, ap. 62, sectorul 4, înregistrată la registrul comerțului cu nr. J40/23439/2007, cod unic de înregistrare 22925679, înscrisă în Registrul general cu nr. RG-PJR-41-110232/19.06.2008, la secțiunea k) "Activități multiple de creditare".
