@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE privind virarea la bugetul de stat de către Ministerul Sănătății și Ministerul Tineretului și Sportului a disponibilităților prevăzute la art. 57 și 59 din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene
