@@ -9,8 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-02-05: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+- 2019-02-12: documents published: Punct de vedere
 
 ## Documents
 
 - 2019-02-05: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L180FG.PDF
 - 2019-02-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L180EM.PDF
+- 2019-02-12: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L180PV.PDF
