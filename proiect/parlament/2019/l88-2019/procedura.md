@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2019-02-08: registered at the Senate; documents published: Document
 - 2019-02-11: documents published: Aviz comisie
+- 2019-02-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,21 @@ Initiator: Guvernul României.
 - 2019-02-11: Aviz comisie (CA22): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA22.PDF
 - 2019-02-11: Aviz comisie (CA44): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA44.PDF
 - 2019-02-11: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA1.PDF
+- 2019-02-12: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA12.PDF
+- 2019-02-12: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA14.PDF
+- 2019-02-12: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA16.PDF
+- 2019-02-12: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA19.PDF
+- 2019-02-12: Aviz comisie (CA21): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA21.PDF
+- 2019-02-12: Aviz comisie (CA23): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA23.PDF
+- 2019-02-12: Aviz comisie (CA39): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA39.PDF
+- 2019-02-12: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA41.PDF
+- 2019-02-12: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA42.PDF
+- 2019-02-12: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA43.PDF
+- 2019-02-12: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA45.PDF
+- 2019-02-12: Aviz comisie (CA46): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA46.PDF
+- 2019-02-12: Aviz comisie (CA47): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA47.PDF
+- 2019-02-12: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA49.PDF
+- 2019-02-12: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA5.PDF
+- 2019-02-12: Aviz comisie (CA6): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA6.PDF
+- 2019-02-12: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA8.PDF
+- 2019-02-12: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088CA9.PDF
