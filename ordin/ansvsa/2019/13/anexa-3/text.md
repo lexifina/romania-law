@@ -1,0 +1,13 @@
+# Anexa nr. 3 (Anexa nr. 11 la Ordinul nr. 39/2010)
+AUTORITATEA NAȚIONALĂ SANITARĂ VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR
+DOCUMENT DE ANULARE
+Nr......... din................
+Văzând: -
+Nota de constatare nr...................... și Procesul-verbal de constatare și sancționare a contravențiilor la normele sanitare-veterinare și pentru siguranța alimentelor nr.................., întocmite în urma controalelor de către medicii veterinari oficiali din cadrul Direcției Sanitar-Veterinare și pentru Siguranța Alimentelor................................; sau
+- solicitarea furnizorului primar.................................................., înregistrată la Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor; sau
+- documentul oficial prin care se atestă încetarea acordului de furnizare a mijloacelor oficiale de identificare încheiat între producător și furnizorul primar,
+având în vedere prevederile Ordonanței Guvernului nr. 42/2004 privind organizarea activității sanitar-veterinare și pentru siguranța alimentelor, aprobată cu modificări și completări prin Legea nr. 215/2004, cu modificările și completările ulterioare, ținând cont de prevederile Ordonanței de urgență a Guvernului nr. 23/2010 privind identificarea și înregistrarea suinelor, ovinelor, caprinelor și ecvideelor, precum și pentru modificarea și completarea unor acte normative, aprobată cu modificări și completări prin Legea nr. 191/2012, luând în considerație prevederile Hotărârii Guvernului nr. 1.415/2009 privind organizarea și funcționarea Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și a unităților din subordinea acesteia, cu modificările și completările ulterioare, în temeiul pct. 16-20 din anexa nr. 2 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 39/2010 pentru aprobarea cerințelor tehnice care trebuie îndeplinite de mijloacele oficiale de identificare a bovinelor, suinelor, ovinelor și caprinelor, precum și pentru stabilirea condițiilor de aprobare a acestora pe teritoriul României, cu modificările și completările ulterioare,
+Certificatul de aprobare a mijloacelor oficiale de identificare nr............... din............................. se anulează.
+Nerespectarea prezentei măsuri se sancționează potrivit legii.
+Directorul general al Direcției generale control oficial,.............................................................. (numele și prenumele) (semnătura și ștampila)
+-----
