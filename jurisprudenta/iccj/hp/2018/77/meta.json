@@ -1,0 +1,344 @@
+{
+ "key": "iccj-hp-77-2018",
+ "label": "Decizia ÎCCJ nr. 77/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "77",
+ "date": "2018-11-12",
+ "year": "2018",
+ "heading": "DECIZIA nr. 77 din 12 noiembrie 2018",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Bacău - Secția I civilă, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: denunțarea unilaterală a unui contract de către organele de conducere ale persoanei juridice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "117",
+  "bis": false,
+  "date": "2019-02-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.981/1/2018",
+  "4.299/110/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea privind pronunțarea unei hotărâri prealabile formulată de Curtea de Apel Bacău - Secția I civilă, în Dosarul nr. 4.299/110/2016, pentru pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: „Denunțarea unilaterală a unui contract de către organele de conducere ale persoanei juridice, în ipoteza în care nici legea și nici contractul nu reglementează dreptul de denunțare unilaterală a contractului, constituie act juridic sau fapt juridic ilicit în sensul art. 35 din Decretul nr. 31/1954 privitor la persoanele fizice și persoanele juridice, cu modificările și completările ulterioare?“",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1276",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1350",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XIV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XIX",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 62/2015",
+    "number": "62",
+    "year": "2015",
+    "path": "oug/2015/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2016",
+    "number": "95",
+    "year": "2016",
+    "path": "oug/2016/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/210991",
+  "text_sha256": "662f680bd255c312e13c131c980a925025e509408e83929bc7a40b6a95db67af",
+  "catalogue_sha256": "662f680bd255c312e13c131c980a925025e509408e83929bc7a40b6a95db67af",
+  "fetched": "2026-11-03T02:52:24Z",
+  "chars": 43435,
+  "portal_id": "210991",
+  "tip": "DECIZIE"
+ }
+}
