@@ -1,0 +1,2 @@
+# ANEXA nr. 1
+STANDARDE MINIME de calitate pentru serviciile sociale cu cazare, organizate ca centre rezidențiale destinate persoanelor vârstnice, aplicabile următoarelor categorii de servicii sociale prevăzute în Nomenclatorul serviciilor sociale, aprobat prin H.G. nr. 867/2015, cu modificările și completările ulterioare: cămine pentru persoane vârstnice, cod 8730 CR-V-I, centre de tip respiro, centre de criză, cod 8730 CR-V-II, centre rezidențiale de îngrijire și asistență persoane dependente, cod 8730 CR-PD-I și cod 8790 CR-PD-II
