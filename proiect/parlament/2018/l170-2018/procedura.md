@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-28: documents published: Aviz comisie
 - 2018-03-29: documents published: Aviz comisie
 - 2018-04-04: documents published: Aviz comisie
+- 2019-02-18: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-29: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170CA7.PDF
 - 2018-04-04: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170CA14.PDF
 - 2018-04-04: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170CA3.PDF
+- 2019-02-18: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-02-18: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-02-18: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-02-18: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L170ARD.PDF (its day is not given by the bill file: shown from the last stage held)
