@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-12-11: documents published: Aviz Consiliul Legislativ
 - 2019-02-13: documents published: Raport comisie sesizată pe fond
+- 2019-02-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087EM.PDF
 - 2018-12-11: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087LG.PDF
 - 2019-02-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087CR.PDF
+- 2019-02-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087FS.PDF
+- 2019-02-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087AM.PDF
