@@ -1,0 +1,22 @@
+# Proiect de lege L116/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 311/2022 (`legea-311-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.6/2019 privind unele măsuri pentru buna organizare şi desfăşurare a alegerilor pentru membrii din România în Parlamentul European din anul 2019
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-02-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-02-18: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116AD.PDF
+- 2019-02-18: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116FG.PDF
+- 2019-02-18: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116EM.PDF
+- 2019-02-18: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116LG.PDF
+- 2019-02-18: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116OG.PDF
+- 2019-02-18: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L116HG.PDF
