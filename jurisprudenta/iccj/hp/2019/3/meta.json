@@ -1,0 +1,202 @@
+{
+ "key": "iccj-hp-3-2019",
+ "label": "Decizia ÎCCJ nr. 3/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "3",
+ "date": "2019-01-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 3 din 14 ianuarie 2019",
+ "subtitle": "referitoare la dezlegarea următoarei chestiuni de drept: \"instanța de judecată poate lua act de acordul de mediere, prin care părțile s-au înțeles cu privire la desfacerea căsătoriei și la rezolvarea aspectelor accesorii divorțului, conform art. 64 alin. (2) și art. 59 alin. (2) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "125",
+  "bis": false,
+  "date": "2019-02-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.713/1/2018",
+  "14.090/200/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Buzău - Secția I civilă, în Dosarul nr. 14.090/200/2017, cu privire la dezlegarea următoarei chestiuni de drept: „instanța de judecată poate lua act de acordul de mediere, prin care părțile s-au înțeles cu privire la desfacerea căsătoriei și la rezolvarea aspectelor accesorii divorțului, conform art. 64 alin. (2) și art. 59 alin. (2) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare?“",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "441",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "916",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "930",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "929",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "928",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "931",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "373",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211031",
+  "text_sha256": "7f4b3d398d2f2288e96b6fe01e5ba5b69680f504ec455b641749c81490fd5998",
+  "catalogue_sha256": "7f4b3d398d2f2288e96b6fe01e5ba5b69680f504ec455b641749c81490fd5998",
+  "fetched": "2026-11-03T02:52:00Z",
+  "chars": 51235,
+  "portal_id": "211031",
+  "tip": "DECIZIE"
+ }
+}
