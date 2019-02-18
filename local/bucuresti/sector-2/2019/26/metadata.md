@@ -1,0 +1,9 @@
+# HCLS2 nr. 26/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Sectorului 2 al Municipiului București
+- Decision: nr. 26/2019
+- Published: 2019-02-18
+- Record: https://cl.ps2.ro/index.php/consiliul-local/hotarari/2019/hotarare-nr-026
+- Document: https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotarare-nr-026/download
