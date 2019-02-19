@@ -1,0 +1,180 @@
+{
+ "key": "iccj-hp-82-2018",
+ "label": "Decizia ÎCCJ nr. 82/2018 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "82",
+ "date": "2018-11-26",
+ "year": "2018",
+ "heading": "DECIZIA nr. 82 din 26 noiembrie 2018",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor Notei 2 a lit. c) din pct. II lit. A, cap. I din anexa nr. VIII la Legea-cadru nr. 153/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "130",
+  "bis": false,
+  "date": "2019-02-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.450/1/2018",
+  "7.568/99/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iași - Secția contencios administrativ și fiscal în Dosarul nr. 7.568/99/2017, în vederea pronunțării unei hotărâri prealabile și, în interpretarea dispozițiilor Notei 2 lit. c) pct. II lit. A, cap. I din anexa nr. VIII a Legii-cadru nr. 153/2017 în corelare cu prevederile art. 38 alin. (1), alin. (2) lit. a), alin. (3) lit. a), alin. (4) și (6) din actul normativ anterior menționat, stabilește că: – majorarea salariului de bază, de 15% pentru complexitatea muncii, nu se acordă pentru perioada 1 iulie 2017-31 decembrie 2017 și pentru anul 2018;",
+  "– pentru perioada 2019-2022, această majorare se acordă în condițiile stabilite la art. 38 alin. (4) din Legea-cadru nr. 153/2017;",
+  "– prin excepție, această majorare se acordă începând cu ianuarie 2018 sau cu data de la care salariile de bază, soldele de funcție/salariile de funcție, indemnizațiile de încadrare devin mai mari decât cele stabilite potrivit legii pentru anul 2022, ca urmare a majorărilor salariale reglementate.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "6"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 91
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 91/2017",
+    "number": "91",
+    "year": "2017",
+    "path": "oug/2017/91"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211055",
+  "text_sha256": "4a71855e2fcde70ca097da2e9ab77b29ef07a3f82a935669c182e301740d58ed",
+  "catalogue_sha256": "4a71855e2fcde70ca097da2e9ab77b29ef07a3f82a935669c182e301740d58ed",
+  "fetched": "2026-11-03T02:51:56Z",
+  "chars": 82555,
+  "portal_id": "211055",
+  "tip": "DECIZIE"
+ }
+}
