@@ -1,0 +1,274 @@
+{
+ "key": "iccj-hp-4-2019",
+ "label": "Decizia ÎCCJ nr. 4/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "4",
+ "date": "2019-01-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 4 din 14 ianuarie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: \"Cum se determină rezerva succesorală, cotitatea disponibilă specială și cota succesorală a soțului supraviețuitor instituit legatar universal, în condițiile în care vine la moștenire în concurs cu alți descendenți ai defunctului decât cei comuni, prin raportare la prevederile art. 972, art. 1.055, art. 1.074, art. 1.086, art. 1.087, art. 1.088, art. 1.089 ș i art. 1.090 din noul Cod civil ?\".",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "132",
+  "bis": false,
+  "date": "2019-02-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.764/1/2018",
+  "13.325/55/2016"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea privind pronunțarea unei hotărâri prealabile formulată de Tribunalul Arad - Secția I civilă, în Dosarul nr. 13.325/55/2016, cu privire la următoarea chestiune de drept: „Cum se determină rezerva succesorală, cotitatea disponibilă specială și cota succesorală a soțului supraviețuitor instituit legatar universal, în condițiile în care vine la moștenire în concurs cu alți descendenți ai defunctului decât cei comuni, prin raportare la prevederile art. 972, art. 1.055, art. 1.074, art. 1.086, art. 1.087, art. 1.088, art. 1.089 ș i art. 1.090 din noul Cod civil ?“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "995",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1090",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "939",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "972",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1055",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1074",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1086",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1087",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1089",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "975",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1098",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "964",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "939",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 319/1944",
+    "number": "319",
+    "year": "1944",
+    "path": "lege/1944/319"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211067",
+  "text_sha256": "629a05c5f082482db349cedc34c7947e3bc8b409c29d5cdd64475e242842c4f6",
+  "catalogue_sha256": "629a05c5f082482db349cedc34c7947e3bc8b409c29d5cdd64475e242842c4f6",
+  "fetched": "2026-11-03T02:51:56Z",
+  "chars": 104829,
+  "portal_id": "211067",
+  "tip": "DECIZIE"
+ }
+}
