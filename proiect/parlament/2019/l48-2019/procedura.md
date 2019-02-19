@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-13: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2019-02-12: documents published: Aviz comisie
 - 2019-02-14: documents published: Aviz comisie
+- 2019-02-19: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L048LG.PDF
 - 2019-02-12: Aviz comisie (CA39): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L048CA39.PDF
 - 2019-02-14: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L048CA8.PDF
+- 2019-02-19: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L048CA9.PDF
