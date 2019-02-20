@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-02-13: documents published: Raport comisie sesizată pe fond
 - 2019-02-15: adopted by the Chamber of Deputies
 - 2019-02-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-02-20: sent for promulgation
 
 ## Documents
 
