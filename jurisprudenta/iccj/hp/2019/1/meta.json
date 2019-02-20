@@ -1,0 +1,195 @@
+{
+ "key": "iccj-hp-1-2019",
+ "label": "Decizia ÎCCJ nr. 1/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "1",
+ "date": "2019-01-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 1 din 14 ianuarie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 91 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare (art. 110 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare) și a dispozițiilor art. 131 din Ordonanța Guvernului nr. 92/2003 (art. 215 din Legea nr. 207/2015)",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "136",
+  "bis": false,
+  "date": "2019-02-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.678/1/2018",
+  "13.382/4/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă în Dosarul nr. 13.382/4/2017, privind pronunțarea unei hotărâri prealabile vizând interpretarea dispozițiilor art. 91 din Ordonanța Guvernului nr. 92/2003 privind Codul de procedură fiscală, republicată, cu modificările și completările ulterioare (art. 110 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare) și a dispozițiilor art. 131 din Ordonanța Guvernului nr. 92/2003 (art. 215 din Legea nr. 207/2015), în sensul de a stabili dacă, în ipoteza în care s-a dispus o condamnare pentru evaziune fiscală și obligarea condamnatului la plata sumelor datorate bugetului de stat (debit principal și accesorii), prescripția dreptului de a stabili obligațiile fiscale și prescripția dreptului de a cere executarea silită curg de la data săvârșirii faptelor sau de la data rămânerii definitive a hotărârii de condamnare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211076",
+  "text_sha256": "476d6b65ec0f8df2693ee738ed5ea319b7ddd301081648777b9da11da4b87d68",
+  "catalogue_sha256": "476d6b65ec0f8df2693ee738ed5ea319b7ddd301081648777b9da11da4b87d68",
+  "fetched": "2026-11-03T02:51:45Z",
+  "chars": 34906,
+  "portal_id": "211076",
+  "tip": "DECIZIE"
+ }
+}
