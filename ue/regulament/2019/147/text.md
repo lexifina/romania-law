@@ -1,0 +1,46 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2019/147 AL COMISIEI
+din 30 ianuarie 2019
+de aprobare a substanței active Beauveria bassiana tulpina PPRI 5339, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 13 alineatul (2),
+întrucât:
+(1) În conformitate cu articolul 7 alineatul (1) din Regulamentul (CE) nr. 1107/2009, Țările de Jos au primit, la 1 octombrie 2014, o cerere din partea BASF Corporation pentru aprobarea substanței active Beauveria bassiana tulpina PPRI 5339.
+(2) În conformitate cu articolul 9 alineatul (3) din Regulamentul (CE) nr. 1107/2009, la 2 iunie 2015, Țările de Jos, în calitate de stat membru raportor, au notificat solicitantului, celorlalte state membre, Comisiei și Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) admisibilitatea cererii.
+(3) La 22 decembrie 2016, statul membru raportor a transmis Comisiei un proiect de raport de evaluare, o copie fiind trimisă autorității, în care s-a evaluat dacă este de așteptat ca substanța activă în cauză să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009.
+(4) Autoritatea s-a conformat articolului 12 alineatul (1) din Regulamentul (CE) nr. 1107/2009. În conformitate cu articolul 12 alineatul (3) din Regulamentul (CE) nr. 1107/2009, ea a cerut solicitantului să furnizeze informații suplimentare statelor membre, Comisiei și autorității. Evaluarea informațiilor suplimentare de către statul membru raportor a fost transmisă autorității în luna noiembrie 2017, sub forma unui proiect de raport de evaluare actualizat.
+(5) La data de 12 martie 2018, autoritatea a comunicat solicitantului, statelor membre și Comisiei concluzia sa (2) cu privire la posibilitatea ca substanța activă Beauveria bassiana tulpina PPRI 5339 să îndeplinească criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Autoritatea a făcut publică concluzia sa.
+(6) La data de 24 octombrie 2018, Comisia a prezentat Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale proiectul de raport de examinare pentru Beauveria bassiana tulpina PPRI 5339 și un proiect de regulament care prevede aprobarea substanței active Beauveria bassiana tulpina PPRI 5339.
+(7) Cu privire la una sau mai multe utilizări reprezentative ale cel puțin unui produs de protecție a plantelor care conține substanța activă, în special în ceea ce privește utilizările examinate și detaliate în raportul de examinare, s-a stabilit că criteriile de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009 sunt îndeplinite.
+(8) Prin urmare, este adecvat să se aprobe substanța activă Beauveria bassiana tulpina PPRI 5339.
+(9) Cu toate acestea, în conformitate cu articolul 13 alineatul (2) coroborat cu articolul 6 din Regulamentul (CE) nr. 1107/2009 și având în vedere cunoștințele științifice și tehnice actuale, este necesară includerea anumitor condiții. În special, este necesar să se includă, după caz, măsuri de reducere a riscurilor.
+(10) În conformitate cu articolul 13 alineatul (4) din Regulamentul (CE) nr. 1107/2009, anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (3) ar trebui modificată în consecință.
+(11) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Aprobarea substanței active
+Substanța activă Beauveria bassiana tulpina PPRI 5339, astfel cum se specifică în anexa I, este aprobată sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 30 ianuarie 2019.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 309, 24.11.2009, p. 1.
+(2) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2018. Conclusion on the peer review of the pesticide risk assessment of the active substance Beauveria bassiana strain PPRI 5339 (Concluzia evaluării inter pares a riscului utilizării ca pesticid a substanței active Beauveria bassiana tulpina PPRI 5339). EFSA Journal 2018;16(4):5230, 18 pp. doi:10.2903/j.efsa.2018.5230.
+(3) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+ANEXA I
+Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+Beauveria bassiana tulpina PPRI 5339 Număr de acces în cadrul Agricultural Research Culture Collection (NRRL), autoritate internațională de depozitare: NRRL 50757 | Nu se aplică | Nivelul maxim de beauvericină: 0,5 mg/kg | 20 februarie 2019 | 20 februarie 2029 | În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se va ține seama de concluziile raportului de examinare privind substanța Beauveria bassiana tulpina PPRI 5339, în special apendicele I și II. În cadrul evaluării generale, statele membre acordă o atenție deosebită: — nivelului de metabolit beauvericină, în cadrul unui studiu privind perioada de conservare după stocarea preparatului (preparatelor) conținând B. bassiana tulpina PPRI 5339; — efectelor asupra polenizatorilor introduși în sere ca urmare a expunerii la un preparat (preparate) diferit(e) de preparatul reprezentativ pe care se bazează prezenta aprobare; — protecției operatorilor și a lucrătorilor, ținând seama de faptul că substanța B. bassiana tulpina PPRI 5339 trebuie să fie considerată, ca orice microorganism, potențial sensibilizantă. Respectarea menținerii stricte a condițiilor de mediu și analiza controlului de calitate în timpul procesului de fabricație, pentru a se asigura respectarea limitelor de contaminare microbiologică menționate în documentul de lucru SANCO/12116/2012(2). Condițiile de utilizare includ măsuri de diminuare a riscului, dacă este cazul.
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active se află în raportul de examinare.
+(2) https://ec.europa.eu/food/sites/food/files/plant/docs/pesticides_ppp_app-proc_guide_phys-chem-ana_microbial-contaminant-limits.pdf.
+ANEXA II
+În partea B din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011, se adaugă următoarea rubrică:
+„131 | Beauveria bassiana tulpina PPRI 5339 Număr de acces în cadrul Agricultural Research Culture Collection (NRRL), autoritate internațională de depozitare: NRRL 50757 | Nu se aplică | Nivelul maxim de beauvericină: 0,5 mg/kg | 20 februarie 2019 | 20 februarie 2029 | În vederea implementării principiilor uniforme menționate la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se va ține seama de concluziile raportului de examinare privind substanța Beauveria bassiana tulpina PPRI 5339, în special apendicele I și II. În cadrul evaluării generale, statele membre acordă o atenție deosebită: — nivelului de metabolit beauvericină, în cadrul unui studiu privind perioada de conservare după stocarea preparatului (preparatelor) conținând B. bassiana tulpina PPRI 5339; — efectelor asupra polenizatorilor introduși în sere ca urmare a expunerii la un preparat (preparate) diferit(e) de preparatul reprezentativ pe care se bazează prezenta aprobare; — protecției operatorilor și a lucrătorilor, ținând seama de faptul că substanța B. bassiana tulpina PPRI 5339 trebuie să fie considerată, ca orice microorganism, potențial sensibilizantă. Respectarea menținerii stricte a condițiilor de mediu și analiza controlului de calitate în timpul procesului de fabricație, pentru a se asigura respectarea limitelor de contaminare microbiologică menționate în documentul de lucru SANCO/12116/2012(*1). Condițiile de utilizare includ măsuri de diminuare a riscului, dacă este cazul.
+(*1) https://ec.europa.eu/food/sites/food/files/plant/docs/pesticides_ppp_app-proc_guide_phys-chem-ana_microbial-contaminant-limits.pdf”
