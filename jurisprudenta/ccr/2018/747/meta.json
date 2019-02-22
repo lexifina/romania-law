@@ -1,0 +1,176 @@
+{
+ "key": "dcc-747-2018",
+ "label": "Decizia CCR nr. 747/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "747",
+ "date": "2018-11-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 747 din 22 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 16 alin. (2) lit. d) din Ordonanța Guvernului nr. 24/2011 privind unele măsuri în domeniul evaluării bunurilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2019-02-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.577/54/2016",
+  "3.256D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 24/2011",
+    "number": "24",
+    "year": "2011",
+    "path": "og/2011/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 16 alin. (2) lit. d) din Ordonanța Guvernului nr. 24/2011 privind unele măsuri în domeniul evaluării bunurilor, excepție ridicată de Valeriu Chircă în Dosarul nr. 1.577/54/2016 al Curții de Apel Craiova - Secția contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 24/2011",
+    "number": "24",
+    "year": "2011",
+    "path": "og/2011/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211131",
+  "text_sha256": "979b00ddce6bfab3285cfea3485a92a983b480a77d31254aacd55036174e138b",
+  "catalogue_sha256": "979b00ddce6bfab3285cfea3485a92a983b480a77d31254aacd55036174e138b",
+  "fetched": "2026-11-03T02:51:28Z",
+  "chars": 17789,
+  "portal_id": "211131",
+  "tip": "DECIZIE"
+ }
+}
