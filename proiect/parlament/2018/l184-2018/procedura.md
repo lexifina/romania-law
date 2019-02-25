@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-17: documents published: Aviz comisie
 - 2018-04-18: documents published: Aviz comisie
 - 2018-04-19: documents published: Aviz comisie
+- 2019-02-25: rejected by the Senate
 
 ## Documents
 
