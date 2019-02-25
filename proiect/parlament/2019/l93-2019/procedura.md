@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2018-12-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-12-11: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2019-02-25: withdrawn by the initiator
 
 ## Documents
 
