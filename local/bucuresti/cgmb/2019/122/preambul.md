@@ -1,0 +1,6 @@
+Având în vedere expunerea de motive a Primarului General al Municipiului București și raportul comun de specialitate al Direcției Generale Infrastructură nr. 268/14.02.2019, al Direcției Generale Economice nr. 1541/18.02.2019 și al Serviciului Euro 2020 nr. 24/24.02.2019;
+Văzând raportul Comisiei învățământ, tineret, sport și educație civică nr. 2/25.02.2019, raportul Comisiei economice, buget și finanțe nr. 27/25.02.2019 și raportul Comisiei juridice și de disciplină nr. 122/25.02.2019 din cadrul Consiliului General al Municipiului București;
+În conformitate cu prevederile: a LED Hotărârii Guvernului nr. 1093/2013, modificată și completată prin Hotărârea Guvernului nr.
+232/2017, privind declararea de interes public și de importanță a Campionatului European de Fotbal 2020, precum și a candidaturii României pentru organizarea la București a unor meciuri din cadrul Turneului final;
+- Hotărârea Consiliului General al Municipiului București nr. 236/19.04.2018 privind stabilirea nivelurilor impozitelor și taxelor locale în Municipiul București, începând cu anul 2019 În temeiul prevederilor art. 36 alin. (2) lit. b) și d), alin. (4) lit c), alin. (6) lit. alin. (2) din Legea nr. 215/2001 privind administrația publică locală, republicată completările ulterioare;
+CONSILIUL GENERAL AL MUNICIPIUL HOTĂRĂȘTE
