@@ -1,0 +1,3 @@
+# Anexa nr. 3 la contractul-cadru
+Prețul de contract
+Prețul de contract este....................... [lei/MWh], reprezentând prețul reglementat, aprobat prin Decizia președintelui ANRE nr..................
