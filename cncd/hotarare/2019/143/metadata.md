@@ -1,0 +1,16 @@
+# Hotărârea CNCD nr. 143/2019
+
+Text withheld: this decision names private persons and is not anonymised, so only its metadata is published here; the decision is at the source link.
+
+- Body: Consiliul Național pentru Combaterea Discriminării
+- Kind: hotarare
+- Number: 143
+- Date: 2019-02-27
+- Published on the body's site: 2021-01-14
+- Legal basis: HG 1344/2007, OG 137/2000, OG137/2000 137/2000, OUG 27/2002
+- Criterion: nationalitate
+- Domain: demnitate personala
+- Measures: nu_constata_discriminare
+- Case file: 235/2017
+- Document: https://www.cncd.ro/wp-content/uploads/2020/12/hotarare-143-19.pdf
+- Source: https://www.cncd.ro/hotarari/hotarare-143-19/
