@@ -1,0 +1,263 @@
+{
+ "key": "dcc-736-2018",
+ "label": "Decizia CCR nr. 736/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "736",
+ "date": "2018-11-20",
+ "year": "2018",
+ "heading": "DECIZIA nr. 736 din 20 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, cu modificările și completările ulterioare, raportate la art. 3, art. 4 și art. 9 din același act normativ",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "162",
+  "bis": false,
+  "date": "2019-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.546/259/2016",
+  "1.854D/2017",
+  "1.744/259/2016",
+  "2.527/259/2016",
+  "2.702/259/2016",
+  "1.476/259/2013",
+  "825/259/2015",
+  "1.743/259/2016",
+  "1.936/259/2014",
+  "2.059/259/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion Micșunel, Camelia Vasile, Elena Șuvei, Societatea Apofis Agro - S.R.L., Ion Năstase, Ion Negoiță, Monica Căpătoiu și Veronica Florentina Iancu în dosarele nr. 1.546/259/2016, nr. 1.936/259/2014, nr. 2.059/259/2014, nr. 1.744/259/2016, nr. 2.527/259/2016, nr. 2.702/259/2016, nr. 1.476/259/20133, nr. 825/259/20155 și nr. 1.743/259/2016 ale Judecătoriei Mizil și constată că prevederile art. 5 din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării-cumpărării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților comerciale ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, cu modificările și completările ulterioare, raportate la art. 3, art. 4 și art. 9 din același act normativ, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Mizil și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2014",
+    "number": "17",
+    "year": "2014",
+    "path": "lege/2014/17"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1669",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211253",
+  "text_sha256": "12369a8a68e55a5e70cdcae002b31220bfde5be44e22ff481897360995ecbb76",
+  "catalogue_sha256": "12369a8a68e55a5e70cdcae002b31220bfde5be44e22ff481897360995ecbb76",
+  "fetched": "2026-11-03T02:51:04Z",
+  "chars": 30104,
+  "portal_id": "211253",
+  "tip": "DECIZIE"
+ }
+}
