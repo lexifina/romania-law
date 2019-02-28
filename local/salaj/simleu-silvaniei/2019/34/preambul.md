@@ -1,0 +1,11 @@
+În temeiul prevederilor art. 36 alin. (2) și alin. (4) lit. b), ale art. 45 alin. (2), art. 63 alin. (1) lit. c) și alin. (4) lit. c), precum și ale art. 115 alin. (1) lit. b), alin. (3), (5) și (6) din Legea administrației publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare;
+având în vedere prevederile Ordonanței de urgență a Guvernului nr. 64/2007 privind datoria publică, cu modificările și completările ulterioare, coroborate cu cele ale cap. IV din Legea nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, Hotărârii Guvernului nr. 9/2007 privind constituirea, componența și funcționarea Comisiei de autorizare a împrumuturilor locale, cu modificările și completările ulterioare și ale art. 29 alin. 1 lit. f din Legea nr. 98/2016 privind achizițiile publice, cu modificările și completările ulterioare;
+ținând seama de prevederile art. 41 alin. (4) din Legea nr. 24/2000 privind normele de tehnică legislativă pentru elaborarea actelor normative, republicată, cu modificările și completările ulterioare,
+luând în considerare prevederile art. 9 pct. 8 din Carta europeană a autonomiei locale, adoptată la Strasbourg la 15 octombrie 1985, ratificată prin Legea nr. 199/1997,
+ținând seama de prevederile art. 1.166 și următoarele din Legea nr. 287/2009 privind Codul civil, republicată, cu modificările ulterioare, referitoare la contracte sau convenții,
+luând act de:
+a) referatul de aprobare prezentat de către primarul orașului Șimleu Silvaniei, în calitatea sa de inițiator, înregistrat sub nr. 2978/2019;
+b) raportul Direcției economice înregistrat sub nr. 2979/2019;
+c) raportul Comisiei pentru programe de dezvoltare economică și socială, buget, finanțe, servicii, comerț și agricultură a Consiliului Local, constatând necesitatea de a asigura resursele financiare pentru realizarea investițiilor publice de interes local a căror documentație tehnico-economică a fost aprobată prin Hotărârea Consiliului Local nr. 26/31.01.2019 privind aprobarea documentației tehnice și a principalilor indicatori tehnico-economici pentru obiectivul de investiții „Amenajare Piața agroalimentară din orașul Șimleu Silvaniei”, prevăzută în anexa la prezenta,
+Consiliul Local al orașului Șimleu Silvaniei adoptă prezenta
+HOTĂRÂRE:
