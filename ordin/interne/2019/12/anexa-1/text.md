@@ -1,0 +1,13 @@
+# ANEXĂ
+CERERE de atribuire a codurilor unice de identificare pentru marcarea armelor, componentelor esențiale fabricate cu destinația piese de rezervă și munițiilor
+- model -
+Către
+Inspectoratul General al Poliției Române
+Direcția arme, explozivi și substanțe periculoase............................................, cu sediul în..........., str........ nr......., bl....., ap......, (denumirea armurierului/nume și prenume persoană fizică) județul/sectorul........................., înregistrată la Oficiul Național al Registrului Comerțului cu nr................, din data de..............., telefon sediu: fix............................, mobil................................., autorizată conform prevederilor legale în vigoare pentru:
+Efectuarea operațiunilor de producere a armelor, componentelor esențiale și munițiilor [.......................] reprezentată prin domnul/doamna.........., în calitate de administrator, posesor al/a B.I./C.I. seria........., nr....................., în temeiul prevederilor art. 134 alin. (1) din Normele metodologice de aplicare a Legii nr. 295/2004 privind regimul armelor și al munițiilor, aprobate prin Hotărârea Guvernului nr. 11/2018, vă rog să atribuiți codul unic de identificare pentru marcarea [] armelor, [] componentelor esențiale fabricate cu destinația piese de rezervă și [] munițiilor, pentru sucursala/punctul de lucru situată/situat în România, localitatea............................., str............................... nr...., bl...., ap...., județul/sectorul.....................
+Prezenta cerere se depune de către domnul/doamna..........., în calitate de delegat al solicitantului.
+Data:.............
+Numele și prenumele:..............
+Semnătura administratorului:..............
+Prelucrarea datelor se face exclusiv pentru crearea evidenței codurilor unice de identificare.
+----
