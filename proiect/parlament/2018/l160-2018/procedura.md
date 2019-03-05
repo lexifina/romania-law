@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2018-05-02: registered at the Chamber of Deputies
 - 2019-02-06: adopted by the Chamber of Deputies
 - 2019-02-15: sent for promulgation; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-03-05: promulgated, becomes Legea nr. 39/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2018-04-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160AM.PDF
 - 2019-02-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160AXS.PDF
 - 2019-02-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160LP.PDF
+- 2019-03-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160DP.PDF
+- 2019-03-05: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160AFP.PDF
+- 2019-03-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L160FP.PDF
