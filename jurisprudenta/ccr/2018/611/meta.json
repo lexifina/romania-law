@@ -1,0 +1,223 @@
+{
+ "key": "dcc-611-2018",
+ "label": "Decizia CCR nr. 611/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "611",
+ "date": "2018-10-02",
+ "year": "2018",
+ "heading": "DECIZIA nr. 611 din 2 octombrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 178 alin. (1) lit. b) și art. 185 alin. (15) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în forma anterioară modificărilor aduse prin Ordonanța de urgență a Guvernului nr. 79/2016 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "2019-03-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "213/54/2016",
+  "2.795/2/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "185",
+     "alin": [
+      "15"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 79/2016",
+    "number": "79",
+    "year": "2016",
+    "path": "oug/2016/79"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Hashemi Masoud în Dosarul nr. 213/54/2016 al Curții de Apel Craiova - Secția contencios administrativ și fiscal și de Niculina Faur în Dosarul nr. 2.795/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile art. 178 alin. (1) lit. b) și art. 185 alin. (15) din Legea nr. 95/2006 privind reforma în domeniul sănătății, în forma anterioară modificărilor aduse prin Ordonanța de urgență a Guvernului nr. 79/2016 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția contencios administrativ și fiscal și Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "185",
+     "alin": [
+      "15"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 124/1998",
+    "number": "124",
+    "year": "1998",
+    "path": "og/1998/124"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 79/2016",
+    "number": "79",
+    "year": "2016",
+    "path": "oug/2016/79"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211660",
+  "text_sha256": "7c73054f5d0466d1ed86b6194dbdd34e5824ae4758fdffa87021b464e1b82fcc",
+  "catalogue_sha256": "7c73054f5d0466d1ed86b6194dbdd34e5824ae4758fdffa87021b464e1b82fcc",
+  "fetched": "2026-11-03T02:50:41Z",
+  "chars": 19878,
+  "portal_id": "211660",
+  "tip": "DECIZIE"
+ }
+}
