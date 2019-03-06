@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2019-02-20: documents published: Aviz comisie
 - 2019-02-25: documents published: Aviz comisie
 - 2019-02-27: documents published: Aviz comisie
+- 2019-03-06: registered at the Chamber of Deputies
 
 ## Documents
 
