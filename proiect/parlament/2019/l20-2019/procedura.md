@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-10-30: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2019-02-20: documents published: Aviz comisie
+- 2019-03-06: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-30: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L020PV.PDF
 - 2019-02-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L020CA45.PDF
 - 2019-02-20: Aviz comisie (CA46): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L020CA46.PDF
+- 2019-03-06: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L020CR.PDF
