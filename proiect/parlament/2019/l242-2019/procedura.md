@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-03-06: first record in the bill file
+- 2019-03-07: registered at the Senate
 
 ## Documents
 
