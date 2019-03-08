@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-02-06: adopted by the Chamber of Deputies
 - 2019-02-15: sent for promulgation; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-03-05: promulgated, becomes Legea nr. 39/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-03-08: published in the Monitorul Oficial
 
 ## Documents
 
