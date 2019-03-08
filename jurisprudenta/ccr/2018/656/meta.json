@@ -1,0 +1,417 @@
+{
+ "key": "dcc-656-2018",
+ "label": "Decizia CCR nr. 656/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "656",
+ "date": "2018-10-30",
+ "year": "2018",
+ "heading": "DECIZIA nr. 656 din 30 octombrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 40 din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "188",
+  "bis": false,
+  "date": "2019-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.168/116/2016",
+  "442D/2017",
+  "1.070/119/2016",
+  "1.268/116/2016",
+  "3.333/117/2016",
+  "47.004/3/2016",
+  "2.204/100/2016/a1",
+  "3.797/117/2016",
+  "3.770/117/2016",
+  "2.637/113/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valentin R. Bob în Dosarul nr. 1.168/116/2016 al Tribunalului Călărași - Secția civilă, de Valerian Bulgariu în Dosarul nr. 1.070/119/2016 al Tribunalului Covasna - Secția civilă, de Valentin-Ovidiu Dediu în Dosarul nr. 1.268/116/2016 al Tribunalului Călărași - Secția civilă, de Carmen Gabriela Filimon în Dosarul nr. 3.333/117/2016 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Aurel Cojocariu în Dosarul nr. 47.004/3/2016 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Ioan Grad în Dosarul nr. 2.204/100/2016/a1 al Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, de Radu Petru Pop în Dosarul nr. 3.797/117/2016 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Mihaela Chiorean în Dosarul nr. 3.770/117/2016 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Ionel Oceanu în Dosarul nr. 2.637/113/2016 al Tribunalului Brăila - Secția I civilă, de Gheorghe Ioan Șimon Cian în Dosarul nr. 2.203/100/2016/a1* al Tribunalului Maramureș - Secția I civilă, de Ioan Ciochină Barbu în Dosarul nr. 4.452/99/2017 al Tribunalului Iași - Secția I civilă, de Marian Dinescu în Dosarul nr. 3.953/105/2017 al Tribunalului Prahova - Secția I civilă, de Vasile Popa în Dosarul nr. 1.479/120/2017 al Tribunalului Dâmbovița - Secția I civilă, de Ion Andreiu în Dosarul nr. 5.973/105/2017 al Tribunalului Prahova - Secția I civilă, de Dumitru Dinu în Dosarul nr. 1.758/88/2017 al Tribunalului Tulcea - Secția civilă, de contencios administrativ și fiscal, de Manea Mihai în Dosarul nr. 1.497/122/2017 al Tribunalului Giurgiu - Secția civilă, de Vasile Miculescu în Dosarul nr. 5.590/120/2017 al Tribunalului Dâmbovița - Secția I civilă și de Ionel Pătrășcioiu în Dosarul nr. 4.942/105/2017 al Curții de Apel Ploiești - Secția I civilă și constată că dispozițiile art. 40 din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Călărași - Secția civilă, Tribunalului Covasna - Secția civilă, Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, Tribunalului Brăila - Secția I civilă, Tribunalului Maramureș - Secția I civilă, Tribunalului Iași - Secția I civilă, Tribunalului Prahova - Secția I civilă, Tribunalului Dâmbovița - Secția I civilă, Tribunalului Tulcea - Secția civilă, de contencios administrativ și fiscal, Tribunalului Giurgiu - Secția civilă și Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "lege/2015/57"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211735",
+  "text_sha256": "be7e1707c9c6a1b26227d451c2683ae9ed8b35c8aae3b1ba42d87eb6f50f7924",
+  "catalogue_sha256": "be7e1707c9c6a1b26227d451c2683ae9ed8b35c8aae3b1ba42d87eb6f50f7924",
+  "fetched": "2026-11-06T02:30:27Z",
+  "chars": 56284,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/211735",
+   "timestamp": "20250909184933",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533069.61/warc/CC-MAIN-20250909182837-20250909212837-00905.warc.gz",
+   "offset": "297982313",
+   "length": "44882",
+   "sha256": "dc91cabc3e738da20e551f1b307507079afa3f723f84e5d924b133115c8d356e"
+  },
+  "portal_id": "211735",
+  "tip": "DECIZIE"
+ }
+}
