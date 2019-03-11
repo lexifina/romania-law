@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-02-15: adopted by the Chamber of Deputies
 - 2019-02-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-02-20: sent for promulgation
+- 2019-03-11: promulgated, becomes Legea nr. 47/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Guvernul României.
 - 2019-02-13: Raport comisie sesizată pe fond (CR): [cr-120a8caf.md](cr-120a8caf.md); official file https://www.senat.ro/legis/PDF/2019/19L089CR.PDF
 - 2019-02-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L089AXS.PDF
 - 2019-02-18: Forma trimisă la promulgare (LP): [lp-771d523b.md](lp-771d523b.md); official file https://www.senat.ro/legis/PDF/2019/19L089LP.PDF
+- 2019-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L089DP.PDF
+- 2019-03-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L089AFP.PDF
+- 2019-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L089FP.PDF
