@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-18: returned for re-examination
 - 2019-02-18: returned for re-examination
 - 2019-03-02: sent for promulgation
+- 2019-03-11: promulgated, becomes Legea nr. 48/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398FS.PDF
 - 2018-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398AXS.PDF
 - 2018-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398LP.PDF
+- 2019-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398DP.PDF
+- 2019-03-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398AFP.PDF
+- 2019-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398FP.PDF
