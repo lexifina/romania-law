@@ -9,8 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-03-06: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+- 2019-03-12: documents published: Aviz Consiliul Legislativ, Punct de vedere
 
 ## Documents
 
 - 2019-03-06: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L241FG.PDF
 - 2019-03-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L241EM.PDF
+- 2019-03-12: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L241LG.PDF
+- 2019-03-12: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L241PV.PDF
