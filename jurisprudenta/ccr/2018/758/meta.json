@@ -1,0 +1,243 @@
+{
+ "key": "dcc-758-2018",
+ "label": "Decizia CCR nr. 758/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "758",
+ "date": "2018-11-22",
+ "year": "2018",
+ "heading": "DECIZIA nr. 758 din 22 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor articolului unic pct. 4 teza referitoare la introducerea pct. 3^4 din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative și a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, cu modificările și completările ulterioare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "195",
+  "bis": false,
+  "date": "2019-03-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.102/3/2017",
+  "380D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ștefan Marius Gruia Vladimir Mocofănescu-Dumitrescu în Dosarul nr. 18.102/3/2017 al Tribunalului București - Secția a III-a civilă și constată că dispozițiile articolului unic pct. 4 teza referitoare la introducerea pct. 3^4 din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative și a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, cu modificările și completările ulterioare, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a III-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211771",
+  "text_sha256": "6506ddd684b1f4b3d53be42dacb9a825aba2840900a519cdf3b823b367f32c85",
+  "catalogue_sha256": "6506ddd684b1f4b3d53be42dacb9a825aba2840900a519cdf3b823b367f32c85",
+  "fetched": "2026-11-03T02:49:30Z",
+  "chars": 38879,
+  "portal_id": "211771",
+  "tip": "DECIZIE"
+ }
+}
