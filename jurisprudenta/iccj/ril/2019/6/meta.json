@@ -1,0 +1,300 @@
+{
+ "key": "iccj-ril-6-2019",
+ "label": "Decizia ÎCCJ nr. 6/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2019-02-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 6 din 11 februarie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 1.616-1.618 lit. c) raportat la art. 499, art. 514 alin. (1) și (3), art. 515, art. 525 alin. (1), art. 529-531 din Codul civil și art. 729 alin. (3) și (7) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "197",
+  "bis": false,
+  "date": "2019-03-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.960/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1616",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "499",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "525",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "531",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "729",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii promovat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 1.616-1.618 lit. c) raportat la art. 499, art. 514 alin. (1) și (3), art. 515, art. 525 alin. (1), art. 529-531 din Codul civil și art. 729 alin. (3) și (7) din Codul de procedură civilă, instanța de tutelă va putea dispune compensația obligațiilor de întreținere datorate de fiecare părinte copilului care nu locuiește cu acesta, până la limita celei mai mici dintre ele și în măsura în care compensația nu contravine interesului superior al copilului.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1616",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "499",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "525",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "531",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1617",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "510",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "524",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "487",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1615",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "729",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-03-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211795",
+  "text_sha256": "3e46125ebfbd213813ae49652aea2f1955ba29a9fcbe068cacdbc75b98f0a7ce",
+  "catalogue_sha256": "3e46125ebfbd213813ae49652aea2f1955ba29a9fcbe068cacdbc75b98f0a7ce",
+  "fetched": "2026-11-03T02:49:34Z",
+  "chars": 52506,
+  "portal_id": "211795",
+  "tip": "DECIZIE"
+ }
+}
