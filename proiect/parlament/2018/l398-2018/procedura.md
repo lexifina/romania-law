@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-18: returned for re-examination
 - 2019-03-02: sent for promulgation
 - 2019-03-11: promulgated, becomes Legea nr. 48/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-03-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,10 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398DP.PDF
 - 2019-03-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398AFP.PDF
 - 2019-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398FP.PDF
+- 2019-03-13: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-13: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L398PX.PDF (its day is not given by the bill file: shown from the last stage held)
