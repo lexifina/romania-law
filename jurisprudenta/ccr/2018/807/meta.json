@@ -1,0 +1,335 @@
+{
+ "key": "dcc-807-2018",
+ "label": "Decizia CCR nr. 807/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "807",
+ "date": "2018-12-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 807 din 6 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, art. 253^1 alin. (1) din Codul penal din 1969 și art. 301 alin. (1) din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "2019-03-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "501/36/2016",
+  "1.840D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "253-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "301",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge excepția de neconstituționalitate ridicată de Virgil Lungu în Dosarul nr. 501/36/2016 al Curții de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie și constată că dispozițiile art. 11 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, art. 253^1 alin. (1) din Codul penal din 1969 și art. 301 alin. (1) din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "253-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2531",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "301",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2017",
+    "number": "193",
+    "year": "2017",
+    "path": "lege/2017/193"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 278/2006",
+    "number": "278",
+    "year": "2006",
+    "path": "lege/2006/278"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2004",
+    "number": "365",
+    "year": "2004",
+    "path": "lege/2004/365"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211808",
+  "text_sha256": "271b559ecf6c2c6ddb0fea479fff5b4f3820457d9a0fb86531cd40711af15093",
+  "catalogue_sha256": "271b559ecf6c2c6ddb0fea479fff5b4f3820457d9a0fb86531cd40711af15093",
+  "fetched": "2026-11-03T14:30:31Z",
+  "chars": 30327,
+  "portal_id": "211808",
+  "tip": "DECIZIE"
+ }
+}
