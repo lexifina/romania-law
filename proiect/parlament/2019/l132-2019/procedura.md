@@ -1,0 +1,21 @@
+# Proiect de lege L132/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 227/2019 (`legea-227-2019`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.15/2019 pentru prorogarea unor termene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-03-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Document
+
+## Documents
+
+- 2019-03-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132AD.PDF
+- 2019-03-14: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132FG.PDF
+- 2019-03-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132EM.PDF
+- 2019-03-14: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132OG.PDF
+- 2019-03-14: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132HG.PDF
