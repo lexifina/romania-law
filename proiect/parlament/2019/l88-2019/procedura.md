@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-02-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-03-11: returned for re-examination
 - 2019-03-13: adopted by the Chamber of Deputies
+- 2019-03-15: sent for promulgation; promulgated, becomes Legea nr. 50/2019; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -46,3 +47,7 @@ Initiator: Guvernul României.
 - 2019-02-13: Raport comisie sesizată pe fond (CR): [cr-2e9a5c27.md](cr-2e9a5c27.md); official file https://www.senat.ro/legis/PDF/2019/19L088CR.PDF
 - 2019-02-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088AXS.PDF
 - 2019-02-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088LP.PDF
+- 2019-03-15: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-15: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088DP.PDF
+- 2019-03-15: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088AFP.PDF
+- 2019-03-15: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L088FP.PDF
