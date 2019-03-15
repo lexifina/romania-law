@@ -1,0 +1,279 @@
+{
+ "key": "dcc-797-2018",
+ "label": "Decizia CCR nr. 797/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "797",
+ "date": "2018-12-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 797 din 6 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 10 din Ordonanța de urgență a Guvernului nr. 51/2015 privind unele măsuri pentru realizarea de investiții la operatorii economici din industria de apărare și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "207",
+  "bis": false,
+  "date": "2019-03-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "331/3/2017",
+  "1.108D/2017",
+  "333/3/2017",
+  "334/3/2017",
+  "274/3/2017",
+  "278/3/2017",
+  "279/3/2017",
+  "273/3/2017",
+  "275/3/2017",
+  "338/3/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2015",
+    "number": "51",
+    "year": "2015",
+    "path": "oug/2015/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alina Tănase, Radu Antonescu, Gabriela Bitere, Roxana-Elena Grecu, Camelia Bîrdîzău, Bogdan Dobrin, Eduard Badea, Andreea Vlăsceanu, Anamaria Moise, Luminița Ciobănel, Monica Gavrilă, Castela Roșu, Ruxandra Dumitra, Adriana Simon, Alexandru Popica, Venera Mitran, Dana Angelescu, Nicoleta Croitoru, Mariana Teodorov, Cătălin Roșu, Corina Slăvasile, Silviana Marcela Simion, Veronica Guță, Viorela Florescu și Ilinca Bălan în Dosarele nr. 331/3/2017, nr. 333/3/2017, nr. 332/3/2017, nr. 334/3/2017, nr. 274/3/2017, nr. 278/3/2017, nr. 279/3/2017, nr. 273/3/2017, nr. 275/3/2017, nr. 338/3/2017, nr. 339/3/2017, nr. 315/3/2017, nr. 277/3/2017, nr. 320/3/2017, nr. 326/3/2017, nr. 327/3/2017, nr. 329/3/2017, nr. 340/3/2017, nr. 247/3/2017, nr. 248/3/2017, nr. 295/3/2017, nr. 298/3/2017, nr. 294/3/2017, nr. 261/3/2017 și nr. 266/3/2017 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. 10 din Ordonanța de urgență a Guvernului nr. 51/2015 privind unele măsuri pentru realizarea de investiții la operatorii economici din industria de apărare și pentru modificarea și completarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 51/2015",
+    "number": "51",
+    "year": "2015",
+    "path": "oug/2015/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 47/2015",
+    "number": "47",
+    "year": "2015",
+    "path": "oug/2015/47"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 490/2004",
+    "number": "490",
+    "year": "2004",
+    "path": "lege/2004/490"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211841",
+  "text_sha256": "8ce81fe297d2d138872ab1b73bdd002d57f76444458cb912fc47a27ddf79107d",
+  "catalogue_sha256": "8ce81fe297d2d138872ab1b73bdd002d57f76444458cb912fc47a27ddf79107d",
+  "fetched": "2026-11-03T15:44:59Z",
+  "chars": 21170,
+  "portal_id": "211841",
+  "tip": "DECIZIE"
+ }
+}
