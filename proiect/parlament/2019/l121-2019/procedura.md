@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-02-28: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-03-07: documents published: Aviz comisie
 - 2019-03-13: adopted by the Senate
+- 2019-03-15: sent for promulgation
 
 ## Documents
 
