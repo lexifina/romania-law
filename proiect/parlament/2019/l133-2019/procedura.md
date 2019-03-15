@@ -1,0 +1,22 @@
+# Proiect de lege L133/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 65/2026 (`legea-65-2026`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.16/2019 pentru modificarea art.5 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.98/2017 privind funcţia de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziţie publică, a contractelor/acordurilor-cadru sectoriale şi a contractelor de concesiune de lucrări şi concesiune de servicii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-03-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-03-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133AD.PDF
+- 2019-03-15: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133FG.PDF
+- 2019-03-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133EM.PDF
+- 2019-03-15: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133LG.PDF
+- 2019-03-15: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133OG.PDF
+- 2019-03-15: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L133HG.PDF
