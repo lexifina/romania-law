@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-02-06: documents published: Punct de vedere
 - 2019-03-05: registered at the Senate
+- 2019-03-19: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-01-31: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L283FG.PDF
 - 2019-01-31: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L283EM.PDF
 - 2019-02-06: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L283PV.PDF
+- 2019-03-19: Aviz comisie (CA6): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L283CA6.PDF
