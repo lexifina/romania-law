@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-03-13: adopted by the Senate
 - 2019-03-15: sent for promulgation
 - 2019-03-18: promulgated, becomes Legea nr. 51/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-03-19: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2019-03-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121DP.PDF
 - 2019-03-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121AFP.PDF
 - 2019-03-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121FP.PDF
+- 2019-03-19: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-19: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-03-19: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L121TC.PDF (its day is not given by the bill file: shown from the last stage held)
