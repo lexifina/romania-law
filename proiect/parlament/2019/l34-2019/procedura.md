@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-14: documents published: Aviz comisie
 - 2019-02-19: documents published: Aviz comisie
 - 2019-03-18: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2019-03-20: registered at the Chamber of Deputies
 
 ## Documents
 
