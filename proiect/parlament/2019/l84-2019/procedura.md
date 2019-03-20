@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-04: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2019-02-20: documents published: Aviz comisie
 - 2019-02-27: documents published: Aviz comisie
+- 2019-03-20: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L084CA45.PDF
 - 2019-02-20: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L084CA8.PDF
 - 2019-02-27: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L084CA1.PDF
+- 2019-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L084AM.PDF
