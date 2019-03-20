@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-27: adopted by the Chamber of Deputies
 - 2019-03-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-03-06: sent for promulgation
+- 2019-03-20: promulgated, becomes Legea nr. 53/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031AM.PDF
 - 2019-03-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031AXS.PDF
 - 2019-03-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031LP.PDF
+- 2019-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031DP.PDF
+- 2019-03-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031AFP.PDF
+- 2019-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L031FP.PDF
