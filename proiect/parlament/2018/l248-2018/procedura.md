@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-20: returned for re-examination
 - 2019-03-04: returned for re-examination
 - 2019-03-16: sent for promulgation
+- 2019-03-20: promulgated, becomes Legea nr. 54/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-10: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248FS.PDF
 - 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248AXS.PDF
 - 2018-07-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248LP.PDF
+- 2019-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248DP.PDF
+- 2019-03-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248AFP.PDF
+- 2019-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L248FP.PDF
