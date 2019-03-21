@@ -1,0 +1,162 @@
+{
+ "key": "dcc-672-2018",
+ "label": "Decizia CCR nr. 672/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "672",
+ "date": "2018-11-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 672 din 6 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 415 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "2019-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.243/110/2013",
+  "196D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 415 din Codul de procedură civilă, excepție ridicată de Curtea de Apel Bacău - Secția I civilă, din oficiu, în dosarele nr. 3.243/110/2013, nr. 4.066/110/2013, nr. 5.200/110/2013, nr. 726/110/2014, nr. 824/110/2014, nr. 1.375/110/2014 și nr. 2.888/110/2014 ale acestei instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Bacău - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211956",
+  "text_sha256": "805f42c39a61027273d0b05ecb466dc8f7dd53ba0b896023e098255613c9331f",
+  "catalogue_sha256": "805f42c39a61027273d0b05ecb466dc8f7dd53ba0b896023e098255613c9331f",
+  "fetched": "2026-11-03T02:48:52Z",
+  "chars": 14971,
+  "portal_id": "211956",
+  "tip": "DECIZIE"
+ }
+}
