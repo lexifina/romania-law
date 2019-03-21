@@ -1,0 +1,209 @@
+{
+ "key": "dcc-836-2018",
+ "label": "Decizia CCR nr. 836/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "836",
+ "date": "2018-12-13",
+ "year": "2018",
+ "heading": "DECIZIA nr. 836 din 13 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 29 alin. (1) lit. k) din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "220",
+  "bis": false,
+  "date": "2019-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.220/3/2014",
+  "213D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "k"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Michaela Roxana Hecht în Dosarul nr. 17.220/3/2014 al Tribunalului București - Secția a V-a civilă și constată că dispozițiile art. 29 alin. (1) lit. k) din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a V-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "k",
+      "l"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 221/2009",
+    "number": "221",
+    "year": "2009",
+    "path": "lege/2009/221"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 439/2006",
+    "number": "439",
+    "year": "2006",
+    "path": "lege/2006/439"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "t"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211957",
+  "text_sha256": "422146d6c2ba48dfb7a174d408a437c6d45526de345800b4adaaf04726b433cb",
+  "catalogue_sha256": "422146d6c2ba48dfb7a174d408a437c6d45526de345800b4adaaf04726b433cb",
+  "fetched": "2026-11-03T02:48:52Z",
+  "chars": 11995,
+  "portal_id": "211957",
+  "tip": "DECIZIE"
+ }
+}
