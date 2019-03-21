@@ -1,0 +1,255 @@
+{
+ "key": "dcc-589-2018",
+ "label": "Decizia CCR nr. 589/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "589",
+ "date": "2018-09-27",
+ "year": "2018",
+ "heading": "DECIZIA nr. 589 din 27 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 47 [cu referire la pct. 4 lit. C din anexa la Ordonanța de urgență a Guvernului nr. 77/2009] din Ordonanța de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative, precum și ale art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "221",
+  "bis": false,
+  "date": "2019-03-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "15.117/3/2016",
+  "1.800D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Babylon Games - S.R.L. din București în Dosarul nr. 15.117/3/2016 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. I pct. 47 [cu referire la pct. 4 lit. C din anexa la Ordonanța de urgență a Guvernului nr. 77/2009] din Ordonanța de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative și ale art. II alin. (4) din Legea nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/211934",
+  "text_sha256": "6b16fe4f47d8435c897aaec259aefa1e5cd6b3f6dc141cbbbc9aa16a9120f46c",
+  "catalogue_sha256": "6b16fe4f47d8435c897aaec259aefa1e5cd6b3f6dc141cbbbc9aa16a9120f46c",
+  "fetched": "2026-11-03T02:49:00Z",
+  "chars": 22439,
+  "portal_id": "211934",
+  "tip": "DECIZIE"
+ }
+}
