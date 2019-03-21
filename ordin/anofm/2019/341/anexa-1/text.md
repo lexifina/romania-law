@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA privind confirmarea existenței situației de boală la societățile din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane, în vederea acordării compensației prevăzute la art. 2 alin. (1) din Ordonanța de urgență a Guvernului nr. 83/2018 privind acordarea unei măsuri de protecție socială persoanelor concediate din cadrul societăților din sectorul crescătorilor de suine a căror activitate a fost afectată de virusul pestei porcine africane
