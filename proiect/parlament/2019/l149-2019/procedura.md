@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2019-02-25: registered at the Chamber of Deputies
+- 2019-03-25: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2019-03-25: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149OG.PDF
