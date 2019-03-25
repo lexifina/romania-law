@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2018-11-06: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2019-03-20: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2019-03-25: registered at the Chamber of Deputies
 
 ## Documents
 
