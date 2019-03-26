@@ -1,0 +1,156 @@
+{
+ "key": "dcc-813-2018",
+ "label": "Decizia CCR nr. 813/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "813",
+ "date": "2018-12-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 813 din 6 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 187 alin. (1) pct. 1 lit. a) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "229",
+  "bis": false,
+  "date": "2019-03-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "303/117/2018/a1",
+  "1.057D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "187",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Lucian Todoran în dosarul nr. 303/117/2018/A1 al Tribunalului Cluj - Secția Mixtă, de Contencios Administrativ și Fiscal, de Conflicte de Muncă și Asigurări Sociale, și constată că dispozițiile art. 187 alin. (1) pct. 1 lit. a) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția Mixtă, de Contencios Administrativ și Fiscal, de Conflicte de Muncă și Asigurări Sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "187",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212018",
+  "text_sha256": "ea6305debf902f1e4d7dba654599c4fc6b5fcdea1fc6802ad693086f00ed537e",
+  "catalogue_sha256": "ea6305debf902f1e4d7dba654599c4fc6b5fcdea1fc6802ad693086f00ed537e",
+  "fetched": "2026-11-03T02:48:43Z",
+  "chars": 7194,
+  "portal_id": "212018",
+  "tip": "DECIZIE"
+ }
+}
