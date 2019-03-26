@@ -9,9 +9,13 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-03-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2019-03-26: documents published: Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
 
 ## Documents
 
 - 2019-03-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528AD.PDF
 - 2019-03-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528FG.PDF
 - 2019-03-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528EM.PDF
+- 2019-03-26: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528ES.PDF
+- 2019-03-26: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528SJ.PDF
+- 2019-03-26: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528PV.PDF
