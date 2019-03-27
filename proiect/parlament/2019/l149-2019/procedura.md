@@ -12,7 +12,13 @@ Initiator: Guvernul României.
 
 - 2019-02-25: registered at the Chamber of Deputies
 - 2019-03-25: adopted by the Chamber of Deputies; documents published: Document
+- 2019-03-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2019-03-25: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149OG.PDF
+- 2019-03-27: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149AD.PDF
+- 2019-03-27: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149FG.PDF
+- 2019-03-27: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149EM.PDF
+- 2019-03-27: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149LG.PDF
+- 2019-03-27: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L149HG.PDF
