@@ -13,7 +13,10 @@ Initiator: Guvernul României.
 - 2019-02-04: registered at the Chamber of Deputies
 - 2019-03-06: documents published: Raport comisie sesizată pe fond
 - 2019-03-25: adopted by the Chamber of Deputies
+- 2019-03-27: registered at the Senate; documents published: Forma inițiatorului, Document
 
 ## Documents
 
 - 2019-03-06: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143CR.PDF
+- 2019-03-27: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143FG.PDF
+- 2019-03-27: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143HG.PDF
