@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-04: first record in the bill file
 - 2019-02-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-02-12: documents published: Punct de vedere Guvern
+- 2019-03-27: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-07: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L483FG.PDF
 - 2019-02-07: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L483EM.PDF
 - 2019-02-12: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L483SJ.PDF
+- 2019-03-27: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L483CA1.PDF
