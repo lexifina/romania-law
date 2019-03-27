@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2018-09-10: documents published: Aviz comisie
 - 2018-09-17: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-09-19: registered at the Chamber of Deputies
+- 2019-03-27: adopted by the Chamber of Deputies
 
 ## Documents
 
