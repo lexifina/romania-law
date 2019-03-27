@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-06: documents published: Punct de vedere
 - 2019-03-05: registered at the Senate
 - 2019-03-19: documents published: Aviz comisie
+- 2019-03-27: registered at the Chamber of Deputies
 
 ## Documents
 
