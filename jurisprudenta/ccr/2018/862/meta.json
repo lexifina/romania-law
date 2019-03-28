@@ -1,0 +1,244 @@
+{
+ "key": "dcc-862-2018",
+ "label": "Decizia CCR nr. 862/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "862",
+ "date": "2018-12-18",
+ "year": "2018",
+ "heading": "DECIZIA nr. 862 din 18 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 613 alin. (4) din Codul de procedură civilă, în redactarea anterioară modificării aduse prin Legea nr. 17/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "239",
+  "bis": false,
+  "date": "2019-03-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.873/2/2015",
+  "212D/2017",
+  "283/44/2016",
+  "2.108/1/2016",
+  "819/2/2016",
+  "2.706D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "613",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2017",
+    "number": "17",
+    "year": "2017",
+    "path": "lege/2017/17"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Auger Petrus - S.R.L. din comuna Ștefan cel Mare, județul Călărași, de Înalta Curte de Casație și Justiție - Secția a II-a civilă, din oficiu, de Compania Națională de Administrare a Infrastructurii Rutiere din București și de Rădulescu N. Dan P.F.A. în dosarele nr. 4.873/2/2015, nr. 283/44/2016, nr. 2.108/1/2016 și nr. 819/2/2016 ale Înaltei Curți de Casație și Justiție - Secția a II-a civilă și constată că dispozițiile art. 613 alin. (4) din Codul de procedură civilă, în redactarea anterioară modificării aduse prin Legea nr. 17/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 1/2016 pentru modificarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și a unor acte normative conexe sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "613",
+     "alin": [
+      "3",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "608",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2017",
+    "number": "17",
+    "year": "2017",
+    "path": "lege/2017/17"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212221",
+  "text_sha256": "a5a07f552faf4c6e93a034f59cfe8f2076bff9456850e6bbb2a1d185f1f9b41e",
+  "catalogue_sha256": "a5a07f552faf4c6e93a034f59cfe8f2076bff9456850e6bbb2a1d185f1f9b41e",
+  "fetched": "2026-11-03T02:48:30Z",
+  "chars": 22291,
+  "portal_id": "212221",
+  "tip": "DECIZIE"
+ }
+}
