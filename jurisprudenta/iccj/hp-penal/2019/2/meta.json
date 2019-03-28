@@ -1,0 +1,271 @@
+{
+ "key": "iccj-hp-penal-2-2019",
+ "label": "Decizia ÎCCJ nr. 2/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2019-01-30",
+ "year": "2019",
+ "heading": "DECIZIA nr. 2 din 30 ianuarie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept: dacă fapta de sustragere de la executarea măsurii de siguranță prevăzută în art. 112 lit. d) din Codul penal anterior (din 1969)",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "242",
+  "bis": false,
+  "date": "2019-03-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.002/1/2018",
+  "24.590/300/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "288",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 24.590/300/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept dacă: „Fapta de sustragere de la executarea măsurii de siguranță prevăzută în art. 112 lit. d) din Codul penal anterior (din 1969) («interzicerea de a se afla în anumite localități») se regăsește în incriminarea de la art. 288 alin. (1) din Codul penal [sub forma sustragerii de la executarea pedepsei complementare a interzicerii exercitării dreptului de a se afla în anumite localități stabilite de instanță, pedeapsă prevăzută de art. 66 alin. (1) lit. l) din Codul penal] sau a fost dezincriminată ca urmare a abrogării Codului penal anterior la data intrării în vigoare a Legii nr. 187/2012 (respectiv, 1 februarie 2014)?“.",
+  "Stabilește că „Fapta de sustragere de la executarea măsurii de siguranță prevăzută în art. 112 lit. d) din Codul penal anterior (din 1969) nu realizează condițiile de tipicitate ale infracțiunii prevăzute de art. 288 alin. (1) din Codul penal“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "271",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "288",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 104
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212247",
+  "text_sha256": "199ad1626aeba9fde9aea323bd8ce687905a5be819d4c7d63327347379de91de",
+  "catalogue_sha256": "199ad1626aeba9fde9aea323bd8ce687905a5be819d4c7d63327347379de91de",
+  "fetched": "2026-11-03T02:48:27Z",
+  "chars": 79423,
+  "portal_id": "212247",
+  "tip": "DECIZIE"
+ }
+}
