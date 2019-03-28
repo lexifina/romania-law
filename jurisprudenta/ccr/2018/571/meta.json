@@ -1,0 +1,206 @@
+{
+ "key": "dcc-571-2018",
+ "label": "Decizia CCR nr. 571/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "571",
+ "date": "2018-09-20",
+ "year": "2018",
+ "heading": "DECIZIA nr. 571 din 20 septembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (2) din Legea nr. 85/2006 privind procedura insolvenței",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "238",
+  "bis": false,
+  "date": "2019-03-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "79/110/2005",
+  "1.780D/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Concept LTD - S.R.L. din București în Dosarul nr. 79/110/2005** al Tribunalului Bacău - Secția a II-a civilă și de contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (2) din Legea nr. 85/2006 privind procedura insolvenței sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bacău - Secția a II-a civilă și de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "344",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212225",
+  "text_sha256": "3447f40a6d2029094dbb7725d654c9fdcdf326c38c9452941c4a9e18990605ee",
+  "catalogue_sha256": "3447f40a6d2029094dbb7725d654c9fdcdf326c38c9452941c4a9e18990605ee",
+  "fetched": "2026-11-03T02:48:27Z",
+  "chars": 15246,
+  "portal_id": "212225",
+  "tip": "DECIZIE"
+ }
+}
