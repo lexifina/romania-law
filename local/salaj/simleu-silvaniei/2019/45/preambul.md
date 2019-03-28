@@ -1,0 +1,6 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință publică în data de 28 martie 2019;
+Având în vedere Expunerea de motive nr. 4902/2019 a Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 4903/2019 al Direcției Economice, Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultură, Avizul Comisiei pentru activități social-culturale, învățământ, sănătate, familie, muncă și protecție socială, protecție pentru copii, tineret și sport și Avizul Comisiei juridice și de disciplină, administrație publică locală, apărarea ordinii și liniștii publice, respectarea drepturilor omului, culte și problemele minorităților ale Consiliului Local;
+În baza prevederilor art. 103 alin. 2, art. 105 alin 2 lit. h din Legea nr. 1/2011 a educației naționale, cu modificările și completările ulterioare, Legii nr. 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare, HG nr. 536/2016 privind stimularea performanței școlare înalte din învățământul preuniversitar și ale art. 36 alin. 2 lit. d, alin. 6 lit. a pct. 1 din Legea nr.
+215/2001;
+În temeiul art. 45 alin. 1 și art. 115 alin. 1 lit. b din Legea nr. 215/2001 a administrației publice locale, republicată, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
