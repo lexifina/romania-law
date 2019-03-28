@@ -1,0 +1,482 @@
+{
+ "key": "dcc-146-2019",
+ "label": "Decizia CCR nr. 146/2019",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "146",
+ "date": "2019-03-13",
+ "year": "2019",
+ "heading": "DECIZIA nr. 146 din 13 martie 2019",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a prevederilor art. I pct. 11 [cu referire la art. 15 alin. (2) din Legea nr. 370/2004 privind alegerea Președintelui României], art. I pct. 12 [cu referire la art. 16 alin. (3) din Legea nr. 370/2004], art. I pct. 45 [cu referire la art. 49 alin. (1) din Legea nr. 370/2004], art. I pct. 50 [cu referire la art. 50 alin. (1^4) lit. a) și b) din Legea nr. 370/2004], art. II pct. 4 [cu referire la art. 5 alin. (11) din Legea nr. 33/2007 privind organizarea și desfășurarea alegerilor pentru Parlamentul European], art. II pct. 21 [cu referire la art. 23 alin. (2) lit. a) și lit. b) din Legea nr. 33/2007], art. II pct. 22 [cu referire la art. 24 alin. (3) din Legea nr. 33/2007] și art. II pct. 50 [cu referire la art. 50 alin. (5) lit. a) și b) din Legea nr. 33/2007] din Legea pentru modificarea și completarea unor acte normative în materie electorală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "240",
+  "bis": false,
+  "date": "2019-03-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "127A/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 370/2004",
+    "number": "370",
+    "year": "2004",
+    "path": "lege/2004/370"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1-4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "lege/2007/33"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "1. Admite obiecția de neconstituționalitate și constată că prevederile art. I pct. 45 [cu referire la art. 49 alin. (1) din Legea nr. 370/2004 privind alegerea Președintelui României] și art. I pct. 50 [cu referire la art. 50 alin. (1^4) lit. a) și b) din",
+  "Legea nr. 370/2004], precum și art. II pct. 4 [cu referire la art. 5 alin. (11) din Legea nr. 33/2007 privind organizarea și desfășurarea alegerilor pentru Parlamentul European] și art. II pct. 50 [cu referire la art. 50 alin. (5) lit. a) și b) din Legea nr. 33/2007] din Legea pentru modificarea și completarea unor acte normative în materie electorală sunt neconstituționale.",
+  "2. Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că prevederile art. I pct. 11 [cu referire la art. 15 alin. (2) din Legea nr. 370/2004 privind alegerea Președintelui României] și art. I pct. 12 [cu referire la art. 16 alin. (3) din Legea nr. 370/2004], precum și art. II pct. 21 [cu referire la art. 23 alin. (2) lit. a) și lit. b) din Legea nr. 33/2007] și art. II pct. 22 [cu referire la art. 24 alin. (3) din Legea nr. 33/2007] din Legea pentru modificarea și completarea unor acte normative în materie electorală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "lege/2007/33"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "11",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 370/2004",
+    "number": "370",
+    "year": "2004",
+    "path": "lege/2004/370"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1-4"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 208/2015",
+    "number": "208",
+    "year": "2015",
+    "path": "lege/2015/208"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212218",
+  "text_sha256": "1b39d876dff9853d3810bc98fcd96e932d546b34f5f7f340a1f00387b555111c",
+  "catalogue_sha256": "1b39d876dff9853d3810bc98fcd96e932d546b34f5f7f340a1f00387b555111c",
+  "fetched": "2026-11-03T02:48:30Z",
+  "chars": 67919,
+  "portal_id": "212218",
+  "tip": "DECIZIE"
+ }
+}
