@@ -1,0 +1,221 @@
+{
+ "key": "dcc-801-2018",
+ "label": "Decizia CCR nr. 801/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "801",
+ "date": "2018-12-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 801 din 6 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 43 alin. (5) și art. 44 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "244",
+  "bis": false,
+  "date": "2019-03-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.223/197/2012",
+  "1.362D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Elena Minona Pavel în Dosarul nr. 4.223/197/2012 al Judecătoriei Brașov și constată că dispozițiile art. 43 alin. (5) și art. 44 din Ordonanța de urgență a Guvernului nr. 80/2013 privind taxele judiciare de timbru sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Brașov și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-03-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212264",
+  "text_sha256": "464ae3290c69d5d5023997dca6089aeaf13d6a9b9173107e775f5641e14272c4",
+  "catalogue_sha256": "464ae3290c69d5d5023997dca6089aeaf13d6a9b9173107e775f5641e14272c4",
+  "fetched": "2026-11-06T02:19:45Z",
+  "chars": 11202,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/212264",
+   "timestamp": "20251006014829",
+   "crawl": "CC-MAIN-2025-43",
+   "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648358137.47/warc/CC-MAIN-20251006001643-20251006031643-00983.warc.gz",
+   "offset": "338529514",
+   "length": "17057",
+   "sha256": "302eeb71ba4b6385c2f379e6ecf69ff1abad460a313c6323405b4414f08d8628"
+  },
+  "portal_id": "212264",
+  "tip": "DECIZIE"
+ }
+}
