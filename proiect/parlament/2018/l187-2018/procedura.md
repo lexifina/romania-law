@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-14: returned for re-examination
 - 2019-03-11: returned for re-examination
 - 2019-03-23: sent for promulgation
+- 2019-04-01: promulgated, becomes Legea nr. 56/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187FS.PDF
 - 2018-05-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187AXS.PDF
 - 2018-05-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187LP.PDF
+- 2019-04-01: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187DP.PDF
+- 2019-04-01: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187AFP.PDF
+- 2019-04-01: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187FP.PDF
