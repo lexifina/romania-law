@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-11: returned for re-examination
 - 2019-03-23: sent for promulgation
 - 2019-04-01: promulgated, becomes Legea nr. 56/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-04-02: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,9 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-01: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187DP.PDF
 - 2019-04-01: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187AFP.PDF
 - 2019-04-01: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187FP.PDF
+- 2019-04-02: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-02: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-02: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-02: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-02: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-02: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L187PX.PDF (its day is not given by the bill file: shown from the last stage held)
