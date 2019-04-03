@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-03-11: returned for re-examination
 - 2019-03-25: rejected by the Senate
+- 2019-04-03: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L132FS.PDF
 - 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L132AXS.PDF
 - 2018-07-10: Forma trimisă la promulgare (LP): [lp-492ae475.md](lp-492ae475.md); official file https://www.senat.ro/legis/PDF/2018/18L132LP.PDF
+- 2019-04-03: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L132SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-03: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L132XD.PDF (its day is not given by the bill file: shown from the last stage held)
