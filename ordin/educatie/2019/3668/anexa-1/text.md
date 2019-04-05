@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA privind acordul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar de înființare, în cadrul unităților de învățământ preuniversitar de stat și particulare de nivel liceal acreditate, de noi specializări în cadrul profilurilor deja autorizate să funcționeze provizoriu/acreditate din cadrul filierei teoretice și/sau vocaționale, fără parcurgerea procedurii de evaluare externă în vederea obținerii autorizației de funcționare provizorie
