@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA privind acordul Agenției Române de Asigurare a Calității în Învățământul Preuniversitar de înființare, în cadrul palatelor, cluburilor copiilor, cluburilor sportive școlare, de noi cercuri/discipline sportive, după caz, fără parcurgerea procedurii de evaluare externă în vederea obținerii autorizației de funcționare provizorie
