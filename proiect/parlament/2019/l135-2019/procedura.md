@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2019-03-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2019-04-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Guvernul României.
 - 2019-03-21: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135LG.PDF
 - 2019-03-21: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135OG.PDF
 - 2019-03-21: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135HG.PDF
+- 2019-04-08: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135FS.PDF
+- 2019-04-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135AM.PDF
