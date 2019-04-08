@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-04-01: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-04-02: documents published: Aviz comisie
+- 2019-04-08: registered at the Chamber of Deputies
 
 ## Documents
 
