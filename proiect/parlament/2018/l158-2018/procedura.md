@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-25: rejected by the Senate
 - 2019-03-30: sent for promulgation
 - 2019-04-08: promulgated, becomes Legea nr. 59/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-04-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158DP.PDF
 - 2019-04-08: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158AFP.PDF
 - 2019-04-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158FP.PDF
+- 2019-04-09: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-09: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-04-09: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L158XXS.PDF (its day is not given by the bill file: shown from the last stage held)
