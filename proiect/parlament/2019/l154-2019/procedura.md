@@ -1,0 +1,22 @@
+# Proiect de lege L154/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 208/2019 (`legea-208-2019`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.24/2019 pentru modificarea şi completarea Legii nr.211/2004 privind unele măsuri pentru asigurarea protecţiei victimelor infracţiunilor, precum şi a altor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-04-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-04-10: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154AD.PDF
+- 2019-04-10: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154FG.PDF
+- 2019-04-10: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154EM.PDF
+- 2019-04-10: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154LG.PDF
+- 2019-04-10: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154OG.PDF
+- 2019-04-10: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L154HG.PDF
