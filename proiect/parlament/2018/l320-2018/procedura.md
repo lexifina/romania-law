@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-03-20: adopted by the Chamber of Deputies
 - 2019-03-25: documents published: Adresă privind sesizarea CCR
 - 2019-03-27: sent for promulgation
+- 2019-04-15: promulgated, becomes Legea nr. 61/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2018-07-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320FS.PDF
 - 2018-07-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320AM.PDF
 - 2019-03-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320AXS.PDF
+- 2019-04-15: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320DP.PDF
+- 2019-04-15: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320AFP.PDF
+- 2019-04-15: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L320FP.PDF
