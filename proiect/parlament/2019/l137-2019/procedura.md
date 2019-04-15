@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-20: adopted by the Chamber of Deputies
 - 2019-03-22: registered at the Senate
 - 2019-04-02: documents published: Aviz comisie
+- 2019-04-15: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137LG.PDF
 - 2018-10-09: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137PV.PDF
 - 2019-04-02: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137CA42.PDF
+- 2019-04-15: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137CR.PDF
