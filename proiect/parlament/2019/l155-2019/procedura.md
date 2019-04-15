@@ -1,0 +1,22 @@
+# Proiect de lege L155/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 247/2019 (`legea-247-2019`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.21/2019 pentru modificarea şi completarea Legii nr.38/2003 privind transportul în regim de taxi şi în regim de închiriere
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-04-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-04-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155AD.PDF
+- 2019-04-15: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155FG.PDF
+- 2019-04-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155EM.PDF
+- 2019-04-15: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155LG.PDF
+- 2019-04-15: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155OG.PDF
+- 2019-04-15: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L155HG.PDF
