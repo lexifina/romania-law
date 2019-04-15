@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-16: sent for promulgation
 - 2019-03-20: adopted by the Chamber of Deputies
 - 2019-03-22: returned for re-examination
+- 2019-04-15: returned for re-examination
 
 ## Documents
 
