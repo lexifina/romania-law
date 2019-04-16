@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-27: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2018-10-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-10-08: registered at the Chamber of Deputies
+- 2019-04-16: adopted by the Chamber of Deputies
 
 ## Documents
 
