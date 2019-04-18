@@ -1,0 +1,2 @@
+# ANEXĂ
+METODOLOGIE de stabilire a cantităților de gaze naturale pe care producătorii au obligația să le vândă cu prioritate pentru asigurarea întregului necesar de consum al clienților casnici și al producătorilor de energie termică, numai pentru cantitatea de gaze naturale utilizată la producerea de energie termică în centralele de cogenerare și în centralele termice destinată consumului populației, din producția internă curentă și/sau din depozitele de înmagazinare
