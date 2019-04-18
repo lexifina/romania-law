@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-20: adopted by the Chamber of Deputies
 - 2019-03-25: documents published: Adresă privind sesizarea CCR
 - 2019-03-30: sent for promulgation
+- 2019-04-18: promulgated, becomes Legea nr. 66/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325FS.PDF
 - 2018-09-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325AM.PDF
 - 2019-03-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325AXS.PDF
+- 2019-04-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325DP.PDF
+- 2019-04-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325AFP.PDF
+- 2019-04-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L325FP.PDF
