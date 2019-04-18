@@ -1,0 +1,164 @@
+{
+ "key": "dcc-710-2018",
+ "label": "Decizia CCR nr. 710/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "710",
+ "date": "2018-11-20",
+ "year": "2018",
+ "heading": "DECIZIA nr. 710 din 20 noiembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Ordonanței de urgență a Guvernului nr. 54/2011 pentru stabilirea unor măsuri privind încadrarea în limita alocată cheltuielilor de personal din Ministerul Administrației și Internelor pentru anul 2011 și, în special, a prevederilor art. 3 alin. (6) din ordonanța de urgență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "300",
+  "bis": false,
+  "date": "2019-04-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "44.034/3/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 54/2011",
+    "number": "54",
+    "year": "2011",
+    "path": "oug/2011/54"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Vameșilor „Pro Lex“, în numele și pentru membrul său de sindicat Isabela Mihuțoiu, în Dosarul nr. 44.034/3/2014⃰ al Tribunalului București - Secția a II-a de contencios administrativ și fiscal și constată că dispozițiile Ordonanței de urgență a Guvernului nr. 54/2011 pentru stabilirea unor măsuri privind încadrarea în limita alocată cheltuielilor de personal din Ministerul Administrației și Internelor pentru anul 2011 și, în special, prevederile art. 3 alin. (6) din Ordonanța de urgență a Guvernului nr. 54/2011 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 54/2011",
+    "number": "54",
+    "year": "2011",
+    "path": "oug/2011/54"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 234/2011",
+    "number": "234",
+    "year": "2011",
+    "path": "lege/2011/234"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-04-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212920",
+  "text_sha256": "78028841a7abbb1d2097e87680588782c1beacb2851d02dd3ee043e4ee177c21",
+  "catalogue_sha256": "78028841a7abbb1d2097e87680588782c1beacb2851d02dd3ee043e4ee177c21",
+  "fetched": "2026-11-03T16:48:11Z",
+  "chars": 14331,
+  "portal_id": "212920",
+  "tip": "DECIZIE"
+ }
+}
