@@ -1,0 +1,9 @@
+# Anexa nr. 2
+Ministerul Agriculturii și Dezvoltării Rurale
+Direcția Agricolă Județeană..........
+ADEVERINȚĂ
+Nr......../ziua/luna/anul
+Prin prezenta se adeverește că persoana juridică.................. înscrisă la registrul comerțului cu nr................. CUI/CIF (nr.............), cu sediul în..........................................., în baza Cererii de înscriere nr................. a fost înscrisă în Programului de susținere a producătorilor din sectorul pescuitului și acvaculturii privind...........................................
+Menționăm că prezenta adeverință atestă înscrierea în Program și nu angajează în niciun fel Ministerul Agriculturii și Dezvoltării Rurale sau unitățile subordonate cu privire la obligativitatea acordării vreunei susțineri financiare sau de altă natură. Prezenta adeverință are caracter informativ și nu se constituie în document de verificare a eligibilității financiare. Suportul de susținere prevăzut în Program se face numai după aprobarea „Cererii de finanțare” în baza depunerii documentației prevăzute de lege.
+Semnat,.....................................
+Director general
