@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare ținute la Banca Națională a României a Societății ZAPLO IFN - S.A., cu sediul în București, str. Nicolae Caramfil nr. 49, etajul 3, sectorul 1, înregistrată la oficiul registrului comerțului cu nr. J40/12031/2014, cod unic de înregistrare 33702265, înscrisă în Registrul general și în Registrul special Instituții Financiare Nebancare cu nr. RG-PJR-41-110297, respectiv nr. RS-PJR-41-110104 la secțiunea k) "Activități multiple de creditare".
