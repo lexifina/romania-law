@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății SIGMA LEASING IFN - S.A., cu sediul în Sibiu, Calea Poplăcii nr. 104, județul Sibiu, înregistrată la oficiul registrului comerțului cu nr. J32/1434/2003, cod unic de înregistrare 15880175, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-33-110046, la secțiunea k) "Activități multiple de creditare".
