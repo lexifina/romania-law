@@ -1,0 +1,221 @@
+{
+ "key": "dcc-819-2018",
+ "label": "Decizia CCR nr. 819/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "819",
+ "date": "2018-12-11",
+ "year": "2018",
+ "heading": "DECIZIA nr. 819 din 11 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 503 alin. (3) din Codul de procedură civilă",
+ "issuer": "Curtea Constituțională",
+ "mo": {
+  "number": "308",
+  "bis": false,
+  "date": "2019-04-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.067/30/2016",
+  "318D/2017",
+  "41/39/2017",
+  "793/57/2016",
+  "79/54/2017",
+  "28/39/2017",
+  "5.643/120/2016",
+  "1.901/85/2016",
+  "680D/2017",
+  "504D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "503",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Adorean Laiu-Despău în Dosarul nr. 4.067/30/2016 al Tribunalului Timiș - Secția I civilă, Ionel Neagu în Dosarul nr. 41/39/2017 al Curții de Apel Suceava - Secția I civilă, Societatea Medisol - S.R.L. din Alba Iulia în Dosarul nr. 793/57/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, Banca Comercială Intesa Sanpaolo România - S.A. București, prin Banca Comercială Intesa Sanpaolo România S.A. - sucursala Craiova, în dosarele nr. 78/54/2017, nr. 77/54/2017 și nr. 80/54/2017 ale Curții de Apel Craiova - Secția a II-a civilă și în Dosarul nr. 79/54/2017 al Curții de Apel Alba Iulia - Secția a II-a civilă, Societatea C&amp;E Co - S.R.L. din Flămânzi, județul Botoșani, în Dosarul nr. 28/39/2017 al Curții de Apel Suceava - Secția a II-a civilă, Adrian-Ștefan Mădălin Dumitrache, Nicoleta-Daniela Dumitrache, Daniel Costin Dumitrache și Mariana Alina Dumitrache în Dosarul nr. 5.643/120/2016 al Tribunalului Dâmbovița - Secția I civilă și de Societatea Combat Trading - S.R.L. din Apoldu de Jos, județul Sibiu, în Dosarul nr. 1.901/85/2016 al Tribunalului Sibiu - Secția I civilă și constată că dispozițiile art. 503 alin. (3) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția I civilă, Curții de Apel Suceava - Secția I civilă, Curții de Apel Alba Iulia - Secția a II-a civilă, Curții de Apel Craiova - Secția a II-a civilă, Curții de Apel Suceava - Secția a II-a civilă, Tribunalului Dâmbovița - Secția I civilă și Tribunalului Sibiu – Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "503",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-04-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212991",
+  "text_sha256": "89da53e7d93e9cfa9d6f4cb10362ee4c5d685bf9a89320e4b467f136fafe1876",
+  "catalogue_sha256": "89da53e7d93e9cfa9d6f4cb10362ee4c5d685bf9a89320e4b467f136fafe1876",
+  "fetched": "2026-11-03T02:46:26Z",
+  "chars": 26567,
+  "portal_id": "212991",
+  "tip": "DECIZIE"
+ }
+}
