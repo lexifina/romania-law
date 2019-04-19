@@ -1,0 +1,385 @@
+{
+ "key": "dcc-810-2018",
+ "label": "Decizia CCR nr. 810/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "810",
+ "date": "2018-12-06",
+ "year": "2018",
+ "heading": "DECIZIA nr. 810 din 6 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 440 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "306",
+  "bis": false,
+  "date": "2019-04-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "18.577/3/2011",
+  "2.500D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "440",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepția de neconstituționalitate ridicată din oficiu de instanța judecătorească în Dosarul nr. 18.577/3/2011 al Înaltei Curți de Casație și Justiție - Secția Penală și constată că dispozițiile art. 440 alin. (1) din Codul de Procedură Penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția Penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "440",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "459",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "435",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "436",
+     "alin": [
+      "1",
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "437",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "353",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/2016",
+    "number": "75",
+    "year": "2016",
+    "path": "lege/2016/75"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "493",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "436",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "437",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "403",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-04-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212969",
+  "text_sha256": "46b113d02bdd5141af92d00b34d3ad029869559cccc8caf4bfb977fac178099b",
+  "catalogue_sha256": "46b113d02bdd5141af92d00b34d3ad029869559cccc8caf4bfb977fac178099b",
+  "fetched": "2026-11-03T02:46:25Z",
+  "chars": 32400,
+  "portal_id": "212969",
+  "tip": "DECIZIE"
+ }
+}
