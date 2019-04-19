@@ -1,0 +1,7 @@
+# Anexa nr. 15: Anexa nr. 15
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 212970 (https://legislatie.just.ro/Public/DetaliiDocument/212970)
+- sha256 of that document's text as the service returned it: 65fad7afbad50df941538abfa94fc2398f8733364314130df9bef51292faa3a3
+- Retrieved: 2026-11-03
