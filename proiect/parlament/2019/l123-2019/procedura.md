@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-03-25: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-04-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-03: sent for promulgation
+- 2019-04-19: promulgated, becomes Legea nr. 72/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2019-03-25: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123FS.PDF
 - 2019-04-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123AXS.PDF
 - 2019-04-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123LP.PDF
+- 2019-04-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123DP.PDF
+- 2019-04-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123AFP.PDF
+- 2019-04-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L123FP.PDF
