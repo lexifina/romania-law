@@ -1,0 +1,279 @@
+{
+ "key": "dcc-816-2018",
+ "label": "Decizia CCR nr. 816/2018",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "816",
+ "date": "2018-12-11",
+ "year": "2018",
+ "heading": "DECIZIA nr. 816 din 11 decembrie 2018",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 5 alin. (3) din Legea contenciosului administrativ nr. 554/2004, în redactarea anterioară modificării acestor prevederi prin Legea nr. 212/2018 pentru modificarea și completarea Legii contenciosului administrativ nr. 554/2004 și a altor acte normative, și ale art. 2 alin. (6^1) din Ordonanța Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcțiilor existente",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "305",
+  "bis": false,
+  "date": "2019-04-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.403/3/2016",
+  "3.311D/2016",
+  "609D/2017",
+  "44.347/3/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 20/1994",
+    "number": "20",
+    "year": "1994",
+    "path": "og/1994/20"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 5 alin. (3) din Legea contenciosului administrativ nr. 554/2004, în redactarea anterioară modificării acestor prevederi prin Legea nr. 212/2018 pentru modificarea și completarea Legii contenciosului administrativ nr. 554/2004 și a altor acte normative, excepție ridicată de societățile Sabidia MA IMPEX - S.R.L. din București, Solite Rent - S.R.L. din București și Duru Business - S.R.L. din București în Dosarul nr. 10.403/3/2016 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și de societățile Sabidia MA IMPEX - S.R.L. din București, Solite Rent - S.R.L. din București și Wiena Food Expert - S.R.L. din București în Dosarul nr. 44.347/3/2015 al aceleiași instanțe.",
+  "II. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori în aceleași dosare ale aceleiași instanțe și constată că prevederile art. 2 alin. (6^1) din Ordonanța Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcțiilor existente sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 20/1994",
+    "number": "20",
+    "year": "1994",
+    "path": "og/1994/20"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "6-1",
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2018",
+    "number": "223",
+    "year": "2018",
+    "path": "lege/2018/223"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2014",
+    "number": "554",
+    "year": "2014",
+    "path": "lege/2014/554"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-04-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/212963",
+  "text_sha256": "a93cf9066867ab48659ff12a6b65849bfb83be623042c7220cfe24215fc8a3ab",
+  "catalogue_sha256": "a93cf9066867ab48659ff12a6b65849bfb83be623042c7220cfe24215fc8a3ab",
+  "fetched": "2026-11-03T02:46:29Z",
+  "chars": 24720,
+  "portal_id": "212963",
+  "tip": "DECIZIE"
+ }
+}
