@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: documents published: Adresă privind sesizarea CCR
 - 2019-03-30: sent for promulgation
 - 2019-04-18: promulgated, becomes Legea nr. 64/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-04-22: published in the Monitorul Oficial
 
 ## Documents
 
