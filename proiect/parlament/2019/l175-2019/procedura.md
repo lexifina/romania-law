@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-01-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-02-06: documents published: Aviz Consiliul Economic și Social, Punct de vedere
+- 2019-04-23: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-01-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L175EM.PDF
 - 2019-02-06: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L175ES.PDF
 - 2019-02-06: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L175PV.PDF
+- 2019-04-23: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L175CA8.PDF
