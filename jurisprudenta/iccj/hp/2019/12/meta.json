@@ -1,0 +1,174 @@
+{
+ "key": "iccj-hp-12-2019",
+ "label": "Decizia ÎCCJ nr. 12/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2019-03-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 12 din 11 martie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 688 alin. (2) din Codul de procedură civilă și art. 1.155 alin. (2) din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "316",
+  "bis": false,
+  "date": "2019-04-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.166/1/2018",
+  "6.390/299/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "688",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1155",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă, în Dosarul nr. 6.390/299/2018, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: „Interpretarea dispozițiilor art. 688 alin. (2) din Codul de procedură civilă și art. 1.155 alin. (2) din Codul civil, în sensul de a se stabili dacă există posibilitatea începerii executării silite a bunurilor moștenirii împotriva moștenitorilor acceptanți ai debitorului decedat, cât timp nu au fost stabilite cotele succesorale și calitatea de moștenitor a acestora în cadrul dezbaterii succesorale.“",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "688",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "645",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1155",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1035",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-04-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213235",
+  "text_sha256": "42df4b616c7e1bbeac852d4463e838e231e087ba525338432359928619f9c9ee",
+  "catalogue_sha256": "42df4b616c7e1bbeac852d4463e838e231e087ba525338432359928619f9c9ee",
+  "fetched": "2026-11-03T02:43:10Z",
+  "chars": 43835,
+  "portal_id": "213235",
+  "tip": "DECIZIE"
+ }
+}
