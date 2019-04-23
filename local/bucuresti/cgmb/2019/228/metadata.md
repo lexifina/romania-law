@@ -1,0 +1,11 @@
+# HCGMB nr. 228/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 228/2019
+- Adopted: 2019-04-23
+- Title: PRIVIND APROBAREA LISTELOR DE PRIORITATI PENTRU ATRIBUIREA UNUI SPATIU CU ALTA DESTINATIE PERSOANELOR JURIDICE CONSTITUITE IN TEMEIUL ORDONANTEI 26/2000 CU PRIVIRE LA ASOCIATII SI FUNDATII SI LEGII NR. 14/2003 A PARTIDELOR POLITICE INTOCMITE, CONFORM HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 113/2017, DE CATRE COMISIA DE ANALIZA A DOSARELOR SOLICITANTILOR DE SPATII CU ALTA DESTINATIE DECAT ACEEA DE LOCUINTA. ALTII DECAT BENEFICIARII LEGII NR. 341/2004
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/39820
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/39820/H228_19.pdf
+- Document sha256: 84f16cd6eae60014e5f518da3fedfd22438636bf4f6d67d6dc517429171aef2a
