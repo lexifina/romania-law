@@ -1,0 +1,11 @@
+# HCGMB nr. 258/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 258/2019
+- Adopted: 2019-04-23
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL SECTOR 1 DE A HOTARI, IN CONDITIILE LEGII, CU PRIVIRE LA INCHEIEREA UNUI PROTOCOL DE COLABORARE INTRE CONSILIULUI LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI SI FEDERATIA ROMANA DE ATLETISM, IN VEDEREA FINANTARII DE CATRE CONSILIUL LOCAL AL SECTORULUI 1 A CHELTUIELILOR DE INVESTITII NECESARE PENTRU REALIZAREA LUCRARILOR DE INTERVENTIE PRIVIND MODERNIZAREA ACTUALEI BAZE SPORTIVE
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/39806
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/39806/H258_19.pdf
+- Document sha256: c255d36925056d8e7bff19e7409b727ec8c0c7b95953868a34a9bd24a5a3189c
