@@ -1,0 +1,52 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2019/620 AL COMISIEI
+din 17 aprilie 2019
+prin care se acordă Republicii Capului Verde o derogare temporară de la regulile de origine preferențială prevăzute în Regulamentul delegat (UE) 2015/2446 în ceea ce privește preparatele sau conservele de fileuri de macrou și preparatele sau conservele de fileuri de ton fregată sau de fileuri de ton negru
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii (1), în special articolul 64 alineatul (6) și articolul 66 litera (b),
+întrucât:
+(1) Capul Verde este o țară care beneficiază de sistemul generalizat de preferințe (SGP) menționat în Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului (2) ca SGP. Prin Regulamentul de punere în aplicare (UE) nr. 439/2011 al Comisiei (3), Capului Verde i s-a acordat o derogare de la Regulamentul (CEE) nr. 2454/93 al Comisiei (4) în legătură cu definiția conceptului de produse originare utilizat în sensul SGP. Derogarea se referea la volumele anuale de 2 500 de tone de preparate sau conserve de fileuri de macrou și de 875 de tone de preparate sau conserve de fileuri de ton fregată sau de fileuri de ton negru. În temeiul derogării și în limitele acestor cantități, produsele în cauză au fost considerate ca fiind originare din Capul Verde chiar și în cazul în care, în pofida faptului că sunt produse în Capul Verde, au fost obținute din pești neoriginari. După ce a fost prelungită de trei ori, derogarea a expirat la 31 decembrie 2018 (5).
+(2) Prin scrisoarea din 22 octombrie 2018, Capul Verde a prezentat o cerere de prelungire a derogării respective, pentru aceleași volume anuale, pentru perioada de până la intrarea în vigoare a noului acord de parteneriat economic („APE”) dintre Uniune și Africa de Vest, parafat la 30 iunie 2014. În temeiul regulilor privind cumulul pe care le conține, APE va permite industriei de prelucrare a peștelui din Capul Verde să respecte normele privind originea preferențială utilizând pește originar din alte state din Africa de Vest.
+(3) Din 2008, cantitățile anuale totale acordate Capului Verde în temeiul derogării au contribuit, într-o măsură semnificativă, la îmbunătățirea situației din sectorul prelucrării peștelui din Capul Verde. Cantitățile respective au condus de asemenea, într-o oarecare măsură, la revitalizarea flotei Capului Verde de ambarcațiuni mici de pescuit, care este de o importanță capitală pentru această țară.
+(4) Argumentele din cerere demonstrează că, în absența derogării, capacitatea industriei de prelucrare a peștelui din Capul Verde de a continua să exporte în Uniune în cadrul SGP ar fi afectată în mod semnificativ, ceea ce ar împiedica dezvoltarea în continuare a flotei de ambarcațiuni mici pentru pescuitul pelagic din Capul Verde.
+(5) Este necesar mai mult timp pentru consolidarea rezultatelor obținute deja de Capul Verde în eforturile depuse pentru revitalizarea flotei sale locale de pescuit. Derogarea ar trebui să acorde Capului Verde suficient timp pentru a se pregăti să respecte regulile de obținere a originii preferențiale.
+(6) Având în vedere natura temporară a derogărilor acordate în legătură cu definiția conceptului de produse originare, derogarea ar trebui acordată pentru o perioadă de doi ani sau până la intrarea în vigoare a APE dintre Uniune și Africa de Vest, pentru cantitățile anuale de 2 500 de tone de preparate sau conserve de fileuri de macrou și de 875 de tone de preparate sau conserve de fileuri de ton fregată sau de fileuri de ton negru. Derogarea ar trebui însă să ia sfârșit în ziua imediat anterioară datei intrării în vigoare a APE cu Africa de Vest dacă acest lucru are loc înainte de 31 decembrie 2020.
+(7) Cantitățile stabilite în anexa la prezentul regulament ar trebui gestionate în conformitate cu articolele 49-54 din Regulamentul de punere în aplicare (UE) 2015/2447 al Comisiei (6), care reglementează gestionarea contingentelor tarifare.
+(8) Derogarea ar trebui acordată cu condiția ca autoritățile vamale din Capul Verde să ia măsurile necesare pentru a efectua controale cantitative asupra exporturilor produselor care fac obiectul derogării și ca acestea să transmită Comisiei o declarație privind cantitățile pentru care au fost eliberate certificate de origine tip A în conformitate cu prezentul regulament, precum și numerele de serie ale certificatelor respective. Dacă sistemul exportatorilor înregistrați (REX), în conformitate cu articolul 79 din Regulamentul de punere în aplicare (UE) 2015/2447, intră în aplicare în Capul Verde în cursul anului 2019, aceeași regulă ar trebui să se aplice și atestatelor de origine întocmite de exportatori înregistrați.
+(9) Măsurile prevăzute de prezentul regulament ar trebui să intre în vigoare în ziua care urmează datei publicării sale, pentru a se lua în considerare situația din Capul Verde și pentru a se permite acestei țări să utilizeze derogarea fără întârziere.
+(10) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului Codului Vamal,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Prin derogare de la articolul 41 litera (b) și de la articolul 45 din Regulamentul delegat (UE) 2015/2446 al Comisiei (7), preparatele sau conservele de fileuri de macrou și preparatele sau conservele de fileuri de ton fregată sau de fileuri de ton negru de la codurile NC 1604 15 11, ex 1604 19 97 și 1604 20 90, produse în Capul Verde din pești neoriginari, sunt considerate ca fiind originare din Capul Verde, în conformitate cu articolele 2, 3 și 4 din prezentul regulament.
+Articolul 2
+(1) Derogarea se aplică pentru produsele care au fost exportate din Capul Verde și declarate pentru a fi puse în liberă circulație în Uniune în perioada cuprinsă între 1 ianuarie 2019 și:
+(a) 31 decembrie 2020; sau
+(b) în cazul în care Acordul de parteneriat economic dintre Uniune și Africa de Vest, parafat la 30 iunie 2014 („APE”), intră în vigoare la data de sau înainte de 31 decembrie 2020, ziua imediat anterioară datei intrării în vigoare a APE.
+(2) Derogarea se aplică produselor în limita cantității anuale indicate în anexă.
+(3) Aplicarea derogării este condiționată de respectarea condițiilor prevăzute la articolul 43 din Regulamentul delegat (UE) 2015/2446.
+Articolul 3
+Cantitățile stabilite în anexa la prezentul regulament sunt gestionate în conformitate cu articolele 49-54 din Regulamentul de punere în aplicare (UE) 2015/2447, care reglementează gestionarea contingentelor tarifare.
+Articolul 4
+Derogarea se acordă în următoarele condiții:
+1. Autoritățile vamale din Capul Verde iau măsurile necesare pentru a efectua controale cantitative asupra exporturilor produselor menționate la articolul 1.
+2. Certificatul de origine tip A eliberat de autoritățile competente din Capul Verde în temeiul prezentului regulament trebuie să cuprindă, în caseta numărul 4, următoarea mențiune: „Derogare – Regulamentul de punere în aplicare (UE) 2019/xxx al Comisiei”. În cazul în care sistemul exportatorilor înregistrați (REX) se aplică Republicii Capului Verde în 2019, mențiunea respectivă este înscrisă pe atestatele de origine întocmite de exportatorii înregistrați.
+3. Autoritățile competente din Capul Verde transmit Comisiei, în fiecare trimestru, o declarație a cantităților pentru care au fost eliberate sau întocmite certificate de origine și/sau atestate de origine în temeiul prezentului regulament, precum și numerele de serie ale dovezilor respective.
+Articolul 5
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 1 ianuarie 2019.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 17 aprilie 2019.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 269, 10.10.2013, p. 1.
+(2) Regulamentul (UE) nr. 978/2012 al Parlamentului European și al Consiliului din 25 octombrie 2012 de aplicare a unui sistem generalizat de preferințe tarifare și de abrogare a Regulamentului (CE) nr. 732/2008 al Consiliului (JO L 303, 31.10.2012, p. 1).
+(3) Regulamentul de punere în aplicare (UE) nr. 439/2011 al Comisiei din 6 mai 2011 privind acordarea unei derogări de la Regulamentul (CEE) nr. 2454/93 în ceea ce privește definiția conceptului de „produse originare” folosit în cadrul sistemului de preferințe tarifare generalizate, pentru a ține seama de situația specială din Capul Verde în ceea ce privește exporturile anumitor produse pescărești către Uniunea Europeană (JO L 119, 7.5.2011, p. 1).
+(4) Regulamentul (CEE) nr. 2454/93 al Comisiei din 2 iulie 1993 de stabilire a unor dispoziții de aplicare a Regulamentului (CEE) nr. 2913/92 al Consiliului de instituire a Codului Vamal Comunitar (JO L 253, 11.10.1993, p. 1).
+(5) Regulamentul de punere în aplicare (UE) 2017/968 al Comisiei din 8 iunie 2017 prin care se acordă Republicii Capului Verde o derogare temporară de la normele privind originea preferențială prevăzute în Regulamentul delegat (UE) 2015/2446 în ceea ce privește preparatele sau conservele de fileuri de macrou și preparatele sau conservele de fileuri de melvă sau ton negru (JO L 146, 9.6.2017, p. 13).
+(6) Regulamentul de punere în aplicare (UE) 2015/2447 al Comisiei din 24 noiembrie 2015 de stabilire a unor norme pentru punerea în aplicare a anumitor dispoziții din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului de stabilire a Codului vamal al Uniunii (JO L 343, 29.12.2015, p. 558).
+(7) Regulamentul delegat al Comisiei (UE) 2015/2446 din 28 iulie 2015 de completare a Regulamentului (UE) nr. 952/2013 al Parlamentului European și al Consiliului în ceea ce privește normele detaliate ale anumitor dispoziții ale Codului vamal al Uniunii (JO L 343, 29.12.2015, p. 1).
+ANEXĂ
+Nr. de ordine | Codul NC | | Descrierea mărfurilor | Perioade | Cantitatea anuală (greutate netă în tone)
+09.1647 | 1604 15 11 ex 1604 19 97 | | Preparate sau conserve de fileuri de macrou (Scomber scombrus, Scomber japonicus, Scomber colias) | De la 1.1.2019 până la data stabilită în conformitate cu articolul 2 alineatul (1) | 2 500 de tone
+09.1648 | ex 1604 19 97 1604 20 90 | | Preparate sau conserve de fileuri de ton fregată sau de fileuri de ton negru (Auxis thazard, Auxis rochei) | De la 1.1.2019 până la data stabilită în conformitate cu articolul 2 alineatul (1) | 875 de tone
