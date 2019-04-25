@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-20: adopted by the Chamber of Deputies
 - 2019-03-22: returned for re-examination
 - 2019-04-15: returned for re-examination
+- 2019-04-25: promulgated, becomes Legea nr. 88/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-10: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376FS.PDF
 - 2018-07-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AXS.PDF
 - 2018-07-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376LP.PDF
+- 2019-04-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376DP.PDF
+- 2019-04-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AFP.PDF
+- 2019-04-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376FP.PDF
