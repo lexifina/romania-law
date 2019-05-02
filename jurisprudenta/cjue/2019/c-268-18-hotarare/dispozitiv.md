@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a zecea) din 2 mai 2019, Cauza C-268/18
+
+Pentru aceste motive, Curtea (Camera a zecea) declară:
+Nomenclatura combinată care figurează în anexa I la Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful vamal comun, în versiunea care rezultă din Regulamentul de punere în aplicare (UE) 2015/1754 al Comisiei din 6 octombrie 2015, trebuie interpretată în sensul că un aparat multifuncțional de tipul celui utilizat în autovehicule, care, precum cel în discuție în litigiul principal, combină, în aceeași carcasă, ca funcție principală, un monitor de radionavigație prin intermediul unor aplicații preinstalate de navigație GPS și, cu titlu accesoriu, un aparat de radiodifuziune, un aparat de redare audio și video și un ecran cu o diagonală de aproximativ 5 inchi (12,7 cm), trebuie clasificat la subpoziția 85269120 din această nomenclatură.
