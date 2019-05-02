@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-03: adopted by the Chamber of Deputies
 - 2019-04-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-13: sent for promulgation
+- 2019-05-02: promulgated, becomes Legea nr. 89/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051AM.PDF
 - 2019-04-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051AXS.PDF
 - 2019-04-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051LP.PDF
+- 2019-05-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051DP.PDF
+- 2019-05-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051AFP.PDF
+- 2019-05-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L051FP.PDF
