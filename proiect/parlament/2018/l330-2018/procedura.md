@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-06: sent for promulgation
 - 2019-04-24: promulgated, becomes Legea nr. 79/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-05-02: published in the Monitorul Oficial
 
 ## Documents
 
