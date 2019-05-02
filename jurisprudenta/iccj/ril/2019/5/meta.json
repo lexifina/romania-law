@@ -1,0 +1,195 @@
+{
+ "key": "iccj-ril-5-2019",
+ "label": "Decizia ÎCCJ nr. 5/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2019-02-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 5 din 11 februarie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 174, cu referire la art. 154 alin. (2) teza I din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "334",
+  "bis": false,
+  "date": "2019-05-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.715/2018",
+  "2.715/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în interpretarea și aplicarea art. 174, cu referire la art. 154 alin. (2) teza I din Codul penal, stabilește că:",
+  "Prin data săvârșirii infracțiunii și, implicit, data de la care începe să curgă termenul de prescripție a răspunderii penale în cazul infracțiunilor simple a căror latură obiectivă implică producerea unei pagube ori realizarea unui folos necuvenit pe o perioadă de timp se înțelege momentul apariției primei pagube ori al obținerii primului folos necuvenit.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "154",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "301",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "256-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213378",
+  "text_sha256": "2ec03ec248e4fc4fb60f2dc5f4b46d3a5b7f70e69a635b992c139d24b8496d81",
+  "catalogue_sha256": "2ec03ec248e4fc4fb60f2dc5f4b46d3a5b7f70e69a635b992c139d24b8496d81",
+  "fetched": "2026-11-06T04:02:37Z",
+  "chars": 80394,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/213378",
+   "timestamp": "20260121004832",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469604.91/warc/CC-MAIN-20260120232645-20260121022645-00770.warc.gz",
+   "offset": "275757029",
+   "length": "37576",
+   "sha256": "2bab1a4076d25d5e5c9fabf53709e536e34e98ba5ade64e0e08c3bec1d2f9fb5"
+  },
+  "portal_id": "213378",
+  "tip": "DECIZIE"
+ }
+}
