@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-22: returned for re-examination
 - 2019-04-15: returned for re-examination
 - 2019-04-25: promulgated, becomes Legea nr. 88/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-05-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376DP.PDF
 - 2019-04-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AFP.PDF
 - 2019-04-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376FP.PDF
+- 2019-05-06: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-06: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L376PX.PDF (its day is not given by the bill file: shown from the last stage held)
