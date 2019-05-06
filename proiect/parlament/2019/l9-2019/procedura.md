@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-04-10: adopted by the Chamber of Deputies
 - 2019-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-17: sent for promulgation
+- 2019-05-06: promulgated, becomes Legea nr. 90/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-02-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009AM.PDF
 - 2019-04-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009AXS.PDF
 - 2019-04-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009LP.PDF
+- 2019-05-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009DP.PDF
+- 2019-05-06: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009AFP.PDF
+- 2019-05-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L009FP.PDF
