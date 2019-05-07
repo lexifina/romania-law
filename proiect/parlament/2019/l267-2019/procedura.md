@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-03-04: registered at the Chamber of Deputies
+- 2019-05-07: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2019-05-07: Raport comisie sesizată pe fond (CR): [cr-ef42b63f.md](cr-ef42b63f.md); official file https://www.senat.ro/legis/PDF/2019/19L267CR.PDF
