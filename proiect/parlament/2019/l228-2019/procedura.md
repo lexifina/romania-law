@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-02-25: registered at the Chamber of Deputies
 - 2019-05-07: adopted by the Chamber of Deputies
+- 2019-05-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2019-05-08: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L228AD.PDF
+- 2019-05-08: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L228FG.PDF
+- 2019-05-08: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L228EM.PDF
