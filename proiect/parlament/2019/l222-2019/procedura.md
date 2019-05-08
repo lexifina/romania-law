@@ -1,0 +1,22 @@
+# Proiect de lege L222/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 34/2021 (`legea-34-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.28/2019 pentru modificarea art.3 indice 4 din Ordonanţa de urgenţă a Guvernului nr.77/2011 privind stabilirea unor contribuţii pentru finanţarea unor cheltuieli în domeniul sănătăţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-05-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-05-08: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222AD.PDF
+- 2019-05-08: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222FG.PDF
+- 2019-05-08: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222EM.PDF
+- 2019-05-08: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222LG.PDF
+- 2019-05-08: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222OG.PDF
+- 2019-05-08: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222HG.PDF
