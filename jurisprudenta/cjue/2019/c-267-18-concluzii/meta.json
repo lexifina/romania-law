@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-267-18-concluzii-2019-05-08",
+ "label": "CJUE, Concluziile avocatului general M. Campos Sánchez-Bordona prezentate la 8 mai 2019, Cauza C-267/18.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2019-05-08",
+ "year": "2019",
+ "case": "Cauza C-267/18.",
+ "celex": "62018CC0267",
+ "ecli": "ECLI:EU:C:2019:393",
+ "heading": "Concluziile avocatului general M. Campos Sánchez-Bordona prezentate la 8 mai 2019",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel București.",
+ "national_followup": null,
+ "parties": "Delta Antrepriză de Construcții și Montaj 93 SA împotriva Companiei Naționale de Administrare a Infrastructurii Rutiere SA.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Achiziții publice – Procedură de achiziții publice – Directiva 2014/24/UE – Articolul 57 alineatul (4) – Motive facultative de excludere – Excluderea unui operator economic de la participarea la o procedură de achiziții publice – Rezilierea unui contract anterior din cauza subcontractării sale parțiale – Noțiunea de „deficiențe semnificative sau persistente” – Domeniu de aplicare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CC0267",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-267/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/91f61e03-717c-11e9-9f05-01aa75ed71a1.0010.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "1ee799c92630451ce0d2d741c53288a956e1fe82c6cde359c3a8e75ac61e29a5"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
