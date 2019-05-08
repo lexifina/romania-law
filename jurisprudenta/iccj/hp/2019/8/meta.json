@@ -1,0 +1,220 @@
+{
+ "key": "iccj-hp-8-2019",
+ "label": "Decizia ÎCCJ nr. 8/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "8",
+ "date": "2019-02-25",
+ "year": "2019",
+ "heading": "DECIZIA nr. 8 din 25 februarie 2019",
+ "subtitle": "referitoare la interpretarea art. 191 din Regulamentul de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "355",
+  "bis": false,
+  "date": "2019-05-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.179/1/2018",
+  "15.930/231/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Vrancea - Secția a II-a civilă și de contencios administrativ și fiscal, în Dosarul nr. 15.930/231/2016, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Interpretarea art. 191 din Regulamentul de aplicare a Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, aprobat prin Hotărârea Guvernului nr. 1.391/2006, în sensul dacă acesta reprezintă o normă specială ce derogă de la norma generală, instituită de art. 109 alin. (1) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și completările ulterioare, și stabilește o competență specială a șefului serviciului poliției rutiere pe teritoriul căruia a fost constatată contravenția, sub aspectul aplicării sancțiunii contravenționale complementare, în situația în care contravenientul a săvârșit fapta pe raza de competență a altui județ decât cel care îl are în evidență.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1-1",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 59
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 69/2007",
+    "number": "69",
+    "year": "2007",
+    "path": "oug/2007/69"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.391/2006",
+    "number": "1391",
+    "year": "2006",
+    "path": "hg/2006/1391"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213529",
+  "text_sha256": "9e004c3f0d4e548a8f8ced21c4c0467e059e7a83676a03fdb39e731b8c13040e",
+  "catalogue_sha256": "9e004c3f0d4e548a8f8ced21c4c0467e059e7a83676a03fdb39e731b8c13040e",
+  "fetched": "2026-11-03T02:41:53Z",
+  "chars": 49701,
+  "portal_id": "213529",
+  "tip": "DECIZIE"
+ }
+}
