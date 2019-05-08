@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-10: adopted by the Chamber of Deputies
 - 2019-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-20: sent for promulgation
+- 2019-05-08: promulgated, becomes Legea nr. 99/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-10: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349AM.PDF
 - 2019-04-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349AXS.PDF
 - 2019-04-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349LP.PDF
+- 2019-05-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349DP.PDF
+- 2019-05-08: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349AFP.PDF
+- 2019-05-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L349FP.PDF
