@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-20: sent for promulgation
 - 2019-05-07: promulgated, becomes Legea nr. 97/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-05-09: published in the Monitorul Oficial
 
 ## Documents
 
