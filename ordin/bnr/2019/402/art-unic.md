@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății MAXIM LEASING IFN - S.A., cu sediul în aleea Vidraru nr. 8, ap. 19, Cluj-Napoca, județul Cluj, înregistrată la oficiul registrului comerțului cu nr. J12/615/1995, cod unic de înregistrare 7896561, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-13-110021, la secțiunea k) - Activități multiple de creditare.
