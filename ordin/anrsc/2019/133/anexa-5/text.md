@@ -1,0 +1,9 @@
+# Anexa nr. 5 (Anexa nr. 5 la regulament)
+CONȚINUTUL-CADRU al autorizației de transport
+Antet primărie/asociație de dezvoltare intercomunitară....................................................................................................
+AUTORIZAȚIA DE TRANSPORT
+Nr......... din........ pentru efectuarea serviciului......................................... de către.................................................., cu sediul/domiciliul (tipul serviciului) (denumirea solicitantului) în.......................................................... (adresa completă a solicitantului)
+Prezenta autorizație este valabilă până la.....................................................
+Primar/Primar general/Președinte,
+Nume, prenume........................... (semnătura și ștampila)..................................
+----
