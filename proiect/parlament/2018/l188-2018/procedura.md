@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-20: sent for promulgation
 - 2019-05-08: promulgated, becomes Legea nr. 103/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-05-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188DP.PDF
 - 2019-05-08: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188AFP.PDF
 - 2019-05-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188FP.PDF
+- 2019-05-13: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-13: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-05-13: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L188AL.PDF (its day is not given by the bill file: shown from the last stage held)
