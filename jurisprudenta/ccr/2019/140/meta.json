@@ -1,0 +1,498 @@
+{
+ "key": "dcc-140-2019",
+ "label": "Decizia CCR nr. 140/2019",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "140",
+ "date": "2019-03-13",
+ "year": "2019",
+ "heading": "DECIZIA nr. 140 din 13 martie 2019",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru completarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "377",
+  "bis": false,
+  "date": "2019-05-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.360A/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru completarea Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "lege/2010/50"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate și constată că Legea pentru completarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru completarea Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "lege/2010/50"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71-3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1566",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1315",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1593",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1570",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [
+    {
+     "art": "713",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1402",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 151/2015",
+    "number": "151",
+    "year": "2015",
+    "path": "lege/2015/151"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/1999",
+    "number": "190",
+    "year": "1999",
+    "path": "lege/1999/190"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1998",
+    "number": "58",
+    "year": "1998",
+    "path": "lege/1998/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 547/1995",
+    "number": "547",
+    "year": "1995",
+    "path": "hg/1995/547"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-05-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213914",
+  "text_sha256": "1b11dec37216ade791a14d20ff12b5d12cc2614a236948877ef13d83fe07d49b",
+  "catalogue_sha256": "1b11dec37216ade791a14d20ff12b5d12cc2614a236948877ef13d83fe07d49b",
+  "fetched": "2026-11-03T02:41:24Z",
+  "chars": 79733,
+  "portal_id": "213914",
+  "tip": "DECIZIE"
+ }
+}
