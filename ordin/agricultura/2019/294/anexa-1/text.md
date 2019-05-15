@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXA privind modificarea anexei la Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.523/2018 pentru aprobarea sistemului de sancțiuni apliccererilor de plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat "Servicii de silvomediu, servicii climatice și conservarea pădurilor", măsurii 15 "Servicii de silvomediu, servicii climatice și conservarea pădurilor", submăsurii 15.1 "Plăți pentru angajamente de silvomediu" din cadrul Programului național de dezvoltare rurală 2014-20202014 - 2020
