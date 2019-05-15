@@ -1,0 +1,340 @@
+{
+ "key": "iccj-hp-penal-5-2019",
+ "label": "Decizia ÎCCJ nr. 5/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "5",
+ "date": "2019-03-21",
+ "year": "2019",
+ "heading": "DECIZIA nr. 5 din 21 martie 2019",
+ "subtitle": "referitoare la interpretarea art. 155 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2019-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "41/1/2019",
+  "18.348/212/2016",
+  "8.402/211/2016/a2"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "I. Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie în Dosarul nr. 18.348/212/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept:",
+  "1) „Dacă, în interpretarea art. 155 alin. (1) din Codul penal, cauza de întrerupere a cursului prescripției răspunderii penale constând în îndeplinirea unor acte de procedură în cauză își produce efectele numai în cazul oricărui act de procedură care, potrivit legii, trebuie comunicat suspectului sau inculpatului în desfășurarea procesului penal“.",
+  "2) „Dacă actele de procedură îndeplinite anterior publicării în Monitorul Oficial al României a Deciziei nr. 297/26.04.2018 a Curții Constituționale, cu respectarea art. 155 alin. (1) din Codul penal, în forma în vigoare la data efectuării lor, au condus la întreruperea cursului prescripției răspunderii penale în cauzele aflate pe rol“.",
+  "II. Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Cluj - Secția penală și de minori în Dosarul nr. 8.402/211/2016/a2 prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept:",
+  "1) „Dacă termenul de prescripție se întrerupe prin actele de procedură comunicate inculpatului sau acesta nu se mai întrerupe, nefiind legiferat în prezent prin ce acte se întrerupe cursul termenului prescripției“.",
+  "2) „Dacă actele de întrerupere a cursului termenului prescripției răspunderii penale îndeplinite sub imperiul Codului penal anterior sau al noului Cod penal până la data publicării Deciziei C.C.R. nr. 297/2018 își produc efectele și ulterior acestei decizii“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 112
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "86-3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86-4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213968",
+  "text_sha256": "09bcfd3b6f90d93c17ee98d6093f178a8dcf59414c315ee9031be994df2573b8",
+  "catalogue_sha256": "09bcfd3b6f90d93c17ee98d6093f178a8dcf59414c315ee9031be994df2573b8",
+  "fetched": "2026-11-03T02:40:45Z",
+  "chars": 119595,
+  "portal_id": "213968",
+  "tip": "DECIZIE"
+ }
+}
