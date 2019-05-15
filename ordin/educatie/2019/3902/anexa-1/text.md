@@ -1,0 +1,5 @@
+# ANEXĂ
+Județul Mehedinți
+Nr. crt. Denumirea unității de învățământ Hotărârea ARACIP de evaluare/dată Adresa unității de învățământ, tel./fax, e-mail Nivel de învățământ/ Nivel de calificare Domeniul/ Profilul Domeniul pregătirii de bază Calificarea profesională/ Specializarea Limba de predare Forma de învățământ Capacitatea maximă de școlarizare/unitate de învățământ* 1 Colegiul Tehnic „Decebal” 14/18.06.2018 Municipiul Drobeta-Turnu Severin, str. Antoninii nr. 2, tel.: 0352/315618 Liceal/Nivel 3 (conform Hotărârii Guvernului nr. 844/2002, cu modificările și completările ulterioare) Nivel 4 (conform Hotărârii Guvernului nr. 918/2013, cu modificările și completările ulterioare) Resurse naturale și protecția mediului Protecția mediului Tehnician ecolog și protecția calității mediului Română Cu frecvență 66 de formațiuni de studiu, în două schimburi (maximum 33 de formațiuni de studiu/schimb)
+* Capacitatea de școlarizare reprezintă numărul maxim de formațiuni de studiu care pot fi școlarizate în două schimburi în sălile de clasă și cabinete (excluzând laboratoare, ateliere) la nivelul unității de învățământ.
+----
