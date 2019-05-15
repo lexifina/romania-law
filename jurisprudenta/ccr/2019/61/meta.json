@@ -1,0 +1,173 @@
+{
+ "key": "dcc-61-2019",
+ "label": "Decizia CCR nr. 61/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "61",
+ "date": "2019-01-22",
+ "year": "2019",
+ "heading": "DECIZIA nr. 61 din 22 ianuarie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 143 alin. (5) din Legea dialogului social nr. 62/2011",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "379",
+  "bis": false,
+  "date": "2019-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "24.864/3/2015",
+  "502D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "143",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Federația Sanitas din România în Dosarul nr. 24.864/3/2015 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile art. 143 alin. (5) din Legea dialogului social nr. 62/2011 sunt constituționale în raport cu criticile cu neconstituționalitate formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "143",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213919",
+  "text_sha256": "9ab18589d87996c4b1ad8413975beb5d986deff1e136cebc15a51ae4c86f5f8d",
+  "catalogue_sha256": "9ab18589d87996c4b1ad8413975beb5d986deff1e136cebc15a51ae4c86f5f8d",
+  "fetched": "2026-11-06T02:51:43Z",
+  "chars": 14454,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "http://legislatie.just.ro/Public/DetaliiDocument/213919",
+   "timestamp": "20200224213347",
+   "crawl": "CC-MAIN-2020-10",
+   "filename": "crawl-data/CC-MAIN-2020-10/segments/1581875145981.35/warc/CC-MAIN-20200224193815-20200224223815-00367.warc.gz",
+   "offset": "80904904",
+   "length": "18386",
+   "sha256": "1d3b079ddbc44ffcfb524e01739cf3018227569026ad36ac66623bb5f334647b"
+  },
+  "portal_id": "213919",
+  "tip": "DECIZIE"
+ }
+}
