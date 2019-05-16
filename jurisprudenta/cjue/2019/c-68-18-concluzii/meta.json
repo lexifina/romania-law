@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-68-18-concluzii-2019-05-16",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 16 mai 2019, Cauza C-68/18.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2019-05-16",
+ "year": "2019",
+ "case": "Cauza C-68/18.",
+ "celex": "62018CC0068",
+ "ecli": "ECLI:EU:C:2019:422",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 16 mai 2019",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel București.",
+ "national_followup": null,
+ "parties": "SC Petrotel-Lukoil SA împotriva Agenţiei Naţionale de Administrare Fiscală – Direcţia Generală de Administrare a Marilor Contribuabili și a Agenţiei Naţionale de Administrare Fiscală – Direcţia Generală de Soluţionare a Contestaţiilor.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Impozitarea produselor energetice și a electricității – Directiva 2003/96/CE – Articolul 21 alineatul (3) – Absența unui fapt generator de impozit – Consum de produse energetice în incinta unei instituții care fabrică asemenea produse – Articolul 2 alineatul (3) – Obligație de obținere a încadrării unor produse energetice din punctul de vedere al stabilirii accizelor – Rata de impozitare aplicabilă produselor menționate – Principiul proporționalității.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CC0068",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-68/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/285a141e-77c7-11e9-9f05-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "7fef55706db706a120c9a44b3f80a12cb8e192573bae5c7a615ba244f6dcf0f9"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
