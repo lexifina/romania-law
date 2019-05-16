@@ -1,0 +1,144 @@
+{
+ "key": "iccj-hp-penal-6-2019",
+ "label": "Decizia ÎCCJ nr. 6/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "6",
+ "date": "2019-03-21",
+ "year": "2019",
+ "heading": "DECIZIA nr. 6 din 21 martie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"Dacă acțiunea de conducere a unui vehicul, astfel cum este prevăzută de art. 336 din Codul penal, presupune în mod necesar punerea în mișcare a vehiculului prin acționarea sistemelor de autopropulsie.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "386",
+  "bis": false,
+  "date": "2019-05-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "144/1/2019",
+  "18.436/271/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția penală și pentru cauze cu minori, în Dosarul nr. 18.436/271/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Dacă acțiunea de conducere a unui vehicul, astfel cum este prevăzută de art. 336 din Codul penal, presupune în mod necesar punerea în mișcare a vehiculului prin acționarea sistemelor de autopropulsie.“",
+  "Stabilește că acțiunea de conducere a unui vehicul, astfel cum este prevăzută de art. 336 din Codul penal, nu presupune în mod necesar punerea în mișcare a vehiculului prin acționarea sistemelor de autopropulsie.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214031",
+  "text_sha256": "8f8f5c0b57b17219c3b68f9dcac7231777ede21fec019e8eb1b19e0647bc1e63",
+  "catalogue_sha256": "8f8f5c0b57b17219c3b68f9dcac7231777ede21fec019e8eb1b19e0647bc1e63",
+  "fetched": "2026-11-03T02:40:12Z",
+  "chars": 41439,
+  "portal_id": "214031",
+  "tip": "DECIZIE"
+ }
+}
