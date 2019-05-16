@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-16: adopted by the Chamber of Deputies
 - 2019-04-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-02: sent for promulgation
+- 2019-05-16: promulgated, becomes Legea nr. 105/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017AM.PDF
 - 2019-04-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017AXS.PDF
 - 2019-04-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017LP.PDF
+- 2019-05-16: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017DP.PDF
+- 2019-05-16: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017AFP.PDF
+- 2019-05-16: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L017FP.PDF
