@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-02: sent for promulgation
 - 2019-05-16: promulgated, becomes Legea nr. 104/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-05-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-16: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L120DP.PDF
 - 2019-05-16: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L120AFP.PDF
 - 2019-05-16: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L120FP.PDF
+- 2019-05-20: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L120AT.PDF (its day is not given by the bill file: shown from the last stage held)
