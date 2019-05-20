@@ -1,0 +1,251 @@
+{
+ "key": "dcc-153-2019",
+ "label": "Decizia CCR nr. 153/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "153",
+ "date": "2019-03-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 153 din 14 martie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 697 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2019-05-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.018/186/2015",
+  "1.260D/2017",
+  "28.881/197/2017",
+  "9.330/221/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea SPORAFAR IMPEX - S.R.L. din Dej și Niculae Chender în Dosarul nr. 2.018/186/2015 al Judecătoriei Beclean, de Ioan Cristian Tatu în Dosarul nr. 28.881/197/2017 al Judecătoriei Brașov și de Ovidiu Marius Viscan în Dosarul nr. 9.330/221/2016 al Tribunalului Hunedoara - Secția I civilă și constată că dispozițiile art. 697 alin. (1) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Beclean, Judecătoriei Brașov și Tribunalului Hunedoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "626",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "627",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "720",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "389",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-05-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214057",
+  "text_sha256": "a4ab764da4feb161c116b26b9d8896ee30cec5ab7feb39b267301f4e5a57ec53",
+  "catalogue_sha256": "a4ab764da4feb161c116b26b9d8896ee30cec5ab7feb39b267301f4e5a57ec53",
+  "fetched": "2026-11-06T03:01:49Z",
+  "chars": 19827,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250405191332/https://legislatie.just.ro/Public/DetaliiDocumentAfis/214057",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/214057",
+   "timestamp": "20250405191332",
+   "sha256": "cf3a1ff6f551f57649a6c6bfcbbc2ae110838daf211ddc488c99b7bcea37fa2c"
+  },
+  "portal_id": "214057",
+  "tip": "DECIZIE"
+ }
+}
