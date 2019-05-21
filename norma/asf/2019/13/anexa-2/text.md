@@ -1,0 +1,6 @@
+# Anexa nr. 2
+DECLARAȚIE^1
+Subsemnatul/Subsemnata..................................... (numele și prenumele), reprezentant legal al........................................ (denumirea firmei de audit), propus(ă) pentru realizarea auditului statutar la entitatea^2......................................... (denumirea entității), declar că firma de audit menționată nu se află în vreuna dintre situațiile de incompatibilitate ori de conflict de interese prevăzute de legislația în vigoare. ^2 Nu se aplică entităților care activează pe piața sistemului de pensii private.
+Data................
+Numele și prenumele........................................ ^1 Această declarație va fi completată și semnată de reprezentantul legal al firmei de audit care a primit propunerea de a efectua misiunea de audit la entitate. Nu sunt acceptate declarațiile semnate prin reprezentare.
+Nr. individual din Registrul public electronic al auditorilor financiari și firmelor de audit..........................
