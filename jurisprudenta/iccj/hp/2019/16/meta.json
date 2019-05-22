@@ -1,0 +1,309 @@
+{
+ "key": "iccj-hp-16-2019",
+ "label": "Decizia ÎCCJ nr. 16/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2019-04-08",
+ "year": "2019",
+ "heading": "DECIZIA nr. 16 din 8 aprilie 2019",
+ "subtitle": "referitoare la interpretarea art. 226 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "402",
+  "bis": false,
+  "date": "2019-05-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.398/1/2018",
+  "3.521/91/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": [
+      "3",
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Galați - Secția contencios administrativ și fiscal, în Dosarul nr. 3.521/91/2017, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea art. 226 alin. (3) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, prin raportare la alin. (1) al aceluiași articol, o hotărâre judecătorească în materie civilă, referitoare la restituirea despăgubirilor acordate în baza Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, republicată, cu modificările și completările ulterioare, pronunțată în favoarea unei instituții publice finanțate de la bugetul de stat, precum Autoritatea Națională pentru Restituirea Proprietăților, este asimilată, în vederea executării, unui titlu executoriu referitor la creanțe bugetare rezultate din raporturi juridice contractuale.",
+  "În interpretarea art. 226 alin. (10) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, prin raportare la art. 227 alin. (8) din același cod, în cadrul executării silite a creanțelor datorate unor instituții publice finanțate de la bugetul de stat, prevăzute de hotărâri judecătorești care nu cuprind obligații de plată a unor dobânzi și penalități de întârziere, organele fiscale nu pot calcula și stabili din oficiu, prin titluri executorii fiscale (în lipsa unor dispoziții ale titlului executoriu trimis spre executare), obligații fiscale accesorii, precum dobânzi și penalități de întârziere.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": [
+      "1",
+      "3",
+      "10",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "142",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "628",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214112",
+  "text_sha256": "59d0fdaecd7ee37023aa1f8a1a54d2953084b4fbc5a362d1cded79cb27e956f2",
+  "catalogue_sha256": "59d0fdaecd7ee37023aa1f8a1a54d2953084b4fbc5a362d1cded79cb27e956f2",
+  "fetched": "2026-11-03T02:39:59Z",
+  "chars": 71220,
+  "portal_id": "214112",
+  "tip": "DECIZIE"
+ }
+}
