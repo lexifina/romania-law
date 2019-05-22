@@ -1,0 +1,210 @@
+{
+ "key": "iccj-hp-17-2019",
+ "label": "Decizia ÎCCJ nr. 17/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "17",
+ "date": "2019-04-08",
+ "year": "2019",
+ "heading": "DECIZIA nr. 17 din 8 aprilie 2019",
+ "subtitle": "referitoare la interpretarea art. 688 alin. (2) din Codul de procedură civilă și a art. 1.155 alin. (2) din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "399",
+  "bis": false,
+  "date": "2019-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "97/1/2019",
+  "6.386/299/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "688",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1155",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul București - Secția a IV-a civilă în Dosarul nr. 6.386/299/2018 în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: „interpretarea art. 688 alin. (2) din Codul de procedură civilă și a art. 1.155 alin. (2) din Codul civil cu privire la posibilitatea încuviințării executării silite asupra bunurilor moștenirii împotriva succesibililor acceptanți, câtă vreme nu s-a emis certificat de moștenitor“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "688",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "645",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1155",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1114",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1061",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "893",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "896",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214097",
+  "text_sha256": "2cffdf975f3dd05c0da4f0e40d3a3aa12ceedf6e39830d8af0ceec996d40f6a3",
+  "catalogue_sha256": "2cffdf975f3dd05c0da4f0e40d3a3aa12ceedf6e39830d8af0ceec996d40f6a3",
+  "fetched": "2026-11-03T02:40:02Z",
+  "chars": 29656,
+  "portal_id": "214097",
+  "tip": "DECIZIE"
+ }
+}
