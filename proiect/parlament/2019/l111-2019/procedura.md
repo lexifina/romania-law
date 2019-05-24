@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-01: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-04-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-06: sent for promulgation
+- 2019-05-24: promulgated, becomes Legea nr. 109/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111AM.PDF
 - 2019-04-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111AXS.PDF
 - 2019-04-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111LP.PDF
+- 2019-05-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111DP.PDF
+- 2019-05-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111AFP.PDF
+- 2019-05-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L111FP.PDF
