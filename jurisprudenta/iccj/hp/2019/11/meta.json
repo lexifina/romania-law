@@ -1,0 +1,297 @@
+{
+ "key": "iccj-hp-11-2019",
+ "label": "Decizia ÎCCJ nr. 11/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "11",
+ "date": "2019-03-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 11 din 11 martie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 3^1 alin. (1), (1^1) și (1^3) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "417",
+  "bis": false,
+  "date": "2019-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.151/1/2018",
+  "4.394/111/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea privind pronunțarea unei hotărâri prealabile formulate de Curtea de Apel Oradea - Secția I civilă în Dosarul nr. 4.394/111/2017, cu privire la următoarea problemă de drept: „dezlegarea modului de interpretare și aplicare a dispozițiilor art. 3^1 alin. (1),(1^1) și (1^3) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, cu modificările și completările ulterioare, în raport cu prevederile anexei nr. IV capitolul I lit. b) nr. crt. 1 din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, cu modificările și completările ulterioare, stabilindu-se, în concret, dacă, din punct de vedere al salarizării, funcția de actor este similară cu celelalte funcții menționate în anexa nr. IV capitolul I lit. b) nr. crt. 1 din Legea-cadru nr. 284/2010 și dacă (funcțiile) acestea se includ în sintagma «fiecare funcție» prevăzută la art. 3^1 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 sau, dimpotrivă, funcția de actor, din punct de vedere al salarizării, nu poate fi similară cu celelalte funcții prevăzute în aceeași anexă nr. IV capitolul I lit. b) nr. crt. 1 din Legea-cadru nr. 284/2010, întrucât nu este vorba despre «aceleași funcții și atribuții» [în sensul art. 3^1 alin. (1^3) teza a doua din Ordonanța de urgență a Guvernului nr. 57/2015], în cauză instituțiile fiind diferite, chiar dacă (instituțiile respective) se află în subordinea aceluiași ordonator principal de credite.“",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-3",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2016",
+    "number": "43",
+    "year": "2016",
+    "path": "oug/2016/43"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1031",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/2007",
+    "number": "21",
+    "year": "2007",
+    "path": "og/2007/21"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.672/2008",
+    "number": "1672",
+    "year": "2008",
+    "path": "hg/2008/1672"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 10/2008",
+    "number": "10",
+    "year": "2008",
+    "path": "og/2008/10"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214508",
+  "text_sha256": "913b5100d3142e2fe5c609a160e63507b6e3a09e85fe13106acf6e3a4e1c775f",
+  "catalogue_sha256": "913b5100d3142e2fe5c609a160e63507b6e3a09e85fe13106acf6e3a4e1c775f",
+  "fetched": "2026-11-06T03:49:28Z",
+  "chars": 53761,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/214508",
+   "timestamp": "20251215044822",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871650855.84/warc/CC-MAIN-20251215040258-20251215070258-00266.warc.gz",
+   "offset": "262666794",
+   "length": "37542",
+   "sha256": "d1104a5e4a9210647d264cc8e4fcff7ddff83fe9681376f23350dddec9d6876d"
+  },
+  "portal_id": "214508",
+  "tip": "DECIZIE"
+ }
+}
