@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-03-25: documents published: Aviz Consiliul Legislativ, Punct de vedere, Aviz Consiliul Economic și Social
 - 2019-04-10: documents published: Aviz comisie
+- 2019-05-28: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151PV.PDF
 - 2019-03-25: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151ES.PDF
 - 2019-04-10: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151CA45.PDF
+- 2019-05-28: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151FS.PDF
+- 2019-05-28: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151AM.PDF
