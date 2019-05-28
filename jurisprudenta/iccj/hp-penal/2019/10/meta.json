@@ -1,0 +1,205 @@
+{
+ "key": "iccj-hp-penal-10-2019",
+ "label": "Decizia ÎCCJ nr. 10/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2019-04-17",
+ "year": "2019",
+ "heading": "DECIZIA nr. 10 din 17 aprilie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei probleme de drept: \"Poate fi subiect activ al infracțiunii de mărturie mincinoasă participantul la comiterea unei infracțiuni care a fost judecat separat de ceilalți participanți și audiat ulterior ca martor în cauza disjunsă cu privire la acești din urmă participanți?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "416",
+  "bis": false,
+  "date": "2019-05-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "377/1/2019",
+  "17.643/4/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "273",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 17.643/4/2017 (3.018/2018), prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Poate fi subiect activ al infracțiunii de mărturie mincinoasă participantul la comiterea unei infracțiuni care a fost judecat separat de ceilalți participanți și audiat ulterior ca martor în cauza disjunsă cu privire la acești din urmă participanți?“",
+  "Stabilește că participantul la comiterea unei infracțiuni care a fost judecat separat de ceilalți participanți și audiat ulterior ca martor, în cauza disjunsă, nu poate avea calitatea de subiect activ al infracțiunii de mărturie mincinoasă prevăzute de art. 273 din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "277",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214505",
+  "text_sha256": "9f205e7f02d8f107d628772d17927c7eec3a2123f0980808d2c4d0bc3ca37d02",
+  "catalogue_sha256": "9f205e7f02d8f107d628772d17927c7eec3a2123f0980808d2c4d0bc3ca37d02",
+  "fetched": "2026-11-03T02:39:34Z",
+  "chars": 41840,
+  "portal_id": "214505",
+  "tip": "DECIZIE"
+ }
+}
