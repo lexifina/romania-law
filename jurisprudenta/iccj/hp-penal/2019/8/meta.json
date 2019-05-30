@@ -1,0 +1,321 @@
+{
+ "key": "iccj-hp-penal-8-2019",
+ "label": "Decizia ÎCCJ nr. 8/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "8",
+ "date": "2019-03-21",
+ "year": "2019",
+ "heading": "DECIZIA nr. 8 din 21 martie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei probleme de drept: dacă noțiunea de rănire a uneia sau mai multor persoane prevăzută de art. 75 alin. (1) lit. b) din OUG nr. 195/2002 privind circulația pe drumurile publice raportat la art. 338 alin. (3) din Codul penal, are în vedere și autorănirea, când singura persoană rănită este însuși conducătorul singurului autovehicul implicat în accident.",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "424",
+  "bis": false,
+  "date": "2019-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "228/1/2019",
+  "65/206/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea Curții de Apel Suceava - Secția penală și pentru cauze cu minori și de familie, în Dosarul nr. 65/206/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei probleme de drept: „dacă noțiunea de rănire a uneia sau mai multor persoane prevăzută de art. 75 alin. (1) lit. b) din OUG nr. 195/2002 privind circulația pe drumurile publice raportat la art. 338 alin. (3) din Codul penal, articol care definește accidentul de circulație ca situație premisă a infracțiunii de părăsire a locului accidentului prevăzută de art. 338 alin. (1) din Codul penal, are în vedere și autorănirea, când singura persoană rănită este însuși conducătorul singurului autovehicul implicat în accident.“",
+  "Stabilește că rănirea uneia sau mai multor persoane prevăzută de art. 75 lit. b) din OUG nr. 195/2002, cuprinsă în definiția accidentului de circulație, ca situație premisă a infracțiunii de părăsire a locului accidentului prevăzută de art. 338 alin. (1) din Codul penal, nu are în vedere și autorănirea, când singura persoană rănită este însuși conducătorul singurului autovehicul implicat în accident.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 122
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 195/2001",
+    "number": "195",
+    "year": "2001",
+    "path": "oug/2001/195"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214556",
+  "text_sha256": "31ce1aa25b5b02a93a83874e7a6cde47190bbfd64d584984088ba12fc68e925f",
+  "catalogue_sha256": "31ce1aa25b5b02a93a83874e7a6cde47190bbfd64d584984088ba12fc68e925f",
+  "fetched": "2026-11-03T02:39:21Z",
+  "chars": 80141,
+  "portal_id": "214556",
+  "tip": "DECIZIE"
+ }
+}
