@@ -1,0 +1,398 @@
+{
+ "key": "dcc-222-2019",
+ "label": "Decizia CCR nr. 222/2019",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "revizuire-constitutie",
+ "number": "222",
+ "date": "2019-04-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 222 din 9 aprilie 2019",
+ "subtitle": "asupra inițiativei legislative a cetățenilor intitulate \"Lege de revizuire a Constituției României \"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "425",
+  "bis": false,
+  "date": "2019-05-30",
+  "part": "I"
+ },
+ "outcome": "other",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "subjects": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Constată că inițiativa legislativă a cetățenilor intitulată „Lege de revizuire a Constituției României“ îndeplinește condițiile prevăzute de art. 150 și art. 152 din Constituție.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică inițiatorilor revizuirii, precum și Președintelui Camerei Deputaților și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "150",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 189/1999",
+    "number": "189",
+    "year": "1999",
+    "path": "lege/1999/189"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  }
+ ],
+ "warnings": [
+  "outcome: not detected"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214558",
+  "text_sha256": "c2a5bb10c4310c4014b8e66f51db5b448a508422546334831afbb0bd2deac8fa",
+  "catalogue_sha256": "c2a5bb10c4310c4014b8e66f51db5b448a508422546334831afbb0bd2deac8fa",
+  "fetched": "2026-11-03T02:39:26Z",
+  "chars": 67005,
+  "portal_id": "214558",
+  "tip": "DECIZIE"
+ }
+}
