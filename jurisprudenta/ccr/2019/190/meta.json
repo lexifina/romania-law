@@ -1,0 +1,169 @@
+{
+ "key": "dcc-190-2019",
+ "label": "Decizia CCR nr. 190/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "190",
+ "date": "2019-03-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 190 din 28 martie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 lit. e) pct. (vii) din Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "424",
+  "bis": false,
+  "date": "2019-05-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "119.902/299/2015",
+  "2.876D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 lit. e) pct. (vii) din Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale, excepție ridicată de Societatea Meze Food Services - S.R.L. din București în Dosarul nr. 119.902/299/2015* al Judecătoriei Sectorului 1 București - Secția a II-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 20/2017",
+    "number": "20",
+    "year": "2017",
+    "path": "og/2017/20"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214555",
+  "text_sha256": "69ea4fc3195996084247446133e7794621c3a08fdb41f42ed1dd89bc8ef37cae",
+  "catalogue_sha256": "69ea4fc3195996084247446133e7794621c3a08fdb41f42ed1dd89bc8ef37cae",
+  "fetched": "2026-11-03T02:39:22Z",
+  "chars": 10075,
+  "portal_id": "214555",
+  "tip": "DECIZIE"
+ }
+}
