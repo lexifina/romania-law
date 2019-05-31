@@ -1,0 +1,187 @@
+{
+ "key": "cedo-23022-13-2017-10-03",
+ "label": "CEDO, D.M.D. c. României, 2017-10-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2017-10-03",
+ "year": "2017",
+ "heading": "HOTĂRÂREA din 3 octombrie 2017",
+ "subtitle": "în Cauza D.M.D. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "431",
+  "bis": false,
+  "date": "2019-05-31",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "23022/13"
+ ],
+ "case_name": "D.M.D.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. unește, în unanimitate, fondul cu excepția preliminară ridicată de Guvern cu privire la neepuizarea căilor de atac interne în ceea ce privește capătul de cerere privind pretinsa încălcare a dreptului reclamantului la un proces echitabil și o respinge;",
+  "2. declară, în unanimitate, admisibil capătul de cerere formulat în temeiul art. 3 din Convenție;",
+  "3. declară, cu majoritate, admisibil capătul de cerere privind pretinsa încălcare a dreptului reclamantului la un proces echitabil, astfel cum este garantat de art. 6 din Convenție;",
+  "4. hotărăște, în unanimitate, că a fost încălcat art. 3 din Convenție sub aspect procedural;",
+  "5. hotărăște, cu patru voturi la trei, că a fost încălcat art. 6 § 1 din Convenție, în sensul că reclamantului i-a fost refuzat dreptul la un proces echitabil;",
+  "6. hotărăște, în unanimitate, că nu este necesar să examineze admisibilitatea și fondul capătului de cerere formulat în temeiul art. 6 din Convenție cu privire la durata procedurii;",
+  "7. hotărăște, cu patru voturi la trei: a) că statul pârât trebuie să plătească reclamantului, în termen de 3 luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "10.000 EUR (zece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul moral;",
+  "(ii)",
+  "1.326,69 EUR (o mie trei sute douăzeci și șase euro și șaizeci și nouă de cenți), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată în procedurile interne;",
+  "(ii)",
+  "2.347,50 EUR (două mii trei sute patruzeci și șapte de euro și cincizeci de cenți), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată suportate în cadrul procedurii în fața Curții, care trebuie plătită în contul bancar al reprezentantei reclamantului;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "8. respinge, în unanimitate, cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214584",
+  "text_sha256": "c2fa078c4100b423a96a7b3bdafa2e58f7e9c1f0417a05a7e39aa5f196c5105c",
+  "catalogue_sha256": "c2fa078c4100b423a96a7b3bdafa2e58f7e9c1f0417a05a7e39aa5f196c5105c",
+  "fetched": "2026-11-03T02:39:07Z",
+  "chars": 88882,
+  "portal_id": "214584",
+  "tip": "HOTĂRÂRE"
+ }
+}
