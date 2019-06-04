@@ -1,0 +1,21 @@
+# Proiect de lege L278/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 243/2019 (`legea-243-2019`).
+
+Proiect de lege privind reglementarea fondurilor de investiţii alternative şi pentru modificarea şi completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-06-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-06-04: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L278AD.PDF
+- 2019-06-04: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L278FG.PDF
+- 2019-06-04: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L278EM.PDF
+- 2019-06-04: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L278LG.PDF
+- 2019-06-04: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L278HG.PDF
