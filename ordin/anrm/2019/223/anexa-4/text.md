@@ -1,0 +1,36 @@
+# Anexa nr. 5
+FUNDAMENTAREA tarifelor pentru actele eliberate de Agenția Națională pentru Resurse Minerale, prevăzute la categoria A2 lit. c) din anexa nr. 1 la ordin
+Nr. crt.
+Gradul de complexitate
+Numărul de ore
+Costul/oră (lei/oră)
+Tariful rotunjit (lei) 1
+I-1 II-1 III-1 32 49,03 1.569,00 2
+I-1 II-1 III-2 35 49,03 1.716,00 3
+I-1 II-1 III-3 42 49,03 2.059,00 4
+I-1 II-2 III-1 35 49,03 1.716,00 5
+I-1 II-2 III-2 39 49,03 1.912,00 6
+I-1 II-2 III-3 45 49,03 2.206,00 7
+I-1 II-3 III-1 42 49,03 2.059,00 8
+I-1 II-3 III-2 45 49,03 2.206,00 9
+I-1 II-3 III-3 53 49,03 2.599,00 10
+I-2 II-1 III-1 35 49,03 1.716,00 11
+I-2 II-1 III-2 39 49,03 1.912,00 12
+I-2 II-1 III-3 45 49,03 2.206,00 13
+I-2 II-2 III-1 39 49,03 1.912,00 14
+I-2 II-2 III-2 42 49,03 2.059,00 15
+I-2 II-2 III-3 49 49,03 2.402,00 16
+I-2 II-3 III-1 45 49,03 2.206,00 17
+I-2 II-3 III-2 49 49,03 2.402,00 18
+I-2 II-3 III-3 56 49,03 2.746,00 19
+I-3 II-1 III-1 42 49,03 2.059,00 20
+I-3 II-1 III-2 45 49,03 2.206,00 21
+I-3 II-1 III-3 53 49,03 2.599,00 22
+I-3 II-2 III-1 45 49,03 2.206,00 23
+I-3 II-2 III-2 49 49,03 2.402,00 24
+I-3 II-2 III-3 56 49,03 2.746,00 25
+I-3 II-3 III-1 53 49,03 2.599,00 26
+I-3 II-3 III-2 56 49,03 2.746,00 27
+I-3 II-3 III-3 63 49,03 3.089,00
+5.
+Anexa nr. 6 va avea următorul cuprins:
