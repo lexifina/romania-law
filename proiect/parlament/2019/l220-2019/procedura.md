@@ -9,7 +9,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2019-05-14: registered at the Senate
+- 2019-06-04: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2019-06-04: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L220CA19.PDF
