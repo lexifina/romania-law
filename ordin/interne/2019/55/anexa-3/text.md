@@ -1,0 +1,3 @@
+# Anexa nr. 3 (Anexa nr. 7 la Ordinul nr. 66/2014)
+PLACHETA DE ONOARE A POLIȚIEI ROMÂNE
+Placheta de onoare a Poliției Române este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din arie și este compusă dintr-un scut albastru, în câmpul căruia se află emblema de onoare a Poliției Române, dar fără panglică; cu șeful încărcat cu o fascie aurie alezată, în care sunt gravate, cu litere majuscule, cuvintele: PLACHETĂ DE ONOARE.

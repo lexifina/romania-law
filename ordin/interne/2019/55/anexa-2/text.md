@@ -1,0 +1,5 @@
+# Anexa nr. 2 (Anexa nr. 6 la Ordinul nr. 66/2014)
+INSIGNA ONORIFICĂ „POLIȚIST DE ONOARE AL ANULUI”
+Insigna onorifică „Polițist de onoare al anului” este confecționată din tombac auriu sau argintiu, în funcție de metalul elementelor din câmp, are formă rotundă, diametrul de 35 mm și grosimea de 3 mm. Culorile sunt emailate. Insigna are, pe fond albastru, însemnul heraldic al Inspectoratului General al Poliției Române, dar fără scutul mare.
+În exergă, în partea de sus, este scris semicircular, cu litere majuscule, argintii: POLIȚIST DE ONOARE. Insigna are, pe revers, un sistem de prindere.
+Insigna onorifică se poartă cu o baretă din moar, roșie, de formă dreptunghiulară, cu dimensiuni de 20 x 10 mm, ce are în partea de sus, începând de la 3 mm de margine, o bandă aurie, orizontală, lată de 2 mm, iar în partea de jos, începând, de asemenea, de la 3 mm, o altă bandă orizontală, argintie, lată de 1 mm. Materialul baretei este pus peste o placă din inox austenitic, de formă dreptunghiulară, cu grosimea de 2 mm, ce are, pe revers, un sistem de prindere.
