@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-11: legislative procedure ended
 - 2019-02-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-06-05: documents published: Raport comisie sesizată pe fond
+- 2019-06-06: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L194FG.PDF
 - 2019-02-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L194EM.PDF
 - 2019-06-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L194CR.PDF
+- 2019-06-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L194CA45.PDF
