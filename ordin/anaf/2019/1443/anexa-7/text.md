@@ -1,0 +1,9 @@
+# Anexa nr. 7
+OFERTANTUL................................................................. (denumirea/numele, sediul social și numărul de telefon) nr................................/............................
+Declarație pe propria răspundere privind personalul calificat alocat
+În vederea participării la selecția debitoarei................... declar/declarăm pe propria răspundere, cunoscând prevederile art. 292 din Codul penal, că înțelegem să alocăm în vederea instrumentării Dosarului nr.............. aflat pe rolul Tribunalului..............., pentru debitorul...................................... un număr de......... persoane calificate cu studii superioare de lungă durată, cu care avem contract de muncă sau pentru prestarea de servicii în domeniul desfășurării activității procedurii insolvenței, a cărui valabilitate să fie de cel puțin un an de la data depunerii ofertei.
+Personalul alocat este alcătuit din următoarele persoane:
+Numele și prenumele Calificarea
+Data....../......../........
+Numele și prenumele reprezentantului legal al ofertantului,.........................................
+Semnătura în calitate de......................, legal autorizat să semnez oferta pentru și în numele.......................................... (denumirea/numele ofertantului)
