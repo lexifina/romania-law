@@ -1,0 +1,125 @@
+{
+ "key": "cedo-71908-14-2018-10-16",
+ "label": "CEDO, Pop c. României, 2018-10-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2018-10-16",
+ "year": "2018",
+ "heading": "HOTĂRÂREA din 16 octombrie 2018",
+ "subtitle": "în Cauza Pop împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "464",
+  "bis": false,
+  "date": "2019-06-07",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "71908/14"
+ ],
+ "case_name": "Pop",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Hotărând în unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcată latura materială a art. 3 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze dacă a fost încălcată latura procedurală a art. 3 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni, următoarele sume, convertite în moneda statului membru pârât la rata aplicabilă la data plății: i.",
+  "9.000 EUR (nouă mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral; ii.",
+  "1.445 EUR (o mie patru sute patruzeci și cinci de euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214860",
+  "text_sha256": "f40d480b615c3aa40718202a8b2ceaf946e2952a0c2134809607d369dd97d6d5",
+  "catalogue_sha256": "f40d480b615c3aa40718202a8b2ceaf946e2952a0c2134809607d369dd97d6d5",
+  "fetched": "2026-11-03T02:09:45Z",
+  "chars": 34808,
+  "portal_id": "214860",
+  "tip": "HOTĂRÂRE"
+ }
+}
