@@ -1,0 +1,36 @@
+# Anexa 4
+Anexa nr. 4
+la regulament
+- Model -
+[FAȚĂ] Nr. ...............
+Din ...............
+CERERE
+pentru acordarea autorizației de export prevăzute la
+art. 8 alin. (1) din Legea nr. 142/2018 privind precursorii de droguri
+Operatorul .........................................., adresa/sediul social ..................................., str. .................................. nr. ...., județul/sectorul ................................, înființat prin ............................/ înregistrat la oficiul registrului comerțului cu nr. ...................., cod unic de înregistrare ...................., telefon/fax ........................, posesor al licenței pentru operațiuni cu substanțe clasificate/înregistrării^1 nr. .......................... din ....................., prin reprezentant legal .............................., solicită autorizarea operațiunii de EXPORT pentru:
+Substanța^2: 1.
+...........................................................................................................................................................................................
+2.
+...........................................................................................................................................................................................
+Cantitatea^3: 1.
+............................................................................................................................................................................................
+2.
+...........................................................................................................................................................................................
+Către importatorul: denumire ..........................................., adresă ..........................., reprezentant legal ................................, telefon/fax .................., alte date de identificare ...................................., posesor al Autorizației de import nr.^4 ..........................., eliberată de .......................
+Alți operatori implicați în operațiunea de export: denumire ........................................., adresă ..................................., reprezentant legal ............................, telefon/fax .............. , alte date de identificare .................................
+Destinatar final: denumire ..........................................., adresă .................................., reprezentant legal ............................., telefon/fax ................., alte date de identificare ...............................................................
+Transportul^5 se va efectua în data ………..…… pe cale^6 ................, cu mijlocul de transport …………...……., identificat prin nr. ……………………, la data de ................., itinerarul^7 ................................................, punctul de ieșire de pe teritoriul vamal al Uniunii Europene va fi ..............................., punctul de intrare în țara importatoare va fi ........................., iar declarația vamală se face în^8: .................................................. .
+Ne asumăm răspunderea, potrivit legii penale, că informațiile furnizate corespund realității, iar documentele prezentate, în copie, sunt conforme cu originalul.
+Reprezentant legal^9,
+.................................................
+Data .........................................
+^1 Se anexează la cerere copia licenței/înregistrării.
+^2 Se indică substanța clasificată așa cum figurează în anexa I la Regulamentul (CE) nr. 273/2004 și la Regulamentul (CE) nr. 111/2005; în cazul unui amestec sau al unui produs natural, denumirea sa și codul NC, precum și denumirea care figurează în anexă a oricărei substanțe clasificate prezente în amestec sau în produsul natural.
+^3 Se menționează cantitatea totală și greutatea totală a substanței clasificate și, atunci când este vorba de un amestec sau de un produs natural, cantitatea totală, greutatea totală a produsului și cantitatea și procentajul substanței clasificate pe care o conține. Pentru substanțele clasificate categoria 4 se indică și cantitatea totală a produsului exportat, precum și cantitatea și procentul substanței clasificate din conținutul acestuia.
+^4 Se va menționa numărul autorizației de import eliberate de țara de destinație.
+^5 În cazul în care informațiile nu sunt disponibile în momentul completării cererii, acestea se comunică Agenției Naționale Antidrog înainte de deplasarea fizică a transportului, precum și biroului vamal, acestuia din urmă în vederea înscrierii pe autorizație a datelor lipsă.
+^6 Se menționează, de exemplu, maritim, aerian, feroviar, rutier.
+^7 Se vor menționa orașele mari prin care trece transportul substanțelor.
+^8 Se va indica biroul vamal în care se va face declarația vamală.
+^9 Se vor menționa funcția, numele, prenumele, semnătura și se va aplica ștampila.
+[VERSO] Datele dumneavoastră personale sunt prelucrate de Agenția Națională Antidrog în scopul acordării autorizației de export. În vederea realizării acestui scop, datele pot fi dezvăluite unor terți. Datele dumneavoastră sunt stocate pe perioada necesară îndeplinirii atribuțiilor, după care vor fi arhivate potrivit legislației aplicabile. Persoanele ale căror date personale sunt prelucrate de Agenția Națională Antidrog pot să își exercite drepturile prevăzute de Regulamentul general privind protecția datelor printr-o cerere trimisă la adresa Bd. Unirii nr. 37, bl. A4, parter, sectorul 3, București, sau la adresa de e-mail: secretariat@ana.gov.ro. Mai multe informații puteți obține accesând site-ul www.ana.gov.ro, la rubrica protecția datelor.
