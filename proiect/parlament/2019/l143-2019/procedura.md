@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-05-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-20: sent for promulgation
 - 2019-06-07: promulgated, becomes Legea nr. 113/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-06-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2019-06-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143DP.PDF
 - 2019-06-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143AFP.PDF
 - 2019-06-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143FP.PDF
+- 2019-06-10: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-06-10: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L143TC.PDF (its day is not given by the bill file: shown from the last stage held)
