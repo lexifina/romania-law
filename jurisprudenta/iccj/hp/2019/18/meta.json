@@ -1,0 +1,142 @@
+{
+ "key": "iccj-hp-18-2019",
+ "label": "Decizia ÎCCJ nr. 18/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2019-05-06",
+ "year": "2019",
+ "heading": "DECIZIA nr. 18 din 6 mai 2019",
+ "subtitle": "referitoare la interpretarea art. 2 pct. 26 și pct. 27 din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "468",
+  "bis": false,
+  "date": "2019-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "604/1/2019",
+  "14.196/55/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 119/2014",
+    "number": "119",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, în Dosarul nr. 14.196/55/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "– în interpretarea art. 2 pct. 26 și pct. 27 din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice, aceste prevederi legale se coroborează/întregesc cu Ordinul nr. 119/2014 emis de Ministerul Sănătății pentru aprobarea Normelor de igienă și sănătate publică privind mediul de viață al populației în ce privește limita de presiune acustică/nivelul de zgomot?",
+  "– stabilirea zgomotului la «intensitate mare» în sensul art. 2 pct. 26 din Legea nr. 61/1991 sau la «intensitate de natură a tulbura liniștea locuitorilor» în sensul art. 2 pct. 27 din Legea nr. 61/1991 trebuie să se facă în mod obiectiv prin mijloace tehnice omologate sau nu?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 119/2014",
+    "number": "119",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 119/2014",
+    "number": "119",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214879",
+  "text_sha256": "7d4fc8f61c9ce81d8dc3ede88234e6d1cadd7786511ca7dbfa171facc2829b62",
+  "catalogue_sha256": "7d4fc8f61c9ce81d8dc3ede88234e6d1cadd7786511ca7dbfa171facc2829b62",
+  "fetched": "2026-11-03T02:09:40Z",
+  "chars": 37539,
+  "portal_id": "214879",
+  "tip": "DECIZIE"
+ }
+}
