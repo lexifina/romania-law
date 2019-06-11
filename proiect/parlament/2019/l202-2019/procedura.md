@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-26: documents published: Punct de vedere
 - 2019-05-30: documents published: Aviz comisie
 - 2019-06-06: documents published: Aviz comisie
+- 2019-06-11: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-26: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L202PV.PDF
 - 2019-05-30: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L202CA3.PDF
 - 2019-06-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L202CA45.PDF
+- 2019-06-11: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L202CA12.PDF
