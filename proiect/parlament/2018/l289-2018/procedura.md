@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2018-09-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-09-11: registered at the Chamber of Deputies
 - 2019-06-05: adopted by the Chamber of Deputies
+- 2019-06-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2018-05-08: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L289HG.PDF
 - 2018-09-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L289FS.PDF
 - 2018-09-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L289AM.PDF
+- 2019-06-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L289AXS.PDF
+- 2019-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L289LP.PDF
