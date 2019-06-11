@@ -1,0 +1,6 @@
+# Anexa nr. 2
+DECLARAȚIE pe propria răspundere cu privire la realitatea datelor și informațiilor transmise
+Noi,............................., în calitate de importator/producător, ne asumăm integral responsabilitatea cu privire la realitatea datelor și informațiilor transmise privind produsul..................... încadrat în categoria alimente destinate unor scopuri medicale speciale. Produsul pentru care se solicită notificare NU a fost înregistrat în nicio altă țară ca produs medicamentos fără prescripție medicală (produs OTC) sau supliment alimentar. Ne asumăm responsabilitatea conformării alimentelor destinate unor scopuri medicale speciale fabricate/importate cu prevederile legale în vigoare.
+Data.......................................
+Reprezentant, firmă, calitate, semnătură, ștampilă..............................
+------
