@@ -1,0 +1,331 @@
+{
+ "key": "iccj-ril-10-2019",
+ "label": "Decizia ÎCCJ nr. 10/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2019-04-08",
+ "year": "2019",
+ "heading": "DECIZIA nr. 10 din 8 aprilie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 112 alin. (1) lit. f) din Codul penal, art. 342 alin. (6) din Codul penal și art. 549^1 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "472",
+  "bis": false,
+  "date": "2019-06-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "191/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "549-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii promovat de Colegiul de conducere al Curții de Apel Timișoara.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 112 alin. (1) lit. f) din Codul penal, art. 342 alin. (6) din Codul penal și art. 549^1 din Codul de procedură penală, stabilește următoarele:",
+  "În cazul faptei prevăzute de art. 342 alin. (6) din Codul penal, cu privire la care s-a dispus o soluție de clasare întemeiată pe dispozițiile art. 16 alin. (1) lit. b) teza a II-a din Codul de procedură penală, arma și muniția intră sub incidența confiscării speciale, în temeiul art. 112 alin. (1) lit. f) din Codul penal, în procedura reglementată de art. 549^1 din Codul de procedură penală, în ipoteza în care făptuitorul nu a depus arma și muniția la un armurier autorizat în termen de 10 zile de la expirarea perioadei de valabilitate a permisului de armă.",
+  "Obligatorie, potrivit art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 69
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "315",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "549",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "549-1",
+     "alin": [
+      "1",
+      "2",
+      "3",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214898",
+  "text_sha256": "804e796fb4450da55c95417ef5c3f7e65c0d6f73af9afe97d5bb3856439772bd",
+  "catalogue_sha256": "804e796fb4450da55c95417ef5c3f7e65c0d6f73af9afe97d5bb3856439772bd",
+  "fetched": "2026-11-03T02:09:39Z",
+  "chars": 72156,
+  "portal_id": "214898",
+  "tip": "DECIZIE"
+ }
+}
