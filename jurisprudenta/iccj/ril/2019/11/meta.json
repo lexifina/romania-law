@@ -1,0 +1,186 @@
+{
+ "key": "iccj-ril-11-2019",
+ "label": "Decizia ÎCCJ nr. 11/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2019-04-08",
+ "year": "2019",
+ "heading": "DECIZIA nr. 11 din 8 aprilie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 193 raportat la art. 199 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "477",
+  "bis": false,
+  "date": "2019-06-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "198/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 193 r aportat la art. 199 alin. (1) din Codul penal, stabilește că:",
+  "Pentru infracțiunea de lovire sau alte violențe săvârșită asupra unui membru de familie, prevăzută de art. 193 r aportat la art. 199 alin. (1) din Codul penal, atunci când acțiunea penală a fost pusă în mișcare la plângerea prealabilă a persoanei vătămate, încetarea procesului penal poate fi dispusă numai ca efect al retragerii plângerii prealabile, și nu ca efect al împăcării.",
+  "Obligatorie, conform dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "193",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 69
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214942",
+  "text_sha256": "8acbcd0240158763c30e274b57ec2777e721ef23fc945f3d56cb16e24e8b6612",
+  "catalogue_sha256": "8acbcd0240158763c30e274b57ec2777e721ef23fc945f3d56cb16e24e8b6612",
+  "fetched": "2026-11-03T02:09:34Z",
+  "chars": 37637,
+  "portal_id": "214942",
+  "tip": "DECIZIE"
+ }
+}
