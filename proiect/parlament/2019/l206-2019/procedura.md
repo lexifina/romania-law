@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-03: documents published: Aviz comisie
 - 2019-06-05: documents published: Aviz comisie
 - 2019-06-06: documents published: Aviz comisie
+- 2019-06-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-03: Aviz comisie (CA38): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206CA38.PDF
 - 2019-06-05: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206CA41.PDF
 - 2019-06-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206CA45.PDF
+- 2019-06-12: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206CA42.PDF
