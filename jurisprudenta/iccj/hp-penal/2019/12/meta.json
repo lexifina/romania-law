@@ -1,0 +1,250 @@
+{
+ "key": "iccj-hp-penal-12-2019",
+ "label": "Decizia ÎCCJ nr. 12/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2019-05-07",
+ "year": "2019",
+ "heading": "DECIZIA nr. 12 din 7 mai 2019",
+ "subtitle": "referitoare la dezlegarea următoarei chestiuni de drept: \"dacă regimul suspendării condiționate a executării pedepsei, inclusiv sub aspectul revocării, este cel prevăzut de Codul penal din 1969, indiferent de felul pedepsei aplicate pentru infracțiunea săvârșită în cursul termenului de încercare, și în cazul în care suspendarea condiționată a executării pedepsei a fost dispusă după intrarea în vigoare a Codului penal actual, ca efect al aplicării legii penale mai favorabile\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "481",
+  "bis": false,
+  "date": "2019-06-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "404/1/2019",
+  "5.780/202/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția I penală prin Încheierea de ședință din data de 7 ianuarie 2019, pronunțată în Dosarul nr. 5.780/202/2017 (2.031/2018), prin care se solicită dezlegarea următoarei chestiuni de drept: „dacă regimul suspendării condiționate a executării pedepsei, inclusiv sub aspectul revocării, este cel prevăzut de Codul penal din 1969, indiferent de felul pedepsei aplicate pentru infracțiunea săvârșită în cursul termenului de încercare, și în cazul în care suspendarea condiționată a executării pedepsei a fost dispusă după intrarea în vigoare a Codului penal actual, ca efect al aplicării legii penale mai favorabile“.",
+  "Stabilește că, indiferent de felul pedepsei aplicate pentru infracțiunea săvârșită în cursul termenului de încercare, regimul suspendării condiționate a executării pedepsei aplicată în baza art. 81 din Codul penal din 1969, ca efect al aplicării legii penale mai favorabile, printr-o hotărâre pronunțată după 1 februarie 2014, se menține și după intrarea în vigoare a Codului penal actual, inclusiv sub aspectul revocării sau anulării acesteia, fiind cel prevăzut de Codul penal din 1969.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "371",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 82
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 69
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 64
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-06-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/214970",
+  "text_sha256": "1c7cbb979329a7be55e54c502413c527c16d0120055e917a16a9059f07dc1fe4",
+  "catalogue_sha256": "1c7cbb979329a7be55e54c502413c527c16d0120055e917a16a9059f07dc1fe4",
+  "fetched": "2026-11-03T02:09:32Z",
+  "chars": 109140,
+  "portal_id": "214970",
+  "tip": "DECIZIE"
+ }
+}
