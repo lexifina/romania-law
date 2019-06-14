@@ -1,0 +1,6 @@
+# Anexa nr. 4
+CERERE de înscriere în Lista auditorilor IT.......................... (denumirea auditorului IT), având sediul în............................ (adresa completă, inclusiv telefon și fax, adresa de e-mail, adresa paginii de internet), înmatriculat(ă)/înregistrat(ă) la oficiul registrului comerțului cu nr............................... (numărul de înregistrare/codul unic de înregistrare) cod fiscal..................., reprezentat(ă) legal prin dl/dna........................., identificat(ă) prin.............................(actul de identitate: seria, numărul și emitentul), intenționez să prestez servicii de audit IT pentru prestatorii de servicii de plată care emit instrumente financiare de plată electronică cu acces la distanță cărora le sunt incidente prevederile Ordinului ministrului comunicațiilor și societății informaționale nr. 553/2019 privind reglementarea procedurii de avizare a instrumentelor de plată electronică cu acces la distanță și vă solicit înscrierea în Lista auditorilor IT publicată pe site-ul instituției dumneavoastră.
+Anexez prezentei cereri documentația de calificare prevăzută la art. 15 din Ordinul ministrului comunicațiilor și societății informaționale nr. 553/2019.
+Numele și prenumele reprezentantului legal..............................
+Data................
+Ștampila solicitantului
