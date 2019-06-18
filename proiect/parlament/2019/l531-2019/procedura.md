@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-19: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2019-04-19: registered at the Senate
 - 2019-06-03: documents published: Aviz comisie
+- 2019-06-18: registered at the Chamber of Deputies
 
 ## Documents
 
