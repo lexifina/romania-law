@@ -1,0 +1,351 @@
+{
+ "key": "dcc-248-2019",
+ "label": "Decizia CCR nr. 248/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "248",
+ "date": "2019-04-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 248 din 16 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 126 alin. (4)-(6) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "494",
+  "bis": false,
+  "date": "2019-06-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.926/1/2016",
+  "2.127D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 126 alin. (4) și (5) din Codul de procedură penală, excepție ridicată de Gabriel Oprea și Gheorghe Nicolae în Dosarul nr. 1.926/1/2016 al Înaltei Curți de Casație și Justiție - Secția penală.",
+  "2. Admite excepția de neconstituționalitate ridicată de Gabriel Oprea și Gheorghe Nicolae în Dosarul nr. 1.926/1/2016 al Înaltei Curți de Casație și Justiție - Secția penală și constată că dispozițiile art. 126 alin. (6) din Codul de procedură penală sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Înaltei Curți de Casație și Justiție - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "4",
+      "1",
+      "6",
+      "5"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2002",
+    "number": "682",
+    "year": "2002",
+    "path": "lege/2002/682"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "86-1",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215068",
+  "text_sha256": "23264e7f5849361029d4883eeb3e36f11ee15c42fea5c8fc8069bca86c32e7dc",
+  "catalogue_sha256": "23264e7f5849361029d4883eeb3e36f11ee15c42fea5c8fc8069bca86c32e7dc",
+  "fetched": "2026-11-03T02:09:30Z",
+  "chars": 40089,
+  "portal_id": "215068",
+  "tip": "DECIZIE"
+ }
+}
