@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-05-14: adopted by the Chamber of Deputies
 - 2019-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-31: sent for promulgation
+- 2019-06-19: promulgated, becomes Legea nr. 115/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2019-02-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005AM.PDF
 - 2019-05-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005AXS.PDF
 - 2019-05-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005LP.PDF
+- 2019-06-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005DP.PDF
+- 2019-06-19: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005AFP.PDF
+- 2019-06-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L005FP.PDF
