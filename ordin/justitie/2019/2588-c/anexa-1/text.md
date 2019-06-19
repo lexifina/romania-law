@@ -1,0 +1,13 @@
+# Anexa nr. 1
+Ministerul Justiției/Administrația Națională a Penitenciarelor
+Unitatea..........................................
+Nr............. din........................................
+Aprob.
+Ordonator de credite,................................
+SITUAȚIE PRIVIND NECESARUL DE FONDURI PENTRU PLATA orelor prestate peste programul normal de lucru și necompensate cu timp liber corespunzător în termen de 60 de zile luna................/an..........
+Unitatea Baza de calcul pentru limita de 3% din suma salariilor de funcție, salariilor gradului profesional deținut, gradațiilor și a salariilor de comandă
+Cuantum limită de 3% Total contravaloare ore suplimentare preconizate a se achita
+Contravaloare cuantum majorare 75% 1 2 3 = 2 * 3% 4 5
+Director adjunct/Șef serviciu economico-administrativ,........................................................................................... (grad/nume, prenume, funcție, dată și semnătură)
+Contabil-șef,............................................................................. (grad/nume, prenume, funcție, dată și semnătură)
+Întocmit......................................................................... (grad/nume, prenume, funcție, dată și semnătură)
