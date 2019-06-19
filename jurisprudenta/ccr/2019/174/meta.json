@@ -1,0 +1,258 @@
+{
+ "key": "dcc-174-2019",
+ "label": "Decizia CCR nr. 174/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "174",
+ "date": "2019-03-26",
+ "year": "2019",
+ "heading": "DECIZIA nr. 174 din 26 martie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor articolului unic pct. 4 (cu referire la abrogarea art. 11 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România) din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "495",
+  "bis": false,
+  "date": "2019-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3/257/2017",
+  "803D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Zosim Lăpădatu în Dosarul nr. 3/257/2017 al Tribunalului Sibiu - Secția I civilă și constată că dispozițiile articolului unic pct. 4 (cu referire la abrogarea art. 11 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România) din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Sibiu - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 111/2016",
+    "number": "111",
+    "year": "2016",
+    "path": "lege/2016/111"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215063",
+  "text_sha256": "4a634fdea1808feb13a77aa177a10d1737ce6e134497c95321dabab5881529a5",
+  "catalogue_sha256": "4a634fdea1808feb13a77aa177a10d1737ce6e134497c95321dabab5881529a5",
+  "fetched": "2026-11-03T02:09:29Z",
+  "chars": 20944,
+  "portal_id": "215063",
+  "tip": "DECIZIE"
+ }
+}
