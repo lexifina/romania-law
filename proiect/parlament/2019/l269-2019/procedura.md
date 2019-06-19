@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-05-29: adopted by the Chamber of Deputies
 - 2019-05-30: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-06-12: documents published: Aviz comisie
+- 2019-06-19: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2019-05-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269HG.PDF
 - 2019-06-12: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269CA1.PDF
 - 2019-06-12: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269CA5.PDF
+- 2019-06-19: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269FS.PDF
