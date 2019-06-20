@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-14: adopted by the Chamber of Deputies
 - 2019-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-06-04: sent for promulgation
+- 2019-06-20: promulgated, becomes Legea nr. 120/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347AM.PDF
 - 2019-05-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347AXS.PDF
 - 2019-05-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347LP.PDF
+- 2019-06-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347DP.PDF
+- 2019-06-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347AFP.PDF
+- 2019-06-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L347FP.PDF
