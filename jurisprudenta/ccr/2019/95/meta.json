@@ -1,0 +1,246 @@
+{
+ "key": "dcc-95-2019",
+ "label": "Decizia CCR nr. 95/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "95",
+ "date": "2019-02-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 95 din 28 februarie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 alin. (4) și (5) din Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "504",
+  "bis": false,
+  "date": "2019-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.533/215/2016",
+  "63D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Servomont Import Export - S.R.L. din Craiova în Dosarul nr. 1.533/215/2016 al Judecătoriei Craiova - Secția civilă și constată că dispozițiile art. 12 alin. (4) și (5) din Ordonanța de urgență a Guvernului nr. 28/1999 privind obligația operatorilor economici de a utiliza aparate de marcat electronice fiscale sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Craiova - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 2",
+    "path": null,
+    "slug": "conventia-edo-protocolul-2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215330",
+  "text_sha256": "60434e0cb8519a2822073bb35d95a6e5a1b394ad8f02ff22638a6fb596ef7a74",
+  "catalogue_sha256": "60434e0cb8519a2822073bb35d95a6e5a1b394ad8f02ff22638a6fb596ef7a74",
+  "fetched": "2026-11-03T02:09:24Z",
+  "chars": 21394,
+  "portal_id": "215330",
+  "tip": "DECIZIE"
+ }
+}
