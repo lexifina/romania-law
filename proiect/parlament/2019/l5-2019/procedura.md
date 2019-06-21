@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-05-31: sent for promulgation
 - 2019-06-19: promulgated, becomes Legea nr. 115/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-06-21: published in the Monitorul Oficial
 
 ## Documents
 
