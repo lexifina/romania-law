@@ -1,0 +1,163 @@
+{
+ "key": "dcc-396-2019",
+ "label": "Decizia CCR nr. 396/2019",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "396",
+ "date": "2019-06-05",
+ "year": "2019",
+ "heading": "DECIZIA nr. 396 din 5 iunie 2019",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate privind Hotărârea Senatului nr. 20/2019 pentru numirea unui judecător la Curtea Constituțională",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "502",
+  "bis": false,
+  "date": "2019-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.343L/2/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată și constată că Hotărârea Senatului nr. 20/2019 pentru numirea unui judecător la Curtea Constituțională este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Senatului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215320",
+  "text_sha256": "eff21a50a0b0daee7eb323eb08c0ace8e24e1eca855bc1c8c2cf6007be2ad998",
+  "catalogue_sha256": "eff21a50a0b0daee7eb323eb08c0ace8e24e1eca855bc1c8c2cf6007be2ad998",
+  "fetched": "2026-11-03T02:09:27Z",
+  "chars": 36968,
+  "portal_id": "215320",
+  "tip": "DECIZIE"
+ }
+}
