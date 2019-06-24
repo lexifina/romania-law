@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-06-04: sent for promulgation
 - 2019-06-20: promulgated, becomes Legea nr. 117/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-06-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L109DP.PDF
 - 2019-06-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L109AFP.PDF
 - 2019-06-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L109FP.PDF
+- 2019-06-24: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L109AA.PDF (its day is not given by the bill file: shown from the last stage held)
