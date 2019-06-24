@@ -1,0 +1,254 @@
+{
+ "key": "dcc-391-2019",
+ "label": "Decizia CCR nr. 391/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "391",
+ "date": "2019-06-04",
+ "year": "2019",
+ "heading": "DECIZIA nr. 391 din 4 iunie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 39 alin. (5) din Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "510",
+  "bis": false,
+  "date": "2019-06-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "180/2/2019",
+  "529D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2006",
+    "number": "346",
+    "year": "2006",
+    "path": "lege/2006/346"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de instanța de judecată, din oficiu, în Dosarul nr. 180/2/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și constată că sintagma „cu posibilitatea de prelungire cu până la un an“ din cuprinsul art. 39 alin. (5) din Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președinților celor două Camere ale Parlamentului, Guvernului și Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2006",
+    "number": "346",
+    "year": "2006",
+    "path": "lege/2006/346"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 1.331/2018",
+    "number": "1331",
+    "year": "2018",
+    "path": "decret/2018/1331"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "80",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 950/2014",
+    "number": "950",
+    "year": "2014",
+    "path": "decret/2014/950"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215370",
+  "text_sha256": "af12a3805c6aa960f1146631fde75331e43b5a16b6e32ac64bc9ccfdb88e8ed0",
+  "catalogue_sha256": "af12a3805c6aa960f1146631fde75331e43b5a16b6e32ac64bc9ccfdb88e8ed0",
+  "fetched": "2026-11-03T02:09:23Z",
+  "chars": 24729,
+  "portal_id": "215370",
+  "tip": "DECIZIE"
+ }
+}
