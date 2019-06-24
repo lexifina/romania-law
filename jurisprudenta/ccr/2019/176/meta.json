@@ -1,0 +1,314 @@
+{
+ "key": "dcc-176-2019",
+ "label": "Decizia CCR nr. 176/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "176",
+ "date": "2019-03-26",
+ "year": "2019",
+ "heading": "DECIZIA nr. 176 din 26 martie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, a prevederilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma \"precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv\", precum și a prevederilor art. 521 alin. (3) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "508",
+  "bis": false,
+  "date": "2019-06-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "20.465/302/2016",
+  "1.553D/2018",
+  "2.032D/2018",
+  "1.664D/2018",
+  "1.663D/2018",
+  "2.248D/2018",
+  "2.039D/2018",
+  "2.045D/2018",
+  "2.292D/2018",
+  "2.228D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, excepție ridicată de Biroul executorului judecătoresc Nicolescu Gheorghe Alin din București în Dosarul nr. 20.465/302/2016 al Curții de Apel București - Secția a IV-a civilă, de Curtea de Apel Galați - Secția I civilă din oficiu, în dosarele nr. 8.710/233/2015*, nr. 18.452/196/2013*, nr. 13.338/233/2014, nr. 19.665/233/2014, nr. 26.209/233/2014, nr. 1.241/228/2015, nr. 1.541/231/2015, nr. 1.739/233/2015*, nr. 1.979/173/2015*, nr. 241/173/2015, nr. 10.233/233/2016, nr. 11.164/233/2016, nr. 11.982/233/2016, nr. 12.191/233/2016, nr. 12.603/196/2016*, nr. 15.355/233/2016, nr. 16.018/231/2016, nr. 1.961/91/2016**, nr. 1.961/324/2016, nr. 17.662/233/2016, nr. 23.228/233/2016, nr. 24.085/233/2016, nr. 3.327/233/2016, nr. 366/228/2016, nr. 3.787/324/2016*, nr. 4.701/233/2016, nr. 5.502/196/2016, nr. 5.987/324/2016*, nr. 9.086/231/2016, nr. 9.513/231/2016*, nr. 2.525/233/2017, nr. 5.696/233/2017, nr. 1.080/91/2016, nr. 1.796/324/2016, nr. 12.537/233/2016, nr. 2.865/233/2017, nr. 14.868/233/2016, nr. 10.322/233/2016, nr. 81.819/299/2015***, nr. 13.042/196/2017 și nr. 9.940/231/2015*, de Societatea First Bank - S.A. din București, fostă Societatea Piraeus Bank România - S.A. din București, în dosarele nr. 1.410/317/2016 și nr. 14.383/318/2015 ale Curții de Apel Craiova - Secția a II-a civilă și în Dosarul nr. 1.541/231/2015 al Curții de Apel Galați - Secția I civilă, de Societatea Credit Europe Bank Romania - S.A. din București în Dosarul nr. 10.233/233/2016 al Curții de Apel Galați - Secția I civilă, de Societatea Centrul Medical Mipet - S.R.L. din București și, respectiv, de Casa de Asigurări de Sănătate Argeș, cu sediul în Pitești, în Dosarul nr. 1.201/109/2014***/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Robert Ștefan Preda și Iuliana Lucia Preda în Dosarul nr. 37.519/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Antena 3 - S.A. din București, Mihai-Emanuel Gâdea, Cristian-Mugur Ciuvică și Bianca Grigore în Dosarul nr. 6.043/3/2015/a5 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Simona Ileana Enescu în Dosarul nr. 37.087/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Slavya Construct - S.R.L din Turceni, județul Gorj, în Dosarul nr. 7.886/101/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Rădăcini Motors - S.R.L. din București în Dosarul nr. 47.191/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Marioara Custură în Dosarul nr. 42.175/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Dumitru Cherestan și Rodica Cherestan în Dosarul nr. 6.849/296/2014 al Curții de Apel Oradea - Secția I civilă, de Banca Comercială Română - S.A. din București în Dosarul nr. 11.085/306/2015 al Curții de Apel Alba Iulia - Secția a II-a civilă, Dosarul nr. 23.943/301/2015 al Curții de Apel București - Secția a V-a civilă în Dosarul nr. 1.360/212/2016 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 4.306/219/2015 * al Curții de Apel Cluj - Secția a II-a civilă, Dosarul nr. 182/175/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, Dosarul nr. 153/1/2018 al Curții de Apel Alba Iulia - Secția a II-a civilă, și în Dosarul nr. 17.271/306/2014* al Curții de Apel Alba Iulia - Secția a II-a civilă, de Raiffeisen Bank - S.A. din București în Dosarul nr. 2.256/225/2016 al Curții de Apel Craiova - Secția a II-a civilă, Dosarul nr. 10.651/318/2015 al Curții de Apel Craiova - Secția a II-a civilă, Dosarul nr. 2.865/233/2017 al Curții de Apel Galați - Secția I civilă, de Societatea OTP Bank România - S.A. din București în Dosarul nr. 6.141/318/2016 al Curții de Apel Craiova - Secția a II-a civilă, de Viorel Nicolae Constantinescu și Irina Constantinescu în Dosarul nr. 7.723/225/2016 al Curții de Apel Craiova - Secția a II-a civilă, de Cornelia Szekeres în Dosarul nr. 3.778/306/2015 al Curții de Apel Alba Iulia - Secția I civilă, de Societatea Metasib - S.A. din Sibiu în Dosarul nr. 12/306/2017* al Curții de Apel Alba Iulia - Secția I civilă, de Nicolae Vecerdea și Ana Vecerdea în Dosarul nr. 1.663/306/2015 al Curții de Apel Alba Iulia - Secția I civilă, de Răsvan Gabriel Toader în Dosarul nr. 7.835/302/2015* al Curții de Apel București - Secția a V-a civilă, de Parohia Bisericii Române Unite cu Roma Greco-Catolică din comuna Hodac, județul Mureș, în Dosarul nr. 2.615/102/2015/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Cătălin Alexandru Barbu în Dosarul nr. 17.558/303/2015 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, de Societatea Credit Europe Bank România - S.A. și Societatea Credit Europe Ipotecar I.F.N. - S.A. în Dosarul nr. 10.233/233/2016 al Curții de Apel Galați - Secția I civilă, de Spitalul Clinic Județean de Urgență „Sfântul Apostol Andrei“ din Galați în Dosarul nr. 10.322/233/2016 al Curții de Apel Galați - Secția I civilă, de Octavian Adam, prin mandatar Laura Enache, în Dosarul nr. 10.689/299/2016 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, de Lidia-Evelin Stoian în Dosarul nr. 34.142/300/2015, al Curții de Apel București - Secția a IV-a civilă, de Adrian Lucian Mircea, Nicoleta Mircea, Ioan Mircea și Victoria Mircea în Dosarul nr. 5.777/306/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, Societatea Con-A -S.R.L. din Sibiu în Dosarul nr. 2.888/306/2014 al Curții de Apel Alba Iulia - Secția a II-a civilă, de Maria Adela Prodea și Mircea Vasile Prodea în Dosarul nr. 17.271/306/2014* al Curții de Apel Alba Iulia - Secția a II-a civilă, de Constantin Răcean și Maria Răcean în Dosarul nr. 10.629/306/2014 al Curții de Apel Alba Iulia - Secția a II-a civilă, de Societatea Lebăda - S.R.L din Satu Mare și Societatea Arhiva SM - S.R.L. din Satu Mare în Dosarul nr. 4.585/296/C/2016-R al Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea EAG Agricol 2012 - S.R.L. din Oradea în Dosarul nr. 634/833/2016 al Curții de Apel Oradea - Secția I civilă, de Steliana Stoian, Mariana Cateliu, Mihaela Cateliu și Georgiana Cateliu, în Dosarul nr. 801/3/2017/a1 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Camelia Lorincz și Adorian-Valentin Lorincz în Dosarul nr. 37.450/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Luminița Lia Lakatos și Cristian Lakatos în Dosarul nr. 5.269/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Continvest - S.R.L. din Oradea, prin administrator judiciar Romexpert IPURL, în Dosarul nr. 1.702/93/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, precum și de Maria Lucuțari în Dosarul nr. 521/334/2016 al Curții de Apel Suceava - Secția I civilă.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“, precum și excepția de neconstituționalitate a prevederilor art. 521 alin. (3) din Codul de procedură civilă, excepții ridicate de Biroul executorului judecătoresc Nicolescu Gheorghe Alin din București în Dosarul nr. 20.465/302/2016 al Curții de Apel București - Secția a IV-a civilă, de Curtea de Apel Galați - Secția I civilă din oficiu în dosarele nr. 8.710/233/2015*, nr. 18.452/196/2013*, nr. 13.338/233/2014, nr. 19.665/233/2014, nr. 26.209/233/2014, nr. 1.241/228/2015, nr. 1.541/231/2015, nr. 1.739/233/2015*, nr. 1.979/173/2015*, nr. 241/173/2015, nr. 10.233/233/2016, nr. 11.164/233/2016, nr. 11.982/233/2016, nr. 12.191/233/2016, nr. 12.603/196/2016*, nr. 15.355/233/2016, nr. 16.018/231/2016, nr. 1.961/91/2016**, nr. 1.961/324/2016, nr. 17.662/233/2016, nr. 23.228/233/2016, nr. 24.085/233/2016, nr. 3.327/233/2016, nr. 366/228/2016, nr. 3.787/324/2016*, nr. 4.701/233/2016, nr. 5.502/196/2016, nr. 5.987/324/2016*, nr. 9.086/231/2016, nr. 9.513/231/2016*, nr. 2.525/233/2017, nr. 5.696/233/2017, nr. 1.080/91/2016, nr. 1.796/324/2016, nr. 12.537/233/2016, nr. 2.865/233/2017, nr. 14.868/233/2016, nr. 10.322/233/2016, nr. 81.819/299/2015***, nr. 13.042/196/2017 și nr. 9.940/231/2015*, de Raiffeisen Bank -S.A. din București în Dosarul nr. 2.256/225/2016 și nr. 10.651/318/2015 ale Curții de Apel Craiova - Secția a II-a civilă, de Spitalul Clinic Județean de Urgență „Sfântul Apostol Andrei“ din Galați în Dosarul nr. 10.322/233/2016 al Curții de Apel Galați - Secția I civilă, de Centrul Medical Mipet - S.R.L. din București și de Casa de Asigurări de Sănătate Argeș din Pitești în Dosarul nr. 1.201/109/2014***/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Banca Comercială Română - S.A. din București în Dosarul nr. 11.085/306/2015 al Curții de Apel Alba Iulia - Secția a II-a civilă, Dosarul nr. 23.943/301/2015 al Curții de Apel București - Secția a V-a civilă, în Dosarul nr. 1.360/212/2016 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 4.306/219/2015 * al Curții de Apel Cluj - Secția a II-a civilă, Dosarul nr. 182/175/2016 al Curții de Apel Alba Iulia - Secția a II-a civilă, Dosarul nr. 153/1/2018 al Curții de Apel Alba Iulia - Secția a II-a civilă și de Maria Adela Prodea și Mircea Vasile Prodea în Dosarul nr. 17.271/306/2014* al Curții de Apel Alba Iulia - Secția a II-a civilă, de Societatea Con-A - S.R.L. din Sibiu în Dosarul nr. 2.888/306/2014 al Curții de Apel Alba Iulia - Secția a II-a civilă, de Octavian Adam, prin mandatar Laura Enache, în Dosarul nr. 10.689/229/2016 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, de Robert Ștefan Preda și Iuliana Lucia Preda în Dosarul nr. 37.519/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Camelia Lorincz și Adorian-Valentin Lorincz în Dosarul nr. 37.450/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Slavya Construct - S.R.L din Turceni, județul Gorj, în Dosarul nr. 7.886/101/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Continvest - S.R.L. din Oradea, prin administrator judiciar Romexpert IPURL, în Dosarul nr. 1.702/93/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Marioara Custură în Dosarul nr. 42.175/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Acomin - S.A. din Deva în Dosarul nr. 777/221/2016* al Curții de Apel Alba Iulia - Secția a II-a civilă, de Cornelia Szekeres în Dosarul nr. 3.778/306/2015 al Curții de Apel Alba Iulia - Secția I civilă, de Răsvan Gabriel Toader în Dosarul nr. 7.835/302/2015* al Curții de Apel București - Secția a V-a civilă, de Parohia Bisericii Române Unite cu Roma Greco-Catolică din comuna Hodac, județul Mureș, în Dosarul nr. 2.615/102/2015/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă, de Cătălin Alexandru Barbu în Dosarul nr. 17.558/303/2015 al Curții de Apel București, de Luminița Lia Lakatos și Cristian Lakatos în Dosarul nr. 5.269/3/2015/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Hermann Jurgen Schuster și, respectiv, de Sabina Poliana Schuster în Dosarul nr. 10.748/306/2016 al Curții de Apel Alba Iulia - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secțiile I civilă și a II-a civilă, Curții de Apel Oradea - Secția I civilă și Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, Secția a IV-a civilă și Secția a V-a civilă, Curții de Apel Cluj - Secția a II-a civilă, Curții de Apel Craiova - Secția a II-a civilă, Curții de Apel Alba Iulia - Secția a II-a civilă, precum și Curții de Apel Suceava - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "521",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 91
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215350",
+  "text_sha256": "695fed463154abe2196709ff26f8219c3538a8e7f05f7780dd1b7011ea094401",
+  "catalogue_sha256": "695fed463154abe2196709ff26f8219c3538a8e7f05f7780dd1b7011ea094401",
+  "fetched": "2026-11-03T02:09:21Z",
+  "chars": 95548,
+  "portal_id": "215350",
+  "tip": "DECIZIE"
+ }
+}
