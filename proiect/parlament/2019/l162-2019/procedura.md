@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-04-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-06-11: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-06-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-06-24: sent for promulgation
 
 ## Documents
 
