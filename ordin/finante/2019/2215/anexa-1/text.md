@@ -1,0 +1,39 @@
+# ANEXĂ (Formularul 7 la procedură)
+MINISTERUL FINANȚELOR PUBLICE
+Agenția Națională de Administrare Fiscală
+Direcția Generală de Administrare a Marilor Contribuabili
+PROCES-VERBAL DE CONSTATARE privind îndeplinirea de către beneficiar a obligațiilor asumate prin Ordonanța de urgență a Guvernului nr. 109/2008 privind acordarea de ajutor de stat individual având ca obiectiv dezvoltarea regională, încheiat ca urmare a verificării în amplasament
+Nr......................./....................
+1.
+În conformitate cu prevederile art. 7 lit. w) și y), art. 12^1 alin. (1), art. 23^1, 24^1 și art. 77^1 alin. (3) din Ordonanța de urgență a Guvernului nr. 109/2008 privind acordarea de ajutor de stat individual având ca obiectiv dezvoltarea regională, aprobată cu modificări prin Legea nr. 56/2009, cu modificările și completările ulterioare: 1.1.
+Echipa mixtă de control din cadrul Unității de implementare a ajutorului de stat individual s-a deplasat la amplasamentul deținut/exploatat de Societatea FORD ROMÂNIA - S.A. - CIF 6488696, cu sediul social în Craiova, str. Henry Ford (1863-1947) nr. 29, județul Dolj, pentru verificarea operațiunilor economico-financiare aferente realizării proiectului de investiții suplimentare și a volumului de producție de automobile și motoare.
+1.2.
+Echipa mixtă de control a Unității de implementare a ajutorului de stat individual este formată din:......(nume, prenume, funcția)........., având Legitimația de serviciu nr..................., în baza ordinelor de serviciu nr...........................................
+1.3.
+Beneficiarul a fost reprezentat de........(nume, prenume, funcția)..., cu împuternicire din partea reprezentantului legal al societății în vederea semnării procesului-verbal, precum și de prezentare/întocmire a eventualelor documente solicitate de echipa de control pe parcursul desfășurării verificărilor.
+1.4.
+Acțiunea de verificare s-a desfășurat în perioada...................................................
+2.
+Constatări: 2.1.
+Existența fizică a activelor corporale și necorporale aferente investiției suplimentare destinate producției de automobile și motoare..............................................................
+2.2.
+Conformitatea documentelor justificative aferente realizării investiției suplimentare conform înscrisurilor din evidența contabilă..............................................................
+2.3.
+Analiza înregistrării în contabilitate a operațiunilor aferente realizării investiției suplimentare și modul de reflectare a acestora în situațiile financiare depuse de societate..............................................................
+2.4.
+Analiza rapoartelor de producție de automobile și motoare reflectate în contabilitatea operativă și în evidența contabilă în conturile aferente...............................................................
+2.5.
+Analiza surselor de finanțare a proiectului de investiții suplimentare și a termenului de finalizare a acestuia, conform actului normativ în vigoare...............................................................
+2.6.
+Existența unei situații de înlocuire a activelor corporale și necorporale pe perioada realizării investiției suplimentare................................................................
+2.7.
+Verificarea oricăror alte situații care contravin prevederilor Ordonanței de urgență a Guvernului nr. 109/2008 privind acordarea de ajutor de stat individual având ca obiectiv dezvoltarea regională, aprobată cu modificări prin Legea nr. 56/2009, cu modificările și completările ulterioare
+3.
+Concluzii: Pe baza constatărilor menționate.................................................................................................................................................................
+4.
+Prezentul proces-verbal a fost încheiat astăzi,..........................................., în............... exemplare.
+Prezentul proces-verbal conține................ file și......... anexe, cu un total de............. file.
+Unitatea de implementare a ajutorului de stat individual
+Echipa de control,........................................................................................................
+Beneficiar,................................................................
+------
