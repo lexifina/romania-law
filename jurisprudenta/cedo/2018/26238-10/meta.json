@@ -1,0 +1,204 @@
+{
+ "key": "cedo-26238-10-2018-12-11",
+ "label": "CEDO, Brisc c. României, 2018-12-11",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2018-12-11",
+ "year": "2018",
+ "heading": "HOTĂRÂREA din 11 decembrie 2018",
+ "subtitle": "în Cauza Brisc împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "513",
+  "bis": false,
+  "date": "2019-06-25",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "26238/10"
+ ],
+ "case_name": "Brisc",
+ "subjects": [],
+ "operative": [
+  "CURTEA:",
+  "1. declară, cu majoritate de voturi, capătul de cerere în temeiul art. 10 admisibil;",
+  "2. hotărăște, cu cinci voturi la două, că a fost încălcat art. 10 din Convenție;",
+  "3. hotărăște, cu cinci voturi la două: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "1.825 EUR (o mie opt sute douăzeci și cinci euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul material;",
+  "(ii)",
+  "4.500 EUR (patru mii cinci sute euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(iii)",
+  "140 EUR (o sută patruzeci euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge, în unanimitate, cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul procurorului general nr. 116/2007",
+    "number": "116",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 554/2001",
+    "number": "554",
+    "year": "2001",
+    "path": "lege/2001/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 116/2007",
+    "number": "116",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului procurorului general nr. 116/2007",
+    "number": "116",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215381",
+  "text_sha256": "c27a54528db8e5991824cda275e6bb34fc04a541fae208dcc2b785a773fba6c1",
+  "catalogue_sha256": "c27a54528db8e5991824cda275e6bb34fc04a541fae208dcc2b785a773fba6c1",
+  "fetched": "2026-11-03T02:09:19Z",
+  "chars": 102726,
+  "portal_id": "215381",
+  "tip": "HOTĂRÂRE"
+ }
+}
