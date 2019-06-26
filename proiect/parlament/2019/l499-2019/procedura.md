@@ -12,7 +12,8 @@ Initiator: Guvernul României.
 
 - 2019-01-08: published in the Monitorul Oficial
 - 2019-05-28: registered at the Chamber of Deputies
+- 2019-06-26: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2019-06-26: Raport comisie sesizată pe fond (CR): [cr-7521f584.md](cr-7521f584.md); official file https://www.senat.ro/legis/PDF/2019/19L499CR.PDF
