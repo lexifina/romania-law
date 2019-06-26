@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-02-26: documents published: Aviz Consiliul Economic și Social
 - 2019-06-11: documents published: Aviz comisie
+- 2019-06-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L205EM.PDF
 - 2019-02-26: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L205ES.PDF
 - 2019-06-11: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L205CA12.PDF
+- 2019-06-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L205FS.PDF
+- 2019-06-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L205AM.PDF
