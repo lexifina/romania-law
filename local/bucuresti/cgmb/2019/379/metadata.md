@@ -1,0 +1,11 @@
+# HCGMB nr. 379/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 379/2019
+- Adopted: 2019-06-26
+- Title: PRIVIND MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 229/2019 PRIVIND APROBAREA LISTELOR DE PRIORITATI PE STRUCTURI DE CAMERE, INTOCMITE CONFORM PREVEDRILOR LEGISLATIEI APROBATE PRIN ANEXA NR. 1 LA HOTARAREA CONSILIULIUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 754/2018 DE CATRE COMISIA DE EVALUARE A SITUATIILOR SOCIALE DEOSEBITE IN CARE SE GASESC CETATENII MUNICIPIULUI BUCURESTI, SOLICITANTI DE LOCUINTE SOCIALE
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40074
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40074/H379_19.pdf
+- Document sha256: 6232ee37a0f1b4ed75a6150c1fda871402d6afc513778cb59e67d7932f5d07df
