@@ -1,0 +1,413 @@
+{
+ "key": "iccj-hp-penal-3-2019",
+ "label": "Decizia ÎCCJ nr. 3/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "3",
+ "date": "2019-02-26",
+ "year": "2019",
+ "heading": "DECIZIA nr. 3 din 26 februarie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 88^8 alin. (2) din Legea nr. 304/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "526",
+  "bis": false,
+  "date": "2019-06-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.394/1/2018",
+  "77/1/2019",
+  "1.996/1/2018",
+  "2.197/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2018",
+    "number": "207",
+    "year": "2018",
+    "path": "lege/2018/207"
+   },
+   "articles": [
+    {
+     "art": "88-8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c-2"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, cererea de sesizare a Curții Constituționale cu excepția de neconstituționalitate a dispozițiilor art. 88^8 alin. (2) din Legea nr. 304/2004 privind organizarea judiciară, republicată, cu modificările și completările ulterioare.",
+  "Fără cale de atac.",
+  "Admite sesizările formulate de judecătorul de cameră preliminară din cadrul Înaltei Curți de Casație și Justiție, Secția penală, în Dosarul nr. 1.996/1/2018 și de Înalta Curte de Casație și Justiție, Secția penală, în Dosarul nr. 2.197/1/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "În interpretarea dispozițiilor art. 67 alin. (3) din Legea nr. 304/2004, art. 88^8 alin. (2) din Legea nr. 207/2018 și a art. 3 alin. (1) lit. c^2) din Ordonanța de urgență a Guvernului nr. 43/2002, participarea la ședințele de judecată în cauzele de competența Parchetului de pe lângă Înalta Curte de Casație și Justiție - Secția pentru investigarea infracțiunilor de justiție, în care urmărirea penală s-a efectuat de către Parchetul de pe lângă Înalta Curte de Casație și Justiție, Direcția Națională Anticorupție, se asigură de procurori din cadrul Secției judiciare a Parchetului de pe lângă Înalta Curte de Casație și Justiție sau de procurori din cadrul Direcției Naționale Anticorupție? și",
+  "În cazul infracțiunilor prevăzute de art. 7 lit. b) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, dacă prin intrarea în vigoare a prevederilor art. 88^8 alin. (2) din Legea nr. 304/2004 încetează competența funcțională de a participa la ședința de judecată conform dispozițiilor art. 67 alin. (3) din Legea nr. 304/2004 pentru procurorul care a efectuat sau a supravegheat urmărirea penală ori pentru un alt procuror din cadrul Direcției Naționale Anticorupție desemnat de conducătorul parchetului, conform art. 3 alin. (1) lit. c^2) din Ordonanța de urgență a Guvernului nr. 43/2002 privind Direcția Națională Anticorupție",
+  "Stabilește că, în interpretarea dispozițiilor art. 88^8 alin. (2) din Legea nr. 304/2004, participarea la ședințele de judecată în cauzele de competența Parchetului de pe lângă Înalta Curte de Casație și Justiție - Secția pentru investigarea infracțiunilor de justiție, în care urmărirea penală s-a efectuat de către Parchetul de pe lângă Înalta Curte de Casație și Justiție, Direcția Națională Anticorupție, se asigură de procurori din cadrul Secției judiciare a Parchetului de pe lângă Înalta Curte de Casație și Justiție sau de către procurori din cadrul parchetului de pe lângă instanța învestită cu judecarea cauzei.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2018",
+    "number": "207",
+    "year": "2018",
+    "path": "lege/2018/207"
+   },
+   "articles": [
+    {
+     "art": "88-8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c-2"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 7/2019",
+    "number": "7",
+    "year": "2019",
+    "path": "oug/2019/7"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2018",
+    "number": "90",
+    "year": "2018",
+    "path": "oug/2018/90"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215532",
+  "text_sha256": "99b421c34deed71c1c0e4e750c6e1a75a71bf679f15fbff05f948e0cc016f4b2",
+  "catalogue_sha256": "99b421c34deed71c1c0e4e750c6e1a75a71bf679f15fbff05f948e0cc016f4b2",
+  "fetched": "2026-11-03T02:09:11Z",
+  "chars": 67597,
+  "portal_id": "215532",
+  "tip": "DECIZIE"
+ }
+}
