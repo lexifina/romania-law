@@ -1,0 +1,12 @@
+Consiliul Local al municipiului Sebes,județul Alba;
+Intrunit in ședința, publica „ordinara din data de 27 .06.2019, ora 14,00;
+Luând în dezbatere proiectul de hotărâre privind instituirea unor taxe speciale pentru anul 2019 ce vor fi precepute de catre Centrul Cultural Lucian Blaga Sebes;
+Avand in vedere prevederile HCL.nr.347/2018 privind reorganizarea structurii organizatorice Centrul Cultural Lucian Blaga Scbes, ale HCL.nr.84/2018 de aprobare a regulamentului de organzare și funcționare a Centruli Cultural Lucian Blaga Sebes completat și modificat prin HCL.nr.93/2019;, ale HCL.nr.331/2017, privind aprobarea Regulamentului de stabilire a procedurii de adoptare a taxelor speciale și domeniile în care acestea se pot institui,
+Având în vedere prevederile art. 484 din Legea nr. 227/2015 privind Codul Fiscal cu modificările și completările ulterioare, art.30 din Legea nr. 213/2006 privind finanțele publice locale, cu modificările și completările ulterioare ale Capitolului VIII, Secțiunea 1, pct. 161 din anexa la HG nr.1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul Fiscal, și ale art. 20, alin.2, lit.d din OG nr. 71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local;
+Analizand referatul nr.621/06.05.2019 al Centrului Cultural Lucian Blaga Sebes prin care se propune instituirea taxelor speciale pentru reproducerile dupa obiecte aflate in patrimoniul administrat de catre aceasta instituție;
+Analizând raportul de specialitate nr. 55477/20.06.2019 întocmit de către Direcția Venituri din cadrul aparatului de specialitae al primarului ;
+Având avizul nr. 345/20.06.2019 al Comisiei de studii prognoze economico-sociale, buget, finanțe și avizul nr. 351/21.06.2019 al Comisiei pentru învățământ, cultură, sport, agrement, monumente istorice protecție socială, protecție copii, culte, sănătate și familie,din cadrul Consiliului Local Sebeș;
+In baza art.484, din Legea nr.227/2015 privind Codul fiscal ;
+Având în vedere prevederile art.30, alin. (2) din Legea 273/2006 privind finanțele publice locale, coroborate cu prevederile art.36, alin.4, lit.c Legea nr.215/2001- Legea administrației publice locale,republicata in anul 2007, cu modificarile și completarile ulterioare;
+În baza art. 45 și art. 115 litera b) din Legea nr.215/2001- Legea administrației publice locale,republicata in anul 2007 :
+HOTARASTE
