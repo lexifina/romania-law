@@ -1,0 +1,21 @@
+# Anexa 4
+Anexa nr. 5
+la metodologie
+TERMENI ȘI CONDIȚII SPECIFICE
+aferente contractelor zilnice de transport al gazelor naturale încheiate în urma derulării licitațiilor
+pentru rezervarea de capacitate în punctele de intrare/ieșire în/din conducta prevăzută la art. 1 din metodologie
+Articolul 1
+(1)
+Plata contravalorii facturilor emise conform alin. (2) se face în termen de 5 zile de la data emiterii facturii. În cazul în care data scadenței este zi nelucrătoare, termenul se socotește împlinit în următoarea zi lucrătoare.
+(2)
+Facturarea contravalorii serviciilor de transport se va realiza după cum urmează: a)
+în ziua următoare celei pentru care a prestat serviciul de transport, OTS emite și transmite UR o factură aferentă capacității rezervate, întocmită în conformitate cu prevederile contractului prevăzut în anexa nr. 1 la metodologie ;
+b)
+în termen de 15 zile lucrătoare de la sfârșitul lunii de prestare a serviciilor, în conformitate cu art. 2 alin. (2) din contractul prevăzut în anexa nr. 1 la metodologie , OTS emite și transmite UR o factură de regularizare aferentă serviciilor de transport prestate, întocmită în baza alocării finale.
+Articolul 2
+Garanția financiară de participare la licitație devine garanție financiară de plată.
+Articolul 3
+Neîndeplinirea obligației de plată la termen a facturilor emise pentru prestarea serviciului de transport atrage: a)
+perceperea unei cote a majorărilor de întârziere, calculată asupra valorii neachitate, egală cu nivelul dobânzii datorate pentru neplata la termen a obligațiilor către bugetul de stat, pentru fiecare zi de întârziere, începând cu a 6-a zi calendaristică de la data emiterii facturii pentru capacitatea rezervată, până la achitarea integrală a acesteia, inclusiv ziua plății, în cazul neîndeplinirii obligației de plată la data scadenței;
+b)
+reținerea, din garanția financiară constituită, a sumei necesare pentru a acoperi neplata totală sau parțială a facturilor emise.
