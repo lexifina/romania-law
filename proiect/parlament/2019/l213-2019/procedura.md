@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-05: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2019-06-06: documents published: Aviz comisie
 - 2019-06-12: documents published: Raport comisie sesizată pe fond
+- 2019-07-01: registered at the Chamber of Deputies
 
 ## Documents
 
