@@ -1,0 +1,195 @@
+{
+ "key": "dcc-193-2019",
+ "label": "Decizia CCR nr. 193/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "193",
+ "date": "2019-04-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 193 din 9 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 792 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2019-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25.175/299/2016",
+  "237D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "792",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cabinetul de avocat Gavra Diana din București în Dosarul nr. 25.175/299/2016 al Judecătoriei Sectorului 1 București - Secția civilă și constată că dispozițiile art. 792 alin. (1) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "792",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "680",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "784",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "783",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "787",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "791",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "633",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215606",
+  "text_sha256": "1f40494ac4ff8f2bd645b283373d1350bd108f165e0d9c7346190af42d688dfe",
+  "catalogue_sha256": "1f40494ac4ff8f2bd645b283373d1350bd108f165e0d9c7346190af42d688dfe",
+  "fetched": "2026-11-03T02:09:09Z",
+  "chars": 15716,
+  "portal_id": "215606",
+  "tip": "DECIZIE"
+ }
+}
