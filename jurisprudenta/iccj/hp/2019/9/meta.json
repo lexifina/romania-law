@@ -1,0 +1,180 @@
+{
+ "key": "iccj-hp-9-2019",
+ "label": "Decizia ÎCCJ nr. 9/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "9",
+ "date": "2019-03-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 9 din 11 martie",
+ "subtitle": "2019 referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Dacă sunt incidente dispozițiile art. 416 alin. (1) din Codul de procedură civilă privind perimarea, în cazul suspendării de drept a judecării cererii, conform art. 64 alin. (4) din același cod, și dacă reluarea judecării procesului se face prin cerere de redeschidere, formulată de una dintre părțile din proces, sau operează din oficiu, după pronunțarea hotărârii de către instanța de apel.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2019-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.059/1/2018",
+  "34.079/303/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "416",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VI-a civilă, în Dosarul nr. 34.079/303/2015, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă sunt incidente dispozițiile art. 416 alin. (1) din Codul de procedură civilă privind perimarea, în cazul suspendării de drept a judecării cererii, conform art. 64 alin. (4) din același cod, și dacă reluarea judecării procesului se face prin cerere de redeschidere, formulată de una dintre părțile din proces, sau operează din oficiu, după pronunțarea hotărârii de către instanța de apel.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "416",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "849",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "715",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "412",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1031",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215608",
+  "text_sha256": "e54d24e989c875b618f2a49255773c0d3d2475f9a9cd8b07893797a5872eb8ca",
+  "catalogue_sha256": "e54d24e989c875b618f2a49255773c0d3d2475f9a9cd8b07893797a5872eb8ca",
+  "fetched": "2026-11-03T02:09:09Z",
+  "chars": 50135,
+  "portal_id": "215608",
+  "tip": "DECIZIE"
+ }
+}
