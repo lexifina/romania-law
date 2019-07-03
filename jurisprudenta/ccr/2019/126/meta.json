@@ -1,0 +1,230 @@
+{
+ "key": "dcc-126-2019",
+ "label": "Decizia CCR nr. 126/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "126",
+ "date": "2019-02-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 126 din 28 februarie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 85 alin. 1 lit. m) ș i alin. 2 din Legea nr. 80/1995 privind statutul cadrelor militare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "547",
+  "bis": false,
+  "date": "2019-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "391/42/2014",
+  "2.569D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Florea în Dosarul nr. 391/42/2014 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 85 alin. 1 lit. m) și alin. 2 din Legea nr. 80/1995 privind statutul cadrelor militare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 182/2002",
+    "number": "182",
+    "year": "2002",
+    "path": "lege/2002/182"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215644",
+  "text_sha256": "03bc5bc72ab8f79d1c58097cd3684bc2fed298f29cee304bf5ae9cb25ee0ac50",
+  "catalogue_sha256": "03bc5bc72ab8f79d1c58097cd3684bc2fed298f29cee304bf5ae9cb25ee0ac50",
+  "fetched": "2026-11-03T02:09:04Z",
+  "chars": 31305,
+  "portal_id": "215644",
+  "tip": "DECIZIE"
+ }
+}
