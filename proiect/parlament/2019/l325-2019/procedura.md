@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-06-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-07-01: registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Aviz Consiliul Economic și Social
+- 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-01: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325CA5.PDF
 - 2019-07-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325CR.PDF
 - 2019-07-01: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325ES.PDF
+- 2019-07-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325AXS.PDF
+- 2019-07-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325LP.PDF
