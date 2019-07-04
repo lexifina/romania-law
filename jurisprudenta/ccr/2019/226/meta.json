@@ -1,0 +1,255 @@
+{
+ "key": "dcc-226-2019",
+ "label": "Decizia CCR nr. 226/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "226",
+ "date": "2019-04-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 226 din 16 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 22 alin. (1) și (5) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "550",
+  "bis": false,
+  "date": "2019-07-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.037/91/2016",
+  "947D/2017",
+  "2.967D/2017",
+  "6.756/105/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion I. Paraschivescu în Dosarul nr. 3.037/91/2016 al Tribunalului Vrancea - Secția I civilă și de Marcel A. Pătulea și Nicolae A. Pătulea în Dosarul nr. 6.756/105/2016 al Curții de Apel Ploiești - Secția I civilă și constată că prevederile art. 22 alin. (1) și (5) din Legea nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția I civilă și Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "555",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2001",
+    "number": "109",
+    "year": "2001",
+    "path": "oug/2001/109"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 145/2001",
+    "number": "145",
+    "year": "2001",
+    "path": "oug/2001/145"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215660",
+  "text_sha256": "b8f84c4296756b77a69a5c5dc802c573e6c9ca0af7f3af0679ea8c681d2891a9",
+  "catalogue_sha256": "b8f84c4296756b77a69a5c5dc802c573e6c9ca0af7f3af0679ea8c681d2891a9",
+  "fetched": "2026-11-03T02:09:04Z",
+  "chars": 18486,
+  "portal_id": "215660",
+  "tip": "DECIZIE"
+ }
+}
