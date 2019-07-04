@@ -1,0 +1,20 @@
+# Proiect de lege L340/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.54/2019 privind instituirea unor măsuri în domeniul comunicaţiilor electronice şi al infrastructurii fizice a reţelelor de comunicaţii electronice
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-07-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-07-04: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340AD.PDF
+- 2019-07-04: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340FG.PDF
+- 2019-07-04: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340EM.PDF
+- 2019-07-04: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340LG.PDF
+- 2019-07-04: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340OG.PDF
+- 2019-07-04: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L340HG.PDF
