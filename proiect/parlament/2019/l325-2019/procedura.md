@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-07-01: registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Aviz Consiliul Economic și Social
 - 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-07-05: sent for promulgation
 
 ## Documents
 
