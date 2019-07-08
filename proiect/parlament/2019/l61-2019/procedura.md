@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-06-18: sent for promulgation
 - 2019-07-05: promulgated, becomes Legea nr. 126/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-07-08: published in the Monitorul Oficial
 
 ## Documents
 
