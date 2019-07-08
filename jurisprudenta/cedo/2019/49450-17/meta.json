@@ -1,0 +1,120 @@
+{
+ "key": "cedo-49450-17-2019-05-21",
+ "label": "CEDO, O.C.I. și alții c. României, 2019-05-21",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2019-05-21",
+ "year": "2019",
+ "heading": "HOTĂRÂREA din 21 mai 2019",
+ "subtitle": "în Cauza O.C.I. și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "558",
+  "bis": false,
+  "date": "2019-07-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "49450/17"
+ ],
+ "case_name": "O.C.I. și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu se ridică nicio problemă distinctă în temeiul art. 3 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamanților, în termen de 3 luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "12.500 EUR (douăsprezece mii cinci sute euro) reclamanților în solidar, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "3.645 EUR (trei mii șase sute patruzeci și cinci euro) primei reclamante, plus orice sumă ce poate fi datorată de aceasta cu titlu de impozit, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215948",
+  "text_sha256": "4f69bba2ea35b93248e4bf0f411dbbd896df8b2188682498b9d4b649e867c38d",
+  "catalogue_sha256": "4f69bba2ea35b93248e4bf0f411dbbd896df8b2188682498b9d4b649e867c38d",
+  "fetched": "2026-11-03T02:08:59Z",
+  "chars": 32384,
+  "portal_id": "215948",
+  "tip": "HOTĂRÂRE"
+ }
+}
