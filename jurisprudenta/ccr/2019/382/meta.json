@@ -1,0 +1,214 @@
+{
+ "key": "dcc-382-2019",
+ "label": "Decizia CCR nr. 382/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "382",
+ "date": "2019-05-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 382 din 28 mai 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 31 alin. (7) din Legea nr. 359/2004 privind simplificarea formalităților la înregistrarea în registrul comerțului a persoanelor fizice, asociațiilor familiale și persoanelor juridice, înregistrarea fiscală a acestora, precum și la autorizarea funcționării persoanelor juridice, forma anterioară modificării prin Legea nr. 360/2006",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "566",
+  "bis": false,
+  "date": "2019-07-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "12.213/301/2008",
+  "2.117D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2006",
+    "number": "360",
+    "year": "2006",
+    "path": "lege/2006/360"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Ambasada Republicii Austria în România în Dosarul nr. 12.213/301/2008* al Judecătoriei Sectorului 3 București - Secția civilă și constată că prevederile art. 31 alin. (7) din Legea nr. 359/2004 privind simplificarea formalităților la înregistrarea în registrul comerțului a persoanelor fizice, asociațiilor familiale și persoanelor juridice, înregistrarea fiscală a acestora, precum și la autorizarea funcționării persoanelor juridice, forma anterioară modificării prin Legea nr. 360/2006, sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Judecătoriei Sectorului 3 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 359/2004",
+    "number": "359",
+    "year": "2004",
+    "path": "lege/2004/359"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2006",
+    "number": "360",
+    "year": "2006",
+    "path": "lege/2006/360"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 14/2007",
+    "number": "14",
+    "year": "2007",
+    "path": "og/2007/14"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "237",
+     "alin": [
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/215982",
+  "text_sha256": "963174afcf3d698ffec5662a94899611d65c31737619e9ae56a6a5cb59732330",
+  "catalogue_sha256": "963174afcf3d698ffec5662a94899611d65c31737619e9ae56a6a5cb59732330",
+  "fetched": "2026-11-03T02:08:52Z",
+  "chars": 53426,
+  "portal_id": "215982",
+  "tip": "DECIZIE"
+ }
+}
