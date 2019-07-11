@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-12: adopted by the Chamber of Deputies
 - 2019-06-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-06-24: sent for promulgation
+- 2019-07-11: promulgated, becomes Legea nr. 131/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313AM.PDF
 - 2019-06-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313AXS.PDF
 - 2019-06-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313LP.PDF
+- 2019-07-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313DP.PDF
+- 2019-07-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313AFP.PDF
+- 2019-07-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L313FP.PDF
