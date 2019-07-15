@@ -1,0 +1,137 @@
+{
+ "key": "cedo-57077-16-2018-12-04",
+ "label": "CEDO, R.I. și alții c. României, 2018-12-04",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2018-12-04",
+ "year": "2018",
+ "heading": "HOTĂRÂREA din 4 decembrie 2018",
+ "subtitle": "în Cauza R.I. și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "577",
+  "bis": false,
+  "date": "2019-07-15",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "57077/16"
+ ],
+ "case_name": "R.I. și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce privește capătul de cerere întemeiat pe art. 8 din Convenție;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze admisibilitatea și fondul capetelor de cerere întemeiate pe art. 13 și art. 34 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamanților, în termen de 3 luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "7.500 EUR (șapte mii cinci sute de euro) în solidar celui de al doilea și celui de al treilea reclamant pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit, care se vor ține în depozit bancar în favoarea acestora;",
+  "(ii)",
+  "3.199,37 EUR (trei mii o sută nouăzeci și nouă de euro și treizeci și șapte de eurocenți) primei reclamante pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată cu titlu de impozit",
+  "b) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "912",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216055",
+  "text_sha256": "acad4c8326e30ee52c1c60e567a9e1dccc858a4cb1d53ccbca5ddb048bdd40ca",
+  "catalogue_sha256": "acad4c8326e30ee52c1c60e567a9e1dccc858a4cb1d53ccbca5ddb048bdd40ca",
+  "fetched": "2026-11-03T02:08:54Z",
+  "chars": 50658,
+  "portal_id": "216055",
+  "tip": "HOTĂRÂRE"
+ }
+}
