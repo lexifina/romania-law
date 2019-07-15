@@ -1,0 +1,13 @@
+# Anexa nr. 1 (Anexa nr. 13 la normele metodologice)
+CERERE pentru autorizare de trageri din împrumutul contractat prin Convenția de împrumut nr..........
+Subsemnatul(a),.................................^4), în calitate de ordonator principal de credite al..................^2)..................^3), județul..................^1), vă depun prezenta cerere pentru reautorizarea tragerilor din împrumutul în valoare de........................^ 5) lei, contractat prin Convenția de împrumut nr................, după cum urmează: - în anul 2019:............................ lei (fără zecimale) și/sau
+- în anul 2020:........................... lei (fără zecimale).
+Prezentăm următoarele date în legătură cu împrumutul sus-menționat: 1. numărul și data hotărârii Comisiei de autorizare a împrumuturilor locale prin care s-a autorizat contractarea împrumutului:......................;
+2. numărul și data încheierii actului/actelor adiționale la convenția de împrumut (dacă este cazul):...................;
+3. valoarea trasă din împrumut până la data prezentei cereri (dacă este cazul):..................... lei;
+4. numărul și data hotărârii/hotărârilor anterioare a/ale Comisiei de autorizare a împrumuturilor locale pentru autorizarea efectuării de trageri în anul curent:....................
+De asemenea, declar pe propria răspundere, cunoscând că falsul în declarații este pedepsit de legea penală, că unitatea administrativ-teritorială pe care o reprezint nu înregistrează plăți restante la data depunerii prezentei cereri.
+Persoana de contact:
+Domnul/Doamna....................., în calitate de..................., telefon fix și mobil.............., fax............, e-mail.................
+Ordonator principal de credite.................................^2)................................^3), []................................................................................................................
+L.S. (prenumele și numele) ^1) Se înscrie denumirea județului. ^2) Se înscrie categoria unității administrativ-teritoriale solicitante. ^3) Se înscrie denumirea unității administrativ-teritoriale solicitante. ^4) Se înscriu prenumele și numele reprezentatului legal. ^5) Se înscrie valoarea împrumutului din convenția de împrumut, autorizată prin hotărârea Comisiei de autorizare a împrumuturilor locale de autorizare a contractării împrumutului.
