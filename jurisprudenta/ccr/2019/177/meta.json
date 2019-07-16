@@ -1,0 +1,268 @@
+{
+ "key": "dcc-177-2019",
+ "label": "Decizia CCR nr. 177/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "177",
+ "date": "2019-03-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 177 din 28 martie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"din activități autorizate potrivit legii\" din cuprinsul art. 34 alin. (1) lit. b) din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "579",
+  "bis": false,
+  "date": "2019-07-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.699/102/2016",
+  "388D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a sintagmei „din activități autorizate potrivit legii“ din cuprinsul art. 34 alin. (1) lit. b) din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, excepție ridicată, din oficiu, de Tribunalul Mureș - Secția civilă în Dosarul nr. 1.699/102/2016*.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Mureș - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": [
+      "n"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 393/2004",
+    "number": "393",
+    "year": "2004",
+    "path": "lege/2004/393"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216094",
+  "text_sha256": "a3c8aface68a3c2c741b7971758c73e278e7e2e98a2f679a8ce500785d16f08a",
+  "catalogue_sha256": "a3c8aface68a3c2c741b7971758c73e278e7e2e98a2f679a8ce500785d16f08a",
+  "fetched": "2026-11-03T02:08:46Z",
+  "chars": 20201,
+  "portal_id": "216094",
+  "tip": "DECIZIE"
+ }
+}
