@@ -1,0 +1,70 @@
+REGULAMENTUL DELEGAT (UE) 2019/1081 AL COMISIEI
+din 8 martie 2019
+de stabilire a unor norme privind cerințele specifice de formare pentru personalul care efectuează anumite controale fizice la posturile de inspecție la frontieră
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2017/625 al Parlamentului European și al Consiliului din 15 martie 2017 privind controalele oficiale și alte activități oficiale efectuate pentru a asigura aplicarea legislației privind alimentele și furajele, a normelor privind sănătatea și bunăstarea animalelor, sănătatea plantelor și produsele de protecție a plantelor, de modificare a Regulamentelor (CE) nr. 999/2001, (CE) nr. 396/2005, (CE) nr. 1069/2009, (CE) nr. 1107/2009, (UE) nr. 1151/2012, (UE) nr. 652/2014, (UE) 2016/429 și (UE) 2016/2031 ale Parlamentului European și ale Consiliului, a Regulamentelor (CE) nr. 1/2005 și (CE) nr. 1099/2009 ale Consiliului și a Directivelor 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE și 2008/120/CE ale Consiliului și de abrogare a Regulamentelor (CE) nr. 854/2004 și (CE) nr. 882/2004 ale Parlamentului European și ale Consiliului, precum și a Directivelor 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE și 97/78/CE ale Consiliului și a Deciziei 92/438/CEE a Consiliului (Regulamentul privind controalele oficiale) (1), în special articolul 49 alineatul (5),
+întrucât:
+(1) Regulamentul (UE) 2017/625 stabilește norme privind efectuarea controalelor oficiale de către autoritățile competente ale statelor membre asupra animalelor și mărfurilor care intră în Uniune în vederea verificării conformității cu legislația Uniunii privind lanțul agroalimentar.
+(2) Articolul 5 alineatul (4) din Regulamentul (UE) 2017/625 prevede că toți membrii personalului care efectuează controale oficiale și alte activități oficiale trebuie să beneficieze de formare adecvată în domeniul lor de competență. Capitolul I din anexa II la Regulamentul (UE) 2017/625 stabilește subiectele pentru formarea personalului care efectuează controale oficiale și alte activități oficiale.
+(3) Articolul 21 alineatul (2) litera (c) din Regulamentul (UE) 2017/625 prevede că autoritățile competente efectuează controale oficiale asupra animalelor prezentate la posturile de inspecție la frontieră pentru a verifica conformitatea cu cerințele în materie de bunăstare a animalelor și în special cu normele aplicabile transportului acestora în Uniune. Astfel de controale oficiale trebuie să includă controale asupra capacității animalelor de a fi transportate și asupra mijloacelor de transport.
+(4) Articolul 21 alineatul (3) din Regulamentul (UE) 2017/625 prevede că în cursul controalelor oficiale autoritățile competente iau măsurile necesare pentru a preveni sau pentru a reduce la minimum orice întârziere între încărcarea animalelor și plecarea acestora. În cazul în care trebuie să se rețină animale în timpul transportului pentru mai mult de două ore, autoritățile competente se asigură că se iau măsurile corespunzătoare pentru îngrijirea acestora și, dacă este necesar, pentru hrănirea, adăparea, descărcarea și adăpostirea acestora. Prin urmare, este oportun ca personalul care asistă medicul veterinar oficial la efectuarea de controale fizice asupra animalelor la posturile de inspecție la frontieră să fie instruit în mod special în acest sens.
+(5) Articolul 47 alineatul (1) din Regulamentul (UE) 2017/625 prevede că anumite categorii de animale și mărfuri provenind din țări terțe trebuie să facă obiectul unor controale oficiale la postul de inspecție la frontieră de primă sosire în Uniune. În conformitate cu articolul 49 alineatul (1) din regulamentul menționat, astfel de controale oficiale trebuie să includă controale documentare, de identitate și fizice.
+(6) Articolul 49 alineatul (2) din Regulamentul (UE) 2017/625 prevede că controalele fizice trebuie efectuate de către un medic veterinar oficial dacă respectivele controale privesc animale, cu excepția animalelor acvatice, sau carnea și organele comestibile. Medicul veterinar oficial poate fi asistat de personal format în conformitate cu cerințele stabilite în regulamentul menționat în chestiuni veterinare și desemnat de autoritățile competente în acest scop. Articolul 49 alineatul (2) prevede, de asemenea, că controalele fizice trebuie efectuate de către un medic veterinar oficial sau de personal format în conformitate cu cerințele stabilite în temeiul regulamentului menționat și desemnat de autoritățile competente în acest scop în cazul în care controalele respective se referă la animale acvatice, produse de origine animală cu excepția cărnii și organelor comestibile, materiale germinative sau subproduse de origine animală.
+(7) Prin urmare, personalul care efectuează controale fizice în cadrul controalelor oficiale privind animalele și anumite categorii de mărfuri la posturile de inspecție la frontieră trebuie să fie instruit într-un mod mai specific în acest scop. Formarea ar trebui să asigure faptul că astfel de controale fizice sunt efectuate cu același grad de competență la toate posturile de inspecție la frontieră.
+(8) Directiva 2005/36/CE a Parlamentului European și a Consiliului (2) stabilește o programă detaliată pentru medicii veterinari. Programa menționată include, de exemplu, următoarele materii: anatomie, patologie, parazitologie, medicină clinică, medicină veterinară și sănătate publică, legislație în domeniul medicinii veterinare, producție animală și igienă alimentară (inspecția și controlul produselor alimentare de origine animală, igienă și tehnologie alimentară și lucrări practice, inclusiv lucrări practice în locurile de sacrificare a animalelor și de prelucrare a produselor alimentare). Cunoașterea acestor materii este necesară pentru efectuarea competentă a controalelor fizice ale animalelor, produselor de origine animală, materialelor germinative și subproduselor de origine animală. Prin urmare, este oportun să se stabilească cerințe specifice privind formarea pentru alt personal decât medicii veterinari oficiali pentru a se obține standardul de performanță cerut. În prezent nu a fost identificată necesitatea de a introduce cerințe specifice care să depășească cerințele existente în materie de formare pentru inspectori fitosanitari oficiali. Prin urmare, nu este necesar ca medicii veterinari oficiali și inspectorii fitosanitari oficiali să intre sub incidența prezentului regulament.
+(9) Statele membre ar trebui să aibă dreptul de a desemna personal care, deși nu a urmat programa de formare în conformitate cu prezentul regulament, a urmat activitățile de formare sau programele de schimb de personal menționate la articolul 130 din Regulamentul (UE) 2017/625, cu condiția ca aceste activități sau programe să includă aceleași materii care sunt necesare în temeiul prezentului regulament.
+(10) Decizia 93/352/CEE a Comisiei (3) stabilește norme privind desemnarea unui agent oficial care este instruit în mod specific pentru efectuarea de controale asupra peștilor la posturile de inspecție la frontieră situate în porturile în care peștele este debarcat. Deoarece domeniul de aplicare al deciziei respective este acoperit de Regulamentul (UE) 2017/625 și cerințele de formare sunt stabilite în prezentul regulament, decizia menționată ar trebui abrogată.
+(11) Regulamentul (UE) 2017/625 se aplică de la 14 decembrie 2019. Prin urmare, normele prevăzute în prezentul regulament ar trebui să se aplice, de asemenea, de la data respectivă,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Obiect și domeniu de aplicare
+(1) Prezentul regulament prevede norme de stabilire a cerințelor specifice de formare pentru următorul personal, în conformitate cu articolul 49 alineatul (2) literele (a) și (b) din Regulamentul (UE) 2017/625, care efectuează controale fizice la posturile de inspecție la frontieră:
+(a) personalul care asistă un medic veterinar oficial la efectuarea de controale fizice asupra animalelor, cu excepția animalelor acvatice, sau asupra cărnii și organelor comestibile;
+(b) personalul care efectuează controale fizice asupra animalelor acvatice, asupra produselor de origine animală altele decât cele menționate la litera (a), asupra materialelor germinative și asupra subproduselor de origine animală.
+(2) Prezentul regulament nu se aplică medicilor veterinari oficiali și inspectorilor fitosanitari oficiali.
+Articolul 2
+Obligații generale ale autorităților competente privind formarea
+(1) Personalul menționat la articolul 1 alineatul (1) literele (a) și (b) poate asista medicul veterinar oficial la efectuarea controalelor fizice sau poate efectua controale fizice în conformitate cu articolul 49 alineatul (2) din Regulamentul (UE) 2017/625 numai dacă a încheiat cu succes un program de formare care respectă cerințele prevăzute la articolul 3 din prezentul regulament (denumit în continuare „programul de formare”).
+(2) Autoritățile competente elaborează și organizează un program de formare pentru a se asigura că controalele fizice menționate la articolul 1 sunt efectuate cu nivelul necesar de competență și expertiză tehnică. Programul de formare este atât teoretic, cât și practic.
+(3) Autoritățile competente păstrează evidența programului de formare pe suport de hârtie sau în format electronic pentru fiecare persoană, inclusiv datele, durata, descrierea programului și, după caz, certificatele care atestă încheierea cu succes a programului de formare de către personal. Autoritățile competente dintr-un stat membru se asigură că fiecare post de inspecție la frontieră din statul membru respectiv are acces la evidența privind formarea păstrată pe suport de hârtie sau în format electronic.
+Articolul 3
+Cerințe privind materiile programului de formare
+(1) Conținutul programului de formare se stabilește în funcție de animalele și mărfurile pentru care sunt desemnate posturile de inspecție la frontieră și în funcție de sarcinile și responsabilitățile atribuite personalului.
+(2) Programul de formare acoperă următoarele materii:
+(a) legislația Uniunii aplicabilă privind intrarea în Uniune a animalelor și a mărfurilor, inclusiv procedurile și activitățile care urmează să fie efectuate în timpul și după efectuarea controalelor fizice;
+(b) principii generale privind examinarea animalelor;
+(c) examinarea capacității animalelor de a fi transportate;
+(d) aspectele practice privind manipularea animalelor în conformitate cu legislația Uniunii, inclusiv modalitățile pentru prevenirea sau reducerea întârzierilor la posturile de inspecție la frontieră și, dacă este necesar, pentru hrănirea, adăparea, descărcarea și adăpostirea animalelor;
+(e) examinarea organoleptică a mărfurilor;
+(f) examinarea mijloacelor de transport și a condițiilor de transport, inclusiv gestionarea produselor sensibile la temperatură (lanțul frigorific) și transportul animalelor;
+(g) identificarea speciilor de animale, inclusiv, după caz, identificarea speciilor alogene invazive definite la articolul 3 punctul 2 din Regulamentul (UE) nr. 1143/2014 al Parlamentului European și al Consiliului (4) introduse prin intermediul animalelor și al mărfurilor;
+(h) proceduri de control în ceea ce privește:
+(i) utilizarea echipamentului;
+(ii) implementarea planurilor de monitorizare;
+(iii) procedurile referitoare la prelevarea de probe și analizele de laborator privind animalele și aspectele de sănătate animală și publică;
+(i) metodele de interpretare a rezultatelor analizelor de laborator și a deciziilor aferente în conformitate cu cerințele legislației aplicabile a Uniunii;
+(j) evaluarea riscurilor, inclusiv colectarea de date în legătură cu sănătatea animală și publică pentru a efectua controale fizice țintite în mod corespunzător;
+(k) prevenirea contaminării încrucișate și respectarea standardelor de biosecuritate relevante;
+(l) cerințele de etichetare pentru mărfurile menționate la articolul 47 alineatul (1) litera (b) din Regulamentul (UE) 2017/625;
+(m) investigațiile și tehnicile de control al căror scop este depistarea practicilor frauduloase sau înșelătoare în domeniul comerțului.
+Articolul 4
+Activități de formare și programe de schimb de personal organizate în temeiul articolului 130 din Regulamentul (UE) 2017/625
+Prin derogare de la articolul 2 alineatul (1), personalul menționat la articolul 1 alineatul (1) literele (a) și (b) poate asista medicul veterinar oficial la efectuarea controalelor fizice sau poate efectua controale fizice în conformitate cu articolul 49 alineatul (2) din Regulamentul (UE) 2017/625 dacă a fost instruit în cadrul unor activități de formare sau al unor programe de schimb de personal organizate în temeiul articolului 130 din Regulamentul (UE) 2017/625, cu condiția ca aceste activități sau programe să acopere conținutul și materiile programului de formare menționate la articolul 3 alineatul (2) din prezentul regulament.
+Articolul 5
+Abrogare
+Decizia 93/352/CEE se abrogă.
+Articolul 6
+Intrare în vigoare și data aplicării
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 14 decembrie 2019.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 8 martie 2019.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 95, 7.4.2017, p. 1.
+(2) Directiva 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale (JO L 255, 30.9.2005, p. 22).
+(3) Decizia 93/352/CEE a Comisiei din 1 iunie 1993 de stabilire a derogărilor de la condițiile de aprobare a punctelor de control la frontieră situate în porturi unde se debarcă pești provenind din țări terțe (JO L 144, 16.6.1993, p. 25).
+(4) Regulamentul (UE) nr. 1143/2014 al Parlamentului European și al Consiliului din 22 octombrie 2014 privind prevenirea și gestionarea introducerii și răspândirii speciilor alogene invazive (JO L 317, 4.11.2014, p. 35).
