@@ -1,0 +1,10 @@
+# HCJ Hunedoara nr. 169/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Județean Hunedoara
+- Decision: nr. 169/2019
+- Adopted: 2019-07-16
+- Record: https://www.cjhunedoara.ro/index.php/monitorul-oficial-local/9-uncategorised/448-hotarari-2019
+- Document: https://www.cjhunedoara.ro/documente/hotarari/2019/13%20HOT%20SCAN%2016%20IULIE%202019/HCJH%20169.pdf
+- Document sha256: 78d9afd21617966fb8b9c91f64b24faaae2606536b042726532da5ac3281d28a
