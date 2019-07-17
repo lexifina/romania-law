@@ -1,0 +1,3 @@
+# Anexa 2
+Anexa nr. 1 este reprodusă în facsimil.
+PROCESUL DE IDENTIFICARE A OPERATORILOR DE SERVICII ESENȚIALE

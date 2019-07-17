@@ -1,0 +1,36 @@
+# Anexa 5
+Anexa nr. 4
+la norme
+NOTIFICARE
+privind înscrierea în Registrul operatorilor de servicii esențiale
+A.
+Date generale (identificare entitate solicitantă) DENUMIRE SOLICITANT ..............................................................
+SEDIUL/DOMICILIUL
+Adresa completă ......(strada nr., bl./clădire, et., ap., cod poștal).....
+Localitatea ........................../Județul .........................
+DATE DE IDENTIFICARE REGISTRE NAȚIONALE^1
+CUI ...................../Nr. înregistrare RC^1 ............................/EUID^2 ............................
+DATE DE CONTACT Telefon ......................../Fax ................./E-mail ..................../Web ....................
+DATE RESPONSABILI NIS PENTRU LEGĂTURA CU CERT-RO/ANSRSI) Telefon ............................/Fax ....................../E-mail .................................
+ADRESĂ CORESPONDENȚĂ^3
+Adresa completă ................(strada nr., bl./clădire, et., ap., cod poștal).............
+Localitatea ........................../Județul .........................
+B.
+Solicitare În temeiul Legii nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, cu modificările și completările ulterioare, solicităm: [] înscrierea în Registrul operatorilor de servicii esențiale (ROSE)^4 pentru sectorul ......................, subsectorul .............. .
+C.
+Declarație pe propria răspundere Cunoscând dispozițiile art. 326 din Codul penal cu privire la falsul în declarații,
+declar pe propria răspundere următoarele:
+Îndeplinim condițiile prevăzute la art. 6 alin. (1) din Legea nr. 362/2018 , cu modificările și completările ulterioare, prin raportare la criteriile intersectoriale de stabilire a impactului unui incident prevăzute la art. 6 alin. (2), respectiv la criteriile sectoriale, precum și la valorile de prag prevăzute la art. 6 alin. (3) din aceeași lege , pentru înregistrarea în ROSE.
+D.
+Acord prelucrare date5 Solicitantul își exprimă acordul cu privire la prelucrarea datelor cu caracter personal și procesarea electronică a datelor de către CERT-RO/ANSRSI în procesul de înscriere în ROSE.
+[] Da
+Numele și prenumele: .………...........................
+Data: ................
+Semnătura: .............................
+^1 Registrul comerțului; Registrul asociațiilor și fundațiilor; Registrul federațiilor etc.
+^2 EUID - identificator unic la nivel european.
+^3 Se va completa numai dacă diferă de sediul/domiciliul specificat mai sus.
+^4 În conformitate cu art. 8 din Legea nr. 362/2018 privind asigurarea unui nivel comun ridicat de securitate a rețelelor și sistemelor informatice, cu modificările și completările ulterioare.
+^5 În procesele interne, CERT-RO protejează interesele de securitate și comerciale ale operatorului de servicii esențiale, precum și confidențialitatea informațiilor furnizate de către acesta.
+Informațiile prelucrate în sensul îndeplinirii obligațiilor de la art. 30 alin. (1) din Normele metodologice de identificare a operatorilor de servicii esențiale și furnizorilor de servicii digitale, aprobate prin Ordinul ministrului comunicațiilor și societății informaționale nr. 599/2019 , nu fac parte din categoria informațiilor de interes public așa cum acestea sunt reglementate în Legea nr. 544/2001 privind liberul acces la informațiile de interes public, cu modificările și completările ulterioare.
+Datele și informațiile obținute de la OSE în procesul de înregistrare în ROSE pot fi puse la dispoziția terților numai în condițiile actelor normative în vigoare.
