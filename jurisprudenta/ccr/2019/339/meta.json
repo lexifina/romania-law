@@ -1,0 +1,177 @@
+{
+ "key": "dcc-339-2019",
+ "label": "Decizia CCR nr. 339/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "339",
+ "date": "2019-05-23",
+ "year": "2019",
+ "heading": "DECIZIA nr. 339 din 23 mai 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 509 alin. (1) pct. 6 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "586",
+  "bis": false,
+  "date": "2019-07-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "44.197/4/2015",
+  "1.713D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Lucian Mihai în Dosarul nr. 44.197/4/2015 al Tribunalului București - Secția a IV-a civilă și constată că dispozițiile art. 509 alin. (1) pct. 6 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "509",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216126",
+  "text_sha256": "f056ac23d29bd4a1f84d2ffc241ebc306d8a96712afe74f09d8b50cc1229c026",
+  "catalogue_sha256": "f056ac23d29bd4a1f84d2ffc241ebc306d8a96712afe74f09d8b50cc1229c026",
+  "fetched": "2026-11-06T02:30:29Z",
+  "chars": 17513,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/216126",
+   "timestamp": "20220526082045",
+   "crawl": "CC-MAIN-2022-21",
+   "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662604495.84/warc/CC-MAIN-20220526065603-20220526095603-00064.warc.gz",
+   "offset": "429510502",
+   "length": "20876",
+   "sha256": "f62ead703c13579b6a804200fd5810d7c9a2b37c2f8e8afc4ecd6ca67c23eee0"
+  },
+  "portal_id": "216126",
+  "tip": "DECIZIE"
+ }
+}
