@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-03: published in the Monitorul Oficial
 - 2018-11-29: promulgated, becomes Legea nr. 290/2018; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2018-12-12: published in the Monitorul Oficial
+- 2019-07-17: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322DP.PDF
 - 2018-11-29: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322AFP.PDF
 - 2018-11-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322FP.PDF
+- 2019-07-17: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L322DC.PDF (its day is not given by the bill file: shown from the last stage held)
