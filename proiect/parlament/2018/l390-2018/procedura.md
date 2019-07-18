@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2019-06-26: adopted by the Chamber of Deputies
 - 2019-07-03: sent for promulgation
 - 2019-07-11: promulgated, becomes Legea nr. 129/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-07-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,9 @@ Initiator: Guvernul României.
 - 2019-07-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390DP.PDF
 - 2019-07-11: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390AFP.PDF
 - 2019-07-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390FP.PDF
+- 2019-07-18: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-18: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-18: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-18: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-18: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-18: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L390PX.PDF (its day is not given by the bill file: shown from the last stage held)
