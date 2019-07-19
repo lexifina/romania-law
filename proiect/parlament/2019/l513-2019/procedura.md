@@ -1,0 +1,16 @@
+# Propunere legislativă L513/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea Legii nr.3/2000 privind organizarea şi desfăşurarea referendumului
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2019-07-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului
+
+## Documents
+
+- 2019-07-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L513AD.PDF
+- 2019-07-19: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L513FG.PDF
