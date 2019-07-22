@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-06-26: adopted by the Chamber of Deputies
 - 2019-07-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-03: sent for promulgation
+- 2019-07-22: promulgated, becomes Legea nr. 145/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2018-11-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394AM.PDF
 - 2019-07-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394AXS.PDF
 - 2019-07-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394LP.PDF
+- 2019-07-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394DP.PDF
+- 2019-07-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394AFP.PDF
+- 2019-07-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L394FP.PDF
