@@ -1,0 +1,33 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2019/1125 AL COMISIEI
+din 5 iunie 2019
+privind autorizarea chelatului de zinc al sulfatului de metionină ca aditiv în hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unor astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere de autorizare a chelatului de zinc al sulfatului de metionină. Această cerere a fost însoțită de detaliile și documentele necesare conform dispozițiilor articolului 7 alineatul (3) din regulamentul respectiv.
+(3) Cererea respectivă se referă la autorizarea chelatului de zinc al sulfatului de metionină ca aditiv în hrana tuturor speciilor de animale, urmând ca această substanță să fie clasificată în categoria „aditivi nutriționali”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizele sale din 18 mai 2017 (2) și 4 octombrie 2018 (3) că, în condițiile de utilizare propuse, chelatul de zinc al sulfatului de metionină nu are efecte adverse asupra sănătății animalelor și asupra siguranței consumatorilor. Autoritatea a concluzionat, de asemenea, că aditivul este considerat ca fiind un potențial sensibilizant al pielii și iritant pentru ochi și pentru piele și a semnalat prezența unui un risc pentru utilizatorii aditivului în cazul inhalării acestuia. Prin urmare, Comisia consideră că ar trebui luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivului. De asemenea, autoritatea a concluzionat că aditivul respectiv nu prezintă un risc suplimentar pentru mediu în comparație cu alți compuși de zinc și că este o sursă eficace de zinc pentru toate speciile de animale. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea aditivului în cauză arată că, în conformitate cu dispozițiile de la articolul 5 din Regulamentul (CE) nr. 1831/2003, condițiile de autorizare sunt îndeplinite, sub rezerva măsurilor de protecție corespunzătoare pentru utilizatorii aditivului. În consecință, utilizarea acestui aditiv ar trebui să fie autorizată, conform specificațiilor din anexa la prezentul regulament.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Substanța menționată în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „compuși de oligoelemente”, este autorizată ca aditiv în hrana animalelor, în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 5 iunie 2019.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal, 2017;15(6):4859.
+(3) EFSA Journal, 2018;16(10):5463.
+ANEXĂ
+Număr de identificare al aditivului | Numele deținătorului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Conținut de element (Zn) în mg/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivi nutriționali. Grupa funcțională: compuși de oligoelemente
+3b614 | — | Chelat de zinc al sulfatului de metionină | Compoziția aditivului: Chelat de zinc al sulfatului de metionină sub formă de pulbere cu un conținut de zinc cuprins între 2 % și 15 %. Caracterizarea substanței active: Sulfat de zinc al acidului 2-amino-4 metilsulfanilbutanoic; zinc chelat cu metionină în proporție molară de 1:1. Formula chimică: C5H11NO6S2Zn Numărul CAS: 56329-42-1 Metode analitice (1): Pentru cuantificarea zincului total în aditivul pentru hrana animalelor și în preamestecuri: — EN 15510: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES), sau — EN 15621: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES) după digestia sub presiune. Pentru cuantificarea conținutului de metionină în aditivul destinat hranei animalelor: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și detecție fotometrică (IEC-UV/FD) – EN ISO 17180 sau VDLUFA 4.11.6 și EN ISO 13903 Pentru cuantificarea zincului total în materiile prime pentru hrana animalelor și în hrana combinată pentru animale: — Regulamentul (CE) nr. 152/2009 - spectrometrie de absorbție atomică (AAS); sau — EN 15510: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES); sau — EN 15621: Spectrometrie cu emisie atomică cu plasmă cuplată inductiv (ICP-AES) după digestia sub presiune. | Toate speciile de animale | — | — | Câini și pisici: 200 (total) Salmonide și înlocuitori de lapte pentru viței: 180 (în total) Purcei, scroafe, iepuri și toți peștii în afară de salmonide: 150 (în total) Alte specii și categorii: 120 (în total) | 1. Aditivul se adaugă în hrana pentru animale sub formă de preamestec. 2. Chelatul de zinc al sulfatului de metionină poate fi introdus pe piață și utilizat ca aditiv care constă într-un preparat. 3. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice adecvate pentru a contracara riscurile potențiale în caz de inhalare, de contact cu pielea sau cu ochii. În cazul în care riscurile nu pot fi reduse la un nivel acceptabil prin aceste proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție adecvate. | 22 iulie 2029
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/eurl/feed-additives/evaluation-reports
