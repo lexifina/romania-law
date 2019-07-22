@@ -1,0 +1,398 @@
+{
+ "key": "dcc-234-2019",
+ "label": "Decizia CCR nr. 234/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "234",
+ "date": "2019-04-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 234 din 16 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"pe toată durata existenței contractului\" din art. 268 alin. (1) lit. d) din Legea nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "602",
+  "bis": false,
+  "date": "2019-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "42.277/3/2016",
+  "1.902D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Fondul Român de Contragarantare - S.A. din București în Dosarul nr. 42.277/3/2016 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că sintagma „pe toată durata existenței contractului“ din art. 268 alin. (1) lit. d) din Legea nr. 53/2003 - Codul muncii este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1254",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1256",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1259",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1260",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1261",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1263",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1264",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1265",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216229",
+  "text_sha256": "08c0c54343f75c6559f201711a1e752415f0a371d6ce8f6eb9a88eb66252d2e8",
+  "catalogue_sha256": "08c0c54343f75c6559f201711a1e752415f0a371d6ce8f6eb9a88eb66252d2e8",
+  "fetched": "2026-11-03T02:08:36Z",
+  "chars": 24562,
+  "portal_id": "216229",
+  "tip": "DECIZIE"
+ }
+}
