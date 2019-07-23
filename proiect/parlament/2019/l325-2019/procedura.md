@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-01: registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Aviz Consiliul Economic și Social
 - 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-05: sent for promulgation
+- 2019-07-23: promulgated, becomes Legea nr. 148/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-01: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325ES.PDF
 - 2019-07-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325AXS.PDF
 - 2019-07-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325LP.PDF
+- 2019-07-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325DP.PDF
+- 2019-07-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325AFP.PDF
+- 2019-07-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L325FP.PDF
