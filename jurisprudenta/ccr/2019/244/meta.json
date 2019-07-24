@@ -1,0 +1,167 @@
+{
+ "key": "dcc-244-2019",
+ "label": "Decizia CCR nr. 244/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "244",
+ "date": "2019-04-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 244 din 16 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 28 alin. (10) din Legea nr. 223/2015 privind pensiile militare de stat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "2019-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "235/112/2017",
+  "2.538D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dinu Harosa în Dosarul nr. 235/112/2017 al Tribunalului Bistrița-Năsăud - Secția I civilă și constată că dispozițiile art. 28 alin. (10) din Legea nr. 223/2015 privind pensiile militare de stat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bistrița-Năsăud - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216554",
+  "text_sha256": "47da4c1d5d9acd116e9ffc735916e7e98b2e6f1a5016265c42bbff8b853e3e9d",
+  "catalogue_sha256": "47da4c1d5d9acd116e9ffc735916e7e98b2e6f1a5016265c42bbff8b853e3e9d",
+  "fetched": "2026-11-03T02:08:30Z",
+  "chars": 7494,
+  "portal_id": "216554",
+  "tip": "DECIZIE"
+ }
+}
