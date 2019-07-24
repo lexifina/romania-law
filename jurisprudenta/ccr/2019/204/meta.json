@@ -1,0 +1,282 @@
+{
+ "key": "dcc-204-2019",
+ "label": "Decizia CCR nr. 204/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "204",
+ "date": "2019-04-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 204 din 9 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12, art. 22 alin. (7), art. 187 alin. (1) pct. 1 lit. a) și b) și pct. 2 lit. i) și art. 190 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "2019-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "26.376/233/2016/a2",
+  "2.009D/2017",
+  "26.408/233/2016/a2",
+  "11.311/233/2017",
+  "3.706/121/2015/a2",
+  "1.134/121/2015/a9",
+  "2.836/3/2016/a1",
+  "34.361/3/2016/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "i"
+     ]
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Oltița Manafu în dosarele nr. 26.376/233/2016/a2 și nr. 26.408/233/2016/a2 ale Judecătoriei Galați - Secția civilă, de Mariana Doană în Dosarul nr. 11.311/233/2017 al Judecătoriei Galați - Secția civilă, de Victor Belcin în Dosarul nr. 3.706/121/2015/a2 al Tribunalului Galați, de Alexandru Firicel în dosarele nr. 2.836/3/2016/a1 și nr. 34.361/3/2016/a1 ale Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de Asociația de Locatari nr. 761 din Galați în Dosarul nr. 1.134/121/2015/a9 al Tribunalului Galați - Secția contencios administrativ și fiscal și constată că dispozițiile art. 12, art. 22 alin. (7), art. 187 alin. (1) pct. 1 lit. a) și b) și pct. 2 lit. i) și art. 190 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Galați - Secția civilă, Curții de Apel Galați - Secția contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Tribunalului Galați - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "187",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "i",
+      "b"
+     ]
+    },
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216553",
+  "text_sha256": "7cd20d98c7fe7ac877ce09c2a3a442d1f4ece37529bc41e62c717e870dac017e",
+  "catalogue_sha256": "7cd20d98c7fe7ac877ce09c2a3a442d1f4ece37529bc41e62c717e870dac017e",
+  "fetched": "2026-11-03T02:08:33Z",
+  "chars": 25439,
+  "portal_id": "216553",
+  "tip": "DECIZIE"
+ }
+}
