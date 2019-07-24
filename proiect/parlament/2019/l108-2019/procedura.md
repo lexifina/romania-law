@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-26: adopted by the Chamber of Deputies
 - 2019-07-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-06: sent for promulgation
+- 2019-07-24: promulgated, becomes Legea nr. 149/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108AM.PDF
 - 2019-07-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108AXS.PDF
 - 2019-07-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108LP.PDF
+- 2019-07-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108DP.PDF
+- 2019-07-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108AFP.PDF
+- 2019-07-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L108FP.PDF
