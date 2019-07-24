@@ -1,0 +1,661 @@
+# ANEXĂ
+LISTA perimetrelor petroliere de explorare, dezvoltare și exploatare oferite pentru concesiune prin apel public de ofertă în Runda a XI-a
+E XI-1 Maramureș Vest
+S = 1.004,189 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 725037.00 390932.00 2 683050.00 391011.00 3 690700.00 361800.00 4 734953.20 370617.20
+Între punctele 1 și 4 limita perimetrului este granița de stat a României.
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-1 Maramureș Vest
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-2 Transilvania Nord Est S = 1.098,183 km^2
+Coordonate stereo 70
+Pct. nr.
+X (Nord)
+Y (Est) 1 600620.00 474064.00 2 632670.00 474064.00 3 607430.76 514479.71 4 580000.00 484000.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-2 Transilvania Nord Est
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-3 Transilvania Est S = 1.055,755 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 580000.00 484000.00 2 607430.76 514479.71 3 574517.00 524990.00 4 558051.00 498486.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-3 Transilvania Est
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Damieni 0,13
+S.N.G.N. ROMGAZ - S.A.
+(0) - (-2080) 1 571977.49 489294.73 2 571737.42 489685.88 3 570935.68 490007.99 4 570904.43 490002.93
+E XI-4 Transilvania Sud S = 938,478 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 481639.00 475100.00 2 497515.00 482098.00 3 497500.00 504500.00 4 510000.00 504500.00 5 510000.00 522210.00 6 475461.00 510246.00 7 475461.00 503129.00 8 479891.00 473758.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-4 Transilvania Sud
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+P VII-5 Beclean 1,326
+EXPERT PETROLEUM - S.R.L.
+Nelimitat 1 480305.72 495436.78 2 479763.51 495874.15 3 478861.75 494834.27 4 479125.52 494159.62 5 479949.85 494576.80
+E XI-5 Getica Vest S = 914,184 km^2
+Coordonate stereo 70
+Pct. Nr.
+X (nord)
+Y (est) 1 406500.00 358000.00 2 405000.00 417000.00 3 390575.00 417000.00 4 368500.00 417000.00 5 368500.00 409700.00 6 374625.00 409700.00 7 376000.00 400850.00 8 382700.00 400850.00 9 382700.00 408200.00 10 392673.00 408200.00 11 392979.00 388387.00 12 393180.00 376812.00 13 397200.00 376812.00 14 397200.00 366109.00 15 391521.00 364419.00 16 386958.00 364363.00 17 386900.00 358000.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-5 Getica Vest
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Alunu (PETROM) 12,55
+OMV
+PETROM - S.A.
+(0)-(-1800) 1 393208.42 400662.62 2 395104.12 402764.01 3 395269.90 407087.61 4 394422.73 407562.16 5 393693.27 406841.31 6 392726.12 404760.30 7 392788.98 400690.28
+Colibași Est-Călugăreasa 5,11
+OMV
+PETROM - S.A.
+(0)-(-1000) 1 394352.95 392962.85 2 393973.39 395719.39 3 393190.70 395851.74 4 392883.17 394591.61 5 392934.85 391245.92 6 393585.81 391375.48
+Târgu Jiu 18,77
+OMV
+PETROM - S.A. (-850)-(-2450) 1 390407.49 360391.21 2 394055.77 361609.65 3 394406.11 364606.57 4 394054.29 365172.87 5 391521.00 364419.00 6 389841.32 364398.39 7 388975.47 361140.30 8 388691.86 360073.14 9 389922.11 360229.11
+Alunu 10,65
+S.N.G.N. ROMGAZ - S.A. (-900)-(-1418) 1 393366.37 400093.93 2 394511.75 403055.66 3 395587.20 406447.28 4 394290.95 407014.68 5 392727.58 404665.82 6 392794.34 400343.66
+Grădiștea 34,065
+S.N.G.N. ROMGAZ - S.A. (-700)-(-1800) 1 376778.09 408211.18 2 377195.05 409479.20 3 376207.38 410341.78 4 375136.13 408746.58 5 375471.14 408049.07 6 376777.93 408210.70 7 378428.90 407879.91 8 379082.16 404375.27 9 380246.57 403853.79 10 381261.89 404070.07 11 383074.66 408769.45 12 382299.00 413081.85 13 381025.08 413891.11 14 379637.21 413317.40 15 379626.41 410438.14 16 378429.12 407880.38
+Românești 5,83
+S.N.G.N. ROMGAZ - S.A. (-200)-(-1200) 1 378748.89 417000.00 2 376182.26 417000.00 3 375529.77 416400.32 4 375520.38 415300.19 5 376341.95 415197.79 6 376987.56 415196.62 7 376987.56 414700.25 8 378465.92 414700.25 9 378464.54 416862.10 10 378748.21 416862.67
+Tămășești 7,94
+S.N.G.N. ROMGAZ - S.A. (-650)-(-730) 1 391026.16 361367.01 2 389754.04 362295.42 3 388133.61 359891.30 4 387610.89 358554.11 5 387892.75 358000.00 6 389396.31 358000.00 7 390014.29 358992.09
+Zatreni-Tetoiu 9,94
+AMROMCO ENERGY - S.R.L. & S.N.G.N. ROMGAZ - S.A. (-600)-(-2100) 1 368500.00 412830.49 2 372137.24 415107.05 3 371623.31 417000.00 4 371050.84 417000.00 5 368500.00 416528.79
+E XI-6 Getica Est
+S = 985,104 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 390575.00 417000.00 2 394004.00 467915.00 3 396671.00 468169.00 4 396926.00 483918.00 5 395528.00 484045.00 6 395528.00 492808.00 7 393623.00 492554.00 8 395782.00 506780.00 9 397942.00 506145.00 10 404584.00 511000.00 11 405000.00 417000.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-6 Getica Est
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+DEE V-9 Ciofrângeni 4,048
+AMROMCO ENERGY - S.R.L.
+Nelimitat 1 401520.76 472183.26 2 400102.02 472174.59 3 399623.75 470031.72 4 399842.56 469612.71 5 400753.67 469593.92 6 401463.99 470139.07
+PIX-3 Cosești 7,204
+ALPHA METAL OIL AND
+GAS - S.R.L.
+Nelimitat 1 401510.94 487167.82 2 401048.98 489549.32 3 401295.55 491668.70 4 402490.36 491872.92 5 403330.09 488330.64
+Folești 3,804
+MAZARINE ENERGY ROMANIA - S.R.L.
+(0)-(-2000) 1 399809.18 425680.36 2 399630.18 426765.34 3 399196.75 427280.12 4 397063.46 427839.85 5 397247.59 426852.69 6 397891.33 425837.25
+E XI-7 Moesia 1
+S = 971,014 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 349220.00 315450.00 2 350275.50 316113.30 3 350222.50 352337.00 4 325308.00 343663.40 5 325308.00 300894.50
+Între punctele 1 și 5 limita perimetrului este granița de stat a României.
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-7 Moesia 1
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-8 Moesia 2
+S = 968,684 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 350222.50 352397.00 2 350222.50 359847.50 3 364500.00 359847.50 4 364500.00 362000.00 5 364500.00 374737.00 6 320000.00 378710.00 7 325308.00 365630.80 8 325308.00 343663.40
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-8 Moesia 2
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Bibești-Sărdănești 11,31
+AMROMCO ENERGY - S.R.L. + S.N.G.N. ROMGAZ - S.A.
+(0)-(-1700) 1 364500.00 370483.54 2 364500.00 374737.00 3 361073.30 375042.94 4 361339.98 372339.89
+E XI-9 Moesia 3
+S = 902,451 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 350089.00 542850.00 2 335996.00 542850.00 3 335998.00 534917.00 4 324380.00 534917.00 5 324362.00 555190.00 6 316573.00 558978.00 7 314500.00 574500.00 8 348000.00 574500.00 9 348000.00 545500.00 10 350070.00 545500.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-9 Moesia 3
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Bragadiru 6,43
+OMV
+PETROM - S.A.
+(0)-(-750) 1 319023.58 574500.00 2 317035.33 574500.00 3 316206.01 569884.56 4 317413.06 570551.78
+Brâncoveanu-Serdanu 25,95
+OMV
+PETROM -S.A.
+(0)-(-2450) 1 346487.09 542850.00 2 347628.28 544417.63 3 347748.28 549157.60 4 345046.49 549226.00 5 342456.74 544174.25 6 342133.91 542850.00
+Cămărași-Coșoba 12,54
+OMV
+PETROM - S.A.
+(0)-(-1750) 1 339658.23 560544.30 2 337448.19 560140.85 3 337321.19 566230.50 4 339101.27 566848.10
+Corbii Mari 17,43
+OMV
+PETROM - S.A.
+(0)-(-2100) 1 340635.46 542850.00 2 341683.25 544980.74 3 339722.75 546135.26 4 340354.46 549097.79 5 339263.77 549330.37 6 339093.36 548640.94 7 338524.66 546679.84 8 337420.24 545885.70 9 336298.75 542901.64 10 336319.95 542850.00
+Grădinari 4,28
+OMV
+PETROM - S.A.
+(0)-(-1000) 1 323118.42 570078.95 2 322092.62 569244.44 3 322236.84 566842.11 4 322987.97 565894.69 5 323731.68 568919.07
+Poiana (Dâmbovița) 3,932
+OMV
+PETROM - S.A.
+(0)-(-2050) 1 337420.24 545885.70 2 338524.66 546679.84 3 339093.36 548640.94 4 339263.77 549330.37 5 338255.92 549470.02 6 337369.51 547746.56
+Stoenești-Căscioarele 13,74
+OMV
+PETROM - S.A.
+(0)-(-1350) 1 332045.84 551042.10 2 330519.01 555941.64 3 331080.22 561160.57 4 332217.51 561829.23 5 332484.97 555312.99 6 331455.13 554403.16 7 333257.63 551928.81
+Vânători 0,763
+A.N.R.M.
+Nelimitat 1 335957.54 542427.29 2 335903.68 542528.53 3 335668.18 543112.94 4 335182.30 543438.04 5 335140.61 543208.49 6 335146.57 542701.50 7 335346.33 542135.22 8 335700.93 541899.45 9 335873.90 542206.68
+E XI-10 Moesia 4
+S = 976,425 km^2
+Coordonate stereo 70
+Pct. nr.
+X (Nord)
+Y (Est) 1 348000.00 590000.00 2 368000.00 590000.00 3 368000.00 598000.00 4 373000.00 613000.00 5 382000.00 613000.00 6 382000.00 610000.00 7 386200.00 610000.00 8 386200.00 611500.00 9 390255.00 611503.00 10 390260.00 609500.00 11 390260.00 607000.00 12 385000.00 607000.00 13 385000.00 577500.00 14 377000.00 577500.00 15 377000.00 574500.00 16 342937.30 574500.00 17 342937.30 592450.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-10 Moesia 4
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Bărăitaru 11,23
+OMV
+PETROM - S.A.
+(0)-(-3500) 1 374800.00 607200.00 2 371300.00 607100.00 3 374505.69 612950.93 4 374950.00 612085.74
+Cioceni 2,17
+OMV
+PETROM - S.A.
+(0)-(-3150) 1 380594.27 600351.43 2 380555.76 600583.87 3 379653.73 602467.03 4 379319.16 602531.74 5 379048.37 602295.00 6 379158.35 601193.50 7 379416.51 600221.71
+Periș 10,72
+OMV
+PETROM - S.A.
+(0)-(-3100) 1 355224.22 576016.82 2 353324.09 576791.22 3 354282.51 580624.44 4 356446.20 580618.83 5 356342.64 577410.71
+E XI-11 Moesia 5
+S = 888,984 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 357767.00 680000.00 2 369144.50 706991.90 3 347434.40 720386.60 4 331916.50 680000.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-11 Moesia 5
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Amara 2,22
+A.N.R.M. nelimitat 1 357164.08 680000.00 2 357163.23 680000.85 3 356587.22 680576.48 4 356421.42 681066.81 5 355818.60 681792.43 6 354647.36 680004.39 7 354644.48 680000.00
+E XI-12 Moesia 6
+S = 1.000,857 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 331916.50 680000.00 2 347434.40 720386.60 3 339858.10 725609.70 4 329569.10 730637.60 5 309900.00 684000.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-12 Moesia 6
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-13 Moesia 7
+S = 1.000,236 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 309900.00 684000.00 2 329569.10 730637.60 3 314136.50 738983.80 4 311310.70 738076.80 5 292225.00 690544.00
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-13 Moesia 7
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-14 Moesia 8
+S = 902,1 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 369144.50 706991.90 2 367354.91 728039.29 3 340127.30 746582.85 4 330644.98 748153.28 5 325578.60 743987.40 6 320461.20 740985.91 7 314136.50 738983.80 8 329569.10 730637.60 9 339858.10 725609.70 10 347434.40 720386.60
+Perimetre de exploatare excluse din suprafața perimetrului
+E XI-14 Moesia 8
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-15 Muntenia Nord Est 1
+S = 719,584 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 408025.30 672297.60 2 427497.30 653219.50 3 415000.00 640058.40 4 450070.00 639948.00 5 450070.00 636500.00 6 443000.00 636500.00 7 443000.00 631900.00 8 420300.00 631958.40 9 420300.00 636558.40 10 404815.00 636558.40 11 404810.00 629510.00 12 396041.00 629493.00 13 396047.00 623606.00 14 390242.00 623610.00 15 390242.00 629551.40 16 412300.00 655558.40 17 403000.00 663058.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-15 Muntenia Nord Est 1
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Berca-Pâcle-Beciu-Arbănași 52,098
+OMV PETROM - S.A. (+250)-(-1950) 1 425444.74 631945.16 2 436718.50 633154.93 3 436742.71 636644.28 4 421777.66 635141.66 5 421823.51 631954.48
+Bobocu 24,971
+ZETA PETROLEUM (ROMANIA) - S.R.L. + CLAREN OPERATIONS Ltd.
+Nelimitat 1 421126.69 650293.15 2 421116.13 651639.02 3 418787.26 653449.34 4 416116.64 653449.34 5 413059.41 652170.76 6 413059.41 650773.44 7 414414.51 649707.30 8 419890.34 649720.50
+Roșioru 27,94
+AMROMCO ENERGY - S.R.L. & S.N.G.N. ROMGAZ - S.A.
+(0)-(-2575) 1 416311.49 664179.03 2 413691.34 666746.18 3 408578.87 663446.74 4 408003.47 662293.64 5 408477.66 660719.09 6 410120.78 660410.07 7 412566.75 661428.23 8 416290.65 663998.90
+E XI-16 Muntenia Nord Est 2 S = 738,317 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 436274.20 662453.10 2 429654.90 687717.80 3 425659.80 693395.60 4 419008.40 700757.20 5 406225.00 688958.40 6 413380.00 682158.40 7 408025.30 672297.60 8 427497.30 653219.50
+Perimetre de exploatare excluse din suprafața perimetrului E XI-16 Muntenia Nord Est 2
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Balta Albă 16,812
+AMROMCO ENERGY - S.R.L. & S.N.G.N. ROMGAZ - S.A.
+(0)-(-2308) 1 424406.09 684019.62 2 425678.82 686781.35 3 425858.22 688435.05 4 423708.98 691275.69 5 422923.17 690716.50 6 423630.00 688536.71 7 421813.67 684681.08 8 422637.32 683463.08
+Boldu 13,716
+AMROMCO ENERGY - S.R.L. & S.N.G.N. ROMGAZ - S.A.
+(0)-(-2497) 1 429212.40 672327.97 2 430316.55 675257.15 3 429398.89 676094.89 4 426492.79 675471.37 5 425341.54 673631.91 6 426335.01 672169.25
+Ghergheasa 14,695
+AMROMCO ENERGY - S.R.L. nelimitat 1 417585.24 670836.08 2 418753.63 672213.46 3 420080.16 676455.48 4 419414.43 677216.57 5 416779.80 675608.81 6 415950.81 673997.21 7 415947.01 672964.74 8 417021.66 672076.19 9 416823.85 671396.33
+Roșioru 5,26
+AMROMCO ENERGY - S.R.L. & S.N.G.N. ROMGAZ - S.A.
+(0)-(-2575) 1 416311.49 664179.03 2 416623.88 666878.80 3 415199.33 667719.39 4 413691.34 666746.18
+E XI-17 Muntenia Nord Est 3 S = 810,199 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 436274.20 662453.10 2 453000.00 680058.40 3 453000.00 693058.40 4 446000.00 703558.40 5 432000.00 703558.40 6 428000.00 709058.40 7 419008.40 700757.20 8 425659.80 693395.60 9 429654.90 687717.80
+Perimetre de exploatare excluse din suprafața perimetrului E XI-17 Muntenia Nord Est 3
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-18 Moldova 1 S = 983,599 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 522384.00 585822.00 2 522383.00 617500.00 3 515014.00 617491.00 4 502000.00 617500.00 5 502000.00 611500.00 6 482000.00 608000.00 7 482000.00 595000.00 8 497664.00 588250.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-18 Moldova 1
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Ghelința 6,54
+MAZARINE ENERGY ROMANIA - S.R.L.
+(0)-(-1500) 1 488777.86 602289.70 2 488782.27 603468.13 3 491544.97 605029.52 4 492727.13 603725.51 5 492375.12 603029.09 6 491258.95 602593.95
+Nineasa 3,41
+MAZARINE ENERGY ROMANIA - S.R.L. (+600)-(-400) 1 522383.16 612464.89 2 522383.11 614003.23 3 519701.83 613127.08 4 519870.05 612208.63 5 521970.28 612285.31
+Nineasa Sud 7,18
+MAZARINE ENERGY ROMANIA - S.R.L.
+(0)-(-600) 1 519380.00 614000.00 2 517500.00 613970.00 3 515730.00 614130.00 4 514625.00 614000.00 5 513927.00 613824.00 6 513877.00 613279.00 7 514625.00 612700.00 8 515680.00 612700.00 9 517500.00 612500.00 10 518920.00 612880.00 11 519640.00 613150.00
+Slănic Băi 2,54
+MAZARINE ENERGY ROMANIA - S.R.L. (+600)-(+50) 1 518772.47 609136.58 2 517132.61 609930.62 3 517192.95 610548.57 4 519608.72 610467.89 5 519491.97 609401.14
+E XI-19 Moldova 2 S = 961,055 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 522384.00 585822.00 2 522383.00 617500.00 3 537500.00 617500.00 4 537500.00 599995.00 5 575200.00 599995.00 6 575200.00 584500.00 7 560501.00 585613.00 8 556346.00 589152.00 9 537416.00 585767.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-19 Moldova 2
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Cerdac 11,47
+MAZARINE ENERGY ROMANIA - S.R.L.
+(0)-(-1600) 1 525000.00 615000.00 2 525640.63 614211.10 3 528400.00 615200.00 4 529370.00 615300.00 5 529350.00 617000.00 6 528365.00 617500.00 7 525344.68 617500.00 8 525000.00 617500.00
+Nineasa 5,42
+MAZARINE ENERGY ROMANIA - S.R.L. (+600)-(-400) 1 522383.16 612464.89 2 525843.03 613969.72 3 531243.85 615926.00 4 530875.00 616400.00 5 529282.00 615582.00 6 528371.93 615159.22 7 525640.63 614211.10 8 523312.60 614306.95 9 522383.11 614003.23
+Păcurița 9,421
+MAZARINE ENERGY ROMANIA - S.R.L. (+500)-(-1100) 1 535575.00 614400.00 2 535015.00 616515.00 3 532420.00 617295.00 4 530875.00 616400.00 5 531243.85 615926.00 6 530670.00 615926.00 7 530670.00 615205.00 8 534870.00 614395.00
+E XI-20 Moldova 3 S = 900,12 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 558000.00 655500.00 2 569920.00 675859.00 3 535195.00 697000.00 4 526464.00 674171.00 5 539980.00 664012.00 6 547511.00 664012.00 7 547511.00 655511.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-20 Moldova 3
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Găiceana 13,55
+S.N.G.N. ROMGAZ - S.A.
+(0)-(-1896) 1 544348.00 665169.00 2 545328.00 665852.00 3 545221.00 667593.00 4 541930.00 670560.00 5 540450.00 669000.00 6 542576.00 666142.00
+Glăvănești 21,289
+S.N.G.N. ROMGAZ - S.A. (-855)-(-1378) 1 536535.00 681710.00 2 537200.00 681710.00 3 538600.00 683950.00 4 536728.94 688982.34 5 534345.38 689545.63 6 533960.71 689217.00 7 533874.96 687966.71 8 534562.21 687021.91 9 534945.70 684375.89 10 535361.33 683634.61
+Glăvănești Sud 15,495
+OMV PETROM - S.A. (-1100)-(-1800) 1 538000.00 680800.00 2 534500.00 680800.00 3 532500.00 687500.00 4 534200.00 687700.00 5 535500.00 684300.00 6 536500.00 682500.00
+Huruiești 0,685
+A.N.R.M.
+Nelimitat 1 532475.17 671630.28 2 531820.21 672349.13 3 531600.00 672900.00 4 531600.00 673700.00 5 531909.71 673160.66 6 532427.99 672287.31
+Huruiești- Negulești- Măldărăști 18,39
+S.N.G.N. ROMGAZ - S.A.
+(0)-(-1360) 1 532598.51 669560.13 2 532762.24 671744.40 3 531393.31 672817.89 4 531087.66 676977.84 5 531852.59 677536.35 6 530202.33 678900.46 7 530515.23 673598.72 8 530282.75 673162.71 9 527883.22 675736.71 10 527745.49 675958.97 11 527340.64 676463.16 12 526464.00 674171.00 13 527722.24 673225.27 14 528151.98 673275.13 15 528702.43 672488.54
+E XI-21 Moldova 4 S = 997,405 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 638000.00 602000.00 2 633800.00 604200.00 3 633700.00 609100.00 4 629500.00 609700.00 5 621000.00 610500.00 6 621000.00 613300.00 7 609600.00 613300.00 8 609600.00 618300.00 9 605000.00 618300.00 10 605000.00 588000.00 11 613700.00 580000.00 12 638000.00 580000.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-21 Moldova 4
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+Pipirig 2,61
+MIHOC OIL - S.R.L.
+(0)-(-5000) 1 638000.00 580093.95 2 638000.00 580822.71 3 634898.18 581237.95 4 635093.09 580421.28 5 635100.99 580000.00 6 635943.84 580000.00 7 636165.65 580973.59 8 638000.00 581032.25 9 638000.00 582236.97 10 636900.00 582400.00
+E XI-22 Moldova 5 S = 653,373 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 680400.00 595000.00 2 660843.00 613435.00 3 642656.00 627342.00 4 638000.00 631286.00 5 638000.00 602000.00
+Perimetre de exploatare excluse din suprafața perimetrului E XI-22 Moldova 5
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-23 Marea Neagră 1 S = 880,581 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 359994.90 838922.40 2 323099.39 841339.05 3 322974.10 801387.10 4 332590.80 809309.80 5 340673.60 813930.80 6 346669.00 817406.70 7 351746.10 825595.60 8 352623.80 826476.80 9 355551.70 829576.80 10 358448.50 833592.00 11 358782.80 837076.40
+Perimetre de exploatare excluse din suprafața perimetrului E XI-23 Marea Neagră 1
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-24 Marea Neagră 2 S = 897,579 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 323133.60 794406.30 2 322974.10 801387.10 3 323099.39 841339.05 4 311308.70 842020.50 5 299871.86 792930.43
+Între punctele 5 și 1 limita perimetrului este linia țărmului.
+Perimetre de exploatare excluse din suprafața perimetrului E XI-24 Marea Neagră 2
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-25 Marea Neagră 3 S = 801,896 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 328770.00 881062.00 2 328426.00 872326.00 3 331173.00 872117.00 4 330905.00 867469.00 5 335020.00 867163.00 6 333266.00 840811.00 7 323099.39 841339.05 8 311308.70 842020.50 9 313780.20 881990.10
+Perimetre de exploatare excluse din suprafața perimetrului E XI-25 Marea Neagră 3
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-26 Marea Neagră 4 S = 912,165 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 299720.84 792282.21 2 311308.70 842020.50 3 311830.18 850873.47 4 294136.72 851697.17 5 288231.54 792819.84
+Între punctele 5 și 1 limita perimetrului este linia țărmului.
+Perimetre de exploatare excluse din suprafața perimetrului E XI-26 Marea Neagră 4
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-27 Marea Neagră 5 S = 914,870 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 288231.54 792819.84 2 294136.72 851697.17 3 287671.62 852232.39 4 286848.90 842225.90 5 275732.16 842339.36 6 271153.33 790064.77
+Între punctele 6 și 1 limita perimetrului este linia țărmului.
+Perimetre de exploatare excluse din suprafața perimetrului E XI-27 Marea Neagră 5
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+E XI-28 Marea Neagră 6 S = 867,317 km^2
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est) 1 271153.33 790064.77 2 275732.16 842339.36 3 258190.90 842685.50 4 256059.90 788363.88
+Între punctele 4 și 1 limita perimetrului este linia țărmului.
+Perimetre de exploatare excluse din suprafața perimetrului E XI-28 Marea Neagră 6
+Perimetru de exploatare
+Aria km^2
+Titular
+Limite de adâncime
+Coordonate stereo 70
+Pct. nr.
+X (nord)
+Y (est)
+-
+-
+-
+-
+-
+-
+-
+-----
