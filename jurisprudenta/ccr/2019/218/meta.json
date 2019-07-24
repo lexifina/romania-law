@@ -1,0 +1,279 @@
+{
+ "key": "dcc-218-2019",
+ "label": "Decizia CCR nr. 218/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "218",
+ "date": "2019-04-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 218 din 9 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 236 și art. 237 din Legea nr. 207/2015 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "609",
+  "bis": false,
+  "date": "2019-07-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "842/243/2016",
+  "840/243/2016",
+  "1.586D/2017",
+  "1.901D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "236",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 236 și art. 237 din Legea nr. 207/2015 privind Codul de procedură fiscală, excepție ridicată de Gabriel Marius Grad și Cabinetul individual de consultanță fiscală Gabriel Marius Grad în Dosarul nr. 842/243/2016 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și în Dosarul nr. 840/243/2016* al Judecătoriei Hunedoara.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și Judecătoriei Hunedoara și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "236",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "729",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 71/2001",
+    "number": "71",
+    "year": "2001",
+    "path": "og/2001/71"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216528",
+  "text_sha256": "67573013d0499a85abde61dfb3399a126d6728175386640b7d0422db129517f4",
+  "catalogue_sha256": "67573013d0499a85abde61dfb3399a126d6728175386640b7d0422db129517f4",
+  "fetched": "2026-11-03T02:08:32Z",
+  "chars": 26994,
+  "portal_id": "216528",
+  "tip": "DECIZIE"
+ }
+}
