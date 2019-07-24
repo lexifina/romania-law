@@ -1,0 +1,303 @@
+{
+ "key": "iccj-hp-penal-11-2019",
+ "label": "Decizia ÎCCJ nr. 11/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2019-04-17",
+ "year": "2019",
+ "heading": "DECIZIA nr. 11 din 17 aprilie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"în aplicarea art. 539 alin. (2) din Codul de procedură penală, în situația în care instanța care a pronunțat hotărârea definitivă de achitare nu s-a pronunțat cu privire la caracterul legal sau nelegal al privării de libertate în cursul procesului penal a inculpatului achitat, se poate stabili acest caracter pe calea contestației la executare întemeiată pe prevederile art. 598 alin. (1) lit. d) sau art. 598 alin. (1) lit. c) teza I din Codul de procedură penală \"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "613",
+  "bis": false,
+  "date": "2019-07-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "525/1/2019",
+  "526/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secția penală, în dosarele nr. 2.309/107/2018 și nr. 2.366/107/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „în aplicarea art. 539 alin. (2) din Codul de procedură penală, în situația în care instanța care a pronunțat hotărârea definitivă de achitare nu s-a pronunțat cu privire la caracterul legal sau nelegal al privării de libertate în cursul procesului penal a inculpatului achitat, se poate stabili acest caracter pe calea contestației la executare întemeiată pe prevederile art. 598 alin. (1) lit. d) sau art. 598 alin. (1) lit. c) teza I din Codul de procedură penală“.",
+  "Stabilește că, în aplicarea art. 539 alin. (2) din Codul de procedură penală, caracterul legal sau nelegal al privării de libertate în cursul procesului penal a inculpatului achitat prin hotărâre definitivă nu se poate stabili pe calea contestației la executare întemeiată pe prevederile art. 598 alin. (1) lit. d) sau art. 598 alin. (1) lit. c) teza I din Codul de procedură penală.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "473",
+     "alin": [
+      "8",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "599",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "538",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "540",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "541",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "542",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "399",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 73
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "300-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "504",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "362",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-07-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216568",
+  "text_sha256": "7496216ee89d91dc8e64b5a406b4d0947b27083a0b36939a0c190ecb08ebc1a1",
+  "catalogue_sha256": "7496216ee89d91dc8e64b5a406b4d0947b27083a0b36939a0c190ecb08ebc1a1",
+  "fetched": "2026-11-03T02:08:32Z",
+  "chars": 70999,
+  "portal_id": "216568",
+  "tip": "DECIZIE"
+ }
+}
