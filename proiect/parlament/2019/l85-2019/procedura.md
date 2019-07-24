@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-26: adopted by the Chamber of Deputies
 - 2019-07-01: documents published: Forma trimisă la promulgare
 - 2019-07-06: sent for promulgation
+- 2019-07-24: promulgated, becomes Legea nr. 150/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085CA45.PDF
 - 2019-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085AM.PDF
 - 2019-07-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085LP.PDF
+- 2019-07-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085DP.PDF
+- 2019-07-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085AFP.PDF
+- 2019-07-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L085FP.PDF
