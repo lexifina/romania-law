@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-06-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-02: sent for promulgation
 - 2019-07-17: promulgated, becomes Legea nr. 140/2019; documents published: Adresă privind forma promulgată
+- 2019-07-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-06-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269AXS.PDF
 - 2019-06-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269LP.PDF
 - 2019-07-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269AFP.PDF
+- 2019-07-25: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-25: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-25: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L269AL.PDF (its day is not given by the bill file: shown from the last stage held)
