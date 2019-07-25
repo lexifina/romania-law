@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-06-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-07-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-06: sent for promulgation
+- 2019-07-25: promulgated, becomes Legea nr. 158/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-06-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157FS.PDF
 - 2019-07-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157AXS.PDF
 - 2019-07-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157LP.PDF
+- 2019-07-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157DP.PDF
+- 2019-07-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157AFP.PDF
+- 2019-07-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L157FP.PDF
