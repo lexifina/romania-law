@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-18: adopted by the Senate
 - 2019-04-16: adopted by the Chamber of Deputies
 - 2019-05-06: sent for promulgation
+- 2019-07-26: promulgated, becomes Legea nr. 160/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126AM.PDF
 - 2018-07-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126AXS.PDF
 - 2018-07-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126LP.PDF
+- 2019-07-26: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126DP.PDF
+- 2019-07-26: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126AFP.PDF
+- 2019-07-26: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126FP.PDF
