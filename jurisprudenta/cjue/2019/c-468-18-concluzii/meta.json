@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-468-18-concluzii-2019-07-29",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 29 iulie 2019, Cauza C-468/18.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2019-07-29",
+ "year": "2019",
+ "case": "Cauza C-468/18.",
+ "celex": "62018CC0468",
+ "ecli": "ECLI:EU:C:2019:649",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 29 iulie 2019",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Judecǎtoria Constanţa.",
+ "national_followup": null,
+ "parties": "R împotriva P.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Cooperare judiciară în materie civilă – Competența, recunoașterea și executarea hotărârilor în materie de obligații de întreținere – Regulamentul (CE) nr. 4/2009 – Articolul 3 literele (a) și (d) și articolul 5 – Instanță sesizată cu trei cereri comune referitoare la divorțul părinților unui copil minor, la răspunderea părintească și la obligația de întreținere în favoarea copilului – Declarare a competenței în materie de divorț și a necompetenței în materie de răspundere părintească – Competența de a soluționa cererea privind obligația de întreținere – Instanța judecătorească de la locul reședinței obișnuite a pârâtului și în fața căreia acesta se înfățișează.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CC0468",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-468/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/449e2ba8-b1ee-11e9-9d01-01aa75ed71a1.0018.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "419f808e74e2a44c0a92eda65f283475f01f17deac42630ece75f1e121bbbf29"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
