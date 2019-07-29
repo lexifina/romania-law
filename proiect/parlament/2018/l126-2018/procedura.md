@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-16: adopted by the Chamber of Deputies
 - 2019-05-06: sent for promulgation
 - 2019-07-26: promulgated, becomes Legea nr. 160/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-07-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,8 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-26: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126DP.PDF
 - 2019-07-26: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126AFP.PDF
 - 2019-07-26: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126FP.PDF
+- 2019-07-29: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-29: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-29: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-29: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-07-29: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L126PX.PDF (its day is not given by the bill file: shown from the last stage held)
