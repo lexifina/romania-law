@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-03: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-09: sent for promulgation
 - 2019-07-26: promulgated, becomes Legea nr. 161/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-07-29: published in the Monitorul Oficial
 
 ## Documents
 
