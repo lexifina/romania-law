@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-07-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-03: sent for promulgation
 - 2019-07-22: promulgated, becomes Legea nr. 145/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-07-30: published in the Monitorul Oficial
 
 ## Documents
 
