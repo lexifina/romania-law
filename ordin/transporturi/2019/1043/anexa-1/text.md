@@ -1,0 +1,2 @@
+# Anexa nr. 1
+NORME privind aplicarea la nivel național a prevederilor art. 8 alin. (4) din Regulamentul (UE) nr. 598/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 de stabilire a normelor și a procedurilor cu privire la introducerea restricțiilor de operare referitoare la zgomot pe aeroporturile din Uniune în cadrul unei abordări echilibrate și de abrogare a Directivei 2002/30/CE
