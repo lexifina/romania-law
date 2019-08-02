@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-06-24: first record in the bill file
 - 2019-07-03: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
+- 2019-08-02: registered at the Senate
 
 ## Documents
 
