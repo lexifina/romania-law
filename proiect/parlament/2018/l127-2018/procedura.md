@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-04-24: sent for promulgation
 - 2019-08-01: promulgated, becomes Legea nr. 162/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-08-02: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-08-01: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L127DP.PDF
 - 2019-08-01: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L127AFP.PDF
 - 2019-08-01: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L127FP.PDF
+- 2019-08-02: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L127AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-08-02: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L127SC.PDF (its day is not given by the bill file: shown from the last stage held)
