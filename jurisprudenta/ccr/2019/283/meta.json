@@ -1,0 +1,248 @@
+{
+ "key": "dcc-283-2019",
+ "label": "Decizia CCR nr. 283/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "283",
+ "date": "2019-05-07",
+ "year": "2019",
+ "heading": "DECIZIA nr. 283 din 7 mai 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1^1)-(1^4) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "650",
+  "bis": false,
+  "date": "2019-08-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "7.426/2/2016",
+  "1.408D/2017",
+  "1.636D/2017",
+  "7.784/2/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-1",
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1^2) și (1^4) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, excepție ridicată de Marilena Nicolau, Delia Boicu, Emilia Botezatu, Lenuța Harabor, Doina Miron, Luminița Soare, Mihaela Corbu, Luminița Duță, Alina Liliana Mîrza, Ionel Iulian Păun, Anca Mihaela Trofin, Irina Victoria Șerbănuț, Mădălina Popescu, Frasina Mihalache, Ion Imparatu, Oana Jelea, Cătălin Constantin Crăciun, Mariana Grădinescu, Andreea Pascaru, Gabriela Alina Mănescu, Ana Dinu Murguleț, Georgeta Ciungan, Ioana Focșa, Ramona Ionescu, Alexandra Tiu și Virginia Elena Zidărescu (Stratulat) în Dosarul nr. 7.426/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Marilena Nicolau, Delia Boicu, Emilia Botezatu, Lenuța Harabor, Doina Miron, Luminița Soare, Mihaela Corbu, Luminița Duță, Alina Liliana Mîrza, Ionel Iulian Păun, Anca Mihaela Trofin, Irina Victoria Șerbănuț, Mădălina Popescu, Frasina Mihalache, Ion Imparatu, Oana Jelea, Cătălin Constantin Crăciun, Mariana Grădinescu, Andreea Pascaru, Gabriela Alina Mănescu, Ana Dinu Murguleț, Georgeta Ciungan, Ioana Focșa, Ramona Ionescu, Alexandra Tiu și Virginia Elena Zidărescu (Stratulat) în Dosarul nr. 7.426/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de Marilena Grecu, Liliana-Angelica Onișor, Cristina Dicu, Diana-Mihaela Oancea, Cornelia Luca, Magdalena Hanu, Mihaela Alexa, Dana-Gabriela Bichilie și Magdalena Mîndru în Dosarul nr. 7.784/2/2016 al aceleiași instanțe și constată că dispozițiile art. 3^1 alin. (1^1) și (1^3) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1-1",
+      "1-3",
+      "1-2",
+      "1-4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 43/2016",
+    "number": "43",
+    "year": "2016",
+    "path": "oug/2016/43"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/216816",
+  "text_sha256": "1d8650f5fb19a751b863c58b865f8494e611ee68f0c2c28db71f14736e3660bd",
+  "catalogue_sha256": "1d8650f5fb19a751b863c58b865f8494e611ee68f0c2c28db71f14736e3660bd",
+  "fetched": "2026-11-03T02:08:13Z",
+  "chars": 25148,
+  "portal_id": "216816",
+  "tip": "DECIZIE"
+ }
+}
