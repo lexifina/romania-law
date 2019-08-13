@@ -1,0 +1,20 @@
+# Proiect de lege L351/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.9/2019 pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii, precum şi pentru modificarea şi completarea unor acte normative în domeniul sănătăţii, a unor reglementări cu privire la programe guvernamentale naţionale şi cu privire la măsuri fiscal-bugetare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-08-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-08-13: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351AD.PDF
+- 2019-08-13: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351FG.PDF
+- 2019-08-13: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351EM.PDF
+- 2019-08-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351LG.PDF
+- 2019-08-13: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351OG.PDF
+- 2019-08-13: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351HG.PDF
