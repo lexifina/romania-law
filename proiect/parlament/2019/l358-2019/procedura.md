@@ -1,0 +1,22 @@
+# Proiect de lege L358/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 190/2021 (`legea-190-2021`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.18/2019 privind prorogarea termenului prevăzut la art.II din Legea nr.163/2016 pentru modificarea şi completarea Legii nr.10/1995 privind calitatea în construcţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-08-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-08-23: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358AD.PDF
+- 2019-08-23: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358FG.PDF
+- 2019-08-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358EM.PDF
+- 2019-08-23: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358LG.PDF
+- 2019-08-23: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358OG.PDF
+- 2019-08-23: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358HG.PDF
