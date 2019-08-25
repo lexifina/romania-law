@@ -1,0 +1,32 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2019/1313 AL COMISIEI
+din 2 august 2019
+privind autorizarea unui preparat de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 ca aditiv furajer destinat porcilor pentru îngrășat și speciilor porcine minore pentru îngrășat (titularul autorizației: Cargill Incorporated, reprezentat de Provimi Holding BV)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unor astfel de autorizații.
+(2) A fost depusă o cerere de autorizare pentru preparatul de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510, în conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003. Această cerere a fost însoțită de detaliile și documentele necesare conform dispozițiilor articolului 7 alineatul (3) din regulamentul respectiv.
+(3) Cererea se referă la autorizarea unui preparat de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 ca aditiv furajer destinat porcilor pentru îngrășat și speciilor porcine minore pentru îngrășat, pentru a fi clasificat în categoria „aditivi zootehnici”.
+(4) Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a concluzionat, în avizul său din 27 februarie 2019 (2), că, în condițiile de utilizare propuse, preparatul de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 nu are efecte adverse asupra sănătății animalelor sau asupra mediului. De asemenea, autoritatea a concluzionat că aditivul este considerat un potențial sensibilizant pentru căile respiratorii, chiar dacă are un potențial de pudraj redus, și că nu s-a putut trage nicio concluzie cu privire la sensibilizarea sau iritarea pielii sau a ochilor de către aditiv. Prin urmare, Comisia consideră că ar trebui luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivului. Autoritatea a mai concluzionat că aditivul are potențialul de a fi eficace, la doza recomandată, în ceea ce privește indicele de conversie a hranei la porcii pentru îngrășat și că această concluzie poate fi extinsă la speciile minore de porcine pentru îngrășat. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare după introducerea pe piață. În plus, autoritatea a verificat raportul privind metoda de analiză a aditivului în hrana pentru animale transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea preparatului de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea preparatului respectiv ar trebui autorizată astfel cum se specifică în anexa la prezentul regulament.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se autorizează preparatul menționat în anexă, aparținând categoriei „aditivi zootehnici” și grupului funcțional „stabilizatori ai florei intestinale”, ca aditiv pentru hrana animalelor conform specificațiilor din anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 2 august 2019.
+Pentru Comisie
+Președintele
+Jean-Claude JUNCKER
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2019;17(3):5647.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda de analiză | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+CFU/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupa funcțională: stabilizatori ai florei intestinale
+4b1893 | Cargill Incorporated, reprezentat de Provimi Holding BV | Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 | Compoziția aditivului: Preparat de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510, conținând cel puțin: Bacillus spp. 2,5 × 109 CFU/g (raport 1:1:1) Sub formă de pulbere Caracterizarea substanței active: Spor viabil de Bacillus amyloliquefaciens NRRL B-50508, Bacillus amyloliquefaciens NRRL B-50509 și Bacillus subtilis NRRL B-50510 Metoda analitică (1) Pentru identificare: Electroforeză în gel în câmp pulsatil (PFGE – Pulsed Field Gel Electrophoresis) Pentru numărarea în aditivul furajer, în preamestecuri și furaje: Metoda dispersiei pe placă cu triptonă soia agar (EN 15784) | Porci pentru îngrășat Specii minore de porcine pentru îngrășat | — | 1,5 × 108 | — | 1. A se menționa, în instrucțiunile de utilizare a aditivului și a preamestecurilor, condițiile de depozitare și stabilitatea la tratament termic. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea acestora. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile trebuie utilizate cu echipament de protecție individuală, inclusiv cu echipamente de protecție respiratorie și cutanată. | 25 august 2029
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
