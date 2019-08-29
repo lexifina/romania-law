@@ -1,0 +1,262 @@
+{
+ "key": "dcc-365-2019",
+ "label": "Decizia CCR nr. 365/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "365",
+ "date": "2019-05-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 365 din 28 mai 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"la care se atașează dovada de primire/procesul-verbal și înștiințarea prevăzute la art. 163\" cuprinsă în art. 154 alin. (4) din Codul de procedură civilă, precum și a prevederilor art. 163 alin. (3) teza întâi și alin. (6) coroborate cu sintagma \"indiferent dacă partea a primit sau nu citația ori alt act de procedură personal\" cuprinsă în art. 165 pct. 1 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "710",
+  "bis": false,
+  "date": "2019-08-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.515/2/2016/a1",
+  "2.336D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "163",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Iolanda Istrate și Ionel Cherciu în Dosarul nr. 8.515/2/2016/a1 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că sintagma „la care se atașează dovada de primire/procesul-verbal și înștiințarea prevăzute la art. 163“ cuprinsă în art. 154 alin. (4) din Codul de procedură civilă, precum și prevederile art. 163 alin. (3) teza întâi și alin. (6) coroborate cu sintagma „indiferent dacă partea a primit sau nu citația ori alt act de procedură personal“ cuprinsă în art. 165 pct. 1 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 13/2013",
+    "number": "13",
+    "year": "2013",
+    "path": "oug/2013/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-08-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/217536",
+  "text_sha256": "a26daefc24409a82bc096396cea74e7dd7fa5a98e02d7aec9681445635678916",
+  "catalogue_sha256": "a26daefc24409a82bc096396cea74e7dd7fa5a98e02d7aec9681445635678916",
+  "fetched": "2026-11-06T03:02:20Z",
+  "chars": 27649,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250715083112/https://legislatie.just.ro/Public/DetaliiDocumentAfis/217536",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/217536",
+   "timestamp": "20250715083112",
+   "sha256": "9915f1d89c5be7720eed65f29b0008ae50736fb24282458f434467bd189f673c"
+  },
+  "portal_id": "217536",
+  "tip": "DECIZIE"
+ }
+}
