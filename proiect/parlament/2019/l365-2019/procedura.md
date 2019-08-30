@@ -1,0 +1,20 @@
+# Proiect de lege L365/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.24/2019 pentru modificarea și completarea Ordonanței Guvernului nr.83/2001 privind înființarea, organizarea și funcționarea serviciilor publice comunitare pentru eliberarea și evidența pașapoartelor simple și serviciilor publice comunitare regim permise de conducere și înmatriculare a vehiculelor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-08-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-08-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365AD.PDF
+- 2019-08-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365FG.PDF
+- 2019-08-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365EM.PDF
+- 2019-08-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365LG.PDF
+- 2019-08-30: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365OG.PDF
+- 2019-08-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L365HG.PDF
