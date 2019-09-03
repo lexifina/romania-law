@@ -1,0 +1,6 @@
+# Anexa nr. 2 (Anexa nr. 3^1 la ghid)
+Declarație pe propria răspundere
+Subsemnatul,............................................., cu domiciliul în..................................., act de identitate tip........, seria........ nr................, cod numeric personal........................., în calitate de solicitant aprobat în cadrul Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum și livrării surplusului în rețeaua națională, aprobat prin Ordinul viceprim-ministrului, ministrul mediului, nr. 1.287/2018, declar pe propria răspundere, sub sancțiunile aplicate faptei de fals în declarații, referitor la imobilul pe care voi implementa proiectul, că: [] nu s-au modificat regimul juridic și/sau criteriile de eligibilitate a acestuia în cadrul Programului, față de cele valabile la momentul depunerii cererii de finanțare; sau [] am grevat cu ipotecă imobiliară imobilul înregistrat în cartea funciară cu nr................, având nr. cadastral.................., către...................................... (bancă, instituție financiar nebancară etc.).
+Prin semnarea prezentei declarații confirm că am înțeles și mi-am însușit în integralitate conținutul acesteia.
+Numele și prenumele.....................................
+Semnătura.....................................
