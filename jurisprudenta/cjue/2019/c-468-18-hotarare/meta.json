@@ -1,0 +1,52 @@
+{
+ "key": "cjue-c-468-18-hotarare-2019-09-05",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 5 septembrie 2019, Cauza C-468/18",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2019-09-05",
+ "year": "2019",
+ "case": "Cauza C-468/18",
+ "celex": "62018CJ0468",
+ "ecli": "ECLI:EU:C:2019:666",
+ "heading": "Hotărârea Curții (Camera a treia) din 5 septembrie 2019",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Judecǎtoria Constanţa, SECTIA CIVILA",
+   "date": "2018-07-11",
+   "national_file": "18/7/18"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Judecǎtoria Constanţa",
+ "national_followup": null,
+ "parties": "R împotriva P",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Cooperare judiciară în materie civilă – Competența, recunoașterea și executarea hotărârilor în materie de obligații de întreținere – Regulamentul (CE) nr. 4/2009 – Articolul 3 literele (a) și (d) și articolul 5 – Instanță sesizată cu trei cereri comune referitoare la divorțul părinților unui copil minor, la răspunderea părintească și la obligația de întreținere în favoarea copilului – Declarare a competenței în materie de divorț și a necompetenței în materie de răspundere părintească – Competența de a soluționa cererea privind obligația de întreținere – Instanța judecătorească de la locul reședinței obișnuite a pârâtului și în fața căreia acesta se înfățișează",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CJ0468",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-468/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/1b403743-cfc9-11e9-b4bf-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "b9858d429d66c56d73e483e3613658715c9bb2a72e8393e4cdbf10d0dac0034f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "Articolul 3 literele (a) și (d) și articolul 5 din Regulamentul (CE) nr. 4/2009 al Consiliului din 18 decembrie 2008 privind competența, legea aplicabilă, recunoașterea și executarea hotărârilor și cooperarea în materie de obligații de întreținere trebuie interpretate în sensul că, atunci când o instanță dintr‑un stat membru este sesizată cu o acțiune care cuprinde trei cereri referitoare la divorțul părinților unui copil minor, la răspunderea părintească față de acest copil și, respectiv, la obligația de întreținere față de acesta, instanța care se pronunță asupra divorțului și care s‑a declarat necompetentă să se pronunțe asupra cererii referitoare la răspunderea părintească dispune totuși de competența de a se pronunța asupra cererii privind obligația de întreținere referitoare la acel copil atunci când ea este de asemenea instanța de la locul reședinței obișnuite a pârâtului sau instanța în fața căreia acesta s‑a înfățișat fără să îi conteste competența."
+ ]
+}
