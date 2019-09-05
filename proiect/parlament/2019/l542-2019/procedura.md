@@ -11,7 +11,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-09-04: first record in the bill file
+- 2019-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2019-09-05: Adresă de înaintare a inițiativei (AD): [ad-a8be1b17.md](ad-a8be1b17.md); official file https://www.senat.ro/legis/PDF/2019/19L542AD.PDF
+- 2019-09-05: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L542FG.PDF
+- 2019-09-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L542EM.PDF
