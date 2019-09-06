@@ -1,0 +1,12 @@
+# Anexa 2
+Anexa nr. 2
+Radiodifuzor ...................
+Licența nr. ....................
+Către
+Consiliul Național al Audiovizualului
+București, Bd. Libertății nr. 14, sectorul 5, cod 050706
+Fax: 021.305.53.54, e-mail: cna@cna.ro
+În conformitate cu prevederile Deciziei Consiliului Național al Audiovizualului nr. 781/2019 privind regulile de desfășurare în audiovizual a campaniei electorale pentru alegerea Președintelui României și ca urmare a Comunicării noastre nr. ........... din .............. 2019 privind difuzarea de către postul de radio/televiziune/distribuție prin cablu cu numele ............................ din localitatea ................... a emisiunilor destinate campaniei electorale pentru alegerea Președintelui României, vă transmitem anexat prezentei lista cu tipurile acestor emisiuni, precum și programarea lor, pe zile și ore, pe întreaga durată a campaniei, conform formularului-tip disponibil pe pagina de internet a Consiliului Național al Audiovizualului.
+............................................................
+(semnătura și ștampila titularului de licență)
+------
