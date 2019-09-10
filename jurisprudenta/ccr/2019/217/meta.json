@@ -1,0 +1,449 @@
+{
+ "key": "dcc-217-2019",
+ "label": "Decizia CCR nr. 217/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "217",
+ "date": "2019-04-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 217 din 9 aprilie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 297 alin. (1) și art. 298 din Codul penal, ale art. I din Ordonanța de urgență a Guvernului nr. 14/2017 privind abrogarea Ordonanței de urgență a Guvernului nr. 13/2017 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală, ale Ordonanței de urgență a Guvernului nr. 14/2017, în ansamblul său, ale Legii nr. 8/2017 privind respingerea Ordonanței de urgență a Guvernului nr. 13/2017 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală, precum și ale Legii nr. 9/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 14/2017 privind abrogarea Ordonanței de urgență a Guvernului nr. 13/2017 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "739",
+  "bis": false,
+  "date": "2019-09-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.879/2/2016",
+  "2.777/120/2016",
+  "2.197/89/2015",
+  "2.741/87/2015",
+  "2.610/91/2014",
+  "1.321/91/2016",
+  "298/42/2015",
+  "141/122/2017",
+  "2.246/4/2017",
+  "28.176/3/2006"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "298",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 14/2017",
+    "number": "14",
+    "year": "2017",
+    "path": "oug/2017/14"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 8/2017",
+    "number": "8",
+    "year": "2017",
+    "path": "lege/2017/8"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "lege/2017/9"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. I din Ordonanța de urgență a Guvernului nr. 14/2017, privind abrogarea Ordonanței de urgență a Guvernului nr. 13/201 7 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală, a ordonanței de urgență în ansamblul său, a Legii nr. 8/2017 privind respingerea Ordonanței de urgență a Guvernului nr. 13/2017 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală și a Legii nr. 9/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 14/2017 privind abrogarea Ordonanței de urgență a Guvernului nr. 13/2017 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal și a Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală, excepție ridicată de Octavian Cornel Ciobanu în Dosarul nr. 2.879/2/2016 al Curții de Apel București - Secția a II-a penală, de Florin Ștefan Teodorescu în Dosarul nr. 2.777/120/2016 al Tribunalului Dâmbovița - Secția penală, de Irinel Cocuz în Dosarul nr. 2.197/89/2015 al Tribunalului Vaslui - Secția penală, de Aurel Chivu și Ion Alexandru în Dosarul nr. 2.741/87/2015 al Tribunalului Teleorman - Secția penală, de Societatea Concivia - S.A. din Brăila, Antoniu Cezar Mocanu, Georgel Ghenea, Vasile Soare, Sebastian Lucian Buzuleac, Nicu Sava, Mircea Bădescu, Cristian Cătălin Stăncic, Societatea Tancrad Construct - S.R.L din Brăila, Societatea Tancrad - S.R.L din Galați, Gheorghe Bunea Stancu, Florin Mija, Nicolae Moisiu, Jenica Dumitrașcu, Ionel Pușcă, Lenuța Roșioru, Ionică Popescu și de Rodica Ștefan în Dosarul nr. 2.610/91/2014 al Tribunalului Vrancea - Secția penală, de Iordache Simionescu, Vasile Iancu și Ionel Aurelian în Dosarul nr. 1.321/91/2016 al Tribunalului Vrancea - Secția penală, de Maria Buleandră în Dosarul nr. 298/42/2015 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie, de Eugen Pena în Dosarul nr. 141/122/2017 al Tribunalului Giurgiu - Secția penală, de Cornel Teodor Volintiru în Dosarul nr. 2.246/4/2017 al Tribunalului București - Secția I penală, de Traian Oprea în Dosarul nr. 28.176/3/2006 al Curții de Apel București - Secția I penală, de Alina Mihaela Bica și Cătălin Florin Teodorescu în Dosarul nr. 4.397/1/2014 al Înaltei Curți de Casație și Justiție - Secția penală, de Gheorghe Deaconeasa în Dosarul nr. 2.081/310/2010* al Judecătoriei Sinaia, de Ion Laurențiu Ciobotărică în Dosarul nr. 2.079/95/2016/a5 al Curții de Apel Craiova - Secția penală și pentru cauze cu minori, de Marian Buruntia în Dosarul nr. 3.415/104/2015 al Curții de Apel Craiova - Secția penală și pentru cauze cu minori, de Gabriel Vîță în Dosarul nr. 3.410/104/2015 al Curții de Apel Craiova - Secția penală și pentru cauze cu minori, de Luiza Căzănescu în Dosarul nr. 1.705/120/2014 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie și de Jan Bâra în Dosarul nr. 545/32/2016/a2 al Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 298 din Codul penal, excepție ridicată de Octavian Cornel Ciobanu în Dosarul nr. 2.879/2/2016 al Curții de Apel București - Secția a II-a penală.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cornel Teodor Volintiru în Dosarul nr. 2.246/4/2017 al Tribunalului București - Secția I penală și constată că dispozițiile art. 297 alin. (1) din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a II-a penală, Tribunalului Dâmbovița - Secția penală, Tribunalului Vaslui - Secția penală, Tribunalul Teleorman - Secția penală, Tribunalului Vrancea - Secția penală, Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie, Tribunalului Giurgiu - Secția penală, Tribunalului București - Secția I penală, Curții de Apel București - Secția I penală, Înaltei Curți de Casație și Justiție - Secția penală, Judecătoriei Sinaia, Curții de Apel Craiova - Secția penală și pentru cauze cu minori, Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie și Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "298",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 14/2017",
+    "number": "14",
+    "year": "2017",
+    "path": "oug/2017/14"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "298",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [
+    {
+     "art": "595",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 8/2017",
+    "number": "8",
+    "year": "2017",
+    "path": "lege/2017/8"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "lege/2017/9"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5",
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 13/2017",
+    "number": "13",
+    "year": "2017",
+    "path": "oug/2017/13"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2004",
+    "number": "365",
+    "year": "2004",
+    "path": "lege/2004/365"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-09-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/217865",
+  "text_sha256": "df4fb5f84bb3e5e883f069f6dbd1f5a8a92a91f169559a67267da22e90c5ce87",
+  "catalogue_sha256": "df4fb5f84bb3e5e883f069f6dbd1f5a8a92a91f169559a67267da22e90c5ce87",
+  "fetched": "2026-11-03T02:07:33Z",
+  "chars": 72033,
+  "portal_id": "217865",
+  "tip": "DECIZIE"
+ }
+}
