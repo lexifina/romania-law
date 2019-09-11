@@ -1,0 +1,326 @@
+{
+ "key": "iccj-hp-36-2019",
+ "label": "Decizia ÎCCJ nr. 36/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "36",
+ "date": "2019-06-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 36 din 28 iunie 2019",
+ "subtitle": "referitoare la interpretarea art. 26 alin. (1) lit. a), raportate la dispozițiile art. 31, coroborate cu cele ale art. 37 alin. (5) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "742",
+  "bis": false,
+  "date": "2019-09-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "946/1/2019",
+  "2.335/318/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Gorj - Secția contencios administrativ și fiscal în Dosarul nr. 2.335/318/2018, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Prevederile art. 26 alin. (1) lit. a), raportate la dispozițiile art. 31, coroborate cu cele ale art. 37 alin. (5) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare, se pot interpreta în sensul că pentru contravențiile constând în executarea totală, fără autorizație de construire, a unei construcții ce cuprinde toate elementele structurale necesare pentru a fi considerată terminată, termenul de prescripție a dreptului de a constata contravențiile și de a aplica amenzile prevăzute la art. 26 din același act normativ curge de la data la care autoritatea competentă a constatat comiterea faptei?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 401/2003",
+    "number": "401",
+    "year": "2003",
+    "path": "lege/2003/401"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "492",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "579",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "577",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 197/2016",
+    "number": "197",
+    "year": "2016",
+    "path": "lege/2016/197"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-09-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/217890",
+  "text_sha256": "3b35673f05f1d0e20ff524f03d533637e75bb323d9238be0df2bd88d124d8518",
+  "catalogue_sha256": "3b35673f05f1d0e20ff524f03d533637e75bb323d9238be0df2bd88d124d8518",
+  "fetched": "2026-11-03T02:07:30Z",
+  "chars": 56719,
+  "portal_id": "217890",
+  "tip": "DECIZIE"
+ }
+}
