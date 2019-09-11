@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a patra) din 11 septembrie 2019, Cauza C-676/17
+
+Pentru aceste motive, Curtea (Camera a patra) declară:
+1) Dreptul Uniunii, în special principiile echivalenței și efectivității, trebuie interpretat în sensul că nu se opune, în principiu, unei prevederi naționale, astfel cum este interpretată printr‑o decizie a unei instanțe naționale, care prevede un termen de decădere de o lună pentru formularea unei cereri de revizuire a unei hotărâri judecătorești definitive pronunțate cu încălcarea dreptului Uniunii, care curge de la data comunicării deciziei supuse revizuirii.
+2) Cu toate acestea, principiul efectivității coroborat cu principiul securității juridice trebuie interpretat în sensul că se opune, în împrejurări precum cele în discuție în litigiul principal, aplicării de către o instanță națională a unui termen de decădere de o lună pentru formularea unei cereri de revizuire a unei hotărâri judecătorești definitive atunci când, la data formulării acestei cereri de revizuire, decizia care instituie termenul menționat nu a fost încă publicată în Monitorul Oficial al României.
