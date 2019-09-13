@@ -1,0 +1,4 @@
+# ANEXĂ
+Completare la secțiunea 1 Lucrări și servicii prestate de către autoritățile publice pentru protecția mediului
+Nr. crt. Scopul lucrării sau al serviciului Tipul lucrării sau al serviciului care se prestează Cuantumul tarifului care se încasează, fără TVA (lei) Precizări suplimentare 0 1 2 3 4......................................................................................................................................................................... 12 Parcurgerea procedurii legale privind avizarea anuală pentru organizația care implementează răspunderea extinsă a producătorului în domeniul ambalajelor și al deșeurilor de ambalaje Analiza documentelor depuse de către organizația licențiată, precum și analiza eventualelor documente, sesizări, reclamații în legătură cu activitatea organizației licențiate 10.000
+-----
