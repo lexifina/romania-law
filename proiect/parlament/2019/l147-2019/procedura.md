@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-27: adopted by the Chamber of Deputies
 - 2019-03-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-05-07: documents published: Raport comisie sesizată pe fond
+- 2019-09-16: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L147FG.PDF
 - 2019-03-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L147EM.PDF
 - 2019-05-07: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L147CR.PDF
+- 2019-09-16: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L147AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-09-16: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L147ARD.PDF (its day is not given by the bill file: shown from the last stage held)
