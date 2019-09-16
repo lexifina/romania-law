@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2019-09-03: documents published: Aviz comisie
 - 2019-09-04: documents published: Aviz comisie
 - 2019-09-12: documents published: Aviz comisie
+- 2019-09-16: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Guvernul României.
 - 2019-09-03: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L326CA16.PDF
 - 2019-09-04: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L326CA14.PDF
 - 2019-09-12: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L326CA41.PDF
+- 2019-09-16: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L326CR.PDF
