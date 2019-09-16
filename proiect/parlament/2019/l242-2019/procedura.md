@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-12: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2019-06-12: documents published: Aviz comisie
 - 2019-06-13: documents published: Aviz comisie
+- 2019-09-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-12: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L242CA9.PDF
 - 2019-06-13: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L242CA12.PDF
 - 2019-06-13: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L242CA45.PDF
+- 2019-09-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L242FS.PDF
+- 2019-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L242AM.PDF
