@@ -1,0 +1,199 @@
+{
+ "key": "iccj-hp-26-2019",
+ "label": "Decizia ÎCCJ nr. 26/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "26",
+ "date": "2019-06-03",
+ "year": "2019",
+ "heading": "DECIZIE nr. 26 din 3 iunie 2019",
+ "subtitle": "referitoare la situația în care hotărârea redactată de unul dintre membrii completului de recurs este semnată doar de către judecătorul redactor, în timp ce, pentru ceilalți membri, este semnată de către președintele completului sau de președintele instanței, în condițiile art. 426 alin. (4) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "755",
+  "bis": false,
+  "date": "2019-09-17",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "545/1/2019",
+  "2.231/105/2018/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "503",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Ploiești - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 2.231/105/2018/a1, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "Situația în care hotărârea redactată de unul dintre membrii completului de recurs este semnată doar de către judecătorul redactor, în timp ce, pentru ceilalți membri, este semnată de către președintele completului sau de președintele instanței, în condițiile art. 426 alin. (4) din Codul de procedură civilă, nu se încadrează în ipoteza prevăzută de dispozițiile art. 503 alin. (2) pct. 1 din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "503",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "426",
+     "alin": [
+      "4",
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "401",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-09-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218006",
+  "text_sha256": "a91a79b3f39352e7c96ea142af8e8b35fe7035079260f6c5870c8206529f3437",
+  "catalogue_sha256": "a91a79b3f39352e7c96ea142af8e8b35fe7035079260f6c5870c8206529f3437",
+  "fetched": "2026-11-03T02:07:22Z",
+  "chars": 60505,
+  "portal_id": "218006",
+  "tip": "DECIZIE"
+ }
+}
