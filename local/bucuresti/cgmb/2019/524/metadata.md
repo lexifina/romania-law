@@ -1,0 +1,11 @@
+# HCGMB nr. 524/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 524/2019
+- Adopted: 2019-09-17
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 1, SA HOTARASCA, IN CONDITIILE LEGII, CU PRIVIRE LA INFIINTAREA, ORGANIZAREA SI FUNCTIONAREA UNEI INSTITUTII PUBLICE DE INTERES LOCAL, IN DOMENIUL INVATAMANTULUI, CU PERSONALITATE JURIDICA, IN SUBORDINEA CONSILIULUI LOCAL AL SECTORULUI 1, PE MODELUL CENTRELOR DE EXCELENTA. CARE ISI VA DESFASURA ACTIVITATEA IN STRANSA COLABORARE CU INSPECTORATUL SCOLAR AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40286
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40286/H524_19.pdf
+- Document sha256: 673e184430d5bbe633244cd47405ebb500cf4b0f4a890d402c390bd84dbe3c89
