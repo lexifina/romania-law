@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2019-08-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-09-17: documents published: Aviz comisie
+- 2019-09-18: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2019-08-01: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L347OG.PDF
 - 2019-08-01: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L347HG.PDF
 - 2019-09-17: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L347CA49.PDF
+- 2019-09-18: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L347CR.PDF
