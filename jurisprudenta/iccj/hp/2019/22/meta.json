@@ -1,0 +1,234 @@
+{
+ "key": "iccj-hp-22-2019",
+ "label": "Decizia ÎCCJ nr. 22/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "22",
+ "date": "2019-05-20",
+ "year": "2019",
+ "heading": "DECIZIA nr. 22 din 20 mai 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. III alin. (2^4) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "773",
+  "bis": false,
+  "date": "2019-09-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "129/1/2019",
+  "9.804/318/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Gorj - Secția I civilă, în Dosarul nr. 9.804/318/2014*, pentru pronunțarea unei hotărâri prealabile privind dezlegarea următoarei chestiuni de drept: modul de interpretare și aplicare a dispozițiilor art. III alin. (2^4) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, cu modificările și completările ulterioare, privind cerințele concrete în care poate fi solicitat și obținut prețul actualizat al unui teren vândut în baza unui titlu constatat nul ulterior vânzării, prin explicitarea sintagmelor „vânzări succesive ale terenurilor“ și „prețul actualizat“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2-4",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "966",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "967",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "968",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1991",
+    "number": "169",
+    "year": "1991",
+    "path": "lege/1991/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-09-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218410",
+  "text_sha256": "806bfec6697b9d712f052c591249655ff1634d79f35a82a4122c305e697fa584",
+  "catalogue_sha256": "806bfec6697b9d712f052c591249655ff1634d79f35a82a4122c305e697fa584",
+  "fetched": "2026-11-03T02:07:15Z",
+  "chars": 69350,
+  "portal_id": "218410",
+  "tip": "DECIZIE"
+ }
+}
