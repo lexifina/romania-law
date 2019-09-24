@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-06-18: registered at the Chamber of Deputies
+- 2019-09-24: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2019-09-24: Raport comisie sesizată pe fond (CR): [cr-97e423c3.md](cr-97e423c3.md); official file https://www.senat.ro/legis/PDF/2019/19L549CR.PDF
