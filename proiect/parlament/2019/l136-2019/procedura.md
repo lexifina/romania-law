@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-22: registered at the Senate
 - 2019-04-15: documents published: Raport comisie sesizată pe fond
 - 2019-09-16: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2019-09-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136LG.PDF
 - 2019-04-15: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136CR.PDF
 - 2019-09-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136FS.PDF
+- 2019-09-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136AXS.PDF
+- 2019-09-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136LP.PDF
