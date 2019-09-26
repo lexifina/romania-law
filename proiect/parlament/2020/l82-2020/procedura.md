@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-02: first record in the bill file
 - 2019-09-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-09-04: documents published: Aviz Consiliul Legislativ, Punct de vedere Guvern, Aviz Consiliul Economic și Social
+- 2019-09-26: registered at the Senate
 
 ## Documents
 
