@@ -1,0 +1,22 @@
+# Proiect de lege L527/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 32/2020 (`legea-32-2020`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.67/2019 pentru modificarea și completarea Legii nr.96/2000 privind organizarea și funcționarea Băncii de Export-Import a României Eximbank - S.A., precum și a Ordonanței Guvernului nr.6/2019 privind instituirea unor facilități fiscale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-09-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-09-26: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527AD.PDF
+- 2019-09-26: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527FG.PDF
+- 2019-09-26: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527EM.PDF
+- 2019-09-26: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527LG.PDF
+- 2019-09-26: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527OG.PDF
+- 2019-09-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527HG.PDF
