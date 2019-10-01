@@ -1,0 +1,17 @@
+# Proiect de lege L607/2019
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 25/2020 (`legea-25-2020`).
+
+Proiect de lege pentru ratificarea Acordului între Guvernul României şi Guvernul Republicii Singapore cu privire la serviciile aeriene, semnat la Sinagapore, la 31 mai 2018
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-10-01: registered at the Chamber of Deputies
+
+## Documents
+
+- none held as text
