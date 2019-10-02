@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-04-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-05-08: documents published: Aviz comisie
 - 2019-09-23: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2019-10-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2019-05-08: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L156CA41.PDF
 - 2019-05-08: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L156CA45.PDF
 - 2019-09-23: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L156FS.PDF
+- 2019-10-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L156AXS.PDF
+- 2019-10-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L156LP.PDF
