@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-15: documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2019-06-26: documents published: Aviz comisie
 - 2019-09-12: documents published: Raport comisie sesizată pe fond
+- 2019-10-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-15: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L305PV.PDF
 - 2019-06-26: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L305CA9.PDF
 - 2019-09-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L305CR.PDF
+- 2019-10-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L305FS.PDF
+- 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L305AM.PDF
