@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-13: documents published: Aviz comisie
 - 2019-09-17: documents published: Aviz comisie
 - 2019-09-19: documents published: Aviz comisie
+- 2019-10-03: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-13: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L407CA3.PDF
 - 2019-09-17: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L407CA49.PDF
 - 2019-09-19: Aviz comisie (CA29): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L407CA29.PDF
+- 2019-10-03: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L407CR.PDF
