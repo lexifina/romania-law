@@ -1,0 +1,385 @@
+{
+ "key": "dcc-504-2019",
+ "label": "Decizia CCR nr. 504/2019",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "504",
+ "date": "2019-09-18",
+ "year": "2019",
+ "heading": "DECIZIA nr. 504 din 18 septembrie 2019",
+ "subtitle": "asupra cererii de soluționare a conflictului juridic de natură constituțională între prim-ministru, pe de o parte, și Președintele României, pe de altă parte",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "801",
+  "bis": false,
+  "date": "2019-10-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.382E/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "1. Admite cererea și constată existența unui conflict juridic de natură constituțională între prim-ministru, pe de o parte, și Președintele României, pe de altă parte, determinat de refuzul revocării unor miniștri, la propunerea prim-ministrului, potrivit art. 85 alin. (2) din Constituția României, republicată, precum și de refuzul tacit al Președintelui României de a numi miniștri interimari, la propunerea prim-ministrului, potrivit art. 107 alin. (3) din Constituția României, republicată.",
+  "2. Președintele României urmează să emită de îndată decretele de revocare a miniștrilor, solicitate de prim-ministru prin adresele nr. 5/5.321 și nr. 5/5.324 din 26 august 2019, precum și decretele de desemnare a miniștrilor interimari propuși prin adresele nr. 5/5.362, nr. 5/5.363 și nr. 5/5.364 din 27 august 2019.",
+  "3. Președintele României urmează să răspundă, de îndată, în scris și motivat, cu privire la refuzul propunerilor de numire în funcția de ministru titular, înaintate de prim-ministru prin adresele nr. 5/5.321, nr. 5/5.322, nr. 5/5.323, nr. 5/5.324 și nr. 5/5.325 din 26 august 2019.",
+  "4. Constată că nu există conflict juridic de natură constituțională între prim-ministru, pe de o parte, și Președintele României, pe de altă parte, generat de refuzul Președintelui de a numi miniștrii titulari propuși de prim-ministru prin adresele nr. 5/5.321, nr. 5/5.322, nr. 5/5.323, nr. 5/5.324 și nr. 5/5.325 din 26 august 2019.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică prim-ministrului și Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "92",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 172
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 658/2019",
+    "number": "658",
+    "year": "2019",
+    "path": "decret/2019/658"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 556/2019",
+    "number": "556",
+    "year": "2019",
+    "path": "decret/2019/556"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 555/2019",
+    "number": "555",
+    "year": "2019",
+    "path": "decret/2019/555"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 657/2019",
+    "number": "657",
+    "year": "2019",
+    "path": "decret/2019/657"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 645/2019",
+    "number": "645",
+    "year": "2019",
+    "path": "decret/2019/645"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-10-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218635",
+  "text_sha256": "56f0d127ef99e9b76edcf3bc083527e8d2fab906361ca0b7600b83e080a40a79",
+  "catalogue_sha256": "56f0d127ef99e9b76edcf3bc083527e8d2fab906361ca0b7600b83e080a40a79",
+  "fetched": "2026-11-03T02:07:02Z",
+  "chars": 201006,
+  "portal_id": "218635",
+  "tip": "DECIZIE"
+ }
+}
