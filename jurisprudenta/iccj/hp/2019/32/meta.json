@@ -1,0 +1,246 @@
+{
+ "key": "iccj-hp-32-2019",
+ "label": "Decizia ÎCCJ nr. 32/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2019-06-24",
+ "year": "2019",
+ "heading": "DECIZIA nr. 32 din 24 iunie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile referitoare la următoarea chestiune de drept: „Care este termenul de prescripție a dreptului de a obține executarea silită aplicabil creanțelor stabilite în favoarea autorităților publice cu titlu de despăgubiri civile datorate de cadrele militare în temeiul Ordonanței Guvernului nr. 121/1998 privind răspunderea materială a militarilor, ca urmare a soluționării acțiunii civile în cadrul unui proces penal?“.",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "810",
+  "bis": false,
+  "date": "2019-10-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "874/1/2019",
+  "13.721/302/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul București - Secția a IV-a civilă în Dosarul nr. 13.721/302/2017 privind pronunțarea unei hotărâri prealabile referitoare la următoarea chestiune de drept: „Care este termenul de prescripție a dreptului de a obține executarea silită aplicabil creanțelor stabilite în favoarea autorităților publice cu titlu de despăgubiri civile datorate de cadrele militare în temeiul Ordonanței Guvernului nr. 121/1998 privind răspunderea materială a militarilor, ca urmare a soluționării acțiunii civile în cadrul unui proces penal?“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "718",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "220",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "3",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 121/1998",
+    "number": "121",
+    "year": "1998",
+    "path": "og/1998/121"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.744/2015",
+    "number": "3744",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2500",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-10-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218694",
+  "text_sha256": "f665d9ea1017f65c372ead4706d8e4565440b86572d97ebf115d5aaeecae95fc",
+  "catalogue_sha256": "f665d9ea1017f65c372ead4706d8e4565440b86572d97ebf115d5aaeecae95fc",
+  "fetched": "2026-11-03T14:35:33Z",
+  "chars": 52501,
+  "portal_id": "218694",
+  "tip": "DECIZIE"
+ }
+}
