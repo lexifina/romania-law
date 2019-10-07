@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-16: sent for promulgation
 - 2019-10-03: promulgated, becomes Legea nr. 165/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-10-07: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L114DP.PDF
 - 2019-10-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L114AFP.PDF
 - 2019-10-03: Forma promulgată (FP): [fp-fbbd02e4.md](fp-fbbd02e4.md); official file https://www.senat.ro/legis/PDF/2018/18L114FP.PDF
+- 2019-10-07: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L114AA.PDF (its day is not given by the bill file: shown from the last stage held)
