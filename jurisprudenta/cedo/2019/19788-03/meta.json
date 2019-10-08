@@ -1,0 +1,176 @@
+{
+ "key": "cedo-19788-03-2019-02-26",
+ "label": "CEDO, Ana Ionescu și alții c. României, 2019-02-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2019-02-26",
+ "year": "2019",
+ "heading": "HOTĂRÂREA din 26 februarie 2019",
+ "subtitle": "în Cauza Ana Ionescu și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "816",
+  "bis": false,
+  "date": "2019-10-08",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "19788/03",
+  "37487/03",
+  "12838/07",
+  "57001/00",
+  "9584/02",
+  "20106/04"
+ ],
+ "case_name": "Ana Ionescu și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "în unanimitate",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. decide scoaterea de pe rol a capătului de cerere formulat în temeiul art. 1 din Protocolul nr. 1 la Convenție în Cererea nr. 20.106/04;",
+  "3. declară capetele de cerere formulate în temeiul art. 1 din Protocolul nr. 1 admisibile, cu excepția capătului de cerere formulat în Cererea nr. 12.838/07, iar restul capetelor de cerere inadmisibile;",
+  "4. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "5. hotărăște: a) că statul pârât trebuie să restituie reclamanților proprietățile lor, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție;",
+  "b) că, în lipsa unei asemenea restituiri, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat, plus orice sumă care poate fi datorată cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul material;",
+  "c) că, în orice caz, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat, plus orice sumă care poate fi datorată de reclamanți cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul moral și pentru cheltuielile de judecată;",
+  "d) că sumele de mai sus trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "e) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;^1 ^1 Rectificată la 13 iunie 2019: textul a fost:",
+  "5. hotărăște: a) că statul pârât trebuie să plătească reclamanților, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, sumele indicate în tabelul din anexă, plus orice sumă ce poate fi datorată cu titlu de impozit, sume care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "6. respinge cererile de acordare a unei reparații echitabile pentru celelalte capete de cerere formulate de reclamanți."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "oug/2008/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218758",
+  "text_sha256": "37ac67e46c29ce3419f5f7bbeac291748cff67b3eea138dd4de53c9e24b74ca3",
+  "catalogue_sha256": "37ac67e46c29ce3419f5f7bbeac291748cff67b3eea138dd4de53c9e24b74ca3",
+  "fetched": "2026-11-03T02:06:52Z",
+  "chars": 33720,
+  "portal_id": "218758",
+  "tip": "HOTĂRÂRE"
+ }
+}
