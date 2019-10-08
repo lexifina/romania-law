@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-12: documents published: Aviz comisie
 - 2019-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-19: sent for promulgation
+- 2019-10-08: promulgated, becomes Legea nr. 174/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-12: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L444CA41.PDF
 - 2019-09-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L444AXS.PDF
 - 2019-09-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L444LP.PDF
+- 2019-10-08: Decret de promulgare (DP): [dp-0cd167f7.md](dp-0cd167f7.md); official file https://www.senat.ro/legis/PDF/2019/19L444DP.PDF
+- 2019-10-08: Adresă privind forma promulgată (AFP): [afp-010e630f.md](afp-010e630f.md); official file https://www.senat.ro/legis/PDF/2019/19L444AFP.PDF
+- 2019-10-08: Forma promulgată (FP): [fp-3630d8f1.md](fp-3630d8f1.md); official file https://www.senat.ro/legis/PDF/2019/19L444FP.PDF
