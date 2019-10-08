@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății BEST-CAR LEASING IFN - S.A., cu sediul în Sibiu, str. Calea Poplăcii nr. 104, județul Sibiu, înregistrată la oficiul registrului comerțului cu nr. J32/114/2005, cod unic de înregistrare 17166360, înscrisă în Registrul general Instituții Financiare Nebancare sub nr. RG-PJR-33-110047, la secțiunea k) "Activități multiple de creditare".
