@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2019-09-24: registered at the Chamber of Deputies
 - 2019-10-01: documents published: Aviz comisie
 - 2019-10-08: documents published: Aviz comisie
+- 2019-10-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2019-10-08: Aviz comisie (CA22): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA22.PDF
 - 2019-10-08: Aviz comisie (CA6): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA6.PDF
 - 2019-10-08: Aviz comisie (CA41): [ca41-a6a079ca.md](ca41-a6a079ca.md); official file https://www.senat.ro/legis/PDF/2019/19L525CA41.PDF
+- 2019-10-09: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA5.PDF
+- 2019-10-09: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA9.PDF
+- 2019-10-09: Aviz comisie (CA45): [ca45-3ba72476.md](ca45-3ba72476.md); official file https://www.senat.ro/legis/PDF/2019/19L525CA45.PDF
