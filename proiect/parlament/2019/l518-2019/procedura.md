@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-09-19: registered at the Senate; documents published: Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-10-02: documents published: Aviz comisie
 - 2019-10-04: documents published: Aviz comisie
+- 2019-10-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Guvernul României.
 - 2019-10-02: Aviz comisie (CA6): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518CA6.PDF
 - 2019-10-04: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518CA45.PDF
 - 2019-10-04: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518CA5.PDF
+- 2019-10-09: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518CA12.PDF
