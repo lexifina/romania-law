@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-24: adopted by the Chamber of Deputies
 - 2019-10-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-04: sent for promulgation
+- 2019-10-10: promulgated, becomes Legea nr. 181/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-19: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450CA3.PDF
 - 2019-10-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450AXS.PDF
 - 2019-10-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450LP.PDF
+- 2019-10-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450DP.PDF
+- 2019-10-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450AFP.PDF
+- 2019-10-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L450FP.PDF
