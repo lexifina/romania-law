@@ -1,0 +1,16 @@
+# ANEXĂ (Anexa la norme)
+CERERE DE ÎNSCRIERE la examenul de competență profesională
+Subsemnatul/Subsemnata,.................................., născut/ă la data de................ în localitatea............, județul/sectorul....................., cu domiciliul în localitatea.................., str.............. nr....., bl....., sc....., et....., ap....., județul/sectorul..............., legitimat/ă cu buletinul/cartea de identitate/pașaportul seria...... nr..........., eliberat/ă de............ la data de.............., cod numeric personal (CNP)................, solicit înscrierea la examenul de competență profesională organizat de Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar (ASPAAS) sesiunea.................
+Anexez la prezenta cerere următoarele documente: a) diploma de licență, în copie certificată pentru conformitate/în copie legalizată;
+b) copia actului de identitate în termen de valabilitate;
+c) certificat de cazier judiciar aflat în termen de valabilitate;
+d) declarația privind respectarea condiției de bună reputație;
+e) orice alt document solicitat de ASPAAS în procesul de analiză (de exemplu, copie după certificatul de căsătorie, în cazul în care numele candidatului din actul de identitate diferă de numele din diploma de licență).
+Menționez că SUNT/NU SUNT membru la următoarele organisme profesionale de profil din țară sau din străinătate.................
+Adresă de e-mail:...........................
+Telefon:.....................
+Adresa de corespondență: localitatea......................., str..................... nr....., bl....., sc....., et....., ap....., sectorul/județul...............
+Subsemnatul/Subsemnata..................., cunoscând prevederile art. 322, 323 și 326 din Codul penal privind falsul în înscrisuri sub semnătură privată, uzul de fals și falsul în declarații, declar că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către ASPAAS a datelor cu caracter personal în exercitarea atribuțiilor legale.
+Data:
+Semnătura
+-----
