@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-09-11: adopted by the Chamber of Deputies
 - 2019-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-21: sent for promulgation
+- 2019-10-10: promulgated, becomes Legea nr. 177/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2018-10-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392AM.PDF
 - 2019-09-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392AXS.PDF
 - 2019-09-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392LP.PDF
+- 2019-10-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392DP.PDF
+- 2019-10-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392AFP.PDF
+- 2019-10-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L392FP.PDF
