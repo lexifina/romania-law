@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-04: sent for promulgation
 - 2019-10-10: promulgated, becomes Legea nr. 181/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-10-11: published in the Monitorul Oficial
 
 ## Documents
 
