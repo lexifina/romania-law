@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-09-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-21: sent for promulgation
 - 2019-10-10: promulgated, becomes Legea nr. 177/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-10-11: published in the Monitorul Oficial
 
 ## Documents
 
