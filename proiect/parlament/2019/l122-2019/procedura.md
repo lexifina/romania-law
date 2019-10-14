@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-09-18: adopted by the Chamber of Deputies
 - 2019-09-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-25: sent for promulgation
+- 2019-10-14: promulgated, becomes Legea nr. 183/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L122AM.PDF
 - 2019-09-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L122AXS.PDF
 - 2019-09-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L122LP.PDF
+- 2019-10-14: Decret de promulgare (DP): [dp-25252824.md](dp-25252824.md); official file https://www.senat.ro/legis/PDF/2019/19L122DP.PDF
+- 2019-10-14: Adresă privind forma promulgată (AFP): [afp-a8132091.md](afp-a8132091.md); official file https://www.senat.ro/legis/PDF/2019/19L122AFP.PDF
+- 2019-10-14: Forma promulgată (FP): [fp-75406c41.md](fp-75406c41.md); official file https://www.senat.ro/legis/PDF/2019/19L122FP.PDF
