@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-07: documents published: Aviz comisie
 - 2019-03-20: rejected by the Senate
 - 2019-03-25: registered at the Chamber of Deputies
+- 2019-10-15: adopted by the Chamber of Deputies
 
 ## Documents
 
