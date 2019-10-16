@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-10-09: documents published: Aviz comisie
 - 2019-10-10: documents published: Aviz comisie
 - 2019-10-14: documents published: Aviz comisie
+- 2019-10-16: documents published: Aviz comisie
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2019-10-09: Aviz comisie (CA45): [ca45-3ba72476.md](ca45-3ba72476.md); official file https://www.senat.ro/legis/PDF/2019/19L525CA45.PDF
 - 2019-10-10: Aviz comisie (CA1): [ca1-110ef8f0.md](ca1-110ef8f0.md); official file https://www.senat.ro/legis/PDF/2019/19L525CA1.PDF
 - 2019-10-14: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA19.PDF
+- 2019-10-16: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA43.PDF
+- 2019-10-16: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L525CA12.PDF
