@@ -1,0 +1,3 @@
+# Anexa nr. 3 la metodologie
+DATE PUBLICE cuprinse în Evidența elaboratorilor de studii de evaluare a impactului asupra sănătății
+Nr. crt. Denumirea persoanei juridice/Numele și prenumele persoanei fizice Date de contact Adresa paginii de internet a persoanei juridice Nr. și data eliberării avizului Data reînnoirii avizului acordat Durata de valabilitate a avizului Avizul este eliberat în scopul elaborării studiilor de impact asupra sănătății pentru obiective funcționale: care se supun procedurii de evaluare a impactului asupra mediului care nu se supun procedurii de evaluare a impactului asupra mediului
