@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-09-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-09-28: sent for promulgation
+- 2019-10-17: promulgated, becomes Legea nr. 184/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136FS.PDF
 - 2019-09-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136AXS.PDF
 - 2019-09-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136LP.PDF
+- 2019-10-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136DP.PDF
+- 2019-10-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136AFP.PDF
+- 2019-10-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L136FP.PDF
