@@ -1,0 +1,252 @@
+{
+ "key": "dcc-286-2019",
+ "label": "Decizia CCR nr. 286/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "286",
+ "date": "2019-05-07",
+ "year": "2019",
+ "heading": "DECIZIA nr. 286 din 7 mai 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 297 alin. (1) coroborat cu art. 175 alin. (1) lit. c) din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "844",
+  "bis": false,
+  "date": "2019-10-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "623/1/2017",
+  "1.612D/2017",
+  "632/1/2017",
+  "3.407/1/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dan-Coman Șova în Dosarul nr. 632/1/2017 al Înaltei Curți de Casație și Justiție - Completul de 5 judecători și constată că prevederile art. 297 alin. (1) coroborat cu art. 175 alin. (1) lit. c) din Codul penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Completul de 5 judecători și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-10-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218966",
+  "text_sha256": "9113ab4a5900261abacb9f8e9f8728ab94ccf9a3c3184764b8bb6129308246d3",
+  "catalogue_sha256": "9113ab4a5900261abacb9f8e9f8728ab94ccf9a3c3184764b8bb6129308246d3",
+  "fetched": "2026-11-03T02:06:40Z",
+  "chars": 32451,
+  "portal_id": "218966",
+  "tip": "DECIZIE"
+ }
+}
