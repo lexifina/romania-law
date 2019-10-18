@@ -1,0 +1,26 @@
+# Anexa nr. 2 (Anexa nr. 5 la normele metodologice)
+Consiliul Județean........./Primăria.............
+Județul...............
+Nr............../data.......................
+SITUAȚIE privind lucrările/serviciile/alte cheltuieli realizate și decontate pentru obiectivul de investiții „..........................” în baza
+Contractului de finanțare nr......../data...................
+-lei-
+Nr. crt.
+Valoarea contractului de finanțare de la bugetul de stat (inclusiv TVA)
+Factură
+Ordin de plată
+Emitent
+Nr./data
+Valoarea
+Nr./data
+Valoarea totală
+Din care valoarea de la bugetul de stat 0 1 2 3 4 5 6 7
+1...........................
+2......
+TOTAL 0,00 0,00 0,00
+Subsemnatul,...................................., în calitate de reprezentant al..........................., având funcția de.........................., declar pe propria răspundere, sub sancțiunea legii penale, că lucrările/serviciile/alte cheltuieli sunt executate/prestate/efectuate/ recepționate și decontate în suma de.................. și se încadrează în cheltuielile care se pot finanța de la bugetul de stat conform art. 8 din Normele metodologice pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 28/2013 pentru aprobarea Programului național de dezvoltare locală, aprobate prin Ordinul viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, nr. 1.851/2013, republicat, cu modificările și completările ulterioare, și am respectat termenul prevăzut la art. 14 alin. (4) din normele metodologice menționate anterior, cu excepția sumelor aferente contribuției de la bugetul de stat decontate din bugetul local sau alte surse legal constituite, în condițiile normelor metodologice.
+Ordonator principal de credite,
+Președinte consiliu județean/Primar/Reprezentant legal beneficiar, după caz
+Numele și prenumele........................
+Semnătura.....................
+-----
