@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-12: documents published: Aviz comisie
 - 2019-06-19: documents published: Aviz comisie
 - 2019-06-20: documents published: Aviz comisie
+- 2019-10-21: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-19: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L266CA41.PDF
 - 2019-06-19: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L266CA8.PDF
 - 2019-06-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L266CA45.PDF
+- 2019-10-21: Document (AA): [aa-53cb4c09.md](aa-53cb4c09.md); official file https://www.senat.ro/legis/PDF/2019/19L266AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-10-21: Document (ARD): [ard-4bf1b60c.md](ard-4bf1b60c.md); official file https://www.senat.ro/legis/PDF/2019/19L266ARD.PDF (its day is not given by the bill file: shown from the last stage held)
