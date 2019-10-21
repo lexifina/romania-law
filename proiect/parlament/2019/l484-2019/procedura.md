@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-09-04: documents published: Aviz Consiliul Economic și Social
 - 2019-10-16: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2019-10-21: registered at the Chamber of Deputies
 
 ## Documents
 
