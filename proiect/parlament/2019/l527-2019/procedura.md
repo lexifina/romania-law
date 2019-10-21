@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2019-09-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-10-08: documents published: Aviz comisie
 - 2019-10-16: documents published: Raport comisie sesizată pe fond
+- 2019-10-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Guvernul României.
 - 2019-09-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527HG.PDF
 - 2019-10-08: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527CA1.PDF
 - 2019-10-16: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527CR.PDF
+- 2019-10-21: Forma adoptată de Senat (FS): [fs-676e3dfe.md](fs-676e3dfe.md); official file https://www.senat.ro/legis/PDF/2019/19L527FS.PDF
+- 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527AM.PDF
