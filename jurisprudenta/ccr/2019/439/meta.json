@@ -1,0 +1,220 @@
+{
+ "key": "dcc-439-2019",
+ "label": "Decizia CCR nr. 439/2019",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "439",
+ "date": "2019-07-10",
+ "year": "2019",
+ "heading": "DECIZIA nr. 439 din 10 iulie 2019",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru modificarea art. 109 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "852",
+  "bis": false,
+  "date": "2019-10-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.735A/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite obiecția de neconstituționalitate formulată și constată că articolul unic [cu referire la alin. (3) și (4) și la eliminarea fostului alineat (12)] din Legea pentru modificarea art. 109 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice este neconstituțional.",
+  "2. Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată și constată că articolul unic [cu referire la eliminarea fostului alineat (5)] din Legea pentru modificarea art. 109 din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice este constituțional în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": [
+      "6",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219035",
+  "text_sha256": "901628d9e961c58ea28ac86b62e096dad158ed37bdb9ed44902fc30f69f4f059",
+  "catalogue_sha256": "901628d9e961c58ea28ac86b62e096dad158ed37bdb9ed44902fc30f69f4f059",
+  "fetched": "2026-11-03T02:06:37Z",
+  "chars": 31382,
+  "portal_id": "219035",
+  "tip": "DECIZIE"
+ }
+}
