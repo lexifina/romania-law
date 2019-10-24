@@ -1,0 +1,11 @@
+# HCGMB nr. 551/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 551/2019
+- Adopted: 2019-10-24
+- Title: PRIVIND REORGANIZAREA UNIVERSITATII POPULARE "IOAN I.DALLES" CA INSTITUTIE PUBLICA DE INTERES LOCAL AL MUNICIPIULUI BUCURESTI, ORGANISM PRESTATOR DE SERVICII PUBLICE, MODIFICAREA DENUMIRII IN CENTRUL METROPOLITAN DE EDUCATIE SI CULTURA "IOAN I. DALLES" PRECUM SI APROBAREA ORGANIGRAMEI, NUMARULUI TOTAL DE POSTURI, STATULUI DE FUNCTII SI A REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE ALE ACESTUIA INCETEAZA APLICABILITATEA HCGMB NR. 444/2019 MODIFICA HCGMB NR. 304/2017
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40478
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40478/H551_19.pdf
+- Document sha256: 8eb25ff7e6533d56ad8d3ef5166d83c71c9df96586a1f91c6db3d58f43d300a2
