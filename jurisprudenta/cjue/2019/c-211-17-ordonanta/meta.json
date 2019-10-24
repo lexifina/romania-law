@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-211-17-ordonanta-2019-10-24",
+ "label": "CJUE, Ordonanța Curții (Camera întâi) din 24 octombrie 2019, Cauza C-211/17",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2019-10-24",
+ "year": "2019",
+ "case": "Cauza C-211/17",
+ "celex": "62017CO0211",
+ "ecli": "ECLI:EU:C:2019:906",
+ "heading": "Ordonanța Curții (Camera întâi) din 24 octombrie 2019",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bacău",
+   "date": "2016-11-24",
+   "national_file": "4274/110/2014"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bacău",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 99 din Regulamentul de procedură al Curții – Protecția consumatorilor – Directiva 93/13/CEE – Cauze abuzive în contractele încheiate cu consumatorii – Antecontract de vânzare‑cumpărare redactat de dezvoltatorul imobiliar și autentificat de un notar public – Articolul 3 alineatul (2) și articolul 4 alineatul (1) – Dovada caracterului negociat al clauzelor – Prezumție – Semnarea contractului de către consumator – Articolul 3 alineatul (3) – Punctul 1 literele (d)-(f) și (i) din anexă – Pact comisoriu de gradul IV – Clauză penală – Caracter abuziv – Articolele 6 și 7 – Posibilitatea instanței naționale de a modifica o clauză al cărei caracter abuziv a fost constatat",
+ "interprets": [
+  {
+   "celex": "31993L0093",
+   "folder": "ue/directiva/1993/93"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62017CO0211",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-211/17&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/145a10e2-feea-11e9-8c1f-01aa75ed71a1.0001.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "658511b68623b080eb7f8ad36a95f5e42d6d0013f29d9a717601e8ff4207f136"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "1) Articolul 3 alineatul (2) și articolul 4 alineatul (1) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretate în sensul că, în împrejurări precum cele în discuție în litigiul principal, simpla semnare a contractului încheiat de un consumator cu un profesionist, care prevede că, prin aceasta, consumatorul respectiv este de acord cu toate clauzele contractuale redactate în prealabil de acest profesionist, nu răstoarnă prezumția potrivit căreia aceste clauze nu au făcut obiectul unei negocieri individuale.",
+  "2) Articolul 3 alineatul (3) din Directiva 93/13 coroborat cu anexa la aceasta trebuie interpretat în sensul că un pact comisoriu de gradul IV și o clauză penală precum cele în discuție în litigiul principal, cuprinse într‑un contract încheiat de un consumator cu un profesionist, stabilite exclusiv în favoarea celui din urmă și redactate în prealabil de acesta, pot constitui clauze abuzive, menționate la punctul 1 literele (d)-(f) din anexa respectivă, aspect a cărui verificare revine instanței naționale.",
+  "3) Articolul 6 din Directiva 93/13 trebuie interpretat în sensul că, în condițiile în care un pact comisoriu de gradul IV și o clauză penală, cuprinse într‑un antecontract de vânzare‑cumpărare încheiat între un consumator și un profesionist, sunt considerate abuzive, instanța națională nu poate să remedieze nulitatea unor asemenea clauze abuzive prin înlocuirea acestora cu propria decizie, cu excepția cazului în care acest contract nu poate continua să existe în situația eliminării acestor clauze abuzive, iar anularea respectivului contract în ansamblul său l‑ar expune pe consumator unor consecințe deosebit de prejudiciabile."
+ ]
+}
