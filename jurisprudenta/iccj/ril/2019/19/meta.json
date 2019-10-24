@@ -1,0 +1,341 @@
+{
+ "key": "iccj-ril-19-2019",
+ "label": "Decizia ÎCCJ nr. 19/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2019-06-03",
+ "year": "2019",
+ "heading": "DECIZIA nr. 19 din 3 iunie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 268 alin. (1) lit. c) din Legea nr. 53/2003 privind Codul muncii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL COMPETENT SĂ JUDECE RECURSUL ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "860",
+  "bis": false,
+  "date": "2019-10-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "490/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2526",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Constanța și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 268 alin. (1) lit. c) din Legea nr. 53/2003 privind Codul muncii, republicată, cu modificările și completările ulterioare, raportat la art. 8 și 12 din Decretul nr. 167/1958 privitor la prescripția extinctivă, republicat, și a dispozițiilor art. 211 lit. c) din Legea dialogului social nr. 62/2011, republicată, cu modificările și completările ulterioare, respectiv a art. 2.526 din Codul civil, actul de control efectuat de Curtea de Conturi sau de un alt organ cu atribuții de control, prin care s-a stabilit în sarcina angajatorului obligația de a acționa pentru recuperarea unui prejudiciu produs de un salariat ori rezultat în urma plății către acesta a unei sume de bani necuvenite, nu marchează începutul termenului de prescripție extinctivă a acțiunii pentru angajarea răspunderii patrimoniale a salariatului.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "254",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "256",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2526",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 168/1957",
+    "number": "168",
+    "year": "1957",
+    "path": "decret/1957/168"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219079",
+  "text_sha256": "ef510f6fee092407383a9402eb9ebddd3dc23542ca4eecf0d4e09b5741b426fd",
+  "catalogue_sha256": "ef510f6fee092407383a9402eb9ebddd3dc23542ca4eecf0d4e09b5741b426fd",
+  "fetched": "2026-11-03T17:35:11Z",
+  "chars": 48933,
+  "portal_id": "219079",
+  "tip": "DECIZIE"
+ }
+}
