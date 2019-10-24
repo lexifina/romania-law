@@ -1,0 +1,11 @@
+# HCGMB nr. 596/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 596/2019
+- Adopted: 2019-10-24
+- Title: PENTRU MODIFICAREA ANEXEI NR. 3 DIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 567/23.08.2018 PRIVIND APROBAREA STRUCTURILOR ORGANIZATORICE ALE UNOR SPITALE AFLATE IN ADMINISTRAREA MUNICIPALITATII, PRIN ADMINISTRATIA SPITALELOR SI SERVICIILOR MEDICALE BUCURESTI, MODIFICATA PRIN ANEXA NR. 1 DIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 836/2018 ISI INCETEAZA APLICABILITATEA PRIN HCGMB NR. 250/2026
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40489
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40489/H596_19.pdf
+- Document sha256: 0c6e51c72da9c9fcfd53335387e773d981051211928a80e72d7562a2da8ecc13
