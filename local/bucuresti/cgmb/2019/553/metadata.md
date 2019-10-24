@@ -1,0 +1,11 @@
+# HCGMB nr. 553/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 553/2019
+- Adopted: 2019-10-24
+- Title: PRIVIND TRANSMITEREA DIN ADMINISTRAREA CONSILIULUI LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI PRIN ADMINISTRATIA DOMENIULUI PUBLIC AL SECTORULUI 2 IN ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI A IMOBILULUI - TEREN IDENTIFICAT CU NUMARUL CADASTRAL 233234 SITUAT IN SECTORUL 2 AL MUNICIPIULUI BUCURESTI NECESAR DESCARCARII APELOR PLUVIALE PRIN SOS. PETRICANI IN LACUL PLUMBUITA SI AMPLASARII SEPARATORULUI DE HIDROCARBURI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40401
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40401/H553_19.pdf
+- Document sha256: 8762fbe3ddb276835471b837a78655fd8ba4f924f3b4dac32217d154c6de7bbc
