@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-07: returned for re-examination
 - 2019-04-17: adopted by the Senate
 - 2019-04-24: adopted by the Chamber of Deputies
+- 2019-10-25: returned for re-examination
 
 ## Documents
 
