@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-15: adopted by the Chamber of Deputies
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-26: sent for promulgation
+- 2019-10-28: promulgated, becomes Legea nr. 193/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-07: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014CA12.PDF
 - 2019-10-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014AXS.PDF
 - 2019-10-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014LP.PDF
+- 2019-10-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014DP.PDF
+- 2019-10-28: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014AFP.PDF
+- 2019-10-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L014FP.PDF
