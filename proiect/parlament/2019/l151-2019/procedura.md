@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-09: sent for promulgation
 - 2019-10-25: promulgated, becomes Legea nr. 192/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-10-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151DP.PDF
 - 2019-10-25: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151AFP.PDF
 - 2019-10-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151FP.PDF
+- 2019-10-28: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L151SC.PDF (its day is not given by the bill file: shown from the last stage held)
