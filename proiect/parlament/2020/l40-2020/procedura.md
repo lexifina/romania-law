@@ -1,0 +1,17 @@
+# Propunere legislativă L40/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind aplicarea în perioada 2019-2020 a unor măsuri de protecție socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibizare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2019-10-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2019-10-30: Adresă de înaintare a inițiativei (AD): [ad-29070cd0.md](ad-29070cd0.md); official file https://www.senat.ro/legis/PDF/2020/20L040AD.PDF
+- 2019-10-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L040FG.PDF
+- 2019-10-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L040EM.PDF
