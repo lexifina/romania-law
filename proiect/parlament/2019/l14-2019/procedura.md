@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-26: sent for promulgation
 - 2019-10-28: promulgated, becomes Legea nr. 193/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-10-30: published in the Monitorul Oficial
 
 ## Documents
 
