@@ -1,0 +1,271 @@
+{
+ "key": "dcc-534-2019",
+ "label": "Decizia CCR nr. 534/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "534",
+ "date": "2019-09-24",
+ "year": "2019",
+ "heading": "DECIZIA nr. 534 din 24 septembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 35 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "875",
+  "bis": false,
+  "date": "2019-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "6/81/2017",
+  "1.123D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 35 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare, excepție ridicată, din oficiu, de Curtea Militară de Apel București în Dosarul nr. 6/81/2017 al acestei instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții Militare de Apel București și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 384/2006",
+    "number": "384",
+    "year": "2006",
+    "path": "lege/2006/384"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2004",
+    "number": "550",
+    "year": "2004",
+    "path": "lege/2004/550"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219408",
+  "text_sha256": "a1003d003e41f8d761281ab5c9a58e093b0f50b95149ec8ba245241584eee8ff",
+  "catalogue_sha256": "a1003d003e41f8d761281ab5c9a58e093b0f50b95149ec8ba245241584eee8ff",
+  "fetched": "2026-11-03T02:06:24Z",
+  "chars": 16218,
+  "portal_id": "219408",
+  "tip": "DECIZIE"
+ }
+}
