@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-10-28: registered at the Chamber of Deputies
 - 2019-10-29: adopted by the Chamber of Deputies; sent for promulgation; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-10-31: promulgated, becomes Legea nr. 197/2019; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477AM.PDF
 - 2019-10-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477AXS.PDF
 - 2019-10-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477LP.PDF
+- 2019-10-31: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-10-31: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-10-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477DP.PDF
+- 2019-10-31: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477AFP.PDF
+- 2019-10-31: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L477FP.PDF
