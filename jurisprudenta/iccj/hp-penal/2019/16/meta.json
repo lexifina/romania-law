@@ -1,0 +1,360 @@
+{
+ "key": "iccj-hp-penal-16-2019",
+ "label": "Decizia ÎCCJ nr. 16/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "16",
+ "date": "2019-09-24",
+ "year": "2019",
+ "heading": "DECIZIA nr. 16 din 24 septembrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Dacă serviciul de probațiune face parte din categoria subiecților procesuali la care hotărârea atacată se referă, în sensul art. 425^1 alin. (2) din Codul de procedură penală raportat la art. 34 din Codul de procedură penală, cu aplicarea art. 29 din Codul de procedură penală care definesc noțiunea de subiect procesual și respectiv de participant la procesul penal.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "879",
+  "bis": false,
+  "date": "2019-11-01",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.449/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "425-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "583",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova, Secția penală și pentru cauze cu minori, în Dosarul nr. 2.615/101/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă serviciul de probațiune face parte din categoria subiecților procesuali la care hotărârea atacată se referă, în sensul art. 425^1 alin. (2) din Codul de procedură penală raportat la art. 34 din Codul de procedură penală, cu aplicarea art. 29 din Codul de procedură penală care definesc noțiunea de subiect procesual și respectiv de participant la procesul penal.“",
+  "Stabilește că în cadrul procedurii de revocare a suspendării executării pedepsei sub supraveghere, prevăzută de art. 583 din Codul de procedură penală, serviciul de probațiune este un subiect procesual la care hotărârea atacată se referă, în accepțiunea art. 425^1 alin. (2) teza I din Codul de procedură penală raportat la art. 34 teza finală din același cod.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "425-1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "583",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "404",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "582",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "588",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 114
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 252/2013",
+    "number": "252",
+    "year": "2013",
+    "path": "lege/2013/252"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "5",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 253/2013",
+    "number": "253",
+    "year": "2013",
+    "path": "lege/2013/253"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-11-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219432",
+  "text_sha256": "dfa313012eec54fd0120bf084b413a4e3f5502264ab94f27effd939a61ec7305",
+  "catalogue_sha256": "dfa313012eec54fd0120bf084b413a4e3f5502264ab94f27effd939a61ec7305",
+  "fetched": "2026-11-03T02:06:21Z",
+  "chars": 86393,
+  "portal_id": "219432",
+  "tip": "DECIZIE"
+ }
+}
