@@ -1,0 +1,421 @@
+{
+ "key": "dcc-505-2019",
+ "label": "Decizia CCR nr. 505/2019",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "505",
+ "date": "2019-09-18",
+ "year": "2019",
+ "heading": "DECIZIA nr. 505 din 18 septembrie 2019",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. I pct. 28 din Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 83/2016 privind unele măsuri de eficientizare a implementării proiectelor de infrastructură de transport, unele măsuri în domeniul transporturilor, precum și pentru modificarea și completarea unor acte normative, precum și a legii în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "890",
+  "bis": false,
+  "date": "2019-11-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.990A/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 83/2016",
+    "number": "83",
+    "year": "2016",
+    "path": "lege/2016/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată și constată că dispozițiile art. I pct. 28 din Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 83/2016 privind unele măsuri de eficientizare a implementării proiectelor de infrastructură de transport, unele măsuri în domeniul transporturilor, precum și pentru modificarea și completarea unor acte normative, precum și legea în ansamblul său sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 83/2016",
+    "number": "83",
+    "year": "2016",
+    "path": "lege/2016/83"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 455/2014",
+    "number": "455",
+    "year": "2014",
+    "path": "hg/2014/455"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1.112/2014",
+    "number": "1112",
+    "year": "2014",
+    "path": "hg/2014/1112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2016",
+    "number": "83",
+    "year": "2016",
+    "path": "oug/2016/83"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2016",
+    "number": "202",
+    "year": "2016",
+    "path": "lege/2016/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 581/1998",
+    "number": "581",
+    "year": "1998",
+    "path": "hg/1998/581"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.476/2009",
+    "number": "1476",
+    "year": "2009",
+    "path": "hg/2009/1476"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.696/2006",
+    "number": "1696",
+    "year": "2006",
+    "path": "hg/2006/1696"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 62/2016",
+    "number": "62",
+    "year": "2016",
+    "path": "oug/2016/62"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 2.408/2004",
+    "number": "2408",
+    "year": "2004",
+    "path": "hg/2004/2408"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 231/2016",
+    "number": "231",
+    "year": "2016",
+    "path": "hg/2016/231"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 86/2016",
+    "number": "86",
+    "year": "2016",
+    "path": "lege/2016/86"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2019-11-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219475",
+  "text_sha256": "e351141108904dccb6686eec140fa3bb0c82e3ba008cb82fd9122815aab07c02",
+  "catalogue_sha256": "e351141108904dccb6686eec140fa3bb0c82e3ba008cb82fd9122815aab07c02",
+  "fetched": "2026-11-03T02:06:19Z",
+  "chars": 56734,
+  "portal_id": "219475",
+  "tip": "DECIZIE"
+ }
+}
