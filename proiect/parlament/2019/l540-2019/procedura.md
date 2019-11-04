@@ -12,9 +12,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-09-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei
 - 2019-09-11: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+- 2019-11-04: documents published: Aviz comisie
 
 ## Documents
 
 - 2019-09-04: Adresă de înaintare a inițiativei (AD): [ad-af8ae22a.md](ad-af8ae22a.md); official file https://www.senat.ro/legis/PDF/2019/19L540AD.PDF
 - 2019-09-11: Aviz Consiliul Legislativ (LG): [lg-8ac560a5.md](lg-8ac560a5.md); official file https://www.senat.ro/legis/PDF/2019/19L540LG.PDF
 - 2019-09-11: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L540ES.PDF
+- 2019-11-04: Aviz comisie (CA16): [ca16-41666b78.md](ca16-41666b78.md); official file https://www.senat.ro/legis/PDF/2019/19L540CA16.PDF
