@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-10-22: adopted by the Chamber of Deputies
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-07: promulgated, becomes Legea nr. 204/2019; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2019-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332AM.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332LP.PDF
+- 2019-11-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332DP.PDF
+- 2019-11-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332AFP.PDF
+- 2019-11-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L332FP.PDF
