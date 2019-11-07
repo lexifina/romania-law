@@ -1,0 +1,13 @@
+# Anexa nr. 21 (la instrucțiuni)
+- MODEL -
+ROMÂNIA
+MINISTERUL APĂRĂRII NAȚIONALE
+- denumirea structurii militare -
+Nr..... din.....
+AVIZ
+Nr..... din......
+Se avizează documentația cu caracter tehnic de informare și instruire în domeniul securității și sănătății în muncă, înregistrată la unitatea noastră cu numărul..... din data de......, cu următoarele elemente de identificare:
+Tipul documentației............
+Titlul documentației............
+Titularul avizului:............ 2
+ȘEFUL U.M....................1 1 Corpul de control și inspecție. 2 Unitatea militară care a solicitat avizul.

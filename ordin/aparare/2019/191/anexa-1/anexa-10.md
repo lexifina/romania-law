@@ -1,0 +1,38 @@
+# Anexa nr. 10 (la instrucțiuni)
+- MODEL -
+REGISTRUL UNIC DE EVIDENTĂ
+A ACCIDENTAȚILOR ÎN MUNCĂ ÎN UNITATEA MILITARĂ.......
+Nr. crt.
+NUMELE ȘI PRENUMELE ACCIDENTAȚILOR
+A
+B
+C
+D
+E
+F
+DATA/ORA ACCIDENTĂRII PRIN:
+KTP
+DATA TERMINĂRII ITM PRIN:
+KTP
+G
+H
+INVALIDITATE
+I
+J
+G
+J
+L
+KTP 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Semnificația coloanelor din tabel este următoarea: A. DATE PERSONALE vârstă; stare civilă; ocupație; vechime în ocupație; vechime la locul de muncă.
+B - LOCUL DE MUNCĂ AL VICTIMEI (secție, atelier, subunitate.)
+C - LOCUL UNDE S-A PRODUS ACCIDENTUL
+D - ACTIVITATEA CARE A PRODUS ACCIDENTUL
+E - ÎMPREJURĂRI ȘI CAUZE ALE ACCIDENTĂRII
+F - EFECTE ASUPRA ORGANISMULUI
+G - NR. DE ZILE ITM (calendaristice)
+H-OBS.
+I - RELUARE ACTIVITATE
+J - DECES
+K - DATA COMUNICĂRII LA EȘALONUL SUPERIOR T: Transmis
+P: Primit (numele persoanei)
+L - NR./ DATA DECIZIEI/ GRAD INV.
