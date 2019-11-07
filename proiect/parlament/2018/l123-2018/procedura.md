@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-10-15: adopted by the Chamber of Deputies
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-23: sent for promulgation
+- 2019-11-07: promulgated, becomes Legea nr. 203/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2018-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123AM.PDF
 - 2019-10-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123AXS.PDF
 - 2019-10-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123LP.PDF
+- 2019-11-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123DP.PDF
+- 2019-11-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123AFP.PDF
+- 2019-11-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L123FP.PDF
