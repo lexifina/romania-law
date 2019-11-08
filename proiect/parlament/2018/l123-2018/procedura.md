@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-23: sent for promulgation
 - 2019-11-07: promulgated, becomes Legea nr. 203/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-08: published in the Monitorul Oficial
 
 ## Documents
 
