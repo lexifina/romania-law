@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-10-15: adopted by the Chamber of Deputies
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-23: sent for promulgation
+- 2019-11-08: promulgated, becomes Legea nr. 209/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2019-06-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187AM.PDF
 - 2019-10-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187AXS.PDF
 - 2019-10-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187LP.PDF
+- 2019-11-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187DP.PDF
+- 2019-11-08: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187AFP.PDF
+- 2019-11-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L187FP.PDF
