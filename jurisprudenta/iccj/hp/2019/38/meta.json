@@ -1,0 +1,220 @@
+{
+ "key": "iccj-hp-38-2019",
+ "label": "Decizia ÎCCJ nr. 38/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "38",
+ "date": "2019-09-23",
+ "year": "2019",
+ "heading": "DECIZIA nr. 38 din 23 septembrie 2019",
+ "subtitle": "privind interpretarea dispozițiilor art. 61^1 alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "902",
+  "bis": false,
+  "date": "2019-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.794/1/2019",
+  "331/33/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "61-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, în Dosarul nr. 331/33/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Care este interpretarea care trebuie să se dea noțiunilor de «valoare estimată a contractului», respectiv «valoare stabilită a contractului», în sensul dispozițiilor art. 61^1 alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "61-1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [
+    {
+     "art": "61-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "lege/2016/99"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 100/2016",
+    "number": "100",
+    "year": "2016",
+    "path": "lege/2016/100"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 45/2018",
+    "number": "45",
+    "year": "2018",
+    "path": "oug/2018/45"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219599",
+  "text_sha256": "f1cfe067769a7136c6c7e23cd3baf22efe787f1f32dccda0ece7ad70eac7f67b",
+  "catalogue_sha256": "f1cfe067769a7136c6c7e23cd3baf22efe787f1f32dccda0ece7ad70eac7f67b",
+  "fetched": "2026-11-03T02:06:06Z",
+  "chars": 36783,
+  "portal_id": "219599",
+  "tip": "DECIZIE"
+ }
+}
