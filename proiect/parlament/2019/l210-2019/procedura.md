@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-15: adopted by the Chamber of Deputies
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-26: sent for promulgation
+- 2019-11-11: promulgated, becomes Legea nr. 212/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L210AM.PDF
 - 2019-10-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L210AXS.PDF
 - 2019-10-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L210LP.PDF
+- 2019-11-11: Decret de promulgare (DP): [dp-1d21ea4b.md](dp-1d21ea4b.md); official file https://www.senat.ro/legis/PDF/2019/19L210DP.PDF
+- 2019-11-11: Adresă privind forma promulgată (AFP): [afp-95cbd77d.md](afp-95cbd77d.md); official file https://www.senat.ro/legis/PDF/2019/19L210AFP.PDF
+- 2019-11-11: Forma promulgată (FP): [fp-1079b333.md](fp-1079b333.md); official file https://www.senat.ro/legis/PDF/2019/19L210FP.PDF
