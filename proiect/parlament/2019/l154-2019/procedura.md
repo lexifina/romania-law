@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-10-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-10-23: sent for promulgation
 - 2019-11-08: promulgated, becomes Legea nr. 208/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-11: published in the Monitorul Oficial
 
 ## Documents
 
