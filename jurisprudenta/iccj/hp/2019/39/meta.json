@@ -1,0 +1,231 @@
+{
+ "key": "iccj-hp-39-2019",
+ "label": "Decizia ÎCCJ nr. 39/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "39",
+ "date": "2019-09-23",
+ "year": "2019",
+ "heading": "DECIZIA nr. 39 din 23 septembrie 2019",
+ "subtitle": "referitoare la sesizarea formulată privind pronunțarea unei hotărâri prealabile în ceea ce privește raportarea la art. 7 din Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "909",
+  "bis": false,
+  "date": "2019-11-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.812/1/2019",
+  "33.478/245/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 105/2001",
+    "number": "105",
+    "year": "2001",
+    "path": "oug/2001/105"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Iași - Secția a II-a civilă - contencios administrativ și fiscal, în Dosarul nr. 33.478/245/2017, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Dacă, raportat la art. 7 din Ordonanța de urgență a Guvernului nr. 194/2002 privind regimul străinilor în România, republicată, cu modificările și completările ulterioare, compania aeriană are sau nu obligația de a efectua controlul pașapoartelor și al celorlalte documente sau vize, sau sancțiunea prevăzută de dispoziția legală intervine numai în situația în care îmbarcă pasagerii care nu sunt în posesia documentelor de călătorie necesare pentru intrarea pe teritoriile părților contractante după ce autoritățile de la frontieră au constatat lipsa documentelor de trecere a frontierei sau falsul/falsificarea acestora;",
+  "Dacă, prin raportare la dispozițiile Convenției de aplicare a Acordului de la Schengen din 14 iunie 1985 privind eliminarea graduală a controalelor la frontierele comune, din 19 iunie 1990, și la dispozițiile art. 18 alin. (1) din Ordonanța de urgență a Guvernului nr. 105/2001 privind frontiera de stat a României, aprobată cu modificări prin Legea nr. 243/2002, cu modificările și completările ulterioare, controlul pașapoartelor și al celorlalte documente pentru trecerea frontierei de stat române, eliberate de autoritățile române, precum și al celor eliberate de autoritățile străine, recunoscute sau acceptate de statul român, potrivit legii, se face numai de către polițistul de frontieră sau și de către companiile de transport aeriene",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 105/2001",
+    "number": "105",
+    "year": "2001",
+    "path": "oug/2001/105"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 104/2001",
+    "number": "104",
+    "year": "2001",
+    "path": "oug/2001/104"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219695",
+  "text_sha256": "1271ec7114d3b400eb48da1c6209f1d3f242e19c7b55f8af9c3a07d27a3326ce",
+  "catalogue_sha256": "1271ec7114d3b400eb48da1c6209f1d3f242e19c7b55f8af9c3a07d27a3326ce",
+  "fetched": "2026-11-03T02:06:04Z",
+  "chars": 48724,
+  "portal_id": "219695",
+  "tip": "DECIZIE"
+ }
+}
