@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-09-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-09-17: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2019-11-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-10: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L544EM.PDF
 - 2019-09-17: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L544ES.PDF
 - 2019-09-17: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L544LG.PDF
+- 2019-11-13: Raport comisie sesizată pe fond (CR): [cr-06b2d099.md](cr-06b2d099.md); official file https://www.senat.ro/legis/PDF/2019/19L544CR.PDF
