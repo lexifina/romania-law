@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-05: sent for promulgation
 - 2019-11-14: promulgated, becomes Legea nr. 219/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-14: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L324DP.PDF
 - 2019-11-14: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L324AFP.PDF
 - 2019-11-14: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L324FP.PDF
+- 2019-11-15: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L324SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-11-15: Document (DC): [dc-4480be48.md](dc-4480be48.md); official file https://www.senat.ro/legis/PDF/2019/19L324DC.PDF (its day is not given by the bill file: shown from the last stage held)
