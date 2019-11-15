@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-01: registered at the Chamber of Deputies
 - 2019-07-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-07-05: sent for promulgation
+- 2019-11-15: promulgated, becomes Legea nr. 220/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-27: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323CA41.PDF
 - 2019-07-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323AXS.PDF
 - 2019-07-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323LP.PDF
+- 2019-11-15: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323DP.PDF
+- 2019-11-15: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323AFP.PDF
+- 2019-11-15: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L323FP.PDF
