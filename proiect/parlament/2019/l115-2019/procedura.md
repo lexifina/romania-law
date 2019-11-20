@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-10-22: adopted by the Chamber of Deputies
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-20: promulgated, becomes Legea nr. 223/2019; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2019-03-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L115AM.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L115AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L115LP.PDF
+- 2019-11-20: Decret de promulgare (DP): [dp-4dbbbb93.md](dp-4dbbbb93.md); official file https://www.senat.ro/legis/PDF/2019/19L115DP.PDF
+- 2019-11-20: Adresă privind forma promulgată (AFP): [afp-5b0dbf4b.md](afp-5b0dbf4b.md); official file https://www.senat.ro/legis/PDF/2019/19L115AFP.PDF
+- 2019-11-20: Forma promulgată (FP): [fp-cb7990fc.md](fp-cb7990fc.md); official file https://www.senat.ro/legis/PDF/2019/19L115FP.PDF
