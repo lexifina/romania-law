@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-10-01: registered at the Chamber of Deputies
 - 2019-10-29: adopted by the Chamber of Deputies; sent for promulgation; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-19: promulgated, becomes Legea nr. 222/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-20: published in the Monitorul Oficial
 
 ## Documents
 
