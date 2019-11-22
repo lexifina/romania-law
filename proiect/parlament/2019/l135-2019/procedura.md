@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-10-22: adopted by the Chamber of Deputies
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-22: promulgated, becomes Legea nr. 226/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2019-04-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135AM.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L135LP.PDF
+- 2019-11-22: Decret de promulgare (DP): [dp-ab64dd1a.md](dp-ab64dd1a.md); official file https://www.senat.ro/legis/PDF/2019/19L135DP.PDF
+- 2019-11-22: Adresă privind forma promulgată (AFP): [afp-c1f6f461.md](afp-c1f6f461.md); official file https://www.senat.ro/legis/PDF/2019/19L135AFP.PDF
+- 2019-11-22: Forma promulgată (FP): [fp-3c714056.md](fp-3c714056.md); official file https://www.senat.ro/legis/PDF/2019/19L135FP.PDF
