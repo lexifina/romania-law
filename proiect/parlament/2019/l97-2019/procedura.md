@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-10-22: adopted by the Chamber of Deputies
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-22: promulgated, becomes Legea nr. 224/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2019-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L097AM.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L097AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L097LP.PDF
+- 2019-11-22: Decret de promulgare (DP): [dp-6ca1f3a0.md](dp-6ca1f3a0.md); official file https://www.senat.ro/legis/PDF/2019/19L097DP.PDF
+- 2019-11-22: Adresă privind forma promulgată (AFP): [afp-6b348d5b.md](afp-6b348d5b.md); official file https://www.senat.ro/legis/PDF/2019/19L097AFP.PDF
+- 2019-11-22: Forma promulgată (FP): [fp-f54a01f1.md](fp-f54a01f1.md); official file https://www.senat.ro/legis/PDF/2019/19L097FP.PDF
