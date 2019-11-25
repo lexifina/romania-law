@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-10-22: adopted by the Chamber of Deputies
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-25: promulgated, becomes Legea nr. 227/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2019-04-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132AM.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L132LP.PDF
+- 2019-11-25: Decret de promulgare (DP): [dp-0d5bba1a.md](dp-0d5bba1a.md); official file https://www.senat.ro/legis/PDF/2019/19L132DP.PDF
+- 2019-11-25: Adresă privind forma promulgată (AFP): [afp-44707885.md](afp-44707885.md); official file https://www.senat.ro/legis/PDF/2019/19L132AFP.PDF
+- 2019-11-25: Forma promulgată (FP): [fp-1ca6fbe9.md](fp-1ca6fbe9.md); official file https://www.senat.ro/legis/PDF/2019/19L132FP.PDF
