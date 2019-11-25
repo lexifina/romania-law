@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-10-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
+- 2019-11-25: promulgated, becomes Legea nr. 230/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Forma adoptată de Senat (FS): [fs-98013310.md](fs-98013310.md); official file https://www.senat.ro/legis/PDF/2019/19L231FS.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L231AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L231LP.PDF
+- 2019-11-25: Decret de promulgare (DP): [dp-b83d366b.md](dp-b83d366b.md); official file https://www.senat.ro/legis/PDF/2019/19L231DP.PDF
+- 2019-11-25: Adresă privind forma promulgată (AFP): [afp-393717cc.md](afp-393717cc.md); official file https://www.senat.ro/legis/PDF/2019/19L231AFP.PDF
+- 2019-11-25: Forma promulgată (FP): [fp-5d08dee5.md](fp-5d08dee5.md); official file https://www.senat.ro/legis/PDF/2019/19L231FP.PDF
