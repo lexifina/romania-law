@@ -1,0 +1,376 @@
+{
+ "key": "iccj-hp-37-2019",
+ "label": "Decizia ÎCCJ nr. 37/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "37",
+ "date": "2019-09-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 37 din 16 septembrie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 29 alin. (2) și art. 29 alin. (3^1) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole și celor forestiere",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "941",
+  "bis": false,
+  "date": "2019-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "609/1/2019",
+  "5.049/285/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2",
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția I civilă, în Dosarul nr. 5.049/285/2017, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Interpretarea și aplicarea prevederilor art. 29 alin. (2) din Legea nr. 1/2000 pentru reconstituirea dreptului de proprietate asupra terenurilor agricole și celor forestiere, solicitate potrivit prevederilor Legii fondului funciar nr. 18/1991 și ale Legii nr. 169/1997, văzând că dovada dreptului de proprietate pentru reconstituire se face conform prevederilor art. 6 alin. (1) din Legea nr. 1/2000, dacă îndreptățirea la reconstituire poate rezulta, din perspectiva prevederilor art. 1 din Primul Protocol adițional la Convenția pentru apărarea drepturilor omului și a libertăților fundamentale și din aplicarea principiului bunei-credințe, văzând culpa comisiilor de fond funciar cu ocazia emiterii titlului de proprietate și trecerea a 13 ani de la emiterea titlului de proprietate până la formularea acțiunii de constatare a nulității absolute a acestuia. Se are în vedere, pe de altă parte, eventuala culpă a petentei raportat la prevederile art. 12 alin. (3) din Regulamentul privind procedura de constituire, atribuțiile și funcționarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului și modului de atribuire a titlurilor de proprietate, precum și punerea în posesie a proprietarilor, aprobat prin Hotărârea Guvernului nr. 131/1991, care nu a depus niciun act doveditor conform documentațiilor înaintate de comisiile de fond funciar, faptul că este vorba de terenuri cu vegetație forestieră, ce constituie bunuri de interes național conform prevederilor art. 4 alin. (1) din Legea nr. 26/1996 - Codul silvic, cu modificările și completările ulterioare, că petenta a folosit și exploatat terenul cu vegetație forestieră 13 ani până în prezent, văzând că prin acțiunea dedusă judecății se invocă un motiv de nulitate absolută a titlului de proprietate.",
+  "2. Interpretarea și aplicarea prevederilor art. 29 alin. (3^1) din Legea nr. 1/2000, în sensul dacă aceste prevederi se raportează la suprafața de teren cu vegetație forestieră ce a aparținut în proprietatea, înzestrarea, folosința sau administrarea unităților de cult, ca subiecte de drept individuale care au solicitat reconstituirea dreptului de proprietate, sau la terenul ce a aparținut, în aceleași modalități, cultului religios din care acestea fac parte.",
+  "3. Interpretarea și aplicarea prevederilor art. 29 alin. (2) din Legea nr. 1/2000, respectiv dacă este îndreptățit la reconstituirea dreptului de proprietate atât fostul proprietar, cât și titularul unui drept de folosință considerat «proprietar util».",
+  "4. Interpretarea și aplicarea prevederilor art. 29 alin. (3^1) din Legea nr. 1/2000, respectiv dacă aceste prevederi se aplică «automat» și cererilor de reconstituire formulate anterior intrării în vigoare a acestor prevederi, văzând că hotărârea de reconstituire a dreptului de proprietate a comisiei județene de fond funciar a fost emisă după intrarea în vigoare a acestor dispoziții legale.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2",
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1010",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "303",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 400/2002",
+    "number": "400",
+    "year": "2002",
+    "path": "lege/2002/400"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 adițional la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/219976",
+  "text_sha256": "435a2f3996dacb2180c8b93e841f7de46fd5e4573c0d9852996c0b85b5d48687",
+  "catalogue_sha256": "435a2f3996dacb2180c8b93e841f7de46fd5e4573c0d9852996c0b85b5d48687",
+  "fetched": "2026-11-03T02:05:45Z",
+  "chars": 76690,
+  "portal_id": "219976",
+  "tip": "DECIZIE"
+ }
+}
