@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-06: sent for promulgation
 - 2019-11-25: promulgated, becomes Legea nr. 227/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-26: published in the Monitorul Oficial
 
 ## Documents
 
