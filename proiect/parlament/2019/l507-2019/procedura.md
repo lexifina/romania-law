@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-01: documents published: Aviz comisie
 - 2019-10-02: documents published: Aviz comisie
 - 2019-10-04: documents published: Aviz comisie
+- 2019-11-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-01: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L507CA3.PDF
 - 2019-10-02: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L507CA12.PDF
 - 2019-10-04: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L507CA45.PDF
+- 2019-11-26: Forma adoptată de Senat (FS): [fs-fa4c8dbe.md](fs-fa4c8dbe.md); official file https://www.senat.ro/legis/PDF/2019/19L507FS.PDF
+- 2019-11-26: Adresă către Camera Deputaților (AM): [am-5e25193b.md](am-5e25193b.md); official file https://www.senat.ro/legis/PDF/2019/19L507AM.PDF
