@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-10-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-09: sent for promulgation
+- 2019-11-27: promulgated, becomes Legea nr. 232/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Forma adoptată de Senat (FS): [fs-e9450bc9.md](fs-e9450bc9.md); official file https://www.senat.ro/legis/PDF/2019/19L518FS.PDF
 - 2019-11-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518AXS.PDF
 - 2019-11-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518LP.PDF
+- 2019-11-27: Decret de promulgare (DP): [dp-19f36b50.md](dp-19f36b50.md); official file https://www.senat.ro/legis/PDF/2019/19L518DP.PDF
+- 2019-11-27: Adresă privind forma promulgată (AFP): [afp-65591bf2.md](afp-65591bf2.md); official file https://www.senat.ro/legis/PDF/2019/19L518AFP.PDF
+- 2019-11-27: Forma promulgată (FP): [fp-a0ec5565.md](fp-a0ec5565.md); official file https://www.senat.ro/legis/PDF/2019/19L518FP.PDF
