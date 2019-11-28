@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-09: sent for promulgation
 - 2019-11-27: promulgated, becomes Legea nr. 231/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-28: published in the Monitorul Oficial
 
 ## Documents
 
