@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-09: sent for promulgation
 - 2019-11-27: promulgated, becomes Legea nr. 233/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-11-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2019-11-27: Decret de promulgare (DP): [dp-2e3e2ccf.md](dp-2e3e2ccf.md); official file https://www.senat.ro/legis/PDF/2019/19L144DP.PDF
 - 2019-11-27: Adresă privind forma promulgată (AFP): [afp-e20f628a.md](afp-e20f628a.md); official file https://www.senat.ro/legis/PDF/2019/19L144AFP.PDF
 - 2019-11-27: Forma promulgată (FP): [fp-ed755417.md](fp-ed755417.md); official file https://www.senat.ro/legis/PDF/2019/19L144FP.PDF
+- 2019-11-28: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L144AL.PDF (its day is not given by the bill file: shown from the last stage held)
