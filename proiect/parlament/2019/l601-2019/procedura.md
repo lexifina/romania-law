@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-04: registered at the Senate
 - 2019-09-18: registered at the Chamber of Deputies
 - 2019-11-27: adopted by the Chamber of Deputies
+- 2019-11-29: registered at the Senate
 
 ## Documents
 
