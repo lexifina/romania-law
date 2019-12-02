@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-12: documents published: Aviz comisie
 - 2019-06-20: documents published: Aviz comisie
 - 2019-11-26: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-12: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L267CA8.PDF
 - 2019-06-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L267CA45.PDF
 - 2019-11-26: Forma adoptată de Senat (FS): [fs-0799e5b0.md](fs-0799e5b0.md); official file https://www.senat.ro/legis/PDF/2019/19L267FS.PDF
+- 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-3b624560.md](axs-3b624560.md); official file https://www.senat.ro/legis/PDF/2019/19L267AXS.PDF
+- 2019-12-02: Forma trimisă la promulgare (LP): [lp-1f4256ab.md](lp-1f4256ab.md); official file https://www.senat.ro/legis/PDF/2019/19L267LP.PDF
