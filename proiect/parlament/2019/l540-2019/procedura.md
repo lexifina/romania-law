@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-11: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2019-11-04: documents published: Aviz comisie
 - 2019-11-26: documents published: Raport comisie sesizată pe fond
+- 2019-12-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-11: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L540ES.PDF
 - 2019-11-04: Aviz comisie (CA16): [ca16-41666b78.md](ca16-41666b78.md); official file https://www.senat.ro/legis/PDF/2019/19L540CA16.PDF
 - 2019-11-26: Raport comisie sesizată pe fond (CR): [cr-ce8abbbb.md](cr-ce8abbbb.md); official file https://www.senat.ro/legis/PDF/2019/19L540CR.PDF
+- 2019-12-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L540FS.PDF
+- 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L540AM.PDF
