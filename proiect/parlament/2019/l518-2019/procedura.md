@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2019-11-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-11-09: sent for promulgation
 - 2019-11-27: promulgated, becomes Legea nr. 232/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,7 @@ Initiator: Guvernul României.
 - 2019-11-27: Decret de promulgare (DP): [dp-19f36b50.md](dp-19f36b50.md); official file https://www.senat.ro/legis/PDF/2019/19L518DP.PDF
 - 2019-11-27: Adresă privind forma promulgată (AFP): [afp-65591bf2.md](afp-65591bf2.md); official file https://www.senat.ro/legis/PDF/2019/19L518AFP.PDF
 - 2019-11-27: Forma promulgată (FP): [fp-a0ec5565.md](fp-a0ec5565.md); official file https://www.senat.ro/legis/PDF/2019/19L518FP.PDF
+- 2019-12-04: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-04: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L518TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-04: Document (AL): [al-87a31abe.md](al-87a31abe.md); official file https://www.senat.ro/legis/PDF/2019/19L518AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-04: Document (TC): [tc-09cfef3d.md](tc-09cfef3d.md); official file https://www.senat.ro/legis/PDF/2019/19L518TC.PDF (its day is not given by the bill file: shown from the last stage held)
