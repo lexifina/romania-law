@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2019-11-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-11-27: documents published: Aviz comisie
 - 2019-12-03: documents published: Aviz comisie
+- 2019-12-04: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Guvernul României.
 - 2019-11-19: Document (HG): [hg-76d17323.md](hg-76d17323.md); official file https://www.senat.ro/legis/PDF/2019/19L588HG.PDF
 - 2019-11-27: Aviz comisie (CA14): [ca14-7108f5e0.md](ca14-7108f5e0.md); official file https://www.senat.ro/legis/PDF/2019/19L588CA14.PDF
 - 2019-12-03: Aviz comisie (CA45): [ca45-c397db59.md](ca45-c397db59.md); official file https://www.senat.ro/legis/PDF/2019/19L588CA45.PDF
+- 2019-12-04: Aviz comisie (CA12): [ca12-91c51247.md](ca12-91c51247.md); official file https://www.senat.ro/legis/PDF/2019/19L588CA12.PDF
+- 2019-12-04: Aviz comisie (CA8): [ca8-3df7d7cb.md](ca8-3df7d7cb.md); official file https://www.senat.ro/legis/PDF/2019/19L588CA8.PDF
