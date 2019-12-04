@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: documents published: Raport comisie sesizată pe fond
 - 2019-11-28: documents published: Aviz comisie
 - 2019-12-02: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2019-12-04: registered at the Chamber of Deputies
 
 ## Documents
 
