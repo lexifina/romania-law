@@ -1,0 +1,332 @@
+{
+ "key": "iccj-hp-penal-21-2019",
+ "label": "Decizia ÎCCJ nr. 21/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "21",
+ "date": "2019-10-29",
+ "year": "2019",
+ "heading": "DECIZIA nr. 21 din 29 octombrie 2019",
+ "subtitle": "referitoare la interpretarea art. 1 alin. (2) raportat la art. 10 alin. (2), art. 102 alin. (2) și (3) și art. 281 alin. (2) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "981",
+  "bis": false,
+  "date": "2019-12-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.041/1/2019",
+  "2.341/102/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală și pentru cauze penale cu minori și de familie, în Dosarul nr. 2.341/102/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „În interpretarea art. 1 alin. (2) raportat la art. 10 alin. (2), art. 102 alin. (2) și (3) și art. 281 alin. (2) din Codul de procedură penală, în situația în care este invocată nulitatea absolută cu consecința excluderii unor mijloace de probă, este respectat dreptul la un proces echitabil dacă instanța se pronunță asupra nulității printr-o hotărâre separată (încheiere), anterioară celei prin care soluționează fondul cauzei?“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "386",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "289",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 32/1994",
+    "number": "32",
+    "year": "1994",
+    "path": "lege/1994/32"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 00750",
+    "path": null,
+    "slug": "conventia-edo-protocolul-00750"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/220694",
+  "text_sha256": "26a330ed541307fda738c0fdef7534461adc35a7bb7d597d9454335890bf8e75",
+  "catalogue_sha256": "26a330ed541307fda738c0fdef7534461adc35a7bb7d597d9454335890bf8e75",
+  "fetched": "2026-11-03T02:05:14Z",
+  "chars": 70088,
+  "portal_id": "220694",
+  "tip": "DECIZIE"
+ }
+}
