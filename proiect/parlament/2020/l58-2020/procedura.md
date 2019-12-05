@@ -1,0 +1,19 @@
+# Propunere legislativă L58/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 231/2020 (`legea-231-2020`).
+
+Propunere legislativă pentru completarea Legii asistenței sociale nr.292/2011
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2019-12-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2019-12-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L058AD.PDF
+- 2019-12-05: Forma inițiatorului (FG): [fg-2614043c.md](fg-2614043c.md); official file https://www.senat.ro/legis/PDF/2020/20L058FG.PDF
+- 2019-12-05: Expunere de motive (EM): [em-1fc66cd1.md](em-1fc66cd1.md); official file https://www.senat.ro/legis/PDF/2020/20L058EM.PDF
