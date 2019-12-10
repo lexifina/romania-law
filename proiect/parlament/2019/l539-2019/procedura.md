@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
 - 2019-12-09: promulgated, becomes Legea nr. 235/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-12-09: Decret de promulgare (DP): [dp-b3f5adb7.md](dp-b3f5adb7.md); official file https://www.senat.ro/legis/PDF/2019/19L539DP.PDF
 - 2019-12-09: Adresă privind forma promulgată (AFP): [afp-98d9f3aa.md](afp-98d9f3aa.md); official file https://www.senat.ro/legis/PDF/2019/19L539AFP.PDF
 - 2019-12-09: Forma promulgată (FP): [fp-12465b38.md](fp-12465b38.md); official file https://www.senat.ro/legis/PDF/2019/19L539FP.PDF
+- 2019-12-10: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L539TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-10: Document (AL): [al-701338a5.md](al-701338a5.md); official file https://www.senat.ro/legis/PDF/2019/19L539AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-10: Document (TC): [tc-a4e064da.md](tc-a4e064da.md); official file https://www.senat.ro/legis/PDF/2019/19L539TC.PDF (its day is not given by the bill file: shown from the last stage held)
