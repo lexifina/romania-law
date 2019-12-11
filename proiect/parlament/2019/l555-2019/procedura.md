@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-24: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2019-11-28: documents published: Aviz comisie
 - 2019-12-04: documents published: Raport comisie sesizată pe fond
+- 2019-12-11: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-28: Aviz comisie (CA3): [ca3-81eae2c9.md](ca3-81eae2c9.md); official file https://www.senat.ro/legis/PDF/2019/19L555CA3.PDF
 - 2019-11-28: Aviz comisie (CA45): [ca45-b0e92029.md](ca45-b0e92029.md); official file https://www.senat.ro/legis/PDF/2019/19L555CA45.PDF
 - 2019-12-04: Raport comisie sesizată pe fond (CR): [cr-8f10ba7b.md](cr-8f10ba7b.md); official file https://www.senat.ro/legis/PDF/2019/19L555CR.PDF
+- 2019-12-11: Forma adoptată de Senat (FS): [fs-32ec3294.md](fs-32ec3294.md); official file https://www.senat.ro/legis/PDF/2019/19L555FS.PDF
+- 2019-12-11: Adresă către Camera Deputaților (AM): [am-ee773490.md](am-ee773490.md); official file https://www.senat.ro/legis/PDF/2019/19L555AM.PDF
