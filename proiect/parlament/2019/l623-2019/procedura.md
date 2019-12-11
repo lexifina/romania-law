@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2019-12-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2019-12-10: documents published: Aviz comisie
+- 2019-12-11: registered at the Chamber of Deputies; rejected by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2019-12-10: Aviz comisie (CA49): [ca49-3db7c9f0.md](ca49-3db7c9f0.md); official file https://www.senat.ro/legis/PDF/2019/19L623CA49.PDF
 - 2019-12-10: Aviz comisie (CA6): [ca6-a348d423.md](ca6-a348d423.md); official file https://www.senat.ro/legis/PDF/2019/19L623CA6.PDF
 - 2019-12-10: Aviz comisie (CA16): [ca16-cdfe35d0.md](ca16-cdfe35d0.md); official file https://www.senat.ro/legis/PDF/2019/19L623CA16.PDF
+- 2019-12-11: Aviz comisie (CA41): [ca41-4c66604d.md](ca41-4c66604d.md); official file https://www.senat.ro/legis/PDF/2019/19L623CA41.PDF
+- 2019-12-11: Raport comisie sesizată pe fond (CR): [cr-9625e385.md](cr-9625e385.md); official file https://www.senat.ro/legis/PDF/2019/19L623CR.PDF
+- 2019-12-11: Adresă către Camera Deputaților (AM): [am-2a7a6782.md](am-2a7a6782.md); official file https://www.senat.ro/legis/PDF/2019/19L623AM.PDF
