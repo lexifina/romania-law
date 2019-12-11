@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-25: adopted by the Senate
 - 2019-11-27: returned for re-examination
 - 2019-12-07: sent for promulgation
+- 2019-12-11: promulgated, becomes Legea nr. 236/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034AM.PDF
 - 2019-06-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034AXS.PDF
 - 2019-06-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034LP.PDF
+- 2019-12-11: Decret de promulgare (DP): [dp-2ac91349.md](dp-2ac91349.md); official file https://www.senat.ro/legis/PDF/2019/19L034DP.PDF
+- 2019-12-11: Adresă privind forma promulgată (AFP): [afp-d7f58e6a.md](afp-d7f58e6a.md); official file https://www.senat.ro/legis/PDF/2019/19L034AFP.PDF
+- 2019-12-11: Forma promulgată (FP): [fp-a10f6680.md](fp-a10f6680.md); official file https://www.senat.ro/legis/PDF/2019/19L034FP.PDF
