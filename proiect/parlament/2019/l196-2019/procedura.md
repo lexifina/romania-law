@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
 - 2019-12-09: promulgated, becomes Legea nr. 234/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -47,3 +48,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-09: Decret de promulgare (DP): [dp-632776ce.md](dp-632776ce.md); official file https://www.senat.ro/legis/PDF/2019/19L196DP.PDF
 - 2019-12-09: Adresă privind forma promulgată (AFP): [afp-da989b2c.md](afp-da989b2c.md); official file https://www.senat.ro/legis/PDF/2019/19L196AFP.PDF
 - 2019-12-09: Forma promulgată (FP): [fp-d1e4cc42.md](fp-d1e4cc42.md); official file https://www.senat.ro/legis/PDF/2019/19L196FP.PDF
+- 2019-12-13: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L196AT.PDF (its day is not given by the bill file: shown from the last stage held)
