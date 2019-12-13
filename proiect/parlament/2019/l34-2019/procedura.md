@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: returned for re-examination
 - 2019-12-07: sent for promulgation
 - 2019-12-11: promulgated, becomes Legea nr. 236/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,11 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-11: Decret de promulgare (DP): [dp-2ac91349.md](dp-2ac91349.md); official file https://www.senat.ro/legis/PDF/2019/19L034DP.PDF
 - 2019-12-11: Adresă privind forma promulgată (AFP): [afp-d7f58e6a.md](afp-d7f58e6a.md); official file https://www.senat.ro/legis/PDF/2019/19L034AFP.PDF
 - 2019-12-11: Forma promulgată (FP): [fp-a10f6680.md](fp-a10f6680.md); official file https://www.senat.ro/legis/PDF/2019/19L034FP.PDF
+- 2019-12-13: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L034SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (XXS): [xxs-12742fb1.md](xxs-12742fb1.md); official file https://www.senat.ro/legis/PDF/2019/19L034XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-13: Document (PX): [px-03668f2d.md](px-03668f2d.md); official file https://www.senat.ro/legis/PDF/2019/19L034PX.PDF (its day is not given by the bill file: shown from the last stage held)
