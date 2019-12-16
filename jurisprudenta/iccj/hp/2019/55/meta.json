@@ -1,0 +1,281 @@
+{
+ "key": "iccj-hp-55-2019",
+ "label": "Decizia ÎCCJ nr. 55/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "55",
+ "date": "2019-11-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 55 din 11 noiembrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la următoarele chestiuni de drept: \"1. dacă măsurile de executare silită individuală în cadrul procedurii colective a insolvenței vizează și cauzele asupra cărora s-a deschis procedura în condițiile Legii nr. 85/2006 privind procedura insolvenței, cu modificările și completările ulterioare; 2. dacă în această procedură de executare silită individuală este posibilă poprirea contului unic de insolvență; 3. dacă măsurile de executare silită individuală, ce sunt demarate de către titularii creanțelor curente care îndeplinesc condițiile prevăzute de dispozițiile legale, revin în sarcina judecătorului-sindic spre soluționare.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1008",
+  "bis": false,
+  "date": "2019-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.675/1/2019",
+  "4.975/100/2011/a24"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a II-a civilă, în Dosarul nr. 4.975/100/2011/a24, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "1. dacă măsurile de executare silită individuală în cadrul procedurii colective a insolvenței vizează și cauzele asupra cărora s-a deschis procedura în condițiile Legii nr. 85/2006 privind procedura insolvenței, cu modificările și completările ulterioare;",
+  "2. dacă în această procedură de executare silită individuală este posibilă poprirea contului unic de insolvență;",
+  "3. dacă măsurile de executare silită individuală, ce sunt demarate de către titularii creanțelor curente care îndeplinesc condițiile prevăzute de dispozițiile legale, revin în sarcina judecătorului-sindic spre soluționare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/220976",
+  "text_sha256": "cee456735afc431fad5a5f552427c3acf83f255291e29a655e7a7e30d08ffa68",
+  "catalogue_sha256": "cee456735afc431fad5a5f552427c3acf83f255291e29a655e7a7e30d08ffa68",
+  "fetched": "2026-11-03T02:04:58Z",
+  "chars": 40555,
+  "portal_id": "220976",
+  "tip": "DECIZIE"
+ }
+}
