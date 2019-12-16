@@ -1,0 +1,176 @@
+{
+ "key": "iccj-hp-49-2019",
+ "label": "Decizia ÎCCJ nr. 49/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "49",
+ "date": "2019-10-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 49 din 14 octombrie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 5 alin. (1) pct. 72 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1010",
+  "bis": false,
+  "date": "2019-12-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.583/1/2019",
+  "41.757/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VI-a civilă în Dosarul nr. 41.757/3/2018 privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea dispozițiilor art. 5 alin. (1) pct. 72 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, astfel cum a fost modificat prin Ordonanța de urgență a Guvernului nr. 88/2018, publicată în Monitorul Oficial al României, Partea I, nr. 840 din 2 octombrie 2018, cerința referitoare la cuantumul creanțelor bugetare mai mic de 50% din totalul declarat al creanțelor debitorului nu este aplicabilă pentru cererile de deschidere a procedurii insolvenței formulate de lichidatorul numit în procedura de lichidare prevăzută de Legea nr. 31/1990.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "260",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "237",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "270-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2019-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/220984",
+  "text_sha256": "0400cda3e08668d7c11f0052183d977f0deab827f8118b79ee46e50bbfc31702",
+  "catalogue_sha256": "0400cda3e08668d7c11f0052183d977f0deab827f8118b79ee46e50bbfc31702",
+  "fetched": "2026-11-03T02:04:56Z",
+  "chars": 49966,
+  "portal_id": "220984",
+  "tip": "DECIZIE"
+ }
+}
