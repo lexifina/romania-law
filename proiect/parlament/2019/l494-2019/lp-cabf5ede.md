@@ -1,0 +1,3470 @@
+f
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTAJILOR
+SENATUL
+LEGE
+privind pensiile ocupafionale
+Parlamentul Romaniei adopta prezenta lege.
+CAPITOLULI
+Obiectul domeniul de aplicare
+Art. 1, - Obiectul de reglementare
+Prezenta lege reglementeaza:
+a) autorizarea si functionarea administratorilor a fondurilor de
+pensii ocupationale;
+b) supravegherea desfa^urarii activita^ii entitatilor prevazute la
+lit. a) in Romania, pe teritoriul celorlalte state membre si pe teritoriul statelor
+terte;
+c) avizarea si functionarea institutiilor de credit pentru desfasurarea
+activitafii de depozitare si de custodie a activelor fondurilor de pensii
+ocupationale;
+d) avizarea auditorilor financiari, pentru activitatea desfasurata in
+calitate de auditor al administratorilor si a fondurilor de pensii ocupationale;
+e) supravegherea entitatilor prevazute la lit. c), pentru desfasurarea
+activitatii de depozitare si de custodie a activelor fondurilor de pensii
+ocupationale;
+f) supravegherea entitafilor prevazute la lit. d), pentru activitatea
+acestora in legatura cu fondurile de pensii ocupafionale §i administratorii
+acestora.
+
+2
+Art. 2. - Domeniul de apiicare
+(1) Prezenta lege se aplica:
+a) fondurilor de pensii ocupationale;
+b) administratorilor de fonduri de pensii ocupationale;
+c) depozitarilor, numai cu privire la activitatea de depozitare si
+custodie a activelor fondurilor de pensii ocupafionale;
+d) auditorilor flnanciari;
+e) angajatorilor;
+f) Fondului de garantare a drepturilor din sistemul de pensii private.
+(2) Prezenta lege nu se aplica:
+a) institutiilor care administreaza sistemele de securitate sociala
+reglementate de Regulamentul (CE) nr. 883/2004 al Parlamentului European
+si al Consiliului din 29 aprilie 2004 privind coordonarea sistemelor de
+securitate sociala (si Regulamentul (CE) nr. 987/2009 al Parlamentului
+European si al Consiliului din 16 septembrie 2009 de stabilire a procedurii de
+punere in apiicare a Regulamentului (CE) nr. 883/2004 privind coordonarea
+sistemelor de securitate sociala;
+b) institutiilor reglementate de Directiva 2009/65/CE a Parlamentului
+European si a Consiliului din 13 iulie 2009 de coordonare a actelor cu putere de
+lege si a actelor administrative privind organismele de plasament colectiv in
+valori mobiliare (OPCVM), Directiva 2009/138/CE a Parlamentului European
+si a Consiliului din 25 noiembrie 2009 privind accesul la activitate si
+desfasurarea activitaj:ii de asigurare si de reasigurare (Solvabilitate II), Directiva
+2011/61/UE a Parlamentului European si a Consiliului din 8 iunie 2011 privind
+administratorii fondurilor de investitii alternative si de modificare a Directivelor
+2003/41/CE ?i 2009/65/CE si a Regulamentelor (CE) nr. 1060/2009 si (UE)
+nr. 1095/2010, Directiva 2013/36/UE a Parlamentului European si a Consiliului
+din 26 iunie 2013 cu privire la accesul la activitatea institutiilor de credit si
+supravegherea prudentiala a institutiilor de credit si a firmelor de investitii, de
+modificare a Directive! 2002/87/CE si de abrogare a Directivelor 2006/48/CE si
+2006/49/CE si Directiva 2014/65/UE a Parlamentului European si a Consiliului
+din 15 mai 2014 privind pietele instrumentelor financiare si de modificare a
+Directive! 2002/92/CE si a Directivei 2011/61/UE;
+c) institutiilor care functioneaza in sistem redistributiv;
+d) institutiilor in cadrul carora salariatii din intreprinderile platitoare
+nu au dreptul legal la prestatii si in care intreprinderea platitoare poate
+rascumpara activele in orice moment, fara a isi indeplini neaparat obligatiile
+de plata a pensiilor;
+e) intreprinderilor care constituie provizioane la bilant in vederea
+asigurarii platii pensiilor pentru salariatii proprii.
+
+3
+Art. 3. - Definitii
+(1) In intelesul prezentei legi, termenii expresiile de mai jos au
+urmatoarele semnificajii:
+a) act individual de aderare - inscrisul prin care o persoana i§i
+manifesta actui de voin{a de a fi parte la contractul de societate, respectiv la
+fondul de pensii ocupationale;
+b) acfionar semnificativ - persoana fizica, persoana juridica sau
+grupul de persoane fizice §i/sau juridice care ac^ioneaza impreuna care
+define direct ori indirect o participatie de cel putin 10% din capitalul social al
+unei societa^i ori din drepturile de vot sau o participajie care permite
+exercitarea unei influence semnificative asupra administrarii societatii
+respective;
+c) activ net al fondului de pensii ocupationale la o anumitd data -
+valoarea care se ob^ine prin deducerea valorii obligaliilor fondului din
+valoarea activelor acestuia la acea data;
+d) activ personal - suma acumulata in contul unui participant la
+fondul de pensii ocupationale, rezultata din mmultirea numarului de unita^i
+de fond de^inute de acesta cu valoarea la zi a unei unita^i de fond;
+e) active ale unui fond de pensii ocupationale — instrumentele
+financiare, inclusiv instrumentele financiare derivate, precum §1 numerarul,
+rezultate ca urmare a investirii activelor personale ale participan^ilor;
+f) activitate transfrontalierd - administrarea unei scheme de pensii
+in care relatia dintre angajator §i participanfii vizati, respectiv mo§tenitorii
+acestora, astfel cum sunt defini^i conform art. 963 §i 986 din Legea
+nr. 287/2009 privind Codul civil, republicata, cu modificarile ulterioare,
+denumita in continuare Codul civile este reglementata de legislatia privind
+munca §i protecfia sociala relevanta m domeniul schemelor de pensii
+ocupationale dintr-un stat membru diferit de statul membru de origine;
+g) administrator - o societate de pensii constituita in vederea
+administrarii de fonduri de pensii ocupationale, conform prevederilor
+prezentei legi, precum §i o societate de pensii care administreaza un fond de
+pensii administrat privat §i/sau fonduri de pensii facultative, o societate de
+administrare a investi^iilor §i o societate de asigurare de via^a, autorizate de
+Autoritatea de Supraveghere Financiara, denumita in continuare A.S.F.,
+conform legislajiei care reglementeaza domeniile in care activeaza, a caror
+autorizatie este in vigoare §i care sunt autorizate pentru a administra fonduri
+de pensii ocupationale §i, optional, pentru a fumiza pensii ocupationale, in
+conformitate cu prevederile prezentei legi;
+h) administrator cdtre care se efectueazd transferal transfrontalier
+~ un administrator care prime^te total sau paifial pasivele unei scheme de
+pensii, provizioanele tehnice §i alte obligatii ?i drepturi, precum §i activele
+
+4
+aferente sau numerarul echivalent acestora, din partea unui administrator
+inregistrat sau autorizat in alt stat membru;
+i) administrator de la care se efectueazd transferal transfrontalier ~
+un administrator care transfera total sau partial obligatiile unei scheme de
+pensii, provizioanele tehnice si alte obligatii si drepturi, precum si activele
+aferente sau numerarul echivalent acestora, unui administrator inregistrat sau
+autorizat in alt stat membru;
+j) administrare speciald - exercitarea raspunderii fiduciare de catre
+administratorul special, pe o perioada determinata, asupra activelor fondului,
+in scopul limitarii pierderilor pentru protejarea drepturilor cuvenite
+participan|ilor mo^tenitorilor participan^ilor, definiti conform prevederilor
+Codului civil;
+k) administrator special - orice persoana juridica autorizata sa
+administreze un fond de pensii, desemnata de A.S.F. §i care se subroga in
+drepturile obligatiile administratorului pentru o perioada determinata;
+l) angajator - persoana fizica sau juridica care poate, potrivit legii,
+sa angajeze persoane pe baza de contract individual de munca, potrivit Legii
+nr. 53/2003 privind Codul muncii, republicata, cu modificMle §i completarile
+ulterioare, sau pe baza de raport de serviciu, potrivit dispozi^iilor Ordonanjel
+de urgenta a Guvemului nr. 57/2019 - Codul administrativ, cu completMle
+ulterioare, sau in temeiul oricarui alt tip de contract conform caruia o
+persoana desfasoara o activitate generatoare de venituri asimilate salariului;
+m) A.S.F. - autoritatea competenta care aplica prevederile prezentei
+legi prin exercitarea prerogativelor prevazute de Ordonanja de urgen^a a
+Guvemului nr. 93/2012 privind inflintarea, organizarea §i functionarea
+Autoritatii de Supraveghere Financiara, aprobata cu modificari §i completari
+prin Legea nr. 113/2013, cu modificMle §i completarile ulterioare;
+n) autoritate competenta in domeniul auditului financiar -
+autoritate care i^i exercita atribu^iile potrivit prevederilor Legii nr. 162/2017
+privind auditul statutar al situa^iilor fmanciare anuale ^i al situatiilor
+financiare anuale consolidate §i de modificare a unor acte normative;
+o) beneficiar ~ persoana care prime^te o pensie ocupationala;
+p) heneficii colaterale - orice avantaje, precum facilitati bane^ti sau
+cadouri, altele decat cele care rezulta din calitatea de participant sau de
+mo§tenitor al participantului, definit conform prevederilor Codului civil;
+q) contract de administrare - contractul incheiat in forma scrisa
+intre angajator §i administrator, care are ca obiect administrarea unui fond de
+pensii ocupafionale;
+r) contribute - suma platita de catre angajator §i/sau de catre
+angajat la un fond de pensii ocupationale;
+s) depozitar - institu^ia de credit avizata de A.S.F., potrivit legii,
+pentru activitatea de depozitare si custodie, careia ii sunt incredinlate spre
+
+5
+pastrare, m condijii de siguranja, activele flecarui fond de pensii
+ocupationale;
+fondul infiin^at in conformitate cu
+prevederile Legii nr. 187/2011 privind infiintarea, organizarea functionarea
+Fondului de garantare a drepturilor din sistemul de pensii private;
+t) fond de pensii ocupationale — entitatea constituita prin contract de
+societate potrivit dispozi^iilor Codului civil, republicata, cu modificmle
+ulterioare §i ale prezentei legi, avand cel putin 100 participant!, denumit in
+continuare fond;
+§) Fond de garantare
+0 instrumentele fmanciare reprezinta:
+(i) valori mobiliare, astfel cum sunt definite la art. 3 alin. (1)
+pet. 84 din Legea nr. 126/2018 privind pie^ele de instrumente fmanciare;
+(ii) instrumente ale piejei monetare, respectiv categoriile de
+instrumente care se tranzac^ioneaza in mod obi^nuit pe pia^a monetara,
+precum certificatele de trezorerie §i certificatele de depozit, cu excep^ia
+instrumentelor de plata;
+(iii) titluri de participare la organismele de plasament colectiv,
+astfel cum sunt definite la art. 2 alin. (1) pet. 32 din Legea nr. 297/2004
+privind pia^a de capital, cu modificarile si completarile ulterioare;
+(iv) instrumente financiare derivate;
+u) instrumente financiare derivate - contracte futures, op^iuni,
+contracte forward, swap-uri §i orice alte contracte derivate in legatura cu
+valori mobiliare, valute, rate ale dobanzii sau ale rentabilita^ii, indici
+financiari sau indicatori financiari, care pot fi decontate fizic ori in fonduri
+bane^ti;
+v) participant - persoana care a aderat la un fond, care a platit sau
+in numele caruia s-au platit contributii la un fond §i care are un drept prezent
+sau viitor la o pensie ocupationala;
+w) participate calificatd
+drepturile de vot sau din capitalul unei entitafi, care reprezinta cel pufin 10%
+din acestea sau care permite exercitarea unei influence semnificative asupra
+administrarii entita^ii respective;
+x) pensie ocupationala - suma platita periodic participantului, in
+mod suplimentar §i distinct de cea fumizata de sistemul public, obtinuta in
+urma calitatii de participant la un fond de pensii ocupationale;
+y) persoana care define o functie-cheie - persoana ale carei atribu^ii
+au 0 influenta semnificativa asupra realizarii obiectivelor strategice ale
+administratorului, care nu fac parte din structura de conducere, indeplinind in
+cadrul administratorului atribu^iile de:
+(i) evaluare si administrare a riscurilor, respectiv managementul
+detinere directa sau indirecta din
+riscurilor;
+(ii) conformitate §i/sau control intern;
+
+6
+(iii) audit intern;
+(iv) director de investitii/administrare a investitiilor;
+(v) actuar;
+z) piata reglementatd - o piata reglementata, astfel cum este
+definita la art. 3 alin. (1) pet. 60 din Legea nr. 126/2018;
+aa) potential achizitor - orice persoana care i^i propune:
+(i) sa achizi^ioneze, direct sau indirect, o participa^ie calificata la
+un administrator;
+(ii) sa majoreze, direct sau indirect, participa^ia calificata
+dejinuta la un administrator, astfel incat sa atinga sau sa depa§easca 20%,
+33% sau 50% din totalul drepturilor de vot sau din capitalul social;
+bb) pondere lunard a unui fond ~ raportul dintre activul net al
+fondului §i suma activelor nete ale tuturor fondurilor, calculate in luna
+respectiva;
+cc) pondere medie a unui fond pe o anumitd perioadd - media
+aritmetica a ponderilor lunare ale fondului pe perioada respectiva;
+dd) protect de achizifie - documentalia §i informaliile transmise
+A.S.F. de catre un potential achizitor privind achizi^ionarea sau majorarea,
+directa ori indirecta, a drepturilor de vot intr-o entitate reglementata sau
+majorarea participa^iei la capitalul social al acesteia;
+ee) prospect al fondului de pensii ocupationale - documentul care
+cuprinde termenii contractului de administrare §i ai scheme! de pensii
+ocupationale, denumit in continuare prospect,
+ff) provizion tehnic - volumul adeevat de active corespunzator
+obligatiilor financiare ale fondului, care acopera riscurile biometrice §i
+investijionale;
+gg) rata de rentabilitate a unui fond - diferenta dintre valoarea
+unitatii de fond din ultima zi lucratoare a perioadei si valoarea unitatii de
+fond din ultima zi lucratoare ce precede perioada respectiva, totul raportat la
+valoarea unitatii de fond din ultima zi lucratoare ce precede perioada
+respectiva;
+hh) rata medie ponderatd de rentabilitate a fondurilor — suma
+produselor dintre rata de rentabilitate a fiecarui fond pe o perioada §i
+ponderea medie a fondului pe aceea§i perioada;
+ii) reglementdri interne ale administratorilor - regulamente, norme,
+proceduri, coduri, reguli sau politic! interne;
+jj) riscuri biometrice - riscuri legate de deces, invaliditate §i
+longevitate;
+kk) schemd de pensii ocupationale - un sistem de termene, condijii
+fi reguli prin care un angajator participa la asigurarea unor beneficii
+angajatilor sai, in timpul activitalii lor, sub forma unei contribujii la un fond,
+in vederea oblinerii de catre ace^tia a unei pensii ocupationale;
+
+7
+II) schema de pensii ocupationale de tip contributii definite -
+schema de pensii in baza careia sumele ce urmeaza a fl platite ca pensii
+ocupationale rezulta din contributii la un fond si din castigurile objinute in
+urma investirii acestor contributii;
+mm) schema de pensii ocupationale de tip contributii definite cu
+garantii - schema de pensii in baza careia sumele ce urmeaza a fi platite ca
+pensii ocupationale rezulta din contributii la un fond si din castigurile
+obtinute in urma investirii acestor contributii, dar nu mai putin garantiile
+prevazute de prospect;
+nn) stat membru de origine - statul membru al Uniunii Europene
+sau apartinand Spatiului Economic European, in care administratorul i§i are
+sediul social principala structura administrativa sau, daca nu are un sediu
+social, locul unde se afla principala sa structura administrativa;
+oo) stat membru gazdd - statul membru al Uniunii Europene sau
+apartinand Spatiului Economic European, a carui legislatie sociala §i
+legislatie a muncii relevante in domeniul pensiilor ocupationale este
+aplicabila relatiei dintre angajator §i participant! sau persoanelor care primesc
+o pensie ocupationala;
+pp) stat terf - oricare alt stat care nu este stat membru al Uniunii
+Europene sau nu apaifine Spatiului Economic European;
+qq) structura de conducere - este reprezentata de:
+(i) persoane care, potrivit actelor constitutive §i/sau hotararii
+structurilor statutare ale administratorului, sunt imputemicite sa conduca §i sa
+coordoneze activitatea curenta a acestuia §i au competenta de a angaja
+raspunderea societatii, respectiv directorii sau membrii directoratului, in
+functie de sistemul de administrare, unitar sau dualist;
+(ii) membrii consiliului de administratie sau membrii consiliului
+de supraveghere, in funcfie de sistemul de administrare, unitar sau dualist;
+rr) supraveghere speciala - masura avand drept scop limitarea
+riscurilor §i asigurarea redresarii fondului, in vederea protejarii intereselor
+participantilor §i ale mo§tenitorilor acestora, definiti conform prevederilor
+Codului civil, in situatia in care se constata deficiente in urma supravegherii
+§i/sau controalelor efectuate de A.S.F. §i care nu sunt situatii de natura a
+institui administrarea speciala;
+ss) transfer de lichiditdfi bdne§ti ~ trecerea contravalorii activului
+personal din contul unui participant la un fond catre un alt fond;
+ss) unitate de fond - raportul dintre valoarea activului net al
+fondului §i numarul total de unitati de fond;
+tt) vesting - clauza prevazuta in schema de pensii ocupationale
+potrivit careia, la expirarea unui termen de maximum 3 ani, persoana
+prevazuta la art. 79 alin. (1) dobande§te dreptul de proprietate asupra
+activului sau personal la fond, obtinut ca urmare a contributiilor platite de
+
+8
+catre angajator pentru acesta, cu conditia ca raportul in baza caruia se platesc
+respectivele contributii sa fie inca in vigoare;
+tt) viitor participant
+participant la un fond.
+(2) Persoana afiliata, in raport cu o persoana fizica sau juridica,
+numita prima entitate, reprezinta:
+a) un ac^ionar sau un grup de ac^ionari care define mai mult de 15%
+din acjiunile emise de prima entitate ori care, de§i define un procent mai mic,
+poate influenza, direct sau indirect, deciziile luate de prima entitate;
+b) orice entitate in care prima entitate define, direct sau indirect, mai
+mult de 15% din ac{iunile emise ori in care, de§i dejine un procent mai mic,
+poate influenza, direct sau indirect, deciziile luate de respectiva entitate;
+c) orice alta entitate in care un ac|ionar define, direct sau indirect,
+mai mult de 30% din acjiunile emise §i, in acela§i timp, define, direct sau
+indirect, mai mult de 30% din totalul acjiunilor emise de prima entitate;
+d) orice persoana care poate determina, direct sau indirect, deciziile
+o persoana care este eligibila sa fie
+prime! entita|i;
+e) orice membru al consiliului de administrajie sau al altui organ de
+conducere ori supraveghere al respective! entita^i;
+f) so^ul/so^ia sau o ruda p^a la gradul al treilea ori un afin pana la
+gradul al doilea inclusiv al oric^ei persoane prevazute la lit. a) - e).
+CAPITOLULII
+Administratorul
+SECTIUNEA 1
+Autorizarea administratorului
+Art. 4. - Entitafi care pot administra fonduri
+(1) Pot administra fonduri:
+a) societatile de pensii constituite in baza prezentei legi;
+b) societatile de pensii, societatile de administrare a investitiilor si
+societatile de asigurare de via|a care sunt autorizate sa administreze fonduri
+de pensii facultative si/sau fonduri de pensii administrate privat;
+c) societatile de administrare a investitiilor si societatile de
+asigurare de via^a, autorizate in conditiile prezentei legi de catre A.S.F,,
+pentru activitatea de administrare a fondurilor.
+(2) Entitatile prevazute la alin. (1) pot furniza, optional, pensii
+ocupationale.
+(3) Poate fi administrator, in sensul prezentei legi, orice entitate
+autorizata pentru aceasta activitate intr-un alt stat membru al Uniunii
+Europene sau apartinand Spatiului Economic European.
+
+9
+(4) Administratorii care au fost autorizati, avizati sau supusi unei
+proceduri similare in vederea functionarii ca administrator de fonduri de
+pensii ocupa^ionale intr-un stat membru al Uniunii Europene sau apartinand
+Spatiului Economic European sunt exceptati de la cerinta autorizarii de catre
+A.S.F.
+(5) Un administrator poate administra unul sau mai multe fonduri.
+Art. 5. - Procedura de autorizare a administratorilor
+(1) Administratorii prevazuti la art. 4 alin. (1) lit. b), pentru a
+administra fonduri, transmit urmMoarele documente:
+a) hotararea adunarii generale a actionarilor privind activitatea de
+administrare a fondurilor;
+b) dovada indeplinirii cerintelor de capital social;
+c) hotararea adunarii generale a ac|ionarilor privind alocarea
+capitalului social pentru fiecare activitate;
+d) actui constitutiv actualizat;
+e) proiectui prospectului;
+f) proiectui contractului de societate si al actului individual de
+aderare;
+g) proiectui contractului de administrare, al contractului de
+depozitare si al contractului de audit financiar pentru fiecare fond;
+h) planul de afaceri pe 3 ani.
+(2) A.S.F. analizeaza documentele §i, in termen de 30 de zile
+calendaristice de la data primirii acestora, procedeaza la autorizarea
+administrarii/respingerea autorizarii de administrare, prin decizie scrisa §i
+motivata.
+Documente pentru autorizarea de constituire a
+Art. 6.
+societatii de pensii
+(1) Societafile de pensii nou infiintate trebuie autorizate de cMre
+A.S.F. pentru constituire §i administrare.
+(2) Societatea de pensii se constituie sub forma unei societa^i pe
+ac^iuni, iar persoanele care inten|ioneaza sa infiinteze o societate de pensii
+depun la A.S.F. cererea pentru autorizarea de constituire.
+(3) Cererea pentru autorizarea de constituire a societa^ii de pensii
+este insotita de urmatoarele documente:
+a) proiectui actului constitutiv;
+b) dovada ca fondatorii de^in resursele fmanciare necesare varsarii
+capitalului social, precum provenienfa acestora;
+c) cazierele judiciare §i cazierele fiscale ale fondatorilor;
+
+10
+d) documente privind fondatorii, cu informa|ii referitoare la statutul
+lor juridic, eventuala lor calitate de persoane afiliate, precum §i natura
+legaturilor dintre ei;
+e) documente din care sa reiasa soliditatea financiara a fondatorilor;
+f) declara^ia pe propria raspundere a fondatorilor, a candida^ilor
+pentru structura de conducere, din care sa rezulte daca de^in, individual sau m
+legatura cu alte persoane implicate in orice societate, cel pu^in 5% din
+capitalul social sau din drepturile de vot;
+g) documente privind adecvarea candidatilor pentru structura de
+conducere, din care sa reiasa ca acestia indeplinesc cerinjele A.S.F.
+referitoare la competen^a §i experien^a profesionala, integritate §i buna
+reputatie, guvernanla;
+h) certificatul de cazier judiciar §i certificatul de cazier fiscal, in
+termenul de valabilitate legal, ale candida^ilor pentru structura de conducere
+sau alt document echivalent eliberat de autoritatile competente din ^ara in
+care acestia au stabilit/stabilita domiciliul §i/sau re^edin^a;
+i) proiectul regulamentului de organizare §i func{ionare a societa^ii
+de pensii;
+j) dovada varsarii integrale §i in forma baneasca a capitalului social;
+k) dovada pla^ii taxei privind cererea de autorizare de constituire.
+Art. 7. - Analizarea cererii pentru autorizarea de constituire
+(1) A.S.F. analizeaza cererea pentru autorizarea de constituire ^i, in
+termen de 30 de zile calendaristice de la data inregistrarii acesteia §i a
+documentatiei prevazuta la art, 6 alin. (3) procedeaza la aprobarea sau la
+respingerea cererii, prin decizie scrisa §i motivata.
+(2) Orice solicitare a A.S.F. de informa^ii suplimentare sau de
+modificare a documentelor prezentate intrerupe termenul prevazut la alin. (1),
+un nou termen incepand sa curga de la data depunerii respectivelor informafii
+sau modificari, depunere care nu poate fi facuta mai tarziu de 30 de zile
+calendaristice de la data solicitarii A.S.F,, sub sanctiunea respingerii cererii
+pentru autorizarea de constituire.
+Art. 8. - Aprobarea cererii pentru autorizarea de constituire
+A.S.F. aproba cererea pentru autorizarea de constituire, pe baza
+urmatoarelor criterii:
+a) onorabilitatea fondatorilor, respectiv buna reputatie si integritate
+a acestora;
+b) competenta si onorabilitatea candidatilor din structura de
+conducere;
+c) soliditatea §i stabilitatea financiara a fondatorilor;
+
+11
+d) capacitatea fondatorilor de a respecta de a se conforma
+permanent cerin^elor prudenjiale;
+e) inexistenta unor motive rezonabile de a suspecta ca o operatiune
+de spalare de bani ori de finantare a terorismului, m sensul Legii nr. 129/2019
+pentru prevenirea §i combaterea spalarii banilor finan^arii terorismului,
+precum §i pentru modificarea ^i completarea unor acte normative, a avut loc
+sau se incearca a se comite de catre fondatori sau de catre candidali pentru
+structura de conducere;
+f) fondatorii §i candidatii pentru structura de conducere nu sunt in
+procedura de reorganizare judiciara sau de faliment §i nu au contribuit, direct
+sau indirect, la falimentul unor persoane juridice;
+g) denumirea societalii de pensii nu este de natura sa induca in
+eroare participan^ii, viitorii participan^i sau alte persoane;
+h) natura provenien|ei fondurilor care vor fi utilizate de catre
+acjionari ca participajic la capitalul social al administratorului.
+Art. 9. - Respingerea cererii pentru autorizarea de constituire
+(1) A.S.F. respinge cererea pentru autorizarea de constituire in
+urmatoarele situa^ii:
+a) documentalia prezentata este incompleta sau nu este intocmita in
+conformitate cu dispozijiile legale in vigoare;
+b) neindeplinirea uneia dintre condi^iile de autorizare prevazute in
+reglementarile A.S.F.
+(2) Decizia de respingere, scrisa ^i motivata, se comunica
+fondatorilor in termen de 10 zile lucratoare de la adoptarea acesteia.
+Art. 10. - Inregistrarea societatii de pensii la registrul comerlului
+(1) Fondatorii inregistreaza societatea la Oficiul National al
+Registrului Comertului, in conditiile prevazute de Legea societatilor
+nr. 31/1990, republicata, cu modificarile si completarile ulterioare, in termen
+de 30 de zile calendaristice de la primirea deciziei pentru autorizarea de
+constituire.
+(2) Depa§irea termenului prevazut la alin. (1), din motive
+imputabile entitatii, duce la pierderea valabilitajii deciziei de autorizare de
+constituire.
+(3) Obtinerea deciziei de autorizare de constituire a unei societati de
+pensii nu garanteaza §i obtinerea autorizarii de administrare.
+Art. 11. ~ Obtinerea autorizarii de administrare
+(1) Entitatile prevazute la art. 4 alin. (1) lit. a) §i c) trebuie sa ob^ina
+autorizare de administrare a fondurilor de la A.S.F.
+
+12
+(2) In vederea ob^inerii autorizarii de administrare, entitatile
+prevazute la art. 4 alin. (1) lit. a) c) depun la A.S.F. o cerere inso^ita de
+urmatoarele documente:
+a) certificatul de inregistrare la registrul comer^ului, in copie;
+b) certificat constatator in termenul de valabilitate, in original;
+c) actul constitutiv;
+d) dovada varsarii integrale sau a reintregirii/majorarii, dupa caz,
+sub forma baneasca a capitalului social, in copie;
+e) proiectul de contract de societate si al actului individual de
+aderare;
+f) proiectul contractului de administrare, al contractului de
+depozitare, al contractului de custodie si al contractului de audit financiar al
+fondului;
+g) planul de activitate intocmit pentru o perioada de minimum 3 ani;
+h) proiectul prospectului;
+i) notiflcarea cu privire la persoanele care asigura auditul intern §i
+func^ia actuariala;
+j) documente privind adecvarea persoanelor propuse pentru funcfii
+cheie autorizate;
+k) dovada plajii taxei de autorizare de administrare §i de autorizare
+a fiecarui membru propus pentru structura de conducere, respectiv a fiecarei
+persoane propuse pentru o funclie-cheie autorizata.
+(3) Entitatile prevazute la art. 4 alin. (1) lit. c) depun la A.S.F.,
+suplimentar fa{a de documentele prevazute la alin. (2), documentele in
+vederea indeplinirii cerin^elor de adecvare a persoanelor propuse pentru
+structura de conducere.
+(4) A.S.F. poate solicita entitatilor prevazute la art. 4 alin. (1) lit. a)
+si c), in termen de 30 de zile calendaristice de la primirea cererii pentru
+autorizare, documente §i informafii suplimentare, pe care acestea trebuie sa le
+fumizeze in maximum 30 de zile calendaristice de la data primirii solicitarii.
+(5) A.S.F. analizeaza cererea pentru autorizarea de administrare §i,
+in termen de 30 de zile calendaristice de la inregistrarea acesteia §i a
+documenta^iei prev^uta la alin. (2) - (4), dupa caz, procedeaza la aprobarea
+sau la respingerea cererii, prin decizie scrisa §i motivata.
+(6) Orice solicitare a A.S.F. de informa^ii suplimentare sau de
+modiflcare a documentelor prezentate intrerupe termenul prevazut la alin. (5),
+un nou termen incepand sa curga de la data depunerii respectivelor informalii
+sau modificari, depunere care nu poate fi facuta mai tarziu de 30 de zile
+calendaristice de la data solicitarii A.S.F., sub sanc^iunea respingerii cererii
+pentru autorizarea de administrare.
+(7) Decizia de autorizare sau decizia de respingere, dupa caz, se
+comunica in termen de 10 zile lucratoare de la adoptarea acesteia.
+
+13
+(8) Deciziile de respingere prevazute la alin. (7) si la art. 9 alin. (2)
+pot fi atacate la instanta judecatoreasca competenta, in conformitate cu
+prevederile Legii contenciosului administrativ nr. 554/2004, cu modiflcarile
+completarile ulterioare.
+Art, 12. - Decizia de retragere a autorizarii de administrare
+(1) A.S.F, poate retrage, prin decizie, scrisa si motivata, autorizarea
+de administrare a administratorului in una dintre urmatoarele situatii:
+a) administratorul nu a inceput operatiunile pentru care a fost
+autorizat, in termen de 2 ani de la primirea autorizatiei sau nu ji-a exercitat
+mai mult de 2 ani activitatea de administrare;
+b) actionarii au decis lichidarea sau divizarea administratorului;
+c) actionarii au decis fuziunea administratorului absorbit;
+d) administratorul se afla in incapacitate de plata;
+e) administratorul nu mai indeplineste conditiiie de functionare;
+f) administratorul nu asigura apararea corespunzatoare a intereselor
+participantilor §i ale mo§tenitorilor acestora, defini^i conform prevederilor
+Codului civil;
+g) administratorul nu a stabilit provizioane tehnice suficiente
+privind intreaga activitate sau nu are suficiente active pentru a acoperi
+provizioanele tehnice.
+(2) Decizia de retragere a autorizarii de administrare, scrisa ^i
+motivata, se comunica in termen de 10 zile lucratoare de la adoptarea acesteia
+§i poate fi atacata la instanta judecatoreasca competenta, in conformitate cu
+prevederile Legii nr. 554/2004, cu modificarile §i completarile ulterioare.
+(3) Contestatia adresata instantei de contencios administrativ
+competente nu suspenda, pe timpul solutionarii acesteia, decizia prevazuta la
+alin. (2).
+(4) In termen de 10 zile calendaristice de la data expirarii perioadei
+de contestare sau, dupa caz, de la data ramanerii definitive a hotararii
+judecatoresti prin care s-a solufionat contestatia, A.S.F. publica anuntul
+privind retragerea autoriz^ii de administrare in Monitorul Oficial al
+Romaniei, Partea a IV-a si pe pagina de internet a A.S.F.
+Art. 13. - Modificarea documentelor care au stat la baza
+autorizarii de administrare
+A.S.F. analizeaza modificarile documentelor care au stat la baza
+autorizarii de administrare §i aproba sau respinge prin decizie modificarile
+solicitate.
+
+14
+Art. 14. - Obligatia administratorului de a pastra pe intreaga
+durata de functionare conditiile avute in vedere la autorizarea de catre
+A.S.F.
+Administratorul are obligafia sa pastreze pe intreaga durata de
+functionare conditiile avute in vedere la autorizarea de catre A.S.F.
+Emiterea de reglementari privind autorizarea
+Art. 15.
+administratorilor
+A.S.F. emite reglementari privind:
+a) autorizarea administratorilor;
+b) modificarea documentelor care au stat la baza autorizarii de
+administrare;
+c) retragerea autorizarii de administrare a administratorului §i
+incetarea activita^ii acestuia;
+d) taxele de autorizare, avizare si functionare.
+SECTIUNEA a 2-a
+Cerinte privind organizarea
+Art. 16. - Capitalul social minim al administratorului
+(1) Pentru a putea administra fonduri de pensii ocupationale,
+capitalul social minim necesar este echivalentul in lei, calculat la cursul de
+schimb al Bancii Nafionale a Romauiei la data constituirii, al sumei de
+1,5 milioane euro.
+(2) Administratorul are obligatia sa pastreze pe intreaga durata de
+functionare nivelul de capital social prevazut la alin. (1).
+(3) Capitalul social minim al administratorului societate de pensii,
+este subscris §i varsat integral, exclusiv in numerar, la momentul
+constituirii, intr-un cont deschis la o banca, persoana juridica romana, sau la
+o sucursala a unei band straine autorizate sa funclioneze pe teritoriul
+Romaniei.
+(4) Pentru a putea administra fonduri de pensii ocupationale,
+capitalul social al administratorului care este o entitate dintre cele prevazute
+la art. 4 alin. (1) lit. b) sau c) se completeaza, daca este cazul, pana la a fi cel
+putin egal cu suma capitalurilor minime prevazute de Legea nr. 411/2004
+privind fondurile de pensii administrate privat, republicata, cu modificarile §i
+completarile ulterioare, respectiv Legea nr. 204/2006 privind pensiile
+facultative, cu modificarile §i completarile ulterioare, dupa caz, pentru
+activitatile desfasurate.
+(5) Varsarea capitalului social se realizeaza prin subscriere si
+varsare integrals, exclusiv in numerar, la momentul autorizarii de
+administrare, intr-un cont deschis la o banca, persoana juridica romana, sau la
+
+15
+o sucursala a unei banci straine autorizate sa func^ioneze pe teritoriul
+Romaniei.
+(6) Capitalul social prevazut la alin. (1) se majoreaza cu 0,2%
+pentru echivalentul in lei al fiecarui milion de euro care depa^e^te
+echivalentul in lei a 200 milioane euro active nete ale fondurilor de pensii
+ocupalionale, aflate in administrare.
+Art. 17. - Acliunile administratorului
+(1) Ac^iunile administratorului sunt nominative, nu pot fl
+transformate in ac^iuni la purtator, nu pot constitui garantii sau sa fie utilizate
+pentru acordarea de credite si nu pot fi executate silit, sub sanc^iunea nulitafii
+absolute a actelor prin care se constituie garanliile, se acorda creditele sau a
+actelor de executare silita.
+(2) Administratorii nu pot emite ac^iuni preferenliale.
+(3) Ac{ionarii nu pot beneficia de drepturi preferenfiale sau de alte
+privilegii §i este interzisa limitarea drepturilor sau impunerea de obligalii
+suplimentare.
+(4) Activele financiare proprii ale administratorului nu pot fi
+utilizate pentru;
+a) acordarea de imprumuturi;
+b) garantarea de imprumuturi sau credite pentru terji.
+Art. 18. - Dobandirea provenienta capitalului
+(1) Administratorul sau o persoana afiliata acestuia poate
+achizitiona acliuni ale altui administrator, numai cu aprobarea prealabila a
+A.S.F, ^i cu respectarea legislatiei din domeniul concurenlei, sub sanc^iunea
+nulita^ii absolute a actului.
+(2) Capitalul social al administratorului nu poate proveni din
+imprumuturi sau credite §i nu poate fi grevat de sarcini.
+Art. 19. -Fuziunea sau divizarea administratorului
+(1) Opera^iunile de fuziune sau divizare a administratorului sunt
+supuse autorizarii prealabile a A.S.F.
+(2) Administratorii rezultafi in urma opera{iunilor de fuziune sau
+divizare prevazute la alin. (1) au obliga^ia sa respecte condi^iile de autorizare,
+limita minima a capitalului social, cerinlele prudenjiale §i regulile de
+conduita stabilite prin prezenta lege §i prin reglementarile A.S.F., pe toata
+durata des^^urarii activitalii.
+(3) Fuziunea administratorilor poate genera in paralel fuziunea
+fondurilor aflate in administrare.
+
+16
+(4) Autoritatea poate respinge motivat solicitarea de fiiziune sau
+divizare atunci cand nu este in interesul participan^ilor, precum in orice alte
+situa^ii prev^ute prin reglementarile A.S.F.
+Art. 20. - Acfionariatul administratorului
+(1)0 persoana fizica sau juridica poate fl ac(ionar la uri singur
+administrator.
+(2) Calitatea actionarilor trebuie sa raspunda nevoii garantarii unei
+gestiuni prudente sanatoase a fondului §i sa permita realizarea unei
+supravegheri eficiente, in scopul protejarii intereselor participan(ilor ^i ale
+mo§tenitorilor acestora, defini^i conform prevederilor Codului civil.
+(3) Actionarii administratorului trebuie sa indeplineasca condi^iile
+avute in vedere pentru fondatorii societatii de pensii, precum si urmatoarele:
+a) sa justifice provenienta fondurilor destinate participatiei la
+capitalul social;
+b) sa fumizeze toate informajiile necesare pentru identificarea
+relatiilor de afiliere cu alte persoane;
+c) sa fl func(ionat, in cazul ac(ionarilor persoane juridice, minimum
+3 ani, cu excep^ia celor rezulta(i in urma fuziunii sau divizarii unei alte
+persoane juridice care, inainte de fuziune sau de divizare, a func(ionat
+minimum 3 ani.
+Art. 21. - Achizitiile
+(1) Potentialii achizitori transmit A.S.F. proiectul de achizitie
+intocmit in conformitate cu prevederile legale, indicand marimea participatiei
+care urmeaza a fi de(inuta.
+(2) Actionarii care intentioneaza sa cedeze, direct sau indirect, o
+participa(ie calificata notifica Autoritatii inten(ia respective, men(ionand cota
+participa(iei de^inute in urma cedarii.
+(3) Notificarea prevazuta la alin. (2) se realizeaza §i in cazul in care
+ac(ionarii i§i diminueaza participatia calificata de(inuta intr-o societate, astfel
+incat dreptul de vot sau capitalul social de|inut scade sub 20%, 33% sau 50%.
+(4) A.S.F. evalueaza impactul poten(ialului achizitor asupra
+administrarii corecte §i prudente a societatii vizate de proiectul de achizitie §i
+poate respinge motivat proiectul de achizitie.
+Art. 22. - Cerinje pentru structura de conducere/persoanele
+care detin functii-cheie
+(1) Membrii structurii de conducere a administratorului si
+persoanele care detin functii-cheie prevazute la art. 3 alin. (1) pet. y. lit. i),
+lit. ii) §i lit. iv) sunt autorizate de catre A.S.F., odata cu analiza cererii pentru
+autorizarea de administrare.
+
+17
+(2) Persoanele care detin functii-cheie prevazute la art. 3 alin. (1)
+pet. y. lit. iii) si lit. v) sunt notificate A.S.F.
+(3) Membrii structurii de conducere a administratorului si
+persoanele care de^in flinctii-cheie indeplinesc urmatoarele cerinte:
+a) privind competenta:
+(i) pentru membrii structurii de conducere a administratorului,
+calificarile, cunostintele si experienta lor sunt adeevate pentru a le permite sa
+asigure o administrare sanatoasa si prudenta a administratorului;
+(ii) pentru persoanele care de^in functii-cheie, calificarile,
+cunostintele si experienta lor profesionala sunt adeevate sa indeplineasca
+atribufiile flinctiilor-cheie in mod corespunzator;
+b) privind onorabilitatea, respectiv o buna reputatie ^i integritate.
+(4) Persoana care detine o functie-cheie in cadrul administratorului
+este diferita de cea care define o functie-cheie similara in cadrul
+angajatorului.
+(5) Membrii structurii de conducere a administratorului nu pot fi
+membri in structura de conducere:
+a) a unui alt administrator sau a persoanelor afiliate acestuia;
+b) a administratorului unui fond de pensii facultative §i/sau al unui
+fond de pensii administrat privat sau a persoanelor afiliate acestuia, cu
+exceptia situatiei in care administratorii fac parte din acelasi grup;
+c) a depozitarului sau a persoanelor afiliate acestuia;
+d) a societafilor de servicii de investifii financiare sau a persoanelor
+afiliate acestora cu care administratorul a incheiat un contract de
+intermediere;
+e) a unei organizatii sindicale sau patronale.
+(6) Interdicfiile prevazute la alin. (5) se aplica §i persoanelor care au
+raporturi de munca, comerciale sau alte raporturi similare cu entitafile
+prevazute la acela§i aUneat.
+Art. 23. - Emiterea de reglementari privind organizarea
+administratorilor
+A.S.F. emite reglementari privind:
+a) verificarea provenientei capitalului varsat de catre fondatori;
+b) procedura privind constituirea, majorarea si reducerea capitalului
+social;
+c) criteriile aplicabile si procedura pentru evaluarea prudentiala a
+achizitiilor si majorarilor participatiilor la administratorii fondurilor de pensii
+ocupationale;
+d) fuziunea si divizarea administratorilor.
+
+18
+SECJIUNEA a 3-a
+Conditii de funcfionare
+Art. 24. - Cerinte generale de guvernanta
+(1) Administratorul are obligatia sa adopte masurile corespunzatoare
+privind aplicarea unui sistem de guvernanta corporativa care sa asigure o
+administrare corecta, eficienta si prudenta bazata pe principiul continuitatii
+activitatii, proportional cu natura, amploarea si complexitatea activitatilor
+desfa§urate.
+(2) Sistemul de guvernanta corporativa aplicat trebuie sa respecte
+urmatoarele cerinte:
+a) asigurarea unei structuri organizatorice transparente si adecvate;
+b) alocarea adecvata si separarea corespunzatoare a responsabilitatilor;
+c) administrarea corespunzatoare a riscurilor/managementul riscurilor;
+d) adecvarea politicilor si strategiilor, precum si a mecanismelor de
+control intern;
+e) asigurarea unei bune organizari administrative §i contabile;
+f) asigurarea unui sistem eficient de comunicare si de transmitere a
+informatiilor;
+g) aplicarea unor proceduri operationale care sa impiedice
+divulgarea informatiilor confidentiale;
+h) includerea unei analize a factorilor de mediu, sociali si de
+guvernanta legati de activele care fac obiectul investitiilor.
+(3) Administratorul are obligatia sa adopte, sa aplice si sa mentina
+politici si proceduri corespunzatoare pentru a se asigura ca membrii structurii
+de conducere a administratorului si persoanele care de^in functii-cheie
+indeplinesc in permanenta cerintele de buna reputatie si integritate.
+(4) Conducerea administratorului poate fi asigurata numai de catre
+persoanele fizice care, potrivit actelor constitutive §i/sau hotararii organelor
+statutare ale administratorului, sunt imputemicite sa conduca §i sa
+coordoneze activitatea acestuia.
+Art. 25. - Politica de retnunerare
+(1) Administratorul are obligatia sa elaboreze si sa aplice o politica
+judicioasa de remunerare pentru toate persoanele din structura de conducere,
+precum si pentru cele care detin functii-cheie si pentru alte categorii de
+angajati ale c^or activitati profesionale au un impact important asupra
+profilului de rise.
+(2) Administratorul, in absenja unor dispozijiile legale contrare, dau
+publicitatii, in mod regulat, informatiile relevante referitoare la politica de
+remunerare, in conformitate cu reglementarile emise de A.S.F.
+
+19
+(3) Politica de remunerare prev^ta la alin. (1) respecta urmatoarele
+pnncipii:
+a) se stabile^te, se pune in aplicare si se mentine in fiinctie de
+activitatile, profilul de rise, obiectivele, interesul pe termen lung si
+performanta activitatii de administrate in ansamblu, ^i sprijina administrarea
+corecta, prudenta §i eficienta a fondurilor;
+b) este corelata cu interesele pe termen lung ale participantilor;
+c) include masuri menite sa evite conflictele de interese;
+d) este compatibila cu gestionarea corecta si eficienta a riscurilor si
+nu incurajeaza asumarea unor riscuri incompatibile cu profilul de rise si
+politicile si strategiile fondului;
+e) se aplica si prestatorilor de servicii in cazul activitalilor
+extemalizate.
+Art. 26. - Separarea func^iilor
+(1) Administratorul trebuie sa separe func{iile de decizie, de
+func^iile de execu^ie §i de funcliile cheie.
+(2) Administratorul constituie structuri responsabile cu activitatile
+de audit intern, control intern, administrate a riscurilor, analiza oportunitalilor
+investilionale §i plasarea activelor in conformitate cu strategia stabilita de
+consiliul de administratie/consiliul de supraveghere, si dispune, atunci cand
+este cazul, de functie actuariala.
+(3) Persoana care define o funcfie-cheie raporteaza eventualele
+constatari si face recomandari structurii de conducere a administratorului
+potrivit competenfei acesteia, care stabileste ce actiuni trebuie intreprinse.
+(4) Fara a aduce atingere dreptului de a nu se autoincrimina,
+persoana care define o funcfie-cheie informeaza A.S.F. daca structura de
+conducere a administratorului nu ia in timp util si in mod adeevat masurile
+corective in urmatoarele cazuri:
+a) atunci cand persoana care define o funcfie-cheie a sesizat un rise
+substantial ca administratorul sa nu respecte o cerinta legala importanta si a
+informat structura de conducere a administratorului cu privire la acest rise si
+in cazul in care acest lucru ar putea avea un impact semnificativ asupra
+intereselor participanfilor; ori
+b) atunci cand persoana care define o funcfie-cheie a sesizat o
+incalcare a legislafiei aplicabila administratorului si activitatilor sale in cadrul
+acestei functii-cheie si a informal structura de conducere a administratorului
+cu privire la aceasta.
+(5) Aplicarea prevederilor alin. (4) nu constituie motiv pentru
+sanefionarea persoanei care define o funcfie-cheie de catre administrator.
+
+20
+Art. 27. - Functia de audit intern
+(1) Administratorul are obligatia de a constitui o structura de audit
+intern, a carei activitate se realizeaza conform Ordonan^ei de urgen^a a
+Guvernului nr. 75/1999 privind activitatea de audit fmanciar, republicata, cu
+modificarile §i completarile ulterioare.
+(2) Auditul intern trebuie sa acopere toate activita^ile de
+administrate a fondurilor.
+(3) Administratorul notifica A.S.F. persoana care conduce structura
+responsabila cu activitatile de audit intern.
+(4) Obiectivele auditului intern sunt:
+a) asigurarea ca politicile §i procedurile administratorului sunt
+respectate in cadrul tuturor activitatilor si structurilor;
+b) revizuirea politicilor, procedurilor, proceselor si mecanismelor de
+control, astfel incat acestea sa fie suficiente si adecvate activitatii desfasurate.
+(5) In vederea indeplinirii obiectivelor, activitatea de audit intern
+include urmatoarele:
+a) evaluarea eficientei si a gradului de adecvare a activitatii de
+control intern, de administrare a riscurilor si a investitiilor;
+b) analizarea relevanfei si integritatii datelor furnizate de sistemele
+informatice;
+c) evaluarea acuratetei si credibilitatii inregistrarilor contabile si
+situatiilor financiare;
+d) evaluarea modului in care se asigura protejarea elementelor
+patrimoniale bilantiere si extrabilantiere si identificarea metodelor de
+prevenire a fraudelor §i a pierderilor de orice fel.
+(6) Este interzisa extemalizarea activitatii de audit intern de catre
+administrator.
+(7) Fiecare misiune de audit intern face obiectul unui raport de audit
+intern care este prezentat consiliului de administratie/consiliului de
+supra veghere.
+(8) Raportul prevazut la alin. (7) trebuie sa cuprinda urmatoarele
+elemente:
+a) perioada supusa auditarii interne;
+b) lista activitatilor desfasurate de catre structura de audit intern
+aferente perioadei auditate;
+c) descrierea principalelor activitati desfasurate;
+d) persoaneie responsabile pentru efectuarea respectivelor activitati;
+e) deficientele identificate si recomandarile structurii de audit intern
+pentru remedierea acestora;
+f) situatia privind planul de masuri pentru solutionarea deficientelor
+identificate, separat pentru deficientele curente si cele identificate prin
+
+21
+rapoartele de audit intern anterioare, in cazul in care acestea din urma nu au
+fost solutionate corespunzator.
+(9) Persoana care conduce structura de audit intern are obligatia de
+a intocmi un raport semestrial privind misiunile de audit intern desfasurate,
+care se transmite A.S.F. in conformitate cu reglementarile acesteia.
+(10) Auditorii interni au acces la orice date sau inregistrari, precum
+si la documente si informatii relevante necesare indeplinirii atributiilor care le
+revin.
+(11) In indeplinirea atributiilor care ii revin, persoana care conduce
+structura de audit intern urmareste modul de implementare a recomandarilor
+formulate in raportui de audit intern.
+Art, 28. “ Functia actuariala
+(1) Atunci cand prospectul prevede acoperirea riscurilor biometrice
+^i/sau garanteaza rata de rentabilitate a investitiilor sau un anumit nivel al
+garan^iilor, administratorul constituie sau dispune de o funcfie actuariala
+responsabila cu:
+a) coordonarea si monitorizarea calculului provizioanelor tehnice;
+b) evaluarea adecvarii metodologiilor si modelelor de baza utilizate
+la calculul provizioanelor tehnice si a ipotezelor formulate in acest scop;
+c) determinarea in ce masura datele utilizate la calcularea
+provizioanelor tehnice sunt suficiente §i calitatea acestora;
+d) compararea ipotezelor utilizate la calculul provizioanelor tehnice
+cu experienta;
+e) informarea consiliului de administratie/consiliului de supraveghere
+cu privire la adecvarea calcularii provizioanelor tehnice;
+f) exprimarea unei opinii privind strategia de aderare, in cazul in
+care prospectul prevede;
+g) exprimarea unei opinii privind adecvarea mecanismelor de
+asigurare in cazul in care prospectul prevede astfel de mecanisme; si
+h) participarea la punerea in aplicare efectiva a sistemului de
+gestionare a riscurilor.
+(2) Administratorul desemneaza cel putin o persoana independenta,
+din interiorul sau din afara entitatii, care sa raspunda de functia actuariala.
+(3) Administratorul notifica A.S.F. persoana responsabila cu functia
+actuariala.
+(4) In exercitarea atributiilor sale, persoana responsabila cu functia
+actuariala are obligatia de a intocmi anual un raport actuarial, care se
+transmite A.S.F. in conformitate cu reglementarile acesteia.
+
+22
+Art. 29. - Func^ia de control intern/conformitate
+(1) Administratorul are obligafia de a constitui o structura de control
+intern/conformitate pentru care trebuie prevazute urmatoarele elemente:
+a) rolul si responsabilitatile structurii de conducere in relatia cu
+structura de control intern;
+b) activitatile de control intern si separarea responsabilitatilor;
+c) activitatile de monitorizare si corectare a deficientelor.
+(2) Obiectivele activitatii de control intern/conformitate sunt:
+a) desfasurarea acesteia in conditii de eficienta;
+b) fumizarea unor informatii corecte, credibile, relevante, complete
+si oportune in luarea deciziilor de catre membrii consiliului de
+administratie/consiliului de supraveghere sau directori/directorat, dupa caz,
+precum si de catre utilizatorii extemi ai informatiilor;
+c) supravegherea respec&ii de catre administrator si personalul acestuia
+a actelor normative aplicabile si a reglement^ilor/normelor/procedurilor/regulilor
+interne;
+d) reducerea riscurilor de neindeplinire a obligatiilor de catre
+administrator.
+(3) Activitatea de control intern/conformitate se desfasoara in mod
+independent de activitatile pe care administratorul le monitorizeaza si
+controleaza, astfel incat:
+a) sa evalueze in mod continuu eficacitatea si modul adecvat de
+punere in aplicare a masurilor §i procedurilor administratorului, precum si
+masurile dispuse pentru rezolvarea oricaror situatii de neindeplinire a
+obligatiilor acestuia;
+b) sa urmareasca desfasurarea activitafii de administrare a fondului
+in conditii de eficacitate.
+(4) Pentru a permite persoanei care conduce structura de control
+intern/conformitate sa isi duca la indeplinire responsabilitatile in mod corect
+si independent, administratorul trebuie sa se asigure ca aceasta:
+a) are autoritatea, resursele si experienta necesare, precum si acces
+la toate informatiile relevante;
+b) are atributii aferente activitatii de control intern, precum si
+metode de remunerare, astfel incat sa nu ii fie afectata obiectivitatea sau sa
+conduca la aceasta posibilitate;
+c) nu este implicata in desfasurarea activitatilor pe care le
+monitorizeaza;
+d) participa, in calitate de invitat, la s^dinta consiliului de
+administratie/consiliului de supraveghere, atunci cand pe ordinea de zi a
+acesteia este prevazuta dezbaterea raportului prevazut la alin. (7).
+
+23
+(5) Activitatea de control intem/conformitate este implementata
+pentru fiecare nivel organizatoric al administratorului si se exercita in functie
+de dimensiunea, natura si complexitatea acestuia.
+(6)
+Este interzisa externalizarea activitatii de control
+intern/conformitate de catre administrator.
+(7) in exercitarea atributiilor sale, persoana care conduce structura
+de control intern/conformitate are obligatia de a intocmi semestrial un raport
+de control intern, care se transmite A.S.F. in conformitate cu reglementarile
+acesteia.
+Art. 30. - Functia de administrare a riscurilor
+(1) Administratorul are obligafia de a constitui o structura de
+administrare a riscurilor.
+(2) Obiectivele activitatii de administrare a riscurilor sunt
+identificarea, analizarea, evaluarea, diminuarea, monitorizarea si raportarea
+riscurilor la care sunt expuse fondurile si administratorul, in mod
+proportional cu dimensiunea §i organizarea lor interna, precum §i cu volumul,
+natura, amploarea si complexitatea activitatii desfa§urate.
+(3) Activitatea de administrare a riscurilor trebuie sa se realizeze cu
+luarea in considerare a factorilor intemi §i extern! care afecteaza activitatea
+fondului §i administratorului acestuia, avand in vedere urmatoarele:
+a) calculul §i constituirea provizionului;
+b) administrarea activelor si a pasivelor;
+c) strategia de investitii;
+d) gestionarea riscului de lichiditate §i a riscului de concentrare;
+e) gestionarea riscului operational;
+f) asigurarea si alte tehnici de diminuare a riscurilor;
+g) riscurile de mediu, sociale si de guvernanta asociate cu
+portofoliul de investitii si gestionarea acestora;
+h) alji factori prevazu^i de reglementarile A.S.F.
+(4) in functie de tipul scheme! de pensii ocupationale, sistemul de
+gestionare a riscurilor trebuie sa ia in considerare riscurile suportate de
+participan^i.
+(5) Pentru riscurile identificate, administratorul efectueaza analize
+cantitative si/sau calitative, utilizand teste de stres, dupa caz.
+(6) Persoana care conduce structura de administrare a riscurilor
+raporteaza structurii de conducere in scopul de a oferi fundamentare pentru
+revizuirea si imbunatatirea politicii de administrare a riscurilor si a limitelor
+de expunere fixate, inclusiv pentru adoptarea de masuri adecvate daca
+rezultatele testelor indica o vulnerabilitate semnificativa.
+
+24
+(7) Persoana care conduce structura de administrare a riscurilor are
+obligatia de a intocmi semestrial un raport de rise, in conformitate cu art. 115,
+care se transmite A.S.F. in conformitate cu reglementarile acesteia.
+(8) Este interzisa externalizarea activitatii de administrare a
+riscurilor.
+Art. 31. - Functia de administrare a investiliilor
+(1) Administratorul are obligatia de a constitui o structura separata,
+responsabila cu administrarea investitiilor, cu analiza oportunitatilor
+investitionale si plasarea activelor in conformitate cu strategia stabilita de
+consiliul de administratie sau de consiliul de supraveghere, dupa caz.
+(2) Este interzisa externalizarea activitatii de administrare a
+investitiilor.
+Art. 32. - Obligafia privind existenfa unui sistem informatic
+Administratorul trebuie sa dispuna de un sistem informatic care sa
+asigure pastrarea in siguranja a evidentelor operationale §i contabile ale
+fondului, ale valorii activului net, ale numarului de unitati de fond ale
+participantilor, ale platii drepturilor participantilor/mo§tenitorilor acestora,
+definiti conform prevederilor Codului civil, evidentierea modului de calcul al
+tuturor comisioanelor, taxelor §i tarifelor incasate sau datorate, modul de
+calcul al obligatiilor de plata.
+Art. 33. - Inceperea activitatii de administrare
+Administratorul poate incepe activitatea de administrare de la data
+comunicarii deciziei de autorizare de administrare a fondului.
+Art. 34. - Activitatea de administrare a fondurilor
+(1) Activitatea de administrare a fondurilor cuprinde urmatoarele:
+a) administrarea §i investirea activelor fondului;
+b) evaluarea portofoliului de active §i determinarea valorii activului
+§i pasivului fondului;
+c) gestionarea operajiunilor zilnice ale fondului;
+d) convertirea contributiilor;
+e) calculul activului net al fondului;
+f) calculul §i plata pensiilor ocupa^ionale, dupa caz;
+g) constituirea ^i actualizarea registrului participantilor;
+h) calculul ratelor de rentabilitate;
+i) reflectarea elementelor de natura activelor, datoriilor, capitalurilor
+proprii, cheltuielilor §i veniturilor;
+j) calculul provizionului tehnic;
+
+25
+k) gestionarea relajiilor cu entita^ile implicate in domeniul pensiilor
+ocupationale;
+l) dispunerea efectuarii plajilor datorate entita^ilor implicate in
+domeniul pensiilor ocupa|ionale §i A.S.F.;
+m) elaborarea, prezentarea, depunerea, publicarea §i distribuirea
+catre A.S.F., angajatori §i participanti, a situajiilor financiare anuale §i a
+rapoartelor prevazute de prezenta lege;
+n) gestionarea, pastrarea §i arhivarea documentelor privind fondul,
+angajatorii, contribu|iile, participantii ^i mo^tenitorii acestora, defini^i
+conform prevederilor Codului civil, dupa caz, precum §i altele asimilate, cu
+respectarea legisla^iei in domeniu;
+o) alte activitafi prevazute in regiementarile A.S.F.
+(2) Ca principiu general, administratorul tine seama, dupa caz, in
+cadrul activitajii de administrare a fondurilor, de obiectivul repartizarii
+echitabile a riscurilor si a beneficiilor intre generatii.
+Art. 35. - Segregarea activelor
+(1) Activita^ile de administrare §i fumizare a pensiilor ocupationale,
+precum §i toate activele §i angajamentele corespunzatoare acestora sunt
+restrictionate, gestionate §i organizate separat de alte activita^i ale
+administratorului, fara posibilitate de transfer.
+(2) Activele §i pasivele unui fond sunt evidentiate §i ^inute separat
+de cele ale administratorului, ale celorlalte fonduri de pensii ocupafionale
+administrate, precum §i de cele ale altor fonduri de pensii private
+administrate.
+Art. 36. - Externalizarea
+(1) Administratorul poate externaliza, partial sau in totalitate,
+activitatile prevazute la art. 34 alin. (1) lit. h) - n) unor prestatori de servicii
+care sa opereze in numele sau.
+(2) Administratorul nu poate delega raspunderea §i ramane pe
+deplin responsabil de respectarea obligatiilor care ii revin in temeiul prezentei
+legi atunci cand externalizeaza oricare dintre activita{ile prev^ute la art. 34
+alin, (1) lit. h) -n).
+(3) Externalizarea se realizeaza in asa fel incat sa se evite oricare
+dintre urmatoarele consecinte:
+a) diminuarea calitatii sistemului de guvernanta al
+administratorului;
+b) cresterea nejustificata a riscului operational;
+c) subminarea capacitafii A.S.F. de a supraveghea respectarea de
+catre administrator a obligatiilor sale;
+
+26
+d) prestarea de servicii catre participanti si mo^tenitorii acestora,
+definiti conform prevederilor Codului civil, in mod defectuos, cu incalcarea
+prevederilor legale si contractuale.
+(4)
+Administratorul asigura functionarea corespunzatoare a
+activitatilor extemalizate prin procesul de selectie a unui prestator de servicii
+si prin monitorizarea continua a activitatilor acestuia.
+(5) Extemalizarea activitatilor prevazute la alin. (1) se realizeaza in
+baza unui contract incheiat intre administrator si prestatorul de servicii.
+(6) Administratorul este obligat sa notifice A.S.F. intenjia de a
+efectua operajiunile prevazute la alin. (1), inainte de a incheia contractul
+prevent la alin. (5).
+Art. 37. - Taxa de funcfionare
+Administratorul achita A.S.F. de la momentul autorizarii fondului,
+pe toata durata de func{ionare a acestuia, o taxa lunara, conform
+reglementarilor A.S.F.
+Art. 38.
+Emiterea de reglementari privind modul de
+funcfionare a administratorilor
+(1) A.S.F. emite reglementari cu privire la:
+a) cerinjele pentru autorizarea persoanelor din structura de
+conducere si a celor care detin funcdi-cheie;
+b) principiile de organizare si functionare a structurilor prevazute la
+art. 26 alin. (2);
+c) confinutul minim al rapoartelor prevazute la art. 28 alin. (4),
+art. 29 alin. (7) §i art. 30 alin. (7);
+d) calculul §i raportarea taxei de functionare a administratorilor;
+e) reguli aplicabile externalizarii activitatilor care intra sub
+incidenta prezentei legi;
+f) contabilitatea administratorilor si a fondurilor, respectiv a
+Fondului de garantare;
+g) organizarea activitatii de arhiva a administratorilor.
+(2) Emiterea reglementarilor prevazute la alin. (1) lit. f) se
+realizeaza cu avizul Ministerului Finantelor Publice.
+SECTIUNEA a 4-a
+Reguli prudenfiale
+Art. 39. - Regulile prudenfiale
+(1) Administratorul trebuie sa respecte in orice moment, pe
+parcursul desfa^urarii activitafii, regulile de prudenfialitate stabilite prin
+prezenta lege si prin reglementarile A.S.F.
+
+27
+(2) Regulile pmdentiale sunt cuprinse in reglementarile interne ale
+administratorului si se refera, fara a se limita la:
+a) stabilirea directiilor principale de activitate §i de dezvoltare ale
+administratorului;
+b) stabilirea politicilor contabile §i a sistemului de control fmanciar,
+precum §i aprobarea planificarii financiare;
+c) stabilirea unor proceduri administrative §i contabile corespunzatoare,
+de control siguran^a pentru procesarea electronica a datelor, precum §i
+mecanisme adecvate de control intern;
+d) stabilirea de proceduri adecvate care sa asigure separarea
+activelor §i pasivelor administratorului §i ale fiecarui fond de pensii private
+administrat;
+e) stabilirea unor proceduri cu privire la mecanismele de adoptare a
+deciziilor, la modalitatile de raportare interna §i la administrarea conflictului
+de interese;
+f) stabilirea unor proceduri adecvate care sa asigure posibilitatea ca
+opera^iunile efectuate de administrator sa fie reconstituite, inclusiv in ceea ce
+prive^te parfile implicate, timpul §i locul in care au fost efectuate;
+g) stabilirea de politici scrise in ceea ce priveste gestionarea
+riscurilor, auditul intern si, daca este cazul, activitatile actuariale si cele
+extemalizate;
+h) pastrarea inregistrarilor tranzacfiilor desfa§urate, pentru a permite
+verificarea respectarii regulilor prudenfiale, regulilor de guvemanfa
+corporativa, precum §i a altor cerinfe legale.
+(3) Politicile prevazute la alin. (2) lit. g) sunt revizuite cel putin o
+data la trei ani sau ori de cate ori este necesar.
+Obligati in scopul protejarii intereselor
+participandlor mo$tenitorilor acestora
+in scopul protejarii intereselor participandlor §i ale mo^tenitorilor
+acestora, defmifi conform prevederilor Codului civil §i a integritafii
+sistemului de pensii ocupafionale, administratorul are urmatoarele obligatii:
+a) sa acfioneze cu onestitate, corectitudine §i diligenfa profesionala;
+b) sa evite conflictele de interese;
+c) sa asigure participandlor §i mo^tenitorilor acestora, defmifi
+conform prevederilor Codului civil un tratament corect, egal si
+nediscriminatoriu.
+Art. 40.
+Art. 41. - Emiterea de reglementari privind regulile pruden^iale
+A.S.F. emite reglement^i privind:
+a) aplicarea de catre administratori a regulilor prudentiale;
+b) aplicarea principiilor de guvemanfa corporativa.
+
+28
+SECJIUNEA a 5-a
+Finanfarea activitafii administratorului
+Art. 42. - Comisionul de administrare
+(1) Pentru activitatea de administrare, administratorul percepe un
+comision de administrare, prin:
+a) deducerea a unui procent de maximum 0,2% pe luna din activul
+net al fondului, si/sau
+b) perceperea unei sume fixe care se suporta de catre angajator.
+(2) Cuantumul comisionului de administrare se stabile§te prin
+contractul de administrare si este prevazut in prospect.
+(3) Modificarea comisionului de administrare se comunica
+participanjilor cu cel pu^in 90 de zile inainte de aplicare.
+(4) Modificarea comisionului de administrare prevazut la alin. (2)
+este supusa regulilor de informare a participan{ilor prevazute in schema de
+pensii ocupationale si este notificata A.S.F.
+(5) Comisionul de administrare prev^ut la alin. (1) poate fi platit de
+catre angajator, din surse proprii, cu aplicarea corespunzMoare a alin. (2) - (4).
+Art. 43. - Veniturile administratorului
+Veniturile administratorului aferente activitafii de administrare a
+unui fond se constituie din comisioanele de administrare aferente schemelor
+de pensii ocupafionale administrate.
+Emiterea de reglementari privind finanfarea
+Art. 44.
+activitafii administratorului
+A.S.F. emite reglementari privind:
+a) metodologia de calcul §i raportare a comisionului de administrare;
+b) procedura de comunicare a modific^i comisionului de administrare;
+c) raportarea venituriior administratorului;
+d) reguli de notificare a modificarii comisionului de administrare.
+CAPITOLUL III
+Schema de pensii ocupafionale si prospectul
+SECJIUNEA I
+Schema de pensii ocupafionale
+Art. 45. - Elementele constitutive ale scheme! de pensii
+ocupafionale
+(1) Schema de pensii ocupafionale trebuie sa confina urmatoarele:
+a) tipul scheme! de pensii ocupationale;
+
+29
+b) cuantumul §i periodicitatea contributiilor;
+c) informatii privind proporfiile de impartire a contributiilor intre
+angajator angajat, dupa caz;
+d) metode prin care se pot efectua pla^i ale drepturilor
+participantilor, precum si frecvenja, durata 51 modificarea acestor pla|i;
+e) modalitatea de schimbare a cuantumului contributiilor;
+f) garantiile oferite, dupa caz;
+g) informatii referitoare la vesting, dupa caz;
+h) condijiile de acordare a contravalorii activului personal in caz de
+invaliditate, deces si deschiderea dreptului la pensie.
+(2) Schema de pensii ocupationale poate fi de tip contributii definite
+sau contributii definite cu garantii.
+(3) Dreptul de a propune o schema de pensii ocupationale apartine
+angajatorului, prin contractui colectiv de munca, sau in lipsa acestuia, prin
+contracted individuale de munca ale tuturor angajatilor, sau in temeiul unor
+rapoarte de serviciu sau acte de numire, dupa caz, in baza carora flecare
+angajat isi desfasoara activitatea.
+(4) Toate informatiile privind schema de pensii sunt furnizate de
+catre angajator.
+Art 46. - Aderarea angajatilor proprii la o schema de pensii
+ocupationale
+(1) Administratorul transmite angajatorului actele individuale de
+aderare spre a fi completate si semnate de catre fiecare angajat, viitor
+participant.
+(2) Angajatorul transmite administratorului actele individuale de
+aderare completate.
+Art. 47. - Emiterea de reglementari privind schema de pensii
+ocupationale
+A.S.F. emite reglementari privind regulile schemei de pensii
+ocupationale.
+SECJIUNEA a 2-a
+Prospectul
+Art. 48. - Prospectul fondului
+Fiecare fond are un prospect distinct §i autorizat.
+Art. 49. - Elementele obligatorii ale prospectului
+(1) Prospectul este elaborat §i propus de catre administrator, care
+fumizeaza toate informatiile privind acesta.
+
+30
+(2) Administratorul trebuie sa ob^ina autorizarea prospectului de
+cktTQ A.S.F..
+(3) Prospectul confine obligatoriu urmatoarele elemente:
+a) denumirea §i sediul administratorului;
+b) informa^ii despre fond, depozitar si auditorul financiar;
+c) termenii si conditiile schemei de pensii ocupationale si ale
+contractului de administrare;
+d) principiile si politica de investitii aplicate unitar tuturor
+schemelor de pensii ocupationale;
+e) riscurile financiare, tehnice §i de alta natura;
+f) natura §i distributia riscurilor prevazute la lit. e);
+g) imparjirea intre participanji a rezultatelor din investitii in mod
+proportional cu numarul de unitati de fond detinute de catre ace^tia;
+h) dreptul exclusiv de proprietate al participantilor asupra activului
+personal existent in conturile individuate sau amanarea momentului la care
+se naste acest drept in situajia existentei unor clauze referitoare la vesting;
+i) conditiile privind plata contributiilor;
+j) conditiile de acordare a contravalorii activului personal in caz de
+invaliditate, deces si deschiderea dreptului la pensie;
+k) periodicitatea §i procedura de raportare catre participant!;
+l) conditiile §1 procedurile de incetare a participarii la fond §i de
+transfer la un alt fond;
+m) informatii privind modul si masura in care factorii de media,
+climatic!, social! si cei legati de guvemanta corporativa sunt luati in
+considerare in cadrul politic!! de investidi;
+n) indicatii cu privire la modul in care pot fi obtinute informatii
+suplimentare.
+(4) In cazul in care schema de pensii ocupationale §i/sau
+prospectul prevad clauze referitoare la vesting, angajatul poate incepe sa
+contribuie doar ulterior date! la care acesta dobande^te dreptul de proprietate
+asupra activului personal.
+(5) In cazul aplicMi clauzei privind vestingul, administratorul
+retumeaza angajatorului contravaloarea activului personal al unui participant,
+mai putin deducerile legale.
+A
+Art. 50. - Incasarea de contributii
+Administratorul procedeaza la incasarea de contributii numai dupa
+autorizarea prospectului si a fonduiui, sub sanctiunea retragerii autorizmi de
+functionare a administratorului.
+
+31
+Art. 51. - Autorizarea prospectului
+(1) In vederea autorizarii unui prospect, administratorul transmite
+A.S.F. o cerere de autorizare, msotita de urmatoarele documente:
+a) proiectul prospectului;
+b) schema/schemele de pensii ocupationala/ocupa^ionale;
+c) contractul de administrare;
+d) contractul de depozitare;
+e) contractul de custodie;
+f) contractul de societate;
+g) dovada pla^ii taxei de autorizare a prospectului.
+(2) A.S.F. aproba sau respinge,dupa caz, cererea de autorizare, prin
+decizie.
+Art. 52, - Modiflcarea prospectului
+(1) Modiflcarea prospectului se autorizeaza de catre A.S.F..
+(2) Autoritatea poate respinge modificarile solicitate daca acestea:
+a) prejudiciaza interesul participantilor;
+b) creeaza inechitati mtre participant;
+c) nu respecta legislatia in vigoare.
+(3) Administratorul are obligatia sa prezinte A.S.F. dovada
+informarii participantilor, cu privire la modiflcarea prev^uta la alin. (1).
+Art. 53. - Retragerea autorizarii prospectului
+(1) A.S.F. poate retrage prin decizie, scrisa si motivata, autorizarea
+unui prospect in situatiile in care constata ca administratorul a incalcat
+dispozitiile prezentei legi si ale reglementarilor A.S.F.
+(2) Cu cel pujin 30 de zile calendaristice inainte de a proceda la
+retragerea autorizarii, A.S.F. notifica administratorului fondului respeetiv §i
+angajatorului/angajatorilor inten^ia §i motivele retragerii.
+(3) In termen de 30 de zile calendaristiee de la data primirii
+notificarii A.S.F., administratorul are obligatia sa raspunda acestei notiflcari
+§i, daca este cazul, sa propuna un plan de remediere.
+(4) A.S.F. poate aproba planul de remediere propus §i acorda un
+termen de punere in aplicare.
+(5) in cazul in care A.S.F. nu prime§te raspuns in termenul
+prevazut la alin. (3) sau daca raspunsul primit ori planul de remediere propus
+nu indeplineste eonditiile legale, procedeaza la retragerea autorizarii
+prospectului ^i fondului.
+(6) Decizia de retragere a autorizarii prospectului, scrisa §i
+motivata, se comunica in termen de 10 zile lucratoare de la adoptarea acesteia
+§i poate fi ataeata la instanta judecatoreasca competenta, in conformitate cu
+prevederile Legii nr. 554/2004, cu modificarile §i completarile ulterioare.
+
+32
+(7) Contestatia adresata instantei de contencios administrativ
+competente nu suspenda, pe timpul solutionarii acesteia, decizia prevazuta la
+alin. (1).
+Art. 54. - Retragerea autorizarii fondului in cazul retragerii
+autorizarii prospectului
+Retragerea de catre A.S.F. a autorizarii unui prospect conduce la
+retragerea autorizarii fondului.
+Art. 55.
+Emiterea de reglementari privind prospectui
+fondului
+A.S.F. emite reglementM referitoare la:
+a) con|inutul prospectului;
+b) procedura de autorizare, modiflcare si retragere a autorizarii
+prospectului.
+CAPITOLUL IV
+Fondul
+SECTIUNEA 1
+Infiinfarea §i autorizarea fondurilor
+A
+Art. 56. - Inflinfarea fondului
+(1) Un fond poate fi administrat numai de catre un administrator
+autorizat in acest scop de catre A.S.F.
+(2) Inijiativa constituirii unui fond apar{ine exclusiv unui
+administrator autorizat, in conformitate cu decizia adoptata de catre structura
+de conducere a acestuia potrivit competentelor stabilite prin actul constitutiv.
+Art. 57. - Date de identificare ale fondului
+(1) Sediul fondului este acela§i cu cel al administratorului.
+(2)
+Denumirea fondului confine sintagma fond de pensii
+ocupafionale.
+Art. 58. - Contractul de societate
+(1) Contractul de societate este intocmit in forma scrisa de catre
+administrator.
+(2) Contractul de societate reprezinta un contract-cadru de adeziune
+la care participantul devine parte prin semnarea actului individual de aderare.
+(3) Prin derogare de la prevederile art. 1910 alin. (2) si (3) din Codul
+civil, republicata, cu modificMle ulterioare, contractul de societate poate fi
+modificat lapropunerea administratorului, cu acordul angajatorului/angajatorilor.
+
+33
+(4) A.S.F. analizeaza modificarile prevazute la alin. (3) aproba
+sau respinge prin decizie modificarea contractului de societate.
+Art. 59, - Contractul de administrare
+(1) Contractul de administrare se incheie de catre angajator cu un
+administrator autorizat de A.S.F.
+(2) A.S.F. elaboreaza modelul contractului-cadru de administrare,
+care confine in mod obligatoriu urmatoarele:
+a) parjile contractante;
+b) principiile schemei de pensii ocupationale;
+c) principalele drepturi §i obliga^ii ale parjilor contractante §i
+modalitatea de implementare;
+d) obligatiile de informare ale administratorului fa^a de participant!
+§i autorita{i;
+e) raspunderea parjilor contractante;
+f) durata contractului de administrare, modalitatile de modificare §i
+de incetare a contractului de administrare.
+Art. 60. - Modificarea contractului de administrare
+(1) In situatia modificarii contractului de administrare, A.S.F.
+analizeaza modificarile propuse §i le aproba sau respinge prin decizie.
+(2) In cazul in care angajatorul §i administratorul nu convin asupra
+termenilor de modificare a contractului de administrare, angajatorul poate
+decide incetarea contractului de administrare §i transferul angajatilor sai, a
+activelor personate ale acestora, precum §i a schemei de pensii catre un alt
+fond, avand drept obligatie sa actioneze in interesul participantilor, cu
+prudenta §i diligenta.
+(3) In cazul in care un singur angajator a incheiat un contract de
+administrare pentru un fond, in termen de 12 luni de la data ramanerii
+definitive a hotararii de pronuntarea a falimentului angajatorului, participant!!
+solicita administratorului transferul activelor personate la un fond de pensii
+ocupationale sau transferul activelor personate la un fond de pensii
+facultative.
+(4) In situatia in care participant!! nu isi exprima optiunea in
+termenul prevazut la alin. (3), administratorul transfera activele personate ale
+acestora la un fond de pensii facultative selectat conform regiementarilor
+emise de A.S.F..
+Art. 61. - Reprezentarea fondului in raport cu administratorii
+si tertii
+(1) Angajatorul reprezinta participantii la fond in relafiile cu
+administratorul.
+
+34
+(2) Administratorul reprezinta fondul in raporturile cu ter{ii, inclusiv
+in fa^a instanjelor judecatore§ti.
+(3) Ac^iunile §i cererile in legatura cu administrarea fondului,
+introduse la instan^ele judecatore§ti, de participant! sau de institutiile publice,
+sunt scutite de taxa judiciara de timbru.
+(4) Administratorul este obligat sa informeze angajatorul despre
+activitatea desfa§urata, in conformitate cu contractul de administrare §i cu
+reglementarile A.S.F..
+Art. 62. - Autorizarea fondului
+(1) Fondul este autorizat de catre A.S.F..
+(2) Decizia de autorizare a fondului se elibereaza in baza unei cereri
+formulate de catre administratorul care va administra respectivul fond,
+inso^ita de urmatoarele:
+a) documentui care atesta, dupa caz, autorizarea ca administrator de
+fonduri de catre autoritaji competente dintr-un stat membru al Uniunii
+Europene sau apar^inand Spa^iului Economic European;
+b) contractul de administrare;
+c)
+contracted de depozitare §i custodie incheiate intre
+administratorul fondului §i depozitar, contracte incheiate sub condijia
+autorizarii fondului §i care intra in vigoare la data autorizarii acestuia;
+d) contractul incheiat intre administratorul fondului §i auditorul
+financiar, pentru auditarea activitafii fondului, contract incheiat sub condi{ia
+autorizarii fondului §i care intra in vigoare la data autorizarii acestuia;
+e) contractul de societate;
+f) proiectul prospectului;
+g) actul individual de aderare la fond;
+h) dovada existentei a cel pu^in 100 de persoane care vor fi
+participant! la fond;
+i) dovada plajii taxei pentru cererea de autorizare.
+Art. 63. - Analiza cererii de autorizare a unui fond
+(1) A.S.F. analizeaza cererea de autorizare a unui fond ^i, in termen
+de 30 de zile calendaristice de la inregistrarea acesteia a documentatiei
+prevazuta la art. 62 alin. (2), procedeaza la aprobarea sau la respingerea
+cererii, prin decizie scrisa §i motivata.
+(2) Orice solicitare a A.S.F. de informatii suplimentare sau de
+modificare a documentelor prezentate intrerupe termenul prevazut la alin. (1),
+un nou termen incepand sa curga de la data depunerii respectivelor informatii
+sau modificari, depunere care nu poate fi facuta mai tarziu de 30 de zile
+calendaristice de la data solicitarii A.S.F., sub sancfiunea respingerii cererii
+de autorizare a unui fond.
+
+35
+(3) Decizia de autorizare sau decizia de respingere, dupa caz, se
+comunica in termen de 10 zile lucratoare de la adoptarea acesteia.
+Art. 64. - Respingerea cererii de autorizare a unui fond
+(1) A.S.F. respinge cererea de autorizare a unui fond, daca:
+a) cererea sau documentele primite nu sunt conforme cu dispozitiile
+prezentei legi;
+b) documentele prezentate contin clauze sau, dimpotriva, nu conjin
+anumite clauze, fapt ce poate avea ca efect prejudicierea intereselor
+participan{ilor la fond sau nu protejeaza in mod adecvat interesele
+participanlilor;
+c) exista posibilitatea ca administrarea fondului, ca volum sau
+complexitate, sa nu fie desfa§urata in conformitate cu practica administrarii
+solide §i prudente a fondurilor, potrivit reglementarilor A.S.F.
+(2) In cazul respingerii cererii de autorizare a unui fond, A.S.F.
+informeaza administratorul care a formulat cererea despre motivele
+respingerii.
+Art. 65. - Retragerea autorizarii fondului
+(1) A.S.F. poate retrage autorizarea unui fond in urmatoarele
+situatii:
+a) cand nu sunt respectate prevederile prospectului;
+b) cand numarul de participanti la fond a scazut sub minimul legal
+de 100 de persoane §i se mentine timp de 12 luni consecutiv;
+c) cand este in interesul participan^ilor;
+d) cand rata de rentabilitate a unui fond este mai mica decat rata de
+rentabilitate minima pentru 6 trimestre consecutive.
+(2) Administratorului ii este interzisa investirea activelor fondului
+din momentul retragerii autorizarii fondului.
+Art. 66. - Decizia de respingere si decizia de retragere a
+autorizarii fondului
+(1) Decizia de respingere a cererii de autorizare a fondului si decizia
+de retragere a autorizarii fondului pot fi atacate la instanta de contencios
+administrativ competenta, potrivit legii.
+(2) Contestatia adresata instantei de contencios administrativ
+competente nu suspenda, pe timpul solutionarii acesteia, decizia de retragere
+a autorizarii fondului.
+(3) In termen de 10 zile lucratoare de la data expirarii perioadei de
+contestare sau, dupa caz, de la data ramanerii definitive a hotararii
+judecatoresti prin care s-a solutionat contestatia, A.S.F. publica anuntul
+
+36
+privind retragerea autorizarii fondului in Monitorul Oficial al Romaniei,
+Partea a IV-a si pe pagina de internet a A.S.F.
+Art. 67. - Resursele Hnanciare §i cheltuielile legate de
+administrare suportate de fond
+(1) Fondul prime§te contributiile participan^ilor dupa autorizarea
+administratorului §i fondului.
+(2) Resursele fmanciare ale fondului sunt:
+a) contribu^iile convertite in unita^i de fond;
+b)
+drepturile cuvenite mo^tenitorilor participan^ilor, defini^i
+conform prevederilor Codului civil, la care ace^tia au renuntat sau care nu au
+fost revendicate in termenul de prescriptie de 10 ani de la data decesului
+participantului;
+c) sumele reprezentand plati ale administratorului/angajatorului din
+resurse proprii conform obligafiilor asumate de administrator prin prospect
+sau de catre angajator prin schema de pensii ocupationale;
+d) sumele provenite din investirea veniturilor prevazute la lit. a) - c).
+(3) Cheltuielile legate de administrare suportate de fond sunt
+urmatoarele:
+a) comisionul de administrare;
+b) comisionul de depozitare ^i de custodie;
+c) comisioanele de tranzactionare;
+d) comisioanele bancare;
+e) onorariul pentru auditul situatiilor fmanciare ale fondului.
+(4) Un fond nu poate fi declarat in stare de faliment.
+Art. 68. - Emiterea de reglementari privind inflinfarea §i
+autorizarea fondurilor
+A.S.F. emite reglementari referitoare la:
+a) inflin|area §i autorizarea fondurilor;
+b) con^inutul minim al contractului de societate prin care se
+constituie un fond, precum si procedura de modificare a acestuia;
+c) continutul minim al contractului de administrare, precum si
+procedura de modificare a acestuia;
+d) opera^iunile de incasari §i pla^i efectuate prin conturile fondului;
+e) fiiziunea fondurilor.
+
+37
+SECTIUNEA a 2-a
+Supravegherea speciala si administrarea speciald
+Art. 69. - Supravegherea speciala
+(1) Supravegherea speciala are drept scop aplicarea unor masuri
+suplimentare pentru limitarea riscurilor §i asigurarea redresarii fondului, in
+vederea protejarii intereselor participantilor ale mo§tenitorilor acestora,
+defini|i conform prevederilor Codului civil, in situa^ia in care se constata
+deficien^e in urma supravegherii sau controalelor efectuate de A.S.F. §i care
+nu sunt situa^ii de natura a institui administrarea speciala.
+(2) Supravegherea speciala se instituie de catre A.S.F., concomitent
+cu desemnarea Consiliului de supraveghere speciala.
+(3) A.S.F. notifica administratorului instituirea supravegherii speciale,
+prin decizie scrisa motivata, care poate fi contestata la instanja judecatoreasca
+competenta, conform, prevederilor legisla^iei in vigoare referitoare la
+contenciosul administrativ.
+(4) Membrii Consiliului de supraveghere speciala au acces la toate
+documentele §i evidenjele fondului §i ale administratorului, fiind obligati sa
+pastreze confidentialitatea informa^iilor.
+(5) Consiliul de supraveghere speciala nu se substituie organelor de
+conducere ale administratorului.
+(6) Consiliul de supraveghere speciala asista §i supervizeaza
+activitatea administratorului referitoare la fond.
+(7) Consiliul de supraveghere speciala are urmatoarele atribu^ii:
+a) analizeaza situa^ia fmanciara a fondului §i a administratorului §i
+prezinta A.S.F. rapoarte periodice despre aceasta;
+b) urmare§te modul in care administratorul aplica masurile de
+remediere a deficien^elor constatate in actele de control intocmite de organele
+de control ale A.S.F.;
+c) urmare^te realizarea planului de remediere a deficien^elor sau de
+redresare fmanciara a fondului, propus de administrator;
+d) suspenda sau desfiin|eaza actele de decizie ale administratorului,
+contrare reglementarilor pruden^iale sau care determina deteriorarea situajiei
+financiare a fondului;
+e) propune A.S.F. aplicarea de sanc^iuni in situa^ia in care
+administratorul nu respecta masurile dispuse de Consiliul de supraveghere
+speciala;
+f) alte atribujii stabilite de A.S.F.
+(8) In perioada exercitarii supravegherii speciale, Consiliul de
+supraveghere speciala avizeaza deciziile adoptate de organele de conducere
+ale administratorului.
+(9) A.S.F. emite reglementari referitoare la supravegherea speciala.
+
+38
+Art. 70. - Instituirea administrarii speciale
+(1) Administrarea speciala are drept scop exercitarea raspunderii
+fiduciare de a pastra valoarea activelor fondurilor §i de a limita pierderile, in
+vederea protejarii drepturilor cuvenite participant!ior §i mo§tenitoriIor
+acestora, defini^i conform prevederilor Codului civil.
+(2) Administrarea speciala se instituie in cazul retragerii autorizatiei
+prospectului si a fondului §i/sau a autorizatiei de administrare.
+(3) In ziua lucratoare urmatoare datei adoptarii deciziei de retragere
+a autorizatiei de administrare ori a autorizatiei prospectului §i a fondului,
+A.S.F. notifica administratorul cu privire la retragerea autorizatiei §i solicita
+oferte celorlalfi administrator! pentru preluarea in administrare speciala a
+fondului.
+Art. 71. - Desemnarea administratorului special
+(1) in termen de 5 zile calendaristice de la data notificarii,
+administratorii transmit ofertele de administrare speciala.
+(2) In termen de 5 zile calendaristice de la expirarea termenului
+prevazut la alin. (1), A.S.F. selecteaza ofertele de administrare speciala.
+(3) Principalele criterii de selectie a ofertelor constau in
+performania administratorilor, politica investitionala §i nivelul cheltuielilor
+legate de administrare.
+(4) Administratorul selectat potrivit criteriilor de selectie prevazute
+la alin. (3) preia in administrare activele fondului.
+(5) in cazul in care administratorii nu transmit oferte, A.S.F.
+desemneaza un administrator special, dupa expirarea termenului prevazut la
+alin. (1), dintre administratorii autorizati.
+Art. 72. - Transferul participantilor in perioada administrarii
+speciale
+(1) in ziua lucratoare, urmatoare desemnarii administratorului
+special, A.S.F. anunta fiecare angajator al participantilor la fond despre
+necesitatea alegerii unui nou administrator, in termen de 90 de zile
+calendaristice.
+(2) in termen de 30 de zile calendaristice de la implinirea
+termenului prevazut la alin. (1), administratorul special procedeaza la
+efectuarea transferului activelor personale ale participanjilor la noul fond ales
+de catre fiecare angajator.
+
+39
+Art. 73. - Decizia de instituire a administrarii speciale si decizia
+de desemnare a administratorului special
+Decizia de instituire a administrarii speciale si decizia de desemnare
+a administratorului special pot fi contestate la instan^a de contencios
+administrativ competenta, potrivit legii.
+Art. 74. - Informarea participantilor privind administrarea
+speciala
+Anuntul privind instituirea sau revocarea administrarii speciale,
+precum §i a administratorului special desemnat se publica, de catre A.S.F., in
+Monitorul Oficial al Romaniei, Partea a IV-a si pe pagina de internet a A.S.F.
+Art. 75. - Emiterea de reglementari privind administrarea
+speciala
+A.S.F. emite reglementari referitoare la:
+a) criteriile de selectare §ii condijiile pe care trebuie sa le indeplineasca
+administratorul special;
+b) atribu^iile administratorului special;
+c) procedura de administrare a fondului pana la data ramanerii
+definitive a hotararii instan^ei de contencios administrativ competente.
+SECTIUNEA a 3-a
+Transferal participantilor
+Art. 76. - Transferul unui participant de la un fond la un alt
+fond
+(1) Transferul unui participant de la un fond la un alt fond se poate
+realiza in condi^iile prevazute de prospectul fondului de la care se transfera §i
+la care se transfera.
+(2) La incetarea relatiilor contractuale cu angajatorul, participantul
+poate sa opteze pentru:
+a) transferul valorii activului personal la unui sau mai multe fonduri
+de pensii ocupationale §i/sau facultative;
+b) pastrarea calitatii de participant, urmand a cumula activele
+personale la momentul deschiderii dreptului de pensie.
+(3) Un fond de pensii reglementat de prezenta lege poate primi
+activul personal al unui participant care se transfera de la un alt fond de
+pensii facultative sau de la un alt fond de pensii ocupationale.
+(4) Este interzisa aplicarea de penalitati la transfer, in conditiile
+prezentei legi.
+
+40
+Art. 77. - Viramentul de lichiditati bane^ti in cazul unui
+transfer
+(1) Participantul care dore§te sa transfere activul personal la un alt
+fond este obligat sa in^tiin^eze administratorul fondului de la care doreste sa
+se transfere §i sa ii transmita acestuia o solicitare in acest sens, Dispozitiile
+art. 76 se aplica in mod corespunzator.
+(2) In luna urmatoare celei in care a fost depusa cererea de transfer,
+administratorul efectueaza transferal de lichiditaji bane§ti catre noul fond.
+(3) Transferal de lichiditati bane§ti cuprinde activul personal,
+calculat la valoarea unitatii de fond valabila pentru ziua in care se efectueaza
+plata, precum §1 garantiile prevazute de prospect, dupa caz, mai pu{in
+deducerile legale.
+Art. 78. - Emiterea de reglementari privind transferul
+participantiior
+A.S.F. emite reglementari cu privire la procedura care trebuie
+indeplinita de ctoe administrator! si de catre participant!, in vederea realizarii
+transferului activului personal la un alt fond.
+CAPITOLUL V
+Participant!, contribufi! §i conturi ale participanfilor
+Art. 79. - Calitatea de participant la un fond
+(1) Calitatea de participant poate fi dobandita de catre:
+a) angajatul, functionarul public sau persoana autorizata sa
+desfa§oare o activitate independenta, potrivit legii, persoana care i§i
+desfa§oara activitatea in func^ii elective sau care este numita in cadrul
+autoritatii executive, legislative ori judecatore§ti, pe durata mandatului,
+membrul unei societa^i cooperative potrivit dispozitiilor Legii nr. 1/2005
+privind organizarea §i func^ionarea cooperatiei, republicata, cu modificarile
+ulterioare, precum §i alta persoana care realizeaza venituri asimilate salariilor,
+venituri din activita^i profesionale sau agricole, care adera la un fond §i care
+contribuie sau/§i in numele careia s-au platit contributii la un fond §i are un
+drept viitor la o pensie ocupationala;
+b) persoana pentru care se platesc, in baza unor contracte de mandat
+sau contracte de management, contributii la un fond, din care rezulta un drept
+viitor la o pensie ocupationala;
+c) persoana care actioneaza ca propriul sau angajator, exercita o
+activitate independenta sau orice asocieri intre acestea §i a semnat un contract
+de administrare incheiat cu un administrator.
+
+41
+(2) In categoria persoanelor fizice care exercita o activitate
+independenta sunt incluse si persoanele asigurate in alte sisteme de asigurari
+sociale neintegrate in sistemul public de pensii.
+(3) Persoanele prev&ute la alin. (2) negociaza ^i semneaza direct cu
+administratorul contractul de administrare a pensiei ocupa^ionale §i un act
+individual de aderare la fond.
+(4) La un fond pot participa angaja^ii unuia sau ai mai multor
+angajatori.
+Art. 80. - Actul individual de aderare la un fond
+(1) Actul individual de aderare la un fond este semnat de catre
+viitorul participant si de catre administratorul fondului.
+(2) In situajia in care angajatul opteaza sa contribuie la un fond,
+contribujia acestuia se stabile§te prin actul individual de aderare.
+(3) Inainte de semnarea actului individual de aderare, viitorii
+participan^i sunt informa^i asupra:
+a) prevederilor scheme! de pensii ocupa^ionale §i ale prospectului;
+b) rezultatelor anterioare ale investitiilor aferente fondului de pensii
+pe 0 perioada de minimum cinci ani sau pe toata durata de operare a
+fondului, in cazul in care aceasta este mai mica de cinci ani.
+(4) Este interzisa oferirea de beneficii colaterale unei persoane cu
+scopul de a o convinge sa adere sau sa ramana participant la un fond.
+Art. 81. - Contribuliile angajatorului la un fond
+(1) Contributiile angajatorului la un fond se stabilesc prin schema
+de pensii ocupationale.
+(2) Obliga^ia legala a angajatorului este limitata la valoarea cu care
+se hotara§te sa contribuie, conform regulilor stabilite prin schema, precum §i
+a comisionului stabilit prin contractul de administrare incheiat cu un
+administrator, pentru fiecare angajat al sau care indepline§te conditiile de
+eligibilitate.
+Art. 82. - IdentiOcarea contributiilor pe baza codului numeric
+personal
+(1) Contribu^iile angajatorului ^i ale angajatului se datoreaza, se
+colecteaza §i se vireaza de catre angajator pe baza numelui, prenumelui §i a
+codului numeric personal al participantului.
+(2) Contributiile persoanelor prevazute la art. 79 alin. (1) lit. c) si
+alin. (2) sunt virate direct de catre acestea pe baza numelui, prenumelui §i a
+codului numeric personal al participantului.
+
+42
+Art. 83. - Drepturile §i obligatiile participantilor la un fond
+(1) Drepturile obligafiile participan{ilor la un fond se stabilesc
+conform prospectului.
+(2) Angajatorul poate stabili cuantumuri diferen^iate de contributie
+proprie pentru angajafii sai pe criterii de vechime, func^ie sau drepturi
+salariale.
+(3) incheierea unor rela^ii contractuale intre o persoana un
+angajator nu poate fi condijionata de obligarea persoanei prevazute la art. 79
+alin. (1) de a contribui in nume propriu la un fond.
+(4) Angajatorul nu poate face rejineri din veniturile pe care i le
+datoreaza angajatului pentru contribu^iile datorate de angajat la un fond fara
+acordul scris al angajatului, consemnat in actul individual de aderare la un
+fond sau, ulterior, intr-o notificare transmisa administratorului si
+angajatorului.
+Art. 84. - Forma-cadru a actului individual de aderare §i
+modiHcarea acesteia
+(1) Forma-cadru a actului individual de aderare, precum §i modificarea
+acesteia, sunt stabilite de catre A.S.F., prin reglement^i.
+(2) Forma actului individual de aderare se stabiie^te §i se poate
+modifica de catre administrator numai cu autorizarea A.S.F.
+Art. 85. - Nivelul contributiilor platite la un fond §i regimul
+fiscal al acestora
+(1) Angajatorul refine atat contributiile proprii, cat si contributiile
+angaja^ilor sai care au calitatea de participant la un fond §i ie vireaza odata cu
+contributiile de asigurari sociale obligatorii.
+(2) Administratorul este obligat sa notifice angajatorului §i participantului
+neindeplinirea obligatiei de plata fa^a de fond.
+(3) Contributia proprie a unui participant poate fi de maximum o
+treime din veniturile sale salariale brute lunare sau din veniturile asimilate
+acestora fea a depa§i, impreuna cu celelalte refineri pe care le-ar avea,
+jumatate din salariile nete lunare, respectiv din veniturile asimilate.
+(4) Contribufia poate fi imparjita intre angajat §i angajator potrivit
+prevederilor stabilite de schema §i actul individual de aderare.
+(5) Sumele reprezent^d contribufiile la fonduri de pensii ocupafionale
+din Romania sunt deductibile fiscal in conformitate cu legislafia fiscala.
+(6) Participantii pot, in orice moment, sa modifice, cu respectarea
+nivelului prevazut la alin. (3), sa suspende sau sa inceteze contributiile
+proprii la un fond, fara niciun fel de sanctiune, in^tiinfand in scris
+administratorul §1 angajatorul cu cel pufin 30 de zile calendaristice inainte de
+data suspendarii sau incetarii contributiilor.
+
+43
+(7) Modificarea prevazuta la alin. (6) se considera implicita prin
+plata unei alte sume decat cea prevazuta in actul individual de aderare.
+(8) In§tiin|area prevazuta la alin. (6) nu afecteaza calitatea de
+participant la fond.
+(9) Angajatorul poate decide, in orice moment, sa modifice, sa
+suspende sau sa inceteze contributiile la un fond pentru angajatii sai,
+in§tiin^and in scris, administratorul §i angajatii cu cel pu^in 30 de zile
+calendaristice inainte de data aplicarii deciziei.
+A
+Art. 86. - Incetarea plajii
+(1) Daca un participant inceteaza plata contributiei, acesta i§i
+pastreaza drepturile, conform regulilor prospectului §i/sau schemei de pensii
+ocupationale, cu excep^ia cazului in care a solicitat un transfer de lichiditati
+bane§ti catre alt fond.
+(2) Daca un participant devine incapabil de a presta o munca, ca
+urmare a invalidita^ii, acesta va avea dreptul de a primi contravaloarea
+activului personal, in conformitate cu reglementarile A.S.F.
+(3) Daca un participant decedeaza inainte de pensionare, contravaloarea
+activului personal se distribuie mo§tenitorilor participan^ilor, defini^i conform
+prevederilor Codului civil, conform actului de succesiune.
+(4) Participantul la un fond din Romania, care a fost deta§at intr-o
+alta {ara, are dreptul la continuarea pla^ii contributiilor la acel fond pe durata
+deta§arii sale.
+(5) Participant^ la un fond au dreptul la egalitate de tratament §i in
+cazul schimbarii locului de munca, domiciliului sau re^edinjei intr-o alta tara,
+stat membru al Uniunii Europene sau stat apartinand Spatiului Economic
+European, acestia putand pastra dreptul la pensia ocupationala ca§tigata in
+cadrul fondurilor din Romania sau putandu-si transfera contravaloarea
+activului personal, in cuantumul rtoas dupa sc^erea tuturor taxelor §i a
+cheltuielilor aferente prevazute in prospect.
+Art. 87. - Proprietarul activului personal
+(1) Participantul este proprietarul activului personal din contul sau,
+in conditiile prevazute in schema de pensii ocupationale.
+(2) Activul personal este insesizabil, nu poate fi gajat sau cesionat si
+nu poate face obiectul unor masuri de executare silita sau al unor masuri
+asiguratorii, sub sanctiunea nulitatii absolute a actelor prin care se instituie.
+Art. 88. - Convertirea in unitafi de fond
+(1) Contributiile la un fond §i transferurile de lichiditati bane§ti
+primite se convertesc in unitati de fond §i diviziuni ale acestora,
+
+44
+calculate cu 4 zecimale, la valoarea unita^ii de fond valabila pentru ziua in
+care se face convertirea,
+(2) Convertirea prevazuta la alin. (1) se realizeaza in termen de 4
+zile lucratoare de la data incasarii contributiei.
+Art. 89. “ Valoarea initiala a unitatii de fond
+Pentru fondurile nou infiintate, prima convertire in unitati de fond
+care urmeaza platii primei contribu^ii la fond corespunde unei valori a unitatii
+de fond de 10 lei.
+Art. 90. - Calculul unitafii de fond
+(1) Valoarea activelor nete ale unui fond §i valoarea unitatii de fond
+se calculeaza zilnic de catre administrator si depozitar, pe baza datelor din
+ziua precedenta, §i se comunica A.S.F. conform reglementarilor acesteia.
+(2) In situatia in care exista neconcordante intre administrator §i
+depozitar privind valoarea activului net al fondului §i valoarea unitatii de
+fond, valorile corecte sunt convenite de catre administrator §i depozitar pe
+baza reglementarilor A.S.F.
+(3) Valorile corecte stabilite conform prevederilor alin. (2), cauzele
+neconcordantelor §i modul de solutionare se comunica A.S.F. in 3 zile
+lucratoare.
+Art. 91. - Emiterea de reglementari cu privire la participant!,
+contributii §i conturi
+A.S.F. emite reglementM cu privire la:
+a) aderarea §i evidenta participantiior;
+b) colectarea contributiilor individuale ale participantiior;
+c) regulile de calcul al rentabilitatii fondurilor, inclusiv regulile de
+rotunjire a valorilor obtinute;
+d) principiile, regulile si metodologia de evaluare a activelor fondurilor;
+e) metoda de calcul a activului net §i unitatilor de fond;
+f) raportarea activului net §i a unitatilor de fond;
+g) protectia participantiior in cazul fuziunii fondurilor.
+CAPITOLUL VI
+Activitati transfrontaliere
+Art. 92. - Activitati §i proceduri transfrontaliere
+(1) Un administrator autorizat de catre A.S.F. pentru a administra
+fonduri de pensii ocupationale poate sa des^soare activitati transfrontaliere.
+De asemenea, administratorii care au fost autorizati, avizati sau supusi unei
+proceduri similare in vederea functionarii ca administrator de fonduri de
+
+45
+pensii ocupationale intr-un stat membru al Uniunii Europene sau apartinand
+Spatiului Economic European pot desfasura activitate transfrontaliera in
+Romania, cu respectarea prevederiJor legale aplicabile.
+(2) Un administrator autorizat de catre A.S.F. pentru a administra
+fonduri de pensii ocupationale poate sa desfasoare activitati transfrontaliere
+dupa autorizarea prealabila a A.S.F.
+(3) Administratorui notifica intentia sa de a desfasura activitati
+transfrontaliere autoritatii competente din statul membru de origine si
+fumizeaza urmatoarele informatii:
+a) denumirea statului sau statelor membre gazda, dupa caz;
+b) denumirea angajatorului si adresa sediului principal al acestuia;
+c) principalele caracteristici ale schemei de pensii care urmeaza sa
+fie gestionata pentru angajator.
+(4) In termen de 3 luni de la primirea tuturor informatiilor prevazute
+la alin. (3), autoritatea competenta din statul membru de origine verifica daca
+structura administrative, situatia financiara a administratorului, reputatia si
+calificarile profesionale sau experienta persoanelor din structura de
+conducere a administratorului sunt compatibile cu activitatea transfrontaliera
+propusa si emite unul dintre urmatoarele documente:
+a) o decizie motivate, in cazul in care constate ce activitatea
+administratorului este incompatibiie cu activitatea transfrontaliere;
+b) o comunicare continand informatiile prevezute la alin. (3), cetre
+autoritatea competente din statul membru gazde, cu informarea
+administratorului cu privire la aceasta, in cazul in care constata ce activitatea
+administratorului este compatibile cu activitatea transfrontaliere.
+(5) In cazul in care autoritatea competente din statul membru de
+origine nu transmite autoritetii competente din statul membru gazde,
+comunicarea prevezute la alin. (4) lit. b), aceasta prezinte administratorului
+solicitant motivele necomunicerii informatiilor, in termen de 3 luni de la data
+primirii tuturor informatiilor respective. Necomunicarea informatiilor de
+dreptul administratorului de a se adresa instantelor judecetoresti competente
+din statul membru de origine.
+(6) Administratorii care desfasoare activiteti transfrontaliere se
+supun cerintelor impuse de statul membru gazde in ceea ce priveste
+informarea participanfilor, a viitorilor participanfi §i a persoanelor care
+primesc o pensie ocupafionaie, care se aplica activitetii transfrontaliere.
+(7) Inainte ca un administrator sa inceape se desfasoare o activitate
+transfrontaliera, autoritatea competente din statul membru gazde informeaze
+autoritatea competente din statul membru de origine, in termen de 6
+septemani de la primirea informatiilor prevezute la alin. (3), asupra
+dispozitiilor din legislatia privind munca si protectia sociaie din statul
+membru gazda care sunt relevante pentru domeniul pensiilor ocupationale
+
+46
+care reglementeaza schema de pensii administrata pentru un angajator si
+asupra cerintelor statului membru gazda privind informarea participantilor, a
+viitorilor participanti §i a persoanelor care primesc o pensie ocupationala,
+care se aplica activitatii transfrontaliere. Autoritatea competenta din statul
+membru de origine comunica aceste informatii administratorului,
+(8) La primirea informa^iilor prevazute la alin. (7) sau daca nu
+primeste nicio informatie din partea autoritatii competente a statului membru
+de origine la expirarea perioadei prevazute la alin. (7), administratorul poate
+incepe sa desfa^oare activitatea transfrontaliera, in conformitate cu
+dispozitiile din legislatia privind munca §i protec^ia sociala din statul membru
+gazda care sunt relevante pentru domeniul pensiilor ocupationale si cu
+cerintele statului membru gazda privind informarea conform alin. (7).
+(9) Autoritatea competenta din statul membru gazda informeaza
+autoritatea competenta din statul membru de origine asupra oricaror
+schimbari semnificative survenite in dispozitiile din legislatia privind munca
+si protectia sociala din statul membru gazda relevante pentru domeniul
+pensiilor ocupationale, care pot afecta caracteristicile scheme! de pensii in
+ceea ce priveste activitatea transfrontaliera, precum §i asupra oricarei
+schimbari semnificative a cerintelor statului membru gazda privind
+informatiile prevazute la alin. (7). Autoritatea competenta din statul membru
+de origine comunica aceste informatii administratorului.
+(10) Autoritatea competenta din statul membru gazda supravegheaza
+administratorul in permanenfa in ceea ce priveste conformarea activitatiior
+sale cu dispozitiile din legislatia privind munca si protectia sociala din statul
+membru gazda care sunt relevante pentru domeniul pensiilor ocupationale si
+cu cerintele statului membru gazda privind informarea participanfilor, a
+viitorilor participanfi §i a persoanelor care primesc o pensie ocupafionala,
+care se aplica activitatii transfrontaliere. Daca supravegherea releva nereguli,
+autoritatea competenta din statul membru gazda informeaza fara intarziere
+autoritatea competenta din statul membru de origine, care, in colaborare cu
+autoritatea competenta din statul membru gazda, adopta masurile necesare
+pentru a determina administratorul sa puna capat incalcarii constatate.
+Masurile necesare pot consta inclusiv in interzicerea sau restricfionarea
+activitafii administratorului.
+(11) Daca, in urma masurilor luate de autoritatea competenta din
+statul membru de origine sau deoarece aceasta nu a adoptat masuri adecvate,
+administratorul continua sa incalce dispozitiile aplicabile din legislatia
+privind munca si protectia sociala din statul membru gazda care sunt
+relevante pentru domeniul pensiilor ocupationale sau cerintele statului
+membru gazda privind informatiile, autoritatea competenta din statul membru
+gazda poate, dupa ce informeaza autoritatea competenta din statul membru de
+origine, sa ia masurile necesare pentru a preveni sau sanctiona viitoare
+
+47
+nereguli, inclusiv, daca este strict necesar, sa interzica administratorului sa
+fumizeze servicii pentru angajatorul din statul membru gazda.
+(12) Autoritatea indeplineste rolul de autoritate competenta din
+statul membru de origine sau de autoritate competenta din statul membru de
+gazda, dupa caz.
+Art. 93. - Transferuri transfrontaliere
+(1) Un administrator poate sa transfere total sau partial pasivele
+unui fond, provizioanele tehnice si alte obligatii si drepturi, precum si
+activele aferente sau contravaloarea acestora, catre un alt fond,
+(2) In cazul in care A.S.F. indeplineste rolul de autoritate
+competenta din statul membru de origine, aceasta se asigura ca efortul
+fmanciar ce il presupune transferul nu este suportat de restul participantilor
+din fondul de la care se efectueaza transferul sau de participantii actual! si de
+beneficiarii fondului catre care se efectueaza transferul.
+(3) Transferul este conditionat de acordul prealabil al majoritatii
+participantilor, in conformitate cu reglementarile emise de A.S.F.
+Art. 94. - Conditiile transferului
+(1) Informatiile privind conditiile transferului sunt puse la dispozitia
+participantilor in timp util, de catre administratorul de la care se efectueaza
+transferul, inainte de depunerea cererii prevazute la alin. (3).
+(2) Transferul total sau partial al pasivelor unui fond, al provizioanelor
+tehnice si al altor obligatii si drepturi, precum si al activelor aferente sau al
+numerarului echivalent acestora este autorizat de catre autoritatea competenta
+din statul membru de origine al administratorului fondului catre care se
+efectueaza transferul, dupa obtinerea acordului prealabil al autoritatii
+competente din statul membru de origine al administratorului de la care se
+efectueaza transferul.
+(3) Administratorul fondului catre care se efectueaza transferul
+trebuie sa depuna cererea de autorizare a transferului, iar autoritatea
+competenta din statul membru de origine al acestuia autorizeaza transferul
+sau respinge cererea de autorizare a transferului si comunica
+administratorului decizia, in termen de 3 luni de la data primirii cererii.
+(4) Cererea de autorizare a transferului prevazuta la alin. (3) contine
+urmatoarele informatii:
+a) acordul scris intre administratorul fondului de la care se
+efectueaza transferul administratorul fondului cMre care se efectueaza
+transferul, precizand conditiile transferului;
+b) principalele caracteristici ale scheme! de pensii a fondului la care
+se face transferul;
+
+48
+c) pasivele sau provizioanele tehnice care urmeaza sa fie transferate
+si alte obligatii si drepturi, precum si activele aferente sau numerarul
+echivalent acestora;
+d) denumirile si localizarea sediilor principale ale administratorilor
+fondurilor implicate in transfer, precum si denumirea statului membru in care
+este inregistrat sau autorizat fiecare administrator;
+e) sediul principal si denumirea angajatorului;
+f) dovada acordului prealabil, in conformitate cu alin. (2);
+g) atunci cand este cazul, denumirile statelor membre a caror
+legislate privind munca si protectia sociala relevanta in domeniul schemelor
+de pensii ocupationale este aplicabila schemei de pensii in cauza.
+(5) Autoritatea competenta din statul membru de origine in care se
+afla administratorul fondului catre care se efectueaza transferal transmite
+cererea prevazuta la alin. (3) autoritatii competente din statul membru de
+origine al administratorului fondului de la care se efectueaza transferal, fara
+intarziere, dupa primirea cererii.
+(6) Autoritatea competenta din statul membru de origine al administratomlui
+fondului catre care se efectueaza transferal evalueaza daca:
+a) toate informatiile prevazute la alin. (4) au fost fumizate de catre
+administratorul fondului catre care se efectueaza transferal;
+b) structura administrativa, situatia flnanciara a administratorului
+fondului catre care se efectueaza transferal si reputatia, califlcarea sau
+experienta profesionala a persoanelor care il gestioneaza sunt compatibile cu
+transferal propus;
+c) interesele pe termen lung ale participantilor la fondul catre care
+se efectueaza transferal si partea transferata din fond, conform alin. (4) lit. c),
+sunt protejate in mod adecvat pe durata transferului si ulterior acestuia;
+d) provizioanele tehnice ale administratorului fondului catre care se
+efectueaza transferul sunt integral fmantate la data transferului, in cazul in
+care transferul are ca rezultat o activitate transfrontaliera;
+e) activele care urmeaza sa fie transferate sunt suficiente si adecvate
+pentru a acoperi pasivele, provizioanele tehnice, precum si alte obligatii si
+drepturi care urmeaza sa fie transferate, in conformitate cu normele aplicabile
+in statul membru de origine al administratorului fondului catre care se
+efectueaza transferul.
+(7) Autoritatea competenta din statul membru de origine al administratomlui
+fondului de la care se efectueaza transferul evalueaza daca:
+a) in cazul unui transfer partial al pasivelor, provizioanelor tehnice
+si al altor obligatii si drepturi, precum si al activelor aferente sau al
+numerarului echivalent acestora apartinand fondului, interesele pe termen
+lung ale participantilor si beneficiarilor ramasi in fond sunt protejate in mod
+adecvat;
+
+49
+b) drepturile individuale ale participantilor sunt cel putin aceleasi in
+urma transferului;
+c) activele fondului care urmeaza sa fie transferate sunt suficiente si
+adecvate pentru a acoperi pasivele, provizioanele tehnice, precum si alte
+obligatii si drepturi care urmeaza sa fie transferate, in conformitate cu
+legislatia aplicabila sistemului de pensii ocupationale.
+(8) Autoritatea competenta din statul membru de origine al
+administratorului fondului de la care se efectueaza transferal comunica
+rezultatele evaluarii prevazute la alin. (7) in termen de 8 saptamani de la
+primirea cererii prevazute la alin. (3) pentru a permite autoritatii competente
+din statul membru de origine al administratorului fondului catre care se
+efectueaza transferul sa ia o decizie in conformitate cu alin. (3).
+(9) In cazul respingerii cererii de autorizare a transferului,
+autoritatea competenta a statului membru de origine al administratorului
+fondului catre care se efectueaza transferul isi motiveaza decizia in termenul
+de 3 luni prevazut la alin. (3).
+(10) Decizia de respingere a cererii de autorizare a transferului sau
+nesolutionarea cererii de autorizare de catre autoritatea competenta a statului
+membru de origine al administratorului fondului cMre care se efectueaza
+transferul face obiectul dreptului de a exercita o cale de atac in fata
+instantelor din statul membru de origine al respectivului administrator.
+(11) Autoritatea competenta din statul membru de origine al
+administratorului fondului catre care se efectueaza transferul informeaza
+autoritatea competenta din statul membru de origine al administratorului
+fondului de la care se efectueaza transferul cu privire la decizia prevazuta la
+alin. (3), in termen de 2 saptamani de la adoptarea respective! decizii.
+(12) In cazul in care transferul are ca rezultat o activitate
+transfrontaliera, autoritatea competenta din statul membru de origine al
+administratorului fondului de la care se efectueaza transferul informeaza, in
+termen de alte 4 saptamani, autoritatea competenta din statul membru de
+origine al administratorului fondului catre care se efectueaza transferul cu
+privire la cerintele din legislatia privind munca si protectia sociala relevante
+pentru domeniul pensiilor ocupationale in temeiul carora trebuie gestionata
+schema de pensii si cu privire la cerintele statului membru gazda privind
+informarea participantilor, a viitorilor participant! §i a persoanelor care
+primesc o pensie ocupationala, care se aplica activitatii transfrontaliere.
+(13) Autoritatea competenta a statului membru de origine al
+administratorului fondului catre care se efectueaza transferul comunica
+acestuia informatiile prevazute la alin. (12), in termen de o saptamana de la
+primire.
+(14) La primirea deciziei de autorizare prevazuta la alin. (3) sau in
+cazul in care nu se primeste nicio informatie cu privire la decizia din partea
+
+50
+autoritatii competente din statul membru de origine al administratorului catre
+care se efectueaza transferal la expirarea perioadei prevazute la alin. (13),
+administratorul fondului catre care se efectueaza transferul poate incepe
+administrarea activelor si pasivelor, precum a celorlalte drepturi si obligatii
+transferate.
+A
+(15) In cazul in care administratorul catre care se efectueaza transferul
+desf^oara activitati transfrontaliere, se aplica prevederile art. 92 alin. (9) - (11).
+(16) A.S.F, indeplineste rolul de autoritate competenta din statul
+membru de origine sau de autoritate competenta din statul membru de gazda,
+dupa caz.
+Art. 95. - Emiterea de reglementari cu privire la activita^ile
+transfrontaliere
+A.S.F. emite reglementari cu privire la activitalile transfrontaliere.
+CAPITOLUL VII
+Investi^iile $i evaluarea activelor fondurilor
+Art, 96. - Reguli de investire prudenl;iala
+(1) A.S.F. veriflca indeplinirea obliga^iei administratorilor de
+investire pruden^iala a activelor fondurilor, cu respectarea, in principal, a
+urmatoarelor reguli:
+a) investirea in interesul pe teimen lung al participan{ilor §1 beneficiarilor,
+precum §i al mo§tenitorilor acestora, definili conform prevederilor Codului
+civil, iar in cazul unui potential conflict de interese, administratorul care
+gestioneaza activele fondului trebuie sa adopte masuri ca investirea sa se faca
+numai in interesul acestora;
+b) investirea intr-un mod care sa asigure securitatea, calitatea, lichiditatea
+§i profitabilitatea lor;
+c) investirea preponderenta in instrumente tranzactionate pe o piata
+reglementata, astfel cum este prev^uta in legislatia privind piata de capital;
+d) investitiile in instrumente financiare derivate sunt permise doar
+in masura in care contribuie la scaderea riscurilor investitiei;
+e) activele se diversifica in mod corespunzator, astfel incat sa se
+evite dependenta excesiva de un anumit activ, emitent sau grup de societati §i
+concentrari de riscuri pe ansamblul activelor;
+f) investirea activelor fondurilor de catre administratorii acestora nu
+trebuie sa fie bazata in mod exclusiv §i mecanic pe rating-uri de credit emise
+de agentiile de rating de credit;
+g) investirea activelor fondurilor de catre administratorii acestora sa
+tina seama de potentialul impact pe termen lung al deciziilor de investitii
+asupra factorilor de media, sociali si de guvemanta.
+
+51
+(2) A.S.F. poate decide sa nu aplice regulile prevazute la alin. (1)
+lit. c) §i e) pentru investi^iile m titluri de stat.
+Art. 97. - Declarajia privind politica de investi^ii
+(1) Administratorul elaboreaza o declarafie privind politica de
+investi^ii, in forma scrisa.
+(2) Declarajia privind politica de investitii respecta regulile de
+investire ^i confine:
+a) strategia de investire a activelor, in raport cu natura §i durata
+obligafiilor;
+b) metode de evaluare a riscurilor investifionale;
+c) procedurile de management al riscului;
+d) metoda de revizuire a regulilor de investire;
+e) persoanele responsabile de adoptarea deciziilor §i realizarea investifiilor,
+mecanismui pentru adoptarea deciziilor;
+f) descrierea modului in care politica de investitii tine seama de
+factorii de mediu, sociali si de guvemanta, daca este cazul.
+(3) Declarafia privind politica de investifii se revizuie^te §i se
+completeaza ori de cate ori intervine o schimbare importanta in politica de
+investifii sau cel pufin o data la 3 ani, cu informarea participanfilor referitor la
+noua politica investifionala.
+Art. 98. - Investifiile fondului
+(1) Administratorul investe§te activele fondului in instrumente financiare,
+precum §i in alte forme de investifii prevazute in reglementarile adoptate de
+A.S.F.. Dispozitiile art. 96 se aplica in mod corespunzator.
+(2) Investifiile prevazute la alin. (1), dupa caz, sunt efectuate in
+conformitate cu legislafia privind piata de capital si cu reglement^le B^cii
+Nafionale a Romaniei privind operafiunile valutare si operatiunile cu titluri de stat.
+(3) Administratorul poate invest! maximum:
+a) 5% din activele unui fond in instrumente financiare emise de
+catre fiecare angajator al participantilor la respectivul fond;
+b) 10% din activele unui fond in instrumente financiare emise de
+catre societatile apartinand aceluiasi grup ca angajatorul participanfilor la
+respectivul fond §i persoanele afiliate.
+Art. 99. - Regimul fiscal pentru investifiile activelor fondurilor
+Investifiile activelor fondurilor §i rezultatele investirii sunt scutite
+de impozit.
+
+52
+Art. 100, - Dreptul de vot in adunarile generale
+(1) Administratorul exercita, in numele fondului, dreptul de vot in
+adunarile generale ale ac^ionarilor societajilor in care s-au investit activele
+fondului.
+(2) Votul este exercitat exclusiv in beneficiul participan^ilor la fond.
+Interdic^ii privind investirea, dobandirea
+Art. 101.
+instrainarea activelor fondului
+(1) Activele fondului nu pot fi investite in:
+a) active care, potrivit legii, nu pot fi dobandite sau instrainate;
+b) active a caror evaluare este incerta, precum antichitafi, lucrari de
+arta, autovehicule §i altele asemenea;
+c) orice alte active stabilite prin reglementarile A.S.F.
+(2) Activele fondului nu pot fl dobandite de la sau instrainate catre:
+a) administratorul, depozitarul sau auditorul fmanciar al fondului;
+b) administratorul special al fondului;
+c) angajatorul/angajatorii care contribuie la fond sau sindicatul/sindicatele
+acestuia/acestora;
+d) persoanele afiliate entitafilor prevazute la lit. a) - c);
+e) oricare alte persoane sau entitafi prevazute prin reglementarile
+A.S.F.
+(3) Activele fondului nu pot constitui garantii §i nu pot fi utilizate
+pentru acordarea de credite, sub sanctiunea nulitatii absolute a actelor prin
+care se constituie garantia sau se acorda creditul, cu exceptia
+garantiei/marjei/colateralului constituite/constituit pentru tranzactionarea
+instrumentelor fmanciare derivate stabilite prin reglementarile A.S.F.,
+utilizate doar in masura in care contribuie la scaderea riscurilor investitiei sau
+faciliteaza gestionarea eficienta a portofoliului.
+(4) A.S.F. poate stabili, prin reglementari, restricfii suplimentare
+pentru investifii, in scopul protejarii intereselor participanfilor.
+Art. 102. - Ratele de rentabilitate
+Administratorul unui fond calculeaza in prima zi lucratoare a
+fiecarui trimestru rata de rentabilitate a fondului pe ultimele 24 de luni §i o
+comunica A.S.F. in aceea§i zi, iar dupa implinirea a 5 ani de la primirea de
+contribute, rata de rentabilitate se calculeaza pentru o perioada de 60 de luni.
+Art. 103. - Emiterea de reglementari privind investitiile §i
+evaluarea activelor fondurilor
+A.S.F. emite reglementari privind:
+a) norme calitative si cantitative referitoare la activele fondului;
+
+53
+b) reguli de intocmire $i raportare pentru declara|ia privind politica
+de investitii;
+c) procentul maxim care poate fi investit in categoriile de instrumente
+financiare;
+d) procentul maxim din activele unui fond care poate fl investit
+intr-o singura societate, grup de emiten^i §i persoanele afiliate lor, precum §i
+in fiecare categorie de active ale acestora;
+e) modul de aplicare a regulilor §i principiilor de investire a
+activelor fondurilor §i modalitatea de evaluare a activelor;
+f) utilizarea instrumentelor financiare derivate pentru acoperirea
+riscurilor;
+g) tehnicile §i procedurile privind aplicarea unor restricjii suplimentare
+pentru investi^ii, in scopul protejarii intereselorparticipantilor;
+h) metodologia de calcul §i de raportare ale ratelor de rentabilitate.
+CAPITOLUL VIII
+Provizionul tehnic
+Art. 104. - Provizionul tehnic
+(1) Provizionul tehnic este asigurat de catre administrator din surse
+proprii, in scopul asigurarii unui volum adecvat de obliga^ii financiare
+corespunzator angajamentelor financiare rezultate din intreg portofoliul de
+scheme de pensii administrate.
+(2) Provizionul poate fi asigurat §i de catre angajator din surse
+proprii, in condifiile prevazute de schema §i prospect.
+(3) Administratorul trebuie sa mentina permanent un nivel al
+provizioanelor tehnice corespunzator obligatiilor financiare rezultate din
+prospectele fondurilor administrate.
+(4) Nivelul provizioanelor tehnice prevazute la alin. (3) trebuie sa
+fie stabilit pe baze prudenjiale, sa fie adecvat ^i suficient, in conformitate cu
+natura, dimensiunea si complexitatea riscurilor asociate administratorului
+§i/sau fondurilor administrate $i in acord cu urmatoarele principii:
+a) nivelul minim al provizioanelor tehnice se calculeaza printr-o
+evaluare actuariala suficient de prudenta, luandu-se in considerare toate
+angajamentele pentru plata beneficiilor §i a contribufiilor, a§a cum reies din
+schema de pensii ocupafionale a fondului;
+b) ratele maxime ale dobanzii utilizate se aleg in mod prudent §i se
+determina in conformitate cu legislatia nationala; Aceste rate prudente ale
+dobanzii se calculeaza luandu-se in considerare randamentul activelor
+corespunzatoare definute de administrator §i randamentul viitor al investifiilor
+§i/sau randamentele obligafiunilor de inalta calitate ori guvemamentale;
+
+54
+c) tabelele biometrice folosite pentru calculul provizioanelor tehnice
+se bazeaza pe principii de prudentialitate, tinandu-se cont de principalele
+caracteristici ale gmpului de participant! si ale schemelor de pensii
+ocupationale, in special de evolutia prevazuta pentru riscurile relevante;
+d) metodele si baza de calcul pentru provizioanele tehnice raman in
+general constante de la un exercitiu financiar la altul. Discontinuitatile pot fi
+justificate de schimbarea legislatiei, a conditiilor economice sau demografice
+pe care se bazeaza provizioanele.
+(5) Calculul provizioanelor tehnice se realizeaza anual de catre un
+actuar §i este supus auditarii de catre un auditor financiar avizat de A.S.F.
+(6) Administratorul constituie provizionul tehnic in baza valorii
+rezultate din calculul cel mai recent, efectuat conform modelului standard
+stabilit prin reglementarile A.S.F. sau pe baza unui model intern ori partial
+intern.
+(7) Administratorul are obligatia de a in^tiinta A.S.F. asupra
+elaborarii si utilizarii modelului intern sau partial intern si de a transmite
+toate specificatiile acestuia cu cel putin 90 de zile inainte de utilizarea sa
+pentru calculul provizionului tehnic.
+(8) Administratorul are obligatia de a constitui provizionul tehnic
+sau de a majora valoarea acestuia in termen de 60 de zile lucratoare de la data
+efectuarii calculului.
+(9) A.S.F. poate sa impuna cerinte suplimentare pentru calculul
+provizioanelor tehnice, in cazul in care considera aceasta masura necesara
+pentru protejarea corespunzatoare a intereselor participantilor, potrivit
+reglementarilor A.S.F.
+Art. 105. - Activele financiare necesare acoperirii provizionului
+tehnic
+(1) Activele financiare necesare acoperirii provizionului tehnic
+provin din resursele financiare proprii ale administratorului sau ale
+angajatorului, dupa caz.
+(2) Provizionul tehnic trebuie sa contina in permanenfa active
+suficiente §i adecvate pentru a acoperi obligatiile pentru intreg portofoliul de
+scheme de pensii administrate.
+(3) Categoriile de instrumente financiare permise a acoperi
+provizioanele tehnice, precum §i calitatea acestora se stabilesc prin
+reglementarile A.S.F. §i trebuie sa respecte principiile de investire referitoare
+la securitatea, calitatea, lichiditatea si profitabilitatea activelor fondului.
+(4) Depozitarul fondului pastreaza in custodie activele care acopera
+provizioanele tehnice §i fine evidenfa acestora, similar regulilor aplicate
+activelor fondurilor, conform reglementarilor A.S.F.
+
+55
+(5) Activitatea de custodie si evidenta a activelor corespunzatoare
+provizionului tehnic se desfasoara in baza unui contract incheiat intre
+administrator/angajator si depozitar, avand un continut minim similar cu cel
+al contractului de custodie incheiat pentru activele fondului administrat.
+(6) Costurile aferente activitatii de custodie si evidenta a activelor
+corespunzatoare provizionului tehnic se suporta de catre administrator/angajator.
+(7) Evaluarea activelor corespunzMoare provizionului tehnic se
+realizeaza de catre administrator si depozitar pe baza principiilor de evaluare
+aplicabile activelor fondurilor.
+(8) Administratorul efectueaza opera^iuni de constituire, majorare
+sau diminuare a valorii contului in care sunt evidentiate activele
+corespunzatoare provizionului tehnic.
+(9) Activele necesare acoperirii provizioanelor tehnice nu pot fi
+gajate sau cesionate si nu pot face obiectul executarii silite sau a unor masuri
+asiguratorii impotriva administratorului §i/sau a depozitarului §i/sau
+angajatorului, sub sanctiunea nulitatii absolute a acestora.
+(10) A.S.F. poate permite, ca pe o perioada determinate,
+administratorul sa nu detina active suficiente pentru a acoperi provizioanele
+tehnice, cu conditia realizarii unui plan concret si fezabil de acoperire a
+provizioanelor. Cerintele pe care trebuie sa le indeplineasca planul de
+aeoperire a provizioanelor se stabilesc prin reglementarile A.S.F.
+(11) Prevederile alin. (1) - (10), precum §i prevederile art. 104 se
+aplica in mod corespunzator §i in cazul activitatii transfrontaliere.
+(12) In cazul activitatii transfrontaliere, daca conditia prevazuta la
+alin. (2) nu este indeplinita, A.S.F., in calitatea de autoritate competenta a
+statului membru de origine intervine prompt si solicita administratorului sa
+elaboreze imediat masurile adecvate si sa le puna in aplicare fara intarziere,
+astfel incat participantii §i beneficiarii sa fie protejati in mod adecvat.
+Art. 106. - Rezerve suplimentare
+(1) Administratorii contribuie la Fondul de garantare, in situajia in
+care prospectele aferente fondurilor administrate prevad acoperirea riscurilor
+biometrice §i/sau garanteaza rata de rentabilitate a investitiilor sau un anumit
+nivel al garan^iilor.
+(2) In situatii exceptionale sau in alte cazuri de natura sa
+prejudicieze interesele participantilor, A.S.F. poate adopta masuri specifice si
+punctuale.
+(3) Administratorii prev^uti la art. 4 alin. (2), calculeaza si detin
+rezerve suplimentare in conformitate cu legisla^ia privind plata pensiilor
+private.
+
+56
+Art. 107. - Emiterea de reglementari cu privire la provizionul
+tehnic
+A.S.F, emite reglementari cu privire la:
+a) categoriile de instrumente fmanciare permise pentru acoperirea
+provizioanelor tehnice, precum §i calitatea acestora;
+b) regulile privind pastrarea in custodie §i eviden^a a activelor care
+acopera provizioanele tehnice;
+c) operatiunile de constituire, majorare sau diminuare a valorii
+contului in care sunt evidentiate activele corespunzatoare provizionului
+tehnic;
+d) regulile privind constituirea si calcularea provizionului tehnic;
+e) calculul actuarial al contributiei anuale datorate Fondului de
+garantare.
+CAPITOLULIX
+Plata drepturilor participantilor
+Art. 108. - Dreptul la pensia ocupafionala
+(1) Dreptul la pensia ocupajionala se deschide, la cererea
+participantului, in conditiile prevazute de schema §i prospect si in
+conformitate cu legislatia privind plata pensiilor private.
+(2) Prin excep^ie de la prevederile alin. (1), la cererea participantului,
+dreptul la pensia ocupa^ionala se poate deschide incepand cu data implinirii
+varstei standard de pensionare prev^uta de sistemul public de pensii, respectiv
+cu data implinirii varstei de pensionare reglementata de alte acte normative, in
+raport de categoria profesionala din care face parte, dupa caz.
+(3) Participantul al carui activ personal nu este suficient pentru
+acordarea unei pensii ocupationale prime^te o plata unica sau pla{i e^alonate
+in rate pe o durata de maximum 5 ani, la cerere.
+Art. 109. - Ob^inerea unei pensii ocupationale
+(1) Activul personal este folosit numai pentru objinerea unei pensii
+ocupationale.
+(2) Fac exceptie de la prevederile alin. (1) urmatoarele categorii de
+persoane care beneficiaza de contravaloarea activului personal:
+a) mo^tenitorii participanjilor, defmiti conform prevederilor
+Codului civil;
+b) persoanele pensionate de invaliditate pentru afectiuni care nu mai
+permit reluarea activita^ii, al caror activ personal la data acordarii pensiei de
+invaliditate nu este suficient pentru a putea primi o pensie ocupationala;
+
+57
+c) persoanele al caror activ personal la data pensionarii pentru limita
+de varsta, prevazuta la art, 108 alin. (2), nu este suficient pentru a putea primi
+o pensie ocupationala.
+(3) In cazul decesului unui participant inainte de deschiderea
+dreptului la pensia ocupationala contravaloarea activului personal revine
+mo§tenitorilor acestuia, in conditiile legii, conform actului de succesiune.
+Art. 110. - Plata pensiilor ocupafionale
+(1) Plata pensiilor ocupationale se efectueaza in conformitate cu
+legislatia privind plata pensiilor private.
+(2) Pensia ocupationala se supune dispozitiilor legale privind
+impozitarea pensiilor §i executarea silita.
+Art. 111. - Emiterea de reglementari cu privire la plata
+drepturilor participanjilor
+A.S.F. emite reglementari cu privire la utilizarea activului personal
+al participantului la un fond de pensii ocupationale.
+CAPITOLUL X
+Obliga|ii de raportare transparen^a
+Art. 112.-Principii
+(1) Administratorul fumizeaza:
+a) viitoriior participant!, cel putin informatiile referitoare la:
+(i) prevederile schemei de pensii ocupationale §i ale prospectului;
+(ii) prevederile actului individual de aderare la un fond;
+(iii) rezultatele anterioare ale investitiilor aferente fondului de
+pensii pe o perioada minima de cinci ani sau pe toata durata de operare a
+fondului, in cazul in care aceasta este mai mica de cinci ani.
+b) participantilor, cel pudn informatiile referitoare la:
+(i) prevederile schemei de pensii ocupationale §i ale prospectului;
+(ii) prevederile actului individual de aderare la un fond;
+(iii) informarea privind drepturile de pensie prevazuta la art, 116;
+(iv) optiunile de plata;
+(v) raportarile prevazute la art. 117 alin. (3).
+c) beneficiarilor care primesc o pensie ocupationala, cel pudn
+informatiile referitoare la:
+(i) prevederile schemei de pensii ocupationale ^i ale prospectului;
+(ii) prevederile actului individual de aderare la un fond;
+(iii) prestatii datorate §i optiuni de plata aferente:
+(iv) raportarile prevazute la art. 117 alin. (3).
+
+58
+(2) Informatiile prevazute la alin. (1) trebuie:
+a) sa fie actualizate in mod regulat;
+b) sa fie scrise intr-un limbaj clar, concis si comprehensibil, evitandu-
+se utilizarea jargonului si a termenilor tehnici atunci cand se pot utiliza cuvinte
+din limbajul curent;
+c) sa nu induca in eroare si sa se asigure coerenta la nivelul vocabularului
+si al continutului;
+d) sa fie prezentate in asa fel incat sa fie usor de citit;
+e) sa fie disponibile in limba romana;
+f) sa fie puse la dispozitia participanfilor, a viitorilor participanfi §i a
+beneficiarilor care primesc o pensie ocupafionala, in mod gratuit, prin
+mijloace electronice sau pe hartie.
+(3) A.S.F. poate adopta sau mentine dispozitii suplimentare cu
+privire la informatiile care trebuie puse la dispozitia participanfilor, a
+viitorilor participanfi §i a beneficiarilor care primesc o pensie ocupafionala.
+(4) Informatiile care trebuie comunicate in faza de plata a pensiilor
+sunt fumizate de catre administratorii prevazuti la art. 4 alin. (2), in
+conformitate cu legislafia privind plata pensiilor private.
+Art. 113. - RaportuI anual al administratorului
+(1) Administratorul elaboreaza, cel mai tarziu la data de 31 mai a
+fiecarui an, un raport anual cu informafii corecte §i complete despre
+activitatea desfa§urata in anul calendaristic precedent.
+(2) RaportuI prevazut la alin. (1) confine urmatoarele elemente cu
+privire la administrator §i la fondul pe care il administreaza:
+a) componenfa structurii de conducere;
+b) numele §i adresa acfionarilor care defin mai mult de 5% din totalul
+acfiunilor §i procentul definut de ace§tia din totalul acfiunilor;
+c) denumirea §i sediul depozitarului si ale auditorului;
+d) principiile de guvernanfa pe care le aplica administratorul;
+e) detalii privind prospectul fondului;
+f) orice alte informafii prevazute de reglementarile A.S.F.
+Art. 114. - RaportuI privind investifiile fiecarui fond
+(1) Administratorul elaboreaza si transmite A.S.F., cel mai tarziu la
+data de 31 ianuarie a fiecarui an, un raport privind investifiile fiecarui fond.
+(2) RaportuI trebuie sa confina urmatoarele elemente:
+a) aspecte privind conformarea cu principiile prevazute in declaratia
+privind politica de investifii;
+b) structura portofoliului de investifii la sfar§itul perioadei de
+raportare;
+
+59
+c) procentul activelor unui fond investite intr-o singura societate sau
+in flecare clasa de active ale acesteia;
+d) orice alte informa^ii prevazute de reglementarile A.S.F.
+Art. 115. - Raportul privind evaluarea interna a riscurilor
+(1) Administratorul transmite A.S.F., semestrial sau fara intarziere
+dupa orice modiflcare importanta a profilului de rise, un raport privind
+evaluarea interna a riscurilor.
+(2) Raportul prevazut la alin. (1) are in vedere dimensiunea si
+organizarea interna a administratorului, precum si volumul, natura,
+amploarea si complexitatea activitatilor desfa§urate §i confine urmatoarele
+elemente:
+a) o descriere a modului in care evaluarea interna a riscurilor este
+integrata in procesul de gestionare si in procesul decizional la nivelul
+administratorului;
+b) o evaluare a eficacitajii sistemului de gestionare a riscurilor;
+c) o descriere a modului in care administratorul previne conflictele
+de interese cu angajatorul;
+d) o evaluare a nevoilor de finantare ale administratorului, inclusiv
+o descriere a planului de redresare, daca este cazui;
+e) o evaluare a riscurilor existente pentru participanli §i beneflciari,
+precum si pentru mo§tenitorii acestora si a eficientei oricaror masuri
+corective, dupa caz;
+f) o evaluare calitativa a mecanismelor pentru protectia drepturilor
+de pensie, inclusiv, dupa caz, a garantiilor §i/sau a altor tipuri de sprijin
+fmanciar din partea angajatorului;
+g) o evaluare calitativa a riscurilor operationale;
+h) in cazui in care factorii de mediu, social! si de guvemanta sunt
+luati in considerare in cadrul deciziilor investitionale, o evaluare a riscurilor
+noi sau emergente, inclusiv a riscurilor legate de schimbarile climatice,
+utilizarea resurselor si mediu, a riscurilor sociale si a riscurilor legate de
+deprecierea activelor din cauza modificarii reglementarilor;
+i) orice alte informatii prevazute de reglementarile A.S.F.
+(3) In sensul alin. (2), administratorul trebuie sa dispuna de metode
+de identificare §i evaluare a riscurilor la care este sau ar putea fi expus pe
+termen scurt si lung si care ar putea avea un impact asupra capacitatii sale de
+a isi indeplini obligatiile. Metodele respective trebuie sa fie proportionale cu
+volumul, natura, amploarea si complexitatea riscurilor inerente activitatilor
+acestuia. Metodele sunt descrise in evaluarea interna a riscurilor.
+(4) Evaluarea interna a riscurilor trebuie sa fie luata in considerare
+in deciziile strategice ale administratorului.
+
+60
+Art. 116. - Informare privind drepturile de pensie
+(1) Administratorul transmite anual, fiecarui participant, un
+document intitulat „Informare privind drepturile de pensie”, gratuit, la ultima
+adresa de po§ta electronica comunicata, cel mai tarziu la data de 31 mai a
+fiecarui an, pentru anul calendaristic anterior. Participantii primesc, gratuit, la
+cerere, un exemplar pe hartie, in scris, la ultima adresa po§tala comunicata, in
+plus fata de cel primit prin mijloace electronice. Orice modificare
+semniflcativa fata de anul anterior a informatiilor continute in informare este
+clar indicata.
+(2) Informarea anuala prevazuta la alin. (1) contine urmatoarele
+informatii pentru participant!:
+a) datele cu caracter personal ale participantului, in conformitate cu
+legisla|ia aplicabila, inclusiv o indicatie clara a varstei legale de pensionare
+aplicabile;
+b) denumirea administratorului, adresa acestuia si indicarea
+fondului de pensii al participantului;
+c) daca este cazul, informatii cu privire la garantiile complete sau
+partiale oferite de prospectul de pensii si precizarea eventualelor documente
+care cuprind informatii suplimentare cu privire la garantii;
+d) informatii referitoare la proiecfiile privind contravaloarea activului
+personal, tinand seama de varsta de pensionare prevazuta la lit. a), precum si
+o declaratie de declinare a responsabilitatii cu privire la faptul ca proiectiile
+pot diferi de valoarea finala a beneficiilor primite. Daca proiectiile de pensie
+au la baza proiectii economice, respectivele informatii ofera o varianta
+optimista, precum si o varianta pesimista, tinandu-se cont de natura specifica
+a scheme! de pensii;
+e) informatii referitoare la drepturile dobandite sau la activul
+personal acumulat, tinandu-se seama de natura specifica a scheme! de pensii;
+f) informatii cu privire la contributiile platite de angajator si de
+participant la fondul de pensii, pentru ultimele 12 luni;
+g) defalcarea costurilor deduse din fondul de pensii pentru anul
+calendaristic anterior;
+h) informatii cu privire la nivelul de finanjare a scheme! de pensii in
+ansamblu;
+i) indica^ii cu privire la modul in care pot fi ob^inute informatii
+suplimentare, inclusiv: informatii practice suplimentare cu privire la optiunile
+de care dispun participantii in cadrul fondului, informatiile referitoare la
+conturile anuale §i rapoartele anuale, informatii privind principiile politic!! de
+investitii §i informatii privind nivelul sumelor acumulate in conturile
+individuale in cazul incetarii contractului de munca;
+j) orice alte informatii prevazute de reglementarile A.S.F.
+
+61
+(3) in cazul in care un participant la un fond din Romania i^i
+schimba locul de munca, domiciliul sau re^edin^a intr-un alt stat membru al
+Uniunii Europene sau stat aparjinand Spa^iului Economic European,
+administratorul ii comunica, in scris, informajii adecvate referitoare la
+drepturile sale de pensie ocupalionala §i opliunile sale in acest caz.
+(4) Forma-cadru a informarii anuale prevazute la alin. (1) se
+stabile§te prin reglementarile A.S.F.
+Art. 117. - Situaliile flnanciare alte obligalii de raportare
+(1) Administratorul informeaza anual angajatorul despre valoarea §i
+procentul investiliilor in diverse categorii de active corespunzatoare ultimei
+date de evaluare din ultima luna, incluzand referin^e despre emitenjii
+valorilor mobiliare care reprezinta cel pu^in 1% din valoarea activelor
+flnanciare ale fondului.
+(2) Administratorul transmite A.S.F., anual sau ori de cate ori este
+necesar, urmatoarele:
+a) situaliile flnanciare anuale §i opinia auditorului financiar pentru
+flecare fond administrat;
+b) situatiiie flnanciare anuale §i opinia auditorului financiar pentru
+activitatea proprie a administratorului;
+c) situafia comisioanelor platite pentru depozitar, administrator,
+auditor financiar, comisioanelor de tranzactionare §i bancare, precum §i alte
+situafii solicitate de Autoritate privind cheltuielile fondului;
+d) numarul de participanfi la fiecare fond;
+e) alte informafii solicitate de A.S.F,
+(3) Administratorul pune, la cerere, gratuit, la dispozifia participanfilor
+§i mo^tenitorilor acestora, definifi conform prevederilor Codului civil:
+a) declarafia privind politica de investi^ii a fondului;
+b) situafiile flnanciare anuale proprii insofite de raportul de audit;
+c) situafiile fmanciare ale fondului insofite de raportul de audit;
+d) informatii referitoare la ipotezele utilizate pentru generarea proiectiilor
+prevazute la art, 116 alin, (2) lit. d);
+e) alte situafii stabilite prin reglementarile A.S.F.
+(4) Administratorul publica pe pagina proprie de internet:
+a) declarajia privind politica de investifii a fondului;
+b) raportul anual al administratorului;
+c) situafiile fmanciare anuale proprii insofite de raportul de audit;
+d) situa{iile fmanciare ale fondului msofite de raportul de audit;
+e) alte situafii stabilite prin reglementarile A.S.F.
+
+62
+Art. 118. - Emiterea de reglementari cu privire la obligalii de
+raportare transparenfa
+A.S.F. emite reglementari cu privire la cerin^ele tehnice de raportare
+pentru:
+a) raportul anual al administratorului;
+b) raportul privind invest4iile fiecarui fond;
+c) raportul privind evaluarea interna a riscurilor;
+d) informarea privind drepturile de pensie;
+e) situa^iile fmanciare anuale §i raportarile contabile semestriale;
+f) alte obliga^ii de raportare §i transparenja.
+CAPITOLUL XI
+Depozitarul activelor
+Art. 119. - Numirea unui depozitar
+(1) Pentru fiecare dintre fondurile administrate, administratorul
+incheie contracte de depozitare si de custodie cu o institutie de credit avizata
+in acest scop de A.S.F.
+(2) Depozitarul poate incheia contracte de depozitare si de custodie
+cu mai mu4i administratori, cu condil[ia de a pastra activele, operajiunile §i
+inregistrarile fiecarui fond separat de cele ale altor fonduri, precum si de
+propriile active.
+(3) Poate fl depozitar in sensul prezentei legi si orice entitate
+autorizata in aceasta calitate pe teritoriul unui stat membru al Uniunii
+Europene sau apartinand Spatiului Economic European.
+(4) Depozitarii care au fost autorizati, avizati sau supusi unei
+proceduri similare in vederea functionarii ca depozitar al activelor fondurilor
+de pensii ocupafionale intr-un stat membru al Uniunii Europene sau
+apartinand Spafiului Economic European sunt exceptati de la cerinta avizarii
+de catre A.S.F.
+Art. 120. - Avizarea depozitarului
+(1) Pot solicita avizarea ca depozitar, institutiile de credit aflate sub
+supravegherea Bancii Nationale a Romaniei.
+(2) Pentru obtinerea avizului ca depozitar, o institutie de credit
+depune la A.S.F. o cerere de avizare insotita de documente din care sa rezulte
+indeplinirea urmatoarelor conditii:
+a) obiectul de activitate autorizat de Banca Nationala a Romaniei
+cuprinde activitatea de depozitare §i de custodie a activelor fondurilor de
+pensii private;
+b) nu se afla in procedura de redresare sau de rezolutie;
+c) nu este persoana afiliata administratorului;
+
+63
+d) prezinta suficiente garantii financiare si profesionale pentru a-si
+putea desfasura eficient activitatile care ii revin ca depozitar pentru a-si
+indeplini obligatiile aferente acestei functii;
+e) a achitat taxa de avizare;
+f) indeplineste alte cerinte prev^te in prezenta lege si in reglemen&ile
+A.S.F. prevazute la art. 127.
+(3) A.S.F. poate solicita institutiilor de credit prev^ute la alin. (2),
+in termen de 30 de zile calendaristice de la primirea cererii pentru avizare,
+documente si informatii suplimentare, pe care acestea trebuie sa le furnizeze
+in maximum 30 de zile calendaristice de la data primirii solicitarii.
+(4) A.S.F. analizeaza cererea de avizare §i, in termen de 30 de zile
+calendaristice de la inregistrarea acesteia §i a documenta^iei prevazuta la
+alin. (2) §i (3), dupa caz, procedeaza la aprobarea sau la respingerea cererii,
+prin decizie scrisa §i motivata.
+(5) Orice solicitare a A.S.F. de informatii suplimentare sau de modificare
+a documentelor prezentate intrerupe termenul prevazut la alin. (4), un nou
+termen incepand sa curga de la data depunerii respectivelor informatii sau
+modificari, depunere care nu poate fi ^cuta mai tarziu de 30 de zile
+calendaristice de la data solicitarii A.S.F., sub sanctiunea respingerii cererii
+de avizare.
+(6) Avizul sau decizia de respingere, dupa caz, se comunica in
+termen de 10 zile lucratoare de la adoptare.
+(7) Decizia de respingere a cererii de avizare poate fl atacata la
+instanta de contencios administrativ competenta, potrivit legii.
+(8) Modiflcarea continutului documentelor care au stat la baza
+avizarii se notified in prealabil, A.S.F.
+Art. 121. - Interdic|u privind depozitarul
+(1) Angajatii sau membrii structurii de conducere ai depozitarului
+nu pot fl membri ai structurii de conducere sau angajati ai administratorului
+fondului ale carui active le pastreaza si nici membri ai structurii de conducere
+a angajatorului.
+(2) Depozitarul nu acorda credite, sub orice forma, administratorului
+cu care are incheiate contracte de depozitare si de custodie a activelor fondului.
+Art. 122. - Atributiile depozitarului
+(1) Depozitarul are urmatoarele atributii:
+a) sa primeasca in custodie §i sa pastreze in siguranta activele §i
+inregistrarile referitoare la toate activele fondului activele corespunzatoare
+provizionului tehnic;
+b) sa calculeze §i sa transmits A.S.F. valoarea activelor a
+activului net aferente fondului, conform reglementarilor A.S.F.;
+
+64
+c) sa transmita administratorului informafii privind activele fondurilor;
+d) sa calculeze §i sa raporteze valoarea activelor corespunzatoare
+provizionului tehnic, conform reglementarilor A.S.F.;
+e) sa indeplineasca instmctiunile administratorului, cu exceptia cazului
+in care acestea sunt contrare legisla^iei in vigoare;
+f) sa transmita A.S.F. raportarile privind activele fondului §i activele
+corespunzatoare provizionului tehnic, in condi{iile §i la termenele stabilite
+prin reglementarile acesteia;
+g) sa fumizeze A.S.F. informa^ii privind toate aspectele activita^ii
+de depozitare §i de custodie desfa^urate, inclusiv orice detalii, clarificari §i
+explica{ii, precum §i sa puna la dispozijia acesteia toate documentele aferente
+acesteia;
+h) sa se asigure ca in tranzacjiile care implica activele unui fond,
+orice contravaloare este achitata in termenele uzuale;
+i) sa se asigure ca veniturile ob|inute din investirea activelor
+fondului sunt utilizate in conformitate cu prevederile legale aplicabile;
+j) sa indeplineasca orice alte cerinje prevazute de reglementarile
+A.S.F. prevazute la art. 127.
+A
+(2) In indeplinirea obligatiilor prevazute in contractul de depozitare,
+administratorul si depozitarul actioneaza in mod onest, echitabil, profesionist,
+independent si in interesul participantilor si mo^tenitorilor acestora, defini^i
+conform prevederilor Codului civil.
+(3) Activitatile desfasurate de depozitar in legatura cu administratorul
+trebuie separate din punct de vedere operational si ierarhic de alte activitati care
+ar putea crea conflicte de interese interne, sau intre acesta §i participant,
+respectiv mo§tenitorii acestora, definiti conform prevederilor Codului civil.
+(4) in situatia aparitiei unor conflicte de interese, acestea sunt
+gestionate, monitorizate §i comunicate administratorului.
+Art. 123. - Pastrarea in conditii de siguranta a activelor §i
+raspunderea depozitarului
+(1) Activele unui fond de pensii, reprezentand instrumente financiare
+care pot fl pastrate in custodie, sunt incredintate unui depozitar pentru
+pastrare in conditii de siguranta,
+(2) Depozitarul pastreaza in custodie toate instrumentele financiare
+care pot fi inregistrate intr-un cont de instrumente financiare deschis in
+registrele depozitarului si toate instrumentele financiare care pot fi livrate
+fizic depozitarului.
+(3) In scopul prevazut la alin. (1), depozitarul se asigura ca activele
+fondului sunt inregistrate in evidentele depozitarului in conturi separate, in
+conformitate cu prevederile Legii nr. 126/2018 privind pietele de instrumente
+financiare, deschise in numele fondului de catre administrator, astfel incat
+
+65
+acestea sa poata fi identificate in mod clar, in orice moment, ca apartinand
+fondului.
+(4) Pentru activele fondului, altele decat cele prevazute la alin. (1),
+depozitarul verifica daca acestea apartin fondului tine evidenta activelor
+respective. Verificarea se efectueaza pe baza informatiilor sau documentelor
+fumizate de administrator si pe baza unor dovezi externe, atunci cand acestea
+sunt disponibile. Depozitarul isi actualizeaza permanent evidentele.
+(5) Depozitarul raspunde fata de administrator si fata de participant!
+si mo^tenitorii acestora, defini^i conform prevederilor Codului civil pentru
+orice pierdere suferita de acestia ca rezultat al neindeplinirii obligaliilor sale
+in mod nejustificat sau al indeplinirii necorespunzatoare a acestora.
+(6) Raspunderea depozitarului prevazuta la alin. (5) ramane
+aceeasi, chiar daca depozitarul incredinteaza unei terte parti active pe care le
+pastreaza in conditii de siguranta sau o parte din acestea.
+(7) Depozitarul trebuie sa indeplineasca urmatoarele cerinte:
+a) sa se asigure ca instrumentele financiare sunt pastrate si protejate
+in mod corespunzator, prin separarea activelor fondului de activele sale
+proprii;
+b) sa tina evidente care sa permita administratorului si A.S.F. sa
+identifice toate activele fondului in orice moment si fara intarziere;
+c) sa ia masurile necesare pentru a evita conflictele de interese in
+ceea ce priveste pastrarea in conditii de siguranta a activelor;
+d) sa informeze A.S.F., la solicitarea acesteia, cu privire la modul in
+care sunt pastrate activele fondului;
+e) sa puna in aplicare instructiunile administratorului, cu exceptia
+cazului in care acestea contravin legii sau procedurilor administratorului.
+Art. 124, - Executarea silita
+Activul fondului nu poate face obiectul unor masuri de executare
+silita sau al unor masuri asiguratorii impotriva administratorului ^i/sau
+depozitarului, sub sanc|iunea nulitatii absolute a actelor prin care se instituie.
+Art. 125. - Retragerea avizului depozitarului
+(1) Autoritatea poate retrage avizul depozitarului in una dintre
+urmatoarele situa^ii:
+a) pentru acelea^i motive pentru care respinge cererea de avizare;
+b) avizul a fost objinut pe baza unor declara^ii false sau prin orice
+alt mijloc ilegal, cu incalcarea prevederilor legale in vigoare;
+c) la cererea depozitarului respectiv;
+d) ca efect al lichidmi, fuziunii sau divizarii depozitarului;
+e) depozitarea activelor financiare ale unui fond neautorizat;
+
+66
+f) neexecutarea sau executarea necorespunzatoare a obligatiilor care
+rezulta din prezenta lege, din reglementarile A.S.F. sau din contractul de
+depozitare;
+g) evenimente care prejudiciaza interesele participan^ilor;
+h) depozitarul se afla in procedura de redresare sau de rezolutie.
+(2) A.S.F. informeaza depozitarul, administratorul ^i Banca Najionala a
+Romaniei despre retragerea motivata a avizului, in termen de 5 zile lucratoare
+de la luarea deciziei.
+(3) In situafia retragerii avizului depozitarului, acesta este obligat sa
+prezinte A.S.F. raportul privind activele fondului care i-au fost incredin|ate,
+auditat de un auditor flnanciar, pe cheltuiala depozitarului.
+(4) Decizia de retragere a avizului poate fl atacata la instanta de
+contencios administrativ competenta, potrivit legii.
+(5) Contestatia adresata instantei de contencios administrativ
+competente nu suspenda, pe timpul solutionarii acesteia, decizia de retragere
+a avizului depozitarului.
+(6) In termen de 10 zile lucratoare de la data expirarii perioadei de
+contestare sau, dupa caz, de la data ramanerii definitive a hotararii
+judecatore^ti prin care s-a solutionat contestatia, Autoritatea publica anuntul
+privind retragerea avizului depozitarului in Monitorul Oficial al Romaniei,
+Partea a IV-a si pe pagina de internet a A.S.F.
+Art. 126. - Contractul de depozitare si contractul de custodie
+(1) Contractul de depozitare si contractul de custodie cuprind clauze
+privind:
+a) drepturile si obligatiile depozitarului si ale administratorului;
+b) comisionul depozitarului si modul de calcul al acestuia;
+c) raspunderea contractuala a partilor si alte elemente prevazute in
+reglementarile A.S.F.;
+d) incetarea contractului.
+(2) Incetarea contractului de depozitare si a contractului de custodie
+este notificata A.S.F. de catre administrator, conform reglementarilor A.S.F.
+(3) Schimbarea depozitarului se face astfel incat sa fie asigurata
+continuitatea activitatii de depozitare §i custodie.
+(4) Fostul depozitar transmite noului depozitar, in termen de 30 de
+zile calendaristice de la desemnarea acestuia, activele fondului si copii ale
+tuturor documentelor privind activitatea sa in legatura cu acesta.
+
+67
+Emiterea de reglementari privind depozitarul
+Art. 127.
+activelor
+A.S.F. emite reglementari cu privire la:
+a) obliga^iile depozitarului m domeniul reglementat de prezenta
+lege;
+b) con^inutul minim al contractului-cadru de depozitare;
+c) con^inutul minim al contractului-cadru de custodie;
+d) activitatea de depozitare §i custodie a activelor fondului §\ a
+activelor corespunzatoare provizionului tehnic;
+e) criteriile de avizare §i de retragere a avizului pentru depozitar.
+CAPITOLUL XII
+Auditorul financiar
+Art. 128. - Avizarea auditorului financiar
+(1) Situa{iile financiare ale fondurilor si ale administratorilor
+acestora se auditeaza de catre un auditor financiar, avizat de catre A.S.F.
+(2) Pentru avizarea de catre A.S.F., auditorul financiar trebuie sa
+indeplineasca urmatoarele conditii:
+a) sa fie persoana juridica, membru activ al autoritafii competente
+din domeniul auditului financiar;
+b) sa fi funcfionat anterior solicitarii avizarii minimum 4 ani, cu
+exceptia persoanei juridice rezultate dintr-o fuziune/divizare, caz m care acest
+termen include si functionarea persoanei/persoanelor juridice din care aceasta
+provine;
+c) sa aiba competenta §i onorabilitate in domeniul auditului financiar;
+d) sa nu fi fost sanctionat de catre autoritatile romane sau straine din
+domeniul auditului sau din domeniul fmanciar-bancar cu interdictia de a
+desfasura activitati de audit financiar;
+e) sa aiba incheiat un contract de asigurare de raspundere civila
+profesionala, in conformitate cu normele privind asigurarea pentru rise
+profesional, contract valabil pe intreaga durata a efectuarii misiunilor de audit
+financiar;
+f) sa nu fie persoana afiliata angajatorului, administratorului sau
+depozitarului.
+(3) A.S.F. analizeaza cererea pentru avizarea auditorului financiar
+§i, in termen de 30 de zile calendaristice de la inregistrarea acesteia §i a
+documentatiei din care sa rezulte indeplinirea conditiilor prevazute la
+alin. (2), procedeaza la aprobarea sau la respingerea cererii, prin decizie
+scrisa ^i motivata.
+(4) Orice solicitare a A.S.F. de informafii suplimentare sau de
+modificare a documentelor prezentate intrerupe termenul prevazut la alin. (3),
+
+68
+un nou termen incepand sa curga de la data depunerii respectivelor informafii
+sau modificari, depunere care nu poate fi facuta mai tarziu de 30 de zile
+calendaristice de la data solicitarii A.S.F., sub sancjiunea respingerii cererii
+pentru avizarea auditorului financiar.
+(5) Decizia de avizare sau decizia de respingere, dupa caz, se
+comunica in termen de 10 zile lucratoare de la adoptarea acesteia.
+(6) Auditorul care a fost autorizat, avizat sau supus unei proceduri
+similare in vederea functionarii ca auditor in sistemul pensiilor ocupationale
+intr-un stat membru al Uniunii Europene sau aparjin^d Spa^iului Economic
+European este exceptat de la cerinta avizMi de catre A.S.F.
+Art. 129. - Contractu! de audit
+(1) Contractul de audit incheiat intre administrator si auditorul
+financiar trebuie sa respecte urmatoarele conditii:
+a) contractul de audit se incheie pana la data de 30 septembrie a
+anului in curs, astfel incat sa intre in vigoare incepand cu data de 1 ianuarie a
+anului urmator;
+b) pretul contractului de audit se stabileste in moneda agreata intre
+parti, cu exceptia contractelor de audit incheiate pentru auditul situatiilor
+financiare ale fondurilor, pentru care pretul se stabileste in lei;
+c) este interzisa modificarea clauzei contractului cu privire la pret in
+cursul unui an calendaristic pentru contracted de audit incheiate pentru
+auditul situatiilor financiare ale fondurilor.
+(2) Administratorii au obligatia sa solicite A.S.F. avizarea
+contractului de audit, in termen de 15 zile calendaristice de la incheiere.
+(3) Administratorii au obligatia sa solicite A.S.F.
+avizarea
+modificarii contractului de audit, in termen de 15 zile calendaristice de la
+modificare.
+(4) Prin exceptie de la prevederile alin, (3), modificarea contractului
+de audit privind prelungirea termenului acestuia, se notifica A.S.F. de catre
+administrator, in termen de 15 zile calendaristice de la data modificarii.
+Art. 130. - RaportuI de audit financiar
+(1) Auditorul financiar intocme§te un raport de audit financiar, in
+conformitate cu standardele de audit §i cu legisla^ia aplicabila.
+(2) RaportuI de audit al situatiilor financiare anuale aplicabil
+administratorilor fondurilor include:
+a) o referire privind modul de respectare a prevederilor referitoare la:
+(i) metodologia de calcul si evidenta a provizionului tehnic
+constituit de administrator;
+(ii) categoriile de active destinate acoperirii provizionului tehnic
+constituit de administrator;
+
+69
+(iii) regulile de diversificare pentru activele destinate acoperirii
+provizionului tehnic constituit de administrator;
+(iv) calculul si evidenta veniturilor administratorului constituite
+conform legii;
+b) o referire privind practicile si procedurile administratorului
+privind controlul intern §i auditul intern, precum si eventualele deficiente
+constatate si recomandarile facute pentru remedierea acestora.
+(3) Raportul de audit al situatiilor financiare anuale aplicabil unui
+fond include:
+a) o referire privind auditarea anuala a valorii activului net si a
+valorii unitatii de fond;
+b) o referire privind respectarea prevederilor legale referitoare la:
+(i) calculul, convertirea si evidenta contributiilor individual ale
+participantilor la fondurile de pensii ocupajionale;
+(ii) calculul si evidenta comisionului de administrare;
+(iii)
+calculul si evidenta activelor fondurilor, inclusiv a
+dividendelor de incasat;
+(iv) calculul si evidenta operatiunilor de mcasari si plati efectuate
+prin conturile fondului;
+(v) calculul si evidenta transferurilor participantilor intre fonduri;
+(vi)
+calculul si evidenta utilizarii activului personal al
+participantului la un fond, in caz de invaliditate, deces sau deschiderea
+dreptului la pensie, conform legii;
+(vii) calculul si evidenta provizioanelor tehnice constituite de
+administrator, categoriile de active admise sa acopere provizioanele tehnice
+ale administratorului constituite de administrator, precum si regulile de
+diversificare pentru activele admise sa acopere provizioanele tehnice
+constituite de administrator;
+(viii) calculul §i evidenta garandei minime pentru fiecare
+participant al fondului;
+c) o referire privind practicile si procedurile controlului si auditului
+intern aplicate fondului, precum si eventualele deficiente constatate si
+recomand^ile facute pentru remedierea acestora.
+(4) Raportul de audit financiar al situatiilor financiare anuale ale
+fondului nu poate fi intocmit de acelasi auditor financiar mai mult de 5 ani
+consecutivi.
+Art. 131. - Scrisoarea auditorului financiar catre conducere
+(1) Auditorul financiar are obligatia de a transmite A.S.F., in termen
+de 30 de zile calendaristice de la fmalizarea raportului de audit, scrisoarea
+adresata conducerii administratorului.
+
+70
+(2) In situatia in care nu a fost emisa o scrisoare catre conducere,
+auditorul financiar transmite Autoritatii, in termenul prevazut la alin, (I), o
+comunicare scrisa, care sa prezinte motivele pentru care nu a fost emisa
+scrisoarea catre conducere.
+(3) In urma recomandmlor formulate de catre auditorul financiar in
+scrisoarea catre conducere, administratorul elaboreaza un plan de masuri care
+cuprinde modalitati si termene concrete de realizare.
+(4) Planul de masuri prevazut la alin. (3) se comunica A.S.F. in
+termen de 30 de zile calendaristice de la primirea scrisorii auditorului
+financiar de catre conducerea administratorului.
+Art. 132, - Deficien^ele semniflcative
+(I) Auditorul financiar are obligatia de a informa A.S.F. si
+conducerea entitatii auditate, in situatia constatarii unor aspecte semniflcative
+care pot avea una din urmatoarele consecinte:
+a) incalcarea legii si/sau a reglementarilor A.S.F., prin care sunt
+stabilite conditiile de autorizare si de desfasurare a activitatii entitatii
+auditate;
+b) afectarea situatiei patrimoniale a entitatii auditate;
+c) potenjiale riscuri de discontinuitate in desfasurarea activitatii
+entitatii auditate;
+d) exprimarea unei opinii cu rezerve asupra situafiilor financiare
+entitatii auditate.
+(2) Obligatia prevazuta la alin. (1) este indeplinita in termen de o zi
+lucratoare de la data constatarii.
+A
+(3) In cazul in care constata deficiente semniflcative in activitatea
+auditorului financiar in legatura cu auditui situatiilor financiare ale fondului
+sau administratorului acestuia, A.S.F. poate sesiza autoritatea competenta in
+domeniul auditului financiar, solicitand acesteia adoptarea masurilor
+corespunzatoare, potrivit legii.
+(4) In termen de 30 de zile calendaristice de la pierderea calita^ii de
+membru activ al auditorului financiar, autoritatea competenta in domeniului
+auditului financiar informeaza A.S.F. despre aceasta.
+Art, 133. -Emiterea de reglementari privind auditorul financiar
+A.S.F. emite reglementari cu privire la:
+a) modelul-cadru al raportului de audit;
+b) elementele obligatorii asupra carora auditorul financiar trebuie sa
+formuleze opinie;
+c) scrisoarea catre conducerea administratorului;
+d) procedura aplicabila in cazul pierderii calita^ii de membru activ
+al unui auditor financiar;
+
+71
+e) cerintele de informare referitoare la auditul fmanciar;
+f) constatarea deficientelor semnificative in activitatea auditorului
+fmanciar in iegatura cu auditul situatiilor fmanciare ale fondului sau
+administratorului acestuia.
+CAPITOLUL XIII
+Supravegherea activitatii
+Art. 134. - Obiectivul supravegherii prudentiale
+(1) Supravegherea prudentiala are ca obiectiv principal protectia
+drepturilor participantilor §i mo^tenitorilor acestora, definili conform
+prevederilor Codului civil, soliditatea fmanciara a administratorului si
+stabilitatea pietei sistemului de pensii ocupationale.
+A
+(2) In vederea exercitarii activita^ii de supraveghere prudentiala,
+A.S.F. realizeaza activitati de reglementare, autorizare si control al entitatilor
+prevazute la art. 2 alin, (1) lit. a), b) si d) - f).
+(3) In vederea exercitarii activita^ii de supraveghere a entitatilor
+prevazute la art. 2 alin. (1) lit. c), A.S.F. realizeaza activitati de reglementare,
+avizare si control al depozitarilor, numai cu privire la activitatea de
+depozitare si custodie a activelor fondurilor de pensii ocupationale.
+Art. 135. - Sfera supravegherii prudentiale
+Entitatile prev^ute la art.2 alin.(l) sunt supuse supravegherii
+prudentiale, in privinta urmatoarelor elemente, dupa caz:
+a) modul si conditiile de organizare si functionare;
+b) aderarea, evidenta §i colectarea contributiiior participantilor;
+c) convertirea contributiiior participantilor;
+d) evidenta §i gestionarea conturilor individuate ale participantilor;
+e) evidenta §i desfa§urarea operatiunilor;
+f) provizioanele tehnice si finantarea acestora;
+g) regulile de investire;
+h) administrarea investitiilor;
+i) sistemul de guvemanta;
+j) informatiile care trebuie furnizate participantilor §i mo§tenitorilor
+acestora, definiti conform prevederilor Codului civil;
+k) transparenta si raportare.
+Art. 136. - Principiile generale ale supravegherii prudentiale
+(1) A.S.F. r^punde de supravegherea prudentiala a administratorilor.
+(2) A.S.F. se asigura ca supravegherea se bazeaza pe o abordare
+proactiva si bazata pe riscuri.
+
+72
+(3) Supravegherea administratorilor consta intr-o combinatie adecvata
+de activitati bazate pe raport^i prudentiale si controale la fata locului.
+(4) Competentele de supraveghere se exercita in timp util si m mod
+proportional cu volumul, natura, amploarea si complexitatea activitatilor
+administratorilor.
+(5) A.S.F. ia in calcul in mod corespunzator impactul potential al
+actiunilor sale asupra stabilitatii sistemelor financiare din Uniunea
+Europeana, in special in situatii de urgenta.
+Art. 137. - Competence de intervenCie atribuCii principale ale
+Autoritatii
+(1) Pentru desfa^urarea activitatii in conformitate cu prevederile
+prezentei legi, A.S.F. are urmatoarele atribufii principale:
+a) acordarea sau retragerea autorizarilor;
+b) acordarea sau retragerea avizelor;
+c) protejarea drepturilor participantilor si mogtenitorilor acestora,
+definiCi conform prevederilor Codului civil;
+d) supravegherea pruden^iala a activitatilor prevazute de prezenta
+lege, desfa§urate de catre entitatile autorizate/avizate;
+e) informarea §i educarea populatiei cu privire la scopurile §i
+principiile de functionare a fondurilor de pensii ocupationale §1 a
+administratorilor;
+f) comunicarea in mod public a informatiilor privind procesul de
+supraveghere prudentiala §i a datelor statistice agregate cu privire la aspecte-
+cheie ale aplicarii cadrului prudential;
+g) colaborarea cu alte institutii, autoritati, organisme si organizatii
+interne §i internationale, pentru a asigura reglementarea si supravegherea
+eficienta a sistemului de pensii ocupationale;
+h) controlul activitatilor prevazute de prezenta lege, desfa§urate de
+catre entitatile autorizate/avizate;
+i) desfa§urarea altor activitati prev^ute in prezenta lege.
+(2) A.S.F. i§i exercita atribudile prevazute in prezenta lege in mod
+transparent, independent si responsabil, cu respectarea prevederilor art. 157
+privind secretul profesional.
+(3) A.S.F. i§i exercita atributiile de control asupra entitatilor
+autorizate/avizate, conform planului de control aprobat.
+(4) A.S.F. are calitatea procesuala activa §i poate interveni in orice
+proces impotriva administratorilor, persoane fizice sau juridice care se afla
+intr-o relatie juridica cu ace§tia, atunci cand o astfel de actiune este necesara
+in scopul protejarii participantilor.
+
+73
+Art. 138. - Procesul de supraveghere prudentiala
+(1) In exercitarea atribuliilor sale, A.S.F. are dreptui de a soiicita si
+primi de la administrator, angajator, depozitar §i/sau auditorul financiar, dupa
+caz, urmatoarele informatii §i documente:
+a) documente care privesc schema, prospectul, fondul sau
+administratorul acestuia;
+b) orice registre, fi§iere informatice sau alte evidence care privesc
+schema, prospectul, fondul sau administratorul acestuia;
+c) conturile anuale §i rapoartele anuale, rapoartele interne
+intermediare, evaluari actuariale §i previziuni detaliate, situatii contabile
+privind activele §i pasivele, documente din care rezulta respectarea politicii
+de investitii, documente care fac dovada platii contributiilor, rapoarte ale
+persoanelor responsabile cu auditul situajiilor fmanciare anuale, precum §i
+toate documentele necesare supravegherii.
+(2) A.S.F. are competenja necesara pentru a reexamina strategiile,
+operaliunile §i raportarile intocmite de administrator, luand in considerare
+volumul, natura, amploarea complexitatea activitatilor acestuia,
+(3) Reexaminarea prevazuta la alin. (2) se realizeaza tinand seama
+de volumul, natura, amploarea si complexitatea activitatilor administratorilor
+viza^i, in conformitate cu reglementarile A.S.F., §i confine:
+a) o evaluare a cerinfelor calitative referitoare la sistemul de
+guvemanta;
+b) 0 evaluare a riscurilor cu care se confrunta administratorul;
+c) o evaluare a capacitatii administratorului de a evalua §i a gestiona
+riscurile cu care se confrunta acesta.
+Art. 139. - Informafn furnizate A.S.F.
+(1) A.S.F.,in cadrul procesului de supraveghere §i control, poate
+soiicita structurii de conducere a administratorului sau persoanelor care detin
+funcfii-cheie sa fumizeze in orice moment informatii privind toate aspectele
+activitajii sau sa puna la dispozitie toate documentele in cauza.
+(2) A.S.F. poate controla relatiile dintre administrator §i alte
+societati, in situatiile in care administratorul extemalizeaza acestor societati
+orice activitati care influenteaza situatia financiara a administratorului sau
+care sunt relevante pentru o supraveghere eficace.
+(3) A.S.F. poate controla spatiile in care administratorul isi
+desfa^oara activitatea §i, daca este cazul, spatiile in care se desfa^oara
+activitatile externalizate, pentru a verifica daca acestea se deruleaza in
+conformitate cu prezenta lege §i cu reglementarile A.S.F.
+(4) A.S.F. poate soiicita informa{ii din partea administratorului in
+orice moment cu privire la activitatile externalizate.
+
+74
+Art. 140. -Registrul
+(1) Registrul prevazut la art. 13 alin. (1) din Legea nr. 204/2006
+privind pensiile facultative, cu modificarile si completarile ulterioare, se
+completeaza cu o sec^iune con^inand entita^ile autorizate sau avizate sa
+desfasoare activita^i in sistemul de pensii ocupationale.
+(2) Sec^iunea prevazuta la alin. (1) cuprinde informatii cu privire la:
+a) denumirea fondului si codul prevazut in decizia de autorizare a
+fondului;
+b) denumirea administratorului, sediul acestuia, numarul de ordine
+in registrul comertului, codul unic de inregistrare §i codul prev^ut in decizia
+de autorizare a administratorului;
+c)
+numele persoanelor din
+structura de conducere a
+administratorului;
+d) denumirea depozitarului, sediul acestuia, numarul de ordine in
+registrul comerfului, codul unic de inregistrare si codul prev^ut in avizul
+acordat depozitarului;
+e) denumirea auditorului financiar, sediul acestuia, numarul de
+ordine in registrul comertului, codul unic de inregistrare si codul prevazut in
+avizul acordat auditorului financiar;
+i) alte informafii prevazute in reglementarile A.S.F.
+(3) In cazul activitatilor transfrontaliere desfa^urate in conformitate
+cu art. 92 - 94, registrul A.S.F. prevazut la alin. (1) contine, de asemenea,
+informatii privind statele membre in care functioneaza administratorii.
+Art. 141. - Publicarea sanc|iunilor
+(1) Fara intarziere nejustificata, A.S.F. publica orice sanctiune sau
+masura administrativa aplicata pentru incalcarea prezentei legi si fata de care
+nu a fost initiata exercitarea dreptului la o cale de atac in termen, inclusiv
+informatii cu privire la tipul §i natura incalcarii si la identitatea persoanelor
+responsabile de aceasta.
+(2) In cazul in care publicarea identitatii persoanelor juridice ori a
+identitatii sau a datelor cu caracter personal ale persoanelor fizice este
+considerata de catre A.S.F. ca fiind disproportionata, pe baza unei evaluari
+efectuate de la caz la caz cu privire la proportionalitatea public^ii unor astfel
+de date, sau in cazul in care publicarea respective ar pune in pericol
+stabilitatea pietelor fmanciare sau o ancheta in curs, A.S.F. poate decide sa
+amane publicarea, sa nu publice aceste informatii sau sa publice sanctiunile
+sub forma anonima.
+(3) Autoritatea notifica Autoritatea Europeana pentru Asigurari
+Pensii Ocupationale cu privire la orice decizie de a interzice sau de a
+restrictiona activitatile unui administrator.
+
+75
+Art. 142. “ Solutionarea sesizarilor
+(1) Orice persoana interesata §i care se considera vatamata intr-un
+drept al sau de catre o persoana sau o entitate cu atribu^ii in sistemul de pensii
+ocupationale poate formula o sesizare catre A.S.F.
+(2) In situatia in care sesizarea are ca obiect activitatea unui
+administrator, aceasta se depune in prealabil, in vederea solutionarii, la
+respectivul administrator.
+A
+(3) In termen de 30 de zile calendaristice de la primirea sesizarii,
+A.S.F. comunica un raspuns persoanei prevazute la alin. (1), cu respectarea
+prevederilor Ordonantei Guvemului nr. 27/2002 privind reglementarea
+activitajii de solulionare a petiliilor, aprobata cu modiflcari §i completari prin
+Legea nr. 233/2002, cu modificarile ulterioare.
+(4) Raspunsul prevazut la alin. (3) poate fi contestat la instan^a de
+contencios administrativ, in termen de 30 de zile calendaristice de la
+comunicare.
+(5) Dupa epuizarea cailor administrative de atac, persoanele
+prevazute la alin. (1) se pot adresa instan^elor judecatore^ti competente,
+potrivit Legii contenciosului administrativ nr. 554/2004, cu modificarile si
+completarile ulterioare.
+Art. 143. -Emiterea de reglementari privind supravegherea
+A.S.F. emite reglementari cu privire la:
+a) actualizarea informajiilor din registrul prevazut de art. 140;
+b) procedura privind solutionarea pl^gerilor formulate impotriva
+administratorului si a sesizarilor cu privire la activitatea acestuia;
+c) raportarea informatiilor care vor fi comunicate public privind:
+(i) procesul de supraveghere prudentiala;
+(ii) date statistice agregate cu privire la aspecte-cheie ale aplicarii
+cadrului prudential.
+CAPITOLUL XIV
+Raspunderea juridica
+Art. 144. - Dispozitii generale
+(1) Incalcarea de catre administrator, angajator, depozitar §i de catre
+auditorul fmanciar a prevederilor prezentei legi sau ale reglementarilor emise
+in aplicarea acesteia atrage raspunderea civila, contraventionala sau penala,
+dupa caz.
+(2) Administratorul, angajatorul, depozitarul si auditorul financiar
+r^pund fata de participanti si mo^tenitorii acestora, definiti conform prevederilor
+Codului civil, dupa caz, pentru prejudiciile cauzate prin neexecutarea sau
+
+76
+executarea necorespunzatoare a obligatiilor care le revin, cu excep^ia cazurilor de
+for{a majora.
+(3) Persoanele fizice din structura de conducere prevazuta la art. 3
+alin. (1) lit. qq) raspund pentru nerespectarea prevederilor prezentei legi §i ale
+reglementarilor A.S.F. emise in aplicarea acesteia, aplicabile administratorului.
+(4) Orice persoana care se considera vatamata ca urmare a
+neaplicarii sau a aplicarii necorespunzatoare a prevederilor prezentei legi are
+dreptul de a se adresa instan|elor judecatore^ti competente.
+Art. 145. - Regimul sanctionatoriu
+(1) A.S.F. aplica sanc^iuni §i masuri administrative pentru
+incalcarea prevederilor prezentei legi si reglementarilor emise in aplicarea
+acesteia.
+(2) Sanc{iunile §i masurile administrative prevazute la alin. (1) sunt
+eficace, propor^ionale §i cu efect de descurajare.
+(3) La stabilirea tipului §i cuantumului sanc^iunii sau masurilor
+administrative dispuse in temeiul exercitarii competentelor sale conform
+prevederilor Ordonan|ei de urgen^a a Guvemului nr. 93/2012, aprobata cu
+modificari §i completari prin Legea nr. 113/2013, cu modificarile §i
+completarile ulterioare, §i ale prezentei legi, A.S.F. are in vedere principiul
+proportionalitatii si al rationamentului calificat, precum si toate
+circumstantele relevante ale savarsirii faptei, inclusiv urmatoarele aspecte,
+dupa caz:
+a) gravitatea §i durata incalcarii;
+b) gradul de raspundere care revine persoanei fizice sau juridice
+responsabile de incalcare;
+c) importan^a proflturilor ob^inute sau a veniturilor rezultate din
+evitarea pierderilor de catre persoana fizica sau juridica responsabila, in
+masura in care acestea pot fi determinate;
+d) prejudiciile suferite de participanti, de mo§tenitorii acestora,
+defini^i conform prevederilor Codului civil si, dupa caz, de angajator ca
+urmare a incalcarii, in masura in care acestea pot fi determinate;
+e) masura in care persoana fizica sau juridica responsabila
+coopereaza cu A.S.F. in vederea remedierii faptelor constatate;
+f) incalcarile anterioare savarsite de persoana fizica sau juridica
+responsabila;
+g) eventualele masuri luate de catre contravenient, ulterior savarsirii
+faptei, pentru a limita pagubele, pentru acoperirea prejudiciului sau pentru
+remedierea deficientelor produse prin savarsirea faptei.
+
+77
+Art. 146. - Infractiuni
+(1) Constituie infrac^iune §i se pedepse^te cu inchisoare de la 6 luni
+la 3 ani sau cu amenda, impiedicarea prin orice mijloace de catre
+reprezentantul legal, de catre angajat, prepus ori de catre alta persoana din
+cadrul entitatii supusa controlului, conform prezentei legi, in mod
+nejustificat, a personalului cu atributii de control din cadrul A.S.F. de a intra
+in spatiile supuse controlului, in condi^iile prevazute de prezenta lege.
+(2) Constituie infrac^iune §i se pedepse§te cu inchisoare de la 1 la
+3 ani sau cu amenda desfa§urarea fara drept a unei activitati pentru care
+prezenta lege prevede obliga{ia definerii unei decizii de autorizare sau a unui
+aviz emis de catre A.S.F.
+(3) Constituie infractiune §i se pedepse^te cu inchisoare de la 1 la
+5 ani sau cu amenda, urmatoarele fapte:
+a) utilizarea resurselor fondului prev^ute la art. 67 alin. (2) in alte
+scopuri decat cele prevazute de prezenta lege;
+b) utilizarea lichiditajilor bane§ti ale unui participant la un fond in
+alte scopuri decat cele prev^ute de prezenta lege.
+Art. 147. - Contraven|ii
+(1) Constituie contraventii, in masura in care nu sunt savarsite in
+astfel de condifii incat sa fie considerate, potrivit legii, infractiuni,
+urmatoarele fapte:
+a) nerespectarea de catre administrator, de catre persoanele care fac
+parte din conducerea acestuia sau de catre persoanele care de^in func^ii cheie:
+(i) a obligatiilor prevazute in cuprinsul prezentei legi §i in
+reglementarile A.S.F. emise in aplicarea acesteia;
+(ii) a masurilor prevazute prin actele de autorizare, supraveghere,
+reglementare ^i control ale A.S.F.;
+(iii) a prevederilor existente in reglementarile proprii ale
+administratorului in domeniul pensiilor ocupationale;
+b) neexecutarea obligatiilor depozitarului §i auditorului financiar, in
+legMura cu activitatea desfasurata in cadrul sistemului de pensii ocupationale;
+c) nerespectarea de catre angajator a prevederilor art. 45 alin. (4),
+art. 46 alin. (2), art. 83 alin. (4) §i art. 85 alin. (9);
+d) nerespectarea de catre administrator sau de catre persoanele care
+fac parte din conducerea acestuia ori a persoanelor care detin functii-cheie a
+obligatiilor prevazute la art. 14, art. 16 alin. (2), art. 22, art. 24, art. 25
+alin. (1) §i (3), art. 26 alin. (1), (2) si (4), art. 27 alin. (1), (3), (6), art. 28
+alin. (1), (2), (3) , art. 29 alin. (1), (4) si (6), art. 30 alin. (1), art. 31, art. 32,
+art. 35, art. 36 alin. (2) §i (6), art. 39 alin. (1), art. 40, art. 42 alin. (3) ^i (4),
+art. 49 alin. (2), art. 52 alin. (3), art. 61 alin, (4), art. 65 alin. (2), art. 76
+alin. (4), art. 77 alin. (2), art. 85 alin. (2), art. 92, art. 101 alin. (1) - (3),
+
+78
+art. 104 alin. (8), art. 106 alin. (1), art. 113 alin. (1), art. 114 alin. (1), art. 115
+alin. (1), art. 116 alin. (1), art. 117, art. 119 alin. (1), art. 129 alin. (2) - (4),
+art. 131 alin. (3) §i a regulilor de investire prudentiala prevazute la art. 96
+alin. (1);
+e) nerespectarea de catre persoanele care dejin funcjii cheie a
+prevederilor art. 26 alin. (3) si (4);
+f) nerespectarea de catre persoana care conduce structura de audit
+intern a obligaliilor prevazute la art. 27 alin. (9) §i (11);
+g) nerespectarea de catre persoana care indeplineste functia
+actuariala a obliga|iilor prevazute la art. 28 alin. (4);
+h) nerespectarea de catre persoana care conduce structura de control
+intern/conformitate a prevederilor art. 29 alin. (7);
+i) nerespectarea de catre persoana care conduce structura de
+administrare a riscurilor a prevederilor art. 30 alin. (6) §i (7);
+j) nerespectarea de catre administrator a interdictiilor prevazute la
+art. 17 referitoare la activele financiare ale acestuia;
+k) nerespectarea de cMre administrator sau de catre depozitar a
+prevederilor art. 88, art. 90 alin. (3) si art. 98 alin. (1) §i (2) referitoare la
+activitatea fondului;
+l) nerespectarea de catre administrator, depozitar sau de catre
+persoanele care fac parte din conducerea acestora, a prevederilor art. 104
+alin. (1) - (7) si art. 105 alin. (1) - (9) referitoare la provizionul tehnic;
+m) nerespectarea de catre depozitar sau de catre persoanele care fac
+parte din conducerea acestuia a prevederilor art. 122 si art. 123 alin. (1) - (4)
+si (7) referitoare la activitatea de depozitare si de custodie a activelor
+fondului;
+n) nerespectarea de catre auditorul financiar a prevederilor art. 130,
+art. 131 alin. (1) ?i (2) si art. 132 alin. (1) §i (2);
+o) impiedicarea exercitarii drepturilor conferite A.S.F. de catre lege,
+precum ^i refuzul nejustificat al oricarei persoane de a raspunde solicitarilor
+A.S.F. in exercitarea atributiilor care ii revin, conform prevederilor
+Ordonantei de urgenta a Guvernului nr. 93/2012, aprobata cu modificari si
+completari prin Legea nr. 113/2013, cu modificarile §i completarile
+ulterioare, si ale prezentei legi.
+(2) Savarsirea contraventiilor prevazute la alin. (1) se sanctioneaza
+cu:
+a) avertisment scris;
+b) amenda contraventionala;
+c) interzicerea dreptului de a ocupa functii care necesita aprobarea,
+de catre A.S.F., pentru o perioada cuprinsa intre 1 si 5 ani de la data
+comunicarii deciziei de sanctionare sau de la o alta data prevazuta expres in
+decizie;
+
+79
+d) retragerea avizului/autorizarii acordate persoanelor din structura
+de conducere a administratorului si persoanelor cu functii-cheie;
+e) restrangerea sau interzicerea dreptului administratorului de a
+dispune de propriile active;
+f) retragerea autorizarii administratorului, a avizului depozitarului
+sau a avizului auditorului financiar.
+(3) Sanctiunile contraventionale principale prevazute la alin. (2)
+lit. a) sau b) pot fi aplicate cumulativ cu oricare dintre sanctiunile
+contraventionale complementare prevazute la alin. (2) lit. c) - f).
+(4) Prin derogate de la prevederile art. 8 alin. (2) lit. a) din
+Ordonanta Guvernului nr, 2/2001 privind regimul juridic al contraventiilor,
+aprobata cu modificari §i completari prin Legea nr. 180/2002, cu modificarile
+^i completariie ulterioare, denumita in continuare Ordonanta Guvernului
+nr. 2/2001, limitele amenzilor se stabilesc dupa cum urmeaza:
+a) pentru persoanele juridice: incepand de la 0,1% si pana la 5% din
+capitalul social, subscris si varsat;
+b) pentru persoanele fizice: incepand de la 1.000 lei §i pana la
+100.000 lei.
+(5) Amenzile contraventionale aplicate potrivit prezentei legi se fac
+venit la bugetul de stat.
+(6) A.S.F. poate aplica sanctiuni persoanei juridice supravegheate in
+situatia in care constata savar^irea unei fapte contraventionale, precum §i
+persoanelor fizice din structura de conducere si/sau persoanelor care detin
+functii-cheie, carora le este imputabila respectiva contraventie.
+(7) Constatarea contraventiilor se face de catre persoanele din
+cadrul A.S.F., care au atributii privind supravegherea §i/sau controlul
+respectarii legislafiei din domeniul pensiilor ocupationale, ori de catre aite
+persoane, imputemicite in acest scop, prin decizie a presedintelui A.S.F.
+Art. 148. - Procedura de stabilire si constatare a contraventiilor
+(1) Prevederile prezentei legi, referitoare la contraventii, se
+completeaza cu dispozitiile Ordonantei Guvernului nr. 2/2001, in masura in
+care nu contravin prezentei legi.
+(2) Procedura de constatare a contraventiilor, precum ^i de aplicare
+a sanctiunilor, este prevazuta prin reglementarile A.S.F.
+(3) Actul administrativ prin care A.S.F, aplica sanctiunea cu amenda
+constituie titlu executoriu.
+
+80
+Prescriptia aplicarii §i executarii sanctiuniior
+Art. 149.
+contraventionale
+(1) Prin derogare de la prevederile art. 13 alin. (1) din Ordonanta
+Guvernului nr. 2/2001, termenul de prescriptie a aplicarii §i executarii
+sanctiunii contraventionale este de 3 ani de la data savarsirii faptei.
+(2) Prin derogare de la prevederile art. 13 alin. (2) din Ordonanta
+Guvernului nr. 2/2001, aprobata cu modificari si completari prin Legea
+nr. 180/2002, cu modificmle si completarile ulterioare,
+contraventiilor continue, termenul prevazut la alin. (1) curge de la data
+constatarii faptei.
+in cazul
+Art. 150. - Masuri administrative
+(1) A.S.F. poate sa dispuna masuri administrative de prevenire a
+unor situatii de natura sa afecteze buna functionare a sistemului de pensii
+ocupationale sau masuri de remediere a unor deficiente.
+(2) Masurile administrative se dispun in mod proportional cu
+volumul, natura, amploarea si complexitatea activitatilor entitatii
+supravegheate.
+(3) A.S.F. dispune urmMoarele masuri administrative:
+a) suspendarea exercitiului dreptului de vot al actionarilor, in
+cazurile in care nu mai indeplinesc cerintele legale privind calitatea
+actionariatului unui administrator care desfasoara o politica individuals sau
+comuna care pericliteaza asigurarea unei gestiuni sanatoase si prudente a
+administratorului si a fondului, in detrimentul participantilor si mo§tenitorilor
+acestora, defini^i conform prevederilor Codului civil;
+b) limitarea sau interzicerea, pe o perioada cuprinsa intre 90 si 180
+de zile, a anumitor operatiuni ale administratorului reglementate de lege;
+c) restrangerea exercitiului administratorului de a dispune de
+propriile active sau interzicerea acestui drept.
+(4) Masurile administrative prevazute la alin. (3) pot fi aplicate
+distinct sau impreuna cu sanctiunile principale sau complementare prevazute
+la art. 147 alin. (2).
+(5) Autoritatea poate decide, dupa caz, atentionarea persoanei fizice
+si/sau juridice in situatia in care constata nerespectarea obligatiilor cuprinse
+in prezenta lege sau in normele emise in aplicarea acesteia, care au o
+gravitate redusa, care nu au adus atingere intereselor participantilor, care sunt
+sub pragul de materialitate si care pot fi incadrate ca flind erori operationale
+izolate.
+
+81
+CAPITOLUL XV
+Accesu] la informadi si secretul profesional
+Art. 151. - Documente suplimentare
+(1) In procesul de autorizare/avizare, precum si in exercitarea
+atributiilor de supraveghere si control realizate in temeiul prezentei legi,
+A.S.F. poate solicita entitatilor orice documente informatii pe care le
+considera necesare.
+(2) A.S.F. poate verifica orice aspect legat de cererea de
+autorizare/avizare a entitajii, flind indreptajita:
+a) sa se adreseze autoritajilor competente;
+b) sa solicite documente §i informajii din alte surse, potrivit legii.
+Art. 152. - Accesul la informatii
+(1) Entitajile autorizate sau avizate, dupa caz, in temeiul prezentei
+legi, fumizeaza, la solicitarea A.S.F,, orice informadi, detalii, clarificari,
+inclusiv rapoarte referitoare la activitatea desfasurata.
+(2) A.S.F. are acces la orice documente intocmite in cadrul
+activitatii desfasurate in domeniul pensiilor ocupationale de catre entita^ile
+prevazute laalin. (1).
+(3) A.S.F. asigura confidentialitatea informatiilor primite, cu
+exceptia celor de natura penala.
+(4) A.S.F. utilizeaza informadi confidendale ob^inute in temeiul
+prezentei legi in scopul exercitarii atributiilor sale, in urmatoarele scopuri;
+a) pentru a verifica daca administratorii indeplinesc conditiile
+legale;
+b) pentru a facilita monitorizarea activitatilor administratoriior;
+c)
+pentru a impune masuri corective, inclusiv sanctiuni
+administrative;
+d) pentru a publica indicatori-cheie de performanta;
+e) in cadrul contestatiilor formulate impotriva deciziilor Autoritatii;
+f) in cadrul actiunilor in instanta introduse in ceea ce priveste
+prevederile prezentei legi.
+(5) Transmiterea catre A.S.F. a informatiilor stabilite de prezenta
+lege nu constituie o incMcare a obligatiei de pastrare a secretului profesional.
+(6) Autoritatile §i institutiile publice fumizeaza in mod gratuit
+A.S.F. informatiile solicitate in scopul indeplinirii de catre aceasta a
+atributiilor care ii revin potrivit prevederilor prezentei legi.
+Art. 153. - Schimbul de informatii
+(1) A.S.F. coopereaza cu supraveghetorii sau autoritatile
+organismele competente din alte state membre, garantand secretul
+
+82
+profesional, in condi^iile prevazute la art. 157, utilizarea informatiilor
+numai Tn scopul exercitarii supravegherii.
+(2) A.S.F. participa in calitate de membru sau reprezinta Romania la
+asocia^iile intema^ionale ale autoritatilor de reglementare supraveghere, la
+conferin{ele intalnirile intemafionale in sistemul de pensii ocupationale.
+(3) In scopul intaririi stabilitajii integritatii sistemului de pensii
+ocupationale, A.S.F. colaboreaza cu alte institute §i autoritati din tara §i din
+strainatate, acestea cuprinzand, in special, autoritalile de supraveghere §i
+reglementare a pietelor financiare din statele membre ale Uniunii Europene
+sau aparjinand Spajiului Economic European, Comisia Europeana, Comitetul
+european pentru rise sistemic, Autoritatea Europeana pentru Asigurari §i
+Pensii Ocupa|ionale, Autoritatea Bancara Europeana, Autoritatea Europeana
+pentru Valori Mobiliare §i Piete.
+(4) Colaborarea se realizeaza prin schimb de informatii, de
+experien^a sau in orice alt mod, potrivit legii §i/sau acordurilor incheiate cu
+institutiile §i autoritajile prevazute la alin. (1) si cu asociatiile intemationale
+prevazute la alin. (2), in scopul indeplinirii atribu|iilor lor specifice §i in
+condi^ii de reciprocitate ?! de asigurare a confiden^ialitatii informatiilor astfel
+fumizate.
+(5) Institu^iile §i autoritalile publice fumizeaza A.S.F. informa|iile
+pe care le considera necesare sau care sunt solicitate de aceasta, in scopul
+realizmi unei supravegheri eficiente §i al indeplinirii obiectivelor A.S.F.
+(6) Informatiile primite ca urmare a schimbului de informa^ii intre
+autoritati si informatiile obtinute prin verificarea la fata locului se divulga
+doar cu acordul expres al autoritatii competente de la care provin informatiile
+sau cu cel al autoritatii competente a statului membru in care s-a efectuat
+verificarea la fata locului.
+(7) A.S.F. poate autoriza comunicarea de informatii confidentiale
+referitoare la supravegherea prudentiala a unui administrator catre comisii
+parlamentare de ancheta §i catre alte entitati na^ionale cu atributii de ancheta,
+in cazul in care sunt indeplinite cumulativ urmatoarele conditii:
+a) entitatile cu atributii de ancheta au competenta, in temeiul
+legislatiei nationale, de a cerceta sau a examina actiunile autoritatilor
+responsabile de supravegherea administratorilor sau de elaborare a legislatiei
+privind aceasta supraveghere;
+b) informatiile sunt strict necesare pentru exercitarea competentei
+prev^ute la lit. a);
+c) persoanelor care au acces la informatii le revin obligatiile privind
+pastrarea secretului profesional;
+d) in cazul in care informatiile provin de la alt stat membru, acestea
+sunt comunicate cu acordul explicit al autoritatilor competente din statul
+
+83
+membru de provenienta si doar in scopurile pentru care respectivele autoritati
+si-au dat acordul.
+(8) in schimburile de informatii, transmiterea §i comunicarea
+acestora, exista obligatia respectarii cel putin a urmatoarelor conditii:
+a) schimbul, transmiterea sau comunicarea de informatii se
+realizeaza in scopul indeplinirii functiei de supraveghere sau de control;
+b) informatiile primite fac obiectul obligatiei privind pastrarea
+secretului profesional;
+c) in cazul in care informatiile provin din alt stat membru, acestea
+nu sunt divulgate fara acordul expres al autoritatii competente din statul de
+provenienta si, daca este cazul, sunt comunicate exclusiv in scopurile pentru
+care respectiva autoritate si-a dat acordul.
+Art. 154. - Inactivitatea pe o perioada de 2 ani a entitatilor
+a u toriza te/a viza te
+Daca entitatea autorizata sau avizata de catre A.S.F. nu are
+activitate pe o perioada de 2 ani de la data oblinerii deciziei de autorizare sau
+a avizului, A.S.F. ii poate retrage autorizarea/avizul, dupa caz.
+Art. 155. ~ Taxele de autorizare, avizare si funclionare
+(1) Taxele de autorizare, avizare si functionare se stabilesc prin
+reglementarile adoptate de A.S.F.
+(2) Taxele prevazute la alin, (1) se achita de catre solicitant.
+(3) in cazul respingerii cererii de autorizare sau de avizare, taxa
+perceputa nu se restituie.
+Art. 156. - Prelucrarea datelor cu caracter personal
+(1) Entitatiie prevazute la art. 2 prelucreaza datele cu caracter
+personal ale participantilor si ale mo§tenitorilor acestora, defini^i conform
+prevederilor Codului civil, in scopul indeplinirii obligatiilor prevazute de
+prezenta lege si de reglementarile Autoritatii, cu respectarea Regulamentului
+(UE) 2016/679 a Parlamentului European §i a Consiliului din 27 aprilie 2016
+privind protectia persoanelor fizice in ceea ce priveste prelucrarea datelor cu
+caracter personal si privind libera circulatie a acestor date §i de abrogare a
+Directive! 95/46/CE (Regulamentul general privind protectia datelor) §i a
+prevederilor Legii nr. 190/2018 privind masuri de punere in aplicare a
+Regulamentului (UE) 2016/679 al Parlamentului European §i al Consiliului
+din 27 aprilie 2016 privind protecfia persoanelor fizice in ceea ce priveste
+prelucrarea datelor cu caracter personal §i privind libera circulatie a acestor
+date §i de abrogare a Directive! 95/46/CE (Regulamentul general privind
+protectia datelor).
+(2) Prelucrarea datelor cu caracter personal, la nivelul A.S.F., se
+realizeaza exclusiv in scopul indeplinirii atributiilor de protectie a
+
+84
+participantilor si a mo^tenitorilor acestora, defini^i conform prevederilor
+Codului civil, cu respectarea dispozitiilor prezentei legi, ale Regulamentului
+(UE) 2016/679 §i aleLegii nr. 190/2018.
+Art. 157. - Secretul profesional
+(1) Persoanele care au fost sau sunt angajate Tn cadrul A.S.F. au
+obligalia de a respecta secretul profesional §i nu pot divulga informatiile
+obtinute in context profesional niciunei persoane fizice sau juridice decat
+intr-o forma sintetica sau agregata, astfel incat entita^ile prevazute art, 2 sa nu
+poata fl identificate.
+(2) Fara a aduce atingere prevederilor alin. (1), informatiile
+confidentiale pot fi comunicate, in conditiile legii, organelor judiciare in
+timpul procedurilor judiciare, in procedurile de insolventa in cazul in care
+societatile autorizate sau avizate, conform prezentei legi, sunt declarate
+insolvente sau in procesul de lichidare.
+Art. 158. - Dreptul de ancheta al Parlamentului European
+Prevederile art. 152, 153 si art. 157 nu aduc atingere dreptului de
+ancheta conferit Parlamentului European prin articolul 226 din Tratatul
+privind functionarea Uniunii Europene.
+CAPITOLUL XVI
+Dispozifil finale
+Art. 159. - Abrogare
+La mentiunea privind transpunerea normelor Uniunii Europene din
+Legea nr, 204/2006 privind pensiile facultative, publicata in Monitorul
+Oficial al Romaniei, Partea I, nr. 470 din 31 mai 2006, cu modificarile §i
+completarile ulterioare, litera c) se abroga.
+Art. 160. - Intrarea in vigoare
+(1) Prezenta lege intra in vigoare la 30 de zile de la data publicarii
+in Monitorul Oficial al Romaniei, Partea I.
+(2) Reglementarile emise de catre A.S.F. in aplicarea prezentei legi
+se publica in Monitorul Oficial al Romaniei, Partea 1.
+Prezenta lege transpune prevederile Directivei (UE) 2016/2341 a
+Parlamentului European si a Consiliului din 14 decembrie 2016 privind
+activitatile si supravegherea institutiilor pentru furnizarea de pensii
+ocupationale (lORP), publicata in Jurnalul Oficial al Uniunii Europene
+(JOUE), seriaL, nr. 354 din 23 decembrie 2016
+
+85
+Aceasta lege a fast adoptata de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 ale art. 76 alin. (1) din Constitufia
+Romdniei, republicatd.
+PRE§EDINTELE
+SENATULUI
+PRE§EDINTELE
+CAMEREI DEPUTATILOR
+TEODOR-VIOREL MELE§CANU
+ION-MARCEL CIOLACU
+Bucure§ti,
+Nr.
