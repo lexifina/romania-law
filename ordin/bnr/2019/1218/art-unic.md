@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății IFN CREDIT EUXIN - S.A., cu sediul în Constanța, str. Ștefan cel Mare nr. 102, județul Constanța, înregistrată la registrul comerțului cu nr. J13/845/2006, cod unic de înregistrare 18504019, înscrisă în Registrul general cu nr. RG-PJR-14-110013, la secțiunea k) "Activități multiple de creditare".
