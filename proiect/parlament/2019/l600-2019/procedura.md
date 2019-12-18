@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-12-10: registered at the Chamber of Deputies; documents published: Aviz comisie
 - 2019-12-11: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-13: sent for promulgation
+- 2019-12-18: promulgated, becomes Legea nr. 237/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2019-12-10: Aviz comisie (CA3): [ca3-04aedb4c.md](ca3-04aedb4c.md); official file https://www.senat.ro/legis/PDF/2019/19L600CA3.PDF
 - 2019-12-11: Adresă privind sesizarea CCR (AXS): [axs-fb7eba51.md](axs-fb7eba51.md); official file https://www.senat.ro/legis/PDF/2019/19L600AXS.PDF
 - 2019-12-11: Forma trimisă la promulgare (LP): [lp-5b3a97b3.md](lp-5b3a97b3.md); official file https://www.senat.ro/legis/PDF/2019/19L600LP.PDF
+- 2019-12-18: Decret de promulgare (DP): [dp-4c54a2e1.md](dp-4c54a2e1.md); official file https://www.senat.ro/legis/PDF/2019/19L600DP.PDF
+- 2019-12-18: Adresă privind forma promulgată (AFP): [afp-483d604e.md](afp-483d604e.md); official file https://www.senat.ro/legis/PDF/2019/19L600AFP.PDF
+- 2019-12-18: Forma promulgată (FP): [fp-34d51a4e.md](fp-34d51a4e.md); official file https://www.senat.ro/legis/PDF/2019/19L600FP.PDF
