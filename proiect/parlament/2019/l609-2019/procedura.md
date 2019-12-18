@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-11-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-12-10: documents published: Aviz comisie
+- 2019-12-18: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-29: Expunere de motive (EM): [em-83945852.md](em-83945852.md); official file https://www.senat.ro/legis/PDF/2019/19L609EM.PDF
 - 2019-12-10: Aviz comisie (CA3): [ca3-84d93c2b.md](ca3-84d93c2b.md); official file https://www.senat.ro/legis/PDF/2019/19L609CA3.PDF
 - 2019-12-10: Aviz comisie (CA8): [ca8-d933bb0f.md](ca8-d933bb0f.md); official file https://www.senat.ro/legis/PDF/2019/19L609CA8.PDF
+- 2019-12-18: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L609CA12.PDF
+- 2019-12-18: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L609CA45.PDF
