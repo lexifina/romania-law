@@ -1,0 +1,11 @@
+# HCGMB nr. 698/2019
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 698/2019
+- Adopted: 2019-12-18
+- Title: PRIVIND APROBAREA LISTEI SPATIILOR MEDICALE LIBERE CE FAC OBIECTUL ORDONANTEI DE URGENTA NR. 68/2008 PRIVIND VANZAREA SPATIILOR PROPRIETATE PRIVATA A STATULUI SAU A UNITATILOR ADMINISTRATIV-TERITORIALE, CU DESTINATIA DE CABINETE MEDICALE, PRECUM SI A SPATIILOR IN CARE ISI DESFASOARA ACTIVITATI CONEXE ACTULUI MEDICAL, PRIN LICITATIE PUBLICA CU STRIGARE SE MODIFICA SI SE COMPLETEAZA PRIN HCGMB NR.275/2024 ANEXA MODIFICATA PRIN HCGMB NR. 300/2026 ANEXA MODIFICATA PRIN HCGMB NR. 298/2026
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/40787
+- Document: https://doc.pmb.ro/legis/acteinterne/2019/40787/H698_19.pdf
+- Document sha256: 3c5d9b96e8dfb605db5e5750e5ecce82c72eabbb6afa18dbcddd26073456f059
