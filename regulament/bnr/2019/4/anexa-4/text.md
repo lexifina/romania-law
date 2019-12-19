@@ -1,0 +1,46 @@
+# Anexa nr. 2
+CHESTIONAR^1 pentru persoanele care dețin participații calificate la instituția de plată ^1 Chestionarul va fi completat de persoana care deține participații calificate, în mod direct sau indirect, la instituția de plată. Este obligatoriu a se răspunde detaliat la toate întrebările, cu toate precizările necesare, astfel încât să poată fi efectuată evaluarea calității persoanei care deține participații calificate.
+1.
+Elementele de identificare ale persoanei care deține participații calificate Pentru persoana fizică, precizați numele și prenumele și, după caz, numele de la naștere, data și locul nașterii, codul numeric personal sau echivalentul acestuia, dacă există, sau numărul actului de identitate, cetățenia actuală și anterioare, dacă este cazul, țările în care a avut în ultimii 3 ani stabilite domiciliul, reședința sau a desfășurat activitate.
+Pentru persoana juridică sau alt tip de entitate fără personalitate juridică ce deține participații în nume propriu, precizați denumirea, adresa sediului social/real/locației principale în care desfășoară activitate (în cazul în care sunt diferite), numărul de înregistrare la oficiul registrului comerțului sau alt element de identificare echivalent, datele de contact.
+2.
+Precizați numărul și tipul acțiunilor/părților sociale, valoarea acestora, cota de participare la capitalul social al instituției de plată și drepturile de vot și detalii complete cu privire la încadrarea din perspectiva situațiilor care determină participația calificată.
+3.
+Ați fost condamnat pentru infracțiuni de corupție, spălare de bani, terorism, infracțiuni contra patrimoniului, abuz în serviciu, luare sau dare de mită, fals și uz de fals, deturnare de fonduri, evaziune fiscală, primire de foloase necuvenite, trafic de influență, mărturie mincinoasă, infracțiuni prevăzute de legislația specială în domeniul financiar-bancar, de legislația privind societățile comerciale sau insolvența, pentru care nu a intervenit reabilitarea sau anularea? Dacă răspunsul este afirmativ, furnizați detalii complete.
+4.
+Ați fost condamnat pentru alte infracțiuni decât cele enumerate la pct. 3, pentru care nu a intervenit reabilitarea sau anularea? Dacă răspunsul este afirmativ, furnizați detalii complete.
+5.
+Faceți sau ați făcut obiectul unor hotărâri definitive, pentru care nu este în desfășurare nicio cale de atac sau nu mai poate fi atacată, în materie civilă sau administrativă, pentru încălcarea legii? Dacă răspunsul este afirmativ, furnizați detalii complete.
+6.
+Ați făcut sau faceți obiectul unor proceduri de insolvență, faliment sau alte proceduri echivalente, dvs. sau orice entitate condusă sau controlată de dumneavoastră? Dacă răspunsul este afirmativ, furnizați detalii complete.
+7.
+Sunteți urmărit penal sau judecat pentru oricare dintre infracțiunile prevăzute la pct. 3 ? Dacă răspunsul este afirmativ, furnizați detalii complete.
+8.
+Sunteți urmărit penal sau judecat pentru alte infracțiuni decât cele prevăzute la pct. 4 ? Dacă răspunsul este afirmativ, furnizați detalii complete.
+9.
+Faceți sau ați făcut obiectul unor investigații, măsuri sau sancțiuni administrative sau civile pentru nerespectarea prevederilor care reglementează domeniul bancar, financiar, al activității de asigurare sau orice altă legislație privind serviciile financiare? Dacă răspunsul este afirmativ, furnizați detalii complete.
+10.
+Ați fost refuzat la înregistrare, autorizare sau licențiere sau vi s-a revocat, retras sau anulat o înregistrare, autorizare sau licențiere pentru a putea desfășura activități comerciale sau a profesa în orice domeniu ori ați fost exclus de către un organism profesional? Dacă răspunsul este afirmativ, furnizați detalii complete.
+11.
+Faceți sau ați făcut obiectul unor investigații, măsuri sau sancțiuni aplicate de orice organism de reglementare sau profesional pentru nerespectarea oricăror reglementări? Dacă răspunsul este afirmativ, furnizați detalii complete.
+12.
+Ați deținut o poziție cu responsabilitate într-o entitate care a făcut obiectul unei condamnări, investigații, sancțiuni sau alte măsuri similare, inclusiv pentru fapte de corupție, fraudă, înșelăciune, spălarea banilor, finanțarea terorismului sau alte fapte și infracțiuni în domeniul financiar? Dacă răspunsul este afirmativ, furnizați detalii complete.
+13.
+Ați fost demis sau eliberat dintr-o poziție de fiduciar sau o poziție similară? Dacă răspunsul este afirmativ, furnizați detalii complete.
+14.
+Ați fost evaluat din perspectiva reputației în calitate de persoană care deține participații calificate la o entitate reglementată și supravegheată de Banca Națională a României, Autoritatea de Supraveghere Financiară ori de o autoritate de supraveghere cu atribuții similare dintr-un alt stat membru? Dacă răspunsul este afirmativ, precizați autoritatea respectivă și furnizați detalii complete referitoare la rezultatul evaluării.
+15.
+Ați fost evaluat ca persoană responsabilă cu conducerea și/sau administrarea activității sau ca acționar la o entitate reglementată și supravegheată de Banca Națională a României, Autoritatea de Supraveghere Financiară ori de o autoritate de supraveghere cu atribuții similare dintr-un alt stat membru? Dacă răspunsul este afirmativ, furnizați detalii complete, inclusiv, dacă este cazul, motivele încetării calității respective.
+16.
+Sunteți sau ați fost o entitate reglementată și supravegheată de Banca Națională a României, Autoritatea de Supraveghere Financiară ori de o autoritate de supraveghere cu atribuții similare sau de către un organism guvernamental dintr-un alt stat membru? Dacă răspunsul este afirmativ, furnizați detalii complete.
+17.
+Care este situația dvs. patrimonială curentă? Indicați principalele poziții din situația patrimonială: surse de venit, active mobile sau imobile, împrumuturi, datorii, gajuri sau garanții primite sau date etc.
+18.
+Descrieți orice legături pe care le aveți cu persoanele expuse public definite de legislația în domeniul prevenirii și combaterii spălării banilor și finanțării terorismului.
+Subsemnatul declar pe propria răspundere, sub sancțiunea legii, că toate răspunsurile sunt complete și conforme cu realitatea și că nu există alte fapte relevante asupra cărora Banca Națională a României ar trebui încunoștințată. Totodată mă angajez să comunic Băncii Naționale a României orice modificare privind informațiile furnizate.
+Data.................................
+Numele și prenumele
+Funcția (dacă este cazul)
+Semnătura și ștampila (dacă este cazul) (Pentru persoanele juridice vor semna reprezentanții lor legali.)
+NOTĂ: Banca Națională a României va păstra confidențialitatea informațiilor cuprinse în răspunsurile la acest chestionar, cu excepția cazurilor prevăzute de lege.
+Nu sunt acceptate chestionarele semnate prin reprezentare.
