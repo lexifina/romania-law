@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-12-11: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-13: sent for promulgation
 - 2019-12-18: promulgated, becomes Legea nr. 237/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-19: published in the Monitorul Oficial
 
 ## Documents
 
