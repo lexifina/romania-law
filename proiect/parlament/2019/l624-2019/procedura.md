@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2019-12-11: first record in the bill file
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-18: sent for promulgation; promulgated, becomes Legea nr. 238/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-19: published in the Monitorul Oficial
 
 ## Documents
 
