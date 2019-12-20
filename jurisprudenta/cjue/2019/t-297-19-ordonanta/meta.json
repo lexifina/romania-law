@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-297-19-ordonanta-2019-12-20",
+ "label": "CJUE, Ordonanța Tribunalului (Camera a șaptea) din 20 decembrie 2019, Cauza T-297/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2019-12-20",
+ "year": "2019",
+ "case": "Cauza T-297/19",
+ "celex": "62019TO0297",
+ "ecli": "ECLI:EU:T:2019:902",
+ "heading": "Ordonanța Tribunalului (Camera a șaptea) din 20 decembrie 2019",
+ "formation": "CHAMB_07_T",
+ "procedure": "ACTION_DAM",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Răspundere extracontractuală – Stat de drept – Independența justiției – Dreptul la un proces echitabil – Protecția datelor cu caracter personal – Neadoptarea de către Comisie a măsurilor prin care să se asigure că România își respectă obligațiile – Încălcare suficient de gravă a unei norme de drept care conferă drepturi particularilor – Acțiune vădit nefondată",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019TO0297",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-297/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a48d4978-d69a-4322-8aae-8d3e3b96a01a.0020.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "6c2d7a7e0b08f811e2cdb23ee15a80eacd546188b9e29e831082734d7cc5182a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
