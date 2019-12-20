@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-14: sent for promulgation
 - 2019-12-19: promulgated, becomes Legea nr. 240/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-19: Decret de promulgare (DP): [dp-04cb2af0.md](dp-04cb2af0.md); official file https://www.senat.ro/legis/PDF/2019/19L186DP.PDF
 - 2019-12-19: Adresă privind forma promulgată (AFP): [afp-9ae097a4.md](afp-9ae097a4.md); official file https://www.senat.ro/legis/PDF/2019/19L186AFP.PDF
 - 2019-12-19: Forma promulgată (FP): [fp-038d49be.md](fp-038d49be.md); official file https://www.senat.ro/legis/PDF/2019/19L186FP.PDF
+- 2019-12-20: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L186AA.PDF (its day is not given by the bill file: shown from the last stage held)
