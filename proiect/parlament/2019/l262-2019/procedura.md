@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-04: sent for promulgation
+- 2019-12-20: promulgated, becomes Legea nr. 245/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2019-06-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L262AM.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-2c553bd6.md](axs-2c553bd6.md); official file https://www.senat.ro/legis/PDF/2019/19L262AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-feb3ca2d.md](lp-feb3ca2d.md); official file https://www.senat.ro/legis/PDF/2019/19L262LP.PDF
+- 2019-12-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L262DP.PDF
+- 2019-12-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L262AFP.PDF
+- 2019-12-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L262FP.PDF
