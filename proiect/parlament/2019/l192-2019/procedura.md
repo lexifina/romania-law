@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-04: sent for promulgation
+- 2019-12-23: promulgated, becomes Legea nr. 250/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2019-05-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L192AM.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-b60c3b96.md](axs-b60c3b96.md); official file https://www.senat.ro/legis/PDF/2019/19L192AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-49b06914.md](lp-49b06914.md); official file https://www.senat.ro/legis/PDF/2019/19L192LP.PDF
+- 2019-12-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L192DP.PDF
+- 2019-12-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L192AFP.PDF
+- 2019-12-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L192FP.PDF
