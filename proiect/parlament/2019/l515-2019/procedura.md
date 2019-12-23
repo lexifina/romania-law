@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-21: sent for promulgation
 - 2019-12-22: promulgated, becomes Legea nr. 248/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-23: published in the Monitorul Oficial
 
 ## Documents
 
