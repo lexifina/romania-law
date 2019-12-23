@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
+- 2019-12-23: promulgated, becomes Legea nr. 254/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-03-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L001AM.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-88a5ad14.md](axs-88a5ad14.md); official file https://www.senat.ro/legis/PDF/2019/19L001AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-41f13410.md](lp-41f13410.md); official file https://www.senat.ro/legis/PDF/2019/19L001LP.PDF
+- 2019-12-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L001DP.PDF
+- 2019-12-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L001AFP.PDF
+- 2019-12-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L001FP.PDF
