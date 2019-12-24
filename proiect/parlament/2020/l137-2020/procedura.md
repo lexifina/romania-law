@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2019-12-23: first record in the bill file
+- 2019-12-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2019-12-24: Adresă de înaintare a inițiativei (AD): [ad-af76cf44.md](ad-af76cf44.md); official file https://www.senat.ro/legis/PDF/2020/20L137AD.PDF
+- 2019-12-24: Forma inițiatorului (FG): [fg-b7ec022d.md](fg-b7ec022d.md); official file https://www.senat.ro/legis/PDF/2020/20L137FG.PDF
+- 2019-12-24: Expunere de motive (EM): [em-c695f5af.md](em-c695f5af.md); official file https://www.senat.ro/legis/PDF/2020/20L137EM.PDF
