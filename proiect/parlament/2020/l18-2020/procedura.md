@@ -1,0 +1,22 @@
+# Proiect de lege L18/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 18/2021 (`legea-18-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.80/2019 pentru modificarea şi completarea unor acte normative în domeniul fondurilor europene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-12-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-12-24: Adresă de înaintare a inițiativei (AD): [ad-09f52495.md](ad-09f52495.md); official file https://www.senat.ro/legis/PDF/2020/20L018AD.PDF
+- 2019-12-24: Forma inițiatorului (FG): [fg-c34a0ce3.md](fg-c34a0ce3.md); official file https://www.senat.ro/legis/PDF/2020/20L018FG.PDF
+- 2019-12-24: Expunere de motive (EM): [em-c77a8455.md](em-c77a8455.md); official file https://www.senat.ro/legis/PDF/2020/20L018EM.PDF
+- 2019-12-24: Aviz Consiliul Legislativ (LG): [lg-56ef3a21.md](lg-56ef3a21.md); official file https://www.senat.ro/legis/PDF/2020/20L018LG.PDF
+- 2019-12-24: Document (OG): [og-99173e88.md](og-99173e88.md); official file https://www.senat.ro/legis/PDF/2020/20L018OG.PDF
+- 2019-12-24: Document (HG): [hg-aae135fe.md](hg-aae135fe.md); official file https://www.senat.ro/legis/PDF/2020/20L018HG.PDF
