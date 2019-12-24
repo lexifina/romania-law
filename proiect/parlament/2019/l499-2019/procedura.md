@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-11-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
+- 2019-12-24: promulgated, becomes Legea nr. 258/2019; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Guvernul României.
 - 2019-11-26: Forma adoptată de Senat (FS): [fs-3e09a3dc.md](fs-3e09a3dc.md); official file https://www.senat.ro/legis/PDF/2019/19L499FS.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-b24f87af.md](axs-b24f87af.md); official file https://www.senat.ro/legis/PDF/2019/19L499AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-3d981002.md](lp-3d981002.md); official file https://www.senat.ro/legis/PDF/2019/19L499LP.PDF
+- 2019-12-24: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-24: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-24: Document (AL): [al-f3a63c25.md](al-f3a63c25.md); official file https://www.senat.ro/legis/PDF/2019/19L499AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499DP.PDF
+- 2019-12-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499AFP.PDF
+- 2019-12-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499FP.PDF
+- 2019-12-24: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L499TC.PDF (its day is not given by the bill file: shown from the last stage held)
