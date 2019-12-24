@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
+- 2019-12-24: promulgated, becomes Legea nr. 255/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L023AM.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-588eaea4.md](axs-588eaea4.md); official file https://www.senat.ro/legis/PDF/2019/19L023AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-be45292d.md](lp-be45292d.md); official file https://www.senat.ro/legis/PDF/2019/19L023LP.PDF
+- 2019-12-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L023DP.PDF
+- 2019-12-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L023AFP.PDF
+- 2019-12-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L023FP.PDF
