@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-11-27: adopted by the Chamber of Deputies
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
+- 2019-12-24: promulgated, becomes Legea nr. 257/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L003AM.PDF
 - 2019-12-02: Adresă privind sesizarea CCR (AXS): [axs-64b5a8a5.md](axs-64b5a8a5.md); official file https://www.senat.ro/legis/PDF/2019/19L003AXS.PDF
 - 2019-12-02: Forma trimisă la promulgare (LP): [lp-6a858450.md](lp-6a858450.md); official file https://www.senat.ro/legis/PDF/2019/19L003LP.PDF
+- 2019-12-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L003DP.PDF
+- 2019-12-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L003AFP.PDF
+- 2019-12-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L003FP.PDF
