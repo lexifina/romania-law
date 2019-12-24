@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
 - 2019-12-23: promulgated, becomes Legea nr. 254/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-24: published in the Monitorul Oficial
 
 ## Documents
 
