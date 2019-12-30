@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-12-09: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2019-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-13: sent for promulgation
+- 2019-12-30: promulgated, becomes Legea nr. 261/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2019-12-09: Forma adoptată de Senat (FS): [fs-e855f849.md](fs-e855f849.md); official file https://www.senat.ro/legis/PDF/2019/19L552FS.PDF
 - 2019-12-11: Adresă privind sesizarea CCR (AXS): [axs-00537be3.md](axs-00537be3.md); official file https://www.senat.ro/legis/PDF/2019/19L552AXS.PDF
 - 2019-12-11: Forma trimisă la promulgare (LP): [lp-605cf9c2.md](lp-605cf9c2.md); official file https://www.senat.ro/legis/PDF/2019/19L552LP.PDF
+- 2019-12-30: Decret de promulgare (DP): [dp-c3e10de2.md](dp-c3e10de2.md); official file https://www.senat.ro/legis/PDF/2019/19L552DP.PDF
+- 2019-12-30: Adresă privind forma promulgată (AFP): [afp-cd3e3ac3.md](afp-cd3e3ac3.md); official file https://www.senat.ro/legis/PDF/2019/19L552AFP.PDF
+- 2019-12-30: Forma promulgată (FP): [fp-3aaf404b.md](fp-3aaf404b.md); official file https://www.senat.ro/legis/PDF/2019/19L552FP.PDF
