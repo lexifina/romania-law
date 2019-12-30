@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2019-12-11: registered at the Chamber of Deputies; rejected by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 - 2019-12-18: adopted by the Chamber of Deputies
 - 2019-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2019-12-30: sent for promulgation; promulgated, becomes Legea nr. 262/2019; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-12-11: Adresă către Camera Deputaților (AM): [am-2a7a6782.md](am-2a7a6782.md); official file https://www.senat.ro/legis/PDF/2019/19L623AM.PDF
 - 2019-12-23: Adresă privind sesizarea CCR (AXS): [axs-3ed8c7d2.md](axs-3ed8c7d2.md); official file https://www.senat.ro/legis/PDF/2019/19L623AXS.PDF
 - 2019-12-23: Forma trimisă la promulgare (LP): [lp-a94d2cf3.md](lp-a94d2cf3.md); official file https://www.senat.ro/legis/PDF/2019/19L623LP.PDF
+- 2019-12-30: Decret de promulgare (DP): [dp-1be1e08d.md](dp-1be1e08d.md); official file https://www.senat.ro/legis/PDF/2019/19L623DP.PDF
+- 2019-12-30: Adresă privind forma promulgată (AFP): [afp-aea0352e.md](afp-aea0352e.md); official file https://www.senat.ro/legis/PDF/2019/19L623AFP.PDF
+- 2019-12-30: Forma promulgată (FP): [fp-17aae23b.md](fp-17aae23b.md); official file https://www.senat.ro/legis/PDF/2019/19L623FP.PDF
