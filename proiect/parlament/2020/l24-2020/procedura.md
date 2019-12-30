@@ -1,0 +1,22 @@
+# Proiect de lege L24/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 95/2021 (`legea-95-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.86/2019 pentru prorogarea termenului prevăzut la art.1 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.117/2017 privind stabilirea măsurilor în vederea asigurării mecanismelor şi a resurselor financiare necesare returnării donaţiilor colectate pentru achiziţionarea unui bun aparţinând patrimoniului cultural naţional mobil clasat în categoria tezaurul patrimoniului cultural naţional mobil
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2019-12-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2019-12-30: Adresă de înaintare a inițiativei (AD): [ad-3043cb2f.md](ad-3043cb2f.md); official file https://www.senat.ro/legis/PDF/2020/20L024AD.PDF
+- 2019-12-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L024FG.PDF
+- 2019-12-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L024EM.PDF
+- 2019-12-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L024LG.PDF
+- 2019-12-30: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L024OG.PDF
+- 2019-12-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L024HG.PDF
