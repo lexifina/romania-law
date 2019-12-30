@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-07: sent for promulgation
 - 2019-12-24: promulgated, becomes Legea nr. 259/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L371DP.PDF
 - 2019-12-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L371AFP.PDF
 - 2019-12-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L371FP.PDF
+- 2019-12-30: Document (AL): [al-36d01a87.md](al-36d01a87.md); official file https://www.senat.ro/legis/PDF/2019/19L371AL.PDF (its day is not given by the bill file: shown from the last stage held)
