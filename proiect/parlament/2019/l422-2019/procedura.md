@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-04: adopted by the Chamber of Deputies
 - 2019-12-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-14: sent for promulgation
+- 2019-12-30: promulgated, becomes Legea nr. 263/2019; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L422AM.PDF
 - 2019-12-09: Adresă privind sesizarea CCR (AXS): [axs-faea911b.md](axs-faea911b.md); official file https://www.senat.ro/legis/PDF/2019/19L422AXS.PDF
 - 2019-12-09: Forma trimisă la promulgare (LP): [lp-65aaaa6a.md](lp-65aaaa6a.md); official file https://www.senat.ro/legis/PDF/2019/19L422LP.PDF
+- 2019-12-30: Decret de promulgare (DP): [dp-8be01ac7.md](dp-8be01ac7.md); official file https://www.senat.ro/legis/PDF/2019/19L422DP.PDF
+- 2019-12-30: Adresă privind forma promulgată (AFP): [afp-4ea15cc0.md](afp-4ea15cc0.md); official file https://www.senat.ro/legis/PDF/2019/19L422AFP.PDF
+- 2019-12-30: Forma promulgată (FP): [fp-189c624c.md](fp-189c624c.md); official file https://www.senat.ro/legis/PDF/2019/19L422FP.PDF
