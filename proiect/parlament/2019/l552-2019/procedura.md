@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-13: sent for promulgation
 - 2019-12-30: promulgated, becomes Legea nr. 261/2019; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2019-12-31: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,8 @@ Initiator: Guvernul României.
 - 2019-12-30: Decret de promulgare (DP): [dp-c3e10de2.md](dp-c3e10de2.md); official file https://www.senat.ro/legis/PDF/2019/19L552DP.PDF
 - 2019-12-30: Adresă privind forma promulgată (AFP): [afp-cd3e3ac3.md](afp-cd3e3ac3.md); official file https://www.senat.ro/legis/PDF/2019/19L552AFP.PDF
 - 2019-12-30: Forma promulgată (FP): [fp-3aaf404b.md](fp-3aaf404b.md); official file https://www.senat.ro/legis/PDF/2019/19L552FP.PDF
+- 2019-12-31: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L552DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-31: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L552TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-31: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L552AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-31: Document (S1): [s1-4b0a929c.md](s1-4b0a929c.md); official file https://www.senat.ro/legis/PDF/2019/19L552S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2019-12-31: Document (AL): [al-974f40de.md](al-974f40de.md); official file https://www.senat.ro/legis/PDF/2019/19L552AL.PDF (its day is not given by the bill file: shown from the last stage held)
