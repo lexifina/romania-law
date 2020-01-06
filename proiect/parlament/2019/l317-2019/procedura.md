@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-12-11: adopted by the Chamber of Deputies
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-18: sent for promulgation
+- 2020-01-06: promulgated, becomes Legea nr. 4/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L317AM.PDF
 - 2019-12-16: Adresă privind sesizarea CCR (AXS): [axs-35f15c63.md](axs-35f15c63.md); official file https://www.senat.ro/legis/PDF/2019/19L317AXS.PDF
 - 2019-12-16: Forma trimisă la promulgare (LP): [lp-19ac8d1a.md](lp-19ac8d1a.md); official file https://www.senat.ro/legis/PDF/2019/19L317LP.PDF
+- 2020-01-06: Decret de promulgare (DP): [dp-3299edf4.md](dp-3299edf4.md); official file https://www.senat.ro/legis/PDF/2019/19L317DP.PDF
+- 2020-01-06: Adresă privind forma promulgată (AFP): [afp-81233175.md](afp-81233175.md); official file https://www.senat.ro/legis/PDF/2019/19L317AFP.PDF
+- 2020-01-06: Forma promulgată (FP): [fp-cda18ea4.md](fp-cda18ea4.md); official file https://www.senat.ro/legis/PDF/2019/19L317FP.PDF
