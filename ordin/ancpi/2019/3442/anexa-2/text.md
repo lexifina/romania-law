@@ -1,0 +1,16 @@
+# Anexa nr. 1.11 la regulament
+CERERE PENTRU CONSULTARE DOCUMENTE DIN ARHIVĂ
+Către.................. se menționează instituția........................ se menționează adresa instituției......................
+Subsemnatul(a),........, cu domiciliul în:........., legitimat cu BI/CI/PAȘAPORT seria............. nr......., CNP............., prin prezenta vă rog să îmi aprobați consultarea din arhiva biroului de cadastru și publicitate imobiliară a următoarelor documente:................ în legătură cu imobilul/imobilele situat(e) în:.............., înscris în cartea funciară nr............ a localității................., având numărul topografic/cadastral................., intabulat în favoarea numitului/numitei.............
+Prin semnarea prezentei cereri mă oblig să respect dispozițiile Legii nr. 190/2018 privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 și ale Regulamentului (UE) nr. 679/2016 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), în sensul nedivulgării informațiilor cu caracter personal despre care am luat cunoștință, prevăzute în cuprinsul documentelor din arhiva.................. se menționează instituția.............., solicitate pentru consultare.
+S-a achitat tariful de........... lei, prin Chitanța nr............./............. reprezentând contravaloarea tarifului stabilit pentru serviciul cu codul................
+DATA...............
+SEMNĂTURA.......................
+NOTĂ: Oficiul de Cadastru și Publicitate Imobiliară, instituție publică cu personalitate juridică aflată în subordinea Agenției Naționale de Cadastru și Publicitate Imobiliară, prelucrează date cu caracter personal furnizate de dumneavoastră: nume, prenume, serie și număr act de identitate, cod numeric personal, adresă poștală etc.
+Datele cu caracter personal sunt prelucrate de către operator în vederea îndeplinirii competențelor legale privind evidențele de cadastru și carte funciară și pot fi comunicate numai destinatarilor abilitați prin acte normative (Codul civil, Codul de procedură civilă, Codul fiscal, alte legi speciale), inclusiv organelor de poliție, parchetelor, instanțelor sau altor autorități publice, în condițiile legii. În acest sens vă informăm și vă asigurăm că am luat măsuri tehnice și organizatorice adecvate pentru protejarea datelor dumneavoastră.
+În exercitarea drepturilor dumneavoastră prevăzute de Regulamentul (UE) nr. 679/2016, dar și pentru orice alte informații suplimentare legate de protecția datelor cu caracter personal vă puteți adresa responsabilului cu protecția datelor, la adresa rpd_..............@ancpi.ro*, formulând o cerere scrisă, datată și semnată sau la telefon:.............*.
+*Se completează cu datele corespunzătoare responsabilului cu protecția datelor desemnat la nivelul fiecărui OCPI.
+84.
+Anexele nr. 1.41 și 1.48 se abrogă.
+85.
+După anexa nr. 1.51 se introduce o nouă anexă, anexa nr. 1.51^1, cu următorul cuprins:
