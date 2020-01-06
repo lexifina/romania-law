@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: adopted by the Chamber of Deputies
 - 2019-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-30: sent for promulgation
+- 2020-01-06: promulgated, becomes Legea nr. 7/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L439AM.PDF
 - 2019-12-23: Adresă privind sesizarea CCR (AXS): [axs-3ed8c7d2.md](axs-3ed8c7d2.md); official file https://www.senat.ro/legis/PDF/2019/19L439AXS.PDF
 - 2019-12-23: Forma trimisă la promulgare (LP): [lp-c11de529.md](lp-c11de529.md); official file https://www.senat.ro/legis/PDF/2019/19L439LP.PDF
+- 2020-01-06: Decret de promulgare (DP): [dp-d355a8ef.md](dp-d355a8ef.md); official file https://www.senat.ro/legis/PDF/2019/19L439DP.PDF
+- 2020-01-06: Adresă privind forma promulgată (AFP): [afp-81233175.md](afp-81233175.md); official file https://www.senat.ro/legis/PDF/2019/19L439AFP.PDF
+- 2020-01-06: Forma promulgată (FP): [fp-7a2d1e9d.md](fp-7a2d1e9d.md); official file https://www.senat.ro/legis/PDF/2019/19L439FP.PDF
