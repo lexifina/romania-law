@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-18: sent for promulgation
 - 2020-01-06: promulgated, becomes Legea nr. 2/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-01-07: published in the Monitorul Oficial
 
 ## Documents
 
