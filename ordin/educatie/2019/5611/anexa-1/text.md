@@ -1,0 +1,2 @@
+# ANEXĂ
+METODOLOGIE privind eliberarea adeverinței de conformitate a studiilor cu prevederile Directivei 2005/36/CE privind recunoașterea calificărilor profesionale și a adeverinței privind certificarea competențelor pentru profesia de cadru didactic în învățământul preuniversitar, pentru cetățenii care au studiat în România, în vederea desfășurării activității didactice la nivel preuniversitar în străinătate
