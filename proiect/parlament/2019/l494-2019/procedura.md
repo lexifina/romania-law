@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-18: sent for promulgation
 - 2020-01-06: promulgated, becomes Legea nr. 1/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-01-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2020-01-06: Decret de promulgare (DP): [dp-09bdd5ed.md](dp-09bdd5ed.md); official file https://www.senat.ro/legis/PDF/2019/19L494DP.PDF
 - 2020-01-06: Adresă privind forma promulgată (AFP): [afp-7f2806fa.md](afp-7f2806fa.md); official file https://www.senat.ro/legis/PDF/2019/19L494AFP.PDF
 - 2020-01-06: Forma promulgată (FP): [fp-e3c9d848.md](fp-e3c9d848.md); official file https://www.senat.ro/legis/PDF/2019/19L494FP.PDF
+- 2020-01-08: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L494TA.PDF (its day is not given by the bill file: shown from the last stage held)
