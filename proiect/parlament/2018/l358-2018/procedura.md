@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-11: adopted by the Chamber of Deputies
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-21: sent for promulgation
+- 2020-01-09: promulgated, becomes Legea nr. 11/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L358AM.PDF
 - 2019-12-16: Adresă privind sesizarea CCR (AXS): [axs-ad508c82.md](axs-ad508c82.md); official file https://www.senat.ro/legis/PDF/2018/18L358AXS.PDF
 - 2019-12-16: Forma trimisă la promulgare (LP): [lp-d50fff34.md](lp-d50fff34.md); official file https://www.senat.ro/legis/PDF/2018/18L358LP.PDF
+- 2020-01-09: Decret de promulgare (DP): [dp-4fed205f.md](dp-4fed205f.md); official file https://www.senat.ro/legis/PDF/2018/18L358DP.PDF
+- 2020-01-09: Adresă privind forma promulgată (AFP): [afp-fc58b174.md](afp-fc58b174.md); official file https://www.senat.ro/legis/PDF/2018/18L358AFP.PDF
+- 2020-01-09: Forma promulgată (FP): [fp-fbcf301a.md](fp-fbcf301a.md); official file https://www.senat.ro/legis/PDF/2018/18L358FP.PDF
