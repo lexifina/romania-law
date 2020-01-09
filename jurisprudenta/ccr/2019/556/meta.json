@@ -1,0 +1,150 @@
+{
+ "key": "dcc-556-2019",
+ "label": "Decizia CCR nr. 556/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "556",
+ "date": "2019-09-26",
+ "year": "2019",
+ "heading": "DECIZIA nr. 556 din 26 septembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Decretului nr. 176/1948 pentru trecerea în proprietatea Statului a Bunurilor bisericilor congregațiilor, comunităților sau particularilor, ce au servit pentru funcționarea și întreținerea instituțiilor de învățământ general, tehnic sau profesional",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "12",
+  "bis": false,
+  "date": "2020-01-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.029/294/2016",
+  "713D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor Decretului nr. 176/1948 pentru trecerea în proprietatea Statului a Bunurilor bisericilor, congregațiilor, comunităților sau particularilor, ce au servit pentru funcționarea și întreținerea instituțiilor de învățământ general, tehnic sau profesional, excepție ridicată de Parohia Ortodoxă Română din comuna Poiana Sibiului, județul Sibiu în Dosarul nr. 1.029/294/2016 al Judecătoriei Săliște.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Săliște și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 176/1948",
+    "number": "176",
+    "year": "1948",
+    "path": "decret/1948/176"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-01-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/221923",
+  "text_sha256": "7a19b0f01904e7c0ab5b66d97620b4e285362360424df253c69418cc00df652f",
+  "catalogue_sha256": "7a19b0f01904e7c0ab5b66d97620b4e285362360424df253c69418cc00df652f",
+  "fetched": "2026-11-03T02:04:06Z",
+  "chars": 18760,
+  "portal_id": "221923",
+  "tip": "DECIZIE"
+ }
+}
