@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-12-11: adopted by the Chamber of Deputies
 - 2019-12-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-21: sent for promulgation
+- 2020-01-09: promulgated, becomes Legea nr. 10/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2019-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L280AM.PDF
 - 2019-12-16: Adresă privind sesizarea CCR (AXS): [axs-b42bab76.md](axs-b42bab76.md); official file https://www.senat.ro/legis/PDF/2019/19L280AXS.PDF
 - 2019-12-16: Forma trimisă la promulgare (LP): [lp-f5605e47.md](lp-f5605e47.md); official file https://www.senat.ro/legis/PDF/2019/19L280LP.PDF
+- 2020-01-09: Decret de promulgare (DP): [dp-cf190883.md](dp-cf190883.md); official file https://www.senat.ro/legis/PDF/2019/19L280DP.PDF
+- 2020-01-09: Adresă privind forma promulgată (AFP): [afp-fc58b174.md](afp-fc58b174.md); official file https://www.senat.ro/legis/PDF/2019/19L280AFP.PDF
+- 2020-01-09: Forma promulgată (FP): [fp-8fb644de.md](fp-8fb644de.md); official file https://www.senat.ro/legis/PDF/2019/19L280FP.PDF

@@ -1,0 +1,181 @@
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTAJILOR
+SENATUL
+LEGE
+pentru modillcarea §i completarea Ordonan^ei Guvernului
+nr. 71/2002 privind organizarea funcfionarea serviciilor publice de
+administrare a domeniului public privat de interes local
+Parlamentul Romaniei adopta prezenta lege.
+Art. I. - Ordonan^a Guvernului nr. 71/2002 privind organizarea
+§i functionarea serviciilor publice de administrare a domeniului public §i
+privat de interes local, publicata m Monitorul Oficial al Romaniei,
+Partea I, nr. 648 din 31 august 2002, aprobata cu modificari prin Legea
+nr. 3/2003, cu modificarile ulterioare, se modified §i se completeaza
+dupa cum urmeaza:
+1. La articolul 3 alineatul (1), literele h), k) §i n) se abroga.
+2. La articolul 3, alineatul (3) se modifica §i va avea
+urmatorul cuprins:
+„(3) Serviciile de administrare a domeniului public §i privat se
+realizeaza §i se gestioneaza prin intermediul unor operatori, cu
+respectarea, dupa caz, a prevederilor art. 11 sau ale art. 12.”
+
+2
+3. La articolul 5, punctul 4 se abroga.
+4. La articolul 10 alineatul (1), litera b) se modifica §i va
+avea urmatorul cuprins:
+„b) gestiune delegata.”
+5. Articolul 12 se modifica §i va avea urmatorul cuprins:
+„Art. 12. - in cazul gestiunii delegate autoritatile administratiei
+publice locale pot apela pentru realizarea serviciilor la unul sau la mai
+multi operator! carora le incredinteaza, in totalitate sau numai in parte, in
+baza unui contract de delegare a gestiunii, sarcinile §i responsabilitatile
+proprii cu privire la gestiunea propriu-zisa a serviciilor, precum §i la
+administrarea §i exploatarea infrastructurii edilitar-urbane necesare
+realizarii serviciilor. Procedura de atribuire a contractelor de delegare a
+gestiunii se stabile§te, dupa caz, conform prevederilor Legii nr. 98/2016
+privind achizitiile publice, cu modificarile §i completarile ulterioare §i
+ale Legii nr. 100/2016 privind concesiunile de lucrari §i concesiunile de
+servicii, cu modificarile §i completarile ulterioare.”
+6. Articolul 13 se modifica §i va avea urmatorul cuprins:
+„Art. 13. - Pentru atribuirea contractelor de delegare a gestiunii
+serviciilor de administrare a domeniului public §i privat se aplica dupa
+caz, prevederile Legii nr. 98/2016, cu modificarile §i completarile
+ulterioare, respectiv cele ale Legii nr. 100/2016, cu modificarile §i
+completarile ulterioare, precum §i prevederile actelor normative
+subsecvente emise in aplicarea acestora, cu respectarea cadrului legal
+national §i al Uniunii Europene in domeniul ajutorului de stat §i
+principiului minimei atingeri aduse concurentei.”
+7. La articolul 14, alineatul (2) se abroga.
+8. Articolul 15 se modifica §i va avea urmatorul cuprins:
+
+3
+„Art. 15. - Autoritatile administraliei publice locale §i operatorii
+furnizori/prestatori de servicii de administrare a domeniului public §i
+privat se pot asocia intre ele/ei sau cu terle persoane juridice, romane sau
+straine, in vederea realizarii §i/sau exploatarii in comun a unor obiective
+specifice infrastructurii edilitar-urbane, cu respectarea prevederilor
+legale in vigoare privind asocierea §i libera concuren|a, ale Legii
+nr. 98/2016, cu modificarile §i completarile ulterioare, respectiv cele ale
+Legii nr. 100/2016, cu modificarile §i completarile ulterioare, precum §i
+ale actelor normative subsecvente emise in aplicarea acestora”.
+9. La articolul 17 alineatul (1), literele b) §i c) se modifica §i
+vor avea urmatorul cuprins:
+„b) stabilirea elementelor necesare infiinlarii noului operator:
+denumire, forma juridica, statut, sediu social, capital subscris,
+conducere, structura organizatorica, regulament de organizare §i
+functionare §i altele asemenea;
+c) elaborarea documentelor necesare organizarii §i desfa§urarii
+procedurilor de atribuire pentru contracted de delegare a gestiunii, cu
+respectarea legislaliei in domeniul achiziliilor publice §i a concesiunilor
+de lucrari §i de servicii;”
+10. La articolul 17, dupa alineatul (1) se introduc doua noi
+alineate, alin. (2) §i (3), cu urmatorul cuprins:
+„(2) Schimbarea unui operator economic prestator/furnizor
+intervenita pe parcursul derularii contractelor de achizi^ii publice, de
+concesiune de lucrari/servicii, sunt permise doar in condi|iile
+reglementate de legisla^ia in domeniu.
+(3) Modificarile intervenite pe parcursul derularii contractelor
+de achizilii publice, de concesiune de lucrari/servicii, sunt permise
+numai in condi^iile reglementate de legislatia in domeniu.”
+11. La articolul 23, alineatul (4) se abroga.
+
+4
+12. La articolul 30, literele b) §i c) se modiflca §i vor avea
+urmatorul cuprins:
+„b) sa elaboreze, sa aprobe documentele necesare organizarii §i
+desfa§urarii procedurilor de atribuire pentru contractele de delegare a
+gestiunii, cu respectarea legisla^iei in domeniul achiz4iilor publice §i al
+concesiunilor de lucrari §i de servicii;
+c) sa asigure transparenfa §i accesul operatorilor la informaliile
+§i documentele necesare desfa§urarii procedurilor de atribuire a
+contractelor de delegare a gestiunii, cu respectarea legisla^iei in
+domeniul achizitiilor publice §i al concesiunilor de lucrari §i de servicii;”
+13. La articolul 33, alineatul (2) se modifica §i va avea
+urmatorul cuprins:
+„(2) Operatorii serviciilor de administrare a domeniului public
+§i privat care au calitatea de autoritate contractanta in sensul art. 4 din
+Legea nr. 98/2016, cu modificarile §i completarile ulterioare, sau dupa
+caz, in sensul art. 9 din Legea nr. 100/2016, cu modificarile §i
+completarile ulterioare, au obligatia de a efectua achizi^ii publice sau
+dupa caz, de a concesiona lucrari §i servicii, in condi^iile §i cu
+respectarea legislafiei in acest domeniu.”
+14. La articolului 33, dupa alineatul (2) se introduce un nou
+alineat, alin. (3), cu urmatorul cuprins:
+„(3) Obliga^ia prevazuta la alin. (2) se aplica §i in cazul
+achizitiilor efectuate de operatorii serviciilor de administrare a
+domeniului public §i privat care nu au calitatea de autoritate
+contractanta, in condifiile art. 6 alin. (1) - (3) din Legea nr. 98/2016, cu
+modificarile §i completarile ulterioare.”
+15. La articolul 34 alineatul (1), litera b) se modifica §i va
+avea urmatorul cuprins:
+
+5
+„b) sa beneficieze de posibilitatea ajustarii periodice a
+preturilor §1 tarifelor, in conditiile reglementate de legisla^ia in domeniul
+achizi^iilor publice §i al concesiunilor de lucrari §i de servicii.”
+16. La articolul 35 alineatul (1), litera e) se modifica va
+avea urmatorul cuprins:
+„e) sa puna in aplicare, metode performante de management
+care sa conduca la reducerea costurilor de operare.”
+17. La articolul 35 alineatul (1), dupa litera e) se introduce o
+noua litera, lit. f), cu urmatorul cuprins:
+„f) in func^ie de modul de organizare §i/sau forma de
+proprietate, in vederea reducerii costurilor de operare, operatorii vor
+aplica procedurile concuren^iale prevazute de normele legale in vigoare
+pentru achizi^iile publice de lucrari, bunuri §i servicii.”
+18. La articolul 39, alineatul (5) se modifica §i va avea
+urmMorul cuprins:
+„(5) Metodologia de fundamentare a nivelului preturilor §i
+tarifelor, precum §i cea de aprobare a acestora se vor stabili, in conditiile
+legii, prin hotarare a autoritatilor deliberative ale unitatilor
+administrativ-teritoriale, cu respectarea principiului autonomiei locale.”
+19. La articolul 40, alineatul (1) se modifica §i va avea
+urmatorul cuprins:
+„Art. 40. - (1) Aplicarea de catre operator! a preturilor §i
+tarifelor aprobate conform art. 39 alin.(2) §i (5) este obligatorie.”
+20. Articolul 46 se abroga.
+21. La articolul 47, alineatul (3) se modifica §i va avea
+urmatorul cuprins:
+
+6
+„(3) Procedurile de atribuire a contractelor de delegare de
+gestiune vor fi initiate dupa elaborarea §i aprobarea documentatiei de
+atribuire §i a documentelor suport, in eonformitate cu legisla^ia privind
+achizitiile publice §i concesiunea de lucrari §i de servicii.”
+22. Dupa articolul 47 se introduce un nou articol, art. 47^,
+cu urmatorul cuprins:
+„Art. 47'. - Delegarea gestiunii serviciului se face in conditiile
+prevazute de legisla^ia in domeniul achizitiilor publice §i dupa caz, a
+concesiunilor de lucrari §i servicii, §i vizeaza atat procedura de atribuire
+a contractelor de delegare a gestiunii, cat §i modalitatile de modificare a
+acestora.”
+Art.II. - (1) Procedurilor de atribuire a contractelor de delegare
+a gestiunii serviciilor de administrare a domeniului public/privat de
+interes local, aflate in curs de derulare la data intrarii in vigoare a
+prezentei legi, li se aplica prevederile in vigoare la data initierii acestora.
+(2) Contractele de delegare a gestiunii serviciilor de
+administrare a domeniului public §i privat incheiate in temeiul
+Ordonan^ei Guvernului nr. 71/2002 privind organizarea §i functionarea
+serviciilor publice de administrare a domeniului public §i privat de
+interes local, aprobata cu modificari prin Legea nr. 3/2003, cu
+modificarile ulterioare, aflate in curs de derulare la data intrarii in
+vigoare a prezentei legi, raman valabile pana la data incetarii acestora,
+fara posibilitatea prelungirii.
+Art.III. - La data intrarii in vigoare a prezentei legi, Hotararea
+Guvernului nr. 955/2004 pentru aprobarea reglementarilor-cadru de
+aplicare a Ordonanfei Guvernului nr. 71/2002 privind organizarea §i
+func^ionarea serviciilor publice de administrare a domeniului public §i
+privat de interes local, publicata in Monitorul Oficial al Romaniei,
+Partea I, nr. 660 din 22 iulie 2004, cu modificarile ulterioare, se abroga.
+
+7
+Aceastd lege a fast adoptatd de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 §i ale art. 16 alin. (2) din Constitufia
+Romdniei, republicatd.
+PRE§EDINTELE
+CAMEREI DEPUTATILOR
+PRE§EDINTELE
+SENATULUI
+ION-MARCEL CIOLACU TEODOR-VIOREL MELE^CANU
+Bucure§ti, ^ /cKnJi/cxAj-e Po 2o.
+Nr.
