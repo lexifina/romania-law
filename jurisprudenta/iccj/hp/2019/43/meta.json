@@ -1,0 +1,331 @@
+{
+ "key": "iccj-hp-43-2019",
+ "label": "Decizia ÎCCJ nr. 43/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "43",
+ "date": "2019-10-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 43 din 14 octombrie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 83^2 din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, astfel cum a fost introdus prin Legea nr. 118/2014",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "22",
+  "bis": false,
+  "date": "2020-01-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.419/1/2019",
+  "19.522/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 19.522/3/2018, privind pronunțarea unei hotărâri prealabile, și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea art. 83^2 din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, astfel cum a fost introdus prin Legea nr. 118/2014 pentru completarea Legii nr. 303/2004, dispoziția legală menționată nu se aplică în cazul condamnărilor pentru infracțiuni săvârșite anterior intrării sale în vigoare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "82",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 58
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 118/2014",
+    "number": "118",
+    "year": "2014",
+    "path": "lege/2014/118"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 286/2009",
+    "number": "286",
+    "year": "2009",
+    "path": "lege/2009/286"
+   },
+   "articles": [
+    {
+     "art": "83-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 25/2014",
+    "number": "25",
+    "year": "2014",
+    "path": "decret/2014/25"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222030",
+  "text_sha256": "f6955b26428740ad4bc4d0498c5c986dd877ac19d83fddb3a1bda5d89d053dcb",
+  "catalogue_sha256": "f6955b26428740ad4bc4d0498c5c986dd877ac19d83fddb3a1bda5d89d053dcb",
+  "fetched": "2026-11-06T03:58:04Z",
+  "chars": 61542,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222030",
+   "timestamp": "20251113051539",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439343487.67/warc/CC-MAIN-20251113042238-20251113072238-00485.warc.gz",
+   "offset": "275833598",
+   "length": "37756",
+   "sha256": "aad1403cac0db2697fe6db2e405259aa6e0ee60441c3b18ccd1070e1dda85ffe"
+  },
+  "portal_id": "222030",
+  "tip": "DECIZIE"
+ }
+}
