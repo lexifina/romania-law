@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: adopted by the Chamber of Deputies
 - 2019-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-30: sent for promulgation
+- 2020-01-15: promulgated, becomes Legea nr. 15/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L438AM.PDF
 - 2019-12-23: Adresă privind sesizarea CCR (AXS): [axs-3ed8c7d2.md](axs-3ed8c7d2.md); official file https://www.senat.ro/legis/PDF/2019/19L438AXS.PDF
 - 2019-12-23: Forma trimisă la promulgare (LP): [lp-86e2d1a8.md](lp-86e2d1a8.md); official file https://www.senat.ro/legis/PDF/2019/19L438LP.PDF
+- 2020-01-15: Decret de promulgare (DP): [dp-07133cb5.md](dp-07133cb5.md); official file https://www.senat.ro/legis/PDF/2019/19L438DP.PDF
+- 2020-01-15: Adresă privind forma promulgată (AFP): [afp-591680b3.md](afp-591680b3.md); official file https://www.senat.ro/legis/PDF/2019/19L438AFP.PDF
+- 2020-01-15: Forma promulgată (FP): [fp-dce49831.md](fp-dce49831.md); official file https://www.senat.ro/legis/PDF/2019/19L438FP.PDF
