@@ -1,0 +1,22 @@
+# Proiect de lege L2/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 160/2020 (`legea-160-2020`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.2/2020 pentru prorogarea intrării în vigoare a art.I pct.1 din Legea nr.14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr.9/2019 pentru modificarea și completarea Legii nr.61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art.58 alin.(1) din Legea nr.448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-01-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-01-16: Adresă de înaintare a inițiativei (AD): [ad-5f426a09.md](ad-5f426a09.md); official file https://www.senat.ro/legis/PDF/2020/20L002AD.PDF
+- 2020-01-16: Forma inițiatorului (FG): [fg-5b3c1234.md](fg-5b3c1234.md); official file https://www.senat.ro/legis/PDF/2020/20L002FG.PDF
+- 2020-01-16: Expunere de motive (EM): [em-0ffa42ae.md](em-0ffa42ae.md); official file https://www.senat.ro/legis/PDF/2020/20L002EM.PDF
+- 2020-01-16: Aviz Consiliul Legislativ (LG): [lg-65c75c79.md](lg-65c75c79.md); official file https://www.senat.ro/legis/PDF/2020/20L002LG.PDF
+- 2020-01-16: Document (OG): [og-d7e58cf2.md](og-d7e58cf2.md); official file https://www.senat.ro/legis/PDF/2020/20L002OG.PDF
+- 2020-01-16: Document (HG): [hg-676fef19.md](hg-676fef19.md); official file https://www.senat.ro/legis/PDF/2020/20L002HG.PDF
