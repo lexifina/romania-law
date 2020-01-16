@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2019-12-30: sent for promulgation
 - 2020-01-15: promulgated, becomes Legea nr. 15/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-01-16: published in the Monitorul Oficial
 
 ## Documents
 
