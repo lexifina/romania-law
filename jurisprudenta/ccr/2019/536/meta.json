@@ -1,0 +1,349 @@
+{
+ "key": "dcc-536-2019",
+ "label": "Decizia CCR nr. 536/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "536",
+ "date": "2019-09-24",
+ "year": "2019",
+ "heading": "DECIZIA nr. 536 din 24 septembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 10, art. 16 alin. (1) și (4), art. 18 și ale art. 66 alin. (1) din Legea nr. 33/2007 privind organizarea și desfășurarea alegerilor pentru Parlamentul European",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "29",
+  "bis": false,
+  "date": "2020-01-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.022/3/2019",
+  "915D/2019",
+  "11.081/3/2019",
+  "916D/2019",
+  "10.240/3/2019",
+  "974D/2019",
+  "10.622/3/2019",
+  "999D/2019",
+  "10.862/3/2019",
+  "1.001D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "lege/2007/33"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Partidul Neamul Românesc în Dosarul nr. 11.022/3/2019 (24/AEPF/2019) al Tribunalului București - Secția a III-a civilă, de Andrei Chebuțiu și Partidul Oamenilor Liberi în Dosarul nr. 11.081/3/2019 (26/AEPF/2019) al Tribunalului București - Secția a III-a civilă, de Partidul Noua Românie, prin președinte Sebastian Constantin Popescu, în Dosarul nr. 10.240/3/2019 al Tribunalului București - Secția a V-a civilă, de Partidul Națiunea Română P.N.Ro în Dosarul nr. 10.622/3/2019 (16/AEPF/2019) al Tribunalului București - Secția a IV-a civilă, de Partidul Forța Pensionarilor, prin președinte Mitroi Florea, în Dosarul nr. 10.862/3/2019 al Tribunalului București - Secția a V-a civilă, de Partidul Democrației și Solidarității - DEMOS în Dosarul nr. 10.652/3/2019 al Curții de Apel București - Secția a IV-a civilă și de Partidul Comunitar din România - PCDR, prin împuternicit Petre Ignatencu, în Dosarul nr. 10.303/3/2019 al Tribunalului București - Secția a V-a civilă și constată că prevederile art. 16 alin. (4) și ale art. 18 din Legea nr. 33/2007 privind organizarea și desfășurarea alegerilor pentru Parlamentul European, sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 10, art. 16 alin. (1) și art. 66 alin. (1) din Legea nr. 33/2007 privind organizarea și desfășurarea alegerilor pentru Parlamentul European, excepție ridicată de Partidul Democrației și Solidarității - DEMOS în Dosarul nr. 10.652/3/2019 al Curții de Apel București - Secția a IV-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a III-a civilă, Tribunalului București - Secția a V-a civilă, Tribunalului București - Secția a IV-a civilă și Curții de Apel București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "lege/2007/33"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea partidelor politice nr. 14/2003",
+    "number": "14",
+    "year": "2003",
+    "path": "lege/2003/14"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 adițional la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-01-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222115",
+  "text_sha256": "55262ff21e4f6498da16f834629a4a6ae057f7c2e9a273b30ecc10dc801351d5",
+  "catalogue_sha256": "55262ff21e4f6498da16f834629a4a6ae057f7c2e9a273b30ecc10dc801351d5",
+  "fetched": "2026-11-03T02:03:54Z",
+  "chars": 58443,
+  "portal_id": "222115",
+  "tip": "DECIZIE"
+ }
+}
