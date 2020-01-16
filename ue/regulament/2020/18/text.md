@@ -1,0 +1,56 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/18 AL COMISIEI
+din 10 ianuarie 2020
+privind nereînnoirea aprobării substanței active clorpirifos, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 20 alineatul (1) și articolul 78 alineatul (2),
+întrucât:
+(1) În temeiul Directivei 2005/72/CE a Comisiei (2), clorpirifos a fost inclus ca substanță activă în anexa I la Directiva 91/414/CEE a Consiliului (3).
+(2) Substanțele active incluse în anexa I la Directiva 91/414/CEE sunt considerate aprobate în temeiul Regulamentului (CE) nr. 1107/2009 și sunt incluse în partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (4).
+(3) Aprobarea substanței active clorpirifos, în condițiile menționate în partea A din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011, expiră la 31 ianuarie 2020.
+(4) Au fost depuse cereri de reînnoire a aprobării substanței active clorpirifos în conformitate cu articolul 1 din Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (5) în termenul prevăzut la articolul respectiv.
+(5) Solicitanții au depus dosarele suplimentare necesare în conformitate cu articolul 6 din Regulamentul de punere în aplicare (UE) nr. 844/2012. Statul membru raportor a constatat că cererile sunt complete.
+(6) Statul membru raportor, în colaborare cu statul membru coraportor, a pregătit un raport de evaluare a reînnoirii aprobării, pe care l-a transmis, la data de 3 iulie 2017, Autorității Europene pentru Siguranța Alimentară (denumită în continuare „autoritatea”) și Comisiei.
+(7) De asemenea, autoritatea a pus dosarul rezumativ suplimentar la dispoziția publicului. Totodată, autoritatea a transmis solicitanților și statelor membre raportul de evaluare a reînnoirii aprobării, în vederea formulării de observații, și a lansat o consultare publică pe baza acestui subiect. Autoritatea a transmis Comisiei observațiile primite.
+(8) La data de 4 iulie 2018, autoritatea le-a cerut solicitanților să ofere informații suplimentare statelor membre, Comisiei și autorității. Evaluarea informațiilor suplimentare efectuată de către statul membru raportor a fost transmisă autorității sub forma unui raport de evaluare a reînnoirii aprobării actualizat.
+(9) Autoritatea a organizat o dezbatere între experți în aprilie 2019 pentru a discuta anumite elemente legate de evaluarea riscurilor pentru sănătatea umană. Din cauza preocupărilor legate de genotoxicitate și de neurotoxicitate asupra dezvoltării, exprimate în timpul acelei dezbateri, Comisia a transmis autorității, la data de 1 iulie 2019, un mandat prin care solicită o declarație privind rezultatele disponibile ale evaluării efectelor asupra sănătății umane și o indicație dacă substanța activă poate să îndeplinească criteriile de aprobare referitoare la sănătatea umană, astfel cum sunt prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009.
+(10) La 31 iulie 2019, autoritatea a transmis declarația (6) către Comisie. În această declarație, autoritatea și-a confirmat concluziile privind evaluarea riscurilor pentru sănătatea umană, potrivit cărora există domenii critice de preocupare. Pe baza informațiilor disponibile și în urma rezultatelor pozitive ale unui număr de studii in vitro și in vivo, nu se poate exclude faptul că clorpirifos are potențial genotoxic. În consecință, nu sunt posibile nici stabilirea valorilor de referință bazate pe criterii de sănătate pentru clorpirifos, nici efectuarea evaluărilor relevante în ceea ce privește consumatorii și riscul non-alimentar. În plus, au fost observate semne de neurotoxicitate asupra dezvoltării (DNT) în cadrul studiului disponibil privind neurotoxicitatea asupra dezvoltării la șobolani și există dovezi epidemiologice care demonstrează legătura dintre expunerea la clorpirifos și/sau clorpirifos-metil în timpul dezvoltării și producerea de efecte adverse asupra dezvoltării neurologice a copiilor. Mai mult, experții implicați în evaluarea inter pares au considerat potrivită clasificarea clorpirifos-metilului ca substanță toxică pentru reproducere de categoria 1B, în conformitate cu criteriile prevăzute în Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului (7).
+(11) Comisia a invitat solicitanții să își prezinte observațiile privind declarația autorității. În plus, în conformitate cu articolul 14 alineatul (1) al treilea paragraf din Regulamentul de punere în aplicare (UE) nr. 844/2012, Comisia a invitat solicitanții să prezinte observații privind proiectul de raport de reînnoire. Solicitanții și-au prezentat observațiile, care au fost examinate cu atenție.
+(12) Cu toate acestea, în pofida argumentelor prezentate de solicitanți, preocupările legate de substanța activă în cauză nu au putut fi eliminate.
+(13) În consecință, nu s-a putut stabili, cu privire la una sau mai multe utilizări reprezentative ale cel puțin unui produs de protecție a plantelor, îndeplinirea criteriilor de aprobare prevăzute la articolul 4 din Regulamentul (CE) nr. 1107/2009. Evaluarea riscului pentru mediu, deși nu este finalizată încă, nu poate schimba această concluzie atâta timp cât nu sunt îndeplinite criteriile de aprobare privind efectele asupra sănătății umane și nu ar trebui așadar să mai întârzie luarea unei decizii privind reînnoirea aprobării substanței active. Prin urmare, este oportun să nu se reînnoiască aprobarea substanței active clorpirifos, în conformitate cu articolul 20 alineatul (1) litera (b) din regulamentul menționat.
+(14) Prin urmare, Regulamentul de punere în aplicare (UE) nr. 540/2011 trebuie modificat în consecință.
+(15) Statelor membre ar trebui să li se acorde timp suficient pentru a retrage autorizațiile acordate produselor de protecție a plantelor care conțin clorpirifos.
+(16) În ceea ce privește produsele de protecție a plantelor care conțin clorpirifos, în cazul în care statele membre acordă o perioadă de grație în conformitate cu articolul 46 din Regulamentul (CE) nr. 1107/2009, perioada respectivă nu ar trebui să depășească 3 luni de la data de intrare în vigoare a prezentului regulament.
+(17) Regulamentul de punere în aplicare (UE) 2018/1796 al Comisiei (8) a prelungit perioada de aprobare a substanței clorpirifos până la 31 ianuarie 2020, pentru a se permite ca procesul de reînnoire să fie finalizat înainte de expirarea aprobării substanței respective. Cu toate acestea, având în vedere faptul că a fost luată o decizie cu privire la nereînnoirea aprobării înaintea expirării prelungirii perioadei de aprobare, prezentul regulament ar trebui să se aplice cât mai curând posibil.
+(18) Prezentul regulament nu împiedică transmiterea unei noi cereri pentru aprobarea substanței clorpirifos în temeiul articolului 7 din Regulamentul (CE) nr. 1107/2009.
+(19) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Nereînnoirea aprobării substanței active
+Nu se reînnoiește aprobarea substanței active clorpirifos.
+Articolul 2
+Modificarea Regulamentului de punere în aplicare (UE) nr. 540/2011
+În partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011, rândul 111, referitor la clorpirifos, se elimină.
+Articolul 3
+Măsuri tranzitorii
+Statele membre retrag autorizațiile acordate pentru produsele de protecție a plantelor care conțin clorpirifos ca substanță activă până cel târziu la 16 februarie 2020.
+Articolul 4
+Perioada de grație
+Orice perioadă de grație acordată de statele membre în conformitate cu articolul 46 din Regulamentul (CE) nr. 1107/2009 expiră cel târziu la 16 aprilie 2020.
+Articolul 5
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 10 ianuarie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Directiva 2005/72/CE a Comisiei din 21 octombrie 2005 de modificare a Directivei 91/414/CEE a Consiliului în vederea înscrierii substanțelor active clorpirifos, clorpirifos-metil, mancozeb, maneb și metiram (JO L 279, 22.10.2005, p. 63).
+(3) Directiva 91/414/CEE a Consiliului din 15 iulie 1991 privind introducerea pe piață a produselor de uz fitosanitar (JO L 230, 19.8.1991, p. 1).
+(4) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(5) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(6) EFSA (Autoritatea Europeană pentru Siguranța Alimentară), 2019. Declarația privind rezultatele disponibile ale evaluării efectelor asupra sănătății umane în contextul evaluării inter pares a pesticidelor efectuate pentru substanța activă clorpirifos. Jurnalul EFSA 2019;17(5):5809. https://doi.org/10.2903/j.efsa.2019.5809
+(7) Regulamentul (CE) nr. 1272/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind clasificarea, etichetarea și ambalarea substanțelor și a amestecurilor, de modificare și de abrogare a Directivelor 67/548/CEE și 1999/45/CE, precum și de modificare a Regulamentului (CE) nr. 1907/2006 (JO L 353, 31.12.2008, p. 1).
+(8) Regulamentul de punere în aplicare (UE) 2018/1796 al Comisiei din 20 noiembrie 2018 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active amidosulfuron, bifenox, clorpirifos, clorpirifos-metil, clofentezin, dicamba, difenoconazol, diflubenzuron, diflufenican, dimoxistrobin, fenoxaprop-P, fenpropidin, lenacil, mancozeb, mecoprop-P, metiram, nicosulfuron, oxamil, picloram, piraclostrobin, piriproxifen și tritosulfuron (JO L 294, 21.11.2018, p. 15).
