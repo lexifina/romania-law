@@ -1,0 +1,128 @@
+{
+ "key": "cedo-56280-07-2019-07-23",
+ "label": "CEDO, Tău c. României, 2019-07-23",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2019-07-23",
+ "year": "2019",
+ "heading": "HOTĂRÂREA din 23 iulie 2019",
+ "subtitle": "în Cauza Tău împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2020-01-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "56280/07"
+ ],
+ "case_name": "Tău",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară admisibile capetele de cerere formulate în temeiul art. 6 din Convenție și inadmisibile celelalte capete de cerere;",
+  "2. hotărăște că nu au fost încălcate art. 6 §1 și art. 6 §3 lit. c) din Convenție;",
+  "3. hotărăște că au fost încălcate art. 6 §1 și art. 6 §3 lit. d) din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni, suma de 2.400 EUR (două mii patru sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral, sumă care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222438",
+  "text_sha256": "2cf270e225fe7f9a105f6cb8fa5803f7bf257b5c4abc3a97925ccc99aa1219ad",
+  "catalogue_sha256": "2cf270e225fe7f9a105f6cb8fa5803f7bf257b5c4abc3a97925ccc99aa1219ad",
+  "fetched": "2026-11-03T02:03:44Z",
+  "chars": 46260,
+  "portal_id": "222438",
+  "tip": "HOTĂRÂRE"
+ }
+}
