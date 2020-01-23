@@ -1,0 +1,257 @@
+{
+ "key": "iccj-hp-44-2019",
+ "label": "Decizia ÎCCJ nr. 44/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "44",
+ "date": "2019-10-14",
+ "year": "2019",
+ "heading": "DECIZIA nr. 44 din 14 octombrie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 25 alin. (2) din Legea nr. 255/2010, în forma anterioară modificărilor aduse prin Legea nr. 233/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "46",
+  "bis": false,
+  "date": "2020-01-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.418/1/2019",
+  "3.837/332/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2018",
+    "number": "233",
+    "year": "2018",
+    "path": "lege/2018/233"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția I civilă în Dosarul nr. 3.837/332/2017 privind pronunțarea unei hotărâri prealabile și, în interpretarea dispozițiilor art. 25 alin. (2) din Legea nr. 255/2010, în forma anterioară modificărilor aduse prin Legea nr. 233/2018, stabilește că:",
+  "Scutirea de la plata taxelor datorate Inspectoratului de Stat în Construcții vizează exclusiv lucrările realizate în legătură cu o expropriere pentru cauză de utilitate publică în cadrul proiectelor cuprinse în programul Ministerului Transporturilor, Departamentului pentru Proiecte de Infrastructură și Investiții Străine, Ministerului Mediului și Schimbărilor Climatice, Ministerului Dezvoltării Regionale și Administrației Publice, Ministerului Economiei, Ministerului Finanțelor Publice și Agenției Naționale pentru Resurse Minerale sau în cele ale autorităților administrației publice județene și locale privind dezvoltarea de obiective de interes național, respectiv de interes județean și local.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2018",
+    "number": "233",
+    "year": "2018",
+    "path": "lege/2018/233"
+   },
+   "articles": [],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/1995",
+    "number": "10",
+    "year": "1995",
+    "path": "lege/1995/10"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-01-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222427",
+  "text_sha256": "0576ff0228f7be4960cb8044b4d85ed1ba20967434c16c49e86d137d6998391c",
+  "catalogue_sha256": "0576ff0228f7be4960cb8044b4d85ed1ba20967434c16c49e86d137d6998391c",
+  "fetched": "2026-11-03T02:03:44Z",
+  "chars": 53495,
+  "portal_id": "222427",
+  "tip": "DECIZIE"
+ }
+}
