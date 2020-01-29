@@ -1,0 +1,183 @@
+{
+ "key": "iccj-hp-59-2019",
+ "label": "Decizia ÎCCJ nr. 59/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2019-12-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 59 din 9 decembrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile, cu privire la următoarea chestiune de drept: \"În situația în care prima instanță a respins cererea de fixare a sumei definitive ce i se datorează creditorului cu titlu de penalități, în temeiul art. 906 alin. (4) din Codul de procedură civilă, hotărârea primei instanțe este susceptibilă de a fi atacată cu o cale de atac, respectiv apel?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "58",
+  "bis": false,
+  "date": "2020-01-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.978/1/2019",
+  "20.291/215/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dolj - Secția I civilă, în Dosarul nr. 20.291/215/2018, pentru pronunțarea unei hotărâri prealabile, cu privire la următoarea chestiune de drept:",
+  "În situația în care prima instanță a respins cererea de fixare a sumei definitive ce i se datorează creditorului cu titlu de penalități, în temeiul art. 906 alin. (4) din Codul de procedură civilă, hotărârea primei instanțe este susceptibilă de a fi atacată cu o cale de atac, respectiv apel?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-01-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222524",
+  "text_sha256": "307a8264e21c1e43aeb8d59c4b15f9e48aa48dc633d88e31008cb35f55633906",
+  "catalogue_sha256": "307a8264e21c1e43aeb8d59c4b15f9e48aa48dc633d88e31008cb35f55633906",
+  "fetched": "2026-11-03T02:03:38Z",
+  "chars": 54402,
+  "portal_id": "222524",
+  "tip": "DECIZIE"
+ }
+}
