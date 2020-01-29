@@ -1,0 +1,3 @@
+# Anexa nr. 5 (Anexa nr. 8c la anexă)
+Registrul investitorilor care și-au răscumpărat anticipat titlurile de stat transmis de C.N. „Poșta Română” - S.A. în data de....................... (, conținând valoarea dobânzii plătite
+Data solicitării Cod emisiune CNP investitor Nume și prenume investitor Nr. formular subscriere Data plății fiecărui eveniment de plată Valoarea dobânzii achitate la fiecare eveniment de plată lei Cod subunitate poștală la care s-a înregistrat răscumpărarea anticipată Denumire subunitate poștală (Informațiile se ordonează în funcție de codul de subunitate poștală la care s-a efectuat răscumpărarea anticipată a subscrierii.
