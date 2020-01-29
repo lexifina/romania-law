@@ -1,0 +1,7 @@
+Analizând Proiectul de hotărâre nr.477/11.12.2019, Referatul de aprobare al Primarului municipiului Hunedoara nr. 87.792/11.12.2019 referitor la atribuirea denumirii <<Piața „Regele Ferdinand I al României”>> zonei situate în municipiul Hunedoara la intersecția străzii George Enescu cu bulevardul Corvin, precum și raportul de specialitate al compartimentului de resort nr. 87.795 / 11.12.2019 ;
+Având în vedere Avizul Comisiei de Atribuire de Denumiri a Județului Hunedoara nr.6/19.12.2019 înregistrat la Primăria municipiului Hunedoara sub nr.1232/09.01.2020;
+Având în vedere avizul Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor nr. 87920/11.12.2019, a Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, conservarea monumentelor istorice și de arhitectură nr.
+87921/11.12.2019;
+În temeiul prevederilor art.2, lit.(d), art.3, alin.(1), Ordonanței Guvernului nr. 63/2002 privind atribuirea sau schimbarea de denumiri, cu modificările și completările ulterioare, precum și ale Legii nr.52/2003 privind transparența decizională în administrația publică, republicată;
+În baza dispozițiilor art. 129, alin. (2), lit. „c”, alin. (6), lit. „d”, alin. (14), și art.139 și art.196 alin. (1), lit. a), din Ordonanța de Urgență nr.57/2019 privind Codul Administrativ, cu completările ulterioare,
+HOTĂRĂȘTE:
