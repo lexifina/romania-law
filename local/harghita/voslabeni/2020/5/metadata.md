@@ -1,0 +1,9 @@
+# HCL Voșlăbeni nr. 5/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Voșlăbeni
+- Decision: nr. 5/2020
+- Adopted: 2020-01-29
+- Title: privind aprobarea prețurilor de referință pentru masa lemnoasă, producția 2020, volumul ce se va recolta în anul 2020, modul de valorificare și destinația acestuia din fondul forestier proprietate privată, (pășuni împădurite) a comunei Voșlăbeni, aflată în administrarea direcției silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc
+- Record: https://emol.ro/voslabeni-hr/registru-hcl/16198
