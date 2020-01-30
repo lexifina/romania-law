@@ -1,0 +1,7 @@
+Consiliul Local al municipiului Husi , judetul Vaslui ;
+Avand in vedere :  Referatul SC "Ecosalubrizare Prest" SRL Husi nr. 302 din
+22.01.2020;  Referatul de aprobare al Primarului municipiului Huși nr. 1716 din
+22.01.2020 privind aprobarea cuantumului tarifelor actualizate utilizate de S.C. ECOSALUBRIZARE PREST S.R.L. HUSI pentru prestarea serviciilor de salubrizare pe raza municipiului Husi incepand cu data de 01.01.2020 ;  Raportul SC"Ecosalubrizare Prest" SRL Husi nr.304 din 22.01.2020;  Raportul Compartimentului juridic nr.1736 din 23.01.2020;  Avizul Comisiei juridice și de disciplină, pentru administrație publică locală, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenești ;  Avizul Comisiei de studii, prognoze și programe economico-sociale, buget, finanțe, privatizare, servicii publice și comerț ;
+In conformitate cu prevederile Legii serviciilor comunitare de utilitati publice nr.51/2006, cu modificarile si completraile ulterioare ; Legii nr.31/1990,cu modificarile si completãrile ulterioare ; Hotararea de Guvern 935 din 13.12.2019 privind stabilirea salariului de baza minim brut pe tara garantat in platã , prevederile art. 129 alin.(2) lit .d) coroborat cu alin (7) lit.n) din Ordonanta de Urgenta nr.57 /2019 privind Codul administrativ ;
+In temeiul art. 139 alin (3) si art.196 alin.(1) lit.a) din Ordonanta de Urgenta nr.57 /2019 privind Codul administrativ;
+HOTARASTE:
