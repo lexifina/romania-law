@@ -1,0 +1,10 @@
+# HCJ Galați nr. 14/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Județean Galați
+- Decision: nr. 14/2020
+- Adopted: 2020-01-30
+- Record: https://cjgalati.ro/hotararea-nr-1-2033/
+- Document: https://cjgalati.ro/images/stories/hotarari2020/hot14-300120.pdf
+- Document sha256: d22d9019bd48a14496d7e8252ae895f7ed934bda7b1c795efb75f9c7a4443174
