@@ -1,0 +1,326 @@
+{
+ "key": "iccj-hp-penal-18-2019",
+ "label": "Decizia ÎCCJ nr. 18/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "18",
+ "date": "2019-10-29",
+ "year": "2019",
+ "heading": "DECIZIA nr. 18 din 29 octombrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"Dacă obligația inculpatului de a nu conduce vehicule anume stabilite, impusă de organul judiciar pe timpul măsurii preventive a controlului judiciar conform art. 215 alin. (2) lit. i) din Codul de procedură penală, constituie o suspendare a exercitării dreptului de a conduce și întrunește elementele de tipicitate ale infracțiunii prevăzute de art. 335 alin. (2) din Codul penal \"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "66",
+  "bis": false,
+  "date": "2020-01-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.878/1/2019",
+  "7.322/285/2017",
+  "1.449/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Suceava - Secția penală și pentru cauze penale cu minori în Dosarul nr. 7.322/285/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă obligația inculpatului de a nu conduce vehicule anume stabilite, impusă de organul judiciar pe timpul măsurii preventive a controlului judiciar conform art. 215 alin. (2) lit. i) din Codul de procedură penală, constituie o suspendare a exercitării dreptului de a conduce și întrunește elementele de tipicitate ale infracțiunii prevăzute de art. 335 alin. (2) din Codul penal“ și stabilește că:",
+  "Obligația inculpatului de a nu conduce vehicule anume stabilite, impusă de organul judiciar pe timpul măsurii preventive a controlului judiciar conform art. 215 alin. (2) lit. i) din Codul de procedură penală, nu constituie o suspendare a exercitării dreptului de a conduce, iar încălcarea acesteia nu întrunește elementele de tipicitate ale infracțiunii prevăzute de art. 335 alin. (2) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "111",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "334",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 72
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "7",
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": [
+      "i",
+      "j"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "202",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "e"
+     ]
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1",
+      "8"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222607",
+  "text_sha256": "fe475450481adbad5058cb866c57c35a4b8e33bea1c6d3e88419946eab332108",
+  "catalogue_sha256": "fe475450481adbad5058cb866c57c35a4b8e33bea1c6d3e88419946eab332108",
+  "fetched": "2026-11-03T02:03:36Z",
+  "chars": 84219,
+  "portal_id": "222607",
+  "tip": "DECIZIE"
+ }
+}
