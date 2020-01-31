@@ -1,0 +1,22 @@
+# Proiect de lege L8/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 126/2022 (`legea-126-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.1/2020 privind modificarea termenului prevăzut la art.X alin.(2) din Ordonanţa de urgenţă a Guvernului nr.98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităţilor cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare pentru finanţarea Proiectului privind reforma sistemului judiciar, semnat la Bucureşti la 27 ianuarie 2006, ratificat prin Legea nr.205/2006, precum şi pentru modificarea şi completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-01-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L008AD.PDF
+- 2020-01-31: Forma inițiatorului (FG): [fg-b6586081.md](fg-b6586081.md); official file https://www.senat.ro/legis/PDF/2020/20L008FG.PDF
+- 2020-01-31: Expunere de motive (EM): [em-cd218df6.md](em-cd218df6.md); official file https://www.senat.ro/legis/PDF/2020/20L008EM.PDF
+- 2020-01-31: Aviz Consiliul Legislativ (LG): [lg-ff80b0a7.md](lg-ff80b0a7.md); official file https://www.senat.ro/legis/PDF/2020/20L008LG.PDF
+- 2020-01-31: Document (OG): [og-a0105153.md](og-a0105153.md); official file https://www.senat.ro/legis/PDF/2020/20L008OG.PDF
+- 2020-01-31: Document (HG): [hg-c1f638f5.md](hg-c1f638f5.md); official file https://www.senat.ro/legis/PDF/2020/20L008HG.PDF
