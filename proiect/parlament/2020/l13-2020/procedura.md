@@ -1,0 +1,22 @@
+# Proiect de lege L13/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 35/2022 (`legea-35-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.6/2020 pentru modificarea și completarea Legii nr.227/2015 privind Codul fiscal, precum și pentru reglementarea unor măsuri fiscal-bugetare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-01-31: Adresă de înaintare a inițiativei (AD): [ad-df342d29.md](ad-df342d29.md); official file https://www.senat.ro/legis/PDF/2020/20L013AD.PDF
+- 2020-01-31: Forma inițiatorului (FG): [fg-92e72d7d.md](fg-92e72d7d.md); official file https://www.senat.ro/legis/PDF/2020/20L013FG.PDF
+- 2020-01-31: Expunere de motive (EM): [em-c32b597c.md](em-c32b597c.md); official file https://www.senat.ro/legis/PDF/2020/20L013EM.PDF
+- 2020-01-31: Aviz Consiliul Legislativ (LG): [lg-cb223e03.md](lg-cb223e03.md); official file https://www.senat.ro/legis/PDF/2020/20L013LG.PDF
+- 2020-01-31: Document (OG): [og-1d4c267e.md](og-1d4c267e.md); official file https://www.senat.ro/legis/PDF/2020/20L013OG.PDF
+- 2020-01-31: Document (HG): [hg-a8af1b0b.md](hg-a8af1b0b.md); official file https://www.senat.ro/legis/PDF/2020/20L013HG.PDF
