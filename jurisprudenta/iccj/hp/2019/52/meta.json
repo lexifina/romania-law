@@ -1,0 +1,177 @@
+{
+ "key": "iccj-hp-52-2019",
+ "label": "Decizia ÎCCJ nr. 52/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "52",
+ "date": "2019-11-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 52 din 11 noiembrie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 182 și 183 din Codul de procedură civilă, în forma anterioară modificării aduse prin Legea nr. 310/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "78",
+  "bis": false,
+  "date": "2020-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.792/1/2019",
+  "7.739/271/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bihor - Secția I civilă, în Dosarul nr. 7.739/271/2017, cu privire la următoarea problemă de drept:",
+  "Modul de interpretare a dispozițiilor art. 182 și 183 din Codul de procedură civilă, în forma anterioară modificării aduse prin Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative, în sensul de a se stabili: 1) dacă acțiunea/cererea depusă la un prestator privat cu care serviciul de curierat are încheiat contract de prestări servicii pentru colectarea și depozitarea expedițiilor poate fi asimilată depunerii la însuși serviciul de curierat;",
+  "2) dacă acțiunea/cererea depusă la un prestator privat cu care serviciul de curierat are încheiat contract de prestări servicii pentru colectarea și depozitarea expedițiilor, în ultima zi a termenului ce se socotește pe zile, după ora la care activitatea serviciului de curierat încetează, dar în timpul programului de lucru al prestatorului privat, este socotită a fi făcută în termen.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "182",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 13/2013",
+    "number": "13",
+    "year": "2013",
+    "path": "oug/2013/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222679",
+  "text_sha256": "b2070a38ca8de109f4612b0ca911dd7666a642434de0dd349ea718f3a5d855b7",
+  "catalogue_sha256": "b2070a38ca8de109f4612b0ca911dd7666a642434de0dd349ea718f3a5d855b7",
+  "fetched": "2026-11-03T02:03:29Z",
+  "chars": 54087,
+  "portal_id": "222679",
+  "tip": "DECIZIE"
+ }
+}
