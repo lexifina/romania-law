@@ -1,0 +1,374 @@
+{
+ "key": "dcc-808-2019",
+ "label": "Decizia CCR nr. 808/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "808",
+ "date": "2019-12-05",
+ "year": "2019",
+ "heading": "DECIZIA nr. 808 din 5 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi raportate la art. 1, art. 3 teza a doua, art. 4, art. 5, art. 6 alin. (1), art. 7 alin. (4)-(6), art. 8 și art. 10 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, a sintagmei „precum și din devalorizarea bunurilor imobile“ din art. 11 teza întâi, precum și a legii în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "78",
+  "bis": false,
+  "date": "2020-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "18.639/300/2016",
+  "1.838D/2017",
+  "16.477/300/2016",
+  "20.373/300/2016",
+  "35.553/245/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi raportate la art. 3 teza a doua, art. 4, art. 7 alin. (5)-(6) și art. 8 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și a sintagmei „precum și din devalorizarea bunurilor imobile“ din art. 11 teza întâi din aceeași lege, excepție ridicată de Societatea Banca Transilvania - S.A. din Cluj-Napoca în Dosarul nr. 18.639/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea OTP Bank Romania - S.A. din București în Dosarul nr. 16.477/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Raiffeisen Bank - S.A. din București în Dosarul nr. 20.373/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă și de Societatea Banca Românească - S.A. din București în Dosarul nr. 35.553/245/2016 al Judecătoriei Iași - Secția civilă.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Banca Transilvania - S.A. din Cluj-Napoca în Dosarul nr. 18.639/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea OTP Bank Romania - S.A. din București în Dosarul nr. 16.477/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Raiffeisen Bank - S.A. din București în Dosarul nr. 20.373/300/2016 al Judecătoriei Sectorului 2 București - Secția civilă și de Societatea Banca Românească - S.A. din București în Dosarul nr. 35.553/245/2016 al Judecătoriei Iași - Secția civilă și constată că dispozițiile art. 11 teza întâi raportate la art. 1, art. 5, art. 6 alin. (1), art. 7 alin. (4) și art. 10 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, precum și legea în ansamblul său sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București - Secția civilă și Judecătoriei Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "969",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222678",
+  "text_sha256": "c95d34dba36488e9faa92a33fb307822ae645c65bb232649d8ae64bfe4deb3a2",
+  "catalogue_sha256": "c95d34dba36488e9faa92a33fb307822ae645c65bb232649d8ae64bfe4deb3a2",
+  "fetched": "2026-11-03T02:03:29Z",
+  "chars": 40276,
+  "portal_id": "222678",
+  "tip": "DECIZIE"
+ }
+}
