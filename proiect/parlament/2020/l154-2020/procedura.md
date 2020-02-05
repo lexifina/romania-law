@@ -1,0 +1,17 @@
+# Propunere legislativă L154/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.189/2008 privind managementul instituțiilor publice de cultură, precum și pentru modificarea Ordonanței de urgență a Guvernului nr.63/2010 pentru modificarea și completarea Legii nr.273/2006 privind finanțele publice locale, precum și pentru stabilirea unor măsuri financiare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-02-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-02-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L154AD.PDF
+- 2020-02-05: Forma inițiatorului (FG): [fg-f66496a9.md](fg-f66496a9.md); official file https://www.senat.ro/legis/PDF/2020/20L154FG.PDF
+- 2020-02-05: Expunere de motive (EM): [em-f8d97e8e.md](em-f8d97e8e.md); official file https://www.senat.ro/legis/PDF/2020/20L154EM.PDF
