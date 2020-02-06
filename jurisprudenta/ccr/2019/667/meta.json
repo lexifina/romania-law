@@ -1,0 +1,391 @@
+{
+ "key": "dcc-667-2019",
+ "label": "Decizia CCR nr. 667/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "667",
+ "date": "2019-10-29",
+ "year": "2019",
+ "heading": "DECIZIA nr. 667 din 29 octombrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19 din Legea nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, ale art. 29 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, ale Hotărârii Guvernului nr. 261/2001 privind criteriile și metodologia de încadrare a locurilor de muncă în condiții deosebite, ale Hotărârii Guvernului nr. 246/2007 privind metodologia de reînnoire a avizelor de încadrare a locurilor de muncă în condiții deosebite și ale Hotărârii Guvernului nr. 1.014/2015 privind metodologia de reînnoire a avizelor de încadrare a locurilor de muncă în condiții deosebite, în interpretarea dată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii prin Decizia nr. 12 din 23 mai 2016",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "87",
+  "bis": false,
+  "date": "2020-02-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "381/111/2016",
+  "73D/2018",
+  "1.354D/2019",
+  "2.218/100/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.014/2015",
+    "number": "1014",
+    "year": "2015",
+    "path": "hg/2015/1014"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor Hotărârii Guvernului nr. 261/2001 privind criteriile și metodologia de încadrare a locurilor de muncă în condiții deosebite, ale Hotărârii Guvernului nr. 246/2007 privind metodologia de reînnoire a avizelor de încadrare a locurilor de muncă în condiții deosebite și ale Hotărârii Guvernului nr. 1.014/2015 privind metodologia de reînnoire a avizelor de încadrare a locurilor de muncă în condiții deosebite, excepție ridicată de Mihaela Albu și alții în Dosarul nr. 381/111/2016* al Tribunalului Bihor - Secția I civilă și de Gheorghe Ghiulai-Pop în Dosarul nr. 2.218/100/2018 al Tribunalului Maramureș - Secția I civilă.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceiași autori în aceleași dosare ale Tribunalului Bihor - Secția I civilă și Tribunalului Maramureș - Secția I civilă și constată că dispozițiile art. 19 din Legea nr. 19/2000 privind sistemul public de pensii și alte drepturi de asigurări sociale, ale art. 29 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii prin Decizia nr. 12 din 23 mai 2016, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bihor - Secția I civilă și Tribunalului Maramureș - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.014/2015",
+    "number": "1014",
+    "year": "2015",
+    "path": "hg/2015/1014"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 65/2015",
+    "number": "65",
+    "year": "2015",
+    "path": "oug/2015/65"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222749",
+  "text_sha256": "ec5611189553bb782885494671a862a8d768c3b974bf9af288eb46b92b0f12c3",
+  "catalogue_sha256": "ec5611189553bb782885494671a862a8d768c3b974bf9af288eb46b92b0f12c3",
+  "fetched": "2026-11-03T15:42:19Z",
+  "chars": 29703,
+  "portal_id": "222749",
+  "tip": "DECIZIE"
+ }
+}
