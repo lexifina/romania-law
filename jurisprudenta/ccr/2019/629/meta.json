@@ -1,0 +1,362 @@
+{
+ "key": "dcc-629-2019",
+ "label": "Decizia CCR nr. 629/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "629",
+ "date": "2019-10-15",
+ "year": "2019",
+ "heading": "DECIZIA nr. 629 din 15 octombrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 178 alin. (5) și ale art. 340 alin. (1) din Codul de procedură penală, precum și ale art. 4 alin. (2) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în forma anterioară intrării în vigoare a Legii nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "86",
+  "bis": false,
+  "date": "2020-02-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "407/46/2016",
+  "1.53D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "178",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 178 alin. (5) din Codul de procedură penală, excepție ridicată de Sorin Grațianu în Dosarul nr. 407/46/2016 al Judecătoriei Costești.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor în același dosar al aceleiași instanțe și constată că dispozițiile art. 340 alin. (1) din Codul de procedură penală și ale art. 4 alin. (2) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în forma anterioară intrării în vigoare a Legii nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Costești și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "286",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222742",
+  "text_sha256": "36310825015906fb0160d726b99eb9447994cc627cb00db3797654233a3e5955",
+  "catalogue_sha256": "36310825015906fb0160d726b99eb9447994cc627cb00db3797654233a3e5955",
+  "fetched": "2026-11-06T01:37:24Z",
+  "chars": 28428,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222742",
+   "timestamp": "20260117155512",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469354.41/warc/CC-MAIN-20260117151209-20260117181209-00245.warc.gz",
+   "offset": "282369955",
+   "length": "26774",
+   "sha256": "efa511a7a850dcdac3b64886d618d38cc0e21fa8bc95713f9dfb6d25a98d7f8c"
+  },
+  "portal_id": "222742",
+  "tip": "DECIZIE"
+ }
+}
