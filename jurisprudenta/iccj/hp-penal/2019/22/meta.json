@@ -1,0 +1,254 @@
+{
+ "key": "iccj-hp-penal-22-2019",
+ "label": "Decizia ÎCCJ nr. 22/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "22",
+ "date": "2019-11-27",
+ "year": "2019",
+ "heading": "DECIZIA nr. 22 din 27 noiembrie 2019",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 55^1 alin. (1) din Legea nr. 254/2013, modificată prin Legea nr. 169/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "90",
+  "bis": false,
+  "date": "2020-02-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.353/1/2019",
+  "4.614/196/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Brăila - Secția penală în Dosarul nr. 4.614/196/2019, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „În aplicarea dispozițiilor art. 55^1 alin. (1) din Legea nr. 254/2013, modificată prin Legea nr. 169/2017, referitoare la compensarea în cazul cazării în condiții necorespunzătoare a persoanelor private de libertate, dacă la calcularea pedepsei efectiv executate se are în vedere și o pedeapsă executată la termen anterior pedepsei care se execută la acest moment și în privința căreia nu au fost aplicabile dispozițiile legale referitoare la instituția liberării condiționate.“",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": [
+      "1",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "9",
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/2017",
+    "number": "169",
+    "year": "2017",
+    "path": "lege/2017/169"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "278-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222763",
+  "text_sha256": "4f551bd307038540b6c24c6c4dd9ef8a36dc420323fd2f09093ad796e17c7267",
+  "catalogue_sha256": "4f551bd307038540b6c24c6c4dd9ef8a36dc420323fd2f09093ad796e17c7267",
+  "fetched": "2026-11-03T02:03:24Z",
+  "chars": 83869,
+  "portal_id": "222763",
+  "tip": "DECIZIE"
+ }
+}
