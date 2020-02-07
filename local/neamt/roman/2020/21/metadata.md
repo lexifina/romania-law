@@ -1,0 +1,8 @@
+# HCL Roman nr. 21/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Municipiului Roman
+- Decision: nr. 21/2020
+- Adopted: 2020-02-07
+- Document sha256: f07fdf4eea3f5e1d769325118a2ce21843d382666ce063102b7cb95270ad5666
