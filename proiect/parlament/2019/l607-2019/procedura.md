@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-12-10: documents published: Aviz comisie
 - 2019-12-11: documents published: Aviz comisie
 - 2019-12-12: documents published: Aviz comisie
+- 2020-02-10: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Guvernul României.
 - 2019-12-10: Aviz comisie (CA3): [ca3-697fc083.md](ca3-697fc083.md); official file https://www.senat.ro/legis/PDF/2019/19L607CA3.PDF
 - 2019-12-11: Aviz comisie (CA5): [ca5-5c4abc5f.md](ca5-5c4abc5f.md); official file https://www.senat.ro/legis/PDF/2019/19L607CA5.PDF
 - 2019-12-12: Aviz comisie (CA12): [ca12-a8c6e961.md](ca12-a8c6e961.md); official file https://www.senat.ro/legis/PDF/2019/19L607CA12.PDF
+- 2020-02-10: Forma adoptată de Senat (FS): [fs-a0535ef3.md](fs-a0535ef3.md); official file https://www.senat.ro/legis/PDF/2019/19L607FS.PDF
