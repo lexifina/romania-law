@@ -1,0 +1,334 @@
+{
+ "key": "iccj-hp-penal-20-2019",
+ "label": "Decizia ÎCCJ nr. 20/2019 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "20",
+ "date": "2019-10-29",
+ "year": "2019",
+ "heading": "DECIZIA nr. 20 din 29 octombrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Pot fi reținute în sarcina aceluiași inculpat, în concurs real de infracțiuni conform art. 38 alin. (1) din Codul penal, infracțiunile de contrabandă calificată, prevăzută de art. 270 alin. (1) și alin. (3) și art. 274 din Legea nr. 86/2006, și constituirea unui grup infracțional organizat, prevăzută de art. 367 alin. (1), (2), (3) și (6) din Codul penal, dacă membrii grupului infracțional sunt aceiași cu participanții din cadrul infracțiunii de contrabandă calificată?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "94",
+  "bis": false,
+  "date": "2020-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.989/1/2019",
+  "2.018/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările formulate de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie în dosarele nr. 2.356/110/2017 și 440/110/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Pot fi reținute în sarcina aceluiași inculpat, în concurs real de infracțiuni conform art. 38 alin. (1) din Codul penal, infracțiunile de contrabandă calificată, prevăzută de art. 270 alin. (1) și alin. (3) și art. 274 din Legea nr. 86/2006, și constituirea unui grup infracțional organizat, prevăzută de art. 367 alin. (1), (2), (3) și (6) din Codul penal, dacă membrii grupului infracțional sunt aceiași cu participanții din cadrul infracțiunii de contrabandă calificată?“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit dispozițiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 127
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "367",
+     "alin": [
+      "1",
+      "3",
+      "6",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "218",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "219",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 176
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222784",
+  "text_sha256": "0bc5352e1cee13394461a14b1a25a79592a803086a9b972829687e7fca957c75",
+  "catalogue_sha256": "0bc5352e1cee13394461a14b1a25a79592a803086a9b972829687e7fca957c75",
+  "fetched": "2026-11-03T02:03:22Z",
+  "chars": 105772,
+  "portal_id": "222784",
+  "tip": "DECIZIE"
+ }
+}
