@@ -1,0 +1,304 @@
+{
+ "key": "dcc-702-2019",
+ "label": "Decizia CCR nr. 702/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "702",
+ "date": "2019-10-31",
+ "year": "2019",
+ "heading": "DECIZIA nr. 702 din 31 octombrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"la înscrierea inițială la pensie\" din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "96",
+  "bis": false,
+  "date": "2020-02-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.457/108/2017",
+  "706D/2018",
+  "4.210/109/2017",
+  "4.696/109/2017",
+  "6.342/109/2017",
+  "8.068/109/2017",
+  "8.212/109/2017",
+  "8.332/109/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Nicolae Gheorghiță, Stela Sandu, Maria Chioc, Florea Miu, Emilian Gheorghiță, Aurică Costache, Marin Ciculescu și Niculina Bănuță în dosarele nr. 4.210/109/2017, nr. 4.696/109/2017, nr. 5.425/109/2017, nr. 6.984/109/2017, nr. 6.342/109/2017, nr. 8.068/109/2017, nr. 8.212/109/2017 și nr. 8.332/109/2017 ale Curții de Apel Pitești - Secția I civilă, respectiv de Eva Hanciuța în Dosarul nr. 3.457/108/2017 al Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și constată că sintagma „înscrierea inițială la pensie“ din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice este constituțională, în ceea ce privește beneficiarii pensiilor de invaliditate, în măsura în care se interpretează că se referă la stabilirea pensiei pentru limită de vârstă prin aplicarea, pentru prima oară, a condițiilor de vârstă legală de pensionare și stagiu complet de cotizare prevăzute de Legea nr. 263/2010.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președinților celor două Camere ale Parlamentului, Guvernului, Curții de Apel Pitești - Secția I civilă și Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2013",
+    "number": "3",
+    "year": "2013",
+    "path": "lege/2013/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2008",
+    "number": "37",
+    "year": "2008",
+    "path": "oug/2008/37"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2013",
+    "number": "1",
+    "year": "2013",
+    "path": "oug/2013/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222787",
+  "text_sha256": "6fd67c5d8cf847018e1f933de63ca73e370b380498c56cf5b151ae7bd27ec79a",
+  "catalogue_sha256": "6fd67c5d8cf847018e1f933de63ca73e370b380498c56cf5b151ae7bd27ec79a",
+  "fetched": "2026-11-06T00:48:42Z",
+  "chars": 30660,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/222787",
+   "timestamp": "20251206125111",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307172.24/warc/CC-MAIN-20251206111521-20251206141521-00374.warc.gz",
+   "offset": "279659785",
+   "length": "29897",
+   "sha256": "cbcf91976d10b98b47a2ff67ab9427783d6fc0eb0b65701e0936b35c6d038e46"
+  },
+  "portal_id": "222787",
+  "tip": "DECIZIE"
+ }
+}
