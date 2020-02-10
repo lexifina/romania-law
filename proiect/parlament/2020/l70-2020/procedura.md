@@ -1,0 +1,22 @@
+# Proiect de lege L70/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 256/2021 (`legea-256-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.14/2020 pentru modificarea Ordonanței Guvernului nr.41/1994 privind autorizarea plății cotizațiilor la organizațiile internaționale interguvernamentale la care România este parte, precum și pentru aprobarea plății cotizației anuale în vederea participării Institutului Național de Statistică în calitate de asociat în cadrul Comitetului de Statistică și Guvernanță în Statistică al OCDE
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-02-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-02-10: Adresă de înaintare a inițiativei (AD): [ad-1cb3cf56.md](ad-1cb3cf56.md); official file https://www.senat.ro/legis/PDF/2020/20L070AD.PDF
+- 2020-02-10: Forma inițiatorului (FG): [fg-dcd31434.md](fg-dcd31434.md); official file https://www.senat.ro/legis/PDF/2020/20L070FG.PDF
+- 2020-02-10: Expunere de motive (EM): [em-cb148253.md](em-cb148253.md); official file https://www.senat.ro/legis/PDF/2020/20L070EM.PDF
+- 2020-02-10: Aviz Consiliul Legislativ (LG): [lg-25bce0b8.md](lg-25bce0b8.md); official file https://www.senat.ro/legis/PDF/2020/20L070LG.PDF
+- 2020-02-10: Document (OG): [og-05509aff.md](og-05509aff.md); official file https://www.senat.ro/legis/PDF/2020/20L070OG.PDF
+- 2020-02-10: Document (HG): [hg-708ff0f6.md](hg-708ff0f6.md); official file https://www.senat.ro/legis/PDF/2020/20L070HG.PDF
