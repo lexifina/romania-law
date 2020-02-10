@@ -1,0 +1,67 @@
+Nr.20Ajr£l„.yA,T.
+ROMANIA
+irii
+aLO.OIIqOid]
+AVIZ
+referitor la proiectul de Ordonanta de urgenta pentru modificarea
+si completarea Legii nr.364/2004 privind organizarea si
+functionarea politiei judiciare
+Analizand proiectul de Ordonanta de urgenta pentru
+modificarea si completarea Legii nr.364/2004 privind organizarea
+si functionarea politiei judiciare, transmis de Secretariatul General al
+Guvernului cu adresa nr.35 din 04.02.2020, primit §i inregistrat la
+Consiliul Legislativ cu nr.D94/05.02.2020,
+CONSILIUL LEGISLATIV
+AIn temeiul art.2 alin.(l) lita) din Legeanr.73/1993, republicata §i art.46(3)
+din Regulamentul de organizare §i func^ionare a Consiliului Legislativ,
+Avizeaza negativ proiectul de ordonanta de urgenta, pentru
+urmatoarele considerente:
+1. Prezentul proiect de ordonanta de urgenta are ca obiect de
+reglementare modificarea si completarea Legii nr.364/2004 privind
+organizarea si functionarea politiei judiciare.
+2. Semnalam ca, la aceeasi data la care a fost primit spre avizare
+prezentul proiect de ordonanta de urgenta (05.02.2020), in sedinta
+comuna a Camerei Deputatilor si Senatului a fost retrasa increderea
+acordata Guvernului, prin adoptarea unei motiuni de cenzura, in
+conditiile art.67, art.llO alin.(2) si art.113 alin.(l) din Constitutia
+Romaniei, republicata.
+Ca urmare, in conformitate cu prevederile art.llO alin.(4) din
+Constitutia Romaniei, republicata, Guvernul demis prin motiune de
+cenzura Jndeplineste numai actele necesare pentru administrarea
+treburilor publice, pdnd la depunerea jurdmdntului de membrii noului
+Guverri\
+
+AIn aplicarea prevederilor constitutionale sus-mentionate, art.37
+alin.(3) din Ordonanta de urgenta a Guvemului nr.57/2019 privind Codul
+administrativ, cu completarile ulterioare, prevede ca: Jn cazul incetdrii
+mandatului sau, in conditiile prevdzute de Constitutie, pdnd la
+depunerea jurdmdntului de cdtre membrii noului Guvern, Guvernul
+continud sd emitd numai actele cu caracter individual sau normative
+necesare pentru administrarea treburilor publice, fdra a promova
+politici not In aceastd perioadd, Guvernul nupoate sa emitd ordonante
+sau ordonante de urgenta si nu poate initia proiecte de legel'
+3. Mentionam, totodata, ca, potrivit prevederilor art.4 alin.(l) din
+Legea nr.73/1993 pentru infiintarea, organizarea §i functionarea
+Consiliului Legislativ, republicata, proiectele de ordonante si de
+hotdrdri cu caracter normativ se supun sore adovtare Guvemului
+numai cu avizul Consiliului Le2islativ.
+Precizam ca, la paragraful 80 din considerentele Deciziei Curtii
+Constitutionale nr. 140/2019, se refine ca Jegiuitorul constituant a
+reglementat in art. 79 din Legea fundamentald rolul Consiliului
+Legislativ, de «organ consultativ de specialitate al Parlamentului, care
+avizeazd proiectele de acte normative in vederea sistematizdrii,
+unificdrii ^i coordondrii intregii legislatii. El tine evidenta oficiald a
+legislatiei Romdniei». Sub acest aspect, nesolicitarea avizului
+consultativ al Consiliului Legislativ duce la neconstitutionalitatea
+legii sau ordonantei - simpld sau de urgenW\
+4. Precizam ca, in imprejurari si pentru motive similare,
+Consiliul Legislativ a avizat negativ proiectul de Ordonanta de urgenta
+pentru modificarea unor acte normative din domeniul pensiilor publice,
+care a fost transmis de Secretariatul General al Guvemului cu adresa
+nr.288 din 10.10.2019, fiind emis Avizul negativ nr.867 din
+11.10.2019, fara a se face observatii pe textul proiectului.
+PRfi^EpNl
+dr. Drago§
+Bucuresti
+Nr. 100/10.02.2020
+2
