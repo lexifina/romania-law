@@ -1,0 +1,207 @@
+{
+ "key": "dcc-753-2019",
+ "label": "Decizia CCR nr. 753/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "753",
+ "date": "2019-11-21",
+ "year": "2019",
+ "heading": "DECIZIA nr. 753 din 21 noiembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "100",
+  "bis": false,
+  "date": "2020-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.154/119/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Benko Elemer Janos în Dosarul nr. 1.154/119/2015 al Curții de Apel Brașov - Secția penală și constată că dispozițiile art. 270 alin. (3) din Legea nr. 86/2006 privind Codul vamal al României sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Brașov - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 54/2010",
+    "number": "54",
+    "year": "2010",
+    "path": "oug/2010/54"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222816",
+  "text_sha256": "58ffbc9a5e376a0957dfa265cb4b936c9da278a59732ed6b2b4a964c5100bd65",
+  "catalogue_sha256": "58ffbc9a5e376a0957dfa265cb4b936c9da278a59732ed6b2b4a964c5100bd65",
+  "fetched": "2026-11-03T02:03:22Z",
+  "chars": 22227,
+  "portal_id": "222816",
+  "tip": "DECIZIE"
+ }
+}
