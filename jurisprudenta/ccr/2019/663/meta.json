@@ -1,0 +1,291 @@
+{
+ "key": "dcc-663-2019",
+ "label": "Decizia CCR nr. 663/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "663",
+ "date": "2019-10-29",
+ "year": "2019",
+ "heading": "DECIZIA nr. 663 din 29 octombrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 215 alin. (1) lit. c) din Codul de procedură penală, ale art. 82 alin. (1) și (3) și ale art. 83 alin. (2) din Legea nr. 253/2013 privind executarea pedepselor, a măsurilor educative și a altor măsuri neprivative de libertate dispuse de organele judiciare în cursul procesului penal, precum și ale art. 10 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "104",
+  "bis": false,
+  "date": "2020-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.501/1/2017",
+  "2.981D/2017",
+  "84D/2018",
+  "46/110/2018/a1",
+  "219D/2018",
+  "2.950/214/2017/a1.2.",
+  "2.950/214/2017/a1.2"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 253/2013",
+    "number": "253",
+    "year": "2013",
+    "path": "lege/2013/253"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Radu Ștefan Mazăre în Dosarul nr. 2.501/1/2017 al Înaltei Curți de Casație și Justiție - Completul de 5 judecători, de Matei Eugen în Dosarul nr. 46/110/2018/a1 al Tribunalului Bacău - Secția penală și, din oficiu, de Judecătoria Costești - Judecătorul de cameră preliminară în Dosarul nr. 2.950/214/2017/a1.2 și constată că dispozițiile art. 215 alin. (1) lit. c) din Codul de procedură penală, ale art. 82 alin. (1) și (3) și ale art. 83 alin. (2) din Legea nr. 253/2013 privind executarea pedepselor, a măsurilor educative și a altor măsuri neprivative de libertate dispuse de organele judiciare în cursul procesului penal, precum și ale art. 10 din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Completul de 5 judecători, Tribunalului Bacău - Secția penală și Judecătoriei Costești - Judecătorul de cameră preliminară și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 253/2013",
+    "number": "253",
+    "year": "2013",
+    "path": "lege/2013/253"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/222841",
+  "text_sha256": "f54c1e7971dd6757a59c7435a6faee67adc716cc5e3458b9a9cb239686639d6a",
+  "catalogue_sha256": "f54c1e7971dd6757a59c7435a6faee67adc716cc5e3458b9a9cb239686639d6a",
+  "fetched": "2026-11-03T20:16:50Z",
+  "chars": 38241,
+  "portal_id": "222841",
+  "tip": "DECIZIE"
+ }
+}
