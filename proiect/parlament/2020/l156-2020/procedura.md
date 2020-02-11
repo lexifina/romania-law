@@ -1,0 +1,19 @@
+# Propunere legislativă L156/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 101/2020 (`legea-101-2020`).
+
+Propunere legislativă pentru modificarea şi completarea Legii nr.372/2005 privind performanţa energetică a clădirilor
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-02-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-02-11: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L156AD.PDF
+- 2020-02-11: Forma inițiatorului (FG): [fg-6db7f98f.md](fg-6db7f98f.md); official file https://www.senat.ro/legis/PDF/2020/20L156FG.PDF
+- 2020-02-11: Expunere de motive (EM): [em-979493b9.md](em-979493b9.md); official file https://www.senat.ro/legis/PDF/2020/20L156EM.PDF
