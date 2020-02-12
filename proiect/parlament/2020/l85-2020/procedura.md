@@ -13,7 +13,11 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-11: registered at the Chamber of Deputies
 - 2019-12-17: documents published: Raport comisie sesizată pe fond
 - 2020-02-11: adopted by the Chamber of Deputies
+- 2020-02-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2019-12-17: Raport comisie sesizată pe fond (CR): [cr-724d0868.md](cr-724d0868.md); official file https://www.senat.ro/legis/PDF/2020/20L085CR.PDF
+- 2020-02-12: Adresă de înaintare a inițiativei (AD): [ad-044a1322.md](ad-044a1322.md); official file https://www.senat.ro/legis/PDF/2020/20L085AD.PDF
+- 2020-02-12: Forma inițiatorului (FG): [fg-c3dfcf47.md](fg-c3dfcf47.md); official file https://www.senat.ro/legis/PDF/2020/20L085FG.PDF
+- 2020-02-12: Expunere de motive (EM): [em-d0f3b518.md](em-d0f3b518.md); official file https://www.senat.ro/legis/PDF/2020/20L085EM.PDF
