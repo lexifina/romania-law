@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății EFI GARANT GROUP IFN - S.A., cu sediul în București, str. Nerva Traian nr. 3, etaj 7, sectorul 3, înregistrată la Oficiul registrului comerțului cu nr. J40/10559/6.09.2016, cod unic de înregistrare 22644908, înscrisă în Registrul general Instituții Financiare Nebancare cu nr. RG-PJR-41-110310, la secțiunea k) - "Activități multiple de creditare".
