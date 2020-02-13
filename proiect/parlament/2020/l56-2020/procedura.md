@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2019-12-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-12-10: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+- 2020-02-13: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-03: Expunere de motive (EM): [em-1ecff16a.md](em-1ecff16a.md); official file https://www.senat.ro/legis/PDF/2020/20L056EM.PDF
 - 2019-12-10: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L056LG.PDF
 - 2019-12-10: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L056ES.PDF
+- 2020-02-13: Aviz comisie (CA12): [ca12-d03f5aba.md](ca12-d03f5aba.md); official file https://www.senat.ro/legis/PDF/2020/20L056CA12.PDF
