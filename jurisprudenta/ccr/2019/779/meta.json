@@ -1,0 +1,211 @@
+{
+ "key": "dcc-779-2019",
+ "label": "Decizia CCR nr. 779/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "779",
+ "date": "2019-11-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 779 din 28 noiembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 42 alin. (4) din Ordonanța de urgență a Guvernului nr. 66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "111",
+  "bis": false,
+  "date": "2020-02-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "895/59/2018",
+  "1.689D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Asociația de Dezvoltare Intercomunitară pentru Managementul Situațiilor de Urgență - Vest în Dosarul nr. 895/59/2018 al Curții de Apel Timișoara - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 42 alin. (4) din Ordonanța de urgență a Guvernului nr. 66/2011 privind prevenirea, constatarea și sancționarea neregulilor apărute în obținerea și utilizarea fondurilor europene și/sau a fondurilor publice naționale aferente acestora sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Timișoara - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 66/2011",
+    "number": "66",
+    "year": "2011",
+    "path": "oug/2011/66"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "j",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223024",
+  "text_sha256": "5290d1d111a726e804309d4996ad7588e61ef1bf5604eed29985076475bacfb1",
+  "catalogue_sha256": "5290d1d111a726e804309d4996ad7588e61ef1bf5604eed29985076475bacfb1",
+  "fetched": "2026-11-03T02:03:18Z",
+  "chars": 16612,
+  "portal_id": "223024",
+  "tip": "DECIZIE"
+ }
+}
