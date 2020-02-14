@@ -1,0 +1,436 @@
+{
+ "key": "dcc-785-2019",
+ "label": "Decizia CCR nr. 785/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "785",
+ "date": "2019-11-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 785 din 28 noiembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 51/2019 pentru modificarea și completarea unor acte normative în domeniul transportului de persoane",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "114",
+  "bis": false,
+  "date": "2020-02-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.302D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 51/2019",
+    "number": "51",
+    "year": "2019",
+    "path": "oug/2019/51"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 51/2019 pentru modificarea și completarea unor acte normative în domeniul transportului de persoane, excepție ridicată direct de Avocatul Poporului.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Avocatului Poporului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 51/2019",
+    "number": "51",
+    "year": "2019",
+    "path": "oug/2019/51"
+   },
+   "articles": [],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor publice de transport persoane în unitățile administrativ-teritoriale nr. 92/2007",
+    "number": "92",
+    "year": "2007",
+    "path": "lege/2007/92"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 328/2018",
+    "number": "328",
+    "year": "2018",
+    "path": "lege/2018/328"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 86/2001",
+    "number": "86",
+    "year": "2001",
+    "path": "og/2001/86"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "lege/2011/292"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8-1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor nr. 776/2019",
+    "number": "776",
+    "year": "2019"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 69/2012",
+    "number": "69",
+    "year": "2012",
+    "path": "hg/2012/69"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "lege/2016/99"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 128/2019",
+    "number": "128",
+    "year": "2019",
+    "path": "lege/2019/128"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 95/2018",
+    "number": "95",
+    "year": "2018",
+    "path": "lege/2018/95"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea de aprobare a Ordonanței de urgență a Guvernului nr. 51/2019",
+    "number": "51",
+    "year": "2019",
+    "path": "lege/2019/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223057",
+  "text_sha256": "40b3c896cef5b2177ff2ca4819db5d9986af394ce6a18a6d389088f8e87bf7d3",
+  "catalogue_sha256": "40b3c896cef5b2177ff2ca4819db5d9986af394ce6a18a6d389088f8e87bf7d3",
+  "fetched": "2026-11-03T02:03:13Z",
+  "chars": 63158,
+  "portal_id": "223057",
+  "tip": "DECIZIE"
+ }
+}
