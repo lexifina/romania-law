@@ -9,9 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-02-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-02-18: documents published: Punct de vedere
 
 ## Documents
 
 - 2020-02-11: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L163AD.PDF
 - 2020-02-11: Forma inițiatorului (FG): [fg-b7b747b8.md](fg-b7b747b8.md); official file https://www.senat.ro/legis/PDF/2020/20L163FG.PDF
 - 2020-02-11: Expunere de motive (EM): [em-3c6caf93.md](em-3c6caf93.md); official file https://www.senat.ro/legis/PDF/2020/20L163EM.PDF
+- 2020-02-18: Punct de vedere (PV): [pv-6756023b.md](pv-6756023b.md); official file https://www.senat.ro/legis/PDF/2020/20L163PV.PDF
