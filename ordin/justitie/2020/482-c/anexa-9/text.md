@@ -1,0 +1,21 @@
+# Anexa nr. 9
+Administrația Națională a Penitenciarelor
+Unitatea......................................................................
+Nr....................../................................
+DECLARAȚIE pe propria răspundere a polițistului de penitenciare care solicită acordarea compensației lunare a chiriei în vederea plății ratelor sau a unei fracțiuni din rată
+Subsemnatul/Subsemnata,.....................................,................(funcția).............. în cadrul Direcției/Serviciului/Biroului/Compartimentului..........................., cunoscând dispozițiile Codului penal privind falsul în declarații, declar următoarele: a) nu dețin o locuință în proprietate, locuință de serviciu sau locuință atribuită de către autoritățile administrației publice locale în localitatea în care îmi desfășor activitatea, cu excepția locuinței pentru care am încheiat contractul de credit imobiliar/ipotecar/contractul de vânzare-cumpărare cu plata în rate a unei locuințe, anexat cererii;
+b) nu am înstrăinat o locuință în localitatea în care îmi desfășor activitatea, după data încadrării în sistemul administrației penitenciare;
+c) nu dețin o locuință în proprietate, locuință de serviciu sau locuință atribuită de către autoritățile administrației publice locale în localitatea unde am achiziționat locuința pentru care solicit acordarea compensației lunare a chiriei în vederea plății ratei sau a unei fracțiuni din rată ori în altă localitate situată mai aproape de locul de muncă, în limita prevăzută de lege^1;^ ^1 Ipotezele prevăzute la lit. c), d), j), k) și l) vizează doar situația polițistului de penitenciare care solicită acordarea compensației lunare a chiriei într-o altă localitate decât cea în care își desfășoară activitatea, în situația de excepție a inexistenței fondului locativ corespunzător, prevăzută la art. 111 alin. (2) teza a II-a din Legea nr. 145/2019 privind statutul polițiștilor de penitenciare, cu modificările și completările ulterioare.
+d) nu am înstrăinat o locuință în localitatea unde am achiziționat locuința pentru care solicit acordarea compensației lunare a chiriei în vederea plății ratei sau a unei fracțiuni din rată ori în altă localitate situată mai aproape de locul de muncă, în limita prevăzută de lege;
+e) nu am încheiat contractul de vânzare-cumpărare a locuinței cu rude de până la gradul II inclusiv, ale mele ori ale soțului/soției;
+f) sunt/nu sunt căsătorit(ă)^2; ^2 La lit. f) și g) se taie cu o linie orizontală ipoteza care nu corespunde situației solicitantului.
+g) am/nu am copii în întreținere;
+h) soțul/soția/copiii aflați în întreținerea mea nu deține/nu dețin o locuință în proprietate, locuință de serviciu sau locuință atribuită de către autoritățile administrației publice locale în localitatea în care îmi desfășor activitatea^3; ^3 Ipotezele prevăzute la lit. h)-k) vizează doar situația polițistului de penitenciare căsătorit sau care are copii în întreținere.
+i) soțul/soția/copiii aflați în întreținerea mea nu a/au înstrăinat o locuință în localitatea în care îmi desfășor activitatea;
+j) soțul/soția/copiii aflați în întreținerea mea nu deține/nu dețin o locuință în localitatea unde solicit acordarea compensației lunare a chiriei pentru plata ratei sau a unei fracțiuni din rată ori în altă localitate situată mai aproape de locul de muncă, în limita prevăzută de lege;
+k) soțul/soția/copiii aflați în întreținerea mea nu a/au înstrăinat o locuință în localitatea unde solicit acordarea compensației lunare a chiriei pentru plata ratei sau a unei fracțiuni din rată ori în altă localitate situată mai aproape de locul de muncă, în limita prevăzută de lege;
+l) am întreprins demersurile necesare pentru cumpărarea unei locuințe în localitatea în care îmi desfășor activitatea, însă nu am reușit să identific o locuință corespunzătoare nevoilor mele locative;
+m) în perioada în care beneficiez de compensația lunară pentru chirie pentru plata ratei sau a unei fracțiuni din rată, locuința achiziționată nu va fi închiriată sau nu va dobândi o altă destinație.
+Declarația a fost dată în fața lucrătorului de resurse umane..........(grad/nume, prenume/semnătură)............
+Data.............................
+Semnătura..................................
