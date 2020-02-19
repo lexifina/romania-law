@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXĂ privind modificarea Curriculumului de pregătire în specialitatea expertiza medicală a capacității de muncă, Curriculumului de pregătire în specialitatea medicină de laborator și Curriculumului de pregătire în specialitatea neonatologie din anexa nr. 4 la Ordinul ministrului sănătății publice și al ministrului educației, cercetării și tineretului nr. 1.141/1.386/2007 privind modul de efectuare a pregătirii prin rezidențiat în specialitățile prevăzute de Nomenclatorul specialităților medicale, medico-dentare și farmaceutice pentru rețeaua de asistență medicală
