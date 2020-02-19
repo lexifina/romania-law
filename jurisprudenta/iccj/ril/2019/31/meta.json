@@ -1,0 +1,154 @@
+{
+ "key": "iccj-ril-31-2019",
+ "label": "Decizia ÎCCJ nr. 31/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "31",
+ "date": "2019-11-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 31 din 11 noiembrie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 131 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "133",
+  "bis": false,
+  "date": "2020-02-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.142/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 131 din Codul de procedură civilă, instanța învestită prin hotărârea de declinare a competenței poate invoca necompetența materială procesuală dacă instanța care și-a declinat competența în favoarea sa nu a invocat excepția de necompetență în termenul legal, indiferent dacă această din urmă instanță se declarase sau nu competentă prin încheiere interlocutorie pronunțată potrivit prevederilor art. 131 alin. (1) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223187",
+  "text_sha256": "84c34b304cdc6a3706aa0567e590539089d7aa4a1996d66a00621717e6e734e9",
+  "catalogue_sha256": "84c34b304cdc6a3706aa0567e590539089d7aa4a1996d66a00621717e6e734e9",
+  "fetched": "2026-11-03T02:03:07Z",
+  "chars": 50554,
+  "portal_id": "223187",
+  "tip": "DECIZIE"
+ }
+}
