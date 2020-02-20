@@ -1,0 +1,207 @@
+{
+ "key": "iccj-hp-penal-2-2020",
+ "label": "Decizia ÎCCJ nr. 2/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "2",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 2 din 20 ianuarie 2020",
+ "subtitle": "referitoare sesizarea formulată de Curtea de Apel Constanța - Secția penală și pentru cauze cu minori și de familie în prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Dacă, în cazul infracțiunii de abandon de familie, prevăzută în art. 378 alin. (1) lit. c) din Codul penal, prin sintagma «săvârșirea faptei» prevăzută de dispozițiile art. 296 din Codul de procedură penală (relevantă pentru calcularea termenului de introducere a plângerii prealabile) se înțelege «data încetării inacțiunii» (data «epuizării» infracțiunii de abandon de familie) sau «data consumării infracțiunii» (expirarea perioadei de 3 luni pe durata căreia autorul a rămas în pasivitate)\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2020-02-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.433/1/2019",
+  "11.252/256/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "378",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "296",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Constanța - Secția penală și pentru cauze cu minori și de familie în Dosarul penal nr. 11.252/256/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă, în cazul infracțiunii de abandon de familie, prevăzută în art. 378 alin. (1) lit. c) din Codul penal, prin sintagma «săvârșirea faptei» prevăzută de dispozițiile art. 296 din Codul de procedură penală (relevantă pentru calcularea termenului de introducere a plângerii prealabile) se înțelege «data încetării inacțiunii» (data «epuizării» infracțiunii de abandon de familie) sau «data consumării infracțiunii» (expirarea perioadei de 3 luni pe durata căreia autorul a rămas în pasivitate)“.",
+  "Stabilește că: „În cazul infracțiunii de abandon de familie prevăzute în art. 378 alin. (1) lit. c) din Codul penal, termenul de introducere a plângerii prealabile prevăzut în conținutul art. 296 alin. (1) și (2) din Codul de procedură penală - de 3 luni din ziua în care persoana vătămată sau reprezentantul său legal a aflat despre săvârșirea faptei - curge de la data la care persoana vătămată ori reprezentantul său legal a cunoscut săvârșirea faptei.",
+  "Termenul de 3 luni prevăzut în conținutul art. 296 alin. (1) și (2) din Codul de procedură penală poate să curgă din trei momente diferite, după cum urmează: a) din momentul consumării infracțiunii, dacă acest moment este identic cu cel al cunoașterii faptei; b) din momentul cunoașterii săvârșirii faptei, care se poate situa între momentul consumării faptei până la momentul epuizării și c) din momentul epuizării infracțiunii sau ulterior acestuia, odată cu cunoașterea săvârșirii faptei, caz în care nu trebuie să fi fost împlinit termenul de prescripție a răspunderii penale“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "378",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "157",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "295",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "296",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 67
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223194",
+  "text_sha256": "ee51e152cb6c09827ae47ea15a4a68f7c371e0adf5fdab40738fe0f924dcc6ec",
+  "catalogue_sha256": "ee51e152cb6c09827ae47ea15a4a68f7c371e0adf5fdab40738fe0f924dcc6ec",
+  "fetched": "2026-11-03T02:03:06Z",
+  "chars": 62365,
+  "portal_id": "223194",
+  "tip": "DECIZIE"
+ }
+}
