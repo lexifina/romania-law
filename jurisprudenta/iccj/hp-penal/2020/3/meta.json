@@ -1,0 +1,364 @@
+{
+ "key": "iccj-hp-penal-3-2020",
+ "label": "Decizia ÎCCJ nr. 3/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "3",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 3 din 20 ianuarie 2020",
+ "subtitle": "referitoare la interpretarea art. 18^1 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "138",
+  "bis": false,
+  "date": "2020-02-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.412/1/2019",
+  "5.916/99/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iași - Secția penală și pentru cauze cu minori, în Dosarul nr. 5.916/99/2016, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „În cazul infracțiunii prevăzute de art. 18^1 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, comisă în modalitatea alternativă a folosirii sau prezentării cu rea-credință de documente false, în condițiile în care documentele respective sunt înscrisuri sub semnătură privată, este o infracțiune complexă, ce absoarbe în conținutul său infracțiunea de fals în înscrisuri sub semnătură privată, atunci când aceasta este săvârșită (în forma autoratului sau a instigării) de aceeași persoană care folosește aceste înscrisuri și obține ulterior, pe nedrept, fonduri din bugetul general al Uniunii Europene sau din bugetele administrate de aceasta ori în numele ei sau cele două infracțiuni își păstrează autonomia, existând un concurs real de infracțiuni între infracțiunea de fals în înscrisuri sub semnătură privată și infracțiunea prevăzută de art. 18^1 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție“.",
+  "Stabilește că folosirea sau prezentarea cu rea-credință de înscrisuri sub semnătură privată falsificate, care a avut ca rezultat obținerea, pe nedrept, de fonduri din bugetul Uniunii Europene sau din bugetele administrate de aceasta ori în numele ei, săvârșită de către aceeași persoană care, în calitate de autor sau participant secundar, a contribuit la comiterea falsului, realizează conținutul infracțiunilor de folosire sau prezentare cu rea-credință de documente ori declarații false, inexacte sau incomplete, prevăzută de art. 18^1 alin. (1) din Legea nr. 78/2000 pentru prevenirea, descoperirea și sancționarea faptelor de corupție, și fals în înscrisuri sub semnătură privată, prevăzută de art. 322 alin. (1) din Codul penal, în concurs real.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 92
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "320",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 85
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "290",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223212",
+  "text_sha256": "10f0a84b900a12497a8f55858440673109d02e69bc86dad24c5aadb18a3c8aad",
+  "catalogue_sha256": "10f0a84b900a12497a8f55858440673109d02e69bc86dad24c5aadb18a3c8aad",
+  "fetched": "2026-11-03T14:37:06Z",
+  "chars": 98385,
+  "portal_id": "223212",
+  "tip": "DECIZIE"
+ }
+}
