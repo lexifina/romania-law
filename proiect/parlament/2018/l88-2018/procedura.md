@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-07: sent for promulgation
 - 2019-10-28: returned for re-examination
 - 2019-12-02: adopted by the Senate
+- 2020-02-24: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,8 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088AM.PDF
 - 2019-10-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088AXS.PDF
 - 2019-10-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088LP.PDF
+- 2020-02-24: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-02-24: Document (XA): [xa-420ffa34.md](xa-420ffa34.md); official file https://www.senat.ro/legis/PDF/2018/18L088XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-02-24: Document (CX): [cx-b2a89c0b.md](cx-b2a89c0b.md); official file https://www.senat.ro/legis/PDF/2018/18L088CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-02-24: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-02-24: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L088SX.PDF (its day is not given by the bill file: shown from the last stage held)
