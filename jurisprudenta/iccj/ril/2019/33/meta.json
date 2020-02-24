@@ -1,0 +1,408 @@
+{
+ "key": "iccj-ril-33-2019",
+ "label": "Decizia ÎCCJ nr. 33/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "33",
+ "date": "2019-12-09",
+ "year": "2019",
+ "heading": "DECIZIA nr. 33 din 9 decembrie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 2 alin. (4), art. 59 alin. (2) și art. 64 alin. (2) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2020-02-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.023/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 2 alin. (4), art. 59 alin. (2) și art. 64 alin. (2) din Legea nr. 192/2006 privind medierea și organizarea profesiei de mediator, cu modificările și completările ulterioare, instanța de judecată nu poate consfinți acordul de mediere referitor la înțelegerea părților privind desfacerea căsătoriei.",
+  "Cu privire la rezolvarea aspectelor accesorii divorțului, instanța de judecată poate consfinți acordul de mediere având acest obiect.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "1",
+      "1-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "441",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "931",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "930",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "918",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "921",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "919",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "916",
+     "alin": [
+      "1",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "915",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "917",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "920",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "922",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "923",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "924",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "925",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "926",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "927",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "928",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "929",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "932",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "933",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "934",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "935",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "373",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "374",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "382",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "383",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223227",
+  "text_sha256": "a4cedca0bfca074bad759c88d0581f999d2c3ec809cb59c1bdd8f4edec714a74",
+  "catalogue_sha256": "a4cedca0bfca074bad759c88d0581f999d2c3ec809cb59c1bdd8f4edec714a74",
+  "fetched": "2026-11-06T03:49:30Z",
+  "chars": 56666,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/223227",
+   "timestamp": "20221126225358",
+   "crawl": "CC-MAIN-2022-49",
+   "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446709929.63/warc/CC-MAIN-20221126212945-20221127002945-00294.warc.gz",
+   "offset": "397262761",
+   "length": "46697",
+   "sha256": "d5d29a29b84c7757b15b53183f853ea7c8b89c87b0f57badb2b7e784b2180a1a"
+  },
+  "portal_id": "223227",
+  "tip": "DECIZIE"
+ }
+}
