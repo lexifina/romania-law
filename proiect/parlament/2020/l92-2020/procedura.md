@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2019-12-23: registered at the Chamber of Deputies
+- 2020-02-25: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2020-02-25: Document (OG): [og-171dd900.md](og-171dd900.md); official file https://www.senat.ro/legis/PDF/2020/20L092OG.PDF
