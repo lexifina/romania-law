@@ -1,0 +1,602 @@
+{
+ "key": "iccj-ril-27-2019",
+ "label": "Decizia ÎCCJ nr. 27/2019 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "27",
+ "date": "2019-11-11",
+ "year": "2019",
+ "heading": "DECIZIA nr. 27 din 11 noiembrie 2019",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 16 alin. (2), (3), (5), (6), (7), (9), (10), art. 19 alin. (3), art. 20 alin. (3), art. 35 alin. (3) și art. 41 alin. (4) din Legea energiei electrice nr. 13/2007, cu modificările și completările ulterioare, respectiv a dispozițiilor art. 12 alin. (2), (3), (5), (6), (8), (10) și (11), art. 14 alin. (3), art. 15 alin. (3), art. 30 alin. (4) și art. 44 alin. (4) din Legea energiei electrice și a gazelor naturale nr. 123/2012, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "152",
+  "bis": false,
+  "date": "2020-02-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.858/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Craiova.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 16 alin. (2), (3), (5), (6), (7), (9), (10), art. 19 alin. (3), art. 20 alin. (3), art. 35 alin. (3) și art. 41 alin. (4) din Legea energiei electrice nr. 13/2007, cu modificările și completările ulterioare, respectiv a dispozițiilor art. 12 alin. (2), (3), (5), (6), (8), (10) și (11), art. 14 alin. (3), art. 15 alin. (3), art. 30 alin. (4) și art. 44 alin. (4) din Legea energiei electrice și a gazelor naturale nr. 123/2012, cu modificările și completările ulterioare, stabilește că:",
+  "Titularii dreptului de proprietate privată afectați de capacitățile energetice pot pretinde indemnizații pentru lipsa de folosință numai în măsura în care capacitățile energetice au fost realizate după intrarea în vigoare a Legii energiei electrice nr. 13/2007; pentru capacitățile energetice realizate anterior, exercitarea de către titularii autorizațiilor de înființare și de către titularii licențelor a drepturilor de uz și de servitute se face cu titlu gratuit, potrivit dispozițiilor speciale în vigoare la data punerii lor în funcțiune.",
+  "Titularii dreptului de proprietate privată afectați de capacitățile energetice pot pretinde despăgubiri pentru prejudiciile cauzate de titularii autorizațiilor de înființare și de titularii licențelor, în exercitarea drepturilor de uz și de servitute, indiferent de momentul realizării capacității energetice (anterior sau ulterior intrării în vigoare a Legii energiei electrice nr. 13/2007).",
+  "Dispozițiile art. 35 alin. (3) și art. 41 alin. (4) din Legea nr. 13/2007, respectiv cele ale art. 30 alin. (4) și art. 44 alin. (4) din Legea nr. 123/2012 se opun ca titularii dreptului de proprietate privată afectați de rețelele electrice de transport ori de distribuție existente la data intrării în vigoare a legii să obțină indemnizare pentru lipsa de folosință de la titularul dreptului de proprietate asupra terenurilor pe care se situează respectivele capacități energetice, întemeiată pe această cauză.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice nr. 13/2007",
+    "number": "13",
+    "year": "2007",
+    "path": "lege/2007/13"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "5",
+      "8",
+      "2",
+      "3",
+      "9",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "5",
+      "9",
+      "2",
+      "3",
+      "10",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 123/2013",
+    "number": "123",
+    "year": "2013",
+    "path": "lege/2013/123"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "621",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "602",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "603",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "604",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "605",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "606",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "607",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "608",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "609",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "610",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "611",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "612",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "613",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "614",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "615",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "616",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "617",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "618",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "619",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "620",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "624",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "625",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii energiei electrice nr. 318/2003",
+    "number": "318",
+    "year": "2003",
+    "path": "lege/2003/318"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 76/1950",
+    "number": "76",
+    "year": "1950",
+    "path": "decret/1950/76"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 63/1998",
+    "number": "63",
+    "year": "1998",
+    "path": "oug/1998/63"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 380/2003",
+    "number": "380",
+    "year": "2003",
+    "path": "lege/2003/380"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 135/2011",
+    "number": "135",
+    "year": "2011",
+    "path": "hg/2011/135"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 120/2019",
+    "number": "120",
+    "year": "2019",
+    "path": "lege/2019/120"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223296",
+  "text_sha256": "56be7f716ec9633ea5ee42db880046fd46b83a0bf767d5dda612632dcfadf746",
+  "catalogue_sha256": "56be7f716ec9633ea5ee42db880046fd46b83a0bf767d5dda612632dcfadf746",
+  "fetched": "2026-11-03T02:03:02Z",
+  "chars": 94958,
+  "portal_id": "223296",
+  "tip": "DECIZIE"
+ }
+}
