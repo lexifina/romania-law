@@ -1,0 +1,42 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/149 AL COMISIEI
+din 4 februarie 2020
+privind reînnoirea autorizației pentru Saccharomyces cerevisiae CNCM I-1077 ca aditiv furajer pentru miei și cai și de abrogare a Regulamentelor (CE) nr. 1293/2008 și (CE) nr. 910/2009 (titularul autorizației Danstar Ferment AG reprezentat în Uniune prin Lallemand SAS)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare și de reînnoire a unei astfel de autorizații.
+(2) Preparatul Saccharomyces cerevisiae CNCM I-1077 a fost autorizat timp de 10 ani a aditiv furajer pentru miei prin Regulamentul (CE) nr. 1293/2008 al Comisiei (2) și ca aditiv furajer pentru cai prin Regulamentul (CE) nr. 910/2009 al Comisiei (3).
+(3) Titularul autorizației respective a depus o cerere pentru reînnoirea autorizației preparatului de Saccharomyces cerevisiae CNCM I-1077 ca aditiv furajer pentru hrana mieilor și a cailor, solicitându-se ca aditivul să fie clasificat în categoria de aditivi „aditivi zootehnici”. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 14 alineatul (2) din Regulamentul (CE) nr. 1831/2003.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „Autoritatea”) a concluzionat în avizul ei din 26 februarie 2019 (4) că solicitantul a furnizat date care demonstrează că aditivul respectă condițiile de autorizare. Autoritatea a concluzionat că Saccharomyces cerevisiae CNCM I-1077 rămâne sigur în condițiile de utilizare autorizate pentru animalele vizate, pentru consumatori, pentru utilizatori și pentru mediu. De asemenea, Autoritatea a concluzionat că aditivul este considerat iritant pentru ochi. Prin urmare, Comisia consideră că ar trebui luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivului.
+(5) Evaluarea preparatului Saccharomyces cerevisiae CNCM I-1077 arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, autorizarea acestui aditiv ar trebui să fie reînnoită, conform specificațiilor din anexa la prezentul regulament.
+(6) Ca o consecință a reînnoirii autorizării preparatului Saccharomyces cerevisiae CNCM I-1077 ca aditiv în hrana animalelor în condițiile prevăzute în anexa la prezentul regulament, Regulamentele (CE) nr. 1293/2008 și (CE) nr. 910/2009 trebuie abrogate.
+(7) Întrucât niciun motiv de siguranță nu impune aplicarea imediată a modificărilor aduse de prezentul regulament, este oportun să se prevadă o perioadă de tranziție pe parcursul căreia stocurile existente de preparat Saccharomyces cerevisiae CNCM I-1077, care sunt în conformitate cu dispozițiile aplicabile înainte de data intrării în vigoare a prezentului regulament, pot continua să fie introduse pe piață și utilizate până la epuizare.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizarea aditivului menționat în anexă, aparținând categoriei „aditivi zootehnici” și grupelor funcționale „stabilizatori ai florei intestinale” pentru miei și „promotori de digestibilitate” pentru cai, se reînnoiește sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Regulamentele (CE) nr. 1293/2008 și (CE) nr. 910/2009 se abrogă.
+Articolul 3
+Preparatul Saccharomyces cerevisiae CNCM I-1077, astfel cum este prevăzut în Regulamentul (CE) nr. 910/2009, preamestecurile și furajele combinate care conțin substanța respectivă, care sunt produse și etichetate înainte de 25 februarie 2020 în conformitate cu normele aplicabile înainte de 25 februarie 2020, pot continua să fie introduse pe piață și să fie utilizate până la epuizarea stocurilor existente.
+Articolul 4
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 4 februarie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Regulamentul (CE) nr. 1293/2008 al Comisiei din 18 decembrie 2008 privind autorizarea unei noi utilizări a Saccharomyces cerevisiae CNCM I-1077 (Levucell SC20 și Levucell SC10 ME) ca aditiv furajer (JO L 340, 19.12.2008, p. 38).
+(3) Regulamentul (CE) nr. 910/2009 al Comisiei din 29 septembrie 2009 privind autorizarea unei noi utilizări a preparatului de Saccharomyces cerevisiae CNCM I-1077 ca aditiv pentru hrana cailor (titularul autorizației Danstar Ferment AG reprezentat în Uniune prin Lallemand SAS) (JO L 257, 30.9.2009, p. 7).
+(4) Jurnalul EFSA 2019;17(3):5639.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda de analiză | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+CFU/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grup funcțional: promotori de digestibilitate
+4b1711 | Danstar Ferment AG reprezentată de Lallemand SAS | Saccharomyces cerevisiae CNCM I-1077 | Compoziția aditivului Preparat de Saccharomyces cerevisiae CNCM I-1077 conținând minimum: — 1 × 1010 CFU/g de aditiv (formă acoperită); — 2 × 1010 CFU/g de aditiv (formă neacoperită). Caracterizarea substanței active Celule viabile de Saccharomyces cerevisiae CNCM I-1077 Metoda analitică (1) Enumerare: metoda turnării pe placă utilizând agar care conține cloramfenicol, glucoză și extract de drojdie (EN15789: 2009) Identificare: metoda reacției în lanț a polimerazei (PCR) (CEN/TS 15790: 2008) | Cai | - | 3,0 × 109 | - | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea acestora. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție a ochilor. | 25.2.2030
+Categoria aditivilor zootehnici. Grup funcțional: stabilizatori ai florei intestinale
+4b1711 | Danstar Ferment AG reprezentată de Lallemand SAS | Saccharomyces cerevisiae CNCM I-1077 | Compoziția aditivului Preparat de Saccharomyces cerevisiae CNCM I-1077 conținând minimum: — 1 × 1010 CFU/g de aditiv (formă acoperită); — 2 × 1010 CFU/g de aditiv (formă neacoperită); Caracterizarea substanței active Celule viabile de Saccharomyces cerevisiae CNCM I-1077 Metoda analitică (1) Enumerare: metoda turnării pe placă utilizând agar care conține cloramfenicol, glucoză și extract de drojdie (EN15789: 2009) Identificare: metoda reacției în lanț a polimerazei (PCR) (CEN/TS 15790: 2008) | Miei | - | 3,0 × 109 | | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea acestora. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție a ochilor. | 25.2.2030
+(1) Detalii ale metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
