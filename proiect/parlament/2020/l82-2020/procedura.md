@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2020-02-11: adopted by the Chamber of Deputies
 - 2020-02-12: registered at the Senate
+- 2020-02-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-04: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L082SJ.PDF
 - 2019-09-04: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L082ES.PDF
 - 2019-10-08: Aviz comisie (CA45): [ca45-3116acbd.md](ca45-3116acbd.md); official file https://www.senat.ro/legis/PDF/2020/20L082CA45.PDF
+- 2020-02-26: Aviz comisie (CA49): [ca49-104e4e45.md](ca49-104e4e45.md); official file https://www.senat.ro/legis/PDF/2020/20L082CA49.PDF
+- 2020-02-26: Aviz comisie (CA3): [ca3-b8319966.md](ca3-b8319966.md); official file https://www.senat.ro/legis/PDF/2020/20L082CA3.PDF
