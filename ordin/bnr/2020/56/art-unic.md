@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare ținut la Banca Națională a României a Societății PRO LEASING INSTITUȚIE FINANCIARĂ NEBANCARĂ - S.A., cu sediul în Ploiești, str. Văleni nr. 1, bl. 33I-33K, parter, județul Prahova, înregistrată la oficiul registrului comerțului cu nr. J29/193/27.02.2001, cod unic de înregistrare 13733470, înscrisă în Registrul general Instituții Financiare Nebancare, Partea II - Radiate, la secțiunea k) "Activități multiple de creditare" (nr. RG-PJR-30-110127).
