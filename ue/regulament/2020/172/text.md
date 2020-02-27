@@ -1,0 +1,45 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/172 AL COMISIEI
+din 6 februarie 2020
+privind reînnoirea autorizației pentru 3-fitaza produsă de Aspergillus niger (CBS 101.672) ca aditiv în hrana purceilor (înțărcați), a porcilor pentru îngrășare, a scroafelor, a puilor pentru îngrășare, a curcanilor pentru îngrășare, a găinilor ouătoare, a rațelor și a tuturor celorlalte specii aviare minore, a păsărilor ornamentale, privind noua autorizație pentru puicuțele pentru ouat, puii crescuți pentru reproducție, curcanii crescuți pentru reproducție sau găinile de reproducție și purceii de lapte și privind abrogarea Regulamentelor (CE) nr. 243/2007, (CE) nr. 1142/2007, (CE) nr. 165/2008, (CE) nr. 505/2008 și (UE) nr. 327/2010 (titularul autorizației: BASF SE)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare și de reînnoire a unei astfel de autorizații.
+(2) 3-Fitaza produsă de Aspergillus niger (CBS 101.672) a fost autorizată pentru 10 ani ca aditiv destinat hranei animalelor pentru purcei (înțărcați), porci pentru îngrășare și pui pentru îngrășare prin Regulamentul (CE) nr. 243/2007 al Comisiei (2), pentru găini ouătoare și curcani pentru îngrășare prin Regulamentul (CE) nr. 1142/2007 al Comisiei (3), pentru rațe prin Regulamentul (CE) nr. 165/2008 al Comisiei (4), pentru scroafe prin Regulamentul (CE) nr. 505/2008 al Comisiei (5) și pentru specii aviare minore, altele decât rațele, și pentru păsări ornamentale, prin Regulamentul (UE) nr. 327/2010 al Comisiei (6).
+(3) În conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1831/2003, coroborat cu articolul 7 din respectivul regulament, titularul autorizației a depus o cerere de reînnoire a autorizației pentru 3-fitaza produsă de Aspergillus niger (CBS 101.672) ca aditiv pentru hrana purceilor (înțărcați), a porcilor pentru îngrășare, a scroafelor, a puilor pentru îngrășare, a găinilor ouătoare, a curcanilor pentru îngrășare, a rațelor și a altor specii aviare minore și a păsărilor ornamentale, precum și pentru o nouă utilizare la puicuțe pentru ouat, pui crescuți pentru reproducție, curcani crescuți pentru reproducție, găini de reproducție și purcei de lapte, solicitând ca aditivul respectiv să fie clasificat în categoria „aditivi zootehnici”. Cererea respectivă a fost însoțită de informațiile și documentele necesare în temeiul articolului 7 alineatul (3) și al articolului 14 alineatul (2) din regulamentul respectiv.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizul ei din 26 februarie 2019 (7) că solicitantul a furnizat date care demonstrează că aditivul respectă condițiile de autorizare. Autoritatea a concluzionat, de asemenea, că aditivul nu are efecte adverse asupra sănătății animale și a mediului. S-a concluzionat, de asemenea, că aditivul este un sensibilizant pentru căile respiratorii și trebuie să fie considerat ca fiind un potențial sensibilizant pentru piele. Prin urmare, Comisia consideră că trebuie luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivilor destinați hranei animalelor. Autoritatea a concluzionat, de asemenea, că aditivul este eficient în îmbunătățirea digestibilității hranei la puicuțele pentru ouat sau puii crescuți pentru reproducție, la curcanii crescuți pentru reproducție sau găinile de reproducție și la purceii de lapte. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul privind metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea 3-fitazei produse de Aspergillus niger (CBS 101.672) arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, autorizarea acestui aditiv trebuie să fie reînnoită, conform specificațiilor din anexa la prezentul regulament.
+(6) Ca urmare a reînnoirii autorizării 3-fitazei produse de Aspergillus niger (CBS 101.672) ca aditiv în hrana pentru animale în condițiile stabilite în anexa la prezentul regulament, Regulamentele (CE) nr. 243/2007, (CE) nr. 1142/2007, (CE) nr. 165/2008, (CE) nr. 505/2008 și (UE) nr. 327/2010 trebuie abrogate.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Preparatul cu specificațiile din anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „promotori de digestibilitate”, se autorizează și se reautorizează ca aditiv pentru hrana animalelor, în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Regulamentele (CE) nr. 243/2007, (CE) nr. 1142/2007, (CE) nr. 165/2008, (CE) nr. 505/2008 și (UE) nr. 327/2010 se abrogă.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 6 februarie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Regulamentul (CE) nr. 243/2007 al Comisiei din 6 martie 2007 privind autorizarea preparatului enzimatic Natuphos (3-fitază) ca aditiv pentru hrana animalelor (JO L 73, 13.3.2007, p. 4).
+(3) Regulamentul (CE) nr. 1142/2007 al Comisiei din 1 octombrie 2007 privind autorizarea unei noi utilizări a preparatului 3-fitază (Natuphos) ca aditiv pentru hrana animalelor (JO L 256, 2.10.2007, p. 20).
+(4) Regulamentul (CE) nr. 165/2008 al Comisiei din 22 februarie 2008 privind autorizarea unei noi utilizări a preparatului 3-fitază (Natuphos) ca aditiv pentru hrana animalelor (JO L 50, 23.2.2008, p. 8).
+(5) Regulamentul (CE) nr. 505/2008 al Comisiei din 6 iunie 2008 privind autorizarea unei noi utilizări a preparatului 3-fitază (Natuphos) ca aditiv pentru hrana animalelor (JO L 149, 7.6.2008, p. 33).
+(6) Regulamentul (UE) nr. 327/2010 al Comisiei din 21 aprilie 2010 privind autorizarea unei noi utilizări a preparatului 3-fitază ca aditiv furajer pentru toate speciile aviare minore, altele decât rațele, și pentru păsări ornamentale (titularul autorizației BASF SE) (JO L 100, 22.4.2010, p. 3).
+(7) EFSA Journal 2019; 17(3):5640.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unitate de activitate/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupă funcțională: promotori de digestibilitate
+4a1600 | BASF SE | 3-fitază CE 3.1.3.8 | Compoziția aditivului 3-fitaza produsă de Aspergillus niger (CBS 101.672) având o activitate minimă de: Formă solidă: 5 000 FTU (1)/g Formă lichidă: 5 000 FTU/ml Caracterizarea substanței active: 3-fitaza produsă de Aspergillus niger (CBS 101.672) Metoda analitică (2) Metoda colorimetrică care măsoară fosfatul anorganic eliberat de enzimă din substratul fitat. | Purcei (de lapte și înțărcați) Scroafe | - | 500 FTU | | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipament de protecție individuală, inclusiv cu echipamente de protecție respiratorie și cutanată. | 27.2.2030
+Porci pentru îngrășare | - | 100 FTU |
+Pui pentru îngrășare Puicuțe pentru ouat/pui crescuți pentru reproducție | - | 375 FTU |
+Găini ouătoare Curcani pentru îngrășare Curcani crescuți pentru reproducție și găini de reproducție Păsări ornamentale și toate speciile aviare minore, altele decât rațele | - | 250 FTU |
+Rațe | - | 300 FTU |
+(1) 1 FTU reprezintă cantitatea de enzimă care eliberează 1 micromol de fosfat anorganic pe minut din fitatul de sodiu la pH de 5,5 și la 37 °C.
+(2) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
