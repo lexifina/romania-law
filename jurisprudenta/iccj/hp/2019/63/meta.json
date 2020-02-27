@@ -1,0 +1,225 @@
+{
+ "key": "iccj-hp-63-2019",
+ "label": "Decizia ÎCCJ nr. 63/2019 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "63",
+ "date": "2019-12-16",
+ "year": "2019",
+ "heading": "DECIZIA nr. 63 din 16 decembrie 2019",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: \"Hotărârile consiliului local privind atribuirea contractelor de delegare a gestiunii serviciilor de administrare a domeniului public și privat, reglementate de Ordonanța Guvernului nr. 71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, aprobată cu modificări prin Legea nr. 3/2003, intră în sfera noțiunii de «hotărâri privind patrimoniul» folosită de art. 45 alin. (3) din Legea administrației publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "162",
+  "bis": false,
+  "date": "2020-02-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.384/1/2019",
+  "37.478/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 71/2002",
+    "number": "71",
+    "year": "2002",
+    "path": "og/2002/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, în dosarul nr. 37.478/3/2018, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Hotărârile consiliului local privind atribuirea contractelor de delegare a gestiunii serviciilor de administrare a domeniului public și privat, reglementate de Ordonanța Guvernului nr. 71/2002 privind organizarea și funcționarea serviciilor publice de administrare a domeniului public și privat de interes local, aprobată cu modificări prin Legea nr. 3/2003, intră în sfera noțiunii de «hotărâri privind patrimoniul» folosită de art. 45 alin. (3) din Legea administrației publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 71/2002",
+    "number": "71",
+    "year": "2002",
+    "path": "og/2002/71"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "t"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-02-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223367",
+  "text_sha256": "d278fa7998628163c5418efaf36ea7c4b8dfe88758e03c859d2c333f4075afa1",
+  "catalogue_sha256": "d278fa7998628163c5418efaf36ea7c4b8dfe88758e03c859d2c333f4075afa1",
+  "fetched": "2026-11-03T02:02:56Z",
+  "chars": 60608,
+  "portal_id": "223367",
+  "tip": "DECIZIE"
+ }
+}
