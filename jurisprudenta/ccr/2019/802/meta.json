@@ -1,0 +1,293 @@
+{
+ "key": "dcc-802-2019",
+ "label": "Decizia CCR nr. 802/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "802",
+ "date": "2019-12-03",
+ "year": "2019",
+ "heading": "DECIZIA nr. 802 din 3 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, a prevederilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma \"precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv\", precum și a prevederilor art. 521 alin. (3) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "164",
+  "bis": false,
+  "date": "2020-02-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "473/173/2015",
+  "1.944D/2018",
+  "2.214D/2018",
+  "2.181D/2018",
+  "2.209D/2018",
+  "2.331D/2018",
+  "2.341D/2018",
+  "19.546/233/2015",
+  "9.398/233/2014",
+  "5.859/231/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, excepție ridicată de Curtea de Apel Galați - Secția I civilă, din oficiu, în dosarele nr. 473/173/2015, nr. 1.864/316/2016, nr. 2.287/173/2016, nr. 16.712/233/2016*, nr. 4.266/231/2014*, nr. 19.546/233/2015, nr. 61/316/2017, nr. 108.951/299/2015*, nr. 6.516/233/2015*, nr. 15.380/233/2016, nr. 9.398/233/2014*, nr. 2.747/196/2016*, nr. 444/316/2014*, nr. 8.284/231/2015, nr. 14.038/231/2014*, nr. 6.156/233/2017, nr. 8.387/196/2016, nr. 21.035/233/2015, nr. 14.032/196/2015, nr. 17.756/233/2016, nr. 5.027/196/2016***, nr. 3.741/233/2017, nr. 8.853/231/2016*, nr. 5.419/196/2015*, nr. 12.901/196/2016*, nr. 1.781/233/2016, nr. 10.745/231/2015*, nr. 19.033/233/2016*, nr. 6.584/233/2016, nr. 20.997/233/2014*, nr. 22.337/233/2016, nr. 966/196/2017, nr. 5.859/231/2015, nr. 1.693/233/2017, nr. 6.562/231/2016, nr. 2.328/196/2015, nr. 15.780/233/2013, nr. 2.092/324/2016, nr. 2.418/233/2016, nr. 14.517/233/2016, nr. 3.656/196/2017*, nr. 5.345/233/2016*, nr. 600/838/2014**, nr. 1.309/113/2016*, nr. 11.605/233/2017, nr. 15.570/231/2014*, nr. 13.907/233/2016, nr. 6.151/196/2016*, nr. 14.050/233/2016, nr. 15.377/233/2016, nr. 13.741/233/2017, nr. 4.722/231/2015, nr. 24.596/233/2014**, nr. 151/233/2016, nr. 10.225/233/2016, nr. 20.010/196/2016, nr. 1.766/233/2016, nr. 1.930/324/2015, nr. 14.018/233/2015, nr. 13.921/231/2015*, nr. 17.646/233/2016, nr. 9.436/233/2015, nr. 23.062/233/2015*, nr. 4.907/324/2015*, nr. 17.989/233/2015, nr. 12.063/233/2017, nr. 20.255/196/2016 și nr. 9.904/233/2016, de Societatea Banca Transilvania - S.A. din Cluj-Napoca în Dosarul nr. 19.546/233/2015 al Curții de Apel Galați - Secția I civilă, de Societatea Credit Europe Bank Romania - S.A. din București în Dosarul nr. 9.398/233/2014* al Curții de Apel Galați - Secția I civilă, de Societatea Raiffeisen Bank - S.A. din București în dosarele nr. 8.284/231/2015, nr. 8.387/196/2016, nr. 5.419/196/2015*, nr. 966/196/2017 și nr. 17.989/233/2015 ale Curții de Apel Galați - Secția I civilă, de Societatea Credit Europe Bank NV din Amsterdam, Olanda, în dosarele nr. 12.063/233/2017 și nr. 11.605/233/2017 ale Curții de Apel Galați - Secția I civilă și de Societatea Piraeus Bank - S.A. din București în Dosarul nr. 5.859/231/2015 al Curții de Apel Galați - Secția I civilă, precum și de Georgeta Ene și Nicolae Ene în Dosarul nr. 33.219/301/2016 al Curții de Apel Constanța - Secția I civilă.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“, precum și excepția de neconstituționalitate a prevederilor art. 521 alin. (3) din Codul de procedură civilă, excepții ridicate de Curtea de Apel Galați - Secția I civilă, din oficiu, în dosarele nr. 473/173/2015, nr. 1.864/316/2016, nr. 2.287/173/2016, nr. 16.712/233/2016*, nr. 4.266/231/2014*, nr. 19.546/233/2015, nr. 61/316/2017, nr. 108.951/299/2015*, nr. 6.516/233/2015*, nr. 15.380/233/2016, nr. 9.398/233/2014*, nr. 2.747/196/2016*, nr. 444/316/2014*, nr. 8.284/231/2015, nr. 14.038/231/2014*, nr. 6.156/233/2017, nr. 8.387/196/2016, nr. 21.035/233/2015, nr. 14.032/196/2015, nr. 17.756/233/2016, nr. 5.027/196/2016***, nr. 3.741/233/2017, nr. 8.853/231/2016*, nr. 5.419/196/2015*, nr. 12.901/196/2016*, nr. 1.781/233/2016, nr. 10.745/231/2015*, nr. 19.033/233/2016*, nr. 6.584/233/2016, nr. 20.997/233/2014*, nr. 22.337/233/2016, nr. 966/196/2017, nr. 5.859/231/2015, nr. 1.693/233/2017, nr. 6.562/231/2016, nr. 2.328/196/2015, nr. 15.780/233/2013, nr. 2.092/324/2016, nr. 2.418/233/2016, nr. 14.517/233/2016, nr. 3.656/196/2017*, nr. 5.345/233/2016*, nr. 600/838/2014**, nr. 1.309/113/2016*, nr. 11.605/233/2017, nr. 15.570/231/2014*, nr. 13.907/233/2016, nr. 6.151/196/2016*, nr. 14.050/233/2016, nr. 15.377/233/2016, nr. 13.741/233/2017, nr. 4.722/231/2015, nr. 24.596/233/2014**, nr. 151/233/2016, nr. 10.225/233/2016, nr. 20.010/196/2016, nr. 1.766/233/2016, nr. 1.930/324/2015, nr. 14.018/233/2015, nr. 13.921/231/2015*, nr. 17.646/233/2016, nr. 9.436/233/2015, nr. 23.062/233/2015*, nr. 4.907/324/2015*, nr. 17.989/233/2015, nr. 12.063/233/2017, nr. 20.255/196/2016 și nr. 9.904/233/2016, de Societatea Banca Comercială Română - S.A. din București în Dosarul nr. 2.747/196/2016* al Curții de Apel Galați - Secția I civilă, de Societatea Raiffeisen Bank - S.A. din București în dosarele nr. 8.284/231/2015, nr. 8.387/196/2016, nr. 5.419/196/2015*, nr. 966/196/2017 și nr. 17.989/233/2015 ale Curții de Apel Galați - Secția I civilă, precum și de Societatea Piraeus Bank - S.A. din București în Dosarul nr. 5.859/231/2015 al Curții de Apel Galați - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția I civilă și Curții de Apel Constanța - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "457",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223368",
+  "text_sha256": "303b5144b80eba78c47f55e764bf89191cdd5724d85c3aff8c57d5613f584dc7",
+  "catalogue_sha256": "303b5144b80eba78c47f55e764bf89191cdd5724d85c3aff8c57d5613f584dc7",
+  "fetched": "2026-11-03T02:02:56Z",
+  "chars": 53740,
+  "portal_id": "223368",
+  "tip": "DECIZIE"
+ }
+}
