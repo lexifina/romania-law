@@ -1,0 +1,400 @@
+{
+ "key": "dcc-26-2020",
+ "label": "Decizia CCR nr. 26/2020",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "conflict-juridic",
+ "number": "26",
+ "date": "2020-01-22",
+ "year": "2020",
+ "heading": "DECIZIA nr. 26 din 22 ianuarie 2020",
+ "subtitle": "asupra cererii de soluționare a conflictului juridic de natură constituțională dintre ministrul justiției și Ministerul Justiției, pe de o parte, și Consiliul Superior al Magistraturii, pe de altă parte",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "168",
+  "bis": false,
+  "date": "2020-03-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.719E/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Constată că nu există un conflict juridic de natură constituțională între ministrul justiției și Consiliul Superior al Magistraturii, generat de conduita ministrului justiției, Ana Birchall, în raport cu activitatea Ministerului Public, constând în ingerința în activitatea de urmărire penală desfășurată de Ministerul Public și în contestarea autorității dispozițiilor art. 88^1-11 din Legea nr. 304/2004 privind organizarea judiciară.",
+  "2. Constată că nu există un conflict juridic de natură constituțională între ministrul justiției și Consiliul Superior al Magistraturii, generat de o presupusă negociere de către ministrul justiției a unei „foi de parcurs“ privind statul de drept cu reprezentantul unui stat străin și de modul în care ministrul justiției a înțeles să translateze în spațiul public unele probleme legate de participarea sa la ședințele plenului Consiliului, în calitate de membru de drept.",
+  "3. Constată că nu există un conflict juridic de natură constituțională între Ministerul Justiției și Consiliul Superior al Magistraturii, generat de modul de soluționare a sesizărilor Consiliului Superior al Magistraturii adresate Ministerului Justiției cu privire la necesitatea inițierii sau modificării unor acte normative și de modul de poziționare a Ministerului Justiției față de situația juridică a sediului Consiliului.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică ministrului justiției și președintelui Consiliului Superior al Magistraturii și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "134",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "285",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 949/2018",
+    "number": "949",
+    "year": "2018",
+    "path": "hg/2018/949"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 489/2019",
+    "number": "489",
+    "year": "2019",
+    "path": "lege/2019/489"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 544/2001",
+    "number": "544",
+    "year": "2001",
+    "path": "lege/2001/544"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 90/2001",
+    "number": "90",
+    "year": "2001",
+    "path": "lege/2001/90"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": [
+      "b-1"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223418",
+  "text_sha256": "45a5a61642a691adc2d6a04125f18abc319d693f72fec33b1a4c3f89797750d5",
+  "catalogue_sha256": "45a5a61642a691adc2d6a04125f18abc319d693f72fec33b1a4c3f89797750d5",
+  "fetched": "2026-11-03T02:02:52Z",
+  "chars": 145892,
+  "portal_id": "223418",
+  "tip": "DECIZIE"
+ }
+}
