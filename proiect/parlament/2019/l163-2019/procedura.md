@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-05-07: documents published: Aviz comisie
 - 2020-02-03: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-02-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-03-02: promulgated, becomes Legea nr. 17/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-02-03: Forma adoptată de Senat (FS): [fs-fa94b3e7.md](fs-fa94b3e7.md); official file https://www.senat.ro/legis/PDF/2019/19L163FS.PDF
 - 2020-02-11: Adresă privind sesizarea CCR (AXS): [axs-f5f5728a.md](axs-f5f5728a.md); official file https://www.senat.ro/legis/PDF/2019/19L163AXS.PDF
 - 2020-02-11: Forma trimisă la promulgare (LP): [lp-6d189419.md](lp-6d189419.md); official file https://www.senat.ro/legis/PDF/2019/19L163LP.PDF
+- 2020-03-02: Decret de promulgare (DP): [dp-fcc7b4b7.md](dp-fcc7b4b7.md); official file https://www.senat.ro/legis/PDF/2019/19L163DP.PDF
+- 2020-03-02: Adresă privind forma promulgată (AFP): [afp-52347186.md](afp-52347186.md); official file https://www.senat.ro/legis/PDF/2019/19L163AFP.PDF
+- 2020-03-02: Forma promulgată (FP): [fp-eb1746f0.md](fp-eb1746f0.md); official file https://www.senat.ro/legis/PDF/2019/19L163FP.PDF
