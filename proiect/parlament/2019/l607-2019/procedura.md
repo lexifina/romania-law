@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-12-11: documents published: Aviz comisie
 - 2019-12-12: documents published: Aviz comisie
 - 2020-02-10: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2020-03-02: sent for promulgation
 
 ## Documents
 
