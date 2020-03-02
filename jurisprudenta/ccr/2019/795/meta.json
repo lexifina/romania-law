@@ -1,0 +1,273 @@
+{
+ "key": "dcc-795-2019",
+ "label": "Decizia CCR nr. 795/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "795",
+ "date": "2019-12-03",
+ "year": "2019",
+ "heading": "DECIZIA nr. 795 din 3 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 67 alin. (2) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "169",
+  "bis": false,
+  "date": "2020-03-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.424/110/2017",
+  "1.204D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Radu-Gabriel Patriche, în calitate de curator special al pârâților Ciprian Nederi și Luana Gabriela Nederi în Dosarul nr. 3.424/110/2017 al Tribunalului Bacău - Secția I civilă și constată că dispozițiile art. 67 alin. (2) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bacău - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "402",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "525",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "530",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 213/1957",
+    "number": "213",
+    "year": "1957",
+    "path": "decret/1957/213"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 212/1974",
+    "number": "212",
+    "year": "1974",
+    "path": "decret/1974/212"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-03-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223414",
+  "text_sha256": "4576b0a3e8fd411d7ac2171e7b19144c81a751acfe36d523a6ed74696b18447c",
+  "catalogue_sha256": "4576b0a3e8fd411d7ac2171e7b19144c81a751acfe36d523a6ed74696b18447c",
+  "fetched": "2026-11-03T02:02:51Z",
+  "chars": 17822,
+  "portal_id": "223414",
+  "tip": "DECIZIE"
+ }
+}
