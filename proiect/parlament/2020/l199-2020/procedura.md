@@ -10,9 +10,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-02-25: first record in the bill file
 - 2020-02-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-03-03: documents published: Punct de vedere
 
 ## Documents
 
 - 2020-02-26: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L199AD.PDF
 - 2020-02-26: Forma inițiatorului (FG): [fg-0a94770d.md](fg-0a94770d.md); official file https://www.senat.ro/legis/PDF/2020/20L199FG.PDF
 - 2020-02-26: Expunere de motive (EM): [em-3b50b78c.md](em-3b50b78c.md); official file https://www.senat.ro/legis/PDF/2020/20L199EM.PDF
+- 2020-03-03: Punct de vedere (PV): [pv-8c93c166.md](pv-8c93c166.md); official file https://www.senat.ro/legis/PDF/2020/20L199PV.PDF
