@@ -1,0 +1,282 @@
+{
+ "key": "iccj-hp-penal-1-2020",
+ "label": "Decizia ÎCCJ nr. 1/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "1",
+ "date": "2020-01-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 1 din 16 ianuarie 2020",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"Dacă martorul denunțător beneficiar al cauzei de nepedepsire, prevăzute la art. 290 alin. (3) din Codul penal, poate fi subiect activ al infracțiunii de mărturie mincinoasă, prevăzută de art. 273 din Codul penal, sau de favorizare a făptuitorului, prevăzută de art. 269 din Codul penal \"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "173",
+  "bis": false,
+  "date": "2020-03-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.721/1/2019",
+  "1.362/110/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "290",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie în Dosarul nr. 1.362/110/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă martorul denunțător beneficiar al cauzei de nepedepsire, prevăzute la art. 290 alin. (3) din Codul penal, poate fi subiect activ al infracțiunii de mărturie mincinoasă, prevăzută de art. 273 din Codul penal, sau de favorizare a făptuitorului, prevăzută de art. 269 din Codul penal“, și stabilește că:",
+  "Martorul denunțător care beneficiază de cauza de nepedepsire prevăzută la art. 290 alin. (3) din Codul penal poate fi subiect activ al infracțiunii de mărturie mincinoasă, prevăzută de art. 273 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "290",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 114
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223445",
+  "text_sha256": "168667a45232e10d8a7e21d5764343d78ac7a8fe1c0b534bbe24a7eafa3c7d09",
+  "catalogue_sha256": "168667a45232e10d8a7e21d5764343d78ac7a8fe1c0b534bbe24a7eafa3c7d09",
+  "fetched": "2026-11-03T02:02:49Z",
+  "chars": 89659,
+  "portal_id": "223445",
+  "tip": "DECIZIE"
+ }
+}
