@@ -1,0 +1,24 @@
+# Anexa 1
+Anexa nr. 1
+(Anexa nr. 2 la Decizia nr. 72/2012 )
+FORMULAR Av.R AGREAT DE C.N.A. Vă rugăm, folosiți numai formularele procurate de la C.N.A. sau de pe site-ul www.cna.ro!
+ATENȚIE! Formularul se completează pe calculator sau se dactilografiază.
+STRUCTURA OFERTEI DE SERVICII DE PROGRAME RETRANSMISE PRIN REȚEAUA DE COMUNICAȚII ELECTRONICE CU DENUMIREA ..................
+I.
+Numărul de servicii de programe retransmise: TV/radio (analogic/digital) ........................., din care ............................ servicii de programe cu regim must-carry. ...
+II.
+Localitățile în care se asigură retransmisia și fac obiectul solicitării de eliberare aviz de retransmisie:
+Nr. crt. Codul județului Denumirea județului Unitatea administrativ-teritorială Acțiunea modificatoare
+...
+III.
+Serviciile de programe retransmise care fac obiectul solicitării de eliberare aviz de retransmisie:
+Nr. crt. Denumirea serviciului de programe Categoria tematică Statul sub jurisdicția căruia se află radiodifuzorul Sistemul de retransmisie analogic/digital Modul de recepție^*) Modul de distribuție^*)
+Analogic Digital
+*) Recepție în clar (C)/restricționat (R) prin: 1 - satelit/2 - terestru/3 - alte rețele de comunicații electronice/4 - recepția directă a semnalului asigurată de radiodifuzor.
+...
+IV.
+Prin prezenta, solicitantul declară pe propria răspundere, potrivit art. 2 alin. (2) lit. d) din Decizia Consiliului Național al Audiovizualului nr. 72/2012 privind condițiile de eliberare și modificare a avizului de retransmisie, cu modificările și completările ulterioare, că deține drepturi de retransmisie pentru serviciile de programe și pentru localitățile declarate care fac obiectul acestei solicitări. ...
+Data semnării,
+……………………………………………
+Semnătura reprezentantului,
+…………………………………………….
