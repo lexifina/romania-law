@@ -1,0 +1,598 @@
+{
+ "key": "iccj-hp-2-2020",
+ "label": "Decizia ÎCCJ nr. 2/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "2",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 2 din 20 ianuarie 2020",
+ "subtitle": "referitoare la interpretarea art. 57 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, raportat la art. 30 alin. (1) lit. b) din aceeași lege și art. 4 din Hotărârea Guvernului nr. 583/2001 privind stabilirea criteriilor de încadrare a activităților de cercetare, explorare, exploatare sau prelucrare a materiilor prime nucleare din zonele I și II de expunere la radiații",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "178",
+  "bis": false,
+  "date": "2020-03-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "897/1/2019",
+  "8.211/118/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 583/2001",
+    "number": "583",
+    "year": "2001",
+    "path": "hg/2001/583"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Constanța - Secția I civilă, în Dosarul nr. 8.211/118/2017, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea art. 57 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, raportat la art. 30 alin. (1) lit. b) din aceeași lege și art. 4 din Hotărârea Guvernului nr. 583/2001 privind stabilirea criteriilor de încadrare a activităților de cercetare, explorare, exploatare sau prelucrare a materiilor prime nucleare din zonele I și II de expunere la radiații, toți angajații care au desfășurat cel puțin 15 ani de activitate încadrată în categoria de risc radiologic IV și III trebuie considerați ca desfășurând activități în locurile de muncă din zona I de expunere la radiații, urmând a beneficia de reducerea stagiului complet de cotizare conform acestui articol, sau numai aceia care au desfășurat efectiv activități în locurile de muncă prevăzute la art. 1 din Hotărârea Guvernului nr. 583/2001 și art. 30 alin. (1) lit. b) din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 583/2001",
+    "number": "583",
+    "year": "2001",
+    "path": "hg/2001/583"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 325/2015",
+    "number": "325",
+    "year": "2015",
+    "path": "lege/2015/325"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 155/2016",
+    "number": "155",
+    "year": "2016",
+    "path": "lege/2016/155"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Comisiei Naționale pentru Controlul Activităților Nucleare nr. 14/2000",
+    "number": "14",
+    "year": "2000"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.025/2003",
+    "number": "1025",
+    "year": "2003",
+    "path": "hg/2003/1025"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 246/2007",
+    "number": "246",
+    "year": "2007",
+    "path": "hg/2007/246"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.284/2011",
+    "number": "1284",
+    "year": "2011",
+    "path": "hg/2011/1284"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 655/1990",
+    "number": "655",
+    "year": "1990",
+    "path": "hg/1990/655"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223479",
+  "text_sha256": "0b2daf3b53dae33410186fb9887aa0d541e5d083dd3b8039f3d22bd6773d1fc9",
+  "catalogue_sha256": "0b2daf3b53dae33410186fb9887aa0d541e5d083dd3b8039f3d22bd6773d1fc9",
+  "fetched": "2026-11-03T02:02:47Z",
+  "chars": 52475,
+  "portal_id": "223479",
+  "tip": "DECIZIE"
+ }
+}
