@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-16: registered at the Senate
 - 2020-02-11: documents published: Aviz comisie
 - 2020-02-17: registered at the Senate
+- 2020-03-04: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-13: Aviz Consiliul Legislativ (LG): [lg-cdfa254b.md](lg-cdfa254b.md); official file https://www.senat.ro/legis/PDF/2020/20L088LG.PDF
 - 2019-11-13: Punct de vedere Guvern (SJ): [sj-5fe9758c.md](sj-5fe9758c.md); official file https://www.senat.ro/legis/PDF/2020/20L088SJ.PDF
 - 2020-02-11: Aviz comisie (CA45): [ca45-57b6fa29.md](ca45-57b6fa29.md); official file https://www.senat.ro/legis/PDF/2020/20L088CA45.PDF
+- 2020-03-04: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L088CA8.PDF
