@@ -1,0 +1,16 @@
+# Propunere legislativă L212/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea art.15 alin.(2) din Ordonanța de urgență a Guvernului nr.77/2009 privind organizarea și exploatarea jocurilor de noroc
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-03-04: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-03-04: Forma inițiatorului (FG): [fg-8b88f128.md](fg-8b88f128.md); official file https://www.senat.ro/legis/PDF/2020/20L212FG.PDF
+- 2020-03-04: Expunere de motive (EM): [em-c8be6c0a.md](em-c8be6c0a.md); official file https://www.senat.ro/legis/PDF/2020/20L212EM.PDF
