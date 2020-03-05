@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-02-03: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-02-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-02-17: sent for promulgation
+- 2020-03-05: promulgated, becomes Legea nr. 18/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-03: Forma adoptată de Senat (FS): [fs-f82a8475.md](fs-f82a8475.md); official file https://www.senat.ro/legis/PDF/2019/19L610FS.PDF
 - 2020-02-11: Adresă privind sesizarea CCR (AXS): [axs-e61c40af.md](axs-e61c40af.md); official file https://www.senat.ro/legis/PDF/2019/19L610AXS.PDF
 - 2020-02-11: Forma trimisă la promulgare (LP): [lp-67358fca.md](lp-67358fca.md); official file https://www.senat.ro/legis/PDF/2019/19L610LP.PDF
+- 2020-03-05: Decret de promulgare (DP): [dp-7acfa64d.md](dp-7acfa64d.md); official file https://www.senat.ro/legis/PDF/2019/19L610DP.PDF
+- 2020-03-05: Adresă privind forma promulgată (AFP): [afp-76b7a8c9.md](afp-76b7a8c9.md); official file https://www.senat.ro/legis/PDF/2019/19L610AFP.PDF
+- 2020-03-05: Forma promulgată (FP): [fp-5274d003.md](fp-5274d003.md); official file https://www.senat.ro/legis/PDF/2019/19L610FP.PDF
