@@ -1,0 +1,43 @@
+{
+ "key": "cjue-c-549-18-concluzii-2020-03-05",
+ "label": "CJUE, Concluziile avocatului general E. Tanchev prezentate la 5 martie 2020, Cauza C-549/18.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2020-03-05",
+ "year": "2020",
+ "case": "Cauza C-549/18.",
+ "celex": "62018CC0549",
+ "ecli": "ECLI:EU:C:2020:173",
+ "heading": "Concluziile avocatului general E. Tanchev prezentate la 5 martie 2020",
+ "formation": null,
+ "procedure": "ACTION_FAIL_OBLIG",
+ "romania_role": [
+  "defendant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Neîndeplinirea obligațiilor de către un stat membru – Articolul 258 TFUE – Prevenirea utilizării sistemului financiar în scopul spălării banilor sau finanțării terorismului – Directiva (UE) 2015/849 – Lipsa transpunerii și/sau a comunicării măsurilor de transpunere – Articolul 260 alineatul (3) TFUE – Cerere de obligare la plata unei sume forfetare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CC0549",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-549/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4d7e72b2-5edc-11ea-b735-01aa75ed71a1.0005.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "4e0b00b57ab13fe9e48d58e214094a27cd62b419f4df8e0001f3462757f3047f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
