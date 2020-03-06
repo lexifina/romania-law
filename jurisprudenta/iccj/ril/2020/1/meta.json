@@ -1,0 +1,420 @@
+{
+ "key": "iccj-ril-1-2020",
+ "label": "Decizia ÎCCJ nr. 1/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "1",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 1 din 20 ianuarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 1 alin. (2) din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, aprobată cu completări prin Legea nr. 288/2002, cu modificările si completările ulterioare, și art. 781 alin. (5) lit. c) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "184",
+  "bis": false,
+  "date": "2020-03-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.236/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "452",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 1 alin. (2) din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, aprobată cu completări prin Legea nr. 288/2002, cu modificările si completările ulterioare, și art. 781 alin. (5) lit. c) din Codul de procedură civilă [fost art. 452 alin. (2) lit. c) din Codul de procedură civilă de la 1865], sumele destinate plății drepturilor salariale, aflate în conturi deschise la unitățile de trezorerie și societăți bancare, nu pot face obiectul executării silite prin poprire.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "780",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "781",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "452",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "780",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "727",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "728",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "729",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 45/2010",
+    "number": "45",
+    "year": "2010",
+    "path": "oug/2010/45"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/2012",
+    "number": "22",
+    "year": "2012",
+    "path": "og/2012/22"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 4/2011",
+    "number": "4",
+    "year": "2011",
+    "path": "oug/2011/4"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2002",
+    "number": "288",
+    "year": "2002",
+    "path": "lege/2002/288"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/1996",
+    "number": "72",
+    "year": "1996",
+    "path": "lege/1996/72"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 61/2002",
+    "number": "61",
+    "year": "2002",
+    "path": "og/2002/61"
+   },
+   "articles": [
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223512",
+  "text_sha256": "8d8583bd6de943c523959bd3deb0ec338cce5686915941138457a65d512dca8d",
+  "catalogue_sha256": "8d8583bd6de943c523959bd3deb0ec338cce5686915941138457a65d512dca8d",
+  "fetched": "2026-11-04T01:33:07Z",
+  "chars": 60581,
+  "portal_id": "223512",
+  "tip": "DECIZIE"
+ }
+}
