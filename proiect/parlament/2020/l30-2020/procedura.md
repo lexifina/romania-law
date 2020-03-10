@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-02-12: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2020-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2020-03-10: adopted by the Chamber of Deputies
 
 ## Documents
 
