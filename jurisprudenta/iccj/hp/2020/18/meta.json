@@ -1,0 +1,219 @@
+{
+ "key": "iccj-hp-18-2020",
+ "label": "Decizia ÎCCJ nr. 18/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2020-02-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 18 din 17 februarie 2020",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: dacă prevederile art. 643 alin. (2) din Codul civil instituie o excepție de la opozabilitatea hotărârii judecătorești, reglementată de art. 435 alin. (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "191",
+  "bis": false,
+  "date": "2020-03-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.784/1/2019",
+  "7.542/314/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "643",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "435",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea privind pronunțarea unei hotărâri prealabile, formulată de Curtea de Apel Suceava - Secția I civilă, în Dosarul nr. 7.542/314/2015 și, în consecință, stabilește că:",
+  "În cazul acțiunii în revendicare imobiliară a unui bun proprietate comună pe cote-părți (coproprietate), dispozițiile art. 643 alin. (2) teza a doua din Codul civil instituie o excepție de la opozabilitatea hotărârii judecătorești reglementată de art. 435 alin. (2) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "643",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "435",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "433",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "643",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223718",
+  "text_sha256": "48ff039be2fc2432a3416db964d83d216620bb3943bb75a544d711d82e4fbfaf",
+  "catalogue_sha256": "48ff039be2fc2432a3416db964d83d216620bb3943bb75a544d711d82e4fbfaf",
+  "fetched": "2026-11-03T02:02:42Z",
+  "chars": 59532,
+  "portal_id": "223718",
+  "tip": "DECIZIE"
+ }
+}
