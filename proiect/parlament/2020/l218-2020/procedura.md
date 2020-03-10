@@ -9,8 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-03-02: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+- 2020-03-10: documents published: Punct de vedere
 
 ## Documents
 
 - 2020-03-02: Forma inițiatorului (FG): [fg-48f28129.md](fg-48f28129.md); official file https://www.senat.ro/legis/PDF/2020/20L218FG.PDF
 - 2020-03-02: Expunere de motive (EM): [em-8ce73790.md](em-8ce73790.md); official file https://www.senat.ro/legis/PDF/2020/20L218EM.PDF
+- 2020-03-10: Punct de vedere (PV): [pv-9cc29a42.md](pv-9cc29a42.md); official file https://www.senat.ro/legis/PDF/2020/20L218PV.PDF
