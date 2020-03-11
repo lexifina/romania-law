@@ -1,0 +1,276 @@
+{
+ "key": "dcc-85-2020",
+ "label": "Decizia CCR nr. 85/2020",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "85",
+ "date": "2020-02-24",
+ "year": "2020",
+ "heading": "DECIZIA nr. 85 din 24 februarie 2020",
+ "subtitle": "asupra cererilor de soluționare a conflictelor juridice de natură constituțională dintre Președintele României și Parlamentul României, formulate de președintele Camerei Deputaților și președintele Senatului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "195",
+  "bis": false,
+  "date": "2020-03-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "226E/2020",
+  "227E/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 82/2020",
+    "number": "82",
+    "year": "2020",
+    "path": "decret/2020/82"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "1. Admite cererile formulate de președintele Camerei Deputaților și de președintele Senatului și constată existența unui conflict juridic de natură constituțională între Președintele României și Parlamentul României, în legătură cu desemnarea de către Președintele României a candidatului Ludovic Orban la funcția de prim-ministru prin Decretul nr. 82/2020, publicat în Monitorul Oficial al României, Partea I, nr. 88 din 6 februarie 2020.",
+  "2. În realizarea atribuției prevăzute de art. 103 alin. (1) din Constituție, Președintele României va proceda la o nouă desemnare a candidatului pentru funcția de prim-ministru.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președintelui Camerei Deputaților și președintelui Senatului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 172
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 82/2020",
+    "number": "82",
+    "year": "2020",
+    "path": "decret/2020/82"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 1.889/2009",
+    "number": "1889",
+    "year": "2009",
+    "path": "decret/2009/1889"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223741",
+  "text_sha256": "0381d2e4d2e553e697ec0e23d8d310eba03a1cd6da4fbe5c29fe613d1cfdc33d",
+  "catalogue_sha256": "0381d2e4d2e553e697ec0e23d8d310eba03a1cd6da4fbe5c29fe613d1cfdc33d",
+  "fetched": "2026-11-03T02:02:42Z",
+  "chars": 201887,
+  "portal_id": "223741",
+  "tip": "DECIZIE"
+ }
+}
