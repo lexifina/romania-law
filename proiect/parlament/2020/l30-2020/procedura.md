@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-12: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2020-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-03-10: adopted by the Chamber of Deputies
+- 2020-03-12: documents published: Adresă privind sesizarea CCR
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-12: Aviz comisie (CA45): [ca45-bd64037b.md](ca45-bd64037b.md); official file https://www.senat.ro/legis/PDF/2020/20L030CA45.PDF
 - 2020-02-12: Raport comisie sesizată pe fond (CR): [cr-a4bc81ee.md](cr-a4bc81ee.md); official file https://www.senat.ro/legis/PDF/2020/20L030CR.PDF
 - 2020-02-26: Forma adoptată de Senat (FS): [fs-32614b5d.md](fs-32614b5d.md); official file https://www.senat.ro/legis/PDF/2020/20L030FS.PDF
+- 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L030AXS.PDF
