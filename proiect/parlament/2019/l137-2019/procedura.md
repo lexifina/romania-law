@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: returned for re-examination
 - 2020-01-28: returned for re-examination
 - 2020-02-26: returned for re-examination
+- 2020-03-14: sent for promulgation
 
 ## Documents
 
