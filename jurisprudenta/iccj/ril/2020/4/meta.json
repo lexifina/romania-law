@@ -1,0 +1,159 @@
+{
+ "key": "iccj-ril-4-2020",
+ "label": "Decizia ÎCCJ nr. 4/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 4 din 20 ianuarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 91 alin. (1) lit. a) și alin. (3) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "211",
+  "bis": false,
+  "date": "2020-03-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.141/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov și stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 91 alin. (1) lit. a) și alin. (3) din Codul penal, când pedeapsa amenzii se adaugă pedepsei închisorii, amenda penală se execută, chiar dacă executarea pedepsei închisorii a fost suspendată sub supraveghere.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "91",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "560",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "561",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223830",
+  "text_sha256": "f244132a65d8e5d9467e0e10483109026e128b17b5fabb2d20b787efa123bc87",
+  "catalogue_sha256": "f244132a65d8e5d9467e0e10483109026e128b17b5fabb2d20b787efa123bc87",
+  "fetched": "2026-11-03T02:02:35Z",
+  "chars": 31294,
+  "portal_id": "223830",
+  "tip": "DECIZIE"
+ }
+}
