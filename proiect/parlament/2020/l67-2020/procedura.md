@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-02: registered at the Chamber of Deputies
 - 2020-03-12: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-03-17: promulgated, becomes Legea nr. 20/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-26: Forma adoptată de Senat (FS): [fs-491935ef.md](fs-491935ef.md); official file https://www.senat.ro/legis/PDF/2020/20L067FS.PDF
 - 2020-02-26: Adresă către Camera Deputaților (AM): [am-a5e24242.md](am-a5e24242.md); official file https://www.senat.ro/legis/PDF/2020/20L067AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L067AXS.PDF
+- 2020-03-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L067DP.PDF
+- 2020-03-17: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L067AFP.PDF
+- 2020-03-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L067FP.PDF
