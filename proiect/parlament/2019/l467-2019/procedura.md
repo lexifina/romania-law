@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-11: adopted by the Chamber of Deputies
 - 2020-02-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-02: sent for promulgation
+- 2020-03-18: promulgated, becomes Legea nr. 22/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L467AM.PDF
 - 2020-02-25: Adresă privind sesizarea CCR (AXS): [axs-8084b00e.md](axs-8084b00e.md); official file https://www.senat.ro/legis/PDF/2019/19L467AXS.PDF
 - 2020-02-25: Forma trimisă la promulgare (LP): [lp-2c722219.md](lp-2c722219.md); official file https://www.senat.ro/legis/PDF/2019/19L467LP.PDF
+- 2020-03-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L467DP.PDF
+- 2020-03-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L467AFP.PDF
+- 2020-03-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L467FP.PDF
