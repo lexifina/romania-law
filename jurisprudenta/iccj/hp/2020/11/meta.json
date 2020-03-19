@@ -1,0 +1,384 @@
+{
+ "key": "iccj-hp-11-2020",
+ "label": "Decizia ÎCCJ nr. 11/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "11",
+ "date": "2020-02-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 11 din 17 februarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 539 alin. (2) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "224",
+  "bis": false,
+  "date": "2020-03-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.746/1/2019",
+  "1.001/103/2018",
+  "2.324/103/2014"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția I civilă, în Dosarul nr. 1.001/103/2018, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: – dacă art. 539 din Codul de procedură penală se referă doar la măsurile preventive privative de libertate sau și la caracterul nelegal al arestării unei persoane ulterior rămânerii definitive a hotărârii judecătorești de condamnare;",
+  "– iar în caz afirmativ, dacă, în interpretarea și aplicarea dispozițiilor art. 539 alin. (2) din Codul de procedură penală, caracterul nelegal al arestării unei persoane ulterior rămânerii definitive a hotărârii judecătorești de condamnare trebuie să fie constatat explicit prin hotărâre definitivă a instanței de judecată învestite cu judecata cauzei penale și dacă sintagma „hotărârea definitivă a instanței de judecată învestită cu judecarea cauzei“ include și hotărârea pronunțată în soluționarea unui recurs în casație.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "433",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "599",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "538",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "551",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "552",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "435",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "436",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "437",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "441",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "442",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "443",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "444",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "445",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "446",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "447",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "448",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "450",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/223923",
+  "text_sha256": "bdf4349101178296c8b418ce383e99c881c8c52b311940c8dcb7995c6f8fc9c5",
+  "catalogue_sha256": "bdf4349101178296c8b418ce383e99c881c8c52b311940c8dcb7995c6f8fc9c5",
+  "fetched": "2026-11-03T02:02:30Z",
+  "chars": 81384,
+  "portal_id": "223923",
+  "tip": "DECIZIE"
+ }
+}
