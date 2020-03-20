@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-11: adopted by the Chamber of Deputies
 - 2020-02-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-02: sent for promulgation
+- 2020-03-20: promulgated, becomes Legea nr. 24/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L299AM.PDF
 - 2020-02-25: Adresă privind sesizarea CCR (AXS): [axs-a19db070.md](axs-a19db070.md); official file https://www.senat.ro/legis/PDF/2019/19L299AXS.PDF
 - 2020-02-25: Forma trimisă la promulgare (LP): [lp-3e5cdaaf.md](lp-3e5cdaaf.md); official file https://www.senat.ro/legis/PDF/2019/19L299LP.PDF
+- 2020-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L299DP.PDF
+- 2020-03-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L299AFP.PDF
+- 2020-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L299FP.PDF
