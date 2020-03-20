@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-12-12: documents published: Aviz comisie
 - 2020-02-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-03-02: sent for promulgation
+- 2020-03-20: promulgated, becomes Legea nr. 25/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2019-12-11: Aviz comisie (CA5): [ca5-5c4abc5f.md](ca5-5c4abc5f.md); official file https://www.senat.ro/legis/PDF/2019/19L607CA5.PDF
 - 2019-12-12: Aviz comisie (CA12): [ca12-a8c6e961.md](ca12-a8c6e961.md); official file https://www.senat.ro/legis/PDF/2019/19L607CA12.PDF
 - 2020-02-10: Forma adoptată de Senat (FS): [fs-a0535ef3.md](fs-a0535ef3.md); official file https://www.senat.ro/legis/PDF/2019/19L607FS.PDF
+- 2020-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607DP.PDF
+- 2020-03-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607AFP.PDF
+- 2020-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607FP.PDF
