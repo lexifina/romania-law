@@ -1,0 +1,190 @@
+{
+ "key": "dcc-853-2019",
+ "label": "Decizia CCR nr. 853/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "853",
+ "date": "2019-12-12",
+ "year": "2019",
+ "heading": "DECIZIA nr. 853 din 12 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 36 alin. (2) și (6) din Legea educației fizice și sportului nr. 69/2000",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "233",
+  "bis": false,
+  "date": "2020-03-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.921/120/2018",
+  "1.126D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Uniunea Columbofililor Profesioniști din România în Dosarul nr. 4.921/120/2018 al Tribunalului Dâmbovița - Secția I civilă și constată că prevederile art. 36 alin. (2) și (6) din Legea educației fizice și sportului nr. 69/2000 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dâmbovița - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 240/2000",
+    "number": "240",
+    "year": "2000",
+    "path": "oug/2000/240"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-03-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224287",
+  "text_sha256": "f66b01b84386e0b12c571c500621c984e442765cb70cc3a1fd2bbf40afb24928",
+  "catalogue_sha256": "f66b01b84386e0b12c571c500621c984e442765cb70cc3a1fd2bbf40afb24928",
+  "fetched": "2026-11-03T22:05:10Z",
+  "chars": 17039,
+  "portal_id": "224287",
+  "tip": "DECIZIE"
+ }
+}
