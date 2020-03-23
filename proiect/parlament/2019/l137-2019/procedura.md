@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-01-28: returned for re-examination
 - 2020-02-26: returned for re-examination
 - 2020-03-14: sent for promulgation
+- 2020-03-23: promulgated, becomes Legea nr. 26/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-23: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137FS.PDF
 - 2019-10-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137AXS.PDF
 - 2019-10-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137LP.PDF
+- 2020-03-23: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137DP.PDF
+- 2020-03-23: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137AFP.PDF
+- 2020-03-23: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L137FP.PDF
