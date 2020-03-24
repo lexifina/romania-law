@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-13: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-02-18: documents published: Aviz comisie
 - 2020-03-09: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2020-03-24: registered at the Chamber of Deputies
 
 ## Documents
 
