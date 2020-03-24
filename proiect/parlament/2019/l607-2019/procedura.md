@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-02-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-03-02: sent for promulgation
 - 2020-03-20: promulgated, becomes Legea nr. 25/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-03-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2020-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607DP.PDF
 - 2020-03-20: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607AFP.PDF
 - 2020-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607FP.PDF
+- 2020-03-24: Document (TX): [tx-484bfba8.md](tx-484bfba8.md); official file https://www.senat.ro/legis/PDF/2019/19L607TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-03-24: Document (AL): [al-c3cb7b6b.md](al-c3cb7b6b.md); official file https://www.senat.ro/legis/PDF/2019/19L607AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-03-24: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L607TC.PDF (its day is not given by the bill file: shown from the last stage held)
