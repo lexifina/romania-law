@@ -1,0 +1,274 @@
+{
+ "key": "iccj-hp-19-2020",
+ "label": "Decizia ÎCCJ nr. 19/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "19",
+ "date": "2020-02-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 19 din 17 februarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 90 alin. (1) și (2) și art. 5 pct. 20 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "244",
+  "bis": false,
+  "date": "2020-03-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.932/1/2019",
+  "3.360/111/2015/a22"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1617",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 3.360/111/2015/a22, în vederea pronunțării unei hotărâri prealabile. În interpretarea și aplicarea dispozițiilor art. 90 alin. (1) și (2) și art. 5 pct. 20 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare, coroborate cu prevederile art. 1.617 alin. (1) și (3) din Codul civil, stabilește că:",
+  "Renunțarea la compensație este compatibilă cu procedura insolvenței, cu excepția situației în care creanța ce face obiectul compensației aparține creditorului îndreptățit să solicite deschiderea procedurii.",
+  "Este admisibilă invocarea compensației legale a datoriilor reciproce dintre un creditor înscris la masa credală și debitorul aflat în insolvență, de către un alt creditor îndreptățit să participe la procedură, dacă acesta din urmă poate dovedi prejudiciul cauzat prin refuzul sau neglijența debitorului insolvent și a practicianului în insolvență în exercitarea acestui drept.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "90",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1617",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1622",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1149",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1560",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1561",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224386",
+  "text_sha256": "c59278ed9208fab4c91eefb9a6270e78832f971b10db4d0368a6df5db75463eb",
+  "catalogue_sha256": "c59278ed9208fab4c91eefb9a6270e78832f971b10db4d0368a6df5db75463eb",
+  "fetched": "2026-11-03T02:02:18Z",
+  "chars": 72815,
+  "portal_id": "224386",
+  "tip": "DECIZIE"
+ }
+}
