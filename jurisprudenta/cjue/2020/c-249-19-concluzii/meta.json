@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-249-19-concluzii-2020-03-26",
+ "label": "CJUE, Concluziile avocatului general E. Tanchev prezentate la 26 martie 2020, Cauza C-249/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2020-03-26",
+ "year": "2020",
+ "case": "Cauza C-249/19.",
+ "celex": "62019CC0249",
+ "ecli": "ECLI:EU:C:2020:231",
+ "heading": "Concluziile avocatului general E. Tanchev prezentate la 26 martie 2020",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Bucureşti.",
+ "national_followup": null,
+ "parties": "JE împotriva lui KF.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Regulamentul (UE) nr. 1259/2010 – Cooperare consolidată în domeniul legii aplicabile divorțului și separării de corp – Norme uniforme – Articolul 10 – Aplicarea legii forului.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0249",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-249/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/44aab615-6f70-11ea-a07e-01aa75ed71a1.0011.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "e5b4cf59dce6aedcf47153f27f0d7d5370a5c70a8f4507e6238537156689bfb4"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
