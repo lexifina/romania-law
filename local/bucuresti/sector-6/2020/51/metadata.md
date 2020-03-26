@@ -1,0 +1,10 @@
+# HCLS6 nr. 51/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 6 al Municipiului București
+- Decision: nr. 51/2020
+- Adopted: 2020-03-26
+- Record: https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-rectificarii-bugetului-consolidat-de-venituri-si-cheltuieli-al-sectorului-6-al-municipiului-bucuresti-pe-anul-2020
+- Document: https://www.primarie6.ro/primarie_sector6/sites/default/files/2021-09/hcl-nr.-51_1.pdf
+- Document sha256: 8f2a930728b9268deb9a1ab20b60f33c2d02837a5614623fcb2011359380392d
