@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-25: adopted by the Chamber of Deputies
 - 2020-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-14: sent for promulgation
+- 2020-03-27: promulgated, becomes Legea nr. 27/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L424AM.PDF
 - 2020-03-09: Adresă privind sesizarea CCR (AXS): [axs-19601085.md](axs-19601085.md); official file https://www.senat.ro/legis/PDF/2019/19L424AXS.PDF
 - 2020-03-09: Forma trimisă la promulgare (LP): [lp-e8fb03e6.md](lp-e8fb03e6.md); official file https://www.senat.ro/legis/PDF/2019/19L424LP.PDF
+- 2020-03-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L424DP.PDF
