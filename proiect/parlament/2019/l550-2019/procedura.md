@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-14: sent for promulgation
+- 2020-03-27: promulgated, becomes Legea nr. 30/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Guvernul României.
 - 2020-02-26: Forma adoptată de Senat (FS): [fs-395c0086.md](fs-395c0086.md); official file https://www.senat.ro/legis/PDF/2019/19L550FS.PDF
 - 2020-03-09: Adresă privind sesizarea CCR (AXS): [axs-a4289fc4.md](axs-a4289fc4.md); official file https://www.senat.ro/legis/PDF/2019/19L550AXS.PDF
 - 2020-03-09: Forma trimisă la promulgare (LP): [lp-0d66799a.md](lp-0d66799a.md); official file https://www.senat.ro/legis/PDF/2019/19L550LP.PDF
+- 2020-03-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L550DP.PDF
