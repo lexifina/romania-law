@@ -1,0 +1,249 @@
+{
+ "key": "dcc-819-2019",
+ "label": "Decizia CCR nr. 819/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "819",
+ "date": "2019-12-05",
+ "year": "2019",
+ "heading": "DECIZIA nr. 819 din 5 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 7 alin. (1) din Legea nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "254",
+  "bis": false,
+  "date": "2020-03-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.947/305/2018",
+  "1.052D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/1994",
+    "number": "75",
+    "year": "1994",
+    "path": "lege/1994/75"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Antal Arpad Andras în Dosarul nr. 1.947/305/2018 al Judecătoriei Sfântu Gheorghe și constată că prevederile art. 7 alin. (1) din Legea nr. 75/1994 privind arborarea drapelului României, intonarea imnului național și folosirea sigiliilor cu stema României de către autoritățile și instituțiile publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sfântu Gheorghe și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/1994",
+    "number": "75",
+    "year": "1994",
+    "path": "lege/1994/75"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "r"
+     ]
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1995",
+    "number": "33",
+    "year": "1995",
+    "path": "lege/1995/33"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/1996",
+    "number": "113",
+    "year": "1996",
+    "path": "lege/1996/113"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-03-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224437",
+  "text_sha256": "775a50766c247c9731cc3c114d7bb7ecc328dc1bc5cf61a7d1df9e3b477cd3dd",
+  "catalogue_sha256": "775a50766c247c9731cc3c114d7bb7ecc328dc1bc5cf61a7d1df9e3b477cd3dd",
+  "fetched": "2026-11-03T22:44:45Z",
+  "chars": 31126,
+  "portal_id": "224437",
+  "tip": "DECIZIE"
+ }
+}
