@@ -1,0 +1,333 @@
+{
+ "key": "iccj-hp-penal-5-2020",
+ "label": "Decizia ÎCCJ nr. 5/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "5",
+ "date": "2020-02-13",
+ "year": "2020",
+ "heading": "DECIZIA nr. 5 din 13 februarie 2020",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: \"În privința infracțiunii de tăiere ilegală de arbori prevăzute de art. 107 alin. (1) din Legea nr. 46/2008 - Codul silvic, având ca obiect pomi de Crăciun, la calculul prejudiciului, conform art. 5 alin. (1) raportat la art. 2 alin. (3) din Ordonanța de urgență a Guvernului nr. 85/2006 privind stabilirea modalităților de evaluare a pagubelor produse vegetației forestiere din păduri și din afara acestora, se are în vedere volumul efectiv al materialului lemnos tăiat/sustras\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "258",
+  "bis": false,
+  "date": "2020-03-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.127/1/2019",
+  "567/275/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Galați - Secția penală și pentru cauze cu minori, în Dosarul nr. 567/275/2017*, prin care se solicită pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: „În privința infracțiunii de tăiere ilegală de arbori prevăzute de art. 107 alin. (1) din Legea nr. 46/2008 - Codul silvic, având ca obiect pomi de Crăciun, la calculul prejudiciului, conform art. 5 alin. (1) raportat la art. 2 alin. (3) din Ordonanța de urgență a Guvernului nr. 85/2006 privind stabilirea modalităților de evaluare a pagubelor produse vegetației forestiere din păduri și din afara acestora, se are în vedere volumul efectiv al materialului lemnos tăiat/sustras.“",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "b"
+     ]
+    },
+    {
+     "art": "109",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "oug/2006/85"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1382",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 96/1998",
+    "number": "96",
+    "year": "1998",
+    "path": "og/1998/96"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 4/2015",
+    "number": "4",
+    "year": "2015",
+    "path": "lege/2015/4"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-03-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224482",
+  "text_sha256": "1f238e365fc4d61860bd1aba52dab2d19a239b2680f85f09b8c96427d736ad2b",
+  "catalogue_sha256": "1f238e365fc4d61860bd1aba52dab2d19a239b2680f85f09b8c96427d736ad2b",
+  "fetched": "2026-11-03T02:02:13Z",
+  "chars": 56823,
+  "portal_id": "224482",
+  "tip": "DECIZIE"
+ }
+}
