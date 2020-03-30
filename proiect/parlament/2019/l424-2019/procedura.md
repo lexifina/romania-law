@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-14: sent for promulgation
 - 2020-03-27: promulgated, becomes Legea nr. 27/2020; documents published: Decret de promulgare
+- 2020-03-30: published in the Monitorul Oficial
 
 ## Documents
 
