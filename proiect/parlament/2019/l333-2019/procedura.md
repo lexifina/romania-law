@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-03-31: promulgated, becomes Legea nr. 34/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2019-09-23: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L333FS.PDF
 - 2019-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L333AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L333AXS.PDF
+- 2020-03-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L333DP.PDF
