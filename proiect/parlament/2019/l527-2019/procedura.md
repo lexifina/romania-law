@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-03-31: promulgated, becomes Legea nr. 32/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Guvernul României.
 - 2019-10-21: Forma adoptată de Senat (FS): [fs-676e3dfe.md](fs-676e3dfe.md); official file https://www.senat.ro/legis/PDF/2019/19L527FS.PDF
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527AXS.PDF
+- 2020-03-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L527DP.PDF
