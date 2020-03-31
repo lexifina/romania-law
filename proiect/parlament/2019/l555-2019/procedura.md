@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-03-12: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-03-31: promulgated, becomes Legea nr. 35/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-11: Forma adoptată de Senat (FS): [fs-32ec3294.md](fs-32ec3294.md); official file https://www.senat.ro/legis/PDF/2019/19L555FS.PDF
 - 2019-12-11: Adresă către Camera Deputaților (AM): [am-ee773490.md](am-ee773490.md); official file https://www.senat.ro/legis/PDF/2019/19L555AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L555AXS.PDF
+- 2020-03-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L555DP.PDF
