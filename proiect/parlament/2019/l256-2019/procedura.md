@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-17: sent for promulgation
+- 2020-03-31: promulgated, becomes Legea nr. 36/2020; documents published: Decret de promulgare
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-07-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L256FS.PDF
 - 2019-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L256AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L256AXS.PDF
+- 2020-03-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L256DP.PDF
