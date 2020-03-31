@@ -1,0 +1,6 @@
+Consiliul local al municipiului Hunedoara;
+Analizând Proiectul de hotărâre nr.92/13.03.2020, Referatul de aprobare al Primarului Municipiului Hunedoara nr.18099/13.03..2020 pentru îndreptarea erorii materiale din Anexa la Hotărârea Consiliului Local al Municipiului Hunedoara nr. 57/2020 privind propunerea de trecere a unui teren aflat în proprietatea Statului Român și în administrarea Consiliului Local al Municipiului Hunedoara, în proprietatea privată a actualilor deținători ai construcției, precum și raportul de specialitate al compartimentului de resort nr.18100/13.03.2020;
+Având în vedere avizul Comisiei de studii, prognoze economico-sociale, buget, finanțe și administrarea domeniului public și privat al municipiului Hunedoara nr.21231/30.03.2020 și al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor nr.21083/27.03.2020;
+În conformitate cu prevederile art.23, alin. (21), ale art.36, alin.(3) din Legea nr.18/1991 privind fondul funciar, republicată, cu modificările și completările ulterioare;
+În temeiul dispozițiilor art.129 alin. (14) și ale art. 139 coroborat cu art. 196 alin. (1) lit. a) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind Codul Administrativ, cu completările ulterioare;
+H O T Ă R Ă Ș T E:
