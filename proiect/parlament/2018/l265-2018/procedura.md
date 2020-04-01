@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-03-14: sent for promulgation
 - 2020-03-31: promulgated, becomes Legea nr. 31/2020; documents published: Decret de promulgare, Adresă privind forma promulgată
+- 2020-04-01: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-09: Forma trimisă la promulgare (LP): [lp-98da69e0.md](lp-98da69e0.md); official file https://www.senat.ro/legis/PDF/2018/18L265LP.PDF
 - 2020-03-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L265DP.PDF
 - 2020-03-31: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L265AFP.PDF
+- 2020-04-01: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L265AA.PDF (its day is not given by the bill file: shown from the last stage held)
