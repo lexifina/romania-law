@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
 - 2020-03-31: promulgated, becomes Legea nr. 34/2020; documents published: Decret de promulgare
+- 2020-04-01: published in the Monitorul Oficial
 
 ## Documents
 
