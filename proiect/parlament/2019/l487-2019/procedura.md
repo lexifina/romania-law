@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-04-02: promulgated, becomes Legea nr. 40/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487FS.PDF
 - 2019-09-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487AXS.PDF
+- 2020-04-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487DP.PDF
+- 2020-04-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487AFP.PDF
+- 2020-04-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L487FP.PDF
