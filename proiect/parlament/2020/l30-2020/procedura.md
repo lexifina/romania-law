@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-04-02: promulgated, becomes Legea nr. 37/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-12: Raport comisie sesizată pe fond (CR): [cr-a4bc81ee.md](cr-a4bc81ee.md); official file https://www.senat.ro/legis/PDF/2020/20L030CR.PDF
 - 2020-02-26: Forma adoptată de Senat (FS): [fs-32614b5d.md](fs-32614b5d.md); official file https://www.senat.ro/legis/PDF/2020/20L030FS.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L030AXS.PDF
+- 2020-04-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L030DP.PDF
+- 2020-04-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L030AFP.PDF
+- 2020-04-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L030FP.PDF
