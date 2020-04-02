@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-14: sent for promulgation
+- 2020-04-02: promulgated, becomes Legea nr. 38/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-26: Forma adoptată de Senat (FS): [fs-5a08ff4e.md](fs-5a08ff4e.md); official file https://www.senat.ro/legis/PDF/2020/20L064FS.PDF
 - 2020-02-26: Adresă către Camera Deputaților (AM): [am-85297263.md](am-85297263.md); official file https://www.senat.ro/legis/PDF/2020/20L064AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L064AXS.PDF
+- 2020-04-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L064DP.PDF
+- 2020-04-02: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L064AFP.PDF
+- 2020-04-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L064FP.PDF
