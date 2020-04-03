@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-17: sent for promulgation
+- 2020-04-03: promulgated, becomes Legea nr. 44/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-04: Forma adoptată de Senat (FS): [fs-1acb1680.md](fs-1acb1680.md); official file https://www.senat.ro/legis/PDF/2019/19L622FS.PDF
 - 2020-02-04: Adresă către Camera Deputaților (AM): [am-ee773490.md](am-ee773490.md); official file https://www.senat.ro/legis/PDF/2019/19L622AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L622AXS.PDF
+- 2020-04-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L622DP.PDF
+- 2020-04-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L622AFP.PDF
+- 2020-04-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L622FP.PDF
