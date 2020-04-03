@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-17: sent for promulgation
+- 2020-04-03: promulgated, becomes Legea nr. 43/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353FS.PDF
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353AXS.PDF
+- 2020-04-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353DP.PDF
+- 2020-04-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353AFP.PDF
+- 2020-04-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L353FP.PDF
