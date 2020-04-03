@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: adopted by the Chamber of Deputies
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-17: sent for promulgation
+- 2020-04-03: promulgated, becomes Legea nr. 42/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463FS.PDF
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463AXS.PDF
+- 2020-04-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463DP.PDF
+- 2020-04-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463AFP.PDF
+- 2020-04-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L463FP.PDF
