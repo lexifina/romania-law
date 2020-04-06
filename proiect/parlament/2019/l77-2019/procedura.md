@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-12: documents published: Adresă privind sesizarea CCR
 - 2020-03-17: sent for promulgation
 - 2020-04-03: promulgated, becomes Legea nr. 45/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-04-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L077DP.PDF
 - 2020-04-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L077AFP.PDF
 - 2020-04-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L077FP.PDF
+- 2020-04-06: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L077AA.PDF (its day is not given by the bill file: shown from the last stage held)
