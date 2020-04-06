@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-25: documents published: Raport comisie sesizată pe fond
 - 2019-07-03: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2019-09-02: registered at the Chamber of Deputies
+- 2020-04-06: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-26: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L258PV.PDF
 - 2019-06-25: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L258CR.PDF
 - 2019-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L258AM.PDF
+- 2020-04-06: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L258AA.PDF (its day is not given by the bill file: shown from the last stage held)
