@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-20: documents published: Aviz comisie
 - 2019-04-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-04-10: registered at the Chamber of Deputies
+- 2020-04-06: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L074CA45.PDF
 - 2019-04-08: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L074FS.PDF
 - 2019-04-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L074AM.PDF
+- 2020-04-06: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L074AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-04-06: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L074S1.PDF (its day is not given by the bill file: shown from the last stage held)
