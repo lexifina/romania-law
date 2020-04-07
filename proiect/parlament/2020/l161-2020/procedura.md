@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-10: first record in the bill file
 - 2020-02-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-02-18: documents published: Aviz Consiliul Economic și Social, Punct de vedere
+- 2020-04-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-11: Expunere de motive (EM): [em-a9f15d7e.md](em-a9f15d7e.md); official file https://www.senat.ro/legis/PDF/2020/20L161EM.PDF
 - 2020-02-18: Aviz Consiliul Economic și Social (ES): [es-18dcb46b.md](es-18dcb46b.md); official file https://www.senat.ro/legis/PDF/2020/20L161ES.PDF
 - 2020-02-18: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L161PV.PDF
+- 2020-04-07: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L161CA41.PDF
