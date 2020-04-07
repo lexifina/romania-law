@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-03-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social
+- 2020-04-07: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L184FG.PDF
 - 2020-03-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L184EM.PDF
 - 2020-03-30: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L184ES.PDF
+- 2020-04-07: Raport comisie sesizată pe fond (CR): [cr-cd303bab.md](cr-cd303bab.md); official file https://www.senat.ro/legis/PDF/2020/20L184CR.PDF
