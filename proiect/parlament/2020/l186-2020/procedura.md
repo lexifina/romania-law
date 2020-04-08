@@ -9,6 +9,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-03-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Document
+- 2020-04-08: adopted by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Guvernul României.
 - 2020-03-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L186EM.PDF
 - 2020-03-30: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L186OG.PDF
 - 2020-03-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L186HG.PDF
+- 2020-04-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L186AM.PDF
