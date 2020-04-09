@@ -1,0 +1,213 @@
+{
+ "key": "dcc-2-2020",
+ "label": "Decizia CCR nr. 2/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "2",
+ "date": "2020-01-14",
+ "year": "2020",
+ "heading": "DECIZIA nr. 2 din 14 ianuarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 39 din Legea nr. 288/2010 pentru aprobarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "299",
+  "bis": false,
+  "date": "2020-04-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.070/2/2013",
+  "991D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2010",
+    "number": "288",
+    "year": "2010",
+    "path": "lege/2010/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Doru Octavian Pîrjol Năstase și de Elena Pîrjol Năstase în Dosarul nr. 7.070/2/2013* al Înaltei Curți de Casație și Justiție - Secția a II-a civilă și constată că dispozițiile art. I pct. 39 din Legea nr. 288/2010 pentru aprobarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2010",
+    "number": "288",
+    "year": "2010",
+    "path": "lege/2010/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "lege/2010/50"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224745",
+  "text_sha256": "57f8f8d6c09f6d8da531a1d7fa32d27a4673eb9dbbad35d4fbf6e0eb86b71ab5",
+  "catalogue_sha256": "57f8f8d6c09f6d8da531a1d7fa32d27a4673eb9dbbad35d4fbf6e0eb86b71ab5",
+  "fetched": "2026-11-04T02:32:39Z",
+  "chars": 20700,
+  "portal_id": "224745",
+  "tip": "DECIZIE"
+ }
+}
