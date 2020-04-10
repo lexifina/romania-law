@@ -1,0 +1,232 @@
+{
+ "key": "dcc-773-2019",
+ "label": "Decizia CCR nr. 773/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "773",
+ "date": "2019-11-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 773 din 28 noiembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 293 alin. (4) din Codul de procedură penală și art. 467 alin. 2 din Codul de procedură penală din 1968",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "302",
+  "bis": false,
+  "date": "2020-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "142/100/2017/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "293",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "467",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 293 alin. (4) din Codul de procedură penală și ale art. 467 alin. 2 din Codul de procedură penală din 1968, excepție ridicată de Alexandru Marian Roșca în Dosarul nr. 142/100/2017/a1 al Curții de Apel Cluj - Secția penală și de minori.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Cluj - Secția penală și de minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "293",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "467",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "467",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "465",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224769",
+  "text_sha256": "bc956e4dcc5aeac14fc9bcd35ddd5a4ff16f6d3ca3d98738f81617cee4a4a8fa",
+  "catalogue_sha256": "bc956e4dcc5aeac14fc9bcd35ddd5a4ff16f6d3ca3d98738f81617cee4a4a8fa",
+  "fetched": "2026-11-03T02:01:54Z",
+  "chars": 21491,
+  "portal_id": "224769",
+  "tip": "DECIZIE"
+ }
+}
