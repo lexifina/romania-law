@@ -1,0 +1,37 @@
+# Anexa 4
+ANEXA nr. 4
+la normele tehnice
+CHESTIONAR
+privind producția animală obținută de persoanele fizice/entitățile juridice în anul 20...
+Nr. crt.
+Poziția din registrul agricol
+Numele și prenumele capului gospodăriei/ Denumirea entității cu personalitate juridică
+Producții animaliere*)
+Bovine
+Ovine
+...
+Lapte de vacă
+Ouă de găină
+...
+Volum
+Număr poziție
+Nr. animale sacrificate
+Greutate totală în viu (kg)
+Nr. animale sacrificate
+Greutate totală în viu (kg)
+Nr. vaci mulse
+Producția totală de lapte muls (l)
+Numărul păsărilor care au ouat în cursul anului
+Producția totală de ouă (mii bucăți)
+A
+B
+C
+D
+1
+2
+3
+4
+Total pentru persoanele fizice cuprinse în sondaj sau pentru toate persoanele juridice
+* ) Se înscriu produsele animaliere în ordinea existentă în cap. XIII din partea a II-a a registrului agricol.
+Județul ...................................................
+Comuna/Orașul/Municipiul ...............................
