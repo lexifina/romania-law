@@ -1,0 +1,213 @@
+{
+ "key": "dcc-776-2019",
+ "label": "Decizia CCR nr. 776/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "776",
+ "date": "2019-11-28",
+ "year": "2019",
+ "heading": "DECIZIA nr. 776 din 28 noiembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"înscrierea inițială la pensie\" din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "314",
+  "bis": false,
+  "date": "2020-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "334D/2018",
+  "1.217/109/2017",
+  "2.058/109/2017",
+  "2.075/109/2017",
+  "2.196/109/2017",
+  "2.611/109/2017",
+  "1.626/109/2017",
+  "5.926/109/2017",
+  "634/109/2017",
+  "750/109/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a sintagmei „înscrierea inițială la pensie“ din cuprinsul art. 170 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, excepție ridicată din oficiu de Curtea de Apel Pitești - Secția civilă, precum și de către Ioana Marcu, Vasile Baciu, Elena Epure, Sabina Buda, Constantin-Ion Bebu, Ștefania Puica Florea, Ilie Niculae, Ioana Zamfir, Marian Zamfir, Silviu Ionuț Zamfir, în calitate de moștenitori ai reclamantului Ion Zamfir, Vasile Pană, Valeriu Onea, Sanda Glavaciog, Nicolae Gheorghe, Iulian Niță, Georgeta Dogaru, Dumitra Geanta și Gheorghe Besliu în dosarele nr. 1.217/109/2017, nr. 2.058/109/2017, nr. 2.075/109/2017, nr. 2.196/109/2017, nr. 2.611/109/2017, nr. 1.626/109/2017, nr. 5.926/109/2017, nr. 634/109/2017, nr. 750/109/2017, nr. 1.086/109/2017, nr. 2.369/109/2017, nr. 4.101/109/2017, nr. 3.683/109/2017, nr. 5.198/109/2017, nr. 4.265/109/2017, nr. 5.040/109/2017, nr. 5.945/109/2017, nr. 4.087/109/2017, nr. 5.220/109/2017, nr. 5.229/109/2017 și nr. 5.418/109/2017 ale Curții de Apel Pitești - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224869",
+  "text_sha256": "037c0f65db7e3e686d4b5f50e4a83af03d4f17431aff25e3de27e47fb40b6247",
+  "catalogue_sha256": "037c0f65db7e3e686d4b5f50e4a83af03d4f17431aff25e3de27e47fb40b6247",
+  "fetched": "2026-11-03T02:01:48Z",
+  "chars": 31934,
+  "portal_id": "224869",
+  "tip": "DECIZIE"
+ }
+}
