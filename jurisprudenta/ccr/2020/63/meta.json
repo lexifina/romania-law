@@ -1,0 +1,288 @@
+{
+ "key": "dcc-63-2020",
+ "label": "Decizia CCR nr. 63/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "63",
+ "date": "2020-02-18",
+ "year": "2020",
+ "heading": "DECIZIA nr. 63 din 18 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 din Ordonanța de urgență a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "313",
+  "bis": false,
+  "date": "2020-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.911/55/2016",
+  "803D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 156/2007",
+    "number": "156",
+    "year": "2007",
+    "path": "oug/2007/156"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Florin-Alin Păștean în Dosarul nr. 19.911/55/2016 al Judecătoriei Arad - Secția civilă și constată că dispozițiile art. 1 din Ordonanța de urgență a Guvernului nr. 156/2007 privind despăgubirea persoanelor fizice care au constituit depozite la Casa de Economii și Consemnațiuni C.E.C. - S.A. în vederea achiziționării de autoturisme sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Arad - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2016",
+    "number": "19",
+    "year": "2016",
+    "path": "lege/2016/19"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 156/2007",
+    "number": "156",
+    "year": "2007",
+    "path": "oug/2007/156"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 66/1996",
+    "number": "66",
+    "year": "1996",
+    "path": "lege/1996/66"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 371/1958",
+    "number": "371",
+    "year": "1958",
+    "path": "decret/1958/371"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 42/2005",
+    "number": "42",
+    "year": "2005",
+    "path": "oug/2005/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 348/2004",
+    "number": "348",
+    "year": "2004",
+    "path": "lege/2004/348"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224856",
+  "text_sha256": "7afe14c016802c4f6b2482d3eccc4fd452c0842ab33ed307b29fbb1de8a20b90",
+  "catalogue_sha256": "7afe14c016802c4f6b2482d3eccc4fd452c0842ab33ed307b29fbb1de8a20b90",
+  "fetched": "2026-11-03T02:01:49Z",
+  "chars": 36022,
+  "portal_id": "224856",
+  "tip": "DECIZIE"
+ }
+}
