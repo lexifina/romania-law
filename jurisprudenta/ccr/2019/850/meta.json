@@ -1,0 +1,150 @@
+{
+ "key": "dcc-850-2019",
+ "label": "Decizia CCR nr. 850/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "850",
+ "date": "2019-12-12",
+ "year": "2019",
+ "heading": "DECIZIA nr. 850 din 12 decembrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor lit. c) și d) cuprinse în punctul I: Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în punctul II: Salarii pentru personalul din unitățile teritoriale, litera A, capitolul I, anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "311",
+  "bis": false,
+  "date": "2020-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "625/91/2018",
+  "1.421D/2018",
+  "657/91/2018",
+  "617/91/2018",
+  "2.395/109/2018",
+  "1.541D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gabriela Brici, Mihaela Florea și Ana Dinica în dosarele nr. 625/91/2018, nr. 657/91/2018 și nr. 617/91/2018 ale Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal, precum și de Vasilichia Sinescu în Dosarul nr. 2.395/109/2018 al Tribunalului Argeș - Secția civilă - Completul specializat de contencios administrativ și fiscal și constată că prevederile lit. c) și d) cuprinse în punctul I: Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în punctul II: Salarii pentru personalul din unitățile teritoriale, litera A, capitolul I, anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Argeș - Secția civilă - Completul specializat de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224848",
+  "text_sha256": "fc88536a59ebc999a63180c5810561d6fa2d7cdf4da59e767172aa80b164b4a2",
+  "catalogue_sha256": "fc88536a59ebc999a63180c5810561d6fa2d7cdf4da59e767172aa80b164b4a2",
+  "fetched": "2026-11-03T02:01:47Z",
+  "chars": 18817,
+  "portal_id": "224848",
+  "tip": "DECIZIE"
+ }
+}
