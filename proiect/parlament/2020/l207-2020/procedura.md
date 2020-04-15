@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-04-06: documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2020-04-14: documents published: Raport comisie sesizată pe fond
+- 2020-04-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-06: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L207ES.PDF
 - 2020-04-06: Punct de vedere (PV): [pv-40245606.md](pv-40245606.md); official file https://www.senat.ro/legis/PDF/2020/20L207PV.PDF
 - 2020-04-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L207CR.PDF
+- 2020-04-15: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L207FS.PDF
+- 2020-04-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L207AM.PDF
