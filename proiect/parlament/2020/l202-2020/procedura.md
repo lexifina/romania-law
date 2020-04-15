@@ -9,9 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-02-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-04-15: documents published: Aviz comisie
 
 ## Documents
 
 - 2020-02-27: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L202AD.PDF
 - 2020-02-27: Forma inițiatorului (FG): [fg-abcfecdb.md](fg-abcfecdb.md); official file https://www.senat.ro/legis/PDF/2020/20L202FG.PDF
 - 2020-02-27: Expunere de motive (EM): [em-868a64d4.md](em-868a64d4.md); official file https://www.senat.ro/legis/PDF/2020/20L202EM.PDF
+- 2020-04-15: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L202CA3.PDF
