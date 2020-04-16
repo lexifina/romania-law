@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-10-31: documents published: Aviz comisie
 - 2020-04-15: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2020-04-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L538EM.PDF
 - 2019-10-31: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L538CA45.PDF
 - 2020-04-15: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L538FS.PDF
+- 2020-04-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L538AXS.PDF
+- 2020-04-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L538LP.PDF
