@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-04-08: sent for promulgation
 - 2020-04-16: promulgated, becomes Legea nr. 49/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-04-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-16: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L537DP.PDF
 - 2020-04-16: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L537AFP.PDF
 - 2020-04-16: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L537FP.PDF
+- 2020-04-17: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L537AJ.PDF (its day is not given by the bill file: shown from the last stage held)
