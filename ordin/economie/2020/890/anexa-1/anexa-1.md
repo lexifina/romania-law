@@ -1,0 +1,12 @@
+# ANEXĂ la procedură
+Nr. de înregistrare........, data..........
+Către Ministerul Economiei, Energiei și Mediului de Afaceri combustibili.alternativi@energie.gov.ro
+Domnule ministru,
+NOTIFICARE.................................., în calitate de furnizor de carburanți, cu sediul în localitatea............................., str............................. nr........, județul/sectorul.........., cod poștal............, telefon................, fax..................., e-mail............, înregistrat la....................../identificat prin CUI..................., reprezentat legal prin......................................................, (numele și prenumele) în calitate de............................................................................., în conformitate cu prevederile Ordonanței de urgență a Guvernului nr. 80/2018 pentru stabilirea condițiilor de introducere pe piață a benzinei și motorinei, de introducere a unui mecanism de monitorizare și reducere a emisiilor de gaze cu efect de seră și de stabilire a metodelor de calcul și de raportare a reducerii emisiilor de gaze cu efect de seră și pentru modificarea și completarea Legii nr. 220/2008 pentru stabilirea sistemului de promovare a producerii energiei din surse regenerabile de energie, aprobată cu modificări prin Legea nr. 311/2018, și ale Ordonanței de urgență a Guvernului nr. 47/2020 pentru stabilirea, pe perioada stării de urgență instituite prin Decretul nr. 195/2020, a condițiilor de comercializare a benzinei și motorinei în contextul crizei economice generate de pandemia SARS-CoV-2, vă notific că în perioada stării de urgență generate de criza provocată de pandemia SARS-CoV-2 voi furniza carburanți pentru comercializare către consumatorul final de benzină și motorină cu un conținut de biocarburant redus față de valorile stabilite pentru anul 2019, după cum urmează: - structura sortimentală...................;
+- cantitate pe sortiment...................;
+- calitate pe sortiment......................
+În conformitate cu prevederile procedurii, anexez următoarele documente: 1....................................................................................;
+2....................................................................................;
+......................................................................................................................... (numele și prenumele)
+Calitatea deținută..................................
+----
