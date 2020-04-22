@@ -9,8 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-03-04: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
+- 2020-04-22: documents published: Aviz comisie
 
 ## Documents
 
 - 2020-03-04: Forma inițiatorului (FG): [fg-8b88f128.md](fg-8b88f128.md); official file https://www.senat.ro/legis/PDF/2020/20L212FG.PDF
 - 2020-03-04: Expunere de motive (EM): [em-c8be6c0a.md](em-c8be6c0a.md); official file https://www.senat.ro/legis/PDF/2020/20L212EM.PDF
+- 2020-04-22: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L212CA12.PDF
