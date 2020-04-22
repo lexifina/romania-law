@@ -12,9 +12,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-03-04: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive
 - 2020-03-10: documents published: Punct de vedere
+- 2020-04-22: documents published: Aviz comisie
 
 ## Documents
 
 - 2020-03-04: Forma inițiatorului (FG): [fg-5adccdf1.md](fg-5adccdf1.md); official file https://www.senat.ro/legis/PDF/2020/20L210FG.PDF
 - 2020-03-04: Expunere de motive (EM): [em-47f179f3.md](em-47f179f3.md); official file https://www.senat.ro/legis/PDF/2020/20L210EM.PDF
 - 2020-03-10: Punct de vedere (PV): [pv-96d68b48.md](pv-96d68b48.md); official file https://www.senat.ro/legis/PDF/2020/20L210PV.PDF
+- 2020-04-22: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L210CA49.PDF
