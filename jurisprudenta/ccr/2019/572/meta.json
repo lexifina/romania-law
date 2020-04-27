@@ -1,0 +1,335 @@
+{
+ "key": "dcc-572-2019",
+ "label": "Decizia CCR nr. 572/2019",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "572",
+ "date": "2019-10-01",
+ "year": "2019",
+ "heading": "DECIZIA nr. 572 din 1 octombrie 2019",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 253 alin. (6) și ale art. 287 din Legea nr. 571/2003 privind Codul fiscal, precum și ale art. 460 alin. (8) și ale art. 489 alin. (1) și (2) din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "337",
+  "bis": false,
+  "date": "2020-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.021/63/2016",
+  "2.610D/2017",
+  "2.786D/2017",
+  "2.967/63/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "489",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Goldani - S.R.L. din Peciu Nou, județul Timiș, în Dosarul nr. 11.021/63/2016 al Tribunalului Dolj - Secția contencios administrativ și fiscal și de Societatea Best Clean - S.R.L. din Craiova în Dosarul nr. 2.967/63/2017 al Tribunalului Dolj - Secția contencios administrativ și fiscal și constată că prevederile art. 253 alin. (6) și ale art. 287 din Legea nr. 571/2003 privind Codul fiscal, precum și ale art. 460 alin. (8) și ale art. 489 alin. (1) și (2) din Legea nr. 227/2015 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "253",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "287",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "460",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "489",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": [
+      "11",
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "455",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225027",
+  "text_sha256": "cd8c459545e7c398124d7b63cce53d19aeab5db5716052d7097a0a357864843f",
+  "catalogue_sha256": "cd8c459545e7c398124d7b63cce53d19aeab5db5716052d7097a0a357864843f",
+  "fetched": "2026-11-03T02:01:38Z",
+  "chars": 29715,
+  "portal_id": "225027",
+  "tip": "DECIZIE"
+ }
+}
