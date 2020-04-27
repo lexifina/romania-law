@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-04-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-04-08: sent for promulgation
+- 2020-04-27: promulgated, becomes Legea nr. 51/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L473AM.PDF
 - 2020-04-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L473AXS.PDF
 - 2020-04-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L473LP.PDF
+- 2020-04-27: Decret de promulgare (DP): [dp-8e9b9a41.md](dp-8e9b9a41.md); official file https://www.senat.ro/legis/PDF/2019/19L473DP.PDF
+- 2020-04-27: Adresă privind forma promulgată (AFP): [afp-5315661a.md](afp-5315661a.md); official file https://www.senat.ro/legis/PDF/2019/19L473AFP.PDF
+- 2020-04-27: Forma promulgată (FP): [fp-94ae4bad.md](fp-94ae4bad.md); official file https://www.senat.ro/legis/PDF/2019/19L473FP.PDF
