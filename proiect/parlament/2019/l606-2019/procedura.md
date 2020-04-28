@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-11: documents published: Aviz comisie
 - 2019-12-18: documents published: Aviz comisie
 - 2020-02-12: documents published: Aviz comisie
+- 2020-04-28: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L606CA12.PDF
 - 2019-12-18: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L606CA45.PDF
 - 2020-02-12: Aviz comisie (CA14): [ca14-a50d9677.md](ca14-a50d9677.md); official file https://www.senat.ro/legis/PDF/2019/19L606CA14.PDF
+- 2020-04-28: Forma adoptată de Senat (FS): [fs-38400746.md](fs-38400746.md); official file https://www.senat.ro/legis/PDF/2019/19L606FS.PDF
