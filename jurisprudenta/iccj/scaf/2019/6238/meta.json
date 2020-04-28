@@ -1,0 +1,339 @@
+{
+ "key": "iccj-scaf-6238-2019",
+ "label": "Decizia ÎCCJ nr. 6238/2019 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "6238",
+ "date": "2019-12-05",
+ "year": "2019",
+ "heading": "DECIZIA nr. 6.238 din",
+ "subtitle": "5 decembrie 2019 referitoare la anularea art. 2 alin. (1) lit. a) și b) și art. 2 alin. (4) lit. g) - secțiunea I din Ordinul nr. 1.733/19.08.2015 emis de Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "341",
+  "bis": false,
+  "date": "2020-04-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.388/2/2016"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul formulat de reclamanta A.A.R.O. împotriva Sentinței civile nr. 2.226 din 27 iunie 2016 a Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal.",
+  "Casează sentința atacată și, în rejudecare, admite în parte acțiunea.",
+  "Anulează art. 2 alin. (1) lit. a) și b) și art. 2 alin. (4) lit. g) - secțiunea I din Ordinul nr. 1.733/19.08.2015 emis de Ministerul Muncii, Familiei, Protecției Sociale și Persoanelor Vârstnice, publicat în Monitorul Oficial al României, Partea I, nr. 680 din 8 septembrie 2015.",
+  "Respinge în rest acțiunea, ca neîntemeiată.",
+  "Prezenta decizie se va publica în Monitorul Oficial al României, Partea I, conform dispozițiilor art. 23 din Legea nr. 554/2004.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.733/2015",
+    "number": "1733",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.733/2015",
+    "number": "1733",
+    "year": "2015"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "8"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 350/2012",
+    "number": "350",
+    "year": "2012",
+    "path": "hg/2012/350"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2004",
+    "number": "24",
+    "year": "2004",
+    "path": "lege/2004/24"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 344/2014",
+    "number": "344",
+    "year": "2014",
+    "path": "hg/2014/344"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.434/2004",
+    "number": "1434",
+    "year": "2004",
+    "path": "hg/2004/1434"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.733/2005",
+    "number": "1733",
+    "year": "2005"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-04-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225060",
+  "text_sha256": "20f20d37227638b0101c2801290c15826597c3e941265ded2a70cc35b5c18274",
+  "catalogue_sha256": "20f20d37227638b0101c2801290c15826597c3e941265ded2a70cc35b5c18274",
+  "fetched": "2026-11-03T21:55:41Z",
+  "chars": 50462,
+  "portal_id": "225060",
+  "tip": "DECIZIE"
+ }
+}
