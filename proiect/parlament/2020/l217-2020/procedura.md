@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: documents published: Aviz comisie
 - 2020-04-23: documents published: Aviz comisie
 - 2020-04-29: documents published: Aviz comisie
+- 2020-04-30: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L217CA42.PDF
 - 2020-04-29: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L217CA43.PDF
 - 2020-04-29: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L217CA1.PDF
+- 2020-04-30: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L217CA41.PDF
