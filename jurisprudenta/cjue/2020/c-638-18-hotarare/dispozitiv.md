@@ -1,0 +1,6 @@
+# CJUE, Hotărârea Curții (Camera a șaptea) din 30 aprilie 2020, Cauza C-638/18
+
+Pentru aceste motive, Curtea (Camera a șaptea) declară și hotărăște:
+1) România, pe de o parte, prin nerespectarea sistematică și persistentă, din anul 2007 și până cel puțin în anul 2016, a valorilor‑limită zilnice pentru concentrațiile de PM10 și prin nerespectarea sistematică și persistentă, din anul 2007 și până în anul 2014 inclusiv, cu excepția anului 2013, a valorilor‑limită anuale pentru concentrațiile de PM10 în zona RO32101 (București, România), nu și‑a îndeplinit obligațiile care îi revin în temeiul articolului 13 alineatul (1) din Directiva 2008/50/CE a Parlamentului European și a Consiliului din 21 mai 2008 privind calitatea aerului înconjurător și un aer mai curat pentru Europa coroborat cu anexa XI la aceasta și, pe de altă parte, nu și‑a îndeplinit, în ceea ce privește această zonă, începând din 11 iunie 2010, obligațiile care îi revin în temeiul articolului 23 alineatul (1) din această directivă coroborat cu anexa XV la aceasta, în special obligația prevăzută la articolul 23 alineatul (1) al doilea paragraf din directiva menționată, de a se asigura că perioada de depășire este cât mai scurtă cu putință.
+2) Obligă România la plata cheltuielilor de judecată.
+Xuereb | von Danwitz | Kumin
