@@ -1,0 +1,7 @@
+Consiliul Local al Municipiului Hunedoara;
+Analizând Proiectul de hotărâre nr.131/21.04.2020, Referatul de Aprobare al Primarului Municipiului Hunedoara nr.24463/21.04.2020 privind aprobarea execuției bugetului împrumutului intern al municipiului Hunedoara pentru trimestrul I 2020, precum și raportul compartimentului de specialitate nr.24464/21.04.2020;
+Având în vedere avizul Comisiei de studii, prognoze economico-sociale, buget, finanțe și administrarea domeniului public și privat al municipiului Hunedoara nr.
+25540/29.04.2020, al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor nr. 25380/28.04.2020, al Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, conservarea monumentelor istorice și de arhitectură nr.25364/28.04.2020, al Comisiei pentru servicii publice și comerț nr. 25555/29.04.2020;
+În conformitate cu prevederile art.49, alin.13 din Legea nr.273/2006 privind finanțele publice locale cu modificările și completările ulterioare, ale Legii nr.5/2020 a bugetului de stat pe anul 2020, cu modificările și completările ulterioare;
+În temeiul prevederilor art. 129 alin. (1), alin. (2), lit. b), alin. (4), lit. a), alin. (14) precum și ale art. 139 coroborat cu art. 196 alin. (1) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare;
+HOTĂRĂȘTE:
