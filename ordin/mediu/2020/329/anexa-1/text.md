@@ -1,0 +1,12 @@
+# ANEXĂ
+Completări la anexa nr. 1 la Ordinul ministrului mediului și schimbărilor climatice nr. 1.601/2013 pentru aprobarea listei cu aplicații care beneficiază de derogare de la restricția prevăzută la art. 4 alin. (1) din Hotărârea Guvernului nr. 322/2013 privind restricțiile de utilizare a anumitor substanțe periculoase în echipamentele electrice și electronice
+Exceptare
+Sfera și datele de aplicare
+43.
+Ftalatul de bis (2-etilhexil) din componentele din cauciuc din sistemele motoare, concepute pentru a fi utilizate în echipamente care nu sunt destinate exclusiv uzului de către publicul larg, cu condiția ca niciun material plastifiat să nu intre în contact cu membranele mucoase umane sau în contact prelungit cu pielea umană și ca valoarea concentrației ftalatului de bis (2-etilhexil) să nu depășească: (a) 30% din greutatea cauciucului în cazul: (i) stratului de acoperire al garniturilor de etanșare; (ii) garniturilor de etanșare din cauciuc solid; sau (iii) al componentelor din cauciuc incluse în ansambluri din cel puțin 3 componente, care utilizează energia electrică, mecanică sau hidraulică pentru a funcționa și sunt atașate la motor; (b) 10% din greutatea cauciucului în cazul componentelor care conțin cauciuc și nu sunt menționate la lit. (a).
+În sensul prezentei intrări, „contact prelungit cu pielea umană” înseamnă un contact continuu cu o durată mai mare de 10 minute sau un contact intermitent zilnic pe o perioadă de 30 de minute.
+Se aplică în cazul categoriei 11 și expiră la 21 iulie 2024.
+44.
+Plumbul din aliajele de lipire ale senzorilor, (ale) dispozitivelor de acționare și (ale) unităților de comandă ale motoarelor cu ardere internă, care intră sub incidența Regulamentului (UE) 2016/1628 al Parlamentului European și al Consiliului (, instalate în echipamente utilizate în poziții fixe când sunt în funcțiune, destinate utilizatorilor profesionali, dar folosite și de utilizatori neprofesionali.
+Se aplică în cazul categoriei 11 și expiră la 21 iulie 2024. (Regulamentul (UE) 2016/1.628 al Parlamentului European și al Consiliului din 14 septembrie 2016 privind cerințele referitoare la limitele emisiilor de poluanți gazoși și de particule poluante și omologarea de tip pentru motoarele cu ardere internă pentru echipamentele mobile fără destinație rutieră, de modificare a Regulamentelor (UE) nr. 1.024/2012 și (UE) nr. 167/2013 și de modificare și abrogare a Directivei 97/68/CE (JO L 252, 16.9.2016, p. 53).
+-----
