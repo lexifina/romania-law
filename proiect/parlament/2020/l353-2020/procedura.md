@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-04-27: registered at the Chamber of Deputies
+- 2020-05-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2020-05-05: Raport comisie sesizată pe fond (CR): [cr-c7b9ac54.md](cr-c7b9ac54.md); official file https://www.senat.ro/legis/PDF/2020/20L353CR.PDF
