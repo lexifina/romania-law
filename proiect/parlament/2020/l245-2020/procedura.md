@@ -14,7 +14,9 @@ Initiator: Guvernul României.
 - 2020-03-12: documents published: Raport comisie sesizată pe fond
 - 2020-04-23: adopted by the Chamber of Deputies
 - 2020-04-24: registered at the Senate
+- 2020-05-05: documents published: Aviz comisie
 
 ## Documents
 
 - 2020-03-12: Raport comisie sesizată pe fond (CR): [cr-1e2563e5.md](cr-1e2563e5.md); official file https://www.senat.ro/legis/PDF/2020/20L245CR.PDF
+- 2020-05-05: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L245CA12.PDF
