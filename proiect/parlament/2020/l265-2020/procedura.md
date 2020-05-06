@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-04-27: registered at the Senate
+- 2020-05-06: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2020-05-06: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L265CA3.PDF
