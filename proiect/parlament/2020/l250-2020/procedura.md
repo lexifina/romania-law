@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 - 2020-04-23: adopted by the Chamber of Deputies
 - 2020-04-24: registered at the Senate
 - 2020-05-05: documents published: Aviz comisie
+- 2020-05-06: documents published: Aviz comisie
 
 ## Documents
 
 - 2020-05-05: Aviz comisie (CA45): [ca45-e1ef4f7d.md](ca45-e1ef4f7d.md); official file https://www.senat.ro/legis/PDF/2020/20L250CA45.PDF
+- 2020-05-06: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L250CA3.PDF
