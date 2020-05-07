@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-04-23: adopted by the Chamber of Deputies
 - 2020-04-24: registered at the Senate
 - 2020-05-06: documents published: Aviz comisie
+- 2020-05-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2019-12-31: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251HG.PDF
 - 2020-02-05: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251CA3.PDF
 - 2020-05-06: Aviz comisie (CA23): [ca23-4224b6ed.md](ca23-4224b6ed.md); official file https://www.senat.ro/legis/PDF/2020/20L251CA23.PDF
+- 2020-05-07: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251CA49.PDF
