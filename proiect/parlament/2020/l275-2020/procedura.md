@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-04-22: documents published: Aviz Consiliul Economic și Social
 - 2020-05-05: documents published: Aviz comisie
+- 2020-05-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-16: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L275EM.PDF
 - 2020-04-22: Aviz Consiliul Economic și Social (ES): [es-617c91ab.md](es-617c91ab.md); official file https://www.senat.ro/legis/PDF/2020/20L275ES.PDF
 - 2020-05-05: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L275CA1.PDF
+- 2020-05-07: Aviz comisie (CA3): [ca3-2c494519.md](ca3-2c494519.md); official file https://www.senat.ro/legis/PDF/2020/20L275CA3.PDF
