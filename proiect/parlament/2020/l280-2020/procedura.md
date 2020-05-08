@@ -1,0 +1,21 @@
+# Proiect de lege L280/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 272/2021 (`legea-272-2021`).
+
+Proiect de lege pentru modificarea și completarea Legii nr.295/2004 privind regimul armelor și al munițiilor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-05-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-05-08: Adresă de înaintare a inițiativei (AD): [ad-a098b09a.md](ad-a098b09a.md); official file https://www.senat.ro/legis/PDF/2020/20L280AD.PDF
+- 2020-05-08: Forma inițiatorului (FG): [fg-e04a19f7.md](fg-e04a19f7.md); official file https://www.senat.ro/legis/PDF/2020/20L280FG.PDF
+- 2020-05-08: Expunere de motive (EM): [em-d590e5e5.md](em-d590e5e5.md); official file https://www.senat.ro/legis/PDF/2020/20L280EM.PDF
+- 2020-05-08: Aviz Consiliul Legislativ (LG): [lg-c0d506c3.md](lg-c0d506c3.md); official file https://www.senat.ro/legis/PDF/2020/20L280LG.PDF
+- 2020-05-08: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L280HG.PDF
