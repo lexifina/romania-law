@@ -1,0 +1,340 @@
+{
+ "key": "dcc-57-2020",
+ "label": "Decizia CCR nr. 57/2020",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "alta",
+ "number": "57",
+ "date": "2020-02-12",
+ "year": "2020",
+ "heading": "DECIZIA nr. 57 din 12 februarie 2020",
+ "subtitle": "asupra cererilor de soluționare a conflictelor juridice de natură constituțională dintre Guvernul României și Parlamentul României",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "374",
+  "bis": false,
+  "date": "2020-05-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.430E/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge cererile formulate de președintele Senatului și președintele Camerei Deputaților și constată că nu există conflict juridic de natură constituțională între Parlamentul României și Guvernul României în legătură cu angajarea răspunderii Guvernului asupra Legii bugetului de stat pe anul 2020 și a Legii bugetului asigurărilor sociale de stat pe anul 2020.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Senatului, președintele Camerei Deputaților și Guvernului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "e",
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 115
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "A.e"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 88/1997",
+    "number": "88",
+    "year": "1997",
+    "path": "lege/1997/88"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 21/2013",
+    "number": "21",
+    "year": "2013",
+    "path": "oug/2013/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 13/2017",
+    "number": "13",
+    "year": "2017",
+    "path": "oug/2017/13"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 135/2010",
+    "number": "135",
+    "year": "2010",
+    "path": "lege/2010/135"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-05-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225489",
+  "text_sha256": "a8a0de9efb9a4674ce3d014ab6ff2600d6c65187fe63131639283edf0786da85",
+  "catalogue_sha256": "a8a0de9efb9a4674ce3d014ab6ff2600d6c65187fe63131639283edf0786da85",
+  "fetched": "2026-11-03T02:01:22Z",
+  "chars": 99859,
+  "portal_id": "225489",
+  "tip": "DECIZIE"
+ }
+}
