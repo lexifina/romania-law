@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: rejected by the Chamber of Deputies
 - 2019-11-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-12-18: documents published: Aviz comisie
+- 2020-05-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -19,3 +20,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-29: Forma inițiatorului (FG): [fg-f1ab89cf.md](fg-f1ab89cf.md); official file https://www.senat.ro/legis/PDF/2019/19L603FG.PDF
 - 2019-11-29: Expunere de motive (EM): [em-f1b9d462.md](em-f1b9d462.md); official file https://www.senat.ro/legis/PDF/2019/19L603EM.PDF
 - 2019-12-18: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L603CA12.PDF
+- 2020-05-12: Forma adoptată de Senat (FS): [fs-ad456d7c.md](fs-ad456d7c.md); official file https://www.senat.ro/legis/PDF/2019/19L603FS.PDF
+- 2020-05-12: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2019/19L603AXS.PDF
+- 2020-05-12: Forma trimisă la promulgare (LP): [lp-38548c77.md](lp-38548c77.md); official file https://www.senat.ro/legis/PDF/2019/19L603LP.PDF
