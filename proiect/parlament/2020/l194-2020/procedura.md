@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-24: legislative procedure ended
 - 2020-02-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-04-14: documents published: Raport comisie sesizată pe fond
+- 2020-05-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-25: Forma inițiatorului (FG): [fg-1ad82e80.md](fg-1ad82e80.md); official file https://www.senat.ro/legis/PDF/2020/20L194FG.PDF
 - 2020-02-25: Expunere de motive (EM): [em-0b542c96.md](em-0b542c96.md); official file https://www.senat.ro/legis/PDF/2020/20L194EM.PDF
 - 2020-04-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L194CR.PDF
+- 2020-05-12: Forma adoptată de Senat (FS): [fs-6f754686.md](fs-6f754686.md); official file https://www.senat.ro/legis/PDF/2020/20L194FS.PDF
+- 2020-05-12: Adresă către Camera Deputaților (AM): [am-18a44ff5.md](am-18a44ff5.md); official file https://www.senat.ro/legis/PDF/2020/20L194AM.PDF
