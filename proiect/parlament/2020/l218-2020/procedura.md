@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: documents published: Punct de vedere
 - 2020-04-16: documents published: Aviz comisie
 - 2020-04-22: documents published: Aviz comisie
+- 2020-05-12: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: Punct de vedere (PV): [pv-9cc29a42.md](pv-9cc29a42.md); official file https://www.senat.ro/legis/PDF/2020/20L218PV.PDF
 - 2020-04-16: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L218CA45.PDF
 - 2020-04-22: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L218CA12.PDF
+- 2020-05-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L218CR.PDF
