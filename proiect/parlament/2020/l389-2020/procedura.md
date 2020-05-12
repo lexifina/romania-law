@@ -1,0 +1,17 @@
+# Propunere legislativă L389/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru stabilirea unor măsuri în domeniul protecției sociale
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-05-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-05-12: Adresă de înaintare a inițiativei (AD): [ad-dab9a653.md](ad-dab9a653.md); official file https://www.senat.ro/legis/PDF/2020/20L389AD.PDF
+- 2020-05-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L389FG.PDF
+- 2020-05-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L389EM.PDF
