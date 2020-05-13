@@ -13,7 +13,8 @@ Initiator: Guvernul României.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-04-23: adopted by the Chamber of Deputies
 - 2020-04-24: registered at the Senate
+- 2020-05-13: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2020-05-13: Aviz comisie (CA16): [ca16-7dccbded.md](ca16-7dccbded.md); official file https://www.senat.ro/legis/PDF/2020/20L242CA16.PDF
