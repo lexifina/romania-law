@@ -13,8 +13,10 @@ Initiator: Guvernul României.
 - 2020-04-27: registered at the Senate
 - 2020-05-06: documents published: Aviz comisie
 - 2020-05-12: documents published: Aviz comisie
+- 2020-05-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
 - 2020-05-06: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L263CA3.PDF
 - 2020-05-12: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L263CA45.PDF
+- 2020-05-13: Raport comisie sesizată pe fond (CR): [cr-33f76033.md](cr-33f76033.md); official file https://www.senat.ro/legis/PDF/2020/20L263CR.PDF
