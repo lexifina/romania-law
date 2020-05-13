@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2020-04-01: registered at the Chamber of Deputies
 - 2020-04-16: documents published: Raport comisie sesizată pe fond
+- 2020-05-13: adopted by the Chamber of Deputies
 
 ## Documents
 
