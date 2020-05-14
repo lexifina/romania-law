@@ -13,7 +13,13 @@ Initiator: Guvernul României.
 - 2020-04-01: registered at the Chamber of Deputies
 - 2020-04-16: documents published: Raport comisie sesizată pe fond
 - 2020-05-13: adopted by the Chamber of Deputies
+- 2020-05-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2020-04-16: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L315CR.PDF
+- 2020-05-14: Adresă de înaintare a inițiativei (AD): [ad-78ae8238.md](ad-78ae8238.md); official file https://www.senat.ro/legis/PDF/2020/20L315AD.PDF
+- 2020-05-14: Forma inițiatorului (FG): [fg-63a2be1b.md](fg-63a2be1b.md); official file https://www.senat.ro/legis/PDF/2020/20L315FG.PDF
+- 2020-05-14: Expunere de motive (EM): [em-f84682db.md](em-f84682db.md); official file https://www.senat.ro/legis/PDF/2020/20L315EM.PDF
+- 2020-05-14: Aviz Consiliul Legislativ (LG): [lg-39fd1431.md](lg-39fd1431.md); official file https://www.senat.ro/legis/PDF/2020/20L315LG.PDF
+- 2020-05-14: Document (HG): [hg-3001bb26.md](hg-3001bb26.md); official file https://www.senat.ro/legis/PDF/2020/20L315HG.PDF
