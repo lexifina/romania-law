@@ -1,0 +1,282 @@
+{
+ "key": "dcc-96-2020",
+ "label": "Decizia CCR nr. 96/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "96",
+ "date": "2020-02-25",
+ "year": "2020",
+ "heading": "DECIZIA nr. 96 din 25 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 410 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "2020-05-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.863/212/2017",
+  "82D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "410",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată din oficiu de Curtea de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie în Dosarul nr. 13.863/212/2017 și constată că dispozițiile art. 410 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "410",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "407",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "257",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "260",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "264",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "468",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-05-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225622",
+  "text_sha256": "6b95ca10d577a9f6c9f24381782e8d20e99151f0e9efbd3e94c112b1f05eea14",
+  "catalogue_sha256": "6b95ca10d577a9f6c9f24381782e8d20e99151f0e9efbd3e94c112b1f05eea14",
+  "fetched": "2026-11-06T03:01:40Z",
+  "chars": 19624,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/225622",
+   "timestamp": "20220521150811",
+   "crawl": "CC-MAIN-2022-21",
+   "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662539131.21/warc/CC-MAIN-20220521143241-20220521173241-00195.warc.gz",
+   "offset": "407299523",
+   "length": "23174",
+   "sha256": "e99cce21ccb761dee3524dc307ef284ac8ee2f13a84150a52cd2afb004a079a4"
+  },
+  "portal_id": "225622",
+  "tip": "DECIZIE"
+ }
+}
