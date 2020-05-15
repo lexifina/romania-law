@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-04-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-04-25: sent for promulgation
 - 2020-05-14: promulgated, becomes Legea nr. 53/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-05-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2020-05-14: Decret de promulgare (DP): [dp-6ae079ea.md](dp-6ae079ea.md); official file https://www.senat.ro/legis/PDF/2020/20L023DP.PDF
 - 2020-05-14: Adresă privind forma promulgată (AFP): [afp-4846fe21.md](afp-4846fe21.md); official file https://www.senat.ro/legis/PDF/2020/20L023AFP.PDF
 - 2020-05-14: Forma promulgată (FP): [fp-c5f295db.md](fp-c5f295db.md); official file https://www.senat.ro/legis/PDF/2020/20L023FP.PDF
+- 2020-05-15: Document (AT): [at-851a9b59.md](at-851a9b59.md); official file https://www.senat.ro/legis/PDF/2020/20L023AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-05-15: Document (S1): [s1-cb0f8eec.md](s1-cb0f8eec.md); official file https://www.senat.ro/legis/PDF/2020/20L023S1.PDF (its day is not given by the bill file: shown from the last stage held)
