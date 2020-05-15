@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-04-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-04-28: sent for promulgation
+- 2020-05-15: promulgated, becomes Legea nr. 57/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L409AM.PDF
 - 2020-04-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L409AXS.PDF
 - 2020-04-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L409LP.PDF
+- 2020-05-15: Decret de promulgare (DP): [dp-ee00c31f.md](dp-ee00c31f.md); official file https://www.senat.ro/legis/PDF/2019/19L409DP.PDF
+- 2020-05-15: Adresă privind forma promulgată (AFP): [afp-b5201e88.md](afp-b5201e88.md); official file https://www.senat.ro/legis/PDF/2019/19L409AFP.PDF
+- 2020-05-15: Forma promulgată (FP): [fp-9168a98c.md](fp-9168a98c.md); official file https://www.senat.ro/legis/PDF/2019/19L409FP.PDF
