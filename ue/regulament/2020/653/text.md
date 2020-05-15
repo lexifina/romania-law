@@ -1,0 +1,43 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/653 AL COMISIEI
+din 14 mai 2020
+de rectificare a Regulamentelor de punere în aplicare (UE) nr. 540/2011 și (UE) 2019/706 în ceea ce privește numărul CAS al substanței active carvonă
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 20 alineatul (1),
+întrucât:
+(1) Regulamentul de punere în aplicare (UE) 2019/706 al Comisiei (2) a reînnoit aprobarea substanței active carvonă și a inclus-o în anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (3).
+(2) După intrarea în vigoare a Regulamentului de punere în aplicare (UE) 2019/706, s-a observat o eroare în ceea ce privește numărul CAS (Chemical Abstracts Number of the American Chemical Society) utilizat pentru substanța activă carvonă în anexele la Regulamentul de punere în aplicare (UE) 2019/706.
+(3) Numărul CAS este un identificator unic al unei substanțe chimice, fiind utilizat, de asemenea, pentru o substanță activă conținută în produsele de protecție a plantelor; el este utilizat ca referință în scopul activităților comerciale și de reglementare pentru produsele chimice la nivel mondial și nu se limitează la substanțele pesticide. Coloana privind denumirea comună și numerele de identificare menționează în mod eronat „carvonă 244-16-8”. Această specificație trebuie înlocuită cu „carvonă 2244-16-8”.
+(4) Substanța activă carvonă are mai multe numere CAS. Cu toate acestea, numai un singur număr a primit aprobarea pentru utilizarea „carvonei” ca produs de protecție a plantelor. Numerele CAS, astfel cum sunt menționate în actele de punere în aplicare ale Uniunii de autorizare a substanțelor active, sunt preluate în bazele de date internaționale, iar referințele sunt utilizate în scopul autorizării ulterioare a produselor de protecție a plantelor în statele membre și în afara Uniunii. Numărul CAS 244-16-8 nu corespunde niciunei substanțe chimice înregistrate existente; prin urmare, substanța activă nu ar fi identificată în mod corespunzător în scopul aprobării produselor de protecție a plantelor. Prin urmare, având în vedere că s-ar putea crea o confuzie cu privire la identitatea substanței în cadrul gestionării și al comercializării substanțelor chimice, este necesară o corectare a numărului CAS menționat în anexele la Regulamentul de punere în aplicare (UE) 2019/706 și, prin urmare, în Regulamentul de punere în aplicare (UE) nr. 540/2011.
+(5) Din motive de claritate, este necesar să se înlocuiască anexa I la Regulamentul de punere în aplicare (UE) 2019/706 și rubrica relevantă 135 din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011.
+(6) Din motive de claritate și de securitate juridică pentru operatorii economici și autoritățile însărcinate cu aplicarea legislației, prezentul regulament ar trebui să intre în vigoare în regim de urgență.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Rectificare adusă Regulamentului de punere în aplicare (UE) 2019/706
+Anexa I la Regulamentul de punere în aplicare (UE) 2019/706 se rectifică în conformitate cu anexa I la prezentul regulament.
+Articolul 2
+Rectificarea Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se rectifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrare în vigoare
+Prezentul regulament intră în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 14 mai 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Regulamentul de punere în aplicare (UE) 2019/706 al Comisiei din 7 mai 2019 de reînnoire a aprobării substanței active carvonă, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (JO L 120, 8.5.2019, p. 11).
+(3) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+ANEXA I
+Anexa I la Regulamentul de punere în aplicare (UE) 2019/706 se înlocuiește cu următorul text:
+„Denumire comună, numere de identificare | Denumire IUPAC | Puritate (1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+carvonă 2244-16-8 (d-carvonă = S-carvonă = (+)-carvonă) Carvonă: 602 d-carvonă: nealocat | (S)-5-izopropenil-2-metilciclohex-2-en-1-onă sau (S)-p-menta-6,8-dien-2-onă | 923 g/kg d-carvonă | 1 august 2019 | 31 iulie 2034 | În vederea punerii în aplicare a principiilor uniforme prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului privind reînnoirea aprobării substanței carvonă, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre acordă o atenție deosebită: — protejării operatorilor, asigurând faptul că, în condițiile de utilizare, se prevede folosirea unor echipamente adecvate de protecție individuală. Condițiile de utilizare includ, dacă este cazul, măsuri de reducere a riscurilor. În special, ar trebui să se acorde o atenție deosebită perioadei de timp necesare înainte de intrarea în spațiile de depozitare după aplicarea produselor de protecție a plantelor care conțin carvonă. Solicitantul transmite Comisiei, statelor membre și autorității informații de confirmare în ceea ce privește: — efectul proceselor de tratare a apei asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane, atunci când apele de suprafață sunt captate pentru a fi utilizate ca apă potabilă. Solicitantul prezintă aceste informații în termen de doi ani de la data publicării de către Comisie a unui document de orientare privind evaluarea efectului proceselor de tratare a apei asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane.
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active sunt furnizate în raportul privind reînnoirea.”
+ANEXA II
+În partea B din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011, rubrica 135 privind carvona se înlocuiește cu următoarea rubrică:
+Nr. | Denumire comună, numere de identificare | Denumire IUPAC | Puritate (1) | Data aprobării | Expirarea aprobării | Dispoziții specifice
+„135 | carvonă 2244-16-8 (d-carvonă = S-carvonă = (+)-carvonă) Carvonă: 602 d-carvonă: nealocat | (S)-5-izopropenil-2-metilciclohex-2-en-1-onă sau (S)-p-menta-6,8-dien-2-onă | 923 g/kg d-carvonă | 1 august 2019 | 31 iulie 2034 | În vederea punerii în aplicare a principiilor uniforme prevăzute la articolul 29 alineatul (6) din Regulamentul (CE) nr. 1107/2009, se ține seama de concluziile raportului privind reînnoirea aprobării substanței carvonă, în special de apendicele I și II la acesta. În cadrul acestei evaluări generale, statele membre acordă o atenție deosebită: — protejării operatorilor, asigurând faptul că, în condițiile de utilizare, se prevede folosirea unor echipamente adecvate de protecție individuală. Condițiile de utilizare includ, dacă este cazul, măsuri de reducere a riscurilor. În special, ar trebui să se acorde o atenție deosebită perioadei de timp necesare înainte de intrarea în spațiile de depozitare după aplicarea produselor de protecție a plantelor care conțin carvonă. Solicitantul transmite Comisiei, statelor membre și autorității informații de confirmare în ceea ce privește: — efectul proceselor de tratare a apei asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane, atunci când apele de suprafață sunt captate pentru a fi utilizate ca apă potabilă. Solicitantul prezintă aceste informații în termen de doi ani de la data publicării de către Comisie a unui document de orientare privind evaluarea efectului proceselor de tratare a apei asupra naturii reziduurilor prezente în apele de suprafață și în apele subterane.”
+(1) Detalii suplimentare privind identitatea și specificațiile substanței active sunt furnizate în raportul privind reînnoirea.
