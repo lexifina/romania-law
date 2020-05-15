@@ -1,0 +1,5 @@
+# ANEXĂ (Anexa la Ordinul nr. 4.916/2019
+CALENDARUL de desfășurare a evaluării naționale pentru absolvenții clasei a VIII-a în anul școlar 2019-2020 2-5 iunie 2020 Înscrierea la evaluarea națională 15 iunie 2020 Limba și literatura română - probă scrisă 17 iunie 2020 Matematica - probă scrisă 18 iunie 2020
+Limba și literatura maternă - probă scrisă 22 iunie 2020 (până la ora 14,00) Afișarea rezultatelor înaintea contestațiilor 22 iunie (ora 16,00-ora 19,00) - 23 iunie (ora 8,00-ora 12,00) Depunerea contestațiilor 23-26 iunie 2020 Soluționarea contestațiilor 27 iunie 2020 Afișarea rezultatelor finale după soluționarea contestațiilor
+NOTĂ: La solicitarea comisiilor județene/Comisiei municipiului București de organizare a evaluării naționale pentru absolvenții clasei a VIII-a sau din propria inițiativă, Comisia Națională de Organizare a Evaluării Naționale poate aproba, în situații excepționale, prelungirea perioadelor de evaluare a lucrărilor scrise ori de afișare a rezultatelor, precum și reducerea perioadei de afișare a rezultatelor.
+-----
