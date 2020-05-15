@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2020-05-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Document
 - 2020-05-12: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2020-05-13: adopted by the Chamber of Deputies; registered at the Chamber of Deputies; documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-05-15: sent for promulgation; promulgated, becomes Legea nr. 55/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Guvernul României.
 - 2020-05-13: Aviz comisie (CA8): [ca8-935bd8aa.md](ca8-935bd8aa.md); official file https://www.senat.ro/legis/PDF/2020/20L279CA8.PDF
 - 2020-05-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L279AXS.PDF
 - 2020-05-13: Forma trimisă la promulgare (LP): [lp-bbbf17ec.md](lp-bbbf17ec.md); official file https://www.senat.ro/legis/PDF/2020/20L279LP.PDF
+- 2020-05-15: Decret de promulgare (DP): [dp-d06c892c.md](dp-d06c892c.md); official file https://www.senat.ro/legis/PDF/2020/20L279DP.PDF
+- 2020-05-15: Adresă privind forma promulgată (AFP): [afp-fbbf9af8.md](afp-fbbf9af8.md); official file https://www.senat.ro/legis/PDF/2020/20L279AFP.PDF
+- 2020-05-15: Forma promulgată (FP): [fp-f0b4d13f.md](fp-f0b4d13f.md); official file https://www.senat.ro/legis/PDF/2020/20L279FP.PDF
