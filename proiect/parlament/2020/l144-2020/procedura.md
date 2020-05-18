@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-04-01: registered at the Chamber of Deputies
 - 2020-05-06: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-08: sent for promulgation
+- 2020-05-18: promulgated, becomes Legea nr. 59/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2020-03-30: Aviz comisie (CA3): [ca3-33b246e3.md](ca3-33b246e3.md); official file https://www.senat.ro/legis/PDF/2020/20L144CA3.PDF
 - 2020-05-06: Adresă privind sesizarea CCR (AXS): [axs-44dd9400.md](axs-44dd9400.md); official file https://www.senat.ro/legis/PDF/2020/20L144AXS.PDF
 - 2020-05-06: Forma trimisă la promulgare (LP): [lp-47021c15.md](lp-47021c15.md); official file https://www.senat.ro/legis/PDF/2020/20L144LP.PDF
+- 2020-05-18: Decret de promulgare (DP): [dp-f8f4ecd7.md](dp-f8f4ecd7.md); official file https://www.senat.ro/legis/PDF/2020/20L144DP.PDF
+- 2020-05-18: Adresă privind forma promulgată (AFP): [afp-cb2c7e1a.md](afp-cb2c7e1a.md); official file https://www.senat.ro/legis/PDF/2020/20L144AFP.PDF
+- 2020-05-18: Forma promulgată (FP): [fp-09d09b87.md](fp-09d09b87.md); official file https://www.senat.ro/legis/PDF/2020/20L144FP.PDF
