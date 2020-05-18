@@ -1,0 +1,3 @@
+# ANEXĂ la instrucțiuni
+Lista unităților sanitare cu paturi încadrate în categoriile de acreditare în................................
+-----
