@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-05-05: documents published: Aviz comisie
 - 2020-05-07: documents published: Aviz comisie
+- 2020-05-19: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L238EM.PDF
 - 2020-05-05: Aviz comisie (CA45): [ca45-20409621.md](ca45-20409621.md); official file https://www.senat.ro/legis/PDF/2020/20L238CA45.PDF
 - 2020-05-07: Aviz comisie (CA8): [ca8-72f77413.md](ca8-72f77413.md); official file https://www.senat.ro/legis/PDF/2020/20L238CA8.PDF
+- 2020-05-19: Forma adoptată de Senat (FS): [fs-6c97665d.md](fs-6c97665d.md); official file https://www.senat.ro/legis/PDF/2020/20L238FS.PDF
