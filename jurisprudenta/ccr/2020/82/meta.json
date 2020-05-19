@@ -1,0 +1,154 @@
+{
+ "key": "dcc-82-2020",
+ "label": "Decizia CCR nr. 82/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "82",
+ "date": "2020-02-18",
+ "year": "2020",
+ "heading": "DECIZIA nr. 82 din 18 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 98 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "417",
+  "bis": false,
+  "date": "2020-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.805/325/2018",
+  "1.607D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Steliana-Felicia Vlăescu în Dosarul nr. 4.805/325/2018 al Judecătoriei Timișoara - Secția I civilă și constată că prevederile art. 98 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Timișoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "98",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/225919",
+  "text_sha256": "22d511a8b4bf19c4576cf8c6ced517fdefb78c9bb96d22acb6b407ad0e8d30e5",
+  "catalogue_sha256": "22d511a8b4bf19c4576cf8c6ced517fdefb78c9bb96d22acb6b407ad0e8d30e5",
+  "fetched": "2026-11-03T02:01:07Z",
+  "chars": 10622,
+  "portal_id": "225919",
+  "tip": "DECIZIE"
+ }
+}
