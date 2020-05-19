@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-05-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-15: sent for promulgation
 - 2020-05-18: promulgated, becomes Legea nr. 61/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-05-19: published in the Monitorul Oficial
 
 ## Documents
 
