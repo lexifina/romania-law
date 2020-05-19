@@ -1,0 +1,38 @@
+r'
+¢,OMÂ4r,4
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+pentru modificarea și completarea Ordonanței de urgență a Guvernului
+nr.195/2005 privind protectia mediului
+Senatul adoptă prezentul proiect de lege
+Articol unic.- Ordonanța de urgență a Guvernului m. 195/2005. privind
+protecția mediului, publicată în Monitorul Oficial al României, Partea I, nr.1196
+din 30 decembrie 2005, aprobată cu modificări și completări prin Legea
+nr.265/2006, cu modificările și completările ulterioare, se modifică și se
+completează după cum urmează:
+1. La articolul 2 punctul 13, litera b) se modifică și va avea următorul
+cuprins:
+„b) avizul de mediu pentru produse de protecție a plantelor, respectiv
+pentru îngrășăminte - act administrativ emis de autoritatea competentă de
+implementare pentru protecția mediului, prin compartimentul cu atribuții în
+domeniul respectiv, necesar în procedura de omologare a produselor chimice de
+protecție a plantelor și, respectiv, de autorizare a îngrășămintelor chimice; '
+2. La articolul 38 alineatul (1), litera f) se moditică și va avea următorul
+cuprins:
+„f) să stocheze îngrășămintele chimice și produsele de protecție a plantelor
+conform fișei cu date de securitate emisă de producător."
+
+2
+3. La articolul 96 alineatul (3), după punctul 11 se introduce an nou
+punct, pct.111, Cu următorul cuprins:
+„11 1. obligațiile persoanelor fizice și juridice de a supraveghea și asigura
+depozitarea îngrășămintelor chimice potrivit fișei cu date de securitate emisă de
+producător;"
+
+~
+Acest proiect de lege a fost adoptat de Senat, în ședin~a din 19 mai
+2020, cu respectarea prevederilor articolului 76 alineatul (2) din Constituția
+României, republicată.
+p. PREȘEDINTELE SENATULUI
+Robert-Marius Cazanciuc
