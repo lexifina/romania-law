@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-03-03: documents published: Punct de vedere
 - 2020-05-12: documents published: Raport comisie sesizată pe fond
+- 2020-05-19: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-26: Expunere de motive (EM): [em-3b50b78c.md](em-3b50b78c.md); official file https://www.senat.ro/legis/PDF/2020/20L199EM.PDF
 - 2020-03-03: Punct de vedere (PV): [pv-8c93c166.md](pv-8c93c166.md); official file https://www.senat.ro/legis/PDF/2020/20L199PV.PDF
 - 2020-05-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L199CR.PDF
+- 2020-05-19: Adresă către Camera Deputaților (AM): [am-5f9986fe.md](am-5f9986fe.md); official file https://www.senat.ro/legis/PDF/2020/20L199AM.PDF
