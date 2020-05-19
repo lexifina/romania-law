@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-04-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-05-12: documents published: Aviz comisie
+- 2020-05-19: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L276EM.PDF
 - 2020-05-12: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L276CA41.PDF
 - 2020-05-12: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L276CA45.PDF
+- 2020-05-19: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L276CR.PDF
+- 2020-05-19: Forma adoptată de Senat (FS): [fs-1c878495.md](fs-1c878495.md); official file https://www.senat.ro/legis/PDF/2020/20L276FS.PDF
+- 2020-05-19: Adresă către Camera Deputaților (AM): [am-737de3b7.md](am-737de3b7.md); official file https://www.senat.ro/legis/PDF/2020/20L276AM.PDF
