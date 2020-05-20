@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-01: registered at the Chamber of Deputies
 - 2020-04-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-01: sent for promulgation
+- 2020-05-20: promulgated, becomes Legea nr. 62/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-31: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L183AM.PDF
 - 2020-04-29: Adresă privind sesizarea CCR (AXS): [axs-ebde654a.md](axs-ebde654a.md); official file https://www.senat.ro/legis/PDF/2020/20L183AXS.PDF
 - 2020-04-29: Forma trimisă la promulgare (LP): [lp-f2e84016.md](lp-f2e84016.md); official file https://www.senat.ro/legis/PDF/2020/20L183LP.PDF
+- 2020-05-20: Decret de promulgare (DP): [dp-7a1ae91a.md](dp-7a1ae91a.md); official file https://www.senat.ro/legis/PDF/2020/20L183DP.PDF
+- 2020-05-20: Adresă privind forma promulgată (AFP): [afp-e260bb4d.md](afp-e260bb4d.md); official file https://www.senat.ro/legis/PDF/2020/20L183AFP.PDF
+- 2020-05-20: Forma promulgată (FP): [fp-5c90fa09.md](fp-5c90fa09.md); official file https://www.senat.ro/legis/PDF/2020/20L183FP.PDF
