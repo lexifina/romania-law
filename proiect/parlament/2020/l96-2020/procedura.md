@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-12: documents published: Raport comisie sesizată pe fond
 - 2020-03-31: adopted by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-04-01: registered at the Chamber of Deputies
+- 2020-05-20: rejected by the Chamber of Deputies; legislative procedure ended
 
 ## Documents
 
