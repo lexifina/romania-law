@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-05-20: first record in the bill file
+- 2020-05-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2020-05-21: Adresă de înaintare a inițiativei (AD): [ad-443a054f.md](ad-443a054f.md); official file https://www.senat.ro/legis/PDF/2020/20L404AD.PDF
+- 2020-05-21: Forma inițiatorului (FG): [fg-8bab6e13.md](fg-8bab6e13.md); official file https://www.senat.ro/legis/PDF/2020/20L404FG.PDF
+- 2020-05-21: Expunere de motive (EM): [em-dfa624b3.md](em-dfa624b3.md); official file https://www.senat.ro/legis/PDF/2020/20L404EM.PDF
