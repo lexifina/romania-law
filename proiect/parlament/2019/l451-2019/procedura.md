@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-04-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-04: sent for promulgation
+- 2020-05-21: promulgated, becomes Legea nr. 64/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L451AM.PDF
 - 2020-04-29: Adresă privind sesizarea CCR (AXS): [axs-11aa69f7.md](axs-11aa69f7.md); official file https://www.senat.ro/legis/PDF/2019/19L451AXS.PDF
 - 2020-04-29: Forma trimisă la promulgare (LP): [lp-bbdf2be0.md](lp-bbdf2be0.md); official file https://www.senat.ro/legis/PDF/2019/19L451LP.PDF
+- 2020-05-21: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L451DP.PDF
+- 2020-05-21: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L451AFP.PDF
+- 2020-05-21: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L451FP.PDF
