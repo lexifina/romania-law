@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-27: registered at the Chamber of Deputies
 - 2020-04-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-04: sent for promulgation
+- 2020-05-21: promulgated, becomes Legea nr. 65/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L092AM.PDF
 - 2020-04-29: Adresă privind sesizarea CCR (AXS): [axs-69d13115.md](axs-69d13115.md); official file https://www.senat.ro/legis/PDF/2019/19L092AXS.PDF
 - 2020-04-29: Forma trimisă la promulgare (LP): [lp-e0fdf1c4.md](lp-e0fdf1c4.md); official file https://www.senat.ro/legis/PDF/2019/19L092LP.PDF
+- 2020-05-21: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L092AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-05-21: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L092DP.PDF
+- 2020-05-21: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L092AFP.PDF
+- 2020-05-21: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L092FP.PDF
