@@ -1,0 +1,273 @@
+{
+ "key": "dcc-99-2020",
+ "label": "Decizia CCR nr. 99/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "99",
+ "date": "2020-02-25",
+ "year": "2020",
+ "heading": "DECIZIA nr. 99 din 25 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 202 alin. (3) teza întâi și ale art. 223 alin. (2) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "429",
+  "bis": false,
+  "date": "2020-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.637/231/2017/a1.3",
+  "159D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alex Costinel Grecu în Dosarul nr. 17.637/231/2017/a1.3 al Tribunalului Vrancea - Secția penală și constată că dispozițiile art. 202 alin. (3) teza întâi și ale art. 223 alin. (2) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "224",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226002",
+  "text_sha256": "15957018ace34b3510a24ee5b8705334e714dc9eab04a8f3071493c5d939365b",
+  "catalogue_sha256": "15957018ace34b3510a24ee5b8705334e714dc9eab04a8f3071493c5d939365b",
+  "fetched": "2026-11-06T02:09:06Z",
+  "chars": 26614,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406170245/https://legislatie.just.ro/Public/DetaliiDocumentAfis/226002",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226002",
+   "timestamp": "20250406170245",
+   "sha256": "a8b8d0bca273f3ca4a97b36f6e9dd72cc5b6986127b72bcd97d0e1042782620f"
+  },
+  "portal_id": "226002",
+  "tip": "DECIZIE"
+ }
+}
