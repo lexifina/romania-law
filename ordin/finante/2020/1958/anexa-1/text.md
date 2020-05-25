@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor pentru sumele determinate conform deciziei de plată a sumelor de virat în contul Fondului Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii (F.N.G.C.I.M.M.), emise în baza Ordonanței de urgență a Guvernului nr. 110/2017 privind Programul de susținere a întreprinderilor mici și mijlocii - IMM INVEST ROMÂNIA
