@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-05-06: documents published: Raport comisie sesizată pe fond
 - 2020-05-13: adopted by the Chamber of Deputies
 - 2020-05-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2020-05-25: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Guvernul României.
 - 2020-05-14: Expunere de motive (EM): [em-9042139a.md](em-9042139a.md); official file https://www.senat.ro/legis/PDF/2020/20L317EM.PDF
 - 2020-05-14: Aviz Consiliul Legislativ (LG): [lg-68b6295d.md](lg-68b6295d.md); official file https://www.senat.ro/legis/PDF/2020/20L317LG.PDF
 - 2020-05-14: Document (HG): [hg-0c3335ce.md](hg-0c3335ce.md); official file https://www.senat.ro/legis/PDF/2020/20L317HG.PDF
+- 2020-05-25: Aviz comisie (CA47): [ca47-6a020c38.md](ca47-6a020c38.md); official file https://www.senat.ro/legis/PDF/2020/20L317CA47.PDF
