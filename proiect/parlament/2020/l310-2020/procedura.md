@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-05-19: documents published: Aviz comisie
 - 2020-05-20: documents published: Aviz comisie
 - 2020-05-21: documents published: Aviz comisie
+- 2020-05-25: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Guvernul României.
 - 2020-05-19: Aviz comisie (CA43): [ca43-aa466f3a.md](ca43-aa466f3a.md); official file https://www.senat.ro/legis/PDF/2020/20L310CA43.PDF
 - 2020-05-20: Aviz comisie (CA3): [ca3-38837f66.md](ca3-38837f66.md); official file https://www.senat.ro/legis/PDF/2020/20L310CA3.PDF
 - 2020-05-21: Aviz comisie (CA5): [ca5-31dd8f2c.md](ca5-31dd8f2c.md); official file https://www.senat.ro/legis/PDF/2020/20L310CA5.PDF
+- 2020-05-25: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L310CA1.PDF
