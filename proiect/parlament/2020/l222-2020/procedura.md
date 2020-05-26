@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: registered at the Chamber of Deputies
 - 2020-05-06: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-08: sent for promulgation
+- 2020-05-26: promulgated, becomes Legea nr. 67/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L222AM.PDF
 - 2020-05-06: Adresă privind sesizarea CCR (AXS): [axs-a9ca5c66.md](axs-a9ca5c66.md); official file https://www.senat.ro/legis/PDF/2020/20L222AXS.PDF
 - 2020-05-06: Forma trimisă la promulgare (LP): [lp-8351d5dd.md](lp-8351d5dd.md); official file https://www.senat.ro/legis/PDF/2020/20L222LP.PDF
+- 2020-05-26: Decret de promulgare (DP): [dp-95c67f65.md](dp-95c67f65.md); official file https://www.senat.ro/legis/PDF/2020/20L222DP.PDF
+- 2020-05-26: Adresă privind forma promulgată (AFP): [afp-41a004ca.md](afp-41a004ca.md); official file https://www.senat.ro/legis/PDF/2020/20L222AFP.PDF
+- 2020-05-26: Forma promulgată (FP): [fp-838be71e.md](fp-838be71e.md); official file https://www.senat.ro/legis/PDF/2020/20L222FP.PDF
