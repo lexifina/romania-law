@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-25: first record in the bill file
 - 2020-02-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-05-19: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2020-05-27: registered at the Chamber of Deputies
 
 ## Documents
 
