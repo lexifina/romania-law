@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-16: documents published: Aviz comisie
 - 2020-04-28: documents published: Aviz comisie
 - 2020-04-29: documents published: Aviz comisie
+- 2020-05-27: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-16: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L219CA45.PDF
 - 2020-04-28: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L219CA3.PDF
 - 2020-04-29: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L219CA41.PDF
+- 2020-05-27: Adresă către Camera Deputaților (AM): [am-1d786aed.md](am-1d786aed.md); official file https://www.senat.ro/legis/PDF/2020/20L219AM.PDF
