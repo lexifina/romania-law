@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a noua) din 28 mai 2020, Cauza C-684/18
+
+Pentru aceste motive, Curtea (Camera a noua) declară:
+1) Articolul 185 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretat în sensul că autoritățile fiscale naționale trebuie să impună unei persoane impozabile o regularizare a deducerii inițiale a taxei pe valoare adăugată atunci când, ca urmare a obținerii de către aceasta a unor rabaturi pentru livrări interne de bunuri, autoritățile menționate consideră că deducerea inițială era mai mare decât cea la care are dreptul persoana impozabilă.
+2) Articolul 185 din Directiva 2006/112 trebuie interpretat în sensul că o regularizare a unei deduceri inițiale a taxei pe valoarea adăugată (TVA) se impune în privința unei persoane impozabile stabilite într‑un stat membru chiar și atunci când furnizorul persoanei impozabile menționate și‑a încetat activitățile în acest stat membru, iar respectivul furnizor nu mai poate, din acest motiv, să solicite rambursarea unei părți din TVA‑ul pe care l‑a achitat.
