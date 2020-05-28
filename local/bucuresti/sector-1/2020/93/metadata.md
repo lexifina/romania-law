@@ -1,0 +1,11 @@
+# HCLS1 nr. 93/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 1 al Municipiului București
+- Decision: nr. 93/2020
+- Adopted: 2020-05-28
+- Title: privind modificarea și completarea Statului de funcții al Poliției Locale Sector 1
+- Record: https://emol.ro/sectorul-1/registru-hcl/?an=2020
+- Document: https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/7644/93.2020_Anonimizat.pdf
+- Document sha256: 9b8a22585c334d08656cd46feba64c07cd9aae5bb5278c4b5e0961b18def1b9a
