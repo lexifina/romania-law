@@ -1,0 +1,39 @@
+# DECIZIA nr. 803 din 3 decembrie 2019
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 205 alin. (2) lit. e) din Codul de procedură civilă
+Valer Dorneanu - președinte
+Cristian Deliorga - judecător
+Daniel Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Cristina Cătălina Turcu - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Loredana Brezeanu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 205 alin. (2) lit. e) din Codul de procedură civilă, excepție ridicată de Lucian Todoran în Dosarul nr. 4.543/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și care formează obiectul Dosarului Curții Constituționale nr. 545 D/2019.
+2. La apelul nominal lipsesc părțile față de care procedura de citare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care solicită respingerea excepției, în principal, ca inadmisibilă, deoarece critica privește o omisiune legislativă. În subsidiar, excepția poate fi respinsă ca neîntemeiată, deoarece prevederea legală criticată este clară și previzibilă, desprinzându-se cu precizie conținutul acesteia, respectiv obligativitatea existenței semnăturii olografe, nefiind suficientă dactilografierea numelui și prenumelui.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 20 februarie 2019, pronunțată în Dosarul nr. 4.543/117/2018, Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 205 alin. (2) lit. e) din Codul de procedură civilă. Excepția a fost invocată de Lucian Todoran într-o cauză având ca obiect solicitarea aplicării de amenzi civile și penalități, în baza art. 24 din Legea contenciosului administrativ nr. 554/2004, pentru neexecutarea dispozițiilor unei decizii a Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal.
+5. În motivarea excepției de neconstituționalitate autorul arată, în esență, că art. 205 alin. (2) lit. e) din Codul de procedură civilă încalcă exigențele de claritate, precizie și previzibilitate ale legii, astfel cum acestea sunt prevăzute de art. 1 alin. (5) din Constituție. Autorul solicită constatarea constituționalității textului de lege criticat „în măsura în care prin semnătură se înțelege semnătura pârâtului sau a reprezentantului cu prenumele și numele indicate în întâmpinare“.
+6. Se susține că prevederea legală criticată nu menționează a cui este semnătura ce trebuie cuprinsă în întâmpinare și permite mai multe interpretări. Prima este aceea că semnătura îi aparține aceluia numit cu prenume și nume în întâmpinare, fie că este pârât, respectiv parte, fie că este reprezentant al acestuia, respectiv acesteia. Din cea de-a doua interpretare reiese că oricine poate semna în locul pârâtului, respectiv al părții sau al reprezentantului folosind semnul convențional „bară“ sau prescurtarea „p“, ceea ce semnifică „pentru“. Se complinește astfel satisfacerea cerinței legale formale chiar dacă prenumele și numele celui care semnează nu sunt indicate în cuprinsul actului procedural. Cel de-al doilea înțeles este neconstituțional, deoarece nu se oferă o minimă securitate în privința posibilității de identificare a celui care semnează și lasă deschisă posibilitatea ca datele de identificare ale pârâtului, respectiv ale părții sau ale reprezentantului să fie indicate doar formal în actul procedural, dar o altă persoană nenumită să semneze în numele acestora, indicând acest fapt prin semne convenționale. Această chestiune nu poate fi lăsată pe seama interpretării legii căci privește calitatea procesuală sau calitatea de reprezentant, chestiune de ordine publică, iar actele nesemnate legal pot fi lovite de nulitate.
+7. Tribunalul Cluj - Secția mixtă de contencios administrativ și fiscal de conflicte de muncă și asigurări sociale, apreciază că excepția de neconstituționalitate este neîntemeiată, textul de lege criticat este accesibil și previzibil, iar sensul noțiunii de semnătură este acela de semnătură olografă, indiferent de menționarea în integralitate a numelui și prenumelui.
+8. Potrivit dispozițiilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului, precum și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate ridicate.
+9. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+10. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+11. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 205 alin. (2) lit. e) din Codul de procedură civilă, potrivit cărora: „Întâmpinarea va cuprinde: [...] e) semnătura“.
+12. În opinia autorului excepției de neconstituționalitate, prevederile legale criticate contravin dispozițiilor constituționale ale art. 1 alin. (5) sub aspectul cerințelor de calitate ale legii.
+13. Examinând excepția de neconstituționalitate, Curtea constată că aceasta este inadmisibilă din perspectiva motivării formulate de către autor. Astfel, autorul arată că art. 205 alin. (2) lit. e) din Codul de procedură civilă este neclar și imprevizibil deoarece oricine poate semna în locul pârâtului sau al reprezentantului acestuia folosind semnul convențional „bară“ sau prescurtarea „p“, ceea ce semnifică „pentru“. Or, o atare critică nu se constituie într-un motiv de neconstituționalitate, ci reprezintă o problemă de aplicare a textului de lege criticat în practică. Verificarea legalității întâmpinării constituie atributul exclusiv al instanței care judecă fondul cauzei și excedează competenței Curții Constituționale.
+14. Având în vedere aspectele reținute, Curtea constată că excepția de neconstituționalitate vizează o problemă de interpretare și aplicare a legii, iar nu o problemă de constituționalitate a textului de lege criticat și, prin urmare, aceasta este inadmisibilă (a se vedea, ad similis, Decizia nr. 46 din 22 ianuarie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 315 din 23 aprilie 2019).
+15. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 205 alin. (2) lit. e) din Codul de procedură civilă, excepție ridicată de Lucian Todoran în Dosarul nr. 4.543/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale.
+Definitivă și general obligatorie.
+Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 3 decembrie 2019.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Cristina Cătălina Turcu
