@@ -1,0 +1,2 @@
+# ANEXE nr. 1-2
+ANEXE pentru modificarea anexelor nr. 1 și 2 la Ordinul ministrului agriculturii și dezvoltării rurale nr. 194/2019 privind aprobarea sistemelor de sancțiuni aplicabile cererilor de plată depuse începând cu anul 2019 pentru măsurile 10 "Agromediu și climă", 11 "Agricultura ecologică" și 13 "Plăți pentru zone care se confruntă cu constrângeri naturale sau cu alte constrângeri specifice" prevăzute în Programul Național de Dezvoltare Rurală 2014 - 2020
