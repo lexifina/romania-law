@@ -1,0 +1,9 @@
+# HCL Miroslovești nr. 48/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Miroslovești
+- Decision: nr. 48/2020
+- Adopted: 2020-05-29
+- Title: privind alegerea președintelui de ședință al Consiliului Local Miroslovești
+- Record: https://emol.ro/miroslovesti-is/registru-hcl/28890
