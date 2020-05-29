@@ -17,9 +17,13 @@ Initiator: Guvernul României.
 - 2020-05-05: adopted by the Senate
 - 2020-05-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-11: sent for promulgation
+- 2020-05-29: promulgated, becomes Legea nr. 70/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
 - 2020-03-10: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L240CR.PDF
 - 2020-05-06: Adresă privind sesizarea CCR (AXS): [axs-1f619770.md](axs-1f619770.md); official file https://www.senat.ro/legis/PDF/2020/20L240AXS.PDF
 - 2020-05-06: Forma trimisă la promulgare (LP): [lp-0812e1e9.md](lp-0812e1e9.md); official file https://www.senat.ro/legis/PDF/2020/20L240LP.PDF
+- 2020-05-29: Decret de promulgare (DP): [dp-18729855.md](dp-18729855.md); official file https://www.senat.ro/legis/PDF/2020/20L240DP.PDF
+- 2020-05-29: Adresă privind forma promulgată (AFP): [afp-5dbabcd4.md](afp-5dbabcd4.md); official file https://www.senat.ro/legis/PDF/2020/20L240AFP.PDF
+- 2020-05-29: Forma promulgată (FP): [fp-2b85d653.md](fp-2b85d653.md); official file https://www.senat.ro/legis/PDF/2020/20L240FP.PDF
