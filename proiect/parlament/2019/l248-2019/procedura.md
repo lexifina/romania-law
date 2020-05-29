@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-18: registered at the Chamber of Deputies
 - 2020-05-06: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-11: sent for promulgation
+- 2020-05-29: promulgated, becomes Legea nr. 69/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L248AM.PDF
 - 2020-05-06: Adresă privind sesizarea CCR (AXS): [axs-ef6226d6.md](axs-ef6226d6.md); official file https://www.senat.ro/legis/PDF/2019/19L248AXS.PDF
 - 2020-05-06: Forma trimisă la promulgare (LP): [lp-1a40dca5.md](lp-1a40dca5.md); official file https://www.senat.ro/legis/PDF/2019/19L248LP.PDF
+- 2020-05-29: Decret de promulgare (DP): [dp-6d2453ce.md](dp-6d2453ce.md); official file https://www.senat.ro/legis/PDF/2019/19L248DP.PDF
+- 2020-05-29: Adresă privind forma promulgată (AFP): [afp-64c9d5ea.md](afp-64c9d5ea.md); official file https://www.senat.ro/legis/PDF/2019/19L248AFP.PDF
+- 2020-05-29: Forma promulgată (FP): [fp-d212bea4.md](fp-d212bea4.md); official file https://www.senat.ro/legis/PDF/2019/19L248FP.PDF
