@@ -1,0 +1,2 @@
+# Anexa nr. 1
+METODOLOGIE de organizare și desfășurare a probelor pentru obținerea atestatului de competență lingvistică pentru absolvenții claselor cu studiu intensiv și bilingv al unei limbi moderne și pentru absolvenții claselor cu predare în limbile minorităților, precum și a atestatului pentru predarea unei limbi moderne la clasele I-IV de către absolvenții claselor cu profil pedagogic, specializarea învățători-educatoare, pentru anul școlar 2019-2020
