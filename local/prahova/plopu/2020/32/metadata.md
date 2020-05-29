@@ -1,0 +1,9 @@
+# HCL Plopu nr. 32/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 32/2020
+- Adopted: 2020-05-29
+- Title: privind INFIINTAREA SERVICIULUI DE ILUMINAT PUBLIC AL COMUNEI PLOPU, JUDETUL PRAHOVA, PRIN APROBAREA REGULAMENTULUI SERVICIULUI DE ILUMINAT PUBLIC, AL STUDIULUI DE OPORTUNITAE, AL CAIETULUI DE SARCINI SI AL CONTRACTULUI – CADRU DE DELEGARE A GESTIUNII SERVICIULUI DE ILUMINAT PUBLIC
+- Record: https://emol.ro/plopu-ph/registru-hcl/3453
