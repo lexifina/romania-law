@@ -1,0 +1,12 @@
+# Anexa nr. 3 la regulament
+Model de întocmire a notificării privind rezilierea CR
+Către: [FURNIZOR]
+Fax:............................... [Client final] [OPERATOR DISTRIBUȚIE]
+Spre știință: ANRE, [FUI]
+NOTIFICARE 2 privind rezilierea Contractului de [transport/distribuție] nr..........
+Subscrisa [OPERATOR REȚEA], cu sediul în județul........, municipiul.........., str.......... nr......., înregistrată la oficiul registrului comerțului cu nr. J.../.../..., CUI RO......, cont RO............................ deschis la......................................., având în vedere faptul că până la data de........... [a 5-a zi lucrătoare de la data Notificării 1], [FURNIZOR] nu a achitat integral, în beneficiul subscrisei, conform Notificării 1 nr........ din data........, suma de............. lei [suma minimă de plată], inclusiv prin executarea garanției financiare, în temeiul: • art......... din Contractul de [transport/distribuție] nr.............. încheiat între [OPERATOR REȚEA] în calitate de operator de [transport/distribuție] și [FURNIZOR] în calitate de furnizor de energie electrică; • art. 35 alin. (8) lit. a) din Regulamentul de furnizare a energiei electrice la clienții finali, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 235/2019, prin prezenta notificăm:
+1. [FURNIZOR] rezilierea contractului de [transport/distribuție] a energiei electrice nr.......................... cu încetare de la data de............. [a 22-a zi lucrătoare de la data prezentei notificări], în cazul in care [FURNIZOR] nu achită integral suma de...............lei [suma minimă de plată] până la data de............... [a 21-a zi de la data prezentei notificări];
+2. clienții finali ai [FURNIZOR] să își aleagă un alt furnizor pentru că altfel, în cazul prevăzut la pct. 1, începând cu data de.............[a 22-a zi lucrătoare de la data prezentei notificări] nu vor mai avea asigurată furnizarea energiei electrice și vor fi transferați la furnizorul de ultimă instanță [FUI];
+3. clienții finali ai [FURNIZOR] pentru care a fost întreruptă alimentarea cu energie electrică fără rezilierea contractului de furnizare a energiei electrice trecerea lor la [FUI] în cazul prevăzut la pct. 1 și obligativitatea de a prezenta acestuia dovada achitării la zi a debitelor aferente consumului de energie electrică realizat până la data întreruperii alimentării cu energie electrică, în vederea realimentării.
+Cu stimă,
+Director.................................
