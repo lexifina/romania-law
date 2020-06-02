@@ -1,0 +1,2 @@
+# ANEXĂ
+SISTEM DE SANCȚIUNI aplicabil începând cu anul 2020 pentru cererile de sprijin/plată aferente angajamentelor ce fac obiectul schemei de ajutor de stat "Servicii de silvomediu, servicii climatice și conservarea pădurilor", aferentă măsurii 15 "Servicii de silvomediu, servicii climatice și conservarea pădurilor", submăsura 15.1 "Plăți pentru angajamente de silvomediu" din cadrul Programului Național de Dezvoltare Rurală 2014-2020
