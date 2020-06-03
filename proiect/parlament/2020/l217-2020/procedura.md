@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-30: documents published: Aviz comisie
 - 2020-05-05: documents published: Raport comisie sesizată pe fond
 - 2020-05-27: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2020-06-03: registered at the Chamber of Deputies
 
 ## Documents
 
