@@ -1,0 +1,176 @@
+{
+ "key": "dcc-137-2020",
+ "label": "Decizia CCR nr. 137/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "137",
+ "date": "2020-03-12",
+ "year": "2020",
+ "heading": "DECIZIA nr. 137 din 12 martie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 717 alin. (2) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "476",
+  "bis": false,
+  "date": "2020-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "39.016/245/2016",
+  "2.012D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "717",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată din oficiu de Judecătoria Iași - Secția civilă în Dosarul nr. 39.016/245/2016 și constată că dispozițiile art. 717 alin. (2) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "717",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "298",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "242",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226576",
+  "text_sha256": "64a0862433ed08d97b7acdd420ab5002f79b1a719ef362488a7ef67035ed364c",
+  "catalogue_sha256": "64a0862433ed08d97b7acdd420ab5002f79b1a719ef362488a7ef67035ed364c",
+  "fetched": "2026-11-03T02:00:42Z",
+  "chars": 17484,
+  "portal_id": "226576",
+  "tip": "DECIZIE"
+ }
+}
