@@ -1,0 +1,222 @@
+{
+ "key": "dcc-91-2020",
+ "label": "Decizia CCR nr. 91/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "91",
+ "date": "2020-02-25",
+ "year": "2020",
+ "heading": "DECIZIA nr. 91 din 25 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 37^1 din Ordonanța Guvernului nr. 60/1997 privind apărarea împotriva incendiilor, ale Legii nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și ale art. 38 din Legea nr. 307/2006 privind apărarea împotriva incendiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "476",
+  "bis": false,
+  "date": "2020-06-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "5.130/120/2016",
+  "2.522D/2017",
+  "2.702D/2017",
+  "5.131/120/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 60/1997",
+    "number": "60",
+    "year": "1997",
+    "path": "og/1997/60"
+   },
+   "articles": [
+    {
+     "art": "37-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 307/2006",
+    "number": "307",
+    "year": "2006",
+    "path": "lege/2006/307"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 37^1 din Ordonanța Guvernului nr. 60/1997 privind apărarea împotriva incendiilor, ale Legii nr. 226/2006 privind încadrarea unor locuri de muncă în condiții speciale și ale art. 38 din Legea nr. 307/2006 privind apărarea împotriva incendiilor, excepție ridicată de Daniel Iolu, Nicu Neagu și de Ionel Pavel în Dosarul nr. 5.130/120/2016 al Curții de Apel Ploiești - Secția I civilă și de Constantin Sontea și de Constantin Diaconu în Dosarul nr. 5.131/120/2016 al Curții de Apel Ploiești - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 60/1997",
+    "number": "60",
+    "year": "1997",
+    "path": "og/1997/60"
+   },
+   "articles": [
+    {
+     "art": "37-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 226/2006",
+    "number": "226",
+    "year": "2006",
+    "path": "lege/2006/226"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 307/2006",
+    "number": "307",
+    "year": "2006",
+    "path": "lege/2006/307"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226575",
+  "text_sha256": "4d18990ad392648fd8248ed32eccfa0a506ed757cd690cf77460052f063fc7b5",
+  "catalogue_sha256": "4d18990ad392648fd8248ed32eccfa0a506ed757cd690cf77460052f063fc7b5",
+  "fetched": "2026-11-03T02:00:42Z",
+  "chars": 15482,
+  "portal_id": "226575",
+  "tip": "DECIZIE"
+ }
+}
