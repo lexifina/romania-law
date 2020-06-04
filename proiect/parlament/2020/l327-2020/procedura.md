@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-20: adopted by the Chamber of Deputies
 - 2020-05-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-06-03: documents published: Aviz comisie
+- 2020-06-04: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-22: Forma inițiatorului (FG): [fg-78902b79.md](fg-78902b79.md); official file https://www.senat.ro/legis/PDF/2020/20L327FG.PDF
 - 2020-05-22: Expunere de motive (EM): [em-7f0f04e8.md](em-7f0f04e8.md); official file https://www.senat.ro/legis/PDF/2020/20L327EM.PDF
 - 2020-06-03: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L327CA3.PDF
+- 2020-06-04: Aviz comisie (CA45): [ca45-9fd2f45a.md](ca45-9fd2f45a.md); official file https://www.senat.ro/legis/PDF/2020/20L327CA45.PDF
