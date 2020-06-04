@@ -1,0 +1,559 @@
+{
+ "key": "dcc-155-2020",
+ "label": "Decizia CCR nr. 155/2020",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "155",
+ "date": "2020-05-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 155 din 6 mai 2020",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru suspendarea rambursării creditelor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "473",
+  "bis": false,
+  "date": "2020-06-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "492A/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru suspendarea rambursării creditelor"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată și constată că Legea pentru suspendarea rambursării creditelor este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 77
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 37/2020",
+    "number": "37",
+    "year": "2020",
+    "path": "oug/2020/37"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2008",
+    "number": "221",
+    "year": "2008",
+    "path": "lege/2008/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "3-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 312/2004",
+    "number": "312",
+    "year": "2004",
+    "path": "lege/2004/312"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2020",
+    "number": "34",
+    "year": "2020",
+    "path": "oug/2020/34"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 37/2020",
+    "number": "37",
+    "year": "2020",
+    "path": "lege/2020/37"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226553",
+  "text_sha256": "7d9fa5aaa7b67ebad337c3d0d9ae28e604fbd477254cf8e271f07cb2d3f98e8a",
+  "catalogue_sha256": "7d9fa5aaa7b67ebad337c3d0d9ae28e604fbd477254cf8e271f07cb2d3f98e8a",
+  "fetched": "2026-11-03T20:00:11Z",
+  "chars": 122131,
+  "portal_id": "226553",
+  "tip": "DECIZIE"
+ }
+}
