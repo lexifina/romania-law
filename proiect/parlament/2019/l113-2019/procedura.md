@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-20: registered at the Chamber of Deputies
 - 2020-05-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-19: sent for promulgation
+- 2020-06-05: promulgated, becomes Legea nr. 73/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L113AM.PDF
 - 2020-05-13: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2019/19L113AXS.PDF
 - 2020-05-13: Forma trimisă la promulgare (LP): [lp-eb64e784.md](lp-eb64e784.md); official file https://www.senat.ro/legis/PDF/2019/19L113LP.PDF
+- 2020-06-05: Decret de promulgare (DP): [dp-8d2c06a4.md](dp-8d2c06a4.md); official file https://www.senat.ro/legis/PDF/2019/19L113DP.PDF
+- 2020-06-05: Adresă privind forma promulgată (AFP): [afp-8e7eb2cf.md](afp-8e7eb2cf.md); official file https://www.senat.ro/legis/PDF/2019/19L113AFP.PDF
+- 2020-06-05: Forma promulgată (FP): [fp-b79ed0d9.md](fp-b79ed0d9.md); official file https://www.senat.ro/legis/PDF/2019/19L113FP.PDF
