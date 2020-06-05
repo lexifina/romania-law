@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-05-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-19: sent for promulgation
+- 2020-06-05: promulgated, becomes Legea nr. 72/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L352AM.PDF
 - 2020-05-13: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2019/19L352AXS.PDF
 - 2020-05-13: Forma trimisă la promulgare (LP): [lp-5ed9e77e.md](lp-5ed9e77e.md); official file https://www.senat.ro/legis/PDF/2019/19L352LP.PDF
+- 2020-06-05: Decret de promulgare (DP): [dp-33a5a9f1.md](dp-33a5a9f1.md); official file https://www.senat.ro/legis/PDF/2019/19L352DP.PDF
+- 2020-06-05: Adresă privind forma promulgată (AFP): [afp-8e7eb2cf.md](afp-8e7eb2cf.md); official file https://www.senat.ro/legis/PDF/2019/19L352AFP.PDF
+- 2020-06-05: Forma promulgată (FP): [fp-31a028e4.md](fp-31a028e4.md); official file https://www.senat.ro/legis/PDF/2019/19L352FP.PDF
