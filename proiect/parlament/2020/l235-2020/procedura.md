@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-05-05: documents published: Aviz comisie
 - 2020-05-12: documents published: Aviz comisie
 - 2020-06-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-06-05: sent for promulgation
 
 ## Documents
 
