@@ -1,0 +1,35 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/750 AL COMISIEI
+din 5 iunie 2020
+de stabilire a unei proceduri pentru prelungirea perioadei de tranziție prevăzute de Regulamentul de punere în aplicare (UE) 2015/2447 pentru aplicarea sistemului exportatorilor înregistrați în unele țări beneficiare ale sistemului generalizat de preferințe
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii (1), în special articolul 66 litera (a),
+întrucât:
+(1) Regulamentul de punere în aplicare (UE) 2015/2447 al Comisiei (2) stabilește normele procedurale menționate la articolul 64 alineatul (1) din Regulamentul (UE) nr. 952/2013, pentru a facilita stabilirea în Uniune a originii preferențiale a mărfurilor, inclusiv a regulilor de origine procedurale în scopul sistemului generalizat de preferințe (SGP) al Uniunii.
+(2) Articolul 79 alineatul (4) din Regulamentul de punere în aplicare (UE) 2015/2447 prevede că toate țările care beneficiază de SGP trebuie să aplice sistemul exportatorilor înregistrați (sistemul REX) cel târziu începând cu 30 iunie 2020 pentru certificarea caracterului originar preferențial în cadrul SGP. După acea dată, autoritățile competente din țările respective nu mai pot elibera certificate de origine tip A.
+(3) Pentru a limita răspândirea COVID-19, care, la 11 martie 2020, a fost declarată pandemie de către Organizația Mondială a Sănătății, s-a instituit un set de măsuri fără precedent, compus în particular din măsuri de izolare și de distanțare socială a persoanelor. Măsurile respective au afectat și personalul întreprinderilor și administrațiilor publice din țările beneficiare ale SGP, implicat în gestionarea procedurilor de determinare a originii în cadrul SGP și în crearea și operarea sistemului REX, fapt care a avut un impact negativ asupra procedurilor de lucru, a producției și a schimburilor comerciale normale.
+(4) Recunoscând impactul asupra partenerilor comerciali, Comisia și Înaltul Reprezentant al Uniunii pentru afaceri externe și politica de securitate au prezentat o Comunicare comună privind reacția globală a UE la COVID-19 (3), în care au fost formulate planuri privind un răspuns robust și punctual al Uniunii pentru sprijinirea eforturilor de combatere a pandemiei de COVID-19 depuse de țările partenere.
+(5) Din cauza pandemiei de COVID-19, unele țări beneficiare ale SGP se confruntă cu dificultăți serioase în ceea ce privește respectarea termenului de 30 iunie 2020 pentru aplicarea sistemului REX. Țările beneficiare în care sistemul REX nu a putut fi implementat sau utilizat din cauza pandemiei trebuie să poată beneficia de o prelungire a perioadei de tranziție.
+(6) Ținând cont de faptul că o astfel de prelungire ar constitui o măsură excepțională, care ar deroga de la durata maximă a perioadei de tranziție prevăzută de Regulamentul de punere în aplicare (UE) 2015/2447, țara beneficiară trebuie să prezinte, în completarea notificării necesității de a beneficia de o prelungire, o justificare a necesității prelungirii perioadei de tranziție, precum și un plan de lucru care să detalieze modul în care intenționează să aplice integral sistemul REX până la sfârșitul perioadei de tranziție prelungite avute în vedere. Din aceleași motive, orice prelungire a perioadei de tranziție pentru aplicarea sistemului REX trebuie să fie limitată în timp.
+(7) Trebuie prevăzut un mecanism de raportare, pentru a se asigura faptul că țările beneficiare pentru care s-a prelungit perioada de tranziție își continuă pregătirile pentru aplicarea sistemului REX astfel încât să respecte noul termen.
+(8) Ținând cont de dificultățile întâmpinate de anumite țări beneficiare în îndeplinirea obligațiilor lor din cauza pandemiei de COVID-19, prezentul regulament trebuie să intre în vigoare în regim de urgență.
+(9) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului Codului vamal,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Prin derogare de la dispozițiile articolului 79 alineatul (4) din Regulamentul de punere în aplicare (UE) 2015/2447, o țară beneficiară a sistemului generalizat de preferințe care, din cauza pandemiei de COVID-19, întâmpină dificultăți în îndeplinirea obligațiilor prevăzute la articolele 70 și 72 din regulamentul de punere în aplicare menționat sau în finalizarea procesului de înregistrare a exportatorilor săi până la 30 iunie 2020, poate notifica necesitatea prelungirii perioadei de tranziție pentru aplicarea sistemului REX.
+(2) O notificare efectuată în temeiul alineatului (1) trebuie să fie transmisă Comisiei în scris cel târziu până la 15 iulie 2020. Aceasta trebuie să furnizeze o explicație a motivului pentru care este necesară o prelungire a perioadei de tranziție ca urmare a pandemiei de COVID-19. Notificarea trebuie să fie însoțită de un plan de lucru care să conțină informații detaliate cu privire la modul în care țara notificatoare intenționează să aplice integral sistemul REX până la 31 decembrie 2020.
+(3) Dacă notificarea efectuată în temeiul alineatului (1) este completă, perioada de tranziție pentru aplicarea sistemului REX de către țara beneficiară în cauză se prelungește până la 31 decembrie 2020.
+(4) Comisia publică pe site-ul său web o listă a țărilor beneficiare pentru care perioada de tranziție a fost prelungită.
+(5) Până la 31 decembrie 2020, autoritățile competente ale unei țări beneficiare pentru care perioada de tranziție a fost prelungită în temeiul alineatelor (1)-(4) trebuie să continue să elibereze certificate de origine tip A la cererea exportatorilor care nu sunt încă înregistrați la momentul solicitării certificatului.
+Articolul 2
+Fiecare țară beneficiară pentru care perioada de tranziție a fost prelungită în conformitate cu articolul 1 prezintă Comisiei, până la 30 septembrie 2020, un raport în care detaliază progresele înregistrate în implementarea planului de lucru menționat la articolul 1 alineatul (2) și specifică orice eventuale măsuri corective necesare pentru respectarea termenului de 31 decembrie 2020 pentru aplicarea sistemului REX.
+Articolul 3
+Prezentul regulament intră în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 5 iunie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 269, 10.10.2013, p. 1.
+(2) Regulamentul de punere în aplicare (UE) 2015/2447 al Comisiei din 24 noiembrie 2015 de stabilire a unor norme pentru punerea în aplicare a anumitor dispoziții din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului de stabilire a Codului vamal al Uniunii (JO L 343, 29.12.2015, p. 558).
+(3) JOIN(2020) 11 final, Comunicarea comună a Comisiei către Parlamentul European, Consiliu, Comitetul Economic și Social European și Comitetul Regiunilor – Comunicarea privind reacția globală a UE la COVID-19.
