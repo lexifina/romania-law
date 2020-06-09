@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-30: documents published: Aviz comisie
 - 2020-05-04: documents published: Aviz comisie
 - 2020-06-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2020-06-09: registered at the Chamber of Deputies
 
 ## Documents
 
