@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-19: sent for promulgation
 - 2020-06-05: promulgated, becomes Legea nr. 73/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-06-09: published in the Monitorul Oficial
 
 ## Documents
 
