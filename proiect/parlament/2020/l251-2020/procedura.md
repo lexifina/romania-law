@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-04-24: registered at the Senate
 - 2020-05-06: documents published: Aviz comisie
 - 2020-05-07: documents published: Aviz comisie
+- 2020-06-10: rejected by the Senate
 
 ## Documents
 
