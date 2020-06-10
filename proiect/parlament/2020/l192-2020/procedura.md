@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-05-06: registered at the Chamber of Deputies
 - 2020-05-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-22: sent for promulgation
+- 2020-06-10: promulgated, becomes Legea nr. 75/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-91544bd0.md](am-91544bd0.md); official file https://www.senat.ro/legis/PDF/2020/20L192AM.PDF
 - 2020-05-20: Adresă privind sesizarea CCR (AXS): [axs-351789b1.md](axs-351789b1.md); official file https://www.senat.ro/legis/PDF/2020/20L192AXS.PDF
 - 2020-05-20: Forma trimisă la promulgare (LP): [lp-bbd55998.md](lp-bbd55998.md); official file https://www.senat.ro/legis/PDF/2020/20L192LP.PDF
+- 2020-06-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L192DP.PDF
+- 2020-06-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L192AFP.PDF
+- 2020-06-10: Forma promulgată (FP): [fp-270eb0ab.md](fp-270eb0ab.md); official file https://www.senat.ro/legis/PDF/2020/20L192FP.PDF
