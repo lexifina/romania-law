@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-05-25: documents published: Aviz comisie
 - 2020-05-26: documents published: Aviz comisie
 - 2020-05-27: documents published: Aviz comisie
+- 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Guvernul României.
 - 2020-05-25: Aviz comisie (CA47): [ca47-6a020c38.md](ca47-6a020c38.md); official file https://www.senat.ro/legis/PDF/2020/20L317CA47.PDF
 - 2020-05-26: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L317CA1.PDF
 - 2020-05-27: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L317CA41.PDF
+- 2020-06-10: Forma adoptată de Senat (FS): [fs-32978d89.md](fs-32978d89.md); official file https://www.senat.ro/legis/PDF/2020/20L317FS.PDF
