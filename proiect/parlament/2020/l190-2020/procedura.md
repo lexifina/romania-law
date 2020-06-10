@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-04-27: registered at the Chamber of Deputies
 - 2020-05-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-22: sent for promulgation
+- 2020-06-10: promulgated, becomes Legea nr. 76/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-04-23: Adresă către Camera Deputaților (AM): [am-e630b66b.md](am-e630b66b.md); official file https://www.senat.ro/legis/PDF/2020/20L190AM.PDF
 - 2020-05-20: Adresă privind sesizarea CCR (AXS): [axs-6f4b063b.md](axs-6f4b063b.md); official file https://www.senat.ro/legis/PDF/2020/20L190AXS.PDF
 - 2020-05-20: Forma trimisă la promulgare (LP): [lp-d341ff36.md](lp-d341ff36.md); official file https://www.senat.ro/legis/PDF/2020/20L190LP.PDF
+- 2020-06-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L190DP.PDF
+- 2020-06-10: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L190AFP.PDF
+- 2020-06-10: Forma promulgată (FP): [fp-4fe207b5.md](fp-4fe207b5.md); official file https://www.senat.ro/legis/PDF/2020/20L190FP.PDF
