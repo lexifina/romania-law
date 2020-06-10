@@ -14,7 +14,9 @@ Initiator: Guvernul României.
 - 2020-04-23: adopted by the Chamber of Deputies
 - 2020-04-24: registered at the Senate
 - 2020-05-13: documents published: Aviz comisie
+- 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
 - 2020-05-13: Aviz comisie (CA16): [ca16-7dccbded.md](ca16-7dccbded.md); official file https://www.senat.ro/legis/PDF/2020/20L242CA16.PDF
+- 2020-06-10: Forma adoptată de Senat (FS): [fs-ba1ab581.md](fs-ba1ab581.md); official file https://www.senat.ro/legis/PDF/2020/20L242FS.PDF
