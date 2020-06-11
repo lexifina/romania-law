@@ -1,0 +1,324 @@
+{
+ "key": "iccj-hp-4-2020",
+ "label": "Decizia ÎCCJ nr. 4/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "4",
+ "date": "2020-01-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 4 din 20 ianuarie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 32 alin. (1) lit. b) din Codul de procedură civilă cu trimitere la ipotezele de transmisiune a calității procesuale în situația actelor de înstrăinare cu titlu particular, precum și la interpretarea și aplicarea dispozițiilor art. 38-39 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "496",
+  "bis": false,
+  "date": "2020-06-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.120/1/2019",
+  "11.035/320/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Specializat Mureș în Dosarul nr. 11.035/320/2017* privind pronunțarea unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "1. Modul de interpretare a dispozițiilor art. 32 alin. (1) lit. b) din Codul de procedură civilă cu trimitere la ipotezele de transmisiune a calității procesuale în situația actelor de înstrăinare cu titlu particular, inter vivos, în sensul în care calitatea procesuală se raportează și decurge strict din calitatea de parte în raportul juridic de drept material, indiferent de etapele judecății, sau în etapa judecării căilor de atac interpretarea noțiunii se subsumează preluării calității de parte ca urmare a participării la judecata litigiului în primă instanță?",
+  "2. Modul de interpretare și aplicare a dispozițiilor art. 38-39 din Codul de procedură civilă în sensul în care acestea reglementează o instituție de sine stătătoare, fără distincția dată de calitatea părților în proces și etapa de judecată (primă instanță, respectiv căi de atac), sub rezerva dovedirii transmisiunii intervenite în cadrul raportului de drept material dedus judecății, sau, din contră, reținerea reglementărilor ca fiind de drept comun în materia transmisiunii calității procesuale a părților prin acte cu titlu particular, inter vivos, valorificate în concret în cadrul litigiului prin mijlocirea unei forme de intervenție dintre cele reglementate de dispozițiile art. 61-79 din Codul de procedură civilă, în condițiile și limitele stabilite de acestea, inclusiv în raport cu dispozițiile aplicabile în funcție de etapele judecății (primă instanță, respectiv căi de atac)?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1026",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226710",
+  "text_sha256": "1b960aafb017f22be5029052569f0c614737ec206eedc78efe6476b774d55a03",
+  "catalogue_sha256": "1b960aafb017f22be5029052569f0c614737ec206eedc78efe6476b774d55a03",
+  "fetched": "2026-11-03T02:00:34Z",
+  "chars": 44537,
+  "portal_id": "226710",
+  "tip": "DECIZIE"
+ }
+}
