@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-24: returned for re-examination
 - 2020-05-27: returned for re-examination
 - 2020-06-02: sent for promulgation
+- 2020-06-11: promulgated, becomes Legea nr. 78/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146FS.PDF
 - 2019-09-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146AXS.PDF
 - 2019-09-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146LP.PDF
+- 2020-06-11: Decret de promulgare (DP): [dp-1bc779bb.md](dp-1bc779bb.md); official file https://www.senat.ro/legis/PDF/2019/19L146DP.PDF
+- 2020-06-11: Adresă privind forma promulgată (AFP): [afp-41ed0eeb.md](afp-41ed0eeb.md); official file https://www.senat.ro/legis/PDF/2019/19L146AFP.PDF
+- 2020-06-11: Forma promulgată (FP): [fp-82e0ab18.md](fp-82e0ab18.md); official file https://www.senat.ro/legis/PDF/2019/19L146FP.PDF
