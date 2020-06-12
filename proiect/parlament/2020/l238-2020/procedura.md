@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-05-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-26: sent for promulgation
+- 2020-06-12: promulgated, becomes Legea nr. 80/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Forma adoptată de Senat (FS): [fs-6c97665d.md](fs-6c97665d.md); official file https://www.senat.ro/legis/PDF/2020/20L238FS.PDF
 - 2020-05-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L238AXS.PDF
 - 2020-05-20: Forma trimisă la promulgare (LP): [lp-0274c985.md](lp-0274c985.md); official file https://www.senat.ro/legis/PDF/2020/20L238LP.PDF
+- 2020-06-12: Decret de promulgare (DP): [dp-9fd4ce50.md](dp-9fd4ce50.md); official file https://www.senat.ro/legis/PDF/2020/20L238DP.PDF
+- 2020-06-12: Adresă privind forma promulgată (AFP): [afp-95a5bef3.md](afp-95a5bef3.md); official file https://www.senat.ro/legis/PDF/2020/20L238AFP.PDF
+- 2020-06-12: Forma promulgată (FP): [fp-4495e9f6.md](fp-4495e9f6.md); official file https://www.senat.ro/legis/PDF/2020/20L238FP.PDF
