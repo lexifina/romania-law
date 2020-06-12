@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-05-19: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-05-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-26: sent for promulgation
+- 2020-06-12: promulgated, becomes Legea nr. 81/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2020-05-19: Forma adoptată de Senat (FS): [fs-7aee0ba3.md](fs-7aee0ba3.md); official file https://www.senat.ro/legis/PDF/2020/20L248FS.PDF
 - 2020-05-20: Adresă privind sesizarea CCR (AXS): [axs-177008bf.md](axs-177008bf.md); official file https://www.senat.ro/legis/PDF/2020/20L248AXS.PDF
 - 2020-05-20: Forma trimisă la promulgare (LP): [lp-e9caf247.md](lp-e9caf247.md); official file https://www.senat.ro/legis/PDF/2020/20L248LP.PDF
+- 2020-06-12: Decret de promulgare (DP): [dp-c8566f07.md](dp-c8566f07.md); official file https://www.senat.ro/legis/PDF/2020/20L248DP.PDF
+- 2020-06-12: Adresă privind forma promulgată (AFP): [afp-662fb581.md](afp-662fb581.md); official file https://www.senat.ro/legis/PDF/2020/20L248AFP.PDF
+- 2020-06-12: Forma promulgată (FP): [fp-1e41f7f7.md](fp-1e41f7f7.md); official file https://www.senat.ro/legis/PDF/2020/20L248FP.PDF
