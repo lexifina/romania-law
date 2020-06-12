@@ -1,0 +1,22 @@
+# Proiect de lege L372/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 236/2021 (`legea-236-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.98/2020 pentru prorogarea intrării în vigoare a unor prevederi din Legea nr.75/2020 privind aprobarea Ordonanţei de urgenţă a Guvernului nr.42/2020 pentru modificarea şi completarea Ordonanţei de urgenţă nr.110/2017 privind Programul de susţinere a întreprinderilor mici şi mijlocii - IMM INVEST ROMÂNIA, precum şi pentru aprobarea Schemei de ajutor de stat pentru susţinerea activităţii IMM-urilor în contextul crizei economice generate de pandemia COVID-19
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-06-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-06-12: Adresă de înaintare a inițiativei (AD): [ad-2b336018.md](ad-2b336018.md); official file https://www.senat.ro/legis/PDF/2020/20L372AD.PDF
+- 2020-06-12: Forma inițiatorului (FG): [fg-6c6d91d2.md](fg-6c6d91d2.md); official file https://www.senat.ro/legis/PDF/2020/20L372FG.PDF
+- 2020-06-12: Expunere de motive (EM): [em-105c58b8.md](em-105c58b8.md); official file https://www.senat.ro/legis/PDF/2020/20L372EM.PDF
+- 2020-06-12: Aviz Consiliul Legislativ (LG): [lg-afe46ca9.md](lg-afe46ca9.md); official file https://www.senat.ro/legis/PDF/2020/20L372LG.PDF
+- 2020-06-12: Document (OG): [og-9f1ddb83.md](og-9f1ddb83.md); official file https://www.senat.ro/legis/PDF/2020/20L372OG.PDF
+- 2020-06-12: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L372HG.PDF
