@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-06: documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2020-05-20: documents published: Raport comisie sesizată pe fond
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2020-06-12: registered at the Chamber of Deputies
 
 ## Documents
 
