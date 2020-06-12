@@ -1,0 +1,268 @@
+{
+ "key": "iccj-hp-penal-10-2020",
+ "label": "Decizia ÎCCJ nr. 10/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "10",
+ "date": "2020-04-28",
+ "year": "2020",
+ "heading": "DECIZIA nr. 10 din 28 aprilie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 105 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE -COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "500",
+  "bis": false,
+  "date": "2020-06-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "76/1/2020",
+  "1.241/242/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Cluj - Secția penală și de minori, în Dosarul nr. 1.241/242/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă în interpretarea și aplicarea dispozițiilor art. 105 alin. (1) din Codul penal, sintagma: «dacă pe parcursul termenului de supraveghere se descoperă că persoana condamnată mai săvârșise o infracțiune până la acordarea liberării» vizează strict situația faptelor săvârșite anterior liberării condiționate și descoperite după acordarea liberării condiționate, respectiv pe parcursul termenului de supraveghere sau vizează și situația faptelor săvârșite și descoperite anterior liberării condiționate.“",
+  "Stabilește că, în interpretarea și aplicarea dispozițiilor art. 105 alin. (1) din Codul penal, sintagma „dacă pe parcursul termenului de supraveghere se descoperă că persoana condamnată mai săvârșise o infracțiune până la acordarea liberării“ vizează atât situația infracțiunilor săvârșite anterior liberării condiționate și descoperite după acordarea liberării condiționate, până la împlinirea termenului de supraveghere, cât și situația infracțiunilor săvârșite anterior liberării condiționate și descoperite anterior liberării condiționate.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "371",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "334",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "100",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "588",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 253/2013",
+    "number": "253",
+    "year": "2013",
+    "path": "lege/2013/253"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226736",
+  "text_sha256": "9fb52fe350970b377c28f62d4a45445b18d7ca964f43fd0e1e6f77e5e7b115d9",
+  "catalogue_sha256": "9fb52fe350970b377c28f62d4a45445b18d7ca964f43fd0e1e6f77e5e7b115d9",
+  "fetched": "2026-11-06T04:00:50Z",
+  "chars": 70700,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226736",
+   "timestamp": "20260124122037",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220840330.83/warc/CC-MAIN-20260124103337-20260124133337-00382.warc.gz",
+   "offset": "276949056",
+   "length": "33713",
+   "sha256": "2383a2a9e02c6b524c27be53857879fd66c52f7484c9963499c54458e03a2ccb"
+  },
+  "portal_id": "226736",
+  "tip": "DECIZIE"
+ }
+}
