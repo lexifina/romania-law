@@ -1,0 +1,9 @@
+# HCL Filipeștii de Pădure nr. 31/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Filipeștii de Pădure
+- Decision: nr. 31/2020
+- Adopted: 2020-06-15
+- Title: privind închirierea terenului în suprafață de 30 mp situat în vecinătatea Pieței Agroalimentare
+- Record: https://emol.ro/filipestiidepadure-ph/registru-hcl/4080
