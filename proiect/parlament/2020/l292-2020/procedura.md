@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-06: documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2020-05-19: documents published: Aviz comisie
 - 2020-05-27: documents published: Raport comisie sesizată pe fond
+- 2020-06-16: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Aviz comisie (CA14): [ca14-0b2643a4.md](ca14-0b2643a4.md); official file https://www.senat.ro/legis/PDF/2020/20L292CA14.PDF
 - 2020-05-19: Aviz comisie (CA44): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L292CA44.PDF
 - 2020-05-27: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L292CR.PDF
+- 2020-06-16: Adresă către Camera Deputaților (AM): [am-0050fca4.md](am-0050fca4.md); official file https://www.senat.ro/legis/PDF/2020/20L292AM.PDF
