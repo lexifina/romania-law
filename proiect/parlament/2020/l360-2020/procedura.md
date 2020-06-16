@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2020-06-10: documents published: Aviz comisie
 - 2020-06-11: documents published: Aviz comisie
 - 2020-06-15: documents published: Aviz comisie
+- 2020-06-16: rejected by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,9 @@ Initiator: Guvernul României.
 - 2020-06-15: Aviz comisie (CA39): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CA39.PDF
 - 2020-06-15: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CA43.PDF
 - 2020-06-15: Aviz comisie (CA44): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CA44.PDF
+- 2020-06-16: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CA16.PDF
+- 2020-06-16: Aviz comisie (CA19): [ca19-a20f72c6.md](ca19-a20f72c6.md); official file https://www.senat.ro/legis/PDF/2020/20L360CA19.PDF
+- 2020-06-16: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CA42.PDF
+- 2020-06-16: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L360CR.PDF
+- 2020-06-16: Adresă către Camera Deputaților (AM): [am-368b579c.md](am-368b579c.md); official file https://www.senat.ro/legis/PDF/2020/20L360AM.PDF
+- 2020-06-16: Aviz comisie (CA9): [ca9-9b608405.md](ca9-9b608405.md); official file https://www.senat.ro/legis/PDF/2020/20L360CA9.PDF
