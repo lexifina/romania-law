@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-12: documents published: Aviz comisie
 - 2018-11-12: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-11-20: documents published: Forma trimisă la promulgare
+- 2020-06-17: adopted by the Chamber of Deputies
 
 ## Documents
 
