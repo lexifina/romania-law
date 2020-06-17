@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-06-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-5dbf6aa7.md](fs-5dbf6aa7.md); official file https://www.senat.ro/legis/PDF/2020/20L362FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L362AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-7e9319e7.md](lp-7e9319e7.md); official file https://www.senat.ro/legis/PDF/2020/20L362LP.PDF
+- 2020-06-17: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L362CA45.PDF
