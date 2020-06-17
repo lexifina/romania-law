@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Aviz comisie, Aviz Consiliul Economic și Social
 - 2020-06-12: registered at the Chamber of Deputies; adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2020-06-15: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-06-17: sent for promulgation; promulgated, becomes Legea nr. 84/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-12: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L367AM.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-f027778d.md](axs-f027778d.md); official file https://www.senat.ro/legis/PDF/2020/20L367AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-a2523409.md](lp-a2523409.md); official file https://www.senat.ro/legis/PDF/2020/20L367LP.PDF
+- 2020-06-17: Decret de promulgare (DP): [dp-27048e1f.md](dp-27048e1f.md); official file https://www.senat.ro/legis/PDF/2020/20L367DP.PDF
+- 2020-06-17: Adresă privind forma promulgată (AFP): [afp-4baf323f.md](afp-4baf323f.md); official file https://www.senat.ro/legis/PDF/2020/20L367AFP.PDF
+- 2020-06-17: Forma promulgată (FP): [fp-7799e707.md](fp-7799e707.md); official file https://www.senat.ro/legis/PDF/2020/20L367FP.PDF
