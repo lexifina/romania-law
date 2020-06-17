@@ -1,0 +1,623 @@
+T
+PARLAMENTUL ROMANIEI
+SENATUL
+CAMERA DEPUTATILOR
+LEGE
+pentru modificarea si completarea Legii apelor nr. 107/1996
+Parlamentul Romaniei adopta prezenta lege.
+Art. I. - Legea apelor nr. 107/1996, publicata in Monitorul
+Oficial al Romaniei, Partea I, nr. 244 din 8 octombrie 1996, cu
+modificarile §i completarile ulterioare, se modifica si se completeaza dupa
+cum urmeaza:
+1. La articolul 1, alineatul (1^) se modifica si va avea
+urmatorul cuprins:
+„(1^) Apa nu este un produs comercial oarecare, ci este un
+patrimoniu natural care trebuie protejat, tratat §i aparat ca atare, fiind o
+resursa strategic^ de siguran^a §i securitate nationala.”
+2. La articolul 1, dupa alineatul (P) se introduce un nou
+alineat, alin. (1^), cu urmatorul cuprins:
+„(F) Apele subterane si de suprafata ale Romaniei sunt bogatii
+de interes public.”
+
+2
+3. La articolul 2\ litera b) se modifica si va avea urmatorul
+cuprins:
+„b) se asigura atingerea celei mai bune stari posibile din punct de
+vedere ecologic si chimic pentru corpurile de apa de suprafata luand in
+considerare impactul ce nu poate fi evitat in mod rezonabil din cauza
+naturii, activitatii umane sau poluarii;”
+4. La articolul 3, alineatele (1^) si (3^) se modifica si vor avea
+urmatorul cuprins:
+„(1^) Apartin domeniului public al statului albiile sectoarelor
+cursurilor de apa cu lungimi mai mici de 5 km §i cu bazine hidrografice
+care nu depa^esc suprafata de 10 km^, sectoare amenajate cu lucrari de
+gospodarire a apelor, aflate in domeniul public de interes national si
+amplasate in zona de confluenta a cursului de apa principal.
+(3^)Lacurile de acumulare permanente a caror executie a fost
+fmantata din fonduri alocate de la bugetul de stat, lucrarile hidrotehnice
+aferente si suprafetele din lac aflate sub cota coronamentului barajului fac
+parte din domeniul public al statului si se includ in categoria terenurilor
+acoperite de apa, asimilandu-se cu notiunea de albie minora,
+Administratia Nationala «Apele Romane» este singura autoritate de
+administrare a acestora, cu exceptia bunurilor detinute, prin efectul actelor
+normative, de catre terte persoane.”
+5. La articolul 5, alineatul (3) se modifica ^i va avea urmatorul
+cupnns:
+„(3) Popularea cu elemente de ihtiofauna a unui corp de apa sau
+unui sector de corp de apa se face doar cu specii indigene si cu acceptul
+autoritatii competente in domeniul apelor si al administratorului in cazul
+ariilor naturale protejate.”
+6. La articolul 10, alineatul (4) se modifica ^i va avea
+urmatorul cuprins:
+„(4) Apele subterane, corespunzatoare calitativ, sunt resurse
+strategice destinate in primul rand pentru alimentarea cu apa a populatiei
+si animalelor, precum si pentru asigurarea igienei si sanM^ii populatiei.
+Aceste ape pot fi utilizate si in alte scopuri, numai in baza autorizatiei de
+gospodarire a apelor.”
+
+3
+7. La articolul 10, dupa alineatul (4) se introduce un nou
+alineat, alineatul (4^), cu urmatorul cuprins:
+„(4’) Utilizareain scop de irigatii a apelor subterane este permisa
+numai in zonele unde nu exista ape de suprafata si numai din primul strat
+acvifer cu potential hidrogeologic (stratul freatic), pe baza studiilor
+hidrogeologice intocmite sau expertizate de Institutul National de
+Hidrologie §i Gospodarire a Apelor.”
+8. La articolul 16 alineatul (1), litera e) se modifica si va avea
+urmatorul cuprins:
+„e) utilizarea de canale deschise de orice fel pentru evacuarile ori
+scurgerile de ape uzate, neepurate sau epurate necorespunzator;”
+9. La articolul 25, alineatul (4) se modifica §i va avea urmatorul
+cupnns:
+„(4) Dreptul de folosinta a albiilor minore, a plajei §i a tarmului
+marii, in alte scopuri decat cele prevazute la alin. (1), se exercita numai
+dupa obtinerea autorizatiei de gospodarire a apelor.”
+10. La articolul 25, dupa alineatul (4) se introduc trei noi
+alineate, alin. (5) - (7), cu urmatorul cuprins:
+„(5) Utilizarea terenurilor din domeniul public al apelor in scopul
+realizarii investitiilor de interes si utilitate publica de catre autoritatile
+administratiei publice centrale sau locale este permisa in baza unui
+protocol incheiat cu administratorul bunului, cu acordul expres al
+proprietarului. Continutul cadru al Protocolului se va aprobaprin ordin al
+conducatorului autoritatii publice centrale din domeniul apelor.
+(6) Dreptul de folosinta obtinut in conditiile alin. (5) face dovada
+detinerii terenului pentru emiterea actelor de reglementare in domeniul
+gospodmrii apelor.
+(7) Prin derogare de la prevederile art. 1 alin. (1) din Legea
+nr. 50/1991 privind autorizarea executarii lucrMlor de constructii,
+republicata, cu modificarile si completarile ulterioare, pentru executarea
+lucrarilor de constructii de utilitate publica si de interes national, judetean
+sau local, titularul poate dobandi un drept de creanta asupra terenului din
+domeniul public, pentru si pe timpul realizMi lucrarilor, in baza unui
+protocol incheiat cu administratorul acestuia, cu acordul expres al
+proprietarului.”
+
+4
+11. La articolul 27, alineatele (1) si (2) se modifica si vor avea
+urmatorul cuprins:
+„Art. 27. - (1) Orice activitate pe luciul de apa, in albii minore,
+arii protejate ori in zone de protec^ie, inclusiv naviga^ia, plutaritul,
+flotajul, exploatarea agregatelor minerale sau recoltarea stuflilui, precum
+§i exploatarea fondului piscicol pescuitul sportiv se vor realiza astfel
+incat sa nu produca efecte negative asupra apei, malurilor §i albiilor
+cursurilor de apa, malurilor §i cuvetelor lacurilor, monumentelor naturii,
+zonelor protejate, constructiilor, lucrarilor sau instala^iilor existente in
+albii §i sa influenfeze cat mai pu{in folosirea apelor de catre alji utilizatori.
+(2) In vederea protectiei si conservarii starii apelor, pe sectoarele
+de cursuri de apa care nu sunt afectate de activitati umane se interzice
+realizarea de lucrari si activitati care pot afecta starea ecologica a apelor,
+cu exceptia obiectivelor declarate de interes national si cele care vizeaza
+siguranta si securitatea nationala, potrivit prevederilor legale in vigoare
+precum si realizarea lucrarilor de intretinere si reparatii la
+obiectivele/constructiile existente.”
+12. La articolul 27, dupa alineatul (3) se introduce un nou
+alineat, alin. (4), cu urmatorul cuprins:
+„(4) Criteriile de selectare si listele cu sectoarele cursurilor de
+apa prevazute la alin. (2) se actualizeaza pe baza de studii de
+flindamentare care sunt realizate de autoritatea publica centrala din
+domeniul apelor.”
+13. La articolul 32, alineatul (4) se modifica si va avea urmatorul
+cuprins:
+„(4) Transportul pe apele interioare, pe Dunarea fluviala si
+maritima si pe marea teritoriala, al substantelor periculoase, se poate face
+numai in conditiile unui aviz comun, emis, pentru fiecare caz in parte, de
+autoritatea publica centrala din domeniul apelor §i autoritatea publica
+centrala din domeniul transporturilor. In zonele cu arii protejate si situri
+naturale UNESCO va fi necesar si avizul administratorului de sit. Aceste
+dispozitii se aplica si transportului in tranzit al acestora.”
+14. La articolul 33, alineatul (8) se modifica si va avea urmatorul
+„(8) Inchirierea sau concesionareaplajei marii, a suprafetelor din
+apele maritime interioare si marea teritoriala se face cu avizul autoritatii
+cupnns:
+
+5
+publice centrale cu atributii in domeniul turismului sau, dupa caz, a
+autoritatii publice centrale cu atributii in domeniul afacerilor interne.”
+15. La articolul 33, dupa alineatul (9) se introduc cinci noi
+alineate, alineatele (10) - (14), cu urmatorul cuprins:
+„(10) Se interzic primirea, depozitarea, prelucrarea, transportul
+si comercializarea agregatelor minerale fara documente specifice de
+transport ale acestora sau cu documente din care nu rezulta cu certitudine
+provenienta legala a acestora.
+(11) Controlul circulatiei agregatelor minerale se efectueaza de
+catre personalul de gospodarire a apelor imputemicit in acest sens de
+reprezentantul legal al Administratiei Nationale «Apele Romane», de catre
+ofiteri, subofiteri §i agenti din cadrul Politiei Romane, Polijiei de Frontiera
+Romana si Jandarmeriei Romane, precum si de catre personalul cu atributii
+de control din cadrul Agentiei Nationale de Administrare Fiscala.
+(12) Agregatele minerale prevazute la alin. (10) se confisca de
+catre personalul prevazut la alin. (11) si se valorifica potrivit legii.
+(13) Normele referitoare la provenienta, circulatia si comercializarea
+agregatelor minerale, la regimul spatiilor de depozitare a acestora si al
+instalatiilor de prelucrare, se stabilesc prin hotarare a Guvemului, la
+propunerea autoritatii publice centrale din domeniul apelor si a autoritatii
+publice centrale din domeniul resurselor minerale.
+(14) Oprirea m trafic, pe drumurile publice, a autovehiculelor, in
+vederea exercitMi controlului circulatiei agregatelor minerale, se
+efectueaza cu respectarea competentelor prevazute de Ordonanta de
+urgenta a Guvemului nr. 195/2002 privind circulatia pe dmmurile publice,
+aprobata cu modificari prin Legea nr. 49/2006, republicata, cu
+modificarile si completarile ulterioare.”
+16. La articolul 35, dupa alineatul (1^) se introduce un nou
+alineat, alineatul (1^), cu urmatorul cuprins:
+„( 1 ^) Prin derogare de la art. 51 alin. (1) din Ordonanta de urgenta
+a Guvemului nr. 23/2008 privind pescuitul si acvacultura, aprobata cu
+modified si completari prin Legea nr. 317/2009, cu modificarile si
+completMle ulterioare, in vederea asigurSrii monitorizarii indicatomlui
+pesti prevazut in Anexa nr. l\ subpunctul 1.3.6. din prezenta lege,
+Administratia Nationala «Apele Romane» beneficiaza de autorizatie de
+pescuit stiintific, eliberata, la cerere, de Agenda Nafionala pentru Pescuit
+si Acvacultura.”
+9
+
+6
+17. La articolul 35, alineatul (5^) se modilica si va avea
+urmatorul cuprins;
+,,(5^ Se mandateaza autoritatea publica centrala din domeniul
+apelor, prin Administratia Nationala «Apele Romane», respectiv
+administratiile bazinale de apS, sa inscrie in cartea flinciara dreptul de
+proprietate al statului asupra bunurilor din domeniul public al statului
+aflate in administrarea Administratiei Nationale «Apele Romane»,
+prevazute la art. 3.”
+18. La articolul 35, dupa alineatul (5^) se introduc patru noi
+alineate, alineatele (5^) - (5^), cu urmatorul cuprins:
+„(5^) Dreptul de proprietate publica a statului asupra imobilelor
+aflate in administrarea Administratiei Nationale «Apele Romano),
+prevazute la art. 3, se intabuleaza in sistemul integrat de cadastru si carte
+funciara, la cererea administratorilor in baza actelor de proprietate si a
+documentatiei cadastrale intocmite conform prevederilor legale.
+(5"^) Prin exceptie de la prevederile alin. (5^) se poate realiza
+intabularea dreptului de proprietate publica a statului asupra suprafetelor
+de teren ale albiilor minore si constructiilor aferente in baza copiei
+extrasului de pe inventarul centralizat al bunurilor respective, aprobat prin
+Hotararea Guvemului nr. 1705/2006 pentru aprobarea inventarului
+centralizat al bunurilor din domeniul public al statului, cu modificarile
+ulterioare, insotita de un inscris, emis de catre administratorul imobilului,
+respectiv administratia bazinala de apa competenta teritorial, prin care se
+confirma identitatea dintre imobilul din documentatia cadastrala si cel
+evidenjiat in inventarul centralizat, cu specificarea num^ului aferent
+bazinului hidrografic de care apartine imobilul, precum §i documentatia
+cadastrala pentru care coordonatele punctelor de pe limita imobilelor
+respective vor fi determinate, in sistem Stereografic 1970, prin
+vectorizare, utilizand produsele cartografice detinute de administrator sau
+la care acesta are acces.
+(5^) Concomitent cu inscrierea dreptului de proprietate publica
+conform alin. (5"^) in partea a Il-a a cartii funciare se va efectua notarea
+corespunzatoare, cu urmatorul continut: «imobil cu pozitionare si
+suprafata incerta, determinate prin vectorizare». Radierea acestei notm se
+efectueaza in baza documentatiei cadastrale intocmita in conformitate cu
+prevederile Legii cadastrului si publicitatii imobiliare nr. 7/1996,
+republicata, cu modificarile si completarile ulterioare.
+
+7
+(5^) In cazul suprafetelor de teren ale albiilor minore si
+constructiilor aferente care nu intrunesc conditiile pentru intabulare
+prev^te la alin. (5^) si (5"^), se poate dispune mscrierea provizorie a
+dreptului de proprietate publica in baza unui inscris emis de catre
+administratoml imobilului, respectiv administratia bazinala de apa
+competenta teritorial, prin care se confirma identitatea dintre imobilul vizat
+si cel prezentat in documentatia cadastrala anexata, pentru care coordonatele
+punctelor de pe limita imobilelor respective vor fi determinate, in sistem
+Stereografic 1970, prin vectorizare, utilizandprodusele cartografice detinute
+de administrator sau la care acesta are acces.”
+19. La articolul 35, alineatul (7) se modifica si va avea
+urmatorul cuprins:
+„(7) Detinatorii de informatii ce constituie Fondul national de
+date de gospod^ire a apelor pot refuza, motivat, fumizarea de astfel de
+informatii, in cazul in care acestea afecteaza:
+a) relatiile intemationale, siguranta si securitatea nationala;
+b) procedura in timpul anchetei penale sau disciplinare, daca se
+pericliteaza rezultatul anchetei, se dezvaluie surse confidentiale ori se pun
+in pericol viata, integritatea corporala, sanatatea unei persoane in urma
+anchetei efectuate sau in curs de desfasurare;
+c) confidentialitatea industriala si comerciala. Prin aceasta se
+inteleg situatiile in care se dezvaluie si se folosesc secrete de comert, intr-
+o maniera contrara practicilor comerciale loiale;
+d) drepturile de proprietate intelectuala;
+e) confidentialitatea datelor personale, potrivit legii.”
+20. Articolul 39 se modifica si va avea urmatorul cuprins:
+„Art. 39. - (1) Delimitarea albiilor minore care apartin
+domeniului public al statului se realizeaza de catre Administratia
+Nationala «Apele Romane», respectiv administratiile bazinale de apa,
+pentru bunurile pe care le are in administrare, cu participarea
+reprezentantilor unitatilor administrativ-teritoriale si cu informarea
+detinatorilor/administratorilor cu orice titlu ai terenurilor riverane.
+9
+(2) Delimitarea albiilor minore care apartin domeniului public sau
+privat al statului sau al unei unitati administrativ-teritoriale, se realizeaza
+de catre detinatorii acestora, cu participarea reprezentantilor unitatilor
+administrativ-teritoriale si cu informarea detinatorilor/administratorilor cu
+orice titlu ai terenurilor riverane.
+
+8
+(3) Eviden|:a terenurilor ocupate de ape care apartin domeniului
+public sauprivat al statului sau al unei unitati administrativ-teritoriale se face
+prin inscrierea acestora in sistemul integrat de cadastm si carte funciara, in
+baza documentatiei cadastrale intocmite conform prevederilor legale.
+(4) Metodologia de delimitare a albiilor minore se aproba prin ordin
+al conducatorului autoritatii publice centrale in domeniul apelor, cu respectarea
+procedurii de consultare publicaprivitor la elaborarea actelor normative.
+(5) Prin derogare de la prevederile art. 2 alin. (1) din Legea
+nr. 7/1996, republicata, cu modificarile si completarile ulterioare, sistemul
+integrat de cadastru si carte funciara al apelor se poate realiza si pe
+sectoare stabilite prin act administrativ de catre administrator, in scopul
+realizarii atributiilor principale.”
+21. La articolul 41, alineatui (2) se modified si va avea
+urmatorul cuprins:
+„(2) Debitele de servitute, obligatorii in albii se calculeaza in
+cadrul studiilor hidrologice elaborate de unitati publice sau private
+atestate de autoritatea centrala din domeniul gospodaririi apelor, se
+expertizeaza de catre Institutul National de Hidrologie si Gospodarire a
+Apelor si sunt prevazute in avizul sau autorizatia de gospodarire a apelor.”
+22. La articolul 42, alineatui (1) se modified si va avea
+urmatorul cuprins:
+„Art. 42. - (1) In situatia in care un curs de apa isi formeaza o
+albie noua, parasind in mod natural pe cea veche, riveranii sau utilizatorii
+de apa pot sa solicite, conform prevederilor Legii nr.287/2009 privind
+Codul civil, republicata, cu modificarile ulterioare, in termen de un an,
+aprobarea Administratiei Nationale «Apele Romane» pentru readucerea
+apei in vechea albie, pe cheltuiala acestora. Litigiile se solutioneaza de
+catre instantele judecatore§ti.”
+23. La articolul 47 alineatui 2, litera h) se modified si va avea
+urmatorul cuprins:
+„h) doi reprezentanti ai Administratiei Nationale «Apele Romane»,
+respectiv ai Administratiei Bazinale de Apa, nominalizati de conducerea
+acesteia;”
+24. La articolul 47 alin.8, litera d) se abrogd.
+
+9
+25. La articolul 48 alineatul (1), litera 1) se modifica si va avea
+urmatorul cuprins:
+„1) lucrari de inchidere si ecologizare a minelor si carierelor, a
+depozitelor menajere si industriale precum si de reconstructie ecologica a
+zonelor afectate, inclusiv monitorizarea post-inchidere a acestora;”
+26, La articolul 48 alineatul (1), dupa litera o) se introduce o
+noua litera, lit. p), cu urmatorul cuprins:
+„p) lucrm §i instalatii ce pot avea un potential major de poluare
+a resurselor de apa,”
+27. La articolul 50, alineatul (1) se modifica si va avea
+urmatorul cuprins:
+„Art. 50. - (1) Lucrmle prevazute la art. 48 si 54 pot fi
+promovate si executate numai in baza avizului de gospod^ire a apelor
+emis de Administratia Nationals «Apele Romane» §i unitatile aflate in
+subordine. Punerea in functiune sau exploatarea acestor lucrari se face
+numai in baza autorizatiei de gospodarire a apelor emise de Administratia
+Nationals «Apele Romane» si unitatile aflate in subordine.”
+28. La articolul 54 alineatul (1), litera a) se modifica si va
+avea urmatorul cuprins:
+„a) lucrari de dezvoltare, modemizare sau retehnologizare a unor
+procese tehnologice sau a unor instalatii existente, daca au legatura cu
+apele sau daca prin realizarea acestora se modifica parametrii cantitativi
+si calitativi fmali ai folosintei de apa, inscrisi in autorizatia de gospodarire
+a apelor;”
+29, Articolul 59, alineatele (1) si (2) se modifica si vor avea
+urmatorul cuprins:
+„Art. 59. - (1) Lucrarile si instalatiile supuse autorizarii, potrivit
+prevederilor prezentei legi, care sunt folosite pentru prelevari de apa de
+suprafata sau subterana ori pentru evacuM in receptor! natural!, trebuie
+sa fie prevazute cu mijloace de masurare a debitelor si volumelor de apa
+prelevate sau evacuate si de determinare a calitatii apelor evacuate
+conform prevederilor autorizatiei de gospodarire a apelor.
+(2) Detinatorii lucrarilor si instalatiilor supuse autorizarii
+prevazute la alin. (1) sunt obligati sa asigure montarea si functionarea
+mijloacelor de masurare, sa permita montarea de sigilii de catre
+
+10
+reprezentantii Administratiei Nationale «Apele Romane», sa pastreze pe
+timp de 5 ani datele obtinute din masuratori si sa le transmita lunar
+Administratiei Nationale «Apele Romane». Inlaturarea sau distrugerea
+sigiliilor aplicate pe mijloacele de masurare a debitelor si volumelor de
+apa prelevate sau evacuate, pe vane si alte echipamente se constata prin
+proces-verbal de constatare de catre personalul cu atributii de inspectie,
+conform legii, si se sanctioneaza potrivit legii penale.”
+30. Dupa articolul 59 se introduce un nou articol, articolul 59^
+cu urmatorul cuprins:
+„Art. 59\ - (1) Avizul si autorizatia de gospodarire a apelor,
+precum si anexele sau studiile de fundamentare care stau la baza acestora
+sunt acte administrative cu caracter public.
+(2) Lista cu avizele si autorizatiile de gospodarire a apelor se pun
+la dispozitia publicului spre informare prin afisare pe pagina proprie de
+internet a autoritatii administratiei publice emitente.
+(3) Avizele si autorizatiile de gospodarire a apelor se pun la
+dispozitia publicului in integralitatea lor, la cerere, cu respectarea
+prevederilor privind protectia datelor personale, respectiv a dreptului de
+proprietate intelectuala, dupa caz.”
+31. Dupa articolul 60 se introduce un nou articol, articolul 60^
+cu urmatorul cuprins:
+„Art. 60 ^ - Avizul si autoriza|ia de gospodarire a apelor pot fi
+transferate de la un titular de proiect la alt titular in conditiile in care din
+analiza efectuata de emitent rezulta ca lucrarile, masurile si conditiile
+prev^te in acestea au fost respectate integral. Exceptie de la aceasta
+prevedere fac avizele de gospod^ire a apelor emise pentru proiectele de tip
+microhidrocentrale precum §i cele care presupun bararea cursurilor de apa.”
+32. La articolul 80, alineatul (2) se modilica si va avea
+urmatorul cuprins:
+„(2) Mecanismul economic specific domeniului gospodaririi
+cantitative si calitative a resurselor de apa include sistemul de contributii,
+plati si penalitati ca parte a modului de finantare a dezvoltarii domeniului
+si de asigurare a flinctionarii Administratiei Nationale «Apele Romane».”
+
+11
+33. La articolul 81, alineatele (1), (3) si (4) se modifica si vor
+avea urmatorul cuprins:
+„Art. 81, - (1) Sistemul de contributii, plati, tarife si penalitati
+specifice activitatii de gospodarire a resurselor de apa se aplica tuturor
+utilizatorilor. Cuantumul contributiilor, platilor, tarifelor si penalitatilor
+specifice activitatii de gospodmre a resurselor de apa se reactualizeaza
+periodic prin hotarare a Guvemului, la propunerea autoritatii publice
+centrale in domeniul apelor.
+(3) Administratia Nationala «Apele Romane», in calitate de
+operator unic, atat al resurselor de apa de suprafata, naturale sau
+amenajate, indiferent de detin^orul cu orice titlu al amenajarii, cat si al
+resurselor de apa subterane, indiferent de natura lor si a instalatiilor, isi
+constituie veniturile proprii dintr-o contributie specifica de gospodarire a
+apelor platita lunar de catre toti utilizatorii resurselor de apa pe baza
+facturii fiscale emise, conform abonamentului de utilizare/exploatare
+incheiat in acest sens, care constituie titlu executoriu, din platile pentru
+serviciile comune de gospodarire a apelor, din penalitati specifice
+activitatii de gospodarire a apelor, din tarife pentru avizele, autorizatiile
+pe care le poate emite sau pe care este imputemicita sa le emita, precum
+si din majorarile de intarziere aplicate in conformitate cu prevederile
+legale in materie.
+(4) Utilizatorii de apa, consumatori sau neconsumatori, au
+obligatia sa plateasca lunar cuantumul contributiei specifice de
+gospodarire a apelor, in caz contrar, li se vor aplica penalitati de intarziere
+conform prevederilor Legii nr. 227/2015 privind Codul de procedura
+fiscala, cu modificarile si completarile ulterioare. Contributiile specifice
+de gospodMre a resurselor de apa, tarifele si penalitatile pentru depasirea
+concentratiilor aferente mecanismului economic se indexeaza anual prin
+aplicarea indicelui anual al preturilor de consum. Noile cuantumuri se
+notifica utilizatorilor in cadrul abonamentului de utilizare/exploatare a
+resurselor de apa, fiind aplicabile de indata.”
+34, La articolul 82, alineatul (1) se abroga.
+35. La articolul 82, alineatele (2) si (3) se modifica si vor avea
+urmatorul cuprins:
+„(2) Penalitatile se aplica acelor utilizatori de apa la care se
+constata abater! de la prevederile abonamentului de utilizare/exploatare
+
+12
+prevazute la art. 81 alin. (3), atat pentru depasirea cantitatilor de apa
+prelevate, cat si a concentratiilor si cantitatilor de substante
+impurificatoare evacuate.
+(3) Administratia Na|ionala «Apele Romane» este singura in
+drept sa constate cazurile in care se aplica penalitati.”
+36. La articolul 85, partea introductiva a alineatului (2) si
+alineatul (3) se modiflca si vor avea urmatorul cuprins:
+„(2) Finantarea lucrarilor si instalatilor de aparare impotriva
+inundatiilor se asigura dupa cum urmeaza:
+(3) Lista obiectivelor de investitii ce urmeazS a fi fmantate din
+veniturile proprii ale Administratiei Nationale «Apele Romane» se aproba de
+catre conducatorul institutiei cu avizul Consiliului de conducere al acesteia.”
+37. La articolul 87, punctul 35 se modifica §i va avea
+urmatorul cuprins:
+„35. instalarea de conducte, cabluri, linii aeriene prin, peste sau
+sub albii ale raurilor, diguri, canale, conducte, baraje sau alte lucrari
+hidrotehnice ori in zonele de protectie a acestora, tara avizul de
+gospodarire a apelor sau cu nerespectarea prevederilor acestuia;”
+38. La articolul 87, dupa punctul 66) se introduce un nou
+punct, punctul 67, cu urmatorul cuprins:
+„67. primirea, depozitarea, prelucrarea, transportul si comercializarea
+agregatelor minerale &a documente specifice de transport ale acestora sau cu
+documente din care nu rezulta cu certitudine provenienta legala a acestora, asa
+cum sunt prevazute de normele referitoare la provenienta, circulatia si
+comercializarea agregatelor minerale, la regimul spatiilor de depozitare a
+acestora si al instalatiilor de prelucrare prev^te la art. 33 alin. (13).”
+39. La articolul 88 alineatul (1), litera c) se modifica si va avea
+urmatorul cuprins:
+„c) cu amenda de la 25.000 lei la 30.000 lei, pentrupersoane juridice,
+si cu amenda de la 6.500 lei la 7.000 lei, pentm persoane fizice, faptele
+prevazute la art. 87 pet. 8,19,20,33,36 - 38,42, 53, 57 si 67;”
+
+13
+40. La articolul 90, dupa litera d) se introduce o noua litera,
+litera e), cu urmatorul cuprins:
+„e) ofiteri, subofiteri si agenti din cadrul Politiei Romane,
+Politiei de Frontiera Romane si Jandarmeriei Romane - pentru constatarea
+contraventiilor si aplicarea sanctiunilor pentru faptele prevazute la art. 87
+pet. 67.” ’
+41. La articolul 110, dupa litera c) se introduce o noua litera,
+litera c^), cu urmatorul cuprins:
+„c0 procedura de transfer a avizelor si autorizatiilor de
+gospodarire a apelor;”
+42. La articolul 110, dupa litera p) se introduce o noua litera,
+litera q), cu urmatorul cuprins:
+„q) procedurile si normele metodologice pentru delimitarea
+albiilor minore ale cursurilor de apa cadastrale interioare ale Romaniei, a
+fluviului Dunarea cu bratele, insulele §i ostroavele sale, a zonei aferente
+Administratiei Rezervatiei Biosferei «Delta Dunarii» cu insulele si
+ostroavele aferente precum si a lacurilor care apartin domeniului public al
+statului, respectiv a zonelor de protectie aferente acestora.”
+43. La anexa nr. 1, punctele 1,5,19,26,26^ si 37 ^ se modifica
+si vor avea urmatorul cuprins:
+„1. acumulare nepermanenta: amenajare hidrotehnica constand
+din constructiile de reten^ie, instalatiile, echipamentele §i sistemele
+flinctionale adiacente si din lacul de acumulare format numai in perioade
+de viituri avand rol numai de atenuare a acestora;
+5. albia minora: fa§ie continua ce urmareste si include in ea
+partea inferioara a vaii, asigurand prin sectiunile ei succesive
+continuitatea curgerii la ape mari freevente, de la izvoare pana la varsarea
+in cursul de apa de ordin superior, incluzand insulele create prin curgerea
+naturala a apelor §i desprinderea de brate. Albia minora cuprinde
+terenurile acoperite permanent sau temporar cu apa, prundisurile,
+stufarisurile, papurisurile, rachitisurile, zonele umede sau terenuri care
+dupa retragerea apelor nu pot avea alta folosinta. Albia minora poate fi
+naturala sau amenajata prin lucrari hidrotehnice;
+
+14
+19. sistem informational geografic specific domeniului
+gospodaririi apelor: baza de date rezultata in urma activitatilor privind
+inventarierea, clasificarea, evidenta si sinteza datelor referitoare la reteaua
+hidrografica, resursele de apa, lucrarile de gospodarire a apelor, lucrarile
+tertilor care au legatura cu apa, precum si la prelevarile si restitutiile de apa;
+26. debit de servitute: debitul minim necesar a fi lasat permanent
+pe un curs de apa in aval de o lucrare de barare sau de capture a apei, format
+din debitul ecologic si debitul minim necesar utilizatorilor din aval;
+26 ^ derivatie hidrotehnicd: lucrare hidrotehnica realizata pentru
+transferal unor volume de apa cu scopul reglementarii debitelor, pentru
+asigurarea cerintelor de apa ale folosintelor, ap^area impotriva
+inundatiilor, cu scop navigabil sau pentru protectia unor lucrari
+hidrotehnice, etc.;
+37'. lac natural: apa statatoare aparuta in decursul timpului in
+conditii naturale, prin cantonarea acesteia intr-o forma de relief
+depresionara (cuveta, depresiune etc.) indiferent de interventiile antropice
+ulterioare formarii.
+44. La anexa nr. 1, punctul 41 se abroga.
+45. La anexa nr.l, dupa punctul 79 se introduc cincisprezece
+noi puncte, punctele 80 - 94, cu urmatorul cuprins:
+80. acumularepermanentd: amenajare hidrotehnica alcatuita din
+constructii de retentie, instalatii, echipamente fi sisteme functionale
+adiacente si din lacul de acumulare format in amonte destinat asigurarii
+cerintelor de apa ale folosintelor;
+81. baraj: constructie antropica dispusa transversal pe firul unui
+curs de apa, in scopul acumulMi unui volum de apa necesara asigurarii
+diferitelor folosinte;
+82. baraj natural: obstacol creat in mod natural dispus
+transversal pe firul de vale al unui curs de apa, in spatele c^ia se
+formeaza un lac, la origine aflandu- se fenomene de alunecare/prabusire
+a versantilor, activita|i vulcanice, morenaice sau glaciare;
+83. coronament: partea superioara a unui dig, baraj, zid de
+sprijin, cheu, dig lateral la canalele in rambleu;
+84. cuveta: forma negativa de relief (depresiune, cuta, vale, etc.)
+in care se acumuleaza apa si material sedimentar in mod obisnuit.
+
+15
+rezultata ca urmare a bararii cursului unui rau sau urmare a unor fenomene
+naturale;
+85. dig: lucrare hidrotehnica de ptoant, de piatra sau beton,
+executata pe malul sau in albia majora a unui rau, pe tarmul sau in lungul
+marii, pozitionat longitudinal, transversal sau inelar fata de acestea, imers
+sau emers, total sau partial, realizat in scopul: corectarii albiei unui curs
+de apa, apararii contra inundatiilor a zonelor limitrofe, crearii de incinte
+uscate, reducerii energiei valurilor, adapostirii navelor, etc;
+86. iaz: lac creat prin abaterea unui curs de apa intr-o zona de
+relief negativ sau prin bararea unui curs de apa intr-o zona colinara sau de
+campie, cu ajutorul unui baraj de dimensiuni reduse, prevazut cu instalatii
+hidrotehnice pentru retinerea §i deversarea/evacuarea apei, utilizat pentru
+cresterea pestilor, mor^it, gatere, activitafi de recreere §i pescuit sportiv
+sau activitati industriale specifice domeniului de activitate;
+87. lac de acumulare: apa interioara, de suprafata, amplasata
+intr-o forma de relief depresionara (cuveta, cota, depresiune etc.) rezultat
+din actiunea factorilor antropici, printr-o lucrare hidrotehnica, marginit
+de maluri naturale sau artificiale, cu rol de formare a unei rezerve de apa
+necesara producerii de energie electrica si pentru alimentarea cu apa a
+unor localitati si facilitati din industrie §i agricultura, atenuarea de viituri,
+precum si pentru regularizarea debitului apei in aval §i diferite folosinte
+turistice;
+88. perioadele cu ape mari: perioadele de timp in care pe rau se
+tranziteaza debite cu valori care dep^esc valoarea debitului mediu multianual;
+89. talveg: linia care une§te intre ele punctele de cota minima a
+unui curs permanent sau nepermanent de apa;
+90. taluz: suprafata inclinata caracteristica lucrarilor hidrotehnice
+de tip dig sau baraj, care se limiteaza in partea superioara de coronament, iar
+in partea inferioara de fimdatie sau terenul natural;
+91. viiturd: crestere in timp relativ scurt sau brusc a nivelului sau
+debitului unui curs de apa, datorita unei ploi torentiale sau topirii bruste a
+zapezilor §i a gheturilor;
+92. sector de rau (din punct de vedere administrativ): sector de
+albie minora care reprezinta o porjiune din albia cursului de apa naturala,
+amenajata sau de albie parasita, identificata si delimitata prin limitele
+lucrMlor de corectare, rectificare, stabilizare, sistematizare sau indiguire,
+care poate fi identificata prin limite administrativ-teritoriale sau prin
+elemente construite transversal pe aceasta si stabile in timp: retele
+edilitare, poduri, podete, retele de transport apa, refele de transport
+
+16
+produse petroliere sau derivate, retele de transport energie, retele de
+telecomunicatii sau alte lucrari hidrotehnice sau de arta;
+93. sector de rdu (dinpunct de vedere hidrologic): sector de albie
+minora pe care caracteristicile hidrologice se mentin constante in spatiu;
+94. mdsurarea lungimii unui curs de apd, exprimatain kilometri,
+se realizeaza de la confluenta acestuia cu cursul de apa in care se varsa
+sau de la gura de varsare a cursului de apa (pomind de la km zero) spre
+izvor, conform practicilor hidrologice precum si aspectelor relevante la
+nivel international;”
+46. La Anexa nr. punctul 2.3.2 si tabelul se modiflca si vor
+avea urmatorul cuprins:
+„2.3.2. DeHnitia starii chimice bune a apelor subterane
+Elemente
+Stare buna
+Compozitia chimica a corpului de apa subterana este in
+asa fel incat concentratiile poluantilor:
+- dupa cum s-a mentionat mai jos, nu arata efecte ale
+intruziunilor saline sau ale altor intruziuni;
+- nu se depasesc valorile standard de calitate aplicabile
+sau a valorilor de prag, ca urmare a legislatiei in vigoare;
+- nu au ca rezultat neindeplinirea obiectivelor de mediu
+pentru corpurile de apa de suprafata si subterane, prevazute
+la art. 2^ din lege, pentru apele de suprafata asociate, nici o
+alta diminuare semnificativa a calitatii ecologice sau
+chimice a corpurilor de apa de suprafata si nicio
+deteriorare/perturbare semnificativa a ecosistemelor
+terestre care depind direct de corpurile de apa subterana.
+Generale
+Modificarile conductivitatii nu sunt caracteristice
+intruziunilor saline sau altor intruziuni in corpul de apa
+subterana.”
+Conductivitate
+Art. 11. - In tot cuprinsul Legii apelor nr. 107/1996, cu
+modificarile si completarile ulterioare, precum si cu cele aduse prin
+prezenta lege, sintagma cadastrul apelor se inlocuieste cu sintagma
+sistemul informational specific domeniului gospoddririi apelor.
+
+17
+Art. III. ~ (1) In conditiile in care, in termen de 6 luni de la
+semnarea abonamentului de utilizare/exploatare, beneficiarul nu
+monteaza echipamente de masura a cantitatilor de apa utilizate/evacuate,
+Administratia Nationals „Apele Romane” are dreptul de a instala
+echipamente de masura si eontrol pe cheltuiala sa, urmand ca respectivul
+cost sa fie recuperatprin adaugarea contravalorii la faetura catre utilizator.
+Utilizatorul trebuie sa asigure accesul si toate conditiile necesare
+reprezentantilor Administratiei Nationale „Apele Romane”, in acest sens.
+(2) Prevederile alin. (1) se aplica si beneficiarilor care au semnat
+abonamentul de utilizare/exploatare inainte de intrarea in vigoare a
+prezentei legi. Termenul prevazut la alin. (1) se calculeaza de la data
+intrarii in vigoare a prezentei legii.
+(3) In cazul nerespectarii obligatiilor prev^te la alin.(l) si (2),
+utilizatorul vaplati contravaloarea aferenta debitului maxim autorizat.
+Art. IV. - Continutul cadru al studiilor de fiindamentare
+prevazute la articolul 27 alin. (4) din Legea apelor nr. 107/1996, cu
+modificmle si completarile ulterioare, precum si cu cele aduse prin
+prezenta lege se stabile§te prin ordin al conducatorului autoritatii publice
+centrale din domeniul apelor, in termen de 180 de zile de la data intrarii
+in vigoare a prezentei legi.
+Art. V, - In termen de 180 de zile de la data intrarii in vigoare a
+prezentei legi, sistemul de contributii, plati, tarife §i penalitati specifice
+activitatii de gospodarire a resurselor de apa prevazut la art. 81 alin. (1)
+din Legea apelor nr. 107/1996, cu modificarile si completarile ulterioare,
+precum si cu cele aduse prin prezenta lege se reglementeaza prin
+modificarea corespuzatoare a Ordonanfei de urgen|a a Guvemului nr.
+107/2002 privind infiintarea Administratiei Nationale „Apele Romane”,
+aprobata cu modificari prin Legea nr. 404/2003, cu modificarile si
+completarile ulterioare.
+
+18
+Aceasta lege a fast adoptatd de Parlamentul Romdniei, cu
+respectarea prevederilor art. 75 si ale art. 76 alin. (1) din Constitutia
+Romdniei, republicatd.
+p. PRE§EDINTELE
+SENATULUI
+PRE§EDINTELE
+CAMEREI DEPUTATILOR
+ION - MARCEL CIOLACU ROBERT - MARIUS CAZANCIUC
+Bucure§ti,
+Nr.
