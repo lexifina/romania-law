@@ -1,0 +1,11 @@
+# HCGMB nr. 261/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 261/2020
+- Adopted: 2020-06-18
+- Title: PRIVIND INFIINTAREA DIRECTIEI GENERATE DE ARHITECTURA PEISAGISTICA SI MONUMENTE DE FOR PUBLIC, PRIN CONTOPIREA ADMINISTRATIEI MONUMENTELOR SI PATRIMONIULUI TURISTIC CU DIRECTIA DE ARHITECTURA PEISAGISTICA A MUNICIPIULUI BUCURESTI INCETEAZA APLICABILITATEA HCGMB NR. 86/2018 INCETEAZA APLICABILITATEA HCGMB NR. 85/1999 INCETEAZA APLICABILITATEA HCGMB NR. 561/2018 SE COMPLETEAZA PRIN HCGMB NR. 304/2017 MODIFICA SI COMPLETEAZA ART. 18 ALIN.(3) AL HCGMB NR. 52/2020
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41301
+- Document: https://doc.pmb.ro/legis/acteinterne/2020/41301/H261_20.pdf
+- Document sha256: cc9e6dc2c286cb5eba6bc8dff2e382423504b347abbf38c989004c443c122659
