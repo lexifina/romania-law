@@ -1,0 +1,139 @@
+{
+ "key": "iccj-hp-penal-8-2020",
+ "label": "Decizia ÎCCJ nr. 8/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "8",
+ "date": "2020-03-10",
+ "year": "2020",
+ "heading": "DECIZIA nr. 8 din 10 martie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea a dispozițiilor art. 44 alin. (2) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "521",
+  "bis": false,
+  "date": "2020-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.422/1/2019",
+  "215/230/2019",
+  "3.033/1/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția penală și pentru cauze cu minori, în Dosarul nr. 215/230/2019, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: lămurirea modului de interpretare și aplicare a dispozițiilor art. 44 alin. (2) din Codul penal, în cazul săvârșirii mai multor fapte concurente, în stare de pluralitate intermediară, în sensul de a se stabili: a) dacă se aplică doar regulile concursului de infracțiuni (primul termen al pluralității intermediare fiind tratat ca un termen al concursului de infracțiuni, contopindu-se nedistinct toate pedepsele aplicate conform art. 39 din Codul penal); b) dacă se dă mai întâi eficiență sancționării concursului de infracțiuni și apoi sancționării pluralității intermediare (aceasta presupune contopirea pedepselor stabilite pentru infracțiunile concurente și apoi contopirea pedepsei rezultante cu pedeapsa anterioară, conform dispozițiilor de la pluralitatea intermediară); c) dacă se dă mai întâi eficiență sancționării pluralității intermediare și apoi sancționării concursului de infracțiuni (aceasta presupune contopirea pedepsei anterioare cu fiecare dintre pedepsele aplicate pentru infracțiunile concurente, iar apoi pedepsele rezultante parțiale să fie contopite între ele, conform dispozițiilor de la concursul de infracțiuni).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226870",
+  "text_sha256": "b26e65b0328b12d0a6bca92d3fee0efa9ffbd5319b634b0624c52051af838e97",
+  "catalogue_sha256": "b26e65b0328b12d0a6bca92d3fee0efa9ffbd5319b634b0624c52051af838e97",
+  "fetched": "2026-11-03T02:00:23Z",
+  "chars": 25401,
+  "portal_id": "226870",
+  "tip": "DECIZIE"
+ }
+}
