@@ -1,0 +1,9 @@
+# Anexa nr. 4 la regulament
+SITUAȚIA privind dotarea cu echipamente, instalații specifice deținute în proprietate sau închiriate în vederea desfășurării activității pentru care se solicită atestarea
+Instituția publică/privată:........................
+Nr. crt. Denumirea și marca instalațiilor și utilajelor Anul fabricației
+Starea tehnică (gradul de uzură)*
+* Se pot înscrie și performanțele tehnice ale utilajelor.
+Modul de deținere (proprietate/închiriere)
+Data completării......................
+Semnătura autorizată...................................
