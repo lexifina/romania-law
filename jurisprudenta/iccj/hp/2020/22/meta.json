@@ -1,0 +1,284 @@
+{
+ "key": "iccj-hp-22-2020",
+ "label": "Decizia ÎCCJ nr. 22/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "22",
+ "date": "2020-02-24",
+ "year": "2020",
+ "heading": "DECIZIA nr. 22 din 24 februarie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 46 alin. (1) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr. 246/2005, cu modificările și completările ulterioare, art. 69 alin. (1)-(2), art. 71 alin. (2) lit. d), art. 71 alin. (3) lit. c) și art. 72 lit. b) din Legea educației fizice și sportului nr. 69/2000, cu modificările și completările ulterioare - raportat la situația de speță, spre a se concluziona dacă asociațiile sportive, cluburile sportive și asociațiile județene pe ramuri de sport pot să beneficieze de sume de la bugetele locale în condițiile Ordonanței Guvernului nr. 26/2000 ori în condițiile prevăzute de Legea nr. 69/2000, respectiv ale Legii administrației publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2020-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.232/1/2019",
+  "1.648/30/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Timișoara, în Dosarul nr. 1.648/30/2016, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Lămurirea modului de interpretare a dispozițiilor art. 46 alin. (1) din Ordonanța Guvernului nr. 26/2000 cu privire la asociații și fundații, aprobată cu modificări și completări prin Legea nr. 246/2005, cu modificările și completările ulterioare, art. 69 alin. (1)-(2), art. 71 alin. (2) lit. d), art. 71 alin. (3) lit. c) ș i art. 72 lit. b) din Legea educației fizice și sportului nr. 69/2000, cu modificările și completările ulterioare - raportat la situația de speță, spre a se concluziona dacă asociațiile sportive, cluburile sportive și asociațiile județene pe ramuri de sport pot să beneficieze de sume de la bugetele locale în condițiile Ordonanței Guvernului nr. 26/2000 ori în condițiile prevăzute de Legea nr. 69/2000, respectiv ale Legii administrației publice locale nr. 215/2001, republicată, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "6",
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 350/2005",
+    "number": "350",
+    "year": "2005",
+    "path": "lege/2005/350"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226888",
+  "text_sha256": "dcfbdf24e5b16087a40ef50917c47129bed969138f708bb0c4894301d6289da3",
+  "catalogue_sha256": "dcfbdf24e5b16087a40ef50917c47129bed969138f708bb0c4894301d6289da3",
+  "fetched": "2026-11-03T22:20:46Z",
+  "chars": 55009,
+  "portal_id": "226888",
+  "tip": "DECIZIE"
+ }
+}
