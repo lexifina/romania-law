@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-11-12: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2018-11-20: documents published: Forma trimisă la promulgare
 - 2020-06-17: adopted by the Chamber of Deputies
+- 2020-06-18: returned for re-examination
 
 ## Documents
 
