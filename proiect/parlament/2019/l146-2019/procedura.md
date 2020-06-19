@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: returned for re-examination
 - 2020-06-02: sent for promulgation
 - 2020-06-11: promulgated, becomes Legea nr. 78/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-06-19: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,10 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-11: Decret de promulgare (DP): [dp-1bc779bb.md](dp-1bc779bb.md); official file https://www.senat.ro/legis/PDF/2019/19L146DP.PDF
 - 2020-06-11: Adresă privind forma promulgată (AFP): [afp-41ed0eeb.md](afp-41ed0eeb.md); official file https://www.senat.ro/legis/PDF/2019/19L146AFP.PDF
 - 2020-06-11: Forma promulgată (FP): [fp-82e0ab18.md](fp-82e0ab18.md); official file https://www.senat.ro/legis/PDF/2019/19L146FP.PDF
+- 2020-06-19: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (XA): [xa-affe05bb.md](xa-affe05bb.md); official file https://www.senat.ro/legis/PDF/2019/19L146XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (SX): [sx-804c53a2.md](sx-804c53a2.md); official file https://www.senat.ro/legis/PDF/2019/19L146SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L146LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (XXS): [xxs-a2fc0c48.md](xxs-a2fc0c48.md); official file https://www.senat.ro/legis/PDF/2019/19L146XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-19: Document (PX): [px-b186806c.md](px-b186806c.md); official file https://www.senat.ro/legis/PDF/2019/19L146PX.PDF (its day is not given by the bill file: shown from the last stage held)
