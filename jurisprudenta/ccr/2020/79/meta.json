@@ -1,0 +1,227 @@
+{
+ "key": "dcc-79-2020",
+ "label": "Decizia CCR nr. 79/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "79",
+ "date": "2020-02-18",
+ "year": "2020",
+ "heading": "DECIZIA nr. 79 din 18 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor pct. 2.6 secțiunea I: Salarii pentru administrația publică centrală, subcapitolul 1: A. Salarizarea personalului contractual din administrația publică centrală de specialitate, servicii deconcentrate ale ministerelor și ale altor organe centrale de specialitate, prefecturi, consilii județene, municipii, administrația publică locală - consilii, primării și servicii publice din subordinea acestora, capitolul II din anexa nr. VIII \"Familia ocupațională de funcții bugetare «Administrație»\" la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "526",
+  "bis": false,
+  "date": "2020-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.038/3/2018",
+  "1.545D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mădălina Enache, Alina Iacob, Marius Florin Lupea Vasiliu și de Maria-Teodora Ionescu (Mărgărit) în Dosarul nr. 7.038/3/2018 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că prevederile pct. 2.6 secțiunea I: Salarii pentru administrația publică centrală, subcapitolul 1: A. Salarizarea personalului contractual din administrația publică centrală de specialitate, servicii deconcentrate ale ministerelor și ale altor organe centrale de specialitate, prefecturi, consilii județene, municipii, administrația publică locală - consilii, primării și servicii publice din subordinea acestora, capitolul II din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 19/2003",
+    "number": "19",
+    "year": "2003",
+    "path": "oug/2003/19"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 79/2017",
+    "number": "79",
+    "year": "2017",
+    "path": "oug/2017/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 41/2018",
+    "number": "41",
+    "year": "2018",
+    "path": "oug/2018/41"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226890",
+  "text_sha256": "3ca1fbfb871cd599d5d2822b5fed8fa4546e83f711e2bd7b215005baa6651055",
+  "catalogue_sha256": "3ca1fbfb871cd599d5d2822b5fed8fa4546e83f711e2bd7b215005baa6651055",
+  "fetched": "2026-11-06T00:10:19Z",
+  "chars": 24804,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406093721/https://legislatie.just.ro/Public/DetaliiDocumentAfis/226890",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/226890",
+   "timestamp": "20250406093721",
+   "sha256": "6b34f58a82bd74f6eef4afba5ee1708791047def88a7388ef26646fe768d252d"
+  },
+  "portal_id": "226890",
+  "tip": "DECIZIE"
+ }
+}
