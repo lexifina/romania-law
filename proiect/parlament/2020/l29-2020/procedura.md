@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-05-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-02: sent for promulgation
+- 2020-06-19: promulgated, becomes Legea nr. 86/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-19: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L029AM.PDF
 - 2020-05-27: Adresă privind sesizarea CCR (AXS): [axs-491e1eb0.md](axs-491e1eb0.md); official file https://www.senat.ro/legis/PDF/2020/20L029AXS.PDF
 - 2020-05-27: Forma trimisă la promulgare (LP): [lp-1ec7b160.md](lp-1ec7b160.md); official file https://www.senat.ro/legis/PDF/2020/20L029LP.PDF
+- 2020-06-19: Decret de promulgare (DP): [dp-c33bfd7b.md](dp-c33bfd7b.md); official file https://www.senat.ro/legis/PDF/2020/20L029DP.PDF
+- 2020-06-19: Adresă privind forma promulgată (AFP): [afp-f09d2f37.md](afp-f09d2f37.md); official file https://www.senat.ro/legis/PDF/2020/20L029AFP.PDF
+- 2020-06-19: Forma promulgată (FP): [fp-f8ca96d8.md](fp-f8ca96d8.md); official file https://www.senat.ro/legis/PDF/2020/20L029FP.PDF
