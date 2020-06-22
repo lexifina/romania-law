@@ -1,0 +1,255 @@
+{
+ "key": "iccj-hp-16-2020",
+ "label": "Decizia ÎCCJ nr. 16/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "16",
+ "date": "2020-02-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 16 din 17 februarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 666 alin. (5) pct. 2 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "534",
+  "bis": false,
+  "date": "2020-06-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.909/1/2019",
+  "8.295/327/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1",
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Tulcea - Secția civilă, de contencios administrativ și fiscal, în Dosarul nr. 8.295/327/2018, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea dispozițiilor art. 666 alin. (5) pct. 2 din Codul de procedură civilă, prin raportare la pct. 3 din același text normativ și la art. 31 alin. (1) teza finală și art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006, republicată, cu modificările și completările ulterioare, precum și a art. 42 alin. (6^1) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată, cu modificările și completările ulterioare, factura fiscală pentru serviciul de alimentare cu apă și de canalizare, emisă pe numele unei asociații de proprietari de către furnizorul acestui serviciu, în baza unui contract încheiat între furnizor și asociație, calificat ca fiind colectiv, este titlu executoriu.",
+  "În interpretarea și aplicarea dispozițiilor art. 666 alin. (5) pct. 2 din Codul de procedură civilă, prin raportare la pct. 3 din același text de lege, factura fiscală emisă pentru serviciul de alimentare cu apă și de canalizare, în raport cu dispozițiile art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006, republicată, cu modificările și completările ulterioare, și art. 42 alin. (6^1) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată, cu modificările și completările ulterioare, nu constituie titlu executoriu și pentru debitul menționat ca reprezentând „sold precedent“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "633",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1",
+      "17",
+      "9",
+      "15",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1",
+      "9",
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 225/2016",
+    "number": "225",
+    "year": "2016",
+    "path": "lege/2016/225"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 224/2015",
+    "number": "224",
+    "year": "2015",
+    "path": "lege/2015/224"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 255/2016",
+    "number": "255",
+    "year": "2016",
+    "path": "lege/2016/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226951",
+  "text_sha256": "9c69e22eea3b8b26db0dff908d08981c958977540ec0dca2d2f87ec8cdb47f1b",
+  "catalogue_sha256": "9c69e22eea3b8b26db0dff908d08981c958977540ec0dca2d2f87ec8cdb47f1b",
+  "fetched": "2026-11-03T02:00:17Z",
+  "chars": 85373,
+  "portal_id": "226951",
+  "tip": "DECIZIE"
+ }
+}
