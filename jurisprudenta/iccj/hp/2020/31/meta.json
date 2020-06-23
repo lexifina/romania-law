@@ -1,0 +1,613 @@
+{
+ "key": "iccj-hp-31-2020",
+ "label": "Decizia ÎCCJ nr. 31/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "31",
+ "date": "2020-03-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 31 din 2 martie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 22 și art. 34 din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2020-06-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.989/1/2019",
+  "847/95/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2018",
+    "number": "233",
+    "year": "2018",
+    "path": "lege/2018/233"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1535",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția I civilă, în Dosarul nr. 847/95/2019. În interpretarea și aplicarea dispozițiilor art. 22 și art. 34 din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local, republicată, cu modificările și completările ulterioare, forma anterioară modificării prin Legea nr. 233/2018 pentru modificarea și completarea Legii nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local, coroborate cu art. 21-27 din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică, republicată, stabilește că:",
+  "Despăgubirea stabilită în procedura prevăzută de Legea nr. 255/2010, prin hotărâre judecătorească definitivă, nu este compatibilă cu acordarea de daune moratorii întemeiate pe prevederile art. 1.535 din Codul civil, pentru neplata respectivei sume în perioada cuprinsă între data transferului dreptului de proprietate și data la care s-a finalizat judecata asupra contestației privind cuantumul despăgubirilor.",
+  "Despăgubirea stabilită prin hotărâre judecătorească definitivă, pronunțată în procedura prevăzută de Legea nr. 255/2010, este compatibilă cu acordarea de daune moratorii întemeiate pe prevederile art. 1.535 din Codul civil, în cazul în care acestea sunt solicitate pentru perioada ulterioară datei la care s-a finalizat procedura judiciară de soluționare a contestației prevăzute în art. 22 alin. (1) din Legea nr. 255/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2010",
+    "number": "255",
+    "year": "2010",
+    "path": "lege/2010/255"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 233/2018",
+    "number": "233",
+    "year": "2018",
+    "path": "lege/2018/233"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 33/1994",
+    "number": "33",
+    "year": "1994",
+    "path": "lege/1994/33"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1079",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1523",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1615",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 689/2014",
+    "number": "689",
+    "year": "2014",
+    "path": "hg/2014/689"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 689/2914",
+    "number": "689",
+    "year": "2914",
+    "path": "hg/2914/689"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2004",
+    "number": "198",
+    "year": "2004",
+    "path": "lege/2004/198"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 184/2008",
+    "number": "184",
+    "year": "2008",
+    "path": "lege/2008/184"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 9/2000",
+    "number": "9",
+    "year": "2000",
+    "path": "og/2000/9"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "1082",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1088",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226977",
+  "text_sha256": "bfd642a0a82f26faafd8cd45ece7103f7326a30be9f3ec12e42d738a2a951260",
+  "catalogue_sha256": "bfd642a0a82f26faafd8cd45ece7103f7326a30be9f3ec12e42d738a2a951260",
+  "fetched": "2026-11-03T02:00:16Z",
+  "chars": 77690,
+  "portal_id": "226977",
+  "tip": "DECIZIE"
+ }
+}
