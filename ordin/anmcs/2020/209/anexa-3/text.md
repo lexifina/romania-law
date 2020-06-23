@@ -1,0 +1,6 @@
+# Anexa nr. 2 la metodologie
+CERERE DE ÎNSCRIERE în procedura de recunoaștere a furnizorilor de servicii de formare profesională în domeniul managementului calității serviciilor de sănătate
+Subsemnata/Subsemnatul,............................, reprezentant legal al....................., CUI / CIF.........................., cu sediul în........................., str................. nr......, județul/sectorul............, tel.:.........., fax:............, e-mail:............................., înregistrată la ORC..................../Registrul asociațiilor și fundațiilor cu nr......................., vă solicit prin prezenta înscrierea în procedura de recunoaștere a furnizorilor de servicii de formare profesională în domeniul managementului calității serviciilor de sănătate.
+Documentația aferentă este depusă cu opis al documentelor anexate.
+Data completării..../..../....
+Semnătură,........................
