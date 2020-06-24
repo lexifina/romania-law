@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2020-06-11: documents published: Aviz comisie
 - 2020-06-15: documents published: Aviz comisie
 - 2020-06-16: rejected by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Adresă către Camera Deputaților
+- 2020-06-24: registered at the Chamber of Deputies
 
 ## Documents
 
