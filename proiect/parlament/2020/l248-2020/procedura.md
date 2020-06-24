@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-05-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-26: sent for promulgation
 - 2020-06-12: promulgated, becomes Legea nr. 81/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-06-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-06-12: Decret de promulgare (DP): [dp-c8566f07.md](dp-c8566f07.md); official file https://www.senat.ro/legis/PDF/2020/20L248DP.PDF
 - 2020-06-12: Adresă privind forma promulgată (AFP): [afp-662fb581.md](afp-662fb581.md); official file https://www.senat.ro/legis/PDF/2020/20L248AFP.PDF
 - 2020-06-12: Forma promulgată (FP): [fp-1e41f7f7.md](fp-1e41f7f7.md); official file https://www.senat.ro/legis/PDF/2020/20L248FP.PDF
+- 2020-06-24: Document (TX): [tx-ea703a04.md](tx-ea703a04.md); official file https://www.senat.ro/legis/PDF/2020/20L248TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-24: Document (AL): [al-df2127f8.md](al-df2127f8.md); official file https://www.senat.ro/legis/PDF/2020/20L248AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-24: Document (TC): [tc-53f4ef6c.md](tc-53f4ef6c.md); official file https://www.senat.ro/legis/PDF/2020/20L248TC.PDF (its day is not given by the bill file: shown from the last stage held)
