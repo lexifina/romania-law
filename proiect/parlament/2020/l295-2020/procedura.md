@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: documents published: Aviz comisie
 - 2020-05-27: documents published: Aviz comisie
 - 2020-06-02: documents published: Raport comisie sesizată pe fond
+- 2020-06-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Aviz comisie (CA9): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L295CA9.PDF
 - 2020-05-27: Aviz comisie (CA39): [ca39-33bb4a3f.md](ca39-33bb4a3f.md); official file https://www.senat.ro/legis/PDF/2020/20L295CA39.PDF
 - 2020-06-02: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L295CR.PDF
+- 2020-06-24: Forma adoptată de Senat (FS): [fs-942c93e5.md](fs-942c93e5.md); official file https://www.senat.ro/legis/PDF/2020/20L295FS.PDF
+- 2020-06-24: Adresă către Camera Deputaților (AM): [am-1ff42b17.md](am-1ff42b17.md); official file https://www.senat.ro/legis/PDF/2020/20L295AM.PDF
