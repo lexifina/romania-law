@@ -1,0 +1,394 @@
+{
+ "key": "iccj-hp-23-2020",
+ "label": "Decizia ÎCCJ nr. 23/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "23",
+ "date": "2020-03-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 23 din 2 martie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 111 alin. (2) lit. a) coroborat cu art. 117^2 din Legea societăților nr. 31/1990, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "543",
+  "bis": false,
+  "date": "2020-06-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.245/1/2019",
+  "908/98/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "117-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 908/98/2018, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: 1.",
+  "Dacă, în interpretarea dispozițiilor art. 111 alin. (2) lit. a) coroborat cu art. 117^2 din Legea societăților nr. 31/1990, republicată, cu modificările și completările ulterioare, dreptul adunării generale ordinare a acționarilor unei societăți pe acțiuni de a aproba situațiile financiare anuale și de a distribui profitul sub formă de dividende include și partea din profitul net al societății asupra căreia patronatul a convenit cu sindicatul reprezentativ, prin contractul colectiv de muncă, a fi împărțită salariaților proporțional cu salariul de bază;",
+  "2. În caz afirmativ, dacă hotărârea adunării generale a acționarilor de distribuire a profitului are ca efect juridic nașterea dreptului la acțiune al salariaților în termenul de prescripție de 3 ani prevăzut de art. 268 alin. (1) lit. c) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare, sau în termenul de prescripție de 6 luni prevăzut de art. 268 alin. (1) lit. e) din același act normativ.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "111",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "117-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "e"
+     ]
+    },
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "229",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 163/2018",
+    "number": "163",
+    "year": "2018",
+    "path": "lege/2018/163"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1495",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 64/2001",
+    "number": "64",
+    "year": "2001",
+    "path": "og/2001/64"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226996",
+  "text_sha256": "0cc0d01b54cdfc3bc9f59e0bc9852d8386add69cf845e4eccdc5dc67987a8015",
+  "catalogue_sha256": "0cc0d01b54cdfc3bc9f59e0bc9852d8386add69cf845e4eccdc5dc67987a8015",
+  "fetched": "2026-11-03T02:00:15Z",
+  "chars": 78399,
+  "portal_id": "226996",
+  "tip": "DECIZIE"
+ }
+}
