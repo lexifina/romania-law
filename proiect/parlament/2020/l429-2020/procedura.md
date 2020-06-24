@@ -1,0 +1,17 @@
+# Propunere legislativă L429/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind transferul, cu titlu gratuit, al pachetului integral de acţiuni deţinut de stat la Societatea Naţională “Aeroportul Internaţional Timişoara-Traian Vuia”- S.A. din proprietatea privată a statului şi din administrarea Ministerului Transporturilor în proprietatea privată şi în administrarea Consiliului Judeţean Timiş şi, respectiv, în proprietatea privată şi în administrarea Consiliului Local al Municipiului Timişoara
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-06-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-06-24: Adresă de înaintare a inițiativei (AD): [ad-b08106cd.md](ad-b08106cd.md); official file https://www.senat.ro/legis/PDF/2020/20L429AD.PDF
+- 2020-06-24: Forma inițiatorului (FG): [fg-ba140f09.md](fg-ba140f09.md); official file https://www.senat.ro/legis/PDF/2020/20L429FG.PDF
+- 2020-06-24: Expunere de motive (EM): [em-e8030d60.md](em-e8030d60.md); official file https://www.senat.ro/legis/PDF/2020/20L429EM.PDF
