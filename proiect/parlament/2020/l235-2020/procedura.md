@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-05-12: documents published: Aviz comisie
 - 2020-06-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
+- 2020-06-24: promulgated, becomes Legea nr. 89/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Forma adoptată de Senat (FS): [fs-b57ca65d.md](fs-b57ca65d.md); official file https://www.senat.ro/legis/PDF/2020/20L235FS.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-7c23e693.md](axs-7c23e693.md); official file https://www.senat.ro/legis/PDF/2020/20L235AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-2f9c58ef.md](lp-2f9c58ef.md); official file https://www.senat.ro/legis/PDF/2020/20L235LP.PDF
+- 2020-06-24: Decret de promulgare (DP): [dp-23446d35.md](dp-23446d35.md); official file https://www.senat.ro/legis/PDF/2020/20L235DP.PDF
+- 2020-06-24: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2020/20L235AFP.PDF
+- 2020-06-24: Forma promulgată (FP): [fp-8b2609e7.md](fp-8b2609e7.md); official file https://www.senat.ro/legis/PDF/2020/20L235FP.PDF
