@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-26: rejected by the Senate
 - 2020-06-10: returned for re-examination
 - 2020-06-15: sent for promulgation
+- 2020-06-24: promulgated, becomes Legea nr. 87/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076AM.PDF
 - 2019-06-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076AXS.PDF
 - 2019-06-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076LP.PDF
+- 2020-06-24: Decret de promulgare (DP): [dp-460d4303.md](dp-460d4303.md); official file https://www.senat.ro/legis/PDF/2019/19L076DP.PDF
+- 2020-06-24: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2019/19L076AFP.PDF
+- 2020-06-24: Forma promulgată (FP): [fp-efd0cec9.md](fp-efd0cec9.md); official file https://www.senat.ro/legis/PDF/2019/19L076FP.PDF
