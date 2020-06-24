@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-05-07: documents published: Aviz comisie
 - 2020-06-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
+- 2020-06-24: promulgated, becomes Legea nr. 90/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Forma adoptată de Senat (FS): [fs-0c98e4b5.md](fs-0c98e4b5.md); official file https://www.senat.ro/legis/PDF/2020/20L245FS.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-bdcb9e09.md](axs-bdcb9e09.md); official file https://www.senat.ro/legis/PDF/2020/20L245AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-fa90b851.md](lp-fa90b851.md); official file https://www.senat.ro/legis/PDF/2020/20L245LP.PDF
+- 2020-06-24: Decret de promulgare (DP): [dp-8175c8d4.md](dp-8175c8d4.md); official file https://www.senat.ro/legis/PDF/2020/20L245DP.PDF
+- 2020-06-24: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2020/20L245AFP.PDF
+- 2020-06-24: Forma promulgată (FP): [fp-152b903a.md](fp-152b903a.md); official file https://www.senat.ro/legis/PDF/2020/20L245FP.PDF
