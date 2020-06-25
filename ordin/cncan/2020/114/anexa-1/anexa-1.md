@@ -1,0 +1,4 @@
+# Anexa nr. 1 la norme
+Definiții
+Cultură de securitate nucleară - ansamblul caracteristicilor, atitudinilor și comportamentelor indivizilor, organizațiilor și instituțiilor care servesc la susținerea și îmbunătățirea securității nucleare și care asigură că aspectele de securitate nucleară și protecție împotriva radiațiilor ionizante au prioritate și primesc atenția corespunzătoare în funcție de importanța lor
+Procese, activități, proceduri și cerințe importante pentru securitatea nucleară - procesele, activitățile, procedurile și cerințele cu impact direct sau indirect, imediat sau latent asupra securității nucleare, respectiv asupra exploatării instalației nucleare în conformitate cu limitele și condițiile tehnice de operare, cu limitele și condițiile din autorizațiile în vigoare și cu prevederile normelor de securitate nucleară emise de CNCAN
