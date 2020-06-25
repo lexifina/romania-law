@@ -1,0 +1,283 @@
+{
+ "key": "iccj-hp-24-2020",
+ "label": "Decizia ÎCCJ nr. 24/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "24",
+ "date": "2020-03-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 24 din 2 martie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 22 alin. (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și Hotărârii Guvernului nr. 751/2018 pentru stabilirea categoriilor de persoane cu handicap care beneficiază de un spor de 15% din salariul de bază/solda de funcție/salariul de funcție/indemnizația de încadrare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "547",
+  "bis": false,
+  "date": "2020-06-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.348/1/2019",
+  "1.374/62/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția contencios administrativ și fiscal, în Dosarul nr. 1.374/62/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Cum se interpretează și aplică dispozițiile art. 22 alin. (2) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, și Hotărârea Guvernului nr. 751/2018 pentru stabilirea categoriilor de persoane cu handicap care beneficiază de un spor de 15% din salariul de bază/solda de funcție/salariul de funcție/indemnizația de încadrare, în coroborare cu prevederile art. 38 din Legea nr. 153/2017?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": [
+      "j",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 751/2018",
+    "number": "751",
+    "year": "2018",
+    "path": "hg/2018/751"
+   },
+   "articles": [],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2018",
+    "number": "287",
+    "year": "2018",
+    "path": "lege/2018/287"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1031",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2010",
+    "number": "221",
+    "year": "2010",
+    "path": "lege/2010/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 751/2008",
+    "number": "751",
+    "year": "2008",
+    "path": "hg/2008/751"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227021",
+  "text_sha256": "fc60c3e8345136eea2d4880bb362243283e4660197a15c3d5dffa9924ae389ae",
+  "catalogue_sha256": "fc60c3e8345136eea2d4880bb362243283e4660197a15c3d5dffa9924ae389ae",
+  "fetched": "2026-11-06T03:57:27Z",
+  "chars": 51192,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/227021",
+   "timestamp": "20260113193943",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220468959.6/warc/CC-MAIN-20260113172821-20260113202821-00410.warc.gz",
+   "offset": "289040702",
+   "length": "42499",
+   "sha256": "f6b995dbef68cb132b2598ddfe4490367f80249d25885a515a6790e9a99ba069"
+  },
+  "portal_id": "227021",
+  "tip": "DECIZIE"
+ }
+}
