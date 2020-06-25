@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-06-25: promulgated, becomes Legea nr. 93/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-e34610f0.md](fs-e34610f0.md); official file https://www.senat.ro/legis/PDF/2020/20L315FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L315AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-dc482077.md](lp-dc482077.md); official file https://www.senat.ro/legis/PDF/2020/20L315LP.PDF
+- 2020-06-25: Decret de promulgare (DP): [dp-7aa4b0e9.md](dp-7aa4b0e9.md); official file https://www.senat.ro/legis/PDF/2020/20L315DP.PDF
+- 2020-06-25: Adresă privind forma promulgată (AFP): [afp-fdf3b0fd.md](afp-fdf3b0fd.md); official file https://www.senat.ro/legis/PDF/2020/20L315AFP.PDF
+- 2020-06-25: Forma promulgată (FP): [fp-231fce8b.md](fp-231fce8b.md); official file https://www.senat.ro/legis/PDF/2020/20L315FP.PDF
