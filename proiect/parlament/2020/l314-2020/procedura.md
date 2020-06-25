@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-06-25: promulgated, becomes Legea nr. 92/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-e72dcbee.md](fs-e72dcbee.md); official file https://www.senat.ro/legis/PDF/2020/20L314FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L314AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L314LP.PDF
+- 2020-06-25: Decret de promulgare (DP): [dp-97c8b9a5.md](dp-97c8b9a5.md); official file https://www.senat.ro/legis/PDF/2020/20L314DP.PDF
+- 2020-06-25: Adresă privind forma promulgată (AFP): [afp-fdf3b0fd.md](afp-fdf3b0fd.md); official file https://www.senat.ro/legis/PDF/2020/20L314AFP.PDF
+- 2020-06-25: Forma promulgată (FP): [fp-3b9e5ae0.md](fp-3b9e5ae0.md); official file https://www.senat.ro/legis/PDF/2020/20L314FP.PDF
