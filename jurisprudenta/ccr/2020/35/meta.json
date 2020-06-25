@@ -1,0 +1,256 @@
+{
+ "key": "dcc-35-2020",
+ "label": "Decizia CCR nr. 35/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "35",
+ "date": "2020-02-04",
+ "year": "2020",
+ "heading": "DECIZIA nr. 35 din 4 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 25 alin. (5) din Legea serviciilor comunitare de utilități publice nr. 51/2006, ale art. 28 alin. (3) din Legea serviciului de salubrizare a localităților nr. 101/2006 și ale art. III alin. (2) din Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "545",
+  "bis": false,
+  "date": "2020-06-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.353/30/2016",
+  "1.766D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităților nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/2014",
+    "number": "99",
+    "year": "2014",
+    "path": "lege/2014/99"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Retim Ecologic Service - S.A. din Timișoara în Dosarul nr. 8.353/30/2016 al Tribunalului Timiș - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 25 alin. (5) din Legea serviciilor comunitare de utilități publice nr. 51/2006, ale art. 28 alin. (3) din Legea serviciului de salubrizare a localităților nr. 101/2006 și ale art. III alin. (2) din Legea nr. 99/2014 pentru modificarea și completarea Legii serviciului de salubrizare a localităților nr. 101/2006 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităților nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/2014",
+    "number": "99",
+    "year": "2014",
+    "path": "lege/2014/99"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 326/2001",
+    "number": "326",
+    "year": "2001",
+    "path": "lege/2001/326"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 87/2001",
+    "number": "87",
+    "year": "2001",
+    "path": "og/2001/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227014",
+  "text_sha256": "f4305e212d7fd5b71868c0b68a804fc9aa74896eb3d507a877dc99c8ca913dc8",
+  "catalogue_sha256": "f4305e212d7fd5b71868c0b68a804fc9aa74896eb3d507a877dc99c8ca913dc8",
+  "fetched": "2026-11-03T02:00:12Z",
+  "chars": 21737,
+  "portal_id": "227014",
+  "tip": "DECIZIE"
+ }
+}
