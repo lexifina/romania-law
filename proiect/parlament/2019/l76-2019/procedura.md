@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-10: returned for re-examination
 - 2020-06-15: sent for promulgation
 - 2020-06-24: promulgated, becomes Legea nr. 87/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-06-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-24: Decret de promulgare (DP): [dp-460d4303.md](dp-460d4303.md); official file https://www.senat.ro/legis/PDF/2019/19L076DP.PDF
 - 2020-06-24: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2019/19L076AFP.PDF
 - 2020-06-24: Forma promulgată (FP): [fp-efd0cec9.md](fp-efd0cec9.md); official file https://www.senat.ro/legis/PDF/2019/19L076FP.PDF
+- 2020-06-25: Document (AA): [aa-3f8659a6.md](aa-3f8659a6.md); official file https://www.senat.ro/legis/PDF/2019/19L076AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L076CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (XD): [xd-fc7891c4.md](xd-fc7891c4.md); official file https://www.senat.ro/legis/PDF/2019/19L076XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (XXS): [xxs-6a49fb21.md](xxs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2019/19L076XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Document (PX): [px-76c2fa3f.md](px-76c2fa3f.md); official file https://www.senat.ro/legis/PDF/2019/19L076PX.PDF (its day is not given by the bill file: shown from the last stage held)
