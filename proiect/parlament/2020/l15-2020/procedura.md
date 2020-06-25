@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-24: registered at the Chamber of Deputies
 - 2020-06-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
+- 2020-06-25: promulgated, becomes Legea nr. 88/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Guvernul României.
 - 2020-03-01: Adresă către Camera Deputaților (AM): [am-7d014a5c.md](am-7d014a5c.md); official file https://www.senat.ro/legis/PDF/2020/20L015AM.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-67753803.md](axs-67753803.md); official file https://www.senat.ro/legis/PDF/2020/20L015AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-df83d65a.md](lp-df83d65a.md); official file https://www.senat.ro/legis/PDF/2020/20L015LP.PDF
+- 2020-06-25: Document (TA): [ta-5314a160.md](ta-5314a160.md); official file https://www.senat.ro/legis/PDF/2020/20L015TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-06-25: Decret de promulgare (DP): [dp-c38be8c0.md](dp-c38be8c0.md); official file https://www.senat.ro/legis/PDF/2020/20L015DP.PDF
+- 2020-06-25: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2020/20L015AFP.PDF
+- 2020-06-25: Forma promulgată (FP): [fp-eee28576.md](fp-eee28576.md); official file https://www.senat.ro/legis/PDF/2020/20L015FP.PDF
