@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: adopted by the Senate; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
 - 2020-06-24: promulgated, becomes Legea nr. 91/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-06-25: published in the Monitorul Oficial
 
 ## Documents
 
