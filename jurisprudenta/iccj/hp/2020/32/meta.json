@@ -1,0 +1,314 @@
+{
+ "key": "iccj-hp-32-2020",
+ "label": "Decizia ÎCCJ nr. 32/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2020-03-30",
+ "year": "2020",
+ "heading": "DECIZIA nr. 32 din 30 martie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 11 alin. (1) din Legea-cadru nr. 153/2017, art. 2 alin. (1) lit. d) și art. 18 din Ordonanța de urgență a Guvernului nr. 162/2008, respectiv art. 190, art. 199 și art. 201 alin. (3) și alin. (9) din Legea nr. 95/2006",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "553",
+  "bis": false,
+  "date": "2020-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "166/1/2020",
+  "1.966/87/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 162/2008",
+    "number": "162",
+    "year": "2008",
+    "path": "oug/2008/162"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "3",
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale în Dosarul nr. 1.966/87/2018, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: „Interpretarea și aplicarea dispozițiilor a rt. 11 alin. (1) din Legea-cadru nr. 153/2017, art. 2 alin. (1) lit. d) și art. 18 din Ordonanța de urgență a Guvernului nr. 162/2008, respectiv art. 190, art. 199 și art. 201 alin. (3) și alin. (9) din Legea nr. 95/2006, în sensul de a se stabili dacă, în înțelesul prevederilor menționate, spitalul județean de urgență în privința căruia a operat transferul ansamblului de atribuții și competențe exercitate de Ministerul Sănătății Publice către autoritățile administrației publice locale are calitatea de instituție sau serviciu public de interes județean din subordinea consiliului județean, în sensul a rt. 11 alin. (1) din Legea-cadru nr. 153/2017.",
+  "În ipoteza unui răspuns afirmativ la prima chestiune, să se stabilească dacă, în interpretarea și aplicarea dispozițiilor art. 11 alin. (2) din Legea-cadru nr. 153/2017, nomenclatorul la care se referă această dispoziție legală este aplicabil și funcțiilor deținute de personalul tehnic, economic și socio-administrativ din cadrul unui asemenea spital.“",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 162/2008",
+    "number": "162",
+    "year": "2008",
+    "path": "oug/2008/162"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "190",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "3",
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227098",
+  "text_sha256": "f80a1683ed2fb5561ac3b1350b6a15ac7e955c88c121065237c087f1b239c25a",
+  "catalogue_sha256": "f80a1683ed2fb5561ac3b1350b6a15ac7e955c88c121065237c087f1b239c25a",
+  "fetched": "2026-11-03T02:00:07Z",
+  "chars": 41858,
+  "portal_id": "227098",
+  "tip": "DECIZIE"
+ }
+}
