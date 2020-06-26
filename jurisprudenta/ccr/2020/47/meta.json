@@ -1,0 +1,267 @@
+{
+ "key": "dcc-47-2020",
+ "label": "Decizia CCR nr. 47/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "47",
+ "date": "2020-02-04",
+ "year": "2020",
+ "heading": "DECIZIA nr. 47 din 4 februarie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 55 alin. (1), art. 97 alin. (3) și ale art. 114 din Legea nr. 223/2015 privind pensiile militare de stat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "552",
+  "bis": false,
+  "date": "2020-06-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "631/109/2019",
+  "2.277D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 97 alin. (3) și ale art. 114 din Legea nr. 223/2015 privind pensiile militare de stat, excepție ridicată de Georgeta Nicolau în Dosarul nr. 631/109/2019 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași parte în același dosar al aceleiași instanțe și constată că dispozițiile art. 55 alin. (1) din Legea nr. 223/2015 privind pensiile militare de stat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "222",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227087",
+  "text_sha256": "90aa90a2a06f11299c037770210c5a6bb014e730a5f552be7dbe338d6f5a7fc2",
+  "catalogue_sha256": "90aa90a2a06f11299c037770210c5a6bb014e730a5f552be7dbe338d6f5a7fc2",
+  "fetched": "2026-11-03T02:00:08Z",
+  "chars": 20490,
+  "portal_id": "227087",
+  "tip": "DECIZIE"
+ }
+}
