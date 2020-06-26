@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății RAPIDA LOANS IFN - S.A., cu sediul în str. Matei Voievod nr. 29, sc. A, et. 1, ap. biroul 1.1B, sectorul 2, București, înregistrată la oficiul registrului comerțului cu nr. J40/6225/2019, cod unic de înregistrare 39784043, înscrisă în Registrul general cu nr. RG-PJR-41-010343/25.01.2019 și în Registrul special cu nr. RS-PJR-41-010121/4.11.2019, la secțiunea a) - "Credite de consum".
