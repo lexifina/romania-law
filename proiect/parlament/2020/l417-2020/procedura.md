@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-05-13: registered at the Chamber of Deputies
+- 2020-06-29: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2020-06-29: Raport comisie sesizată pe fond (CR): [cr-87ce2422.md](cr-87ce2422.md); official file https://www.senat.ro/legis/PDF/2020/20L417CR.PDF
