@@ -9,9 +9,12 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-06-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-06-29: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2020-06-23: Adresă de înaintare a inițiativei (AD): [ad-1e529f45.md](ad-1e529f45.md); official file https://www.senat.ro/legis/PDF/2020/20L479AD.PDF
 - 2020-06-23: Forma inițiatorului (FG): [fg-c7e95dcf.md](fg-c7e95dcf.md); official file https://www.senat.ro/legis/PDF/2020/20L479FG.PDF
 - 2020-06-23: Expunere de motive (EM): [em-8edb96ee.md](em-8edb96ee.md); official file https://www.senat.ro/legis/PDF/2020/20L479EM.PDF
+- 2020-06-29: Aviz Consiliul Economic și Social (ES): [es-e4aa82ea.md](es-e4aa82ea.md); official file https://www.senat.ro/legis/PDF/2020/20L479ES.PDF
+- 2020-06-29: Aviz Consiliul Legislativ (LG): [lg-4448b30a.md](lg-4448b30a.md); official file https://www.senat.ro/legis/PDF/2020/20L479LG.PDF
