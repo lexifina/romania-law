@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: documents published: Raport comisie sesizată pe fond
 - 2020-06-23: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-06-29: sent for promulgation
 
 ## Documents
 
