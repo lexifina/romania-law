@@ -1,0 +1,325 @@
+{
+ "key": "dcc-116-2020",
+ "label": "Decizia CCR nr. 116/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "116",
+ "date": "2020-03-10",
+ "year": "2020",
+ "heading": "DECIZIA nr. 116 din 10 martie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 29 alin. (1) lit. a) și b) din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului în interpretarea dată prin Decizia nr. 16 din 8 iunie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală referitoare la infracțiunea de spălare a banilor, raportat la art. 10 din aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "564",
+  "bis": false,
+  "date": "2020-06-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.946/111/2012",
+  "3.742/2/2014",
+  "1.749/63/2017",
+  "737/64/2016",
+  "6.056/111/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Trăsnea și Societatea Geomet Industrial - S.R.L. în Dosarul nr. nr. 6.946/111/2012* al Tribunalului Cluj - Secția penală, de Andrei Ștefan Caunii și de Octavia Mihaela Vasile în Dosarul nr. 3.742/2/2014 al Înaltei Curți de Casație și Justiție - Secția penală, de Ion Gabriel Bălteanu în Dosarul nr. 1.749/63/2017 al Tribunalului Dolj - Secția penală și pentru cauze cu minori, de Costin Iulian Văduvan în Dosarul nr. 737/64/2016 al Curții de Apel Brașov - Secția penală și de Daniel-Lucian Merce-Sabău în Dosarul nr. 6.056/111/2017 al Tribunalului Bihor - Secția penală și constată că dispozițiile art. 29 alin. (1) lit. a) și b) din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului, în interpretarea dată prin Decizia nr. 16 din 8 iunie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, referitoare la infracțiunea de spălare a banilor, raportat la art. 10 din aceeași lege, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția penală, Înaltei Curți de Casație și Justiție - Secția penală, Tribunalului Dolj - Secția penală și pentru cauze cu minori, Curții de Apel Brașov - Secția penală și Tribunalului Bihor - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "7",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 59
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2019",
+    "number": "129",
+    "year": "2019",
+    "path": "lege/2019/129"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227418",
+  "text_sha256": "b29b9a7eabe671437393a20507c834756b58d099c3417b62628aa4a8e3d920ae",
+  "catalogue_sha256": "b29b9a7eabe671437393a20507c834756b58d099c3417b62628aa4a8e3d920ae",
+  "fetched": "2026-11-03T02:00:04Z",
+  "chars": 45912,
+  "portal_id": "227418",
+  "tip": "DECIZIE"
+ }
+}
