@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-06-29: promulgated, becomes Legea nr. 99/2020
 
 ## Documents
 
