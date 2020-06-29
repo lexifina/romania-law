@@ -1,0 +1,22 @@
+# Proiect de lege L411/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 244/2020 (`legea-244-2020`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.103/2020 pentru prorogarea termenului de aplicare a măsurilor prevăzute de Ordonanța de urgență a Guvernului nr.26/2018 privind adoptarea unor măsuri pentru siguranța alimentării cu energie electrică
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-06-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-06-29: Adresă de înaintare a inițiativei (AD): [ad-36408fdc.md](ad-36408fdc.md); official file https://www.senat.ro/legis/PDF/2020/20L411AD.PDF
+- 2020-06-29: Forma inițiatorului (FG): [fg-01601385.md](fg-01601385.md); official file https://www.senat.ro/legis/PDF/2020/20L411FG.PDF
+- 2020-06-29: Expunere de motive (EM): [em-c7838354.md](em-c7838354.md); official file https://www.senat.ro/legis/PDF/2020/20L411EM.PDF
+- 2020-06-29: Aviz Consiliul Legislativ (LG): [lg-01a82fd0.md](lg-01a82fd0.md); official file https://www.senat.ro/legis/PDF/2020/20L411LG.PDF
+- 2020-06-29: Document (OG): [og-b875f2cd.md](og-b875f2cd.md); official file https://www.senat.ro/legis/PDF/2020/20L411OG.PDF
+- 2020-06-29: Document (HG): [hg-e6e3b17e.md](hg-e6e3b17e.md); official file https://www.senat.ro/legis/PDF/2020/20L411HG.PDF
