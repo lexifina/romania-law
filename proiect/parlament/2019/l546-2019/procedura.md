@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2019-12-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-12-04: registered at the Chamber of Deputies
+- 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-27: Raport comisie sesizată pe fond (CR): [cr-32b1f52e.md](cr-32b1f52e.md); official file https://www.senat.ro/legis/PDF/2019/19L546CR.PDF
 - 2019-12-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L546FS.PDF
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L546AM.PDF
+- 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-9ad7ada2.md](axs-9ad7ada2.md); official file https://www.senat.ro/legis/PDF/2019/19L546AXS.PDF
+- 2020-06-30: Forma trimisă la promulgare (LP): [lp-5985330b.md](lp-5985330b.md); official file https://www.senat.ro/legis/PDF/2019/19L546LP.PDF
