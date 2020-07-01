@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-06: registered at the Chamber of Deputies
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-12: sent for promulgation
+- 2020-07-01: promulgated, becomes Legea nr. 101/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-060e3cc5.md](am-060e3cc5.md); official file https://www.senat.ro/legis/PDF/2020/20L156AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2020/20L156AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-7f3c365b.md](lp-7f3c365b.md); official file https://www.senat.ro/legis/PDF/2020/20L156LP.PDF
+- 2020-07-01: Decret de promulgare (DP): [dp-a0d4d8ff.md](dp-a0d4d8ff.md); official file https://www.senat.ro/legis/PDF/2020/20L156DP.PDF
+- 2020-07-01: Adresă privind forma promulgată (AFP): [afp-d4c72c49.md](afp-d4c72c49.md); official file https://www.senat.ro/legis/PDF/2020/20L156AFP.PDF
+- 2020-07-01: Forma promulgată (FP): [fp-6c7ad50b.md](fp-6c7ad50b.md); official file https://www.senat.ro/legis/PDF/2020/20L156FP.PDF
