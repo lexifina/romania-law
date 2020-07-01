@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-06-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
 - 2020-06-24: promulgated, becomes Legea nr. 89/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-01: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-06-24: Decret de promulgare (DP): [dp-23446d35.md](dp-23446d35.md); official file https://www.senat.ro/legis/PDF/2020/20L235DP.PDF
 - 2020-06-24: Adresă privind forma promulgată (AFP): [afp-93e0bf49.md](afp-93e0bf49.md); official file https://www.senat.ro/legis/PDF/2020/20L235AFP.PDF
 - 2020-06-24: Forma promulgată (FP): [fp-8b2609e7.md](fp-8b2609e7.md); official file https://www.senat.ro/legis/PDF/2020/20L235FP.PDF
+- 2020-07-01: Document (TX): [tx-6e01bc3e.md](tx-6e01bc3e.md); official file https://www.senat.ro/legis/PDF/2020/20L235TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-01: Document (AL): [al-56be2b39.md](al-56be2b39.md); official file https://www.senat.ro/legis/PDF/2020/20L235AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-01: Document (TC): [tc-2423542e.md](tc-2423542e.md); official file https://www.senat.ro/legis/PDF/2020/20L235TC.PDF (its day is not given by the bill file: shown from the last stage held)
