@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-835-18-hotarare-2020-07-02",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 2 iulie 2020, Cauza C-835/18",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2020-07-02",
+ "year": "2020",
+ "case": "Cauza C-835/18",
+ "celex": "62018CJ0835",
+ "ecli": "ECLI:EU:C:2020:520",
+ "heading": "Hotărârea Curții (Camera a cincea) din 2 iulie 2020",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Timişoara",
+   "date": "2018-11-21",
+   "national_file": "191/108/2018"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Timșoara",
+ "national_followup": null,
+ "parties": "SC Terracult SRL împotriva Direcției Generale Regionale a Finanțelor Publice Timișoara – Administrația Județeană a Finanțelor Publice Arad – Serviciul Inspecție Fiscală Persoane Juridice 5 și a ANAF Direcția Generală Regională a Finanțelor Publice Timișoara Serviciul de Soluționare a Contestațiilor",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Corectare a facturii – Impozit facturat în mod necorespunzător – Rambursarea impozitului plătit fără a fi datorat – Mecanismul de taxare inversă a TVA‑ului – Tranzacții referitoare la o perioadă de impozitare care deja a făcut obiectul unei inspecții fiscale – Neutralitate fiscală – Principiul efectivității – Proporționalitate",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62018CJ0835",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-835/18&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/1ace98c6-bc3f-11ea-811c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "5c0c6c1c5c783a31775b05230678867a2ace442676c9fa436be665664c95c86c"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Dispozițiile Directivei 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva 2013/43/UE a Consiliului din 22 iulie 2013, precum și principiile neutralității fiscale, efectivității și proporționalității trebuie interpretate în sensul că se opun unei reglementări naționale sau unei practici administrative naționale care nu permite unei persoane impozabile, care a efectuat operațiuni cu privire la care s‑a dovedit ulterior că intră sub incidența mecanismului de taxare inversă a taxei pe valoarea adăugată (TVA), să corecteze facturile referitoare la aceste operațiuni și să se prevaleze de aceasta prin rectificarea unei declarații fiscale anterioare sau prin depunerea unei noi declarații fiscale care să ia în considerare corecția astfel efectuată, în vederea rambursării TVA‑ului facturat și plătit fără a fi datorat de această persoană impozabilă, pentru motivul că perioada în care au fost realizate operațiunile respective a făcut deja obiectul unei inspecții fiscale la finalul căreia autoritatea fiscală competentă a emis o decizie de impunere care, nefiind contestată de persoana impozabilă menționată, a rămas definitivă."
+ ]
+}
