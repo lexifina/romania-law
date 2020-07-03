@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-15: sent for promulgation
+- 2020-07-03: promulgated, becomes Legea nr. 107/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-eb3c4bc6.md](am-eb3c4bc6.md); official file https://www.senat.ro/legis/PDF/2020/20L339AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2020/20L339AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-bdc36905.md](lp-bdc36905.md); official file https://www.senat.ro/legis/PDF/2020/20L339LP.PDF
+- 2020-07-03: Decret de promulgare (DP): [dp-f9c4e04b.md](dp-f9c4e04b.md); official file https://www.senat.ro/legis/PDF/2020/20L339DP.PDF
+- 2020-07-03: Adresă privind forma promulgată (AFP): [afp-6086f7aa.md](afp-6086f7aa.md); official file https://www.senat.ro/legis/PDF/2020/20L339AFP.PDF
+- 2020-07-03: Forma promulgată (FP): [fp-1f5e87ba.md](fp-1f5e87ba.md); official file https://www.senat.ro/legis/PDF/2020/20L339FP.PDF
