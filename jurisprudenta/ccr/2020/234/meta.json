@@ -1,0 +1,189 @@
+{
+ "key": "dcc-234-2020",
+ "label": "Decizia CCR nr. 234/2020",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "234",
+ "date": "2020-06-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 234 din 2 iunie 2020",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a Hotărârii Camerei Deputaților nr. 1/2020 pentru alegerea vicepreședinților, secretarilor și chestorilor Camerei Deputaților",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "585",
+  "bis": false,
+  "date": "2020-07-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "231L/2/2020"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea de neconstituționalitate a Hotărârii Camerei Deputaților nr. 1/2020 pentru alegerea vicepreședinților, secretarilor și chestorilor Camerei Deputaților, formulată de Grupul parlamentar al Partidului Național Liberal din Camera Deputaților.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Camerei Deputaților și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-07-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227580",
+  "text_sha256": "a6ec283ccf778031a08c54abf28266e8fdc6859c80177319b5821ca20fda8fec",
+  "catalogue_sha256": "a6ec283ccf778031a08c54abf28266e8fdc6859c80177319b5821ca20fda8fec",
+  "fetched": "2026-11-03T01:59:54Z",
+  "chars": 45997,
+  "portal_id": "227580",
+  "tip": "DECIZIE"
+ }
+}
