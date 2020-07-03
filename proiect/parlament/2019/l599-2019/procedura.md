@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-15: sent for promulgation
+- 2020-07-03: promulgated, becomes Legea nr. 105/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-01-27: Adresă către Camera Deputaților (AM): [am-a145c839.md](am-a145c839.md); official file https://www.senat.ro/legis/PDF/2019/19L599AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2019/19L599AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-2416d722.md](lp-2416d722.md); official file https://www.senat.ro/legis/PDF/2019/19L599LP.PDF
+- 2020-07-03: Decret de promulgare (DP): [dp-017a773c.md](dp-017a773c.md); official file https://www.senat.ro/legis/PDF/2019/19L599DP.PDF
+- 2020-07-03: Adresă privind forma promulgată (AFP): [afp-817cc15f.md](afp-817cc15f.md); official file https://www.senat.ro/legis/PDF/2019/19L599AFP.PDF
+- 2020-07-03: Forma promulgată (FP): [fp-c0951e0f.md](fp-c0951e0f.md); official file https://www.senat.ro/legis/PDF/2019/19L599FP.PDF
