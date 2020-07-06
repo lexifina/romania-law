@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-15: sent for promulgation
 - 2020-07-03: promulgated, becomes Legea nr. 107/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-06: published in the Monitorul Oficial
 
 ## Documents
 
