@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-06: promulgated, becomes Legea nr. 111/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-dc1d2c8f.md](fs-dc1d2c8f.md); official file https://www.senat.ro/legis/PDF/2020/20L249FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L249AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-2e1f354e.md](lp-2e1f354e.md); official file https://www.senat.ro/legis/PDF/2020/20L249LP.PDF
+- 2020-07-06: Decret de promulgare (DP): [dp-7df51a29.md](dp-7df51a29.md); official file https://www.senat.ro/legis/PDF/2020/20L249DP.PDF
+- 2020-07-06: Adresă privind forma promulgată (AFP): [afp-c13f7d6f.md](afp-c13f7d6f.md); official file https://www.senat.ro/legis/PDF/2020/20L249AFP.PDF
+- 2020-07-06: Forma promulgată (FP): [fp-3abf0fdb.md](fp-3abf0fdb.md); official file https://www.senat.ro/legis/PDF/2020/20L249FP.PDF
