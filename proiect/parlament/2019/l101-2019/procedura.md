@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-27: documents published: Aviz comisie
 - 2019-03-25: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-06-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-07-06: sent for promulgation
 
 ## Documents
 
