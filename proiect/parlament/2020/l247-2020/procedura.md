@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-06-10: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-06: promulgated, becomes Legea nr. 110/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-de682488.md](fs-de682488.md); official file https://www.senat.ro/legis/PDF/2020/20L247FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L247AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-78026a91.md](lp-78026a91.md); official file https://www.senat.ro/legis/PDF/2020/20L247LP.PDF
+- 2020-07-06: Decret de promulgare (DP): [dp-698de170.md](dp-698de170.md); official file https://www.senat.ro/legis/PDF/2020/20L247DP.PDF
+- 2020-07-06: Adresă privind forma promulgată (AFP): [afp-0926b0fe.md](afp-0926b0fe.md); official file https://www.senat.ro/legis/PDF/2020/20L247AFP.PDF
+- 2020-07-06: Forma promulgată (FP): [fp-46774c2a.md](fp-46774c2a.md); official file https://www.senat.ro/legis/PDF/2020/20L247FP.PDF
