@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
 - 2020-07-03: promulgated, becomes Legea nr. 109/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-03: Decret de promulgare (DP): [dp-0ba94a15.md](dp-0ba94a15.md); official file https://www.senat.ro/legis/PDF/2020/20L327DP.PDF
 - 2020-07-03: Adresă privind forma promulgată (AFP): [afp-68b52085.md](afp-68b52085.md); official file https://www.senat.ro/legis/PDF/2020/20L327AFP.PDF
 - 2020-07-03: Forma promulgată (FP): [fp-897c486d.md](fp-897c486d.md); official file https://www.senat.ro/legis/PDF/2020/20L327FP.PDF
+- 2020-07-06: Document (AL): [al-2da08387.md](al-2da08387.md); official file https://www.senat.ro/legis/PDF/2020/20L327AL.PDF (its day is not given by the bill file: shown from the last stage held)
