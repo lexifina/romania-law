@@ -10,6 +10,7 @@ Initiator: Guvernul României.
 
 - 2020-06-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2020-07-06: documents published: Aviz comisie
+- 2020-07-07: registered at the Chamber of Deputies; rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Guvernul României.
 - 2020-06-29: Aviz Consiliul Legislativ (LG): [lg-125ce461.md](lg-125ce461.md); official file https://www.senat.ro/legis/PDF/2020/20L410LG.PDF
 - 2020-06-29: Document (HG): [hg-7b88181a.md](hg-7b88181a.md); official file https://www.senat.ro/legis/PDF/2020/20L410HG.PDF
 - 2020-07-06: Aviz comisie (CA41): [ca41-b757856d.md](ca41-b757856d.md); official file https://www.senat.ro/legis/PDF/2020/20L410CA41.PDF
+- 2020-07-07: Adresă către Camera Deputaților (AM): [am-93ee4b37.md](am-93ee4b37.md); official file https://www.senat.ro/legis/PDF/2020/20L410AM.PDF
