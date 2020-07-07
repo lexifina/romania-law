@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2020-06-29: promulgated, becomes Legea nr. 98/2020
+- 2020-07-07: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-ba1ab581.md](fs-ba1ab581.md); official file https://www.senat.ro/legis/PDF/2020/20L242FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L242AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-765e88b6.md](lp-765e88b6.md); official file https://www.senat.ro/legis/PDF/2020/20L242LP.PDF
+- 2020-07-07: Document (AL): [al-96ef0205.md](al-96ef0205.md); official file https://www.senat.ro/legis/PDF/2020/20L242AL.PDF (its day is not given by the bill file: shown from the last stage held)
