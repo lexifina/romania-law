@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-05-07: documents published: Aviz comisie
 - 2020-06-18: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-20: sent for promulgation
+- 2020-07-08: promulgated, becomes Legea nr. 115/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-06-18: Raport comisie sesizată pe fond (CR): [cr-cd1e3116.md](cr-cd1e3116.md); official file https://www.senat.ro/legis/PDF/2020/20L232CR.PDF
 - 2020-06-18: Adresă privind sesizarea CCR (AXS): [axs-e97ca5b3.md](axs-e97ca5b3.md); official file https://www.senat.ro/legis/PDF/2020/20L232AXS.PDF
 - 2020-06-18: Forma trimisă la promulgare (LP): [lp-bd7c8679.md](lp-bd7c8679.md); official file https://www.senat.ro/legis/PDF/2020/20L232LP.PDF
+- 2020-07-08: Decret de promulgare (DP): [dp-7a2ebfd4.md](dp-7a2ebfd4.md); official file https://www.senat.ro/legis/PDF/2020/20L232DP.PDF
+- 2020-07-08: Adresă privind forma promulgată (AFP): [afp-3c56cf8e.md](afp-3c56cf8e.md); official file https://www.senat.ro/legis/PDF/2020/20L232AFP.PDF
+- 2020-07-08: Forma promulgată (FP): [fp-5374b3fb.md](fp-5374b3fb.md); official file https://www.senat.ro/legis/PDF/2020/20L232FP.PDF
