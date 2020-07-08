@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2020-04-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2020-06-18: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-20: sent for promulgation
+- 2020-07-08: promulgated, becomes Legea nr. 116/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Guvernul României.
 - 2020-06-18: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L233CR.PDF
 - 2020-06-18: Adresă privind sesizarea CCR (AXS): [axs-9ee0ccf8.md](axs-9ee0ccf8.md); official file https://www.senat.ro/legis/PDF/2020/20L233AXS.PDF
 - 2020-06-18: Forma trimisă la promulgare (LP): [lp-c90df0f2.md](lp-c90df0f2.md); official file https://www.senat.ro/legis/PDF/2020/20L233LP.PDF
+- 2020-07-08: Decret de promulgare (DP): [dp-d6d89416.md](dp-d6d89416.md); official file https://www.senat.ro/legis/PDF/2020/20L233DP.PDF
+- 2020-07-08: Adresă privind forma promulgată (AFP): [afp-4008f24b.md](afp-4008f24b.md); official file https://www.senat.ro/legis/PDF/2020/20L233AFP.PDF
+- 2020-07-08: Forma promulgată (FP): [fp-c094be78.md](fp-c094be78.md); official file https://www.senat.ro/legis/PDF/2020/20L233FP.PDF
