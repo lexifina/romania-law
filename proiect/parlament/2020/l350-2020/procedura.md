@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-06-12: registered at the Chamber of Deputies
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-19: sent for promulgation
+- 2020-07-08: promulgated, becomes Legea nr. 114/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2020-06-11: Aviz comisie (CA12): [ca12-da28fbdf.md](ca12-da28fbdf.md); official file https://www.senat.ro/legis/PDF/2020/20L350CA12.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-c497b503.md](axs-c497b503.md); official file https://www.senat.ro/legis/PDF/2020/20L350AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-4f8c587c.md](lp-4f8c587c.md); official file https://www.senat.ro/legis/PDF/2020/20L350LP.PDF
+- 2020-07-08: Decret de promulgare (DP): [dp-e77e345b.md](dp-e77e345b.md); official file https://www.senat.ro/legis/PDF/2020/20L350DP.PDF
+- 2020-07-08: Adresă privind forma promulgată (AFP): [afp-b802d3cd.md](afp-b802d3cd.md); official file https://www.senat.ro/legis/PDF/2020/20L350AFP.PDF
+- 2020-07-08: Forma promulgată (FP): [fp-b8965fbe.md](fp-b8965fbe.md); official file https://www.senat.ro/legis/PDF/2020/20L350FP.PDF
