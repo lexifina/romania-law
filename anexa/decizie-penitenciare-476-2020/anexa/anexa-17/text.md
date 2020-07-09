@@ -1,0 +1,26 @@
+# Anexa 17
+Anexa nr. 16
+la regulament
+MINISTERUL JUSTIȚIEI
+ADMINISTRAȚIA NAȚIONALĂ A PENITENCIARELOR
+..............................................................................
+(numele unității/centrului de examinare)
+Nr. .................... din .............................
+PROCES-VERBAL
+cu rezultatele obținute în urma contestațiilor la proba orală/practică
+Încheiat astăzi, ............... , de către comisia pentru soluționarea contestațiilor formată din:
+Președinte: .....................................
+(gradul profesional, numele și prenumele)
+Membru: .....................................
+(gradul profesional, numele și prenumele)
+Membru: .....................................
+(gradul profesional, numele și prenumele)
+În urma reevaluării înregistrărilor audiovideo de la proba orală/practică de la examenul de absolvire a cursului de inițiere a polițiștilor de penitenciare debutanți, curs organizat în perioada ……………………, s-au consemnat următoarele rezultate:
+Nr. crt.
+Numele și prenumele cursantului
+Nota obținută inițial
+Nota după reevaluare
+Observații
+Președinte: ............ (gradul profesional, numele și prenumele) ........... - ....... (semnătură) .......
+Membru: ............ (gradul profesional, numele și prenumele) ........... - ....... (semnătură) .......
+Membru: ............ (gradul profesional, numele și prenumele) ........... - ....... (semnătură) .......
