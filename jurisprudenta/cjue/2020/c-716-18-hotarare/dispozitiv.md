@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a cincea) din 9 iulie 2020, Cauza C-716/18
+
+Pentru aceste motive, Curtea (Camera a cincea) declară:
+Articolul 288 primul paragraf punctul 4 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva 2009/162/UE a Consiliului din 22 decembrie 2009, trebuie interpretat în sensul că, în ceea ce privește o persoană impozabilă în calitate de persoană fizică a cărei activitate economică constă în exercitarea mai multor profesii liberale, precum și în închirierea unui bun imobil, o astfel de închiriere nu constituie o „operațiune accesorie”, în sensul dispoziției menționate, atunci când această operațiune este efectuată în cadrul unei activități profesionale obișnuite a persoanei impozabile.
