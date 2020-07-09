@@ -1,0 +1,17 @@
+# ANEXĂ
+CALENDARUL desfășurării concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional seria a 16-a 13 iulie 2020
+Afișarea programului orar al înscrierilor, a numărului de locuri scoase la concurs și a metodologiei de concurs la sediul inspectoratului școlar și pe site-ul propriu 13-19 iulie 2020 Completarea formularului de selecție online, în aplicația informatică 20 iulie 2020
+Afișarea listelor cuprinzând candidații admiși în această etapă, în urma introducerii informațiilor în formularul de selecție online 20-27 iulie 2020
+Depunerea la inspectoratul școlar a portofoliului cu documentele prevăzute la art. 7 din Metodologia privind organizarea și desfășurarea concursului de selecție a cadrelor didactice pentru constituirea corpului național de experți în management educațional, aprobată prin Ordinul ministrului educației, cercetării, tineretului și sportului nr. 5.549/2011, cu modificările și completările ulterioare, de către candidații declarați admiși după etapa de selecție online, conform programului afișat
+NOTĂ:
+Portofoliile pot fi transmise, la adresa comunicată de inspectoratele școlare, și prin poștă electronică, până la ora 16,30, în data de 27 iulie 2020. Numărul de înregistrare se comunică candidatului prin poștă electronică. 27 iulie 2020
+Inspectoratele școlare transmit la Ministerul Educației și Cercetării lista candidaților declarați admiși după etapa de selecție online, care la data înscrierii la selecție ocupă o funcție de conducere sau de îndrumare și control din inspectoratul școlar, precum și dosarele acestora
+NOTĂ:
+Transmiterea se poate realiza și prin poștă electronică, la adresa comunicată de Ministerul Educației și Cercetării. Numărul de înregistrare se comunică inspectoratului școlar prin poștă electronică. 27 iulie-4 august 2020 Evaluarea portofoliilor candidaților de către comisiile de evaluare constituite la nivelul inspectoratului școlar, respectiv la nivelul Ministerului Educației și Cercetării 5 august 2020
+Validarea rezultatelor selecției de către consiliul de administrație al inspectoratului școlar
+Transmiterea către inspectoratele școlare a rezultatelor selecției făcute de comisia de evaluare constituită la nivelul Ministerului Educației și Cercetării, în vederea afișării acestora la sediul inspectoratului școlar
+Afișarea rezultatelor evaluării, în ordinea descrescătoare a punctajelor 6-12 august 2020
+Depunerea contestațiilor la inspectoratul școlar, respectiv la Ministerul Educației și Cercetării
+NOTĂ:
+Contestațiile pot fi transmise, la adresa comunicată de inspectoratele școlare/Ministerul Educației și Cercetării, și prin poștă electronică, până la ora 16,30, în data de 12 august 2020, situație în care candidatul anexează la contestația transmisă și cartea/buletinul/adeverința de identitate. Numărul de înregistrare se comunică candidatului prin poștă electronică. 6-13 august 2020 Soluționarea contestațiilor 14 august 2020 Transmiterea de către Ministerul Educației și Cercetării a rezultatelor contestațiilor la inspectoratul școlar 14 august 2020 Întocmirea de către inspectoratele școlare a listelor cuprinzând candidații promovați și înaintarea acestor liste la Ministerul Educației și Cercetării până la 24 august 2020 Emiterea ordinului de ministru privind înscrierea cadrelor didactice declarate promovate în Registrul național al experților în management educațional
+-----
