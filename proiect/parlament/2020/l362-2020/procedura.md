@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-17: documents published: Aviz comisie
 - 2020-06-22: sent for promulgation
+- 2020-07-09: promulgated, becomes Legea nr. 120/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L362AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-7e9319e7.md](lp-7e9319e7.md); official file https://www.senat.ro/legis/PDF/2020/20L362LP.PDF
 - 2020-06-17: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L362CA45.PDF
+- 2020-07-09: Decret de promulgare (DP): [dp-c6d12261.md](dp-c6d12261.md); official file https://www.senat.ro/legis/PDF/2020/20L362DP.PDF
+- 2020-07-09: Adresă privind forma promulgată (AFP): [afp-b90665e1.md](afp-b90665e1.md); official file https://www.senat.ro/legis/PDF/2020/20L362AFP.PDF
+- 2020-07-09: Forma promulgată (FP): [fp-3badecb3.md](fp-3badecb3.md); official file https://www.senat.ro/legis/PDF/2020/20L362FP.PDF
