@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-09: promulgated, becomes Legea nr. 118/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L558AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-129f97e0.md](axs-129f97e0.md); official file https://www.senat.ro/legis/PDF/2019/19L558AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-4f6e7af9.md](lp-4f6e7af9.md); official file https://www.senat.ro/legis/PDF/2019/19L558LP.PDF
+- 2020-07-09: Decret de promulgare (DP): [dp-e4e95c25.md](dp-e4e95c25.md); official file https://www.senat.ro/legis/PDF/2019/19L558DP.PDF
+- 2020-07-09: Adresă privind forma promulgată (AFP): [afp-5d805051.md](afp-5d805051.md); official file https://www.senat.ro/legis/PDF/2019/19L558AFP.PDF
+- 2020-07-09: Forma promulgată (FP): [fp-32b160db.md](fp-32b160db.md); official file https://www.senat.ro/legis/PDF/2019/19L558FP.PDF
