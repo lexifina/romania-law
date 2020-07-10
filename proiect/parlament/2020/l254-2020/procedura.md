@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-10: promulgated, becomes Legea nr. 121/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-eb3c4bc6.md](am-eb3c4bc6.md); official file https://www.senat.ro/legis/PDF/2020/20L254AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-7effe2fe.md](axs-7effe2fe.md); official file https://www.senat.ro/legis/PDF/2020/20L254AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-9d85ef47.md](lp-9d85ef47.md); official file https://www.senat.ro/legis/PDF/2020/20L254LP.PDF
+- 2020-07-10: Decret de promulgare (DP): [dp-7be28eff.md](dp-7be28eff.md); official file https://www.senat.ro/legis/PDF/2020/20L254DP.PDF
+- 2020-07-10: Adresă privind forma promulgată (AFP): [afp-248ad113.md](afp-248ad113.md); official file https://www.senat.ro/legis/PDF/2020/20L254AFP.PDF
+- 2020-07-10: Forma promulgată (FP): [fp-a34d706f.md](fp-a34d706f.md); official file https://www.senat.ro/legis/PDF/2020/20L254FP.PDF
