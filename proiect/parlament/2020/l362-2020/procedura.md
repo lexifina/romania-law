@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-17: documents published: Aviz comisie
 - 2020-06-22: sent for promulgation
 - 2020-07-09: promulgated, becomes Legea nr. 120/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-09: Decret de promulgare (DP): [dp-c6d12261.md](dp-c6d12261.md); official file https://www.senat.ro/legis/PDF/2020/20L362DP.PDF
 - 2020-07-09: Adresă privind forma promulgată (AFP): [afp-b90665e1.md](afp-b90665e1.md); official file https://www.senat.ro/legis/PDF/2020/20L362AFP.PDF
 - 2020-07-09: Forma promulgată (FP): [fp-3badecb3.md](fp-3badecb3.md); official file https://www.senat.ro/legis/PDF/2020/20L362FP.PDF
+- 2020-07-10: Document (AL): [al-b4cc01c9.md](al-b4cc01c9.md); official file https://www.senat.ro/legis/PDF/2020/20L362AL.PDF (its day is not given by the bill file: shown from the last stage held)
