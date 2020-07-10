@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2020-07-09: promulgated, becomes Legea nr. 118/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-10: published in the Monitorul Oficial
 
 ## Documents
 
