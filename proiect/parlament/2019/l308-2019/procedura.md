@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-08: registered at the Chamber of Deputies
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-10: promulgated, becomes Legea nr. 125/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L308AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-605f8ffa.md](axs-605f8ffa.md); official file https://www.senat.ro/legis/PDF/2019/19L308AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-e5fec648.md](lp-e5fec648.md); official file https://www.senat.ro/legis/PDF/2019/19L308LP.PDF
+- 2020-07-10: Decret de promulgare (DP): [dp-3f0c7148.md](dp-3f0c7148.md); official file https://www.senat.ro/legis/PDF/2019/19L308DP.PDF
+- 2020-07-10: Adresă privind forma promulgată (AFP): [afp-a2acc8ba.md](afp-a2acc8ba.md); official file https://www.senat.ro/legis/PDF/2019/19L308AFP.PDF
+- 2020-07-10: Forma promulgată (FP): [fp-4b166366.md](fp-4b166366.md); official file https://www.senat.ro/legis/PDF/2019/19L308FP.PDF
