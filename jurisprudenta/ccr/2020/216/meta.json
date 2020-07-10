@@ -1,0 +1,382 @@
+{
+ "key": "dcc-216-2020",
+ "label": "Decizia CCR nr. 216/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "216",
+ "date": "2020-06-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 216 din 2 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II din Ordonanța de urgență a Guvernului nr. 63/2013 pentru modificarea art. 13 alin. (1^2) din Ordonanța de urgență a Guvernului nr. 43/2002 privind Direcția Națională Anticorupție",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "608",
+  "bis": false,
+  "date": "2020-07-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.890/100/2015",
+  "543D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 63/2013",
+    "number": "63",
+    "year": "2013",
+    "path": "oug/2013/63"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Liviu Chira în Dosarul nr. 3.890/100/2015 al Tribunalului Maramureș - Secția penală și constată că dispozițiile art. II din Ordonanța de urgență a Guvernului nr. 63/2013 pentru modificarea art. 13 alin. (1^2) din Ordonanța de urgență a Guvernului nr. 43/2002 privind Direcția Națională Anticorupție sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Maramureș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 63/2013",
+    "number": "63",
+    "year": "2013",
+    "path": "oug/2013/63"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "294",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "300",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "215",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 134/2005",
+    "number": "134",
+    "year": "2005",
+    "path": "oug/2005/134"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 141/1997",
+    "number": "141",
+    "year": "1997",
+    "path": "lege/1997/141"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-07-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227751",
+  "text_sha256": "fe3c3c4bd498a9fed6a3d8b8d6f5ab2e254266d951f8c7c72b0dd3b76e1ec93b",
+  "catalogue_sha256": "fe3c3c4bd498a9fed6a3d8b8d6f5ab2e254266d951f8c7c72b0dd3b76e1ec93b",
+  "fetched": "2026-11-03T01:59:40Z",
+  "chars": 25723,
+  "portal_id": "227751",
+  "tip": "DECIZIE"
+ }
+}
