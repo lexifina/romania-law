@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-19: registered at the Chamber of Deputies
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
+- 2020-07-10: promulgated, becomes Legea nr. 123/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L209AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-eae877b0.md](axs-eae877b0.md); official file https://www.senat.ro/legis/PDF/2018/18L209AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-fa574c9e.md](lp-fa574c9e.md); official file https://www.senat.ro/legis/PDF/2018/18L209LP.PDF
+- 2020-07-10: Decret de promulgare (DP): [dp-0dcd4739.md](dp-0dcd4739.md); official file https://www.senat.ro/legis/PDF/2018/18L209DP.PDF
+- 2020-07-10: Adresă privind forma promulgată (AFP): [afp-9b2c7c70.md](afp-9b2c7c70.md); official file https://www.senat.ro/legis/PDF/2018/18L209AFP.PDF
+- 2020-07-10: Forma promulgată (FP): [fp-3831ea57.md](fp-3831ea57.md); official file https://www.senat.ro/legis/PDF/2018/18L209FP.PDF
