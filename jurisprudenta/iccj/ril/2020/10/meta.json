@@ -1,0 +1,305 @@
+{
+ "key": "iccj-ril-10-2020",
+ "label": "Decizia ÎCCJ nr. 10/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2020-04-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 10 din 6 aprilie 2020",
+ "subtitle": "referitoare interpretarea sintagmelor \"obiect al contractului\" și \"prețul contractului\", prevăzute la art. 4 alin. (6) din Legea nr. 193/2000, precum și a sintagmei \"prețul total al contractului\" prezentă în conținutul unor hotărâri judecătorești",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "611",
+  "bis": false,
+  "date": "2020-07-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "69/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Colegiul de conducere al Curții de Apel Brașov pentru pronunțarea unui recurs în interesul legii asupra următoarelor probleme de drept: a) interpretarea sintagmelor „obiect al contractului“ și „prețul contractului“, prevăzute la art. 4 alin. (6) din Legea nr. 193/2000, precum și a sintagmei „prețul total al contractului“ prezentă în conținutul unor hotărâri judecătorești, respectiv dacă o clauză care reglementează valoarea unui comision de întocmire/analiză dosar sau de gestionare/administrare a creditului este inclusă în noțiunile menționate anterior, fiind exceptată de la controlul caracterului abuziv în măsura în care este exprimată întrun limbaj ușor inteligibil;",
+  "b) în aplicarea art. 4 alin. (6) din Legea nr. 193/2000, raportat la noțiunea de clauze „exprimate într-un limbaj ușor inteligibil“, să se clarifice necesitatea menționării prestațiilor băncii ce urmează a fi efectuate în contrapartida comisioanelor, chiar și atunci când scopul perceperii comisioanelor poate fi ușor dedus din denumirea acestora sau din dispozițiile legale sau contractuale incidente, pentru a se considera că acele clauze sunt redactate într-un limbaj ușor inteligibil;",
+  "c) în aplicarea art. 4 alin. (1) din Legea nr. 193/2000, să se stabilească în ce măsură lipsa detalierii scopului perceperii comisioanelor, respectiv lipsa indicării prestațiilor/activităților efectuate de Bancă în contrapartida comisioanelor percepute creează automat un dezechilibru semnificativ în defavoarea consumatorului;",
+  "d) în aplicarea art. 4 alin. (1) din Legea nr. 193/2000, să se clarifice în ce măsură valoarea (cuantumul) comisioanelor poate fi un element în funcție de care se apreciază dezechilibrul semnificativ în defavoarea consumatorului.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1266",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2004",
+    "number": "296",
+    "year": "2004",
+    "path": "lege/2004/296"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea de aprobare nr. 288/2010",
+    "number": "288",
+    "year": "2010",
+    "path": "lege/2010/288"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 289/2004",
+    "number": "289",
+    "year": "2004",
+    "path": "lege/2004/289"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/1999",
+    "number": "190",
+    "year": "1999",
+    "path": "lege/1999/190"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 174/2008",
+    "number": "174",
+    "year": "2008",
+    "path": "oug/2008/174"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-07-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/227770",
+  "text_sha256": "ab822b06d6a0288d265546d7352584525eff56ddd940dc7c1469315eb5b3e731",
+  "catalogue_sha256": "ab822b06d6a0288d265546d7352584525eff56ddd940dc7c1469315eb5b3e731",
+  "fetched": "2026-11-03T01:59:39Z",
+  "chars": 94289,
+  "portal_id": "227770",
+  "tip": "DECIZIE"
+ }
+}
