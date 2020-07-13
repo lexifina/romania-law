@@ -1,0 +1,50 @@
+/\
+CONSILIUL ECONOMIC SI SOCIAL
+CES
+Str. Dimitrie D. Gerota nr. 7-9, sector 2, Bucure§ti, cod postal: 020027
+Fax: 021.316.31.31
+Telefoane: 021.310.23.56, 021.316.31.34
+021.310.23.57, 021.316.31.33
+E-mail: ces@ces.ro
+/ ROMANIA Y
+mom ^
+Cod fiscal: 10464660
+www.ces.ro
+Membru fondator al Asociafiei Internationale a Consiliilor Economice Sociale $i Institutiiior Similare (AlCESIS)
+Membru al Uniunii Consiliilor Economice $i Sociale $i Institutiiior Similare Francofone (UCESIF)
+„Consiliul Economic §i Social este organ consultativ al Parlamentului §i a! Guvemului in domeniile de specialitate
+stabilite prin legea sa organica de infiintare, organizare §i functionare.” (Art. 141 din Constitufia Romaniei revizuita)
+it!
+CONSILIUL ECONOMfC SI SOCIAL
+, ......
+Luna.£?^Q..^?...
+INTRARE
+IE$IRE (
+...
+If.
+AVIZ
+I
+referitor la propunerea legislativa modificarea
+LEGII nr.82 din 21 iulie 1992 privind rezervele de stat (b390/8.07.2020)
+In temeiul art. 2 alin. (1) din Legea nr. 248/2013 privind organizarea §i funclionarea
+Consiliului Economic §i Social, republicata, cu modificarile §i complet&'ile ulterioare, §i art. 11
+lit. a) din Regulamentul de organizare §i functionare, Consiliul Economic §i Social a fost sesizat
+cu privire la avizareapropunerea legislativa modificarea LEGII nr.82 din 21 iulie 1992 privind
+rezervele de stat (b390/8.07.2020).
+CONSILIUL ECONOMIC §I SOCIAL
+In temeiul art. 5 lit. a) din Legea nr. 248/2013 privind organizarea §i funcfionarea
+Consiliului Economic §i Social, republicata, cu modificarile §i complet^ile ulterioare, in
+§edinta din data de 23.07.2020, desfa§urata online, conform prevederilor Hot^^ii Plenului
+nr.37/18.03.2020, modificata prin Hotararea Plenului nr. 52/14.05.2020, avizeaza
+FAVORABIL prezentul proiect de act normativ.
+Pre^edinte,
+«
+CO
+o
+(p
+'Z-
+o
+o
+o
+o
+A
