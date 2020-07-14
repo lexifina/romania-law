@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2020-07-14: documents published: Aviz comisie, Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,7 @@ Initiator: Guvernul României.
 - 2020-07-01: Aviz Consiliul Legislativ (LG): [lg-62a1334e.md](lg-62a1334e.md); official file https://www.senat.ro/legis/PDF/2020/20L414LG.PDF
 - 2020-07-01: Document (OG): [og-07099385.md](og-07099385.md); official file https://www.senat.ro/legis/PDF/2020/20L414OG.PDF
 - 2020-07-01: Document (HG): [hg-d7024114.md](hg-d7024114.md); official file https://www.senat.ro/legis/PDF/2020/20L414HG.PDF
+- 2020-07-14: Aviz comisie (CA19): [ca19-dfd88059.md](ca19-dfd88059.md); official file https://www.senat.ro/legis/PDF/2020/20L414CA19.PDF
+- 2020-07-14: Aviz comisie (CA3): [ca3-18388a28.md](ca3-18388a28.md); official file https://www.senat.ro/legis/PDF/2020/20L414CA3.PDF
+- 2020-07-14: Aviz comisie (CA47): [ca47-a9b86282.md](ca47-a9b86282.md); official file https://www.senat.ro/legis/PDF/2020/20L414CA47.PDF
+- 2020-07-14: Raport comisie sesizată pe fond (CR): [cr-cd3f06a3.md](cr-cd3f06a3.md); official file https://www.senat.ro/legis/PDF/2020/20L414CR.PDF
