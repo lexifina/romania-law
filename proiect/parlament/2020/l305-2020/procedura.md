@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-06-10: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-26: sent for promulgation
+- 2020-07-14: promulgated, becomes Legea nr. 128/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L305AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L305AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-ba4f49c3.md](lp-ba4f49c3.md); official file https://www.senat.ro/legis/PDF/2020/20L305LP.PDF
+- 2020-07-14: Decret de promulgare (DP): [dp-ccc7922d.md](dp-ccc7922d.md); official file https://www.senat.ro/legis/PDF/2020/20L305DP.PDF
+- 2020-07-14: Adresă privind forma promulgată (AFP): [afp-a188dd25.md](afp-a188dd25.md); official file https://www.senat.ro/legis/PDF/2020/20L305AFP.PDF
+- 2020-07-14: Forma promulgată (FP): [fp-f43a8ce2.md](fp-f43a8ce2.md); official file https://www.senat.ro/legis/PDF/2020/20L305FP.PDF
