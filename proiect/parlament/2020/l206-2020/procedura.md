@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-05-06: registered at the Chamber of Deputies
 - 2020-05-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-15: returned for re-examination
+- 2020-07-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Guvernul României.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-d6fb02da.md](am-d6fb02da.md); official file https://www.senat.ro/legis/PDF/2020/20L206AM.PDF
 - 2020-05-13: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2020/20L206AXS.PDF
 - 2020-05-13: Forma trimisă la promulgare (LP): [lp-b9a5e305.md](lp-b9a5e305.md); official file https://www.senat.ro/legis/PDF/2020/20L206LP.PDF
+- 2020-07-14: Aviz comisie (CA41): [ca41-6ee7a4fe.md](ca41-6ee7a4fe.md); official file https://www.senat.ro/legis/PDF/2020/20L206CA41.PDF
