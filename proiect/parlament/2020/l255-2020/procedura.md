@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-26: sent for promulgation
+- 2020-07-14: promulgated, becomes Legea nr. 129/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L255AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L255AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-9e5978c8.md](lp-9e5978c8.md); official file https://www.senat.ro/legis/PDF/2020/20L255LP.PDF
+- 2020-07-14: Decret de promulgare (DP): [dp-57726693.md](dp-57726693.md); official file https://www.senat.ro/legis/PDF/2020/20L255DP.PDF
+- 2020-07-14: Adresă privind forma promulgată (AFP): [afp-042e54c1.md](afp-042e54c1.md); official file https://www.senat.ro/legis/PDF/2020/20L255AFP.PDF
+- 2020-07-14: Forma promulgată (FP): [fp-3a4fba8f.md](fp-3a4fba8f.md); official file https://www.senat.ro/legis/PDF/2020/20L255FP.PDF
