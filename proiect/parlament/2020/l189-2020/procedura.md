@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-05-06: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-26: sent for promulgation
+- 2020-07-14: promulgated, becomes Legea nr. 127/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-f0d0666f.md](am-f0d0666f.md); official file https://www.senat.ro/legis/PDF/2020/20L189AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L189AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-c6538387.md](lp-c6538387.md); official file https://www.senat.ro/legis/PDF/2020/20L189LP.PDF
+- 2020-07-14: Decret de promulgare (DP): [dp-bbf75238.md](dp-bbf75238.md); official file https://www.senat.ro/legis/PDF/2020/20L189DP.PDF
+- 2020-07-14: Adresă privind forma promulgată (AFP): [afp-2e95b263.md](afp-2e95b263.md); official file https://www.senat.ro/legis/PDF/2020/20L189AFP.PDF
+- 2020-07-14: Forma promulgată (FP): [fp-e5784362.md](fp-e5784362.md); official file https://www.senat.ro/legis/PDF/2020/20L189FP.PDF
