@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-26: sent for promulgation
 - 2020-07-14: promulgated, becomes Legea nr. 129/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-15: published in the Monitorul Oficial
 
 ## Documents
 
