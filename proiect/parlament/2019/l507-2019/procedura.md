@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
+- 2020-07-15: promulgated, becomes Legea nr. 130/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-26: Adresă către Camera Deputaților (AM): [am-5e25193b.md](am-5e25193b.md); official file https://www.senat.ro/legis/PDF/2019/19L507AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2019/19L507AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-ffd4c659.md](lp-ffd4c659.md); official file https://www.senat.ro/legis/PDF/2019/19L507LP.PDF
+- 2020-07-15: Decret de promulgare (DP): [dp-53addc72.md](dp-53addc72.md); official file https://www.senat.ro/legis/PDF/2019/19L507DP.PDF
+- 2020-07-15: Adresă privind forma promulgată (AFP): [afp-a32c02a2.md](afp-a32c02a2.md); official file https://www.senat.ro/legis/PDF/2019/19L507AFP.PDF
+- 2020-07-15: Forma promulgată (FP): [fp-5208cbec.md](fp-5208cbec.md); official file https://www.senat.ro/legis/PDF/2019/19L507FP.PDF
