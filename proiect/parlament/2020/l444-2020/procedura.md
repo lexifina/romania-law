@@ -1,0 +1,22 @@
+# Proiect de lege L444/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 101/2021 (`legea-101-2021`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.111/2020 privind modificarea și completarea Legii nr.129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative, pentru completarea art.218 din Ordonanța de urgență a Guvernului nr.99/2006 privind instituțiile de credit și adecvarea capitalului, pentru modificarea și completarea Legii nr.207/2015 privind Codul de procedură fiscală, precum și pentru completarea art.12 alin.(5) din Legea nr.237/2015 privind autorizarea și supravegherea activității de asigurare și reasigurare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-07-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-07-15: Adresă de înaintare a inițiativei (AD): [ad-188ce295.md](ad-188ce295.md); official file https://www.senat.ro/legis/PDF/2020/20L444AD.PDF
+- 2020-07-15: Forma inițiatorului (FG): [fg-78f3469e.md](fg-78f3469e.md); official file https://www.senat.ro/legis/PDF/2020/20L444FG.PDF
+- 2020-07-15: Expunere de motive (EM): [em-2a43fff3.md](em-2a43fff3.md); official file https://www.senat.ro/legis/PDF/2020/20L444EM.PDF
+- 2020-07-15: Aviz Consiliul Legislativ (LG): [lg-c933a773.md](lg-c933a773.md); official file https://www.senat.ro/legis/PDF/2020/20L444LG.PDF
+- 2020-07-15: Document (OG): [og-12a2cfb6.md](og-12a2cfb6.md); official file https://www.senat.ro/legis/PDF/2020/20L444OG.PDF
+- 2020-07-15: Document (HG): [hg-4a3410d0.md](hg-4a3410d0.md); official file https://www.senat.ro/legis/PDF/2020/20L444HG.PDF
