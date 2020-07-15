@@ -1,0 +1,19 @@
+# Propunere legislativă L534/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 57/2021 (`legea-57-2021`).
+
+Propunere legislativă pentru publicarea Monitorului Oficial în format electronic liber şi deschis prin modificarea Legii nr.202/1998 privind organizarea Monitorului Oficial al României
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2020-07-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2020-07-15: Adresă de înaintare a inițiativei (AD): [ad-e87a9e14.md](ad-e87a9e14.md); official file https://www.senat.ro/legis/PDF/2020/20L534AD.PDF
+- 2020-07-15: Forma inițiatorului (FG): [fg-f22b0f70.md](fg-f22b0f70.md); official file https://www.senat.ro/legis/PDF/2020/20L534FG.PDF
+- 2020-07-15: Expunere de motive (EM): [em-af7856e7.md](em-af7856e7.md); official file https://www.senat.ro/legis/PDF/2020/20L534EM.PDF
