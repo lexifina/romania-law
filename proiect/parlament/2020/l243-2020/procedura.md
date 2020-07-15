@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-23: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
+- 2020-07-15: promulgated, becomes Legea nr. 133/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-23: Forma adoptată de Senat (FS): [fs-71c7e291.md](fs-71c7e291.md); official file https://www.senat.ro/legis/PDF/2020/20L243FS.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L243AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-4df2c5be.md](lp-4df2c5be.md); official file https://www.senat.ro/legis/PDF/2020/20L243LP.PDF
+- 2020-07-15: Document (AL): [al-e7229b0b.md](al-e7229b0b.md); official file https://www.senat.ro/legis/PDF/2020/20L243AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-15: Decret de promulgare (DP): [dp-42edd5ab.md](dp-42edd5ab.md); official file https://www.senat.ro/legis/PDF/2020/20L243DP.PDF
+- 2020-07-15: Adresă privind forma promulgată (AFP): [afp-276c185c.md](afp-276c185c.md); official file https://www.senat.ro/legis/PDF/2020/20L243AFP.PDF
+- 2020-07-15: Forma promulgată (FP): [fp-eae9427b.md](fp-eae9427b.md); official file https://www.senat.ro/legis/PDF/2020/20L243FP.PDF
