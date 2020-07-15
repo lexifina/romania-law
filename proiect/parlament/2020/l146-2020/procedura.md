@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
+- 2020-07-15: promulgated, becomes Legea nr. 131/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L146AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L146AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-d84c5f26.md](lp-d84c5f26.md); official file https://www.senat.ro/legis/PDF/2020/20L146LP.PDF
+- 2020-07-15: Document (AT): [at-ddf33980.md](at-ddf33980.md); official file https://www.senat.ro/legis/PDF/2020/20L146AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-15: Document (S1): [s1-0dfcd9e9.md](s1-0dfcd9e9.md); official file https://www.senat.ro/legis/PDF/2020/20L146S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-15: Decret de promulgare (DP): [dp-5b4b0661.md](dp-5b4b0661.md); official file https://www.senat.ro/legis/PDF/2020/20L146DP.PDF
+- 2020-07-15: Adresă privind forma promulgată (AFP): [afp-9ab8ee0a.md](afp-9ab8ee0a.md); official file https://www.senat.ro/legis/PDF/2020/20L146AFP.PDF
+- 2020-07-15: Forma promulgată (FP): [fp-9cb74b58.md](fp-9cb74b58.md); official file https://www.senat.ro/legis/PDF/2020/20L146FP.PDF
