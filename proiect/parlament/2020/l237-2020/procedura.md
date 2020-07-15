@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-06-23: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-06-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
+- 2020-07-15: promulgated, becomes Legea nr. 132/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,7 @@ Initiator: Guvernul României.
 - 2020-06-23: Forma adoptată de Senat (FS): [fs-3b630a7c.md](fs-3b630a7c.md); official file https://www.senat.ro/legis/PDF/2020/20L237FS.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2020/20L237AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-ac4b8e45.md](lp-ac4b8e45.md); official file https://www.senat.ro/legis/PDF/2020/20L237LP.PDF
+- 2020-07-15: Document (AL): [al-242840fa.md](al-242840fa.md); official file https://www.senat.ro/legis/PDF/2020/20L237AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-15: Decret de promulgare (DP): [dp-7fc03434.md](dp-7fc03434.md); official file https://www.senat.ro/legis/PDF/2020/20L237DP.PDF
+- 2020-07-15: Adresă privind forma promulgată (AFP): [afp-3cffd9c5.md](afp-3cffd9c5.md); official file https://www.senat.ro/legis/PDF/2020/20L237AFP.PDF
+- 2020-07-15: Forma promulgată (FP): [fp-80d29870.md](fp-80d29870.md); official file https://www.senat.ro/legis/PDF/2020/20L237FP.PDF
