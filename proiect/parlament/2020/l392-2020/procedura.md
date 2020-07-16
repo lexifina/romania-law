@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2020-06-26: documents published: Aviz comisie
 - 2020-06-30: documents published: Aviz comisie
+- 2020-07-16: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Aviz comisie (CA3): [ca3-671d4bf8.md](ca3-671d4bf8.md); official file https://www.senat.ro/legis/PDF/2020/20L392CA3.PDF
 - 2020-06-30: Aviz comisie (CA44): [ca44-b8d1ec25.md](ca44-b8d1ec25.md); official file https://www.senat.ro/legis/PDF/2020/20L392CA44.PDF
 - 2020-06-30: Aviz comisie (CA8): [ca8-3a12995f.md](ca8-3a12995f.md); official file https://www.senat.ro/legis/PDF/2020/20L392CA8.PDF
+- 2020-07-16: Raport comisie sesizată pe fond (CR): [cr-40c456d1.md](cr-40c456d1.md); official file https://www.senat.ro/legis/PDF/2020/20L392CR.PDF
