@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-07: registered at the Chamber of Deputies; adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2020-07-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-10: sent for promulgation
+- 2020-07-16: promulgated, becomes Legea nr. 135/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-07: Adresă către Camera Deputaților (AM): [am-d2f6018b.md](am-d2f6018b.md); official file https://www.senat.ro/legis/PDF/2020/20L408AM.PDF
 - 2020-07-08: Adresă privind sesizarea CCR (AXS): [axs-992432dc.md](axs-992432dc.md); official file https://www.senat.ro/legis/PDF/2020/20L408AXS.PDF
 - 2020-07-08: Forma trimisă la promulgare (LP): [lp-0563f636.md](lp-0563f636.md); official file https://www.senat.ro/legis/PDF/2020/20L408LP.PDF
+- 2020-07-16: Decret de promulgare (DP): [dp-7d2a72b6.md](dp-7d2a72b6.md); official file https://www.senat.ro/legis/PDF/2020/20L408DP.PDF
+- 2020-07-16: Adresă privind forma promulgată (AFP): [afp-e1f92a8a.md](afp-e1f92a8a.md); official file https://www.senat.ro/legis/PDF/2020/20L408AFP.PDF
+- 2020-07-16: Forma promulgată (FP): [fp-98f137ea.md](fp-98f137ea.md); official file https://www.senat.ro/legis/PDF/2020/20L408FP.PDF
