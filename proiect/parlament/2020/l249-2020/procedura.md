@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2020-07-06: promulgated, becomes Legea nr. 111/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2020-07-06: Decret de promulgare (DP): [dp-7df51a29.md](dp-7df51a29.md); official file https://www.senat.ro/legis/PDF/2020/20L249DP.PDF
 - 2020-07-06: Adresă privind forma promulgată (AFP): [afp-c13f7d6f.md](afp-c13f7d6f.md); official file https://www.senat.ro/legis/PDF/2020/20L249AFP.PDF
 - 2020-07-06: Forma promulgată (FP): [fp-3abf0fdb.md](fp-3abf0fdb.md); official file https://www.senat.ro/legis/PDF/2020/20L249FP.PDF
+- 2020-07-16: Document (AL): [al-96ef0205.md](al-96ef0205.md); official file https://www.senat.ro/legis/PDF/2020/20L249AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-16: Document (TC): [tc-c8c05fee.md](tc-c8c05fee.md); official file https://www.senat.ro/legis/PDF/2020/20L249TC.PDF (its day is not given by the bill file: shown from the last stage held)
