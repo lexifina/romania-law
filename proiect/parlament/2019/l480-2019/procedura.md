@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-06-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-29: sent for promulgation
+- 2020-07-16: promulgated, becomes Legea nr. 134/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L480AM.PDF
 - 2020-06-24: Adresă privind sesizarea CCR (AXS): [axs-a238b646.md](axs-a238b646.md); official file https://www.senat.ro/legis/PDF/2019/19L480AXS.PDF
 - 2020-06-24: Forma trimisă la promulgare (LP): [lp-2d20972c.md](lp-2d20972c.md); official file https://www.senat.ro/legis/PDF/2019/19L480LP.PDF
+- 2020-07-16: Decret de promulgare (DP): [dp-d8b89368.md](dp-d8b89368.md); official file https://www.senat.ro/legis/PDF/2019/19L480DP.PDF
+- 2020-07-16: Adresă privind forma promulgată (AFP): [afp-c61a65c7.md](afp-c61a65c7.md); official file https://www.senat.ro/legis/PDF/2019/19L480AFP.PDF
+- 2020-07-16: Forma promulgată (FP): [fp-1d0a91ef.md](fp-1d0a91ef.md); official file https://www.senat.ro/legis/PDF/2019/19L480FP.PDF
