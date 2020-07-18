@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-07-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document, Aviz comisie
 - 2020-07-14: documents published: Aviz comisie
 - 2020-07-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-07-18: sent for promulgation; promulgated, becomes Legea nr. 136/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Guvernul României.
 - 2020-07-16: Forma adoptată de Senat (FS): [fs-e995cc66.md](fs-e995cc66.md); official file https://www.senat.ro/legis/PDF/2020/20L433FS.PDF
 - 2020-07-16: Adresă privind sesizarea CCR (AXS): [axs-4c5b9f86.md](axs-4c5b9f86.md); official file https://www.senat.ro/legis/PDF/2020/20L433AXS.PDF
 - 2020-07-16: Forma trimisă la promulgare (LP): [lp-ef25d587.md](lp-ef25d587.md); official file https://www.senat.ro/legis/PDF/2020/20L433LP.PDF
+- 2020-07-18: Document (AL): [al-8938ea55.md](al-8938ea55.md); official file https://www.senat.ro/legis/PDF/2020/20L433AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-18: Decret de promulgare (DP): [dp-d420834d.md](dp-d420834d.md); official file https://www.senat.ro/legis/PDF/2020/20L433DP.PDF
+- 2020-07-18: Adresă privind forma promulgată (AFP): [afp-357166c1.md](afp-357166c1.md); official file https://www.senat.ro/legis/PDF/2020/20L433AFP.PDF
+- 2020-07-18: Forma promulgată (FP): [fp-8b7b9aee.md](fp-8b7b9aee.md); official file https://www.senat.ro/legis/PDF/2020/20L433FP.PDF
