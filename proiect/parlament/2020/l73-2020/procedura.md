@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-24: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 139/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-928cb6f6.md](am-928cb6f6.md); official file https://www.senat.ro/legis/PDF/2020/20L073AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-4a4544d9.md](axs-4a4544d9.md); official file https://www.senat.ro/legis/PDF/2020/20L073AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-15cfd34d.md](lp-15cfd34d.md); official file https://www.senat.ro/legis/PDF/2020/20L073LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-eaeb75ea.md](dp-eaeb75ea.md); official file https://www.senat.ro/legis/PDF/2020/20L073DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-2892ebbf.md](afp-2892ebbf.md); official file https://www.senat.ro/legis/PDF/2020/20L073AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-5e4d2fea.md](fp-5e4d2fea.md); official file https://www.senat.ro/legis/PDF/2020/20L073FP.PDF
