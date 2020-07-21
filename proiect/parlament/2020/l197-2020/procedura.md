@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 140/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L197AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-78ad7a68.md](axs-78ad7a68.md); official file https://www.senat.ro/legis/PDF/2020/20L197AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-ea755586.md](lp-ea755586.md); official file https://www.senat.ro/legis/PDF/2020/20L197LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-af959d21.md](dp-af959d21.md); official file https://www.senat.ro/legis/PDF/2020/20L197DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-892cfe3f.md](afp-892cfe3f.md); official file https://www.senat.ro/legis/PDF/2020/20L197AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-c6630292.md](fp-c6630292.md); official file https://www.senat.ro/legis/PDF/2020/20L197FP.PDF
