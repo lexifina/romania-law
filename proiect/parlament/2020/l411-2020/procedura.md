@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2020-06-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2020-07-08: documents published: Raport comisie sesizată pe fond
+- 2020-07-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Guvernul României.
 - 2020-06-29: Document (OG): [og-b875f2cd.md](og-b875f2cd.md); official file https://www.senat.ro/legis/PDF/2020/20L411OG.PDF
 - 2020-06-29: Document (HG): [hg-e6e3b17e.md](hg-e6e3b17e.md); official file https://www.senat.ro/legis/PDF/2020/20L411HG.PDF
 - 2020-07-08: Raport comisie sesizată pe fond (CR): [cr-a756e3c9.md](cr-a756e3c9.md); official file https://www.senat.ro/legis/PDF/2020/20L411CR.PDF
+- 2020-07-21: Forma adoptată de Senat (FS): [fs-37ba4e93.md](fs-37ba4e93.md); official file https://www.senat.ro/legis/PDF/2020/20L411FS.PDF
+- 2020-07-21: Adresă către Camera Deputaților (AM): [am-d790593b.md](am-d790593b.md); official file https://www.senat.ro/legis/PDF/2020/20L411AM.PDF
