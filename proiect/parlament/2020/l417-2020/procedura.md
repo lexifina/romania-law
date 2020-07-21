@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-08: documents published: Aviz comisie
 - 2020-07-13: documents published: Aviz comisie
+- 2020-07-21: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-01: Expunere de motive (EM): [em-013bdda7.md](em-013bdda7.md); official file https://www.senat.ro/legis/PDF/2020/20L417EM.PDF
 - 2020-07-08: Aviz comisie (CA45): [ca45-33c255bd.md](ca45-33c255bd.md); official file https://www.senat.ro/legis/PDF/2020/20L417CA45.PDF
 - 2020-07-13: Aviz comisie (CA8): [ca8-22bbeba7.md](ca8-22bbeba7.md); official file https://www.senat.ro/legis/PDF/2020/20L417CA8.PDF
+- 2020-07-21: Document (AA): [aa-4401d74e.md](aa-4401d74e.md); official file https://www.senat.ro/legis/PDF/2020/20L417AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-21: Document (ARD): [ard-916d515d.md](ard-916d515d.md); official file https://www.senat.ro/legis/PDF/2020/20L417ARD.PDF (its day is not given by the bill file: shown from the last stage held)
