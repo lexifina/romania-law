@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-10: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 141/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L307AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-bb7b424d.md](axs-bb7b424d.md); official file https://www.senat.ro/legis/PDF/2020/20L307AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-9f8a7aed.md](lp-9f8a7aed.md); official file https://www.senat.ro/legis/PDF/2020/20L307LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-d3209b48.md](dp-d3209b48.md); official file https://www.senat.ro/legis/PDF/2020/20L307DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-6f2371a4.md](afp-6f2371a4.md); official file https://www.senat.ro/legis/PDF/2020/20L307AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-f26d73ce.md](fp-f26d73ce.md); official file https://www.senat.ro/legis/PDF/2020/20L307FP.PDF
