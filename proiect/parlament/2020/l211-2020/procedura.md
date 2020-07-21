@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 138/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-eb3c4bc6.md](am-eb3c4bc6.md); official file https://www.senat.ro/legis/PDF/2020/20L211AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-e0e64b3a.md](axs-e0e64b3a.md); official file https://www.senat.ro/legis/PDF/2020/20L211AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-6ae161c1.md](lp-6ae161c1.md); official file https://www.senat.ro/legis/PDF/2020/20L211LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-f8397c19.md](dp-f8397c19.md); official file https://www.senat.ro/legis/PDF/2020/20L211DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-85bb5546.md](afp-85bb5546.md); official file https://www.senat.ro/legis/PDF/2020/20L211AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-a0d7e95a.md](fp-a0d7e95a.md); official file https://www.senat.ro/legis/PDF/2020/20L211FP.PDF
