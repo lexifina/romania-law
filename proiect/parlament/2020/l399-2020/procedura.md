@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-07-06: documents published: Aviz comisie
 - 2020-07-08: documents published: Raport comisie sesizată pe fond
 - 2020-07-14: documents published: Aviz comisie
+- 2020-07-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2020-07-06: Aviz comisie (CA43): [ca43-f6a3a398.md](ca43-f6a3a398.md); official file https://www.senat.ro/legis/PDF/2020/20L399CA43.PDF
 - 2020-07-08: Raport comisie sesizată pe fond (CR): [cr-1761a16a.md](cr-1761a16a.md); official file https://www.senat.ro/legis/PDF/2020/20L399CR.PDF
 - 2020-07-14: Aviz comisie (CA19): [ca19-b376fe14.md](ca19-b376fe14.md); official file https://www.senat.ro/legis/PDF/2020/20L399CA19.PDF
+- 2020-07-21: Forma adoptată de Senat (FS): [fs-dd08e72d.md](fs-dd08e72d.md); official file https://www.senat.ro/legis/PDF/2020/20L399FS.PDF
+- 2020-07-21: Adresă către Camera Deputaților (AM): [am-a45e3ac9.md](am-a45e3ac9.md); official file https://www.senat.ro/legis/PDF/2020/20L399AM.PDF
