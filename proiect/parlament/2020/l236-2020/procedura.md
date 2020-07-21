@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2020-06-29: promulgated, becomes Legea nr. 99/2020
+- 2020-07-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2020-06-10: Forma adoptată de Senat (FS): [fs-e02fa5e4.md](fs-e02fa5e4.md); official file https://www.senat.ro/legis/PDF/2020/20L236FS.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L236AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-be3d3d76.md](lp-be3d3d76.md); official file https://www.senat.ro/legis/PDF/2020/20L236LP.PDF
+- 2020-07-21: Document (AL): [al-96ef0205.md](al-96ef0205.md); official file https://www.senat.ro/legis/PDF/2020/20L236AL.PDF (its day is not given by the bill file: shown from the last stage held)
