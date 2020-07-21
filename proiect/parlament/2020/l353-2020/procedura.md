@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-11: documents published: Aviz comisie
 - 2020-06-30: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 142/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-06-30: Forma adoptată de Senat (FS): [fs-83e146eb.md](fs-83e146eb.md); official file https://www.senat.ro/legis/PDF/2020/20L353FS.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-220c5987.md](axs-220c5987.md); official file https://www.senat.ro/legis/PDF/2020/20L353AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-23e2a2f0.md](lp-23e2a2f0.md); official file https://www.senat.ro/legis/PDF/2020/20L353LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-1b75bb59.md](dp-1b75bb59.md); official file https://www.senat.ro/legis/PDF/2020/20L353DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-90973310.md](afp-90973310.md); official file https://www.senat.ro/legis/PDF/2020/20L353AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-77d449f3.md](fp-77d449f3.md); official file https://www.senat.ro/legis/PDF/2020/20L353FP.PDF
