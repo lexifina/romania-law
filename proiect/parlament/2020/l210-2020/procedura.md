@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
+- 2020-07-21: promulgated, becomes Legea nr. 137/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-eb3c4bc6.md](am-eb3c4bc6.md); official file https://www.senat.ro/legis/PDF/2020/20L210AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-db7f16e6.md](axs-db7f16e6.md); official file https://www.senat.ro/legis/PDF/2020/20L210AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-c0049b43.md](lp-c0049b43.md); official file https://www.senat.ro/legis/PDF/2020/20L210LP.PDF
+- 2020-07-21: Decret de promulgare (DP): [dp-c764306e.md](dp-c764306e.md); official file https://www.senat.ro/legis/PDF/2020/20L210DP.PDF
+- 2020-07-21: Adresă privind forma promulgată (AFP): [afp-c18b3dd9.md](afp-c18b3dd9.md); official file https://www.senat.ro/legis/PDF/2020/20L210AFP.PDF
+- 2020-07-21: Forma promulgată (FP): [fp-6b291225.md](fp-6b291225.md); official file https://www.senat.ro/legis/PDF/2020/20L210FP.PDF
