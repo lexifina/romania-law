@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-07-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Aviz Consiliul Legislativ, Document
+- 2020-07-22: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,6 @@ Initiator: Guvernul României.
 - 2020-07-17: Aviz Consiliul Legislativ (LG): [lg-14c7801a.md](lg-14c7801a.md); official file https://www.senat.ro/legis/PDF/2020/20L448LG.PDF
 - 2020-07-17: Document (OG): [og-f91f70c4.md](og-f91f70c4.md); official file https://www.senat.ro/legis/PDF/2020/20L448OG.PDF
 - 2020-07-17: Document (HG): [hg-c1216466.md](hg-c1216466.md); official file https://www.senat.ro/legis/PDF/2020/20L448HG.PDF
+- 2020-07-22: Aviz comisie (CA1): [ca1-40d21477.md](ca1-40d21477.md); official file https://www.senat.ro/legis/PDF/2020/20L448CA1.PDF
+- 2020-07-22: Aviz comisie (CA3): [ca3-2254aa30.md](ca3-2254aa30.md); official file https://www.senat.ro/legis/PDF/2020/20L448CA3.PDF
+- 2020-07-22: Aviz comisie (CA45): [ca45-01bcc740.md](ca45-01bcc740.md); official file https://www.senat.ro/legis/PDF/2020/20L448CA45.PDF
