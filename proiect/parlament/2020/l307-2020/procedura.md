@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
 - 2020-07-21: promulgated, becomes Legea nr. 141/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-22: published in the Monitorul Oficial
 
 ## Documents
 
