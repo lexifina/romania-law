@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-13: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-22: promulgated, becomes Legea nr. 144/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-05: Adresă către Camera Deputaților (AM): [am-12abf953.md](am-12abf953.md); official file https://www.senat.ro/legis/PDF/2020/20L153AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-9ad7ada2.md](axs-9ad7ada2.md); official file https://www.senat.ro/legis/PDF/2020/20L153AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-d38dfc6c.md](lp-d38dfc6c.md); official file https://www.senat.ro/legis/PDF/2020/20L153LP.PDF
+- 2020-07-22: Decret de promulgare (DP): [dp-b69753c8.md](dp-b69753c8.md); official file https://www.senat.ro/legis/PDF/2020/20L153DP.PDF
+- 2020-07-22: Adresă privind forma promulgată (AFP): [afp-8bcacf38.md](afp-8bcacf38.md); official file https://www.senat.ro/legis/PDF/2020/20L153AFP.PDF
+- 2020-07-22: Forma promulgată (FP): [fp-824db413.md](fp-824db413.md); official file https://www.senat.ro/legis/PDF/2020/20L153FP.PDF
