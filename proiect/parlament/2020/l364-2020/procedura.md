@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-30: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-02: sent for promulgation
 - 2020-07-21: promulgated, becomes Legea nr. 143/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Guvernul României.
 - 2020-07-21: Decret de promulgare (DP): [dp-6657b59c.md](dp-6657b59c.md); official file https://www.senat.ro/legis/PDF/2020/20L364DP.PDF
 - 2020-07-21: Adresă privind forma promulgată (AFP): [afp-aa94762c.md](afp-aa94762c.md); official file https://www.senat.ro/legis/PDF/2020/20L364AFP.PDF
 - 2020-07-21: Forma promulgată (FP): [fp-4e48adc0.md](fp-4e48adc0.md); official file https://www.senat.ro/legis/PDF/2020/20L364FP.PDF
+- 2020-07-22: Document (AL): [al-d0e5f08a.md](al-d0e5f08a.md); official file https://www.senat.ro/legis/PDF/2020/20L364AL.PDF (its day is not given by the bill file: shown from the last stage held)
