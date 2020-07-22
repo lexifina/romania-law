@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-06-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-22: promulgated, becomes Legea nr. 145/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L101AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-ef55b8b8.md](axs-ef55b8b8.md); official file https://www.senat.ro/legis/PDF/2019/19L101AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-25787809.md](lp-25787809.md); official file https://www.senat.ro/legis/PDF/2019/19L101LP.PDF
+- 2020-07-22: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L101AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-22: Decret de promulgare (DP): [dp-3b172d6f.md](dp-3b172d6f.md); official file https://www.senat.ro/legis/PDF/2019/19L101DP.PDF
+- 2020-07-22: Adresă privind forma promulgată (AFP): [afp-edd8fda3.md](afp-edd8fda3.md); official file https://www.senat.ro/legis/PDF/2019/19L101AFP.PDF
+- 2020-07-22: Forma promulgată (FP): [fp-9d07bcf2.md](fp-9d07bcf2.md); official file https://www.senat.ro/legis/PDF/2019/19L101FP.PDF
