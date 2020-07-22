@@ -1,0 +1,193 @@
+{
+ "key": "dcc-256-2020",
+ "label": "Decizia CCR nr. 256/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "256",
+ "date": "2020-06-04",
+ "year": "2020",
+ "heading": "DECIZIA nr.256 din 4 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 231, art. 255 alin. (1) și (4) și art. 258 alin. (1) și (2) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "646",
+  "bis": false,
+  "date": "2020-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "32.258/4/2015/a4",
+  "2.074D/2017",
+  "2.352D/2017",
+  "40.537/4/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "231",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 231 și art. 255 alin. (4) din Codul de procedură civilă, excepție ridicată de Ileana Ilie în Dosarul nr. 32.258/4/2015/a4 al Judecătoriei Sectorului 4 București - Secția civilă.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în același dosar al aceleiași instanțe, precum și de Ilie Diana, Ilie Mădălina, Ilie Victor și Ilie Năstase, prin reprezentant legal Ilie Daniel, în Dosarul nr. 40.537/4/2015 al aceleiași instanțe și constată că prevederile art. 255 alin. (1) și art. 258 alin. (1) și (2) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 4 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "231",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228016",
+  "text_sha256": "2ea9e986bbf405c0f8e7a02b8b1e0c25f45fab3a292dd582ea8a0f9fd72a1476",
+  "catalogue_sha256": "2ea9e986bbf405c0f8e7a02b8b1e0c25f45fab3a292dd582ea8a0f9fd72a1476",
+  "fetched": "2026-11-03T01:59:24Z",
+  "chars": 21248,
+  "portal_id": "228016",
+  "tip": "DECIZIE"
+ }
+}
