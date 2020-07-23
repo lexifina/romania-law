@@ -1,0 +1,9 @@
+# Anexa 2
+Anexa nr. 2
+la metodologie
+DECLARAȚIE
+Subsemnatul(a) .................................., legitimat(ă) cu C.I. seria ............. nr. ..............., CNP ........................., domiciliat(ă) în județul ................., localitatea ..................... str. .................. nr. ....., bl. ....., sc. ....., ap. ....., având calitatea de ........................, la ................, cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, cu privire la falsul în declarații, declar pe propria răspundere că am calitatea de reprezentant legal/împuternicit al Beneficiarului ............................, cu sediul în județul ..............................., localitatea ......................., str. ................... nr. ....., bl. ....., sc. ......, ap. ....., și solicit numele de utilizator și parola/schimbarea numelui de utilizator și a parolei necesare pentru accesarea Registrului electronic de evidență a zilierilor, pentru și în numele Beneficiarului ................... .
+Numele și prenumele .................................
+Semnătura .................................
+Data .........................
+-----
