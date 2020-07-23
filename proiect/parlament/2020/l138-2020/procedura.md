@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-23: promulgated, becomes Legea nr. 149/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L138AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-90e5db3f.md](axs-90e5db3f.md); official file https://www.senat.ro/legis/PDF/2020/20L138AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-f7376e33.md](lp-f7376e33.md); official file https://www.senat.ro/legis/PDF/2020/20L138LP.PDF
+- 2020-07-23: Decret de promulgare (DP): [dp-e0d76931.md](dp-e0d76931.md); official file https://www.senat.ro/legis/PDF/2020/20L138DP.PDF
+- 2020-07-23: Adresă privind forma promulgată (AFP): [afp-23431feb.md](afp-23431feb.md); official file https://www.senat.ro/legis/PDF/2020/20L138AFP.PDF
+- 2020-07-23: Forma promulgată (FP): [fp-f9f9263e.md](fp-f9f9263e.md); official file https://www.senat.ro/legis/PDF/2020/20L138FP.PDF
