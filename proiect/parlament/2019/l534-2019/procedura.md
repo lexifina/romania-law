@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-23: promulgated, becomes Legea nr. 150/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-26: Adresă către Camera Deputaților (AM): [am-3330893c.md](am-3330893c.md); official file https://www.senat.ro/legis/PDF/2019/19L534AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-7c2a556f.md](axs-7c2a556f.md); official file https://www.senat.ro/legis/PDF/2019/19L534AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-cba9e3d4.md](lp-cba9e3d4.md); official file https://www.senat.ro/legis/PDF/2019/19L534LP.PDF
+- 2020-07-23: Decret de promulgare (DP): [dp-5fc3b882.md](dp-5fc3b882.md); official file https://www.senat.ro/legis/PDF/2019/19L534DP.PDF
+- 2020-07-23: Adresă privind forma promulgată (AFP): [afp-23431feb.md](afp-23431feb.md); official file https://www.senat.ro/legis/PDF/2019/19L534AFP.PDF
+- 2020-07-23: Forma promulgată (FP): [fp-7c3bf493.md](fp-7c3bf493.md); official file https://www.senat.ro/legis/PDF/2019/19L534FP.PDF
