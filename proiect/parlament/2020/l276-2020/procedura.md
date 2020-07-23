@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-20: registered at the Chamber of Deputies
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-12: sent for promulgation
+- 2020-07-23: promulgated, becomes Legea nr. 146/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-737de3b7.md](am-737de3b7.md); official file https://www.senat.ro/legis/PDF/2020/20L276AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2020/20L276AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-9bdc98b9.md](lp-9bdc98b9.md); official file https://www.senat.ro/legis/PDF/2020/20L276LP.PDF
+- 2020-07-23: Decret de promulgare (DP): [dp-22ab0d7c.md](dp-22ab0d7c.md); official file https://www.senat.ro/legis/PDF/2020/20L276DP.PDF
+- 2020-07-23: Adresă privind forma promulgată (AFP): [afp-23431feb.md](afp-23431feb.md); official file https://www.senat.ro/legis/PDF/2020/20L276AFP.PDF
+- 2020-07-23: Forma promulgată (FP): [fp-df45f4af.md](fp-df45f4af.md); official file https://www.senat.ro/legis/PDF/2020/20L276FP.PDF
