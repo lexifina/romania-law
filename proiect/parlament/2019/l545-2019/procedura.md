@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-23: promulgated, becomes Legea nr. 147/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L545AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-68202bc1.md](axs-68202bc1.md); official file https://www.senat.ro/legis/PDF/2019/19L545AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-a69ab4f1.md](lp-a69ab4f1.md); official file https://www.senat.ro/legis/PDF/2019/19L545LP.PDF
+- 2020-07-23: Decret de promulgare (DP): [dp-fca9c9b2.md](dp-fca9c9b2.md); official file https://www.senat.ro/legis/PDF/2019/19L545DP.PDF
+- 2020-07-23: Adresă privind forma promulgată (AFP): [afp-23431feb.md](afp-23431feb.md); official file https://www.senat.ro/legis/PDF/2019/19L545AFP.PDF
+- 2020-07-23: Forma promulgată (FP): [fp-ffa3a82c.md](fp-ffa3a82c.md); official file https://www.senat.ro/legis/PDF/2019/19L545FP.PDF
