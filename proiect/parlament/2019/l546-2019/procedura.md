@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-24: promulgated, becomes Legea nr. 153/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L546AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-9ad7ada2.md](axs-9ad7ada2.md); official file https://www.senat.ro/legis/PDF/2019/19L546AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-5985330b.md](lp-5985330b.md); official file https://www.senat.ro/legis/PDF/2019/19L546LP.PDF
+- 2020-07-24: Decret de promulgare (DP): [dp-32b57a47.md](dp-32b57a47.md); official file https://www.senat.ro/legis/PDF/2019/19L546DP.PDF
+- 2020-07-24: Adresă privind forma promulgată (AFP): [afp-c03af25b.md](afp-c03af25b.md); official file https://www.senat.ro/legis/PDF/2019/19L546AFP.PDF
+- 2020-07-24: Forma promulgată (FP): [fp-c743b968.md](fp-c743b968.md); official file https://www.senat.ro/legis/PDF/2019/19L546FP.PDF
