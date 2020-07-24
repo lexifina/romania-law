@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-24: promulgated, becomes Legea nr. 154/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-eb3c4bc6.md](am-eb3c4bc6.md); official file https://www.senat.ro/legis/PDF/2020/20L270AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-7cc9a065.md](axs-7cc9a065.md); official file https://www.senat.ro/legis/PDF/2020/20L270AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-fb111d39.md](lp-fb111d39.md); official file https://www.senat.ro/legis/PDF/2020/20L270LP.PDF
+- 2020-07-24: Decret de promulgare (DP): [dp-fcfcf611.md](dp-fcfcf611.md); official file https://www.senat.ro/legis/PDF/2020/20L270DP.PDF
+- 2020-07-24: Adresă privind forma promulgată (AFP): [afp-c03af25b.md](afp-c03af25b.md); official file https://www.senat.ro/legis/PDF/2020/20L270AFP.PDF
+- 2020-07-24: Forma promulgată (FP): [fp-6a912469.md](fp-6a912469.md); official file https://www.senat.ro/legis/PDF/2020/20L270FP.PDF
