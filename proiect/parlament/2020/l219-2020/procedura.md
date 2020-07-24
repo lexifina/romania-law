@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-24: promulgated, becomes Legea nr. 152/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-1d786aed.md](am-1d786aed.md); official file https://www.senat.ro/legis/PDF/2020/20L219AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-087c746f.md](axs-087c746f.md); official file https://www.senat.ro/legis/PDF/2020/20L219AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-ea55395c.md](lp-ea55395c.md); official file https://www.senat.ro/legis/PDF/2020/20L219LP.PDF
+- 2020-07-24: Document (AA): [aa-0ced19a8.md](aa-0ced19a8.md); official file https://www.senat.ro/legis/PDF/2020/20L219AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-24: Decret de promulgare (DP): [dp-c75d58a1.md](dp-c75d58a1.md); official file https://www.senat.ro/legis/PDF/2020/20L219DP.PDF
+- 2020-07-24: Adresă privind forma promulgată (AFP): [afp-c03af25b.md](afp-c03af25b.md); official file https://www.senat.ro/legis/PDF/2020/20L219AFP.PDF
+- 2020-07-24: Forma promulgată (FP): [fp-7b603b2d.md](fp-7b603b2d.md); official file https://www.senat.ro/legis/PDF/2020/20L219FP.PDF
