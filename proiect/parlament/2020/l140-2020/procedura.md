@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-24: promulgated, becomes Legea nr. 156/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L140AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-9ad7ada2.md](axs-9ad7ada2.md); official file https://www.senat.ro/legis/PDF/2020/20L140AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-884a2af9.md](lp-884a2af9.md); official file https://www.senat.ro/legis/PDF/2020/20L140LP.PDF
+- 2020-07-24: Decret de promulgare (DP): [dp-a58ee682.md](dp-a58ee682.md); official file https://www.senat.ro/legis/PDF/2020/20L140DP.PDF
+- 2020-07-24: Adresă privind forma promulgată (AFP): [afp-c03af25b.md](afp-c03af25b.md); official file https://www.senat.ro/legis/PDF/2020/20L140AFP.PDF
+- 2020-07-24: Forma promulgată (FP): [fp-6d38b918.md](fp-6d38b918.md); official file https://www.senat.ro/legis/PDF/2020/20L140FP.PDF
