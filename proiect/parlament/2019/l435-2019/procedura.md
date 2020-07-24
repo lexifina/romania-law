@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
+- 2020-07-24: promulgated, becomes Legea nr. 155/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L435AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-8d4abe0d.md](axs-8d4abe0d.md); official file https://www.senat.ro/legis/PDF/2019/19L435AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-4d608c81.md](lp-4d608c81.md); official file https://www.senat.ro/legis/PDF/2019/19L435LP.PDF
+- 2020-07-24: Decret de promulgare (DP): [dp-61c9c96c.md](dp-61c9c96c.md); official file https://www.senat.ro/legis/PDF/2019/19L435DP.PDF
+- 2020-07-24: Adresă privind forma promulgată (AFP): [afp-c03af25b.md](afp-c03af25b.md); official file https://www.senat.ro/legis/PDF/2019/19L435AFP.PDF
+- 2020-07-24: Forma promulgată (FP): [fp-5293af9c.md](fp-5293af9c.md); official file https://www.senat.ro/legis/PDF/2019/19L435FP.PDF
