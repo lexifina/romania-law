@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-10: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-16: sent for promulgation
+- 2020-07-27: promulgated, becomes Legea nr. 158/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L262AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2020/20L262AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-5ee8ee0e.md](lp-5ee8ee0e.md); official file https://www.senat.ro/legis/PDF/2020/20L262LP.PDF
+- 2020-07-27: Decret de promulgare (DP): [dp-27ff82e7.md](dp-27ff82e7.md); official file https://www.senat.ro/legis/PDF/2020/20L262DP.PDF
+- 2020-07-27: Adresă privind forma promulgată (AFP): [afp-ca1d412c.md](afp-ca1d412c.md); official file https://www.senat.ro/legis/PDF/2020/20L262AFP.PDF
+- 2020-07-27: Forma promulgată (FP): [fp-912ac1e0.md](fp-912ac1e0.md); official file https://www.senat.ro/legis/PDF/2020/20L262FP.PDF
