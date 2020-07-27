@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: documents published: Aviz comisie
 - 2019-12-19: documents published: Aviz comisie
 - 2020-01-29: documents published: Raport comisie sesizată pe fond
+- 2020-07-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-18: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L613CA45.PDF
 - 2019-12-19: Aviz comisie (CA12): [ca12-0cd076d1.md](ca12-0cd076d1.md); official file https://www.senat.ro/legis/PDF/2019/19L613CA12.PDF
 - 2020-01-29: Raport comisie sesizată pe fond (CR): [cr-5d0d5bd3.md](cr-5d0d5bd3.md); official file https://www.senat.ro/legis/PDF/2019/19L613CR.PDF
+- 2020-07-27: Forma adoptată de Senat (FS): [fs-6549fea0.md](fs-6549fea0.md); official file https://www.senat.ro/legis/PDF/2019/19L613FS.PDF
+- 2020-07-27: Adresă privind sesizarea CCR (AXS): [axs-12a24cc8.md](axs-12a24cc8.md); official file https://www.senat.ro/legis/PDF/2019/19L613AXS.PDF
+- 2020-07-27: Forma trimisă la promulgare (LP): [lp-49fe7741.md](lp-49fe7741.md); official file https://www.senat.ro/legis/PDF/2019/19L613LP.PDF
