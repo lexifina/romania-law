@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2020-06-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2020-06-25: promulgated, becomes Legea nr. 94/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2020-06-25: Decret de promulgare (DP): [dp-b90cf4fe.md](dp-b90cf4fe.md); official file https://www.senat.ro/legis/PDF/2020/20L317DP.PDF
 - 2020-06-25: Adresă privind forma promulgată (AFP): [afp-fdf3b0fd.md](afp-fdf3b0fd.md); official file https://www.senat.ro/legis/PDF/2020/20L317AFP.PDF
 - 2020-06-25: Forma promulgată (FP): [fp-f0b7b2bb.md](fp-f0b7b2bb.md); official file https://www.senat.ro/legis/PDF/2020/20L317FP.PDF
+- 2020-07-27: Document (TX): [tx-891926ee.md](tx-891926ee.md); official file https://www.senat.ro/legis/PDF/2020/20L317TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-27: Document (AL): [al-b4cc01c9.md](al-b4cc01c9.md); official file https://www.senat.ro/legis/PDF/2020/20L317AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-27: Document (TC): [tc-ec2f082a.md](tc-ec2f082a.md); official file https://www.senat.ro/legis/PDF/2020/20L317TC.PDF (its day is not given by the bill file: shown from the last stage held)
