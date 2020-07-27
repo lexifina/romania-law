@@ -1,0 +1,184 @@
+{
+ "key": "iccj-hp-50-2020",
+ "label": "Decizia ÎCCJ nr. 50/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "50",
+ "date": "2020-06-22",
+ "year": "2020",
+ "heading": "DECIZIA nr. 50 din 22 iunie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 34 alin. (2) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2020-07-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.199/1/2019",
+  "24.956/325/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Timiș - Secția I civilă, în Dosarul nr. 24.956/325/2019, privind pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept. În interpretarea și aplicarea dispozițiilor art. 34 alin. (2) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare, stabilește că:",
+  "În situația în care persoana împotriva căreia s-a emis ordinul de protecție nu este implicată într-un dosar penal, pentru a se dispune revocarea ordinului nu trebuie întocmită de către serviciul de probațiune o evaluare a riscului de recidivă, conform art. 34 alin. (2) lit. c) din Legea nr. 217/2003. În acest caz, instanța va efectua o evaluare proprie a existenței unui risc real pentru victima violenței domestice sau pentru familia acesteia din partea persoanei împotriva căreia s-a emis ordinul de protecție.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 174/2018",
+    "number": "174",
+    "year": "2018",
+    "path": "lege/2018/174"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 252/2013",
+    "number": "252",
+    "year": "2013",
+    "path": "lege/2013/252"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228444",
+  "text_sha256": "70450a9b8b0836fb17031be9c2109b853d5d2ccd02ce9ac7586ebc59ac5c5396",
+  "catalogue_sha256": "70450a9b8b0836fb17031be9c2109b853d5d2ccd02ce9ac7586ebc59ac5c5396",
+  "fetched": "2026-11-03T20:16:59Z",
+  "chars": 42898,
+  "portal_id": "228444",
+  "tip": "DECIZIE"
+ }
+}
