@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-20: sent for promulgation
+- 2020-07-28: promulgated, becomes Legea nr. 159/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L566AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2019/19L566AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-e12e8481.md](lp-e12e8481.md); official file https://www.senat.ro/legis/PDF/2019/19L566LP.PDF
+- 2020-07-28: Decret de promulgare (DP): [dp-98dd3522.md](dp-98dd3522.md); official file https://www.senat.ro/legis/PDF/2019/19L566DP.PDF
+- 2020-07-28: Adresă privind forma promulgată (AFP): [afp-c8fcda24.md](afp-c8fcda24.md); official file https://www.senat.ro/legis/PDF/2019/19L566AFP.PDF
+- 2020-07-28: Forma promulgată (FP): [fp-150c6091.md](fp-150c6091.md); official file https://www.senat.ro/legis/PDF/2019/19L566FP.PDF
