@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-21: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2020-07-27: adopted by the Chamber of Deputies; registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-07-29: sent for promulgation
 
 ## Documents
 
