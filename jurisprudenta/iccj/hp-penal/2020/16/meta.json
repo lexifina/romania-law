@@ -1,0 +1,292 @@
+{
+ "key": "iccj-hp-penal-16-2020",
+ "label": "Decizia ÎCCJ nr. 16/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "16",
+ "date": "2020-06-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 16 din 16 iunie 2020",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile privind următoarea chestiune de drept: \"Dacă în aplicarea art. 43 alin. (1) din Codul penal, în cazul unor condamnări multiple, verificarea îndeplinirii condiției referitoare la împlinirea termenului de reabilitare se face în raport de dispozițiile art. 167 alin. (5) din Codul penal sau în raport de fiecare condamnare în parte pentru a stabili dacă sunt îndeplinite condițiile de existență ale recidivei postexecutorii.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "672",
+  "bis": false,
+  "date": "2020-07-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "964/1/2020",
+  "24.247/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 24.247/3/2019, privind pronunțarea unei hotărâri prealabile referitoare la următoarea chestiune de drept:",
+  "Dacă în aplicarea art. 43 alin. (1) din Codul penal, în cazul unor condamnări multiple, verificarea îndeplinirii condiției referitoare la împlinirea termenului de reabilitare se face în raport de dispozițiile art. 167 alin. (5) din Codul penal sau în raport de fiecare condamnare în parte pentru a stabili dacă sunt îndeplinite condițiile de existență ale recidivei postexecutorii.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "360",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 78
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10",
+      "2",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "474-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-07-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228480",
+  "text_sha256": "a4db03191364f92beea01686c9b2e74192f12c46f93f4f3f514cfd5763f6fe09",
+  "catalogue_sha256": "a4db03191364f92beea01686c9b2e74192f12c46f93f4f3f514cfd5763f6fe09",
+  "fetched": "2026-11-06T03:56:15Z",
+  "chars": 69134,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/228480",
+   "timestamp": "20251112121213",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439343239.12/warc/CC-MAIN-20251112100515-20251112130515-00230.warc.gz",
+   "offset": "290054635",
+   "length": "33862",
+   "sha256": "586ddd6b7e6cea75d6ed35145ba7b19e5d1c3e19d3245760a928646e481b89ec"
+  },
+  "portal_id": "228480",
+  "tip": "DECIZIE"
+ }
+}
