@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-10: documents published: Aviz Consiliul Legislativ
 - 2020-05-12: documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2020-06-19: documents published: Aviz comisie
+- 2020-07-29: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-12: Aviz Consiliul Economic și Social (ES): [es-446b554c.md](es-446b554c.md); official file https://www.senat.ro/legis/PDF/2020/20L379ES.PDF
 - 2020-05-12: Punct de vedere (PV): [pv-5eef53a2.md](pv-5eef53a2.md); official file https://www.senat.ro/legis/PDF/2020/20L379PV.PDF
 - 2020-06-19: Aviz comisie (CA12): [ca12-9cc32fc1.md](ca12-9cc32fc1.md); official file https://www.senat.ro/legis/PDF/2020/20L379CA12.PDF
+- 2020-07-29: Forma adoptată de Senat (FS): [fs-ed1d41f6.md](fs-ed1d41f6.md); official file https://www.senat.ro/legis/PDF/2020/20L379FS.PDF
+- 2020-07-29: Adresă către Camera Deputaților (AM): [am-fc640b48.md](am-fc640b48.md); official file https://www.senat.ro/legis/PDF/2020/20L379AM.PDF
