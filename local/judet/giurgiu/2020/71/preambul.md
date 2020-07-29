@@ -1,0 +1,5 @@
+CONSILIUL JUDEȚEAN GIURGIU, Având în vedere Referatul de aprobare nr.9400 din 22 iulie 2020 al președintelui, avizul Comisiei economice, dezvoltare regională și integrare europeană, avizul Comisiei juridice, apărarea ordinii publice și egalității de șanse, avizul Comisiei pentru amenajarea teritoriului, urbanism și investiții, Raportul de specialitate nr.9401 din 22 iulie 2020 al Direcției logistică, managementul spitalelor și patrimoniu și adresa nr.9373 din 22 iulie 2020 a Direcției Economice;
+Văzând prevederile Legii nr.52/2003 privind transparența decizională în administrația public, ale Legii nr.154/2012 privind regimul infrastructurii rețelelor de comunicații electronice și ale Hotărârii nr.41 din 21 mai 2020 a Consiliului Județean Giurgiu;
+Ținând cont de prevederile art.173 alin.(1) lit.f) și al art.178 alin.(1) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare;
+În temeiul art.182 alin.(1) din Ordonanța de Urgență a Guvernului nr.57/2019 privind Codul Administrativ, cu modificările și completările ulterioare ,
+HOTĂRĂȘTE:
