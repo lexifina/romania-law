@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-20: sent for promulgation
 - 2020-07-28: promulgated, becomes Legea nr. 159/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-07-29: published in the Monitorul Oficial
 
 ## Documents
 
