@@ -1,0 +1,37 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/993 AL COMISIEI
+din 9 iulie 2020
+privind autorizarea unui preparat de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) ca aditiv în hrana tuturor speciilor aviare pentru îngrășare, altele decât puii pentru îngrășare, a păsărilor ornamentale, a tuturor speciilor de porcine înțărcate, altele decât purceii înțărcați, și a tuturor speciilor de porcine pentru îngrășare, altele decât porcii pentru îngrășare (titularul autorizației: Berg and Schmidt GmbH Co. KG)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) Preparatul de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) a fost autorizat pentru o perioadă de 10 ani prin Regulamentul de punere în aplicare (UE) 2018/130 al Comisiei (2) în ceea ce privește porcii pentru îngrășare și prin Regulamentul de punere în aplicare (UE) 2019/929 al Comisiei (3) în ceea ce privește puii pentru îngrășare și purceii înțărcați.
+(3) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, s-a transmis o cerere de autorizare a unui preparat de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755). Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(4) Cererea se referă la autorizarea unui preparat de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) ca aditiv în hrana tuturor celorlalte specii aviare pentru îngrășare, a păsărilor ornamentale și a tuturor celorlalte specii de porcine înțărcate și pentru îngrășare, în vederea clasificării în categoria „aditivi zootehnici”.
+(5) În avizul său din 2 iulie 2019 (4), Autoritatea Europeană pentru Siguranța Alimentară („autoritatea”) a concluzionat că, în condițiile de utilizare propuse, preparatul de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) nu are efecte adverse asupra sănătății animalelor, asupra siguranței consumatorilor sau asupra mediului. Aceasta a concluzionat, de asemenea, că aditivul ar trebui considerat o substanță potențial sensibilizantă pentru piele și un sensibilizant respirator. Prin urmare, trebuie luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivului. Autoritatea a concluzionat în avizele sale anterioare (5) că aditivul are potențialul de a fi eficace în ceea ce privește îmbunătățirea performanțelor zootehnice ale puilor pentru îngrășare, ale purceilor înțărcați și a porcilor pentru îngrășare și că aceste concluzii pot fi extrapolate la toate speciile de păsări pentru îngrășare și la păsările ornamentale, precum și la toate speciile de porcine înțărcate și la toate speciile de porcine pentru îngrășare. Autoritatea nu consideră că sunt necesare cerințe specifice pentru monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul privind metoda analitică a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(6) Evaluarea preparatului de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, trebuie autorizată utilizarea preparatului respectiv, astfel cum se specifică în anexa la prezentul regulament.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Preparatul indicat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „promotori de digestibilitate”, se autorizează ca aditiv pentru hrana animalelor, în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 9 iulie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) JO L 22, 26.1.2018, p. 120.
+(3) JO L 148, 6.6.2019, p. 25.
+(4) EFSA Journal 2019;17(7):5781.
+(5) EFSA Journal 2017;15(2):4707 și EFSA Journal 2018;16(10):5457.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupa funcțională: promotori de digestibilitate.
+4a26 | Berg and Schmidt GmbH Co. KG | Endo-1,4-beta-xilanază (EC 3.2.1.8) | Compoziția aditivului Preparat de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) cu o activitate minimă de 15 000 EPU(1)/g Formă solidă ---------------- Caracterizarea substanței active Endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Trichoderma reesei (BCCM/MUCL 49755) ---------------- Metoda analitică (2) Pentru cuantificarea endo-1,4-beta-xilanazei în aditivii destinați hranei pentru animale, în preamestecuri și în hrana pentru animale: — - Metoda colorimetrică de măsurare a colorantului hidrosolubil eliberat prin acțiunea endo-1,4-beta-xilanazei din substraturi de arabinoxilan din grâu legat colateral cu azurină. | Toate speciile aviare pentru îngrășare, altele decât puii pentru îngrășare Păsări ornamentale Toate speciile de porcine înțărcate, altele decât purceii înțărcați Toate speciile de porcine pentru îngrășare, altele decât porcii pentru îngrășare | - | 1 500 EPU | - | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecului. 2. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție pentru piele, ochi și aparatul respirator. | 30.7.2030
+(1) O unitate de endopentozanază (EPU) corespunde cantității de enzimă care eliberează 0,0083 micromoli de zaharuri reductoare (măsurate în echivalenți xiloză) pe minut din xilan din pleavă de ovăz, la pH 4,7 și la 50 °C.
+(2) Detalii ale metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports.
