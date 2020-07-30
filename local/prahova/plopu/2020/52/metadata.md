@@ -1,0 +1,9 @@
+# HCL Plopu nr. 52/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 52/2020
+- Adopted: 2020-07-30
+- Title: privind APROBAREA DRAFTULUI CONTRACTULUI DE ASOCIERE DINTRE COMUNA PLOPU SI PAROHIA NISIPOASA PENTRU AMENAJAREA UNUI SPATIU DE JOACA PENTRU COPII IN SATUL NISIPOASA, PE TERENUL PROPRIETAEA PAROHIEI NISIPOASA, INVESTITIE FINANTATA DIN BUGETUL LOCAL AL COMUNEI PLOPU, JUDETUL PRAHOVA
+- Record: https://emol.ro/plopu-ph/registru-hcl/7834
