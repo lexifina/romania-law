@@ -1,0 +1,37 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/998 AL COMISIEI
+din 9 iulie 2020
+privind reînnoirea autorizației pentru astaxantin dimetildisuccinat ca aditiv pentru hrana peștilor și a crustaceelor și de abrogare a Regulamentului (CE) nr. 393/2008
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea și reînnoirea unei autorizări a aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare și reînnoire a unei astfel de autorizații.
+(2) Substanța astaxantin dimetildisuccinat a fost autorizată timp de 10 ani ca aditiv pentru hrana somonului și a păstrăvului, prin Regulamentul (CE) nr. 393/2008 al Comisiei (2).
+(3) În conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere de reînnoire a autorizației pentru astaxantin-dimetildisuccinat (denumirea aditivului a fost schimbată din astaxantin dimetildisuccinat în autorizația existentă în astaxantin-dimetildisuccinat în cerere, și anume denumirea corectă pentru a face referire la acest aditiv) ca aditiv pentru hrana somonului și a păstrăvului, pentru o nouă utilizare care extinde autorizarea substanței astaxantin-dimetildisuccinat ca aditiv în hrana tuturor peștilor și crustaceelor, în conformitate cu articolul 4 alineatul (1) din regulamentul respectiv, precum și pentru modificarea condițiilor existente de autorizare a substanței astaxantin-dimetildisuccinat ca aditiv pentru hrana animalelor, pentru a permite utilizarea aditivului fără limită de vârstă sau greutate.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „Autoritatea”) concluzionează în avizul său din 13 noiembrie 2019 (3) că, în condițiile de utilizare propuse, substanța astaxantin dimetildisuccinat nu are un efect nociv asupra sănătății animale, a siguranței consumatorului sau asupra mediului. De asemenea, autoritatea a concluzionat că nu există nicio dovadă care să conducă la reanalizarea concluziilor anterioare cu privire la utilizatorii aditivului. Nu este probabil să apară în condiții practice niciun risc cutanat sau ocular. În absența unui studiu de toxicologie, nu este posibilă stabilirea unei toxicități de risc prin inhalare. Prin urmare, Comisia consideră că trebuie luate măsuri adecvate de protecție pentru a preveni efectele negative asupra sănătății umane, în special în ceea ce privește utilizatorii aditivului, inclusiv atunci când este utilizat sub forma unui preparat. Autoritatea a concluzionat, de asemenea, că substanța astaxantin-dimetildisuccinat este eficientă în ceea ce privește adăugarea de culoare la alimentele de origine animală. Autoritatea nu consideră că sunt necesare cerințe specifice pentru monitorizare ulterioară introducerii pe piață. Autoritatea a verificat, de asemenea, raportul privind metoda analitică a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(5) Evaluarea substanței astaxantin-dimetildisuccinat arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, autorizarea acestui aditiv trebuie reînnoită și trebuie modificate condițiile autorizării sale, astfel cum se prevede în anexa la prezentul regulament.
+(6) Ca o consecință a reînnoirii autorizației pentru astaxantin-dimetildisuccinat ca aditiv pentru hrana animalelor, în condițiile prevăzute în anexa la prezentul regulament, Regulamentul (CE) nr. 393/2008 ar trebui abrogat.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizarea aditivului menționat în anexă, aparținând categoriei „aditivi senzoriali” și grupei funcționale „coloranți: (ii) substanțe care, utilizate în furaje, colorează alimentele de origine animală” pentru toate speciile de somon și păstrăv, se reînnoiește, iar condițiile autorizației sale se modifică pe baza condițiilor stabilite în anexa respectivă.
+Articolul 2
+Regulamentul (CE) nr. 393/2008 se abrogă.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 9 iulie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Regulamentul (CE) nr. 393/2008 al Comisiei din 30 aprilie 2008 privind autorizarea astaxantin dimetildisuccinatului ca aditiv furajer (JO L 117, 1.5.2008, p. 20).
+(3) EFSA Journal 2019; 17(12):5920
+ANEXĂ
+Numărul de identificare al aditivului | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de substanță activă/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categorie: aditivi senzoriali. Grupa funcțională: coloranți. (ii) substanțe care, utilizate în furaje, colorează alimentele de origine animală
+2a165 | Astaxantin-dimetildisuccinat | Compoziția aditivului Astaxantin-dimetildisuccinat Oxid de trifenilfosfină (TPPO) ≤ 100 mg/kg Diclormetan ≤ 600 mg/kg Caracterizarea substanței active Astaxantin-dimetildisuccinat Formula chimică: C50H64O10 Formă solidă, produsă prin sinteză chimică. Număr CAS: 578006-46-9 Criterii de puritate Astaxantin-dimetildisuccinat (izomerii all-E, 9-Z și 13-Z) ≥ 96 % Alți carotenoizi ≤ 4 % Metoda analitică (1) Pentru cuantificarea substanței astaxantin-dimetildisuccinat în aditivul pentru hrana animalelor: — spectrofotometrie la 486 nm. Pentru cuantificarea substanței astaxantin-dimetildisuccinat în aditivul pentru hrana animalelor, preamestecuri și furaje: — cromatografie de înaltă performanță în mediu lichid în fază normală cuplată cu detecție UV/VIS (HPLC-UV/VIS). | Pești și crustacee | — | — | 138 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecului. 2. Astaxantin-dimetildisuccinatul poate fi introdus pe piață și utilizat ca aditiv sub formă de preparat. 3. Dacă astaxantin-dimetildisuccinatul este amestecat cu cantaxantină și alte surse de astaxantină, conținutul total al amestecului nu trebuie să depășească 100 mg, echivalent astaxantină (2)/kg, în hrana completă pentru animale. 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a aborda riscurile potențiale care decurg din utilizarea lor, inclusiv riscurile aditivilor respectivi incluși în preparat. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție pentru ochi, piele și aparatul respirator. | 30.7.2030
+(1) https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+(2) 1,38 mg de astaxantin-dimetildisuccinat este echivalentul a 1 mg astaxantină
