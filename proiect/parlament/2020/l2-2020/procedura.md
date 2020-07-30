@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-02-05: registered at the Chamber of Deputies; documents published: Aviz comisie
 - 2020-06-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-05: sent for promulgation
+- 2020-07-30: promulgated, becomes Legea nr. 160/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Guvernul României.
 - 2020-02-05: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L002CA45.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-f6b2bc00.md](axs-f6b2bc00.md); official file https://www.senat.ro/legis/PDF/2020/20L002AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-49f55833.md](lp-49f55833.md); official file https://www.senat.ro/legis/PDF/2020/20L002LP.PDF
+- 2020-07-30: Document (SC): [sc-9fc87fa9.md](sc-9fc87fa9.md); official file https://www.senat.ro/legis/PDF/2020/20L002SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-30: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L002DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-07-30: Decret de promulgare (DP): [dp-049436b7.md](dp-049436b7.md); official file https://www.senat.ro/legis/PDF/2020/20L002DP.PDF
+- 2020-07-30: Adresă privind forma promulgată (AFP): [afp-06698128.md](afp-06698128.md); official file https://www.senat.ro/legis/PDF/2020/20L002AFP.PDF
+- 2020-07-30: Forma promulgată (FP): [fp-28da6364.md](fp-28da6364.md); official file https://www.senat.ro/legis/PDF/2020/20L002FP.PDF
