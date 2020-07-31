@@ -1,0 +1,16 @@
+# Anexa nr. 3
+- Antet -
+Direcția Județeană pentru Cultură................................................../
+Direcția pentru Cultură a Municipiului București
+COMUNICARE Nr................/....................... cu privire la Notificarea prealabilă nr.........................../..................................................
+În conformitate cu prevederile art. 2 alin. (3) lit. b) din Ordinul ministrului culturii nr. 3.037/2020 pentru aprobarea procedurii privind notificarea prealabilă și emiterea acordului scris, în cazul executării lucrărilor, în condițiile prevăzute de art. 11 alin. (2) și (4) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, având în vedere Notificarea prealabilă nr..................................................., cu privire la executarea lucrărilor............................. asupra imobilului situat în municipiul/orașul/comuna......................................, sectorul/satul............................., str.......................................... nr............, bl..............., sc..............., ap........., județul.........................., înscris în Lista monumentelor istorice (L.M.I.), cod*.................................................., * Se va completa codul L.M.I. în situația lucrărilor efectuate la construcții clasate ca monumente istorice (monument, ansamblu, sit); în celelalte situații, se va bara. având ca beneficiar.................................................., în urma analizării documentației aferente Notificării prealabile nr..................................................., Direcția Județeană pentru Cultură (D.J.C.)................................/Direcția pentru Cultură a Municipiului București (D.C.M.B.) comunică respingerea solicitării de emitere a acordului scris pe următoarele considerente: [] dosarul nu este complet; [] lucrările ce urmează a fi executate nu se încadrează în categoriile prevăzute la art. 11 alin. (2) din Legea nr. 50/1991, republicată, cu modificările și completările ulterioare; [] lucrările ce urmează a fi executate sunt în măsură să modifice structura de rezistență și/sau aspectul arhitectural al construcțiilor; [] lucrările necesită emiterea autorizației de construcție.
+Prezenta comunicare a fost emisă în 3 exemplare egal valabile, după cum urmează: 1. un exemplar se eliberează beneficiarului;
+2. un exemplar se comunică, prin grija D.J.C......................../D.C.M.B., Primăriei..................................................;
+3. un exemplar se păstrează la arhiva D.J.C.................................................../D.C.M.B.
+Prezenta comunicare este valabilă pentru Notificarea prealabilă nr....................................................
+Nume și prenume (în clar)...........................
+Director executiv
+Semnătură..................................................
+L.Ș.
+Data......................
+------
