@@ -1,0 +1,181 @@
+{
+ "key": "iccj-ril-6-2020",
+ "label": "Decizia ÎCCJ nr. 6/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2020-02-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 6 din 17 februarie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 228 alin. (1) raportat la art. 229 alin. (1) lit. e) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "691",
+  "bis": false,
+  "date": "2020-08-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.032/1/2019",
+  "118/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București și de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și stabilește: În interpretarea și aplicarea dispozițiilor art. 228 alin. (1) raportat la art. 229 alin. (1) lit. e) din Codul penal:",
+  "Fapta de furt săvârșită prin scoaterea/ruperea sistemului de siguranță plasat pe bun întrunește elementele de tipicitate ale infracțiunii prevăzute de art. 228 alin. (1) raportat la art. 229 alin. (1) lit. e) din Codul penal.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.010/2004",
+    "number": "1010",
+    "year": "2004",
+    "path": "hg/2004/1010"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 333/2003",
+    "number": "333",
+    "year": "2003",
+    "path": "lege/2003/333"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 301/2012",
+    "number": "301",
+    "year": "2012",
+    "path": "hg/2012/301"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228598",
+  "text_sha256": "666cea897294708e85c0b628a381cbca9dc7effb85e8f3aff919a48b1f829078",
+  "catalogue_sha256": "666cea897294708e85c0b628a381cbca9dc7effb85e8f3aff919a48b1f829078",
+  "fetched": "2026-11-03T01:59:01Z",
+  "chars": 53543,
+  "portal_id": "228598",
+  "tip": "DECIZIE"
+ }
+}
