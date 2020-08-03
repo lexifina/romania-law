@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-02: returned for re-examination
 - 2019-10-07: rejected by the Senate
 - 2020-07-28: adopted by the Chamber of Deputies
+- 2020-08-03: sent for promulgation
 
 ## Documents
 
