@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-20: sent for promulgation
+- 2020-08-03: promulgated, becomes Legea nr. 163/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-11: Adresă către Camera Deputaților (AM): [am-a145c839.md](am-a145c839.md); official file https://www.senat.ro/legis/PDF/2019/19L553AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2019/19L553AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-d25f5362.md](lp-d25f5362.md); official file https://www.senat.ro/legis/PDF/2019/19L553LP.PDF
+- 2020-08-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L553DP.PDF
+- 2020-08-03: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L553AFP.PDF
+- 2020-08-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L553FP.PDF
