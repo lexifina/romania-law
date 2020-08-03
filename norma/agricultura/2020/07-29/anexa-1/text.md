@@ -1,0 +1,13 @@
+# Anexa 1
+Anexa nr. 1
+la normele tehnice
+Oficiul Județean de Zootehnie .................................
+AUTORIZAȚIE ZOOTEHNICĂ DE FUNCȚIONARE
+Nr. ..... din ............
+În temeiul Deciziei directorului general al Agenției Naționale pentru Zootehnie „Prof. Dr. G. K. Constantinescu“ nr. ........ din ........., în conformitate cu prevederile Legii zootehniei nr. 32/2019 , Hotărârii Guvernului nr. 1.188/2014 privind organizarea și funcționarea Agenției Naționale pentru Zootehnie „Prof. Dr. G. K. Constantinescu“, cu modificările și completările ulterioare, Ordinul ministrului agriculturii și dezvoltării rurale nr. 344/2019 privind aprobarea Normelor tehnice pentru desfășurarea activității Inspecției de stat în zootehnie, modelului legitimației, al ștampilei și al procesului-verbal de constatare și sancționare a contravențiilor la normele zootehnice, în baza Raportului de evaluare nr. ............. din .............., dispune:
+Autorizarea zootehnică a punctului de montă din localitatea ......................, str. .......................... nr. ......., județul ................., având ca scop:
+Organizarea și executarea reproducției prin montă naturală autorizată la specia ..............................
+Orice încălcare sau abatere de la condițiile și reglementările care au stat la baza emiterii prezentei autorizări atrage, pe lângă sancțiunile prevăzute de legislația în vigoare, și retragerea autorizației de funcționare.
+Prezenta autorizație este valabilă până la ................ .
+Coordonatorul oficiului județean de zootehnie,
+........................................................................
