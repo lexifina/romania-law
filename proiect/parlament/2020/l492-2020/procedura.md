@@ -1,0 +1,22 @@
+# Proiect de lege L492/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 285/2023 (`legea-285-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.124/2020 pentru completarea Ordonanţei Guvernului nr.23/1998 privind finanţarea şi din alte surse decât bugetul de stat a unor activităţi specifice de administrare a rezervelor de stat
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-08-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-08-03: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L492AD.PDF
+- 2020-08-03: Forma inițiatorului (FG): [fg-9be5df29.md](fg-9be5df29.md); official file https://www.senat.ro/legis/PDF/2020/20L492FG.PDF
+- 2020-08-03: Expunere de motive (EM): [em-c415e8aa.md](em-c415e8aa.md); official file https://www.senat.ro/legis/PDF/2020/20L492EM.PDF
+- 2020-08-03: Aviz Consiliul Legislativ (LG): [lg-1255b9bf.md](lg-1255b9bf.md); official file https://www.senat.ro/legis/PDF/2020/20L492LG.PDF
+- 2020-08-03: Document (OG): [og-10c0d08e.md](og-10c0d08e.md); official file https://www.senat.ro/legis/PDF/2020/20L492OG.PDF
+- 2020-08-03: Document (HG): [hg-a7ee6d9e.md](hg-a7ee6d9e.md); official file https://www.senat.ro/legis/PDF/2020/20L492HG.PDF
