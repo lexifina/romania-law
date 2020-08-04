@@ -1,0 +1,176 @@
+{
+ "key": "dcc-183-2020",
+ "label": "Decizia CCR nr. 183/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "183",
+ "date": "2020-05-26",
+ "year": "2020",
+ "heading": "DECIZIA nr. 183 din 26 mai 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 110 alin. (4) și ale art. 111 alin. (2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "697",
+  "bis": false,
+  "date": "2020-08-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.207/3/2017/a3",
+  "397D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea LACTCOB - S.R.L., cu sediul în municipiul Rădăuți, județul Suceava, în Dosarul nr. 3.207/3/2017/a3 al Tribunalului București - Secția a VII-a civilă și constată că prevederile art. 110 alin. (4) și ale art. 111 alin. (2) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a VII-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "110",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228633",
+  "text_sha256": "b4979d1c571aeffb79aaf2303cc34d8806532ca9507e90c929a9ea7a23f8c645",
+  "catalogue_sha256": "b4979d1c571aeffb79aaf2303cc34d8806532ca9507e90c929a9ea7a23f8c645",
+  "fetched": "2026-11-03T01:59:00Z",
+  "chars": 15351,
+  "portal_id": "228633",
+  "tip": "DECIZIE"
+ }
+}
