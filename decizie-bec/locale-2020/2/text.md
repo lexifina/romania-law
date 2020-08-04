@@ -1,0 +1,8 @@
+HOTĂRÂRE nr. 2 din 3 august 2020  privind aprobarea  Regulamentului  de organizare  și funcționare a birourilor electorale  constituite pentru alegerile locale din anul 2020     EMITENT     BIROUL ELECTORAL CENTRAL PENTRU ALEGEREA AUTORITĂȚILOR ADMINISTRAȚIEI PUBLICE LOCALE  DIN ANUL 2020        Publicat în
+			  MONITORUL OFICIAL nr. 700 din 4 august 2020      Având în vedere prevederile  art. 25-32  și ale  art. 38-44 din Legea nr. 115/2015  pentru alegerea autorităților administrației publice locale, pentru modificarea  Legii administrației publice locale nr. 215/2001 , precum și pentru modificarea și completarea  Legii nr. 393/2004  privind Statutul aleșilor locali, cu modificările și completările ulterioare,   observând dispozițiile  art. 3 din Legea nr. 135/2020  privind stabilirea datei alegerilor pentru autoritățile administrației publice locale din anul 2020, precum și a unor măsuri pentru buna organizare și desfășurare a acestora,   în temeiul  art. 39 alin. (1) lit. a) ,  alin. (4)  și  (5) din Legea nr. 115/2015 , cu modificările și completările ulterioare,   Biroul Electoral Central  h o t ă r ă ș t e:
+				 +
+			  Articolul 1      Se aprobă  Regulamentul  de organizare și funcționare a birourilor electorale constituite pentru alegerile locale din anul 2020, prevăzut în  anexa  care face parte integrantă din prezenta hotărâre.
+				 +
+			  Articolul 2      Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I.       Președintele Biroului Electoral Central,    George Bogdan Florescu       București, 3 august 2020.   Nr. 2.
+				 +
+			  ANEXĂ         REGULAMENT de organizare și funcționare a birourilor electorale constituite    pentru alegerile locale din anul 2020
