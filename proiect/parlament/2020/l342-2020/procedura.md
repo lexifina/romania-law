@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-06-24: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-16: sent for promulgation
+- 2020-08-04: promulgated, becomes Legea nr. 166/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-06-16: Adresă către Camera Deputaților (AM): [am-f9486fa6.md](am-f9486fa6.md); official file https://www.senat.ro/legis/PDF/2020/20L342AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2020/20L342AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-6f656ec7.md](lp-6f656ec7.md); official file https://www.senat.ro/legis/PDF/2020/20L342LP.PDF
+- 2020-08-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L342DP.PDF
+- 2020-08-04: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L342AFP.PDF
+- 2020-08-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L342FP.PDF
