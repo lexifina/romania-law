@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-03: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-16: sent for promulgation
+- 2020-08-04: promulgated, becomes Legea nr. 164/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-05-27: Adresă către Camera Deputaților (AM): [am-71ed3b60.md](am-71ed3b60.md); official file https://www.senat.ro/legis/PDF/2020/20L284AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2020/20L284AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-d65e3991.md](lp-d65e3991.md); official file https://www.senat.ro/legis/PDF/2020/20L284LP.PDF
+- 2020-08-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L284DP.PDF
+- 2020-08-04: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L284AFP.PDF
+- 2020-08-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L284FP.PDF
