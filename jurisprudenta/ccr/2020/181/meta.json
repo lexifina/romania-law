@@ -1,0 +1,190 @@
+{
+ "key": "dcc-181-2020",
+ "label": "Decizia CCR nr. 181/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "181",
+ "date": "2020-05-26",
+ "year": "2020",
+ "heading": "DECIZIA nr. 181 din 26 mai 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 3 alin. (1) și alin. (2^1) din Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "706",
+  "bis": false,
+  "date": "2020-08-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "14.759/197/2015",
+  "365D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 3 alin. (1) și alin. (2^1) din Ordonanța Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, excepție ridicată de Societatea VIOSON PRODCOMIMPEX - S.R.L., cu sediul în municipiul Brașov, în Dosarul nr. 14.759/197/2015 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2-1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 312/2004",
+    "number": "312",
+    "year": "2004",
+    "path": "lege/2004/312"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/228690",
+  "text_sha256": "0386d323c8a972676a51152a731767d00260047154172cce1a81e04daee52363",
+  "catalogue_sha256": "0386d323c8a972676a51152a731767d00260047154172cce1a81e04daee52363",
+  "fetched": "2026-11-03T01:58:55Z",
+  "chars": 16013,
+  "portal_id": "228690",
+  "tip": "DECIZIE"
+ }
+}
