@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-04: registered at the Chamber of Deputies
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-20: sent for promulgation
+- 2020-08-07: promulgated, becomes Legea nr. 167/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204AM.PDF
 - 2020-07-14: Adresă privind sesizarea CCR (AXS): [axs-3a9a4db9.md](axs-3a9a4db9.md); official file https://www.senat.ro/legis/PDF/2018/18L204AXS.PDF
 - 2020-07-14: Forma trimisă la promulgare (LP): [lp-280dfe67.md](lp-280dfe67.md); official file https://www.senat.ro/legis/PDF/2018/18L204LP.PDF
+- 2020-08-07: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204DP.PDF
+- 2020-08-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204AFP.PDF
+- 2020-08-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L204FP.PDF
