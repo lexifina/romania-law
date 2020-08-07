@@ -1,0 +1,21 @@
+# Proiect de lege L490/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 105/2022 (`legea-105-2022`).
+
+Proiect de lege pentru modificarea și completarea Legii nr.119/1996 cu privire la actele de stare civilă, precum și pentru abrogarea Ordonanței Guvernului nr.41/2003 privind dobândirea și schimbarea pe cale administrativă a numelor persoanelor fizice
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-08-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-08-07: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L490AD.PDF
+- 2020-08-07: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L490FG.PDF
+- 2020-08-07: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L490EM.PDF
+- 2020-08-07: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L490LG.PDF
+- 2020-08-07: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L490HG.PDF
