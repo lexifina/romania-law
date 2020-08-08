@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-20: sent for promulgation
 - 2020-08-07: promulgated, becomes Legea nr. 168/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-08-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L176DP.PDF
 - 2020-08-07: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L176AFP.PDF
 - 2020-08-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L176FP.PDF
+- 2020-08-08: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L176AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-08: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L176S1.PDF (its day is not given by the bill file: shown from the last stage held)
