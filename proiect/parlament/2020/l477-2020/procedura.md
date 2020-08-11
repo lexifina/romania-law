@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: documents published: Raport comisie sesizată pe fond
 - 2020-07-27: rejected by the Chamber of Deputies
 - 2020-07-29: registered at the Senate
+- 2020-08-11: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-10: Punct de vedere (PV): [pv-dd459a93.md](pv-dd459a93.md); official file https://www.senat.ro/legis/PDF/2020/20L477PV.PDF
 - 2020-04-23: Aviz comisie (CA6): [ca6-3034924b.md](ca6-3034924b.md); official file https://www.senat.ro/legis/PDF/2020/20L477CA6.PDF
 - 2020-07-21: Raport comisie sesizată pe fond (CR): [cr-6c04c22e.md](cr-6c04c22e.md); official file https://www.senat.ro/legis/PDF/2020/20L477CR.PDF
+- 2020-08-11: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L477CA3.PDF
