@@ -1,0 +1,299 @@
+{
+ "key": "iccj-hp-penal-13-2020",
+ "label": "Decizia ÎCCJ nr. 13/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "13",
+ "date": "2020-05-07",
+ "year": "2020",
+ "heading": "DECIZIA nr. 13 din 7 mai 2020",
+ "subtitle": "referitoare la interpretarea art. 308 alin. (1) din Codul penal raportat la art. 175 alin. (2) teza a II-a din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "721",
+  "bis": false,
+  "date": "2020-08-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "481/1/2020",
+  "4.233/109/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Pitești - Secția penală și pentru cauze cu minori și de familie, în Dosarul nr. 4.233/109/2018, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „dacă întreprinzătorul titular al unei întreprinderi individuale reprezintă, în sensul prevăzut de art. 308 alin. (1) din Codul penal raportat la art. 175 alin. (2) teza a II-a din Codul penal, persoana care exercită permanent ori temporar, cu sau fără o remunerație, o însărcinare de orice natură în serviciul unei persoane fizice prevăzute la art. 175 alin. (2) din Codul penal, respectiv în cadrul unei întreprinderi individuale ce exercită un serviciu de interes public, care este supusă controlului ori supravegherii autorităților publice cu privire la îndeplinirea respectivului serviciu public“ și stabilește că: Întreprinzătorul titular al unei întreprinderi individuale nu are, în sensul dispozițiilor art. 308 alin. (1) din Codul penal, calitatea de persoană care exercită permanent ori temporar, cu sau fără o remunerație, o însărcinare de orice natură în serviciul unei persoane fizice prevăzute la art. 175 alin. (2) din Codul penal, în raporturile cu întreprinderea individuală.",
+  "În cazul în care întreprinzătorul titular al unei întreprinderi individuale exercită un serviciu de interes public care este supus controlului ori supravegherii autorităților publice cu privire la îndeplinirea respectivului serviciu public, acesta are calitatea de funcționar public în accepțiunea dispozițiilor art. 175 alin. (2) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "308",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 996/2008",
+    "number": "996",
+    "year": "2008",
+    "path": "hg/2008/996"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 44/2008",
+    "number": "44",
+    "year": "2008",
+    "path": "oug/2008/44"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "f"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2324",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1990",
+    "number": "26",
+    "year": "1990",
+    "path": "lege/1990/26"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-08-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229048",
+  "text_sha256": "66b8346f8b76b21fc34c2085eb26f48043c12e40be26a0694a76bb58652607c7",
+  "catalogue_sha256": "66b8346f8b76b21fc34c2085eb26f48043c12e40be26a0694a76bb58652607c7",
+  "fetched": "2026-11-03T01:58:47Z",
+  "chars": 60330,
+  "portal_id": "229048",
+  "tip": "DECIZIE"
+ }
+}
