@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-25: documents published: Raport comisie sesizată pe fond
 - 2020-07-28: adopted by the Chamber of Deputies
 - 2020-07-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-08-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-29: Adresă de înaintare a inițiativei (AD): [ad-f158802d.md](ad-f158802d.md); official file https://www.senat.ro/legis/PDF/2020/20L471AD.PDF
 - 2020-07-29: Forma inițiatorului (FG): [fg-af86cc4d.md](fg-af86cc4d.md); official file https://www.senat.ro/legis/PDF/2020/20L471FG.PDF
 - 2020-07-29: Expunere de motive (EM): [em-7d497681.md](em-7d497681.md); official file https://www.senat.ro/legis/PDF/2020/20L471EM.PDF
+- 2020-08-12: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L471CA3.PDF
