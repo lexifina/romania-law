@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății P & K GENERAL LEASING IFN - S.A., cu sediul în Str. Libertății nr. 38, etaj 2, Bistrița, județul Bistrița-Năsăud, înregistrată la Oficiul registrului comerțului cu nr. J6/1618/2018, cod unic de înregistrare 14265164, înscrisă în Registrul general cu nr. RG-PJR-06-110138/28.03.2019, la secțiunea k) "Activități multiple de creditare".
