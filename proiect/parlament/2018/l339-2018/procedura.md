@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-07: rejected by the Senate
 - 2020-07-28: adopted by the Chamber of Deputies
 - 2020-08-03: sent for promulgation
+- 2020-08-12: promulgated, becomes Legea nr. 171/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,16 @@ Initiator: Membri ai Parlamentului.
 - 2018-10-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339AM.PDF
 - 2018-12-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339AXS.PDF
 - 2018-12-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339LP.PDF
+- 2020-08-12: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (XXS): [xxs-9a6d9882.md](xxs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2018/18L339XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Document (PX): [px-fb4f3f97.md](px-fb4f3f97.md); official file https://www.senat.ro/legis/PDF/2018/18L339PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339DP.PDF
+- 2020-08-12: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339AFP.PDF
+- 2020-08-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L339FP.PDF
