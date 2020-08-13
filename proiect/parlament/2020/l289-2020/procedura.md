@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: registered at the Chamber of Deputies
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-12: sent for promulgation
+- 2020-08-13: promulgated, becomes Legea nr. 173/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L289AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2020/20L289AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-c71ff3cc.md](lp-c71ff3cc.md); official file https://www.senat.ro/legis/PDF/2020/20L289LP.PDF
+- 2020-08-13: Document (SC): [sc-722bf656.md](sc-722bf656.md); official file https://www.senat.ro/legis/PDF/2020/20L289SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-13: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L289DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L289DP.PDF
+- 2020-08-13: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L289AFP.PDF
+- 2020-08-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L289FP.PDF
