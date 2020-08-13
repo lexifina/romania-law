@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-20: registered at the Chamber of Deputies
 - 2020-07-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-30: sent for promulgation
+- 2020-08-13: promulgated, becomes Legea nr. 172/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-eb6766b8.md](am-eb6766b8.md); official file https://www.senat.ro/legis/PDF/2020/20L174AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L174AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-da296f7d.md](lp-da296f7d.md); official file https://www.senat.ro/legis/PDF/2020/20L174LP.PDF
+- 2020-08-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L174DP.PDF
+- 2020-08-13: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L174AFP.PDF
+- 2020-08-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L174FP.PDF
