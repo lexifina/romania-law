@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-03: adopted by the Senate
 - 2020-06-03: returned for re-examination
 - 2020-06-09: sent for promulgation
+- 2020-08-14: promulgated, becomes Legea nr. 174/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,16 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081AM.PDF
 - 2019-10-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081AXS.PDF
 - 2019-10-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081LP.PDF
+- 2020-08-14: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (RX): [rx-d843e66c.md](rx-d843e66c.md); official file https://www.senat.ro/legis/PDF/2018/18L081RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (XA): [xa-d35a1ab8.md](xa-d35a1ab8.md); official file https://www.senat.ro/legis/PDF/2018/18L081XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (CX): [cx-e5746f63.md](cx-e5746f63.md); official file https://www.senat.ro/legis/PDF/2018/18L081CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (XD): [xd-b08c106f.md](xd-b08c106f.md); official file https://www.senat.ro/legis/PDF/2018/18L081XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (SX): [sx-a578f923.md](sx-a578f923.md); official file https://www.senat.ro/legis/PDF/2018/18L081SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (XXS): [xxs-bac1f9db.md](xxs-bac1f9db.md); official file https://www.senat.ro/legis/PDF/2018/18L081XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (PX): [px-7632ce63.md](px-7632ce63.md); official file https://www.senat.ro/legis/PDF/2018/18L081PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (SC): [sc-b88c5d18.md](sc-b88c5d18.md); official file https://www.senat.ro/legis/PDF/2018/18L081SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081DP.PDF
+- 2020-08-14: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081AFP.PDF
+- 2020-08-14: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L081FP.PDF
