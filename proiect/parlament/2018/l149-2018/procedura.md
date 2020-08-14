@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: registered at the Chamber of Deputies
 - 2020-06-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-09: sent for promulgation
+- 2020-08-14: promulgated, becomes Legea nr. 175/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,8 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L149AM.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-bd55a4ef.md](axs-bd55a4ef.md); official file https://www.senat.ro/legis/PDF/2018/18L149AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-cf0d2dfd.md](lp-cf0d2dfd.md); official file https://www.senat.ro/legis/PDF/2018/18L149LP.PDF
+- 2020-08-14: Document (SC): [sc-47aee178.md](sc-47aee178.md); official file https://www.senat.ro/legis/PDF/2018/18L149SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L149DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-14: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L149DP.PDF
+- 2020-08-14: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L149AFP.PDF
+- 2020-08-14: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L149FP.PDF
