@@ -1,0 +1,410 @@
+{
+ "key": "dcc-359-2020",
+ "label": "Decizia CCR nr. 359/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "359",
+ "date": "2020-06-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 359 din 16 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, în forma anterioară intrării în vigoare a Legii nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "740",
+  "bis": false,
+  "date": "2020-08-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.304/2/2016",
+  "432D/2018",
+  "490D/2018",
+  "3.069/62/2017",
+  "2.329D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 374/2006",
+    "number": "374",
+    "year": "2006",
+    "path": "lege/2006/374"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 252/2018",
+    "number": "252",
+    "year": "2018",
+    "path": "lege/2018/252"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 5 și art. 6 din Legea nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, în forma anterioară intrării în vigoare a Legii nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, excepție ridicată de OCSI FOREST COM - S.R.L. în Dosarul nr. 6.304/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de SRN SILVIROM NAWARO GMBH Societate în comandită în Dosarul nr. 3.069/62/2017 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași autoare în aceleași dosare ale acelorași instanțe și constată că dispozițiile art. 1-4 din Legea nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, în forma anterioară intrării în vigoare a Legii nr. 252/2018 pentru modificarea și completarea Legii nr. 374/2006 privind suspendarea serviciului public cu specific silvic pentru proprietarii terenurilor forestiere pentru care au fost emise documentele prevăzute la art. III alin. (1) din Legea nr. 169/1997 pentru modificarea și completarea Legii fondului funciar nr. 18/1991, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 374/2006",
+    "number": "374",
+    "year": "2006",
+    "path": "lege/2006/374"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 252/2018",
+    "number": "252",
+    "year": "2018",
+    "path": "lege/2018/252"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul silvic",
+    "path": "lege/2008/46",
+    "slug": "legea-46-2008"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 139/2005",
+    "number": "139",
+    "year": "2005",
+    "path": "oug/2005/139"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 483/2006",
+    "number": "483",
+    "year": "2006",
+    "path": "hg/2006/483"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 26/1996",
+    "number": "26",
+    "year": "1996",
+    "path": "lege/1996/26"
+   },
+   "articles": [],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229129",
+  "text_sha256": "31abdc59be2f4f30d0b844c9f5e07ce1f52fbc0a017255ddbcb098ca55a58303",
+  "catalogue_sha256": "31abdc59be2f4f30d0b844c9f5e07ce1f52fbc0a017255ddbcb098ca55a58303",
+  "fetched": "2026-11-03T01:58:41Z",
+  "chars": 41619,
+  "portal_id": "229129",
+  "tip": "DECIZIE"
+ }
+}
