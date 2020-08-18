@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-03-24: registered at the Chamber of Deputies
 - 2020-07-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-30: sent for promulgation
+- 2020-08-18: promulgated, becomes Legea nr. 178/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -43,3 +44,6 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-ff190237.md](am-ff190237.md); official file https://www.senat.ro/legis/PDF/2020/20L074AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L074AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-7faf6270.md](lp-7faf6270.md); official file https://www.senat.ro/legis/PDF/2020/20L074LP.PDF
+- 2020-08-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L074DP.PDF
+- 2020-08-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L074AFP.PDF
+- 2020-08-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L074FP.PDF
