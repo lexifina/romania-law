@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-06-10: registered at the Chamber of Deputies
 - 2020-07-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-30: sent for promulgation
+- 2020-08-18: promulgated, becomes Legea nr. 179/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L310AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L310AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-962054b3.md](lp-962054b3.md); official file https://www.senat.ro/legis/PDF/2020/20L310LP.PDF
+- 2020-08-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L310DP.PDF
+- 2020-08-18: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L310AFP.PDF
+- 2020-08-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L310FP.PDF
