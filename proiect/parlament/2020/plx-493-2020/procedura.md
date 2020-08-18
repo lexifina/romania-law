@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-07: first record in the bill file
 - 2020-07-08: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
 - 2020-08-07: registered at the Senate
+- 2020-08-18: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-08: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L671LG.PDF
 - 2020-07-08: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L671SJ.PDF
 - 2020-07-08: Punct de vedere (PV): [pv-1d317b05.md](pv-1d317b05.md); official file https://www.senat.ro/legis/PDF/2020/20L671PV.PDF
+- 2020-08-18: Aviz comisie (CA41): [ca41-8c8fa451.md](ca41-8c8fa451.md); official file https://www.senat.ro/legis/PDF/2020/20L671CA41.PDF
