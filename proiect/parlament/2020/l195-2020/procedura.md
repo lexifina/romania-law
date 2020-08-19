@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-15: documents published: Aviz comisie
 - 2020-05-12: registered at the Senate
 - 2020-05-20: registered at the Chamber of Deputies
+- 2020-08-19: adopted by the Chamber of Deputies
 
 ## Documents
 
