@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-10: documents published: Aviz comisie
 - 2020-05-19: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2020-05-27: registered at the Chamber of Deputies
+- 2020-08-19: rejected by the Chamber of Deputies; legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-10: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L163CA45.PDF
 - 2020-05-19: Forma adoptată de Senat (FS): [fs-faaf3623.md](fs-faaf3623.md); official file https://www.senat.ro/legis/PDF/2020/20L163FS.PDF
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L163AM.PDF
+- 2020-08-19: Document (AT): [at-547f3bcc.md](at-547f3bcc.md); official file https://www.senat.ro/legis/PDF/2020/20L163AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-19: Document (S1): [s1-babc764a.md](s1-babc764a.md); official file https://www.senat.ro/legis/PDF/2020/20L163S1.PDF (its day is not given by the bill file: shown from the last stage held)
