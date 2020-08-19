@@ -1,0 +1,184 @@
+{
+ "key": "dcc-227-2020",
+ "label": "Decizia CCR nr. 227/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "227",
+ "date": "2020-06-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 227 din 2 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (2) din Legea contenciosului administrativ nr. 554/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "755",
+  "bis": false,
+  "date": "2020-08-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "806/45/2017",
+  "299D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 alin. (2) din Legea contenciosului administrativ nr. 554/2004, excepție ridicată de Petru Căruntu în Dosarul nr. 806/45/2017 al Curții de Apel Iași - Secția contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229221",
+  "text_sha256": "f87c40280161e7e192090654cc3e6441c30388875ffc6b4d7a1c7bdd50afbb1a",
+  "catalogue_sha256": "f87c40280161e7e192090654cc3e6441c30388875ffc6b4d7a1c7bdd50afbb1a",
+  "fetched": "2026-11-03T01:58:32Z",
+  "chars": 10236,
+  "portal_id": "229221",
+  "tip": "DECIZIE"
+ }
+}
