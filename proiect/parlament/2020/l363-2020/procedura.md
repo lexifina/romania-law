@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-07-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-01: sent for promulgation
+- 2020-08-20: promulgated, becomes Legea nr. 185/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Forma adoptată de Senat (FS): [fs-29a427bb.md](fs-29a427bb.md); official file https://www.senat.ro/legis/PDF/2020/20L363FS.PDF
 - 2020-07-27: Adresă privind sesizarea CCR (AXS): [axs-c50923e7.md](axs-c50923e7.md); official file https://www.senat.ro/legis/PDF/2020/20L363AXS.PDF
 - 2020-07-27: Forma trimisă la promulgare (LP): [lp-cbb906fb.md](lp-cbb906fb.md); official file https://www.senat.ro/legis/PDF/2020/20L363LP.PDF
+- 2020-08-20: Document (AL): [al-fd3cae96.md](al-fd3cae96.md); official file https://www.senat.ro/legis/PDF/2020/20L363AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-20: Decret de promulgare (DP): [dp-d99a74e2.md](dp-d99a74e2.md); official file https://www.senat.ro/legis/PDF/2020/20L363DP.PDF
+- 2020-08-20: Adresă privind forma promulgată (AFP): [afp-87f38393.md](afp-87f38393.md); official file https://www.senat.ro/legis/PDF/2020/20L363AFP.PDF
+- 2020-08-20: Forma promulgată (FP): [fp-6ba9249c.md](fp-6ba9249c.md); official file https://www.senat.ro/legis/PDF/2020/20L363FP.PDF
