@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-07-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-01: sent for promulgation
+- 2020-08-20: promulgated, becomes Legea nr. 184/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Forma adoptată de Senat (FS): [fs-631dd41c.md](fs-631dd41c.md); official file https://www.senat.ro/legis/PDF/2020/20L244FS.PDF
 - 2020-07-27: Adresă privind sesizarea CCR (AXS): [axs-5049fcbd.md](axs-5049fcbd.md); official file https://www.senat.ro/legis/PDF/2020/20L244AXS.PDF
 - 2020-07-27: Forma trimisă la promulgare (LP): [lp-85b8eb41.md](lp-85b8eb41.md); official file https://www.senat.ro/legis/PDF/2020/20L244LP.PDF
+- 2020-08-20: Document (AL): [al-5de18633.md](al-5de18633.md); official file https://www.senat.ro/legis/PDF/2020/20L244AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-20: Decret de promulgare (DP): [dp-1b90766a.md](dp-1b90766a.md); official file https://www.senat.ro/legis/PDF/2020/20L244DP.PDF
+- 2020-08-20: Adresă privind forma promulgată (AFP): [afp-b0e9883b.md](afp-b0e9883b.md); official file https://www.senat.ro/legis/PDF/2020/20L244AFP.PDF
+- 2020-08-20: Forma promulgată (FP): [fp-7b8ec6eb.md](fp-7b8ec6eb.md); official file https://www.senat.ro/legis/PDF/2020/20L244FP.PDF
