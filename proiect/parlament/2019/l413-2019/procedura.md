@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-07-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-03: sent for promulgation
+- 2020-08-21: promulgated, becomes Legea nr. 190/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L413AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2019/19L413AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-5f62e086.md](lp-5f62e086.md); official file https://www.senat.ro/legis/PDF/2019/19L413LP.PDF
+- 2020-08-21: Decret de promulgare (DP): [dp-edb0f92f.md](dp-edb0f92f.md); official file https://www.senat.ro/legis/PDF/2019/19L413DP.PDF
+- 2020-08-21: Adresă privind forma promulgată (AFP): [afp-024b140c.md](afp-024b140c.md); official file https://www.senat.ro/legis/PDF/2019/19L413AFP.PDF
+- 2020-08-21: Forma promulgată (FP): [fp-9cfb6958.md](fp-9cfb6958.md); official file https://www.senat.ro/legis/PDF/2019/19L413FP.PDF
