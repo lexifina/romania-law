@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-07-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-03: sent for promulgation
+- 2020-08-21: promulgated, becomes Legea nr. 193/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-26: Adresă către Camera Deputaților (AM): [am-ee773490.md](am-ee773490.md); official file https://www.senat.ro/legis/PDF/2019/19L571AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2019/19L571AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-97468f25.md](lp-97468f25.md); official file https://www.senat.ro/legis/PDF/2019/19L571LP.PDF
+- 2020-08-21: Decret de promulgare (DP): [dp-f4a29355.md](dp-f4a29355.md); official file https://www.senat.ro/legis/PDF/2019/19L571DP.PDF
+- 2020-08-21: Adresă privind forma promulgată (AFP): [afp-df972f67.md](afp-df972f67.md); official file https://www.senat.ro/legis/PDF/2019/19L571AFP.PDF
+- 2020-08-21: Forma promulgată (FP): [fp-bb33c18a.md](fp-bb33c18a.md); official file https://www.senat.ro/legis/PDF/2019/19L571FP.PDF
