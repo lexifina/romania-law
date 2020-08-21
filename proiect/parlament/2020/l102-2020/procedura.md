@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: adopted by the Chamber of Deputies
 - 2020-07-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-03: sent for promulgation
+- 2020-08-21: promulgated, becomes Legea nr. 189/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L102AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L102AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-c30fd242.md](lp-c30fd242.md); official file https://www.senat.ro/legis/PDF/2020/20L102LP.PDF
+- 2020-08-21: Decret de promulgare (DP): [dp-5873aaa7.md](dp-5873aaa7.md); official file https://www.senat.ro/legis/PDF/2020/20L102DP.PDF
+- 2020-08-21: Adresă privind forma promulgată (AFP): [afp-79f9df5b.md](afp-79f9df5b.md); official file https://www.senat.ro/legis/PDF/2020/20L102AFP.PDF
+- 2020-08-21: Forma promulgată (FP): [fp-8de1bb72.md](fp-8de1bb72.md); official file https://www.senat.ro/legis/PDF/2020/20L102FP.PDF
