@@ -1,0 +1,189 @@
+{
+ "key": "dcc-514-2020",
+ "label": "Decizia CCR nr. 514/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "514",
+ "date": "2020-06-30",
+ "year": "2020",
+ "heading": "DECIZIA nr. 514 din 30 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 60 alin. (6) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "770",
+  "bis": false,
+  "date": "2020-08-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.068/180/2017/a1",
+  "9D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vasile Botomei în Dosarul nr. 7.068/180/2017/a1 al Judecătoriei Bacău - Secția penală și constată că dispozițiile art. 60 alin. (6) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Bacău - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 159/2008",
+    "number": "159",
+    "year": "2008",
+    "path": "oug/2008/159"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229503",
+  "text_sha256": "ddc8b0f495efbe57f61be86151b167aaed06c64c2f6441345f16c6a0cabb96ab",
+  "catalogue_sha256": "ddc8b0f495efbe57f61be86151b167aaed06c64c2f6441345f16c6a0cabb96ab",
+  "fetched": "2026-11-03T01:58:30Z",
+  "chars": 22217,
+  "portal_id": "229503",
+  "tip": "DECIZIE"
+ }
+}
