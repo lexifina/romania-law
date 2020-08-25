@@ -1,0 +1,221 @@
+{
+ "key": "dcc-225-2020",
+ "label": "Decizia CCR nr. 225/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "225",
+ "date": "2020-06-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 225 din 2 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei „în baza regulamentului aprobat de Consiliul Superior al Magistraturii“, cuprinsă în art. 45 alin. (1) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "775",
+  "bis": false,
+  "date": "2020-08-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.787/105/2017",
+  "232D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Elena Roxana Cireșnea în Dosarul nr. 8.787/105/2017 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și constată că sintagma „în baza regulamentului aprobat de Consiliul Superior al Magistraturii“, cuprinsă în art. 45 alin. (1) din Legea nr. 567/2004 privind statutul personalului auxiliar de specialitate al instanțelor judecătorești și al parchetelor de pe lângă acestea și al personalului care funcționează în cadrul Institutului Național de Expertize Criminalistice este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "10"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-08-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/229534",
+  "text_sha256": "250b176daa28d60f71ac84a759a0ff703dc28b2c7087c65bcab9ab9088fe6d75",
+  "catalogue_sha256": "250b176daa28d60f71ac84a759a0ff703dc28b2c7087c65bcab9ab9088fe6d75",
+  "fetched": "2026-11-06T02:22:44Z",
+  "chars": 14038,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/229534",
+   "timestamp": "20240811113002",
+   "crawl": "CC-MAIN-2024-33",
+   "filename": "crawl-data/CC-MAIN-2024-33/segments/1722640997721.66/warc/CC-MAIN-20240811110531-20240811140531-00731.warc.gz",
+   "offset": "289190189",
+   "length": "17572",
+   "sha256": "9c025f473f9eb7aee2a59ca8713594f2ba42e64cd070daf47f997a09d43d809e"
+  },
+  "portal_id": "229534",
+  "tip": "DECIZIE"
+ }
+}
