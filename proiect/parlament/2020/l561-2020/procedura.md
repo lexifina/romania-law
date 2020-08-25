@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-08-17: registered at the Chamber of Deputies
+- 2020-08-25: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2020-08-25: Raport comisie sesizată pe fond (CR): [cr-d013bf78.md](cr-d013bf78.md); official file https://www.senat.ro/legis/PDF/2020/20L561CR.PDF
