@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-29: registered at the Senate
 - 2020-08-11: documents published: Aviz comisie
 - 2020-08-12: documents published: Aviz comisie
+- 2020-08-25: documents published: Aviz comisie
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Raport comisie sesizată pe fond (CR): [cr-6c04c22e.md](cr-6c04c22e.md); official file https://www.senat.ro/legis/PDF/2020/20L477CR.PDF
 - 2020-08-11: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L477CA3.PDF
 - 2020-08-12: Aviz comisie (CA14): [ca14-011c79d0.md](ca14-011c79d0.md); official file https://www.senat.ro/legis/PDF/2020/20L477CA14.PDF
+- 2020-08-25: Aviz comisie (CA45): [ca45-9ad4ffbb.md](ca45-9ad4ffbb.md); official file https://www.senat.ro/legis/PDF/2020/20L477CA45.PDF
