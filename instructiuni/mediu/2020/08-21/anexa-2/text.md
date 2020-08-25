@@ -1,0 +1,9 @@
+# Anexa 2
+Anexa nr. 2
+Solicitare deschidere cont de acces în SIATD
+Prin prezenta, subsemnatul, ................................., deținător al CNP ..............................., în calitate de reprezentant legal/împuternicit al societății ....................................., C.U.I. .............................., cu adresa de e-mail .............................. și cu nr. telefon .........................., confirm intenția de acces în SIATD pentru utilizatorul menționat și solicit generarea contului de acces și a parolei de utilizator.
+Data: .....................
+Denumirea utilizatorului ..............................
+Reprezentant legal/împuternicit ......................................
+(numele și prenumele)
+------
