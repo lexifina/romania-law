@@ -1,0 +1,6 @@
+# Anexa nr. 1 la norme
+Regim de activitate și odihnă pe diferite grupe de vârstă în unitățile de preșcolari și școlari
+Vârsta Numărul de ore (din 24 de ore) (ani) Activitate intelectuală și fizică cu caracter de instruire* Activități recreative în aer liber, sport, joc Somn (din 24 de ore) Somn/relaxare în timpul zilei până la 1 an 2** (stimulare senzorială în interacțiune cu adultul) 4 18 4 1 2** (stimulare senzorială în interacțiune cu adultul) 5 16 3 2 2** (stimulare senzorială în interacțiune cu adultul) 5 16 3 3 1** (fracționat în 4 perioade) 6 13 2 4 1** (fracționat în 3 perioade) 6 12 1/2 2 5 1 ½ ** (fracționat în 2 sau 3 perioade) 5 12 1 1/2 6 3*** 4 11 1/2 1 7-8 4 ½ 4 11 1 9-10 5 4 10 1/2 - 11-13 6 3 10 - 14-15 7 3 9 1/2 - 16-18 8 3 9 -
+* Inclusiv timpul de pregătire a temelor pentru ziua următoare.
+** Delimitarea temporară este orientativă pentru acest nivel de vârstă, ca și fracționarea activităților, care poate varia în funcție de interesul manifestat de copil/grupul de copii pentru activitatea respectivă. Pentru copilul sub 3 ani, este important ca adultul să fie atent și să aștepte răspunsul acestuia.
+*** Pe parcursul orei de studiu se vor face 2-3 pauze a câte 3 minute de relaxare fizică și intelectuală.
