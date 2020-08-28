@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-02: sent for promulgation
 - 2020-07-08: published in the Monitorul Oficial
+- 2020-08-28: promulgated, becomes Legea nr. 194/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L127AM.PDF
 - 2020-05-27: Adresă privind sesizarea CCR (AXS): [axs-e98679a4.md](axs-e98679a4.md); official file https://www.senat.ro/legis/PDF/2020/20L127AXS.PDF
 - 2020-05-27: Forma trimisă la promulgare (LP): [lp-bae1438f.md](lp-bae1438f.md); official file https://www.senat.ro/legis/PDF/2020/20L127LP.PDF
+- 2020-08-28: Document (SC): [sc-42201ebc.md](sc-42201ebc.md); official file https://www.senat.ro/legis/PDF/2020/20L127SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-28: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L127DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-08-28: Decret de promulgare (DP): [dp-57899f2f.md](dp-57899f2f.md); official file https://www.senat.ro/legis/PDF/2020/20L127DP.PDF
+- 2020-08-28: Adresă privind forma promulgată (AFP): [afp-00978c83.md](afp-00978c83.md); official file https://www.senat.ro/legis/PDF/2020/20L127AFP.PDF
+- 2020-08-28: Forma promulgată (FP): [fp-a59793f0.md](fp-a59793f0.md); official file https://www.senat.ro/legis/PDF/2020/20L127FP.PDF
