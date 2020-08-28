@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății IDEA FINANCE IFN - S.A., cu sediul în bd. Dimitrie Pompeiu nr. 5-7, biroul 2, sectorul 2, București, înregistrată la oficiul registrului comerțului cu nr. J40/4137/2014, cod unic de înregistrare 33019654, înscrisă în Registrul general sub nr. RG-PJR-41-080285/ 16.06.2014, la secțiunea h) - „Leasing financiar”.
