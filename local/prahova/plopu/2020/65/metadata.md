@@ -1,0 +1,9 @@
+# HCL Plopu nr. 65/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 65/2020
+- Adopted: 2020-08-28
+- Title: privind APROBAREA TABELELOR CU NUMERELE ADMINISTRATIVE ALOCATE PROPRIETATILOR DE PE RAZA UNITATII ADMINISTRATIV-TERITORIALE A COMUNEI PLOPU, JUDETUL PRAHOVA, SATELE PLOPU, NISIPOASA, HȂRSA SI GȂLMEIA, IN CONFORMITATE CU NOMENCLATORUL STRADAL APROBAT SI INREGISTRAREA ACESTORA IN REENNS
+- Record: https://emol.ro/plopu-ph/registru-hcl/8211
