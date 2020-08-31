@@ -1,0 +1,9 @@
+# HCL Dumbrava nr. 30/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Dumbrava
+- Decision: nr. 30/2020
+- Adopted: 2020-08-31
+- Title: privind aprobarea bugetului local rectificat at comunei Dumbrava pentru anul 2020 si estimari pentru anii 2021-2023
+- Record: https://emol.ro/dumbrava-ph/registru-hcl/13369
