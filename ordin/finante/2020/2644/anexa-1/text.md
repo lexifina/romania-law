@@ -1,0 +1,2 @@
+# Anexa nr. 1
+NORME METODOLOGICE de utilizare a sumelor defalcate din taxa pe valoarea adăugată pentru echilibrarea bugetelor locale alocate pentru achitarea plăților restante ale unităților/subdiviziunilor administrativ-teritoriale și instituțiilor publice finanțate integral din bugetul local pe destinațiile prevăzute la art. 25 alin. (4) din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare
