@@ -1,0 +1,27 @@
+# Anexa nr. 3 la regulament
+PROCES-VERBAL de lucrări ascunse pentru instalația exterioară de utilizare a gazelor naturale de înaltă presiune Nr......................../data....................... (model-cadru)
+Semnatarii prezentului proces-verbal, cu ocazia realizării instalației de utilizare de înaltă presiune, având regimul de presiune mai mare de 10∙10^5 Pa (10 bar), respectiv p > 10∙10^5 Pa (10 bar), pozată subteran, executată în conformitate cu prevederile Proiectului tehnic nr..........................., realizat de.............................................................................................., (denumirea operatorului economic autorizat de Autoritatea Națională de Reglementare în Domeniul Energiei, denumită în continuare ANRE) nr. autorizație..................., tip autorizație ET, verificat de............................................................................................................, (numele și prenumele verificatorului de proiecte atestat pentru grupa de clasificare CAEN 352) posesor al Atestatului nr................, la imobilul din localitatea....................., județul/sectorul......................., str........................ nr.........., codul poștal...................., precizăm următoarele:
+1.
+Tronsonul îngropat al instalației de utilizare exterioară a gazelor naturale de înaltă presiune are diametrul... (mm sau inch) și lungimea... (metri).
+2.
+Materialul tubular folosit este cel prevăzut în Certificatul de calitate/Declarația de conformitate nr.... din data..., anexat/anexată la prezentul proces-verbal.
+3.
+Pentru instalația de utilizare a gazelor naturale de înaltă presiune din oțel: a) toate sudurile au fost executate folosind materiale standardizate/conforme și au fost izolate.........(precizările sunt făcute de executant)......;
+b) conducta a fost izolată conform................................(precizările sunt făcute de executant)........................................
+și la montaj a fost amplasată în conformitate cu prevederile Normelor tehnice pentru proiectarea și execuția conductelor de transport gaze naturale, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 118/2013, cu modificările și completările ulterioare, denumite în continuare Norme tehnice; c) calitatea izolației a fost verificată conform Buletinului de verificare nr............................/.............................., anexat;
+d) au fost amplasate răsuflători în conformitate cu prevederile Proiectului tehnic nr.........................., realizat de.........................................(denumirea operatorului economic autorizat ANRE)........................, tip autorizație PT, și verificat de................................(numele și prenumele verificatorului de proiecte atestat pentru grupa de clasificare CAEN 352)..................................., posesor al Atestatului nr.............................., iar calota acestora a fost sudată în totalitate de tijă și a fost așezată în conformitate cu prevederile Normelor tehnice;
+e) conducta a fost așezată pe fundul șanțului, pe un strat de nisip cu grosimea de................................ cm, adâncimea de pozare fiind de......................... m;
+f) tuburile de protecție au fost montate conform Proiectului tehnic nr........, realizat de.................(denumirea operatorului economic autorizat ANRE)............., tip autorizație PT, și verificat de............................(numele și prenumele verificatorului de proiecte atestat pentru grupa de clasificare CAEN 352)......................., posesor al Atestatului nr...............................................................................................;
+g) conducta, armăturile și curbele utilizate sunt confecționate din materiale ce respectă prevederile Normelor tehnice;
+h) primul strat de umplutură deasupra conductei a fost din pământ mărunțit, fără corpuri tari (resturi de beton, cărămizi, deșeuri metalice, sticloase etc.).
+Lista de semnături 1.
+Instalatorul/Instalatorii autorizat/autorizați care a/au executat instalația de utilizare a gazelor naturale de înaltă presiune, având regimul de presiune mai mare de 10∙10^5 Pa (10 bar), respectiv p > 10∙10^5 Pa (10 bar) Numele și prenumele.............., Legitimația ANRE nr.............., tip autorizație..............., valabilă până la data de............., semnătura..............
+2.
+Responsabilul tehnic cu execuția Numele și prenumele............., Legitimația ANRE nr..............., tip autorizație..............., valabilă până la data de..............., semnătura........
+3.
+Sudorul autorizat pentru oțel Numele și prenumele...................., Autorizația.............. nr..............., poanson nr................, valabilă până la data de............., semnătura.........................
+4.
+Specialiștii în domeniu (instalatori autorizați ANRE invitați de beneficiar, după caz) Numele și prenumele.............., Legitimația ANRE nr...................., tip autorizație....................., valabilă până la data de................, semnătura.........
+5.
+Beneficiarul a luat cunoștință de execuția instalației exterioară de utilizare a gazelor naturale de înaltă presiune, având regimul de presiune mai mare de 10∙10^5 Pa (10 bar), respectiv p > 10∙10^5 Pa (10 bar), și de obligația ca orice modificare adusă acesteia ulterior trebuie să fie efectuată numai prin intermediul unui operator economic autorizat de ANRE.
+Beneficiar,.................................. (denumirea și semnătura)
