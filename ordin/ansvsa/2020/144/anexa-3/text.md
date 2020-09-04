@@ -1,0 +1,7 @@
+# Anexa nr. 3 (Anexa nr. 3 la regulament)
+Antetul Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor
+Număr de înregistrare/data.....................................
+ADEVERINȚĂ
+Se atestă că............(actul de studii)........, în profilul/domeniul.............................................................., specializarea........................................................................................, seria........., nr........................., eliberat/eliberată de către....................................................................., la data de..........................., domnului/doamnei............................................................................., naționalitatea................................., născut/născută la data de......(anul/luna/ziua)......... în........(locul nașterii).............., cu domiciliul în......................................................................................................................................., îndeplinește condițiile prevăzute de Directiva 2005/36/CE a Parlamentului European și a Consiliului din 7 septembrie 2005 privind recunoașterea calificărilor profesionale, pentru a-i permite accesul la exercitarea profesiei de.............(asistent veterinar/tehnician veterinar)........... în România.
+Președintele Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor,................................................................................................ (numele, prenumele, semnătura și ștampila unității)
+----
