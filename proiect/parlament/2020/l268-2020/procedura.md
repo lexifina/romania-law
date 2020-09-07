@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-10: registered at the Chamber of Deputies
 - 2020-08-19: adopted by the Chamber of Deputies; documents published: Forma trimisă la promulgare
 - 2020-08-21: sent for promulgation
+- 2020-09-07: promulgated, becomes Legea nr. 197/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: Forma adoptată de Senat (FS): [fs-a77520fb.md](fs-a77520fb.md); official file https://www.senat.ro/legis/PDF/2020/20L268FS.PDF
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3d3eb977.md](am-3d3eb977.md); official file https://www.senat.ro/legis/PDF/2020/20L268AM.PDF
 - 2020-08-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L268LP.PDF
+- 2020-09-07: Decret de promulgare (DP): [dp-5f19e3df.md](dp-5f19e3df.md); official file https://www.senat.ro/legis/PDF/2020/20L268DP.PDF
+- 2020-09-07: Adresă privind forma promulgată (AFP): [afp-8267ed39.md](afp-8267ed39.md); official file https://www.senat.ro/legis/PDF/2020/20L268AFP.PDF
+- 2020-09-07: Forma promulgată (FP): [fp-94b2b162.md](fp-94b2b162.md); official file https://www.senat.ro/legis/PDF/2020/20L268FP.PDF
