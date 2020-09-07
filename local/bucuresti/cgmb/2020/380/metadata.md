@@ -1,0 +1,11 @@
+# HCGMB nr. 380/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 380/2020
+- Adopted: 2020-09-07
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIUL LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI DE A HOTARA, IN CONDITIILE LEGII, CU PRIVIRE LA INCHEIEREA UNUI PROTOCOL DE COOPERARE INTRE CONSILIUL LOCAL AL SECTORULUI 1 AL MUNICIPIULUI BUCURESTI SI BISERICA ADVENTISTA DE ZIUA A SAPTEA, IN SCOPUL FINANTARII UNOR CHELTUIELI DE INVESTITII SI REALIZARII IN PARTENERIAT A UNOR ACTIUNI, LUCRARI, SERVICII SAU PROIECTE SI ACTIVITATI DE INTERES PUBLIC
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41599
+- Document: https://doc.pmb.ro/legis/acteinterne/2020/41599/H380_20.pdf
+- Document sha256: 7567cb0ed532352700e1686b97284969e982d3d2719f3f2662f9499dc3fe0409
