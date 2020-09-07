@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-07-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-31: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
+- 2020-09-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-31: Aviz Consiliul Legislativ (LG): [lg-33bde331.md](lg-33bde331.md); official file https://www.senat.ro/legis/PDF/2020/20L703LG.PDF
 - 2020-07-31: Punct de vedere Guvern (SJ): [sj-f402896f.md](sj-f402896f.md); official file https://www.senat.ro/legis/PDF/2020/20L703SJ.PDF
 - 2020-07-31: Punct de vedere (PV): [pv-caeeab9a.md](pv-caeeab9a.md); official file https://www.senat.ro/legis/PDF/2020/20L703PV.PDF
+- 2020-09-07: Aviz comisie (CA45): [ca45-88a32e95.md](ca45-88a32e95.md); official file https://www.senat.ro/legis/PDF/2020/20L703CA45.PDF
