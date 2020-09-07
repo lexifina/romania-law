@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-11: adopted by the Senate
 - 2020-08-25: adopted by the Chamber of Deputies
 - 2020-08-31: sent for promulgation
+- 2020-09-07: promulgated, becomes Legea nr. 196/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L482FS.PDF
 - 2019-10-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L482AM.PDF
 - 2020-03-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L482AXS.PDF
+- 2020-09-07: Decret de promulgare (DP): [dp-ba68318a.md](dp-ba68318a.md); official file https://www.senat.ro/legis/PDF/2019/19L482DP.PDF
+- 2020-09-07: Adresă privind forma promulgată (AFP): [afp-145512a9.md](afp-145512a9.md); official file https://www.senat.ro/legis/PDF/2019/19L482AFP.PDF
+- 2020-09-07: Forma promulgată (FP): [fp-3e9c2db0.md](fp-3e9c2db0.md); official file https://www.senat.ro/legis/PDF/2019/19L482FP.PDF
