@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-24: registered at the Chamber of Deputies
 - 2020-08-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-20: sent for promulgation
+- 2020-09-08: promulgated, becomes Legea nr. 198/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-06-16: Adresă către Camera Deputaților (AM): [am-1bea11e9.md](am-1bea11e9.md); official file https://www.senat.ro/legis/PDF/2020/20L348AM.PDF
 - 2020-08-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L348AXS.PDF
 - 2020-08-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L348LP.PDF
+- 2020-09-08: Decret de promulgare (DP): [dp-46dc3be7.md](dp-46dc3be7.md); official file https://www.senat.ro/legis/PDF/2020/20L348DP.PDF
+- 2020-09-08: Adresă privind forma promulgată (AFP): [afp-fdad1f72.md](afp-fdad1f72.md); official file https://www.senat.ro/legis/PDF/2020/20L348AFP.PDF
+- 2020-09-08: Forma promulgată (FP): [fp-f93dc5e8.md](fp-f93dc5e8.md); official file https://www.senat.ro/legis/PDF/2020/20L348FP.PDF
