@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-25: documents published: Raport comisie sesizată pe fond
 - 2019-10-07: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2019-10-14: registered at the Chamber of Deputies
+- 2020-09-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386CA45.PDF
 - 2019-09-25: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386CR.PDF
 - 2019-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386AM.PDF
+- 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-a4a7b36d.md](axs-a4a7b36d.md); official file https://www.senat.ro/legis/PDF/2019/19L386AXS.PDF
+- 2020-09-08: Forma trimisă la promulgare (LP): [lp-cac85f10.md](lp-cac85f10.md); official file https://www.senat.ro/legis/PDF/2019/19L386LP.PDF
