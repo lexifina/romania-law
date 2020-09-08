@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-10-08: registered at the Chamber of Deputies
 - 2020-08-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-21: sent for promulgation
+- 2020-09-08: promulgated, becomes Legea nr. 199/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L335AM.PDF
 - 2020-08-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L335AXS.PDF
 - 2020-08-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L335LP.PDF
+- 2020-09-08: Decret de promulgare (DP): [dp-48d1bce4.md](dp-48d1bce4.md); official file https://www.senat.ro/legis/PDF/2019/19L335DP.PDF
+- 2020-09-08: Adresă privind forma promulgată (AFP): [afp-61139080.md](afp-61139080.md); official file https://www.senat.ro/legis/PDF/2019/19L335AFP.PDF
+- 2020-09-08: Forma promulgată (FP): [fp-4d6be6b7.md](fp-4d6be6b7.md); official file https://www.senat.ro/legis/PDF/2019/19L335FP.PDF
