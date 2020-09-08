@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Punct de vedere
+- 2020-09-08: rejected by the Senate; documents published: Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -17,3 +18,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Expunere de motive (EM): [em-876f8ff6.md](em-876f8ff6.md); official file https://www.senat.ro/legis/PDF/2020/20L487EM.PDF
 - 2020-06-30: Aviz Consiliul Economic și Social (ES): [es-37130ddf.md](es-37130ddf.md); official file https://www.senat.ro/legis/PDF/2020/20L487ES.PDF
 - 2020-06-30: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L487PV.PDF
+- 2020-09-08: Raport comisie sesizată pe fond (CR): [cr-a24b5391.md](cr-a24b5391.md); official file https://www.senat.ro/legis/PDF/2020/20L487CR.PDF
+- 2020-09-08: Adresă către Camera Deputaților (AM): [am-604cc2b7.md](am-604cc2b7.md); official file https://www.senat.ro/legis/PDF/2020/20L487AM.PDF
