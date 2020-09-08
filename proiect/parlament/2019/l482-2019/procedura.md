@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-25: adopted by the Chamber of Deputies
 - 2020-08-31: sent for promulgation
 - 2020-09-07: promulgated, becomes Legea nr. 196/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-09-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-07: Decret de promulgare (DP): [dp-ba68318a.md](dp-ba68318a.md); official file https://www.senat.ro/legis/PDF/2019/19L482DP.PDF
 - 2020-09-07: Adresă privind forma promulgată (AFP): [afp-145512a9.md](afp-145512a9.md); official file https://www.senat.ro/legis/PDF/2019/19L482AFP.PDF
 - 2020-09-07: Forma promulgată (FP): [fp-3e9c2db0.md](fp-3e9c2db0.md); official file https://www.senat.ro/legis/PDF/2019/19L482FP.PDF
+- 2020-09-08: Document (DC): [dc-d7308e08.md](dc-d7308e08.md); official file https://www.senat.ro/legis/PDF/2019/19L482DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-09-08: Document (XD): [xd-9b334d11.md](xd-9b334d11.md); official file https://www.senat.ro/legis/PDF/2019/19L482XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-09-08: Document (SX): [sx-c0c0f3fe.md](sx-c0c0f3fe.md); official file https://www.senat.ro/legis/PDF/2019/19L482SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-09-08: Document (XXS): [xxs-9f3116f3.md](xxs-9f3116f3.md); official file https://www.senat.ro/legis/PDF/2019/19L482XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-09-08: Document (PX): [px-52e93a14.md](px-52e93a14.md); official file https://www.senat.ro/legis/PDF/2019/19L482PX.PDF (its day is not given by the bill file: shown from the last stage held)
