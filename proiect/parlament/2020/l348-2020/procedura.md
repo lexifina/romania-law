@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-08-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-20: sent for promulgation
 - 2020-09-08: promulgated, becomes Legea nr. 198/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-09-09: published in the Monitorul Oficial
 
 ## Documents
 
