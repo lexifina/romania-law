@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2020-08-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2020-09-02: registered at the Chamber of Deputies
 - 2020-09-08: documents published: Aviz comisie
+- 2020-09-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,10 @@ Initiator: Guvernul României.
 - 2020-08-18: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L578OG.PDF
 - 2020-08-18: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L578HG.PDF
 - 2020-09-08: Aviz comisie (CA43): [ca43-526c7481.md](ca43-526c7481.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA43.PDF
+- 2020-09-09: Aviz comisie (CA14): [ca14-edde688f.md](ca14-edde688f.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA14.PDF
+- 2020-09-09: Aviz comisie (CA16): [ca16-1dbcf999.md](ca16-1dbcf999.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA16.PDF
+- 2020-09-09: Aviz comisie (CA21): [ca21-3ba5ae9b.md](ca21-3ba5ae9b.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA21.PDF
+- 2020-09-09: Aviz comisie (CA42): [ca42-218b7165.md](ca42-218b7165.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA42.PDF
+- 2020-09-09: Aviz comisie (CA5): [ca5-935b953d.md](ca5-935b953d.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA5.PDF
+- 2020-09-09: Aviz comisie (CA8): [ca8-d8dfff46.md](ca8-d8dfff46.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA8.PDF
+- 2020-09-09: Aviz comisie (CA1): [ca1-0fc906db.md](ca1-0fc906db.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA1.PDF
