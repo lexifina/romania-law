@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2020-09-02: registered at the Chamber of Deputies
 - 2020-09-08: documents published: Aviz comisie
 - 2020-09-09: documents published: Aviz comisie
+- 2020-09-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Guvernul României.
 - 2020-09-09: Aviz comisie (CA5): [ca5-935b953d.md](ca5-935b953d.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA5.PDF
 - 2020-09-09: Aviz comisie (CA8): [ca8-d8dfff46.md](ca8-d8dfff46.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA8.PDF
 - 2020-09-09: Aviz comisie (CA1): [ca1-0fc906db.md](ca1-0fc906db.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA1.PDF
+- 2020-09-10: Aviz comisie (CA46): [ca46-7b47e4c7.md](ca46-7b47e4c7.md); official file https://www.senat.ro/legis/PDF/2020/20L578CA46.PDF
