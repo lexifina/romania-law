@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-62-19-concluzii-2020-09-10",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 10 septembrie 2020, Cauza C-62/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2020-09-10",
+ "year": "2020",
+ "case": "Cauza C-62/19.",
+ "celex": "62019CC0062",
+ "ecli": "ECLI:EU:C:2020:692",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 10 septembrie 2020",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul București.",
+ "national_followup": null,
+ "parties": "Star Taxi App SRL împotriva Unității Administrativ Teritoriale Municipiul București prin Primar General și a Consiliului General al Municipiului București.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 56 TFUE – Aplicabilitate – Situație pur internă – Directiva 2000/31/CE – Articolul 2 litera (a) – Noțiunea de „servicii ale societății informaționale” – Articolul 3 alineatele (2) și (4) – Articolul 4 – Aplicabilitate – Directiva 2006/123/CE – Servicii – Capitolele III (Libertate de stabilire pentru prestatori) și IV (Libera circulație a serviciilor) – Aplicabilitate – Articolele 9 și 10 – Directiva (UE) 2015/1535 – Articolul 1 alineatul (1) literele (e) și (f) – Noțiunea de „normă cu privire la servicii” – Noțiunea de „reglementare tehnică” – Articolul 5 alineatul (1) – Lipsa unei comunicări prealabile – Opozabilitate – Activitate de punere în legătură, prin intermediul unei aplicații pentru smartphone, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați – Calificare – Reglementare națională care supune această activitate unui regim de autorizare prealabilă.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0062",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-62/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6f01382c-f352-11ea-991b-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "f9fa32c68c8bb5926566a277fe54e6ba404d81ac9bf3b72aa76361d289b79bcb"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
