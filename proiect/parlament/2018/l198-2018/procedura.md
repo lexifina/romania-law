@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-22: registered at the Chamber of Deputies
 - 2020-08-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-24: sent for promulgation
+- 2020-09-10: promulgated, becomes Legea nr. 200/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L198AM.PDF
 - 2020-08-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L198AXS.PDF
 - 2020-08-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L198LP.PDF
+- 2020-09-10: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L198AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-09-10: Decret de promulgare (DP): [dp-f8a5e8c0.md](dp-f8a5e8c0.md); official file https://www.senat.ro/legis/PDF/2018/18L198DP.PDF
+- 2020-09-10: Adresă privind forma promulgată (AFP): [afp-96ad2475.md](afp-96ad2475.md); official file https://www.senat.ro/legis/PDF/2018/18L198AFP.PDF
+- 2020-09-10: Forma promulgată (FP): [fp-6937e09f.md](fp-6937e09f.md); official file https://www.senat.ro/legis/PDF/2018/18L198FP.PDF
