@@ -1,0 +1,48 @@
+{
+ "key": "cjue-c-498-19-hotarare-2020-09-10",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 10 septembrie 2020, Cauza C-498/19 P",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2020-09-10",
+ "year": "2020",
+ "case": "Cauza C-498/19 P",
+ "celex": "62019CJ0498",
+ "ecli": "ECLI:EU:C:2020:686",
+ "heading": "Hotărârea Curții (Camera a șasea) din 10 septembrie 2020",
+ "formation": "CHAMB_06_C",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "applicant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Fondul european de garantare agricolă (FEGA) și Fondul european agricol pentru dezvoltare rurală (FEADR) – Decizie a Comisiei Europene care exclude anumite cheltuieli de la finanțarea de către Uniunea Europeană – Notificarea destinatarului – Eroare de imprimare a anexei – Publicarea deciziei în Jurnalul Oficial al Uniunii Europene – Termen de introducere a acțiunii – Moment de la care începe să curgă termenul – Tardivitate – Principiul securității juridice – Respectarea principiului contradictorialității",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0498",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-498/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/054a2eb1-f367-11ea-991b-01aa75ed71a1.0002.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "204e3526051f9dd2a08061b643afd9403f34bdeb123fab28b92015ca1796322a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară și hotărăște:",
+  "1) Respinge recursul.",
+  "2) Obligă România la plata cheltuielilor de judecată."
+ ]
+}
