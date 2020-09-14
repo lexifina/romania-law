@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății NBG LEASING IFN - S.A., cu sediul în str. Beirut nr. 21, parter, etajele 1, 2 și 3, sectorul 2, București, înregistrată la registrul comerțului cu nr. J40/14247/2007, cod unic de înregistrare 15301087, înscrisă în Registrul general cu nr. RG-PJR-41-080211/11.02.2019 și în Registrul special cu nr. RS-PJR-41-080037/11.02.2009, la secțiunea h) "Leasing financiar".
