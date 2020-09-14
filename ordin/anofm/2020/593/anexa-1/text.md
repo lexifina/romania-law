@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de decontare a sumelor pentru plata indemnizației pentru fiecare zi liberă acordată în condițiile art. 1 din Ordonanța de urgență a Guvernului nr. 147/2020 privind acordarea unor zile libere pentru părinți în vederea supravegherii copiilor, în situația limitării sau suspendării activităților didactice care presupun prezența efectivă a copiilor în unitățile de învățământ și în unitățile de educație timpurie antepreșcolară, ca urmare a răspândirii coronavirusului SARS-CoV-2
