@@ -1,0 +1,2 @@
+# ANEXĂ
+SCHEMA DE AJUTOR DE STAT pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 "Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere", apelul 3, din Programul operațional Competitivitate 2014-2020
