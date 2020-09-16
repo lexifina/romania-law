@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2020-09-09: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2020-09-14: adopted by the Chamber of Deputies; registered at the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-09-16: sent for promulgation; promulgated, becomes Legea nr. 202/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-09: Raport comisie sesizată pe fond (CR): [cr-0bad7847.md](cr-0bad7847.md); official file https://www.senat.ro/legis/PDF/2020/20L590CR.PDF
 - 2020-09-14: Adresă privind sesizarea CCR (AXS): [axs-07663eee.md](axs-07663eee.md); official file https://www.senat.ro/legis/PDF/2020/20L590AXS.PDF
 - 2020-09-14: Forma trimisă la promulgare (LP): [lp-7f9d8032.md](lp-7f9d8032.md); official file https://www.senat.ro/legis/PDF/2020/20L590LP.PDF
+- 2020-09-16: Decret de promulgare (DP): [dp-dbdc3cd8.md](dp-dbdc3cd8.md); official file https://www.senat.ro/legis/PDF/2020/20L590DP.PDF
+- 2020-09-16: Adresă privind forma promulgată (AFP): [afp-62ad89c6.md](afp-62ad89c6.md); official file https://www.senat.ro/legis/PDF/2020/20L590AFP.PDF
+- 2020-09-16: Forma promulgată (FP): [fp-673abbcb.md](fp-673abbcb.md); official file https://www.senat.ro/legis/PDF/2020/20L590FP.PDF
