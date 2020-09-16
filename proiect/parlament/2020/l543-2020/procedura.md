@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-09-03: documents published: Aviz comisie
 - 2020-09-08: adopted by the Chamber of Deputies; registered at the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-10: sent for promulgation
+- 2020-09-16: promulgated, becomes Legea nr. 203/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2020-09-03: Aviz comisie (CA14): [ca14-87eb77fe.md](ca14-87eb77fe.md); official file https://www.senat.ro/legis/PDF/2020/20L543CA14.PDF
 - 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-1578641b.md](axs-1578641b.md); official file https://www.senat.ro/legis/PDF/2020/20L543AXS.PDF
 - 2020-09-08: Forma trimisă la promulgare (LP): [lp-ed032677.md](lp-ed032677.md); official file https://www.senat.ro/legis/PDF/2020/20L543LP.PDF
+- 2020-09-16: Decret de promulgare (DP): [dp-f2e9d0f5.md](dp-f2e9d0f5.md); official file https://www.senat.ro/legis/PDF/2020/20L543DP.PDF
+- 2020-09-16: Adresă privind forma promulgată (AFP): [afp-ad5c9682.md](afp-ad5c9682.md); official file https://www.senat.ro/legis/PDF/2020/20L543AFP.PDF
+- 2020-09-16: Forma promulgată (FP): [fp-e4e2f503.md](fp-e4e2f503.md); official file https://www.senat.ro/legis/PDF/2020/20L543FP.PDF
