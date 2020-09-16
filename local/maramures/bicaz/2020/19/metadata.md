@@ -1,0 +1,9 @@
+# HCL Bicaz nr. 19/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Bicaz
+- Decision: nr. 19/2020
+- Adopted: 2020-09-16
+- Title: privind rectificarea bugetului local al comunei BICAZ , pe anul 2020
+- Record: https://emol.ro/bicaz-mm/registru-hcl/10675
