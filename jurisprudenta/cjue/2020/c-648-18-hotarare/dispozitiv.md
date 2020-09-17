@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a patra) din 17 septembrie 2020, Cauza C-648/18
+
+Pentru aceste motive, Curtea (Camera a patra) declară:
+Articolele 35 și 36 TFUE trebuie să fie interpretate în sensul că o legislație națională care, astfel cum este interpretată de autoritatea însărcinată cu aplicarea sa, impune producătorilor naționali de energie electrică să oferteze întreaga cantitate de energie electrică disponibilă pe platformele administrate de singurul operator al pieței naționale de energie electrică desemnat pentru serviciile de tranzacționare de energie electrică constituie o măsură cu efect echivalent unei restricții cantitative la export, care nu este susceptibilă să fie justificată pe motive de siguranță publică legate de siguranța alimentării cu energie, în măsura în care o astfel de legislație nu este proporțională cu obiectivul urmărit.
