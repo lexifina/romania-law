@@ -1,0 +1,9 @@
+# HCL Crivăț nr. 60/2020
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Crivăț
+- Decision: nr. 60/2020
+- Adopted: 2020-09-18
+- Title: privind aprobarea actualizarii Anexei la Programul anual al Achizitiilor Publice pe anul 2020
+- Record: https://emol.ro/crivat-cl/registru-hcl/9031
