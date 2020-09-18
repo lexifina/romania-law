@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2020-08-25: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-08-31: sent for promulgation
+- 2020-09-18: promulgated, becomes Legea nr. 204/2020; published in the Monitorul Oficial
 
 ## Documents
 
