@@ -1,0 +1,9 @@
+# ANEXĂ
+Proba orală de cunoaștere a limbii în care urmează să se facă predarea pentru ocuparea posturilor didactice/catedrelor vacante/rezervate din unități de învățământ având clase speciale de limbi străine cu program intensiv și/sau bilingv sau din unități de învățământ având clase/grupe cu predare în limbile minorităților sau în altă limbă decât aceea în care candidații și-au efectuat studiile
+I.
+Pentru predarea limbii moderne la clasele cu profil intensiv, bilingv sau a limbii materne, proba orală constă într-un interviu în cadrul căruia se testează, în limba de predare pentru care se organizează această probă, competențele de receptare și comunicare ale candidatului cel puțin la nivelul C1 din Cadrul european comun de referință pentru limbi (CECRL).
+II.
+Pentru predarea disciplinelor nonlingvistice din arii curriculare în altă limbă decât aceea în care candidații și-au efectuat studiile, proba orală constă într-un interviu, în limba de circulație internațională/limba modernă/limba maternă/limba română pentru care se organizează această probă, care să reflecte competențele de comunicare ale candidatului în limba respectivă cel puțin la nivelul B2 din Cadrul european comun de referință pentru limbi (CECRL), precum și capacitatea de a utiliza limbajul de specialitate pentru disciplina care urmează să fie predată în limba de circulație internațională/limba modernă/limba maternă/limba română.
+III.
+Pentru predarea la învățământul preșcolar și primar în altă limbă decât aceea în care candidații și-au efectuat studiile, proba orală de cunoaștere a limbii constă într-un interviu, în limba română/limba maternă pentru care se organizează această probă, care să reflecte competențele de comunicare ale candidatului cel puțin la nivelul B2 din Cadrul european comun de referință pentru limbi (CECRL).
+NOTĂ: Proba orală de cunoaștere a limbii în care urmează să se facă predarea se evaluează prin calificative „Admis/Respins”.
