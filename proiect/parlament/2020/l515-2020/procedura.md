@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-13: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-09-09: documents published: Aviz comisie
+- 2020-09-21: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-13: Aviz Consiliul Economic și Social (ES): [es-bf537f7c.md](es-bf537f7c.md); official file https://www.senat.ro/legis/PDF/2020/20L515ES.PDF
 - 2020-07-13: Aviz Consiliul Legislativ (LG): [lg-877b835f.md](lg-877b835f.md); official file https://www.senat.ro/legis/PDF/2020/20L515LG.PDF
 - 2020-09-09: Aviz comisie (CA45): [ca45-e71d5fca.md](ca45-e71d5fca.md); official file https://www.senat.ro/legis/PDF/2020/20L515CA45.PDF
+- 2020-09-21: Raport comisie sesizată pe fond (CR): [cr-12b45b32.md](cr-12b45b32.md); official file https://www.senat.ro/legis/PDF/2020/20L515CR.PDF
