@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2020-09-02: registered at the Chamber of Deputies
 - 2020-09-09: documents published: Aviz comisie
 - 2020-09-17: documents published: Raport comisie sesizată pe fond
+- 2020-09-22: adopted by the Chamber of Deputies; documents published: Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Guvernul României.
 - 2020-08-18: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L579HG.PDF
 - 2020-09-09: Aviz comisie (CA8): [ca8-00c3b9db.md](ca8-00c3b9db.md); official file https://www.senat.ro/legis/PDF/2020/20L579CA8.PDF
 - 2020-09-17: Raport comisie sesizată pe fond (CR): [cr-0271ef79.md](cr-0271ef79.md); official file https://www.senat.ro/legis/PDF/2020/20L579CR.PDF
+- 2020-09-22: Forma trimisă la promulgare (LP): [lp-58043584.md](lp-58043584.md); official file https://www.senat.ro/legis/PDF/2020/20L579LP.PDF
