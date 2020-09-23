@@ -1,0 +1,6 @@
+# ANEXĂ
+CALENDARUL de organizare și desfășurare a examenului național de definitivare în învățământ în anul școlar 2020-2021 până la 8.10.2020 Emiterea deciziilor de constituire a comisiilor de examen județene/Comisiei de examen a municipiului București până la 15.10.2020 Înscrierea candidaților la unitățile de învățământ 16.10-30.10.2020
+Transmiterea dosarelor de înscriere la inspectoratul școlar, verificarea și avizarea acestora, conform graficului elaborat și comunicat de inspectoratul școlar
+Înștiințarea candidaților cu privire la admiterea sau respingerea dosarului de înscriere până la 4.06.2021 Efectuarea inspecțiilor de specialitate: prima inspecție în primul semestru, a doua inspecție în al doilea semestru de școală 7.06-18.06.2021 Completarea dosarelor și validarea datelor de înscriere existente în aplicația electronică 14.07.2021 Susținerea probei scrise 21.07.2021 Afișarea rezultatelor 21.07-22.07.2021 Înregistrarea contestațiilor 22.07-28.07.2021 Soluționarea contestațiilor 28.07.2021 Afișarea rezultatelor finale 28.07-2.08.2021
+Transmiterea tabelelor nominale cu rezultatele candidaților promovați către Ministerul Educației și Cercetării 2.08-9.08.2021 Validarea rezultatelor examenului prin ordin al ministrului educației și cercetării
+-----
