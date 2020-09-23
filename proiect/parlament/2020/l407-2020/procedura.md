@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: registered at the Chamber of Deputies
 - 2020-09-02: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-04: sent for promulgation
+- 2020-09-23: promulgated, becomes Legea nr. 208/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-0fca19d8.md](am-0fca19d8.md); official file https://www.senat.ro/legis/PDF/2020/20L407AM.PDF
 - 2020-09-02: Adresă privind sesizarea CCR (AXS): [axs-89adcf3b.md](axs-89adcf3b.md); official file https://www.senat.ro/legis/PDF/2020/20L407AXS.PDF
 - 2020-09-02: Forma trimisă la promulgare (LP): [lp-ab23a50d.md](lp-ab23a50d.md); official file https://www.senat.ro/legis/PDF/2020/20L407LP.PDF
+- 2020-09-23: Decret de promulgare (DP): [dp-1446f7d9.md](dp-1446f7d9.md); official file https://www.senat.ro/legis/PDF/2020/20L407DP.PDF
+- 2020-09-23: Adresă privind forma promulgată (AFP): [afp-5ea4404d.md](afp-5ea4404d.md); official file https://www.senat.ro/legis/PDF/2020/20L407AFP.PDF
+- 2020-09-23: Forma promulgată (FP): [fp-e3309c61.md](fp-e3309c61.md); official file https://www.senat.ro/legis/PDF/2020/20L407FP.PDF
