@@ -1,0 +1,16 @@
+# Anexa nr. 12
+- Model -
+Notă explicativă
+Subsemnatul(a),..................................., în calitate de................... la........................, domiciliat(ă) în..................................., str........................ nr......., bl......., sc......., et......, ap........, tel........................., legitimat(ă) cu C.I./B.I. seria............. nr........................, eliberată/eliberat de..................... la data de........................, C.N.P...................................., la întrebările puse de............................................ având funcțiile de...................... în cadrul......................................................................, (Direcției generale de inspecție economico-financiară/Direcției Generale Regionale a Finanțelor Publice............................/ Direcției generale de administrare a marilor contribuabili) în temeiul dispozițiilor art. 8 alin. (1) lit. d) și art. 24 alin. (1) lit. d) din Ordonanța de urgență a Guvernului nr. 94/2011 privind organizarea și funcționarea inspecției economico-financiare, aprobată cu modificări și completări prin Legea nr. 107/2012, cu modificările ulterioare, precum și în baza prevederilor art. 15 alin. (1) și (2) din Normele metodologice privind înființarea, organizarea și funcționarea inspecției economico-financiare, aprobate prin Hotărârea Guvernului nr. 101/2012, dau următoarele explicații: 1.
+Întrebare:....................................................... 1.
+Răspuns:................................................
+.. n.
+Întrebare:............................................... n.
+Răspuns:......................................................
+Dacă mai aveți ceva de adăugat.
+Răspuns:...................................................................
+Data........................
+Numele și prenumele, funcția și semnătura.............................................................
+Dată în fața noastră
+Echipa de inspecție economico-financiară,..................................................................... (numele și prenumele, funcția și semnătura aplicată pe fiecare pagină)
+Nota explicativă se întocmește într-un exemplar, care se anexează la raportul de inspecție economico-financiară, nota unilaterală, procesul-verbal sau raportul de urmărire a îndeplinirii măsurilor dispuse, după caz.

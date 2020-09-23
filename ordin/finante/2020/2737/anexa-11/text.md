@@ -1,0 +1,17 @@
+# Anexa nr. 11
+- Model -
+MINISTERUL FINANȚELOR PUBLICE/MINISTERUL FINANȚELOR PUBLICE - AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+Organul de inspecție economico-financiară (Direcția generală de inspecție economico-financiară/Direcția Generală Regională a Finanțelor Publice......./Direcția generală de administrare a marilor contribuabili)
+Nr. de înregistrare.....................
+Data..................
+Organul de cercetare penală Domnului/Doamnei........................................ (numele și prenumele, funcția)
+Adresa...............................................................
+Stimată doamnă/Stimate domnule....................................,
+Ca urmare a efectuării de către................................................ (organul de inspecție economico-financiară) a unei acțiuni de inspecție economico-financiară la..................................., având sediul social................................... și codul de înregistrare fiscală..................................., în respectarea obligației prevăzute de art. 20 alin. (1) din Ordonanța de urgență a Guvernului nr. 94/2011 privind organizarea și funcționarea inspecției economico-financiare, aprobată cu modificări și completări prin Legea nr. 107/2012, cu modificările ulterioare, și de art. 61 alin. (1) lit. a) din Legea nr. 135/2010 privind Codul de procedură penală, cu modificările și completările ulterioare, vă transmitem un exemplar al Procesului-verbal nr...................................., comunicându-vă totodată că, drept urmare a verificărilor efectuate, au fost constatate fapte care ar putea întruni elementele constitutive ale unor infracțiuni, prezentate succint în prezenta sesizare, detaliate și argumentate în Procesul-verbal nr...................................., respectiv:..........................................................
+Fapta/Faptele descrisă/descrise mai sus poate/pot întruni elementele constitutive ale infracțiunii/infracțiunilor prevăzute și sancționate de art............... din..................................., art................. din.........................,................................
+Vă rugăm, stimată doamnă/stimate domnule..................................., ca, în situația în care fapta/faptele descrisă/descrise mai sus nu întrunește/întrunesc elementele constitutive ale infracțiunilor prevăzute și sancționate de prevederile legale invocate de către organul de control, să dispuneți încadrarea corectă a acesteia/acestora, în respectarea prevederilor art. 7 alin. (1) și art. 8 din Legea nr. 135/2010, cu modificările și completările ulterioare.
+Conducătorul organului de inspecție economico-financiară,.................................................................. (numele și prenumele, funcția, semnătura aplicată pe fiecare pagină și ștampila)
+Șef serviciu,................................................................... (numele și prenumele, funcția și semnătura aplicată pe fiecare pagină)
+Șef birou (în cazul direcției generale regionale a finanțelor publice, după caz),................................................................... (numele și prenumele, funcția și semnătura aplicată pe fiecare pagină)
+Echipa de inspecție economico-financiară,................................................................... (numele și prenumele, funcția și semnătura aplicată pe fiecare pagină)
+Sesizarea penală se întocmește în două exemplare, din care un exemplar se transmite la organul competent de cercetare penală și un exemplar rămâne la organul de inspecție economico-financiară.

@@ -1,0 +1,8 @@
+# Anexa nr. 14
+- Model -
+DECLARAȚIE
+Subsemnatul(a),.............................., în calitate de.................. la......................, legitimat(ă) cu C.I./B.I. seria.......... nr....................., eliberată/eliberat de............... la data de.................., în calitate de reprezentant legal al..................., cu domiciliul fiscal în......................., str..................... nr......., bl....., sc........, et........, ap..........., tel....................., județul/sectorul...................., având codul de identificare fiscală......................, declar pe propria răspundere sub sancțiunea faptei de fals în declarații, prevăzută de dispozițiile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, următoarele: - am pus la dispoziția echipei de inspecție economico-financiară toate documentele și informațiile solicitate;
+- toate documentele solicitate și puse la dispoziție au fost restituite.
+Drept care am dat prezenta declarație, întocmită în două exemplare, din care un exemplar a rămas în posesia mea și un exemplar a fost predat echipei de inspecție economico-financiară, în conformitate cu prevederile art. 17 alin. (1) din Normele metodologice privind înființarea, organizarea și funcționarea inspecției economico-financiare, aprobate prin Hotărârea Guvernului nr. 101/2012.
+Data............................................................................................................................... (numele și prenumele, funcția și semnătura)
+Declarația se anexează la raportul de inspecție economico-financiară, nota unilaterală, procesul-verbal sau raportul de urmărire a îndeplinirii măsurilor dispuse.
