@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-31: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-09-16: documents published: Aviz comisie
 - 2020-09-17: documents published: Aviz comisie
+- 2020-09-23: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-31: Aviz Consiliul Legislativ (LG): [lg-7af75540.md](lg-7af75540.md); official file https://www.senat.ro/legis/PDF/2020/20L576LG.PDF
 - 2020-09-16: Aviz comisie (CA3): [ca3-3ad2e5f3.md](ca3-3ad2e5f3.md); official file https://www.senat.ro/legis/PDF/2020/20L576CA3.PDF
 - 2020-09-17: Aviz comisie (CA14): [ca14-ad3584e7.md](ca14-ad3584e7.md); official file https://www.senat.ro/legis/PDF/2020/20L576CA14.PDF
+- 2020-09-23: Aviz comisie (CA44): [ca44-c565c399.md](ca44-c565c399.md); official file https://www.senat.ro/legis/PDF/2020/20L576CA44.PDF
