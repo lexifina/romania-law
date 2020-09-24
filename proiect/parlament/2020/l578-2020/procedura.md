@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-09-16: documents published: Aviz comisie
 - 2020-09-17: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2020-09-22: adopted by the Chamber of Deputies; documents published: Forma trimisă la promulgare, Aviz comisie
+- 2020-09-24: sent for promulgation
 
 ## Documents
 
