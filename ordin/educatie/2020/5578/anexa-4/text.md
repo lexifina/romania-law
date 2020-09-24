@@ -1,0 +1,16 @@
+# Anexa nr. 3
+Avizat CLDPS
+Președinte/Vicepreședinte,........................ (numele și prenumele)
+Semnătura..........................
+Avizat CNDIPT
+Inspector,......................... (numele și prenumele)
+Semnătura.......................
+Proiectul cifrei de școlarizare în învățământul dual pentru anul școlar 2021-2022, din județul....................
+Nr. crt. Denumirea operatorului economic Persoana de contact din partea operatorului economic Date de contact: adresa de e-mail, nr. de telefon Solicitarea de școlarizare Repartizarea cifrei de școlarizare în învățământul dual
+Domeniul de pregătire
+Calificarea profesională Numărul de locuri solicitate Numărul de locuri Gradul de satisfacere al solicitărilor Unitatea de învățământ Observații^1)
+Total ^1) Se completează cu argumente în cazul în care numărul de locuri din propunerea de ofertă de școlarizare nu satisface integral solicitarea de școlarizare din partea operatorilor economici.
+Inspector școlar general,........................... (numele și prenumele)
+Semnătura.........................
+Inspector școlar pentru învățământul profesional și tehnic,................................ (numele și prenumele)
+Semnătura..........................
