@@ -1,0 +1,247 @@
+{
+ "key": "iccj-ril-14-2020",
+ "label": "Decizia ÎCCJ nr. 14/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "14",
+ "date": "2020-06-22",
+ "year": "2020",
+ "heading": "DECIZIA nr. 14 din 22 iunie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 472 și art. 491 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "875",
+  "bis": false,
+  "date": "2020-09-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "957/1/2020",
+  "16.854/196/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "491",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Galați și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 472 ș i art. 491 din Codul de procedură civilă, apelul sau recursul incident nu poate fi limitat la obiectul apelului sau recursului principal, ci poate viza orice alte soluții cuprinse în dispozitivul hotărârii atacate și/sau considerentele acesteia.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "472",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "491",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "467",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "469",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "474",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "316",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 81
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-09-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230442",
+  "text_sha256": "34690481b13b7a22b0f7813085c5bee5ae16e8d2c261e4ba110658aec779234d",
+  "catalogue_sha256": "34690481b13b7a22b0f7813085c5bee5ae16e8d2c261e4ba110658aec779234d",
+  "fetched": "2026-11-03T01:57:40Z",
+  "chars": 86770,
+  "portal_id": "230442",
+  "tip": "DECIZIE"
+ }
+}
