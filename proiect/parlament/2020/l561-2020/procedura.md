@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-03: documents published: Aviz comisie
 - 2020-09-07: sent for promulgation
+- 2020-09-25: promulgated, becomes Legea nr. 210/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: Adresă privind sesizarea CCR (AXS): [axs-1f89f96f.md](axs-1f89f96f.md); official file https://www.senat.ro/legis/PDF/2020/20L561AXS.PDF
 - 2020-09-02: Forma trimisă la promulgare (LP): [lp-89c6a194.md](lp-89c6a194.md); official file https://www.senat.ro/legis/PDF/2020/20L561LP.PDF
 - 2020-09-03: Aviz comisie (CA14): [ca14-31dd5f6e.md](ca14-31dd5f6e.md); official file https://www.senat.ro/legis/PDF/2020/20L561CA14.PDF
+- 2020-09-25: Decret de promulgare (DP): [dp-1815d0ad.md](dp-1815d0ad.md); official file https://www.senat.ro/legis/PDF/2020/20L561DP.PDF
+- 2020-09-25: Adresă privind forma promulgată (AFP): [afp-d9e73ad8.md](afp-d9e73ad8.md); official file https://www.senat.ro/legis/PDF/2020/20L561AFP.PDF
+- 2020-09-25: Forma promulgată (FP): [fp-ac6c4d01.md](fp-ac6c4d01.md); official file https://www.senat.ro/legis/PDF/2020/20L561FP.PDF
