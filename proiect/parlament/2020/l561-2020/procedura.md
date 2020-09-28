@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-03: documents published: Aviz comisie
 - 2020-09-07: sent for promulgation
 - 2020-09-25: promulgated, becomes Legea nr. 210/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-09-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-25: Decret de promulgare (DP): [dp-1815d0ad.md](dp-1815d0ad.md); official file https://www.senat.ro/legis/PDF/2020/20L561DP.PDF
 - 2020-09-25: Adresă privind forma promulgată (AFP): [afp-d9e73ad8.md](afp-d9e73ad8.md); official file https://www.senat.ro/legis/PDF/2020/20L561AFP.PDF
 - 2020-09-25: Forma promulgată (FP): [fp-ac6c4d01.md](fp-ac6c4d01.md); official file https://www.senat.ro/legis/PDF/2020/20L561FP.PDF
+- 2020-09-28: Document (AL): [al-87c86ab5.md](al-87c86ab5.md); official file https://www.senat.ro/legis/PDF/2020/20L561AL.PDF (its day is not given by the bill file: shown from the last stage held)
