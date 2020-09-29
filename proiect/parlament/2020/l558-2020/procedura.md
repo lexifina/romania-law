@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-16: documents published: Aviz comisie
 - 2020-09-17: documents published: Aviz comisie
 - 2020-09-21: documents published: Aviz comisie
+- 2020-09-29: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-17: Aviz comisie (CA14): [ca14-cca78b2d.md](ca14-cca78b2d.md); official file https://www.senat.ro/legis/PDF/2020/20L558CA14.PDF
 - 2020-09-17: Aviz comisie (CA45): [ca45-bf6f99e6.md](ca45-bf6f99e6.md); official file https://www.senat.ro/legis/PDF/2020/20L558CA45.PDF
 - 2020-09-21: Aviz comisie (CA8): [ca8-c1c1b953.md](ca8-c1c1b953.md); official file https://www.senat.ro/legis/PDF/2020/20L558CA8.PDF
+- 2020-09-29: Aviz comisie (CA41): [ca41-b73b45fb.md](ca41-b73b45fb.md); official file https://www.senat.ro/legis/PDF/2020/20L558CA41.PDF
