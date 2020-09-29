@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-24: registered at the Chamber of Deputies
 - 2020-09-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-10: sent for promulgation
+- 2020-09-29: promulgated, becomes Legea nr. 211/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-06-16: Adresă către Camera Deputaților (AM): [am-42e06a43.md](am-42e06a43.md); official file https://www.senat.ro/legis/PDF/2020/20L351AM.PDF
 - 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-4f35eff8.md](axs-4f35eff8.md); official file https://www.senat.ro/legis/PDF/2020/20L351AXS.PDF
 - 2020-09-08: Forma trimisă la promulgare (LP): [lp-5d44ba77.md](lp-5d44ba77.md); official file https://www.senat.ro/legis/PDF/2020/20L351LP.PDF
+- 2020-09-29: Decret de promulgare (DP): [dp-2dc0e92c.md](dp-2dc0e92c.md); official file https://www.senat.ro/legis/PDF/2020/20L351DP.PDF
+- 2020-09-29: Adresă privind forma promulgată (AFP): [afp-2725e5e7.md](afp-2725e5e7.md); official file https://www.senat.ro/legis/PDF/2020/20L351AFP.PDF
+- 2020-09-29: Forma promulgată (FP): [fp-34592cd7.md](fp-34592cd7.md); official file https://www.senat.ro/legis/PDF/2020/20L351FP.PDF
