@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-31: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2020-09-07: documents published: Aviz comisie
+- 2020-09-30: registered at the Chamber of Deputies
 
 ## Documents
 
