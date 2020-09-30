@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-08: registered at the Chamber of Deputies
 - 2020-09-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-14: sent for promulgation
+- 2020-09-30: promulgated, becomes Legea nr. 213/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L313AM.PDF
 - 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-987286da.md](axs-987286da.md); official file https://www.senat.ro/legis/PDF/2019/19L313AXS.PDF
 - 2020-09-08: Forma trimisă la promulgare (LP): [lp-db9efee8.md](lp-db9efee8.md); official file https://www.senat.ro/legis/PDF/2019/19L313LP.PDF
+- 2020-09-30: Decret de promulgare (DP): [dp-de16e6f4.md](dp-de16e6f4.md); official file https://www.senat.ro/legis/PDF/2019/19L313DP.PDF
+- 2020-09-30: Adresă privind forma promulgată (AFP): [afp-db58f40b.md](afp-db58f40b.md); official file https://www.senat.ro/legis/PDF/2019/19L313AFP.PDF
+- 2020-09-30: Forma promulgată (FP): [fp-2af87758.md](fp-2af87758.md); official file https://www.senat.ro/legis/PDF/2019/19L313FP.PDF
