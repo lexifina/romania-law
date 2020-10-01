@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-501-19-concluzii-2020-10-01",
+ "label": "CJUE, Concluziile avocatului general J. Richard de la Tour prezentate la 1 octombrie 2020, Cauza C-501/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2020-10-01",
+ "year": "2020",
+ "case": "Cauza C-501/19.",
+ "celex": "62019CC0501",
+ "ecli": "ECLI:EU:C:2020:766",
+ "heading": "Concluziile avocatului general J. Richard de la Tour prezentate la 1 octombrie 2020",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casație și Justiție.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Fiscalitate – Taxa pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 2 alineatul (1) litera (c), articolul 24 alineatul (1) și articolul 25 litera (a) – Operațiuni impozabile – Remunerații pentru comunicarea publică de opere muzicale – Articolul 28 – Organism de gestiune colectivă a drepturilor de autor – Percepere a acestor remunerații de la consumatorul final în nume propriu și în contul titularilor de drepturi de autor.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0501",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-501/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/fcfbdcce-03cf-11eb-a511-01aa75ed71a1.0022.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "0242f8279f68c1fa96e24ca781b7bbba1172441076fd6942f54d9359d7ed9f61"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
