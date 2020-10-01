@@ -1,0 +1,16 @@
+# Anexa nr. 5 la procedură
+CERERE de solicitare a programării în vederea punerii în funcțiune a instalației de utilizare a gazelor naturale (model-cadru)
+Nr. de înregistrare ziua/luna/anul (OE)
+Nr. de înregistrare ziua/luna/anul (P/OTS/OD)
+Către.........(denumirea P/OTS/OD)...........
+Subsemnatul,.......(numele și prenumele)......., reprezentant legal al..............(denumirea OE autorizat de ANRE)..........., cu sediul în localitatea................................, str..................................... nr........, ap...., sc........, et....., județul..............., tel................., fax...., e-mail.............., vă solicităm programarea punerii în funcțiune a instalației de utilizare a gazelor naturale executate în imobilul amplasat în localitatea....................., județul/sectorul........., str................... nr......, bl........, sc........, et........, ap........., codul poștal..............., beneficiar.........(numele și prenumele).......
+Instalația de utilizare a gazelor naturale cu presiunea egală sau mai mică de 10. 10^5 Pa (10 bari), respectiv p ≤ 10. 10^5 Pa (10 bari) a fost executată în baza Proiectului tehnic nr..................................... din...................................., verificat de verificator de proiecte atestat......(numele și prenumele)....., Atestat nr..............., și a fost recepționată tehnic la data de............ cu Procesul-verbal de recepție tehnică nr................./data...........
+Anexăm prezentei cereri următoarele documente conforme cu originalul: a) procesul-verbal de recepție tehnică a instalației de utilizare a gazelor naturale cu presiunea egală sau mai mică de 10. 10^5 Pa (10 bari), respectiv p ≤ 10. 10^5 Pa (10 bari), și procesul-verbal de lucrări ascunse, dacă este cazul;
+b) schema izometrică a instalației de utilizare a gazelor naturale cu presiunea egală sau mai mică de 10. 10^5 Pa (10 bari), respectiv p ≤ 10. 10^5 Pa (10 bari); aceasta se transmite doar în situația solicitării programării la OD;
+c) documentul primit de la beneficiar emis de furnizorul de gaze naturale, care atestă existența unui contract de furnizare a gazelor naturale pentru imobilul menționat mai sus, încheiat cu beneficiarul; acest document se prezintă doar în situația în care este necesară montarea echipamentului/sistemului de măsurare a gazelor naturale;
+d) dovada achitării tarifului aferent punerii în funcțiune a instalației de utilizare a gazelor naturale.
+Originalele documentelor prevăzute anterior sunt prezentate P/OTS/OD, de către executant, la data punerii în funcțiune a instalației de utilizare a gazelor naturale: a) la locul de consum, în situația în care se montează echipamentul/sistemul de măsurare a gazelor naturale;
+b) la sediul P/OTS/OD, în situația în care nu este necesară montarea echipamentului/sistemului de măsurare a gazelor naturale.
+Documentele prevăzute anterior se transmit prin poșta electronică sau prin canale electronice puse la dispoziție de P/OTS/OD, respectiv..................................................
+Reprezentant legal al...................................................................... (denumirea operatorului economic autorizat de ANRE).......................................... (numele și prenumele).................................... (semnătura)
+Data.....................
