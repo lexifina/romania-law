@@ -1,0 +1,22 @@
+# Proiect de lege L617/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 162/2022 (`legea-162-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.167/2020 privind unele măsuri pentru susținerea activităţii unor aeroporturi regionale, în contextul crizei economice generată de pandemia COVID-19 și pentru modificarea și completarea Ordonanţei de urgenţă a Guvernului nr.139/2020 privind instituirea cadrului legal pentru acordarea unor ajutoare de stat Societăţii "Compania naţională de transporturi aeriene române – TAROM" - S.A. şi Societăţii Blue Air Aviation - S.A. pentru compensarea pierderilor economice suferite în contextul pandemiei de COVID-19
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-10-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-10-02: Adresă de înaintare a inițiativei (AD): [ad-63804b81.md](ad-63804b81.md); official file https://www.senat.ro/legis/PDF/2020/20L617AD.PDF
+- 2020-10-02: Forma inițiatorului (FG): [fg-f59e83ac.md](fg-f59e83ac.md); official file https://www.senat.ro/legis/PDF/2020/20L617FG.PDF
+- 2020-10-02: Expunere de motive (EM): [em-ba135672.md](em-ba135672.md); official file https://www.senat.ro/legis/PDF/2020/20L617EM.PDF
+- 2020-10-02: Aviz Consiliul Legislativ (LG): [lg-e4fb97f8.md](lg-e4fb97f8.md); official file https://www.senat.ro/legis/PDF/2020/20L617LG.PDF
+- 2020-10-02: Document (OG): [og-6d3fb7a1.md](og-6d3fb7a1.md); official file https://www.senat.ro/legis/PDF/2020/20L617OG.PDF
+- 2020-10-02: Document (HG): [hg-ac9beecb.md](hg-ac9beecb.md); official file https://www.senat.ro/legis/PDF/2020/20L617HG.PDF
