@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-07-13: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-09-02: documents published: Aviz comisie
+- 2020-10-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-13: Aviz Consiliul Economic și Social (ES): [es-c3430327.md](es-c3430327.md); official file https://www.senat.ro/legis/PDF/2020/20L526ES.PDF
 - 2020-07-13: Aviz Consiliul Legislativ (LG): [lg-49951c1f.md](lg-49951c1f.md); official file https://www.senat.ro/legis/PDF/2020/20L526LG.PDF
 - 2020-09-02: Aviz comisie (CA3): [ca3-43ecd217.md](ca3-43ecd217.md); official file https://www.senat.ro/legis/PDF/2020/20L526CA3.PDF
+- 2020-10-03: Forma adoptată de Senat (FS): [fs-6e18eb39.md](fs-6e18eb39.md); official file https://www.senat.ro/legis/PDF/2020/20L526FS.PDF
+- 2020-10-03: Adresă către Camera Deputaților (AM): [am-782c3840.md](am-782c3840.md); official file https://www.senat.ro/legis/PDF/2020/20L526AM.PDF
