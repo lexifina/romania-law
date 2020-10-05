@@ -1,0 +1,184 @@
+{
+ "key": "dcc-645-2020",
+ "label": "Decizia CCR nr. 645/2020",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "645",
+ "date": "2020-09-24",
+ "year": "2020",
+ "heading": "DECIZIA nr. 645 din 24 septembrie 2020",
+ "subtitle": "asupra obiecției de neconstituționalitate a Legii pentru respingerea Ordonanței de urgență a Guvernului nr. 91/2019 privind desființarea Institutului Revoluției Române din Decembrie 1989",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "902",
+  "bis": false,
+  "date": "2020-10-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru respingerea Ordonanței de urgență a Guvernului nr. 91/2019",
+    "number": "91",
+    "year": "2019",
+    "path": "lege/2019/91"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, sesizarea de neconstituționalitate formulată de Guvernul României și constată că Legea pentru respingerea Ordonanței de urgență a Guvernului nr. 91/2019 privind desființarea Institutului Revoluției Române din Decembrie 1989 este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru respingerea Ordonanței de urgență a Guvernului nr. 91/2019",
+    "number": "91",
+    "year": "2019",
+    "path": "lege/2019/91"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 91/2019",
+    "number": "91",
+    "year": "2019",
+    "path": "oug/2019/91"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-10-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230622",
+  "text_sha256": "71e4eeaedf07be723fa756404d27d1b7e910aec56a78f8108421fe2fdf75554b",
+  "catalogue_sha256": "71e4eeaedf07be723fa756404d27d1b7e910aec56a78f8108421fe2fdf75554b",
+  "fetched": "2026-11-03T01:57:31Z",
+  "chars": 18405,
+  "portal_id": "230622",
+  "tip": "DECIZIE"
+ }
+}
