@@ -1,0 +1,167 @@
+{
+ "key": "iccj-hp-penal-22-2020",
+ "label": "Decizia ÎCCJ nr. 22/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "22",
+ "date": "2020-07-09",
+ "year": "2020",
+ "heading": "DECIZIA nr. 22 din 9 iulie 2020",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: \"În cazul în care o infracțiune (A) este concurentă atât cu infracțiunea ce reprezintă primul termen (B), cât și cu infracțiunea ce reprezintă al doilea termen (C) al unei recidive postcondamnatorii, operațiunea de stabilire a pedepsei rezultante implică: 1) Aplicarea întâi a regulilor recidivei postcondamnatorii cu privire la pedepsele stabilite pentru infracțiunile (B) și (C), rezultanta fiind ulterior contopită, potrivit regulilor concursului de infracțiuni, cu pedeapsa stabilită pentru infracțiunea (A), concurentă atât cu infracțiunea (B), cât și cu infracțiunea (C)? sau 2) Aplicarea regulilor concursului de infracțiuni între pedepsele stabilite pentru infracțiunile (A) și (B), rezultantei fiindu-i aplicabile ulterior regulile recidivei postcondamnatorii prin raportare la pedeapsa stabilită pentru infracțiunea (C), considerând că intervenția recidivei duce la ruperea concurenței dintre infracțiunile (A) și (C)?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "907",
+  "bis": false,
+  "date": "2020-10-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "856/1/2020",
+  "12.265/299/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 12.265/299/2019, prin care se solicită pronunțarea unei hotărâri prealabile în vederea dezlegării de principiu a următoarei chestiuni de drept: „În cazul în care o infracțiune (A) este concurentă atât cu infracțiunea ce reprezintă primul termen (B), cât și cu infracțiunea ce reprezintă al doilea termen (C) al unei recidive postcondamnatorii, operațiunea de stabilire a pedepsei rezultante implică: 1) Aplicarea întâi a regulilor recidivei postcondamnatorii cu privire la pedepsele stabilite pentru infracțiunile (B) și (C), rezultanta fiind ulterior contopită, potrivit regulilor concursului de infracțiuni, cu pedeapsa stabilită pentru infracțiunea (A), concurentă atât cu infracțiunea (B), cât și cu infracțiunea (C)? sau 2) Aplicarea regulilor concursului de infracțiuni între pedepsele stabilite pentru infracțiunile (A) și (B), rezultantei fiindu-i aplicabile ulterior regulile recidivei postcondamnatorii prin raportare la pedeapsa stabilită pentru infracțiunea (C), considerând că intervenția recidivei duce la ruperea concurenței dintre infracțiunile (A) și (C)?“ Stabilește că, în cazul în care o infracțiune (A) este concurentă atât cu infracțiunea ce reprezintă primul termen (B), cât și cu infracțiunea ce reprezintă al doilea termen (C) al unei recidive postcondamnatorii, operațiunea de stabilire a pedepsei rezultante implică aplicarea regulilor concursului de infracțiuni între pedepsele stabilite pentru infracțiunile (A) și (B), rezultantei fiindu-i aplicate ulterior regulile recidivei postcondamnatorii prin raportare la pedeapsa stabilită pentru infracțiunea (C).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-10-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/230664",
+  "text_sha256": "0115cd8372f1b287b5fc60352a083ed4be8c04c7e3b522f50569df7f1f000f38",
+  "catalogue_sha256": "0115cd8372f1b287b5fc60352a083ed4be8c04c7e3b522f50569df7f1f000f38",
+  "fetched": "2026-11-03T01:57:28Z",
+  "chars": 34599,
+  "portal_id": "230664",
+  "tip": "DECIZIE"
+ }
+}
