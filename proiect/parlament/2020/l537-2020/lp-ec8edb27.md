@@ -1,0 +1,109 @@
+PARLAMENTUL ROMÂNIEI
+
+CAMERA DEPUTAȚILOR
+SENATUL
+
+L E G E
+
+pentru simplificarea și debirocratizarea transferului de
+părți sociale și a vărsării capitalului social prin modificarea Legii
+societăților nr. 31/1990
+
+Parlamentul României adoptă prezenta lege.
+
+Art. I. - Legea societăților nr. 31/1990, republicată în
+Monitorul Oficial al României, Partea I, nr. 1.066 din 17 noiembrie
+2004, cu modificările și completările ulterioare, se modifică după cum
+urmează:
+
+1. La articolul 11, alineatul (1) se modifică și va avea
+următorul cuprins:
+„(1) Capitalul social al unei societăți cu răspundere limitată se
+divide în părți sociale egale.”
+
+2. La articolul 17, alineatul (3) se modifică și va avea
+următorul cuprins:
+„(3) La înmatricularea societății și la schimbarea sediului social
+se va prezenta la sediul Oficiului Registrului Comerțului documentul
+care atestă dreptul de folosință asupra spațiului cu destinație de sediu
+social. După înregistrarea în registrul comerțului, Oficiul Registrului
+Comerțului transmite documentul care atestă dreptul de folosință asupra
+
+2
+spațiului cu destinație de sediu social la organul fiscal din cadrul
+Agenției Naționale de Administrare Fiscală în a cărui circumscripție se
+situează imobilul cu destinație de sediu social.ˮ
+
+3. La articolul 36, alineatul (2), litera b) se modifică și va
+avea următorul cuprins:
+„b) dovada efectuării vărsămintelor în condițiile actului
+constitutiv, cu excepția societăților cu răspundere limitată;”
+
+4. La articolul 61, alineatul (1) se modifică și va avea
+următorul cuprins:
+„(1) Creditorii sociali și orice alte persoane prejudiciate prin
+hotărârile asociaților privitoare la modificarea actului constitutiv pot
+formula o cerere de opoziție prin care să solicite instanței judecătorești
+să oblige, după caz, societatea sau asociații la repararea prejudiciului
+cauzat.”
+
+5. La articolul 62, alineatul (2) se modifică și va avea
+următorul cuprins:
+„(2) Opoziția se judecă în camera de consiliu, cu citarea
+părților, fiind aplicabile dispozițiile art. 202 din Codul de procedură
+civilă.ˮ
+
+6. La articolul 185, alineatele (4) și (5) se abrogă.
+
+7. La articolul 185, alineatul (6) se modifică și va avea
+urmatorul cuprins:
+„(6) Ministerul Finanțelor Publice și Oficiul Național al
+Registrului Comerțului vor încheia un protocol de colaborare, în vederea
+transmiterii, în format electronic, a copiilor și informațiilor prevăzute la
+alin. (3).ˮ
+
+8. La articolul 202, alineatul (2) se modifică și va avea
+următorul cuprins:
+„(2) Dacă actul constitutiv nu prevede altfel, transmiterea către
+persoane din afara societății este permisă numai dacă a fost aprobată de
+asociați reprezentând cel puțin trei pătrimi din capitalul social.ˮ
+
+3
+9. La articolul 202, alineatele (21)-(24) se abrogă.
+
+10. La articolul 203, alineatul (3) se abrogă.
+
+11. La articolul 204, alineatul (3) se modifică și va avea
+următorul cuprins:
+„(3) Dispozițiile art. 17 alin. (1) se aplică și în cazul schimbării
+denumirii.ˮ
+
+Art. II. - Se dispune actualizarea și corelarea prevederilor Legii
+societăților nr. 31/1990, republicată în Monitorul Oficial al României,
+Partea I, nr. 1.066 din 17 noiembrie 2004, cu modificările și
+completările ulterioare, cu dispozițiile Legii nr. 134/2010 privind Codul
+de procedură civilă. republicată în Monitorul Oficial al României, Partea
+I, nr. 247 din 10 aprilie 2015, cu modificările ulterioare.
+
+Art. III. - Legea societăților nr. 31/1990, republicată în
+Monitorul Oficial al României, Partea I, nr. 1.066 din 17 noiembrie
+2004, cu modificările și completările ulterioare, inclusiv cele aduse prin
+prezenta lege, se va republica în Monitorul Oficial al României, Partea I,
+dându-se textelor o nouă numerotare.
+
+4
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția
+României, republicată.
+
+p. PREȘEDINTELE
+CAMEREI  DEPUTAȚILOR
+p. PREȘEDINTELE
+SENATULUI
+
+FLORIN IORDACHE
+
+ROBERT - MARIUS CAZANCIUC
+
+București,
+Nr.
