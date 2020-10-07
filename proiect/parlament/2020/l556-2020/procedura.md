@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-08-18: documents published: Raport comisie sesizată pe fond
 - 2020-08-19: adopted by the Chamber of Deputies
 - 2020-08-20: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2020-10-07: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2020-08-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L556EM.PDF
 - 2020-08-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L556LG.PDF
 - 2020-08-20: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L556HG.PDF
+- 2020-10-07: Forma adoptată de Senat (FS): [fs-10a88250.md](fs-10a88250.md); official file https://www.senat.ro/legis/PDF/2020/20L556FS.PDF
