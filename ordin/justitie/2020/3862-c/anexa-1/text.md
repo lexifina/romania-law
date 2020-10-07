@@ -1,0 +1,12 @@
+# ANEXĂ
+CERERE de înscriere în vederea ocupării postului de..................................
+Domnule/Doamnă director,
+Subsemnatul/Subsemnata,........................................................................., fiul/fiica lui........................................................... și al/a............................, născut/ă în localitatea.........................., județul......................., în anul..........., luna................, ziua........, de cetățenie............................., cu domiciliul (reședința) în localitatea....................................., județul.............................., absolvent/ă al/a........................................................, cu diplomă de...................., specializarea....................................................., de profesie............................................................, salariat/ă la................................................., starea civilă................................., vă rog să îmi aprobați angajarea, pentru o durată determinată, ce nu poate depăși 30 de zile de la data încetării stării de alertă, pe postul de.................................................... la unitatea.................................................................. din poliția penitenciară.
+Am luat cunoștință și accept următoarele: - condițiile de selecționare, drepturile și obligațiile ce îmi revin;
+- dacă, în termen de 2 zile lucrătoare de la data angajării, renunț la post sau nu mă prezint la unitate, directorul unității poate dispune angajarea unui alt candidat pentru care comisia a formulat propunere de angajare.
+Îmi asum responsabilitatea asupra exactității datelor furnizate în prezenta cerere și sunt de acord cu prelucrarea informațiilor cu caracter personal, în conformitate cu prevederile Regulamentului (UE) 679/2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date.
+Sunt de acord ca Administrația Națională a Penitenciarelor și unitatea penitenciară angajatoare să prelucreze datele mele personale în scopul îndeplinirii formalităților de angajare pentru o durată determinată, ce nu poate depăși 30 de zile de la data încetării stării de alertă.
+Semnătura
+Data.............................................
+Date de contact.....................................................................
+-----
