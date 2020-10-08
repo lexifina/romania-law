@@ -1,0 +1,64 @@
+{
+ "key": "cjue-c-644-19-hotarare-2020-10-08",
+ "label": "CJUE, Hotărârea Curții (Camera a opta) din 8 octombrie 2020, Cauza C-644/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2020-10-08",
+ "year": "2020",
+ "case": "Cauza C-644/19",
+ "celex": "62019CJ0644",
+ "ecli": "ECLI:EU:C:2020:810",
+ "heading": "Hotărârea Curții (Camera a opta) din 8 octombrie 2020",
+ "formation": "CHAMB_08_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Alba Iulia",
+   "date": "2019-05-27",
+   "national_file": "1125669"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Alba Iulia",
+ "national_followup": [
+  "Curtea de Apel Alba Iulia, Sectia de contencios administrativ si fiscal, Încheiere din 24/02/2021 (ECLI:RO:CAALB:2021:059.000224)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica socială – Directiva 2000/78/CE – Egalitate de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă – Articolele 1, 2 și 3 – Directiva 1999/70/CE – Acordul‑cadru cu privire la munca pe durată determinată, încheiat între CES, UNICE și CEEP – Clauza 4 – Principiul nediscriminării – Măsură adoptată de o instituție universitară în cadrul aplicării dreptului național – Menținerea statutului de cadru didactic titular după împlinirea vârstei legale de pensionare – Posibilitate rezervată cadrelor didactice care au calitatea de conducător de doctorat – Cadre didactice care nu au această calitate – Contracte pe durată determinată – Remunerație inferioară celei acordate cadrelor didactice titulare",
+ "interprets": [
+  {
+   "celex": "31999L0070",
+   "folder": "ue/directiva/1999/70"
+  },
+  {
+   "celex": "32000L0078",
+   "folder": "ue/directiva/2000/78"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0644",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-644/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/e23bae33-0944-11eb-bc07-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "2ace7a46383f2fe70d423f4f4b4a83340103f90c7478fe84f32f42a987646c97"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a opta) declară:",
+  "1) Articolele 1 și 2 din Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă trebuie interpretate în sensul că nu se aplică unei reglementări naționale în temeiul căreia, între cadrele didactice ale unei instituții universitare care continuă să își exercite profesia după împlinirea vârstei legale de pensionare, doar cadrele didactice care au calitatea de conducător de doctorat își pot menține statutul de cadru didactic titular, în timp ce cadrele didactice care nu au calitatea de conducător de doctorat nu pot încheia cu această instituție decât contracte de muncă pe durată determinată, care au un regim de remunerare inferioară celei acordate cadrelor didactice titulare.",
+  "2) Clauza 4 punctul 1 din Acordul‑cadru cu privire la munca pe durată determinată, încheiat la 18 martie 1999, cuprins în anexa la Directiva 1999/70/CE a Consiliului din 28 iunie 1999 privind Acordul‑cadru cu privire la munca pe durată determinată, încheiat între CES, UNICE și CEEP, trebuie interpretată în sensul că se opune aplicării unei reglementări naționale în temeiul căreia, între cadrele didactice ale unei instituții universitare care continuă să își exercite profesia după împlinirea vârstei legale de pensionare, doar cadrele didactice care au calitatea de conducător de doctorat își pot menține statutul de cadru didactic titular, în timp ce cadrele didactice care nu au calitatea de conducător de doctorat nu pot încheia cu această instituție decât contracte de muncă pe durată determinată, care au un regim de remunerare inferioară celei acordate cadrelor didactice titulare, în măsura în care prima categorie de cadre didactice este compusă de lucrători pe durată nedeterminată comparabili cu cei din a doua categorie, iar diferența de tratament, care se manifestă îndeosebi prin regimul de remunerare menționat, nu este justificată de un motiv obiectiv, aspecte a căror verificare este de competența instanței de trimitere."
+ ]
+}
