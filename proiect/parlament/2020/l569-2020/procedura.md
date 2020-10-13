@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-16: documents published: Aviz comisie
 - 2020-09-17: documents published: Aviz comisie
 - 2020-09-21: documents published: Aviz comisie
+- 2020-10-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-16: Aviz comisie (CA3): [ca3-d4e00e8a.md](ca3-d4e00e8a.md); official file https://www.senat.ro/legis/PDF/2020/20L569CA3.PDF
 - 2020-09-17: Aviz comisie (CA16): [ca16-56a81a08.md](ca16-56a81a08.md); official file https://www.senat.ro/legis/PDF/2020/20L569CA16.PDF
 - 2020-09-21: Aviz comisie (CA1): [ca1-3d7913f7.md](ca1-3d7913f7.md); official file https://www.senat.ro/legis/PDF/2020/20L569CA1.PDF
+- 2020-10-13: Raport comisie sesizată pe fond (CR): [cr-5a20bf82.md](cr-5a20bf82.md); official file https://www.senat.ro/legis/PDF/2020/20L569CR.PDF
