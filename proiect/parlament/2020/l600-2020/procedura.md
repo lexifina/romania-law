@@ -9,9 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2020-09-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2020-10-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
 - 2020-09-08: Adresă de înaintare a inițiativei (AD): [ad-1016d583.md](ad-1016d583.md); official file https://www.senat.ro/legis/PDF/2020/20L600AD.PDF
 - 2020-09-08: Forma inițiatorului (FG): [fg-de0ea5c5.md](fg-de0ea5c5.md); official file https://www.senat.ro/legis/PDF/2020/20L600FG.PDF
 - 2020-09-08: Expunere de motive (EM): [em-987afba4.md](em-987afba4.md); official file https://www.senat.ro/legis/PDF/2020/20L600EM.PDF
+- 2020-10-13: Raport comisie sesizată pe fond (CR): [cr-bff71063.md](cr-bff71063.md); official file https://www.senat.ro/legis/PDF/2020/20L600CR.PDF
