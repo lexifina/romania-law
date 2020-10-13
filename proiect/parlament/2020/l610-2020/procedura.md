@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-09-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-09-14: documents published: Aviz Consiliul Legislativ
+- 2020-10-13: documents published: Aviz comisie
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: Forma inițiatorului (FG): [fg-f805bad5.md](fg-f805bad5.md); official file https://www.senat.ro/legis/PDF/2020/20L610FG.PDF
 - 2020-09-08: Expunere de motive (EM): [em-da1ca202.md](em-da1ca202.md); official file https://www.senat.ro/legis/PDF/2020/20L610EM.PDF
 - 2020-09-14: Aviz Consiliul Legislativ (LG): [lg-9119588c.md](lg-9119588c.md); official file https://www.senat.ro/legis/PDF/2020/20L610LG.PDF
+- 2020-10-13: Aviz comisie (CA12): [ca12-3224971b.md](ca12-3224971b.md); official file https://www.senat.ro/legis/PDF/2020/20L610CA12.PDF
