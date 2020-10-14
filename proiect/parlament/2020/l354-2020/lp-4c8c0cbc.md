@@ -1,0 +1,46 @@
+,
+~
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTAȚILOR
+SENATUL
+LEGE
+pentru
+modificarea
+și
+completarea
+art.
+1
+din
+Legea
+nr. 52/2011 privind exercitarea unor activități cu caracter ocazional
+desfășurate de zilieri
+Parlamentul României adoptă prezenta lege.
+Articol unic. — Articolul 1 din Legea nr. 52/2011 privind exercitarea
+unor activități cu caracter ocazional desfășurate de zilieri, republicată în Monitorul
+Oficial al României, Partea I, nr. 947 din 22 decembrie 2015, cu modificările și
+completările ulterioare, se modifică și se completează după cum urmează:
+1. La alineatul (1), litera b) Sc modifică și va avea următorul cuprins:
+„b) beneficiar de lucrări, denumit în continuare beneficiar — unitățile
+administrativ teritoriale, persoana juridică, persoana fizică autorizată,
+întreprinderea individuală, întreprinderea familială, pentru care zilierul
+desfașoară activită(i necalificate cu caracter ocazional;"
+2. La alineatul (3), litera a) se modifică și va avea următorul cuprins:
+„a) grădinilor botanice din subordinea universităților, pentru
+activitățile prevăzute la art. 13 alin. (1) lit. g) și i);"
+3. La alineatul (3), după litera e) se introduce o nouă literă, lit. f),
+cu următorul cuprins: `
+„f) unităților administrativ teritoriale;"
+
+‚V
+2
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția
+României, republicată.
+p. PREȘED1IýTEŁE
+CAMEREI DEPýJTAȚILOR
+p.PREȘEDINTELE
+SENATULUI
+FLORrN IORDACHE
+ROBERT-MARIUS CAZANCIUC
+București,
+Nr.
