@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a șasea) din 14 octombrie 2020, Cauza C-677/19
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+Principiul efectivității coroborat cu principiul cooperării loiale trebuie interpretat în sensul că nu se opune ca o reglementare a unui stat membru să stabilească, sub sancțiunea decăderii, un termen pentru introducerea cererilor de restituire a unor taxe considerate incompatibile cu dreptul Uniunii care are o durată de aproximativ un an și care începe să curgă de la intrarea în vigoare a acestei reglementări ce vizează remedierea încălcării dreptului menționat.
+Principiul echivalenței coroborat cu principiul cooperării loiale trebuie interpretat în sensul că se opune ca o reglementare a unui stat membru să stabilească, sub sancțiunea decăderii, un termen de aproximativ un an pentru introducerea cererilor de restituire a unor taxe considerate incompatibile cu dreptul Uniunii în condițiile în care un astfel de termen nu a fost prevăzut de acest stat membru în ceea ce privește cererile de restituire similare întemeiate pe o încălcare a dreptului intern.
