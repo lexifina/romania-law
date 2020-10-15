@@ -1,0 +1,22 @@
+# Proiect de lege L636/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 103/2022 (`legea-103-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.173/2020 privind reglementarea condițiilor pentru atribuirea și închirierea unor imobile, proprietate publică și privată a statului, aflate în administrarea Regiei Autonome "Administrația Patrimoniului Protocolului de Stat"
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-10-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-10-15: Adresă de înaintare a inițiativei (AD): [ad-534ac2af.md](ad-534ac2af.md); official file https://www.senat.ro/legis/PDF/2020/20L636AD.PDF
+- 2020-10-15: Forma inițiatorului (FG): [fg-424f8a22.md](fg-424f8a22.md); official file https://www.senat.ro/legis/PDF/2020/20L636FG.PDF
+- 2020-10-15: Expunere de motive (EM): [em-89808446.md](em-89808446.md); official file https://www.senat.ro/legis/PDF/2020/20L636EM.PDF
+- 2020-10-15: Aviz Consiliul Legislativ (LG): [lg-41fcba01.md](lg-41fcba01.md); official file https://www.senat.ro/legis/PDF/2020/20L636LG.PDF
+- 2020-10-15: Document (OG): [og-7ca7a7cf.md](og-7ca7a7cf.md); official file https://www.senat.ro/legis/PDF/2020/20L636OG.PDF
+- 2020-10-15: Document (HG): [hg-0861392c.md](hg-0861392c.md); official file https://www.senat.ro/legis/PDF/2020/20L636HG.PDF
