@@ -1,0 +1,270 @@
+{
+ "key": "dcc-680-2020",
+ "label": "Decizia CCR nr. 680/2020",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "680",
+ "date": "2020-09-30",
+ "year": "2020",
+ "heading": "DECIZIA nr. 680 din 30 septembrie 2020",
+ "subtitle": "asupra obiecției de neconstituționalitate a Legii pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internațional de trecere a frontierei Beba Veche (România) - Kubekhaza (Ungaria)",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "957",
+  "bis": false,
+  "date": "2020-10-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "765A/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internațional de trecere a frontierei Beba Veche (România) - Kubekhaza (Ungaria)"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată de Președintele României și constată că Legea pentru deschiderea de către Guvernul României a tratativelor diplomatice pentru încheierea unui acord cu Republica Ungaria privind deschiderea punctului internațional de trecere a frontierei Beba Veche (România) - Kubekhaza (Ungaria) este neconstituțională în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și Guvernului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/2005",
+    "number": "191",
+    "year": "2005",
+    "path": "lege/2005/191"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 590/2003",
+    "number": "590",
+    "year": "2003",
+    "path": "lege/2003/590"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "f",
+      "b"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 105/2001",
+    "number": "105",
+    "year": "2001",
+    "path": "oug/2001/105"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 368/2005",
+    "number": "368",
+    "year": "2005",
+    "path": "decret/2005/368"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-10-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231502",
+  "text_sha256": "506c6f12dd1a64c163e193c2cecabbdaded6dbd18d6ec41dff1749cda32605ea",
+  "catalogue_sha256": "506c6f12dd1a64c163e193c2cecabbdaded6dbd18d6ec41dff1749cda32605ea",
+  "fetched": "2026-11-03T01:56:56Z",
+  "chars": 39732,
+  "portal_id": "231502",
+  "tip": "DECIZIE"
+ }
+}
