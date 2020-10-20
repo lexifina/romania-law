@@ -1,0 +1,1189 @@
+5
+>
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTATILOR
+SENATUL
+LEGE
+privind utilizarea, conservarea §i protecfia solului
+ParlamentuI Romaniei adopta prezenta lege.
+CAPITOLULI
+Dispozifii generate
+Art. 1. - Prezenta lege reglementeaza activitatile privind
+utilizarea, conservarea, ameliorarea, evaluarea capacitatii bioproductive,
+bonitarea economica, protec^ia solului §i monitorizarea integrata a
+calita^ii solului, in contextul politicilor sectoriale pentru asigurarea
+utilizarii durabile a acestei resurse naturale neregenerabile.
+Art. 2. - (1) Obiectivul prezentei legi il constituie stabilirea
+cadrului unitar de masuri §i ac^iuni, pentru:
+a) prevenirea degradarii solului si a eventualelor schimbari
+daunatoare calitatii acestuia, in scopul evitarii dereglarilor/modificarii
+functiilor lui ecologice, si a conservarii patrimoniului pedologic si a
+obiectivelor de patrimoniu cultural;
+b) conservarea functiilor culturale, energetice, socio-economice
+ale solului in scopul utilizarii sale durabile;
+c) restaurarea §i refacerea terenurilor afectate de degradare ca
+urmare a eroziunii pluviale si eoliene, a deficitului sau a excesului de
+umiditate a scaderii confinutului de materie organica §i elemente
+
+2
+nutritive, a reducerii biodiversita^ii, compactarii, acidifierii, sodizarii,
+alcalinizarii, de§ertificarii a alunecarilor de teren si a terenurilor afectate
+de microorganismele de tipul virusilor, bacteriilor si fungilor periculosi;
+d) reducerea suprafefei terenurilor scoase din circuital agricol
+sau din alte categorii de folosinta neagricole prin optimizarea utilizarii la
+maximum a suprafe^elor aprobate prin planurile urbanistice;
+e)
+elaborarea planurilor pentru utilizarea, conservarea,
+ameliorarea, cre§terea calita^ii §i protecfia solului utilizand datele §i
+informa^iile ob^inute pentru realizarea sistemului national de
+monitorizare sol teren pentru agricultura, in special a celor referitoare la
+dezvoltarea agriculturii conservative.
+(2) Obiectivul prevazut la alin. (1) se realizeaza prin:
+a) cunoa§terea sistematica, permanenta, detaliata, cantitativa §i
+calitativa a solurilor, ca resursa naturala neregenerabila la nivelul
+fiecarei parcele cadastrale;
+b) asigurarea conservarii, ameliorarii §i protecfiei solului;
+c) asigurarea organizarii §i func^ionarii corespunzatoare a
+sistemului na|ional de monitorizare a calita^ii solului;
+d) monitorizarea evolu^iei starii de calitate a solului prin
+bonitarea economica a acestuia;
+e) identificarea zonelor de rise natural §i/sau antropic la :
+de§ertificare, eroziune, exces §i/sau deficit de umiditate, compactare,
+acidifiere, sodizare, alcalinizare, scaderea confinutului in materie
+organica §i elemente nutritive, reducerea biodiversitafii §i alunecari de
+teren, in vederea reducerii acestora;
+f) identificarea zonelor de rise la alunecari de teren pe baza
+studiilor pedologice §i a harfilor de rise §i hazard existente;
+g) bilanful elementelor nutritive, al materiei organice §i al
+reaefiei din sol in vederea stabilirii dozelor optime de ingra§aminte §i
+amendamente pentru tofi utilizatorii de teren, la nivel de parcela, in
+conformitate cu prevederile legale.
+Art. 3. - In sensul prezentei legi, termenii §i expresiile utilizate
+au semnificafia prevazuta in anexa care face parte integranta din
+prezenta lege.
+
+3
+Art. 4. - (1) Prevederile prezentei legi se aplica terenurilor
+de^inute sau utilizate in baza unui titlu, indiferent de categoria de
+folosin^a a terenului.
+(2) Prevederile prezentei legi nu se aplica siturilor potential
+contaminate si contaminate si terenurilor afectate de degradare in urma
+activita^ilor desfa§urate de structurile componente ale sistemului de
+aparare §i securitate nationals in domeniu, carora li se aplica prevederile
+legisla^iei specifice in vigoare.
+Art. 5. - Principiile care stau la baza utilizarii, conservarii §i
+protec^iei solului, au in vedere:
+a) rolul solului, ca parte componenta a mediului geologic, factor
+vital al ecosistemelor terestre, resursa naturala fundamentala;
+b) importanta solului, ca mediu de via^a pentru om, plante §i
+animale, pentru conservarea biodiversitalii §i a rezervei genetice
+prezente in sol;
+c) asigurarea securitatii alimentare si sigurantei alimentelor,
+materiilor prime alimentare si/sau flirajere;
+d) asigurarea pe termen lung a unui aport optim §i semnificativ
+al agriculturii, silviculturii §i al altor ramuri socio-economice care
+utilizeaza solul, la produsul intern brut;
+e)
+mentinerea, ameliorarea calitatii solului, prevenirea
+degradarii solului, stoparea de§ertificarii si inlaturarea poluantilor care
+pericliteaza calitatea solului cu respectarea legislatiei specifice in
+vigoare;
+f) protectia multifunctionalitatii solului, ecologica - economica
+- sociala, mentinerea, imbunatatirea §i conservarea biodiversitatii solului
+si a ecosistemelor;
+g) dezvoltarea spatiului rural in scopul utilizarii durabile si
+gestionarii eficiente a solurilor;
+h) asigurarea nemijlocita a participarii §i a sprijinului din partea
+statului, a societa^ii civile, a operatorilor economic! §i a fiecarui cetafean
+la elaborarea §i aplicarea masurilor §i ac^iunilor cu privire la modul de
+utilizare, conservare §i proteclie a solului;
+i)
+stimularea participarii directe, cu aport propriu, a
+proprietarilor §i a utilizatorilorde terenuri la implementarea masurilor §i
+actiunilor privind modul de utilizare, conservare §i protecf ie a solului;
+
+4
+j) elaborarea programelor, planurilor §i actiunilor de interes
+national, regional §i local privind utilizarea, conservarea §i protectia
+solului la care statul are rolul de initiator sau cofmantator;
+k) elaborarea programelor, planurilor §i masurilor de protectie,
+prevenire §i reducere a efectelor negative asupra solului la nivel
+national, regional §i local;
+l) identificarea activitatilor antropice cu efecte negative asupra
+solului din toate ecosistemele §i a zonelor de rise natural;
+m) elaborarea politicilor de amenajare §i utilizare a teritoriului,
+linand seama de necesitatea protejarii proprietalilor §i a functiilor
+solului;
+n) crearea sistemului institutional necesar pentru utilizarea,
+conservarea §i protectia solului §i asigurarea personalului de specialitate;
+o) educarea §i con§tientizarea societatii civile in problemele de
+utilizare, conservare §i protectie a solului pentru protejarea sanatatii
+umane §i asigurarea dezvoltarii durabile;
+p) dezvoltarea colaborarii intemationale pentru asigurarea
+realizarii programelor nationale de utilizare, conservare §i protectie a
+solului la standarde tehnico-economice §i ecologice;
+q) armonizarea legislatiei privind utilizarea, conservarea §i
+protectia solului cu reglementarile Uniunii Europene;
+r) patrimoniul arheologic din sol este proprietate publica
+indiferent de regimul juridic de proprietate al terenului unde s-ar afla
+acele bunuri.
+Art. 6. - Utilizarea, conservarea, ameliorarea, evaluarea
+capacitatii bioproductive, bonitarea economica, protectia solului §i
+monitorizarea integrate a calitatii solului, prin masuri specifice, in sensul
+prezentei legi, constituie obligatii ale autoritatilor administratiei publice
+centrale §i locale §i ale persoanelor fizice §i persoanelor juridice care detin
+sau utilizeaza cu orice titlu terenurile.
+Art. 7. - Statul garanteaza persoanelor fizice §i persoanelor
+juridice urmatoarele:
+a) accesul la informatii privind solul, cu respectarea conditiilor
+de confidentialitate prevazute de legislatia in vigoare;
+b) dreptul de asociere in organizatii pentru utilizare, conservare,
+monitorizare §i protectie a solului;
+
+5
+c) dreptul de a fi consulta^i cu privire la elaborarea §i
+dezvoltarea politicilor §i legislatiei privind solul, emiterea actelor de
+reglementare in domeniu, elaborarea planurilor §i programelor, in
+conformitate cu reglementarile in vigoare;
+d) dreptul de a se adresa, direct sau prin intermediul
+organizatiilor societa|ii civile, autoritatilor administratiei publice
+centrale, regionale, locale sau judecatore§ti in probleme de utilizare,
+conservare §i protec^ie a solului;
+e) dreptul la despagubire pentru prejudiciul suferit, dovedit §i
+evaluat potrivit prevederilor prezentei legi;
+f) efectuarea calculului valorilor despagubirilor de catre
+evaluatorii/expeitii funciari - imobiliari pe baza metodelor de evaluare
+atestate
+in baza Ghidului evaluatorului funciar din Romania §i a
+standardelor intema^ionale in vigoare.
+CAPITOLULII
+Structuri organizatorice specializate
+Art. 8. - Atributiile §i obliga^iile la nivel central §i teritorial in
+domeniul amenajarii teritoriului §i urbanismului, in care utilizarea,
+administrarea, conservarea §i protec^ia solului sunt elemente esen^iale de
+lucru §i revin autoritalii administratiei publice centrale din domeniul
+amenajarii teritoriului §i urbanismului.
+Art. 9. - (1) Atributiile §i obligatiile la nivel central privind
+implementarea politicii nationale referitoare la modul de utilizare,
+administrare, conservare §i protectie a solului revin autoritatii
+administratiei publice centrale pentru agricultura §i dezvoltare rurala si
+autoritatii administratiei publice centrale pentru protectia mediului.
+(2) Se infiinteaza Comitetul §tiintific pentru indrumarea si
+supravegherea desfasurarii tuturor activitatilor privind utilizarea,
+conservarea, ameliorarea, evaluarea capacitatii bioproductive, bonitarea
+economica, protectia solului si monitorizarea integrata a calitatii solului,
+denumit in continuare Comitet stiintific.
+(3) Comitetul stiintific este format din oameni de stiinta si
+specialisti cu experienta in domeniul utilizarii, conservarii, ameliorarii,
+evaluarii capacitatii bioproductive, bonitarii economice, protectiei si
+monitorizarii integrate a calitatii solului, din cadrul Academiei de §tiinle
+
+6
+Agricole §i Silvice „Gheorghe lonescu-§i§e§ti”, Institutului National de
+Cercetare-Dezvoltare pentru Pedologie, Agrochimie §i Protec^ia
+Mediului, universita^ile de stiinte agricole §i medicina veterinara §i
+reprezentanti din cadrul autoritatii administratiei publice centrale pentru
+agricultura §i dezvoltare rurala, autoritatii administratiei publice centrale
+pentru protectia mediului, autoritatii administratiei publice centrale
+pentru sanatate si autoritatii publice centrale din domeniul
+transporturilor.
+(4) Comitetul stiintific avizeaza la nivel central si teritorial
+planul de management privind atributiile si obligatiile pentru
+implementarea activitatilor referitoare la utilizarea, conservarea si
+protectia solului.
+(5) Componenta, organizarea, functionarea si atributiile
+Comitetului stiintific se aproba prin ordin comun al autoritatii
+administratiei publice centrale pentru agricultura si dezvoltare rurala si
+al autoritatii administratiei publice centrale pentru protectia mediului.
+(6) Atributiile §i obligatiile care revin autoritatii administratiei
+publice centrale pentru agricultura §i dezvoltare rurala se realizeaza prin
+urmatoarele institutii specializate:
+a) Institutul National de Cercetare-Dezvoltare pentru Pedologie,
+Agrochimie §i Protectia Mediului, denumit in continuare ICPA Bucure§ti,
+cu personalitate juridica, in subordinea autoritatii administratiei publice
+centrale care raspunde de cercetare;
+b) oficiile de studii pedologice §i agrochimice judetene,
+denumite in continuare OSPA, cu personalitate juridica, in subordinea
+autoritatii administratiei publice centrale pentru agricultura §i dezvoltare
+rurala §i coordonarea stiintifica a ICPA Bucure§ti. •
+(7) Atributiile si obligatiile care revin autoritatii administratiei
+publice centrale pentru protectia mediului, apelor si padurilor se
+realizeaza prin intermediul urmatoarelor institutii:
+a) Agenda Nationala pentru Protectia Mediului, denumita in
+continuare ANPM, institutie publica cu personalitate juridica, aflata in
+subordinea autoritatii administratiei publice centrale pentru protectia
+mediului, apelor si padurilor;
+b) Agenda Nationala pentru Arii Naturale Protejate, denumita
+in continuare ANANP, institutie publica cu personalitate juridica, aflata
+in subordinea autoritatii administratiei publice centrale pentru protectia
+mediului, apelor si padurilor.
+
+7
+(8) ICPA Bucure§ti are urmatoarele atribu^ii:
+a) realizeaza/reactualizeaza §i gestioneaza banca de date
+pedologice §i agrochimice la nivel national §i actualizeaza cartarile
+pedologice existente atat pe suport de hartie cat §i pe suport digital;
+b) asigura preluarea §i/sau reactualizarea studiilor pedologice §i
+a sistemelor judetene de monitorizare sol-teren;
+c) elaboreaza statistici §i propuneri de programe privind
+reabilitarea, refacerea §i amendarea solurilor in vederea imbunatalirii
+calitatii acestora §i realizeaza estimari bugetare pentru implementarea lor;
+d) realizeaza §i asigura fiinclionarea sistemului national de
+supraveghere, evaluare, prognoze §i avertizare privind efectele ecologice
+§i economice ale solului;
+e) elaboreaza masuri, programe §i proiecte care sa conduca la
+imbunatatirea calitatii mediului §i a peisajului, precum §i la sanatatea
+solului;
+f) realizeaza §i asigura functionarea unui program national de
+stabilire a clasei de calitate pe baza notei de bonitare pentru toate
+parcelele agricole indiferent de proprietar §i/sau utilizator;
+g) analizeaza propunerile §i avizeaza tehnico-§tiintific rapoartele
+privind extinderea planurilor urbanistice;
+h) colaboreaza cu autoritatea publica centrala in domeniul
+culturii, cu specialistii sau cu institutiile delegate de aceasta, in vederea
+monitorizarii si protejarii terenurilor cu obiective de patrimoniu cultural;
+i) constata §i propune masuri impotriva tuturor persoanelor
+fizice sau persoanelor juridice care produc daune sau degradeaza fondul
+flmciar;
+j) intocme§te §i actualizeaza anual baza de date la nivel national
+a terenurilor degradate §i a zonelor de rise la eroziune, exces sau deficit
+de umiditate, prin scaderea continutului de materie organica §i elemente
+nutritive, prin reducerea biodiversitatii, compactarea, acidifierea,
+sodizarea, alcalinizarea §i de§ertificarea, pe baza studiilor realizate de
+OSPA;
+k) elaboreaza proiecte de organizare §i sistematizare a
+terenurilor agricole in cadrul unitatii administrativ-teritoriale, pe care le
+pun la dispozitia primariilor ^kconsiliilor locale;
+l) urmare§te permanent optimizarea exploatatiilor agricole in
+scopul imbunatatirii eficidntei economice, cre§terii productiei §i
+imbunatatirii indicilor de calitfca productiilor agricole.
+
+8
+(9) OSPA are urmatoarele atributii:
+a) elaboreaza studii pedologice §i agrochimice, realizeaza §i
+reactualizeaza sistemele judetene de monitorizare sol-teren pentru
+agricultura;
+b) elaboreaza studiile agrochimice pentru utilizarea ra^ionala, .
+monitorizarea cantitativa §i calitativa a aplicarii ingra§amintelor
+minerale §i/sau organice, precum §i a amendamentelor;
+c) elaboreaza proiecte de organizare §i sistematizare a
+terenurilor agricole in cadrul unitalii administrativ-teritoriale, pe care le
+pun la dispozitia primariilor §i consiliilor locale;
+d) urmare§te permanent optimizarea exploatatiilor agricole in
+scopul imbunatatirii eficien^ei economice, cre§terii produc^iei §i
+imbunatatirii indicilor de calitate a productiilor agricole, prin realizarea
+documentelor/studiilor de evaluare, cercetari stiintifice, testari sau
+verificari ale calitatii produselor agricole in raport de calitatea solului, a
+apei de irigat, a fertilizarii si tratamentelor fitosanitare, ale tehnologiilor
+de productie pentru agricultura;
+e)
+propune §i participa la elaborarea si actualizarea
+metodologiilor de intocmire a studiilor pedologice §i agrochimice, a
+normelor §i reglementarilor specifice domeniului de activitate in ceea ce
+prive§te utilizarea, conservarea, ameliorarea §i protectia calitatii solului;
+f) stabile§te grupele de terenuri neproductive care pot fi
+amenajate in cadrul perimetrelor de ameliorare §i folosite pentru
+producjia agricola, inclusiv pentru recuperarea paji§tilor permanente
+scoase din circuitul agricol in conditiile legii, la propunerile inaintate de
+unita^ile administrativ-teritoriale;
+g) in baza studiilor efectuate propune §i stabile§te masurile §i
+lucrarile necesare pentru protectia §i ameliorarea terenurilor
+neproductive care pot fi amenajate in cadrul perimetrelor de ameliorare
+§i folosite pentru productia agricola, inclusiv pentru recuperarea
+paji§tilor permanente scoase din circuitul agricol in conditiile legii;
+h) elaboreaza studii, intocmeste §i actualizeaza anual baza de
+date la nivel judetean a terenurilor degradate §i a zonelor de rise la
+eroziune, exces sau deficit de umiditate, scaderea continutului de
+materie organica §i elemente nutritive, reducerea biodiversitatii,
+compactarea, sodizarea, alcalinizarea, acidifierea §i de§ertificarea;
+i) elaboreaza studii pedologice §i/sau agrochimice bonitarea
+terenurilor agricole pentru: incadrarea in clasa de calitate, concesionarea.
+
+9
+arendarea, comasarea parcelelor, schimbarea categoriei de folosin^a,
+scoaterea din circuitul agricol, redarea/introducerea in circuitul agricol;
+j) elaboreaza studii de specialitate §i/sau analize privind
+infiin^area planta^iilor, amenajarilor orizicole, legumicole piscicole,
+evaluare, prognoza, impact §i bilant de mediu pentru ob^inerea
+autoriza^iei de mediu;
+k) supravegheaza si propune masuri pentru protectia si
+restabilirea calitatii solului in cazul producerii de daune sau degradari
+ale solului, precum si a modului de utilizare a ingrasamintelor.
+(10) Studiile si masurile prevazute la alin.(9) lit.b), d), h), i) si j)
+se pot realiza de catre persoanele fizice autorizate sau persoanele
+juridice atestate pentru efectuarea studiilor privind calitatea solului, de
+autoritatea administratiei publice centrale pentru agricultura si
+dezvoltare rurala, conform legisla(iei in vigoare.
+(11) Persoanele fizice autorizate §i persoanele juridice care
+efectueaza studii in temeiul prezentei legi au obligatia sa le transmits
+autorita^ii administratiei publice centrale din domeniul agriculturii la
+solicitarea acesteia.
+(12) ICPA realizeaza §i actualizeaza, prin integrarea sistemelor
+judetene de date §i a studiilor elaborate de OSPA, banca de date aferenta
+pentru agricultura, statistic!, programe, proiecte privind evaluarea,
+utilizarea, conservarea, reabilitarea §i amendarea solurilor, pe care le
+comunica autoritatii administratiei publice centrale pentru agricultura si
+dezvoltare rurala, iar pentru alte institutii acestea se vor pune la
+dispozi(ie cu avizul acesteia.
+(13) Finantarea cheltuielilor pentru:
+a) activitalile prevazute la alin. (8) lit. a), b) §i j) §i alin, (9) lit. a),
+c), h) §i k) se asigura, anual, de la bugetul de stat sau local, precum §i
+din venituri proprii;
+b) activitatile prevazute la alin. (9) lit. b), d), e), f), g), i) si j) se
+asigura din venituri proprii realizate in baza contractelor incheiate cu
+beneficiarii acestor studii;
+c) realizarea/reactualizarea sistemului national si judetean de
+monitorizare sol-teren pentru agricultura, a sistemului national de
+monitoring a calitatii solului, precum si a bazei de date aferente, anual,
+se poate fmanta suplimentar si din Fondul de ameliorare al
+fondului fiinciar.
+
+10
+(14) Regulamentul de organizare si functionare, precum si
+normele de timp §i elementele de calculatie ale tarifelor pentm
+efectuarea studiilor de catre OSPA se aproba prin ordin al ministrului
+agriculturii si dezvoltarii rurale, in baza propunerilor acestor structuri,
+avizate de ICPA, in conformitate cu legislatia in vigoare.
+CAPITOLUL III
+Identificarea, investigarea si evaluarea zonelor de rise natural
+si a terenurilor degradate
+Art. 10. - (1) Autoritatile administratiei publice centrale
+competente, prin unitatile aflate in coordonare sau in subordine, dupa
+caz, identified zonele de rise la eroziune, exees sau defied de umiditate,
+seadere a eonfinutului de materie organiea §i elemente nutritive,
+redueere a biodiversitafii, introdueere aeeidentala de speeii noi in sol,
+preeum §i modifieare a eompozifiei §i a ealitafii solului in urma
+intervenfiei deliberate asupra eompozifiei paturii vegetale ee il aeopera,
+eompaetare, salinizare, aeidifiere §i de§ertifieare.
+(2) Autoritatile administratiei publiee eentrale partieipa la
+eoordonarea intoemirii §i aetualizarii anuale a bazei de date la nivel
+national a terenurilor degradate §i a zonelor de rise la eroziune, exees
+sau defied de umiditate, seaderea eon^inutului de materie organiea §i
+elemente nutritive, redueerea biodiversitatii, eompaetarea, sodizarea,
+alealinizarea, aeidifierea §i de§ertifiearea, in vederea asigurarii raportarii
+datelor privind ealitatea solului la Agenfia Europeans de Mediu,
+eonform legislafiei in vigoare.
+(3)
+Finantarea aetivdafilor de investigare, evaluare §i
+identifieare este asigurata de la bugetul de stat, prin bugetele autordafilor
+administratiilor publiee eentrale eompetente eare le administreaza, sau
+din fonduri exteme nerambursabile, prin proieete exeeutate de instituliile
+prevazute la art. 9 alin. (6) si (7) §i aprobate spre fmanfare in
+eonformitate eu regulile de implementare a aeestor fonduri.
+Art. 11. - Institufiile de speeialitate eentrale si loeale realizeaza
+investigarea §i evaluarea zonelor de rise natural §i/sau antropie §i a
+terenurilor degradate.
+
+11
+Art. 12. - (1) Pentru fiecare zona de rise natural §i/sau antropic
+identificata se stabilesc perimetrele afectate de procesele prevazute la
+art. 10 alin. (1).
+(2) Pentru fiecare zona de rise natural §i/sau antropic
+identificata/perimetm degradat se elaboreaza o documentatie specifica
+cuprinzand urmatoarele informatii:
+a) localizarea geografica a zonei de rise natural §i/sau
+antropic/perimetrul degradat;
+b) date privind clima §i precipitaliile din zona;
+c) date privind biodiversitatea din zona si geologia zonei unde
+este constatata degradarea prin diverse procese;
+d) date §i informalii pedologice locale;
+e) natura §i tipul degradarii;
+f) cauzele degradarii;
+g) evaluarea de rise;
+h) programe de masuri de restaurare specifice zonelor de rise
+natural §i/sau antropic identificate;
+i) informatii privind utilizarea in trecut, prezent §i viitor a
+terenurilor degradate care urmeaza sa constituie subiectul unui program
+de masuri de restaurare;
+j) obiectivele incluse in programele de masuri prevazute la lit. h),
+restric^ii impuse in zonele de rise natural §i antropic, programe de
+protec^ie §i de monitorizare necesare;
+k) existenta unor obiective de patrimoniu cultural.
+(3) Documentatia specifica elaborata se depune la OSPA §i se
+avizeaza de catre ICPA.
+(4) Pentru fiecare zona de rise natural si/sau antropic/perimetru
+degradat amplasat in aria naturala protejata, in situl Natura 2000, in
+obiective de patrimoniu cultural, documentatia specifica elaborata
+respecta restrietiile impuse prin legislatia specifica acestora.
+Autoritatile administratiei publice centrale
+competente, pe baza analizei documentafiei specifice prevazute la art. 12
+alin. (2), decide acceptarea sau necesitatea completarii investigafiei §i a
+programelor de masuri de resftaurare, specifice zonei de rise natural
+identificate.
+Art. 13.
+1
+
+12
+Art. 14. - Perimetrele afectate §i cele suspectate a fi degradate
+sunt supuse monitorizarii de catre autoritatile administratiei publice
+centrale competente.
+Art. 15. - (1) In cazul perimetrelor afectate, autoritatile
+administratiei publice centrale competente solicita elaborarea
+programelor de restaurare §i monitorizare necesare.
+(2) Detinatorii cu orice titlu a terenurilor, care se afla sub
+incidenla prevederilor alin.(l), au obligatia aplicarii masurilor cuprinse
+in programele de restaurare §i monitorizare.
+(3) Rezultatele activitatii de monitorizare sunt inregistrate §i
+stocate intr-o baza de date privind calitatea solului.
+(4) Baza de date este coordonata de catre autoritatea
+administratiei publice centrale pentru agricultura §i dezvoltare rurala
+prin ICPA Bucure§ti la nivel central §i prin OSPA la nivel judetean.
+(5) Autoritatea administratiei publice centrale pentru mediu are
+acces la baza de date.
+Art. 16. - (1) In cazul unui sol afectat de procesele prevazute la
+art. 10 alin. (1), daca autoritatile administratiei publice centrale
+competente, in urma efectuarii investigaliilor, constata ca delinatorii
+terenurilor sunt responsabili pentru schimbarile daunatoare solului, vor
+impune aplicarea masurilor de restaurare specifice zonei de rise natural
+§i/sau antropic identificate §i suportarea costurilor de catre ace§tia.
+(2) In cazul unui sol afectat de procesele prevazute la art. 10
+alin. (1), daca autoritatile administratiei publice competente, prin
+institutiile specializate, in urma efectuarii investigatiilor constata ca
+paifile implicate nu sunt responsabile pentru schimbarile daunatoare
+solului, asigura, prin unita^ile sale specializate, masuri de restaurare
+specifice zonei de rise natural §i/sau antropic identificate, a caror
+fmantare este suportata de la bugetul de stat, prin bugetele autoritafilor
+care le administreaza sau din fonduri exteme nerambursabile, prin
+proiecte executate de institutiile prevazute la art. 9 alin. (6), (7) si
+aprobate spre fmantare in conformitate cu regulile de implementare a
+acestor fonduri.
+Art. 17. - Metodologia de identificare a zonelor de rise natural
+§i/sau antropic sau a terenurilor degradate, precum §i metodologiile de
+
+13
+investigare, evaluate de rise §i restaurare a terenurilor degradate fac
+obiectul unui ghid tehnic, aprobat prin ordin comun al conducatorilor
+autoritatilor administratiei publice competente, la propunerea
+Comitetului stiintiflc, in termen de 12 luni de la data intrarii in vigoare a
+prezentei legi.
+Art. 18. - (1) Autoritatea administratiei publice centrale pentru
+agricultura §i dezvoltare rurala inventariaza zonele de rise natural §i/sau
+antropic, in baza datelor §i informaliilor furnizate de catre institutiile
+specializate.
+(2) Lista zonelor de rise natural §i/sau antropie se aproba prin
+ordin eomun al eondueatorilor autoritatilor administratiei publice
+centrale competente, la propunerea Comitetului stiintific, in termen de 2
+ani de la data intrarii in vigoare a prezentei legi §i se actualizeaza anual.
+(3) Lista prevazuta la alin. (2) se transmite unitatilor
+administrativ-teritoriale in vederea completarii in registrul agricol,
+precum si Agentiei Nationale de Cadastru si Publicitate Imobiliara in
+vederea inscrierii in Registrul Agricol National.
+CAPITOLUL IV
+Restaurarea terenurilor degradate si refacerea ecologica
+a terenurilor afectate de alunecarile de teren
+Art. 19. - (1) Autoritatile administratiei publice centrale
+competente stabilesc la propunerea Comitetului stiintific necesitatea
+programelor de restaurare a terenurilor degradate prin eroziune, exces
+sau deficit de umiditate, scadere a conlinutului de materie organica,
+reducere a biodiversitatii, compactare, sodizare, alcalinizare, acidifiere,
+de§ertificare §i aproba proiectele elaborate in acest sens, inclusiv pentru
+cele amplasate in ariile protejate sau situri Natura 2000, in obiective de
+patrimoniu cultural cu respectarea prevederilor legislatiei specifice
+acestora.
+(2) Autoritatile administratiei publice centrale competente, prin
+unitatile aflate in coordonare sau in subordine, monitorizeaza §i
+controleaza implementarea programelor de restaurare a terenurilor
+degradate prin eroziune, exces sau deficit de umiditate, scadere a
+confinutului de materie organica §i elemente nutritive, reducerea
+biodiversitafii, scadere a fertilitatii, compactare, salinizare, acidifiere.
+
+14
+de§ertificare §i alunecari de teren, §i aproba proiectele elaborate in acest
+sens.
+(3) Finanlarea activitatilor de restaurare a terenurilor degradate
+in toate cazurile se asigura de la bugetul de stat, prin bugetele autoritalilor
+administratiei publice centrale competente care le administreaza sau din
+fonduri exteme nerambursabile, prin proiecte aprobate spre finanfare in
+conformitate cu regulile de implementare a acestor fonduri, in cazul
+definatorilor de teren prevazufi la art. 16 alin. (2), §i din surse proprii, in
+cazul detinatorilor de teren cu orice titlu prevazuti la art. 16 alin. (1).
+Art. 20. - (1) Detinatorii de terenuri sunt obligati sa ia masurile
+necesare de restaurare a terenurilor pe toata perioada de exploatare
+agricola §i silvica, la incheierea procesului de exploatare §i la
+concesionarea/instrainarea acestora.
+(2) Autoritatile administratiei publice centrale si locale care
+detin in administrare terenuri indiferent de folosinta sunt obligate sa ia
+masuri necesare de restaurare a terenurilor pe toata perioada de detinere
+§i exploatare §i concesionare a acestora.
+(3) Concesionarii terenurilor utilizate pentru desfa§urarea
+activitatilor de prospectiune, explorare §i exploatare a resurselor
+minerale sunt obligati sa realizeze restaurarea terenurilor, in
+conformitate cu legislatia specifica in vigoare.
+(4) Detinatorii de terenuri pe care se desfa§oara activitati
+industrial sunt obligati sa ia masuri necesare de restaurare pe toata
+perioada de desfa§urare a activitatii, la incetarea acesteia §i la
+instrainarea terenurilor.
+(5) Detinatorii de terenuri pe care se desfa§oara activitati
+economice sunt obligati sa depuna o garantie fmanciara pe toata
+perioada utilizarii acestora in vederea refacerii paturii de sol
+afectat/degradat.
+(6) Proprietarii i§i rezerva dreptul de a certifica anual modul de
+folosinta a terenului §i de a da acordul cu privire la folosinta acestuia, iar
+utilizatorii au obligatia de a comunica proprietarului intentia sa cu
+privire la modul de utilizare a terenului.
+Art. 21. - Investigaaiea §i refacerea ecologica a terenurilor
+afectate de alunecarile de tecen se realizeaza conform prevederilor
+legislatiei specifice in vigoare.v
+
+15
+CAPITOLUL V
+Masuri de utilizare durabila a solului
+Sectiunea 1
+Mentinerea functiilor solului, prevenirea §i reducerea riscurilor
+de degradare a acestuia
+Art. 22. - In scopul mentinerii functiilor solului, prevenirii §i
+limitarii riscului asupra sanatatii umane §i a mediului, pentru zonele de
+rise natural §i/sau antropic identificate, autoritatile administratiei publice
+centrale competente au urmatoarele atributii, dupa caz:
+a) stabilesc necesitatea elaborarii programelor de masuri
+corespunzatoare pentru prevenirea, reducerea riscului §i combaterea
+degradarii solului;
+b) elaboreaza programele prevazute la art. 19 alin. (1), la
+propunerea ICPA, in baza studiilor efectuate de catre OSPA;
+c) aproba programele de masuri prevazute la art. 19 alin. (1);
+d) monitorizeaza §i controleaza aplicarea dispozi^iilor cuprinse
+in programele prevazute la art. 19 alin. (1);
+e) actualizeaza §i revizuiesc la un interval de 5 ani programele
+de masuri prevazute la art. 19 alin. (1).
+Seefiunea a 2-a
+Con§tientizarea participarea publicului, schimbul de informatii
+§i alinierea la progresul tehnic
+Autoritatile administratiei publice centrale
+competente promoveaza schimbul de informatii tehnice §i de buna
+practica in vederea utilizarii durabile a solului §i a evaluarii riscului de
+degradare a acestuia, pentru alinierea la progresul tehnic existent in
+Uniunea Europeana §i dezvolta instrumente de stimulare a conservarii
+solului ca resursa naturala neregenerabila.
+Art. 23.
+Autoritatile administratiei publice centrale
+competente §i unitalile din subordine sau in coordonare, mediatizeaza
+importanta protectiei solului §i promoveaza masuri necesare pentru
+con§tientizarea popula^iei, a operatorilor economici §i a tuturor factorilor
+interesa^i in scopul utilizarii durabile a solului, a conservarii acestuia ca
+Art. 24.
+
+16
+resursa naturala neregenerabila, prin institufiile de specialitate din
+subordine sau in coordonare.
+Art. 25. - (1) Autoritatile administratiei publice centrale
+competente §i institutiile specializate din subordine sau aflate in
+coordonare au urmMoarele atributii, dupa caz:
+a)
+dezvolta §i modemizeaza subsistemul national de
+monitorizare integrate a solului §i propune programe pentru reducerea
+aportului de poluan^i proven^i din surse agricole §i de management al
+reziduurilor organice provenite din zootehnie in zone vulnerabile §i
+potential vulnerabile la poluarea cu nitrati, impreuna cu Sistemul
+national de monitorizare sol-teren pentru agricultura, precum §i sol-
+vegeta^ie forestiera pentru silvicultura;
+b) actualizeaza periodic Programul national de monitorizare
+sol-teren pentru agricultura §i silvicultura, conform legislatiei in
+domeniu;
+c) elaboreaza Programul National pentru Protec^ia Solului, la
+propunerea Comitetului
+stiintific, care se aproba prin hotarare a
+Guvemului, in termen de 2 ani de la intrarea in vigoare a prezentei legi;
+d)
+elaboreaza §i aplica programe pentru dezvoltarea
+infrastructurii rurale, viabile din punct de vedere economic, cu
+respectarea prevederilor prezentei legi;
+e) stabile§te masuri privind interzicerea decopertarii §i utilizarii
+orizontului fertil al solului in vederea
+instrainarii
+§i
+restrictionarii/limitarii si scoaterii din circuital agricol a terenurilor cu
+sol fertil;
+f) identifica §i delimiteaza rezervaliile naturale, corelat cu
+reglementarile prevazute in legislatia specifica a ariilor naturale protejate
+§i a obiectivelor de patrimoniu cultural;
+g) asigura accesul la informatia de mediu §i participarea
+publicului la luarea deciziilor privind utilizarea, conservarea §i protec^ia
+solului, in condi^iile de confidentialitate prevazute de legislatia in
+vigoare;
+h) elaboreaza §i implementeaza programe prin campanii de
+con§tientizare, informare, educare in domeniul utilizarii, conservarii §i
+protectiei solului;
+
+17
+i) urmare§te aplicarea programelor §i a masurilor pentm
+respectarea obliga|iilor care decurg din conventiile intema^ionale
+referitoare la conservarea §i protec^ia solului, la care Romania este parte;
+j) colaboreaza cu organizatii §i autoritati similare din alte tari §i
+reprezinta Guvemul in rela^iile intemationale in domeniul utilizarii,
+conservarii §i protec^iei solului;
+k) formuleaza propuneri de instrumente economico-financiare
+de stimulare, reducere sau scutire de taxe, impozite §i acordare a altor
+facilitati fiscale, pentm inlocuirea in procesul de produc^ie agricola §i
+silvica a substan^elor periculoase sau pentm investi^ii in procese
+tehnologice §i produse care reduc impactul ori riscul de deteriorare a
+calitatii solului, precum §i pentru aplicarea de masuri speciale de
+utilizare, conservare §i protecfie a solului;
+l) promoveaza programe de masuri pentm prevenirea, reducerea
+riscului, combaterea degradarii §i poluarii solului, restaurarea terenurilor
+degradate §i refacerea terenurilor afectate de alunecari de teren §i asigura
+instrumente/mecanisme pentru implementarea acestora.
+(2) Autoritatea administratiei publice centrale pentru agricultura
+§i dezvoltare mrala are urmatoarele atribulii:
+a) dezvoltarea sistemului informational privind evaluarea,
+prognoza, avertizarea §i aplicarea masurilor de interventie operativa cu
+privire la starea solului, in baza datelor transmise de institutiile cu
+atributii in aplicarea dispozitiilor prezentei legi;
+b) identificarea §i promovarea programelor de cercetare-
+dezvoltare in domeniu §i a programelor de formare, instruire a
+personalului calificat pentm supraveghere, analiza, evaluare §i control al
+calitatii solului;
+c) certifica, prin intermediul ICPA §i sprijina dotarea
+laboratoarelor institutiilor prevazute la art. 9 alin. (6), in limita sumelor
+alocate de la bugetul de stat cu aceasta destinatie;
+d) aproba documentatiile care vor stabili programele de
+proiectare, fmantare si executie a masurilor si lucrarilor necesare pentru
+protectia si ameliorarea terenurilor neproductive care pot fi amenajate in
+cadml perimetrelor de ameliorare si folosite pentm productia agricola;
+e) aproba metodologiile de intocmire a studiilor pedologice §i
+agrochimice pentm terenurile agricole, propuse de Comitetul stiintific;
+
+18
+f) aproba normele §i reglementarile speciflce domeniului de
+activitate in ceea ce prive§te utilizarea, conservarea, ameliorarea §i
+protectia calitatii solului, propuse de Comitetul stiintific.
+(3) Elaborarea §i actualizarea metodologiei de intocmire a
+studiilor pedologice §i agrochimice, a normelor §i reglementarilor
+specifice domeniului de activitate in ceea ce prive§te utilizarea,
+conservarea, ameliorarea §i proteclia calitatii solului se realizeaza de
+Comitetul stiintific si se aproba prin ordin al autoritatii administratiei
+publice centrale pentru agricultura si dezvoltare rurala.
+Secliunea a 3-a
+Atribufiile §i raspunderile altor autoritdfi publice centrale §i locale
+Art. 26. - (1) Autoritatile administratiei publice centrale §i
+locale sunt obligate sa fumizeze informalii la solicitarea autoritatii
+administratiei publice centrale pentru agricultura si dezvoltare rurala,
+competente in aplicarea dispozitiilor prezentei legi.
+(2) Sunt exceptate de la prevederile alin.(l) institutiile din
+sistemul de aparare, ordine publica §i siguran^a nationals.
+Art. 27. - Autoritalile administratiei publice centrale au
+urmatoarele atributii §i raspunderi:
+a) sa elaboreze programe aplicabile in domeniul propriu de
+activitate, in conformitate cu prevederile prezentei legi;
+b) sa asigure integrarea politicilor de sol in politicile sectoriale;
+c) sa elaboreze planuri §i programe sectoriale, cu respectarea
+prevederilor prezentei legi;
+d) sa asigure, in structura lor organizatorica, structuri cu
+atribulii in domeniul conservarii §i protecliei solului, incadrate cu
+personal de specialitate;
+e) sa elaboreze normele §i reglementarile specifice domeniului
+de activitate in ceea ce prive§te utilizarea, ameliorarea, conservarea §i
+protectia solului, in conformitate cu prevederile prezentei legi.
+Art. 28. - Autoritatea administratiei publice centrale pentru
+sanatate are urmatoarele obligalii.§i raspunderi:
+a) organizeaza §i coordoneaza activitatea de monitorizare a
+starii de sanatate a populaliesi” in raport cu calitatea solului pe baza
+
+19
+datelor §i studiilor fumizate de unitalile specializate, §i a studiilor
+efectuate de structurile proprii;
+b) participa la elaborarea reglementarilor privind calitatea §i
+igiena solului §i la controlul respectarii §i aplicarii acestora;
+c) raporteaza periodic sau la cerere autoritalilor administratiei
+publice centrale competente efectele solului degradat sau poluat asupra
+sanatalii popula^iei sau a mediului;
+d) elaboreaza rapoarte sintetice privind starea sanatalii in raport
+cu indicatorii de sanatate care pot fl influenlali de calitatea solului, pe
+baza datelor §i studiilor fumizate de autoritafile competente pentm
+managementul calitafii solului §i a studiilor efectuate de structurile
+proprii;
+e) colaboreaza la nivel central, regional §i local, in asigurarea
+accesului publicului la informafi privind sanatatea in raport cu calitatea
+solului;
+f) prin structurile proprii, asigura evaluarea impactului calitatii
+solului asupra sanatafii populafiei;
+g) elaboreaza norme §i instmctiuni specifice pentm asigurarea
+aplicMi prevederilor prezentei legi;
+h) prin stmcturile proprii participa la elaborarea componenfei
+de impact asupra sanatatii.
+Art. 29. - Autoritatea Nafionala Sanitara Veterinara §i pentru
+Siguranfa Alimentelor are urmatoarele obligafii §i raspunderi:
+a) asigura calitatea §i siguranfa produselor alimentare in raport
+cu calitatea solului;
+b) participa la elaborarea reglementarilor privind calitatea §i
+igiena solului §i participa la controlul aplicarii acestora.
+Art. 30. - (1) Agenfia Nafionala de Cadastru §i Publicitate
+Imobiliara are obligafia sa asigure, prin institutiile subordonate,
+inregistrari in registml cadastral cu privire la starea calitafii solului.
+(2) Pentm fiecare parcela cadastrala, pe langa nota de bonitare
+§i clasa de calitate a terenului agricol sau forestier, se inregistreaza in
+evidentele cadastrale §i in cartea funciara, daca este cazul, fenomene,
+procese cu impact asupra calitatii solului sau restrictii de interes public
+referitoare la anumite utilizari ale terenului.
+
+20
+Art. 31. - Institutiile publice centrale de aparare, ordine publica
+§i siguran^a na^ionala au urmatoarele atribu^ii §i raspunderi:
+a) elaboreaza norme §i instructiuni specifice in domeniile lor de
+activitate, pentru aplicarea prevederilor prezentei legi;
+b) supravegheaza respectarea de catre personalul propriu a
+normelor de utilizare, conservare §i protectie a solului pentru activita^ile
+din zonele de responsabilitate;
+c) aplica sanc^iuni personalului propriu pentru incalcarea
+prevederilor prezentei legi in activitatile din zonele de responsabilitate;
+d) asigura informarea autorita^ilor administratiei publice
+centrale competente cu privire la accidentele majore de poluare datorate
+activitatilor desfa§urate de acestea;
+e) aloca fonduri pentru fmantarea lucrarilor/activitalilor de
+refacere a calitatii solurilor.
+Art. 32. - Autoritatea administratiei publice centrale pentru
+educatie si cercetare are urmatoarele atributii §i raspunderi:
+a) adapteaza planurile §i programele de inva^amant, la toate
+nivelurile, in scopul insu§irii no^iunilor §i principiilor de utilizare,
+conservare §i protectie a solului pentru con§tientizarea §i instruirea
+tuturor categoriilor de elevi, pentru formarea speciali§tilor in domeniul
+§tiintelor solului §i cre§terea gradului de con§tientizare a societatii civile
+in acest domeniu;
+b) asigura promovarea programelor de cercetare - dezvoltare in
+domeniul ^tiin^elor solului si fmantarea acestora;
+c) asigura fundamentarea unor programe §colare in scopul
+extinderii cifrei de §colarizare in invatamantul preuniversitar §i
+universitar §i infiin^area de noi specializari cu caracter pedologie §i
+agrochimie in cadrul institutiilor de inva^amant superior existente.
+Art. 33. - (1) Autoritatea administratiei publice centrale din
+domeniul transporturilor are urmatoarele atribu^ii §i raspunderi:
+a)
+elaboreaza §i aplica programe pentru dezvoltarea
+infrastructurii de transport, a transporturilor multimodale §i a
+transportului combinat, cu respectarea prevederilor prezentei legi;
+b) identifica zonele de rise la alunecari de teren, la accidente
+carstice si/sau a celor datorate exploatarilor miniere subterane, in zonele
+de responsabilitate.
+
+21
+(2) Autoritatea administratiei publice centrale din domeniul
+lucrarilor publice dezvoltarii si administratiei are urmatoarele atribu^ii §i
+raspunderi:
+a) dezvolta planuri §i programe care materializeaza politica
+nationals de amenajare a teritoriului §i localitatilor;
+b) urmare§te protejarea patrimoniului natural, inclusiv prin
+masuri impuse unitatilor care desfa§oara activitati in domeniul
+turismului §i incurajeaza aplicarea principiilor ecoturismului;
+c) identifica zonele de rise la alunecari de teren, in zonele de
+responsabilitate.
+Art. 34. - (1) Autoritatea administratiei publice centrale pentru
+cultura §i patrimoniu national are urmatoarele atributii §i raspunderi:
+a) participa la monitorizarea §i protejarea terenurilor cu
+patrimoniu cultural, si a terenurilor constituite ca rezervatii naturale ale
+solurilor;
+b) participa la completarea listei zonelor de rise §i a registrului
+national al terenurilor degradate;
+c) colaboreaza cu autoritatile administratiei publice locale §i
+Agentia Nationals de Cadastru §i Publicitate Imobiliara la delimitarea
+prin coordonate in sistem de proiectie stereografic a obiectivelor de
+patrimoniu cultural §i la inscrierea restrictiilor de interes public
+referitoare la anumite utilizari ale terenului, cu titlu gratuit, in sistemul
+integral de cadastru §i carte funciara;
+d) urmareste protejarea obiectivelor de patrimoniu cultural in
+zonele de rise.
+(2) Atributiile prevazute la alin.(l) se indeplinesc direct de
+autoritatea administratiei publice centrale din domeniul culturii sau prin
+serviciile publice deconcentrate ale acesteia.
+Art. 35. - Politia Romana, Jandarmeria Romana, politia locala,
+Garda Nationala de Mediu §i garzile forestiere acorda sprijin, in
+conditiile legii §i a competentelor specifice, la solicitarea scrisa a
+reprezentantilor autoritatilor administratiei publice centrale, regionale §i
+locale competente in executarea atributiilor specifice.
+
+22
+Secfiunea a 4-a
+Procedura de obtinere a certificatului privind calitatea solului
+Art. 36. - (1) Procedura de obtinere a certificatului privind
+calitatea solului reglementeaza condi^iile de solicitare §i de emitere a
+certificatului privind calitatea solului, perioada de valabilitate §i
+modalitatea de revizuire, cuantumul taxei §i al tarifelor aferente.
+(2) Solicitarea §i obfinerea certificatului de calitate a solului
+sunt obligatorii la schimbarea detinatorului de teren/instrainarea
+terenului cu orice titlu valabil, care a fost afectat de urmatoarele
+activitati:
+a) agricole, silvice si zootehnice existente sau noi;
+b) industriale si economice existente sau noi cu impact
+semnificativ asupra solului;
+c) activitati militare cu impact semnificativ asupra solului.
+(3) Solicitarea si obtinerea certificatului de calitate a solului
+sunt obligatorii la fmalizarea oricaror lucrari in care stratul de sol a fost
+afectat.
+(4) Procedura de obtinere a certificatului privind calitatea
+solului se elaboreaza de catre Comitetul §tiintific si se aproba prin ordin
+comun al autoritatilor administratiei publice centrale competente.
+Art. 37. - (1) Certificatul privind calitatea solului se elibereaza
+de catre ICPA pe baza raportului privind starea de calitate a solului
+intocmit de OSPA sau persoanele fizice sau juridice atestate pentru
+efectuarea studiilor privind calitatea solului, conform legislatiei in
+vigoare.
+(2) Raportul privind starea de calitate a solului se intocme§te de
+OSPA sau persoanele fizice si juridice atestate, iar costurile vor fi
+suportate de detinatorul terenului.
+(3) Raportul privind starea de calitate a solului confine
+urmatoarele documente:
+a) istoricul terenului;
+b) observatii pedologice insotite de buletine analize fizice,
+hidrofizice, chimice, agrochimice, microbiologice §i micromorfologice;
+c) indicatori de calitatea solului;
+d) existenta unor situritarheologice protejate de lege;
+e) existenta unor obibctive de patrimoniu cultural.
+
+23
+(4) Indicatorii de calitate a solului prevazuti la alin.(3) lit.b)-e)
+in cazul terenurilor agricole se inregistreaza in Registml Agricol
+National la solicitarea ICPA.
+Autorita^ile administratiei publice centrale
+competente, prin unitatile din subordine sau aflate in coordonare,
+informeaza publicul, prin mass-media, asupra proiectelor §i activita^iior
+pentru care este necesara eliberarea certificatului privind calitatea
+solului.
+Art. 38.
+Art. 39. - (1) Utilizarea, ameliorarea, conservarea §i protectia
+solului constituie o responsabilitate a persoanelor fizice §i persoanelor
+juridice care de^in terenurile si constructiile de orice natura.
+(2) Detinatorii in baza unui titlu valabil, ai terenurilor agricole
+§i silvice si constructiilor de orice natura, precum §i utilizatorii acestora,
+prin a caror activitate pot cauza schimbari daunatoare caracteristicilor §i
+functiilor solului, au urmatoarele obligatii:
+a) monitorizeaza permanent calitatea §i caracteristicile solurilor,
+pe suprafata carora s-au desfa§urat activitati cu impact semnificativ
+asupra solurilor;
+b) sa puna la dispozi^ia organelor de inspectie §i control toate
+informa^iile §i facilitalile necesare desfa§urarii activitatilor acestora;
+c) sa indeplineasca, in totalitate §i la termen masurile impuse
+prin actele de constatare incheiate de persoanele imputemicite cu
+activitati de verificare, inspec^ie §i control;
+d) sa asigure prevenirea, reducerea riscului de degradare §i
+combatere a schimbarilor solului, generate de propria lor activitate ori
+care ar putea fi cauzate de utilizarile necorespunzMoare ale terenului,
+sau de aplicare a unor practici neconforme cu reglementarile legale in
+vigoare;
+e) sa fumizeze, la solicitarea autoritatilor administratiei publice
+centrale competente, datele §i informatiile pe care le detin privind
+utilizarea §i calitatea solurilor;
+f) sa respecte conditiile privind protejarea obiectivelor de
+patrimoniu cultural impuse de legislatia specifica acestora.
+(3) In cazul detinatorilor, persoane juridice obliga^iile prevazute
+la alin. (2) se completeaza cu urmatoarele obligatii:
+
+24
+a) asigura §i actualizeaza permanent eviden^a privind utilizarea
+terenurilor dejinute printr-un titlu valabil, precum §i a calitatii solurilor
+conform legisla^iei in vigoare;
+b) monitorizeaza permanent calitatea §i caracteristicile solurilor
+terenului detinut in baza oricarui titlu valabil, pe suprafafa caruia s-au
+desfa§urat activitati cu impact semnificativ asupra solurilor.
+Art. 40. - Persoanele juridice care prospecteaza, exploreaza sau
+exploateaza resursele solului sau ale subsolului au obligatia de a proteja
+solul, stabilita prin legisla^ia specifica in vigoare.
+CAPITOLUL VI
+Controlul inspecfia privind gospodarirea durabila
+§i calitatea solului
+Art. 41. - (1) Controlul §i inspectia privind gestionarea
+solurilor se realizeaza prin personalul imputemicit in acest scop de
+autoritatile administratiei publice centrale competente.
+(2) Procedura de control §i inspeclie se stabile§te prin normele
+metodologice de aplicare a prezentei legi.
+(3) Pentru terenurile administrate de institutiile publice de
+aparare, ordine publica §i siguranta na^ionala, carora le sunt aplicabile
+prevederi specifice, controlul §i inspectia privind gestionarea solurilor se
+realizeaza prin personalul propriu imputemicit, in domeniile lor de
+activitate, conform atribuliilor stabilite prin lege.
+Art. 42. - (1) Constituie contravenlii §i se sanctioneaza cu amenda
+de la 2.000 lei la 5.000 lei, pentm persoane fizice §i de la 20.000 lei la
+50.000 lei pentm persoane juridice, nerespectarea prevederilor art. 39
+alin. (2) §i (3).
+(2) Constatarea contraventiilor §i aplicarea sancliunilor se fac
+de catre personalul imputemicit in acest scop al autoritatilor
+administratiei publice centrale competente.
+(3) Pentm terenurile administrate de institutiile publice de
+aparare, ordine publica §i siguranta nationals, constatarea se face in
+urma unui raport §tiintific de specialitate intocmit de catre institutiile
+prevazute la art. 9 alin. (6) lit. b) §i avizate de ICPA, iar contraventiile §i
+
+25
+aplicarea sanctiunilor se realizeaza de persoanele imputemicite de
+acestea.
+(4) Constituie contraventie si se sanctioneaza cu amenda de
+50.000 lei intocmirea studiilor pedologice si agrochimice, precum si a
+Raportului privind starea de calitate a solului de catre persoane fizice
+sau juridice neautorizate/neatestate conform legislatiei in domeniu.
+Art. 43. - Contraventiilor prevazute la art. 42 le sunt aplicabile
+dispozitiile Ordonan^ei Guvemului nr. 2/2001 privind regimul juridic al
+contraven^iilor, aprobata cu modificari §i completari prin Legea
+nr. 180/2002, cu modificarile §i completarile ulterioare.
+CAPITOLUL VII
+Dispozitii tranzitorii si finale
+Art. 44. - In termen de 12 luni de la data intrarii in vigoare a
+prezentei legi autoritatile administratiei publice centrale competente
+aproba prin ordin comun normele metodologice de aplicare a prezentei
+legi.
+Art. 45. - Prezenta lege intra in vigoare la data de 1 ianuarie 2021.
+
+26
+Aceasta lege a fast adoptata de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 §1 ale art. 16 alin. (2) din Constitufia
+Romdniei, republicatd.
+p. PfUE§EDINTELE
+SENATULUI
+p. PRE§EDINTOLE
+CAMEREI DEPUTAJILOR
+FI^OJUN lOHDACHE ROBERT-MARIUS CAZANCIUC
+I
+II
+Bucure§ti,
+r:;>
+f
+Nr.
+'•-j' ■
+
+1
+Anexa
+Definirea termenilor §i a expresiilor specifice
+1. Administrarea solului/gestionarea solurilor - ansamblul de
+politici, masuri, ac^iuni lucrari privind utilizarea durabila a solului,
+conservarea §i protectia acestuia ca resursa naturala neregenerabila,
+precum §i prevenirea §i limitarea/minimizarea activita^ilor distructive
+pentru sol;
+2. Autoritdfile administratiei publice centrale competente -
+Ministerul Agriculturii §i Dezvoltarii Rurale si Ministeml Mediului
+Apelor si Padurilor;
+3. Bonitarea economicd/notd de bonitare - nota (intre 0 §i 100)
+care exprima in mod conventional potentialul relativ de productie al unui
+teren pentru o anumita planta cultivata cu o tehnologie standard. Nota
+este evaluata pe baza caracteristicilor solului §i a conditiilor de mediu.
+Valoarea poate depa§i 100 in conditii de irigatii;
+4. Certificatul de calitate a solului - act care atesta calitatea
+solului, eliberat la fmalizarea oricaror lucrari in urma carora stratul de
+sol a fost afectat sau la instrainarea terenurilor afectate de activitati
+economice cu impact asupra solului;
+5. Detindtorul de teren - persoana fizica sau persoana juridica
+care define in proprietate sau in folosinta un teren in baza unui titlu
+valabil sau constructii de orice natura;
+6. Dezvoltarea durabila - reevaluarea constants a dialogului
+om-natura §i solidaritatea intre generatii procesul evolutiei
+pluridimensionale a societatii omene§ti. Principalele obiective constau in
+cunoa§terea economica, progresul social, protectia mediului §i a
+resurselor naturale;
+7. Echilibrul ecologic - ansamblul starilor §i corelatiilor dintre
+elementele componente ale unui sistem ecologic, care asigura
+mentinerea structurii, fiinctionarea §i dinamica sa;
+8. Evaluarea - orice metoda utilizata pentru masurarea,
+calcularea, modelarea, prognozarea sau estimarea prezen^ei unui poluant
+in mediul geologic;
+
+2
+9. Expertul - persoana fizica autorizata sau persoana juridica
+acreditata si numita de un organ de stat sau de par^ile interesate pentru a
+efectua o expertiza;
+10. Expertii de investigatie si/sau organe de investigape -
+persoane fizice autorizate sau persoane juridice care indeplinesc
+sarcinile conform prezentei legi, poseda cuno§tinlele necesare unui
+expert, atestate de autoritalile administratiei publice centrale
+competente, conform legislatiei in vigoare, prezinta incredere pentru
+astfel de sarcini §i dispun de echipamentul necesar corespunzator;
+11. Functiile solului sunt:
+a) functii culturale/de arhiva:
+1 - istoria naturala §i istoria culturala a societa^ii umane;
+2 - mediu cultural pentru populatie §i activitati umane;
+b) functii ecologice:
+mediu fizic pentru dezvoltarea §i conservarea
+1
+biodiversitatii solului;
+2 - mediu fizic pentru populatie;
+3 - componenta vitala a ecosistemelor naturale sau
+antropice;
+4 - mediu pentru descompunere, reglare §i restaurare a
+echilibrului ecologic ca urmare a proprietafilor de depozitare, filtrare,
+tamponare §i transformare a substanfelor, nutrientilor §i, mai ales, de
+protecfie a apei freatice;
+5 - rezerva genetica;
+6 - reglarea compozitiei atmosferei §i hidrosferei prin
+participarea la circuitul substanfelor chimice §i al apei;
+7 - geoterma, protectoare pentru relief;
+8 - tampon pentru variafii bru§te de clima, aciditate etc.
+c) functii energetice:
+1 - acumulare de energie chimica §i transfer de substanfe §i
+energie intre geosfere;
+2 - absorbfie §i caldura (radiafie solara) §i propagarea ei in
+atmosfera;
+d) functii socio-economice:
+1 - sursa de materii prime;
+2 - sursa de carbune/materie organica;
+3 - mediu fizic pentru a§ezari umane, desfa§urare a
+activitafilor umane socio-economice §i inffastructuri ale societafii umane
+
+3
+mijloc de produc^ie agricola §i forestiera/produc^ie de
+necesare
+biomasa;
+4 - GIS - Sistem Informational Geografic;
+12. Gospoddrirea solului - ansamblul activitatilor de utilizare,
+conservare, protectie a resursei naturale de sol, pentru satisfacerea
+nevoilor sociale, culturale §i economice, precum §i activitatea de
+prevenire §i combatere a actiunilor de degradare sau contaminare a
+solului §i a boga^iilor de interes public din acesta; activitatile care,
+printr-un ansamblu de mijloace tehnice si masuri legislative, economice
+§i administrative, conduc la utilizarea, conservarea/mentinerea
+calitatii/fimctiilor/bogatiilor solului pentru satisfacerea nevoilor sociale,
+culturale §i economice §i la protec^ia impotriva poluarii acestei resurse
+naturale, precum §i la combaterea actiunilor distructive ale apelor;
+13. Natura 2000 ~ ret^a europeana de zone naturale protejate
+care cuprinde un e§antion reprezentativ de specii salbatice §i habitate
+naturale de interes comunitar;
+14. Obiective de patrimoniu cultural - bunuri culturale mobile,
+situri arheologice, monumente istorice, zone de protectie ale
+monumentelor istorice, zone construite protejate, constructii cu valoare
+arhitecturala sau istorica deosebita, stabilite prin documentatii de
+urbanism aprobate;
+15. Perimetrele afectate - areale de terenuri, inregistrate
+cadastral/stabilite prin acte normative, ale caror soluri sunt afectate de
+eroziune, scaderea continutului de materie organica §i elemente
+nutritive, compactare, acidifiere, salinizare, de§ertificare, alunecari de
+teren;
+16. Perimetrele de ameliorare - areale de terenuri cu soluri
+grav deteriorate, precis delimitate §i definite, potrivit reglementarilor
+legislative in vigoare, care fac sau trebuie sa faca obiectul unor proiecte
+speciale de restaurare, reabilitare sau reconstructie ecologica a solurilor,
+terenurilor §i peisajului;
+17. Perimetrele degradate - areale de terenuri ale caror soluri
+prezinta schimbari daunatoare/negative in caracteristicile lor fizice,
+chimice sau biologice care afecteaza functiile solului §i, prin aceasta,
+sanatatea, supravietuirea sau activitatile oamenilor §i celorlalte
+organisme vii;
+
+4
+a) biologic;
+1 - terenuri pe care sunt depozitate de§eurile menajere sau
+zootehnice, reziduurile rezultate din industria alimentara §i care au
+incarcatura microbiologica crescuta;
+2 - terenuri afectate de apele reziduale zootehnice, namolurile
+rezultate de la staliile de epurare;
+b) radioactiv - areale de terenuri sau proprietali imobiliare
+poluate cu substance radioactive, datorita diverselor activitati socio-
+economice din cadrul ciclului combustibilului nuclear sau al altor
+activitati de cercetare, industriale, medicale, care folosesc sau genereaza
+surse radioactive de mare activitate;
+18. Perimetrele suspectate de degradare a fi afectate - areale
+de terenuri ale caror soluri manifesto tendinte de schimbare
+daunatoare/negative in caracteristicile lor fizice, chimice sau biologice
+care afecteaza functia solului §i, prin aceasta, sanatatea, supravietuirea
+sau activitatile oamenilor §i celorlalte organisme vii;
+19. Raportulprivind starea de calitate a solului - documentatie
+tehnica elaborate de speciali§ti in domeniul §tiintelor pedologice,
+persoane fizice autorizate sau persoane juridice, care cuprinde valorile
+indicatorilor privind starea §i calitatea solului;
+20. Reabilitarea ecologica - proces de recreare sau refacere a
+unui ecosistem in urma unei regresiuni ecologice, de catre speciali^ti
+care dirijeaza procesul de refacere in forma originala a structurilor §i
+functiilor posedate anterior de ecosistemul dat sau grupul de ecosisteme;
+21. Reabilitarea terenurilor degradate - lucrari de refacere a
+terenurilor afectate de eroziune, stabilite in fimctie de cauzele care au
+condus la aparitia §i desfa§urarea proceselor de eroziune;
+22. Reconstructia ecologica - proces de reconstruire a unui nou
+tip de ecosistem ecologic dupa distrugere §i/sau retrogresiunea ecologica
+a altuia;
+23. Reconstructia eco-pedologicd a terenurilor degradate -
+ansamblul lucrarilor efectuate in vederea aducerii unui teren afectat.
+dupa remedierea acestuia, cat mai aproape de starea naturala;
+24. Recuperarea ecologica
+stimularea proceselor
+spontane/regenerarii naturale, desfa§urarea lor in cadrul §i conform
+legitatilor naturale, care se desfa§oara lent, implica prezenta obligatorie
+a unor ffagmente ale ecosistemielor existente anterior §i nu necesita din
+partea oamenilor decat cheltuMaiminime cu un consum energetic redus;
+
+5
+25. Regenerarea naturala - proces de redresare ecologica a
+carui desfa§urare se petrece fara interventia omului, care dureaza
+minimum 2-3 ani, dar cel mai adesea peste 20 de ani, daca desfa§urarea
+sa are loc in condi^ii normale, naturale, de refacere a structurilor §i
+ftinc|iilor unui ecosistem afectat de cauze naturale sau antropice;
+26. Remedierea ecologica - proces de vindecare a unor sisteme
+ecologice afectate grav de impact natural §i antropic folosind, in mod
+deliberat, un complex de mijloace fizice, chimice §i biologice;
+27. Remedierea terenurilor degradate:
+a) eliminarea sau reducerea cauzelor §i a efectelor daunatoare
+asupra terenurilor/solului;
+b) prevenirea sau reducerea migrarii poluantilor fara eliminarea
+poluantilor in§i§i, respectiv asigurarea masurilor de limitare a poluarii
+solului §i a celorlalte elemente ale mediului;
+c) eliminarea sau reducerea schimbarilor daunatoare asupra
+caracteristicilor fizice, chimice sau biologice ale solului;
+d) restabilirea fiincfiilor solului corespunzator cu cerinfele
+necesare asigurarii utilizarii durabile a solului;
+28. Restaur area ecologica - proces care consta in desfa§urarea
+unor procese naturale sau dirijate de om, procese care vizeaza eliminarea
+consecintelor negative ale proceselor de retrogresiune ecologica §i de
+refacere a functionalitatii ecosistemelor in curs de degradare.
+Restaurarea ecologica imbraca diferite forme: regenerarea naturala,
+recuperarea ecologica, reabilitarea ecologica, reconstrucfia ecologica,
+remedierea ecologica, construcfia ecologica. Activitafi de restaurare
+ecologica a mediului sunt: reimpadurirea, refacerea terenurilor degradate
+(stoparea eroziunii, refacerea terenurilor afectate de lucrari de construire
+a cailor de comunicafie afectate de lucrari hidrotehnice, refacerea
+terenurilor in locul carierelor §i terenurilor afectate de exploatarea
+petroliera), recopertarile cu vegetafie, refacerea bonitafii terenurilor,
+biosolubilizarea unor metale grele din minereul sarac sau steril,
+introducerea de noi specii de plante sau de animale;
+29. Restaurarea terenurilor degradate - ansamblul masurilor
+de restaurare a echilibrului ecologic prin lucrari de reabilitare,
+remediere, reconstrucfie eco-pedologica a terenurilor degradate;
+30. Restrictiile de utilizare/limitdri de folosin(d sau stabilirea
+unor conditii in care pot fi utilizate terenurile - masurile care previn
+deteriorarea caraeteristicilor fizice, chimice sau biologice ale solului in
+scopul menfinerii in folosinfa durabila a acestuia;
+
+6
+31. Retrogresiunea ecologicd - inrautalirea structurala §i
+functionala a starii ecosistemelor in urma unor impacte negative,
+provocate de cauze naturale sau artificiale/antropice;
+32. Riscul major - probabilitatea aparitiei imediate sau
+neintarziate a unor pericole grave asupra sanatatii oamenilor §i/sau a
+mediului;
+33. Riscul natural - probabilitatea ca un anumit efect negativ al
+unui fenomen natural sa se produca intr-o anumita perioada de timp in
+anumite conditii;
+34. Schimbarea ddundtoare a solului - schimbarea care
+produce efecte periculoase §i prejudiciabile asupra functiilor solului;
+35. Schimbarea ddundtoare pentru sol - efectele daunatoare
+sau nedorite ale diverselor impacturi asupra functiilor solului, capabile
+sa provoace riscuri, pericole, dezavantaje sau neplaceri apreciabile
+pentru societate, perimetrele suspectate de vreo afectare, terenurile
+suspecte de schimbari daunatoare pentru calitatea solului;
+36. Sistemul national de monitorizare a calitdtii solurilor -
+sistemul national de supraveghere, evaluare, prognoza, avertizare §i
+interventie operativa cu privire la starea calitatii solurilor agricole §i
+silvice;
+37. Spatiul rural - zona apartinand comunelor, precum §i zona
+periurbana a ora§elor sau municipiilor, in care se desfa§oara activitati
+economice §i sociale, cu respectarea prevederilor legislatiei in vigoare,
+activitati incadrate in urmatoarele domenii economice:
+a) productie agricola §i/sau zootehnica, silvica, de pescuit §i
+acvacultura;
+b) procesarea industriala a produselor agricole, silvice, piscicole
+§i de acvacultura, precum §i activitati me§te§ugare§ti, artizanale §i de
+mica industrie;
+c) servicii de turism §i de agrement rural;
+38. Solul - stratul superior al scoartei terestre, compus din
+particule minerale, materie organica, apa, aer §i organisme vii; este
+interfata dintre pamant/suprafata uscatului Terrei, aer §i apa §i
+gazduie§te cea mai mare parte a biosferei; corpul (sistem) natural
+dinamic alcatuit din compu§i solizi minerali §i organici, apa, aer §i
+organisme vii, care reprezinta un mediu pentru dezvoltarea plantelor;
+39. Studiul eco-pedologic - efectuarea de analize, cercetarea
+calitatii solului §i mentinerea/exercitarea functiilor solului fmalizata prin
+intocmirea unei documentatii tehnice eco-pedologice pentru un anume
+
+7
+teren/perimetru pe care s-a desfa§urat, se desfa§oara sau se va desfa§ura
+o activitate agricola, zootehnica, silvica cu impact asupra solului;
+40. Utilizarea durabila - folosirea resurselor regenerabile intr-
+un mod §i o rata care sa asigure acelea§i resurse generatiilor viitoare;
+41. Utilizatorul de teren - persoana fizica sau persoana juridica
+care detine §i/sau utilizeaza un teren, in baza unui act incheiat in forma
+autentica in acest caz, proprietarul i§i rezerva dreptul de a certifica anual
+modul de folosinta a terenului §i de a-§i da acordul cu privire la folosinta
+terenului, iar utilizatorul are obligatia de a comunica proprietarului
+intentia sa cu privire la modul de utilizare a terenului;
+42. Zonele de rise natural - arealul expus unui rise natural,
+delimitat in suprafata §i in adancime.
