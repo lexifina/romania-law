@@ -1,0 +1,175 @@
+{
+ "key": "iccj-hp-55-2020",
+ "label": "Decizia ÎCCJ nr. 55/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "55",
+ "date": "2020-09-21",
+ "year": "2020",
+ "heading": "DECIZIA nr. 55 din 21 septembrie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 195 alin. (3) din Legea nr. 31/1990, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "969",
+  "bis": false,
+  "date": "2020-10-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.215/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "195",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea dispozițiilor art. 195 alin. (3) din Legea nr. 31/1990, republicată, cu modificările și completările ulterioare, termenul de 10 zile începe să curgă de la data la care convocarea adunării generale prin scrisoare recomandată a ajuns la destinatari, dacă în actul constitutiv sau în baza unei dispoziții speciale a legii nu se prevede o altă modalitate de comunicare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "195",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "191",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "209",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1326",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1900",
+    "number": "31",
+    "year": "1900",
+    "path": "lege/1900/31"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-10-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231578",
+  "text_sha256": "22fafd5d5bbccc45f8c1b529a6efef187b2fea8122f5604a63602691b72e4223",
+  "catalogue_sha256": "22fafd5d5bbccc45f8c1b529a6efef187b2fea8122f5604a63602691b72e4223",
+  "fetched": "2026-11-03T01:56:48Z",
+  "chars": 47219,
+  "portal_id": "231578",
+  "tip": "DECIZIE"
+ }
+}
