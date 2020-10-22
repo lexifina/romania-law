@@ -1,0 +1,181 @@
+{
+ "key": "dcc-428-2020",
+ "label": "Decizia CCR nr. 428/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "428",
+ "date": "2020-06-23",
+ "year": "2020",
+ "heading": "DECIZIA nr. 428 din 23 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 din Legea nr. 340/2009 privind formularea de către România a unei declarații în baza prevederilor art. 35 paragraful (2) din Tratatul privind Uniunea Europeană",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "977",
+  "bis": false,
+  "date": "2020-10-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.501/328/2016",
+  "532D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2009",
+    "number": "340",
+    "year": "2009",
+    "path": "lege/2009/340"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2 din Legea nr. 340/2009 privind formularea de către România a unei declarații în baza prevederilor art. 35 paragraful (2) din Tratatul privind Uniunea Europeană, excepție ridicată de Maria Rusu în Dosarul nr. 2.501/328/2016 al Tribunalului Cluj - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 340/2009",
+    "number": "340",
+    "year": "2009",
+    "path": "lege/2009/340"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "303",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-10-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231634",
+  "text_sha256": "a7c8fbb7925707cb24ebc8659ff4d384494f4a12e77bc6018ca2b0aa45b076ad",
+  "catalogue_sha256": "a7c8fbb7925707cb24ebc8659ff4d384494f4a12e77bc6018ca2b0aa45b076ad",
+  "fetched": "2026-11-03T01:56:46Z",
+  "chars": 20284,
+  "portal_id": "231634",
+  "tip": "DECIZIE"
+ }
+}
