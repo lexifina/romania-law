@@ -1,0 +1,49 @@
+REGULAMENTUL (UE) 2020/1530 AL PARLAMENTULUI EUROPEAN ȘI AL CONSILIULUI
+din 21 octombrie 2020
+de modificare a Directivei (UE) 2016/798 în ceea ce privește aplicarea normelor de siguranță și de interoperabilitate feroviară în cadrul legăturii fixe pe sub Canalul Mânecii
+PARLAMENTUL EUROPEAN ȘI CONSILIUL UNIUNII EUROPENE,
+având în vedere Tratatul privind funcționarea Uniunii Europene, în special articolul 91,
+având în vedere propunerea Comisiei Europene,
+după transmiterea proiectului de act legislativ către parlamentele naționale,
+având în vedere avizul Comitetului Economic și Social European (1),
+după consultarea Comitetului Regiunilor,
+hotărând în conformitate cu procedura legislativă ordinară (2),
+întrucât:
+(1) Directiva (UE) 2016/798 a Parlamentului European și a Consiliului (3) prevede ca fiecare stat membru să instituie o autoritate națională de siguranță căreia să i se încredințeze sarcinile specificate în legătură cu siguranța feroviară. În conformitate cu directiva menționată, o autoritate națională de siguranță poate fi un organism instituit în mod unilateral de statul membru în cauză sau, alternativ, un organism căruia mai multe state membre i-au încredințat sarcinile respective pentru a asigura un regim de siguranță unificat.
+(2) Tratatul dintre Franța și Regatul Unit al Marii Britanii și Irlandei de Nord privind construirea și exploatarea de către concesionari privați a unei legături fixe pe sub Canalul Mânecii, semnat la Canterbury la 12 februarie 1986 („Tratatul de la Canterbury”) a instituit o comisie interguvernamentală pentru supravegherea tuturor aspectelor referitoare la construirea și exploatarea legăturii fixe pe sub Canalul Mânecii (denumită în continuare „comisia interguvernamentală”).
+(3) Până la încheierea perioadei de tranziție prevăzută în Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice (4) („perioada de tranziție”), comisia interguvernamentală este autoritatea națională de siguranță în sensul Directivei (UE) 2016/798, responsabilă pentru legătura fixă pe sub Canalul Mânecii.
+(4) După încheierea perioadei de tranziție, comisia interguvernamentală va deveni un organism instituit printr-un acord internațional între un stat membru, și anume Franța, și o țară terță, și anume Regatul Unit al Marii Britanii și Irlandei de Nord („Regatul Unit”). Cu excepția cazului în care se prevede altfel într-un acord internațional obligatoriu pentru Regatul Unit, aceasta nu va mai fi o autoritate națională de siguranță conform dreptului Uniunii și dreptul Uniunii nu se va mai aplica acelei părți a legăturii fixe pe sub Canalul Mânecii care se află sub jurisdicția Regatului Unit.
+(5) Pentru a asigura exploatarea sigură și eficientă a legăturii fixe pe sub Canalul Mânecii, este oportun să se mențină comisia interguvernamentală drept unica autoritate de siguranță responsabilă pentru întreaga infrastructură respectivă.
+(6) În acest scop, Decizia (UE) 2020/1531 a Parlamentului European și a Consiliului (5) împuternicește Franța, în anumite condiții, să negocieze, să semneze și să încheie un acord internațional de completare a Tratatului de la Canterbury, în temeiul căruia comisia interguvernamentală este considerată ca fiind unica autoritate de siguranță competentă pentru aplicarea dreptului Uniunii în cadrul legăturii fixe pe sub Canalul Mânecii.
+(7) În acest sens, ar trebui stabilite norme specifice cu privire la autoritățile de siguranță specifice, precum și cu privire la obligațiile statului membru în cauză de a lua toate măsurile necesare pentru a asigura aplicarea dreptului Uniunii în orice moment de către autoritatea de siguranță specifică sau, dacă acest lucru nu este posibil, de către propria sa autoritate națională de siguranță.
+(8) Este posibil ca în cadrul soluționării diferendelor dintre statul membru în cauză și țara terță în ceea ce privește siguranța feroviară să se ridice întrebări privind interpretarea legislației Uniunii. În consecință, Curții de Justiție a Uniunii Europene ar trebui să i se acorde competența de a pronunța decizii preliminare cu privire la astfel de întrebări.
+(9) Prin urmare, Directiva (UE) 2016/798 ar trebui modificată în consecință.
+(10) Întrucât obiectivul prezentului regulament, și anume de a asigura exploatarea sigură și eficientă a legăturii fixe pe sub Canalul Mânecii după încheierea perioadei de tranziție, nu poate fi realizat în mod satisfăcător de statele membre, dar, având în vedere amploarea și efectele acțiunii propuse, poate fi realizat mai bine la nivelul Uniunii, aceasta poate adopta măsuri în conformitate cu principiul subsidiarității astfel cum este prevăzut la articolul 5 din Tratatul privind Uniunea Europeană. În conformitate cu principiul proporționalității, astfel cum este prevăzut la articolul respectiv, prezentul regulament nu depășește ceea ce este necesar pentru realizarea acestui obiectiv.
+(11) Prezentul regulament ar trebui să intre în vigoare de urgență în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificări ale Directivei (UE) 2016/798
+Directiva (UE) 2016/798 se modifică după cum urmează:
+1. La articolul 3, punctul 7 se înlocuiește cu următorul text:
+„7. | «autoritate națională de siguranță» înseamnă: (a) organismul național căruia îi sunt încredințate sarcinile privind siguranța feroviară în conformitate cu prezenta directivă; (b) orice organism căruia mai multe state membre i-au încredințat sarcinile menționate la litera (a) pentru a asigura un regim de siguranță unificat; (c) orice organism căruia un stat membru și o țara terță i-au încredințat sarcinile menționate la litera (a) pentru a asigura un regim de siguranță unificat, cu condiția ca Uniunea să fi încheiat un acord în acest scop cu țara terță în cauză sau ca statul membru respectiv să fi încheiat un astfel de acord în conformitate cu o împuternicire acordată de Uniune în acest scop.”;
+2. la articolul 16 se adaugă următoarele alineate:
+„(4) | Atunci când o structură de geniu civil unitară este situată parțial într-o țară terță și parțial într-un stat membru, statul membru respectiv poate desemna, pe lângă autoritatea națională de siguranță competentă pentru teritoriul său și în conformitate cu articolul 3 punctul 7 litera (c), precum și cu un acord internațional încheiat de Uniune sau a cărui încheiere este autorizată de Uniune, o autoritate de siguranță competentă în mod specific pentru structura de geniu civil respectivă și pentru toate celelalte elemente ale infrastructurii feroviare legate de aceasta («autoritatea de siguranță specifică»). În conformitate cu acordul internațional respectiv, autoritatea națională de siguranță poate să își asume temporar competența pentru partea de structură de geniu civil situată în respectivul stat membru. În contextul oricărui acord internațional menționat la primul paragraf, statul membru în cauză ia toate măsurile de care dispune în temeiul acordului internațional respectiv pentru a se asigura că autoritatea de siguranță specifică respectă dreptul Uniunii. În acest scop și atunci când este necesar din motive de siguranță feroviară, statul membru în cauză își exercită fără întârziere dreptul conferit de acordul internațional respectiv, prin care autoritatea națională de siguranță este îndreptățită să își asume competența exclusivă în ceea ce privește partea de structură de geniu civil situată în statul membru în cauză.
+(5) În cazul în care în cadrul unui diferend supus arbitrajului în conformitate cu un acord internațional se ridică o întrebare legată de interpretarea unei dispoziții a dreptului Uniunii, Curtea de Justiție a Uniunii Europene («Curtea de Justiție»), la cererea instanței de arbitraj instituite pentru soluționarea diferendelor în temeiul acordului internațional respectiv, este competentă să pronunțe o decizie preliminară cu privire la întrebarea în cauză.
+Dispozițiile dreptului Uniunii care reglementează procedurile în fața Curții de Justiție în conformitate cu articolul 267 din Tratatul privind funcționarea Uniunii Europene se aplică mutatis mutandis cererilor de pronunțare de către Curtea de Justiție a unei decizii preliminare, introduse în temeiul primului paragraf.
+În cazul în care instanța de arbitraj nu respectă o decizie a Curții de Justiție pronunțată în conformitate cu primul paragraf, statul membru în cauză își exercită fără întârziere dreptul conferit de acordul internațional prin care autoritatea națională de siguranță este autorizată să își asume competența exclusivă pentru partea de structură de geniu civil care este situată în respectivul stat membru.”
+Articolul 2
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 21 octombrie 2020.
+Pentru Parlamentul European
+Președintele
+D. M. SASSOLI
+Pentru Consiliu
+Președintele
+M. ROTH
+(1) Avizul din 16 septembrie 2020 (nepublicat încă în Jurnalul Oficial).
+(2) Poziția Parlamentului European din 8 octombrie 2020 (nepublicată încă în Jurnalul Oficial) și decizia Consiliului din 14 octombrie 2020.
+(3) Directiva (UE) 2016/798 a Parlamentului European și a Consiliului din 11 mai 2016 privind siguranța feroviară (JO L 138, 26.5.2016, p. 102).
+(4) JO L 29, 31.1.2020, p. 7.
+(5) Decizia (UE) 2020/1531 a Parlamentului European și a Consiliului din 21 octombrie 2020 de împuternicire a Franței să negocieze, să semneze și să încheie un acord internațional de completare a Tratatului dintre Franța și Regatul Unit al Marii Britanii și Irlandei de Nord privind construirea și exploatarea de către concesionari privați a unei legături fixe pe sub Canalul Mânecii (a se vedea pagina 4 din prezentul Jurnal Oficial).
