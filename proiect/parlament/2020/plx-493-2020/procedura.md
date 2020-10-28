@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-18: documents published: Aviz comisie
 - 2020-09-08: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies
+- 2020-10-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-08: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L671SJ.PDF
 - 2020-07-08: Punct de vedere (PV): [pv-1d317b05.md](pv-1d317b05.md); official file https://www.senat.ro/legis/PDF/2020/20L671PV.PDF
 - 2020-08-18: Aviz comisie (CA41): [ca41-8c8fa451.md](ca41-8c8fa451.md); official file https://www.senat.ro/legis/PDF/2020/20L671CA41.PDF
+- 2020-10-28: Adresă de înaintare a inițiativei (AD): [ad-1181a3d1.md](ad-1181a3d1.md); official file https://www.senat.ro/legis/PDF/2020/20L671AD.PDF
+- 2020-10-28: Forma inițiatorului (FG): [fg-f50ac412.md](fg-f50ac412.md); official file https://www.senat.ro/legis/PDF/2020/20L671FG.PDF
+- 2020-10-28: Expunere de motive (EM): [em-3c5de441.md](em-3c5de441.md); official file https://www.senat.ro/legis/PDF/2020/20L671EM.PDF
