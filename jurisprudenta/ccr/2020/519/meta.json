@@ -1,0 +1,315 @@
+{
+ "key": "dcc-519-2020",
+ "label": "Decizia CCR nr. 519/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "519",
+ "date": "2020-06-30",
+ "year": "2020",
+ "heading": "DECIZIA nr. 519 din 30 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor din capitolul II: \"Salarii de bază pentru personalul auxiliar de specialitate din cadrul instanțelor și parchetelor\" din anexa nr. V \"Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională\" la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, a celor ale art. 17 alin. (1) ș i ale art. 22 alin. (1) din capitolul VIII: \"Reglementări specifice personalului din sistemul justiției\" din anexa nr. V la Legea-cadru nr. 153/2017, precum și ale art. 38 alin. (6) din Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "998",
+  "bis": false,
+  "date": "2020-10-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.010/2/2018",
+  "1.996D/2018",
+  "276D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Norica Iuliana Chira, Andreea Rușină, Mihai Eugen Rușină, Gabriel Popescu, Constantin Soare și Cristian Mihalache în Dosarul nr. 3.010/2/2018 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de Ion Iambu, Gabriel Pavel-Anton și Bogdan-Florin Dobrogeanu în Dosarul nr. 3.011/2/CAF/2018 al aceleiași instanțe judecătorești și constată că prevederile din capitolul II: „Salarii de bază pentru personalul auxiliar de specialitate din cadrul instanțelor și parchetelor“ din anexa nr. V „Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională“ la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cele ale art. 17 alin. (1) și ale art. 22 alin. (1) din capitolul VIII „Reglementări specifice personalului din sistemul justiției“ din anexa nr. V la Legea-cadru nr. 153/2017, precum și ale art. 38 alin. (6) din Legea-cadru 153/2017 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "116",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 79/2017",
+    "number": "79",
+    "year": "2017",
+    "path": "oug/2017/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2018",
+    "number": "287",
+    "year": "2018",
+    "path": "lege/2018/287"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 41/2018",
+    "number": "41",
+    "year": "2018",
+    "path": "oug/2018/41"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-10-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231832",
+  "text_sha256": "fbb148acdee40ca03a5008aa25d35d79f65b97c6d3405ceb6cc77d7fcd36783e",
+  "catalogue_sha256": "fbb148acdee40ca03a5008aa25d35d79f65b97c6d3405ceb6cc77d7fcd36783e",
+  "fetched": "2026-11-06T03:37:02Z",
+  "chars": 32453,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/231832",
+   "timestamp": "20251205151141",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307053.42/warc/CC-MAIN-20251205134355-20251205164355-00905.warc.gz",
+   "offset": "294272446",
+   "length": "30837",
+   "sha256": "6bc0408f6bcc05e73e39866c4041fdc586a53de1ea37cf132f9485caaa6e8588"
+  },
+  "portal_id": "231832",
+  "tip": "DECIZIE"
+ }
+}
