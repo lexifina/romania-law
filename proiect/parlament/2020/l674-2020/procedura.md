@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2020-07-07: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies
+- 2020-10-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2020-10-28: Adresă de înaintare a inițiativei (AD): [ad-1abc0e73.md](ad-1abc0e73.md); official file https://www.senat.ro/legis/PDF/2020/20L674AD.PDF
+- 2020-10-28: Forma inițiatorului (FG): [fg-d34a3ef1.md](fg-d34a3ef1.md); official file https://www.senat.ro/legis/PDF/2020/20L674FG.PDF
+- 2020-10-28: Expunere de motive (EM): [em-06dd971c.md](em-06dd971c.md); official file https://www.senat.ro/legis/PDF/2020/20L674EM.PDF
