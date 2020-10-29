@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-05-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-02: sent for promulgation
+- 2020-10-29: promulgated, becomes Legea nr. 218/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-9db8b55f.md](am-9db8b55f.md); official file https://www.senat.ro/legis/PDF/2020/20L104AM.PDF
 - 2020-05-27: Adresă privind sesizarea CCR (AXS): [axs-2f3ce90c.md](axs-2f3ce90c.md); official file https://www.senat.ro/legis/PDF/2020/20L104AXS.PDF
 - 2020-05-27: Forma trimisă la promulgare (LP): [lp-ea5037f1.md](lp-ea5037f1.md); official file https://www.senat.ro/legis/PDF/2020/20L104LP.PDF
+- 2020-10-29: Decret de promulgare (DP): [dp-89d2842f.md](dp-89d2842f.md); official file https://www.senat.ro/legis/PDF/2020/20L104DP.PDF
+- 2020-10-29: Adresă privind forma promulgată (AFP): [afp-2a874b90.md](afp-2a874b90.md); official file https://www.senat.ro/legis/PDF/2020/20L104AFP.PDF
+- 2020-10-29: Forma promulgată (FP): [fp-628d2eda.md](fp-628d2eda.md); official file https://www.senat.ro/legis/PDF/2020/20L104FP.PDF
