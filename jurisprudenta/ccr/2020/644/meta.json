@@ -1,0 +1,397 @@
+{
+ "key": "dcc-644-2020",
+ "label": "Decizia CCR nr. 644/2020",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "644",
+ "date": "2020-09-24",
+ "year": "2020",
+ "heading": "DECIZIA nr. 644 din 24 septembrie 2020",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1001",
+  "bis": false,
+  "date": "2020-10-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "795A/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge ca neîntemeiată obiecția de neconstituționalitate formulată de Președintele României și constată că Legea pentru modificarea și completarea Legii nr. 272/2004 privind protecția și promovarea drepturilor copilului este constituțională, în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": [
+      "i"
+     ]
+    },
+    {
+     "art": "46",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "i",
+      "j"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "2",
+      "1",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "n",
+      "t"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2020",
+    "number": "45",
+    "year": "2020",
+    "path": "lege/2020/45"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-10-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/231848",
+  "text_sha256": "fac736aab6c0b7fc354e7a055c86023d8e764169d459289aec38e1e9fce4d6ce",
+  "catalogue_sha256": "fac736aab6c0b7fc354e7a055c86023d8e764169d459289aec38e1e9fce4d6ce",
+  "fetched": "2026-11-03T01:56:31Z",
+  "chars": 67846,
+  "portal_id": "231848",
+  "tip": "DECIZIE"
+ }
+}
