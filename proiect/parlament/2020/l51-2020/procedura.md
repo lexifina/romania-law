@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-07-06: sent for promulgation
 - 2020-09-30: published in the Monitorul Oficial
+- 2020-10-29: promulgated, becomes Legea nr. 217/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-02: Adresă către Camera Deputaților (AM): [am-2306b0e8.md](am-2306b0e8.md); official file https://www.senat.ro/legis/PDF/2020/20L051AM.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-b454a165.md](axs-b454a165.md); official file https://www.senat.ro/legis/PDF/2020/20L051AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-c0591577.md](lp-c0591577.md); official file https://www.senat.ro/legis/PDF/2020/20L051LP.PDF
+- 2020-10-29: Decret de promulgare (DP): [dp-63e50320.md](dp-63e50320.md); official file https://www.senat.ro/legis/PDF/2020/20L051DP.PDF
+- 2020-10-29: Adresă privind forma promulgată (AFP): [afp-9a57a984.md](afp-9a57a984.md); official file https://www.senat.ro/legis/PDF/2020/20L051AFP.PDF
+- 2020-10-29: Forma promulgată (FP): [fp-931bd346.md](fp-931bd346.md); official file https://www.senat.ro/legis/PDF/2020/20L051FP.PDF
