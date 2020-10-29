@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-09-08: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
+- 2020-10-29: promulgated, becomes Legea nr. 220/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-09-02: Adresă către Camera Deputaților (AM): [am-70b2a49d.md](am-70b2a49d.md); official file https://www.senat.ro/legis/PDF/2020/20L498AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-0a48a8d6.md](axs-0a48a8d6.md); official file https://www.senat.ro/legis/PDF/2020/20L498AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-3956c175.md](lp-3956c175.md); official file https://www.senat.ro/legis/PDF/2020/20L498LP.PDF
+- 2020-10-29: Decret de promulgare (DP): [dp-1abfc534.md](dp-1abfc534.md); official file https://www.senat.ro/legis/PDF/2020/20L498DP.PDF
+- 2020-10-29: Adresă privind forma promulgată (AFP): [afp-55607a78.md](afp-55607a78.md); official file https://www.senat.ro/legis/PDF/2020/20L498AFP.PDF
+- 2020-10-29: Forma promulgată (FP): [fp-8b992b16.md](fp-8b992b16.md); official file https://www.senat.ro/legis/PDF/2020/20L498FP.PDF
