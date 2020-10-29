@@ -1,0 +1,70 @@
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTATILOR
+SENATUL
+LEGE
+pentru modificarea si completarea Legii nr. 165/2013
+privind masurile pentru finalizarea procesului de restituire, in
+natura sau prin echivalent, a imobilelor preluate in mod abuziv in
+perioada regimului comunist in Romania
+Parlamentul Romaniei adopta prezenta lege.
+Art. I. - Legea nr. 165/2013 privind masurile pentru finalizarea
+proeesului de restituire, in natura sau prin echivalent, a imobilelor
+preluate in mod abuziv in perioada regimului comunist in Romania,
+publicata in Monitorul Oficial al Romaniei, Partea I, nr. 278 din 17 mai
+2013, cu modificarile si completarile ulterioare, se modifica si se
+completeaza dupa cum urmeaza :
+1. Alineatul (6) al articolului 21 se modifica si va avea
+urmatorul cuprins:
+„(6) Evaluarea imobilului ce face obiectul deciziei se face prin
+aplicarea grilei notariale valabile la data intrarii in vigoare a Legii
+nr. 165/2013 privind masurile pentru finalizarea procesului de restituire,
+in natura sau prin echivalent, a imobilelor preluate in mod abuziv in
+perioada regimului comunist in Romania, cu modificarile si completarile
+ulterioare, in considerarea caracteristicilor tehnice ale imobilului si a
+
+2
+categoriei de folosinta la data preluarii acestuia. Prin exceptie, in
+dosarele in care se acorda masuri compensatorii titularului dreptului de
+proprietate, fost proprietar sau mostenitorilor legali ori testamentari ai
+acestuia, iar dreptul de proprietate nu a fost tranzactionat dupa preluarea
+abuziva de stat a imobilului, evaluarea imobilului ce face obiectul
+deciziei se face prin utilizarea grilei notariale valabile pentru anul
+precedent emiterii deciziei de catre Comisia Nationala. Evaluarea se
+exprima in puncte. Un punct are valoarea de un leu.”
+2. Dupa alineatul (3) al articolului 31 se introduce un nou
+alineat, alin.(3^), cu urmatorul cuprins:
+„(3') Prin exceptie de la prevederile alin. (3), in situatia in
+care detinatorul de puncte este persoana certificata de entitati desemnate
+de statul roman sau de alte state membre ale Uniunii Europene sau de
+statul de resedinta, ca supravietuitor al Holocaustului, Autoritatea
+Nationala pentru Restituirea Proprietatilor emite un singur titlu de
+plata.”
+3. Alineatul (4) al articolului 33 se modifica si va avea
+urmatorul cuprins:
+„(4) Cererile se analizeaza in ordinea inregistrarii lor la
+entitatile prevazute la alin. (1). Prin exceptie, se analizeaza cu prioritate
+cererile formulate de persoana certificata de entitati desemnate de statul
+roman sau de alte state membre ale Uniunii Europene sau de statul de
+resedinta, ca supravietuitoare ale Holocaustului, aflate in viata la data
+publicarii in Monitorul Oficial al Romaniei, Partea I, a prezentei legi.”
+Art. II - La data intrarii in vigoare a prezentei legi se abroga
+art. 1 si 2 din Ordonanta de urgenta a Guvemului nr. 72/2020 pentru
+suspendarea aplicarii prevederilor art. 21 alin. (6) din Legea
+nr. 165/2013 privind masurile pentru fmalizarea procesului de restituire,
+in natura sau prin echivalent, a imobilelor preluate in mod abuziv in
+perioada regimului comunist in Romania si instituirea unor masuri
+tranzitorii, publicata in Monitorul Oficial al Romaniei, Partea I,
+nr. 412 din 19 mai 2020.
+
+3
+Aceasta lege a fost adoptatd de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 si ale art. 76 alin. (2) din Constitutia
+Romdniei, republicatd.
+p.PRE§EDINTELE
+CAMEREI DEPtffATILOR
+p. PRE§EDINTELE
+SENATULUI
+FLCmiN lORDACHE
+ROBERT - MARIUS CAZANCIUC
+Bucuresti, £3
+Nr.

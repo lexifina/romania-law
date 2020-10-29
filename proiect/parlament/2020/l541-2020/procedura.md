@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: registered at the Chamber of Deputies
 - 2020-10-06: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-12: sent for promulgation
+- 2020-10-29: promulgated, becomes Legea nr. 219/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: Adresă către Camera Deputaților (AM): [am-cb64abb7.md](am-cb64abb7.md); official file https://www.senat.ro/legis/PDF/2020/20L541AM.PDF
 - 2020-10-06: Adresă privind sesizarea CCR (AXS): [axs-b4cfe3ba.md](axs-b4cfe3ba.md); official file https://www.senat.ro/legis/PDF/2020/20L541AXS.PDF
 - 2020-10-06: Forma trimisă la promulgare (LP): [lp-24466a21.md](lp-24466a21.md); official file https://www.senat.ro/legis/PDF/2020/20L541LP.PDF
+- 2020-10-29: Decret de promulgare (DP): [dp-ca8fc269.md](dp-ca8fc269.md); official file https://www.senat.ro/legis/PDF/2020/20L541DP.PDF
+- 2020-10-29: Adresă privind forma promulgată (AFP): [afp-de48b209.md](afp-de48b209.md); official file https://www.senat.ro/legis/PDF/2020/20L541AFP.PDF
+- 2020-10-29: Forma promulgată (FP): [fp-ef1088cd.md](fp-ef1088cd.md); official file https://www.senat.ro/legis/PDF/2020/20L541FP.PDF
