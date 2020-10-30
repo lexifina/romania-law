@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-06: sent for promulgation
 - 2020-09-30: published in the Monitorul Oficial
 - 2020-10-29: promulgated, becomes Legea nr. 217/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-10-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-29: Decret de promulgare (DP): [dp-63e50320.md](dp-63e50320.md); official file https://www.senat.ro/legis/PDF/2020/20L051DP.PDF
 - 2020-10-29: Adresă privind forma promulgată (AFP): [afp-9a57a984.md](afp-9a57a984.md); official file https://www.senat.ro/legis/PDF/2020/20L051AFP.PDF
 - 2020-10-29: Forma promulgată (FP): [fp-931bd346.md](fp-931bd346.md); official file https://www.senat.ro/legis/PDF/2020/20L051FP.PDF
+- 2020-10-30: Document (AT): [at-401fb4ff.md](at-401fb4ff.md); official file https://www.senat.ro/legis/PDF/2020/20L051AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-10-30: Document (S1): [s1-7d5b396b.md](s1-7d5b396b.md); official file https://www.senat.ro/legis/PDF/2020/20L051S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-10-30: Document (SC): [sc-e3f0d613.md](sc-e3f0d613.md); official file https://www.senat.ro/legis/PDF/2020/20L051SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-10-30: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L051DC.PDF (its day is not given by the bill file: shown from the last stage held)
