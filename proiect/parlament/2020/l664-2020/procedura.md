@@ -1,0 +1,22 @@
+# Proiect de lege L664/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 60/2022 (`legea-60-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.185/2020 pentru modificarea și completarea art.1 din Ordonanţa de urgență a Guvernului nr.5/2019 privind aprobarea scoaterii din rezerva de stat, sub formă de împrumut, a unei cantităţi de păcură necesare asigurării, pe perioada de iarnă, a agentului termic pentru încălzirea populaţiei din municipiul Drobeta-Turnu Severin, judeţul Mehedinţi
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-10-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-10-30: Adresă de înaintare a inițiativei (AD): [ad-87ef8cc6.md](ad-87ef8cc6.md); official file https://www.senat.ro/legis/PDF/2020/20L664AD.PDF
+- 2020-10-30: Forma inițiatorului (FG): [fg-021ebdb9.md](fg-021ebdb9.md); official file https://www.senat.ro/legis/PDF/2020/20L664FG.PDF
+- 2020-10-30: Expunere de motive (EM): [em-1271b524.md](em-1271b524.md); official file https://www.senat.ro/legis/PDF/2020/20L664EM.PDF
+- 2020-10-30: Aviz Consiliul Legislativ (LG): [lg-fa3906f4.md](lg-fa3906f4.md); official file https://www.senat.ro/legis/PDF/2020/20L664LG.PDF
+- 2020-10-30: Document (OG): [og-a8529e37.md](og-a8529e37.md); official file https://www.senat.ro/legis/PDF/2020/20L664OG.PDF
+- 2020-10-30: Document (HG): [hg-62d42c97.md](hg-62d42c97.md); official file https://www.senat.ro/legis/PDF/2020/20L664HG.PDF
