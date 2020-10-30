@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: registered at the Chamber of Deputies
 - 2020-10-06: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-12: sent for promulgation
+- 2020-10-30: promulgated, becomes Legea nr. 223/2020; documents published: Decret de promulgare, Adresă privind forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-21: Adresă către Camera Deputaților (AM): [am-76a1afda.md](am-76a1afda.md); official file https://www.senat.ro/legis/PDF/2020/20L537AM.PDF
 - 2020-10-06: Adresă privind sesizarea CCR (AXS): [axs-b4cfe3ba.md](axs-b4cfe3ba.md); official file https://www.senat.ro/legis/PDF/2020/20L537AXS.PDF
 - 2020-10-06: Forma trimisă la promulgare (LP): [lp-ec8edb27.md](lp-ec8edb27.md); official file https://www.senat.ro/legis/PDF/2020/20L537LP.PDF
+- 2020-10-30: Decret de promulgare (DP): [dp-b8d7caa5.md](dp-b8d7caa5.md); official file https://www.senat.ro/legis/PDF/2020/20L537DP.PDF
+- 2020-10-30: Adresă privind forma promulgată (AFP): [afp-ec509b22.md](afp-ec509b22.md); official file https://www.senat.ro/legis/PDF/2020/20L537AFP.PDF
