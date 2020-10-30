@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
 - 2020-10-29: promulgated, becomes Legea nr. 220/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-10-30: published in the Monitorul Oficial
 
 ## Documents
 
