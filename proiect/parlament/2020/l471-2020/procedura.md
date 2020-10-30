@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-10-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-13: sent for promulgation
+- 2020-10-30: promulgated, becomes Legea nr. 226/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-07: Forma adoptată de Senat (FS): [fs-1de93240.md](fs-1de93240.md); official file https://www.senat.ro/legis/PDF/2020/20L471FS.PDF
 - 2020-10-08: Adresă privind sesizarea CCR (AXS): [axs-07e6ce3f.md](axs-07e6ce3f.md); official file https://www.senat.ro/legis/PDF/2020/20L471AXS.PDF
 - 2020-10-08: Forma trimisă la promulgare (LP): [lp-7efda8a2.md](lp-7efda8a2.md); official file https://www.senat.ro/legis/PDF/2020/20L471LP.PDF
+- 2020-10-30: Decret de promulgare (DP): [dp-b88d08c2.md](dp-b88d08c2.md); official file https://www.senat.ro/legis/PDF/2020/20L471DP.PDF
+- 2020-10-30: Adresă privind forma promulgată (AFP): [afp-9aa39bc5.md](afp-9aa39bc5.md); official file https://www.senat.ro/legis/PDF/2020/20L471AFP.PDF
+- 2020-10-30: Forma promulgată (FP): [fp-3622e397.md](fp-3622e397.md); official file https://www.senat.ro/legis/PDF/2020/20L471FP.PDF
