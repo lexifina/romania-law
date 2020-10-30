@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-05: registered at the Chamber of Deputies
 - 2020-10-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
+- 2020-10-30: promulgated, becomes Legea nr. 221/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-03: Adresă către Camera Deputaților (AM): [am-971b423d.md](am-971b423d.md); official file https://www.senat.ro/legis/PDF/2019/19L619AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2019/19L619AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-241a1bfb.md](lp-241a1bfb.md); official file https://www.senat.ro/legis/PDF/2019/19L619LP.PDF
+- 2020-10-30: Decret de promulgare (DP): [dp-48ca20eb.md](dp-48ca20eb.md); official file https://www.senat.ro/legis/PDF/2019/19L619DP.PDF
+- 2020-10-30: Adresă privind forma promulgată (AFP): [afp-6b6ea63c.md](afp-6b6ea63c.md); official file https://www.senat.ro/legis/PDF/2019/19L619AFP.PDF
+- 2020-10-30: Forma promulgată (FP): [fp-09b8e473.md](fp-09b8e473.md); official file https://www.senat.ro/legis/PDF/2019/19L619FP.PDF
