@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: adopted by the Chamber of Deputies
 - 2020-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-16: sent for promulgation
+- 2020-11-02: promulgated, becomes Legea nr. 227/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: Adresă către Camera Deputaților (AM): [am-e2f5fd52.md](am-e2f5fd52.md); official file https://www.senat.ro/legis/PDF/2020/20L483AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L483AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-10b13dc2.md](lp-10b13dc2.md); official file https://www.senat.ro/legis/PDF/2020/20L483LP.PDF
+- 2020-11-02: Decret de promulgare (DP): [dp-310494f6.md](dp-310494f6.md); official file https://www.senat.ro/legis/PDF/2020/20L483DP.PDF
+- 2020-11-02: Adresă privind forma promulgată (AFP): [afp-4c9571e8.md](afp-4c9571e8.md); official file https://www.senat.ro/legis/PDF/2020/20L483AFP.PDF
+- 2020-11-02: Forma promulgată (FP): [fp-ebf369dd.md](fp-ebf369dd.md); official file https://www.senat.ro/legis/PDF/2020/20L483FP.PDF
