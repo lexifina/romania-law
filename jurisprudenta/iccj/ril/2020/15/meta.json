@@ -1,0 +1,226 @@
+{
+ "key": "iccj-ril-15-2020",
+ "label": "Decizia ÎCCJ nr. 15/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "15",
+ "date": "2020-07-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 15 din 20 iulie 2020",
+ "subtitle": "referitoare la acțiunea promovată de angajator în contradictoriu cu salariatul pentru restituirea sumelor achitate de primul celui de-al doilea, de bunăvoie, înainte de începerea executării silite, în baza unei hotărâri judecătorești executorii, de primă instanță, care ulterior este desființată în calea de atac, îmbracă natura juridică a unui conflict de muncă, a cărui soluționare se circumscrie prevederilor art. 256 alin. (1) din Legea nr. 53/2003 privind Codul muncii, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1021",
+  "bis": false,
+  "date": "2020-11-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.048/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "256",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Suceava și, în consecință, stabilește că:",
+  "Acțiunea promovată de angajator în contradictoriu cu salariatul pentru restituirea sumelor achitate de primul celui de-al doilea, de bunăvoie, înainte de începerea executării silite, în baza unei hotărâri judecătorești executorii, de primă instanță, care ulterior este desființată în calea de atac, îmbracă natura juridică a unui conflict de muncă, a cărui soluționare se circumscrie prevederilor art. 256 alin. (1) din Legea nr. 53/2003 privind Codul muncii, republicată, cu modificările și completările ulterioare, atrăgând competența materială de soluționare în primă instanță în favoarea tribunalului - Secția specializată în litigii de muncă și asigurări sociale, conform art. 208 și art. 210 din Legea dialogului social nr. 62/2011, republicată, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1635",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "256",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "724",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "723",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "643",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "631",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "724",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "404-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232026",
+  "text_sha256": "e3c45efde5de7491d5dd289684ee65f502f8c40496fa8fcbb9b361684d3e84e4",
+  "catalogue_sha256": "e3c45efde5de7491d5dd289684ee65f502f8c40496fa8fcbb9b361684d3e84e4",
+  "fetched": "2026-11-03T01:56:18Z",
+  "chars": 70303,
+  "portal_id": "232026",
+  "tip": "DECIZIE"
+ }
+}
