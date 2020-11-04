@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-12: registered at the Chamber of Deputies
 - 2020-10-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-16: sent for promulgation
+- 2020-11-04: promulgated, becomes Legea nr. 230/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-202246cc.md](am-202246cc.md); official file https://www.senat.ro/legis/PDF/2020/20L598AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L598AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-5529c118.md](lp-5529c118.md); official file https://www.senat.ro/legis/PDF/2020/20L598LP.PDF
+- 2020-11-04: Decret de promulgare (DP): [dp-e42f27a5.md](dp-e42f27a5.md); official file https://www.senat.ro/legis/PDF/2020/20L598DP.PDF
+- 2020-11-04: Adresă privind forma promulgată (AFP): [afp-a2695769.md](afp-a2695769.md); official file https://www.senat.ro/legis/PDF/2020/20L598AFP.PDF
+- 2020-11-04: Forma promulgată (FP): [fp-b59eea96.md](fp-b59eea96.md); official file https://www.senat.ro/legis/PDF/2020/20L598FP.PDF
