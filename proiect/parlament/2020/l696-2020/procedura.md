@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern, Punct de vedere
 - 2020-09-02: documents published: Aviz comisie
 - 2020-09-14: registered at the Chamber of Deputies
+- 2020-11-04: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Punct de vedere Guvern (SJ): [sj-7d89da8b.md](sj-7d89da8b.md); official file https://www.senat.ro/legis/PDF/2020/20L696SJ.PDF
 - 2020-07-21: Punct de vedere (PV): [pv-825492c3.md](pv-825492c3.md); official file https://www.senat.ro/legis/PDF/2020/20L696PV.PDF
 - 2020-09-02: Aviz comisie (CA45): [ca45-e4479c03.md](ca45-e4479c03.md); official file https://www.senat.ro/legis/PDF/2020/20L696CA45.PDF
+- 2020-11-04: Raport comisie sesizată pe fond (CR): [cr-7fc48510.md](cr-7fc48510.md); official file https://www.senat.ro/legis/PDF/2020/20L696CR.PDF
