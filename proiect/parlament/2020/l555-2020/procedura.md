@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-10-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-13: sent for promulgation
 - 2020-10-30: promulgated, becomes Legea nr. 224/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2020-10-30: Decret de promulgare (DP): [dp-5110ccc8.md](dp-5110ccc8.md); official file https://www.senat.ro/legis/PDF/2020/20L555DP.PDF
 - 2020-10-30: Adresă privind forma promulgată (AFP): [afp-eca2d7d2.md](afp-eca2d7d2.md); official file https://www.senat.ro/legis/PDF/2020/20L555AFP.PDF
 - 2020-10-30: Forma promulgată (FP): [fp-7fa775a5.md](fp-7fa775a5.md); official file https://www.senat.ro/legis/PDF/2020/20L555FP.PDF
+- 2020-11-04: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L555DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-04: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L555TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-04: Document (AL): [al-4f7f447a.md](al-4f7f447a.md); official file https://www.senat.ro/legis/PDF/2020/20L555AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-04: Document (TC): [tc-58e86bf9.md](tc-58e86bf9.md); official file https://www.senat.ro/legis/PDF/2020/20L555TC.PDF (its day is not given by the bill file: shown from the last stage held)
