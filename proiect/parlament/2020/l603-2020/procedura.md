@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-20: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-10-05: documents published: Aviz comisie
 - 2020-10-08: documents published: Raport comisie sesizată pe fond
+- 2020-11-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-20: Aviz Consiliul Legislativ (LG): [lg-c713cbbe.md](lg-c713cbbe.md); official file https://www.senat.ro/legis/PDF/2020/20L603LG.PDF
 - 2020-10-05: Aviz comisie (CA41): [ca41-4e5dce39.md](ca41-4e5dce39.md); official file https://www.senat.ro/legis/PDF/2020/20L603CA41.PDF
 - 2020-10-08: Raport comisie sesizată pe fond (CR): [cr-2cba7949.md](cr-2cba7949.md); official file https://www.senat.ro/legis/PDF/2020/20L603CR.PDF
+- 2020-11-04: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L603FS.PDF
+- 2020-11-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L603AM.PDF
