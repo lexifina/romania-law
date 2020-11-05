@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: adopted by the Chamber of Deputies
 - 2020-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
+- 2020-11-05: promulgated, becomes Legea nr. 234/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L461AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2019/19L461AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-69804d30.md](lp-69804d30.md); official file https://www.senat.ro/legis/PDF/2019/19L461LP.PDF
+- 2020-11-05: Decret de promulgare (DP): [dp-aab6763d.md](dp-aab6763d.md); official file https://www.senat.ro/legis/PDF/2019/19L461DP.PDF
+- 2020-11-05: Adresă privind forma promulgată (AFP): [afp-bf5b0784.md](afp-bf5b0784.md); official file https://www.senat.ro/legis/PDF/2019/19L461AFP.PDF
+- 2020-11-05: Forma promulgată (FP): [fp-1f164e3b.md](fp-1f164e3b.md); official file https://www.senat.ro/legis/PDF/2019/19L461FP.PDF
