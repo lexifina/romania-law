@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: adopted by the Chamber of Deputies
 - 2020-10-14: documents published: Adresă privind sesizarea CCR
 - 2020-10-19: sent for promulgation
+- 2020-11-05: promulgated, becomes Legea nr. 232/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: Forma adoptată de Senat (FS): [fs-3b40ae86.md](fs-3b40ae86.md); official file https://www.senat.ro/legis/PDF/2020/20L564FS.PDF
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-881a8a3d.md](am-881a8a3d.md); official file https://www.senat.ro/legis/PDF/2020/20L564AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L564AXS.PDF
+- 2020-11-05: Decret de promulgare (DP): [dp-723377b9.md](dp-723377b9.md); official file https://www.senat.ro/legis/PDF/2020/20L564DP.PDF
+- 2020-11-05: Adresă privind forma promulgată (AFP): [afp-681c07c9.md](afp-681c07c9.md); official file https://www.senat.ro/legis/PDF/2020/20L564AFP.PDF
+- 2020-11-05: Forma promulgată (FP): [fp-079bc8fa.md](fp-079bc8fa.md); official file https://www.senat.ro/legis/PDF/2020/20L564FP.PDF
