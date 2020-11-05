@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: adopted by the Chamber of Deputies
 - 2020-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
+- 2020-11-05: promulgated, becomes Legea nr. 231/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-19: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L058AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L058AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-13eab0b3.md](lp-13eab0b3.md); official file https://www.senat.ro/legis/PDF/2020/20L058LP.PDF
+- 2020-11-05: Decret de promulgare (DP): [dp-410310e4.md](dp-410310e4.md); official file https://www.senat.ro/legis/PDF/2020/20L058DP.PDF
+- 2020-11-05: Adresă privind forma promulgată (AFP): [afp-34742109.md](afp-34742109.md); official file https://www.senat.ro/legis/PDF/2020/20L058AFP.PDF
+- 2020-11-05: Forma promulgată (FP): [fp-1bf48bac.md](fp-1bf48bac.md); official file https://www.senat.ro/legis/PDF/2020/20L058FP.PDF
