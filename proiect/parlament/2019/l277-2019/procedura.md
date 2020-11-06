@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-10-13: adopted by the Chamber of Deputies
 - 2020-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
+- 2020-11-06: promulgated, becomes Legea nr. 240/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L277AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2019/19L277AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-a989cff8.md](lp-a989cff8.md); official file https://www.senat.ro/legis/PDF/2019/19L277LP.PDF
+- 2020-11-06: Decret de promulgare (DP): [dp-164ef21f.md](dp-164ef21f.md); official file https://www.senat.ro/legis/PDF/2019/19L277DP.PDF
+- 2020-11-06: Adresă privind forma promulgată (AFP): [afp-de0f45f5.md](afp-de0f45f5.md); official file https://www.senat.ro/legis/PDF/2019/19L277AFP.PDF
+- 2020-11-06: Forma promulgată (FP): [fp-e461a245.md](fp-e461a245.md); official file https://www.senat.ro/legis/PDF/2019/19L277FP.PDF
