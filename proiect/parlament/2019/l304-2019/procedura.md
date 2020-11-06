@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
 - 2020-11-05: promulgated, becomes Legea nr. 236/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-06: published in the Monitorul Oficial
 
 ## Documents
 
