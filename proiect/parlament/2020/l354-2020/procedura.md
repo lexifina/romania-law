@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-07: registered at the Chamber of Deputies
 - 2020-10-14: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-19: sent for promulgation
+- 2020-11-06: promulgated, becomes Legea nr. 242/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Adresă către Camera Deputaților (AM): [am-f0a3e54c.md](am-f0a3e54c.md); official file https://www.senat.ro/legis/PDF/2020/20L354AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L354AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-4c8c0cbc.md](lp-4c8c0cbc.md); official file https://www.senat.ro/legis/PDF/2020/20L354LP.PDF
+- 2020-11-06: Decret de promulgare (DP): [dp-d42140fb.md](dp-d42140fb.md); official file https://www.senat.ro/legis/PDF/2020/20L354DP.PDF
+- 2020-11-06: Adresă privind forma promulgată (AFP): [afp-1253b5cf.md](afp-1253b5cf.md); official file https://www.senat.ro/legis/PDF/2020/20L354AFP.PDF
+- 2020-11-06: Forma promulgată (FP): [fp-10fee742.md](fp-10fee742.md); official file https://www.senat.ro/legis/PDF/2020/20L354FP.PDF
