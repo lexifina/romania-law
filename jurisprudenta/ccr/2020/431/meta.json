@@ -1,0 +1,151 @@
+{
+ "key": "dcc-431-2020",
+ "label": "Decizia CCR nr. 431/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "431",
+ "date": "2020-06-23",
+ "year": "2020",
+ "heading": "DECIZIA nr. 431 din 23 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 667 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1037",
+  "bis": false,
+  "date": "2020-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "11.949/320/2017/a1",
+  "658D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "667",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 667 din Codul de procedură civilă, excepție ridicată de Jakab Erzsébet, Jakab Emese Erzsébet și Jakab István Zsolt, prin tutore Jakab Erzsébet, în Dosarul nr. 11.949/320/2017/a1 al Judecătoriei Târgu Mureș - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Mureș - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "667",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232708",
+  "text_sha256": "dfe558717acf8ebae298a776f3dc70cda56925399dfd3887186e7c8aef934452",
+  "catalogue_sha256": "dfe558717acf8ebae298a776f3dc70cda56925399dfd3887186e7c8aef934452",
+  "fetched": "2026-11-06T02:23:39Z",
+  "chars": 7254,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20251026225057/https://legislatie.just.ro/Public/DetaliiDocumentAfis/232708",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/232708",
+   "timestamp": "20251026225057",
+   "sha256": "7ad020702c5143e8994db8aa20a3d84b7a923f0f0eff774c8e707f1cc937edc2"
+  },
+  "portal_id": "232708",
+  "tip": "DECIZIE"
+ }
+}
