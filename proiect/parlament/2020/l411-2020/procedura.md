@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-07-27: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
+- 2020-11-09: promulgated, becomes Legea nr. 244/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-d790593b.md](am-d790593b.md); official file https://www.senat.ro/legis/PDF/2020/20L411AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-2be8c344.md](axs-2be8c344.md); official file https://www.senat.ro/legis/PDF/2020/20L411AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-2e27e138.md](lp-2e27e138.md); official file https://www.senat.ro/legis/PDF/2020/20L411LP.PDF
+- 2020-11-09: Decret de promulgare (DP): [dp-cd4b96e7.md](dp-cd4b96e7.md); official file https://www.senat.ro/legis/PDF/2020/20L411DP.PDF
+- 2020-11-09: Adresă privind forma promulgată (AFP): [afp-8bea0317.md](afp-8bea0317.md); official file https://www.senat.ro/legis/PDF/2020/20L411AFP.PDF
+- 2020-11-09: Forma promulgată (FP): [fp-658dc908.md](fp-658dc908.md); official file https://www.senat.ro/legis/PDF/2020/20L411FP.PDF
