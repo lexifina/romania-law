@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-09-30: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
+- 2020-11-09: promulgated, becomes Legea nr. 245/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-09-06: Adresă către Camera Deputaților (AM): [am-8e4c8af3.md](am-8e4c8af3.md); official file https://www.senat.ro/legis/PDF/2020/20L430AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-162aaf87.md](axs-162aaf87.md); official file https://www.senat.ro/legis/PDF/2020/20L430AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-95883fed.md](lp-95883fed.md); official file https://www.senat.ro/legis/PDF/2020/20L430LP.PDF
+- 2020-11-09: Decret de promulgare (DP): [dp-b7a09c6a.md](dp-b7a09c6a.md); official file https://www.senat.ro/legis/PDF/2020/20L430DP.PDF
+- 2020-11-09: Adresă privind forma promulgată (AFP): [afp-ee3e1ecf.md](afp-ee3e1ecf.md); official file https://www.senat.ro/legis/PDF/2020/20L430AFP.PDF
+- 2020-11-09: Forma promulgată (FP): [fp-6cf8e09b.md](fp-6cf8e09b.md); official file https://www.senat.ro/legis/PDF/2020/20L430FP.PDF
