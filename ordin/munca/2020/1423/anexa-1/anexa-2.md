@@ -1,0 +1,22 @@
+# Anexa nr. 2 la procedură
+CERERE pentru eliberarea autorizației
+Subsemnatul(a),.................................., legitimat(ă) cu BI/CI seria................ nr............., CNP................, e-mail:......................, tel........................, reprezentant legal pentru..................................................... (Se completează cu denumirea entității care se autorizează.), cu sediul în localitatea................, str................ nr.................., bl.................., ap.................., sectorul/județul................, cod de înregistrare fiscală................, din data de................, cu punct de lucru în................ localitatea................, str................ nr......, bl.................., ap.................., sectorul/județul................, secția/atelierul/structura................ care funcționează în................, str................ nr.................., ap.................., sectorul/județul........................ din cadrul................ cu sediul în................, str................. nr.................., ap.................., sectorul/județul................, cod de înregistrare fiscală................, din data de................,....................................................... (Se completează cu numele și prenumele persoanei care exercită o profesie în baza unei legi speciale), CNP................................., domiciliată/domiciliat în................................., str........... nr......, bl....., sc....., et....., ap....., județul......., posesoare/posesor a/al CI seria..... nr........, emisă la data de........... de........., solicit eliberarea autorizației de funcționare ca unitate protejată pentru următoarele domenii de activitate:.............................................................................................
+Declar pe propria răspundere, sub sancțiunea prevăzută la art. 326 din Codul penal, privind falsul în declarații, următoarele: - sunt respectate condițiile de autorizare a unităților protejate;
+- documentele depuse sunt conforme cu originalul;
+- persoanele cu handicap/invalide gradul III desfășoară propria activitate în cadrul domeniilor de activitate pentru care se solicită autorizația;
+- orice modificare intervenită, care determină nerespectarea prevederilor art. 3 din procedura de autorizare, se notifică Autorității Naționale pentru Drepturile Persoanelor cu Dizabilități, Copii și Adopții (Autoritatea), de către reprezentantul legal al unității protejate.
+Prin prezenta cerere mă angajez: - să comercializez doar produsele și serviciile publicate în Registrul unităților protejate, publicat pe site-ul Autorității;
+- să public Raportul anual de activitate al unității protejate pe site-ul.........................
+Prin prezenta cerere îmi exprim acordul cu privire la prelucrarea datelor cu caracter personal și postarea pe site-ul Autorității a informațiilor cuprinse în Registrul unităților protejate.
+Data..............................
+Semnătura solicitantului...................................
+Anexa nr. 3 la procedură
+ANTET
+TABEL cu domeniile de activitate și personalul angajat^1 ^1 Se completează, obligatoriu, de către toți solicitanții de autorizație prevăzuți la art. 3 din procedură............................................. (Se completează cu denumirea entității care se autorizează.)
+Secția/Atelierul/Structura................................. din cadrul instituției publice/organizației fără scop patrimonial................................ (Se completează cu numele și prenumele persoanei care exercită o profesie în baza unei legi speciale.)
+Procent persoane cu handicap/invalide gradul III:......................%
+Nr. crt. Numele și prenumele persoanelor angajate Timpul de lucru al fiecărui angajat (norma) Propria activitate a persoanelor cu handicap/invalide gradul III (scurtă descriere) Domeniul/Domeniile de activitate care fac obiectul autorizării Locul desfășurării activității pentru care se solicită autorizarea (adresa sediului, adresa punctului de lucru)
+Observații (în cazul persoanelor cu handicap se va preciza: PH cu nr. și data certificat de încadrare în grad de handicap, iar pentru persoanele invalide gradul III: PI, nr. și data deciziei medicale asupra capacității de muncă) 1
+Procent norma de lucru persoane cu handicap/invalide gradul III.................%
+Data...................
+Semnătura.....................
