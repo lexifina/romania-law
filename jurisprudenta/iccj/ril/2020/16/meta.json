@@ -1,0 +1,346 @@
+{
+ "key": "iccj-ril-16-2020",
+ "label": "Decizia ÎCCJ nr. 16/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "16",
+ "date": "2020-07-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 16 din 20 iulie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 13 alin. (2) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1047",
+  "bis": false,
+  "date": "2020-11-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.134/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea dispozițiilor art. 13 alin. (2) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare, raportate la dispozițiile art. 31 coroborate cu cele ale art. 37 alin. (5) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, republicată, cu modificările și completările ulterioare, termenul de prescripție a răspunderii contravenționale pentru contravențiile prevăzute de art. 26 alin. (1) lit. a) din Legea nr. 50/1991, republicată, constând în executarea, fără autorizație de construire, a unei construcții ce cuprinde toate elementele structurale necesare pentru a fi considerată terminată la data constatării contravenției, curge de la data terminării în fapt a construcției.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": [
+      "5",
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 79
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2020",
+    "number": "7",
+    "year": "2020",
+    "path": "lege/2020/7"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "492",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "579",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "577",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 32/1968",
+    "number": "32",
+    "year": "1968",
+    "path": "lege/1968/32"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "453",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 197/2016",
+    "number": "197",
+    "year": "2016",
+    "path": "lege/2016/197"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232756",
+  "text_sha256": "a9ff3c8099d37e5770161927d5b16fb91b3cb69e4a29165c3d9a12883697acbb",
+  "catalogue_sha256": "a9ff3c8099d37e5770161927d5b16fb91b3cb69e4a29165c3d9a12883697acbb",
+  "fetched": "2026-11-03T01:55:59Z",
+  "chars": 71867,
+  "portal_id": "232756",
+  "tip": "DECIZIE"
+ }
+}
