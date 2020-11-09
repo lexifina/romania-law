@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-11-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2020-11-09: sent for promulgation
 
 ## Documents
 
