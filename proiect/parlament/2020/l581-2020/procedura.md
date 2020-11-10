@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-10-01: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2020-10-20: registered at the Chamber of Deputies; adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
+- 2020-11-10: promulgated, becomes Legea nr. 247/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-10-01: Adresă către Camera Deputaților (AM): [am-d7eced93.md](am-d7eced93.md); official file https://www.senat.ro/legis/PDF/2020/20L581AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-8006bc78.md](axs-8006bc78.md); official file https://www.senat.ro/legis/PDF/2020/20L581AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-ecb3e145.md](lp-ecb3e145.md); official file https://www.senat.ro/legis/PDF/2020/20L581LP.PDF
+- 2020-11-10: Decret de promulgare (DP): [dp-1d525b73.md](dp-1d525b73.md); official file https://www.senat.ro/legis/PDF/2020/20L581DP.PDF
+- 2020-11-10: Adresă privind forma promulgată (AFP): [afp-8fffe2cd.md](afp-8fffe2cd.md); official file https://www.senat.ro/legis/PDF/2020/20L581AFP.PDF
+- 2020-11-10: Forma promulgată (FP): [fp-7fb26ca3.md](fp-7fb26ca3.md); official file https://www.senat.ro/legis/PDF/2020/20L581FP.PDF
