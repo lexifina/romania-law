@@ -1,0 +1,290 @@
+{
+ "key": "dcc-708-2020",
+ "label": "Decizia CCR nr. 708/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "708",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 708 din 6 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Legii nr. 42/2010 privind darea în administrarea autorităților administrației publice locale a unor bunuri aflate în domeniul public al statului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1054",
+  "bis": false,
+  "date": "2020-11-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "3.491/118/2018",
+  "280D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 42/2010",
+    "number": "42",
+    "year": "2010",
+    "path": "lege/2010/42"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Administrația Națională „Apele Române“, prin Administrația Bazinală de Apă Dobrogea-Litoral (ABADL) din Constanța, în Dosarul nr. 3.491/118/2018 al Tribunalului Constanța - Secția I civilă și constată că Legea nr. 42/2010 privind darea în administrarea autorităților administrației publice locale a unor bunuri aflate în domeniul public al statului este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului Constanța - Secția a I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 42/2010",
+    "number": "42",
+    "year": "2010",
+    "path": "lege/2010/42"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea apelor nr. 107/1996",
+    "number": "107",
+    "year": "1996",
+    "path": "lege/1996/107"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "136",
+     "alin": [
+      "3",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 446/2018",
+    "number": "446",
+    "year": "2018",
+    "path": "hg/2018/446"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.705/2006",
+    "number": "1705",
+    "year": "2006",
+    "path": "hg/2006/1705"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 107/2002",
+    "number": "107",
+    "year": "2002",
+    "path": "oug/2002/107"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232833",
+  "text_sha256": "fa5c6f5224332ebb9101f713583f2db92c19b30ee6b32c558b247cdec538ab62",
+  "catalogue_sha256": "fa5c6f5224332ebb9101f713583f2db92c19b30ee6b32c558b247cdec538ab62",
+  "fetched": "2026-11-03T01:55:52Z",
+  "chars": 29617,
+  "portal_id": "232833",
+  "tip": "DECIZIE"
+ }
+}
