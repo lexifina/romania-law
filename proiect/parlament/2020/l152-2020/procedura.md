@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-22: sent for promulgation
+- 2020-11-10: promulgated, becomes Legea nr. 246/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-be202bea.md](am-be202bea.md); official file https://www.senat.ro/legis/PDF/2020/20L152AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-144bc48b.md](axs-144bc48b.md); official file https://www.senat.ro/legis/PDF/2020/20L152AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-b454ffd8.md](lp-b454ffd8.md); official file https://www.senat.ro/legis/PDF/2020/20L152LP.PDF
+- 2020-11-10: Document (AT): [at-d1a6edae.md](at-d1a6edae.md); official file https://www.senat.ro/legis/PDF/2020/20L152AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-10: Decret de promulgare (DP): [dp-f268c417.md](dp-f268c417.md); official file https://www.senat.ro/legis/PDF/2020/20L152DP.PDF
+- 2020-11-10: Adresă privind forma promulgată (AFP): [afp-ff4baa54.md](afp-ff4baa54.md); official file https://www.senat.ro/legis/PDF/2020/20L152AFP.PDF
+- 2020-11-10: Forma promulgată (FP): [fp-38011955.md](fp-38011955.md); official file https://www.senat.ro/legis/PDF/2020/20L152FP.PDF
