@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-29: sent for promulgation
 - 2020-09-29: published in the Monitorul Oficial
 - 2020-10-26: returned for re-examination
+- 2020-11-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: Adresă către Camera Deputaților (AM): [am-89c58bce.md](am-89c58bce.md); official file https://www.senat.ro/legis/PDF/2020/20L464AM.PDF
 - 2020-07-27: Adresă privind sesizarea CCR (AXS): [axs-594a45ce.md](axs-594a45ce.md); official file https://www.senat.ro/legis/PDF/2020/20L464AXS.PDF
 - 2020-07-27: Forma trimisă la promulgare (LP): [lp-871a9265.md](lp-871a9265.md); official file https://www.senat.ro/legis/PDF/2020/20L464LP.PDF
+- 2020-11-10: Aviz comisie (CA44): [ca44-9fbb50f7.md](ca44-9fbb50f7.md); official file https://www.senat.ro/legis/PDF/2020/20L464CA44.PDF
