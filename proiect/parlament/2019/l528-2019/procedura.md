@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-18: registered at the Chamber of Deputies
 - 2019-09-24: adopted by the Chamber of Deputies
 - 2019-09-25: registered at the Senate
+- 2020-11-11: documents published: Document (day not given by the bill file), Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-26: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528ES.PDF
 - 2019-03-26: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528SJ.PDF
 - 2019-03-26: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528PV.PDF
+- 2020-11-11: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L528AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-11: Raport comisie sesizată pe fond (CR): [cr-cb2f7297.md](cr-cb2f7297.md); official file https://www.senat.ro/legis/PDF/2019/19L528CR.PDF
