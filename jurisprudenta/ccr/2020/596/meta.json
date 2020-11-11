@@ -1,0 +1,212 @@
+{
+ "key": "dcc-596-2020",
+ "label": "Decizia CCR nr. 596/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "596",
+ "date": "2020-07-15",
+ "year": "2020",
+ "heading": "DECIZIA nr. 596 din 15 iulie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 16 alin. (6^4) din titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietății și justiției, precum și unele măsuri adiacente",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1058",
+  "bis": false,
+  "date": "2020-11-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24.247/302/2016",
+  "2.131D/2017",
+  "14.554/211/2017",
+  "2.808D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "6-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 16 alin. (6^4) din Titlul VII al Legii nr. 247/2005 privind reforma în domeniile proprietății și justiției, precum și unele măsuri adiacente, excepție ridicată de Theodor Cătălin Nicolescu în Dosarul nr. 24.247/302/2016 al Judecătoriei Sectorului 5 București și de Mihnea Remus Iuoraș în Dosarul nr. 14.554/211/2017 al Judecătoriei Cluj-Napoca.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică instanțelor de recurs și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "6-4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 209/2005",
+    "number": "209",
+    "year": "2005",
+    "path": "oug/2005/209"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/232891",
+  "text_sha256": "03378f2fe0017c8e780a86f59f37d9bdd2f6a848446089645e1cae3094311711",
+  "catalogue_sha256": "03378f2fe0017c8e780a86f59f37d9bdd2f6a848446089645e1cae3094311711",
+  "fetched": "2026-11-03T01:55:50Z",
+  "chars": 15204,
+  "portal_id": "232891",
+  "tip": "DECIZIE"
+ }
+}
