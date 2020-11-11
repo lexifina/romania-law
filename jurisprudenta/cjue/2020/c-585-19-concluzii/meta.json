@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-585-19-concluzii-2020-11-11",
+ "label": "CJUE, Concluziile avocatului general G. Pitruzzella prezentate la 11 noiembrie 2020, Cauza C-585/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2020-11-11",
+ "year": "2020",
+ "case": "Cauza C-585/19.",
+ "celex": "62019CC0585",
+ "ecli": "ECLI:EU:C:2020:899",
+ "heading": "Concluziile avocatului general G. Pitruzzella prezentate la 11 noiembrie 2020",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul București.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica socială – Protecția securității și a sănătății lucrătorilor – Organizarea timpului de lucru – Directiva 2003/88/CE – Articolul 2 – Noțiunea de «timp de lucru» – Articolul 3 – Perioadă minimă de repaus zilnic – Lucrători care au încheiat mai multe contracte de muncă cu același angajator – Aplicare per lucrător.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0585",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-585/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b1b10c7c-2417-11eb-9d7e-01aa75ed71a1.0019.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "0566fb30708ad85e8b082d4a63a19d4a38100bc1d66b4f9c34810d359536c376"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
