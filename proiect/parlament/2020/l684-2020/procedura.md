@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2020-11-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2020-11-11: documents published: Aviz comisie
+- 2020-11-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Guvernul României.
 - 2020-11-03: Aviz Consiliul Legislativ (LG): [lg-32849023.md](lg-32849023.md); official file https://www.senat.ro/legis/PDF/2020/20L684LG.PDF
 - 2020-11-03: Document (HG): [hg-00f7b7b2.md](hg-00f7b7b2.md); official file https://www.senat.ro/legis/PDF/2020/20L684HG.PDF
 - 2020-11-11: Aviz comisie (CA5): [ca5-a63c7ff9.md](ca5-a63c7ff9.md); official file https://www.senat.ro/legis/PDF/2020/20L684CA5.PDF
+- 2020-11-12: Aviz comisie (CA1): [ca1-86bbd8c5.md](ca1-86bbd8c5.md); official file https://www.senat.ro/legis/PDF/2020/20L684CA1.PDF
