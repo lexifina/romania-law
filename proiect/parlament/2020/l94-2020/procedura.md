@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-26: sent for promulgation
+- 2020-11-13: promulgated, becomes Legea nr. 251/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L094AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-08958ded.md](axs-08958ded.md); official file https://www.senat.ro/legis/PDF/2020/20L094AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-73e4178e.md](lp-73e4178e.md); official file https://www.senat.ro/legis/PDF/2020/20L094LP.PDF
+- 2020-11-13: Decret de promulgare (DP): [dp-fee419c5.md](dp-fee419c5.md); official file https://www.senat.ro/legis/PDF/2020/20L094DP.PDF
+- 2020-11-13: Adresă privind forma promulgată (AFP): [afp-5a4b224d.md](afp-5a4b224d.md); official file https://www.senat.ro/legis/PDF/2020/20L094AFP.PDF
+- 2020-11-13: Forma promulgată (FP): [fp-6ccfcb98.md](fp-6ccfcb98.md); official file https://www.senat.ro/legis/PDF/2020/20L094FP.PDF
