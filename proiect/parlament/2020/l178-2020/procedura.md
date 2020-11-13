@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-06: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-26: sent for promulgation
+- 2020-11-13: promulgated, becomes Legea nr. 249/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-a48bdf26.md](am-a48bdf26.md); official file https://www.senat.ro/legis/PDF/2020/20L178AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-ff9107dc.md](axs-ff9107dc.md); official file https://www.senat.ro/legis/PDF/2020/20L178AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-ae9bb94e.md](lp-ae9bb94e.md); official file https://www.senat.ro/legis/PDF/2020/20L178LP.PDF
+- 2020-11-13: Decret de promulgare (DP): [dp-62fd905b.md](dp-62fd905b.md); official file https://www.senat.ro/legis/PDF/2020/20L178DP.PDF
+- 2020-11-13: Adresă privind forma promulgată (AFP): [afp-26efdc6a.md](afp-26efdc6a.md); official file https://www.senat.ro/legis/PDF/2020/20L178AFP.PDF
+- 2020-11-13: Forma promulgată (FP): [fp-a57cb4ba.md](fp-a57cb4ba.md); official file https://www.senat.ro/legis/PDF/2020/20L178FP.PDF
