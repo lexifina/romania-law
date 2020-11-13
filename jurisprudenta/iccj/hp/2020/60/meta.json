@@ -1,0 +1,260 @@
+{
+ "key": "iccj-hp-60-2020",
+ "label": "Decizia ÎCCJ nr. 60/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "60",
+ "date": "2020-10-05",
+ "year": "2020",
+ "heading": "DECIZIA nr. 60 din 5 octombrie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 1.596 lit. a) și art. 2.327 din Codul civil, art. 5 alin. (1) pct. 15 și art. 161 pct. 5 din Legea nr. 85/2014",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1076",
+  "bis": false,
+  "date": "2020-11-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.667/1/2020",
+  "10.185/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1596",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1593",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel București - Secția a V-a civilă în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "1. în interpretarea dispozițiilor art. 1.596 lit. a) și art. 2.327 din Codul civil, art. 5 alin. (1) pct. 15 și art. 161 pct. 5 din Legea nr. 85/2014, în noțiunea de «creditor care are un drept de preferință» se include și creditorul bugetar ce beneficiază de ordinea de prioritate prevăzută de art. 161 pct. 5 din Legea nr. 85/2014 ?;",
+  "2. în interpretarea dispozițiilor art. 1.593 alin. (1) și art. 1.597 din Codul civil, efectul subrogației constă inclusiv în dobândirea de către un creditor privat a ordinii de prioritate la plată de care beneficiază creditorul bugetar potrivit dispozițiilor art. 161 pct. 5 din Legea nr. 85/2014 ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1596",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1593",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1506",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233104",
+  "text_sha256": "d12bbfc8af0efa306f4944f75615d98d4ebcf2cd37417ec219f1c1eab6f09a06",
+  "catalogue_sha256": "d12bbfc8af0efa306f4944f75615d98d4ebcf2cd37417ec219f1c1eab6f09a06",
+  "fetched": "2026-11-03T01:55:32Z",
+  "chars": 53344,
+  "portal_id": "233104",
+  "tip": "DECIZIE"
+ }
+}
