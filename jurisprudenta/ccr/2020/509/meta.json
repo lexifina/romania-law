@@ -1,0 +1,240 @@
+{
+ "key": "dcc-509-2020",
+ "label": "Decizia CCR nr. 509/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "509",
+ "date": "2020-06-30",
+ "year": "2020",
+ "heading": "DECIZIA nr. 509 din 30 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 16 alin. (1) din Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare, în interpretarea dată prin Decizia nr. 10 din 12 septembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1077",
+  "bis": false,
+  "date": "2020-11-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.039/40/2018",
+  "234/40/2018",
+  "4.876/86/2017/a2",
+  "4.877/86/2017/a2",
+  "636/84/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ministerul Public în Dosarul nr. 1.039/40/2018 al Tribunalului Botoșani - Secția penală, în Dosarul nr. 234/40/2018 al Tribunalului Botoșani - Secția penală, în Dosarul nr. 4.876/86/2017/a2 al Curții de Apel Suceava - Secția penală și pentru cauze cu minori, în Dosarul nr. 4.877/86/2017/a2 al Curții de Apel Suceava - Secția penală și pentru cauze cu minori și în Dosarul nr. 636/84/2018 al Tribunalului Sălaj - Secția penală și constată că dispozițiile art. 16 alin. (1) din Legea nr. 194/2011 privind combaterea operațiunilor cu produse susceptibile de a avea efecte psihoactive, altele decât cele prevăzute de acte normative în vigoare, în interpretarea dată prin Decizia nr. 10 din 12 septembrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția penală, Curții de Apel Suceava - Secția penală și pentru cauze cu minori și Tribunalului Sălaj - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2011",
+    "number": "194",
+    "year": "2011",
+    "path": "lege/2011/194"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 194/2000",
+    "number": "194",
+    "year": "2000",
+    "path": "lege/2000/194"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233133",
+  "text_sha256": "db82e3e9bed78bdc0f1b1ca5fccc94cdd6126076a61e4d2c5cad3ac741b2c297",
+  "catalogue_sha256": "db82e3e9bed78bdc0f1b1ca5fccc94cdd6126076a61e4d2c5cad3ac741b2c297",
+  "fetched": "2026-11-03T01:55:31Z",
+  "chars": 35744,
+  "portal_id": "233133",
+  "tip": "DECIZIE"
+ }
+}
