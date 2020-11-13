@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-04: registered at the Chamber of Deputies
 - 2020-10-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-26: sent for promulgation
+- 2020-11-13: promulgated, becomes Legea nr. 250/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L543AM.PDF
 - 2020-10-20: Adresă privind sesizarea CCR (AXS): [axs-2b7a40a7.md](axs-2b7a40a7.md); official file https://www.senat.ro/legis/PDF/2019/19L543AXS.PDF
 - 2020-10-20: Forma trimisă la promulgare (LP): [lp-788fc6ad.md](lp-788fc6ad.md); official file https://www.senat.ro/legis/PDF/2019/19L543LP.PDF
+- 2020-11-13: Decret de promulgare (DP): [dp-69ded73c.md](dp-69ded73c.md); official file https://www.senat.ro/legis/PDF/2019/19L543DP.PDF
+- 2020-11-13: Adresă privind forma promulgată (AFP): [afp-489de54e.md](afp-489de54e.md); official file https://www.senat.ro/legis/PDF/2019/19L543AFP.PDF
+- 2020-11-13: Forma promulgată (FP): [fp-327de3a9.md](fp-327de3a9.md); official file https://www.senat.ro/legis/PDF/2019/19L543FP.PDF
