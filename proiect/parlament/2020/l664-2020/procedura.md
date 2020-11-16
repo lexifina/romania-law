@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2020-10-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2020-11-16: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Guvernul României.
 - 2020-10-30: Aviz Consiliul Legislativ (LG): [lg-fa3906f4.md](lg-fa3906f4.md); official file https://www.senat.ro/legis/PDF/2020/20L664LG.PDF
 - 2020-10-30: Document (OG): [og-a8529e37.md](og-a8529e37.md); official file https://www.senat.ro/legis/PDF/2020/20L664OG.PDF
 - 2020-10-30: Document (HG): [hg-62d42c97.md](hg-62d42c97.md); official file https://www.senat.ro/legis/PDF/2020/20L664HG.PDF
+- 2020-11-16: Aviz comisie (CA41): [ca41-b7f88bdd.md](ca41-b7f88bdd.md); official file https://www.senat.ro/legis/PDF/2020/20L664CA41.PDF
