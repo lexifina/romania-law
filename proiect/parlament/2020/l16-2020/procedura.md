@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-24: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-29: sent for promulgation
+- 2020-11-16: promulgated, becomes Legea nr. 254/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-03-03: Adresă către Camera Deputaților (AM): [am-28e842c3.md](am-28e842c3.md); official file https://www.senat.ro/legis/PDF/2020/20L016AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-f0f7de8b.md](axs-f0f7de8b.md); official file https://www.senat.ro/legis/PDF/2020/20L016AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-0caec57c.md](lp-0caec57c.md); official file https://www.senat.ro/legis/PDF/2020/20L016LP.PDF
+- 2020-11-16: Decret de promulgare (DP): [dp-3bec2cdb.md](dp-3bec2cdb.md); official file https://www.senat.ro/legis/PDF/2020/20L016DP.PDF
+- 2020-11-16: Adresă privind forma promulgată (AFP): [afp-ccbc0c7c.md](afp-ccbc0c7c.md); official file https://www.senat.ro/legis/PDF/2020/20L016AFP.PDF
+- 2020-11-16: Forma promulgată (FP): [fp-2ecb6970.md](fp-2ecb6970.md); official file https://www.senat.ro/legis/PDF/2020/20L016FP.PDF
