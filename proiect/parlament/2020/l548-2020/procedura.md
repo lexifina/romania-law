@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-29: sent for promulgation
 - 2020-11-16: promulgated, becomes Legea nr. 255/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-17: published in the Monitorul Oficial
 
 ## Documents
 
