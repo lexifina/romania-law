@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: documents published: Aviz comisie
 - 2020-09-14: registered at the Chamber of Deputies
 - 2020-11-04: documents published: Raport comisie sesizată pe fond
+- 2020-11-17: adopted by the Chamber of Deputies
 
 ## Documents
 
