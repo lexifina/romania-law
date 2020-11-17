@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-10-29: sent for promulgation
 - 2020-11-16: promulgated, becomes Legea nr. 253/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2020-11-16: Decret de promulgare (DP): [dp-9c842e85.md](dp-9c842e85.md); official file https://www.senat.ro/legis/PDF/2020/20L308DP.PDF
 - 2020-11-16: Adresă privind forma promulgată (AFP): [afp-2639bc06.md](afp-2639bc06.md); official file https://www.senat.ro/legis/PDF/2020/20L308AFP.PDF
 - 2020-11-16: Forma promulgată (FP): [fp-d4ac746b.md](fp-d4ac746b.md); official file https://www.senat.ro/legis/PDF/2020/20L308FP.PDF
+- 2020-11-17: Document (AT): [at-d420218c.md](at-d420218c.md); official file https://www.senat.ro/legis/PDF/2020/20L308AT.PDF (its day is not given by the bill file: shown from the last stage held)
