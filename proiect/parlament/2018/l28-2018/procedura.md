@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2020-10-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-10-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-19: promulgated, becomes Legea nr. 259/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-10-21: Forma adoptată de Senat (FS): [fs-440d2569.md](fs-440d2569.md); official file https://www.senat.ro/legis/PDF/2018/18L028FS.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-23294438.md](axs-23294438.md); official file https://www.senat.ro/legis/PDF/2018/18L028AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-a3fd01cd.md](lp-a3fd01cd.md); official file https://www.senat.ro/legis/PDF/2018/18L028LP.PDF
+- 2020-11-19: Decret de promulgare (DP): [dp-b7a959d8.md](dp-b7a959d8.md); official file https://www.senat.ro/legis/PDF/2018/18L028DP.PDF
+- 2020-11-19: Adresă privind forma promulgată (AFP): [afp-9f11bd13.md](afp-9f11bd13.md); official file https://www.senat.ro/legis/PDF/2018/18L028AFP.PDF
+- 2020-11-19: Forma promulgată (FP): [fp-b26d761c.md](fp-b26d761c.md); official file https://www.senat.ro/legis/PDF/2018/18L028FP.PDF
