@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-08: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-19: promulgated, becomes Legea nr. 257/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L292AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-9c781b85.md](axs-9c781b85.md); official file https://www.senat.ro/legis/PDF/2019/19L292AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-04712635.md](lp-04712635.md); official file https://www.senat.ro/legis/PDF/2019/19L292LP.PDF
+- 2020-11-19: Decret de promulgare (DP): [dp-ce06573e.md](dp-ce06573e.md); official file https://www.senat.ro/legis/PDF/2019/19L292DP.PDF
+- 2020-11-19: Adresă privind forma promulgată (AFP): [afp-e862403a.md](afp-e862403a.md); official file https://www.senat.ro/legis/PDF/2019/19L292AFP.PDF
+- 2020-11-19: Forma promulgată (FP): [fp-e360928e.md](fp-e360928e.md); official file https://www.senat.ro/legis/PDF/2019/19L292FP.PDF
