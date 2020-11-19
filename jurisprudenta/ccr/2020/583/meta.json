@@ -1,0 +1,246 @@
+{
+ "key": "dcc-583-2020",
+ "label": "Decizia CCR nr. 583/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "583",
+ "date": "2020-07-14",
+ "year": "2020",
+ "heading": "DECIZIA nr. 583 din 14 iulie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept și ale art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma \"precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv\"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1107",
+  "bis": false,
+  "date": "2020-11-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "120/233/2016",
+  "1.913D/2018",
+  "1.922D/2018",
+  "3.320/324/2015",
+  "1.728/316/2016",
+  "866/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 27 din Codul de procedură civilă în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, excepție ridicată din oficiu de Curtea de Apel Galați - Secția I civilă în dosarele nr. 120/233/2016, nr. 9.200/196/2016, nr. 19.753/233/2015, nr. 22.637/233/2015, nr. 11.099/231/2015, nr. 2.184/196/2017, nr. 2.119/324/2017, nr. 6.874/233/2017, nr. 1.267/324/2016, nr. 1.014/324/2016**, nr. 10.164/196/2016***, nr. 11.743/233/2015, nr. 3.320/324/2015, nr. 14.576/196/2016, nr. 2.357/173/2014, nr. 10.313/196/2016*, nr. 10.102/233/2016, nr. 1.274/316/2016, nr. 1.328/324/2016*, nr. 1.728/316/2016, nr. 17.896/196/2016, nr. 16.481/233/2016 și nr. 12.551/231/2015, precum și de Giulio Marius Golodin și Mihaela Daniela Golodin în dosarul nr. 3.320/324/2015 al Curții de Apel Galați - Secția I civilă.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“, excepție ridicată din oficiu de aceeași instanță de judecată în aceleași dosare.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233451",
+  "text_sha256": "bd3418e4c5db1aac71b48687957893176ac0bd21ca95eb71538dedba1ccf5afa",
+  "catalogue_sha256": "bd3418e4c5db1aac71b48687957893176ac0bd21ca95eb71538dedba1ccf5afa",
+  "fetched": "2026-11-03T01:55:16Z",
+  "chars": 26907,
+  "portal_id": "233451",
+  "tip": "DECIZIE"
+ }
+}
