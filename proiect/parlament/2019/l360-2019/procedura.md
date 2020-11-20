@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-20: promulgated, becomes Legea nr. 263/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L360AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-de709508.md](axs-de709508.md); official file https://www.senat.ro/legis/PDF/2019/19L360AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-22849e3e.md](lp-22849e3e.md); official file https://www.senat.ro/legis/PDF/2019/19L360LP.PDF
+- 2020-11-20: Decret de promulgare (DP): [dp-9cb4bdfd.md](dp-9cb4bdfd.md); official file https://www.senat.ro/legis/PDF/2019/19L360DP.PDF
+- 2020-11-20: Adresă privind forma promulgată (AFP): [afp-954f1ddc.md](afp-954f1ddc.md); official file https://www.senat.ro/legis/PDF/2019/19L360AFP.PDF
+- 2020-11-20: Forma promulgată (FP): [fp-ef5a2f28.md](fp-ef5a2f28.md); official file https://www.senat.ro/legis/PDF/2019/19L360FP.PDF
