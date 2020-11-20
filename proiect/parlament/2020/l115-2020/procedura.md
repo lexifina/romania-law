@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-29: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-20: promulgated, becomes Legea nr. 262/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L115AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-e5c30a6c.md](axs-e5c30a6c.md); official file https://www.senat.ro/legis/PDF/2020/20L115AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-0084166b.md](lp-0084166b.md); official file https://www.senat.ro/legis/PDF/2020/20L115LP.PDF
+- 2020-11-20: Decret de promulgare (DP): [dp-a10ccc3e.md](dp-a10ccc3e.md); official file https://www.senat.ro/legis/PDF/2020/20L115DP.PDF
+- 2020-11-20: Adresă privind forma promulgată (AFP): [afp-b54cbd42.md](afp-b54cbd42.md); official file https://www.senat.ro/legis/PDF/2020/20L115AFP.PDF
+- 2020-11-20: Forma promulgată (FP): [fp-631861d9.md](fp-631861d9.md); official file https://www.senat.ro/legis/PDF/2020/20L115FP.PDF
