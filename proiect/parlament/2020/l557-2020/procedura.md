@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-10-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-20: promulgated, becomes Legea nr. 266/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-21: Forma adoptată de Senat (FS): [fs-ec94d04f.md](fs-ec94d04f.md); official file https://www.senat.ro/legis/PDF/2020/20L557FS.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-93566596.md](axs-93566596.md); official file https://www.senat.ro/legis/PDF/2020/20L557AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-115a8a00.md](lp-115a8a00.md); official file https://www.senat.ro/legis/PDF/2020/20L557LP.PDF
+- 2020-11-20: Document (AL): [al-0f4fd9ab.md](al-0f4fd9ab.md); official file https://www.senat.ro/legis/PDF/2020/20L557AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-20: Decret de promulgare (DP): [dp-f90c550b.md](dp-f90c550b.md); official file https://www.senat.ro/legis/PDF/2020/20L557DP.PDF
+- 2020-11-20: Adresă privind forma promulgată (AFP): [afp-87820309.md](afp-87820309.md); official file https://www.senat.ro/legis/PDF/2020/20L557AFP.PDF
+- 2020-11-20: Forma promulgată (FP): [fp-32d61aba.md](fp-32d61aba.md); official file https://www.senat.ro/legis/PDF/2020/20L557FP.PDF
