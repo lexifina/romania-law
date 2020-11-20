@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-14: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2020-11-20: promulgated, becomes Legea nr. 265/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L375AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-b4a43adc.md](axs-b4a43adc.md); official file https://www.senat.ro/legis/PDF/2019/19L375AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-d7b6c71b.md](lp-d7b6c71b.md); official file https://www.senat.ro/legis/PDF/2019/19L375LP.PDF
+- 2020-11-20: Decret de promulgare (DP): [dp-62a55643.md](dp-62a55643.md); official file https://www.senat.ro/legis/PDF/2019/19L375DP.PDF
+- 2020-11-20: Adresă privind forma promulgată (AFP): [afp-028d5f88.md](afp-028d5f88.md); official file https://www.senat.ro/legis/PDF/2019/19L375AFP.PDF
+- 2020-11-20: Forma promulgată (FP): [fp-f7d738c5.md](fp-f7d738c5.md); official file https://www.senat.ro/legis/PDF/2019/19L375FP.PDF
