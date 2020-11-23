@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2020-10-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
 - 2020-11-19: promulgated, becomes Legea nr. 259/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,9 @@ Initiator: Guvernul României.
 - 2020-11-19: Decret de promulgare (DP): [dp-b7a959d8.md](dp-b7a959d8.md); official file https://www.senat.ro/legis/PDF/2018/18L028DP.PDF
 - 2020-11-19: Adresă privind forma promulgată (AFP): [afp-9f11bd13.md](afp-9f11bd13.md); official file https://www.senat.ro/legis/PDF/2018/18L028AFP.PDF
 - 2020-11-19: Forma promulgată (FP): [fp-b26d761c.md](fp-b26d761c.md); official file https://www.senat.ro/legis/PDF/2018/18L028FP.PDF
+- 2020-11-23: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L028DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-23: Document (TX): [tx-28a5de42.md](tx-28a5de42.md); official file https://www.senat.ro/legis/PDF/2018/18L028TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-23: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L028AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-23: Document (S1): [s1-21158430.md](s1-21158430.md); official file https://www.senat.ro/legis/PDF/2018/18L028S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-23: Document (AL): [al-014b6bb7.md](al-014b6bb7.md); official file https://www.senat.ro/legis/PDF/2018/18L028AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-23: Document (TC): [tc-81008e7e.md](tc-81008e7e.md); official file https://www.senat.ro/legis/PDF/2018/18L028TC.PDF (its day is not given by the bill file: shown from the last stage held)
