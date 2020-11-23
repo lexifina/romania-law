@@ -1,0 +1,133 @@
+{
+ "key": "cedo-47615-11-2020-03-24",
+ "label": "CEDO, Vereș c. României, 2020-03-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-03-24",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 24 martie 2020",
+ "subtitle": "în Cauza Vereș împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A TREIA",
+ "mo": {
+  "number": "1121",
+  "bis": false,
+  "date": "2020-11-23",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "47615/11"
+ ],
+ "case_name": "Vereș",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 3 din Convenție sub aspect material și procedural;",
+  "3. hotărăște: a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, suma de 12.000 EUR (douăsprezece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral, care va fi convertită în moneda statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "272-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233543",
+  "text_sha256": "1081c896ff6ac0fccd0c4f487f7e9fec473fd2f48187c7a1c89d4a14d7d528cc",
+  "catalogue_sha256": "1081c896ff6ac0fccd0c4f487f7e9fec473fd2f48187c7a1c89d4a14d7d528cc",
+  "fetched": "2026-11-03T01:55:07Z",
+  "chars": 34339,
+  "portal_id": "233543",
+  "tip": "HOTĂRÂRE"
+ }
+}
