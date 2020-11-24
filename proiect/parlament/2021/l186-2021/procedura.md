@@ -1,0 +1,20 @@
+# Proiect de lege L186/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.201/2020 cu privire la rectificarea bugetului de stat pe anul 2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-11-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-11-24: Adresă de înaintare a inițiativei (AD): [ad-5f86b671.md](ad-5f86b671.md); official file https://www.senat.ro/legis/PDF/2021/21L186AD.PDF
+- 2020-11-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L186FG.PDF
+- 2020-11-24: Expunere de motive (EM): [em-fe6524b5.md](em-fe6524b5.md); official file https://www.senat.ro/legis/PDF/2021/21L186EM.PDF
+- 2020-11-24: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L186LG.PDF
+- 2020-11-24: Document (OG): [og-efa0fd8b.md](og-efa0fd8b.md); official file https://www.senat.ro/legis/PDF/2021/21L186OG.PDF
+- 2020-11-24: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L186HG.PDF
