@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-10-06: registered at the Chamber of Deputies
 - 2020-11-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-05: sent for promulgation
+- 2020-11-24: promulgated, becomes Legea nr. 271/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-0297a5d3.md](am-0297a5d3.md); official file https://www.senat.ro/legis/PDF/2020/20L585AM.PDF
 - 2020-11-03: Adresă privind sesizarea CCR (AXS): [axs-82110a0f.md](axs-82110a0f.md); official file https://www.senat.ro/legis/PDF/2020/20L585AXS.PDF
 - 2020-11-03: Forma trimisă la promulgare (LP): [lp-2a8dae31.md](lp-2a8dae31.md); official file https://www.senat.ro/legis/PDF/2020/20L585LP.PDF
+- 2020-11-24: Decret de promulgare (DP): [dp-2ffd89d7.md](dp-2ffd89d7.md); official file https://www.senat.ro/legis/PDF/2020/20L585DP.PDF
+- 2020-11-24: Adresă privind forma promulgată (AFP): [afp-6284ca8b.md](afp-6284ca8b.md); official file https://www.senat.ro/legis/PDF/2020/20L585AFP.PDF
+- 2020-11-24: Forma promulgată (FP): [fp-fb83228d.md](fp-fb83228d.md); official file https://www.senat.ro/legis/PDF/2020/20L585FP.PDF
