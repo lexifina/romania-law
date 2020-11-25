@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-269-19-hotarare-2020-11-25",
+ "label": "CJUE, Hotărârea Curții (Camera întâi) din 25 noiembrie 2020, Cauza C-269/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2020-11-25",
+ "year": "2020",
+ "case": "Cauza C-269/19",
+ "celex": "62019CJ0269",
+ "ecli": "ECLI:EU:C:2020:954",
+ "heading": "Hotărârea Curții (Camera întâi) din 25 noiembrie 2020",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2019-02-27",
+   "national_file": "379/1285/2017"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția consumatorilor – Clauze abuzive în contractele încheiate cu consumatorii – Directiva 93/13/CEE – Consecințele constatării caracterului abuziv al unei clauze – Înlocuirea clauzei abuzive – Modalitate de calcul al ratei dobânzii variabile – Admisibilitate – Trimiterea părților la negocieri",
+ "interprets": [
+  {
+   "celex": "31993L0013",
+   "folder": "ue/directiva/1993/13"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0269",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-269/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/1aa1dc61-2f01-11eb-b27b-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "68064faacc21ed86dac590f8fa9535a396fd5486023b6eb51fbd33048f9fe570"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "Articolul 6 alineatul (1) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretat în sensul că, în urma constatării caracterului abuziv al clauzelor care definesc mecanismul de stabilire a ratei dobânzii variabile într‑un contract de împrumut precum cel în discuție în litigiul principal și atunci când acest contract nu poate continua să existe după eliminarea clauzelor abuzive în cauză, anularea contractului menționat ar avea consecințe deosebit de prejudiciabile pentru consumator și nu există nicio dispoziție de drept național cu caracter supletiv, instanța națională trebuie să adopte, ținând seama de ansamblul dreptului său intern, toate măsurile necesare în vederea protejării consumatorului de consecințele deosebit de prejudiciabile pe care anularea contractului menționat le‑ar putea provoca. În împrejurări precum cele în discuție în litigiul principal, nimic nu se opune printre altele ca instanța națională să invite părțile să negocieze în vederea stabilirii modalităților de calcul al ratei dobânzii, cu condiția ca aceasta să stabilească cadrul negocierilor respective și ca ele să urmărească stabilirea unui echilibru real între drepturile și obligațiile cocontractanților, ținând seama printre altele de obiectivul protecției consumatorului care stă la baza Directivei 93/13."
+ ]
+}
