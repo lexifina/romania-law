@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-11-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-05: sent for promulgation
 - 2020-11-24: promulgated, becomes Legea nr. 267/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2020-11-24: Decret de promulgare (DP): [dp-c18cd19d.md](dp-c18cd19d.md); official file https://www.senat.ro/legis/PDF/2020/20L301DP.PDF
 - 2020-11-24: Adresă privind forma promulgată (AFP): [afp-6284ca8b.md](afp-6284ca8b.md); official file https://www.senat.ro/legis/PDF/2020/20L301AFP.PDF
 - 2020-11-24: Forma promulgată (FP): [fp-1266deff.md](fp-1266deff.md); official file https://www.senat.ro/legis/PDF/2020/20L301FP.PDF
+- 2020-11-25: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L301TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-25: Document (AT): [at-4fd67d99.md](at-4fd67d99.md); official file https://www.senat.ro/legis/PDF/2020/20L301AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-11-25: Document (S1): [s1-172ab9f8.md](s1-172ab9f8.md); official file https://www.senat.ro/legis/PDF/2020/20L301S1.PDF (its day is not given by the bill file: shown from the last stage held)
