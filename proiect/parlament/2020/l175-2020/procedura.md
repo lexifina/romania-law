@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-11-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-05: sent for promulgation
 - 2020-11-24: promulgated, becomes Legea nr. 270/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-11-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-11-24: Decret de promulgare (DP): [dp-3ff707e0.md](dp-3ff707e0.md); official file https://www.senat.ro/legis/PDF/2020/20L175DP.PDF
 - 2020-11-24: Adresă privind forma promulgată (AFP): [afp-6284ca8b.md](afp-6284ca8b.md); official file https://www.senat.ro/legis/PDF/2020/20L175AFP.PDF
 - 2020-11-24: Forma promulgată (FP): [fp-3303875a.md](fp-3303875a.md); official file https://www.senat.ro/legis/PDF/2020/20L175FP.PDF
+- 2020-11-26: Document (AA): [aa-4354d5cc.md](aa-4354d5cc.md); official file https://www.senat.ro/legis/PDF/2020/20L175AA.PDF (its day is not given by the bill file: shown from the last stage held)
