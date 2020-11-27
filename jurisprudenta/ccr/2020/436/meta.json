@@ -1,0 +1,188 @@
+{
+ "key": "dcc-436-2020",
+ "label": "Decizia CCR nr. 436/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "436",
+ "date": "2020-06-23",
+ "year": "2020",
+ "heading": "DECIZIA nr. 436 din 23 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 62 alin. (1^1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în redactarea anterioară modificării acestora prin Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, cu referire la sintagma \"nu aduce atingere prestigiului profesiei\" din cuprinsul acestora",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1148",
+  "bis": false,
+  "date": "2020-11-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.642/1/2017",
+  "2.940D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 62 alin. (1^1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în redactarea anterioară modificării acestora prin Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, cu referire la sintagma „nu aduce atingere prestigiului profesiei“ din cuprinsul acestora, excepție ridicată de Cătălin Vișinoiu în Dosarul nr. 1.642/1/2017 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "1-1",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-11-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/233839",
+  "text_sha256": "e77215b339f52cd20d745ae5c2d30dad3ef5a46c91b6c11e9d3b4f9e976516ff",
+  "catalogue_sha256": "e77215b339f52cd20d745ae5c2d30dad3ef5a46c91b6c11e9d3b4f9e976516ff",
+  "fetched": "2026-11-03T01:54:35Z",
+  "chars": 14411,
+  "portal_id": "233839",
+  "tip": "DECIZIE"
+ }
+}
