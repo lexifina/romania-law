@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-11-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-12: sent for promulgation
 - 2020-11-27: promulgated, becomes Legea nr. 278/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-12-02: published in the Monitorul Oficial
 
 ## Documents
 
