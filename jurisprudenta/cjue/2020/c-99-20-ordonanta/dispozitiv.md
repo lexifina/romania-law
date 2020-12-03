@@ -1,0 +1,4 @@
+# CJUE, Ordonanța Curții (Camera a noua) din 3 decembrie 2020, Cauza C-99/20
+
+Pentru aceste motive, Curtea (Camera a noua) declară:
+Nomenclatura combinată care figurează în anexa I la Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful vamal comun, în versiunea rezultată din Regulamentul de punere în aplicare (UE) 2015/1754 al Comisiei din 6 octombrie 2015, trebuie interpretată în sensul că componentele de galerii pentru perdele, sub formă de țevi finite (vopsite, nichelate, cromate), se încadrează la subpoziția tarifară 8302 41 90, cu excepția cazului în care aceste țevi finite constau în profile, tuburi sau bare care au fost simplu tăiate la lungimea dorită, aspect a cărui verificare revine, în vederea clasificării tarifare a produselor, instanței de trimitere.
