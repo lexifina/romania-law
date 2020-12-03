@@ -1,0 +1,73 @@
+{
+ "key": "cjue-c-62-19-hotarare-2020-12-03",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 3 decembrie 2020, Cauza C-62/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2020-12-03",
+ "year": "2020",
+ "case": "Cauza C-62/19",
+ "celex": "62019CJ0062",
+ "ecli": "ECLI:EU:C:2020:980",
+ "heading": "Hotărârea Curții (Camera a patra) din 3 decembrie 2020",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Bucureşti",
+   "date": "2018-12-14",
+   "national_file": "3331/3/2018"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul București",
+ "national_followup": null,
+ "parties": "Star Taxi App SRL împotriva Unității Administrativ Teritoriale Municipiul București prin Primar General și a Consiliului General al Municipiului București",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 56 TFUE – Aplicabilitate – Situație pur internă – Directiva 2000/31/CE – Articolul 2 litera (a) – Noțiunea de „servicii ale societății informaționale” – Articolul 3 alineatele (2) și (4) – Articolul 4 – Aplicabilitate – Directiva 2006/123/CE – Servicii – Capitolele III (Libertate de stabilire pentru prestatori) și IV (Libera circulație a serviciilor) – Aplicabilitate – Articolele 9 și 10 – Directiva (UE) 2015/1535 – Articolul 1 alineatul (1) literele (e) și (f) – Noțiunea de „normă cu privire la servicii” – Noțiunea de „reglementare tehnică” – Articolul 5 alineatul (1) – Lipsa unei comunicări prealabile – Opozabilitate – Activitate de punere în legătură, prin intermediul unei aplicații pentru smartphone, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați – Calificare – Reglementare națională care supune această activitate unui regim de autorizare prealabilă",
+ "interprets": [
+  {
+   "celex": "12008E056",
+   "folder": null
+  },
+  {
+   "celex": "32000L0031",
+   "folder": "ue/directiva/2000/31"
+  },
+  {
+   "celex": "32006L0032",
+   "folder": "ue/directiva/2006/32"
+  },
+  {
+   "celex": "32015L1535",
+   "folder": "ue/directiva/2015/1535"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0062",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-62/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/20e1a524-354b-11eb-b27b-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "1aafb0fa21aafebb6322e5b11d7089a518835428caf3f06f6e628f4ba626fea7"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "1) Articolul 2 litera (a) din Directiva 2000/31/CE a Parlamentului European și a Consiliului din 8 iunie 2000 privind anumite aspecte juridice ale serviciilor societății informaționale, în special ale comerțului electronic, pe piața internă („Directiva privind comerțul electronic”), care face trimitere la articolul 1 alineatul (1) litera (b) din Directiva (UE) 2015/1535 a Parlamentului European și a Consiliului din 9 septembrie 2015 referitoare la procedura de furnizare de informații în domeniul reglementărilor tehnice și al normelor privind serviciile societății informaționale, trebuie interpretat în sensul că constituie un „serviciu al societății informaționale”, în sensul acestor dispoziții, un serviciu de intermediere care constă, cu ajutorul unei aplicații pentru smartphone, în punerea în legătură, în schimbul unei remunerații, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați, pentru care prestatorul serviciului menționat a încheiat în acest scop contracte de prestare de servicii cu acești șoferi în schimbul plății unui abonament lunar, dar nu le transmite comenzile, nu stabilește prețul cursei și nici nu îl percepe de la aceste persoane, care îl plătesc direct șoferului de taxi, după cum nici nu exercită un control asupra calității autovehiculelor și a șoferilor lor și nici asupra comportamentului acestora.",
+  "2) Articolul 1 alineatul (1) litera (f) din Directiva 2015/1535 trebuie interpretat în sensul că nu constituie o „reglementare tehnică”, în sensul acestei dispoziții, o reglementare a unei autorități locale care condiționează furnizarea unui serviciu de intermediere având ca obiect, cu ajutorul unei aplicații pentru smartphone, punerea în legătură, în schimbul unei remunerații, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați și care intră în sfera calificării drept „serviciu al societății informaționale”, în sensul articolului 1 alineatul (1) litera (b) din Directiva 2015/1535, de obținerea unei autorizații prealabile, care este deja impusă celorlalți prestatori de servicii de rezervare taxi.",
+  "3) Articolul 56 TFUE, articolul 3 alineatele (2) și (4) din Directiva 2000/31, precum și articolul 16 din Directiva 2006/123/CE a Parlamentului European și a Consiliului din 12 decembrie 2006 privind serviciile în cadrul pieței interne trebuie interpretate în sensul că nu se aplică unui litigiu în care toate elementele relevante se limitează la interiorul unui singur stat membru.",
+  "Articolul 4 din Directiva 2000/31 trebuie interpretat în sensul că nu se aplică unei reglementări a unui stat membru care condiționează furnizarea unui serviciu de intermediere având ca obiect, cu ajutorul unei aplicații pentru smartphone, punerea în legătură, în schimbul unei remunerații, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați și care intră în sfera calificării drept „serviciu al societății informaționale”, în sensul articolului 2 litera (a) din Directiva 2000/31, care face trimitere la articolul 1 alineatul (1) litera (b) din Directiva 2015/1535, de obținerea unei autorizații prealabile, care este deja impusă celorlalți prestatori de servicii de rezervare taxi.",
+  "Articolele 9 și 10 din Directiva 2006/123 trebuie interpretate în sensul că se opun unei reglementări a unui stat membru care condiționează furnizarea unui serviciu de intermediere având ca obiect, cu ajutorul unei aplicații pentru smartphone, punerea în legătură, în schimbul unei remunerații, a unor persoane care doresc să efectueze o deplasare urbană și a unor șoferi de taxi autorizați de obținerea unei autorizații prealabile desfășurării activității lor, atunci când condițiile de obținere a acestei autorizații nu răspund cerințelor prevăzute la aceste articole întrucât impun în special cerințe tehnice neadaptate la serviciul vizat, aspect a cărui verificare revine instanței de trimitere."
+ ]
+}
