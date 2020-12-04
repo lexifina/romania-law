@@ -1,0 +1,200 @@
+{
+ "key": "dcc-635-2020",
+ "label": "Decizia CCR nr. 635/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "635",
+ "date": "2020-09-22",
+ "year": "2020",
+ "heading": "DECIZIA nr. 635 din 22 septembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 142 alin. (1) și art. 145 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1177",
+  "bis": false,
+  "date": "2020-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "211/36/2017",
+  "1.842D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mihai Dănuț Jarnea în Dosarul nr. 211/36/2017 al Curții de Apel Constanța - Secția I civilă și constată că dispozițiile art. 142 alin. (1) și art. 145 alin. (1) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234194",
+  "text_sha256": "747845026ef455efc52c5ed9fe4f7cf51cf25ada8c6f44f4c8fef7d1a542bf3f",
+  "catalogue_sha256": "747845026ef455efc52c5ed9fe4f7cf51cf25ada8c6f44f4c8fef7d1a542bf3f",
+  "fetched": "2026-11-06T02:33:20Z",
+  "chars": 15132,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260315151024/https://legislatie.just.ro/Public/DetaliiDocument/234194",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/234194",
+   "timestamp": "20260315151024",
+   "sha256": "21037a3dd6b0afa78fb3baf28221b8dcf6cbb8dcee7f68cea63dc07005e644f4"
+  },
+  "portal_id": "234194",
+  "tip": "DECIZIE"
+ }
+}
