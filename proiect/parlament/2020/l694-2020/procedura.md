@@ -1,0 +1,22 @@
+# Proiect de lege L694/2020
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 58/2021 (`legea-58-2021`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.211/2020 privind prelungirea aplicării unor măsuri de protecție socială adoptate în conextul răspândirii coronavirusului SARS-CoV-2, precum și pentru modificarea Ordonanței de urgență a Guvernului nr.132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-12-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-12-07: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L694AD.PDF
+- 2020-12-07: Forma inițiatorului (FG): [fg-d91e0f95.md](fg-d91e0f95.md); official file https://www.senat.ro/legis/PDF/2020/20L694FG.PDF
+- 2020-12-07: Expunere de motive (EM): [em-93ef4ad8.md](em-93ef4ad8.md); official file https://www.senat.ro/legis/PDF/2020/20L694EM.PDF
+- 2020-12-07: Aviz Consiliul Legislativ (LG): [lg-477d9e99.md](lg-477d9e99.md); official file https://www.senat.ro/legis/PDF/2020/20L694LG.PDF
+- 2020-12-07: Document (OG): [og-3486c06a.md](og-3486c06a.md); official file https://www.senat.ro/legis/PDF/2020/20L694OG.PDF
+- 2020-12-07: Document (HG): [hg-460a631c.md](hg-460a631c.md); official file https://www.senat.ro/legis/PDF/2020/20L694HG.PDF
