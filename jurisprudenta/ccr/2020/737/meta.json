@@ -1,0 +1,222 @@
+{
+ "key": "dcc-737-2020",
+ "label": "Decizia CCR nr. 737/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "737",
+ "date": "2020-10-08",
+ "year": "2020",
+ "heading": "DECIZIA nr. 737 din 8 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 79 alin. (5) din Legea nr. 188/1999 privind Statutul funcționarilor publici",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1189",
+  "bis": false,
+  "date": "2020-12-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "6.164/95/2017",
+  "1.604D/2018",
+  "5.940/95/2017",
+  "2.404/63/2018",
+  "3.025/101/2019",
+  "1.088D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Sindicatul Național „Forța Legii“ din Craiova, în calitate de intervenient accesoriu în interesul reclamantei Maria Daniela Coandă, în Dosarul nr. 6.164/95/2017 al Tribunalului Gorj - Secția contencios administrativ și fiscal, de Liviu Constantin Ungureanu în Dosarul nr. 5.940/95/2017* al Tribunalului Gorj - Secția contencios administrativ și fiscal, de Sindicatul Național „Forța Legii“ din Craiova, în calitate de reprezentant al reclamantei Ioana Hantea, în Dosarul nr. 2.404/63/2018 al Tribunalului Dolj - Secția contencios administrativ și fiscal, de Sindicatul Național „Forța Legii“, în calitate de reprezentant al recurenților - reclamanți Gabriel Ion Anghel și Marius Velișcoiu, în dosarele nr. 5.451/63/2019 și nr. 7.250/63/2019 ale Curții de Apel Craiova - Secția contencios administrativ și fiscal și de Sindicatul Național „Forța Legii“, în calitate de intervenient accesoriu pentru reclamanta Ionela Cristina Ciucă, în Dosarul nr. 3.025/101/2019 al Tribunalului Mehedinți - Secția a II-a civilă de contencios administrativ și fiscal și constată că prevederile art. 79 alin. (5) din Legea nr. 188/1999 privind Statutul funcționarilor publici sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Tribunalului Gorj - Secția contencios administrativ și fiscal, Tribunalului Dolj - Secția contencios administrativ și fiscal, Curții de Apel Craiova - Secția contencios administrativ și fiscal și Tribunalului Mehedinți - Secția a II-a civilă de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j",
+      "p"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.344/2007",
+    "number": "1344",
+    "year": "2007",
+    "path": "hg/2007/1344"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "597",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234288",
+  "text_sha256": "5e01e54cd16935a05ca0541b466703a0521c311bed4e290a70fb65343f92f571",
+  "catalogue_sha256": "5e01e54cd16935a05ca0541b466703a0521c311bed4e290a70fb65343f92f571",
+  "fetched": "2026-11-03T01:54:14Z",
+  "chars": 26022,
+  "portal_id": "234288",
+  "tip": "DECIZIE"
+ }
+}
