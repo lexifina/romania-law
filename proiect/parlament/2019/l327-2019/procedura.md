@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2020-11-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-19: sent for promulgation
+- 2020-12-08: promulgated, becomes Legea nr. 284/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-10-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L327AM.PDF
 - 2020-11-17: Adresă privind sesizarea CCR (AXS): [axs-aab40ed2.md](axs-aab40ed2.md); official file https://www.senat.ro/legis/PDF/2019/19L327AXS.PDF
 - 2020-11-17: Forma trimisă la promulgare (LP): [lp-9d573e6e.md](lp-9d573e6e.md); official file https://www.senat.ro/legis/PDF/2019/19L327LP.PDF
+- 2020-12-08: Decret de promulgare (DP): [dp-7a6c60ac.md](dp-7a6c60ac.md); official file https://www.senat.ro/legis/PDF/2019/19L327DP.PDF
+- 2020-12-08: Adresă privind forma promulgată (AFP): [afp-6eee6341.md](afp-6eee6341.md); official file https://www.senat.ro/legis/PDF/2019/19L327AFP.PDF
+- 2020-12-08: Forma promulgată (FP): [fp-be36c827.md](fp-be36c827.md); official file https://www.senat.ro/legis/PDF/2019/19L327FP.PDF
