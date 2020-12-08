@@ -1,0 +1,318 @@
+{
+ "key": "iccj-hp-56-2020",
+ "label": "Decizia ÎCCJ nr. 56/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "56",
+ "date": "2020-09-28",
+ "year": "2020",
+ "heading": "DECIZIA nr. 56 din 28 septembrie 2020",
+ "subtitle": "referitoare la interpretarea sintagmei \"la cererea părții interesate\" din art. 142 alin. (2) din Legea dialogului social nr. 62/2011, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1193",
+  "bis": false,
+  "date": "2020-12-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.434/1/2020",
+  "971/87/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 971/87/2018, pentru pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Interpretarea sintagmei „la cererea părții interesate“ din art. 142 alin. (2) din Legea dialogului social nr. 62/2011, republicată, cu modificările și completările ulterioare, respectiv dacă se referă numai la părțile semnatare ale contractului colectiv de muncă sau dacă oricare salariat poate cere constatarea nulității în nume personal.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "2",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "267",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1247",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/1996",
+    "number": "130",
+    "year": "1996",
+    "path": "lege/1996/130"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2020-12-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/234343",
+  "text_sha256": "a8762dd134edf9ac2bd02db373a6fe085d7a0bf47bc97322291b9f7723cd352b",
+  "catalogue_sha256": "a8762dd134edf9ac2bd02db373a6fe085d7a0bf47bc97322291b9f7723cd352b",
+  "fetched": "2026-11-06T04:01:01Z",
+  "chars": 57000,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234343",
+   "timestamp": "20250813034428",
+   "crawl": "CC-MAIN-2025-33",
+   "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151281020.56/warc/CC-MAIN-20250813024931-20250813054931-00505.warc.gz",
+   "offset": "293839193",
+   "length": "49834",
+   "sha256": "2b5986e4a60139d41dd7fc1c41e4fb6172b79e1c0085e03001bf77eb35dff3bb"
+  },
+  "portal_id": "234343",
+  "tip": "DECIZIE"
+ }
+}
