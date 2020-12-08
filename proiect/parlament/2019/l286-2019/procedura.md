@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2019-09-10: registered at the Chamber of Deputies
 - 2020-11-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-19: sent for promulgation
+- 2020-12-08: promulgated, becomes Legea nr. 285/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-09-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L286AM.PDF
 - 2020-11-17: Adresă privind sesizarea CCR (AXS): [axs-b6a555ae.md](axs-b6a555ae.md); official file https://www.senat.ro/legis/PDF/2019/19L286AXS.PDF
 - 2020-11-17: Forma trimisă la promulgare (LP): [lp-608498cd.md](lp-608498cd.md); official file https://www.senat.ro/legis/PDF/2019/19L286LP.PDF
+- 2020-12-08: Decret de promulgare (DP): [dp-5fc961ca.md](dp-5fc961ca.md); official file https://www.senat.ro/legis/PDF/2019/19L286DP.PDF
+- 2020-12-08: Adresă privind forma promulgată (AFP): [afp-6eee6341.md](afp-6eee6341.md); official file https://www.senat.ro/legis/PDF/2019/19L286AFP.PDF
+- 2020-12-08: Forma promulgată (FP): [fp-a1f98838.md](fp-a1f98838.md); official file https://www.senat.ro/legis/PDF/2019/19L286FP.PDF
