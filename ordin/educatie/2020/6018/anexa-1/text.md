@@ -1,0 +1,23 @@
+# Anexa nr. 1
+Anexa nr. 1 (Anexa nr. 1 la metodologia de evaluare a calității proiectelor de manuale școlare pentru învățământul preuniversitar)
+FIȘA-TIP DE EVALUARE a criteriilor de conformitate a conținutului proiectului de manual școlar
+Fișa-tip A: Criterii de conformitate a conținutului
+Numele și prenumele expertului cooptat:..........................................
+Codul proiectului de manual școlar:..........................................
+Titlul disciplinei/modulului de pregătire:.......................................... Clasa:..........................................
+Filiera, profilul și specializarea:.......................................... Nr. pagini proiect:..........................................
+Ordinul ministrului educației și cercetării pentru aprobarea programei: nr......../.............
+Criterii de conformitate a conținutului
+Conform/ Neconform
+Observații
+1. Proiectul de manual școlar trebuie să fie depersonalizat, astfel încât să nu conțină numele autorilor, numele, sigla/logoul ofertanților/altor ofertanți.
+2. Proiectul de manual școlar trebuie să aibă caracter etic, moral și nediscriminatoriu: să respecte principiile care nu fac nicio deosebire de rasă, naționalitate, etnie, limbă, religie, categorie socială, convingeri, gen, orientare sexuală, vârstă, handicap, boală cronică necontagioasă, infectare HIV, apartenență la o categorie defavorizată.
+3. Proiectul de manual școlar nu trebuie să conțină informații care aduc atingere identității și valorilor naționale, elemente rasiste, xenofobe sau de promovare a ideologiei naționalist-extremiste.
+4. Proiectul de manual școlar trebuie să conțină doar elemente destinate procesului de predare-învățare-evaluare, nefiind permisă prezența unor logouri sau vignete suplimentare ca elemente de marketing personalizate sau texte de marketing (de exemplu, acest manual a înregistrat cel mai mare punctaj la evaluarea științifică).
+5. Varianta digitală conține minimum 10 pagini și maximum 20 de pagini consecutive corespunzătoare unor lecții întregi, începând cu lecția a doua a proiectului de manual școlar.
+6. Toate cele trei tipuri de AMII (statice, animate și interactive) sunt semnalizate distinct pe parcursul secvenței din proiectul de manual.
+7. Competențele generale și competențele specifice, preluate din programa școlară în vigoare, sunt scrise la începutul manualului.
+8. Proiectul de manual școlar respectă domeniile și conținuturile din programa școlară: nu sunt teme/conținuturi nici în plus, nici în minus față de programa școlară.
+9. Numerotarea paginilor, a capitolelor și a itemilor de evaluare/autoevaluare este adecvată și consecventă.
+Data:...............................................
+Semnătura expertului cooptat...............................................
