@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2020-11-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-23: sent for promulgation
+- 2020-12-09: promulgated, becomes Legea nr. 288/2020; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L377AM.PDF
 - 2020-11-17: Adresă privind sesizarea CCR (AXS): [axs-7e841c05.md](axs-7e841c05.md); official file https://www.senat.ro/legis/PDF/2019/19L377AXS.PDF
 - 2020-11-17: Forma trimisă la promulgare (LP): [lp-65e62866.md](lp-65e62866.md); official file https://www.senat.ro/legis/PDF/2019/19L377LP.PDF
+- 2020-12-09: Decret de promulgare (DP): [dp-0e7c0fcf.md](dp-0e7c0fcf.md); official file https://www.senat.ro/legis/PDF/2019/19L377DP.PDF
+- 2020-12-09: Adresă privind forma promulgată (AFP): [afp-85c290f0.md](afp-85c290f0.md); official file https://www.senat.ro/legis/PDF/2019/19L377AFP.PDF
+- 2020-12-09: Forma promulgată (FP): [fp-71e43a3a.md](fp-71e43a3a.md); official file https://www.senat.ro/legis/PDF/2019/19L377FP.PDF
