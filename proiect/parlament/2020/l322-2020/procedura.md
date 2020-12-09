@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-11-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-19: sent for promulgation
 - 2020-12-08: promulgated, becomes Legea nr. 280/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2020-12-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2020-12-08: Decret de promulgare (DP): [dp-1d6a2460.md](dp-1d6a2460.md); official file https://www.senat.ro/legis/PDF/2020/20L322DP.PDF
 - 2020-12-08: Adresă privind forma promulgată (AFP): [afp-6eee6341.md](afp-6eee6341.md); official file https://www.senat.ro/legis/PDF/2020/20L322AFP.PDF
 - 2020-12-08: Forma promulgată (FP): [fp-15791a01.md](fp-15791a01.md); official file https://www.senat.ro/legis/PDF/2020/20L322FP.PDF
+- 2020-12-09: Document (AT): [at-f552e525.md](at-f552e525.md); official file https://www.senat.ro/legis/PDF/2020/20L322AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-09: Document (S1): [s1-03d8525d.md](s1-03d8525d.md); official file https://www.senat.ro/legis/PDF/2020/20L322S1.PDF (its day is not given by the bill file: shown from the last stage held)
