@@ -1,0 +1,26 @@
+# Anexa 13
+Anexa nr. 12
+la procedură
+DECIZIE
+prin care se ia act de retragerea notificării și se desființează decizia de amânare la plată a obligațiilor de plată accesorii
+Datele de identificare a debitorului
+Denumirea/Numele și prenumele …………........
+Adresa .........................................................
+Codul de identificare fiscală ........................
+Datele de identificare a reprezentantului legal
+Numele și prenumele ……....................
+Adresa ............................................................
+Codul de identificare fiscală ..........................
+În temeiul prevederilor Procedurii de anulare a obligațiilor de plată datorate bugetului Autorității Naționale pentru Administrare și Reglementare în Comunicații, aprobată prin Decizia președintelui Autorității Naționale pentru Administrare și Reglementare în Comunicații nr. 1.212/2020 , și având în vedere Notificarea dumneavoastră nr. ......... din data de ............... prin care v-ați manifestat intenția de a beneficia de anularea obligațiilor de plată accesorii, înregistrată la ANCOM cu nr. ............ din data de ..............., precum și Cererea nr. ......... din data de .................... de retragere a notificării, înregistrată la ANCOM cu nr. .......... din data de .........................,
+vă comunicăm că am luat act de retragerea notificării menționate mai sus, astfel că Decizia de amânare la plată a obligațiilor accesorii nr. .......... din data de ................. se desființează și nu mai produce efecte, începând cu data de .................. .
+Prezenta decizie se comunică …………….. și produce efecte de la data comunicării acesteia, în condițiile art. 47 din Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare. Împotriva prezentului înscris cel interesat poate depune contestație la ANCOM în termen de 45 de zile de la data comunicării, în conformitate cu prevederile art. 268-270 din Legea nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare.
+Președintele Autorității Naționale pentru Administrare și Reglementare în Comunicații,
+..............................................................
+Avizat
+Conducătorul compartimentului financiar-contabil,
+………………..
+Întocmit/Data
+………….
+Nr. ..................
+Document care conține date cu caracter personal protejate de prevederile Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE ( Regulamentul general privind protecția datelor)
+-----
