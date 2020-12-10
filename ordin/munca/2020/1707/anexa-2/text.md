@@ -1,0 +1,10 @@
+# ANEXA A la cerere
+Către
+AGENȚIA PENTRU PLĂȚI ȘI INSPECȚIE SOCIALĂ
+A JUDEȚULUI................../MUNICIPIULUI BUCUREȘTI
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul(a),............................................................, cu domiciliul/sediul în localitatea........................................................., str........................................... nr........, județul............................/municipiul........................., sectorul........, identificat(ă) cu CI/BI seria......... nr..............., CNP............................................., telefon............................, e-mail..........................., cunoscând prevederile art. 326 din Codul penal cu privire la falsul în declarații, declar pe propria răspundere că activitatea a fost întreruptă ca urmare^1 a: [] restricțiilor impuse prin anexa nr. 3 - Măsuri pentru diminuarea impactului tipului de risc la Hotărârea Guvernului nr. 856/2020 privind prelungirea stării de alertă pe teritoriul României începând cu data de 15 octombrie 2020, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19, cu modificările și completările ulterioare, și la Hotărârea Guvernului nr. 967/2020 privind prelungirea stării de alertă pe teritoriul României începând cu data de 14 noiembrie 2020, precum și stabilirea măsurilor care se aplică pe durata acesteia pentru prevenirea și combaterea efectelor pandemiei de COVID-19; [] a hotărârii comitetului județean/al municipiului București pentru situații de urgență, pe care o atașez, în copie, la prezenta declarație.
+Declar că activitatea desfășurată se menține întreruptă și se înscrie în domeniul/domeniile cu restricții de activitate, conform anexei B la cerere.
+Data.......................................
+Numele și prenumele (în clar).........................................
+Semnătura.................................. ^1 Se va bifa căsuța corespunzătoare situației în care se află.
