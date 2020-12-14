@@ -1,0 +1,19 @@
+# Anexa 5
+Anexa nr. 5
+la metodologie
+DIAGRAMA DE CAZARE
+Denumirea proiectului: ............................................
+Perioada: .................................
+Locul de desfășurare: ............................................
+Unitatea prestatoare de servicii: ............................................
+Nr. crt.
+Nr. camerei
+Numele și prenumele
+Tarif/zi
+Nr. de zile
+Valoarea serviciului
+Data și semnătura reprezentantului legal al federației
+................................
+Unitatea prestatoare de servicii
+Data și semnătura
+....................................

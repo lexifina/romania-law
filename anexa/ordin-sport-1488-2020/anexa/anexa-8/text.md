@@ -1,0 +1,13 @@
+# Anexa 8
+Anexa nr. 8
+la metodologie
+TABEL NOMINAL CU PARTICIPANȚI
+Denumirea proiectului: ...........................
+Localitatea: ...........................
+Perioada: ...........................
+Nr. crt. Numele și prenumele participantului Nr. de telefon/adresa de e-mail Semnătura
+1.
+2.
+3.
+Data și semnătura reprezentantului legal al federației
+.....................................
