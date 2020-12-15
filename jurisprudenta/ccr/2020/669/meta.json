@@ -1,0 +1,345 @@
+{
+ "key": "dcc-669-2020",
+ "label": "Decizia CCR nr. 669/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "669",
+ "date": "2020-09-29",
+ "year": "2020",
+ "heading": "DECIZIA nr. 669 din 29 septembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Ordonanței de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule și, în special, ale art. 3 și art. 7 din acest act normativ",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1234",
+  "bis": false,
+  "date": "2020-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.139/321/2017",
+  "595D/2018",
+  "3.443/321/2017",
+  "13.274/325/2018",
+  "6.587/197/2018",
+  "12.690/325/2018",
+  "1.029D/2018",
+  "1.586/119/2017",
+  "1.720D/2018",
+  "5.907/211/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 52/2017",
+    "number": "52",
+    "year": "2017",
+    "path": "oug/2017/52"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Maria Olteanu în dosarele nr. 3.139/321/2017 și nr. 3.443/321/2017 ale Judecătoriei Iași - Secția civilă, de Erika Lazăr în Dosarul nr. 13.274/325/2018 al Judecătoriei Timișoara - Secția I civilă și în Dosarul nr. 12.690/325/2018 al Judecătoriei Timișoara - Secția civilă, de Mitică Bejan în Dosarul nr. 6.587/197/2018 al Tribunalului Brașov - Secția I civilă, de Andrei Csog în Dosarul nr. 1.586/119/2017 al Curții de Apel Brașov - Secția contencios administrativ și fiscal și de Societatea MDL COM - S.R.L. din Cluj-Napoca în Dosarul nr. 5.907/211/2018 al Judecătoriei Cluj-Napoca - Secția civilă și constată că prevederile Ordonanței de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule și, în special, cele ale art. 3 și art. 7 din acest act normativ sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă, Judecătoriei Timișoara - Secția I civilă, Judecătoriei Timișoara - Secția civilă, Tribunalului Brașov - Secția I civilă, Curții de Apel Brașov - Secția contencios administrativ și fiscal și Judecătoriei Cluj-Napoca - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2017",
+    "number": "52",
+    "year": "2017",
+    "path": "oug/2017/52"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 258/2018",
+    "number": "258",
+    "year": "2018",
+    "path": "lege/2018/258"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "214-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "219",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235273",
+  "text_sha256": "9632a4874797fe2d9b659939c56ccbe495cd5a00b5af3124cf028b086663239d",
+  "catalogue_sha256": "9632a4874797fe2d9b659939c56ccbe495cd5a00b5af3124cf028b086663239d",
+  "fetched": "2026-11-03T14:29:35Z",
+  "chars": 52530,
+  "portal_id": "235273",
+  "tip": "DECIZIE"
+ }
+}
