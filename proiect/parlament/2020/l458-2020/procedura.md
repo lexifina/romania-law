@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-09-08: registered at the Chamber of Deputies
 - 2020-11-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-26: sent for promulgation
+- 2020-12-15: promulgated, becomes Legea nr. 291/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-08-22: Adresă către Camera Deputaților (AM): [am-5a48fa33.md](am-5a48fa33.md); official file https://www.senat.ro/legis/PDF/2020/20L458AM.PDF
 - 2020-11-24: Adresă privind sesizarea CCR (AXS): [axs-2ee34369.md](axs-2ee34369.md); official file https://www.senat.ro/legis/PDF/2020/20L458AXS.PDF
 - 2020-11-24: Forma trimisă la promulgare (LP): [lp-19a0bf6d.md](lp-19a0bf6d.md); official file https://www.senat.ro/legis/PDF/2020/20L458LP.PDF
+- 2020-12-15: Decret de promulgare (DP): [dp-04dd2b41.md](dp-04dd2b41.md); official file https://www.senat.ro/legis/PDF/2020/20L458DP.PDF
+- 2020-12-15: Adresă privind forma promulgată (AFP): [afp-fd18ef21.md](afp-fd18ef21.md); official file https://www.senat.ro/legis/PDF/2020/20L458AFP.PDF
+- 2020-12-15: Forma promulgată (FP): [fp-24350119.md](fp-24350119.md); official file https://www.senat.ro/legis/PDF/2020/20L458FP.PDF
