@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-08-17: registered at the Chamber of Deputies
 - 2020-11-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-26: sent for promulgation
+- 2020-12-15: promulgated, becomes Legea nr. 290/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2020-07-27: Adresă către Camera Deputaților (AM): [am-bc4d0984.md](am-bc4d0984.md); official file https://www.senat.ro/legis/PDF/2020/20L415AM.PDF
 - 2020-11-24: Adresă privind sesizarea CCR (AXS): [axs-2ee34369.md](axs-2ee34369.md); official file https://www.senat.ro/legis/PDF/2020/20L415AXS.PDF
 - 2020-11-24: Forma trimisă la promulgare (LP): [lp-9b540ccf.md](lp-9b540ccf.md); official file https://www.senat.ro/legis/PDF/2020/20L415LP.PDF
+- 2020-12-15: Decret de promulgare (DP): [dp-0141efc1.md](dp-0141efc1.md); official file https://www.senat.ro/legis/PDF/2020/20L415DP.PDF
+- 2020-12-15: Adresă privind forma promulgată (AFP): [afp-f868e8d9.md](afp-f868e8d9.md); official file https://www.senat.ro/legis/PDF/2020/20L415AFP.PDF
+- 2020-12-15: Forma promulgată (FP): [fp-ab290485.md](fp-ab290485.md); official file https://www.senat.ro/legis/PDF/2020/20L415FP.PDF
