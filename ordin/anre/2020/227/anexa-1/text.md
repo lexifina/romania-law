@@ -1,0 +1,7 @@
+# ANEXĂ (Anexa nr. 3 la regulament)
+CERERE DE SOLUȚIONARE A DISPUTEI/DIVERGENȚEI
+Subsemnatul/Subscrisa:.............................. (numele/denumirea)......., prin reprezentant legal......................................., solicităm soluționarea disputei/divergenței intervenite cu ocazia cererii de acces.................................... cu persoana fizică/juridică.................................... (numele/denumirea; numele reprezentanților legali; domiciliu, sediu; număr de înmatriculare la registrul comerțului; telefon/fax)........................................, prin reprezentant legal............................................., având în vedere că s-a parcurs etapa soluționării la nivelul operatorului de rețea/sistem, conform minutei/procesului-verbal.
+Urmează expunerea, pe scurt, a obiectului disputei/divergenței, cu datele aferente: [] indicarea speței; [] indicarea temeiului juridic. [] Am luat cunoștință de faptul că decizia/hotărârea pe care o va emite Comisia de soluționare a disputelor/divergențelor privind accesul la rețelele/sistemele din domeniul energiei are caracter obligatoriu și poate conține măsuri cu caracter coercitiv asupra subsemnatului/subscrisei. [] Sunt de acord cu soluționarea prezentei cereri de către Comisie. [] Sunt de acord cu prelucrarea datelor cu caracter personal de către ANRE.
+Data..........................................................
+Semnătura.................................................
+----
