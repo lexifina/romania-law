@@ -1,0 +1,6 @@
+# ANEXĂ (Anexa nr. 2 la regulament)
+CERERE DE SOLUȚIONARE A DISPUTEI
+Subsemnatul/Subscrisa,................................................/(nume/denumire), prin reprezentant legal...................................., solicităm soluționarea disputei intervenite cu ocazia derulării contractului........................, cu persoana fizică/juridică........................................../(nume/denumire; numele reprezentanților legali; domiciliu, sediu; număr de înmatriculare la registrul comerțului; telefon/fax), prin reprezentant legal................................, având în vedere că s-a parcurs etapa concilierii, conform notei/procesului-verbal. (Urmează expunerea, pe scurt, a obiectului disputei, cu datele aferente: [] indicarea contractului; [] indicarea clauzelor care fac obiectul disputei; [] indicarea temeiului juridic). [] Am luat cunoștință de faptul că decizia pe care o va emite Comisia pentru soluționarea disputelor pe piața angro și cu amănuntul are caracter obligatoriu și poate conține măsuri cu caracter coercitiv asupra subsemnatului/subscrisei. [] Sunt de acord cu soluționarea prezentei cereri de către Comisie. [] Sunt de acord cu prelucrarea datelor cu caracter personal de către ANRE.
+Data.............................................................
+Semnătura............................................
+----
