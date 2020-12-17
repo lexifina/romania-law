@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-14: registered at the Chamber of Deputies
 - 2020-09-08: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-14: sent for promulgation
+- 2020-12-17: promulgated, becomes Legea nr. 293/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,9 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386AM.PDF
 - 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-a4a7b36d.md](axs-a4a7b36d.md); official file https://www.senat.ro/legis/PDF/2019/19L386AXS.PDF
 - 2020-09-08: Forma trimisă la promulgare (LP): [lp-cac85f10.md](lp-cac85f10.md); official file https://www.senat.ro/legis/PDF/2019/19L386LP.PDF
+- 2020-12-17: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-17: Document (SC): [sc-5f383f86.md](sc-5f383f86.md); official file https://www.senat.ro/legis/PDF/2019/19L386SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-17: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L386DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-17: Decret de promulgare (DP): [dp-2695a2d5.md](dp-2695a2d5.md); official file https://www.senat.ro/legis/PDF/2019/19L386DP.PDF
+- 2020-12-17: Adresă privind forma promulgată (AFP): [afp-f88007b4.md](afp-f88007b4.md); official file https://www.senat.ro/legis/PDF/2019/19L386AFP.PDF
+- 2020-12-17: Forma promulgată (FP): [fp-12c2f3fb.md](fp-12c2f3fb.md); official file https://www.senat.ro/legis/PDF/2019/19L386FP.PDF
