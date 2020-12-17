@@ -1,0 +1,112 @@
+{
+ "key": "cedo-39855-13-2020-06-09",
+ "label": "CEDO, Lascău c. României, 2020-06-09",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-06-09",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 9 iunie 2020",
+ "subtitle": "în Cauza Lascău împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "1247",
+  "bis": false,
+  "date": "2020-12-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "39855/13"
+ ],
+ "case_name": "Lascău",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce privește capătul de cerere întemeiat pe art. 6 § 1 din Convenție, referitor la condamnarea reclamantului pentru luare de mită, și inadmisibilă pentru celelalte capete de cerere;",
+  "2. hotărăște că a fost încălcat art. 6 §1 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni, 1.500 EUR (una mie cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit pentru acest cuantum, cu titlu de prejudiciu moral, care va fi convertită în moneda statului pârât, la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge restul cererii de acordare a unei reparații echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235380",
+  "text_sha256": "5aa3c880a35db959005486d70f09c20e0e82f6156d465ff91966dd3467fffb00",
+  "catalogue_sha256": "5aa3c880a35db959005486d70f09c20e0e82f6156d465ff91966dd3467fffb00",
+  "fetched": "2026-11-03T01:53:26Z",
+  "chars": 21676,
+  "portal_id": "235380",
+  "tip": "HOTĂRÂRE"
+ }
+}
