@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2020-11-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-12-02: sent for promulgation
+- 2020-12-18: promulgated, becomes Legea nr. 295/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L485AM.PDF
 - 2020-11-24: Adresă privind sesizarea CCR (AXS): [axs-2ee34369.md](axs-2ee34369.md); official file https://www.senat.ro/legis/PDF/2019/19L485AXS.PDF
 - 2020-11-24: Forma trimisă la promulgare (LP): [lp-c2e461f4.md](lp-c2e461f4.md); official file https://www.senat.ro/legis/PDF/2019/19L485LP.PDF
+- 2020-12-18: Decret de promulgare (DP): [dp-0db1b445.md](dp-0db1b445.md); official file https://www.senat.ro/legis/PDF/2019/19L485DP.PDF
+- 2020-12-18: Adresă privind forma promulgată (AFP): [afp-4c2827ac.md](afp-4c2827ac.md); official file https://www.senat.ro/legis/PDF/2019/19L485AFP.PDF
+- 2020-12-18: Forma promulgată (FP): [fp-d572addb.md](fp-d572addb.md); official file https://www.senat.ro/legis/PDF/2019/19L485FP.PDF
