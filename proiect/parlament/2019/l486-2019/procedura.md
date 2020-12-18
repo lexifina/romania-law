@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2020-11-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-12-02: sent for promulgation
+- 2020-12-18: promulgated, becomes Legea nr. 296/2020; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L486AM.PDF
 - 2020-11-24: Adresă privind sesizarea CCR (AXS): [axs-2ee34369.md](axs-2ee34369.md); official file https://www.senat.ro/legis/PDF/2019/19L486AXS.PDF
 - 2020-11-24: Forma trimisă la promulgare (LP): [lp-7daa88c3.md](lp-7daa88c3.md); official file https://www.senat.ro/legis/PDF/2019/19L486LP.PDF
+- 2020-12-18: Decret de promulgare (DP): [dp-1f8cdd18.md](dp-1f8cdd18.md); official file https://www.senat.ro/legis/PDF/2019/19L486DP.PDF
+- 2020-12-18: Adresă privind forma promulgată (AFP): [afp-ab6120ad.md](afp-ab6120ad.md); official file https://www.senat.ro/legis/PDF/2019/19L486AFP.PDF
+- 2020-12-18: Forma promulgată (FP): [fp-a198c06b.md](fp-a198c06b.md); official file https://www.senat.ro/legis/PDF/2019/19L486FP.PDF
