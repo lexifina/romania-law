@@ -1,0 +1,6 @@
+Consiliul Local al orașului Șimleu Silvaniei, județul Sălaj, întrunit în ședință în data de 18 decembrie 2020 prin mijloace electronice;
+Având în vedere Referatul de aprobare nr. 13580/28.09.2020 al Primarului orașului Șimleu Silvaniei, Raportul de specialitate nr. 13622/29.09.2020 al Direcției Economice și Avizul Comisiei pentru programe de dezvoltare economico-socială, buget, finanțe, servicii, comerț și agricultură a Consiliului Local;
+În baza prevederilor art. 4 lit. b și art. 6 din Legea nr. 52/2003 privind transparența decizională în administrația publică, cu modificările și completările ulterioare, Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, Legii nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, HG nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare și ale art.
+129 alin. 2 lit. b, alin. 4 lit. c din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+În temeiul art. 139 alin. 3 lit. c și art. 196 alin. 2 lit. a din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
