@@ -1,0 +1,35 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2020/1800 AL COMISIEI
+din 30 noiembrie 2020
+privind autorizarea glutamatului monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188 ca aditiv pentru hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost transmisă o cerere de autorizare a glutamatului monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea glutamatului monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188 ca aditiv pentru hrana tuturor speciilor de animale. Solicitantul a cerut ca acest aditiv să fie încadrat în categoria „aditivi senzoriali”.
+(4) Solicitantul a cerut ca aditivul pentru hrana animalelor să fie autorizat în vederea utilizării în apa de băut. Regulamentul (CE) nr. 1831/2003 nu permite însă autorizarea „compușilor aromatizanți” în vederea utilizării în apa de băut. Prin urmare, ar trebui să nu se permită utilizarea în apa de băut a glutamatului monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188. Faptul că utilizarea aditivului ca substanță aromatizantă nu este autorizată în apa de băut nu exclude utilizarea acestuia în hrana combinată pentru animale administrată prin intermediul apei.
+(5) În avizul său din 19 martie 2020 (2), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat că, în condițiile de utilizare propuse, glutamatul monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188 nu are efecte negative asupra sănătății animalelor, asupra sănătății consumatorilor sau asupra mediului. Autoritatea a concluzionat în aviz că aditivul nu este toxic prin inhalare, nu este iritant pentru piele sau pentru ochi și nu este sensibilizant pentru piele. Autoritatea a concluzionat totodată că s-a demonstrat cu succes efectul de intensificare a gustului hranei pe care îl are glutamatul monosodic și că, prin urmare, nu este necesar să se mai demonstreze eficacitatea sa în hrana pentru animale. Autoritatea nu consideră că sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul referitor la metodele de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(6) Evaluarea glutamatului monosodic obținut prin fermentare cu Corynebacterium glutamicum KCCM 80188 arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea substanței respective ar trebui să fie autorizată conform specificațiilor din anexa la prezentul regulament.
+(7) Pentru a face posibil un control mai bun, ar trebui prevăzute restricții și condiții. Mai exact, pe eticheta aditivului pentru hrana animalelor ar trebui indicat conținutul recomandat. Atunci când respectivul conținut este depășit, ar trebui indicate anumite informații pe eticheta preamestecurilor.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se autorizează substanța specificată în anexă, aparținând categoriei „aditivi senzoriali” și grupei funcționale „compuși aromatizanți”, ca aditiv destinat hranei pentru animale, în condițiile stabilite în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 30 noiembrie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2020;18(4):6085.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditivul | Compoziția, formula chimică, descrierea, metoda de analiză | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de substanță activă/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria: Aditivi senzoriali. Grupa funcțională: compuși aromatizanți
+2b621i | - | glutamat monosodic | Compoziția aditivului: glutamat monosodic Caracterizarea substanței active: L-glutamat monosodic obținut prin fermentație cu Corynebacterium glutamicum KCCM 80188 Puritate: ≥ 99 % (test) Formula chimică: C5H8NaNO4 • H2O Numărul CAS 6106-04-3 Metoda analitică (1): Pentru identificarea L-glutamatului monosodic aditivul destinat hranei pentru animale: Codexul substanțelor chimice din alimente (Food Chemical Codex) „Monosodium L-glutamate monograph” Pentru cuantificarea L-glutamatului monosodic din aditivul destinat hranei pentru animale: cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și cu detecție fotometrică (IEC-VIS), astfel cum se descrie în Regulamentul (CE) nr. 152/2009 al Comisiei (anexa III partea F) (2). Pentru cuantificarea L-glutamatului monosodic din preamestecuri: cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și cu detecție fotometrică (IEC-VIS), Regulamentul (CE) nr. 152/2009 al Comisiei (anexa III partea F). | Toate speciile de animale | - | - | - | 1. Aditivul se adaugă în hrana pentru animale sub formă de preamestec. 2. În instrucțiunile de utilizare a aditivului și a preamestecului trebuie indicate condițiile de depozitare și stabilitatea la tratament termic. 3. Pe eticheta aditivului trebuie indicate următoarele: „Conținut maxim recomandat de substanță activă în hrana completă pentru animale cu un conținut de umiditate de 12 %: 25 mg/kg”. 4. Pe eticheta preamestecurilor trebuie indicată grupa funcțională, numărul de identificare, denumirea și cantitatea de substanță activă adăugată, în cazul în care conținutul de substanță activă din hrana completă pentru animale cu un conținut de umiditate de 12 % depășește: 25 mg/kg | 21.12.2030
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1).
