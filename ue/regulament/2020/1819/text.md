@@ -1,0 +1,46 @@
+REGULAMENTUL (UE) 2020/1819 AL COMISIEI
+din 2 decembrie 2020
+de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește utilizarea coloranților în înlocuitori de somon
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 privind aditivii alimentari (1), în special articolul 10 alineatul (3),
+întrucât:
+(1) Anexa II la Regulamentul (CE) nr. 1333/2008 conține o listă a Uniunii cuprinzând aditivii alimentari aprobați pentru utilizare în produsele alimentare și condițiile de utilizare a lor.
+(2) Lista respectivă poate fi actualizată în conformitate cu procedura comună menționată la articolul 3 alineatul (1) din Regulamentul (CE) nr. 1331/2008 al Parlamentului European și al Consiliului (2), fie la inițiativa Comisiei, fie în urma unei cereri.
+(3) În conformitate cu anexa II la Regulamentul (CE) nr. 1333/2008, astfel cum a fost modificat prin Regulamentul (UE) nr. 232/2012 al Comisiei (3), coloranții galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) sunt în prezent autorizați ca aditivi alimentari pentru categoria de produse alimentare 09.2 „Pește și produse de pescărie prelucrate, inclusiv moluște și crustacee”, ambii la un nivel maxim de 200 mg/kg și doar în cazul înlocuitorilor de somon bazați pe speciile de pești Theragra chalcogramma și Pollachius virens. La 15 iulie 2014 și la 23 septembrie 2009, autoritatea a emis avize prin care stabilește doza zilnică acceptabilă (DZA) pentru galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) (4) la 4 mg/kg greutate corporală/zi și DZA pentru roșu ponceau 4R, roșu coșenilă A (E 124) (5) la 0,7 mg/kg greutate corporală/zi. În avizele sale din 15 iulie 2014 și din 21 aprilie 2015 (6), autoritatea a concluzionat că niciuna dintre estimările expunerii pentru aditivii respectivi nu a depășit DZA respectivă pentru vreun grup de populație.
+(4) La 4 februarie 2019, a fost transmisă o cerere de modificare a condițiilor de utilizare a coloranților galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) cuprinși în categoria de produse alimentare 09.2 „Pește și produse de pescărie prelucrate, inclusiv moluște și crustacee”, pentru a autoriza utilizarea substanțelor respective în înlocuitori de somon bazați pe specia de pește Clupea harengus. Cererea implică actualul nivel maxim de 200 mg/kg, însă ea clarifică faptul că nivelurile efective de utilizare sunt mult mai mici, variind între una și două zecimi din nivelul maxim pentru ambele substanțe. Cererea a fost pusă la dispoziția statelor membre în conformitate cu articolul 4 din Regulamentul (CE) nr. 1331/2008.
+(5) Substanțele galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124), în cazurile în care sunt utilizate cu rol de coloranți, conferă nuanța stabilă dorită, îmbunătățesc proprietățile organoleptice și cresc atractivitatea vizuală a înlocuitorilor de somon bazați pe specia de pește Clupea harengus.
+(6) În conformitate cu articolul 3 alineatul (2) din Regulamentul (CE) nr. 1331/2008, Comisia trebuie să solicite avizul Autorității Europene pentru Siguranța Alimentară („autoritatea”) pentru a actualiza lista Uniunii de aditivi alimentari prevăzută în anexa II la Regulamentul (CE) nr. 1333/2008, cu excepția cazului în care actualizarea în cauză nu este susceptibilă să aibă efecte asupra sănătății umane.
+(7) Coloranții galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) sunt autorizați pentru a fi utilizați într-o mare varietate de alimente. Cele mai recente evaluări ale expunerii efectuate de autoritate, astfel cum se menționează la considerentul 3, au confirmat faptul că expunerea globală este cu mult sub valorile DZA respective chiar și în situația cea mai prudentă reflectată de nivelurile maxime reglementate. Utilizările autorizate pentru înlocuitorii de somon bazați pe Theragra chalcogramma și Pollachius virens au fost incluse în respectivele estimări referitoare la expunere. Întrucât înlocuitorii de somon bazați pe Clupea harengus sunt meniți a fi o alternativă la înlocuitorii de somon bazați pe Theragra chalcogramma și Pollachius virens, consumul de înlocuitori de somon de către consumatori nu ar trebui să se schimbe în mod semnificativ. În plus, nivelurile de utilizare ale coloranților galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) necesare pentru a obține efectul dorit în înlocuitorii de somon bazați pe Clupea harengus sunt substanțial mai mici decât nivelurile maxime autorizate. Prin urmare, nu este de așteptat ca utilizarea propusă să aibă un impact semnificativ asupra expunerii globale a consumatorilor la respectivii aditivi alimentari care, prin urmare, ar fi necesar să rămână sub valoarea DZA.
+(8) Rubricile pentru grupa II, grupa III și licopen (E 160d) din categoria de produse alimentare 09.2 „Pește și produse de pescărie prelucrate, inclusiv moluște și crustacee” se referă în prezent doar la „înlocuitori de somon”. Pentru a oferi claritate și securitate juridică în ceea ce privește această expresie, este necesar ca formularea de la respectivele rubrici să fie modificată pentru a indica faptul că utilizarea autorizată se referă la „înlocuitori de somon” bazați pe speciile de pești Theragra chalcogramma, Pollachius virens sau Clupea harengus.
+(9) Prin urmare, este adecvat să se modifice categoria de produse alimentare 09.2 „Pește și produse de pescărie prelucrate, inclusiv moluște și crustacee” din partea E a anexei II la Regulamentul (CE) nr. 1333/2008 pentru a autoriza utilizarea coloranților galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) în înlocuitorii de somon bazați pe specia de pește Clupea harengus și să se introducă în listă rubricile pentru grupa II, grupa III și licopen (E 160d) speciile de pești pe care „înlocuitorii de somon” pot fi bazați.
+(10) Prin urmare, este necesar ca anexa II la Regulamentul (CE) nr. 1333/2008 să fie modificată în consecință.
+(11) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa II la Regulamentul (CE) nr. 1333/2008 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 2 decembrie 2020.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 354, 31.12.2008, p. 16.
+(2) Regulamentul (CE) nr. 1331/2008 al Parlamentului European și al Consiliului din 16 decembrie 2008 de instituire a unei proceduri comune de autorizare pentru aditivii alimentari, enzimele alimentare și aromele alimentare (JO L 354, 31.12.2008, p. 1).
+(3) Regulamentul (UE) nr. 232/2012 al Comisiei din 16 martie 2012 de modificare a anexei II la Regulamentul (CE) nr. 1333/2008 al Parlamentului European și al Consiliului în ceea ce privește condițiile și nivelurile de utilizare pentru galben de chinolină (E 104), galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) și roșu ponceau 4R, roșu coșenilă A (E 124) (JO L 78, 17.3.2012, p. 1).
+(4) EFSA Journal 2014;12(7):3765.
+(5) EFSA Journal 2009;7(11):1328.
+(6) EFSA Journal 2015;13(4):4073.
+ANEXĂ
+Partea E a anexei II la Regulamentul (CE) nr. 1333/2008, referitoare la categoria de produse alimentare 09.2 „Pește și produse de pescărie prelucrate, inclusiv moluște și crustacee”, se modifică după cum urmează:
+1. rubricile pentru grupa II și grupa III se înlocuiesc cu următorul text:
+| „Grupa II | Coloranți în cantitate quantum satis | quantum satis | | doar surimi și produse similare și înlocuitori de somon bazați pe Theragra chalcogramma, Pollachius virens și Clupea harengus
+| Grupa III | Coloranți cu limită maximă combinată | 500 | (84) | doar surimi și produse similare și înlocuitori de somon bazați pe Theragra chalcogramma, Pollachius virens și Clupea harengus”
+2. rubrica referitoare la galben apus de soare (sunset yellow) FCF/galben portocaliu S (E 110) se înlocuiește cu următorul text:
+| „E 110 | galben apus de soare (sunset yellow) FCF/galben portocaliu S | 200 | (63) | doar înlocuitori de somon bazați pe Theragra chalcogramma, Pollachius virens și Clupea harengus”
+3. rubrica referitoare la roșu ponceau 4R, roșu coșenilă A (E 124) se înlocuiește cu următorul text:
+| „E 124 | roșu ponceau 4R, roșu coșenilă A | 200 | (63) | doar înlocuitori de somon bazați pe Theragra chalcogramma, Pollachius virens și Clupea harengus”
+4. prima rubrică referitoare la licopen (E 160d) se înlocuiește cu următorul text:
+| „E 160d | Licopen | 10 | | doar înlocuitori de somon bazați pe Theragra chalcogramma, Pollachius virens și Clupea harengus”
