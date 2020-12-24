@@ -1,0 +1,9 @@
+# Anexa nr. 11
+CERERE de aprobare prealabilă a fuziunii/divizării
+Domnule Guvernator,
+Subsemnatul/subsemnații,.........................(numele și prenumele).................., în calitate de conducător/conducători al/ai instituției de credit............................(denumirea/denumirile entităților participante).............................., participantă la operațiunea de fuziune/divizare, solicit/solicităm aprobarea prealabilă, conform proiectului prezentat, a operațiunii de fuziune/divizare, precum și autorizarea instituției de credit/instituțiilor de credit ce urmează a se înființa în urma fuziunii/divizării.
+Menționez/Menționăm următoarele: - persoanele desemnate să exercite funcții de conducere în calitate de administrator, director, respectiv membru al consiliului de supraveghere sau al directoratului, în urma fuziunii/divizării sunt:.............................................................................................;
+- adresa sediului social și, după caz, a sediului real al/ale instituției de credit/instituțiilor de credit rezultate în urma fuziunii/divizării este/sunt:...............................................................................................
+În susținerea cererii mele/noastre anexez/anexăm următoarea documentație, în conformitate cu prevederile art. 162 alin. (7) din Regulamentul nr. 12/2020 privind autorizarea instituțiilor de credit și modificările în situația acestora:...............................................................................................
+Adresa noastră de contact este..............................................................................................................(data)....................... (semnătura și ștampila)...............
+Domnului Guvernator al Băncii Naționale a României

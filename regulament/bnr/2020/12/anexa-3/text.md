@@ -1,0 +1,15 @@
+# Anexa nr. 3
+INFLUENȚA SEMNIFICATIVĂ
+1.
+În conformitate cu Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, aprobată cu modificări și completări prin Legea nr. 227/2007, cu modificările și completările ulterioare, Regulamentul (UE) nr. 575/2013 al Parlamentului European și al Consiliului din 26 iunie 2013 privind cerințele prudențiale pentru instituțiile de credit și societățile de investiții și de modificare a Regulamentului (UE) nr. 648/2012, cu modificările ulterioare, și cu actele normative emise în aplicarea acestora, achiziția propusă sau majorarea unei participații care nu se ridică la 10% din capital sau din drepturile de vot ale instituției de credit trebuie să fie supusă unei notificări și evaluări prudențiale prealabile, dacă o astfel de participație i-ar permite achizitorului potențial să exercite o influență considerabilă asupra conducerii instituției de credit, chiar dacă influența respectivă este sau nu exercitată. Pentru a evalua dacă se poate exercita o influență semnificativă, Banca Națională a României ia în considerare mai mulți factori, inclusiv structura acționariatului instituției de credit și nivelul efectiv de implicare al achizitorului potențial în conducerea instituției de credit.
+2.
+Banca Națională a României ia în considerare următoarea listă neexhaustivă de factori pentru a stabili dacă achiziția propusă a unei participații i-ar permite achizitorului potențial să exercite o influență semnificativă asupra conducerii instituției de credit: a) existența unor tranzacții importante și regulate între potențialul achizitor și instituția de credit;
+b) relația fiecărui membru sau acționar cu instituția de credit;
+c) dacă achizitorul potențial se bucură de drepturi suplimentare în cadrul instituției de credit în temeiul unui contract intrat în vigoare sau al unei prevederi stipulate în statutul instituției de credit sau în alte documente constitutive;
+d) dacă achizitorul potențial este membru, are un reprezentant sau are capacitatea de a numi un reprezentant în organul de conducere, organul de conducere în funcția sa de supraveghere sau într-un organ similar al instituției de credit;
+e) structura în ansamblu a acționariatului instituției de credit sau a unei întreprinderi-mamă a instituției de credit, având în vedere, în special, dacă acțiunile sau participațiile și drepturile de vot sunt distribuite între un număr mare de acționari sau membri;
+f) existența unor relații între achizitorul potențial, acționarii existenți și a oricărui acord între acționari care i-ar permite achizitorului potențial să exercite o influență semnificativă;
+g) poziția achizitorului potențial în cadrul structurii grupului instituției de credit; și
+h) capacitatea achizitorului potențial de a participa la deciziile privind strategiile operaționale și financiare ale instituției de credit.
+3.
+Pentru a stabili dacă se poate exercita o influență semnificativă, Banca Națională a României ia în considerare toate faptele și circumstanțele relevante.
