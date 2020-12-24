@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: returned for re-examination
 - 2020-07-30: sent for promulgation
 - 2020-10-07: published in the Monitorul Oficial
+- 2020-12-24: promulgated, becomes Legea nr. 298/2020; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,13 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-31: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180AM.PDF
 - 2020-04-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180AXS.PDF
 - 2020-04-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180LP.PDF
+- 2020-12-24: Document (XA): [xa-e08d0b52.md](xa-e08d0b52.md); official file https://www.senat.ro/legis/PDF/2020/20L180XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (CX): [cx-21f67929.md](cx-21f67929.md); official file https://www.senat.ro/legis/PDF/2020/20L180CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (SX): [sx-8d6f7193.md](sx-8d6f7193.md); official file https://www.senat.ro/legis/PDF/2020/20L180SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (XXS): [xxs-9a6d9882.md](xxs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L180XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (PX): [px-d0348fb6.md](px-d0348fb6.md); official file https://www.senat.ro/legis/PDF/2020/20L180PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (SC): [sc-2c3631c0.md](sc-2c3631c0.md); official file https://www.senat.ro/legis/PDF/2020/20L180SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2020-12-24: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180DP.PDF
+- 2020-12-24: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180AFP.PDF
+- 2020-12-24: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L180FP.PDF
