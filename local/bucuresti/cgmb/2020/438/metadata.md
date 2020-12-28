@@ -1,0 +1,11 @@
+# HCGMB nr. 438/2020
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 438/2020
+- Adopted: 2020-12-28
+- Title: PRIVIND DESEMNAREA REPREZENTANTILOR MUNICIPIULUI BUCURESTI, PRIN CONSILIUL GENERAL AL MUNICIPIULUI BUCURESTI, IN ADUNAREA GENERALA A ACTIONARILOR A ASOCIAJIEI CENTRU MUNICIPAL PENTRU DIALOG BUCURESTI, PERSOANA JURIDICA DE DREPT PRIVAT, FARA SCOP PATRIMONIAL, CONSTITUITA PRIN ASOCIEREA INTRE MUNICIPIUL BUCURESTI, CENTRUL PENTRU TINERET AL MUNICIPIULUI BUCURESTI SI CENTRUL PENTRU SENIORI AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41769
+- Document: https://doc.pmb.ro/legis/acteinterne/2020/41769/H438_20.pdf
+- Document sha256: 7e09716341393b4f448f1118c1726d30255b0a6e47e1f3685a2164ae2d4c8ef1
