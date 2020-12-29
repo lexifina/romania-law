@@ -1,0 +1,229 @@
+{
+ "key": "dcc-585-2020",
+ "label": "Decizia CCR nr. 585/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "585",
+ "date": "2020-07-14",
+ "year": "2020",
+ "heading": "DECIZIA nr. 585 din 14 iulie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 82/2017 pentru modificarea și completarea unor acte normative și ale art. 19 din Legea bugetului asigurărilor sociale de stat pe anul 2018 nr. 3/2018",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1300",
+  "bis": false,
+  "date": "2020-12-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.668/63/2018",
+  "858D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 82/2017",
+    "number": "82",
+    "year": "2017",
+    "path": "oug/2017/82"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Antonie Ciocioc în Dosarul nr. 2.668/63/2018 al Curții de Apel Craiova - Secția I civilă și constată că prevederile art. I alin. (1) din Ordonanța de urgență a Guvernului nr. 82/2017 pentru modificarea și completarea unor acte normative și ale art. 19 din Legea bugetului asigurărilor sociale de stat pe anul 2018 nr. 3/2018 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 82/2017",
+    "number": "82",
+    "year": "2017",
+    "path": "oug/2017/82"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2018",
+    "number": "3",
+    "year": "2018",
+    "path": "lege/2018/3"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235692",
+  "text_sha256": "e8662940b86d79a06004436d8be498da8839509d6f510840714de4911c2ba246",
+  "catalogue_sha256": "e8662940b86d79a06004436d8be498da8839509d6f510840714de4911c2ba246",
+  "fetched": "2026-11-03T01:53:02Z",
+  "chars": 15666,
+  "portal_id": "235692",
+  "tip": "DECIZIE"
+ }
+}
