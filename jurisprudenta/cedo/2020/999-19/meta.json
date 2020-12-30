@@ -1,0 +1,167 @@
+{
+ "key": "cedo-999-19-2020-05-26",
+ "label": "CEDO, Aftanache c. României, 2020-05-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-05-26",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 26 mai 2020",
+ "subtitle": "în Cauza Aftanache împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI- SECȚIA A PATRA",
+ "mo": {
+  "number": "1312",
+  "bis": false,
+  "date": "2020-12-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "999/19"
+ ],
+ "case_name": "Aftanache",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară capătul de cerere întemeiat pe aspectul procedural al art. 2 din Convenție și capătul de cerere întemeiat pe art. 5 § 1 din Convenție admisibile;",
+  "2. hotărăște că a fost încălcat sub aspect procedural art. 2 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze admisibilitatea și fondul capătului de cerere întemeiat pe aspectul material al art. 2 din Convenție, privind obligația statului de a proteja viața reclamantului;",
+  "4. hotărăște că a fost încălcat art. 5 § 1 din Convenție;",
+  "5. hotărăște: (a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44§2 din Convenție, următoarele sume care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "12.000 EUR (douăsprezece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "17 EUR (șaptesprezece euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru cheltuielile de judecată;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "6. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 218/2002",
+    "number": "218",
+    "year": "2002",
+    "path": "lege/2002/218"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2012",
+    "number": "129",
+    "year": "2012",
+    "path": "lege/2012/129"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 4",
+    "path": null,
+    "slug": "conventia-edo-protocolul-4"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235756",
+  "text_sha256": "a765fea633406ec53640197302aaaaca7b39df781f765c365703c0580f714713",
+  "catalogue_sha256": "a765fea633406ec53640197302aaaaca7b39df781f765c365703c0580f714713",
+  "fetched": "2026-11-03T01:53:03Z",
+  "chars": 60215,
+  "portal_id": "235756",
+  "tip": "HOTĂRÂRE"
+ }
+}
