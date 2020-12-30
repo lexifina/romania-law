@@ -1,0 +1,21 @@
+# Proiect de lege L1/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 74/2025 (`legea-74-2025`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.213/2020 privind participarea României la majorarea asimetrică de capital a Băncii Europene de Investiții în conformitate cu Decizia (UE) 2019/1255 a Consiliului din 18 iulie 2019 de modificare a Protocolului nr.5 privind Statutul Băncii Europene de Investiții
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-12-30: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-12-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L001FG.PDF
+- 2020-12-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L001EM.PDF
+- 2020-12-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L001LG.PDF
+- 2020-12-30: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L001OG.PDF
+- 2020-12-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L001HG.PDF
