@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-21: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2020-11-18: documents published: Aviz comisie
 - 2020-11-20: documents published: Aviz comisie
+- 2020-12-30: closed (clasat)
 
 ## Documents
 
