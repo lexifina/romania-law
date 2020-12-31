@@ -1,0 +1,259 @@
+{
+ "key": "dcc-670-2020",
+ "label": "Decizia CCR nr. 670/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "670",
+ "date": "2020-09-29",
+ "year": "2020",
+ "heading": "DECIZIA nr. 670 din 29 septembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 1 alin. (1) teza finală din Ordonanța de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1326",
+  "bis": false,
+  "date": "2020-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.292/63/2018",
+  "1.807D/2018",
+  "1.968D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2017",
+    "number": "52",
+    "year": "2017",
+    "path": "oug/2017/52"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de NEW AGE ADVERTISING AGENCY - S.R.L., cu sediul social în municipiul Craiova, județul Dolj, în Dosarul nr. 5.292/63/2018 al Tribunalului Dolj - Secția contencios administrativ și fiscal și constată că prevederile art. 1 alin. (1) teza finală din Ordonanța de urgență a Guvernului nr. 52/2017 privind restituirea sumelor reprezentând taxa specială pentru autoturisme și autovehicule, taxa pe poluare pentru autovehicule, taxa pentru emisiile poluante provenite de la autovehicule și timbrul de mediu pentru autovehicule sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2017",
+    "number": "52",
+    "year": "2017",
+    "path": "oug/2017/52"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "174",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "219",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 258/2018",
+    "number": "258",
+    "year": "2018",
+    "path": "lege/2018/258"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235868",
+  "text_sha256": "c56f449778b11ea40f7d791734d02d773923eec196660f0183a6fe92dfdbe96f",
+  "catalogue_sha256": "c56f449778b11ea40f7d791734d02d773923eec196660f0183a6fe92dfdbe96f",
+  "fetched": "2026-11-03T01:52:43Z",
+  "chars": 31167,
+  "portal_id": "235868",
+  "tip": "DECIZIE"
+ }
+}
