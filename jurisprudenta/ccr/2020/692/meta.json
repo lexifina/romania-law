@@ -1,0 +1,200 @@
+{
+ "key": "dcc-692-2020",
+ "label": "Decizia CCR nr. 692/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "692",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 692 din 6 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 9 teza a doua coroborate cu cele ale art. 50 alin. (1) lit. c) din Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1324",
+  "bis": false,
+  "date": "2020-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25.676/281/2017",
+  "919D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Christian 76 Tour - S.R.L. din București în Dosarul nr. 25.676/281/2017 al Judecătoriei Ploiești - Secția civilă și constată că dispozițiile art. 9 teza a doua coroborate cu cele ale art. 50 alin. (1) lit. c) din Ordonanța Guvernului nr. 21/1992 privind protecția consumatorilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Ploiești - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 296/2004",
+    "number": "296",
+    "year": "2004",
+    "path": "lege/2004/296"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235833",
+  "text_sha256": "f675e1b6541b44eeeebbaf33ee2d26c80940198a536df415fed6afaa53cbb91b",
+  "catalogue_sha256": "f675e1b6541b44eeeebbaf33ee2d26c80940198a536df415fed6afaa53cbb91b",
+  "fetched": "2026-11-03T01:52:45Z",
+  "chars": 16311,
+  "portal_id": "235833",
+  "tip": "DECIZIE"
+ }
+}
