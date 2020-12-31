@@ -1,0 +1,22 @@
+# Proiect de lege L14/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 187/2021 (`legea-187-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.227/2020 pentru modificarea și completarea Ordonanţei de urgenţã a Guvernului nr.37/2020 privind acordarea unor facilități pentru creditele acordate de instituții de credit şi instituții financiare nebancare anumitor categorii de debitori
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2020-12-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2020-12-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L014AD.PDF
+- 2020-12-31: Forma inițiatorului (FG): [fg-0f442d03.md](fg-0f442d03.md); official file https://www.senat.ro/legis/PDF/2021/21L014FG.PDF
+- 2020-12-31: Expunere de motive (EM): [em-214b2487.md](em-214b2487.md); official file https://www.senat.ro/legis/PDF/2021/21L014EM.PDF
+- 2020-12-31: Aviz Consiliul Legislativ (LG): [lg-07f8ee61.md](lg-07f8ee61.md); official file https://www.senat.ro/legis/PDF/2021/21L014LG.PDF
+- 2020-12-31: Document (OG): [og-bd35ca31.md](og-bd35ca31.md); official file https://www.senat.ro/legis/PDF/2021/21L014OG.PDF
+- 2020-12-31: Document (HG): [hg-ccc79517.md](hg-ccc79517.md); official file https://www.senat.ro/legis/PDF/2021/21L014HG.PDF
