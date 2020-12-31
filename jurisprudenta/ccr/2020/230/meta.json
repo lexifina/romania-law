@@ -1,0 +1,606 @@
+{
+ "key": "dcc-230-2020",
+ "label": "Decizia CCR nr. 230/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "230",
+ "date": "2020-06-02",
+ "year": "2020",
+ "heading": "DECIZIA nr. 230 din 2 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 42 și 69 din Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, ale art. 7 alin. (2) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, ale Legii nr. 80/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 90/2017, precum și ale art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1321",
+  "bis": false,
+  "date": "2020-12-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.325/117/2018",
+  "93D/2019",
+  "289D/2019",
+  "1.780/117/2018",
+  "485D/2019",
+  "1.798/117/2018",
+  "522D/2019",
+  "2.324/117/2018",
+  "523D/2019",
+  "2.322/117/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 79/2017",
+    "number": "79",
+    "year": "2017",
+    "path": "oug/2017/79"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 80/2018",
+    "number": "80",
+    "year": "2018",
+    "path": "lege/2018/80"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Unirea Cluj în Dosarul nr. 2.325/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Sindicatul Muncă și Protecție Socială Cluj în Dosarul nr. 1.780/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Ioana Valentina Savuli în Dosarul nr. 1.798/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Sindicatul Unirea Cluj în Dosarul nr. 2.324/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Sindicatul Unirea Cluj în Dosarul nr. 2.322/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Sindicatul Casei de Asigurări de Sănătate Cluj ASIGSAN în Dosarul nr. 1.591/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Olimpia Bărăian, Maria Adriana Mocanu, Firuța Popon, Claudia Elisabeta Ungur și Mircea Chioreanu în Dosarul nr. 2.689/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, de Mirela Camelia Datcu în Dosarul nr. 2.167/118/2018 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, de Ioan Alexandru Stan, Miodrag Popov, Liubinca Momirov, Nicolae Mircea Tatu Brustur și Valeria Stan în Dosarul nr. 298/30/2019 al Tribunalului Timiș - Secția I civilă, de Marin Radu, Gheorghe Lehaci, Constantin Cristian Hornoiu, Iohan Gerstenengst și Vasile Matei în Dosarul nr. 299/30/2019 al Tribunalului Timiș - Secția I civilă, de Ionuț Teodorescu, Sorin Bărbosu, Tiberiu Ioan Rus, Tiberiu Adalbert Vincze, Angelica Stere și Cornel Cebuc în Dosarul nr. 300/30/2019 al Tribunalului Timiș - Secția I civilă, de Georgeta Cătălina Apostol, Oana Luminița Barbălată, Cornelia Bârliba, Petronela Bostoacă, Oana Codrina Călărașu, Doina Liliana Cernei, Liliana Cucu, Maria Lorena Dănilă, Mariana Forgaci, Dragoș Cătălin Ghica, Cătălina Indrei, Lucian Laurențiu Indrei, Laura Maftei, Laura Munteanu, Loredana Munteanu, Alexandrina Petrea, Eugen Popescu, Georgeta Popovici, Iulia Puiu, Rodica Rusu, Vasile Rusu, Daniela Spînu Cohal, Liviu Stafie, Luna Ionela Stafie, Laura Șoldan, Irina Tătăru, Manuela Trifan, Marius Alexandru Voicescu, Emil Zupcu și Ana Oltea Zupcu în Dosarul nr. 3.411/99/2018 al Curții de Apel Iași - Secția contencios administrativ și fiscal, de Daniel Ioan Baciu, Monica Simona Ciocănea, Grigore Marius Morar, Florina Maria Țilea și Gabriel Sorin Zegrean în Dosarul nr. 5.459/2/2018 al Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal, de Felicia Ana Saitos, Corneliu Gabriel Moldovan, Csilla Izabella Traxler, Cosmin Cojocaru și Andrei Alin Ardelean în Dosarul nr. 5.460/2/2018 al Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal și de Alina Monica Mărginean, Nicolae Costea, Nicoleta Costea, Aurica Muntean, Adela Elena Negrea Oprea, Anca Dana Tănase și Viorel Sorin Gligor în Dosarul nr. 2.904/107/2018 al Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal și constată că prevederile art. I pct. 42 și 69 din Ordonanța de urgență a Guvernului nr. 79/2017 pentru modificarea și completarea Legii nr. 227/2015 privind Codul fiscal, ale art. 7 alin. (2) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, precum și ale art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a Legii nr. 80/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 90/2017, excepție ridicată de aceleași părți în aceleași dosare ale acelorași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale, Curții de Apel Constanța –- Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Timiș - Secția I civilă, Curții de Apel Iași - Secția contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a de contencios administrativ și fiscal și Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal^ și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 79/2017",
+    "number": "79",
+    "year": "2017",
+    "path": "oug/2017/79"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 80/2018",
+    "number": "80",
+    "year": "2018",
+    "path": "lege/2018/80"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6",
+      "3",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "h",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "136",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2018",
+    "number": "287",
+    "year": "2018",
+    "path": "lege/2018/287"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 41/2018",
+    "number": "41",
+    "year": "2018",
+    "path": "oug/2018/41"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea administrației publice locale nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 44/2008",
+    "number": "44",
+    "year": "2008",
+    "path": "oug/2008/44"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 225/2015",
+    "number": "225",
+    "year": "2015",
+    "path": "lege/2015/225"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2020-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235815",
+  "text_sha256": "18f506648af222dff045e6de9aeb8b0f2b70a6aca1dbd6aed6e22a5285513cf4",
+  "catalogue_sha256": "18f506648af222dff045e6de9aeb8b0f2b70a6aca1dbd6aed6e22a5285513cf4",
+  "fetched": "2026-11-03T01:52:45Z",
+  "chars": 98728,
+  "portal_id": "235815",
+  "tip": "DECIZIE"
+ }
+}
