@@ -1,0 +1,63 @@
+# Anexa 3
+Anexa nr. 3
+la regulament
+- model -
+AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI
+CERTIFICAT DE AUTORIZARE
+Nr. ...... din ..................
+În baza Legii energiei electrice și a gazelor naturale nr. 123/2012 , cu modificările și completările ulterioare, și a Regulamentului pentru autorizarea persoanelor fizice care desfășoară activități în sectorul gazelor naturale, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 182/2020 , denumit în continuare Regulament, se emite doamnei/domnului .................................................., CNP ........................................, următoarea/următoarele autorizație/autorizații care atestă calitatea de instalator autorizat pentru desfășurarea activităților de proiectare/execuție/exploatare a obiectivelor/sistemelor/instalațiilor din domeniul gazelor naturale, pentru tipul/tipurile de autorizare:
+Tipuri de autorizare
+Domeniul
+Număr autorizație
+Data emiterii
+Data vizării
+Data vizării
+PGIU
+- proiectare instalații de utilizare a gazelor naturale ce funcționează în regim de medie, redusă și joasă presiune
+XXXXXX
+..............
+..............
+..............
+PGD
+- proiectare sisteme de distribuție a gazelor naturale, sisteme de distribuție închise și magistrale directe ce funcționează în regim de medie, redusă și joasă presiune
+- proiectare instalații de producere/stocare biogaz/ biometan
+XXXXXX
+..............
+..............
+..............
+PGT
+- proiectare sisteme de transport al gazelor naturale
+- proiectare sisteme de distribuție a gazelor naturale, sisteme de distribuție închise și magistrale directe ce funcționează în regim de înaltă presiune
+- proiectare conducte de alimentare din amonte
+- proiectare instalații tehnologice de suprafață aferente înmagazinării gazelor naturale
+- proiectare instalații de utilizare a gazelor naturale ce funcționează în regim de înaltă presiune
+XXXXXX
+..............
+............
+............
+EGIU
+- execuție instalații de utilizare a gazelor naturale ce funcționează în regim de medie, redusă și joasă presiune
+XXXXXX
+..............
+..............
+..............
+EGD
+- execuție sisteme de distribuție a gazelor naturale, sisteme de distribuție închise și magistrale directe ce funcționează în regim de medie, redusă și joasă presiune
+- execuție instalații de producere/stocare biogaz/ biometan
+XXXXXX
+..............
+..............
+..............
+EGT
+- execuție sisteme de distribuție a gazelor naturale, sisteme de distribuție închise și magistrale directe ce funcționează în regim de înaltă presiune
+- execuție conducte de alimentare din amonte
+- execuție instalații tehnologice de suprafață aferente înmagazinării gazelor naturale
+- execuție instalații de utilizare a gazelor naturale ce funcționează în regim de înaltă presiune
+XXXXXX
+..............
+..............
+..............
+Instalatorul autorizat ANRE are obligația de a respecta prevederile Regulamentului și ale reglementărilor emise de ANRE aplicabile activității sale.
+Semnătură autorizată
+………………………..
+-----
