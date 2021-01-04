@@ -1,0 +1,83 @@
+•A
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+SENATUL
+LEGE
+privind unele măsuri pentru prevenirea și combaterea
+antițigănismului
+Parlamentul României adoptă prezenta lege.
+Art. 1. - Prezenta lege are ca scop stabilirea unor măsuri pentru
+prevenirea și combaterea antițigănismului.
+Art. 2. - In sensul prezentei legi, termenii și expresiile de mai
+jos au următorul înțeles:
+a) prin antițigănism se înțelege atât percepția referitoare la romi
+exprimată ca ură împotriva acestora, cât și manifestările verbale sau
+fizice, motivate de ură împotriva romilor, îndreptate împotriva romilor
+ori a proprietăților acestora, împotriva instituțiilor/ONG-urilor, liderilor
+comunităților rome sau lăcașurilor lor de cult, tradițiilor și limbii
+romani;
+b) prin organizație cu caracter antițigănist se înțelege orice
+grup format din 3 sau mai multe persoane, care își desfășoară activitatea
+temporar sau permanent, în scopul promovării ideilor, concepțiilor sau
+doctrinelor antițigăniste. în această categorie pot fi incluse organizațiile
+cu sau lără personalitate Juridică, partidele și mișcările politice,
+asociațiile și fundațiile, societățile reglementate de Legea societăților
+nr. 31/1990, republicată, cu modificările și completările ulterioare,
+precum și orice alte persoane Juridice care intră sub incidența prezentei
+legi;
+
+2
+c)
+prin simboluri antițigăniste se înțelege: drapelele,
+emblemele, insignele, uniformele, sloganurile, formulele de salut,
+precum și orice alte asemenea însemne, care transmit idei, concepții sau
+doctrine care promovează antițigănismul;
+d) prin materiale antițigăniste se înțelege: imagini, mesaje text,
+conținut audio-video, precum și orice alte asemenea reprezentări, care
+transmit idei, concepții sau doctrine care promovează antițigănismul.
+Art. 3. - Fapta persoanei de a promova, în public, în orice mod,
+idei, concepții sau doctrine antițigăniste constituie infracțiune și se
+pedepsește cu închisoare de la 3 luni la 3 ani și interzicerea unor
+drepturi.
+Art. 4. - Distribuirea sau punerea la dispoziția publicului, prin
+orice mijloace, de știri și informații, materiale antițigăniste constituie
+infracțiune și se pedepsește cu închisoare de la un an la 5 ani.
+Art. 5. - (1) Confecționarea, vânzarea, răspândirea, precum și
+deținerea în vederea răspândirii de simboluri antițigăniste constituie
+infracțiune și se pedepsește cu închisoare de la 3 luni la 3 ani și
+interzicerea unor drepturi.
+(2) Cu aceeași pedeapsă se sancționează și utilizarea în public a
+simbolurilor antițigăniste.
+(3) Nu constituie infracțiune fapta prevăzută la alin. (1) sau (2),
+dacă este săvârșită în interesul artei sau științei, cercetării ori educației
+sau în scopul dezbaterii unor aspecte de interes public.
+Art. 6. - (1) Constituie infracțiune și se pedepsește cu
+închisoare de la 3 la 10 ani și interzicerea unor drepturi, inițierea sau
+constituirea unei organizații cu caracter antițigănist, aderarea sau
+sprijinirea, sub orice formă, a unui astfel de grup.
+(2) Dacă faptele prevăzute la alin. (1) au fost urmate de
+săvârșirea unei infracțiuni, se aplică regulile privind concursul de
+infracțiuni.
+___ (3) Nu se pedepsesc persoanele care au^comis faptele prevăzute
+la alin. (1), dacă denunță autorităților existența organizației, înainte ca
+aceasta să fi fost descoperită și să se fi început săvârșirea vreuneia dintre
+infracțiunile care intră în scopul grupului.
+
+3
+(4) Dacă persoana care a săvârșit una dintre faptele prevăzute la
+alin. (1) și (2) înlesnește, în cursul urmăririi penale, aflarea adevărului și
+tragerea la răspundere penală a unuia sau mai multor membri ai unui
+grup infracțional organizat, limitele speciale ale pedepsei se reduc la
+jumătate.
+
+4
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 și ale art. 76 alin. (1) din Constituția
+României, republicată.
+p. PREȘEDINTELE
+CAMERE^EPUTAȚILOR
+p. PREȘEDINTELE
+SENATULUI
+CARMEN-ILEANAMIHALCESCU ROBERT-MARIUSCAZANCIUC
+București, 4* ioifu^a/u-a 2a2-f.
+Nr. 2 .
