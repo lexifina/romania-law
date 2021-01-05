@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-12-15: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-12-21: sent for promulgation
 - 2021-01-04: promulgated, becomes Legea nr. 2/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-01-05: published in the Monitorul Oficial
 
 ## Documents
 
