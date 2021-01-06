@@ -1,0 +1,347 @@
+{
+ "key": "dcc-500-2020",
+ "label": "Decizia CCR nr. 500/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "500",
+ "date": "2020-06-25",
+ "year": "2020",
+ "heading": "DECIZIA nr. 500 din 25 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 135 alin. (1) raportat la art. 58 alin. (5) din Ordonanța de urgență a Guvernului nr. 52/2016 privind contractele de credit oferite consumatorilor pentru bunuri imobile, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "11",
+  "bis": false,
+  "date": "2021-01-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.676/205/2017",
+  "1.306/219/2017",
+  "4.099/235/2018",
+  "5.211/337/2016",
+  "741/195/2017",
+  "10.133/211/2017",
+  "1.585D/2018",
+  "12.162/211/2017",
+  "1.683D/2018",
+  "12.161/211/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Adriana-Cosmina Crăciun în dosarele nr. 10.133/211/2017, nr. 12.162/211/2017 și nr. 12.161/211/2017 ale Tribunalului specializat Cluj, de Tribunalul Argeș - Secția civilă, din oficiu, în Dosarul nr. 1.676/205/2017, de Marius Mărcan și Radu Păcurar în Dosarul nr. 1.306/219/2017 al Tribunalului specializat Cluj, de Maria Drăgan și Vasile Ungur în Dosarul nr. 16.381/211/2016* al Judecătoriei Cluj-Napoca - Secția civilă, de Rada Codruța Horvath în Dosarul nr. 4.099/235/2018 al Tribunalului specializat Cluj, de Ana Petrușan în Dosarul nr. 5.211/337/2016* al Tribunalului Sălaj - Secția civilă și de Elena Marc în Dosarul nr. 741/195/2017 al Judecătoriei Brad și constată că prevederile art. 135 alin. (1) raportat la art. 58 alin. (5) din Ordonanța de urgență a Guvernului nr. 52/2016 privind contractele de credit oferite consumatorilor pentru bunuri imobile, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 50/2010 privind contractele de credit pentru consumatori sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului specializat Cluj, Tribunalului Argeș - Secția civilă, Judecătoriei Cluj-Napoca - Secția civilă, Tribunalului Sălaj - Secția civilă și Judecătoriei Brad și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "638",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1998",
+    "number": "58",
+    "year": "1998",
+    "path": "lege/1998/58"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1396",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/1999",
+    "number": "99",
+    "year": "1999",
+    "path": "oug/1999/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 93/2009",
+    "number": "93",
+    "year": "2009",
+    "path": "lege/2009/93"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235943",
+  "text_sha256": "195a7f96e707a970219cf7b5fc5e2bc598eea5fd6f748938614ac2527a7b52a9",
+  "catalogue_sha256": "195a7f96e707a970219cf7b5fc5e2bc598eea5fd6f748938614ac2527a7b52a9",
+  "fetched": "2026-11-03T01:52:36Z",
+  "chars": 56509,
+  "portal_id": "235943",
+  "tip": "DECIZIE"
+ }
+}
