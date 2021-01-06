@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-12-28: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2020-12-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-01-04: sent for promulgation; promulgated, becomes Legea nr. 1/2021; documents published: Decret de promulgare, Forma promulgată
+- 2021-01-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2020-12-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L626LP.PDF
 - 2021-01-04: Decret de promulgare (DP): [dp-aa7a7807.md](dp-aa7a7807.md); official file https://www.senat.ro/legis/PDF/2020/20L626DP.PDF
 - 2021-01-04: Forma promulgată (FP): [fp-7f825c86.md](fp-7f825c86.md); official file https://www.senat.ro/legis/PDF/2020/20L626FP.PDF
+- 2021-01-06: Document (DR): [dr-a9420899.md](dr-a9420899.md); official file https://www.senat.ro/legis/PDF/2020/20L626DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-01-06: Document (TX): [tx-d40df3b2.md](tx-d40df3b2.md); official file https://www.senat.ro/legis/PDF/2020/20L626TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-01-06: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L626AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-01-06: Document (TC): [tc-3e1a6ebf.md](tc-3e1a6ebf.md); official file https://www.senat.ro/legis/PDF/2020/20L626TC.PDF (its day is not given by the bill file: shown from the last stage held)
