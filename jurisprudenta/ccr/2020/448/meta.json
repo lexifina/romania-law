@@ -1,0 +1,231 @@
+{
+ "key": "dcc-448-2020",
+ "label": "Decizia CCR nr. 448/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "448",
+ "date": "2020-06-23",
+ "year": "2020",
+ "heading": "DECIZIA nr. 448 din 23 iunie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "11",
+  "bis": false,
+  "date": "2021-01-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "524/40/2018",
+  "1.206D/2018",
+  "8.470/2/2017",
+  "1.205/95/2018",
+  "17.923/3/2018",
+  "1.256D/2018",
+  "1.437D/2018",
+  "1.846D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Teodor Ferariu în Dosarul nr. 524/40/2018 al Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal, de Livia Vasile în Dosarul nr. 8.470/2/2017 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Ramona Gabriela Popeangă și alții în Dosarul nr. 1.205/95/2018 al Tribunalului Gorj - Secția de contencios administrativ și fiscal, precum și de Costică Coman și alții în Dosarul nr. 17.923/3/2018 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că prevederile art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, Tribunalului Gorj - Secția de contencios administrativ și fiscal și Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 79/2017",
+    "number": "79",
+    "year": "2017",
+    "path": "oug/2017/79"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235942",
+  "text_sha256": "b926101164fe399043cade84709fbdc1b80e25a14dc339d52b5527c1eca6b656",
+  "catalogue_sha256": "b926101164fe399043cade84709fbdc1b80e25a14dc339d52b5527c1eca6b656",
+  "fetched": "2026-11-03T01:52:35Z",
+  "chars": 28014,
+  "portal_id": "235942",
+  "tip": "DECIZIE"
+ }
+}
