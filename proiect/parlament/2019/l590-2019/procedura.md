@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2020-12-15: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-12-21: sent for promulgation
+- 2021-01-08: promulgated, becomes Legea nr. 4/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-01-27: Adresă către Camera Deputaților (AM): [am-a145c839.md](am-a145c839.md); official file https://www.senat.ro/legis/PDF/2019/19L590AM.PDF
 - 2020-12-15: Adresă privind sesizarea CCR (AXS): [axs-151ad287.md](axs-151ad287.md); official file https://www.senat.ro/legis/PDF/2019/19L590AXS.PDF
 - 2020-12-15: Forma trimisă la promulgare (LP): [lp-7f9f9677.md](lp-7f9f9677.md); official file https://www.senat.ro/legis/PDF/2019/19L590LP.PDF
+- 2021-01-08: Decret de promulgare (DP): [dp-e3fb39d0.md](dp-e3fb39d0.md); official file https://www.senat.ro/legis/PDF/2019/19L590DP.PDF
+- 2021-01-08: Adresă privind forma promulgată (AFP): [afp-346cdcda.md](afp-346cdcda.md); official file https://www.senat.ro/legis/PDF/2019/19L590AFP.PDF
+- 2021-01-08: Forma promulgată (FP): [fp-58f34f66.md](fp-58f34f66.md); official file https://www.senat.ro/legis/PDF/2019/19L590FP.PDF
