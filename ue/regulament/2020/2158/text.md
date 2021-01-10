@@ -1,0 +1,30 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (EU) 2020/2158 AL COMISIEI
+din 14 decembrie 2020
+de aprobare a unei modificări care nu este minoră a caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate „Chabichou du Poitou” (DOP)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1151/2012 al Parlamentului European și al Consiliului din 21 noiembrie 2012 privind sistemele din domeniul calității produselor agricole și alimentare (1), în special articolul 52 alineatul (2),
+întrucât:
+(1) În conformitate cu articolul 53 alineatul (1) primul paragraf din Regulamentul (UE) nr. 1151/2012, Comisia a examinat cererea Franței de aprobare a unei modificări a caietului de sarcini al denumirii de origine protejate „Chabichou du Poitou”, înregistrată în temeiul Regulamentului (CE) nr. 1107/96 al Comisiei (2), astfel cum a fost modificat prin Regulamentul (CE) nr. 159/2009 al Comisiei (3).
+(2) Prin scrisoarea din 4 decembrie 2018, autoritățile franceze au comunicat Comisiei că, în temeiul articolului 15 alineatul (4) din Regulamentul (UE) nr. 1151/2012, s-au acordat perioade de tranziție cu o durată limitată cuprinsă între doi și cinci ani pentru operatori care sunt stabiliți pe teritoriul francez și care îndeplinesc condițiile prevăzute la articolul menționat, în conformitate cu Decretul din 7 noiembrie 2018 privind modificarea caietului de sarcini al denumirii de origine protejate „Chabichou du Poitou”, publicat la 14 noiembrie 2018 în Jurnalul Oficial al Republicii Franceze (4). Prin scrisoarea din 28 ianuarie 2020, autoritățile respective au comunicat textul unui nou Decret, din 24 decembrie 2019, publicat la 10 ianuarie 2020 în Jurnalul Oficial al Republicii Franceze (5), de modificare a Decretului din 7 noiembrie 2018 și numele operatorilor care beneficiază de această perioadă de tranziție. Lista acestor operatori este anexată la caietul de sarcini. În cursul procedurii naționale de opoziție, acești operatori, care au comercializat în mod legal produsul „Chabichou du Poitou” în mod continuu timp de cel puțin cinci ani înainte de depunerea cererii, au prezentat declarații de opoziție. Doi operatori au depus o declarație de opoziție cu privire la următoarea dispoziție: Rubrica „Metoda de obținere”: „Prescurgerea cașului este interzisă.” Doi operatori au depus o declarație de opoziție cu privire la următoarea dispoziție: Rubrica „Descrierea produsului”: „«Chabichou du Poitou» este o brânză fabricată în mod exclusiv din lapte [de capră] crud [și integral]” și rubrica „Metoda de obținere”: „Laptele utilizat este lapte de capră crud.” O sută de operatori au depus o declarație de opoziție cu privire la următoarea dispoziție: Rubrica „Metoda de obținere”: „Minimum 75 % din rația anuală a caprelor din turmă provine din aria geografică, și anume 825 kg de substanță uscată per capră anual.” Optsprezece operatori au depus o declarație de opoziție cu privire la următoarea dispoziție: Rubrica „Metoda de obținere”: „Rația este compusă din minimum 55 % furaje, și anume 605 kilograme de substanță uscată per capră anual;”. Optzeci și șase de operatori au depus o declarație de opoziție cu privire la următoarele dispoziții din rubrica „Metoda de obținere”: „Ea [rația suplimentară] conține minimum 150 de kilograme sau 30 % cereale și/sau oleaginoase și/sau proteaginoase care provin din aria geografică.”, „Rația anuală per capră conține minimum 200 de kilograme de substanță uscată sub formă de lucernă sau de leguminoase, originare din aria geografică.” și „Furajele sunt produse integral în aria geografică.”
+(3) Deoarece modificarea respectivă nu este minoră în sensul articolului 53 alineatul (2) din Regulamentul (UE) nr. 1151/2012, Comisia a publicat cererea de modificare în Jurnalul Oficial al Uniunii Europene (6), în conformitate cu articolul 50 alineatul (2) litera (a) din regulamentul respectiv.
+(4) Deoarece Comisiei nu i s-a comunicat nicio declarație de opoziție în conformitate cu articolul 51 din Regulamentul (UE) nr. 1151/2012, modificarea caietului de sarcini trebuie aprobată,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se aprobă modificarea caietului de sarcini publicată în Jurnalul Oficial al Uniunii Europene cu privire la denumirea „Chabichou du Poitou” (DOP).
+Articolul 2
+Protecția acordată în temeiul articolului 1 face obiectul perioadei de tranziție acordate de Franța, în temeiul articolului 15 alineatul (4) din Regulamentul (UE) nr. 1151/2012, operatorilor care îndeplinesc condițiile prevăzute la articolul respectiv, în conformitate cu Decretele din 7 noiembrie 2018 și din 24 decembrie 2019 privind modificarea caietului de sarcini al denumirii de origine protejate „Chabichou du Poitou”, publicate la 14 noiembrie 2018 și, respectiv, la 10 ianuarie 2020 în Jurnalul Oficial al Republicii Franceze.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 14 decembrie 2020.
+Pentru Comisie,
+Pentru Președinte,
+Janusz WOJCIECHOWSKI
+Membru al Comisiei
+(1) JO L 343, 14.12.2012, p. 1.
+(2) Regulamentul (CE) nr. 1107/96 al Comisiei din 12 iunie 1996 privind înregistrarea indicațiilor geografice și a denumirilor de origine în conformitate cu procedura prevăzută la articolul 17 din Regulamentul (CEE) nr. 2081/92 al Consiliului (JO L 148, 21.6.1996, p. 1).
+(3) Regulamentul (CE) nr. 159/2009 al Comisiei din 25 februarie 2009 de aprobare a unor modificări minore ale caietului de sarcini al unei denumiri înregistrate în Registrul denumirilor de origine protejate și al indicațiilor geografice protejate [Chabichou du Poitou (DOP)] (JO L 53, 26.2.2009, p. 8).
+(4) JORF nr. 0263, 14 noiembrie 2018, textul nr. 36.
+(5) JORF nr. 0008, 10 ianuarie 2020, textul nr. 35.
+(6) JO C 251, 31.7.2020, p. 22.
