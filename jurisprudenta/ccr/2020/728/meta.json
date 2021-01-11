@@ -1,0 +1,176 @@
+{
+ "key": "dcc-728-2020",
+ "label": "Decizia CCR nr. 728/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "728",
+ "date": "2020-10-08",
+ "year": "2020",
+ "heading": "DECIZIA nr. 728 din 8 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 34 din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "28",
+  "bis": false,
+  "date": "2021-01-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.938/300/2018",
+  "972D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vasile Chirilă în Dosarul nr. 11.938/300/2018 al Judecătoriei Sectorului 2 București și constată că dispozițiile art. 34 din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236034",
+  "text_sha256": "f1e4e16e5df959b0296092c8ae085104a56d7384e675d6296fecd1869fcc2ed4",
+  "catalogue_sha256": "f1e4e16e5df959b0296092c8ae085104a56d7384e675d6296fecd1869fcc2ed4",
+  "fetched": "2026-11-03T01:52:27Z",
+  "chars": 20216,
+  "portal_id": "236034",
+  "tip": "DECIZIE"
+ }
+}
