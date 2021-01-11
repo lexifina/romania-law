@@ -1,0 +1,153 @@
+{
+ "key": "cedo-10395-19-2020-07-07",
+ "label": "CEDO, Michnea c. României, 2020-07-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-07-07",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 7 iulie 2020",
+ "subtitle": "în Cauza Michnea împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "24",
+  "bis": false,
+  "date": "2021-01-11",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "10395/19"
+ ],
+ "case_name": "Michnea",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data la care hotărârea judecătorească devine definitivă în conformitate cu art. 44 § 2 din Convenție, următoarele sume: (i)",
+  "7.500 EUR (șapte mii cinci sute de euro) cu titlu de despăgubire pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "(ii)",
+  "4.225 EUR (patru mii două sute douăzeci și cinci euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit, în ceea ce privește cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 369/2004",
+    "number": "369",
+    "year": "2004",
+    "path": "lege/2004/369"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 100/1992",
+    "number": "100",
+    "year": "1992",
+    "path": "lege/1992/100"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236015",
+  "text_sha256": "e851de3d795b36a25c731d2bec299026e3f51999fff9740c2dd5b475abd600a4",
+  "catalogue_sha256": "e851de3d795b36a25c731d2bec299026e3f51999fff9740c2dd5b475abd600a4",
+  "fetched": "2026-11-03T01:52:27Z",
+  "chars": 49047,
+  "portal_id": "236015",
+  "tip": "HOTĂRÂRE"
+ }
+}
