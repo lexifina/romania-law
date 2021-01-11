@@ -1,0 +1,3 @@
+# Anexe nr. 1- 2
+ANEXE privind modificarea și completarea Ordinului Băncii Naționale a României nr. 9/2017 pentru aprobarea Normelor metodologice privind întocmirea situațiilor financiare
+FINREP la nivel individual, conforme cu Standardele internaționale de raportare financiară, aplicabile instituțiilor de credit în scopuri de supraveghere prudențială, și Ordinului Băncii Naționale a României nr. 10/2017 pentru aprobarea Normelor metodologice privind întocmirea raportărilor periodice cuprinzând informații statistice de natură financiar- contabilă, aplicabile sucursalelor din România ale instituțiilor de credit din alte state membre
