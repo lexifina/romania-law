@@ -1,0 +1,23 @@
+# Anexa nr. 3
+Nr. înregistrare...........................
+Data............................................
+Către *................................
+CNP/NIF............................................................
+Str.................... nr....., bl......, sc......., et......., ap......., județul/sectorul..............., localitatea..................., cod poștal.............
+NOTIFICARE privind destinația sumei reprezentând până la 3,5% din impozitul anual datorat pentru susținerea entităților nonprofit/unităților de cult
+Stimată(e) doamnă/domn,
+Vă reamintim că prin completarea Formularului 230 „Cerere privind destinația sumei reprezentând până la 3,5% din impozitul anual datorat”, înregistrat sub nr.......... din data de..................., figurați în evidența fiscală că ați optat pentru virarea unei sume reprezentând până la 3,5% din impozitul pe veniturile realizate în anul................ pentru susținerea entităților nonprofit/unităților de cult.
+Prin această notificare facem apel la înțelegerea dumneavoastră, în vederea verificării corectitudinii și completitudinii informațiilor existente în evidența fiscală.
+Referitor la opțiunea dumneavoastră privind destinația sumei reprezentând până la 3,5% din impozitul pe venit datorat pentru susținerea entităților nonprofit/unităților de cult, conform formularului depus, vă supunem atenției următoarele: 1.
+Din analiza datelor din evidența fiscală rezultă că figurați cu formularul 230 depus pe bază de borderou de către entitatea nonprofit/unitatea de cult beneficiară  Potrivit evidențelor noastre, Formularul 230 „Cerere privind destinația sumei reprezentând până la 3,5% din impozitul anual datorat” nr................ din data de.................... prin care a fost înregistrată opțiunea dumneavoastră privind virarea sumei reprezentând până la 3,5% din impozitul anual datorat, pentru o perioadă de..........., în contul entității nonprofit/unității de cult................................, cod de identificare fiscală......................, a fost depus la organul fiscal, pe bază de borderou, de către entitatea beneficiară.
+În cazul în care nu ați optat pentru virarea sumei reprezentând până la 3,5% din impozitul datorat în contul entității beneficiare menționate sau nu ați solicitat virarea sumei pentru această entitate nonprofit/unitate de cult pentru perioada de mai sus, vă rugăm ca în termen de 30 de zile de la data primirii prezentei notificări să ne comunicați, în scris, aceste aspecte.
+Dacă aceasta este opțiunea dumneavoastră exprimată prin semnarea formularului 230, atunci nu sunteți obligat(ă) să răspundeți la această notificare.
+În situația în care nu vom primi un răspuns de la dumneavoastră în termen de 30 de zile de la data la care ați primit această notificare, considerăm că opțiunea înregistrată la Agenția Națională de Administrare Fiscală cu numărul de mai sus este exprimată de dumneavoastră, urmând să facem demersurile necesare în vederea direcționării sumei reprezentând până la 3,5% din impozitul pe venit datorat, potrivit acestei opțiuni.
+2.
+Au fost identificate erori în formularul 230 depus  În vederea efectuării corecturilor, vă rugăm să vă prezentați, în termen de 30 de zile de la primirea prezentei notificări, la sediul unității fiscale.
+Pentru informații suplimentare în legătură cu această notificare, persoana care poate fi contactată este dna/dl....................., la sediul nostru sau la numărul de telefon............., între orele.....-......
+Vă mulțumesc!
+Numele și prenumele.....................
+Conducătorul unității fiscale
+Document care conține date cu caracter personal protejate de prevederile Regulamentului (UE) 2016/679
+Se va folosi sigla organului fiscal emitent.
