@@ -1,0 +1,239 @@
+{
+ "key": "dcc-711-2020",
+ "label": "Decizia CCR nr. 711/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "711",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 711 din 6 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 109 din Legea nr. 188/1999 privind Statutul funcționarilor publici",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "38",
+  "bis": false,
+  "date": "2021-01-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "20.060/3/2018",
+  "587D/2019",
+  "952D/2019",
+  "471/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Petrișor Andreica, Nicolae Busu, Valentin Brujan, Ovidiu Sebastian Barsac, Tiberiu Czako, Cristian Golentanu, Marian Costinel Grădinaru, Marius Mircea Lazăr, Daniel Marian, Dumitru Dănuț Mostaviuc, Alin Claudiu Naom, Cosmin Dimitrie Nadasan, Florin Paulescu, Andrei Ilie Petrean, Virgil Marian Tudor, Dorian Mirigel, prin Sindicatul Polițiștilor din România „Diamantul“, în Dosarul nr. 20.060/3/2018 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și de Costin Constantin, prin Sindicatul Polițiștilor din România „Diamantul“, în Dosarul nr. 471/3/2019 al Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și constată că prevederile art. 109 din Legea nr. 188/1999 privind Statutul funcționarilor publici sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "597",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236076",
+  "text_sha256": "ae97413131eb9bb9043b62f1acd967154a87dc844bb489bdd8822c4ab5076465",
+  "catalogue_sha256": "ae97413131eb9bb9043b62f1acd967154a87dc844bb489bdd8822c4ab5076465",
+  "fetched": "2026-11-03T01:52:03Z",
+  "chars": 14753,
+  "portal_id": "236076",
+  "tip": "DECIZIE"
+ }
+}
