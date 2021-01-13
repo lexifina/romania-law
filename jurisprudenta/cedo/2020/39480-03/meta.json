@@ -1,0 +1,165 @@
+{
+ "key": "cedo-39480-03-2020-09-29",
+ "label": "CEDO, Dimitrie Dan Popescu și alții c. României, 2020-09-29",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-09-29",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 29 septembrie 2020",
+ "subtitle": "în Cauza Dimitrie Dan Popescu și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "40",
+  "bis": false,
+  "date": "2021-01-13",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "39480/03",
+  "28872/04",
+  "10991/08",
+  "41300/08",
+  "9584/02",
+  "19788/03",
+  "18176/04",
+  "3996/05",
+  "15783/05",
+  "15941/07"
+ ],
+ "case_name": "Dimitrie Dan Popescu și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. hotărăște că moștenitorii reclamanților, care și-au manifestat dorința de a continua prezenta procedură în locul acestora, au calitatea de a face acest lucru (a se vedea anexa);",
+  "2. decide să conexeze cererile;",
+  "3. decide scoaterea de pe rol a cererilor nr. 28.872/04, 3.996/05 și 15.783/05, în măsura în care privesc pretinsa încălcare a art. 1 din Protocolul nr. 1 la Convenție în legătură cu bunurile imobile menționate la pct. 12 din prezenta hotărâre;",
+  "4. declară cererile admisibile în ceea ce privește celelalte capetele de cerere întemeiate pe art. 1 din Protocolul nr. 1 la Convenție (a se vedea anexa);",
+  "5. declară cererile inadmisibile în ceea ce privește restul capetelor de cerere;",
+  "6. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1;",
+  "7. hotărăște: a) că statul pârât trebuie să le restituie reclamanților, în termen de trei luni, bunurile imobile în cauză;",
+  "b) că, în caz contrar, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat, plus orice sumă ce poate fi datorată cu titlu de impozit pentru aceste sume, pentru prejudiciul material;",
+  "c) că, în orice caz, statul pârât trebuie să le plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat, plus orice sumă ce poate fi datorată de către reclamanți cu titlu de impozit pentru aceste sume, pentru prejudiciul moral și pentru cheltuielile de judecată;",
+  "d) că sumele indicate în tabel trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății, cu excepția sumelor acordate reclamanților din cererile nr. 29.712/05, 41.411/05, 27.808/07, 46.902/07, 61.539/08, 53.085/09 și 35.610/14;",
+  "e) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "8. respinge cererile de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236122",
+  "text_sha256": "ce8dbe4b21abd8a7d7c51b0ae2e8def74da03b983128e72d37fd007b180ae26f",
+  "catalogue_sha256": "ce8dbe4b21abd8a7d7c51b0ae2e8def74da03b983128e72d37fd007b180ae26f",
+  "fetched": "2026-11-03T01:52:03Z",
+  "chars": 37518,
+  "portal_id": "236122",
+  "tip": "HOTĂRÂRE"
+ }
+}
