@@ -1,0 +1,108 @@
+{
+ "key": "cedo-40124-13-2020-10-06",
+ "label": "CEDO, Giurgi c. României, 2020-10-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 6 octombrie 2020",
+ "subtitle": "în Cauza Giurgi împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "44",
+  "bis": false,
+  "date": "2021-01-14",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "40124/13"
+ ],
+ "case_name": "Giurgi",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni, suma de 300 EUR (trei sute de euro), care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plății, plus orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236136",
+  "text_sha256": "79b976e469448e7150236e76f423695438e7f97b680583d0ae490081c36154a7",
+  "catalogue_sha256": "79b976e469448e7150236e76f423695438e7f97b680583d0ae490081c36154a7",
+  "fetched": "2026-11-03T01:52:02Z",
+  "chars": 20565,
+  "portal_id": "236136",
+  "tip": "HOTĂRÂRE"
+ }
+}
