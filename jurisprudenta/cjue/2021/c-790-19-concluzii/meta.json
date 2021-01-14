@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-790-19-concluzii-2021-01-14",
+ "label": "CJUE, Concluziile avocatului general G. Hogan prezentate la 14 ianuarie 2021, Cauza C-790/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-01-14",
+ "year": "2021",
+ "case": "Cauza C-790/19.",
+ "celex": "62019CC0790",
+ "ecli": "ECLI:EU:C:2021:15",
+ "heading": "Concluziile avocatului general G. Hogan prezentate la 14 ianuarie 2021",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov.",
+ "national_followup": null,
+ "parties": "Parchetul de pe lângă Tribunalul Brașov împotriva lui LG și a lui MH.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Prevenirea utilizării sistemului financiar în scopul spălării banilor și al finanțării terorismului – Directiva (UE) 2015/849 – Directiva 2005/60/CE – Infracțiune de spălare a banilor – Spălarea banilor săvârșită de autorul infracțiunii predicat („autospălare”).",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0790",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-790/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b9fb355c-5681-11eb-b59f-01aa75ed71a1.0004.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "2cd8173ebf9fddda2869cb155ddef068ba770d8171758b7db024ae78bc59e676"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
