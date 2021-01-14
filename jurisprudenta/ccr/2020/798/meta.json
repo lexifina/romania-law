@@ -1,0 +1,307 @@
+{
+ "key": "dcc-798-2020",
+ "label": "Decizia CCR nr. 798/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "798",
+ "date": "2020-11-04",
+ "year": "2020",
+ "heading": "DECIZIA nr. 798 din 4 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum a fost modificat prin articolul unic pct. 4 din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "43",
+  "bis": false,
+  "date": "2021-01-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.597/3/2018",
+  "70D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cristiana-Alice Altendorfer în Dosarul nr. 18.597/3/2018 al Tribunalului București - Secția a IV-a civilă și constată că dispozițiile art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum a fost modificat prin articolul unic pct. 4 din Legea nr. 111/2017 privind aprobarea Ordonanței de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 111/2017",
+    "number": "111",
+    "year": "2017",
+    "path": "lege/2017/111"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 22/2020",
+    "number": "22",
+    "year": "2020",
+    "path": "lege/2020/22"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236130",
+  "text_sha256": "71209b964eac351a75ce9194069e9935aeb91aeb221eb5b82dd2bc5cdc8d43eb",
+  "catalogue_sha256": "71209b964eac351a75ce9194069e9935aeb91aeb221eb5b82dd2bc5cdc8d43eb",
+  "fetched": "2026-11-03T14:33:17Z",
+  "chars": 26356,
+  "portal_id": "236130",
+  "tip": "DECIZIE"
+ }
+}
