@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor pentru sumele determinate conform Deciziei de plată a sumelor de virat în contul Fondului Național de Garantare a Creditelor pentru Întreprinderi Mici și Mijlocii, emisă în baza Ordonanței de urgență a Guvernului nr. 118/2020 privind aprobarea Programului de susținere a întreprinderilor mici și mijlocii "IMM LEASING DE ECHIPAMENTE ȘI UTILAJE"
