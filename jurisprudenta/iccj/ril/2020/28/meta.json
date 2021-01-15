@@ -1,0 +1,255 @@
+{
+ "key": "iccj-ril-28-2020",
+ "label": "Decizia ÎCCJ nr. 28/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "28",
+ "date": "2020-11-09",
+ "year": "2020",
+ "heading": "DECIZIA nr. 28 din 9 noiembrie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 17 din Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2021-01-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.458/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București cu privire la următoarea problemă de drept:",
+  "Interpretarea și aplicarea prevederilor art. 17 din Legea nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, în sensul de a se stabili instanța competentă din punct de vedere material procesual de a soluționa apelul declarat împotriva sentinței pronunțate de judecătorie în litigiile având ca obiect anularea deciziilor de instituire a carantinei emise de direcția de sănătate publică.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 210/2020",
+    "number": "210",
+    "year": "2020",
+    "path": "lege/2020/210"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1",
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f",
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2006",
+    "number": "122",
+    "year": "2006",
+    "path": "lege/2006/122"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-01-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236207",
+  "text_sha256": "80b62c8d373d629b8b4e5a968e034539f774acd06618690590b4dc3b208be01d",
+  "catalogue_sha256": "80b62c8d373d629b8b4e5a968e034539f774acd06618690590b4dc3b208be01d",
+  "fetched": "2026-11-03T01:51:52Z",
+  "chars": 42912,
+  "portal_id": "236207",
+  "tip": "DECIZIE"
+ }
+}
