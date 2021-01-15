@@ -1,0 +1,174 @@
+{
+ "key": "dcc-804-2020",
+ "label": "Decizia CCR nr. 804/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "804",
+ "date": "2020-11-04",
+ "year": "2020",
+ "heading": "DECIZIA nr. 804 din 4 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor anexei nr. 2.5 la Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\" și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "48",
+  "bis": false,
+  "date": "2021-01-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.983/212/2019",
+  "3.215D/2019",
+  "234/212/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor anexei nr. 2.5 la Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, excepție ridicată de Comisia județeană pentru stabilirea dreptului de proprietate asupra terenurilor Constanța, în Dosarul nr. 9.983/212/2019 al Judecătoriei Constanța - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanța - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2011",
+    "number": "72",
+    "year": "2011",
+    "path": "lege/2011/72"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236187",
+  "text_sha256": "58a22fd6826dcfc0a1b51f4893c3ad6a17e0683cb76111256b5780365407de55",
+  "catalogue_sha256": "58a22fd6826dcfc0a1b51f4893c3ad6a17e0683cb76111256b5780365407de55",
+  "fetched": "2026-11-03T01:51:53Z",
+  "chars": 17139,
+  "portal_id": "236187",
+  "tip": "DECIZIE"
+ }
+}
