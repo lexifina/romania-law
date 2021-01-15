@@ -1,0 +1,276 @@
+{
+ "key": "dcc-809-2020",
+ "label": "Decizia CCR nr. 809/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "809",
+ "date": "2020-11-10",
+ "year": "2020",
+ "heading": "DECIZIA nr. 809 din 10 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Legii nr. 141/2015 privind arborarea și folosirea de către unitățile administrativ-teritoriale a steagurilor proprii, în ansamblul său, și, în special, a prevederilor art. 1 alin. (2) și (3), art. 2 alin. (2), art. 3, art. 4 alin. (1) și (2), art. 5 alin. (1) și (2) din aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "48",
+  "bis": false,
+  "date": "2021-01-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "50/96/2019",
+  "1.355D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 141/2015",
+    "number": "141",
+    "year": "2015",
+    "path": "lege/2015/141"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Consiliul Local al Municipiului Odorheiu Secuiesc în Dosarul nr. 50/96/2019 al Tribunalului Harghita - Secția civilă și constată că Legea nr. 141/2015 privind arborarea și folosirea de către unitățile administrativ-teritoriale a steagurilor proprii, în ansamblul său, și, în special, prevederile art. 1 alin. (2) și (3), art. 2 alin. (2), art. 3, art. 4 alin. (1) și (2) din aceeași lege sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge ca inadmisibilă excepția de neconstituționalitate a prevederilor art. 5 alin. (1) și (2) din Legea nr. 141/2015, excepție ridicată de același autor în același dosar al aceleiași instanțe judecătorești.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Harghita - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 141/2015",
+    "number": "141",
+    "year": "2015",
+    "path": "lege/2015/141"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 199/1997",
+    "number": "199",
+    "year": "1997",
+    "path": "lege/1997/199"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236188",
+  "text_sha256": "cb3eb586050e615e80ce3ce989863a77b6589c05c4565a090c48ec3543aaa923",
+  "catalogue_sha256": "cb3eb586050e615e80ce3ce989863a77b6589c05c4565a090c48ec3543aaa923",
+  "fetched": "2026-11-03T01:51:53Z",
+  "chars": 32922,
+  "portal_id": "236188",
+  "tip": "DECIZIE"
+ }
+}
