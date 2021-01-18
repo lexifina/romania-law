@@ -1,0 +1,215 @@
+{
+ "key": "dcc-665-2020",
+ "label": "Decizia CCR nr. 665/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "665",
+ "date": "2020-09-29",
+ "year": "2020",
+ "heading": "DECIZIA nr. 665 din 29 septembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor Ordonanței Guvernului nr. 43/2015 pentru modificarea și completarea Legii nr. 200/2004 privind recunoașterea diplomelor și calificărilor profesionale pentru profesiile reglementate din România, în ansamblul său, și, în special, ale anexei nr. 3 lit. A) pct. 56 la Legea nr. 200/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "52",
+  "bis": false,
+  "date": "2021-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "34.744/299/2018",
+  "699D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 43/2015",
+    "number": "43",
+    "year": "2015",
+    "path": "og/2015/43"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2004",
+    "number": "200",
+    "year": "2004",
+    "path": "lege/2004/200"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Asociația Monitorilor de Schi Profesioniști din România în Dosarul nr. 34.744/299/2018 al Judecătoriei sectorului 1 București - Secția a II-a civilă și constată că prevederile Ordonanței Guvernului nr. 43/2015 pentru modificarea și completarea Legii nr. 200/2004 privind recunoașterea diplomelor și calificărilor profesionale pentru profesiile reglementate din România, în ansamblul său, și în special, ale anexei nr. 3 lit. A) pct. 56 din Legea nr. 200/2004 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei sectorului 1 București - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2004",
+    "number": "200",
+    "year": "2004",
+    "path": "lege/2004/200"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 43/2015",
+    "number": "43",
+    "year": "2015",
+    "path": "og/2015/43"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236501",
+  "text_sha256": "8051e01d5ecc53ec5060a307d935b43b3a12c4f0b239cba8907505490d4a6bc5",
+  "catalogue_sha256": "8051e01d5ecc53ec5060a307d935b43b3a12c4f0b239cba8907505490d4a6bc5",
+  "fetched": "2026-11-03T01:51:49Z",
+  "chars": 13158,
+  "portal_id": "236501",
+  "tip": "DECIZIE"
+ }
+}
