@@ -1,0 +1,672 @@
+{
+ "key": "iccj-ril-17-2020",
+ "label": "Decizia ÎCCJ nr. 17/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2020-07-20",
+ "year": "2020",
+ "heading": "DECIZIA nr. 17 din 20 iulie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 41 alin. (1) și art. 45 alin. (2) teza I din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, art. 260 alin. (1) și (4) din Codul de procedură fiscală, art. 651 alin. (1), art. 714 alin. (1) și art. 719 alin. (1) și (7) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "61",
+  "bis": false,
+  "date": "2021-01-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.135/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "260",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 41 alin. (1) și art. 45 alin. (2) teza I din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, art. 260 alin. (1) și (4) din Codul de procedură fiscală, art. 651 alin. (1), art. 714 alin. (1) și art. 719 alin. (1) și (7) din Codul de procedură civilă, competența materială de soluționare a contestațiilor privind executarea silită începută de creditorii bugetari în temeiul dispozițiilor art. 143 alin. (1) teza finală din Legea nr. 85/2014 aparține judecătorului-sindic învestit cu procedura de insolvență în care se formulează respectivele contestații, potrivit art. 45 alin. (1) lit. r) și alin. (2) din Legea nr. 85/2014.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 997 alin. (1) din Codul de procedură civilă, raportat la art. 233 alin. (1) lit. a) și art. 260 din Codul de procedură fiscală, sunt admisibile cererile adresate judecătorului-sindic pe calea ordonanței președințiale având ca obiect măsuri vremelnice privind ridicarea, suspendarea și suspendarea provizorie a măsurilor de executare silită luate de organele de executare fiscală, în cazurile în care executarea silită a fost începută de acestea în temeiul art. 143 alin. (1) teza finală din Legea nr. 85/2014.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 113/2020",
+    "number": "113",
+    "year": "2020",
+    "path": "lege/2020/113"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "r"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "n",
+      "e"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "6",
+      "8-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 94
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "260",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "261",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 43
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "1",
+      "7",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "631",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "717",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "720",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "623",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "147-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 91/2013",
+    "number": "91",
+    "year": "2013",
+    "path": "oug/2013/91"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "lege/2015/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-01-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236555",
+  "text_sha256": "f8e28e282bf2e7046260ef68e9898bab8d3daf1dec3d2eff4399f5572c0e2b39",
+  "catalogue_sha256": "f8e28e282bf2e7046260ef68e9898bab8d3daf1dec3d2eff4399f5572c0e2b39",
+  "fetched": "2026-11-03T01:51:48Z",
+  "chars": 117475,
+  "portal_id": "236555",
+  "tip": "DECIZIE"
+ }
+}
