@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a șasea) din 20 ianuarie 2021, Cauza C-655/19
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+Articolul 2 alineatul (1) litera (a) și articolul 9 alineatul (1) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că operațiunea prin care unei persoane i se atribuie un imobil urmărit silit în cadrul unei proceduri de executare silită inițiate în vederea recuperării unui împrumut acordat anterior, iar ulterior aceasta procedează la vânzarea imobilului menționat nu constituie în sine o activitate economică atunci când operațiunea respectivă ține de simpla exercitare a dreptului de proprietate, precum și de buna gestionare a patrimoniului privat, astfel încât persoana respectivă nu poate, în temeiul acestei operațiuni, să fie considerată persoană impozabilă.

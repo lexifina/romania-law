@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-655-19-hotarare-2021-01-20",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 20 ianuarie 2021, Cauza C-655/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2021-01-20",
+ "year": "2021",
+ "case": "Cauza C-655/19",
+ "celex": "62019CJ0655",
+ "ecli": "ECLI:EU:C:2021:40",
+ "heading": "Hotărârea Curții (Camera a șasea) din 20 ianuarie 2021",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Alba Iulia",
+   "date": "2018-03-22",
+   "national_file": "1126180"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Alba Iulia",
+ "national_followup": [
+  "Curtea de Apel Alba Iulia, Secția de Contencios Administrativ și Fiscal, Decizie din 07/04/2021 (ECLI:RO:CAALB:2021:059.000383)"
+ ],
+ "parties": "Administrația Județeană a Finanțelor Publice Sibiu și Direcția Generală Regională a Finanțelor Publice Brașov împotriva lui LN",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fiscalitate – Taxa pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 2 – Articolul 9 – Noțiunile de „activitate economică” și de „persoană impozabilă” – Operațiuni prin care se urmărește obținerea unor venituri cu caracter de continuitate dintr‑un bun – Dobândirea de către un creditor a unor imobile urmărite silit în cadrul unei proceduri de executare silită inițiate în vederea recuperării unor împrumuturi însoțite de garanții ipotecare și vânzarea acestor imobile – Simpla exercitare a dreptului de proprietate de către titularul său",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0655",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-655/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/0355b475-5b03-11eb-b59f-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c65d878fd627e14bd2d38d6818fcfd6ac246664cd572536220671cf6fbb5b5fd"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară:",
+  "Articolul 2 alineatul (1) litera (a) și articolul 9 alineatul (1) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că operațiunea prin care unei persoane i se atribuie un imobil urmărit silit în cadrul unei proceduri de executare silită inițiate în vederea recuperării unui împrumut acordat anterior, iar ulterior aceasta procedează la vânzarea imobilului menționat nu constituie în sine o activitate economică atunci când operațiunea respectivă ține de simpla exercitare a dreptului de proprietate, precum și de buna gestionare a patrimoniului privat, astfel încât persoana respectivă nu poate, în temeiul acestei operațiuni, să fie considerată persoană impozabilă."
+ ]
+}
