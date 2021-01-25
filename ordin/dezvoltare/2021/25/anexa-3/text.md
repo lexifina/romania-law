@@ -1,0 +1,3 @@
+# Anexa nr. 1.b la statut
+Modelul steagului......... (denumirea unității administrativ-teritoriale).......
+NOTĂ: În această anexă se prevăd descrierea și semnificațiile însumate ale modelului steagului, precum și modalitățile de utilizare, conform prevederilor legale.

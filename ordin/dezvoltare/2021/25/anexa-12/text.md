@@ -1,0 +1,23 @@
+# Anexa nr. 8.a la statut
+Rețeaua rutieră
+NOTĂ: În această anexă se va completa, dacă este cazul, lungimea în km a drumurilor de interes național, a drumurilor de interes județean și a drumurilor de interes comunal și a podurilor noi care tranzitează teritoriul....(denumirea unității administrativ-teritoriale)........, definite potrivit Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare:
+A.
+Drumuri de interes național 1.
+Autostrăzi Autostrada.....(denumirea)....., cu o lungime de..(număr).. de km pe teritoriul........(denumirea unității administrativ-teritoriale)..........
+2.
+Drumuri expres Drumul expres....(denumirea)...., cu o lungime de...(număr).. de km pe teritoriul.......(denumirea unității administrativ-teritoriale).......
+3.
+Drumuri internaționale „E” Drumul internațional „E”...(număr)..., cu o lungime de.(număr)... de km pe teritoriul.....(denumirea unității administrativ-teritoriale)........
+4.
+Drumuri naționale principale Drumul național....(denumirea)...., cu o lungime de..(număr).... de km pe teritoriul.......(denumirea unității administrativ-teritoriale)...
+5.
+Drumuri naționale secundare Drumul național....(denumirea)....., cu o lungime de...(număr).... de km pe teritoriul...(denumirea unității administrativ-teritoriale).......
+B.
+Drumuri de interes județean Drumul județean.....(denumirea)..., cu o lungime de..(număr)... de km pe teritoriul......(denumirea unității administrativ-teritoriale)...
+C.
+Drumuri de interes local 1.
+Drumuri comunale Drumul comunal....(denumirea)..., cu o lungime de..(număr).... de km pe teritoriul.....(denumirea unității administrativ-teritoriale)......
+2.
+Drumuri vicinale Se va completa cu numărul total al drumurilor vicinale și lungimea totală exprimată în km pe care aceste drumuri o însumează.
+3.
+Străzi Se va completa cu numărul total al străzilor și lungimea totală exprimată în km pe care aceste străzi o însumează.

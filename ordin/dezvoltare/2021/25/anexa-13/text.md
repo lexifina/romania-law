@@ -1,0 +1,3 @@
+# Anexa nr. 8.b la statut
+Rețeaua de căi ferate
+NOTĂ: În această anexă se vor completa, dacă este cazul, denumirea și lungimea liniilor de cale ferată convenționale, liniilor de cale ferată de interes local, după caz, care se regăsesc pe raza teritorială a județului/municipiului/orașului/comunei....................

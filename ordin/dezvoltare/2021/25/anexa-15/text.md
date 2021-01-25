@@ -1,0 +1,3 @@
+# Anexa nr. 8.d la statut
+Rețeaua de aeroporturi
+NOTĂ: În această anexă se va completa, dacă este cazul, denumirea aeroporturilor existente care se regăsesc pe raza teritorială a județului/municipiului/orașului........ (denumirea).......

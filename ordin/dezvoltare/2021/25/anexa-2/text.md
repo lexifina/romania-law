@@ -1,0 +1,3 @@
+# Anexa nr. 1.a la statut
+Modelul stemei.......... (denumirea unității administrativ-teritoriale)...........
+NOTĂ: În această anexă se prevăd descrierea și semnificațiile elementelor însumate ale stemei unității administrativ-teritoriale.

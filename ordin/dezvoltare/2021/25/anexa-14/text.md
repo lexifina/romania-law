@@ -1,0 +1,3 @@
+# Anexa nr. 8.c la statut
+Rețeaua de căi navigabile interioare și porturi
+NOTĂ: În această anexă se vor completa, dacă este cazul, denumirea și lungimea căilor navigabile; punctelor de traversare cu bacul și de acostare pentru nave de pasageri; punctelor de trafic RO-RO noi; porturilor sau porturilor turistice și debarcaderelor pentru nave de pasageri, după caz, care se regăsesc pe raza teritorială a județului/municipiului/orașului/comunei.......................

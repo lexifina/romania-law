@@ -1,0 +1,3 @@
+# Anexa nr. 13 la statut
+Lista cu denumirea înfrățirilor, cooperărilor sau asocierilor încheiate de............ (denumirea unității administrativ-teritoriale).....
+NOTĂ: În această anexă se va menționa, dacă este cazul, și activitatea cu caracter umanitar desfășurată de Societatea Națională de Cruce Roșie din România, ca organizație de ajutor voluntar, auxiliară a autorității publice, potrivit art. 1 teza a doua din Legea nr. 139/1995 privind Societatea Națională de Cruce Roșie din România, cu modificările și completările ulterioare.

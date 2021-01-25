@@ -1,0 +1,3 @@
+# Anexa nr. 1.c la statut
+Modelul imnului....... (denumirea unității administrativ-teritoriale)..........
+NOTĂ: În această anexă se cuprind: titlul, textul și muzica, precum și modalitățile de utilizare, conform prevederilor legale.
