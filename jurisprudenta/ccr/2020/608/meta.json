@@ -1,0 +1,260 @@
+{
+ "key": "dcc-608-2020",
+ "label": "Decizia CCR nr. 608/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "608",
+ "date": "2020-07-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 608 din 16 iulie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 425^1 alin. (7) pct. 1 lit. b), ale art. 597 alin. (7) și ale art. 599 alin. (1) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "82",
+  "bis": false,
+  "date": "2021-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.825/110/2017",
+  "1.090D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "425-1",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "597",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "599",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Romeo Stavarache în Dosarul nr. 4.825/110/2017 al Înaltei Curți de Casație și Justiție - Secția penală și constată că dispozițiile art. 425^1 alin. (7) pct. 1 lit. b), ale art. 597 alin. (7) și ale art. 599 alin. (1) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "425-1",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "597",
+     "alin": [
+      "7",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "599",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "598",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 3/2014",
+    "number": "3",
+    "year": "2014",
+    "path": "oug/2014/3"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 58/2016",
+    "number": "58",
+    "year": "2016",
+    "path": "lege/2016/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236715",
+  "text_sha256": "6f20a66f250f1062e9864cb9685a7276d26f598ac1c25c0f5a8b869c87d08378",
+  "catalogue_sha256": "6f20a66f250f1062e9864cb9685a7276d26f598ac1c25c0f5a8b869c87d08378",
+  "fetched": "2026-11-03T15:32:05Z",
+  "chars": 22990,
+  "portal_id": "236715",
+  "tip": "DECIZIE"
+ }
+}
