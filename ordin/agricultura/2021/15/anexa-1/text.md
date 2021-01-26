@@ -1,0 +1,339 @@
+# ANEXĂ (Anexă la Ordinul nr. 137/2020)
+SISTEMUL DE SANCȚIUNI aplicabil începând cu anul 2020 pentru cererile de sprijin/plată, depuse conform angajamentelor ce fac obiectul schemei de ajutor de stat „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, aferentă măsurii 15 „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, submăsura 15.1 „Plăți pentru angajamente de silvomediu” din cadrul Programului Național de Dezvoltare Rurală 2014-2020
+Capitolul I
+Prevederi generale
+1.
+Sistemul de sancțiuni aplicabil pentru cererile de sprijin/plată aferente schemei de ajutor de stat „Servicii de silvomediu, servicii climatice și conservarea pădurilor se stabilește ținându-se cont de următoarele aspecte ale neconformităților constatate: a) neglijența presupune aplicarea unei reduceri din suma totală calculată fără penalități, chiar dacă beneficiarului i-au fost stabilite/nu i-au fost stabilite alte sancțiuni, în cazul în care nerespectarea s-a datorat acțiunii neintenționate a beneficiarului;
+b) intenția presupune prevederea de către beneficiar a rezultatului faptei sale în condițiile în care fie urmărește producerea lui prin intermediul faptei, fie, deși nu îl urmărește, acceptă posibilitatea producerii acestui rezultat. Aceste cazuri se pot referi, dar nu sunt limitate la: inducerea în eroare cu bună-știință a autorităților cu atribuții în verificarea documentelor justificative, furnizarea de date sau documente false și orice altă încercare de fraudă comisă în scopul obținerii unor plăți din fonduri europene nerambursabile. A doua repetiție este considerată intenție (neconformitate deliberată) numai în cazul în care ponderea suprafeței afectate de neconformitatea care a generat a doua repetiție față de suprafața declarată este mai mare sau egală cu 20%. În cazul în care această pondere nu depășește 20%, neconformitatea se încadrează la repetiție (Această prevedere se aplică doar la cerințele specifice care se verifică și sancționează la nivel de u.a./UP, după caz, nu și la supradeclarare);
+c) amploarea neconformității depinde în special de efectul acesteia asupra operațiunii în ansamblu;
+d) durata (persistența) depinde în special de perioada de timp în care se manifestă efectul acesteia sau de posibilitatea de a pune capăt acestui efect prin mijloace rezonabile;
+e) repetiția - identificarea unor neconformități similare în ultimii patru ani, în cazul aceluiași beneficiar sau aceleiași măsuri, cu condiția ca beneficiarul să fi fost informat despre un caz precedent de neconformitate și să fi avut posibilitatea, după caz, să ia măsurile necesare pentru a remedia situația anterioară de neconformitate;
+f) gravitatea unei neconformități depinde în special de importanța consecințelor acesteia, având în vedere obiectivele urmărite prin angajamentele sau obligațiile care nu au fost respectate.
+2.
+Definiții:
+a) grupă de culturi (grup de plată) - o grupă pentru fiecare dintre suprafețele declarate în scopul aplicării schemei de ajutor de stat, în cazul căreia este aplicabilă o rată a sprijinului diferită;
+b) suprafață determinată - suprafața unităților amenajistice incluse în amenajamentul silvic rezultată în urma efectuării controalelor administrative și/sau controalelor la fața locului;
+c) beneficiari multipli - două sau mai multe persoane fizice/juridice dețin o suprafață de teren forestier în indiviziune și doar una dintre acestea este împuternicită prin procură notarială, ca reprezentant în relația cu Agenția de Plăți și Intervenție pentru Agricultură (APIA);
+d) asocierea simplă între persoane fizice - poate fi aplicată numai pentru persoane fizice care au în proprietate suprafețe mai mici de 100 de ha în baza Acordului de asociere în vederea accesării măsurii 15 (model orientativ în anexa 15 la Ghidul solicitantului).
+3.
+Există 6 categorii de sancțiuni, care se aplică în ordinea enumerării, la suma de plată rămasă după etapa anterioară de sancționare. Ordinea aplicării sancțiunilor este următoarea: A. sancțiuni pentru supradeclararea suprafețelor;
+B. sancțiuni privind selecția, eligibilitatea, cerințele specifice și cele obligatorii:
+B1. sancțiuni pentru nerespectarea punctajului acordat în urma aplicării criteriilor de selecție;
+B2. sancțiuni pentru nerespectarea condițiilor de eligibilitate generale, a cerințelor specifice și a celor obligatorii prevăzute de legislația silvică sau de dreptul intern relevant;
+C. sancțiuni pentru depunerea cu întârziere a cererii de plată;
+D. sancțiuni pentru nedeclararea tuturor suprafețelor din cadrul exploatației agricole, după caz;
+E. sancțiuni pentru nerespectarea ecocondiționalității, din cadrul exploatației agricole, după caz;
+F. sancțiuni suplimentare.
+4.
+În cazul în care beneficiarul care a depus cererea de sprijin/plată și a fost selectat pentru controlul pe teren nu permite inspectarea suprafeței angajate și, după caz, a fermei de către reprezentanții organismelor abilitate, se consideră că acesta nu a respectat angajamentul. În acest caz, beneficiarului nu i se va acorda nicio plată pentru anul în curs și, în plus, i se vor recupera toate sumele acordate până la momentul respectiv. Recuperarea sumelor acordate beneficiarului până la momentul respectiv nu presupune și aplicarea sancțiunilor de supradeclarare.
+5.
+Beneficiarul nu va fi sancționat, dacă a prezentat documente justificative în acest sens, conform legislației în vigoare și reglementărilor procedurale specifice de implementare a Programului Național de Dezvoltare Rurală 2014-2020 (PNDR 2014-2020), aprobate prin ordin al ministrului agriculturii și dezvoltării rurale, în cazurile de forță majoră și circumstanțe excepționale, recunoscute în special, după cum urmează:
+a) decesul beneficiarului;
+b) incapacitatea profesională pe termen lung a beneficiarului;
+c) o catastrofă naturală gravă care afectează puternic terenurile forestiere și/sau exploatația agricolă (exemple: inundații, avalanșe, alunecări de teren, precipitații abundente, incendii, doborâturi de vânt, rupturi de zăpadă etc.); evenimente independente de voința părților semnatare, intervenite după data semnării angajamentului, care împiedică executarea prevederilor acestuia și care exonerează de răspundere partea care o invocă;
+d) o boală a plantelor care afectează pădurea aflată sub angajament;
+e) exproprierea în totalitate a terenurilor forestiere angajate sau a unei mari părți a acesteia (dacă exproprierea respectivă nu ar fi putut fi anticipată la data depunerii cererii de sprijin);
+f) o situație epidemiologică internațională, declarată pandemie de către Organizația Mondială a Sănătății, incidentă și pe teritoriul României, reglementată în condițiile stabilite prin legislația națională și reglementările procedurale specifice de implementare a Programului Național de Dezvoltare Rurală (PNDR), aprobate prin ordin al ministrului agriculturii și dezvoltării rurale.
+6.
+Dacă un beneficiar nu și-a putut îndeplinit angajamentul din cauza unui caz de forță majoră sau a unor circumstanțe excepționale, plata se va efectua pentru costurile suplimentare și pierderile de venit înregistrate de acesta în anul respectiv. Angajamentul rămâne în vigoare pentru anii următori în caz de forță majoră sau circumstanțe excepționale, cu excepția situației în care nu se pot atinge obiectivele propuse prin implementarea acestuia, când acesta se închide. În toate cazurile de forță majoră ori circumstanțe excepționale pentru suprafețele afectate de nerespectări nu se vor recupera sumele primite în campaniile anterioare.
+Capitolul II
+Categorii de sancțiuni
+Secțiunea 1
+Sancțiuni pentru supradeclararea suprafețelor 1
+a)
+Dacă diferența dintre suprafața declarată pentru plată și suprafața determinată la nivelul unei grupe de plată este mai mică sau egală cu 0,1 ha, suprafața determinată va fi considerată egală cu suprafața declarată. Acest paragraf nu se aplică în cazul în care diferența reprezintă mai mult de 20% din suprafața totală declarată pentru plată.
+b)
+Dacă în ceea ce privește o grupă de plată, suprafața declarată pentru plată depășește suprafața determinată cu un procent mai mare de 3% din suprafața determinată sau 2 ha, dar mai mică sau egală cu 20% din suprafața determinată, plata se calculează pe baza suprafeței determinate, din care se scade dublul diferenței constatate.
+c)
+Dacă suprafața declarată pentru plată depășește suprafața determinată cu un procent mai mare de 20% din suprafața determinată, pentru anul în cauză nu se acordă nicio plată pentru grupa de plată în cauză.
+d)
+Dacă suprafața declarată pentru plată depășește suprafața determinată cu un procent mai mare de 50% din suprafața determinată, beneficiarul este exclus de la plată pentru grupa de plată în cauză și, în plus, acesta este sancționat cu valoarea cuantumului sprijinului care corespunde diferenței dintre suprafața declarată și suprafața determinată.
+2.
+Sancțiunile de supradeclarare se vor aplica dacă diferența dintre suprafața declarată și cea determinată este confirmată, atât de către controalele APIA, cât și de către controalele Gărzii Forestiere (GF).
+3.
+a)
+Dacă în urma efectuării concilierii, GF nu confirmă această diferență de suprafață, APIA va lua în calcul această diferență la stabilirea suprafețelor determinate pentru plata M15, angajamentul va fi amendat prin diminuarea suprafeței angajate, iar suprafața eligibilă pentru plată devine suprafața angajată pentru toți anii următori de angajament.
+b)
+În situația în care, ca urmare a controalelor efectuate, se constată că aceleași suprafețe fac parte din două amenajamente distincte, GF va determina cauza și modalitatea de remediere. Pentru beneficiarul la care se va reface amenajamentul, având în vedere că suprafața se va diminua atât de către GF, cât și de către APIA, se vor aplica sancțiuni de supradeclarare.
+4.
+Nu se vor aplica sancțiuni administrative în baza prevederilor art. 64 alin. 2 lit. c) și d)/art. 77 alin. 2 lit. c) și d) din Regulamentul (UE) nr. 1.306/2013, cu modificările și completările ulterioare, în cazul în care: a) neconformitatea este cauzată de o eroare a autorității competente sau a unei alte autorități și dacă eroarea nu ar fi putut fi detectată în mod rezonabil de persoana vizată de sancțiunea administrativă;
+b) persoana vizată poate demonstra într-un mod considerat satisfăcător de către autoritatea competentă că nu este răspunzătoare pentru nerespectarea obligațiilor sau dacă autoritatea competentă stabilește într-un alt mod că persoana vizată nu este răspunzătoare în acest sens.
+Secțiunea a 2-a
+Sancțiuni privind selecția, eligibilitatea, cerințele specifice și cele obligatorii
+1.
+Acest tip de sancțiune se aplică numai beneficiarilor ale căror cereri de sprijin au fost selectate într-o sesiune în care valoarea publică a cererilor de sprijin depuse a depășit alocarea financiară a sesiunii respective, caz în care se determină punctajul în vederea realizării selecției.
+2.
+În cazul în care pe toată perioada de implementare a angajamentului punctajul total al cererii de sprijin nu este menținut la un nivel cel puțin egal cu 90% din punctajul ultimei cereri de sprijin selectate pentru finanțare în cadrul raportului de selecție final al aceleiași sesiuni, angajamentul va fi închis și se vor stabili debite aferente plăților acordate necuvenit în anii anteriori, cu excepția apariției unei situații de forță majoră, a circumstanțelor excepționale sau a modificărilor survenite ca urmare a reamenajării în ceea ce privește încadrarea în grupe, subgrupe și categorii funcționale a u.a. din suprafața solicitată. Excepția referitoare la modificările grupei, subgrupei și categoriei funcționale este acceptată numai dacă solicitarea de modificare este făcută (și consemnată în procesul-verbal al conferinței I de amenajare) în cadrul conferinței I de amenajare de către: a) administratorul/custodele ariei protejate/instituțiile responsabile pentru aria naturală protejată, în situația în care aceasta este constituită parțial sau total peste u.a. în cauză;
+b) reprezentantul structurii județene sau regionale pentru protecția mediului;
+c) reprezentantul autorității publice centrale care răspunde de silvicultură sau, după caz, al structurii teritoriale de specialitate.
+3.
+Calculul punctajului total se va realiza utilizând criteriile de selecție și punctajele aferente stabilite pentru sesiunea în care cererea de sprijin a fost selectată pentru finanțare.
+4.
+Pentru calcularea punctajului aferent principiilor de selecție se va utiliza suprafața totală eligibilă stabilită în urma controalelor administrative și la fața locului, în cazul în care se efectuează și acest tip de control.
+1.
+Sancțiunile pentru nerespectarea condițiilor de eligibilitate, inclusiv a cerințelor specifice și a cerințelor de bază relevante angajamentelor se stabilesc conform tabelului nr. 1. Tabelul nr. 1
+Nr. crt. Codul sancțiunii Tipul sancțiunii
+1. 1 Se aplică o sancțiune de 3% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+2. 2 Se aplică o sancțiune de 10% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+3. 3 Se aplică o sancțiune de 25% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+4. 4 Se aplică o sancțiune de 50% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+5. 5 Se aplică o sancțiune de 75% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+6. 6 Se aplică o sancțiune de 100% din valoarea sprijinului pe pachet pe anul respectiv de angajament.
+7. 7 Se aplică o sancțiune de 100% din valoarea sprijinului pe măsură pe anul respectiv de angajament, iar, în plus, beneficiarul este obligat să returneze toți banii primiți pe pachetul respectiv până în acel moment (pentru anii anteriori); în cazul în care se încadrează la intenție se exclude de la plată și pentru anul următor.
+2.
+Sistemul de sancțiuni este unul progresiv: în cazul în care în primul an a fost aplicată o sancțiune (de exemplu: 1), iar în al doilea an a fost aplicată aceeași sancțiune pentru aceeași condiție nerespectată (de exemplu: 1), atunci pentru anul 2 se va aplica sancțiunea următoare (de exemplu: 2).
+3.
+Sancțiunea se aplică pentru fiecare condiție nerespectată în parte. Dacă în cadrul unui pachet nu sunt îndeplinite mai multe condiții, beneficiarului i se aplică pe pachetul respectiv cea mai mare sancțiune dintre sancțiunile aplicate pentru fiecare condiție în parte la nivel de unitate amenajistică - u.a./unitate de producție (protecție) - UP.
+4.
+În cazul nivelului 7 al sancțiunilor pentru nerespectarea cerințelor specifice, recuperarea sumelor acordate beneficiarului până la momentul respectiv nu presupune și aplicarea sancțiunilor de supradeclarare.
+5.
+Sancțiunea se aplică la nivel de u.a./UP.
+6.
+La stabilirea nivelului sancțiunilor s-a ținut seama de gravitatea, amploarea și durata (persistența) neconformităților.
+7.
+În cazul cererii cu beneficiari multipli, dacă se constată o nerespectare a condițiilor/cerințelor de eligibilitate, obligatorii relevante și specifice M15, la suma cuvenită cererii de sprijin/plată pentru M15, se va aplica sancțiunea stabilită.
+8.
+Reducerile, excluderile și recuperările se aplică sumelor deja plătite în anii precedenți pentru angajamentul respectiv.
+9.
+În cazul în care, ca urmare a controalelor efectuate de către APIA și GF, rezultă anumite micșorări de suprafețe, acestea se vor lua în calcul la stabilirea suprafețelor determinate pentru plata M15. Angajamentul va fi amendat, iar suprafața eligibilă pentru plată devine suprafața angajată pentru toți anii următori de angajament.
+10.
+Condițiile de eligibilitate generale, cerințele obligatorii relevante și cele specifice angajamentelor, precum și sancțiunile pentru nerespectarea acestora sunt prevăzute în tabelul nr. 2. Tabelul nr. 2
+Nr. crt.
+Condiții de eligibilitate/ Cerințe generale și specifice
+Condiții de aplicare
+Sancțiune
+Cod sancțiune (în cazul sancțiunilor proporționale) 0 1 2 3 4
+I.
+Condiții de eligibilitate generale
+1.
+Suprafața minimă pentru care se încheie angajamentul este de 100 ha.
+Dacă pe parcursul derulării angajamentului nu se îndeplinește această condiție, beneficiarul este exclus de la plată pentru campania în curs, angajamentul se închide și se recuperează sumele primite anterior.
+Nu se recuperează sumele plătite anterior, în cazul în care suprafața aflată sub angajament scade sub 100 ha pe parcursul implementării angajamentului ca urmare a aplicării art. 36 alin. (1), art. 37 alin. (1) lit. a), e) și f) și/sau art. 39 alin. (1) din Legea nr. 46/2008 - Codul silvic, republicată, cu modificările și completările ulterioare, ca urmare a încadrării în tipul I funcțional în noul amenajament față de cel anterior, precum și a unei reparcelări rezultate în urma înregistrării sistematice sau sporadice a imobilelor potrivit dispozițiilor din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare. x
+2.
+Terenurile destinate împăduririi sau reîmpăduririi nu reprezintă mai mult de 15% din suprafața angajată.
+Dacă pe parcursul derulării angajamentului nu se îndeplinește această condiție în unul din cei 5 ani de angajament, beneficiarul este exclus de la plată pentru anul în care s-a constatat încălcarea condiției. În cazul în care această condiție nu este respectată în 2 ani de angajament, angajamentul se închide și se recuperează sumele plătite anterior.
+Nu se recuperează sumele plătite anterior în cazul în care condiția nu este respectată ca urmare a apariției de fenomene care impun recoltarea de produse accidentale I sau II sau reducerii suprafeței ca urmare a aplicării art. 36 alin. (1), art. 37 alin. (1) lit. a), e) și f) și/sau art. 39 alin. (1) din Legea nr. 46/2008, republicată, cu modificările și completările ulterioare, și ca urmare a încadrării în tipul I funcțional în noul amenajament față de cel anterior. x
+3.
+Suprafața trebuie să facă parte dintr-un amenajament silvic în vigoare - amenajamentul se consideră a fi în vigoare după ce a fost avizat procesul-verbal al conferinței a II-a de amenajare. [Pe toată perioada de angajament întreaga suprafață angajată trebuie să fie cuprinsă într-un (în) amenajament(e) silvic(e) în vigoare.]
+Dacă pe parcursul derulării angajamentului, amenajamentul expiră, cerința se consideră respectată, dacă documentația necesară pentru noul amenajament a fost depusă la GF înainte de data expirării amenajamentului anterior, iar avizul (cu fișa rezumativă a dosarului tehnic anexată) eliberat de GF în baza noului amenajament va fi depus la APIA odată cu cererea de plată sau în maximum 20 de zile calendaristice de la eliberarea acestuia.
+1. Se exclude de la plată pentru anul de angajament în curs UP pentru care se constată că în orice perioadă a unui an de angajament orice suprafață din componența acesteia nu face parte dintr-un amenajament silvic în vigoare, cu aplicarea sancțiunilor de supradeclarare.
+2. În cazul în care se constată într-un alt an decât cel precizat la pct. 1 că în orice perioadă din anul respectiv orice suprafață din componența UP nu face parte dintr-un amenajament silvic în vigoare, beneficiarul este exclus de la plată pentru anul de angajament în curs pentru UP respectivă, sumele primite anterior pentru UP respectivă se recuperează, iar angajamentul se amendează prin eliminarea acesteia de la finanțare, cu aplicarea sancțiunilor de supradeclarare. Nu se exclude de la plată și nu se recuperează sumele plătite anterior, în cazul în care suprafața care nu se mai găsește în noul amenajament a fost exclusă din angajament. x
+4.
+Beneficiarul este deținătorul unei suprafețe de teren forestier din cadrul Fondului Forestier Național - FFN.
+Se exclude de la plată u.a. pentru care se constată că în orice an din perioada de angajament orice suprafață din componența acesteia solicitată la plată nu face parte din Fondul Forestier Național. Sumele primite anterior pentru u.a. respectivă se recuperează, iar angajamentul se amendează prin eliminarea acesteia de la finanțare.
+În cazul în care condiția nu este respectată ca urmare a aplicării art. 36 alin. (1), art. 37 alin. (1) lit. a), e) și f) și/sau art. 39 alin. (1) din Legea nr. 46/2008, republicată, cu modificările și completările ulterioare, precum și a unei reparcelări rezultate în urma înregistrării sistematice sau sporadice a imobilelor potrivit dispozițiilor din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare, nu se recuperează sumele plătite anterior, iar plata în anul de angajament în curs se diminuează proporțional cu suprafața care nu mai face parte din FFN. În acest caz, angajamentul se amendează prin reducerea suprafeței angajate cu suprafața care nu mai face parte din FFN (dacă suprafața scade sub 100 ha se închide angajamentul fără recuperarea sumelor). x
+5.
+Terenurile grevate de sarcini și gajuri cu deposedare în favoarea unei terțe părți, conform evidențelor cadastrale locale, nu sunt eligibile.
+Dacă pe parcursul derulării angajamentului nu se îndeplinește această condiție în oricare din anii de implementare, pentru oricare dintre u.a., se refuză la plată u.a. care contribuie la nerespectarea acestui criteriu pentru anul cererii de sprijin/plată în cauză (anul n).
+În cazul în care se constată că și în anul n+1 criteriul nu este îndeplinit, u.a. se exclude de la plată pentru anul n și anul n+1 și se recuperează sumele primite anterior pentru această u.a.; angajamentul se închide pentru u.a. în cauză. x
+6.
+Beneficiarul se angajează să mențină angajamentul de silvomediu pentru o perioadă de 5 ani de la data semnării acestuia. Beneficiarul se angajează să respecte condițiile/cerințele de eligibilitate, obligatorii relevante și specifice pachetelor de silvomediu pentru care aplică.
+Nu se permite deschiderea angajamentului dacă nu a fost semnat angajamentul multianual. x
+7.
+Beneficiarul trebuie să dețină contract de administrare/prestări servicii silvice cu un ocol silvic autorizat.
+Dacă un ocol silvic se desființează, proprietarul este obligat să încheie contract cu un alt ocol silvic.
+Nu se permite deschiderea angajamentului.
+Dacă pe parcursul derulării angajamentului nu se îndeplinește această condiție, angajamentul se închide, este exclus de la plată în campania în curs UP care nu îndeplinește această condiție și se recuperează sumele primite anterior, cu aplicarea sancțiunilor de supradeclarare atât în campania în curs, cât și în anii anteriori de angajament. x
+8.
+Beneficiarul trebuie să participe cu toată suprafața deținută de acesta într-o unitate de producție/protecție.^i)
+Se exclude de la plată pentru anul de angajament în curs și se recuperează sumele primite anterior pentru întreaga suprafață din UP din angajament, dacă pe parcursul derulării angajamentului se constată că beneficiarul deținea la momentul depunerii cererii de sprijin și altă suprafață forestieră eligibilă în cadrul UP respective.
+Angajamentul se amendează prin eliminarea de la finanțare a suprafeței din UP respectivă, cu aplicarea sancțiunilor de supradeclarare atât în campania în curs, cât și în anii anteriori de angajament. x ^i) Beneficiarul trebuie să solicite suprafața eligibilă deținută de acesta într-o unitate de producție/protecție. Suprafața neeligibilă din UP sau cea care depășește procentul de 15% permis în cazul terenurilor destinate împăduririi sau reîmpăduririi va fi declarată, dar nu va fi solicitată la plată.
+9.
+Beneficiarii măsurii nu trebuie să fie persoane aflate în dificultate, așa cum sunt definite conform prevederilor Orientărilor privind ajutoarele de stat pentru salvarea și restructurarea întreprinderilor nefinanciare aflate în dificultate.
+Pentru anul cererii de plată în cauză (anul n) se refuză la plată pentru plățile aferente ambelor pachete.
+Plățile aferente anului n se pot resolicita doar în anul următor (n+1).
+Dacă se constată că nici în anul n+1 criteriul nu este îndeplinit, angajamentul se închide și se recuperează sumele primite anterior. x
+II.
+Cerințele obligatorii relevante prevăzute de legea națională a pădurilor sau de dreptul intern relevant aplicabile submăsurii
+II.1.
+Pachetul 1 - Asigurarea de zone de liniște
+1.
+Beneficiarul este obligat ca pe toată perioada de angajament să respecte cerințele obligatorii relevante prevăzute de legislația națională silvică sau de dreptul intern relevant referitoare la executarea lucrărilor de extragere a materialului lemnos prin tăieri de igienă, rărituri, tăieri de conservare și regenerare.
+Nerespectarea cerinței
+Se exclude de la plată pentru campania în curs u.a. pentru care s-a constatat de către instituțiile specializate, în cadrul sarcinilor care le revin, încălcarea prevederilor amenajamentului la nivel de u.a. referitor la aplicarea lucrărilor de extragere a materialului lemnos prin tăieri de igienă, rărituri, tăieri de conservare și regenerare; sumele primite anterior pentru u.a. respectivă se recuperează, iar angajamentul se amendează prin eliminarea acesteia de la finanțare. x
+II.2.
+Pachetul 2 - Utilizarea atelajelor la colectarea lemnului din rărituri
+1.
+Beneficiarul este obligat ca pe toată perioada de angajament să respecte cerințele obligatorii relevante prevăzute de legislația națională silvică sau de dreptul intern relevant referitoare la executarea lucrărilor de extragere a materialului lemnos cu atelaje din u.a. selectate voluntar.
+Nerespectarea cerinței
+Se exclude de la plată u.a. în care se execută rărituri, pentru care s-a constatat de către instituțiile specializate, în cadrul sarcinilor care le revin, încălcarea prevederilor referitoare la executarea lucrărilor de extragere cu atelaje a materialului lemnos; sumele primite anterior în cadrul pachetului 2 pentru u.a. respectivă se recuperează. x
+III.
+Cerințe specifice angajamentelor
+III.1.
+Pachetul 1 - Asigurarea de zone de liniște
+1.
+Zona de liniște compactă din cadrul unei UP nu poate avea o suprafață mai mică de 20 ha.
+Nerespectarea cerinței privind mărimea zonei de liniște compacte
+Dacă pe parcursul derulării angajamentului nu se îndeplinește această condiție concomitent pentru toate suprafețele compacte la nivelul unei UP, beneficiarul este exclus de la plată pentru UP în cauză pentru campania în curs, angajamentul se închide pentru UP în cauză și se recuperează sumele primite anterior pentru suprafața angajată în cadrul UP în cauză. Nu se recuperează sumele plătite anterior, în cazul în care suprafața zonei de liniște scade sub 20 ha ca urmare a aplicării art. 36 alin. (1), art. 37 alin. (1) lit. a), e) și f) și/sau art. 39 alin. (1) din Legea nr. 46/2008, republicată, cu modificările și completările ulterioare, ca urmare a încadrării în tipul I funcțional în noul amenajament față de cel anterior, precum și a unei reparcelări rezultate în urma înregistrării sistematice sau sporadice a imobilelor potrivit dispozițiilor din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare.
+În cazul în care la nivel de UP există mai multe suprafețe compacte, suprafața compactă care scade sub 20 ha, ca urmare a nerespectării uneia sau a mai multor condiții/cerințe care nu implică excluderea din angajament a uneia sau a mai multor u.a. din zona compactă respectivă, este exclusă din zona de liniște în campania curentă, iar angajamentul rămâne în desfășurare pentru toată suprafața angajată inițial. 3
+În cazul în care la nivel de UP există mai multe suprafețe compacte, suprafața compactă care scade sub 20 ha, ca urmare a nerespectării uneia sau a mai multor condiții/cerințe care implică excluderea din angajament a uneia sau a mai multor u.a. din zona compactă respectivă, este exclusă din zona de liniște pe toată perioada de angajament.
+2.
+Zona de liniște compactă este de minimum 20% din totalul suprafeței eligibile angajate.
+Zona de liniște compactă la nivel de UP poate fi constituită din mai multe trupuri compacte, cu suprafețe de cel puțin 20 ha fiecare, care conțin u.a. întregi.
+Pentru terenurile forestiere situate în mai multe UP (administrate de același ocol silvic sau de ocoale silvice diferite), delimitarea zonei de liniște compacte de minimum 20% se va asigura la nivelul fiecărei UP.
+Nerespectarea cerinței privind mărimea zonei de liniște compacte (în cazul în care suprafața diminuată este de peste 20 ha) 1.^ii) Dacă pe perioada de derulare a angajamentului la nivel de UP suprafața determinată a zonei de liniște scade sub 20% din suprafața determinată angajată în anul 1, dar nu scade sub 17,5% 3 2.^ii) Dacă pe perioada de derulare a angajamentului la nivel de UP suprafața determinată a zonei de liniște scade sub 17,5% din suprafața determinată angajată în anul 1, dar nu scade sub 15% 4 3.^ii) Dacă pe perioada de derulare a angajamentului la nivel de UP suprafața determinată a zonei de liniște scade sub 15% din suprafața determinată angajată în anul 1 5
+REPETIȚIE 4/5/6
+Se consideră repetiție dacă:
+- procentul zonei de liniște pentru care s-a stabilit sancțiunea inițială se reduce în anii rămași de aplicare a angajamentului ca urmare a încălcării cerințelor în alte u.a. decât cele care au condus la stabilirea sancțiunii inițiale;
+- se constată încălcări ale cerințelor specifice precizate la pct. 3.1, 3.2 sau 3.3 din prezenta anexă pe u.a. care au condus la stabilirea sancțiunii inițiale.
+INTENȚIE 7 ^ii) 1. Dacă procentul zonei de liniște scade sub 20%, se aplică atât excluderea de la plată a uneia sau a mai multor u.a. din zona de liniște în care s-au înregistrat neconformități, cât și nivelul de sancțiune în funcție de interval.
+Excluderea u.a. de la plată ca urmare a încălcării unei cerințe specifice, dar și aplicarea nivelului de sancțiune se fac pentru cererea din anul în curs (cu excepția repetiției), fără ca suprafața zonei de liniște să fie ajustată pentru anii următori, iar angajamentul rămâne în desfășurare pentru întreaga suprafață angajată inițial.
+2. În cazul excluderii u.a. din zona de liniște se vor avea în vedere următoarele posibilități:
+- completarea, dacă este posibil, a zonei de liniște cu u.a. adiacente, astfel încât să se ajungă la procentul de 20%. Condiția ca u.a. să fie incluse în zona de liniște în anul următor este ca pe acestea să se fi respectat cerințele specifice în anii anteriori;
+- în cazul în care completarea zonei de liniște cu u.a. adiacente nu este posibilă, sancțiunea identificată inițial pentru cerința specifică se aplică până la finalizarea angajamentului, fără a se considera repetiție/intenție. În situația în care intervin alte nerespectări de cerințe, acestea pot fi încadrate la repetiție/intenție, după caz.
+3. Dacă în anul următor, solicitantul nu efectuează lucrări în nicio u.a. din zona de liniște, nu se mai aplică nicio sancțiune pentru cerințele specifice prevăzute la pct. 3.1 și 3.2 din prezenta anexă. Începând cu anul 2 de angajament, fiecare an de angajament se evaluează separat.
+Dacă în unul din anii următori solicitantul sprijinului efectuează lucrări, indiferent dacă ele sunt efectuate în aceeași u.a. pe care a mai fost constatată această neconformitate sau în alte u.a., se aplică nivelul de repetiție/intenție, după caz.
+4. Nu se aplică sancțiunile prevăzute la pct. 1-3 aferente cerinței specifice III.1.2, în cazul în care condiția nu este respectată ca urmare a aplicării art. 36 alin. (1), art. 37 alin. (1) lit. a), e) și f) și/sau art. 39 alin. (1) din Legea nr. 46/2008, republicată, cu modificările și completările ulterioare, ca urmare a încadrării în tipul I funcțional în noul amenajament față de cel anterior, a unei reparcelări rezultate în urma înregistrării sistematice sau sporadice a imobilelor potrivit dispozițiilor din Legea cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare, sau în cazul aplicării prevederilor art. 18 alin. (1) lit. c) din Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, cu modificările și completările ulterioare.
+3. 1.^iii) În cadrul zonelor de liniște pentru perioada de angajament vor fi permise doar lucrări de împădurire, ajutorare a regenerărilor naturale, întreținere a culturilor și a semințișurilor până la realizarea stării de masiv, descopleșiri, degajări, depresaje și curățiri, precum și lucrări de reconstrucție ecologică care se continuă din perioada premergătoare angajamentului.
+Nerespectarea cerinței
+În cazul în care într-o u.a. din zona de liniște, pe perioada de derulare a angajamentului, se execută într-un singur an lucrări de extragere a materialului lemnos prin rărituri, tăieri de regenerare, tăieri de conservare sau tăieri de igienă, se exclude de la plată pentru anul de campanie în curs u.a. respectivă, iar angajamentul rămâne în desfășurare pentru toată suprafața angajată inițial. 1
+REPETIȚIE 2
+În cazul în care neconformitatea se datorează încălcării cerințelor atât în aceeași u.a., cât și în alte u.a. decât cele care au condus la stabilirea sancțiunii inițiale, se consideră repetiție.
+INTENȚIE 5 2.^iii) În cazul în care pe perioada de aplicare a angajamentului în cadrul zonei de liniște apar fenomene care impun recoltarea de produse accidentale I sau II pe o suprafață mai mică de 50% din suprafața zonei de liniște, lemnul afectat va fi extras în condițiile legii.
+Nerespectarea cerinței
+În cazul în care în cadrul zonei de liniște apar fenomene care impun recoltarea de produse accidentale I sau II pe o suprafață mai mică de 50% din suprafața zonei de liniște și lemnul afectat a fost extras cu încălcarea condițiilor legale. 1
+REPETIȚIE 2
+INTENȚIE 5 3.^ iii) În cazul în care suprafața pe care apar fenomene care impun recoltarea de produse accidentale I sau II este de cel puțin 50% din suprafața zonei de liniște, angajamentul se încheie fără a fi necesară rambursarea sprijinului primit anterior în cadrul angajamentului.
+Nerespectarea cerinței
+În cazul în care suprafața pe care apar fenomene care impun recoltarea de produse accidentale I sau II este de cel puțin 50% din suprafața zonei de liniște, angajamentul se încheie fără a fi necesară rambursarea sprijinului primit anterior în cadrul angajamentului. x ^iii) O lucrare se consideră executată într-un an dacă aceasta se execută într-o singură perioadă cuprinsă între 1.01 anul n și 31.12 anul n. În cazul în care o partidă nu a putut fi exploatată în întregime până la data de 31.12 a anului n și stocul este reautorizat la data de 1.01 a anului n+1 pentru extragerea stocului rămas, nu se consideră a fi lucrări separate, cu condiția ca durata de timp de la începutul exploatării și până la reprimirea parchetului să nu depășească 365 de zile calendaristice. Lucrarea de exploatare care nu este finalizată până la sfârșitul anului calendaristic va fi înregistrată în anul în care s-a emis autorizația de exploatare, fără a depăși durata maximă cumulată de 365 de zile pentru reprimirea parchetului.
+4. 1.^iv) În cadrul zonei din afara zonei de liniște, în u.a. încadrate în T II nu se execută lucrări de extragere de masă lemnoasă prin lucrări de conservare pe toată perioada de aplicare a angajamentului.
+Nerespectarea cerinței
+În cazul în care într-o u.a. din afara zonei de liniște încadrate în T II pe perioada de derulare a angajamentului se execută într-un singur an lucrări de extragere a materialului lemnos prin lucrări de conservare, se exclude de la plată pentru anul de campanie în curs u.a. respectivă, iar angajamentul rămâne în desfășurare. 1
+REPETIȚIE 2
+În cazul în care s-a aplicat o sancțiune pentru nerespectarea cerinței 4.1, iar în perioada ulterioară de derulare a angajamentului cerința 4.1 nu este respectată în u.a. pentru care s-a stabilit sancțiunea anterioară sau în alte u.a., se exclud de la plată pentru anul de campanie în curs u.a. respective, iar angajamentul rămâne în desfășurare.
+INTENȚIE 5 2.^iv) În situația în care pe suprafața unei u.a. încadrate în T II din afara zonei de liniște are loc un fenomen ce impune recoltarea de produse accidentale I sau II, lemnul afectat va fi extras în condițiile legii.
+Nerespectarea cerinței
+În cazul în care într-o u.a. încadrată în T II din afara zonei de liniște are loc un fenomen ce impune recoltarea de produse accidentale I sau II și lemnul afectat a fost extras cu încălcarea prevederilor legale. 1
+REPETIȚIE 2
+INTENȚIE 5 ^iv) O lucrare se consideră executată într-un an dacă aceasta se execută într-o singură perioadă cuprinsă între 1.01 anul n și 31.12 anul n. În cazul în care o partidă nu a putut fi exploatată în întregime până la data de 31.12 a anului n și stocul este reautorizat la data de 1.01 a anului n+1 pentru extragerea stocului rămas, nu se consideră a fi lucrări separate, cu condiția ca durata de timp de la începutul exploatării și până la reprimirea parchetului să nu depășească 365 de zile calendaristice.
+Lucrarea de exploatare care nu este finalizată până la sfârșitul anului calendaristic va fi înregistrată în anul în care s-a emis autorizația de exploatare, fără a depăși durata maximă cumulată de 365 de zile pentru reprimirea parchetului.
+5. 1.^v) Pe suprafața din angajament care nu face obiectul constituirii zonei de liniște se pot executa lucrările prevăzute de amenajamentul silvic, avându-se în vedere ca pe perioada angajamentului să nu se intervină cu lucrări mai mult de o dată pe aceeași u.a., cu excepția cazului în care este necesar să se efectueze lucrări de împădurire, ajutorarea regenerărilor naturale, întreținere a culturilor și a semințișurilor până la realizarea stării de masiv, descopleșiri, degajări, depresaje și curățiri.
+Nerespectarea cerinței
+În cazul în care într-o u.a. încadrată în tipurile funcționale eligibile T III-T VI (cu excepția lui T II) din afara zonei de liniște pe perioada de derulare a angajamentului se intervine cu lucrări mai mult de o dată pe aceeași u.a., cu excepția cazului în care este necesar să se efectueze lucrări de împădurire, ajutorare a regenerărilor naturale, întreținere a culturilor și a semințișurilor până la realizarea stării de masiv, descopleșiri, degajări, depresaje și curățiri, se exclude de la plată pentru campania în curs u.a. respectivă, iar angajamentul rămâne în desfășurare. 1
+REPETIȚIE 2
+În cazul în care s-a aplicat o sancțiune pentru nerespectarea prezentei cerințe, iar în perioada ulterioară de derulare a angajamentului prezentei cerințe nu este respectată în u.a. pentru care s-a stabilit sancțiunea anterioară sau în alte u.a., se exclud de la plată pentru anul de campanie în curs u.a. respective, iar angajamentul rămâne în desfășurare.
+INTENȚIE 5 2.^v) În situația în care pe suprafața unei u.a. din afara zonei de liniște are loc un fenomen ce impune recoltarea de produse accidentale I sau II (conform definiției din Ordinul ministrului agriculturii și dezvoltării rurale nr. 1.002/2016 privind aprobarea schemei de ajutor de stat „Servicii de silvomediu, servicii climatice și conservarea pădurilor”, cu modificările și completările ulterioare), lemnul afectat va fi extras în condițiile legii.
+Nerespectarea cerinței
+În cazul în care într-o u.a. încadrată în categoriile eligibile T III-T VI (cu excepția lui T II) din afara zonei de liniște are loc un fenomen ce impune recoltarea de produse accidentale I sau II și lemnul afectat a fost extras cu încălcarea prevederilor legale. 1
+REPETIȚIE 2
+INTENȚIE 5 ^v) Lucrarea prevăzută în amenajamentul silvic a se executa o singură dată la nivel de u.a. pe perioada angajamentului se execută într-o singură perioadă cuprinsă între 1.01 anul n și 31.12 anul n (condiția se aplică inclusiv în anul I de angajament). În cazul în care o partidă nu a putut fi exploatată în întregime până la data de 31.12 a anului n și stocul este reautorizat la data de 1.01 a anului n+1 pentru extragerea stocului rămas, nu se consideră a fi lucrări separate, cu condiția ca durata de timp de la începutul exploatării și până la reprimirea parchetului să nu depășească 365 de zile calendaristice. În cazul angajamentelor care se întind pe perioada a două amenajamente, se va avea în vedere ca pe u.a. pe care s-au executat lucrări în perioada de aplicabilitate a primului amenajament să nu se mai execute lucrările prevăzute în noul amenajament pe perioada rămasă din angajament.
+Lucrarea de exploatare care nu este finalizată până la sfârșitul anului calendaristic va fi înregistrată în anul în care s-a emis autorizația de exploatare, fără a depăși durata maximă cumulată de 365 de zile pentru reprimirea parchetului.
+6.
+Respectarea volumului rămas de recoltat prin tăieri de regenerare la nivel de UP (Cerința se verifică doar pentru cererile de plată aferente sesiunii de depunere 1/2017.)
+Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat
+Nerespectarea cerinței
+1. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de regenerare pe toată suprafața din angajament scade până la 75% din volumul rezultat din înmulțirea indicelui de recoltare a produselor de igienă cu de 2 ori suprafața din angajament din zona de liniște și de 1,6 ori suprafața din angajament din afara zonei de liniște. 2
+2. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de regenerare pe toată suprafața din 3 prin tăieri de regenerare pe toată suprafața din angajament trebuie să fie egal cel puțin cu volumul rezultat din înmulțirea indicelui de recoltare a produselor de igienă cu de 2 ori suprafața din angajament din zona de liniște și de 1,6 ori suprafața din angajament din afara zonei de liniște. angajament este între 50% și 75% din volumul rezultat din înmulțirea indicelui de recoltare a produselor de igienă cu de 2 ori suprafața din angajament din zona de liniște și de 1,6 ori suprafața din angajament din afara zonei de liniște.
+3. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de regenerare pe toată suprafața din angajament scade sub 50% din volumul rezultat din înmulțirea indicelui de recoltare a produselor de igienă cu de 2 ori suprafața din angajament din zona de liniște și de 1,6 ori suprafața din angajament din afara zonei de liniște. 4
+REPETIȚIE 3/4/5
+INTENȚIE 7
+7.
+Respectarea volumului rămas de recoltat prin tăieri de conservare
+Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de conservare pe toată suprafața din angajament trebuie să fie egal cu cel puțin 5 posibilități anuale de recoltare a masei lemnoase prin tăieri de conservare prevăzute în amenajamentul sau amenajamentele silvice (cumulate).
+1. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de conservare pe toată suprafața scade până la 75% din volumul aferent a 5 posibilități anuale de recoltare a masei lemnoase prin tăieri de conservare prevăzute în amenajamentul sau amenajamentele silvice (cumulate). 3
+2. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de conservare pe toată suprafața din angajament este între 50% și 75% din volumul aferent a 5 posibilități anuale de recoltare a masei lemnoase prin tăieri de conservare prevăzute în amenajamentul sau amenajamentele silvice (cumulate). 4
+3. Până la expirarea amenajamentului sau, în cazul în care angajamentul se întinde pe perioada a două amenajamente, până la expirarea celor două amenajamente silvice, volumul rămas de recoltat prin tăieri de conservare pe toată suprafața din angajament scade sub 50% din volumul aferent a 5 posibilități anuale de recoltare a masei lemnoase prin tăieri de conservare prevăzute în amenajamentul sau amenajamentele silvice (cumulate). 5
+REPETIȚIE 4/5/6
+INTENȚIE 7
+III.2.
+Pachetul 2 - Utilizarea atelajelor la colectarea lemnului din rărituri
+1.
+Poate fi aplicat doar adițional la pachetul 1. x
+Nu este permisă deschiderea angajamentului pentru pachetul 2, dacă nu optează și pentru pachetul 1. Suprafața solicitată pentru pachetul 2 poate fi mai mică sau egală cu suprafața u.a. pe care este solicitat pachetul 1. x
+2.
+Adoptând acest pachet, solicitantul sprijinului exploatează materialul lemnos provenit din rărituri folosind exclusiv atelaje la operațiile de adunat, scos și apropiat pe suprafața ce face obiectul angajamentului, până la platforma primară.
+Neefectuarea lucrărilor de rărituri sau nerespectarea cerinței privind echipamentele utilizate pentru efectuarea lucrărilor de colectare a materialului lemnos
+1. Neefectuarea lucrărilor de rărituri sau nerespectarea cerinței privind echipamentele utilizate pentru efectuarea lucrărilor de colectare a materialului lemnos pe o suprafață cumulată (suma suprafețelor u.a. sau a părților de u.a., după caz, solicitată pentru plată în anul respectiv, pe care nu s-a respectat cerința) mai mică de 15% din suprafața solicitată prin acest pachet în anul respectiv 3
+2. Neefectuarea lucrărilor de rărituri sau nerespectarea cerinței privind echipamentele utilizate pentru efectuarea lucrărilor de colectare a materialului lemnos pe o suprafață cumulată (suma suprafețelor u.a. sau a părților de u.a., după caz, solicitată pentru plată în anul respectiv, pe care nu s-a respectat cerința) cuprinsă între 15% și 30% din suprafața solicitată prin acest pachet în anul respectiv 4
+3. Neefectuarea lucrărilor de rărituri sau nerespectarea cerinței privind echipamentele utilizate pentru efectuarea lucrărilor de colectare a materialului lemnos pe o suprafață cumulată (suma suprafețelor u.a. sau a părților de u.a., după caz, solicitată pentru plată în anul respectiv, pe care nu s-a respectat cerința) mai mare de 30% din suprafața solicitată prin acest pachet în anul respectiv 6
+REPETIȚIE 4/5/6
+INTENȚIE 7
+3.
+La nivel de UP suma suprafețelor de parcurs cu lucrări de rărituri a u.a. selectate nu poate depăși jumătate din suprafața totală a u.a. prevăzute cu lucrări de rărituri în Planul lucrărilor de îngrijire/rărituri, aferente suprafeței care face obiectul cererii de sprijin/plată.
+Nerespectarea cerinței
+În cazul în care se constată depășirea suprafeței reprezentând jumătate din suprafața totală a u.a. prevăzute cu lucrări de rărituri în Planul lucrărilor de îngrijire/rărituri, aferente suprafeței care face obiectul cererii de sprijin/plată, valoarea plății se limitează la maximum jumătate din suprafața totală a u.a. prevăzute cu lucrări de rărituri în Planul lucrărilor de îngrijire/rărituri, aferente suprafeței care face obiectul cererii de sprijin/plată, fără aplicarea sancțiunilor de supradeclarare. x
+4.
+Lucrările de colectare trebuie să cuprindă cel puțin operația de adunat și una sau amândouă din operațiile de scos și apropiat cu atelaje.
+Nerespectarea cerinței
+1. Nerespectarea cerinței privind efectuarea lucrărilor de colectare care trebuie să cuprindă cel puțin operația de adunat și una sau amândouă din operațiile de scos și apropiat cu atelaje în u.a. selectate a căror suprafață cumulată este mai mică de 15% din suprafața solicitată prin acest pachet în anul respectiv 1
+2. Nerespectarea cerinței privind efectuarea lucrărilor de colectare, care trebuie să cuprindă cel puțin operația de adunat și una sau amândouă din operațiile de scos și apropiat cu atelaje în u.a. selectate, a căror suprafață cumulată este între 15% și 30% din suprafața solicitată prin acest pachet în anul respectiv 2
+3. Nerespectarea cerinței privind efectuarea lucrărilor de colectare care trebuie să cuprindă cel puțin operația de adunat și una sau amândouă din operațiile de scos și apropiat cu atelaje în u.a. selectate a căror suprafață cumulată este mai mare de 30% din suprafața solicitată prin acest pachet în anul respectiv 3
+REPETIȚIE 2/3/4
+INTENȚIE 6
+5.
+Suprafața anuală pentru care se poate solicita sprijin este de 20% din suprafața selectată (+/-10%).
+Nerespectarea cerinței
+Suprafața anuală pentru care solicită sprijin este mai mică decât 10% sau mai mare decât 30% din total suprafață solicitată pentru pachetul 2.^vi) 2
+REPETIȚIE 3
+INTENȚIE 6 ^vi) Această sancțiune se aplică numai în cazul în care beneficiarul, conform mărimii suprafețelor și/sau numărului u.a. din planul lucrărilor de îngrijire, avea posibilitatea respectării acestei cerințe.
+6.
+Distanța de colectare pentru care se solicită sprijin trebuie să fie de minimum 100 m, iar cea maximă de 2.000 m; distanța de colectare va fi precizată în documentele privind organizarea lucrărilor de exploatare.
+1. Distanța de colectare pentru o u.a. pentru care se solicită sprijin este cuprinsă între 75 m și 100 m și/sau 2.000 m și 2.250 m. 1
+2. Distanța de colectare pentru o u.a. pentru care se solicită sprijin este cuprinsă între 50 m și 75 m și/sau 2.250 m și 2.500 m. 2
+3. Distanța de colectare pentru care se solicită sprijin este mai mică de 50 m și/sau mai mare de 2.500 m. 3
+REPETIȚIE 2/3/4
+INTENȚIE
+Se recuperează sumele plătite în anii anteriori. 6
+7.
+Atelajele vor fi folosite avându-se în vedere ca volumul arborelui mediu colectat să fie de cel mult 0,3 m^3.^vii)
+Nerespectarea cerinței
+1. Volumul arborelui mediu colectat este cu până la 30% mai mare de 0,3 mc, în anul de cerere. 2
+2. Volumul arborelui mediu colectat este cu 30-50% mai mare de 0,3 mc, în anul de cerere. 3
+3. Volumul arborelui mediu colectat este cu peste 50% mai mare de 0,3 mc, în anul de cerere. 4
+REPETIȚIE 3/4/5
+INTENȚIE
+Se recuperează sumele plătite în anii anteriori 6 ^vii) În situația în care, după constituirea actului de punere în valoare (APV), conform Hotărârii Guvernului nr. 715/2017 pentru aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică, cu modificările și completările ulterioare, se constată că în u.a. respectivă volumul arborelui mediu este mai mare de 0,3 mc sau distanța de colectare nu se încadrează în limitele de la pct. 6, beneficiarul poate solicita înlocuirea (numai în perioada de depunere a cererilor de plată) sau excluderea acestui u.a. din lista u.a. selectate pentru pachetul 2. Informația privind volumul arborelui mediu se regăsește în APV întocmit de către ocolul silvic anterior efectuării lucrării de rărituri
+Secțiunea a 3-a
+Sancțiuni pentru depunerea cu întârziere a cererii de plată
+1.
+Anual, data-limită de depunere a cererii de plată fără penalizări este data de 15 mai sau o dată ulterioară stabilită potrivit prevederilor art. 13 alin. (1) din Regulamentul de punere în aplicare (UE) nr. 809/2014 al Comisiei de stabilire a normelor de aplicare a Regulamentului (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului în ceea ce privește sistemul integrat de administrare și control, măsurile de dezvoltare rurală și ecocondiționalitatea, cu modificările și completările ulterioare. Termenul de depunere a cererii de plată este comunicat anual de APIA pe site-ul www.apia.org.ro.
+2.
+Beneficiarul nu va fi sancționat pentru depunerea cu întârziere a cererii de plată în cazurile de forță majoră și în circumstanțe excepționale, constatate conform prevederilor legale de către autoritățile publice desemnate.
+3.
+Cu excepția cazurilor de forță majoră sau a circumstanțelor excepționale, pentru depunerea unei cereri de plată după data-limită stabilită se aplică în anul respectiv o reducere de 1% pe zi lucrătoare la sumele la care ar fi avut dreptul beneficiarul dacă cererea ar fi fost depusă în termenul stabilit. Dacă perioada de întârziere depășește 25 de zile calendaristice, cererea de plată este respinsă de la plată.
+4.
+Modificările la o cerere de plată pot fi acceptate fără aplicarea unei sancțiuni până la data de 31 mai sau până la o dată ulterioară stabilită în conformitate cu prevederile Regulamentului de punere în aplicare (UE) nr. 809/2014, cu modificările și completările ulterioare. Introducerea unei modificări pentru cerere după această dată-limită presupune aplicarea unei sancțiuni de 1% pe zi lucrătoare la sumele cuvenite. Modificările privind cererea de plată pot fi admise până la ultima dată de depunere cu întârziere a cererilor de plată. Modificările referitoare la o cerere de plată nu sunt admise după data menționată.
+5.
+Prin Cererea de retragere totală a declarației privind pachetele pentru care s-a solicitat sprijin financiar, beneficiarul poate retrage oricând întreaga suprafață angajată în cererea de sprijin, cu excepția situațiilor în care Agenția de Plăți și Intervenție pentru Agricultură (APIA)/gărzile forestiere din cadrul Ministerului Mediului, Apelor și Pădurilor (GF)/Agenția pentru Finanțarea Investițiilor Rurale (AFIR):
+a) a/au informat deja beneficiarul de existența unor nereguli în cererea de sprijin/plată;
+b) a/au notificat beneficiarul de intenția de a realiza control pe teren; sau
+c) au fost constatate nereguli în urma controlului.
+6.
+Pentru cererile de plată, retragerea totală/parțială a suprafeței angajate în cadrul pachetului 1 atrage recuperarea sumelor acordate în anul anterior/anii anteriori.
+7.
+Beneficiarul poate să renunțe la:
+a) pachetul 1 de pe o UP (aplicabil doar pentru cererile care conțin mai multe UP);
+b) pachetul 2 din cererea de plată din anul de campanie respectiv.
+8.
+Modificările în cadrul pachetului 2 (de alegere/înlocuire a u.a. sau de reprogramare pe ani) față de u.a. prevăzute/estimate cu pachetul 2 în cererea de sprijin se efectuează pe toată durata angajamentului, numai în perioadele de depunere/modificare a cererilor de plată. Dacă beneficiarul renunță la una sau mai multe u.a. în perioada de implementare a angajamentului, nu se vor aplica sancțiuni.
+9.
+În cazul în care la data depunerii cererii de plată pentru anul „n” de angajament/la modificarea cererii de plată, beneficiarul exclude o anumită u.a din lista de u.a. selectate pentru pachetul 2/toate u.a. selectate pentru anul de cerere respectiv, suprafața totală selectată care se va lua în calcul la verificarea cerinței privind suprafața anuală pentru care se poate solicita sprijin este 20% din suprafața selectată +/-10%, în anul curent și în anii următori de angajament va fi actualizată.
+Secțiunea a 4-a
+Sancțiuni pentru nedeclararea tuturor suprafețelor din cadrul exploatației agricole
+1.
+În cazul în care, pentru un anumit an, un beneficiar nu declară toate suprafețele exploatației agricole, iar diferența dintre suprafața totală declarată în cererea unică de plată, pe de o parte, și suma dintre suprafața declarată și suprafața totală a parcelelor nedeclarate, pe de altă parte, este mai mare de 3% din suprafața totală declarată, valoarea totală a plăților directe pe suprafață și/sau a sprijinului în cadrul măsurilor de sprijin pe suprafață cuvenite beneficiarului pentru anul în care s-a constatat nedeclararea se reduce cu până la 3% în funcție de gravitatea omisiunii, astfel:
+a) dacă suma suprafețelor parcelelor nedeclarate reprezintă un procent mai mare de 3%, dar mai mic sau egal cu 30% din suprafața totală declarată, beneficiarul va fi sancționat cu un procent de 1%;
+b) dacă suma suprafețelor parcelelor nedeclarate reprezintă un procent mai mare de 30%, dar mai mic sau egal cu 50% din suprafața totală declarată, beneficiarul va fi sancționat cu un procent de 2%;
+c) dacă suma suprafețelor parcelelor nedeclarate reprezintă un procent mai mare de 50% din suprafața totală declarată, beneficiarul va fi sancționat cu un procent de 3%.
+2.
+În cazul în care diferența dintre suprafața totală declarată în cererea unică de plată, pe de o parte, și suma dintre suprafața declarată și suprafața totală a parcelelor nedeclarate, pe de altă parte, este mai mică sau egală cu 3% din suprafața totală declarată, beneficiarul nu va fi sancționat.
+3.
+În cazul cererii cu beneficiari multipli/cererilor depuse în baza unei asocieri simple între persoane fizice în baza Acordului de asociere în vederea accesării măsurii 15, dacă se aplică o sancțiune de nedeclarare pe una dintre cererile unice de plată depuse de către aceștia, la suma cuvenită cererii de sprijin/plată pentru măsura 15 se va aplica sancțiunea stabilită.
+Secțiunea a 5-a
+Sancțiuni pentru nerespectarea ecocondiționalității din cadrul exploatației agricole
+În cazul în care beneficiarul sprijinului are depusă cerere unică de plată pe suprafață, acesta are obligația de a respecta pe suprafața întregii ferme normele de ecocondiționalitate aprobate prin Ordinul ministrului agriculturii și dezvoltării rurale, al ministrului mediului, apelor și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 352/636/54/2015 pentru aprobarea normelor privind ecocondiționalitatea în cadrul schemelor și măsurilor de sprijin pentru fermieri în România, cu modificările ulterioare. Cererea unică va fi supusă eșantionării în scop de verificare a respectării normelor de ecocondiționalitate.
+În cazul în care beneficiarul sprijinului nu are depusă cerere unică de plată pe suprafață, în perioada de depunere a acesteia, va depune cererea unică de plată cu declararea tuturor suprafețelor exploatației agricole pe care o deține, fără a fi obligatorie solicitarea sprijinului pe vreuna dintre schemele/măsurile de sprijin, însoțită de documentele justificative privind utilizarea terenurilor agricole, precum și de adeverința de la primărie privind identificarea și modul de utilizare a terenului.
+Pentru beneficiarii schemei de ajutor de stat care dețin exploatații agricole, în cazul în care se constată nerespectarea cerințelor obligatorii, se vor aplica sancțiuni administrative în conformitate cu Sistemul de sancțiuni pentru nerespectarea normelor de ecocondiționalitate, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 999/2016 privind aprobarea sistemului de sancțiuni administrative pentru ecocondiționalitate aplicabil schemelor și măsurilor de sprijin pentru fermieri începând cu anul 2016, cu modificările și completările ulterioare.
+În cazul cererilor cu beneficiari multipli/cererilor depuse în baza unei asocieri simple între persoane fizice în baza Acordului de asociere în vederea accesării măsurii 15, sumele primite de la APIA în baza măsurii 15 se vor repartiza între coproprietari/membri asociați, proporțional cu suprafața de teren forestier deținută de fiecare în parte. Fiecare coproprietar/ membru asociat care deține teren agricol/animale va avea obligația de a depune o cerere unică de plată în scopul verificării respectării normelor de ecocondiționalitate.
+În cazul în care APIA constată o nerespectare a normelor de ecocondiționalitate pe suprafețele de teren agricol/animale deținute de către unul dintre coproprietari/membru asociat, la suma cuvenită pentru cererea de sprijin/plată măsura 15 se va aplica sancțiunea stabilită pentru cererea unică de plată.
+În cazul în care APIA constată nerespectări ale normelor de ecocondiționalitate pe suprafețele/animalele deținute de mai mulți coproprietari/membri asociați, la suma cuvenită pentru cererea de sprijin/plată măsura 15 se va aplica sancțiunea cea mai mare dintre cele stabilite pentru fiecare cerere unică de plată.
+Secțiunea a 6-a
+Sancțiuni suplimentare
+1.
+Sumele rezultate din sancțiunile prevăzute la secțiunea 1 „Sancțiuni pentru supradeclararea suprafețelor”, pct. 4, se recuperează în conformitate cu prevederile art. 28 din Regulamentul de punere în aplicare (UE) nr. 908/2014 al Comisiei de stabilire a normelor de aplicare a Regulamentului (UE) nr. 1.306/2013 al Parlamentului European și al Consiliului în ceea ce privește agențiile de plăți și alte organisme, gestiunea financiară, verificarea conturilor, normele referitoare la controale, valorile mobiliare și transparența, cu modificările și completările ulterioare, respectiv statele membre compensează orice creanță restantă a unui beneficiar stabilită în conformitate cu dreptul național, din orice plăți viitoare care urmează a fi efectuate de agenția de plăți responsabilă cu recuperarea creanței de la respectivul beneficiar.
+2.
+Dacă suma rezultată din sancțiunile prevăzute la pct. 4 din secțiunea 1 - „Sancțiuni pentru supradeclararea suprafețelor” nu poate fi reținută în totalitate în cei 3 ani calendaristici care urmează anului calendaristic al constatării, soldul se anulează.
+3.
+Aplicarea sancțiunilor în cazul transferului terenurilor forestiere aflate sub angajament se realizează astfel: a) dacă cesionarul preia suprafața, dar nu preia angajamentul, cedentul nu returnează plățile primite până la acea dată pentru respectiva suprafață, în situația în care noul utilizator al suprafeței în cauză nu acceptă preluarea angajamentului existent;
+b) dacă cesionarul preia suprafața împreună cu angajamentul, cesionarul este responsabil pentru eventualele neconformități depistate ulterior transferului și, ca urmare, acestuia i se vor aplica sancțiunile privind neconformitățile legate de nerespectarea angajamentelor, precum și sumele acordate necuvenit în anii anteriori transferului.
+----
