@@ -1,0 +1,512 @@
+{
+ "key": "dcc-601-2020",
+ "label": "Decizia CCR nr. 601/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "601",
+ "date": "2020-07-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 601 din 16 iulie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 164 alin. (1) din Codul civil",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "88",
+  "bis": false,
+  "date": "2021-01-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.244/277/2014",
+  "695D/2017",
+  "11.046/303/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Alexandru Ștefan Francisc Nabosny, prin reprezentant convențional avocat Constantin Cojocariu, în Dosarul nr. 2.244/277/2014 al Tribunalului Buzău - Secția I civilă și constată că dispozițiile art. 164 alin. (1) din Codul civil sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului Buzău - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "383",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "936",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "937",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "938",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "939",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "940",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "941",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "942",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "943",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2010",
+    "number": "221",
+    "year": "2010",
+    "path": "lege/2010/221"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "936",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "937",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "938",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "939",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "940",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "941",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "942",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "943",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 32/1954",
+    "number": "32",
+    "year": "1954",
+    "path": "decret/1954/32"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-01-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236752",
+  "text_sha256": "981556b37b9f5c1d9a1750e2eedde50a73630a35583528932767f3b7dcf0acb8",
+  "catalogue_sha256": "981556b37b9f5c1d9a1750e2eedde50a73630a35583528932767f3b7dcf0acb8",
+  "fetched": "2026-11-06T03:10:28Z",
+  "chars": 48226,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/236752",
+   "timestamp": "20260124025646",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220839580.99/warc/CC-MAIN-20260124012009-20260124042009-00216.warc.gz",
+   "offset": "280126321",
+   "length": "42377",
+   "sha256": "7c5add16147b8c0d9b27ec5172259f19df602d5e355270efce1d6ede400e6654"
+  },
+  "portal_id": "236752",
+  "tip": "DECIZIE"
+ }
+}
