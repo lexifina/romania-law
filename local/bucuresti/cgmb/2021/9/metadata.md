@@ -1,0 +1,11 @@
+# HCGMB nr. 9/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 9/2021
+- Adopted: 2021-01-29
+- Title: PRIVIND SUSPENDAREA APLICARII, PENTRU ANUL 2021, A UNOR PREVEDERI ALE HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 304/2017, CU MODIFICARILE SI COMPLETARILE ULTERIOARE, REFERITOARE LA STABILIREA SALARIILOR DE BAZA AFERENTE FUNCTIILOR DIN CADRUL FAMILIEI OCUPATIONALE “ADMINISTRATIE”, UTILIZATE IN APARATUL DE SPECIALITATE AL PRIMARULUI GENERAL, PRECUM SI IN CADRUL SERVICIILOR SI INSTITUTIILOR PUBLICE DE INTERES LOCAL ALE MUNICIPIULUI BUCURESTI SUSPENDA HCGMB NR. 304/2017
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41791
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41791/H009_21.pdf
+- Document sha256: 4caacb1ceaadb0070872dcbea1ad44785c240fbce87bc727f6eae51131f88591
