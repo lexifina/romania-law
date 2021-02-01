@@ -1,0 +1,146 @@
+{
+ "key": "dcc-743-2020",
+ "label": "Decizia CCR nr. 743/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "743",
+ "date": "2020-10-08",
+ "year": "2020",
+ "heading": "DECIZIA nr. 743 din 8 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor lit. c) și d) cuprinse în punctul I - Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în punctul II - Salarii pentru personalul din unitățile teritoriale, litera A, capitolul I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "107",
+  "bis": false,
+  "date": "2021-02-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "982/107/2018",
+  "2.200D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Ioan Cristea și alții în Dosarul nr. 982/107/2018 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență și constată că prevederile lit. c) și d) cuprinse în punctul I - Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în punctul II - Salarii pentru personalul din unitățile teritoriale, litera A, capitolul I din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "f",
+      "h"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236912",
+  "text_sha256": "23a463d524b48a847003c15ad77caf246311e4fde3bf8e4e83ec769f35ebd574",
+  "catalogue_sha256": "23a463d524b48a847003c15ad77caf246311e4fde3bf8e4e83ec769f35ebd574",
+  "fetched": "2026-11-03T01:51:22Z",
+  "chars": 11374,
+  "portal_id": "236912",
+  "tip": "DECIZIE"
+ }
+}
