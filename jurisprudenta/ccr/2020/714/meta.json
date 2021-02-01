@@ -1,0 +1,181 @@
+{
+ "key": "dcc-714-2020",
+ "label": "Decizia CCR nr. 714/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "714",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 714 din 6 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor lit. c) și d) cuprinse în pct. I - Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în pct. II - Salarii pentru personalul din unitățile teritoriale, litera A. Salarizarea funcționarilor publici, capitolul I din anexa nr. VIII Familia ocupațională de funcții bugetare \"Administrație\" la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "103",
+  "bis": false,
+  "date": "2021-02-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "504/91/2018",
+  "2.073D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Brândușa Elena Pleșa Plugaru în Dosarul nr. 504/91/2018 al Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal și constată că prevederile lit. c) și d) cuprinse în pct. I - Salarii pentru administrația publică centrală și ale lit. a) și b) cuprinse în pct. II - Salarii pentru personalul din unitățile teritoriale, litera A. Salarizarea funcționarilor publici, capitolul I din anexa nr. VIII Familia ocupațională de funcții bugetare „Administrație“ la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "f"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 79/2018",
+    "number": "79",
+    "year": "2018",
+    "path": "lege/2018/79"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/236866",
+  "text_sha256": "c5fcf53341e8315ea98379ee3d9b8a8ef48eb47ed35c9e668bd4f5e671cb77bd",
+  "catalogue_sha256": "c5fcf53341e8315ea98379ee3d9b8a8ef48eb47ed35c9e668bd4f5e671cb77bd",
+  "fetched": "2026-11-03T01:51:24Z",
+  "chars": 14486,
+  "portal_id": "236866",
+  "tip": "DECIZIE"
+ }
+}
