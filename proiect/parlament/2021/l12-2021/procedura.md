@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 - 2021-01-20: documents published: Aviz comisie
 - 2021-01-26: documents published: Aviz comisie
 - 2021-01-27: documents published: Aviz comisie
+- 2021-02-03: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Guvernul României.
 - 2021-01-20: Aviz comisie (CA42): [ca42-75f269b4.md](ca42-75f269b4.md); official file https://www.senat.ro/legis/PDF/2021/21L012CA42.PDF
 - 2021-01-26: Aviz comisie (CA51): [ca51-fd111c73.md](ca51-fd111c73.md); official file https://www.senat.ro/legis/PDF/2021/21L012CA51.PDF
 - 2021-01-27: Aviz comisie (CA3): [ca3-6aa871dd.md](ca3-6aa871dd.md); official file https://www.senat.ro/legis/PDF/2021/21L012CA3.PDF
+- 2021-02-03: Aviz comisie (CA12): [ca12-763e6141.md](ca12-763e6141.md); official file https://www.senat.ro/legis/PDF/2021/21L012CA12.PDF
