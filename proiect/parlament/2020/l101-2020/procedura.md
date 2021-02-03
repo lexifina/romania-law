@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-02: sent for promulgation
 - 2020-10-21: returned for re-examination
+- 2021-02-03: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L101AM.PDF
 - 2020-05-27: Adresă privind sesizarea CCR (AXS): [axs-3b4865eb.md](axs-3b4865eb.md); official file https://www.senat.ro/legis/PDF/2020/20L101AXS.PDF
 - 2020-05-27: Forma trimisă la promulgare (LP): [lp-90b91208.md](lp-90b91208.md); official file https://www.senat.ro/legis/PDF/2020/20L101LP.PDF
+- 2021-02-03: Document (SC1): [sc1-111653e7.md](sc1-111653e7.md); official file https://www.senat.ro/legis/PDF/2020/20L101SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-03: Document (DC1): [dc1-62bd6d9b.md](dc1-62bd6d9b.md); official file https://www.senat.ro/legis/PDF/2020/20L101DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-03: Document (RC1): [rc1-b9394209.md](rc1-b9394209.md); official file https://www.senat.ro/legis/PDF/2020/20L101RC1.PDF (its day is not given by the bill file: shown from the last stage held)
