@@ -1,0 +1,211 @@
+{
+ "key": "dcc-713-2020",
+ "label": "Decizia CCR nr. 713/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "713",
+ "date": "2020-10-06",
+ "year": "2020",
+ "heading": "DECIZIA nr. 713 din 6 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor notei din anexa nr. II/2 la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice, a dispozițiilor art. 15 din anexa nr. III la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice și a dispozițiilor art. 14 din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "120",
+  "bis": false,
+  "date": "2021-02-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.309/3/2017",
+  "1.997D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 15 din anexa nr. III la Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice și ale art. 14 din anexa nr. II la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Daniela Totolici și de Corina Pamfilie în Dosarul nr. 9.309/3/2017 (număr în format vechi 1.022/2018) al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași autoare în același dosar al aceleiași instanțe judecătorești și constată că prevederile cuprinse în nota aferentă anexei nr. II/2 la Legea-cadru nr. 330/2009 privind salarizarea unitară a personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237059",
+  "text_sha256": "42bdd8accae6f728d993f7f8d78861a69444397ab23c58d0a66a70d47fa2659a",
+  "catalogue_sha256": "42bdd8accae6f728d993f7f8d78861a69444397ab23c58d0a66a70d47fa2659a",
+  "fetched": "2026-11-06T03:37:55Z",
+  "chars": 21490,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/237059",
+   "timestamp": "20251213160556",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871307822.71/warc/CC-MAIN-20251213151201-20251213181201-00032.warc.gz",
+   "offset": "239339694",
+   "length": "23463",
+   "sha256": "571a725540e8aa8063558732f92ab7cd75925f3715bda263212f03e786f9ed91"
+  },
+  "portal_id": "237059",
+  "tip": "DECIZIE"
+ }
+}
