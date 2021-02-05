@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-09-17: documents published: Raport comisie sesizată pe fond
 - 2020-09-22: adopted by the Chamber of Deputies; documents published: Forma trimisă la promulgare
 - 2020-09-24: sent for promulgation
+- 2021-02-05: returned for re-examination
 
 ## Documents
 
