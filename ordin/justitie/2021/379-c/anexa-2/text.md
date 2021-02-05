@@ -1,0 +1,17 @@
+# Anexa nr. 2
+DECLARAȚIE PE PROPRIA RĂSPUNDERE a celuilalt părinte conform art. 2 alin. (3) din Ordonanța de urgență a Guvernului nr. 147/2020 privind acordarea unor zile libere pentru părinți în vederea supravegherii copiilor, în situația limitării sau suspendării activităților didactice care presupun prezența efectivă a copiilor în unitățile de învățământ și în unitățile de educație timpurie antepreșcolară, ca urmare a răspândirii coronavirusului SARS-CoV-2
+Subsemnatul/Subsemnata,.................................... (numele și prenumele), cu domiciliul în......................................, posesor/posesoare al/a cărții de identitate seria............... nr..................., CNP..........................., având calitatea de angajat la................................, în funcția de.............................., părinte/reprezentant legal al:
+1.
+Nume/prenume:................................................................, în vârstă de.............. ani;
+2.
+Nume/prenume:................................................................, în vârstă de.............. ani,
+cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, cu privire la falsul în declarații, declar pe propria răspundere că, în perioada ce face obiectul solicitării soțului/soției: a) nu beneficiez/nu am beneficiat de zile libere ce mi s-ar cuveni potrivit Ordonanței de urgență a Guvernului nr. 147/2020 privind acordarea unor zile libere pentru părinți în vederea supravegherii copiilor, în situația limitării sau suspendării activităților didactice care presupun prezența efectivă a copiilor în unitățile de învățământ și în unitățile de educație timpurie antepreșcolară, ca urmare a răspândirii coronavirusului SARS-CoV-2, aprobată cu modificări și completări prin Legea nr. 278/2020, cu modificările ulterioare (Ordonanța de urgență);
+b) nu beneficiez/nu am beneficiat de majorarea acordată suplimentar drepturilor salariale cuvenite conform art. 4 alin. (3) din Ordonanța de urgență;
+c) nu mă aflu/nu m-am aflat în concediul prevăzut la art. 2 alin. (1) sau la art. 11 alin. (2) ori la art. 31 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, aprobată cu modificări prin Legea nr. 132/2011, cu modificările și completările ulterioare;
+d) nu am calitatea de asistent personal al vreunuia dintre copiii aflați în întreținere;
+e) nu mă aflu/nu m-am aflat în concediu de odihnă/concediu fără plată;
+f) nu desfășor/nu am desfășurat activitate în regim de telemuncă sau muncă la domiciliu;
+g) nu am raportul de muncă suspendat pentru întreruperea temporară a activității angajatorului, în condițiile art. 52 alin. (1) lit. c) din Legea nr. 53/2003 - Codul muncii, republicată, cu modificările și completările ulterioare;
+h) realizez venituri din salarii și asimilate salariilor, venituri din activități independente, venituri din drepturi de proprietate intelectuală, venituri din activități agricole, silvicultură și piscicultură, supuse impozitului pe venit potrivit prevederilor Legii nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare.
+Totodată, mă oblig să comunic în scris, în termen de 5 zile lucrătoare de la ivirea situației, orice schimbare intervenită, de natură să modifice dreptul la majorarea acordată suplimentar celuilalt părinte, în temeiul Ordonanței de urgență............................. (data)............................ (semnătura)
+-----
