@@ -1,0 +1,262 @@
+{
+ "key": "dcc-901-2020",
+ "label": "Decizia CCR nr. 901/2020",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "901",
+ "date": "2020-12-16",
+ "year": "2020",
+ "heading": "DECIZIA nr. 901 din 16 decembrie 2020",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind transmiterea unui imobil din domeniul public al statului și din administrarea Agenției Domeniilor Statului, în domeniul public al orașului Odobești, județul Vrancea",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "126",
+  "bis": false,
+  "date": "2021-02-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.993A/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind transmiterea unui imobil din domeniul public al statului și din administrarea Agenției Domeniilor Statului, în domeniul public al orașului Odobești, județul Vrancea"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată de Președintele României și constată că Legea privind transmiterea unui imobil din domeniul public al statului și din administrarea Agenției Domeniilor Statului, în domeniul public al orașului Odobești, județul Vrancea, este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "860",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "597",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.705/2006",
+    "number": "1705",
+    "year": "2006",
+    "path": "hg/2006/1705"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237119",
+  "text_sha256": "655b773b7f039b3fa9928c659de7ac1b1755c118ce5c06bc6135b700d1a1b92e",
+  "catalogue_sha256": "655b773b7f039b3fa9928c659de7ac1b1755c118ce5c06bc6135b700d1a1b92e",
+  "fetched": "2026-11-03T01:51:09Z",
+  "chars": 38220,
+  "portal_id": "237119",
+  "tip": "DECIZIE"
+ }
+}
