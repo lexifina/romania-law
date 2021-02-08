@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-03-11: sent for promulgation
 - 2020-06-15: returned for re-examination
 - 2020-10-07: adopted by the Senate
+- 2021-02-08: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,7 @@ Initiator: Guvernul României.
 - 2019-10-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L517AM.PDF
 - 2020-03-09: Adresă privind sesizarea CCR (AXS): [axs-631710d8.md](axs-631710d8.md); official file https://www.senat.ro/legis/PDF/2019/19L517AXS.PDF
 - 2020-03-09: Forma trimisă la promulgare (LP): [lp-c3ec11d0.md](lp-c3ec11d0.md); official file https://www.senat.ro/legis/PDF/2019/19L517LP.PDF
+- 2021-02-08: Document (DC1): [dc1-10ea5ac1.md](dc1-10ea5ac1.md); official file https://www.senat.ro/legis/PDF/2019/19L517DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-08: Document (RC1): [rc1-d7f3e348.md](rc1-d7f3e348.md); official file https://www.senat.ro/legis/PDF/2019/19L517RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-08: Document (XD1): [xd1-d6d3de9d.md](xd1-d6d3de9d.md); official file https://www.senat.ro/legis/PDF/2019/19L517XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-08: Document (SX1): [sx1-e20961fb.md](sx1-e20961fb.md); official file https://www.senat.ro/legis/PDF/2019/19L517SX1.PDF (its day is not given by the bill file: shown from the last stage held)
