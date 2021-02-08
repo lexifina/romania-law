@@ -1,0 +1,7 @@
+# Anexa nr. 4: C la normele metodologice LISTA preemptorilor în vederea exercitării dreptului de preempțiune asupra ofertei de vânzare în ordinea rangului de preferință - Model - Județul ^(Registrul de evidență Nr..
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 237160 (https://legislatie.just.ro/Public/DetaliiDocument/237160)
+- sha256 of that document's text as the service returned it: 9820bd076327dcb5ce37fd72a8f0952725b5867f256c72dcf8478631189dec48
+- Retrieved: 2026-11-03
