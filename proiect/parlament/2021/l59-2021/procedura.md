@@ -1,0 +1,19 @@
+# Propunere legislativă L59/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 169/2021 (`legea-169-2021`).
+
+Propunere legislativă pentru abrogarea art.15 alin.(6) din Legea nr.327/2006 privind salarizarea și alte drepturi ale personalului din serviciile de probațiune
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-02-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-02-08: Adresă de înaintare a inițiativei (AD): [ad-96ae56cb.md](ad-96ae56cb.md); official file https://www.senat.ro/legis/PDF/2021/21L059AD.PDF
+- 2021-02-08: Forma inițiatorului (FG): [fg-04b9a74e.md](fg-04b9a74e.md); official file https://www.senat.ro/legis/PDF/2021/21L059FG.PDF
+- 2021-02-08: Expunere de motive (EM): [em-dad4aaf0.md](em-dad4aaf0.md); official file https://www.senat.ro/legis/PDF/2021/21L059EM.PDF
