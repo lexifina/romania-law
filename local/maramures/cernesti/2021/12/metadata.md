@@ -1,0 +1,9 @@
+# HCL Cernești nr. 12/2021
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Cernești
+- Decision: nr. 12/2021
+- Adopted: 2021-02-09
+- Title: privind modificarea Hotărârii Consiliului Local al Comunei Cernești nr. 1/2021, privind aprobarea excedentului bugetar al Comunei Cernești
+- Record: https://emol.ro/cernesti-mm/registru-hcl/21025
