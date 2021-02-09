@@ -1,0 +1,136 @@
+{
+ "key": "iccj-hp-61-2020",
+ "label": "Decizia ÎCCJ nr. 61/2020 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "61",
+ "date": "2020-10-26",
+ "year": "2020",
+ "heading": "DECIZIA nr. 61 din 26 octombrie 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 42^5 din Legea nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "132",
+  "bis": false,
+  "date": "2021-02-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.908/1/2020",
+  "15.798/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [
+    {
+     "art": "42-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, în Dosarul nr. 15.798/3/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Interpretarea dispozițiilor art. 42^5 din Legea nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România, cu modificările și completările ulterioare, în sensul de a se stabili înțelesul sintagmei „rata medie anuală a inflației, indicator definitiv, cunoscut la data de 1 ianuarie a fiecărui an în care se face actualizarea și comunicat de Institutul Național de Statistică“, respectiv, dacă aceasta este indicatorul corespunzător anului anterior celui în care se face actualizarea sau este vorba despre ultimul indicator cunoscut la data de 1 ianuarie a anului în care se face actualizarea, în baza comunicării Institutului Național de Statistică.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [
+    {
+     "art": "42-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-02-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237214",
+  "text_sha256": "e5304f4bf2a0dc7fd222af33afe0dddff7865df09e61611aa6ac0c313b3fd759",
+  "catalogue_sha256": "e5304f4bf2a0dc7fd222af33afe0dddff7865df09e61611aa6ac0c313b3fd759",
+  "fetched": "2026-11-06T03:51:55Z",
+  "chars": 32677,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/237214",
+   "timestamp": "20260518145345",
+   "crawl": "CC-MAIN-2026-21",
+   "filename": "crawl-data/CC-MAIN-2026-21/segments/1778213680237.91/warc/CC-MAIN-20260518143801-20260518173801-00825.warc.gz",
+   "offset": "294419484",
+   "length": "33120",
+   "sha256": "8926821b02b8d85a5d83a9db9ae45892c3109d501ee957c3d133c658ed5eb3c0"
+  },
+  "portal_id": "237214",
+  "tip": "DECIZIE"
+ }
+}
