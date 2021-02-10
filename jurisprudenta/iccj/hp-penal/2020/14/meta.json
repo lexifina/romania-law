@@ -1,0 +1,184 @@
+{
+ "key": "iccj-hp-penal-14-2020",
+ "label": "Decizia ÎCCJ nr. 14/2020 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "14",
+ "date": "2020-05-25",
+ "year": "2020",
+ "heading": "DECIZIA nr. 14 din 25 mai 2020",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 335 alin. (3) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2021-02-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "21/1/2020",
+  "918/271/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția penală și pentru cauze cu minori în Dosarul nr. 918/271/2019, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „dacă, în condițiile art. 335 alin. (3) din Codul penal, acțiunea de încredințare a unui vehicul pentru a fi condus pe drumurile publice unei persoane despre care știa că se află sub influența alcoolului trebuie să vizeze o persoană care să aibă o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge sau este suficient ca aceasta să aibă o îmbibație alcoolică, indiferent de gradul de alcoolemie“. Stabilește că, în interpretarea dispozițiilor art. 335 alin. (3) din Codul penal, care incriminează fapta unei persoane de a încredința un vehicul pentru conducerea pe drumurile publice unei persoane despre care știa că se află sub influența alcoolului, acestea trebuie să vizeze o persoană care să aibă o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 191/2003",
+    "number": "191",
+    "year": "2003",
+    "path": "lege/2003/191"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul aerian",
+    "path": "og/1997/29",
+    "slug": "og-29-1997"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237282",
+  "text_sha256": "1547319db5d6f43c724e46f125b3282e627d8f752649780668397831612572b0",
+  "catalogue_sha256": "1547319db5d6f43c724e46f125b3282e627d8f752649780668397831612572b0",
+  "fetched": "2026-11-03T01:50:56Z",
+  "chars": 40087,
+  "portal_id": "237282",
+  "tip": "DECIZIE"
+ }
+}
