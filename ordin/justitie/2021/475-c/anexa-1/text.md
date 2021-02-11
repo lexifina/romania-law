@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA de aplicare a prevederilor art. 114 alin. (3) și (4) din Legea nr. 145/2019 privind statutul polițiștilor de penitenciare, cu modificările și completările ulterioare, privind măsurile de sprijin acordate copiilor, precum și soțului/soției polițistului de penitenciare decedat sau încadrat într-un grad de invaliditate ca urmare a rănirii acestuia în timpul ori în legătură cu exercitarea atribuțiilor de serviciu
