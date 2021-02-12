@@ -1,0 +1,196 @@
+{
+ "key": "dcc-769-2020",
+ "label": "Decizia CCR nr. 769/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "769",
+ "date": "2020-10-22",
+ "year": "2020",
+ "heading": "DECIZIA nr. 769 din 22 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 13 alin. (1) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "145",
+  "bis": false,
+  "date": "2021-02-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.927/318/2018",
+  "254D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ramona Augusta Boeriu în Dosarul nr. 6.927/318/2018 al Tribunalului Gorj - Secția I civilă și constată că dispozițiile art. 13 alin. (1) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Gorj - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237393",
+  "text_sha256": "10b75aef15f46df7269e913d4b93331f03ec53592ccce4d8e00b918f1de7fac8",
+  "catalogue_sha256": "10b75aef15f46df7269e913d4b93331f03ec53592ccce4d8e00b918f1de7fac8",
+  "fetched": "2026-11-03T01:50:54Z",
+  "chars": 19569,
+  "portal_id": "237393",
+  "tip": "DECIZIE"
+ }
+}
