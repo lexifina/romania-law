@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-29: registered at the Senate
 - 2020-02-05: documents published: Aviz comisie
 - 2021-02-09: documents published: Raport comisie sesizată pe fond
+- 2021-02-15: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-05: Aviz comisie (CA12): [ca12-0ceb60d7.md](ca12-0ceb60d7.md); official file https://www.senat.ro/legis/PDF/2019/19L601CA12.PDF
 - 2020-02-05: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L601CA45.PDF
 - 2021-02-09: Raport comisie sesizată pe fond (CR): [cr-cb544131.md](cr-cb544131.md); official file https://www.senat.ro/legis/PDF/2019/19L601CR.PDF
+- 2021-02-15: Document (ARD): [ard-72e006ce.md](ard-72e006ce.md); official file https://www.senat.ro/legis/PDF/2019/19L601ARD.PDF (its day is not given by the bill file: shown from the last stage held)
