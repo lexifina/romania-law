@@ -1,0 +1,413 @@
+{
+ "key": "iccj-ril-31-2020",
+ "label": "Decizia ÎCCJ nr. 31/2020 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "31",
+ "date": "2020-12-07",
+ "year": "2020",
+ "heading": "DECIZIA nr. 31 din 7 decembrie 2020",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 51 alin. (2) teza întâi, alin. (3), alin. (8), alin. (9) și alin. (11) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare, precum și la aplicarea unitară a dispozițiilor art. 51 alin. (14) din Legea nr. 94/1992, raportate la prevederile art. 9 alin. (3) lit. c) din Normele aprobate prin Ordinul nr. 285/138/2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "150",
+  "bis": false,
+  "date": "2021-02-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.551/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2",
+      "3",
+      "8",
+      "9",
+      "11",
+      "14"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2017",
+    "number": "145",
+    "year": "2017",
+    "path": "lege/2017/145"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție. 1.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 51 alin. (2) teza întâi, alin. (3), alin. (8), alin. (9) și alin. (11) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, republicată, cu modificările și completările ulterioare, raportate la prevederile art. 2 din Normele cu privire la stabilirea pensiei de serviciu conform prevederilor Legii nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, astfel cum a fost modificată și completată prin Legea nr. 7/2016 și Legea nr. 145/2017, aprobate prin Ordinul președintelui Curții de Conturi și al președintelui Casei Naționale de Pensii Publice nr. 285/138/2016, cu modificările și completările ulterioare, foștii auditori publici externi care, la data îndeplinirii condițiilor standard de pensionare, aveau o altă ocupație, precum și foștii auditori publici externi care, la data solicitării, erau pensionari pentru limită de vârstă, ieșiți la pensie din altă ocupație, nu pot beneficia de pensia de serviciu prevăzută de art. 51 alin. (3) din Legea nr. 94/1992 pentru o vechime minimă de 4 ani în funcția de auditor public extern în cadrul Curții de Conturi.",
+  "2. În interpretarea și aplicarea unitară a dispozițiilor art. 51 alin. (14) din Legea nr. 94/1992, raportate la prevederile art. 9 alin. (3) lit. c) din Normele aprobate prin Ordinul nr. 285/138/2016, nu există obligația Curții de Conturi de a elibera adeverința-tip, necesară în vederea stabilirii pensiei de serviciu, persoanelor care nu îndeplinesc cerințele prevăzute de lege pentru a beneficia de pensia de serviciu, în calitate de foști auditori publici externi.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2",
+      "3",
+      "8",
+      "9",
+      "11",
+      "14",
+      "16",
+      "18"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 89
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2017",
+    "number": "145",
+    "year": "2017",
+    "path": "lege/2017/145"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "106",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "j"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2016",
+    "number": "7",
+    "year": "2016",
+    "path": "lege/2016/7"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2008",
+    "number": "217",
+    "year": "2008",
+    "path": "lege/2008/217"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/2010",
+    "number": "119",
+    "year": "2010",
+    "path": "lege/2010/119"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/237418",
+  "text_sha256": "6fbf13ca5b13babe76adb9bb8632bf855cfee7fcf0fee1e22fe61cc21f816110",
+  "catalogue_sha256": "6fbf13ca5b13babe76adb9bb8632bf855cfee7fcf0fee1e22fe61cc21f816110",
+  "fetched": "2026-11-03T01:50:47Z",
+  "chars": 121336,
+  "portal_id": "237418",
+  "tip": "DECIZIE"
+ }
+}
