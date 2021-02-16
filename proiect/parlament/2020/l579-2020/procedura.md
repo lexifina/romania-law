@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2020-09-22: adopted by the Chamber of Deputies; documents published: Forma trimisă la promulgare
 - 2020-09-24: sent for promulgation
 - 2021-02-05: returned for re-examination
+- 2021-02-16: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,6 @@ Initiator: Guvernul României.
 - 2020-09-09: Aviz comisie (CA8): [ca8-00c3b9db.md](ca8-00c3b9db.md); official file https://www.senat.ro/legis/PDF/2020/20L579CA8.PDF
 - 2020-09-17: Raport comisie sesizată pe fond (CR): [cr-0271ef79.md](cr-0271ef79.md); official file https://www.senat.ro/legis/PDF/2020/20L579CR.PDF
 - 2020-09-22: Forma trimisă la promulgare (LP): [lp-58043584.md](lp-58043584.md); official file https://www.senat.ro/legis/PDF/2020/20L579LP.PDF
+- 2021-02-16: Document (SC1): [sc1-725c4cf8.md](sc1-725c4cf8.md); official file https://www.senat.ro/legis/PDF/2020/20L579SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-16: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L579DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-16: Document (RX1): [rx1-8ca19c3e.md](rx1-8ca19c3e.md); official file https://www.senat.ro/legis/PDF/2020/20L579RX1.PDF (its day is not given by the bill file: shown from the last stage held)
