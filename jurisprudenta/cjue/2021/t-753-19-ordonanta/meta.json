@@ -1,0 +1,42 @@
+{
+ "key": "cjue-t-753-19-ordonanta-2021-02-16",
+ "label": "CJUE, Ordonanța Tribunalului (Camera întâi) din 16 februarie 2021, Cauza T-753/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2021-02-16",
+ "year": "2021",
+ "case": "Cauza T-753/19",
+ "celex": "62019TO0753",
+ "ecli": "ECLI:EU:T:2021:90",
+ "heading": "Ordonanța Tribunalului (Camera întâi) din 16 februarie 2021",
+ "formation": "CHAMB_01_T",
+ "procedure": "ACTION_DAM",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Acțiune în despăgubire – Drept instituțional – Pretinsă nelegalitate întemeiată pe lipsa formulării unei acțiuni în constatarea neîndeplinirii obligațiilor, în conformitate cu articolul 258 TFUE – Puterea discreționară a Comisiei – Acțiune vădit inadmisibilă",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019TO0753",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-753/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/cf78931f-7524-11eb-9ac9-01aa75ed71a1.0020.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "b1e9b7424dcbf246dd3abd7cf6c43a2856ccabf4ecaded99b461e0238a9a49ad"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
