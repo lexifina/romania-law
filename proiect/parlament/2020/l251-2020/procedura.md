@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2020-10-13: returned for re-examination
 - 2020-11-12: returned for re-examination
 - 2021-02-15: adopted by the Senate
+- 2021-02-17: sent for promulgation
 
 ## Documents
 
