@@ -1,0 +1,47 @@
+REGULAMENTUL (UE) 2021/77 AL COMISIEI
+din 27 ianuarie 2021
+de refuzare a autorizării anumitor mențiuni de sănătate înscrise pe produsele alimentare, altele decât cele care se referă la reducerea riscului de îmbolnăvire și la dezvoltarea și sănătatea copiilor
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1924/2006 al Parlamentului European și al Consiliului din 20 decembrie 2006 privind mențiunile nutriționale și de sănătate înscrise pe produsele alimentare (1), în special articolul 18 alineatul (5),
+întrucât:
+(1) În temeiul Regulamentului (CE) nr. 1924/2006, sunt interzise mențiunile de sănătate înscrise pe produsele alimentare, cu excepția cazului în care sunt autorizate de Comisie în conformitate cu regulamentul respectiv și sunt incluse într-o listă cu mențiuni permise.
+(2) Regulamentul (CE) nr. 1924/2006 prevede, de asemenea, că cererile de autorizare a mențiunilor de sănătate pot fi trimise de către operatorii din sectorul alimentar autorității naționale competente a unui stat membru. Autoritatea națională competentă trebuie să transmită cererile valabile Autorității Europene pentru Siguranța Alimentară (EFSA), denumită în continuare „autoritatea”, în vederea efectuării unei evaluări științifice, precum și Comisiei și statelor membre în scop informativ.
+(3) Autoritatea trebuie să emită un aviz cu privire la mențiunea de sănătate în cauză.
+(4) Comisia trebuie să decidă cu privire la autorizarea mențiunilor de sănătate, ținând seama de avizul emis de autoritate.
+(5) Ca urmare a unei cereri din partea Lonza Ltd, transmisă în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate privind L-carnitina și metabolismul normal al lipidelor (întrebarea nr. EFSA- Q-2017-00564). Mențiunea propusă de solicitant a fost formulată după cum urmează: „L-carnitina contribuie la metabolismul normal al lipidelor”.
+(6) La data de 16 ianuarie 2018, Comisia și statele membre au primit avizul științific (2) din partea autorității, care, pe baza datelor prezentate, a conchis că nu a fost stabilită o relație cauză-efect între consumul de L-carnitină și contribuția la metabolismul normal al lipidelor la populația-țintă. În consecință, având în vedere că nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, mențiunea nu trebuie autorizată.
+(7) Ca urmare a unei cereri din partea Unilever N.V., transmisă în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate referitoare la efectele ceaiului negru și menținerea unei vasodilatații dependente de endoteliu normale. (întrebarea nr. EFSA-Q-2017-00419). Mențiunea propusă de solicitant a fost formulată după cum urmează: „Ameliorează vasodilatația dependentă de endoteliu, contribuind la menținerea unui flux sanguin sănătos”.
+(8) La 16 ianuarie 2018, Comisia și statele membre au primit avizul științific (3) din partea autorității, care, pe baza datelor prezentate, a conchis că nu a fost stabilită o relație de cauză-efect între consumul de ceai negru și menținerea unei vasodilatații dependente de endoteliu normale. În consecință, având în vedere că nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, mențiunea nu trebuie autorizată.
+(9) Ca urmare a unei cereri din partea Newtricious R&D B.V., prezentată în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate privind efectele NWT-02, o combinație fixă de luteină, de zeaxantină și de acid docosahexaenoic în gălbenuș de ou și reducerea pierderii vederii (întrebarea nr. EFSA-Q-2017-00539). Mențiunea propusă de solicitant a fost formulată după cum urmează: „Consumul de NWT-02 reduce pierderea vederii”.
+(10) La data de 18 ianuarie 2018, Comisia și statele membre au primit avizul științific (4) din partea autorității care a concluzionat, pe baza datelor prezentate, că nu a fost stabilită o relație cauză-efect între consumul NWT-02, o combinație fixă de luteină, zeaxantină și DHA în gălbenuș de ou și reducerea pierderii vederii. În consecință, având în vedere că nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, mențiunea nu trebuie autorizată.
+(11) Ca urmare a unei cereri din partea TA-XAN AG, transmisă în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate referitoare la efectele xantohumol-ului în XERME®, un extract de malț prăjit îmbogățit cu xantohumol și protejarea ADN-ului împotriva deteriorării oxidative (întrebarea nr. EFSA-Q-2017-00663). Mențiunea propusă de solicitant a fost formulată după cum urmează: „Ajută la menținerea integrității ADN-ului și protejează împotriva deteriorărilor oxidative ale celulelor organismului”.
+(12) La 13 martie 2018, Comisia și statele membre au primit avizul științific (5) din partea autorității, care, pe baza datelor prezentate, a conchis că nu a fost stabilită o relație de cauză-efect între consumul de xantohumol în XERME®, un extract de malț prăjit îmbogățit cu xantohumol și protejarea ADN-ului împotriva deteriorării oxidative. În consecință, având în vedere că nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, mențiunea nu trebuie autorizată.
+(13) Ca urmare a unei cereri din partea Essential Sterolin Products (Pty) Ltd., transmisă în temeiul articolului 13 alineatul (5) din Regulamentul (CE) nr. 1924/2006, s-a solicitat autorității să emită un aviz cu privire la o mențiune de sănătate referitoare la o combinație de beta-sitosterol și beta-sitosterol glucozidă și funcționarea normală a sistemului imunitar. (întrebarea nr. EFSA-Q-2018-00701). Mențiunea propusă de solicitant a fost formulată după cum urmează: „Contribuie la funcționarea normală a sistemului imunitar prin restabilirea echilibrului între imunitatea mediată de TH1- și TH2-”.
+(14) La data de 24 iulie 2019, Comisia și statele membre au primit avizul științific (6) din partea autorității care concluziona că, pe baza datelor prezentate, nu se poate stabili o relație cauză-efect între consumul unei combinații de beta-sitosterol și beta-sitosterol glucozidă într-un raport de 100:1 și un efect fiziologic benefic. În consecință, având în vedere că nu îndeplinește cerințele Regulamentului (CE) nr. 1924/2006, mențiunea nu trebuie autorizată.
+(15) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mențiunile de sănătate din anexa la prezentul regulament nu se includ în lista Uniunii cu mențiuni permise astfel cum se prevede la articolul 13 alineatul (3) din Regulamentul (CE) nr. 1924/2006.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 27 ianuarie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 404, 30.12.2006, p. 9.
+(2) EFSA Journal 2018;16(1):5137.
+(3) EFSA Journal 2018;16(1):5138.
+(4) EFSA Journal 2018;16(1):5139.
+(5) EFSA Journal 2018;16(3):5192.
+(6) EFSA Journal 2019;17(7):5776.
+ANEXĂ
+Mențiuni de sănătate respinse
+Cerere – Dispoziții relevante din Regulamentul (CE) nr. 1924/2006 | Nutrient, substanță, produs alimentar sau categorie de produse alimentare | Mențiune de sănătate | Trimitere la avizul EFSA
+Articolul 13 alineatul (5) – Mențiune de sănătate bazată pe dovezi științifice recente și/sau incluzând o cerere de protecție a datelor care fac obiectul unui drept de proprietate | L-carnitină | L-carnitina contribuie la metabolismul normal al lipidelor. | 2018;16(1):5137
+Articolul 13 alineatul (5) – Mențiune de sănătate bazată pe dovezi științifice recente și/sau incluzând o cerere de protecție a datelor care fac obiectul unui drept de proprietate | Ceai negru | Ameliorează vasodilatația dependentă de endoteliu, contribuind la menținerea unui flux sanguin sănătos. | 2018;16(1):5138
+Articolul 13 alineatul (5) – Mențiune de sănătate bazată pe dovezi științifice recente și/sau incluzând o cerere de protecție a datelor care fac obiectul unui drept de proprietate | NWT-02, o combinație fixă de luteină, de zeaxantină și de acid docosahexaenoic în gălbenuș de ou | Consumul de NWT-02 reduce pierderea vederii. | 2018;16(1):5139
+Articolul 13 alineatul (5) – Mențiune de sănătate bazată pe dovezi științifice recente și/sau incluzând o cerere de protecție a datelor care fac obiectul unui drept de proprietate | Xantohumol în XERME®, un extract de malț prăjit îmbogățit cu xantohumol | Ajută la menținerea integrității ADN-ului și protejează împotriva deteriorărilor oxidative ale celulelor organismului. | 2018;16(3):5192
+Articolul 13 alineatul (5) – Mențiune de sănătate bazată pe dovezi științifice recente și/sau incluzând o cerere de protecție a datelor care fac obiectul unui drept de proprietate | O combinație de beta-sitosterol și beta-sitosterol glucozidă | Contribuie la funcționarea normală a sistemului imunitar prin restabilirea echilibrului între imunitatea mediată de TH1- și TH2-. | 2019;17(7):5776
