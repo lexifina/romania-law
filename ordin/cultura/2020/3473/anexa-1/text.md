@@ -1,0 +1,4 @@
+# ANEXĂ
+Zona de protecție a monumentului istoric Palatul și Tipografia Sonnenfeld, imobil situat la adresa poștală Str. Moscovei nr. 8, municipiul Oradea, județul Bihor
+Coordonate STEREO 70 puncte de contur: 1 X (NORD) = 622052.2218 Y (EST) = 266974.8857 2 X (NORD) = 622136.4949 Y (EST) = 267041.9468 3 X (NORD) = 622145.0336 Y (EST) = 267058.6266 4 X (NORD) = 622203.3839 Y (EST) = 267117.6229 5 X (NORD) = 622233.8343 Y (EST) = 267099.1289 6 X (NORD) = 622207.3647 Y (EST) = 267070.5783 7 X (NORD) = 622273.5516 Y (EST) = 267000.3716 8 X (NORD) = 622242.8941 Y (EST) = 266968.0868 9 X (NORD) = 622219.6873 Y (EST) = 266974.2373 10 X (NORD) = 622190.7145 Y (EST) = 266915.7567 11 X (NORD) = 622173.7305 Y (EST) = 266878.3317 12 X (NORD) = 622142.7941 Y (EST) = 266886.0225 13 X (NORD) = 622113.6349 Y (EST) = 266893.0241
+-----
