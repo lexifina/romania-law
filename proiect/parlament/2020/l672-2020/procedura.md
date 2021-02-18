@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-11-11: documents published: Aviz comisie
 - 2020-11-16: documents published: Aviz comisie
 - 2020-11-20: documents published: Aviz comisie
+- 2021-02-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-11-11: Aviz comisie (CA41): [ca41-b3121db0.md](ca41-b3121db0.md); official file https://www.senat.ro/legis/PDF/2020/20L672CA41.PDF
 - 2020-11-16: Aviz comisie (CA3): [ca3-537ca61a.md](ca3-537ca61a.md); official file https://www.senat.ro/legis/PDF/2020/20L672CA3.PDF
 - 2020-11-20: Aviz comisie (CA8): [ca8-59320804.md](ca8-59320804.md); official file https://www.senat.ro/legis/PDF/2020/20L672CA8.PDF
+- 2021-02-18: Document (AJ): [aj-847538ee.md](aj-847538ee.md); official file https://www.senat.ro/legis/PDF/2020/20L672AJ.PDF (its day is not given by the bill file: shown from the last stage held)
