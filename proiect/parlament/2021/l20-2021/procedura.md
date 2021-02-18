@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-09: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2021-02-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-17: sent for promulgation
+- 2021-02-18: promulgated, becomes Legea nr. 6/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,9 @@ Initiator: Guvernul României.
 - 2021-02-15: Forma adoptată de Senat (FS): [fs-6aad9463.md](fs-6aad9463.md); official file https://www.senat.ro/legis/PDF/2021/21L020FS.PDF
 - 2021-02-15: Adresă privind sesizarea CCR (AXS): [axs-de7f33c6.md](axs-de7f33c6.md); official file https://www.senat.ro/legis/PDF/2021/21L020AXS.PDF
 - 2021-02-15: Forma trimisă la promulgare (LP): [lp-eca343d6.md](lp-eca343d6.md); official file https://www.senat.ro/legis/PDF/2021/21L020LP.PDF
+- 2021-02-18: Document (AT): [at-e7edf12e.md](at-e7edf12e.md); official file https://www.senat.ro/legis/PDF/2021/21L020AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-18: Document (S1): [s1-87d88830.md](s1-87d88830.md); official file https://www.senat.ro/legis/PDF/2021/21L020S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-18: Document (AL): [al-6ee2dacc.md](al-6ee2dacc.md); official file https://www.senat.ro/legis/PDF/2021/21L020AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-18: Decret de promulgare (DP): [dp-138fb75d.md](dp-138fb75d.md); official file https://www.senat.ro/legis/PDF/2021/21L020DP.PDF
+- 2021-02-18: Adresă privind forma promulgată (AFP): [afp-394bf35e.md](afp-394bf35e.md); official file https://www.senat.ro/legis/PDF/2021/21L020AFP.PDF
+- 2021-02-18: Forma promulgată (FP): [fp-f9fb7abb.md](fp-f9fb7abb.md); official file https://www.senat.ro/legis/PDF/2021/21L020FP.PDF
