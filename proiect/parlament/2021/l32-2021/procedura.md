@@ -1,0 +1,22 @@
+# Proiect de lege L32/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 234/2021 (`legea-234-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.9/2021 pentru modificarea Legii nr.200/2006 privind constituirea și utilizarea Fondului de garantare pentru plata creanțelor salariale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-02-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-02-19: Adresă de înaintare a inițiativei (AD): [ad-ebd6a19e.md](ad-ebd6a19e.md); official file https://www.senat.ro/legis/PDF/2021/21L032AD.PDF
+- 2021-02-19: Forma inițiatorului (FG): [fg-4b7503d3.md](fg-4b7503d3.md); official file https://www.senat.ro/legis/PDF/2021/21L032FG.PDF
+- 2021-02-19: Expunere de motive (EM): [em-578b98df.md](em-578b98df.md); official file https://www.senat.ro/legis/PDF/2021/21L032EM.PDF
+- 2021-02-19: Aviz Consiliul Legislativ (LG): [lg-0e4bb3b9.md](lg-0e4bb3b9.md); official file https://www.senat.ro/legis/PDF/2021/21L032LG.PDF
+- 2021-02-19: Document (OG): [og-d43846e8.md](og-d43846e8.md); official file https://www.senat.ro/legis/PDF/2021/21L032OG.PDF
+- 2021-02-19: Document (HG): [hg-d655245f.md](hg-d655245f.md); official file https://www.senat.ro/legis/PDF/2021/21L032HG.PDF
