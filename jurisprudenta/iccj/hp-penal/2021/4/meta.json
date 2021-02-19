@@ -1,0 +1,251 @@
+{
+ "key": "iccj-hp-penal-4-2021",
+ "label": "Decizia ÎCCJ nr. 4/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "4",
+ "date": "2021-01-25",
+ "year": "2021",
+ "heading": "DECIZIA nr. 4 din 25 ianuarie 2021",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: \"Dacă fapta de a deschide și utiliza un cont pe o rețea de socializare deschisă publicului (rețea care nu solicită dovezi din care să reiasă folosirea numelui real de către deținătorul unui cont), furnizând ca nume de utilizator numele unei alte persoane și introducând date reale vizând această persoană (informații, fotografii, imagini video etc.) realizează condițiile de tipicitate ale infracțiunii de fals informatic, prevăzută de art. 325 din Codul penal, cu referire la cerințele ca acțiunea de introducere a unor date informatice să fie realizată fără drept și, respectiv, să aibă ca rezultat date necorespunzătoare adevărului\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "171",
+  "bis": false,
+  "date": "2021-02-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.534/1/2020",
+  "9.010/197/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "325",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Brașov - Secția penală în Dosarul nr. 9.010/197/2019, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea chestiunii de drept: „Dacă fapta de a deschide și utiliza un cont pe o rețea de socializare deschisă publicului (rețea care nu solicită dovezi din care să reiasă folosirea numelui real de către deținătorul unui cont), furnizând ca nume de utilizator numele unei alte persoane și introducând date reale vizând această persoană (informații, fotografii, imagini video etc.) realizează condițiile de tipicitate ale infracțiunii de fals informatic, prevăzută de art. 325 din Codul penal, cu referire la cerințele ca acțiunea de introducere a unor date informatice să fie realizată fără drept și, respectiv, să aibă ca rezultat date necorespunzătoare adevărului“ și stabilește că: Fapta de a deschide și utiliza un cont pe o rețea de socializare deschisă publicului, folosind ca nume de utilizator numele unei alte persoane și introducând date personale reale care permit identificarea acesteia, întrunește două dintre cerințele esențiale ale infracțiunii de fals informatic prevăzute în art. 325 din Codul penal, respectiv cea ca acțiunea de introducere a datelor informatice să fie realizată fără drept și cea ca acțiunea de introducere a datelor informatice să aibă ca rezultat date necorespunzătoare adevărului.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "325",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "326",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "360",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/2004",
+    "number": "64",
+    "year": "2004",
+    "path": "lege/2004/64"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/238047",
+  "text_sha256": "e7b61b3d3e950218b3a86d2b67e89f734282dc17a3b8d58e249245d4c77c5fc4",
+  "catalogue_sha256": "e7b61b3d3e950218b3a86d2b67e89f734282dc17a3b8d58e249245d4c77c5fc4",
+  "fetched": "2026-11-03T01:50:31Z",
+  "chars": 93087,
+  "portal_id": "238047",
+  "tip": "DECIZIE"
+ }
+}
