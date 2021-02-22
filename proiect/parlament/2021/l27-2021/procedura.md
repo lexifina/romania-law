@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-02-16: registered at the Chamber of Deputies
 - 2021-02-17: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-02-22: sent for promulgation
 
 ## Documents
 
