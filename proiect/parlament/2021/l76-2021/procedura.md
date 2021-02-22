@@ -1,0 +1,15 @@
+# Proiect de lege L76/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de Lege privind desfiinţarea Secţiei pentru investigarea infracţiunilor din justiţie, precum şi pentru modificarea şi completarea unor acte normative în domeniul justiţiei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-02-22: registered at the Chamber of Deputies
+
+## Documents
+
+- none held as text
