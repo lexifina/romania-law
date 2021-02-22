@@ -1,0 +1,201 @@
+{
+ "key": "dcc-813-2020",
+ "label": "Decizia CCR nr. 813/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "813",
+ "date": "2020-11-10",
+ "year": "2020",
+ "heading": "DECIZIA nr. 813 din 10 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale capitolului II \"Salarii de bază pentru personalul auxiliar de specialitate din cadrul instanțelor și parchetelor\" din anexa nr. V \"Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională\" la Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "175",
+  "bis": false,
+  "date": "2021-02-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.039/2/2018",
+  "1.497D/2019",
+  "1.555D/2019",
+  "2.998/2/2018",
+  "1.633D/2019",
+  "45.369/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Claudiu Năpar în Dosarul nr. 8.039/2/2018 al Curții de Apel București Veche - Secția a VIII-a contencios administrativ și fiscal, de Vasilica Balaban în Dosarul nr. 2.998/2/2018 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de Marin Niță și Cristel Cîrlova în Dosarul nr. 45.369/3/2018 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că prevederile art. 38 alin. (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale capitolului II „Salarii de bază pentru personalul auxiliar de specialitate din cadrul instanțelor și parchetelor“ din anexa nr. V „Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională“ la Legea-cadru nr. 153/2017 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București Veche - Secția a VIII-a contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-02-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/238066",
+  "text_sha256": "22a1db817b87cf77687753cbdff218736a8b1dabd2175af819f30c0e9bb073a9",
+  "catalogue_sha256": "22a1db817b87cf77687753cbdff218736a8b1dabd2175af819f30c0e9bb073a9",
+  "fetched": "2026-11-03T01:50:32Z",
+  "chars": 22287,
+  "portal_id": "238066",
+  "tip": "DECIZIE"
+ }
+}
