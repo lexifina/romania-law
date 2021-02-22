@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-21: returned for re-examination
 - 2020-09-02: returned for re-examination
 - 2020-09-03: returned for re-examination
+- 2021-02-22: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-28: Forma adoptată de Senat (FS): [fs-38400746.md](fs-38400746.md); official file https://www.senat.ro/legis/PDF/2019/19L606FS.PDF
 - 2020-04-29: Adresă privind sesizarea CCR (AXS): [axs-d11f66bc.md](axs-d11f66bc.md); official file https://www.senat.ro/legis/PDF/2019/19L606AXS.PDF
 - 2020-04-29: Forma trimisă la promulgare (LP): [lp-476e05e0.md](lp-476e05e0.md); official file https://www.senat.ro/legis/PDF/2019/19L606LP.PDF
+- 2021-02-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L606AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-22: Document (RX): [rx-b63f7dcd.md](rx-b63f7dcd.md); official file https://www.senat.ro/legis/PDF/2019/19L606RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-22: Document (XA): [xa-89891548.md](xa-89891548.md); official file https://www.senat.ro/legis/PDF/2019/19L606XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-22: Document (CX): [cx-aa399e1c.md](cx-aa399e1c.md); official file https://www.senat.ro/legis/PDF/2019/19L606CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-22: Document (ARD): [ard-34579d0a.md](ard-34579d0a.md); official file https://www.senat.ro/legis/PDF/2019/19L606ARD.PDF (its day is not given by the bill file: shown from the last stage held)
