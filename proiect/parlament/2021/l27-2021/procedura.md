@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-16: registered at the Chamber of Deputies
 - 2021-02-17: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-22: sent for promulgation
+- 2021-02-24: promulgated, becomes Legea nr. 7/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-17: Raport comisie sesizată pe fond (CR): [cr-c44e8088.md](cr-c44e8088.md); official file https://www.senat.ro/legis/PDF/2021/21L027CR.PDF
 - 2021-02-17: Adresă privind sesizarea CCR (AXS): [axs-d7d9978b.md](axs-d7d9978b.md); official file https://www.senat.ro/legis/PDF/2021/21L027AXS.PDF
 - 2021-02-17: Forma trimisă la promulgare (LP): [lp-510f80a7.md](lp-510f80a7.md); official file https://www.senat.ro/legis/PDF/2021/21L027LP.PDF
+- 2021-02-24: Decret de promulgare (DP): [dp-0f61c980.md](dp-0f61c980.md); official file https://www.senat.ro/legis/PDF/2021/21L027DP.PDF
+- 2021-02-24: Adresă privind forma promulgată (AFP): [afp-811eea48.md](afp-811eea48.md); official file https://www.senat.ro/legis/PDF/2021/21L027AFP.PDF
+- 2021-02-24: Forma promulgată (FP): [fp-ed603a4c.md](fp-ed603a4c.md); official file https://www.senat.ro/legis/PDF/2021/21L027FP.PDF
