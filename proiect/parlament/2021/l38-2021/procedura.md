@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 2021-02-01: registered at the Chamber of Deputies
 - 2021-02-11: documents published: Raport comisie sesizată pe fond
+- 2021-02-24: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
 - 2021-02-11: Raport comisie sesizată pe fond (CR): [cr-bc7bc8e7.md](cr-bc7bc8e7.md); official file https://www.senat.ro/legis/PDF/2021/21L038CR.PDF
+- 2021-02-24: Document (OG): [og-080e141c.md](og-080e141c.md); official file https://www.senat.ro/legis/PDF/2021/21L038OG.PDF
