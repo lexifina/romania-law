@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-18: adopted by the Chamber of Deputies
 - 2020-06-19: sent for promulgation
 - 2020-12-18: returned for re-examination
+- 2021-02-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L489CA45.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-eba6a9e8.md](axs-eba6a9e8.md); official file https://www.senat.ro/legis/PDF/2019/19L489AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-9755a81c.md](lp-9755a81c.md); official file https://www.senat.ro/legis/PDF/2019/19L489LP.PDF
+- 2021-02-25: Document (SC1): [sc1-71ecfacc.md](sc1-71ecfacc.md); official file https://www.senat.ro/legis/PDF/2019/19L489SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-25: Document (SC2): [sc2-be244474.md](sc2-be244474.md); official file https://www.senat.ro/legis/PDF/2019/19L489SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-02-25: Document (DC1): [dc1-2c2d4b79.md](dc1-2c2d4b79.md); official file https://www.senat.ro/legis/PDF/2019/19L489DC1.PDF (its day is not given by the bill file: shown from the last stage held)
