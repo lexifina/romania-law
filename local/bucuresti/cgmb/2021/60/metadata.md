@@ -1,0 +1,11 @@
+# HCGMB nr. 60/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 60/2021
+- Adopted: 2021-02-26
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 138/30.06.2015 PRIVIND DECLANSAREA PROCEDURILOR DE EXPROPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA "PENETRATIE PRELUNGIREA GHENCEA- DOMNESTI SI SUPRALARGIRE BULEVARDUL GHENCEA, INTRE STRADA BRASOV SI TERMINAL TRAMVAI 41", IN VEDEREA EFECTUARII LUCRARILOR DE INTERES PUBLIC LOCAL MODIFICA ANEXA NR. 2 SI ART. 4 DIN HCGMB NR. 138/2015
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41872
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41872/H060_21.pdf
+- Document sha256: 098e875b22c2b80128e2f68b8aa66bf063ec8f0cc6ce78f0e531ea8cb1df6370
