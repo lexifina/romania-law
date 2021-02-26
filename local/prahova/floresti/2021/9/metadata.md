@@ -1,0 +1,9 @@
+# HCL Florești nr. 9/2021
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Florești
+- Decision: nr. 9/2021
+- Adopted: 2021-02-26
+- Title: privind privind aprobarea documentatiei: PUZ-SCHIMBARE DESTINATIE TEREN DIN ZONA UNITATI INDUSTRIALE SI DEPOZITE; PARTIAL IN ZONA INSTITUTII SI SERVICII , PARTIAL IN ZONA SPATII VERZI SI AGREMENT SI SPORT ; PARTIAL IN ZONA MIXTA INSTITUTII SI SERVICII SI UNITATI INDUSTRIALE SI DEPOZITE NEPOLUANTE SI PARTIAL IN ZONA CAI DE COMUNICATII RUTIERE PENTRU AMPLASARE SPITAL SI AMENAJARE DRUM DE ACCES(Sst=221.732mp)
+- Record: https://emol.ro/floresti-ph/registru-hcl/19008
