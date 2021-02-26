@@ -1,0 +1,11 @@
+# HCGMB nr. 69/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 69/2021
+- Adopted: 2021-02-26
+- Title: PENTRU SUSPENDEREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 68/2020 PRIVIND APROBAREA PLANULUI URBANISTIC ZONAL (PUZ)- MODIFICARE SI ACTUALIZARE PUZ COORDONATOR SECTOR 6 SI A HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 336/2020 PRIVIND RECTIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 68/2020 SUSPENDA PE 12 LUNI HCGMB NR. 68/2020 SUSPENDA PE 12 LUNI HCGMB NR. 336/2020 SE MODIFICA SI COMPLETEAZA PRIN HCGMB NR. 274/2021
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41833
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41833/H069_21.pdf
+- Document sha256: 8e7204a32697a6ee82d6bf33c393f2b2c83aa24231d0bf548f88dfcdd501099b
