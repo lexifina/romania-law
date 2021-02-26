@@ -1,0 +1,20 @@
+# Proiect de lege L44/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.13/2021 pentru modificarea și completarea Legii nr.227/2015 privind Codul fiscal și a Legii contabilității nr.82/1991
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-02-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-02-26: Adresă de înaintare a inițiativei (AD): [ad-7d95c608.md](ad-7d95c608.md); official file https://www.senat.ro/legis/PDF/2021/21L044AD.PDF
+- 2021-02-26: Forma inițiatorului (FG): [fg-3d04521a.md](fg-3d04521a.md); official file https://www.senat.ro/legis/PDF/2021/21L044FG.PDF
+- 2021-02-26: Expunere de motive (EM): [em-9d953cb1.md](em-9d953cb1.md); official file https://www.senat.ro/legis/PDF/2021/21L044EM.PDF
+- 2021-02-26: Aviz Consiliul Legislativ (LG): [lg-78412451.md](lg-78412451.md); official file https://www.senat.ro/legis/PDF/2021/21L044LG.PDF
+- 2021-02-26: Document (OG): [og-a22c0be3.md](og-a22c0be3.md); official file https://www.senat.ro/legis/PDF/2021/21L044OG.PDF
+- 2021-02-26: Document (HG): [hg-cedd9db8.md](hg-cedd9db8.md); official file https://www.senat.ro/legis/PDF/2021/21L044HG.PDF
