@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: registered at the Chamber of Deputies
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-02-27: sent for promulgation
 
 ## Documents
 
