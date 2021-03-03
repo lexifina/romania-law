@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-29: sent for promulgation
 - 2019-03-27: returned for re-examination
 - 2019-11-26: rejected by the Senate
+- 2021-03-03: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302AM.PDF
 - 2018-12-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302AXS.PDF
 - 2018-12-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302LP.PDF
+- 2021-03-03: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (X1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L302X1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (XD1): [xd1-baf80b5f.md](xd1-baf80b5f.md); official file https://www.senat.ro/legis/PDF/2018/18L302XD1.PDF (its day is not given by the bill file: shown from the last stage held)
