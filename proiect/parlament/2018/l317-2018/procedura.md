@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-03-30: sent for promulgation
 - 2019-07-12: returned for re-examination
 - 2019-10-22: rejected by the Senate
+- 2021-03-03: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Guvernul României.
 - 2018-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317FS.PDF
 - 2018-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317AM.PDF
 - 2019-03-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317AXS.PDF
+- 2021-03-03: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-03: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L317XD.PDF (its day is not given by the bill file: shown from the last stage held)
