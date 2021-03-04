@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-02-03: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-02-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-13: sent for promulgation
+- 2021-03-04: promulgated, becomes Legea nr. 8/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-02-03: Forma adoptată de Senat (FS): [fs-840c2f2a.md](fs-840c2f2a.md); official file https://www.senat.ro/legis/PDF/2020/20L640FS.PDF
 - 2021-02-08: Adresă privind sesizarea CCR (AXS): [axs-81c979c8.md](axs-81c979c8.md); official file https://www.senat.ro/legis/PDF/2020/20L640AXS.PDF
 - 2021-02-08: Forma trimisă la promulgare (LP): [lp-ef069f51.md](lp-ef069f51.md); official file https://www.senat.ro/legis/PDF/2020/20L640LP.PDF
+- 2021-03-04: Decret de promulgare (DP): [dp-cfb7c48d.md](dp-cfb7c48d.md); official file https://www.senat.ro/legis/PDF/2020/20L640DP.PDF
+- 2021-03-04: Adresă privind forma promulgată (AFP): [afp-b1fb12c8.md](afp-b1fb12c8.md); official file https://www.senat.ro/legis/PDF/2020/20L640AFP.PDF
+- 2021-03-04: Forma promulgată (FP): [fp-8082c129.md](fp-8082c129.md); official file https://www.senat.ro/legis/PDF/2020/20L640FP.PDF
