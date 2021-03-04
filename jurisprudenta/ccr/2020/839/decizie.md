@@ -1,0 +1,41 @@
+# DECIZIA nr. 839 din 17 noiembrie 2020
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 7 din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii
+Valer Dorneanu - președinte
+Cristian Deliorga - judecător
+Daniel Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Gheorghe Stan - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Fabian Niculae - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Loredana Brezeanu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a prevederilor art. 7 din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, excepție ridicată de Maria Ven în Dosarul nr. 4.865/305/2017 al Judecătoriei Sfântu Gheorghe și care formează obiectul Dosarului Curții Constituționale nr. 352D/2018.
+2. La apelul nominal se constată lipsa părților. Procedura de citare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere, ca neîntemeiată, a excepției de neconstituționalitate. Astfel, se arată că instanța de contencios constituțional s-a mai pronunțat asupra prevederilor legale criticate prin Decizia nr. 759 din 5 noiembrie 2015.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 11 ianuarie 2018, pronunțată în Dosarul nr. 4.865/305/2017, Judecătoria Sfântu Gheorghe a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 7 din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, excepție ridicată de Maria Ven într-un dosar având ca obiect soluționarea unei contestații la executare.
+5. În motivarea excepției de neconstituționalitate autoarea acesteia susține, în esență, că dispozițiile legale criticate sunt neconstituționale, întrucât atât timp cât existența statului și a instituțiilor sale se datorează existenței cetățenilor și nu invers, atunci statul și implicit instituțiile sale nu pot fi puse deasupra cetățenilor. Ca atare, în condițiile în care, conform art. 148 alin. (6) din Codul de procedură civilă, cetățenii sunt obligați să plătească taxa judiciară pentru acțiunile în justiție, tot astfel și statul prin instituțiile sale trebuie să plătească taxă judiciară de timbru pentru acțiunile în justiție.
+6. Judecătoria Sfântu Gheorghe apreciază că excepția de neconstituționalitate este neîntemeiată. Astfel, instanța reține că prin Constituție este consacrat principiul egalității între cetățeni, iar nu între cetățeni și instituțiile sau autoritățile publice, neputându-se astfel reține încălcarea principiului egalității, subiectele de drept fiind în situații diferite.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+8. Avocatul Poporului apreciază că dispozițiile legale criticate sunt constituționale.
+9. Președinții celor două Camere ale Parlamentului și Guvernul nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, punctul de vedere al Avocatului Poporului, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+10. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+11. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 7 din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, publicată în Monitorul Oficial al României, Partea I, nr. 81 din 1 februarie 2002, aprobată cu completări prin Legea nr. 288/2002, publicată în Monitorul Oficial al României, Partea I, nr. 344 din 23 mai 2002, cu modificările și completările ulterioare, dispoziții care au următorul cuprins: „Cererile, indiferent de natura lor, formulate de instituțiile și autoritățile publice în cadrul procedurii de executare silită a creanțelor stabilite prin titluri executorii în sarcina acestora sunt scutite de plata taxelor de timbru, timbru judiciar și a sumelor stabilite cu titlu de cauțiune.“
+12. În opinia autoarei excepției de neconstituționalitate sunt încălcate prevederile constituționale ale art. 16 alin. (1) și (2) privind egalitatea în fața legii.
+13. Examinând excepția de neconstituționalitate, Curtea constată că s-a mai pronunțat asupra prevederilor art. 7 din Ordonanța Guvernului nr. 22/2002, prin raportare la aceleași critici de neconstituționalitate, spre exemplu, prin Decizia nr. 10 din 17 ianuarie 2013, publicată în Monitorul Oficial al României, Partea I, nr. 109 din 25 februarie 2013, și Decizia nr. 759 din 5 noiembrie 2015, publicată în Monitorul Oficial al României, Partea I, nr. 107 din 11 februarie 2016, constatând că sunt constituționale.
+14. Curtea a reținut că, așa cum rezultă din dispozițiile constituționale ale art. 16, cetățenii se bucură de drepturile prevăzute în Constituție și în legi, fiind egali în fața acestora și a autorităților publice, în timp ce autoritățile publice exercită atribuțiile ce le sunt stabilite de lege, potrivit competenței lor, în realizarea funcțiilor pentru care sunt create. Principiul egalități în drepturi prevăzut de Constituție pentru cetățeni nu poate ca, prin extensie, să primească semnificația unei egalități între cetățeni și autoritățile publice.
+15. Așa fiind, nu se poate vorbi despre încălcarea principiului egalității decât atunci când se aplică un tratament diferențiat unor cazuri egale, fără să existe o motivare obiectivă și rezonabilă. Or, Curtea a observat că, în ipoteza prevăzută de textul de lege criticat, persoanele juridice, ca subiecte colective de drept, se află, evident, într-o situație diferită.
+16. Ca atare, scutirea instituțiilor și a autorităților publice de plata taxelor judiciare de timbru, timbru judiciar și a sumelor stabilite cu titlu de cauțiune, în cadrul procedurii de executare silită a creanțelor stabilite prin titluri executorii în sarcina acestora, în calitate de debitori ai unor persoane fizice sau juridice, are o justificare obiectivă și rațională, aceste autorități fiind finanțate de la bugetul de stat pentru a putea funcționa, iar taxele respective se fac venit tot la bugetul de stat, astfel că ar fi absurd ca autoritățile în cauză să fie obligate (formal) să plătească din buget o taxă care revine aceluiași buget.
+17. Întrucât nu au intervenit elemente noi, de natură să determine reconsiderarea jurisprudenței Curții, atât soluția, cât și considerentele cuprinse în aceste decizii își păstrează valabilitatea și în prezenta cauză.
+18. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Maria Ven în Dosarul nr. 4.865/305/2017 al Judecătoriei Sfântu Gheorghe și constată că prevederile art. 7 din Ordonanța Guvernului nr. 22/2002 privind executarea obligațiilor de plată ale instituțiilor publice, stabilite prin titluri executorii, sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Sfântu Gheorghe și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 17 noiembrie 2020.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Fabian Niculae
