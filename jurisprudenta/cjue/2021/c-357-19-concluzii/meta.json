@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-357-19-concluzii-2021-03-04",
+ "label": "CJUE, Concluziile avocatului general M. Bobek prezentate la 4 martie 2021, Cauzele conexate C-357/19, C-379/19, C-547/19, C-811/19 și C-840/19.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-03-04",
+ "year": "2021",
+ "case": "Cauzele conexate C-357/19, C-379/19, C-547/19, C-811/19 și C-840/19.",
+ "celex": "62019CC0357",
+ "ecli": "ECLI:EU:C:2021:170",
+ "heading": "Concluziile avocatului general M. Bobek prezentate la 4 martie 2021",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Înalta Curte de Casație și Justiție și Tribunalul Bihor.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Decizia 2006/928/CE – Mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției – Natură și efecte juridice – Caracter obligatoriu pentru România – Stat de drept – Independența judecătorilor – Articolul 19 alineatul (1) al doilea paragraf TUE – Articolul 47 din Carta drepturilor fundamentale a Uniunii Europene – Lupta împotriva corupției – Protecția intereselor financiare ale Uniunii – Articolul 325 alineatul (1) TFUE – Convenția „PIF” – Proceduri penale – Decizii ale Curții Constituționale (România) privind legalitatea administrării anumitor probe și compunerea completurilor de judecată în materie de corupție gravă – Obligația judecătorilor naționali de a da efect deplin deciziilor Curții Constituționale – Răspundere disciplinară a judecătorilor în cazul nerespectării acestor decizii – Puterea de a lăsa neaplicate deciziile Curții Constituționale neconforme cu dreptul Uniunii – Principiul supremației dreptului Uniunii.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CC0357",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-357/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/cdf057df-89bc-11ec-8c40-01aa75ed71a1.0001.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "859463d96cf4fbbd40e766943a41f20f5ca2e1e1968e4911e4d14024a98d6689"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
