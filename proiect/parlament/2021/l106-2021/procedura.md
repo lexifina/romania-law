@@ -1,0 +1,17 @@
+# Propunere legislativă L106/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind transmiterea unei părți dintr-un teren situat în orașul Teiuș, din proprietatea publică a orașului Teiuș și din administrarea Consiliului Local al Orașului Teiuș, județul Alba în proprietatea privată a orașului Teiuș privind transmiterea unui teren din domeniul public al statului și din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naționale de Căi Ferate ”C.F.R.” - S.A., în domeniul public al orașului Teiuș și în administrarea Consiliului Local al Orașului Teiuș, județul Alba
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-03-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-03-08: Adresă de înaintare a inițiativei (AD): [ad-eb0625c3.md](ad-eb0625c3.md); official file https://www.senat.ro/legis/PDF/2021/21L106AD.PDF
+- 2021-03-08: Forma inițiatorului (FG): [fg-7089ca26.md](fg-7089ca26.md); official file https://www.senat.ro/legis/PDF/2021/21L106FG.PDF
+- 2021-03-08: Expunere de motive (EM): [em-7386ecb7.md](em-7386ecb7.md); official file https://www.senat.ro/legis/PDF/2021/21L106EM.PDF
