@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2021-02-23: registered at the Chamber of Deputies; registered at the Senate; adopted by the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera…
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-08: promulgated, becomes Legea nr. 14/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Guvernul României.
 - 2021-02-23: Adresă către Camera Deputaților (AM): [am-e26d93ff.md](am-e26d93ff.md); official file https://www.senat.ro/legis/PDF/2021/21L034AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-f827cefd.md](axs-f827cefd.md); official file https://www.senat.ro/legis/PDF/2021/21L034AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-ee658150.md](lp-ee658150.md); official file https://www.senat.ro/legis/PDF/2021/21L034LP.PDF
+- 2021-03-08: Decret de promulgare (DP): [dp-35fed92d.md](dp-35fed92d.md); official file https://www.senat.ro/legis/PDF/2021/21L034DP.PDF
+- 2021-03-08: Adresă privind forma promulgată (AFP): [afp-6442198b.md](afp-6442198b.md); official file https://www.senat.ro/legis/PDF/2021/21L034AFP.PDF
+- 2021-03-08: Forma promulgată (FP): [fp-23ef0b6f.md](fp-23ef0b6f.md); official file https://www.senat.ro/legis/PDF/2021/21L034FP.PDF
