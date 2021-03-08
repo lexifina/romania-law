@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2021-02-23: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Aviz Consiliul Legislativ, Document
 - 2021-02-25: documents published: Aviz comisie
 - 2021-03-02: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-03-08: sent for promulgation; promulgated, becomes Legea nr. 15/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -45,3 +46,6 @@ Initiator: Guvernul României.
 - 2021-02-25: Aviz comisie (CA8): [ca8-a196fc2d.md](ca8-a196fc2d.md); official file https://www.senat.ro/legis/PDF/2021/21L035CA8.PDF
 - 2021-03-02: Adresă privind sesizarea CCR (AXS): [axs-d142f6a4.md](axs-d142f6a4.md); official file https://www.senat.ro/legis/PDF/2021/21L035AXS.PDF
 - 2021-03-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L035LP.PDF
+- 2021-03-08: Decret de promulgare (DP): [dp-dc5e862a.md](dp-dc5e862a.md); official file https://www.senat.ro/legis/PDF/2021/21L035DP.PDF
+- 2021-03-08: Adresă privind forma promulgată (AFP): [afp-af06bf76.md](afp-af06bf76.md); official file https://www.senat.ro/legis/PDF/2021/21L035AFP.PDF
+- 2021-03-08: Forma promulgată (FP): [fp-60d336df.md](fp-60d336df.md); official file https://www.senat.ro/legis/PDF/2021/21L035FP.PDF
