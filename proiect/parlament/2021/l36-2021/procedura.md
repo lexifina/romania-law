@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2021-02-23: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-02-25: documents published: Aviz comisie
 - 2021-03-02: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR
+- 2021-03-08: sent for promulgation; promulgated, becomes Legea nr. 16/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -23,3 +24,6 @@ Initiator: Guvernul României.
 - 2021-02-23: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L036HG.PDF
 - 2021-02-25: Aviz comisie (CA8): [ca8-fe1008be.md](ca8-fe1008be.md); official file https://www.senat.ro/legis/PDF/2021/21L036CA8.PDF
 - 2021-03-02: Adresă privind sesizarea CCR (AXS): [axs-33701e89.md](axs-33701e89.md); official file https://www.senat.ro/legis/PDF/2021/21L036AXS.PDF
+- 2021-03-08: Decret de promulgare (DP): [dp-94b3fbd7.md](dp-94b3fbd7.md); official file https://www.senat.ro/legis/PDF/2021/21L036DP.PDF
+- 2021-03-08: Adresă privind forma promulgată (AFP): [afp-7c30d3a2.md](afp-7c30d3a2.md); official file https://www.senat.ro/legis/PDF/2021/21L036AFP.PDF
+- 2021-03-08: Forma promulgată (FP): [fp-5769d2fe.md](fp-5769d2fe.md); official file https://www.senat.ro/legis/PDF/2021/21L036FP.PDF
