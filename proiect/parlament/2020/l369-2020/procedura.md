@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-02-10: adopted by the Chamber of Deputies
 - 2021-02-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-17: sent for promulgation
+- 2021-03-08: promulgated, becomes Legea nr. 12/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2020-06-24: Aviz comisie (CA9): [ca9-27ae91d4.md](ca9-27ae91d4.md); official file https://www.senat.ro/legis/PDF/2020/20L369CA9.PDF
 - 2021-02-15: Adresă privind sesizarea CCR (AXS): [axs-e665bf49.md](axs-e665bf49.md); official file https://www.senat.ro/legis/PDF/2020/20L369AXS.PDF
 - 2021-02-15: Forma trimisă la promulgare (LP): [lp-800171e1.md](lp-800171e1.md); official file https://www.senat.ro/legis/PDF/2020/20L369LP.PDF
+- 2021-03-08: Decret de promulgare (DP): [dp-c9792a58.md](dp-c9792a58.md); official file https://www.senat.ro/legis/PDF/2020/20L369DP.PDF
+- 2021-03-08: Adresă privind forma promulgată (AFP): [afp-70b7a704.md](afp-70b7a704.md); official file https://www.senat.ro/legis/PDF/2020/20L369AFP.PDF
+- 2021-03-08: Forma promulgată (FP): [fp-0a2da241.md](fp-0a2da241.md); official file https://www.senat.ro/legis/PDF/2020/20L369FP.PDF
