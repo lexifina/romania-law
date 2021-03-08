@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2019-06-26: documents published: Aviz comisie
 - 2019-06-27: documents published: Aviz comisie
+- 2021-03-08: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-13: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L288EM.PDF
 - 2019-06-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L288CA45.PDF
 - 2019-06-27: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L288CA41.PDF
+- 2021-03-08: Document (ARD): [ard-d8a5f47c.md](ard-d8a5f47c.md); official file https://www.senat.ro/legis/PDF/2019/19L288ARD.PDF (its day is not given by the bill file: shown from the last stage held)
