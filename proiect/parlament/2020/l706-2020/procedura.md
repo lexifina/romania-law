@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-12-30: documents published: Aviz comisie
 - 2021-02-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-17: sent for promulgation
+- 2021-03-08: promulgated, becomes Legea nr. 13/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Guvernul României.
 - 2021-02-15: Forma adoptată de Senat (FS): [fs-07d1ac21.md](fs-07d1ac21.md); official file https://www.senat.ro/legis/PDF/2020/20L706FS.PDF
 - 2021-02-15: Adresă privind sesizarea CCR (AXS): [axs-67bae4c3.md](axs-67bae4c3.md); official file https://www.senat.ro/legis/PDF/2020/20L706AXS.PDF
 - 2021-02-15: Forma trimisă la promulgare (LP): [lp-f89b05a9.md](lp-f89b05a9.md); official file https://www.senat.ro/legis/PDF/2020/20L706LP.PDF
+- 2021-03-08: Document (TX): [tx-0d65b40e.md](tx-0d65b40e.md); official file https://www.senat.ro/legis/PDF/2020/20L706TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-08: Document (AL): [al-ac31ab05.md](al-ac31ab05.md); official file https://www.senat.ro/legis/PDF/2020/20L706AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-08: Decret de promulgare (DP): [dp-01d79f60.md](dp-01d79f60.md); official file https://www.senat.ro/legis/PDF/2020/20L706DP.PDF
+- 2021-03-08: Adresă privind forma promulgată (AFP): [afp-dd97a468.md](afp-dd97a468.md); official file https://www.senat.ro/legis/PDF/2020/20L706AFP.PDF
+- 2021-03-08: Forma promulgată (FP): [fp-fd7cb925.md](fp-fd7cb925.md); official file https://www.senat.ro/legis/PDF/2020/20L706FP.PDF
