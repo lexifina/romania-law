@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: documents published: Raport comisie sesizată pe fond
 - 2020-10-21: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-10-26: registered at the Chamber of Deputies
+- 2021-03-09: rejected by the Chamber of Deputies; legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: Expunere de motive (EM): [em-987afba4.md](em-987afba4.md); official file https://www.senat.ro/legis/PDF/2020/20L600EM.PDF
 - 2020-10-13: Raport comisie sesizată pe fond (CR): [cr-bff71063.md](cr-bff71063.md); official file https://www.senat.ro/legis/PDF/2020/20L600CR.PDF
 - 2020-10-21: Adresă către Camera Deputaților (AM): [am-7e475f23.md](am-7e475f23.md); official file https://www.senat.ro/legis/PDF/2020/20L600AM.PDF
+- 2021-03-09: Document (AA): [aa-fb65d21b.md](aa-fb65d21b.md); official file https://www.senat.ro/legis/PDF/2020/20L600AA.PDF (its day is not given by the bill file: shown from the last stage held)
