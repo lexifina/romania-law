@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-03-13: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-04-25: registered at the Chamber of Deputies
 - 2019-12-19: documents published: Aviz comisie
+- 2021-03-09: legislative procedure ended
 
 ## Documents
 
