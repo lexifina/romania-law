@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2021-02-25: documents published: Aviz comisie
 - 2021-03-02: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-08: sent for promulgation; promulgated, becomes Legea nr. 15/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-03-09: published in the Monitorul Oficial
 
 ## Documents
 
