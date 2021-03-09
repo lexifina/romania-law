@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Economic și Social, Punct de vedere
 - 2020-09-08: rejected by the Senate; documents published: Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 - 2020-09-14: registered at the Chamber of Deputies
+- 2021-03-09: rejected by the Chamber of Deputies; legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L487PV.PDF
 - 2020-09-08: Raport comisie sesizată pe fond (CR): [cr-a24b5391.md](cr-a24b5391.md); official file https://www.senat.ro/legis/PDF/2020/20L487CR.PDF
 - 2020-09-08: Adresă către Camera Deputaților (AM): [am-604cc2b7.md](am-604cc2b7.md); official file https://www.senat.ro/legis/PDF/2020/20L487AM.PDF
+- 2021-03-09: Document (AA): [aa-42b26b87.md](aa-42b26b87.md); official file https://www.senat.ro/legis/PDF/2020/20L487AA.PDF (its day is not given by the bill file: shown from the last stage held)
