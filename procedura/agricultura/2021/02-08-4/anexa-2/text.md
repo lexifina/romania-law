@@ -1,0 +1,38 @@
+# Anexa 2
+Anexa nr. 4b
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+AGENȚIA NAȚIONALĂ PENTRU ZOOTEHNIE „Prof. dr. G. K. Constantinescu”
+RAPORT DE EVALUARE
+pentru autorizarea zootehnică a centrului de depozitare și
+comercializare a materialului seminal congelat și/sau
+embrionilor, la specia ovine și caprine
+Subsemnații ................. salariați la Agenția Națională pentru Zootehnie, având în vedere decizia nr. ........, din .........................., în conformitate cu prevederile Legii Zootehniei nr. 32/2019 , H.G. nr. 1188/2014 , cu modificările și completările ulterioare, O.M. 344/2019 și Directiva 2006/123/CEE, transpusă parțial în OUG 49/2009 , am verificat S.C. ................ din județul ........ în vederea emiterii autorizației zootehnice de funcționare a unității pentru activitatea de achiziție, depozitare și comercializare a materialului seminal congelat clasa CAEN 0162, 4690, 4719, 5210, constatând următoarele: 1.
+Personal încadrat: a)
+nr. total .....................
+b)
+nr. specialiști .............
+2.
+Fluxul tehnologic: a)
+spații pentru recepție, depozitare, livrare ....................... ........................
+b)
+condiții de depozitare și de transport ......................... ........................
+c)
+dotarea cu aparatură pentru controlul calității m.s.c.-ului ................ ........................
+3.
+Amplasare, vecinătăți: a)
+distanța față de perimetrele locuibile .............
+b)
+surse poluante în vecinătate .......................
+4.
+Autorizații de funcționare emise de alte organe abilitate: ........................ ...............
+5.
+Alte aspecte: ....................
+6.
+PROPUNERI: a)
+ÎNDEPLINEȘTE CONDIȚIILE pentru autorizarea zootehnică a activității de depozitare a materialului seminal congelat, având ca obiectiv comercializarea materialului seminal congelat, conform claselor CAEN 5210, 0162, 4690, 4719 .................. ................
+b)
+NU ÎNDEPLINEȘTE condițiile de autorizare zootehnică conform legislației în vigoare .......... ............
+Din partea ANZ,
+Din partea CRZ,
+Din partea OJZ,
+Din partea S.C.,
