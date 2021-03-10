@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Document
 - 2021-02-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-03-09: documents published: Aviz comisie
+- 2021-03-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,8 @@ Initiator: Guvernul României.
 - 2021-02-25: Document (HG): [hg-0bb1174b.md](hg-0bb1174b.md); official file https://www.senat.ro/legis/PDF/2021/21L038HG.PDF
 - 2021-03-09: Aviz comisie (CA43): [ca43-7888e3bc.md](ca43-7888e3bc.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA43.PDF
 - 2021-03-09: Aviz comisie (CA50): [ca50-7a3b2941.md](ca50-7a3b2941.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA50.PDF
+- 2021-03-10: Aviz comisie (CA1): [ca1-0a13b06d.md](ca1-0a13b06d.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA1.PDF
+- 2021-03-10: Aviz comisie (CA42): [ca42-afd882b0.md](ca42-afd882b0.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA42.PDF
+- 2021-03-10: Aviz comisie (CA44): [ca44-364773f4.md](ca44-364773f4.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA44.PDF
+- 2021-03-10: Aviz comisie (CA51): [ca51-9dd6cf10.md](ca51-9dd6cf10.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA51.PDF
+- 2021-03-10: Aviz comisie (CA8): [ca8-31902511.md](ca8-31902511.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA8.PDF
