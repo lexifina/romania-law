@@ -1,0 +1,9 @@
+# Anexa nr. 5c
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+AGENȚIA NAȚIONALĂ PENTRU ZOOTEHNIE ”Prof. Dr. G. K. Constantinescu”
+AUTORIZAȚIE
+Act oficial eliberat în conformitate cu legislația în vigoare, privind libera circulație a serviciilor în cadrul Comunității Europene.
+Domnul (Doamna)........ posesor (posesoare) a C.I. (B.I.) seria.... nr........, cod numeric personal......, a fost evaluat(ă) cu certificat de competențe profesionale seria..., nr........, și este autorizat(ă) să presteze servicii de însămânțări artificiale la animale, conform unităților de competență pentru care a fost declarat (ă) competent (ă), cu punctul de lucru în localitatea......, județul........
+DIRECTOR GENERAL,
+Data eliberării: anul..... luna..... ziua.......
+Nr.............
