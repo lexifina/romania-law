@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-24: sent for promulgation
+- 2021-03-12: promulgated, becomes Legea nr. 22/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-06-26: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L263AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-1c6b59f8.md](axs-1c6b59f8.md); official file https://www.senat.ro/legis/PDF/2019/19L263AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-ffccb6bc.md](lp-ffccb6bc.md); official file https://www.senat.ro/legis/PDF/2019/19L263LP.PDF
+- 2021-03-12: Decret de promulgare (DP): [dp-3e26c22c.md](dp-3e26c22c.md); official file https://www.senat.ro/legis/PDF/2019/19L263DP.PDF
+- 2021-03-12: Adresă privind forma promulgată (AFP): [afp-8085e72d.md](afp-8085e72d.md); official file https://www.senat.ro/legis/PDF/2019/19L263AFP.PDF
+- 2021-03-12: Forma promulgată (FP): [fp-bb6f7c9a.md](fp-bb6f7c9a.md); official file https://www.senat.ro/legis/PDF/2019/19L263FP.PDF
