@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-24: sent for promulgation
+- 2021-03-12: promulgated, becomes Legea nr. 17/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-05: Adresă către Camera Deputaților (AM): [am-a53090d3.md](am-a53090d3.md); official file https://www.senat.ro/legis/PDF/2020/20L394AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-377b97f4.md](axs-377b97f4.md); official file https://www.senat.ro/legis/PDF/2020/20L394AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-424b10e2.md](lp-424b10e2.md); official file https://www.senat.ro/legis/PDF/2020/20L394LP.PDF
+- 2021-03-12: Decret de promulgare (DP): [dp-c2f6084d.md](dp-c2f6084d.md); official file https://www.senat.ro/legis/PDF/2020/20L394DP.PDF
+- 2021-03-12: Adresă privind forma promulgată (AFP): [afp-8c9b0d47.md](afp-8c9b0d47.md); official file https://www.senat.ro/legis/PDF/2020/20L394AFP.PDF
+- 2021-03-12: Forma promulgată (FP): [fp-5ddd2f9c.md](fp-5ddd2f9c.md); official file https://www.senat.ro/legis/PDF/2020/20L394FP.PDF
