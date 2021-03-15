@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-24: sent for promulgation
+- 2021-03-15: promulgated, becomes Legea nr. 24/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L329AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-81460067.md](axs-81460067.md); official file https://www.senat.ro/legis/PDF/2019/19L329AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-e43cdd69.md](lp-e43cdd69.md); official file https://www.senat.ro/legis/PDF/2019/19L329LP.PDF
+- 2021-03-15: Decret de promulgare (DP): [dp-c62cc1e1.md](dp-c62cc1e1.md); official file https://www.senat.ro/legis/PDF/2019/19L329DP.PDF
+- 2021-03-15: Adresă privind forma promulgată (AFP): [afp-47ebf4b9.md](afp-47ebf4b9.md); official file https://www.senat.ro/legis/PDF/2019/19L329AFP.PDF
+- 2021-03-15: Forma promulgată (FP): [fp-e7bdae41.md](fp-e7bdae41.md); official file https://www.senat.ro/legis/PDF/2019/19L329FP.PDF
