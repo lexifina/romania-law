@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-24: sent for promulgation
+- 2021-03-15: promulgated, becomes Legea nr. 30/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-04-28: Adresă către Camera Deputaților (AM): [am-afa8d7d8.md](am-afa8d7d8.md); official file https://www.senat.ro/legis/PDF/2020/20L188AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-8786a610.md](axs-8786a610.md); official file https://www.senat.ro/legis/PDF/2020/20L188AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-c52c55d4.md](lp-c52c55d4.md); official file https://www.senat.ro/legis/PDF/2020/20L188LP.PDF
+- 2021-03-15: Decret de promulgare (DP): [dp-7d873245.md](dp-7d873245.md); official file https://www.senat.ro/legis/PDF/2020/20L188DP.PDF
+- 2021-03-15: Adresă privind forma promulgată (AFP): [afp-1c09b1c7.md](afp-1c09b1c7.md); official file https://www.senat.ro/legis/PDF/2020/20L188AFP.PDF
+- 2021-03-15: Forma promulgată (FP): [fp-e1bba8bd.md](fp-e1bba8bd.md); official file https://www.senat.ro/legis/PDF/2020/20L188FP.PDF
