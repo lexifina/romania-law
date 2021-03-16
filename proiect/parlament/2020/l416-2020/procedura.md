@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-07-27: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 36/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-96fad380.md](am-96fad380.md); official file https://www.senat.ro/legis/PDF/2020/20L416AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-94baafa6.md](axs-94baafa6.md); official file https://www.senat.ro/legis/PDF/2020/20L416AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-56021075.md](lp-56021075.md); official file https://www.senat.ro/legis/PDF/2020/20L416LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-054948c0.md](dp-054948c0.md); official file https://www.senat.ro/legis/PDF/2020/20L416DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2020/20L416AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-3de72017.md](fp-3de72017.md); official file https://www.senat.ro/legis/PDF/2020/20L416FP.PDF
