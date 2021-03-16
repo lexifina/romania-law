@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-06-11: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 34/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-06-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L222AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-aaa9b0aa.md](axs-aaa9b0aa.md); official file https://www.senat.ro/legis/PDF/2019/19L222AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-75423d53.md](lp-75423d53.md); official file https://www.senat.ro/legis/PDF/2019/19L222LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-7285dd02.md](dp-7285dd02.md); official file https://www.senat.ro/legis/PDF/2019/19L222DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2019/19L222AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-d78661d0.md](fp-d78661d0.md); official file https://www.senat.ro/legis/PDF/2019/19L222FP.PDF
