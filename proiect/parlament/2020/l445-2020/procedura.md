@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-08-17: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 39/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-08-11: Adresă către Camera Deputaților (AM): [am-473d392f.md](am-473d392f.md); official file https://www.senat.ro/legis/PDF/2020/20L445AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-69180006.md](axs-69180006.md); official file https://www.senat.ro/legis/PDF/2020/20L445AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-7a54521b.md](lp-7a54521b.md); official file https://www.senat.ro/legis/PDF/2020/20L445LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-6fcdb4e4.md](dp-6fcdb4e4.md); official file https://www.senat.ro/legis/PDF/2020/20L445DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2020/20L445AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-826fd71b.md](fp-826fd71b.md); official file https://www.senat.ro/legis/PDF/2020/20L445FP.PDF
