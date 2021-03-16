@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-01: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-02-08: registered at the Chamber of Deputies
 - 2021-03-10: adopted by the Chamber of Deputies
+- 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2021-01-06: Aviz comisie (CA45): [ca45-49a27e45.md](ca45-49a27e45.md); official file https://www.senat.ro/legis/PDF/2020/20L694CA45.PDF
 - 2021-02-01: Forma adoptată de Senat (FS): [fs-9deddd04.md](fs-9deddd04.md); official file https://www.senat.ro/legis/PDF/2020/20L694FS.PDF
 - 2021-02-01: Adresă către Camera Deputaților (AM): [am-84ad3907.md](am-84ad3907.md); official file https://www.senat.ro/legis/PDF/2020/20L694AM.PDF
+- 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L694AXS.PDF
+- 2021-03-16: Forma trimisă la promulgare (LP): [lp-a4e83bcc.md](lp-a4e83bcc.md); official file https://www.senat.ro/legis/PDF/2020/20L694LP.PDF
