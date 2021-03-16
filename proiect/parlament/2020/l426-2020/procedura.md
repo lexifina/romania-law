@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-17: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 32/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-11: Adresă către Camera Deputaților (AM): [am-d63a811f.md](am-d63a811f.md); official file https://www.senat.ro/legis/PDF/2020/20L426AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-d819d7f3.md](axs-d819d7f3.md); official file https://www.senat.ro/legis/PDF/2020/20L426AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-9e86eb14.md](lp-9e86eb14.md); official file https://www.senat.ro/legis/PDF/2020/20L426LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-8bff4db3.md](dp-8bff4db3.md); official file https://www.senat.ro/legis/PDF/2020/20L426DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2020/20L426AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-ba0ad956.md](fp-ba0ad956.md); official file https://www.senat.ro/legis/PDF/2020/20L426FP.PDF
