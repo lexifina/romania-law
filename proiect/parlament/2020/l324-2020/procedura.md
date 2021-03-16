@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-06-12: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 35/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Adresă către Camera Deputaților (AM): [am-c11058a4.md](am-c11058a4.md); official file https://www.senat.ro/legis/PDF/2020/20L324AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-2942f0ab.md](axs-2942f0ab.md); official file https://www.senat.ro/legis/PDF/2020/20L324AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-e2d5b8a8.md](lp-e2d5b8a8.md); official file https://www.senat.ro/legis/PDF/2020/20L324LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-e73d5f32.md](dp-e73d5f32.md); official file https://www.senat.ro/legis/PDF/2020/20L324DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2020/20L324AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-4f744905.md](fp-4f744905.md); official file https://www.senat.ro/legis/PDF/2020/20L324FP.PDF
