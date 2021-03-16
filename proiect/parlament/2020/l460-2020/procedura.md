@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-09-08: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-16: promulgated, becomes Legea nr. 40/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-08-23: Adresă către Camera Deputaților (AM): [am-9d658874.md](am-9d658874.md); official file https://www.senat.ro/legis/PDF/2020/20L460AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-6b94bafa.md](axs-6b94bafa.md); official file https://www.senat.ro/legis/PDF/2020/20L460AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-e92a07c1.md](lp-e92a07c1.md); official file https://www.senat.ro/legis/PDF/2020/20L460LP.PDF
+- 2021-03-16: Decret de promulgare (DP): [dp-73d2e54d.md](dp-73d2e54d.md); official file https://www.senat.ro/legis/PDF/2020/20L460DP.PDF
+- 2021-03-16: Adresă privind forma promulgată (AFP): [afp-a2f26e0d.md](afp-a2f26e0d.md); official file https://www.senat.ro/legis/PDF/2020/20L460AFP.PDF
+- 2021-03-16: Forma promulgată (FP): [fp-faa45e74.md](fp-faa45e74.md); official file https://www.senat.ro/legis/PDF/2020/20L460FP.PDF
