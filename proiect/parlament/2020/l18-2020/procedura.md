@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-24: sent for promulgation
 - 2021-03-12: promulgated, becomes Legea nr. 18/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-03-16: published in the Monitorul Oficial
 
 ## Documents
 
