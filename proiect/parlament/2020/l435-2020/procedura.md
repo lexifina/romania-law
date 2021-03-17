@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-09-08: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-26: sent for promulgation
+- 2021-03-17: promulgated, becomes Legea nr. 42/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-08-08: Adresă către Camera Deputaților (AM): [am-77f9f0aa.md](am-77f9f0aa.md); official file https://www.senat.ro/legis/PDF/2020/20L435AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-8160c280.md](axs-8160c280.md); official file https://www.senat.ro/legis/PDF/2020/20L435AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-6fee918c.md](lp-6fee918c.md); official file https://www.senat.ro/legis/PDF/2020/20L435LP.PDF
+- 2021-03-17: Decret de promulgare (DP): [dp-013d645e.md](dp-013d645e.md); official file https://www.senat.ro/legis/PDF/2020/20L435DP.PDF
+- 2021-03-17: Adresă privind forma promulgată (AFP): [afp-7af55d50.md](afp-7af55d50.md); official file https://www.senat.ro/legis/PDF/2020/20L435AFP.PDF
+- 2021-03-17: Forma promulgată (FP): [fp-85edc055.md](fp-85edc055.md); official file https://www.senat.ro/legis/PDF/2020/20L435FP.PDF
