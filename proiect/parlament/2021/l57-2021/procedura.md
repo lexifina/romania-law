@@ -1,0 +1,22 @@
+# Proiect de lege L57/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 233/2021 (`legea-233-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.17/2021 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS–CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr.227/2015 privind Codul fiscal, a Legii educației naționale nr.1/2011, precum și a altor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-03-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-03-18: Adresă de înaintare a inițiativei (AD): [ad-68108b3a.md](ad-68108b3a.md); official file https://www.senat.ro/legis/PDF/2021/21L057AD.PDF
+- 2021-03-18: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L057FG.PDF
+- 2021-03-18: Expunere de motive (EM): [em-d9a05d9f.md](em-d9a05d9f.md); official file https://www.senat.ro/legis/PDF/2021/21L057EM.PDF
+- 2021-03-18: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L057LG.PDF
+- 2021-03-18: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L057OG.PDF
+- 2021-03-18: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L057HG.PDF
