@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-17: adopted by the Chamber of Deputies
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-27: sent for promulgation
+- 2021-03-18: promulgated, becomes Legea nr. 46/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-3766b371.md](am-3766b371.md); official file https://www.senat.ro/legis/PDF/2020/20L382AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-6e1bb372.md](axs-6e1bb372.md); official file https://www.senat.ro/legis/PDF/2020/20L382AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-60941312.md](lp-60941312.md); official file https://www.senat.ro/legis/PDF/2020/20L382LP.PDF
+- 2021-03-18: Decret de promulgare (DP): [dp-7132f017.md](dp-7132f017.md); official file https://www.senat.ro/legis/PDF/2020/20L382DP.PDF
+- 2021-03-18: Adresă privind forma promulgată (AFP): [afp-f141628c.md](afp-f141628c.md); official file https://www.senat.ro/legis/PDF/2020/20L382AFP.PDF
+- 2021-03-18: Forma promulgată (FP): [fp-8b140d32.md](fp-8b140d32.md); official file https://www.senat.ro/legis/PDF/2020/20L382FP.PDF
