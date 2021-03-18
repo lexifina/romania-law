@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-10: documents published: Aviz comisie
 - 2021-03-11: documents published: Aviz comisie
 - 2021-03-12: documents published: Aviz comisie
+- 2021-03-18: documents published: Aviz comisie
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2021-03-11: Aviz comisie (CA5): [ca5-f56b8591.md](ca5-f56b8591.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA5.PDF
 - 2021-03-12: Aviz comisie (CA19): [ca19-996fd79f.md](ca19-996fd79f.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA19.PDF
 - 2021-03-12: Aviz comisie (CA3): [ca3-a9d2e533.md](ca3-a9d2e533.md); official file https://www.senat.ro/legis/PDF/2021/21L038CA3.PDF
+- 2021-03-18: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L038CA12.PDF
