@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-02-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-02-27: sent for promulgation
 - 2021-03-08: registered at the Chamber of Deputies
+- 2021-03-18: promulgated, becomes Legea nr. 45/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-7ff18497.md](am-7ff18497.md); official file https://www.senat.ro/legis/PDF/2020/20L011AM.PDF
 - 2021-02-22: Adresă privind sesizarea CCR (AXS): [axs-8f5bcd88.md](axs-8f5bcd88.md); official file https://www.senat.ro/legis/PDF/2020/20L011AXS.PDF
 - 2021-02-22: Forma trimisă la promulgare (LP): [lp-eb4cd8b5.md](lp-eb4cd8b5.md); official file https://www.senat.ro/legis/PDF/2020/20L011LP.PDF
+- 2021-03-18: Decret de promulgare (DP): [dp-d4e89600.md](dp-d4e89600.md); official file https://www.senat.ro/legis/PDF/2020/20L011DP.PDF
+- 2021-03-18: Adresă privind forma promulgată (AFP): [afp-5370f50c.md](afp-5370f50c.md); official file https://www.senat.ro/legis/PDF/2020/20L011AFP.PDF
+- 2021-03-18: Forma promulgată (FP): [fp-574e108b.md](fp-574e108b.md); official file https://www.senat.ro/legis/PDF/2020/20L011FP.PDF
