@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-08: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-01: sent for promulgation
+- 2021-03-19: promulgated, becomes Legea nr. 47/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-12-23: Adresă către Camera Deputaților (AM): [am-4864b57b.md](am-4864b57b.md); official file https://www.senat.ro/legis/PDF/2020/20L684AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-4060da95.md](axs-4060da95.md); official file https://www.senat.ro/legis/PDF/2020/20L684AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-bc8616aa.md](lp-bc8616aa.md); official file https://www.senat.ro/legis/PDF/2020/20L684LP.PDF
+- 2021-03-19: Decret de promulgare (DP): [dp-d0d7cc62.md](dp-d0d7cc62.md); official file https://www.senat.ro/legis/PDF/2020/20L684DP.PDF
+- 2021-03-19: Adresă privind forma promulgată (AFP): [afp-104410b2.md](afp-104410b2.md); official file https://www.senat.ro/legis/PDF/2020/20L684AFP.PDF
+- 2021-03-19: Forma promulgată (FP): [fp-ad6d26c3.md](fp-ad6d26c3.md); official file https://www.senat.ro/legis/PDF/2020/20L684FP.PDF
