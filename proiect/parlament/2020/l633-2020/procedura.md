@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-01: registered at the Chamber of Deputies
 - 2021-02-24: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-01: sent for promulgation
+- 2021-03-19: promulgated, becomes Legea nr. 48/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2020-12-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L633AM.PDF
 - 2021-02-24: Adresă privind sesizarea CCR (AXS): [axs-a4f402ee.md](axs-a4f402ee.md); official file https://www.senat.ro/legis/PDF/2020/20L633AXS.PDF
 - 2021-02-24: Forma trimisă la promulgare (LP): [lp-4fbb6c85.md](lp-4fbb6c85.md); official file https://www.senat.ro/legis/PDF/2020/20L633LP.PDF
+- 2021-03-19: Decret de promulgare (DP): [dp-8dd3716e.md](dp-8dd3716e.md); official file https://www.senat.ro/legis/PDF/2020/20L633DP.PDF
+- 2021-03-19: Adresă privind forma promulgată (AFP): [afp-923300dc.md](afp-923300dc.md); official file https://www.senat.ro/legis/PDF/2020/20L633AFP.PDF
+- 2021-03-19: Forma promulgată (FP): [fp-a8eafacc.md](fp-a8eafacc.md); official file https://www.senat.ro/legis/PDF/2020/20L633FP.PDF
