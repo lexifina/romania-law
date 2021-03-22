@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-24: documents published: Aviz comisie
 - 2021-03-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-03-22: sent for promulgation
 
 ## Documents
 
