@@ -12,9 +12,12 @@ Initiator: Membri ai Parlamentului.
 
 - 2021-03-17: first record in the bill file
 - 2021-03-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2021-03-23: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2021-03-18: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L125AD.PDF
 - 2021-03-18: Forma inițiatorului (FG): [fg-d527a218.md](fg-d527a218.md); official file https://www.senat.ro/legis/PDF/2021/21L125FG.PDF
 - 2021-03-18: Expunere de motive (EM): [em-287d63a0.md](em-287d63a0.md); official file https://www.senat.ro/legis/PDF/2021/21L125EM.PDF
+- 2021-03-23: Aviz Consiliul Economic și Social (ES): [es-fecebc50.md](es-fecebc50.md); official file https://www.senat.ro/legis/PDF/2021/21L125ES.PDF
+- 2021-03-23: Aviz Consiliul Legislativ (LG): [lg-f9ba2c7e.md](lg-f9ba2c7e.md); official file https://www.senat.ro/legis/PDF/2021/21L125LG.PDF
