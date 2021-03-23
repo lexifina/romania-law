@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-24: adopted by the Chamber of Deputies
 - 2019-09-19: returned for re-examination
 - 2021-02-01: rejected by the Senate
+- 2021-03-23: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,9 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-13: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239AM.PDF
 - 2018-06-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239AXS.PDF
 - 2018-06-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239LP.PDF
+- 2021-03-23: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-23: Document (RC): [rc-aa323bf7.md](rc-aa323bf7.md); official file https://www.senat.ro/legis/PDF/2018/18L239RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-23: Document (XD): [xd-41508cdc.md](xd-41508cdc.md); official file https://www.senat.ro/legis/PDF/2018/18L239XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-23: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-23: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-23: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L239PX.PDF (its day is not given by the bill file: shown from the last stage held)
