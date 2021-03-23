@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-24: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2020-05-12: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-05-20: registered at the Chamber of Deputies
+- 2021-03-23: rejected by the Chamber of Deputies; legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-24: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L172LG.PDF
 - 2020-02-24: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L172PV.PDF
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-cba1a0e0.md](am-cba1a0e0.md); official file https://www.senat.ro/legis/PDF/2020/20L172AM.PDF
+- 2021-03-23: Document (AA): [aa-c98a1d00.md](aa-c98a1d00.md); official file https://www.senat.ro/legis/PDF/2020/20L172AA.PDF (its day is not given by the bill file: shown from the last stage held)
