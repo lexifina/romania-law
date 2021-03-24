@@ -1,0 +1,19 @@
+# Propunere legislativă L140/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 220/2021 (`legea-220-2021`).
+
+Propunere legislativă pentru modificarea Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-03-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-03-24: Adresă de înaintare a inițiativei (AD): [ad-ca4215bb.md](ad-ca4215bb.md); official file https://www.senat.ro/legis/PDF/2021/21L140AD.PDF
+- 2021-03-24: Forma inițiatorului (FG): [fg-f92df45b.md](fg-f92df45b.md); official file https://www.senat.ro/legis/PDF/2021/21L140FG.PDF
+- 2021-03-24: Expunere de motive (EM): [em-b22fc7fc.md](em-b22fc7fc.md); official file https://www.senat.ro/legis/PDF/2021/21L140EM.PDF
