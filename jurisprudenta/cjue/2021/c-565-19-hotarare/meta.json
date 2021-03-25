@@ -1,0 +1,40 @@
+{
+ "key": "cjue-c-565-19-hotarare-2021-03-25",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 25 martie 2021, Cauza C-565/19 P",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2021-03-25",
+ "year": "2021",
+ "case": "Cauza C-565/19 P",
+ "celex": "62019CJ0565",
+ "ecli": "ECLI:EU:C:2021:252",
+ "heading": "Hotărârea Curții (Camera a șasea) din 25 martie 2021",
+ "formation": "CHAMB_06_C",
+ "procedure": "ACTION_DAM",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Acțiune în anulare și în despăgubire – Mediu – Pachetul climat-energie 2030 – Articolul 263 al patrulea paragraf TFUE – Lipsa afectării individuale",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0565",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-565/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
