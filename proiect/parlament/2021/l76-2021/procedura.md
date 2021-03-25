@@ -11,7 +11,13 @@ Initiator: Guvernul României.
 - 2021-02-22: registered at the Chamber of Deputies
 - 2021-03-22: documents published: Raport comisie sesizată pe fond
 - 2021-03-24: adopted by the Chamber of Deputies
+- 2021-03-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2021-03-22: Raport comisie sesizată pe fond (CR): [cr-2d542656.md](cr-2d542656.md); official file https://www.senat.ro/legis/PDF/2021/21L076CR.PDF
+- 2021-03-25: Adresă de înaintare a inițiativei (AD): [ad-55473a0e.md](ad-55473a0e.md); official file https://www.senat.ro/legis/PDF/2021/21L076AD.PDF
+- 2021-03-25: Forma inițiatorului (FG): [fg-cd1292a2.md](fg-cd1292a2.md); official file https://www.senat.ro/legis/PDF/2021/21L076FG.PDF
+- 2021-03-25: Expunere de motive (EM): [em-44e86da3.md](em-44e86da3.md); official file https://www.senat.ro/legis/PDF/2021/21L076EM.PDF
+- 2021-03-25: Aviz Consiliul Legislativ (LG): [lg-af7745ad.md](lg-af7745ad.md); official file https://www.senat.ro/legis/PDF/2021/21L076LG.PDF
+- 2021-03-25: Document (HG): [hg-38c00606.md](hg-38c00606.md); official file https://www.senat.ro/legis/PDF/2021/21L076HG.PDF
