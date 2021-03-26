@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-10: adopted by the Chamber of Deputies
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-18: sent for promulgation
+- 2021-03-26: promulgated, becomes Legea nr. 51/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,7 @@ Initiator: Guvernul României.
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-22bcc5d7.md](am-22bcc5d7.md); official file https://www.senat.ro/legis/PDF/2020/20L580AM.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L580AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-138497b2.md](lp-138497b2.md); official file https://www.senat.ro/legis/PDF/2020/20L580LP.PDF
+- 2021-03-26: Document (TA): [ta-33ad8e30.md](ta-33ad8e30.md); official file https://www.senat.ro/legis/PDF/2020/20L580TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-03-26: Decret de promulgare (DP): [dp-a79432f9.md](dp-a79432f9.md); official file https://www.senat.ro/legis/PDF/2020/20L580DP.PDF
+- 2021-03-26: Adresă privind forma promulgată (AFP): [afp-51537340.md](afp-51537340.md); official file https://www.senat.ro/legis/PDF/2020/20L580AFP.PDF
+- 2021-03-26: Forma promulgată (FP): [fp-e760ca9c.md](fp-e760ca9c.md); official file https://www.senat.ro/legis/PDF/2020/20L580FP.PDF
