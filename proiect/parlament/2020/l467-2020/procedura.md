@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-03: adopted by the Chamber of Deputies
 - 2021-03-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-10: sent for promulgation
+- 2021-03-29: promulgated, becomes Legea nr. 53/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-08-26: Adresă către Camera Deputaților (AM): [am-f6613cf7.md](am-f6613cf7.md); official file https://www.senat.ro/legis/PDF/2020/20L467AM.PDF
 - 2021-03-08: Adresă privind sesizarea CCR (AXS): [axs-15ba3b5b.md](axs-15ba3b5b.md); official file https://www.senat.ro/legis/PDF/2020/20L467AXS.PDF
 - 2021-03-08: Forma trimisă la promulgare (LP): [lp-66c8e42c.md](lp-66c8e42c.md); official file https://www.senat.ro/legis/PDF/2020/20L467LP.PDF
+- 2021-03-29: Decret de promulgare (DP): [dp-8f0320fb.md](dp-8f0320fb.md); official file https://www.senat.ro/legis/PDF/2020/20L467DP.PDF
+- 2021-03-29: Adresă privind forma promulgată (AFP): [afp-ba0bcd33.md](afp-ba0bcd33.md); official file https://www.senat.ro/legis/PDF/2020/20L467AFP.PDF
+- 2021-03-29: Forma promulgată (FP): [fp-5404bdbd.md](fp-5404bdbd.md); official file https://www.senat.ro/legis/PDF/2020/20L467FP.PDF
