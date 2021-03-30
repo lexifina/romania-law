@@ -1,0 +1,11 @@
+# HCGMB nr. 103/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 103/2021
+- Adopted: 2021-03-30
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 4 DE A HOTARI CU PRIVIRE LA APROBAREA PROCEDURII DE COLABORARE SI A PARTENERIATULUI PENTRU DEZVOLTARE LOCALA INTRE SECTORUL 4 AL MUNICIPIULUI BUCURESTI, DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 4 SI ASOCIATIA GO - AHEAD PRIVIND PROIECTUL "CETATENIE ACTIVA INTR-O LUME DIGITALA" IN CADRUL APELULUI DE PROIECTE LANSAT PRIN PROGRAMUL OPERATIONAL CAPACITATE ADMINISTRATIVA 2014 - 2020
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41887
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41887/H103_21.pdf
+- Document sha256: 6cfaf1ebd194ff819856bf54982f66de299f1d575dbce3932a8cbb4d6ad9e4f7
