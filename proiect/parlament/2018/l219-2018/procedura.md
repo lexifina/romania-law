@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-11: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
 - 2018-04-16: registered at the Chamber of Deputies
 - 2018-04-17: documents published: Aviz comisie
+- 2021-03-30: rejected by the Chamber of Deputies; legislative procedure ended
 
 ## Documents
 
