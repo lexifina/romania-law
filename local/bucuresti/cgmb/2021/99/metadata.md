@@ -1,0 +1,11 @@
+# HCGMB nr. 99/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 99/2021
+- Adopted: 2021-03-30
+- Title: PRIVIND APROBAREA PARTICIPARII MUNICIPIULUI BUCURETSTI CA PARTENER PENTRU DEZVOLTARE LOCALA IN CADRUL PROIECTULUI, AXA CREATIVA A BUCURETSTIULUI" PROPUS SPRE FINANTARE DE CATRE FUNDATIA FRIENDS FOR FRIENDS IN CADRUL AM POCA, AXA PRIORITARA 2 - ADMINISTRATIE PUBLICA SI SISTEM JUDICIAR ACCESIBILE SI TRANSPARENTE, CU PRIVIRE LA CONSOLIDAREA CAPACITATII ONG-URILOR SI PARTENERILOR SOCIALI DE A SE IMPLICA IN FORMULAREA SI PROMOVAREA DEZVOLTARII LA NIVEL LOCAL
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41878
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41878/H099_21.pdf
+- Document sha256: 00f54c25621d33382f452882913e44be3c9cd8df8f708a9d3815a26033feaedf
