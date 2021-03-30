@@ -1,0 +1,234 @@
+{
+ "key": "dcc-832-2020",
+ "label": "Decizia CCR nr. 832/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "832",
+ "date": "2020-11-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 832 din 17 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 26 alin. (1), (7) și (8) din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "321",
+  "bis": false,
+  "date": "2021-03-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.786/100/2017",
+  "208D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 26 alin. (8) din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice, excepție ridicată de Virginica Meda Leordean în Dosarul nr. 1.786/100/2017 al Tribunalului Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în același dosar al aceleiași instanțe și constată că dispozițiile art. 26 alin. (1) și (7) din Legea-cadru nr. 284/2010 privind salarizarea unitară a personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "7",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 286/2011",
+    "number": "286",
+    "year": "2011",
+    "path": "hg/2011/286"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-03-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240173",
+  "text_sha256": "0f8c6f7e4387e8749d56f5145573b71d0490d6722c938cbbe39536a9ca5a414d",
+  "catalogue_sha256": "0f8c6f7e4387e8749d56f5145573b71d0490d6722c938cbbe39536a9ca5a414d",
+  "fetched": "2026-11-03T01:48:17Z",
+  "chars": 21345,
+  "portal_id": "240173",
+  "tip": "DECIZIE"
+ }
+}
