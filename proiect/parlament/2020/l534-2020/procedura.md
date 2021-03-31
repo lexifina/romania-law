@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-03: adopted by the Chamber of Deputies
 - 2021-03-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-13: sent for promulgation
+- 2021-03-31: promulgated, becomes Legea nr. 57/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-03: Aviz comisie (CA44): [ca44-bc981a33.md](ca44-bc981a33.md); official file https://www.senat.ro/legis/PDF/2020/20L534CA44.PDF
 - 2021-03-08: Adresă privind sesizarea CCR (AXS): [axs-1e6e56ee.md](axs-1e6e56ee.md); official file https://www.senat.ro/legis/PDF/2020/20L534AXS.PDF
 - 2021-03-08: Forma trimisă la promulgare (LP): [lp-99281178.md](lp-99281178.md); official file https://www.senat.ro/legis/PDF/2020/20L534LP.PDF
+- 2021-03-31: Decret de promulgare (DP): [dp-ba42db0b.md](dp-ba42db0b.md); official file https://www.senat.ro/legis/PDF/2020/20L534DP.PDF
+- 2021-03-31: Adresă privind forma promulgată (AFP): [afp-4848fc8b.md](afp-4848fc8b.md); official file https://www.senat.ro/legis/PDF/2020/20L534AFP.PDF
+- 2021-03-31: Forma promulgată (FP): [fp-112a9878.md](fp-112a9878.md); official file https://www.senat.ro/legis/PDF/2020/20L534FP.PDF
