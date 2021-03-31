@@ -1,0 +1,6 @@
+Consiliul Judetean Braila intrunit in sedinta ordinara la data de 31 martie 2021;
+Avand in vedere Referatul de aprobare al Presedintelui Consiliului Judetean Braila, Raportul de specialitate al Directiei Arhitect Sef nr.5447/16.03.2021, Raportul de specialitate Directiei Administratie Publica, Contencios nr.5731/19.03.2021, referitor la necesitatea aprobarii Regulamentului de predare/primire a documentatiilor anexate la cererile depuse la Registratura generala a Consiliului Judetean Braila in vederea emiterii autorizatiilor de construire/desfiintare, avizelor structurii de specialitate si avizelor Comisiei tehnice de amenajarea teritoriului si urbanism ;
+Vazand avizul Comisiei de organizare si dezvoltare urbanistica, realizarea lucrarilor publice, protectia mediului înconjurator, agricultura, turism, transport;
+In baza prevederilor art.11 din Ordonanta de Urgenta nr. 140 din 19 august 2020 pentru stabilirea unor masuri privind utilizarea inscrisurilor in forma electronica in domeniile constructii, arhitectura si urbanism;
+In temeiul prevederilor art. 182, art.196, alin.(1), lit a) din Ordonanta Guvernului nr.57/2019 privind Codul administativ, cu modificarile si completarile ulterioare;
+HOTARASTE
