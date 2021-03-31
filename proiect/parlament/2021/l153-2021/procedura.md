@@ -1,0 +1,19 @@
+# Propunere legislativă L153/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 85/2022 (`legea-85-2022`).
+
+Propunere legislativă pentru modificarea și completarea Ordonanței Guvernului nr.43/1997 privind regimul drumurilor și a Ordonanței de urgență nr.195/2002 privind circulația pe drumurile publice, precum și pentru completarea Legii nr.255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes național, județean și local
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-03-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-03-31: Adresă de înaintare a inițiativei (AD): [ad-dc979cfd.md](ad-dc979cfd.md); official file https://www.senat.ro/legis/PDF/2021/21L153AD.PDF
+- 2021-03-31: Forma inițiatorului (FG): [fg-874ad18b.md](fg-874ad18b.md); official file https://www.senat.ro/legis/PDF/2021/21L153FG.PDF
+- 2021-03-31: Expunere de motive (EM): [em-606fafa8.md](em-606fafa8.md); official file https://www.senat.ro/legis/PDF/2021/21L153EM.PDF
