@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-10: adopted by the Senate
 - 2020-12-15: adopted by the Chamber of Deputies
 - 2020-12-21: sent for promulgation
+- 2021-03-31: promulgated, becomes Legea nr. 55/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L130AM.PDF
 - 2018-12-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L130AXS.PDF
 - 2018-12-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L130LP.PDF
+- 2021-03-31: Decret de promulgare (DP): [dp-1bdd967f.md](dp-1bdd967f.md); official file https://www.senat.ro/legis/PDF/2018/18L130DP.PDF
+- 2021-03-31: Adresă privind forma promulgată (AFP): [afp-7b9677b1.md](afp-7b9677b1.md); official file https://www.senat.ro/legis/PDF/2018/18L130AFP.PDF
+- 2021-03-31: Forma promulgată (FP): [fp-e8717705.md](fp-e8717705.md); official file https://www.senat.ro/legis/PDF/2018/18L130FP.PDF
