@@ -1,0 +1,29 @@
+# Anexa 4
+Anexa nr. 4
+la normele de aplicare
+ROMÂNIA
+MINISTERUL AFACERILOR INTERNE
+- model -
+PROGRAM
+de recuperare medicală a ............... (gradul, numele și prenumele),
+CNP ............................., încadrat în gradul I de invaliditate, pentru perioada ......................
+Nr. crt. Activitatea Data/Perioada Observații
+1
+2
+NOTĂ: Programul este însoțit de documentația avută în vedere la întocmirea acestuia.
+Întocmit la data de ....... ....... ....... de către membrii comisiei multidisciplinare constituite prin Dispoziția directorului Direcției medicale nr. .............../ ...... ....... ...... Membri/Specialitatea Semnătura
+1. ...............................................................
+2. ...............................................................
+3. ...............................................................
+4. ...............................................................
+5. ...............................................................
+Pacient/Reprezentant legal
+(gradul, numele și prenumele)
+................................................................
+Data luării la cunoștință
+................................................................
+Semnătura
+................................................................
+CONFIDENȚIAL!
+Date cu caracter personal prelucrate conform prevederilor Regulamentului (UE) 679/2016 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor)
+----
