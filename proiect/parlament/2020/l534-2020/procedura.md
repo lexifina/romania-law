@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-13: sent for promulgation
 - 2021-03-31: promulgated, becomes Legea nr. 57/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-02: published in the Monitorul Oficial
 
 ## Documents
 
