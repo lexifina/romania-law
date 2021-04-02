@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-10: adopted by the Chamber of Deputies
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-18: sent for promulgation
+- 2021-04-02: promulgated, becomes Legea nr. 58/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2021-02-01: Adresă către Camera Deputaților (AM): [am-84ad3907.md](am-84ad3907.md); official file https://www.senat.ro/legis/PDF/2020/20L694AM.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L694AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-a4e83bcc.md](lp-a4e83bcc.md); official file https://www.senat.ro/legis/PDF/2020/20L694LP.PDF
+- 2021-04-02: Decret de promulgare (DP): [dp-76f85358.md](dp-76f85358.md); official file https://www.senat.ro/legis/PDF/2020/20L694DP.PDF
+- 2021-04-02: Adresă privind forma promulgată (AFP): [afp-eb6166b7.md](afp-eb6166b7.md); official file https://www.senat.ro/legis/PDF/2020/20L694AFP.PDF
+- 2021-04-02: Forma promulgată (FP): [fp-50720296.md](fp-50720296.md); official file https://www.senat.ro/legis/PDF/2020/20L694FP.PDF
