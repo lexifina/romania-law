@@ -1,0 +1,22 @@
+# Proiect de lege L88/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 231/2021 (`legea-231-2021`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.24/2021 pentru modificarea și completarea Ordonanţei de urgenţã a Guvernului nr.155/2020 privind unele măsuri pentru elaborarea Planului național de relansare și reziliență necesar României pentru accesarea de fonduri externe rambursabile și nerambursabile în cadrul Mecanismului de redresare și reziliență
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-04-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-04-02: Adresă de înaintare a inițiativei (AD): [ad-bf722c32.md](ad-bf722c32.md); official file https://www.senat.ro/legis/PDF/2021/21L088AD.PDF
+- 2021-04-02: Forma inițiatorului (FG): [fg-020543cf.md](fg-020543cf.md); official file https://www.senat.ro/legis/PDF/2021/21L088FG.PDF
+- 2021-04-02: Expunere de motive (EM): [em-6da8aafe.md](em-6da8aafe.md); official file https://www.senat.ro/legis/PDF/2021/21L088EM.PDF
+- 2021-04-02: Aviz Consiliul Legislativ (LG): [lg-f959648c.md](lg-f959648c.md); official file https://www.senat.ro/legis/PDF/2021/21L088LG.PDF
+- 2021-04-02: Document (OG): [og-d0639ac6.md](og-d0639ac6.md); official file https://www.senat.ro/legis/PDF/2021/21L088OG.PDF
+- 2021-04-02: Document (HG): [hg-9e781948.md](hg-9e781948.md); official file https://www.senat.ro/legis/PDF/2021/21L088HG.PDF
