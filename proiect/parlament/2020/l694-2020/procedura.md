@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-18: sent for promulgation
 - 2021-04-02: promulgated, becomes Legea nr. 58/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-05: published in the Monitorul Oficial
 
 ## Documents
 
