@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-10: adopted by the Chamber of Deputies
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-18: sent for promulgation
+- 2021-04-06: promulgated, becomes Legea nr. 61/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-03-27: Adresă către Camera Deputaților (AM): [am-5ab43d9f.md](am-5ab43d9f.md); official file https://www.senat.ro/legis/PDF/2020/20L089AM.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L089AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-109af626.md](lp-109af626.md); official file https://www.senat.ro/legis/PDF/2020/20L089LP.PDF
+- 2021-04-06: Decret de promulgare (DP): [dp-9ee289d1.md](dp-9ee289d1.md); official file https://www.senat.ro/legis/PDF/2020/20L089DP.PDF
+- 2021-04-06: Adresă privind forma promulgată (AFP): [afp-bd613bec.md](afp-bd613bec.md); official file https://www.senat.ro/legis/PDF/2020/20L089AFP.PDF
+- 2021-04-06: Forma promulgată (FP): [fp-cd805c1b.md](fp-cd805c1b.md); official file https://www.senat.ro/legis/PDF/2020/20L089FP.PDF
