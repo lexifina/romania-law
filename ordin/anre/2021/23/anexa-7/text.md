@@ -1,0 +1,29 @@
+# Anexa nr. 8 (Anexa nr. 7 la regulament)
+Anexa la Autorizația nr........ din data........
+CONDIȚII DE VALABILITATE aferente autorizațiilor acordate persoanelor juridice care desfășoară activități de exploatare a contoarelor de apă caldă utilizate ca repartitoare de costuri în imobile de tip condominiu
+1.
+Prezentele condiții stabilesc cerințele necesare pentru valabilitatea Autorizației nr............... din data............. tip IV - pentru desfășurarea activității de exploatare a contoarelor de apă caldă utilizate ca repartitoare de costuri în imobile de tip condominiu, denumită în continuare autorizație.
+2.
+Autorizația este acordată de Autoritatea Națională de Reglementare în Domeniul Energiei, denumită în continuare ANRE, persoanei juridice........................ (denumirea persoanei juridice), înregistrată în registrul comerțului cu nr. de ordine.............., având codul unic de înregistrare................, denumită în continuare titular.
+3.
+Autorizația este valabilă începând din data de................. până la data de..................
+4.
+Titularul are dreptul să desfășoare activitatea de exploatare a contoarelor de apă caldă utilizate ca repartitoare de costuri în imobile de tip condominiu pentru următoarele tipuri de contoare...................................... (denumirea comercială a contoarelor).
+5.
+Titularul are dreptul să solicite ANRE, în scris, retragerea autorizației în situația în care nu mai dorește să continue activitatea autorizată.
+6.
+Titularul are obligația să desfășoare activitatea prevăzută la pct. 4, în conformitate cu reglementările tehnice aplicabile, numai pe baze contractuale.
+7.
+Titularul are obligația să notifice ANRE cu privire la modificarea condițiilor avute în vedere la autorizare, în termen de 30 de zile de la înregistrarea acestora.
+8.
+Titularul are obligația să dețină fișe tehnice, instrucțiuni de montaj și de utilizare pentru contoarele de apă caldă utilizate ca repartitoare de costuri în imobile de tip condominiu ce fac obiectul autorizației și să respecte indicațiile prevăzute de acestea.
+9.
+Titularul are obligația să exploateze numai contoarele de apă caldă utilizate ca repartitoare de costuri în imobile de tip condominiu care respectă prevederile legislației aplicabile privind stabilirea condițiilor pentru comercializarea produselor pentru construcții și să dețină declarațiile de conformitate și/sau de performanță aferente.
+10.
+Titularul are obligația să asigure, pe întreaga durată de valabilitate a autorizației, personal calificat și dotare tehnico-materială pentru desfășurarea activității prevăzute la pct. 4.
+11.
+Titularul are obligația să raporteze anual ANRE activitatea desfășurată, în conformitate cu prevederile legale aplicabile.
+12.
+La solicitarea ANRE, titularul are obligația să furnizeze corect și complet, în termenul precizat de ANRE, datele și informațiile solicitate de aceasta și să asigure asistență necesară agenților constatatori ai ANRE pe parcursul efectuării acțiunii de control, în conformitate cu prevederile legale aplicabile.
+13.
+În condițiile nerespectării cerințelor de mai sus, ANRE este îndreptățită să aplice sancțiunile legale titularului de autorizație, inclusiv să suspende sau să retragă autorizația.”
