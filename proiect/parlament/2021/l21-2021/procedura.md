@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-08: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-22: sent for promulgation
+- 2021-04-08: promulgated, becomes Legea nr. 64/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-03-08: Forma adoptată de Senat (FS): [fs-769f7d7f.md](fs-769f7d7f.md); official file https://www.senat.ro/legis/PDF/2021/21L021FS.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2021/21L021AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-40a51c8a.md](lp-40a51c8a.md); official file https://www.senat.ro/legis/PDF/2021/21L021LP.PDF
+- 2021-04-08: Decret de promulgare (DP): [dp-cb4955fc.md](dp-cb4955fc.md); official file https://www.senat.ro/legis/PDF/2021/21L021DP.PDF
+- 2021-04-08: Adresă privind forma promulgată (AFP): [afp-7ff8e280.md](afp-7ff8e280.md); official file https://www.senat.ro/legis/PDF/2021/21L021AFP.PDF
+- 2021-04-08: Forma promulgată (FP): [fp-0992aae4.md](fp-0992aae4.md); official file https://www.senat.ro/legis/PDF/2021/21L021FP.PDF
