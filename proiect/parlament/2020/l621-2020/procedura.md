@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-10: adopted by the Chamber of Deputies
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-22: sent for promulgation
+- 2021-04-08: promulgated, becomes Legea nr. 65/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-11-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L621AM.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L621AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-4cf2ac34.md](lp-4cf2ac34.md); official file https://www.senat.ro/legis/PDF/2020/20L621LP.PDF
+- 2021-04-08: Decret de promulgare (DP): [dp-2a580ce6.md](dp-2a580ce6.md); official file https://www.senat.ro/legis/PDF/2020/20L621DP.PDF
+- 2021-04-08: Adresă privind forma promulgată (AFP): [afp-2cd6090f.md](afp-2cd6090f.md); official file https://www.senat.ro/legis/PDF/2020/20L621AFP.PDF
+- 2021-04-08: Forma promulgată (FP): [fp-bf5adfdc.md](fp-bf5adfdc.md); official file https://www.senat.ro/legis/PDF/2020/20L621FP.PDF
