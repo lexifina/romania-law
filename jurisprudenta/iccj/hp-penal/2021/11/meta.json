@@ -1,0 +1,390 @@
+{
+ "key": "iccj-hp-penal-11-2021",
+ "label": "Decizia ÎCCJ nr. 11/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2021-02-18",
+ "year": "2021",
+ "heading": "DECIZIA nr. 11 din 18 februarie 2021",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: dacă formularea cuprinsă în art. 335 alin. (3) din Codul penal, respectiv, \"cu aceeași pedeapsă\", face trimitere la pedeapsa prevăzută de art. 335 alin. (2) din Codul penal sau face trimitere la pedeapsa prevăzută de art. 335 alin. (1) din Codul penal, art. 335 alin. (2) din Codul penal sau art. 336 din Codul penal, în funcție de elementul material alternativ al faptei comise",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "361",
+  "bis": false,
+  "date": "2021-04-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.104/1/2020",
+  "6.396/740/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 6.396/740/2019 (1.993/2020), prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: dacă formularea cuprinsă în art. 335 alin. (3) din Codul penal, respectiv, „cu aceeași pedeapsă“, face trimitere la pedeapsa prevăzută de art. 335 alin. (2) din Codul penal sau face trimitere la pedeapsa prevăzută de art. 335 alin. (1) din Codul penal, art. 335 alin. (2) din Codul penal sau art. 336 din Codul penal, în funcție de elementul material alternativ al faptei comise.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "239",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "379",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "310",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "324",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "331",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "332",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "350",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "378",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "381",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "387",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "391",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "405",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "420",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "435",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "436",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "439",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "440",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 91
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-04-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240809",
+  "text_sha256": "a8ecdd2978debeb6631ae6a13a80a87c0c4efc9221fceb65605e75601aa771fa",
+  "catalogue_sha256": "a8ecdd2978debeb6631ae6a13a80a87c0c4efc9221fceb65605e75601aa771fa",
+  "fetched": "2026-11-03T01:47:44Z",
+  "chars": 39319,
+  "portal_id": "240809",
+  "tip": "DECIZIE"
+ }
+}
