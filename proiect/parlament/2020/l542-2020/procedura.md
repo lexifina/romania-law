@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-03-10: adopted by the Chamber of Deputies
 - 2021-03-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-22: sent for promulgation
+- 2021-04-08: promulgated, becomes Legea nr. 66/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-09-08: Adresă către Camera Deputaților (AM): [am-d2450df5.md](am-d2450df5.md); official file https://www.senat.ro/legis/PDF/2020/20L542AM.PDF
 - 2021-03-16: Adresă privind sesizarea CCR (AXS): [axs-0345c2b1.md](axs-0345c2b1.md); official file https://www.senat.ro/legis/PDF/2020/20L542AXS.PDF
 - 2021-03-16: Forma trimisă la promulgare (LP): [lp-9f52b082.md](lp-9f52b082.md); official file https://www.senat.ro/legis/PDF/2020/20L542LP.PDF
+- 2021-04-08: Decret de promulgare (DP): [dp-b87e0e51.md](dp-b87e0e51.md); official file https://www.senat.ro/legis/PDF/2020/20L542DP.PDF
+- 2021-04-08: Adresă privind forma promulgată (AFP): [afp-7268af7c.md](afp-7268af7c.md); official file https://www.senat.ro/legis/PDF/2020/20L542AFP.PDF
+- 2021-04-08: Forma promulgată (FP): [fp-26248b62.md](fp-26248b62.md); official file https://www.senat.ro/legis/PDF/2020/20L542FP.PDF
