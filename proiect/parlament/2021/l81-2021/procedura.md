@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-02-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2021-04-06: documents published: Aviz comisie
+- 2021-04-08: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-22: Aviz Consiliul Legislativ (LG): [lg-44976edb.md](lg-44976edb.md); official file https://www.senat.ro/legis/PDF/2021/21L081LG.PDF
 - 2021-02-22: Aviz Consiliul Economic și Social (ES): [es-4a33f453.md](es-4a33f453.md); official file https://www.senat.ro/legis/PDF/2021/21L081ES.PDF
 - 2021-04-06: Aviz comisie (CA3): [ca3-6f931fc6.md](ca3-6f931fc6.md); official file https://www.senat.ro/legis/PDF/2021/21L081CA3.PDF
+- 2021-04-08: Aviz comisie (CA45): [ca45-1b5473fe.md](ca45-1b5473fe.md); official file https://www.senat.ro/legis/PDF/2021/21L081CA45.PDF
