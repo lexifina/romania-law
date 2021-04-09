@@ -1,0 +1,495 @@
+{
+ "key": "dcc-59-2021",
+ "label": "Decizia CCR nr. 59/2021",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "59",
+ "date": "2021-01-26",
+ "year": "2021",
+ "heading": "DECIZIA nr. 59 din 26 ianuarie 2021",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a prevederilor Legii pentru modificarea și completarea Ordonanței Guvernului nr. 51/1997 privind operațiunile de leasing și societățile de leasing",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "368",
+  "bis": false,
+  "date": "2021-04-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.927A/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea și completarea Ordonanței Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "lege/1997/51"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de un număr de 71 de deputați aparținând Grupului parlamentar al Partidului Național Liberal și constată că Legea pentru modificarea și completarea Ordonanței Guvernului nr. 51/1997 privind operațiunile de leasing și societățile de leasing este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea și completarea Ordonanței Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "lege/1997/51"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "632",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru completarea Ordonanței Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "lege/2011/13"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2378",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2388",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1469",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1270",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul consumului",
+    "path": "lege/2004/296",
+    "slug": "legea-296-2004"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-04-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240852",
+  "text_sha256": "822237ef247c55dbfb045cf49d2f8da8983629a4958bc42b9a5b23f7f5bd2ebd",
+  "catalogue_sha256": "822237ef247c55dbfb045cf49d2f8da8983629a4958bc42b9a5b23f7f5bd2ebd",
+  "fetched": "2026-11-03T01:47:42Z",
+  "chars": 86297,
+  "portal_id": "240852",
+  "tip": "DECIZIE"
+ }
+}
