@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-09: promulgated, becomes Legea nr. 71/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L368AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2019/19L368AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-c7fa8353.md](lp-c7fa8353.md); official file https://www.senat.ro/legis/PDF/2019/19L368LP.PDF
+- 2021-04-09: Decret de promulgare (DP): [dp-49b0ef14.md](dp-49b0ef14.md); official file https://www.senat.ro/legis/PDF/2019/19L368DP.PDF
+- 2021-04-09: Adresă privind forma promulgată (AFP): [afp-76f4a18d.md](afp-76f4a18d.md); official file https://www.senat.ro/legis/PDF/2019/19L368AFP.PDF
+- 2021-04-09: Forma promulgată (FP): [fp-a4f8cf1d.md](fp-a4f8cf1d.md); official file https://www.senat.ro/legis/PDF/2019/19L368FP.PDF
