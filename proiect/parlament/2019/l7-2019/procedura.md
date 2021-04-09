@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-09: promulgated, becomes Legea nr. 68/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-02-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L007AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2019/19L007AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-5fa2b7b7.md](lp-5fa2b7b7.md); official file https://www.senat.ro/legis/PDF/2019/19L007LP.PDF
+- 2021-04-09: Decret de promulgare (DP): [dp-7b23f2f2.md](dp-7b23f2f2.md); official file https://www.senat.ro/legis/PDF/2019/19L007DP.PDF
+- 2021-04-09: Adresă privind forma promulgată (AFP): [afp-6e51edcf.md](afp-6e51edcf.md); official file https://www.senat.ro/legis/PDF/2019/19L007AFP.PDF
+- 2021-04-09: Forma promulgată (FP): [fp-df5c11fc.md](fp-df5c11fc.md); official file https://www.senat.ro/legis/PDF/2019/19L007FP.PDF
