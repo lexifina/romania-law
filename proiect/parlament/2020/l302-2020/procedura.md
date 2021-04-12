@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-12: promulgated, becomes Legea nr. 80/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-06-10: Adresă către Camera Deputaților (AM): [am-c11058a4.md](am-c11058a4.md); official file https://www.senat.ro/legis/PDF/2020/20L302AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2020/20L302AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-ce34eb76.md](lp-ce34eb76.md); official file https://www.senat.ro/legis/PDF/2020/20L302LP.PDF
+- 2021-04-12: Decret de promulgare (DP): [dp-3a9b01c2.md](dp-3a9b01c2.md); official file https://www.senat.ro/legis/PDF/2020/20L302DP.PDF
+- 2021-04-12: Adresă privind forma promulgată (AFP): [afp-8cf1e6fe.md](afp-8cf1e6fe.md); official file https://www.senat.ro/legis/PDF/2020/20L302AFP.PDF
+- 2021-04-12: Forma promulgată (FP): [fp-8bb7fe65.md](fp-8bb7fe65.md); official file https://www.senat.ro/legis/PDF/2020/20L302FP.PDF
