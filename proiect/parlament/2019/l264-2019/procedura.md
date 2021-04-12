@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
 - 2021-04-09: promulgated, becomes Legea nr. 69/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-12: published in the Monitorul Oficial
 
 ## Documents
 
