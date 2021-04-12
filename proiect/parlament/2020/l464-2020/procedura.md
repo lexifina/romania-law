@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-29: published in the Monitorul Oficial
 - 2020-10-26: returned for re-examination
 - 2020-11-10: documents published: Aviz comisie
+- 2021-04-12: rejected by the Senate
 
 ## Documents
 
