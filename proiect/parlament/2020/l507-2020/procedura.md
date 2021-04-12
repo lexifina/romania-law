@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-12: promulgated, becomes Legea nr. 78/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-cb38bc2b.md](am-cb38bc2b.md); official file https://www.senat.ro/legis/PDF/2020/20L507AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2020/20L507AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-c159926b.md](lp-c159926b.md); official file https://www.senat.ro/legis/PDF/2020/20L507LP.PDF
+- 2021-04-12: Decret de promulgare (DP): [dp-e22d4813.md](dp-e22d4813.md); official file https://www.senat.ro/legis/PDF/2020/20L507DP.PDF
+- 2021-04-12: Adresă privind forma promulgată (AFP): [afp-168a5d33.md](afp-168a5d33.md); official file https://www.senat.ro/legis/PDF/2020/20L507AFP.PDF
+- 2021-04-12: Forma promulgată (FP): [fp-45dddfc4.md](fp-45dddfc4.md); official file https://www.senat.ro/legis/PDF/2020/20L507FP.PDF
