@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-12: promulgated, becomes Legea nr. 74/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2019-09-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L331AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2019/19L331AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-ee089d9e.md](lp-ee089d9e.md); official file https://www.senat.ro/legis/PDF/2019/19L331LP.PDF
+- 2021-04-12: Decret de promulgare (DP): [dp-0f8f87d7.md](dp-0f8f87d7.md); official file https://www.senat.ro/legis/PDF/2019/19L331DP.PDF
+- 2021-04-12: Adresă privind forma promulgată (AFP): [afp-d7ff6b35.md](afp-d7ff6b35.md); official file https://www.senat.ro/legis/PDF/2019/19L331AFP.PDF
+- 2021-04-12: Forma promulgată (FP): [fp-13cd2be6.md](fp-13cd2be6.md); official file https://www.senat.ro/legis/PDF/2019/19L331FP.PDF
