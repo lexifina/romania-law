@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-24: sent for promulgation
+- 2021-04-12: promulgated, becomes Legea nr. 76/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2021-02-08: Adresă către Camera Deputaților (AM): [am-2f2c9956.md](am-2f2c9956.md); official file https://www.senat.ro/legis/PDF/2021/21L007AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2021/21L007AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-ffe8203b.md](lp-ffe8203b.md); official file https://www.senat.ro/legis/PDF/2021/21L007LP.PDF
+- 2021-04-12: Decret de promulgare (DP): [dp-98cb91a9.md](dp-98cb91a9.md); official file https://www.senat.ro/legis/PDF/2021/21L007DP.PDF
+- 2021-04-12: Adresă privind forma promulgată (AFP): [afp-07c6815e.md](afp-07c6815e.md); official file https://www.senat.ro/legis/PDF/2021/21L007AFP.PDF
+- 2021-04-12: Forma promulgată (FP): [fp-2f1a3236.md](fp-2f1a3236.md); official file https://www.senat.ro/legis/PDF/2021/21L007FP.PDF
