@@ -1,0 +1,4 @@
+# CJUE, Ordonanța Curții (Camera a șasea) din 14 aprilie 2021, Cauza C-364/19
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+Articolul 1 alineatul (2) și articolul 4 alineatul (2) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretate în sensul că, atunci când o instanță a unui stat membru este sesizată cu un litigiu având ca obiect o clauză contractuală pretins abuzivă care reflectă o dispoziție de drept național de natură supletivă, ea este obligată să examineze cu prioritate incidența excluderii din domeniul de aplicare al directivei menționate, prevăzută la articolul 1 alineatul (2) din aceasta, iar nu incidența excepției de la aprecierea caracterului abuziv al clauzelor contractuale, prevăzută la articolul 4 alineatul (2) din directiva respectivă.
