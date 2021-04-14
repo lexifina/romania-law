@@ -1,0 +1,326 @@
+{
+ "key": "iccj-hp-5-2021",
+ "label": "Decizia ÎCCJ nr. 5/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "5",
+ "date": "2021-02-08",
+ "year": "2021",
+ "heading": "DECIZIA nr. 5 din 8 februarie 2021",
+ "subtitle": "referitoare la interpretarea articolului 60 alin. (1) din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "389",
+  "bis": false,
+  "date": "2021-04-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.970/1/2020",
+  "2.317/110/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția I civilă, în Dosarul nr. 2.317/110/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Articolul 60 alin. (1) din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare, trebuie interpretat și aplicat în sensul că sintagma „pensia netă“ din cuprinsul acestuia se referă la cuantumul net al pensiei de serviciu rezultat exclusiv din aplicarea art. 28, art. 29 alin. (1) lit. a) și b), art. 30 și art. 108 din aceeași lege sau la cuantumul net al pensiei de serviciu rezultat atât din aplicarea dispozițiilor mai sus-menționate, cât și din aplicarea art. 11 alin. (3) din Legea nr. 80/1995 privind statutul cadrelor militare, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2001",
+    "number": "164",
+    "year": "2001",
+    "path": "lege/2001/164"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/240997",
+  "text_sha256": "f7421cef94224faae38026ad0de8414c2e1414b6d10fcb6b4bfbba787d4d004d",
+  "catalogue_sha256": "f7421cef94224faae38026ad0de8414c2e1414b6d10fcb6b4bfbba787d4d004d",
+  "fetched": "2026-11-03T01:47:31Z",
+  "chars": 57819,
+  "portal_id": "240997",
+  "tip": "DECIZIE"
+ }
+}
