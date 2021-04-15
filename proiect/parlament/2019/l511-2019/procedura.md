@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-14: registered at the Chamber of Deputies
 - 2020-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-11-02: sent for promulgation
+- 2021-04-15: promulgated, becomes Legea nr. 83/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L511AM.PDF
 - 2020-10-27: Adresă privind sesizarea CCR (AXS): [axs-45c7673f.md](axs-45c7673f.md); official file https://www.senat.ro/legis/PDF/2019/19L511AXS.PDF
 - 2020-10-27: Forma trimisă la promulgare (LP): [lp-d6c3d788.md](lp-d6c3d788.md); official file https://www.senat.ro/legis/PDF/2019/19L511LP.PDF
+- 2021-04-15: Decret de promulgare (DP): [dp-0f6f9fdb.md](dp-0f6f9fdb.md); official file https://www.senat.ro/legis/PDF/2019/19L511DP.PDF
+- 2021-04-15: Adresă privind forma promulgată (AFP): [afp-1a0e58fb.md](afp-1a0e58fb.md); official file https://www.senat.ro/legis/PDF/2019/19L511AFP.PDF
+- 2021-04-15: Forma promulgată (FP): [fp-c67804f3.md](fp-c67804f3.md); official file https://www.senat.ro/legis/PDF/2019/19L511FP.PDF
