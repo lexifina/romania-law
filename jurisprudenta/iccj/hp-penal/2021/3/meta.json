@@ -1,0 +1,311 @@
+{
+ "key": "iccj-hp-penal-3-2021",
+ "label": "Decizia ÎCCJ nr. 3/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "3",
+ "date": "2021-01-20",
+ "year": "2021",
+ "heading": "DECIZIA nr. 3 din 20 ianuarie 2021",
+ "subtitle": "referitoare la interpretarea art. 275 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "2021-04-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.986/1/2020",
+  "1.841/740/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "275",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 1.841/740/2017, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Infracțiunea de sustragere sau distrugere de probe ori de înscrisuri prevăzută de art. 275 alin. (1) din Codul penal are ca situație premisă existența unei proceduri judiciare deja începute?",
+  "2. Poate fi subiect activ al infracțiunii de sustragere sau distrugere de probe ori de înscrisuri în modalitatea prevăzută de art. 275 alin. (1) din Codul penal autorul faptei prevăzute de legea penală ce face obiectul procesului penal în care urmau să fie folosite înscrisurile ori mijloacele materiale de probă presupus a fi sustrase sau distruse?",
+  "Stabilește că: 1.",
+  "Infracțiunea de sustragere sau distrugere de probe ori de înscrisuri, prevăzută de art. 275 alin. (1) din Codul penal, are ca situație premisă existența unei proceduri judiciare începute.",
+  "2. Autorul faptei prevăzute de legea penală ce face obiectul procesului penal în care sunt folosite înscrisurile ori mijloacele materiale de probă poate fi subiect activ al infracțiunii de sustragere sau distrugere de probe ori de înscrisuri în modalitatea prevăzută de art. 275 alin. (1) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "275",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "270",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 113
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "288",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-04-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241037",
+  "text_sha256": "77fc36f37be25ef8081e831a993f4a48dbe9dc7a835f0d9f7fd70571f6960736",
+  "catalogue_sha256": "77fc36f37be25ef8081e831a993f4a48dbe9dc7a835f0d9f7fd70571f6960736",
+  "fetched": "2026-11-03T01:47:31Z",
+  "chars": 82332,
+  "portal_id": "241037",
+  "tip": "DECIZIE"
+ }
+}
