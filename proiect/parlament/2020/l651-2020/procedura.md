@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-17: adopted by the Chamber of Deputies
 - 2021-03-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-27: sent for promulgation
+- 2021-04-15: promulgated, becomes Legea nr. 82/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-12-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L651AM.PDF
 - 2021-03-22: Adresă privind sesizarea CCR (AXS): [axs-21ec79aa.md](axs-21ec79aa.md); official file https://www.senat.ro/legis/PDF/2020/20L651AXS.PDF
 - 2021-03-22: Forma trimisă la promulgare (LP): [lp-5a9de230.md](lp-5a9de230.md); official file https://www.senat.ro/legis/PDF/2020/20L651LP.PDF
+- 2021-04-15: Decret de promulgare (DP): [dp-9bc2d183.md](dp-9bc2d183.md); official file https://www.senat.ro/legis/PDF/2020/20L651DP.PDF
+- 2021-04-15: Adresă privind forma promulgată (AFP): [afp-5186d700.md](afp-5186d700.md); official file https://www.senat.ro/legis/PDF/2020/20L651AFP.PDF
+- 2021-04-15: Forma promulgată (FP): [fp-eb77e8a2.md](fp-eb77e8a2.md); official file https://www.senat.ro/legis/PDF/2020/20L651FP.PDF
