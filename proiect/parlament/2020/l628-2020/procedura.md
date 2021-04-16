@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-03-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-03-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-16: promulgated, becomes Legea nr. 87/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,7 @@ Initiator: Guvernul României.
 - 2021-03-22: Forma adoptată de Senat (FS): [fs-ca7e591e.md](fs-ca7e591e.md); official file https://www.senat.ro/legis/PDF/2020/20L628FS.PDF
 - 2021-03-29: Adresă privind sesizarea CCR (AXS): [axs-037cfa31.md](axs-037cfa31.md); official file https://www.senat.ro/legis/PDF/2020/20L628AXS.PDF
 - 2021-03-29: Forma trimisă la promulgare (LP): [lp-0bfc1cd9.md](lp-0bfc1cd9.md); official file https://www.senat.ro/legis/PDF/2020/20L628LP.PDF
+- 2021-04-16: Document (AL): [al-c16a458e.md](al-c16a458e.md); official file https://www.senat.ro/legis/PDF/2020/20L628AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Decret de promulgare (DP): [dp-b1c97f1e.md](dp-b1c97f1e.md); official file https://www.senat.ro/legis/PDF/2020/20L628DP.PDF
+- 2021-04-16: Adresă privind forma promulgată (AFP): [afp-0fe354e0.md](afp-0fe354e0.md); official file https://www.senat.ro/legis/PDF/2020/20L628AFP.PDF
+- 2021-04-16: Forma promulgată (FP): [fp-c18a41cd.md](fp-c18a41cd.md); official file https://www.senat.ro/legis/PDF/2020/20L628FP.PDF
