@@ -1,0 +1,22 @@
+# Proiect de lege L104/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 175/2025 (`legea-175-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.28/2021 pentru modificarea şi completarea Legii nr.185/2017 privind asigurarea calității în sistemul de sănătate precum și pentru adoptarea unor măsuri în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-04-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-04-16: Adresă de înaintare a inițiativei (AD): [ad-9c5a2332.md](ad-9c5a2332.md); official file https://www.senat.ro/legis/PDF/2021/21L104AD.PDF
+- 2021-04-16: Forma inițiatorului (FG): [fg-61d85439.md](fg-61d85439.md); official file https://www.senat.ro/legis/PDF/2021/21L104FG.PDF
+- 2021-04-16: Expunere de motive (EM): [em-07f9a0b9.md](em-07f9a0b9.md); official file https://www.senat.ro/legis/PDF/2021/21L104EM.PDF
+- 2021-04-16: Aviz Consiliul Legislativ (LG): [lg-77e2c0d7.md](lg-77e2c0d7.md); official file https://www.senat.ro/legis/PDF/2021/21L104LG.PDF
+- 2021-04-16: Document (OG): [og-2475165c.md](og-2475165c.md); official file https://www.senat.ro/legis/PDF/2021/21L104OG.PDF
+- 2021-04-16: Document (HG): [hg-c3ecb9c1.md](hg-c3ecb9c1.md); official file https://www.senat.ro/legis/PDF/2021/21L104HG.PDF
