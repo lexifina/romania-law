@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-03-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-16: promulgated, becomes Legea nr. 85/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2021-03-22: Forma adoptată de Senat (FS): [fs-ae5d6528.md](fs-ae5d6528.md); official file https://www.senat.ro/legis/PDF/2021/21L039FS.PDF
 - 2021-03-29: Adresă privind sesizarea CCR (AXS): [axs-fc43b23c.md](axs-fc43b23c.md); official file https://www.senat.ro/legis/PDF/2021/21L039AXS.PDF
 - 2021-03-29: Forma trimisă la promulgare (LP): [lp-95e7f0c1.md](lp-95e7f0c1.md); official file https://www.senat.ro/legis/PDF/2021/21L039LP.PDF
+- 2021-04-16: Document (AL): [al-2728e17d.md](al-2728e17d.md); official file https://www.senat.ro/legis/PDF/2021/21L039AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Decret de promulgare (DP): [dp-0315af39.md](dp-0315af39.md); official file https://www.senat.ro/legis/PDF/2021/21L039DP.PDF
+- 2021-04-16: Adresă privind forma promulgată (AFP): [afp-3f42a491.md](afp-3f42a491.md); official file https://www.senat.ro/legis/PDF/2021/21L039AFP.PDF
+- 2021-04-16: Forma promulgată (FP): [fp-7d62c475.md](fp-7d62c475.md); official file https://www.senat.ro/legis/PDF/2021/21L039FP.PDF
