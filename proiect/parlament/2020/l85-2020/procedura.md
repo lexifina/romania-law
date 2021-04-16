@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-03-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-16: promulgated, becomes Legea nr. 86/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-22: Forma adoptată de Senat (FS): [fs-0bad1018.md](fs-0bad1018.md); official file https://www.senat.ro/legis/PDF/2020/20L085FS.PDF
 - 2021-03-27: Adresă privind sesizarea CCR (AXS): [axs-b445c6b5.md](axs-b445c6b5.md); official file https://www.senat.ro/legis/PDF/2020/20L085AXS.PDF
 - 2021-03-27: Forma trimisă la promulgare (LP): [lp-4df04c41.md](lp-4df04c41.md); official file https://www.senat.ro/legis/PDF/2020/20L085LP.PDF
+- 2021-04-16: Document (AL): [al-02050cff.md](al-02050cff.md); official file https://www.senat.ro/legis/PDF/2020/20L085AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Decret de promulgare (DP): [dp-f334a20a.md](dp-f334a20a.md); official file https://www.senat.ro/legis/PDF/2020/20L085DP.PDF
+- 2021-04-16: Adresă privind forma promulgată (AFP): [afp-2c4f4b83.md](afp-2c4f4b83.md); official file https://www.senat.ro/legis/PDF/2020/20L085AFP.PDF
+- 2021-04-16: Forma promulgată (FP): [fp-dd8231ab.md](fp-dd8231ab.md); official file https://www.senat.ro/legis/PDF/2020/20L085FP.PDF
