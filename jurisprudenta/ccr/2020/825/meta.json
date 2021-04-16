@@ -1,0 +1,275 @@
+{
+ "key": "dcc-825-2020",
+ "label": "Decizia CCR nr. 825/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "825",
+ "date": "2020-11-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 825 din 17 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (8) lit. b) și alin. (9), precum și ale art. 162 din Legea nr. 207/2015 privind Codul de procedură fiscală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "403",
+  "bis": false,
+  "date": "2021-04-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.754/2/2016",
+  "1.952D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "162",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alexandru Cristian Țânțăreanu în Dosarul nr. 4.754/2/2016 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (8) lit. b) și alin. (9), precum și ale art. 162 din Legea nr. 207/2015 privind Codul de procedură fiscală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "8",
+      "9"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "162",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "226",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/2019",
+    "number": "30",
+    "year": "2019",
+    "path": "lege/2019/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 558/2016",
+    "number": "558",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-04-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241090",
+  "text_sha256": "21102b8878e400df7831d3a53bf7062b48ade5bcfafff83ba52833d829242cbe",
+  "catalogue_sha256": "21102b8878e400df7831d3a53bf7062b48ade5bcfafff83ba52833d829242cbe",
+  "fetched": "2026-11-03T01:47:28Z",
+  "chars": 36976,
+  "portal_id": "241090",
+  "tip": "DECIZIE"
+ }
+}
