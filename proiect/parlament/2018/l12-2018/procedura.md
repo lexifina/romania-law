@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2019-03-18: returned for re-examination
 - 2019-04-15: adopted by the Senate
 - 2021-04-08: sent for promulgation
+- 2021-04-16: promulgated, becomes Legea nr. 84/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,11 @@ Initiator: Guvernul României.
 - 2018-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012AM.PDF
 - 2018-11-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012AXS.PDF
 - 2018-11-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012LP.PDF
+- 2021-04-16: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L012SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Document (XXS): [xxs-a5a8699c.md](xxs-a5a8699c.md); official file https://www.senat.ro/legis/PDF/2018/18L012XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Document (PX): [px-1dd514f0.md](px-1dd514f0.md); official file https://www.senat.ro/legis/PDF/2018/18L012PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-16: Decret de promulgare (DP): [dp-ce65309f.md](dp-ce65309f.md); official file https://www.senat.ro/legis/PDF/2018/18L012DP.PDF
+- 2021-04-16: Adresă privind forma promulgată (AFP): [afp-b8f45d6e.md](afp-b8f45d6e.md); official file https://www.senat.ro/legis/PDF/2018/18L012AFP.PDF
+- 2021-04-16: Forma promulgată (FP): [fp-e52c760c.md](fp-e52c760c.md); official file https://www.senat.ro/legis/PDF/2018/18L012FP.PDF
