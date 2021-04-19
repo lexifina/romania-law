@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-10-08: registered at the Chamber of Deputies
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-31: sent for promulgation
+- 2021-04-19: promulgated, becomes Legea nr. 91/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2019-09-11: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L341CR.PDF
 - 2019-10-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L341FS.PDF
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L341AM.PDF
+- 2021-04-19: Decret de promulgare (DP): [dp-a71c9511.md](dp-a71c9511.md); official file https://www.senat.ro/legis/PDF/2019/19L341DP.PDF
+- 2021-04-19: Adresă privind forma promulgată (AFP): [afp-92b4e41c.md](afp-92b4e41c.md); official file https://www.senat.ro/legis/PDF/2019/19L341AFP.PDF
+- 2021-04-19: Forma promulgată (FP): [fp-3bebf3af.md](fp-3bebf3af.md); official file https://www.senat.ro/legis/PDF/2019/19L341FP.PDF
