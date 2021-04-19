@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-19: promulgated, becomes Legea nr. 97/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2018-03-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L006AM.PDF
 - 2021-03-29: Adresă privind sesizarea CCR (AXS): [axs-e44aa543.md](axs-e44aa543.md); official file https://www.senat.ro/legis/PDF/2018/18L006AXS.PDF
 - 2021-03-29: Forma trimisă la promulgare (LP): [lp-344d082e.md](lp-344d082e.md); official file https://www.senat.ro/legis/PDF/2018/18L006LP.PDF
+- 2021-04-19: Decret de promulgare (DP): [dp-a5d4a875.md](dp-a5d4a875.md); official file https://www.senat.ro/legis/PDF/2018/18L006DP.PDF
+- 2021-04-19: Adresă privind forma promulgată (AFP): [afp-5e0b920a.md](afp-5e0b920a.md); official file https://www.senat.ro/legis/PDF/2018/18L006AFP.PDF
+- 2021-04-19: Forma promulgată (FP): [fp-4ff4e7da.md](fp-4ff4e7da.md); official file https://www.senat.ro/legis/PDF/2018/18L006FP.PDF
