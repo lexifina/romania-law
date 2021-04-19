@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-19: promulgated, becomes Legea nr. 94/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-06: Adresă către Camera Deputaților (AM): [am-4f99fb28.md](am-4f99fb28.md); official file https://www.senat.ro/legis/PDF/2020/20L005AM.PDF
 - 2021-03-27: Adresă privind sesizarea CCR (AXS): [axs-84f86840.md](axs-84f86840.md); official file https://www.senat.ro/legis/PDF/2020/20L005AXS.PDF
 - 2021-03-27: Forma trimisă la promulgare (LP): [lp-f5d30212.md](lp-f5d30212.md); official file https://www.senat.ro/legis/PDF/2020/20L005LP.PDF
+- 2021-04-19: Decret de promulgare (DP): [dp-709e272c.md](dp-709e272c.md); official file https://www.senat.ro/legis/PDF/2020/20L005DP.PDF
+- 2021-04-19: Adresă privind forma promulgată (AFP): [afp-b8dd3703.md](afp-b8dd3703.md); official file https://www.senat.ro/legis/PDF/2020/20L005AFP.PDF
+- 2021-04-19: Forma promulgată (FP): [fp-b1b71b81.md](fp-b1b71b81.md); official file https://www.senat.ro/legis/PDF/2020/20L005FP.PDF
