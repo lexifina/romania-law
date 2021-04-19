@@ -1,0 +1,34 @@
+'■i'
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTAJILOR
+SENATUL
+LEGE
+privind aprobarea Ordonanfei Guvernului nr. 5/2019
+pentru prorogarea unui termen prevazut in art. 2 alin. (1) din
+Ordonanfa de urgenfa a Guvernului nr. 18/2015 privind stabilirea
+unor masuri necesare pentru asigurarea tranzifiei de la televiziunea
+analogica terestra la televiziunea digitala terestra §i implementarea
+serviciilor multimedia la nivel national
+Parlamentul Romaniei adopta prezenta lege.
+Articol unic. - Se aproba Ordonanfa Guvernului nr. 5 din
+24 iulie 2019 pentru prorogarea unui termen prevazut in art. 2 alin. (1)
+din Ordonanta de urgenta a Guvernului nr. 18/2015 privind stabilirea
+unor masuri necesare pentru asigurarea tranzitiei de la televiziunea
+analogica terestra la televiziunea digitala terestra §i implementarea
+serviciilor multimedia la nivel national, adoptata in temeiul art. 1
+pet. XII din Legea nr. 128/2019 privind abilitarea Guvernului de a emite
+ordonante, §i publicata in Monitorul Oficial al Romaniei, Partea I,
+nr. 633 din 30 iulie 2019.
+
+2
+Aceastd lege a fast adoptatd de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 si ale art. 16 alin. (2) din Constitutia
+Romdniei, republicatd.
+PRE§EDINTELE
+CAMEREI DEPUTATILOR
+PRE§EDINTELE
+SENATULUI
+LUDOVIC ORBAN
+ANCA DANA DRAGU
+Bucuresti,
+Nr.
