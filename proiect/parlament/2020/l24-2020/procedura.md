@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
+- 2021-04-19: promulgated, becomes Legea nr. 95/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-17: Adresă către Camera Deputaților (AM): [am-d663c956.md](am-d663c956.md); official file https://www.senat.ro/legis/PDF/2020/20L024AM.PDF
 - 2021-03-29: Adresă privind sesizarea CCR (AXS): [axs-38321c22.md](axs-38321c22.md); official file https://www.senat.ro/legis/PDF/2020/20L024AXS.PDF
 - 2021-03-29: Forma trimisă la promulgare (LP): [lp-71bb946e.md](lp-71bb946e.md); official file https://www.senat.ro/legis/PDF/2020/20L024LP.PDF
+- 2021-04-19: Decret de promulgare (DP): [dp-2e5b4ffc.md](dp-2e5b4ffc.md); official file https://www.senat.ro/legis/PDF/2020/20L024DP.PDF
+- 2021-04-19: Adresă privind forma promulgată (AFP): [afp-9474bf28.md](afp-9474bf28.md); official file https://www.senat.ro/legis/PDF/2020/20L024AFP.PDF
+- 2021-04-19: Forma promulgată (FP): [fp-c49fa304.md](fp-c49fa304.md); official file https://www.senat.ro/legis/PDF/2020/20L024FP.PDF
