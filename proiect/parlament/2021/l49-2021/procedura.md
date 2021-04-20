@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-03: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2021-03-29: documents published: Raport comisie sesizată pe fond
 - 2021-04-15: documents published: Aviz comisie
+- 2021-04-20: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-03: Aviz Consiliul Economic și Social (ES): [es-e80ca6f6.md](es-e80ca6f6.md); official file https://www.senat.ro/legis/PDF/2021/21L049ES.PDF
 - 2021-03-29: Raport comisie sesizată pe fond (CR): [cr-8809e0d0.md](cr-8809e0d0.md); official file https://www.senat.ro/legis/PDF/2021/21L049CR.PDF
 - 2021-04-15: Aviz comisie (CA12): [ca12-54828980.md](ca12-54828980.md); official file https://www.senat.ro/legis/PDF/2021/21L049CA12.PDF
+- 2021-04-20: Aviz comisie (CA16): [ca16-dd90606a.md](ca16-dd90606a.md); official file https://www.senat.ro/legis/PDF/2021/21L049CA16.PDF
