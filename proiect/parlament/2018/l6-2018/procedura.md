@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-03-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-03-31: sent for promulgation
 - 2021-04-19: promulgated, becomes Legea nr. 97/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-20: published in the Monitorul Oficial
 
 ## Documents
 
