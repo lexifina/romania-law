@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-31: sent for promulgation
 - 2021-04-19: promulgated, becomes Legea nr. 91/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-20: published in the Monitorul Oficial
 
 ## Documents
 
