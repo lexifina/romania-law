@@ -1,0 +1,13 @@
+Consiliul Județean Galați;
+Având în vedere referatul de aprobare prezentat de inițiator;
+Având în vedere raportul de specialitate al direcțiilor din aparatul de specialitate al Consiliului Județean Galați;
+Având în vedere raportul de avizare al comisiei de specialitate nr. 1 a Consiliului Județean Galați;
+Având în vedere adresa Direcției Generale Regionale a Finanțelor Publice Galați nr.
+5126/08.03.2021, înregistrată la Consiliul Județean Galați sub nr. 3404/22.03.2021;
+Având în vedere adresa Consiliului Județean Galați nr.3239/15.03.2021 către unitățile administrativ-teritoriale din județul Galați;
+Având în vedere prevederile art.6, alin.(6) din Legea nr. 15/2021 a bugetului de stat pe anul 2021;
+Având în vedere prevederile Legii privind finanțele publice locale nr. 273/2006, cu modificările și completările ulterioare;
+Având în vedere prevederile art.173, alin. (3), lit. d) din Ordonanța de Urgență nr.
+57/2019 privind Codul administrativ;
+În temeiul art.196, alin. (1), lit. a) din Ordonanța de Urgență nr. 57/2019 privind Codul Administrativ;
+H O T Ă R Ă Ș T E:
