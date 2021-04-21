@@ -1,0 +1,9 @@
+# Anexa nr. 7 (Anexa nr. 15 la norme)
+Cerere pentru modificarea autorizației pentru plantări noi
+Oficiului Național al Viei și Produselor Vitivinicole Cerere pentru modificarea autorizației pentru plantări noi
+Înregistrare O.N.V.P.V.
+Nr........../.....................
+Subsemnatul/Subscrisa............ (persoană fizică/juridică), cu domiciliul/sediul în județul...................., comuna/orașul..........satul/localitatea.........., str............ nr........, telefon/fax........, e-mail.........., având CNP/CUI/CIF............., solicit modificarea autorizației de plantări noi nr......../data emisă pentru suprafața de............... ha.
+La prezenta cerere anexez următoarele documente justificative:
+Data....................
+Semnătura..........................

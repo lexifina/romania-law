@@ -1,0 +1,96 @@
+# Anexa nr. 1 (Anexa nr. 1 la norme)
+Cerere de plantare/replantare a viței-de-vie și de înscriere în R.P.V.
+Direcția pentru Agricultură Județeană................
+Cerere de plantare/replantare a viței-de-vie și de înscriere în R.P.V.
+Înregistrare D.A.J.
+Nr................
+A. Adresa exploatației:
+B. Inspectorul teritorial al O.N.V.P.V.:
+În urma verificării și examinării caracteristicilor parcelelor viticole prevăzute la lit. D/E, cererea se avizează favorabil/nefavorabil^1).
+Județul................
+Satul/Localitatea................
+Comuna/Orașul................
+Data................
+Satul/Localitatea................
+Semnătura................ Ștampila................
+Cod poștal................
+Podgoria................
+Centrul viticol................
+Arealul delimitat pentru DOC/IG...................
+C. Datele personale ale cultivatorului parcelelor viticole:
+CNP/CUI/CIF.......................
+Numele și prenumele.........
+Denumirea................
+Telefon................
+Fax................, e-mail................
+Județul................ comuna/orașul................
+Satul/localitatea................ str................. bd................. nr................ bl.........., sc........., ap.........., sectorul................
+Tip exploatație:
+I_I exploatare directă; I_I arendă;
+I_I concesiune; I_I închiriere; I_I altele
+D. Caracteristici ale plantației de viță-de-vie proiectate
+CNPV^2)
+Nr. tarla (poligon)
+Nr. bloc fizic
+Nr. parcelă cadastrală/
+Nr. topografic/
+Nr. cadastral
+Soiul/
+Soiurile în%
+Destinația producției
+Producția medie
+- kg/ha -
+Distanța de plantare (m)
+Nr. butuci
+Tipul de conducere
+- spalier
+- araci
+- liber
+Suprafața (cu două zecimale)
+- ha -
+Între rânduri
+Pe rând
+Total suprafață:
+E. Caracteristici ale plantației de viță-de-vie plantate^3)
+CNPV^2)
+Nr. tarla (poligon)
+Nr. bloc fizic
+Nr. parcelă cadastrală/
+Nr. topografic/
+Nr. cadastral
+Soiul/
+Soiurile în%
+Destinația producției
+Producția medie
+- kg/ha -
+Distanța de plantare (m)
+Nr. butuci
+Tipul de conducere
+- spalier
+- araci
+- liber
+Suprafața (cu două zecimale)
+- ha -
+Între rânduri
+Pe rând
+Total suprafață:
+F. Semnătura cultivatorului parcelei viticole:
+Data....................
+G. Consilierul cu atribuții de inspecție de stat pentru controlul tehnic vitivinicol
+Prezenta cerere fiind examinată și verificată, plantația de viță-de-vie cu o suprafață de......... hectare, ale cărei caracteristici figurează la lit. D, este autorizată în baza Autorizației de plantare/replantare nr...../.... sau respinsă în baza următoarelor motive:.......................................................................
+Numele și prenumele:
+Data............... Semnătura.................... Ștampila..............
+H. Vițe altoite furnizate de pepinieră: categoria biologică........................
+Denumirea pepinierei/Reprezentant autorizat..................
+Proveniența: Țara......................,
+Județul..............., comuna/orașul................, satul/localitatea..............., cod poștal..........., str............... nr..........., telefon.......... fax............, e-mail...............
+Numărul de vițe altoite furnizate......................
+I. În scopul înscrierii în R.P.V., declar că activitatea de plantare/replantare a viței-de-vie s-a încheiat în ziua de....... luna..... anul.......... și solicit înscrierea în R.P.V. ziua....... luna..... anul..........
+Semnătura cultivatorului........................
+J. Consilierul cu atribuții de inspecție de stat pentru controlul tehnic vitivinicol
+Plantația de viță-de-vie cu o suprafață de............ hectare ale cărei caracteristici sunt detaliate la lit. D/E și în conformitate cu specificațiile lit. G se înscrie/nu se înscrie în R.P.V.
+Numele și prenumele:
+Data............... Semnătura.................... Ștampila..............
+Această înscriere poate fi anulată dacă inspecțiile ulterioare dovedesc că plantația de viță-de-vie nu corespunde datelor completate. ^1) A se tăia cu o linie acolo unde nu este cazul. ^2) Se va completa de către consilierul R.P.V. după operarea plantării în R.P.V. ^3) Se va completa doar în cazul în care caracteristicile parcelelor viticole de la lit. D nu corespund cu situația finală din teren.
+Acest formular va fi însoțit de autorizația de plantare/replantare emisă pe numele cultivatorului parcelelor viticole.
+Acest formular va fi însoțit de documente care să ateste dreptul de proprietate sau dreptul de exploatare a parcelelor viticole pentru care s-a făcut cererea de plantare/replantare.
