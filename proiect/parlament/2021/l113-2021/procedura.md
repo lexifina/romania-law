@@ -1,0 +1,21 @@
+# Proiect de lege L113/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 245/2021 (`legea-245-2021`).
+
+Proiect de lege pentru completarea tabelului-anexă nr.I la Legea nr.143/2000 privind prevenirea şi combaterea traficului și consumului ilicit de droguri
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-04-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-04-21: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L113AD.PDF
+- 2021-04-21: Forma inițiatorului (FG): [fg-d4a0ee70.md](fg-d4a0ee70.md); official file https://www.senat.ro/legis/PDF/2021/21L113FG.PDF
+- 2021-04-21: Expunere de motive (EM): [em-10e75458.md](em-10e75458.md); official file https://www.senat.ro/legis/PDF/2021/21L113EM.PDF
+- 2021-04-21: Aviz Consiliul Legislativ (LG): [lg-a921dd82.md](lg-a921dd82.md); official file https://www.senat.ro/legis/PDF/2021/21L113LG.PDF
+- 2021-04-21: Document (HG): [hg-d5b5e682.md](hg-d5b5e682.md); official file https://www.senat.ro/legis/PDF/2021/21L113HG.PDF
