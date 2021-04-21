@@ -1,0 +1,22 @@
+# Proiect de lege L116/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 32/2022 (`legea-32-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.30/2021 privind unele măsuri fiscale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-04-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-04-21: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L116AD.PDF
+- 2021-04-21: Forma inițiatorului (FG): [fg-6c015969.md](fg-6c015969.md); official file https://www.senat.ro/legis/PDF/2021/21L116FG.PDF
+- 2021-04-21: Expunere de motive (EM): [em-887a096f.md](em-887a096f.md); official file https://www.senat.ro/legis/PDF/2021/21L116EM.PDF
+- 2021-04-21: Aviz Consiliul Legislativ (LG): [lg-5dc36218.md](lg-5dc36218.md); official file https://www.senat.ro/legis/PDF/2021/21L116LG.PDF
+- 2021-04-21: Document (OG): [og-bf47fb03.md](og-bf47fb03.md); official file https://www.senat.ro/legis/PDF/2021/21L116OG.PDF
+- 2021-04-21: Document (HG): [hg-22dfe579.md](hg-22dfe579.md); official file https://www.senat.ro/legis/PDF/2021/21L116HG.PDF
