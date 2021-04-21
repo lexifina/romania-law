@@ -1,0 +1,17 @@
+# Propunere legislativă L205/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.67 indice 1 alin.(1 indice1) din Legea educaţiei fizice şi sportului nr.69/2000
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-04-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-04-21: Adresă de înaintare a inițiativei (AD): [ad-b609885a.md](ad-b609885a.md); official file https://www.senat.ro/legis/PDF/2021/21L205AD.PDF
+- 2021-04-21: Forma inițiatorului (FG): [fg-8c14c515.md](fg-8c14c515.md); official file https://www.senat.ro/legis/PDF/2021/21L205FG.PDF
+- 2021-04-21: Expunere de motive (EM): [em-2d6e5573.md](em-2d6e5573.md); official file https://www.senat.ro/legis/PDF/2021/21L205EM.PDF
