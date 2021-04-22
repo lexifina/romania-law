@@ -1,0 +1,309 @@
+{
+ "key": "iccj-ril-4-2021",
+ "label": "Decizia ÎCCJ nr. 4/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2021-03-15",
+ "year": "2021",
+ "heading": "DECIZIA nr. 4 din 15 martie 2021",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 45 alin. (1) lit. a) și art. 43 alin. (7) din Legea nr. 85/2014 coroborate cu prevederile art. 480 alin. (2) și alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "426",
+  "bis": false,
+  "date": "2021-04-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.397/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Cluj și, în consecință, stabilește că:",
+  "În aplicarea dispozițiilor art. 45 alin. (1) lit. a) și art. 43 alin. (7) din Legea nr. 85/2014 coroborate cu prevederile art. 480 alin. (2) și alin. (3) din Codul de procedură civilă, curtea de apel, învestită cu soluționarea apelului declarat împotriva hotărârii judecătorului-sindic prin care s-a respins o cerere de trecere a debitorului la procedura falimentului sau prin care confirmă un plan de reorganizare, admițând apelul, va anula hotărârea și va trimite cauza judecătorului-sindic, cu dispoziție obligatorie de trecere a debitorului în faliment.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "2",
+      "3",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "330-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 50
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "145",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "oug/2006/86"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-04-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241259",
+  "text_sha256": "14d1bcaa6e1e4f89a5670c59d8c160dbc15c9f5ef4b25acaf411b276cf2e0242",
+  "catalogue_sha256": "14d1bcaa6e1e4f89a5670c59d8c160dbc15c9f5ef4b25acaf411b276cf2e0242",
+  "fetched": "2026-11-03T01:47:14Z",
+  "chars": 67704,
+  "portal_id": "241259",
+  "tip": "DECIZIE"
+ }
+}
