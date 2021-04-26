@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-20: documents published: Raport comisie sesizată pe fond
 - 2021-04-21: documents published: Aviz comisie
 - 2021-04-22: documents published: Aviz comisie
+- 2021-04-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-21: Aviz comisie (CA23): [ca23-e27ec941.md](ca23-e27ec941.md); official file https://www.senat.ro/legis/PDF/2021/21L101CA23.PDF
 - 2021-04-21: Aviz comisie (CA41): [ca41-42f73182.md](ca41-42f73182.md); official file https://www.senat.ro/legis/PDF/2021/21L101CA41.PDF
 - 2021-04-22: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L101CA8.PDF
+- 2021-04-26: Forma adoptată de Senat (FS): [fs-9889d9a4.md](fs-9889d9a4.md); official file https://www.senat.ro/legis/PDF/2021/21L101FS.PDF
+- 2021-04-26: Adresă către Camera Deputaților (AM): [am-c3287d6a.md](am-c3287d6a.md); official file https://www.senat.ro/legis/PDF/2021/21L101AM.PDF
