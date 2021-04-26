@@ -1,0 +1,19 @@
+# Anexa nr. 6 (Anexa nr. 16 la metodologie)
+Instituția de învățământ/centru de perfecționare........................................
+RAPORT SCRIS
+Încheiat la susținerea lucrării metodico-științifice pentru acordarea gradului didactic I
+Comisia numită de Ministerul Educației prin Adresa nr.................. a dezbătut în sesiune publică la Denumirea unității de învățământ în care s-a desfășurat susținerea lucrării metodico-științifice....................................................................
+Lucrarea intitulată..................................................................... elaborată și prezentată de:......................................................... (numele și prenumele, funcția didactică, specialitatea și locul de muncă)
+În urma susținerii lucrării se acordă nota:
+Președinte...................................................................................................... (numele și prenumele) (semnătura) (nota acordată)
+Conducător științific....................................................................................................... (numele și prenumele) (semnătura) (nota acordată)
+Inspector/Metodist
+ISJ/ ISMB......................................................................................................... (numele și prenumele) (semnătura) (nota acordată)
+Motivarea aprecierii susținerii lucrării metodico-științifice:..............................................................................................
+Nota acordată la recenzarea lucrării metodico-științifice...................................
+Nota medie acordată pentru susținerea lucrării........................................
+Nota de promovare a examenului..................................
+Președintele comisiei,
+Pentru conformitate
+Director,
+----
