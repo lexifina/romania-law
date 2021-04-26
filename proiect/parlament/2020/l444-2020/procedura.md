@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-31: adopted by the Chamber of Deputies
 - 2021-04-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-08: sent for promulgation
+- 2021-04-26: promulgated, becomes Legea nr. 101/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-08-11: Adresă către Camera Deputaților (AM): [am-473d392f.md](am-473d392f.md); official file https://www.senat.ro/legis/PDF/2020/20L444AM.PDF
 - 2021-04-06: Adresă privind sesizarea CCR (AXS): [axs-fc107ccc.md](axs-fc107ccc.md); official file https://www.senat.ro/legis/PDF/2020/20L444AXS.PDF
 - 2021-04-06: Forma trimisă la promulgare (LP): [lp-b21ac5a4.md](lp-b21ac5a4.md); official file https://www.senat.ro/legis/PDF/2020/20L444LP.PDF
+- 2021-04-26: Decret de promulgare (DP): [dp-cfd7e117.md](dp-cfd7e117.md); official file https://www.senat.ro/legis/PDF/2020/20L444DP.PDF
+- 2021-04-26: Adresă privind forma promulgată (AFP): [afp-5e0c0e91.md](afp-5e0c0e91.md); official file https://www.senat.ro/legis/PDF/2020/20L444AFP.PDF
+- 2021-04-26: Forma promulgată (FP): [fp-aba09994.md](fp-aba09994.md); official file https://www.senat.ro/legis/PDF/2020/20L444FP.PDF
