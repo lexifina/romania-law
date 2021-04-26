@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-30: adopted by the Chamber of Deputies
 - 2021-04-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-08: sent for promulgation
+- 2021-04-26: promulgated, becomes Legea nr. 100/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-d6833637.md](am-d6833637.md); official file https://www.senat.ro/legis/PDF/2020/20L187AM.PDF
 - 2021-04-06: Adresă privind sesizarea CCR (AXS): [axs-53cbeba6.md](axs-53cbeba6.md); official file https://www.senat.ro/legis/PDF/2020/20L187AXS.PDF
 - 2021-04-06: Forma trimisă la promulgare (LP): [lp-37fa45b5.md](lp-37fa45b5.md); official file https://www.senat.ro/legis/PDF/2020/20L187LP.PDF
+- 2021-04-26: Decret de promulgare (DP): [dp-f9e85919.md](dp-f9e85919.md); official file https://www.senat.ro/legis/PDF/2020/20L187DP.PDF
+- 2021-04-26: Adresă privind forma promulgată (AFP): [afp-719da0fb.md](afp-719da0fb.md); official file https://www.senat.ro/legis/PDF/2020/20L187AFP.PDF
+- 2021-04-26: Forma promulgată (FP): [fp-3223aa69.md](fp-3223aa69.md); official file https://www.senat.ro/legis/PDF/2020/20L187FP.PDF
