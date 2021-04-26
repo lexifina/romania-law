@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-31: adopted by the Chamber of Deputies
 - 2021-04-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-08: sent for promulgation
+- 2021-04-26: promulgated, becomes Legea nr. 102/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-07-27: Adresă către Camera Deputaților (AM): [am-bfeba108.md](am-bfeba108.md); official file https://www.senat.ro/legis/PDF/2020/20L383AM.PDF
 - 2021-04-06: Adresă privind sesizarea CCR (AXS): [axs-0f9b0621.md](axs-0f9b0621.md); official file https://www.senat.ro/legis/PDF/2020/20L383AXS.PDF
 - 2021-04-06: Forma trimisă la promulgare (LP): [lp-c03cceb5.md](lp-c03cceb5.md); official file https://www.senat.ro/legis/PDF/2020/20L383LP.PDF
+- 2021-04-26: Decret de promulgare (DP): [dp-1d950cd6.md](dp-1d950cd6.md); official file https://www.senat.ro/legis/PDF/2020/20L383DP.PDF
+- 2021-04-26: Adresă privind forma promulgată (AFP): [afp-7073dfe3.md](afp-7073dfe3.md); official file https://www.senat.ro/legis/PDF/2020/20L383AFP.PDF
+- 2021-04-26: Forma promulgată (FP): [fp-c1d72d74.md](fp-c1d72d74.md); official file https://www.senat.ro/legis/PDF/2020/20L383FP.PDF
