@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-20: returned for re-examination
 - 2019-11-22: returned for re-examination
 - 2020-06-10: adopted by the Senate
+- 2021-04-27: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,9 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L139AM.PDF
 - 2019-04-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L139AXS.PDF
 - 2019-04-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L139LP.PDF
+- 2021-04-27: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L139DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (RX): [rx-9081a4a7.md](rx-9081a4a7.md); official file https://www.senat.ro/legis/PDF/2019/19L139RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (CX): [cx-dabeb811.md](cx-dabeb811.md); official file https://www.senat.ro/legis/PDF/2019/19L139CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (XA): [xa-b2db5a11.md](xa-b2db5a11.md); official file https://www.senat.ro/legis/PDF/2019/19L139XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (XD): [xd-b713226b.md](xd-b713226b.md); official file https://www.senat.ro/legis/PDF/2019/19L139XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (SX): [sx-369fd8d9.md](sx-369fd8d9.md); official file https://www.senat.ro/legis/PDF/2019/19L139SX.PDF (its day is not given by the bill file: shown from the last stage held)
