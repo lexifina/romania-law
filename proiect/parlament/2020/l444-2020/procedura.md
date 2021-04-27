@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-08: sent for promulgation
 - 2021-04-26: promulgated, becomes Legea nr. 101/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-04-27: published in the Monitorul Oficial
 
 ## Documents
 
