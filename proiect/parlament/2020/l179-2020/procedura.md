@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-06: sent for promulgation
 - 2020-05-15: returned for re-examination
 - 2020-06-23: rejected by the Senate
+- 2021-04-27: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-31: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L179AM.PDF
 - 2020-04-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L179AXS.PDF
 - 2020-04-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L179LP.PDF
+- 2021-04-27: Document (DC): [dc-ff4dd311.md](dc-ff4dd311.md); official file https://www.senat.ro/legis/PDF/2020/20L179DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (XA): [xa-e10d0a8b.md](xa-e10d0a8b.md); official file https://www.senat.ro/legis/PDF/2020/20L179XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-04-27: Document (XD): [xd-da2a38c9.md](xd-da2a38c9.md); official file https://www.senat.ro/legis/PDF/2020/20L179XD.PDF (its day is not given by the bill file: shown from the last stage held)
