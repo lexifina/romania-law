@@ -1,0 +1,11 @@
+# HCGMB nr. 109/2021
+
+Text not yet included: its text is a scan that has not been read by OCR yet. It will be added when it is. The document is at the council's record.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 109/2021
+- Adopted: 2021-04-27
+- Title: PRIVIND ABROGAREA PARTIALA A HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 626/19.12.2017 PENTRU MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 178/2008 PRIVIND APROBAREA REGULAMENTULUI – CADRU, A CAIETULUI DE SARCINI SI A CONTRACTULUI DE ATRIBUIRE IN GESTIUNE DELEGATA PENTRU ORGANIZAREA SI EXECUTAREA SERVICIULUI PUBLIC DE TRANSPORT LOCAL IN REGIM DE TAXI ABROGA ART. I, ART. II, ART. III, ART. IV LIT. F) SI LIT. G) SI ART. V ALE HCGMB NR. 626/2017
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41903
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41903/H109_21.pdf
+- Document sha256: d0dfbf47b11b987fd828a9cd1a4b9fbb4775fbd3a29128e0b959d41410c578ab
