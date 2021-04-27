@@ -1,0 +1,11 @@
+# HCGMB nr. 113/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 113/2021
+- Adopted: 2021-04-27
+- Title: PRIVIND TMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 6 PRIN DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 6 DE A INCHEIA UN ACORD DE PARTENERIAT IN VEDEREA ASOCIERII/COOPERARII CU ORGANIZATIA SALVATI COPIII ROMANIA IN SCOPUL REALIZARII IN COMUN A PROGRAMULUI PRIVIND INFIINTAREA UNUI CENTRU PILOT DE ACORDARE A SERVICIILOR PLURIDISCIPLINARE PENTRU COPII, VICTIME ALE ABUZULUI SEXUAL – PROGRAMUL BARNAHUS
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41906
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41906/H113_21.pdf
+- Document sha256: 97776f6823ab87bde71792a0a97083ed56dff086b734d0ac7367f2851bbbd5bb
