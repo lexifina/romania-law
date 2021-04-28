@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-31: adopted by the Chamber of Deputies
 - 2021-04-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-12: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 103/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-3a6c1490.md](am-3a6c1490.md); official file https://www.senat.ro/legis/PDF/2020/20L227AM.PDF
 - 2021-04-06: Adresă privind sesizarea CCR (AXS): [axs-c8a7376e.md](axs-c8a7376e.md); official file https://www.senat.ro/legis/PDF/2020/20L227AXS.PDF
 - 2021-04-06: Forma trimisă la promulgare (LP): [lp-2df1cc94.md](lp-2df1cc94.md); official file https://www.senat.ro/legis/PDF/2020/20L227LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-87839ad7.md](dp-87839ad7.md); official file https://www.senat.ro/legis/PDF/2020/20L227DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-2476d093.md](afp-2476d093.md); official file https://www.senat.ro/legis/PDF/2020/20L227AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-725294d5.md](fp-725294d5.md); official file https://www.senat.ro/legis/PDF/2020/20L227FP.PDF
