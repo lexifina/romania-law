@@ -1,0 +1,214 @@
+{
+ "key": "dcc-12-2021",
+ "label": "Decizia CCR nr. 12/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "12",
+ "date": "2021-01-14",
+ "year": "2021",
+ "heading": "DECIZIA nr. 12 din 14 ianuarie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 11 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "456",
+  "bis": false,
+  "date": "2021-04-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "701/113/2019",
+  "2.031D/2019",
+  "2.032D/2019",
+  "775/113/2019",
+  "2.034D/2019",
+  "183/100/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dorina Crintea și Săndel Morogan în dosarele nr. 701/113/2019 și nr. 775/113/2019 ale Tribunalului Brăila - Secția a II-a civilă, de contencios administrativ fiscal, precum și de Ileana Cornea în Dosarul nr. 183/100/2018 al Tribunalului Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal și constată că prevederile art. 11 din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Brăila - Secția a II-a civilă, de contencios administrativ fiscal și Tribunalului Maramureș - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-04-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241886",
+  "text_sha256": "e841e2767e1065cbf0851bf08bbad65dd282313a7b5f81f395f7a3e4a9c3ac0d",
+  "catalogue_sha256": "e841e2767e1065cbf0851bf08bbad65dd282313a7b5f81f395f7a3e4a9c3ac0d",
+  "fetched": "2026-11-03T01:46:48Z",
+  "chars": 21656,
+  "portal_id": "241886",
+  "tip": "DECIZIE"
+ }
+}
