@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 106/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L336AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-db46a9d2.md](axs-db46a9d2.md); official file https://www.senat.ro/legis/PDF/2019/19L336AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-cc82948f.md](lp-cc82948f.md); official file https://www.senat.ro/legis/PDF/2019/19L336LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-2c17f2c9.md](dp-2c17f2c9.md); official file https://www.senat.ro/legis/PDF/2019/19L336DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-c2928f6b.md](afp-c2928f6b.md); official file https://www.senat.ro/legis/PDF/2019/19L336AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-978577c5.md](fp-978577c5.md); official file https://www.senat.ro/legis/PDF/2019/19L336FP.PDF
