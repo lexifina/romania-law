@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 110/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2020-05-19: Adresă către Camera Deputaților (AM): [am-c62071d6.md](am-c62071d6.md); official file https://www.senat.ro/legis/PDF/2020/20L263AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-518f5946.md](axs-518f5946.md); official file https://www.senat.ro/legis/PDF/2020/20L263AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-e05a1793.md](lp-e05a1793.md); official file https://www.senat.ro/legis/PDF/2020/20L263LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-f0c9c256.md](dp-f0c9c256.md); official file https://www.senat.ro/legis/PDF/2020/20L263DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-3d9ba05a.md](afp-3d9ba05a.md); official file https://www.senat.ro/legis/PDF/2020/20L263AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-ab12c336.md](fp-ab12c336.md); official file https://www.senat.ro/legis/PDF/2020/20L263FP.PDF
