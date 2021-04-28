@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 107/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-17: Adresă către Camera Deputaților (AM): [am-bd548b36.md](am-bd548b36.md); official file https://www.senat.ro/legis/PDF/2020/20L025AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-9dedba64.md](axs-9dedba64.md); official file https://www.senat.ro/legis/PDF/2020/20L025AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-8714c7a6.md](lp-8714c7a6.md); official file https://www.senat.ro/legis/PDF/2020/20L025LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-988161f2.md](dp-988161f2.md); official file https://www.senat.ro/legis/PDF/2020/20L025DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-8efb0d30.md](afp-8efb0d30.md); official file https://www.senat.ro/legis/PDF/2020/20L025AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-a8e1d404.md](fp-a8e1d404.md); official file https://www.senat.ro/legis/PDF/2020/20L025FP.PDF
