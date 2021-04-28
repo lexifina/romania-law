@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2021-04-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 109/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -46,3 +47,6 @@ Initiator: Guvernul României.
 - 2021-04-06: Forma adoptată de Senat (FS): [fs-52f9e7ed.md](fs-52f9e7ed.md); official file https://www.senat.ro/legis/PDF/2021/21L038FS.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-9cd7b79e.md](axs-9cd7b79e.md); official file https://www.senat.ro/legis/PDF/2021/21L038AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-e22181b0.md](lp-e22181b0.md); official file https://www.senat.ro/legis/PDF/2021/21L038LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-a586fa02.md](dp-a586fa02.md); official file https://www.senat.ro/legis/PDF/2021/21L038DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-081e194e.md](afp-081e194e.md); official file https://www.senat.ro/legis/PDF/2021/21L038AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-adb521ba.md](fp-adb521ba.md); official file https://www.senat.ro/legis/PDF/2021/21L038FP.PDF
