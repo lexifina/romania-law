@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 104/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2018-06-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L259AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-b68fa4ae.md](axs-b68fa4ae.md); official file https://www.senat.ro/legis/PDF/2018/18L259AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-cfcba65f.md](lp-cfcba65f.md); official file https://www.senat.ro/legis/PDF/2018/18L259LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-d4f3c140.md](dp-d4f3c140.md); official file https://www.senat.ro/legis/PDF/2018/18L259DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-2a57294b.md](afp-2a57294b.md); official file https://www.senat.ro/legis/PDF/2018/18L259AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-7cb73941.md](fp-7cb73941.md); official file https://www.senat.ro/legis/PDF/2018/18L259FP.PDF
