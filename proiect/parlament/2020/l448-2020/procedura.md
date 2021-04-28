@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 112/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-08-15: Adresă către Camera Deputaților (AM): [am-24a41432.md](am-24a41432.md); official file https://www.senat.ro/legis/PDF/2020/20L448AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-91b6c72c.md](axs-91b6c72c.md); official file https://www.senat.ro/legis/PDF/2020/20L448AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-709ac10d.md](lp-709ac10d.md); official file https://www.senat.ro/legis/PDF/2020/20L448LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-3c7d0695.md](dp-3c7d0695.md); official file https://www.senat.ro/legis/PDF/2020/20L448DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-3e69892b.md](afp-3e69892b.md); official file https://www.senat.ro/legis/PDF/2020/20L448AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-9f3fe5c7.md](fp-9f3fe5c7.md); official file https://www.senat.ro/legis/PDF/2020/20L448FP.PDF
