@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-14: sent for promulgation
+- 2021-04-28: promulgated, becomes Legea nr. 113/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-2ea6a7b7.md](am-2ea6a7b7.md); official file https://www.senat.ro/legis/PDF/2020/20L524AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-92f21a79.md](axs-92f21a79.md); official file https://www.senat.ro/legis/PDF/2020/20L524AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-2d54fec7.md](lp-2d54fec7.md); official file https://www.senat.ro/legis/PDF/2020/20L524LP.PDF
+- 2021-04-28: Decret de promulgare (DP): [dp-80866eaf.md](dp-80866eaf.md); official file https://www.senat.ro/legis/PDF/2020/20L524DP.PDF
+- 2021-04-28: Adresă privind forma promulgată (AFP): [afp-c129a341.md](afp-c129a341.md); official file https://www.senat.ro/legis/PDF/2020/20L524AFP.PDF
+- 2021-04-28: Forma promulgată (FP): [fp-4152a67b.md](fp-4152a67b.md); official file https://www.senat.ro/legis/PDF/2020/20L524FP.PDF
