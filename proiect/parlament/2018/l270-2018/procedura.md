@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-18: documents published: Aviz comisie
 - 2018-07-05: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-02: returned for re-examination
+- 2021-05-04: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270FS.PDF
 - 2018-07-05: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270AXS.PDF
 - 2018-07-05: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270LP.PDF
+- 2021-05-04: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L270DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-05-04: Document (RC): [rc-4e7696c7.md](rc-4e7696c7.md); official file https://www.senat.ro/legis/PDF/2018/18L270RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-05-04: Document (ARD): [ard-9576c510.md](ard-9576c510.md); official file https://www.senat.ro/legis/PDF/2018/18L270ARD.PDF (its day is not given by the bill file: shown from the last stage held)
