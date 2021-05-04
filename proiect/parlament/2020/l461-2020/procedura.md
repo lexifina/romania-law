@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-17: sent for promulgation
+- 2021-05-04: promulgated, becomes Legea nr. 116/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: Adresă către Camera Deputaților (AM): [am-26a0790f.md](am-26a0790f.md); official file https://www.senat.ro/legis/PDF/2020/20L461AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-9f8475a5.md](axs-9f8475a5.md); official file https://www.senat.ro/legis/PDF/2020/20L461AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-bb55f109.md](lp-bb55f109.md); official file https://www.senat.ro/legis/PDF/2020/20L461LP.PDF
+- 2021-05-04: Decret de promulgare (DP): [dp-6e1f06e4.md](dp-6e1f06e4.md); official file https://www.senat.ro/legis/PDF/2020/20L461DP.PDF
+- 2021-05-04: Adresă privind forma promulgată (AFP): [afp-02e4d3aa.md](afp-02e4d3aa.md); official file https://www.senat.ro/legis/PDF/2020/20L461AFP.PDF
+- 2021-05-04: Forma promulgată (FP): [fp-88fbad80.md](fp-88fbad80.md); official file https://www.senat.ro/legis/PDF/2020/20L461FP.PDF
