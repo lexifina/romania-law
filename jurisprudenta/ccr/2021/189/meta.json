@@ -1,0 +1,309 @@
+{
+ "key": "dcc-189-2021",
+ "label": "Decizia CCR nr. 189/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "189",
+ "date": "2021-03-18",
+ "year": "2021",
+ "heading": "DECIZIA nr. 189 din 18 martie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "466",
+  "bis": false,
+  "date": "2021-05-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "36.366/3/2018",
+  "2.242D/2020",
+  "3.005/120/2019",
+  "16.352/3/2018",
+  "2.244D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată din oficiu de Tribunalul București - Secția a III-a civilă în dosarele nr. 36.366/3/2018, nr. 38.833/3/2018, nr. 39.119/3/2018, nr. 39.389/3/2018, nr. 40.081/3/2018, nr. 40.259/3/2018, nr. 41.069/3/2018, nr. 3.925/3/2020, nr. 7.718/3/2020 și nr. 30.264/3/2018 și de Comisia Națională pentru Compensarea Imobilelor în Dosarul nr. 3.005/120/2019 al Curții de Apel Ploiești - Secția I civilă și în Dosarul nr. 16.352/3/2018 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie și constată că prevederile art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, astfel cum au fost modificate prin Legea nr. 219/2020 pentru modificarea și completarea Legii nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Tribunalului București - Secția a III-a civilă, Curții de Apel Ploiești - Secția I civilă și Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind adoptarea Ordonanței de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "lege/2020/72"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 219/2010",
+    "number": "219",
+    "year": "2010",
+    "path": "lege/2010/219"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 22/2020",
+    "number": "22",
+    "year": "2020",
+    "path": "lege/2020/22"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241991",
+  "text_sha256": "940e7ff8bea6f4a7329ce929ba941a434e2579b9da8c74fa2c84e6bed549a72c",
+  "catalogue_sha256": "940e7ff8bea6f4a7329ce929ba941a434e2579b9da8c74fa2c84e6bed549a72c",
+  "fetched": "2026-11-04T02:25:49Z",
+  "chars": 31867,
+  "portal_id": "241991",
+  "tip": "DECIZIE"
+ }
+}
