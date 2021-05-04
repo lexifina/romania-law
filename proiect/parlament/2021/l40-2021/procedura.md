@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-17: sent for promulgation
+- 2021-05-04: promulgated, becomes Legea nr. 115/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-04-06: Forma adoptată de Senat (FS): [fs-7ffc81b4.md](fs-7ffc81b4.md); official file https://www.senat.ro/legis/PDF/2021/21L040FS.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-0a09b52b.md](axs-0a09b52b.md); official file https://www.senat.ro/legis/PDF/2021/21L040AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-264cb96f.md](lp-264cb96f.md); official file https://www.senat.ro/legis/PDF/2021/21L040LP.PDF
+- 2021-05-04: Decret de promulgare (DP): [dp-0042ab3e.md](dp-0042ab3e.md); official file https://www.senat.ro/legis/PDF/2021/21L040DP.PDF
+- 2021-05-04: Adresă privind forma promulgată (AFP): [afp-46a34286.md](afp-46a34286.md); official file https://www.senat.ro/legis/PDF/2021/21L040AFP.PDF
+- 2021-05-04: Forma promulgată (FP): [fp-916629a4.md](fp-916629a4.md); official file https://www.senat.ro/legis/PDF/2021/21L040FP.PDF
