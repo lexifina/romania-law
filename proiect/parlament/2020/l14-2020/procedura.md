@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-17: sent for promulgation
+- 2021-05-04: promulgated, becomes Legea nr. 117/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-9f34fad1.md](am-9f34fad1.md); official file https://www.senat.ro/legis/PDF/2020/20L014AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-e54b662b.md](axs-e54b662b.md); official file https://www.senat.ro/legis/PDF/2020/20L014AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-3b43c041.md](lp-3b43c041.md); official file https://www.senat.ro/legis/PDF/2020/20L014LP.PDF
+- 2021-05-04: Decret de promulgare (DP): [dp-d8a5c4e1.md](dp-d8a5c4e1.md); official file https://www.senat.ro/legis/PDF/2020/20L014DP.PDF
+- 2021-05-04: Adresă privind forma promulgată (AFP): [afp-1d6b2e94.md](afp-1d6b2e94.md); official file https://www.senat.ro/legis/PDF/2020/20L014AFP.PDF
+- 2021-05-04: Forma promulgată (FP): [fp-0ca77c18.md](fp-0ca77c18.md); official file https://www.senat.ro/legis/PDF/2020/20L014FP.PDF
