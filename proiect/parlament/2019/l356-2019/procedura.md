@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-04-07: adopted by the Chamber of Deputies
 - 2021-04-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-17: sent for promulgation
+- 2021-05-04: promulgated, becomes Legea nr. 118/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L356AM.PDF
 - 2021-04-12: Adresă privind sesizarea CCR (AXS): [axs-f41a08cf.md](axs-f41a08cf.md); official file https://www.senat.ro/legis/PDF/2019/19L356AXS.PDF
 - 2021-04-12: Forma trimisă la promulgare (LP): [lp-7a5306e3.md](lp-7a5306e3.md); official file https://www.senat.ro/legis/PDF/2019/19L356LP.PDF
+- 2021-05-04: Decret de promulgare (DP): [dp-0ee312b5.md](dp-0ee312b5.md); official file https://www.senat.ro/legis/PDF/2019/19L356DP.PDF
+- 2021-05-04: Adresă privind forma promulgată (AFP): [afp-ef30d5b7.md](afp-ef30d5b7.md); official file https://www.senat.ro/legis/PDF/2019/19L356AFP.PDF
+- 2021-05-04: Forma promulgată (FP): [fp-f86857e4.md](fp-f86857e4.md); official file https://www.senat.ro/legis/PDF/2019/19L356FP.PDF
