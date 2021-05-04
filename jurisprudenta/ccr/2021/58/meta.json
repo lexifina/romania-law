@@ -1,0 +1,391 @@
+{
+ "key": "dcc-58-2021",
+ "label": "Decizia CCR nr. 58/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "58",
+ "date": "2021-01-26",
+ "year": "2021",
+ "heading": "DECIZIA nr. 58 din 26 ianuarie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 18 alin. (3), art. 25 alin. (1) lit. b), art. 26 alin. (4), art. 32 alin. (1), art. 38 alin. (1), art. 43 alin. (1) și ale art. 64 alin. (1)-(4) din Legea concurenței nr. 21/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "465",
+  "bis": false,
+  "date": "2021-05-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.111/2/2017",
+  "2.845D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite excepția de neconstituționalitate ridicată de Societatea Viessmann - S.R.L., cu sediul în Ghimbav, în Dosarul nr. 3.111/2/2017 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că dispozițiile art. 18 alin. (3) din Legea concurenței nr. 21/1996 sunt neconstituționale.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în același dosar al aceleiași instanțe și constată că dispozițiile art. 25 alin. (1) lit. b), art. 26 alin. (4), art. 32 alin. (1), art. 38 alin. (1), art. 43 alin. (1) și ale art. 64 alin. (1)-(4) din Legea concurenței nr. 21/1996 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "81",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 121/2003",
+    "number": "121",
+    "year": "2003",
+    "path": "oug/2003/121"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2012",
+    "number": "115",
+    "year": "2012",
+    "path": "lege/2012/115"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/241984",
+  "text_sha256": "4f59b0cda2c4de4cd44d50150c94ba77190e883f1f46bf3e02a8f4a333c023bd",
+  "catalogue_sha256": "4f59b0cda2c4de4cd44d50150c94ba77190e883f1f46bf3e02a8f4a333c023bd",
+  "fetched": "2026-11-03T15:28:24Z",
+  "chars": 42286,
+  "portal_id": "241984",
+  "tip": "DECIZIE"
+ }
+}
