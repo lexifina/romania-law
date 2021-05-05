@@ -1,0 +1,198 @@
+{
+ "key": "dcc-53-2021",
+ "label": "Decizia CCR nr. 53/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "53",
+ "date": "2021-01-26",
+ "year": "2021",
+ "heading": "DECIZIA nr. 53 din 26 ianuarie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "470",
+  "bis": false,
+  "date": "2021-05-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.213/99/2017",
+  "1.200D/2018",
+  "14.226/3/2017",
+  "1.687/100/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 3^1 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, excepție ridicată de Adrian Cuba în Dosarul nr. 4.213/99/2017 al Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, de Cristinel Godinac și alții în Dosarul nr. 14.226/3/2017 (număr în format vechi 67/2018) al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și de Leontin Cupăr în Dosarul nr. 1.687/100/2017 al Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și Curții de Apel Cluj – Secția a IV-a pentru litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242035",
+  "text_sha256": "993de3aa29e952fc6bbbb4f8f7d980e9f94ad095a0e18fa93c1e85c754c08aea",
+  "catalogue_sha256": "993de3aa29e952fc6bbbb4f8f7d980e9f94ad095a0e18fa93c1e85c754c08aea",
+  "fetched": "2026-11-03T22:18:16Z",
+  "chars": 23621,
+  "portal_id": "242035",
+  "tip": "DECIZIE"
+ }
+}
