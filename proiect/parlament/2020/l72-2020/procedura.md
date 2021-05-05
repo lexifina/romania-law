@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-04-13: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-05: promulgated, becomes Legea nr. 120/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-03-10: Adresă către Camera Deputaților (AM): [am-4d60a5cb.md](am-4d60a5cb.md); official file https://www.senat.ro/legis/PDF/2020/20L072AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-8b9de0f0.md](axs-8b9de0f0.md); official file https://www.senat.ro/legis/PDF/2020/20L072AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-e8e7a325.md](lp-e8e7a325.md); official file https://www.senat.ro/legis/PDF/2020/20L072LP.PDF
+- 2021-05-05: Decret de promulgare (DP): [dp-1db2199a.md](dp-1db2199a.md); official file https://www.senat.ro/legis/PDF/2020/20L072DP.PDF
+- 2021-05-05: Adresă privind forma promulgată (AFP): [afp-dafdb14a.md](afp-dafdb14a.md); official file https://www.senat.ro/legis/PDF/2020/20L072AFP.PDF
+- 2021-05-05: Forma promulgată (FP): [fp-1ff9f17e.md](fp-1ff9f17e.md); official file https://www.senat.ro/legis/PDF/2020/20L072FP.PDF
