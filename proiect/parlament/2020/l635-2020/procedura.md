@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
 - 2021-05-05: promulgated, becomes Legea nr. 121/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-05-06: published in the Monitorul Oficial
 
 ## Documents
 
