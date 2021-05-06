@@ -1,0 +1,22 @@
+# Proiect de lege L143/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 275/2022 (`legea-275-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.37/2021 pentru modificarea și completarea Legii nr.53/2003 - Codul muncii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-05-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-05-06: Adresă de înaintare a inițiativei (AD): [ad-51fd62be.md](ad-51fd62be.md); official file https://www.senat.ro/legis/PDF/2021/21L143AD.PDF
+- 2021-05-06: Forma inițiatorului (FG): [fg-94d87acf.md](fg-94d87acf.md); official file https://www.senat.ro/legis/PDF/2021/21L143FG.PDF
+- 2021-05-06: Expunere de motive (EM): [em-a63f19b8.md](em-a63f19b8.md); official file https://www.senat.ro/legis/PDF/2021/21L143EM.PDF
+- 2021-05-06: Aviz Consiliul Legislativ (LG): [lg-c4749706.md](lg-c4749706.md); official file https://www.senat.ro/legis/PDF/2021/21L143LG.PDF
+- 2021-05-06: Document (OG): [og-ea182200.md](og-ea182200.md); official file https://www.senat.ro/legis/PDF/2021/21L143OG.PDF
+- 2021-05-06: Document (HG): [hg-783a9492.md](hg-783a9492.md); official file https://www.senat.ro/legis/PDF/2021/21L143HG.PDF
