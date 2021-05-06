@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-06: promulgated, becomes Legea nr. 124/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-02-08: Adresă către Camera Deputaților (AM): [am-2f2c9956.md](am-2f2c9956.md); official file https://www.senat.ro/legis/PDF/2021/21L002AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-1825c1f8.md](axs-1825c1f8.md); official file https://www.senat.ro/legis/PDF/2021/21L002AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-6dcacab3.md](lp-6dcacab3.md); official file https://www.senat.ro/legis/PDF/2021/21L002LP.PDF
+- 2021-05-06: Decret de promulgare (DP): [dp-c78a645c.md](dp-c78a645c.md); official file https://www.senat.ro/legis/PDF/2021/21L002DP.PDF
+- 2021-05-06: Adresă privind forma promulgată (AFP): [afp-6e3bfd0c.md](afp-6e3bfd0c.md); official file https://www.senat.ro/legis/PDF/2021/21L002AFP.PDF
+- 2021-05-06: Forma promulgată (FP): [fp-e02a9786.md](fp-e02a9786.md); official file https://www.senat.ro/legis/PDF/2021/21L002FP.PDF
