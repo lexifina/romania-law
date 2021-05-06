@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-06: promulgated, becomes Legea nr. 129/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-02-15: Adresă către Camera Deputaților (AM): [am-aa096951.md](am-aa096951.md); official file https://www.senat.ro/legis/PDF/2021/21L003AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-1a9a6886.md](axs-1a9a6886.md); official file https://www.senat.ro/legis/PDF/2021/21L003AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-14c00ef6.md](lp-14c00ef6.md); official file https://www.senat.ro/legis/PDF/2021/21L003LP.PDF
+- 2021-05-06: Decret de promulgare (DP): [dp-8a8cd865.md](dp-8a8cd865.md); official file https://www.senat.ro/legis/PDF/2021/21L003DP.PDF
+- 2021-05-06: Adresă privind forma promulgată (AFP): [afp-dff7d797.md](afp-dff7d797.md); official file https://www.senat.ro/legis/PDF/2021/21L003AFP.PDF
+- 2021-05-06: Forma promulgată (FP): [fp-1a81f17a.md](fp-1a81f17a.md); official file https://www.senat.ro/legis/PDF/2021/21L003FP.PDF
