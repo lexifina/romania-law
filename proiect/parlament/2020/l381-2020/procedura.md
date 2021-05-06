@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-06: promulgated, becomes Legea nr. 125/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-29: Adresă către Camera Deputaților (AM): [am-2f2f7d51.md](am-2f2f7d51.md); official file https://www.senat.ro/legis/PDF/2020/20L381AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-45e8df87.md](axs-45e8df87.md); official file https://www.senat.ro/legis/PDF/2020/20L381AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-65b9b70f.md](lp-65b9b70f.md); official file https://www.senat.ro/legis/PDF/2020/20L381LP.PDF
+- 2021-05-06: Decret de promulgare (DP): [dp-86a0ddb6.md](dp-86a0ddb6.md); official file https://www.senat.ro/legis/PDF/2020/20L381DP.PDF
+- 2021-05-06: Adresă privind forma promulgată (AFP): [afp-77ba7b21.md](afp-77ba7b21.md); official file https://www.senat.ro/legis/PDF/2020/20L381AFP.PDF
+- 2021-05-06: Forma promulgată (FP): [fp-1fce0802.md](fp-1fce0802.md); official file https://www.senat.ro/legis/PDF/2020/20L381FP.PDF
