@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-06: promulgated, becomes Legea nr. 126/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-11-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L660AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-dccd387a.md](axs-dccd387a.md); official file https://www.senat.ro/legis/PDF/2020/20L660AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-7f106c1d.md](lp-7f106c1d.md); official file https://www.senat.ro/legis/PDF/2020/20L660LP.PDF
+- 2021-05-06: Decret de promulgare (DP): [dp-a2e5b9ec.md](dp-a2e5b9ec.md); official file https://www.senat.ro/legis/PDF/2020/20L660DP.PDF
+- 2021-05-06: Adresă privind forma promulgată (AFP): [afp-95613e53.md](afp-95613e53.md); official file https://www.senat.ro/legis/PDF/2020/20L660AFP.PDF
+- 2021-05-06: Forma promulgată (FP): [fp-78ab6e3d.md](fp-78ab6e3d.md); official file https://www.senat.ro/legis/PDF/2020/20L660FP.PDF
