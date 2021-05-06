@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2021-04-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-04-28: documents published: Aviz comisie
 - 2021-05-05: documents published: Aviz comisie
+- 2021-05-06: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2021-04-16: Document (HG): [hg-0db10388.md](hg-0db10388.md); official file https://www.senat.ro/legis/PDF/2021/21L103HG.PDF
 - 2021-04-28: Aviz comisie (CA3): [ca3-5059cfe8.md](ca3-5059cfe8.md); official file https://www.senat.ro/legis/PDF/2021/21L103CA3.PDF
 - 2021-05-05: Aviz comisie (CA16): [ca16-1c14d431.md](ca16-1c14d431.md); official file https://www.senat.ro/legis/PDF/2021/21L103CA16.PDF
+- 2021-05-06: Raport comisie sesizată pe fond (CR): [cr-2e03cc71.md](cr-2e03cc71.md); official file https://www.senat.ro/legis/PDF/2021/21L103CR.PDF
