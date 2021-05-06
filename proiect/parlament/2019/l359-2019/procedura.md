@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-21: sent for promulgation
+- 2021-05-06: promulgated, becomes Legea nr. 127/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L359AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-3c1f7d9b.md](axs-3c1f7d9b.md); official file https://www.senat.ro/legis/PDF/2019/19L359AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-1b3e8533.md](lp-1b3e8533.md); official file https://www.senat.ro/legis/PDF/2019/19L359LP.PDF
+- 2021-05-06: Decret de promulgare (DP): [dp-13f88d1b.md](dp-13f88d1b.md); official file https://www.senat.ro/legis/PDF/2019/19L359DP.PDF
+- 2021-05-06: Adresă privind forma promulgată (AFP): [afp-aba2156a.md](afp-aba2156a.md); official file https://www.senat.ro/legis/PDF/2019/19L359AFP.PDF
+- 2021-05-06: Forma promulgată (FP): [fp-a1339221.md](fp-a1339221.md); official file https://www.senat.ro/legis/PDF/2019/19L359FP.PDF
