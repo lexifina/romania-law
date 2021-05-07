@@ -1,0 +1,352 @@
+{
+ "key": "dcc-886-2020",
+ "label": "Decizia CCR nr. 886/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "886",
+ "date": "2020-12-15",
+ "year": "2020",
+ "heading": "DECIZIA nr. 886 din 15 decembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 141 alin. (2) lit. f) din Legea nr. 571/2003 privind Codul fiscal, în redactarea anterioară Ordonanței de urgență a Guvernului nr. 106/2007 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, respectiv în redactarea anterioară Ordonanței de urgență a Guvernului nr. 109/2009 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, precum și a prevederilor art. 127 alin. (1) și (2) din Legea nr. 571/2003 privind Codul fiscal în redactarea anterioară Ordonanței de urgență a Guvernului nr. 109/2009",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "477",
+  "bis": false,
+  "date": "2021-05-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "489/59/2012",
+  "157D/2018",
+  "1.852D/2018",
+  "812/35/2010",
+  "329D/2019",
+  "820/57/2011"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "127",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 106/2007",
+    "number": "106",
+    "year": "2007",
+    "path": "oug/2007/106"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 109/2009",
+    "number": "109",
+    "year": "2009",
+    "path": "oug/2009/109"
+   },
+   "articles": [],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mariana Nanu în Dosarul nr. 489/59/2012* al Curții de Apel Timișoara - Secția contencios administrativ și fiscal, de Ana Varga și de Gheorghe Varga în Dosarul nr. 812/35/2010*/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și de Ioan Presăcan în Dosarul nr. 820/57/2011* al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că prevederile art. 141 alin. (2) lit. f) din Legea nr. 571/2003 privind Codul fiscal, în redactarea anterioară Ordonanței de urgență a Guvernului nr. 106/2007 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, respectiv în redactarea anterioară Ordonanței de urgență a Guvernului nr. 109/2009 pentru modificarea și completarea Legii nr. 571/2003 privind Codul fiscal, precum și a prevederilor art. 127 alin. (1) și (2) din Legea nr. 571/2003 privind Codul fiscal, în redactarea anterioară Ordonanței de urgență a Guvernului nr. 109/2009 sunt constituționale prin raportare la criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Timișoara - Secția contencios administrativ și fiscal și Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "127",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2009",
+    "number": "109",
+    "year": "2009",
+    "path": "oug/2009/109"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "141",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "127",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "502",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul comercial",
+    "path": "cod/1887/comercial",
+    "slug": "codul-comercial-1887"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 106/2007",
+    "number": "106",
+    "year": "2007",
+    "path": "oug/2007/106"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 44/2004",
+    "number": "44",
+    "year": "2004",
+    "path": "hg/2004/44"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242102",
+  "text_sha256": "cd677f79ec9f4683fdb780d0e21258959fcb8a677fe9a1d438523a987bfe97e7",
+  "catalogue_sha256": "cd677f79ec9f4683fdb780d0e21258959fcb8a677fe9a1d438523a987bfe97e7",
+  "fetched": "2026-11-06T02:44:24Z",
+  "chars": 41440,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20240315232348/https://legislatie.just.ro/Public/DetaliiDocument/242102",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/242102",
+   "timestamp": "20240315232348",
+   "sha256": "9de46a86d4a3942411bca64f90e1a14807db5258d7549d96aea8d507d6575036"
+  },
+  "portal_id": "242102",
+  "tip": "DECIZIE"
+ }
+}
