@@ -1,0 +1,8 @@
+# Anexa nr. 3 (Anexa nr. 3 la Ordinul nr. 5.449/2020)
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul/Subsemnata,........................................, părintele/reprezentantul legal al copilului............................. domiciliat(ă) în localitatea................................, str.................................... nr......, bl....., sc......, ap....., județul/sectorul..........................., legitimat(ă) cu......... seria...... nr.............., CNP................................ declar pe proprie răspundere că datele și informațiile cuprinse în documentul/documentele............................................
+Totodată, declar că am înțeles următoarele: • la data comunicată de inspectoratul școlar/unitatea de învățământ voi prezenta la secretariatul unității de învățământ gimnazial/profesional de stat și în învățământul dual de stat documentele care au stat la baza admiterii fiicei mele/fiului meu.......................... în învățământul profesional de stat și în învățământul dual de stat, pentru anul școlar 2021-2022, inclusiv documentele medicale necesare înscrierii.
+Cunoscând prevederile Codului penal privind falsul în declarații, declar pe propria răspundere și sub sancțiunea nulității înscrierii faptul că datele din prezenta cerere de înscriere sunt reale.
+Semnătura..................
+Data................. • Sunt de acord ca datele mele cu caracter personal să fie prelucrate de unitatea de învățământ, în vederea soluționării cererii de înscriere a minorului. • Sunt de acord ca datele cu caracter personal ale minorului să fie prelucrate de unitatea de învățământ, în vederea soluționării prezentei cereri și ulterior, pe parcursul școlarizării.
+-----
