@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2021-04-06: registered at the Chamber of Deputies
+- 2021-05-10: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2021-05-10: Document (OG): [og-6df04ab4.md](og-6df04ab4.md); official file https://www.senat.ro/legis/PDF/2021/21L163OG.PDF
