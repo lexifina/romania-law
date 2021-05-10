@@ -1,0 +1,167 @@
+{
+ "key": "cedo-37087-03-2020-11-17",
+ "label": "CEDO, Konya și alții c. României, 2020-11-17",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-11-17",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 17 noiembrie 2020",
+ "subtitle": "în Cauza Konya și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "481",
+  "bis": false,
+  "date": "2021-05-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "37087/03",
+  "9584/02",
+  "26485/07",
+  "8548/08",
+  "6084/14",
+  "12118/06",
+  "3104/07",
+  "8011/04",
+  "15658/05"
+ ],
+ "case_name": "Konya și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. hotărăște că moștenitorii reclamanților care și-au manifestat dorința de a continua procedura în locul defuncților reclamanți au calitatea procesuală de a face acest lucru (a se vedea anexa);",
+  "2. decide să conexeze cererile;",
+  "3. declară admisibile capetele de cerere în ceea ce privește art. 1 din Protocolul nr. 1 la Convenție, în afară de capătul de cerere menționat la pct. 37 din prezenta hotărâre, și inadmisibile restul capetelor de cerere, în afară de capetele de cerere menționate la pct. 35 din prezenta hotărâre;",
+  "4. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "5. hotărăște că nu este necesar să examineze admisibilitatea și temeinicia capetelor de cerere formulate în temeiul art. 6 din Convenție, menționate la pct. 35 din prezenta hotărâre;",
+  "6. hotărăște: a) că statul pârât trebuie să restituie reclamanților proprietățile lor, în termen de trei luni;",
+  "b) că, în lipsa unei asemenea restituiri, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat plus orice sumă care poate fi datorată cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul material;",
+  "c) că, în orice caz, statul pârât trebuie să plătească reclamanților, în același termen de trei luni, sumele indicate în tabelul anexat plus orice sumă care poate fi datorată de reclamanți cu titlu de impozit, cu titlu de despăgubire pentru prejudiciul moral și pentru cheltuielile de judecată;",
+  "d) că sumele de mai sus trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "e) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată anuală egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, majorată cu trei puncte procentuale;",
+  "7. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2008",
+    "number": "9",
+    "year": "2008",
+    "path": "oug/2008/9"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242121",
+  "text_sha256": "118fcb134a0501f704af5e945a19e12b4230eac9a9369017936e57b82bf3aa0d",
+  "catalogue_sha256": "118fcb134a0501f704af5e945a19e12b4230eac9a9369017936e57b82bf3aa0d",
+  "fetched": "2026-11-03T01:46:28Z",
+  "chars": 37735,
+  "portal_id": "242121",
+  "tip": "HOTĂRÂRE"
+ }
+}
