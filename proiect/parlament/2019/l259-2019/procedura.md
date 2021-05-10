@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-26: documents published: Raport comisie sesizată pe fond
 - 2019-09-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2019-09-18: registered at the Chamber of Deputies
+- 2021-05-10: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L259CR.PDF
 - 2019-09-16: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L259FS.PDF
 - 2019-09-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L259AM.PDF
+- 2021-05-10: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L259AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-05-10: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L259S1.PDF (its day is not given by the bill file: shown from the last stage held)
