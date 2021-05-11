@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-22: first record in the bill file
 - 2021-03-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-03-29: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2021-05-11: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-23: Expunere de motive (EM): [em-df8a9ff9.md](em-df8a9ff9.md); official file https://www.senat.ro/legis/PDF/2021/21L136EM.PDF
 - 2021-03-29: Aviz Consiliul Economic și Social (ES): [es-52b4b0bb.md](es-52b4b0bb.md); official file https://www.senat.ro/legis/PDF/2021/21L136ES.PDF
 - 2021-03-29: Aviz Consiliul Legislativ (LG): [lg-c7ba5354.md](lg-c7ba5354.md); official file https://www.senat.ro/legis/PDF/2021/21L136LG.PDF
+- 2021-05-11: Aviz comisie (CA3): [ca3-1ca4c0ea.md](ca3-1ca4c0ea.md); official file https://www.senat.ro/legis/PDF/2021/21L136CA3.PDF
+- 2021-05-11: Aviz comisie (CA44): [ca44-e8d8e526.md](ca44-e8d8e526.md); official file https://www.senat.ro/legis/PDF/2021/21L136CA44.PDF
+- 2021-05-11: Aviz comisie (CA50): [ca50-4c011354.md](ca50-4c011354.md); official file https://www.senat.ro/legis/PDF/2021/21L136CA50.PDF
+- 2021-05-11: Aviz comisie (CA52): [ca52-b5a4abb1.md](ca52-b5a4abb1.md); official file https://www.senat.ro/legis/PDF/2021/21L136CA52.PDF
