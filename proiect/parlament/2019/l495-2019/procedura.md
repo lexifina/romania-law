@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-31: adopted by the Chamber of Deputies
 - 2021-04-21: documents published: Aviz comisie
 - 2021-04-26: adopted by the Senate
+- 2021-05-12: adopted by the Chamber of Deputies
 
 ## Documents
 
