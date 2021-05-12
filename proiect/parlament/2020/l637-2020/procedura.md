@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-12: promulgated, becomes Legea nr. 131/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,6 @@ Initiator: Guvernul României.
 - 2020-11-13: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L637AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-59e3facc.md](axs-59e3facc.md); official file https://www.senat.ro/legis/PDF/2020/20L637AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-079f9fbf.md](lp-079f9fbf.md); official file https://www.senat.ro/legis/PDF/2020/20L637LP.PDF
+- 2021-05-12: Decret de promulgare (DP): [dp-d73d2bc0.md](dp-d73d2bc0.md); official file https://www.senat.ro/legis/PDF/2020/20L637DP.PDF
+- 2021-05-12: Adresă privind forma promulgată (AFP): [afp-8705f860.md](afp-8705f860.md); official file https://www.senat.ro/legis/PDF/2020/20L637AFP.PDF
+- 2021-05-12: Forma promulgată (FP): [fp-f3e459b5.md](fp-f3e459b5.md); official file https://www.senat.ro/legis/PDF/2020/20L637FP.PDF
