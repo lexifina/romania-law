@@ -1,0 +1,226 @@
+{
+ "key": "dcc-120-2021",
+ "label": "Decizia CCR nr. 120/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "120",
+ "date": "2021-03-02",
+ "year": "2021",
+ "heading": "DECIZIA nr. 120 din 2 martie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 374 alin. (2) și ale art. 378 alin. (6) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "501",
+  "bis": false,
+  "date": "2021-05-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.679/102/2011",
+  "1.271D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "374",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "378",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Szigyarto Szabolcs în Dosarul nr. 3.679/102/2011**/a5 al Tribunalului Mureș - Secția penală și constată că dispozițiile art. 374 alin. (2) și ale art. 378 alin. (6) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Mureș - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "374",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "378",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": [
+      "5",
+      "3",
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "282",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242240",
+  "text_sha256": "588d83a3f6e2e9c84e770fb2f09fae3f9c127a57b7ec4fad961691ecd3bc187e",
+  "catalogue_sha256": "588d83a3f6e2e9c84e770fb2f09fae3f9c127a57b7ec4fad961691ecd3bc187e",
+  "fetched": "2026-11-03T01:46:20Z",
+  "chars": 24162,
+  "portal_id": "242240",
+  "tip": "DECIZIE"
+ }
+}
