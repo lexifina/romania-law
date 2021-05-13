@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-24: sent for promulgation
+- 2021-05-13: promulgated, becomes Legea nr. 134/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L354AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-cde502d6.md](axs-cde502d6.md); official file https://www.senat.ro/legis/PDF/2019/19L354AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-e37b4601.md](lp-e37b4601.md); official file https://www.senat.ro/legis/PDF/2019/19L354LP.PDF
+- 2021-05-13: Decret de promulgare (DP): [dp-fe8cc9c6.md](dp-fe8cc9c6.md); official file https://www.senat.ro/legis/PDF/2019/19L354DP.PDF
+- 2021-05-13: Adresă privind forma promulgată (AFP): [afp-61bebd5c.md](afp-61bebd5c.md); official file https://www.senat.ro/legis/PDF/2019/19L354AFP.PDF
+- 2021-05-13: Forma promulgată (FP): [fp-98ece43b.md](fp-98ece43b.md); official file https://www.senat.ro/legis/PDF/2019/19L354FP.PDF
