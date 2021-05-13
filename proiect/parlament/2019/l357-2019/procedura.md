@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-24: sent for promulgation
+- 2021-05-13: promulgated, becomes Legea nr. 132/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L357AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-2dd20ba4.md](axs-2dd20ba4.md); official file https://www.senat.ro/legis/PDF/2019/19L357AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-515f7df2.md](lp-515f7df2.md); official file https://www.senat.ro/legis/PDF/2019/19L357LP.PDF
+- 2021-05-13: Decret de promulgare (DP): [dp-0b176536.md](dp-0b176536.md); official file https://www.senat.ro/legis/PDF/2019/19L357DP.PDF
+- 2021-05-13: Adresă privind forma promulgată (AFP): [afp-b5d489a4.md](afp-b5d489a4.md); official file https://www.senat.ro/legis/PDF/2019/19L357AFP.PDF
+- 2021-05-13: Forma promulgată (FP): [fp-6eb825aa.md](fp-6eb825aa.md); official file https://www.senat.ro/legis/PDF/2019/19L357FP.PDF
