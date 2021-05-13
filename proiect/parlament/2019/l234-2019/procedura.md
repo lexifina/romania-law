@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-24: sent for promulgation
+- 2021-05-13: promulgated, becomes Legea nr. 138/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L234AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-145c29ab.md](axs-145c29ab.md); official file https://www.senat.ro/legis/PDF/2019/19L234AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-d048d750.md](lp-d048d750.md); official file https://www.senat.ro/legis/PDF/2019/19L234LP.PDF
+- 2021-05-13: Decret de promulgare (DP): [dp-e3a255ff.md](dp-e3a255ff.md); official file https://www.senat.ro/legis/PDF/2019/19L234DP.PDF
+- 2021-05-13: Adresă privind forma promulgată (AFP): [afp-f98542e6.md](afp-f98542e6.md); official file https://www.senat.ro/legis/PDF/2019/19L234AFP.PDF
+- 2021-05-13: Forma promulgată (FP): [fp-dfca416b.md](fp-dfca416b.md); official file https://www.senat.ro/legis/PDF/2019/19L234FP.PDF
