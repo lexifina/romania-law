@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-24: sent for promulgation
+- 2021-05-13: promulgated, becomes Legea nr. 137/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L361AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-9c7b29ac.md](axs-9c7b29ac.md); official file https://www.senat.ro/legis/PDF/2019/19L361AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-1c4173ca.md](lp-1c4173ca.md); official file https://www.senat.ro/legis/PDF/2019/19L361LP.PDF
+- 2021-05-13: Decret de promulgare (DP): [dp-20318dd2.md](dp-20318dd2.md); official file https://www.senat.ro/legis/PDF/2019/19L361DP.PDF
+- 2021-05-13: Adresă privind forma promulgată (AFP): [afp-a8fb31d9.md](afp-a8fb31d9.md); official file https://www.senat.ro/legis/PDF/2019/19L361AFP.PDF
+- 2021-05-13: Forma promulgată (FP): [fp-f6601fe5.md](fp-f6601fe5.md); official file https://www.senat.ro/legis/PDF/2019/19L361FP.PDF
