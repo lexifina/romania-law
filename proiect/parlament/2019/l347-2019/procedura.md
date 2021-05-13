@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-14: adopted by the Chamber of Deputies
 - 2021-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-24: sent for promulgation
+- 2021-05-13: promulgated, becomes Legea nr. 135/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L347AM.PDF
 - 2021-04-19: Adresă privind sesizarea CCR (AXS): [axs-52ceae97.md](axs-52ceae97.md); official file https://www.senat.ro/legis/PDF/2019/19L347AXS.PDF
 - 2021-04-19: Forma trimisă la promulgare (LP): [lp-db98c62f.md](lp-db98c62f.md); official file https://www.senat.ro/legis/PDF/2019/19L347LP.PDF
+- 2021-05-13: Decret de promulgare (DP): [dp-cbddc61f.md](dp-cbddc61f.md); official file https://www.senat.ro/legis/PDF/2019/19L347DP.PDF
+- 2021-05-13: Adresă privind forma promulgată (AFP): [afp-497be3c7.md](afp-497be3c7.md); official file https://www.senat.ro/legis/PDF/2019/19L347AFP.PDF
+- 2021-05-13: Forma promulgată (FP): [fp-483f7c0f.md](fp-483f7c0f.md); official file https://www.senat.ro/legis/PDF/2019/19L347FP.PDF
