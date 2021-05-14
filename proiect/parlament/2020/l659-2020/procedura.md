@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-14: promulgated, becomes Legea nr. 139/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-11-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L659AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-bb7b0e8f.md](axs-bb7b0e8f.md); official file https://www.senat.ro/legis/PDF/2020/20L659AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-200a8658.md](lp-200a8658.md); official file https://www.senat.ro/legis/PDF/2020/20L659LP.PDF
+- 2021-05-14: Decret de promulgare (DP): [dp-df6a31f1.md](dp-df6a31f1.md); official file https://www.senat.ro/legis/PDF/2020/20L659DP.PDF
+- 2021-05-14: Adresă privind forma promulgată (AFP): [afp-72715e77.md](afp-72715e77.md); official file https://www.senat.ro/legis/PDF/2020/20L659AFP.PDF
+- 2021-05-14: Forma promulgată (FP): [fp-ba7200f5.md](fp-ba7200f5.md); official file https://www.senat.ro/legis/PDF/2020/20L659FP.PDF
