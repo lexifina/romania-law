@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-14: promulgated, becomes Legea nr. 140/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2021-02-08: Adresă către Camera Deputaților (AM): [am-2f2c9956.md](am-2f2c9956.md); official file https://www.senat.ro/legis/PDF/2021/21L005AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-83f45b12.md](axs-83f45b12.md); official file https://www.senat.ro/legis/PDF/2021/21L005AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-90deee00.md](lp-90deee00.md); official file https://www.senat.ro/legis/PDF/2021/21L005LP.PDF
+- 2021-05-14: Decret de promulgare (DP): [dp-c4ee64e4.md](dp-c4ee64e4.md); official file https://www.senat.ro/legis/PDF/2021/21L005DP.PDF
+- 2021-05-14: Adresă privind forma promulgată (AFP): [afp-5586138d.md](afp-5586138d.md); official file https://www.senat.ro/legis/PDF/2021/21L005AFP.PDF
+- 2021-05-14: Forma promulgată (FP): [fp-14ede8b2.md](fp-14ede8b2.md); official file https://www.senat.ro/legis/PDF/2021/21L005FP.PDF
