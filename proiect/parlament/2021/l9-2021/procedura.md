@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-17: promulgated, becomes Legea nr. 141/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2021-02-15: Adresă către Camera Deputaților (AM): [am-f1969262.md](am-f1969262.md); official file https://www.senat.ro/legis/PDF/2021/21L009AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-c8ee4ac7.md](axs-c8ee4ac7.md); official file https://www.senat.ro/legis/PDF/2021/21L009AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-f5c9f237.md](lp-f5c9f237.md); official file https://www.senat.ro/legis/PDF/2021/21L009LP.PDF
+- 2021-05-17: Decret de promulgare (DP): [dp-faf00768.md](dp-faf00768.md); official file https://www.senat.ro/legis/PDF/2021/21L009DP.PDF
+- 2021-05-17: Adresă privind forma promulgată (AFP): [afp-67615a72.md](afp-67615a72.md); official file https://www.senat.ro/legis/PDF/2021/21L009AFP.PDF
+- 2021-05-17: Forma promulgată (FP): [fp-3910e918.md](fp-3910e918.md); official file https://www.senat.ro/legis/PDF/2021/21L009FP.PDF
