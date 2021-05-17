@@ -1,0 +1,19 @@
+# Propunere legislativă L253/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 58/2022 (`legea-58-2022`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-05-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-05-17: Adresă de înaintare a inițiativei (AD): [ad-a66096e8.md](ad-a66096e8.md); official file https://www.senat.ro/legis/PDF/2021/21L253AD.PDF
+- 2021-05-17: Forma inițiatorului (FG): [fg-847a5202.md](fg-847a5202.md); official file https://www.senat.ro/legis/PDF/2021/21L253FG.PDF
+- 2021-05-17: Expunere de motive (EM): [em-460c7326.md](em-460c7326.md); official file https://www.senat.ro/legis/PDF/2021/21L253EM.PDF
