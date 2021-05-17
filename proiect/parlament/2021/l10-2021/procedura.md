@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-17: promulgated, becomes Legea nr. 145/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-02-15: Adresă către Camera Deputaților (AM): [am-1158fb6e.md](am-1158fb6e.md); official file https://www.senat.ro/legis/PDF/2021/21L010AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-72589b31.md](axs-72589b31.md); official file https://www.senat.ro/legis/PDF/2021/21L010AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-00d4cbad.md](lp-00d4cbad.md); official file https://www.senat.ro/legis/PDF/2021/21L010LP.PDF
+- 2021-05-17: Decret de promulgare (DP): [dp-87117e66.md](dp-87117e66.md); official file https://www.senat.ro/legis/PDF/2021/21L010DP.PDF
+- 2021-05-17: Adresă privind forma promulgată (AFP): [afp-7ca63f69.md](afp-7ca63f69.md); official file https://www.senat.ro/legis/PDF/2021/21L010AFP.PDF
+- 2021-05-17: Forma promulgată (FP): [fp-a983487b.md](fp-a983487b.md); official file https://www.senat.ro/legis/PDF/2021/21L010FP.PDF
