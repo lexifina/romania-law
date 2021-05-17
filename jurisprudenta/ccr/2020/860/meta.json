@@ -1,0 +1,269 @@
+{
+ "key": "dcc-860-2020",
+ "label": "Decizia CCR nr. 860/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "860",
+ "date": "2020-11-26",
+ "year": "2020",
+ "heading": "DECIZIA nr. 860 din 26 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 78 alin. (2) și ale art. 79 alin. (1) din Legea nr. 571/2003 privind Codul fiscal, precum și ale art. I lit. B pct. 16 din Hotărârea Guvernului nr. 84/2013 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 44/2004",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "508",
+  "bis": false,
+  "date": "2021-05-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.396/109/2016",
+  "2.658D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 84/2013",
+    "number": "84",
+    "year": "2013",
+    "path": "hg/2013/84"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 78 alin. (2) și ale art. 79 alin. (1) din Legea nr. 571/2003 privind Codul fiscal, precum și ale art. I lit. B pct. 16 din Hotărârea Guvernului nr. 84/2013 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 571/2003 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 44/2004, excepție ridicată de Nicoleta Sora în Dosarul nr. 2.396/109/2016 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 84/2013",
+    "number": "84",
+    "year": "2013",
+    "path": "hg/2013/84"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242294",
+  "text_sha256": "146fb5a73fa73669b258c6a041473a4989586a5430c58bf1468d9124f50b0698",
+  "catalogue_sha256": "146fb5a73fa73669b258c6a041473a4989586a5430c58bf1468d9124f50b0698",
+  "fetched": "2026-11-03T20:27:48Z",
+  "chars": 22635,
+  "portal_id": "242294",
+  "tip": "DECIZIE"
+ }
+}
