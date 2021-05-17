@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
+- 2021-05-17: promulgated, becomes Legea nr. 144/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-10-02: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L338AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-2060a268.md](axs-2060a268.md); official file https://www.senat.ro/legis/PDF/2019/19L338AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-1752ebb3.md](lp-1752ebb3.md); official file https://www.senat.ro/legis/PDF/2019/19L338LP.PDF
+- 2021-05-17: Decret de promulgare (DP): [dp-ecdd3fd1.md](dp-ecdd3fd1.md); official file https://www.senat.ro/legis/PDF/2019/19L338DP.PDF
+- 2021-05-17: Adresă privind forma promulgată (AFP): [afp-9e43bfb9.md](afp-9e43bfb9.md); official file https://www.senat.ro/legis/PDF/2019/19L338AFP.PDF
+- 2021-05-17: Forma promulgată (FP): [fp-74c06772.md](fp-74c06772.md); official file https://www.senat.ro/legis/PDF/2019/19L338FP.PDF
