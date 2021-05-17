@@ -1,0 +1,7 @@
+# Anexa nr. 4: FORMA ȘI CONȚINUTUL rapoartelor privind transferurile de fonduri pentru activitatea de remitere de bani a căror limită minimă reprezintă echivalentul în lei a 2.000 euro I. Aspecte introductive Prezen
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 239613 (https://legislatie.just.ro/Public/DetaliiDocument/239613)
+- sha256 of that document's text as the service returned it: 02bf1f4b0250f42fede4a5a1ecffd6839e8164d6adb09fa0f05db25ac93c9227
+- Retrieved: 2026-11-03
