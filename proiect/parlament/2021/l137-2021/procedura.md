@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-11: documents published: Aviz comisie
 - 2021-05-12: documents published: Aviz comisie
 - 2021-05-13: documents published: Aviz comisie
+- 2021-05-18: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-11: Aviz comisie (CA3): [ca3-bea036f1.md](ca3-bea036f1.md); official file https://www.senat.ro/legis/PDF/2021/21L137CA3.PDF
 - 2021-05-12: Aviz comisie (CA53): [ca53-1da6c8e0.md](ca53-1da6c8e0.md); official file https://www.senat.ro/legis/PDF/2021/21L137CA53.PDF
 - 2021-05-13: Aviz comisie (CA8): [ca8-d85f5f83.md](ca8-d85f5f83.md); official file https://www.senat.ro/legis/PDF/2021/21L137CA8.PDF
+- 2021-05-18: Aviz comisie (CA45): [ca45-f8d13e83.md](ca45-f8d13e83.md); official file https://www.senat.ro/legis/PDF/2021/21L137CA45.PDF
