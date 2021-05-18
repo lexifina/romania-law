@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-05: registered at the Chamber of Deputies
 - 2021-05-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-12: sent for promulgation; promulgated, becomes Legea nr. 130/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-05-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-12: Decret de promulgare (DP): [dp-09f6c6ed.md](dp-09f6c6ed.md); official file https://www.senat.ro/legis/PDF/2021/21L131DP.PDF
 - 2021-05-12: Adresă privind forma promulgată (AFP): [afp-d0d09616.md](afp-d0d09616.md); official file https://www.senat.ro/legis/PDF/2021/21L131AFP.PDF
 - 2021-05-12: Forma promulgată (FP): [fp-8300b814.md](fp-8300b814.md); official file https://www.senat.ro/legis/PDF/2021/21L131FP.PDF
+- 2021-05-18: Document (SM): [sm-b8993048.md](sm-b8993048.md); official file https://www.senat.ro/legis/PDF/2021/21L131SM.PDF (its day is not given by the bill file: shown from the last stage held)
