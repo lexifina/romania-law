@@ -1,0 +1,7 @@
+# Anexa nr. 2: ----
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 242392 (https://legislatie.just.ro/Public/DetaliiDocument/242392)
+- sha256 of that document's text as the service returned it: 5c60c88726e1dbf538bfc201496fc4929713d73327cc4fbccedaeb85f257f8fc
+- Retrieved: 2026-11-03
