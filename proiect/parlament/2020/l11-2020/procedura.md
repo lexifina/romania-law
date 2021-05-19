@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-27: sent for promulgation
 - 2021-03-08: registered at the Chamber of Deputies
 - 2021-03-18: promulgated, becomes Legea nr. 45/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-05-19: adopted by the Senate
 
 ## Documents
 
