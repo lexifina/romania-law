@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2021-04-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-05-04: registered at the Senate
+- 2021-05-19: registered at the Chamber of Deputies
 
 ## Documents
 
