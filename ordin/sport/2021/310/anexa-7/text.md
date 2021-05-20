@@ -1,0 +1,39 @@
+# Anexa nr. 7
+A.
+Scop Prezentul regulament stabilește criteriile care trebuie îndeplinite pentru accesul spectatorilor la evenimentele sportive, atât în spații deschise, cât și în spații închise.
+Accesul spectatorilor la evenimentele sportive în spații închise sau accesul spectatorilor într-o proporție mai mare de 25% din capacitatea tribunelor în cazul evenimentelor sportive în aer liber se face numai cu titlu excepțional, de eveniment-pilot. Acestea sunt aprobate de Comitetul Național pentru Situații de Urgență, pe baza propunerii Ministerului Tineretului și Sportului și cu avizul Ministerului Sănătății.
+Regulile generale de protecție sanitară împotriva răspândirii SARS-CoV-2 și regulile privind purtarea corectă a măștii de protecție sunt stabilite în anexa nr. 1 la ordin.
+B.
+Măsuri organizatorice general aplicabile evenimentelor sportive în aer liber și în spații închise Personalul de securitate/auxiliar/de întreținere/de curățenie va purta obligatoriu masca de protecție pe întreaga durată a prezenței acestuia în interiorul arenei sportive și va folosi periodic dezinfectant pentru mâini. Organizatorul are obligația de a asigura prezența tuturor categoriilor de personal în număr suficient de mare pentru a putea asigura respectarea deplină a reglementărilor în vigoare.
+În zonele unde se pot forma aglomerații (de exemplu, punctele de comercializare a băuturilor răcoritoare sau toaletele) vor exista marcaje vizibile, care să permită menținerea distanței de siguranță de 1,5 m între persoanele care se așază la coadă.
+Nu este permisă comercializarea mâncării, dar se pot organiza puncte de vânzare a băuturilor răcoritoare, cu condiția ca acestea să fie comercializate în sticle de plastic de maximum 0,5 l fără dop sau pahare de hârtie/plastic. Operatorul chioșcurilor va monta pentru fiecare punct de vânzare folosit cel puțin un dispenser cu gel dezinfectant care va fi folosit de către clienți.
+Organizatorul se va asigura că fiecare toaletă este dotată cu un număr suficient de dispensere cu săpun lichid și gel dezinfectant, prosoape de hârtie de unică folosință, hârtie igienică.
+Organizatorul va curăța și va dezinfecta toaletele înainte de accesul suporterilor în stadion și după fluierul de start al reprizei a 2-a, folosind un număr suficient de personal calificat. În perioada dintre cele două momente menționate anterior se golesc coșurile de gunoi și personalul dedicat se va asigura de completarea materialelor necesare (săpun lichid și gel dezinfectant, prosoape de hârtie de unică folosință, hârtie igienică).
+C.
+Reguli privind organizarea evenimentelor sportive în aer liber 1.
+Categorii eligibile Pot participa ca spectatori la evenimentele sportive în aer liber persoanele care sunt vaccinate împotriva virusului SARS-CoV-2 pentru care au trecut 10 zile de la finalizarea schemei complete de vaccinare, persoanele care prezintă rezultatul negativ al unui test RT-PCR nu mai vechi de 72 de ore sau rezultatul negativ certificat al unui test antigen rapid nu mai vechi de 24 de ore.
+2.
+Accesul la evenimentul sportiv Toate porțile de acces în interiorul arenei sportive vor fi deschise. Organizatorii vor comunica spectatorilor orele recomandate pentru sosirea la eveniment, precum și poarta de acces recomandată, pentru a minimiza riscul de creare a aglomerației în aceste puncte. De asemenea, vor exista marcaje care să ajute persoanele să păstreze distanța de siguranță de minimum 1,5 m.
+Accesul în incintă nu va fi permis persoanelor care prezintă febră, tuse, dureri în gât, dificultate în respirație. Persoanelor care prezintă unul sau mai multe dintre aceste simptome li se va recomanda să contacteze medicul de familie.
+Controlul de securitate de la porți se va face doar vizual, spectatorii fiind rugați să colaboreze și să prezinte de bună voie obiectele pe care le dețin în buzunare și/sau genți. Dacă este necesar, verificarea corporală va fi efectuată de stewarzi ce vor folosi măști de protecție, mănuși de unică folosință; aceștia se vor schimba/dezinfecta la fiecare control sau se va recurge la autoverificare.
+Accesul în arenă este permis doar cu genți mai mici sau egale cu o foaie de hârtie A4.
+Nu se permite accesul cu mâncare sau băutură.
+3.
+Așezarea în tribune Organizatorul evenimentului sportiv are obligația de a marca în mod corespunzător spațiile unde spectatorii se pot așeza, astfel încât să se poată respecta o distanță minimă de 1,5 m între oricare două persoane.
+Purtarea măștii de protecție de către spectatori este obligatorie pe toată durata participării la evenimentul sportiv.
+În cazul tribunelor, pe fiecare rând, un scaun ocupat trebuie să fie urmat de 3 scaune libere. Spectatorii vor avea obligația de a nu părăsi locul alocat, în caz contrar fiind invitați să părăsească incinta.
+În cazul evenimentelor-pilot, organizate cu aprobarea Comitetului Național pentru Situații de Urgență, se poate depăși limita de 25% din capacitatea tribunelor. Participanții la evenimentul-pilot își vor da acordul privind procesarea datelor cu caracter personal, în vederea monitorizării evoluției stării lor clinice. Baza de date cu participanții la evenimentul-pilot va fi transmisă către direcția județeană de sănătate publică sau Direcția de Sănătate Publică a Municipiului București, pentru a face verificările necesare.
+D.
+Reguli privind organizarea evenimentelor sportive în spații închise 1.
+Categorii eligibile Pot participa ca spectatori la evenimentele sportive în spații închise persoanele care sunt vaccinate împotriva virusului SARS-CoV-2 pentru care au trecut 10 zile de la finalizarea schemei complete de vaccinare, persoanele care prezintă rezultatul negativ al unui test RT-PCR nu mai vechi de 72 de ore sau rezultatul negativ certificat al unui test antigen rapid nu mai vechi de 24 de ore.
+Participanții la evenimentul-pilot își vor da acordul privind procesarea datelor cu caracter personal, în vederea monitorizării evoluției stării lor clinice. Baza de date cu participanții la evenimentul-pilot va fi transmisă către direcția județeană de sănătate publică sau Direcția de Sănătate Publică a Municipiului București, pentru a face verificările necesare.
+2.
+Accesul la evenimentul sportiv Toate porțile de acces în interiorul arenei sportive vor fi deschise. Organizatorii vor comunica spectatorilor orele recomandate pentru sosirea la eveniment, precum și poarta de acces recomandată, pentru a minimiza riscul de creare a aglomerației în aceste puncte. De asemenea, vor exista marcaje care să ajute persoanele să păstreze distanța de siguranță de minimum 1,5 m.
+Accesul în incintă va fi permis în urma triajului observațional. Nu se va permite accesul persoanelor care prezintă simptome evidente de infecție respiratorie (tuse, strănut, rinoree, stare generală alterată). În cazul înregistrării unei temperaturi peste 37,3°C, se repetă termometrizarea după 5 minute de repaus. Dacă temperatura ridicată se menține, persoana în cauză va fi izolată de restul grupului și i se va recomanda să contacteze autoritățile sanitare.
+Controlul de securitate de la porți se va face doar vizual, spectatorii fiind rugați să colaboreze și să prezinte de bună voie obiectele pe care le dețin în buzunare și/sau genți. Dacă este necesar, verificarea corporală va fi efectuată de stewarzi ce vor folosi măști de protecție, mănuși de unică folosință; aceștia se vor schimba/dezinfecta la fiecare control sau se va recurge la autoverificare.
+Accesul în arenă este permis doar cu genți mai mici sau egale cu o foaie de hârtie A4.
+Nu se permite accesul cu mâncare sau băutură.
+Purtarea măștii de protecție de către spectatori este obligatorie pe toată durata participării la evenimentul sportiv.
+3.
+Așezarea în tribune Organizatorul evenimentului sportiv are obligația de a marca în mod corespunzător spațiile unde spectatorii se pot așeza, în funcție de gradul de ocupare a tribunelor care a fost aprobat.
+-----
