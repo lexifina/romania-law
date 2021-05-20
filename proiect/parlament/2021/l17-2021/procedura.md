@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-21: adopted by the Chamber of Deputies
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-01: sent for promulgation
+- 2021-05-20: promulgated, becomes Legea nr. 148/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2021-02-15: Adresă către Camera Deputaților (AM): [am-d2dd62e5.md](am-d2dd62e5.md); official file https://www.senat.ro/legis/PDF/2021/21L017AM.PDF
 - 2021-04-26: Adresă privind sesizarea CCR (AXS): [axs-29ac9a74.md](axs-29ac9a74.md); official file https://www.senat.ro/legis/PDF/2021/21L017AXS.PDF
 - 2021-04-26: Forma trimisă la promulgare (LP): [lp-c4329914.md](lp-c4329914.md); official file https://www.senat.ro/legis/PDF/2021/21L017LP.PDF
+- 2021-05-20: Decret de promulgare (DP): [dp-bb95874f.md](dp-bb95874f.md); official file https://www.senat.ro/legis/PDF/2021/21L017DP.PDF
+- 2021-05-20: Adresă privind forma promulgată (AFP): [afp-03cb7831.md](afp-03cb7831.md); official file https://www.senat.ro/legis/PDF/2021/21L017AFP.PDF
+- 2021-05-20: Forma promulgată (FP): [fp-509565d1.md](fp-509565d1.md); official file https://www.senat.ro/legis/PDF/2021/21L017FP.PDF
