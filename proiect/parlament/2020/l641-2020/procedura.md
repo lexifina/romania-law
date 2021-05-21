@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-01: sent for promulgation
 - 2021-05-20: promulgated, becomes Legea nr. 147/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-05-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-20: Decret de promulgare (DP): [dp-bb425038.md](dp-bb425038.md); official file https://www.senat.ro/legis/PDF/2020/20L641DP.PDF
 - 2021-05-20: Adresă privind forma promulgată (AFP): [afp-be67cef7.md](afp-be67cef7.md); official file https://www.senat.ro/legis/PDF/2020/20L641AFP.PDF
 - 2021-05-20: Forma promulgată (FP): [fp-41104fd8.md](fp-41104fd8.md); official file https://www.senat.ro/legis/PDF/2020/20L641FP.PDF
+- 2021-05-21: Document (AT): [at-cc152dfc.md](at-cc152dfc.md); official file https://www.senat.ro/legis/PDF/2020/20L641AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-05-21: Document (S1): [s1-f0246d9d.md](s1-f0246d9d.md); official file https://www.senat.ro/legis/PDF/2020/20L641S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-05-21: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L641AL.PDF (its day is not given by the bill file: shown from the last stage held)
