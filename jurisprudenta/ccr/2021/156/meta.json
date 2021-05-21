@@ -1,0 +1,226 @@
+{
+ "key": "dcc-156-2021",
+ "label": "Decizia CCR nr. 156/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "156",
+ "date": "2021-03-04",
+ "year": "2021",
+ "heading": "DECIZIA nr. 156 din 4 martie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 12 alin. (3) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "530",
+  "bis": false,
+  "date": "2021-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.124/303/2018",
+  "663D/2019",
+  "10.320/302/2007"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 12 alin. (3) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de instanța judecătorească din oficiu în Dosarul nr. 1.124/303/2018 al Judecătoriei Sectorului 6 București - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 6 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242711",
+  "text_sha256": "476799d8d1b22d515fb91e790131944d0ad08f7e3ee19f79ab91a9969f3a44d7",
+  "catalogue_sha256": "476799d8d1b22d515fb91e790131944d0ad08f7e3ee19f79ab91a9969f3a44d7",
+  "fetched": "2026-11-06T02:10:24Z",
+  "chars": 21536,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250428211311/https://legislatie.just.ro/Public/DetaliiDocumentAfis/242711",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/242711",
+   "timestamp": "20250428211311",
+   "sha256": "a4bf86d9e0a4a3cbd7081ced4a87ed54c4170a1e0c573880c27f44a3b10d9a2c"
+  },
+  "portal_id": "242711",
+  "tip": "DECIZIE"
+ }
+}
