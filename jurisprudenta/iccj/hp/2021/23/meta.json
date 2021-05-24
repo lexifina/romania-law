@@ -1,0 +1,310 @@
+{
+ "key": "iccj-hp-23-2021",
+ "label": "Decizia ÎCCJ nr. 23/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "23",
+ "date": "2021-04-12",
+ "year": "2021",
+ "heading": "DECIZIA nr. 23 din 12 aprilie 2021",
+ "subtitle": "referitoare la interpretarea art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "534",
+  "bis": false,
+  "date": "2021-05-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "82/1/2021",
+  "1.240/119/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția civilă, în Dosarul nr. 1.240/119/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă prevederile art. 1 alin. (2) din Ordonanța de urgență a Guvernului nr. 8/2009 privind acordarea voucherelor de vacanță, aprobată cu modificări și completări prin Legea nr. 94/2014, cu modificările și completările ulterioare - forma în vigoare în perioada 1 iulie 2017-30 noiembrie 2018, se interpretează în sensul că instituțiile și autoritățile publice la care se referă această normă legală acordă, sub condiția de a fi prevăzute sume în buget alocate cu această destinație, în perioada 1 iulie 2017-30 noiembrie 2018, exclusiv o indemnizație de vacanță sau o primă de vacanță, după caz, sub formă de vouchere, în cuantum fix de 1.450 lei pentru un salariat sau pot acorda o indemnizație de vacanță sau primă de vacanță, sub formă de vouchere, în cuantum mai mic de 1.450 lei pentru un salariat, dacă sumele prevăzute în buget, alocate cu această destinație, nu sunt suficiente pentru a se acorda astfel de drepturi în cuantum de 1.450 lei pentru fiecare salariat.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "4",
+      "2-5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2013",
+    "number": "26",
+    "year": "2013",
+    "path": "og/2013/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 46/2017",
+    "number": "46",
+    "year": "2017",
+    "path": "oug/2017/46"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2010",
+    "number": "80",
+    "year": "2010",
+    "path": "oug/2010/80"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 84/2012",
+    "number": "84",
+    "year": "2012",
+    "path": "oug/2012/84"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 29/2013",
+    "number": "29",
+    "year": "2013",
+    "path": "og/2013/29"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 107/2018",
+    "number": "107",
+    "year": "2018",
+    "path": "oug/2018/107"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-05-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242728",
+  "text_sha256": "9d193d6c837d099ed7477931c4b0636ff11e8e523e97c13f413152e8614e9858",
+  "catalogue_sha256": "9d193d6c837d099ed7477931c4b0636ff11e8e523e97c13f413152e8614e9858",
+  "fetched": "2026-11-03T01:45:44Z",
+  "chars": 54183,
+  "portal_id": "242728",
+  "tip": "DECIZIE"
+ }
+}
