@@ -1,0 +1,337 @@
+{
+ "key": "dcc-735-2020",
+ "label": "Decizia CCR nr. 735/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "735",
+ "date": "2020-10-08",
+ "year": "2020",
+ "heading": "DECIZIA nr. 735 din 8 octombrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 8 alin. (1^1) coroborate cu cele ale art. 1 alin. (1) lit. b) și ale art. 7 alin. (2) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, precum și cu cele ale art. 25 alin. (4) din Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "545",
+  "bis": false,
+  "date": "2021-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.814/212/2017/a1",
+  "406D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Trans Modern Control - S.R.L. din Constanța în Dosarul nr. 5.814/212/2017/a1 al Judecătoriei Constanța - Secția civilă, de Societatea Autonom Services - S.A. din Piatra-Neamț în dosarele nr. 2.134/279/2018, nr. 7.874/279/2018, nr. 7.879/279/2018, nr. 7.869/279/2018, nr. 7.875/279/2018, nr. 6.405/279/2018, nr. 4.795/279/2018, nr. 6.414/279/2018, nr. 3.397/279/2018, nr. 6.430/279/2018, nr. 7.868/279/2018, nr. 20.096/299/2018, nr. 16.962/299/2018, nr. 7.880/279/2018, nr. 3.408/279/2018, nr. 6.419/279/2018, nr. 6.423/279/2018, nr. 6.429/279/2018 ale Judecătoriei Piatra-Neamț - Secția civilă și în dosarele nr. 2.136/279/2018, nr. 2.223/279/2018, nr. 2.112/279/2018, nr. 2.106/279/2018, nr. 2.153/279/2018, nr. 2.173/279/2018, nr. 2.138/279/2018, nr. 2.156/279/2018, nr. 2.253/279/2018, nr. 2.247/279/2018, nr. 3.407/279/2018, nr. 2.152/279/2018, nr. 2.256/279/2018, nr. 4.781/279/2018, nr. 2.166/279/2018, nr. 3.401/279/2018, nr. 2.151/279/2018, nr. 3.404/279/2018, nr. 6.432/279/2018, nr. 7.871/279/2018, nr. 2.171/279/2018, nr. 4.796/279/2018, nr. 6.434/279/2018, nr. 6.415/279/2018, nr. 2.135/279/2018, nr. 2.168/279/2018, nr. 6.428/279/2018, nr. 3.396/279/2018, nr. 2.161/279/2018, nr. 2.124/279/2018 ale Tribunalului Neamț - Secția I civilă și de contencios administrativ, precum și de instanța de judecată din oficiu în dosarele nr. 2.075/279/2018, nr. 2.121/279/2018, nr. 2.175/279/2018, nr. 2.143/279/2018, nr. 2.169/279/2018, nr. 2.147/279/2018, nr. 2.176/279/2018, nr. 2.248/279/2018 și nr. 2.249/279/2018 ale Judecătoriei Piatra-Neamț - Secția civilă și constată că prevederile art. 8 alin. (1^1) coroborate cu cele ale art. 1 alin. (1) lit. b) și ale art. 7 alin. (2) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România, precum și cu cele ale art. 25 alin. (4) din Legea nr. 38/2003 privind transportul în regim de taxi și în regim de închiriere sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Constanța - Secția civilă, Judecătoriei Piatra-Neamț - Secția civilă și Tribunalului Neamț - Secția I civilă și de contencios administrativ și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "1-2"
+     ],
+     "lit": [
+      "b",
+      "f"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "lege/2003/38"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "og/1997/51"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242839",
+  "text_sha256": "84cd32d1c9194ef3fadf0b23f49e9295df05ce4c8611c6d7b78ee5087bcd3216",
+  "catalogue_sha256": "84cd32d1c9194ef3fadf0b23f49e9295df05ce4c8611c6d7b78ee5087bcd3216",
+  "fetched": "2026-11-03T01:44:54Z",
+  "chars": 50100,
+  "portal_id": "242839",
+  "tip": "DECIZIE"
+ }
+}
