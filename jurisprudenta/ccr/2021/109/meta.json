@@ -1,0 +1,251 @@
+{
+ "key": "dcc-109-2021",
+ "label": "Decizia CCR nr. 109/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "109",
+ "date": "2021-02-23",
+ "year": "2021",
+ "heading": "DECIZIA nr. 109 din 23 februarie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 23 și ale art. 38 alin. (3) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 1 din capitolul I lit. B din anexa nr. VIII la Legea-cadru nr. 153/2017 și ale art. 34 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "548",
+  "bis": false,
+  "date": "2021-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "653/107/2019",
+  "2.074D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 23 și ale art. 38 alin. (3) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 1 din capitolul I lit. B din anexa nr. VIII la Legea-cadru nr. 153/2017 și ale art. 34 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, excepție ridicată de Lucrețiu Sebastian Teacă în Dosarul nr. 653/107/2019 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2020",
+    "number": "1",
+    "year": "2020",
+    "path": "oug/2020/1"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242860",
+  "text_sha256": "e98fe649b709b8a156cac00b69b8b7cfa9a2285cd89c01fb6385710b52157b14",
+  "catalogue_sha256": "e98fe649b709b8a156cac00b69b8b7cfa9a2285cd89c01fb6385710b52157b14",
+  "fetched": "2026-11-03T01:44:54Z",
+  "chars": 19050,
+  "portal_id": "242860",
+  "tip": "DECIZIE"
+ }
+}
