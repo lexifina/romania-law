@@ -1,0 +1,312 @@
+{
+ "key": "dcc-232-2021",
+ "label": "Decizia CCR nr. 232/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "232",
+ "date": "2021-04-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 232 din 7 aprilie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 20 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, cu referire la indemnizația lunară pentru creșterea copiilor prevăzută la art. 2 alin. (1) din acest act normativ",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "549",
+  "bis": false,
+  "date": "2021-05-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "8.078/301/2017",
+  "769D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Nela Mihaela Popa în Dosarul nr. 8.078/301/2017 al Tribunalului București - Secția a IV-a civilă și constată că dispozițiile art. 20 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, cu referire la indemnizația lunară pentru creșterea copiilor prevăzută la art. 2 alin. (1) din acest act normativ, sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului București - Secția a IV-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "529",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "510",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "263",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "487",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "499",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 61/1993",
+    "number": "61",
+    "year": "1993",
+    "path": "lege/1993/61"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "629",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "729",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "727",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/242862",
+  "text_sha256": "9ceb1f9acd49229d863282a518f759926e6e752886fae126dea72c62bb072df7",
+  "catalogue_sha256": "9ceb1f9acd49229d863282a518f759926e6e752886fae126dea72c62bb072df7",
+  "fetched": "2026-11-03T01:44:50Z",
+  "chars": 38457,
+  "portal_id": "242862",
+  "tip": "DECIZIE"
+ }
+}
