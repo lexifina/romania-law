@@ -12,7 +12,12 @@ Initiator: Guvernul României.
 
 - 2021-03-24: registered at the Chamber of Deputies
 - 2021-05-26: adopted by the Chamber of Deputies
+- 2021-05-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
-- none held as text
+- 2021-05-28: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195AD.PDF
+- 2021-05-28: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195FG.PDF
+- 2021-05-28: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195EM.PDF
+- 2021-05-28: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195LG.PDF
+- 2021-05-28: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195HG.PDF
