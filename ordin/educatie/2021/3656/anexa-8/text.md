@@ -1,0 +1,32 @@
+# Anexa nr. 8
+Acordarea acreditării pentru nivelurile de învățământ/specializările/calificările profesionale ale unităților de învățământ preuniversitar de stat evaluate în perioada 6-23 octombrie 2020
+Județul Mureș
+Nr. crt. Denumirea unității de învățământ Hotărârea ARACIP de evaluare/data Denumirea persoanei juridice inițiatoare Adresa unității de învățământ, tel./fax, e-mail
+Nivelul de învățământ/
+Nivelul de calificare
+Domeniul/
+Profilul
+Domeniul pregătirii de bază
+Calificarea profesională/
+Specializarea
+Limba de predare Forma de învățământ
+1. Liceul Tehnologic nr. 1 17/14.10.2020
+Municipiul Sighișoara, str. Tache Ionescu nr. 18, tel.: 0265/771742
+Profesional/Nivel 2 (conform Hotărârii Guvernului nr. 844/2002, cu modificările și completările ulterioare)
+Nivel 3 (conform Hotărârii Guvernului nr. 918/2013, cu modificările și completările ulterioare)
+Electric
+Electrician exploatare joasă tensiune Română Cu frecvență
+Turism și alimentație
+Lucrător hotelier Română Cu frecvență
+Capacitate maximă de școlarizare* - 46 de formațiuni de studiu/2 schimburi (maximum 23 de formațiuni de studiu/schimbul 1 și maximum 23 de formațiuni de studiu/schimbul 2)
+2. Liceul Tehnologic 17/14.10.2020
+Municipiul Târnăveni,
+Str. Republicii nr. 30, tel.: 0265/446003
+Postliceal/Nivel 3 avansat (conform Hotărârii Guvernului nr. 844/2002, cu modificările și completările ulterioare)
+Nivel 4 (conform Hotărârii Guvernului nr. 918/2013, cu modificările și completările ulterioare)
+Transporturi
+Tehnician transporturi auto interne și internaționale Română Cu frecvență
+Protecția mediului
+Tehnician laborant pentru protecția calității mediului Română Cu frecvență
+Capacitate maximă de școlarizare* - 40 de formațiuni de studiu/2 schimburi (maximum 20 de formațiuni de studiu/schimbul 1 și maximum 20 de formațiuni de studiu/schimbul 2)
+* Capacitatea de școlarizare reprezintă numărul maxim de formațiuni de studiu care pot fi școlarizate în 2 schimburi în sălile de clasă și cabinete (excluzând laboratoare, ateliere) la nivelul unității de învățământ.
