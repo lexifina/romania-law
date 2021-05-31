@@ -1,0 +1,22 @@
+# Proiect de lege L192/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 124/2022 (`legea-124-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.43/2021 pentru prelungirea termenului de depunere a declarației anuale privind beneficiarul real al persoanei juridice prevăzut la art.56 alin.(4) din Legea nr.129/2019 pentru prevenirea și combaterea spălării banilor și finanțării terorismului, precum și pentru modificarea și completarea unor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-05-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-05-31: Adresă de înaintare a inițiativei (AD): [ad-43be84d1.md](ad-43be84d1.md); official file https://www.senat.ro/legis/PDF/2021/21L192AD.PDF
+- 2021-05-31: Forma inițiatorului (FG): [fg-1a22ece4.md](fg-1a22ece4.md); official file https://www.senat.ro/legis/PDF/2021/21L192FG.PDF
+- 2021-05-31: Expunere de motive (EM): [em-b950230b.md](em-b950230b.md); official file https://www.senat.ro/legis/PDF/2021/21L192EM.PDF
+- 2021-05-31: Aviz Consiliul Legislativ (LG): [lg-7a670a21.md](lg-7a670a21.md); official file https://www.senat.ro/legis/PDF/2021/21L192LG.PDF
+- 2021-05-31: Document (OG): [og-b685f206.md](og-b685f206.md); official file https://www.senat.ro/legis/PDF/2021/21L192OG.PDF
+- 2021-05-31: Document (HG): [hg-36cdfe42.md](hg-36cdfe42.md); official file https://www.senat.ro/legis/PDF/2021/21L192HG.PDF
