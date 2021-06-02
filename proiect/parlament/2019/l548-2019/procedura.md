@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-12-16: registered at the Chamber of Deputies
 - 2020-06-30: adopted by the Senate
 - 2020-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2021-06-02: adopted by the Senate
 
 ## Documents
 
