@@ -1,0 +1,11 @@
+# HCGMB nr. 141/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 141/2021
+- Adopted: 2021-06-02
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI SA HOTARASCA, IN CONDITIILE LEGII, CU PRIVIRE LA INCHEIEREA UNUI PROTOCOL DE COLABORARE CU ADMINISTRATIA NATIONALA “APELE ROMANE”, IN VEDEREA REALIZARII UNOR INVESTITII DE UTILITATE SI INTERES PUBLIC LOCAL, PRIVIND AMENAJAREA/REAMENAJAREA ZONELOR AFERENTE MALURILOR DE LAC, INCLUSIV ZONELE VERZI SI INSULELE DE PE RAZA SECTORULUI 2 AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/41956
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/41956/H141_21.pdf
+- Document sha256: 218900c3d2ac87c925a2fa14635f3ed3ff68d0d0c372de5287f94ae9a51df6c9
