@@ -1,0 +1,19 @@
+# Propunere legislativă L482/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 266/2022 (`legea-266-2022`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.232/2016 privind industria națională de apărare, precum și pentru modificarea și completarea unor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-06-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-06-03: Adresă de înaintare a inițiativei (AD): [ad-fa2a0247.md](ad-fa2a0247.md); official file https://www.senat.ro/legis/PDF/2021/21L482AD.PDF
+- 2021-06-03: Forma inițiatorului (FG): [fg-a1093800.md](fg-a1093800.md); official file https://www.senat.ro/legis/PDF/2021/21L482FG.PDF
+- 2021-06-03: Expunere de motive (EM): [em-2f8f0e5a.md](em-2f8f0e5a.md); official file https://www.senat.ro/legis/PDF/2021/21L482EM.PDF
