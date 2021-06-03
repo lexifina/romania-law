@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-12-12: adopted by the Chamber of Deputies
 - 2018-12-14: returned for re-examination
 - 2019-03-11: returned for re-examination
+- 2021-06-03: adopted by the Chamber of Deputies
 
 ## Documents
 
