@@ -1,0 +1,4 @@
+# CJUE, Hotărârea Curții (Camera a opta) din 3 iunie 2021, Cauza C-182/20
+
+Pentru aceste motive, Curtea (Camera a opta) declară:
+Articolele 184-186 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că se opun unei reglementări sau unei practici naționale potrivit căreia deschiderea unei proceduri de faliment față de un operator economic, care implică lichidarea activelor sale în beneficiul creditorilor săi, determină în mod automat obligația acestui operator de a regulariza deducerile de taxă pe valoarea adăugată pe care le‑a efectuat pentru bunuri și servicii achiziționate anterior intrării sale în faliment, atunci când deschiderea unei astfel de proceduri nu este de natură să împiedice continuarea activității economice a operatorului menționat, în sensul articolului 9 din această directivă, printre altele în scopul lichidării întreprinderii în cauză.
