@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-03-10: registered at the Chamber of Deputies
 - 2021-05-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-28: sent for promulgation
+- 2021-06-04: promulgated, becomes Legea nr. 155/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-03-04: Adresă către Camera Deputaților (AM): [am-6fea6fce.md](am-6fea6fce.md); official file https://www.senat.ro/legis/PDF/2021/21L022AM.PDF
 - 2021-05-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L022AXS.PDF
 - 2021-05-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L022LP.PDF
+- 2021-06-04: Decret de promulgare (DP): [dp-c737f162.md](dp-c737f162.md); official file https://www.senat.ro/legis/PDF/2021/21L022DP.PDF
+- 2021-06-04: Adresă privind forma promulgată (AFP): [afp-b971fac5.md](afp-b971fac5.md); official file https://www.senat.ro/legis/PDF/2021/21L022AFP.PDF
+- 2021-06-04: Forma promulgată (FP): [fp-c3a3d13b.md](fp-c3a3d13b.md); official file https://www.senat.ro/legis/PDF/2021/21L022FP.PDF
