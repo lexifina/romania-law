@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-12: adopted by the Chamber of Deputies
 - 2021-05-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-22: sent for promulgation
+- 2021-06-04: promulgated, becomes Legea nr. 154/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L066AM.PDF
 - 2021-05-17: Adresă privind sesizarea CCR (AXS): [axs-85b6a01c.md](axs-85b6a01c.md); official file https://www.senat.ro/legis/PDF/2021/21L066AXS.PDF
 - 2021-05-17: Forma trimisă la promulgare (LP): [lp-a0ffc119.md](lp-a0ffc119.md); official file https://www.senat.ro/legis/PDF/2021/21L066LP.PDF
+- 2021-06-04: Decret de promulgare (DP): [dp-b5ceecd5.md](dp-b5ceecd5.md); official file https://www.senat.ro/legis/PDF/2021/21L066DP.PDF
+- 2021-06-04: Adresă privind forma promulgată (AFP): [afp-f36eca21.md](afp-f36eca21.md); official file https://www.senat.ro/legis/PDF/2021/21L066AFP.PDF
+- 2021-06-04: Forma promulgată (FP): [fp-9448de09.md](fp-9448de09.md); official file https://www.senat.ro/legis/PDF/2021/21L066FP.PDF
