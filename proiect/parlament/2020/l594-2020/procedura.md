@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-05-12: adopted by the Chamber of Deputies
 - 2021-05-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-19: sent for promulgation
+- 2021-06-04: promulgated, becomes Legea nr. 152/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-1cffb882.md](am-1cffb882.md); official file https://www.senat.ro/legis/PDF/2020/20L594AM.PDF
 - 2021-05-17: Adresă privind sesizarea CCR (AXS): [axs-85b6a01c.md](axs-85b6a01c.md); official file https://www.senat.ro/legis/PDF/2020/20L594AXS.PDF
 - 2021-05-17: Forma trimisă la promulgare (LP): [lp-4b3596c6.md](lp-4b3596c6.md); official file https://www.senat.ro/legis/PDF/2020/20L594LP.PDF
+- 2021-06-04: Decret de promulgare (DP): [dp-18106029.md](dp-18106029.md); official file https://www.senat.ro/legis/PDF/2020/20L594DP.PDF
+- 2021-06-04: Adresă privind forma promulgată (AFP): [afp-dd6e3e75.md](afp-dd6e3e75.md); official file https://www.senat.ro/legis/PDF/2020/20L594AFP.PDF
+- 2021-06-04: Forma promulgată (FP): [fp-724012ea.md](fp-724012ea.md); official file https://www.senat.ro/legis/PDF/2020/20L594FP.PDF
