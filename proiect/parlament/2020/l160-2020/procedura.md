@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-12: adopted by the Chamber of Deputies
 - 2021-05-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-22: sent for promulgation
+- 2021-06-07: promulgated, becomes Legea nr. 158/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-05: Adresă către Camera Deputaților (AM): [am-047b9050.md](am-047b9050.md); official file https://www.senat.ro/legis/PDF/2020/20L160AM.PDF
 - 2021-05-17: Adresă privind sesizarea CCR (AXS): [axs-85b6a01c.md](axs-85b6a01c.md); official file https://www.senat.ro/legis/PDF/2020/20L160AXS.PDF
 - 2021-05-17: Forma trimisă la promulgare (LP): [lp-411c97b2.md](lp-411c97b2.md); official file https://www.senat.ro/legis/PDF/2020/20L160LP.PDF
+- 2021-06-07: Decret de promulgare (DP): [dp-000d1a48.md](dp-000d1a48.md); official file https://www.senat.ro/legis/PDF/2020/20L160DP.PDF
+- 2021-06-07: Adresă privind forma promulgată (AFP): [afp-865188f8.md](afp-865188f8.md); official file https://www.senat.ro/legis/PDF/2020/20L160AFP.PDF
+- 2021-06-07: Forma promulgată (FP): [fp-c140d504.md](fp-c140d504.md); official file https://www.senat.ro/legis/PDF/2020/20L160FP.PDF
