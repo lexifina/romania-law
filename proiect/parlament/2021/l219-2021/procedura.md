@@ -1,0 +1,22 @@
+# Proiect de lege L219/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 267/2023 (`legea-267-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.44/2021 pentru modificarea Ordonanței de urgență a Guvernului nr.132/2020 privind măsuri de sprijin destinate salariaților şi angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum şi pentru stimularea creşterii ocupării forţei de muncă
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-07: Adresă de înaintare a inițiativei (AD): [ad-ef01583e.md](ad-ef01583e.md); official file https://www.senat.ro/legis/PDF/2021/21L219AD.PDF
+- 2021-06-07: Forma inițiatorului (FG): [fg-ded8cca2.md](fg-ded8cca2.md); official file https://www.senat.ro/legis/PDF/2021/21L219FG.PDF
+- 2021-06-07: Expunere de motive (EM): [em-5bc6f707.md](em-5bc6f707.md); official file https://www.senat.ro/legis/PDF/2021/21L219EM.PDF
+- 2021-06-07: Aviz Consiliul Legislativ (LG): [lg-c5ab39ab.md](lg-c5ab39ab.md); official file https://www.senat.ro/legis/PDF/2021/21L219LG.PDF
+- 2021-06-07: Document (OG): [og-98df492c.md](og-98df492c.md); official file https://www.senat.ro/legis/PDF/2021/21L219OG.PDF
+- 2021-06-07: Document (HG): [hg-69641342.md](hg-69641342.md); official file https://www.senat.ro/legis/PDF/2021/21L219HG.PDF
