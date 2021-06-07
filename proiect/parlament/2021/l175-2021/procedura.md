@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-03-22: registered at the Chamber of Deputies; documents published: Aviz Consiliul Economic și Social, Punct de vedere
 - 2021-04-14: legislative procedure ended; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-03: documents published: Aviz comisie
+- 2021-06-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-14: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L175FG.PDF
 - 2021-04-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L175EM.PDF
 - 2021-06-03: Aviz comisie (CA3): [ca3-41e795dd.md](ca3-41e795dd.md); official file https://www.senat.ro/legis/PDF/2021/21L175CA3.PDF
+- 2021-06-07: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L175CA8.PDF
