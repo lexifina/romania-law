@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2021-05-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-19: sent for promulgation
 - 2021-06-04: promulgated, becomes Legea nr. 153/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-06-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,6 @@ Initiator: Guvernul României.
 - 2021-06-04: Decret de promulgare (DP): [dp-777ab19c.md](dp-777ab19c.md); official file https://www.senat.ro/legis/PDF/2019/19L495DP.PDF
 - 2021-06-04: Adresă privind forma promulgată (AFP): [afp-ba62ab91.md](afp-ba62ab91.md); official file https://www.senat.ro/legis/PDF/2019/19L495AFP.PDF
 - 2021-06-04: Forma promulgată (FP): [fp-301399e8.md](fp-301399e8.md); official file https://www.senat.ro/legis/PDF/2019/19L495FP.PDF
+- 2021-06-08: Document (CD3): [cd3-d53fbc5a.md](cd3-d53fbc5a.md); official file https://www.senat.ro/legis/PDF/2019/19L495CD3.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-08: Document (CD8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L495CD8.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-08: Document (CD): [cd-aa2a9cfe.md](cd-aa2a9cfe.md); official file https://www.senat.ro/legis/PDF/2019/19L495CD.PDF (its day is not given by the bill file: shown from the last stage held)
