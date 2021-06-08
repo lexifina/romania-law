@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-22: sent for promulgation
 - 2021-06-07: promulgated, becomes Legea nr. 156/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-06-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-07: Decret de promulgare (DP): [dp-247f2f54.md](dp-247f2f54.md); official file https://www.senat.ro/legis/PDF/2019/19L562DP.PDF
 - 2021-06-07: Adresă privind forma promulgată (AFP): [afp-53656e69.md](afp-53656e69.md); official file https://www.senat.ro/legis/PDF/2019/19L562AFP.PDF
 - 2021-06-07: Forma promulgată (FP): [fp-d7110c47.md](fp-d7110c47.md); official file https://www.senat.ro/legis/PDF/2019/19L562FP.PDF
+- 2021-06-08: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L562AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-08: Document (S1): [s1-7859e1b5.md](s1-7859e1b5.md); official file https://www.senat.ro/legis/PDF/2019/19L562S1.PDF (its day is not given by the bill file: shown from the last stage held)
