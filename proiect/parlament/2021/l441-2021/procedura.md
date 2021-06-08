@@ -9,9 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2021-06-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2021-06-08: documents published: Aviz comisie
 
 ## Documents
 
 - 2021-06-03: Adresă de înaintare a inițiativei (AD): [ad-e0a70ad4.md](ad-e0a70ad4.md); official file https://www.senat.ro/legis/PDF/2021/21L441AD.PDF
 - 2021-06-03: Forma inițiatorului (FG): [fg-26a31a92.md](fg-26a31a92.md); official file https://www.senat.ro/legis/PDF/2021/21L441FG.PDF
 - 2021-06-03: Expunere de motive (EM): [em-26d283fd.md](em-26d283fd.md); official file https://www.senat.ro/legis/PDF/2021/21L441EM.PDF
+- 2021-06-08: Aviz comisie (CA3): [ca3-679da41d.md](ca3-679da41d.md); official file https://www.senat.ro/legis/PDF/2021/21L441CA3.PDF
