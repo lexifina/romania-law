@@ -1,0 +1,22 @@
+# Proiect de lege L220/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 43/2022 (`legea-43-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.45/2021 privind acordarea unor gratuități anumitor categorii de participanți la Campionatul European de Fotbal 2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-09: Adresă de înaintare a inițiativei (AD): [ad-de8e8f3c.md](ad-de8e8f3c.md); official file https://www.senat.ro/legis/PDF/2021/21L220AD.PDF
+- 2021-06-09: Forma inițiatorului (FG): [fg-5dd682a7.md](fg-5dd682a7.md); official file https://www.senat.ro/legis/PDF/2021/21L220FG.PDF
+- 2021-06-09: Expunere de motive (EM): [em-0bdd1ee6.md](em-0bdd1ee6.md); official file https://www.senat.ro/legis/PDF/2021/21L220EM.PDF
+- 2021-06-09: Aviz Consiliul Legislativ (LG): [lg-79bc1fb5.md](lg-79bc1fb5.md); official file https://www.senat.ro/legis/PDF/2021/21L220LG.PDF
+- 2021-06-09: Document (OG): [og-3a228c9a.md](og-3a228c9a.md); official file https://www.senat.ro/legis/PDF/2021/21L220OG.PDF
+- 2021-06-09: Document (HG): [hg-f2a72dcd.md](hg-f2a72dcd.md); official file https://www.senat.ro/legis/PDF/2021/21L220HG.PDF
