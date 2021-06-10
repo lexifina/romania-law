@@ -1,0 +1,22 @@
+# Proiect de lege L222/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 167/2023 (`legea-167-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.47/2021 pentru completarea art.1 din Legea nr.49/1991 privind acordarea de indemnizații și sporuri invalizilor, veteranilor și văduvelor de război
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-10: Adresă de înaintare a inițiativei (AD): [ad-79c89a9d.md](ad-79c89a9d.md); official file https://www.senat.ro/legis/PDF/2021/21L222AD.PDF
+- 2021-06-10: Forma inițiatorului (FG): [fg-0548033b.md](fg-0548033b.md); official file https://www.senat.ro/legis/PDF/2021/21L222FG.PDF
+- 2021-06-10: Expunere de motive (EM): [em-79db4f90.md](em-79db4f90.md); official file https://www.senat.ro/legis/PDF/2021/21L222EM.PDF
+- 2021-06-10: Aviz Consiliul Legislativ (LG): [lg-6c5c2f2e.md](lg-6c5c2f2e.md); official file https://www.senat.ro/legis/PDF/2021/21L222LG.PDF
+- 2021-06-10: Document (OG): [og-555f4d2b.md](og-555f4d2b.md); official file https://www.senat.ro/legis/PDF/2021/21L222OG.PDF
+- 2021-06-10: Document (HG): [hg-3448eb3d.md](hg-3448eb3d.md); official file https://www.senat.ro/legis/PDF/2021/21L222HG.PDF
