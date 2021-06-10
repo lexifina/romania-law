@@ -1,0 +1,230 @@
+{
+ "key": "iccj-ril-6-2021",
+ "label": "Decizia ÎCCJ nr. 6/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2021-04-12",
+ "year": "2021",
+ "heading": "DECIZIA nr. 6 din 12 aprilie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 55 alin. (3) din Legea nr. 293/2004 privind Statutul funcționarilor publici cu statut special din Administrația Națională a Penitenciarelor, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "584",
+  "bis": false,
+  "date": "2021-06-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "108/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Alba Iulia și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 55 alin. (3) din Legea nr. 293/2004 privind Statutul funcționarilor publici cu statut special din Administrația Națională a Penitenciarelor, republicată, cu modificările și completările ulterioare, decizia de zi pe unitate prin care un ofițer este desemnat să îndeplinească atribuții suplimentare specifice funcției de conducere nu constituie o împuternicire pe funcție, similară celei prevăzute de art. 55 alin. (3) din Legea nr. 293/2004.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 293/2004",
+    "number": "293",
+    "year": "2004",
+    "path": "lege/2004/293"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "m",
+      "g"
+     ]
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2019",
+    "number": "145",
+    "year": "2019",
+    "path": "lege/2019/145"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243158",
+  "text_sha256": "905e47358d0181213734c6022c18fbbc1bfbba443c7dc781856089bdf0bdda00",
+  "catalogue_sha256": "905e47358d0181213734c6022c18fbbc1bfbba443c7dc781856089bdf0bdda00",
+  "fetched": "2026-11-03T01:44:33Z",
+  "chars": 65861,
+  "portal_id": "243158",
+  "tip": "DECIZIE"
+ }
+}
