@@ -1,0 +1,289 @@
+{
+ "key": "dcc-170-2021",
+ "label": "Decizia CCR nr. 170/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "170",
+ "date": "2021-03-09",
+ "year": "2021",
+ "heading": "DECIZIA nr. 170 din 9 martie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații\" din art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "584",
+  "bis": false,
+  "date": "2021-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.381/121/2018",
+  "814D/2019",
+  "2.375/121/2018",
+  "2.698/121/2018",
+  "3.079/121/2018",
+  "2.941/121/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ștefan Neculai, Florentin Mighiu, Valentin Timofti, Petrică Secan și Toader Pușcașu în dosarele nr. 2.381/121/2018, nr. 2.375/121/2018, nr. 2.698/121/2018, nr. 3.079/121/2018 și nr. 2.941/121/2018 ale Tribunalului Galați - Secția I civilă și constată că sintagma „stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații“ din art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Galați - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3",
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 192/2015",
+    "number": "192",
+    "year": "2015",
+    "path": "lege/2015/192"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2018",
+    "number": "221",
+    "year": "2018",
+    "path": "lege/2018/221"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.550/2004",
+    "number": "1550",
+    "year": "2004",
+    "path": "hg/2004/1550"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 218/2008",
+    "number": "218",
+    "year": "2008",
+    "path": "lege/2008/218"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 100/2008",
+    "number": "100",
+    "year": "2008",
+    "path": "oug/2008/100"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243156",
+  "text_sha256": "1de7148da580f7f768430fe64e2189b49253554cdcc7686176001776178dd64d",
+  "catalogue_sha256": "1de7148da580f7f768430fe64e2189b49253554cdcc7686176001776178dd64d",
+  "fetched": "2026-11-03T01:44:33Z",
+  "chars": 34078,
+  "portal_id": "243156",
+  "tip": "DECIZIE"
+ }
+}
