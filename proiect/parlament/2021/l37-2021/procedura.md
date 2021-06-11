@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-05-19: adopted by the Chamber of Deputies
 - 2021-05-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-27: sent for promulgation
+- 2021-06-11: promulgated, becomes Legea nr. 159/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2021-03-22: Adresă către Camera Deputaților (AM): [am-445ef962.md](am-445ef962.md); official file https://www.senat.ro/legis/PDF/2021/21L037AM.PDF
 - 2021-05-25: Adresă privind sesizarea CCR (AXS): [axs-d5e1bc48.md](axs-d5e1bc48.md); official file https://www.senat.ro/legis/PDF/2021/21L037AXS.PDF
 - 2021-05-25: Forma trimisă la promulgare (LP): [lp-2b1dc31e.md](lp-2b1dc31e.md); official file https://www.senat.ro/legis/PDF/2021/21L037LP.PDF
+- 2021-06-11: Decret de promulgare (DP): [dp-da59d03d.md](dp-da59d03d.md); official file https://www.senat.ro/legis/PDF/2021/21L037DP.PDF
+- 2021-06-11: Adresă privind forma promulgată (AFP): [afp-2e704196.md](afp-2e704196.md); official file https://www.senat.ro/legis/PDF/2021/21L037AFP.PDF
+- 2021-06-11: Forma promulgată (FP): [fp-99124c6a.md](fp-99124c6a.md); official file https://www.senat.ro/legis/PDF/2021/21L037FP.PDF
