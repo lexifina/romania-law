@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-20: documents published: Raport comisie sesizată pe fond
 - 2018-06-27: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2018-09-03: registered at the Chamber of Deputies
+- 2021-06-11: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-13: Aviz comisie (CA14): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L274CA14.PDF
 - 2018-06-20: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L274CR.PDF
 - 2018-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L274AM.PDF
+- 2021-06-11: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L274AA.PDF (its day is not given by the bill file: shown from the last stage held)
