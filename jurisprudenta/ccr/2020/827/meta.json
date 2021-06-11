@@ -1,0 +1,205 @@
+{
+ "key": "dcc-827-2020",
+ "label": "Decizia CCR nr. 827/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "827",
+ "date": "2020-11-17",
+ "year": "2020",
+ "heading": "DECIZIA nr. 827 din 17 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 56 alin. (1) lit. a) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "587",
+  "bis": false,
+  "date": "2021-06-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.202/115/2017",
+  "2.120D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Aquacaraș - S.A. din Reșița în Dosarul nr. 2.202/115/2017 al Tribunalului Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 56 alin. (1) lit. a) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2020",
+    "number": "114",
+    "year": "2020",
+    "path": "oug/2020/114"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243178",
+  "text_sha256": "0d0b117558e6d317a6c54ab4b2a3ac0813b6e546d290d4cc5e90683afcb47a67",
+  "catalogue_sha256": "0d0b117558e6d317a6c54ab4b2a3ac0813b6e546d290d4cc5e90683afcb47a67",
+  "fetched": "2026-11-06T02:17:38Z",
+  "chars": 18788,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/243178",
+   "timestamp": "20250620113335",
+   "crawl": "CC-MAIN-2025-26",
+   "filename": "crawl-data/CC-MAIN-2025-26/segments/1749709481578.48/warc/CC-MAIN-20250620091815-20250620121815-00666.warc.gz",
+   "offset": "282556016",
+   "length": "21433",
+   "sha256": "d5afbe3b2d9aa8902b138ed4f213c700d9b226eb9d9f1e56f2abe93de71bfaa8"
+  },
+  "portal_id": "243178",
+  "tip": "DECIZIE"
+ }
+}
