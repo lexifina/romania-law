@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-06-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-06-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-10: sent for promulgation
+- 2021-06-11: promulgated, becomes Legea nr. 163/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,7 @@ Initiator: Guvernul României.
 - 2021-06-07: Forma adoptată de Senat (FS): [fs-e31f9030.md](fs-e31f9030.md); official file https://www.senat.ro/legis/PDF/2021/21L169FS.PDF
 - 2021-06-08: Adresă privind sesizarea CCR (AXS): [axs-6823304f.md](axs-6823304f.md); official file https://www.senat.ro/legis/PDF/2021/21L169AXS.PDF
 - 2021-06-08: Forma trimisă la promulgare (LP): [lp-4d217a3a.md](lp-4d217a3a.md); official file https://www.senat.ro/legis/PDF/2021/21L169LP.PDF
+- 2021-06-11: Document (AL): [al-c3c1bd19.md](al-c3c1bd19.md); official file https://www.senat.ro/legis/PDF/2021/21L169AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-11: Decret de promulgare (DP): [dp-42ff3d23.md](dp-42ff3d23.md); official file https://www.senat.ro/legis/PDF/2021/21L169DP.PDF
+- 2021-06-11: Adresă privind forma promulgată (AFP): [afp-2e704196.md](afp-2e704196.md); official file https://www.senat.ro/legis/PDF/2021/21L169AFP.PDF
+- 2021-06-11: Forma promulgată (FP): [fp-5d106143.md](fp-5d106143.md); official file https://www.senat.ro/legis/PDF/2021/21L169FP.PDF
