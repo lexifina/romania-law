@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-05-19: adopted by the Chamber of Deputies
 - 2021-05-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-27: sent for promulgation
+- 2021-06-11: promulgated, becomes Legea nr. 161/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-11-17: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L639AM.PDF
 - 2021-05-25: Adresă privind sesizarea CCR (AXS): [axs-3aaeb72e.md](axs-3aaeb72e.md); official file https://www.senat.ro/legis/PDF/2020/20L639AXS.PDF
 - 2021-05-25: Forma trimisă la promulgare (LP): [lp-3efa83d7.md](lp-3efa83d7.md); official file https://www.senat.ro/legis/PDF/2020/20L639LP.PDF
+- 2021-06-11: Decret de promulgare (DP): [dp-d9dd7c75.md](dp-d9dd7c75.md); official file https://www.senat.ro/legis/PDF/2020/20L639DP.PDF
+- 2021-06-11: Adresă privind forma promulgată (AFP): [afp-2e704196.md](afp-2e704196.md); official file https://www.senat.ro/legis/PDF/2020/20L639AFP.PDF
+- 2021-06-11: Forma promulgată (FP): [fp-76904fb9.md](fp-76904fb9.md); official file https://www.senat.ro/legis/PDF/2020/20L639FP.PDF
