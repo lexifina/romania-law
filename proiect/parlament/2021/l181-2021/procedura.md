@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-04: documents published: Aviz comisie
 - 2021-06-08: documents published: Raport comisie sesizată pe fond
 - 2021-06-09: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2021-06-14: registered at the Chamber of Deputies
 
 ## Documents
 
