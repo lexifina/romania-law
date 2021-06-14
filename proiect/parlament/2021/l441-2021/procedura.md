@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2021-06-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-08: documents published: Aviz comisie
+- 2021-06-14: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-03: Forma inițiatorului (FG): [fg-26a31a92.md](fg-26a31a92.md); official file https://www.senat.ro/legis/PDF/2021/21L441FG.PDF
 - 2021-06-03: Expunere de motive (EM): [em-26d283fd.md](em-26d283fd.md); official file https://www.senat.ro/legis/PDF/2021/21L441EM.PDF
 - 2021-06-08: Aviz comisie (CA3): [ca3-679da41d.md](ca3-679da41d.md); official file https://www.senat.ro/legis/PDF/2021/21L441CA3.PDF
+- 2021-06-14: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L441SJ.PDF
