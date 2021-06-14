@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: adopted by the Senate
 - 2020-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-02: adopted by the Senate
+- 2021-06-14: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-01: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L548AD.PDF
 - 2020-07-01: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L548FG.PDF
 - 2020-07-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L548EM.PDF
+- 2021-06-14: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L548AJ.PDF (its day is not given by the bill file: shown from the last stage held)
