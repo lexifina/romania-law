@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-26: returned for re-examination
 - 2020-11-10: documents published: Aviz comisie
 - 2021-04-12: rejected by the Senate
+- 2021-06-15: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-27: Adresă privind sesizarea CCR (AXS): [axs-594a45ce.md](axs-594a45ce.md); official file https://www.senat.ro/legis/PDF/2020/20L464AXS.PDF
 - 2020-07-27: Forma trimisă la promulgare (LP): [lp-871a9265.md](lp-871a9265.md); official file https://www.senat.ro/legis/PDF/2020/20L464LP.PDF
 - 2020-11-10: Aviz comisie (CA44): [ca44-9fbb50f7.md](ca44-9fbb50f7.md); official file https://www.senat.ro/legis/PDF/2020/20L464CA44.PDF
+- 2021-06-15: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L464DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-15: Document (RX): [rx-f9a559ca.md](rx-f9a559ca.md); official file https://www.senat.ro/legis/PDF/2020/20L464RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-15: Document (CX): [cx-4e9d8f3f.md](cx-4e9d8f3f.md); official file https://www.senat.ro/legis/PDF/2020/20L464CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-15: Document (XD): [xd-3e7fda41.md](xd-3e7fda41.md); official file https://www.senat.ro/legis/PDF/2020/20L464XD.PDF (its day is not given by the bill file: shown from the last stage held)
