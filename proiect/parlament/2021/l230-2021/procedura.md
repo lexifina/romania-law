@@ -1,0 +1,21 @@
+# Proiect de lege L230/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 44/2022 (`legea-44-2022`).
+
+Proiect de lege privind cooperarea judiciară dintre România și Curtea Penală Internațională
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-15: Adresă de înaintare a inițiativei (AD): [ad-7b23d136.md](ad-7b23d136.md); official file https://www.senat.ro/legis/PDF/2021/21L230AD.PDF
+- 2021-06-15: Forma inițiatorului (FG): [fg-2be07ada.md](fg-2be07ada.md); official file https://www.senat.ro/legis/PDF/2021/21L230FG.PDF
+- 2021-06-15: Expunere de motive (EM): [em-4d2e2a19.md](em-4d2e2a19.md); official file https://www.senat.ro/legis/PDF/2021/21L230EM.PDF
+- 2021-06-15: Aviz Consiliul Legislativ (LG): [lg-9fc2aee2.md](lg-9fc2aee2.md); official file https://www.senat.ro/legis/PDF/2021/21L230LG.PDF
+- 2021-06-15: Document (HG): [hg-6f4977ed.md](hg-6f4977ed.md); official file https://www.senat.ro/legis/PDF/2021/21L230HG.PDF
