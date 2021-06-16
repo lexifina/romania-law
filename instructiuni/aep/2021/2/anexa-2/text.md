@@ -1,0 +1,6 @@
+# Anexa nr. 2
+MODELUL declarației pe propria răspundere pentru obținerea acreditării la alegerile locale parțiale din data de 27 iunie 2021
+Declarație pe propria răspundere
+PENTRU OBȚINEREA ACREDITĂRII LA ALEGERILE LOCALE PARȚIALE DIN DATA DE 27 IUNIE 2021
+Subsemnatul/Subsemnata,.....................................................^1), legitimat(ă) cu.................. ^2), seria......... nr.................., declar pe propria răspundere, cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, că am drept de vot, că nu sunt membru al vreunui partid politic din România și că voi respecta condițiile de acreditare prevăzute de art. 121 alin. (3) din Legea nr. 115/2015 pentru alegerea autorităților administrației publice locale, pentru modificarea Legii administrației publice locale nr. 215/2001, precum și pentru modificarea și completarea Legii nr. 393/2004 privind Statutul aleșilor locali, cu modificările și completările ulterioare. ^1) Se înscriu numele și prenumele. ^2) Se înscrie tipul actului de identitate.....................................^3)....................................^4) ^3) Se înscrie data. ^4) Se semnează de către declarant.
+N O T Ă: Declarația pe propria răspundere poate fi semnată cu semnătură electronică calificată.
