@@ -1,0 +1,22 @@
+# Proiect de lege L233/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 31/2022 (`legea-31-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.51/2021 privind prorogarea termenelor prevăzute la art.II pct.9 și art.III din Legea nr.295/2020 pentru modificarea și completarea Legii nr.207/2015 privind Codul de procedură fiscală, precum și aprobarea unor măsuri fiscal-bugetare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-17: Adresă de înaintare a inițiativei (AD): [ad-fce72b0f.md](ad-fce72b0f.md); official file https://www.senat.ro/legis/PDF/2021/21L233AD.PDF
+- 2021-06-17: Forma inițiatorului (FG): [fg-a75e4539.md](fg-a75e4539.md); official file https://www.senat.ro/legis/PDF/2021/21L233FG.PDF
+- 2021-06-17: Expunere de motive (EM): [em-994ef846.md](em-994ef846.md); official file https://www.senat.ro/legis/PDF/2021/21L233EM.PDF
+- 2021-06-17: Aviz Consiliul Legislativ (LG): [lg-f9b0d659.md](lg-f9b0d659.md); official file https://www.senat.ro/legis/PDF/2021/21L233LG.PDF
+- 2021-06-17: Document (OG): [og-b3ff55a1.md](og-b3ff55a1.md); official file https://www.senat.ro/legis/PDF/2021/21L233OG.PDF
+- 2021-06-17: Document (HG): [hg-607af052.md](hg-607af052.md); official file https://www.senat.ro/legis/PDF/2021/21L233HG.PDF
