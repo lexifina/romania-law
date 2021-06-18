@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-05-17: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-05-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-31: sent for promulgation
+- 2021-06-18: promulgated, becomes Legea nr. 164/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-05-17: Forma adoptată de Senat (FS): [fs-3bef22dc.md](fs-3bef22dc.md); official file https://www.senat.ro/legis/PDF/2021/21L119FS.PDF
 - 2021-05-25: Adresă privind sesizarea CCR (AXS): [axs-b342beb7.md](axs-b342beb7.md); official file https://www.senat.ro/legis/PDF/2021/21L119AXS.PDF
 - 2021-05-25: Forma trimisă la promulgare (LP): [lp-1a6c1c5f.md](lp-1a6c1c5f.md); official file https://www.senat.ro/legis/PDF/2021/21L119LP.PDF
+- 2021-06-18: Decret de promulgare (DP): [dp-e88b4785.md](dp-e88b4785.md); official file https://www.senat.ro/legis/PDF/2021/21L119DP.PDF
+- 2021-06-18: Adresă privind forma promulgată (AFP): [afp-6ab7cbbc.md](afp-6ab7cbbc.md); official file https://www.senat.ro/legis/PDF/2021/21L119AFP.PDF
+- 2021-06-18: Forma promulgată (FP): [fp-4e40f30f.md](fp-4e40f30f.md); official file https://www.senat.ro/legis/PDF/2021/21L119FP.PDF
