@@ -1,0 +1,394 @@
+{
+ "key": "dcc-390-2021",
+ "label": "Decizia CCR nr. 390/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "390",
+ "date": "2021-06-08",
+ "year": "2021",
+ "heading": "DECIZIA nr. 390 din 8 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 88^1-88^9 din Legea nr. 304/2004 privind organizarea judiciară, precum și a Ordonanței de urgență a Guvernului nr. 90/2018 privind unele măsuri pentru operaționalizarea Secției pentru investigarea infracțiunilor din justiție",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "612",
+  "bis": false,
+  "date": "2021-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "45/46/2019",
+  "1.267D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88-8",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "88-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 90/2018",
+    "number": "90",
+    "year": "2018",
+    "path": "oug/2018/90"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate formulată de Asociația „Forumul Judecătorilor din România“, Asociația „Mișcarea pentru apărarea statutului procurorilor“ și de Bogdan Ciprian Pîrlog în Dosarul nr. 45/46/2019 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 88^1 alin. (1)-(5), ale art. 88^2-88^7, ale art. 88^8 alin. (1) lit. a)-c) și e) și alin. (2), precum și ale art. 88^9 din Legea nr. 304/2004 privind organizarea judiciară sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 88^1 alin. (6) și ale art. 88^8 alin. (1) lit. d) din Legea nr. 304/2004 privind organizarea judiciară, formulată de aceiași autori în același dosar al aceleiași instanțe.",
+  "3. Respinge, ca inadmisibilă, excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 90/2018 privind unele măsuri pentru operaționalizarea Secției pentru investigarea infracțiunilor din justiție, excepție formulată de aceiași autori în același dosar al aceleiași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88-8",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "88-2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88-9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 90/2018",
+    "number": "90",
+    "year": "2018",
+    "path": "oug/2018/90"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 252/2018",
+    "number": "252",
+    "year": "2018"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 69
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2018",
+    "number": "207",
+    "year": "2018",
+    "path": "lege/2018/207"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 7/2019",
+    "number": "7",
+    "year": "2019",
+    "path": "oug/2019/7"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243370",
+  "text_sha256": "b8fc9e4a63dddc5d242d5265ab6076f8a786f9e8da2abc56f85790e3672e0364",
+  "catalogue_sha256": "b8fc9e4a63dddc5d242d5265ab6076f8a786f9e8da2abc56f85790e3672e0364",
+  "fetched": "2026-11-03T01:44:19Z",
+  "chars": 118127,
+  "portal_id": "243370",
+  "tip": "DECIZIE"
+ }
+}
