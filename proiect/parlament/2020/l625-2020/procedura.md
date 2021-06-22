@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-04: sent for promulgation
+- 2021-06-22: promulgated, becomes Legea nr. 165/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,6 @@ Initiator: Guvernul României.
 - 2020-11-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L625AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2020/20L625AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-2b6bbfbe.md](lp-2b6bbfbe.md); official file https://www.senat.ro/legis/PDF/2020/20L625LP.PDF
+- 2021-06-22: Decret de promulgare (DP): [dp-1e8303e1.md](dp-1e8303e1.md); official file https://www.senat.ro/legis/PDF/2020/20L625DP.PDF
+- 2021-06-22: Adresă privind forma promulgată (AFP): [afp-cbc914b1.md](afp-cbc914b1.md); official file https://www.senat.ro/legis/PDF/2020/20L625AFP.PDF
+- 2021-06-22: Forma promulgată (FP): [fp-2bdec5ff.md](fp-2bdec5ff.md); official file https://www.senat.ro/legis/PDF/2020/20L625FP.PDF
