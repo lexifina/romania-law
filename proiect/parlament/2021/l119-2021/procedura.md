@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-05-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-05-31: sent for promulgation
 - 2021-06-18: promulgated, becomes Legea nr. 164/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-06-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,7 @@ Initiator: Guvernul României.
 - 2021-06-18: Decret de promulgare (DP): [dp-e88b4785.md](dp-e88b4785.md); official file https://www.senat.ro/legis/PDF/2021/21L119DP.PDF
 - 2021-06-18: Adresă privind forma promulgată (AFP): [afp-6ab7cbbc.md](afp-6ab7cbbc.md); official file https://www.senat.ro/legis/PDF/2021/21L119AFP.PDF
 - 2021-06-18: Forma promulgată (FP): [fp-4e40f30f.md](fp-4e40f30f.md); official file https://www.senat.ro/legis/PDF/2021/21L119FP.PDF
+- 2021-06-22: Document (DR): [dr-5ca6c163.md](dr-5ca6c163.md); official file https://www.senat.ro/legis/PDF/2021/21L119DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (TX): [tx-5e833bbd.md](tx-5e833bbd.md); official file https://www.senat.ro/legis/PDF/2021/21L119TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (AL): [al-4920efd7.md](al-4920efd7.md); official file https://www.senat.ro/legis/PDF/2021/21L119AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (TC): [tc-2f3f60c2.md](tc-2f3f60c2.md); official file https://www.senat.ro/legis/PDF/2021/21L119TC.PDF (its day is not given by the bill file: shown from the last stage held)
