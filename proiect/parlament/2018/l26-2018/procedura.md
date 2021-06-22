@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2018-03-19: published in the Monitorul Oficial
 - 2021-06-17: returned for re-examination
+- 2021-06-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-02-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026FS.PDF
 - 2018-02-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026AXS.PDF
 - 2018-02-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026LP.PDF
+- 2021-06-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L026DC1.PDF (its day is not given by the bill file: shown from the last stage held)
