@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2020-06-17: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-19: sent for promulgation
 - 2021-06-15: returned for re-examination
+- 2021-06-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Guvernul României.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-002aa41a.md](am-002aa41a.md); official file https://www.senat.ro/legis/PDF/2020/20L167AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-c85fce1e.md](axs-c85fce1e.md); official file https://www.senat.ro/legis/PDF/2020/20L167AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-098cbb49.md](lp-098cbb49.md); official file https://www.senat.ro/legis/PDF/2020/20L167LP.PDF
+- 2021-06-22: Document (SC1): [sc1-aa04e57b.md](sc1-aa04e57b.md); official file https://www.senat.ro/legis/PDF/2020/20L167SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-06-22: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L167DC1.PDF (its day is not given by the bill file: shown from the last stage held)
