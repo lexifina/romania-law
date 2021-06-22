@@ -1,0 +1,153 @@
+Ipi'l'
+PARLAMENTUL ROMANIEI
+SENATUL
+CAMERA DEPUTAJILOR
+LEGE
+privind aprobarea Ordonanfei de urgenfa a Guvernului
+nr. 163/2020 pentru completarea art. 159 din Legea nr. 263/2010
+privind sistemul unitar de pensii publice, precum $i pentru
+adoptarea unor masuri in domeniul asigurarii unor persoane in
+sistemul public de pensii
+Parlamentul Romaniei adopta prezenta lege.
+Articol unic. - Se aproba Ordonan^a de urgenta a Guvernului
+nr. 163 din 24 septembrie 2020 pentru completarea art. 159 din Legea
+nr. 263/2010 privind sistemul unitar de pensii publice, precum §i pentru
+adoptarea unor masuri in domeniul asigurarii unor persoane in sistemul
+public de pensii, publicata in Monitorul Oficial al Romaniei, Partea I,
+nr. 883 din 28 septembrie 2020, cu urmatoarele modificari:
+1. La articolul II, alineatul (1) se modifica §i va avea
+urmatorul cuprins:
+„Art. II. - (1) Pana la data de 1 septembrie 2023, persoanele
+prevazute la art. I pot incheia un contract de asigurare sociala in vederea
+oblinerii pensiei pentru limita de varsta, potrivit modelului prevazut in
+anexa nr. 1. Modelul actului adi|ional la contractul de asigurare sociala
+este prevazut in anexa nr. 2.”
+
+2
+2. La articolul V, alineatele (1) §i (3) se modifica §i vor avea
+urmatorul cuprins:
+„Art. V. - (1) Plata contributiei de asigurari sociale datorate se
+efectueaza intr-o singura tran§a sau e§alonat, in tran§e lunare, pana la
+data de 31 august 2023.
+(3) In situatia in care la data de 31 august 2023 contributia de
+asigurari sociale datorata nu este achitata in intregime, stagiul de
+cotizare se constituie corespunzator plalii efectuate.”
+3. Anexa nr. 1 se modifica §i va avea urmatorul cuprins:
+„ANEXA nr. 1
+CASA nationalA de pensii publice
+CASA TERITORIALA DE PENSII.............
+CONTRACT DE ASIGURARE SOCIALA
+Nr.
+din ziua
+luna
+anul
+/vIncheiat intre
+Casa Teritoriala de Pensii
+in localitatea ...
+oficiul postal
+continuare Casa, reprezentata prin directorul executiv, §i
+Titular contract ..............................................
+, in calitate de asigurator, cu sediul
+....., bl......, sc......, et.
+../sectorul
+.., str........
+, judetul
+, ap....... ,
+, denumita in
+nr.
+....... (numele §i
+(M/F), data na§terii
+prenumele), CNP
+, sex
+(an/luna/zi), actul de identitate: ..
+, str.
+nr.
+seria
+, bl.
+, oficiul postal
+.., adresa de e-mail
+adresa: localitatea:
+nr.
+...., et.............
+, judetul/sectorul
+sc.
+ap.
+, telefonul
+Art. 1. - Obiectul prezentului contract de asigurare sociala este asigurarea in
+sistemul public de pensii in vederea obtinerii pensiei pentru limita de varsta.
+
+3
+lei §i nu poate fi mai mic
+decat vaJoarea salariului de baza minim brut pe ^ara garantat in plata valabil la data
+incheierii prezentului contract de asigurare.
+Art. 2. - (1) Venitul asigurat este de
+(2) Perioada/Perioadele de asigurare este/sunt:
+, luna/lunile
+, luna/lunile
+lei;
+, venit asigurat
+, venit asigurat
+anul
+anul
+lei;
+lei.
+, luna/lunile
+(3) Cota de contribu^ie de asigurari sociale este de
+reglementarilor in vigoare la data incheierii prezentului contract de asigurare.
+(4)
+Totalul cuantumului contribu^iei de asigurari sociale este de
+anul
+, venit asigurat
+% conform
+lei.
+(5) Plata contribuliei se efectueaza:
+a) integral, intr-o singura tran§a - pana la data de 31 august 2023;
+b) in tran§e lunare - pana la data de 31 august 2023.
+(6) Contul in care se plate§te contribulia de asigurari sociale, deschis la
+Trezoreria Statului, avand ca titular Casa, este.........................................
+(7) Plata contributiei de asigurari sociale se poate face §i in numerar, la
+casieria Casei, sau prin orice alte mijloace de plata prevazute de lege.
+Art. 3. - Obligatiile Casei sunt urmatoarele:
+a) valorificarea, la stabilirea pensiei pentru limita de varsta, a stagiului de
+cotizare realizat in baza prezentului contract de asigurare sociala §i a venitului
+asigurat care a constituit baza de calcul al contribu^iei de asigurari sociale conform
+prezentului contract;
+b) certificarea, la cererea asiguratului, a stagiului de cotizare realizat in baza
+prezentului contract.
+Art. 4. - Obligaliile asiguratului sunt urmatoarele:
+a) achitarea contribuliei de asigurari sociale in cuantumul §i in modul stabilite
+la art.2;
+b) in§tiinlarea Casei asupra modificarilor survenite in termenii prezentului
+contract de asigurare sociala;
+c) prezentarea asiguratului la sediul Casei atunci cand este solicitat,
+respectand termenul prevazut in invita^ie.
+Art. 5. - (1) Stagiul de cotizare se constituie din insumarea lunilor pentru care
+s-a achitat contribu^ia de asigurari sociale.
+
+4
+(2) Prezentul contract de asigurare sociala, semnat de par^i, intra in vigoare la
+data inregistrarii acestuia la Casa.
+(3) Durata contractului expira la data de 31 august 2023.
+(4) Contractul de asigurare sociala se poate rezilia, oricand, din ini^iativa
+asiguratului §i produce efecte de la data inregistrarii la Casa a solicitMi rezilierii.
+(5) in caz de foita majora, par^ile contractante sunt exonerate de raspundere
+pentru neexecutarea sau executarea necorespunzatoare ori cu intarziere a
+obliga^iilor asumate prin prezentul contract. Cazul de foi^a majora se dovede§te de
+partea care o invoca.
+(6) Modificarea oricaror prevederi din prezentul contract se poate face numai
+cu acordul scris al ambelor paifi, prin act adi^ional.
+Semnatura asiguratorului,
+Semnatura asiguratului,
+
+5
+Aceasta lege a fast adoptata de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 §i ale art. 76 alin. (1) din Constitu^ia
+Romdniei, republicatd.
+PRE§EDINTELE
+SENATULUI
+p. PRE§EDINTELE
+CAMEREI DEPUTATILOR
+LAURENTIU-DAN LEOREANU ANCA DANA DRAGU
+Bucure§ti, 22
+2o2/.
+Nr.

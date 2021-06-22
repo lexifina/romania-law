@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-04: sent for promulgation
+- 2021-06-22: promulgated, becomes Legea nr. 168/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2020-10-21: Adresă către Camera Deputaților (AM): [am-e4ef4dd9.md](am-e4ef4dd9.md); official file https://www.senat.ro/legis/PDF/2020/20L609AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2020/20L609AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-03514a59.md](lp-03514a59.md); official file https://www.senat.ro/legis/PDF/2020/20L609LP.PDF
+- 2021-06-22: Decret de promulgare (DP): [dp-5696cfb3.md](dp-5696cfb3.md); official file https://www.senat.ro/legis/PDF/2020/20L609DP.PDF
+- 2021-06-22: Adresă privind forma promulgată (AFP): [afp-3fb54085.md](afp-3fb54085.md); official file https://www.senat.ro/legis/PDF/2020/20L609AFP.PDF
+- 2021-06-22: Forma promulgată (FP): [fp-2e68ced8.md](fp-2e68ced8.md); official file https://www.senat.ro/legis/PDF/2020/20L609FP.PDF
