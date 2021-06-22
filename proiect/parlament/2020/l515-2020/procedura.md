@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-04: sent for promulgation
+- 2021-06-22: promulgated, becomes Legea nr. 166/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-81401d36.md](am-81401d36.md); official file https://www.senat.ro/legis/PDF/2020/20L515AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2020/20L515AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-4370668d.md](lp-4370668d.md); official file https://www.senat.ro/legis/PDF/2020/20L515LP.PDF
+- 2021-06-22: Decret de promulgare (DP): [dp-0b25fe97.md](dp-0b25fe97.md); official file https://www.senat.ro/legis/PDF/2020/20L515DP.PDF
+- 2021-06-22: Adresă privind forma promulgată (AFP): [afp-a2967689.md](afp-a2967689.md); official file https://www.senat.ro/legis/PDF/2020/20L515AFP.PDF
+- 2021-06-22: Forma promulgată (FP): [fp-22cb4734.md](fp-22cb4734.md); official file https://www.senat.ro/legis/PDF/2020/20L515FP.PDF
