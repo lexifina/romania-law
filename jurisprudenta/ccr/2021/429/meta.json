@@ -1,0 +1,240 @@
+{
+ "key": "dcc-429-2021",
+ "label": "Decizia CCR nr. 429/2021",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "429",
+ "date": "2021-06-17",
+ "year": "2021",
+ "heading": "DECIZIA nr. 429 din 17 iunie 2021",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a Hotărârii Parlamentului României nr. 31/2021 privind numirea directorului general interimar al Societății Române de Televiziune",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "616",
+  "bis": false,
+  "date": "2021-06-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.712L/2/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite sesizarea de neconstituționalitate formulată de grupurile parlamentare ale Partidului Social Democrat din Camera Deputaților și Senat și constată că Hotărârea Parlamentului României nr. 31/2021 privind numirea directorului general interimar al Societății Române de Televiziune este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președintelui Camerei Deputaților și președintelui Senatului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "f",
+      "k"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "2",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "31",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1994",
+    "number": "41",
+    "year": "1994",
+    "path": "lege/1994/41"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "4",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 41/1992",
+    "number": "41",
+    "year": "1992",
+    "path": "lege/1992/41"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243394",
+  "text_sha256": "beb4a43ecbbef891eebefa2df9a830c892c60935917328cc64a490165a2014c2",
+  "catalogue_sha256": "beb4a43ecbbef891eebefa2df9a830c892c60935917328cc64a490165a2014c2",
+  "fetched": "2026-11-06T02:45:22Z",
+  "chars": 41952,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230103183846/https://legislatie.just.ro/Public/DetaliiDocumentAfis/243394",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/243394",
+   "timestamp": "20230103183846",
+   "sha256": "a8ff2eb6c459bde01e4d4a0fb890bf7e2a406b089100a016823bdbe533a09a78"
+  },
+  "portal_id": "243394",
+  "tip": "DECIZIE"
+ }
+}
