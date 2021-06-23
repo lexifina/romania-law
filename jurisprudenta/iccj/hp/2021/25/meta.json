@@ -1,0 +1,316 @@
+{
+ "key": "iccj-hp-25-2021",
+ "label": "Decizia ÎCCJ nr. 25/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "25",
+ "date": "2021-04-12",
+ "year": "2021",
+ "heading": "DECIZIA nr. 25 din 12 aprilie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 670 alin. (1) și (6) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "617",
+  "bis": false,
+  "date": "2021-06-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "179/1/2021",
+  "256/311/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "670",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Olt - Secția I civilă în Dosarul nr. 256/311/2020*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "1. Dacă în interpretarea și aplicarea dispozițiilor art. 670 alin. (1) și (6) din Codul de procedură civilă, având în vedere și Decizia R.I.L. nr. 8/2016 și Decizia nr. 15/2016 - Completul pentru dezlegarea unor chestiuni de drept, Biroul executorului judecătoresc are calitate procesuală pasivă în contestația la executare în care se solicită anularea încheierii de stabilire avans cheltuieli necesare continuării procedurii de executare silită, fiind aplicabile dispozițiile art. 78 alin. (1) din Codul de procedură civilă sau ale art. 78 alin. (2) din Codul de procedură civilă referitoare la introducerea forțată în cauză, din oficiu, a altor persoane.",
+  "2. Ca urmare a răspunsului la prima întrebare, să se interpreteze dacă instanța de apel poate invoca din oficiu ca motiv de nelegalitate a hotărârii primei instanțe lipsa coparticipării procesuale pasive a Biroului executorului judecătoresc, în cazul în care acesta nu a avut calitatea de intimat în cauză, însă s-a respins contestația la executare pentru lipsa calității debitorului, motivându-se că are calitate Biroul executorului judecătoresc, cu consecința aplicării dispozițiilor art. 480 alin. (3) din Codul de procedură civilă, fiind formulată de către apelantă cerere privind trimiterea cauzei spre rejudecare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "670",
+     "alin": [
+      "1",
+      "3",
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "657",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "371-7",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "645",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 92
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "460",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243398",
+  "text_sha256": "fc56f03299355bbbade7d10e4b5cccb75723be81955128f7b7b9b338688b057c",
+  "catalogue_sha256": "fc56f03299355bbbade7d10e4b5cccb75723be81955128f7b7b9b338688b057c",
+  "fetched": "2026-11-03T14:16:45Z",
+  "chars": 86255,
+  "portal_id": "243398",
+  "tip": "DECIZIE"
+ }
+}
