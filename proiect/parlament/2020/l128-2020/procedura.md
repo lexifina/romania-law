@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-07: sent for promulgation
+- 2021-06-23: promulgated, becomes Legea nr. 171/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L128AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2020/20L128AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-50095f4a.md](lp-50095f4a.md); official file https://www.senat.ro/legis/PDF/2020/20L128LP.PDF
+- 2021-06-23: Decret de promulgare (DP): [dp-6e2a2dbc.md](dp-6e2a2dbc.md); official file https://www.senat.ro/legis/PDF/2020/20L128DP.PDF
+- 2021-06-23: Adresă privind forma promulgată (AFP): [afp-6e65c3c5.md](afp-6e65c3c5.md); official file https://www.senat.ro/legis/PDF/2020/20L128AFP.PDF
+- 2021-06-23: Forma promulgată (FP): [fp-81df31a2.md](fp-81df31a2.md); official file https://www.senat.ro/legis/PDF/2020/20L128FP.PDF
