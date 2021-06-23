@@ -1,0 +1,291 @@
+{
+ "key": "dcc-857-2020",
+ "label": "Decizia CCR nr. 857/2020",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "857",
+ "date": "2020-11-26",
+ "year": "2020",
+ "heading": "DECIZIA nr. 857 din 26 noiembrie 2020",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 15 alin. (4) lit. c) și ale art. 17 alin. (11) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, ale Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative, în ansamblu, precum și ale art. I pct. 36 din această ordonanță de urgență [cu referire la art. 22 alin. (6) din Ordonanța de urgență a Guvernului nr. 77/2009] și ale Legii nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "618",
+  "bis": false,
+  "date": "2021-06-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.481/211/2016",
+  "2.333D/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alexandru Șanta în Dosarul nr. 5.481/211/2016 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și constată că dispozițiile art. 15 alin. (4) lit. c) și ale art. 17 alin. (11) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, ale Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative, în ansamblu, precum și ale art. I pct. 36 din această ordonanță de urgență [cu referire la art. 22 alin. (6) din Ordonanța de urgență a Guvernului nr. 77/2009] și ale Legii nr. 124/2015 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2014 pentru reglementarea unor măsuri fiscal-bugetare și modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "17",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 92/2014",
+    "number": "92",
+    "year": "2014",
+    "path": "oug/2014/92"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 124/2015",
+    "number": "124",
+    "year": "2015",
+    "path": "lege/2015/124"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 111/2011",
+    "number": "111",
+    "year": "2011",
+    "path": "oug/2011/111"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "oug/2000/99"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243406",
+  "text_sha256": "4a76dd6ca6c82ec4aee40cc23a79deeecd0cdac9a26b4ddc8e278c58fdb65c3f",
+  "catalogue_sha256": "4a76dd6ca6c82ec4aee40cc23a79deeecd0cdac9a26b4ddc8e278c58fdb65c3f",
+  "fetched": "2026-11-03T01:44:16Z",
+  "chars": 29225,
+  "portal_id": "243406",
+  "tip": "DECIZIE"
+ }
+}
