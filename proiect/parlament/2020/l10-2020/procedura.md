@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-07: sent for promulgation
+- 2021-06-23: promulgated, becomes Legea nr. 170/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-65b0a961.md](am-65b0a961.md); official file https://www.senat.ro/legis/PDF/2020/20L010AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2020/20L010AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-88808b7f.md](lp-88808b7f.md); official file https://www.senat.ro/legis/PDF/2020/20L010LP.PDF
+- 2021-06-23: Decret de promulgare (DP): [dp-57174a1e.md](dp-57174a1e.md); official file https://www.senat.ro/legis/PDF/2020/20L010DP.PDF
+- 2021-06-23: Adresă privind forma promulgată (AFP): [afp-2d8cc311.md](afp-2d8cc311.md); official file https://www.senat.ro/legis/PDF/2020/20L010AFP.PDF
+- 2021-06-23: Forma promulgată (FP): [fp-ef15be98.md](fp-ef15be98.md); official file https://www.senat.ro/legis/PDF/2020/20L010FP.PDF
