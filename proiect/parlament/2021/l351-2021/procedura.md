@@ -1,0 +1,17 @@
+# Propunere legislativă L351/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind modificarea și completarea Ordonanței de Urgență 195 din 12 decembrie 2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial nr.670 din 3 august 2006, cu modificările și completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-06-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-06-23: Adresă de înaintare a inițiativei (AD): [ad-64663ab9.md](ad-64663ab9.md); official file https://www.senat.ro/legis/PDF/2021/21L351AD.PDF
+- 2021-06-23: Forma inițiatorului (FG): [fg-370d2973.md](fg-370d2973.md); official file https://www.senat.ro/legis/PDF/2021/21L351FG.PDF
+- 2021-06-23: Expunere de motive (EM): [em-f2103acf.md](em-f2103acf.md); official file https://www.senat.ro/legis/PDF/2021/21L351EM.PDF
