@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-26: adopted by the Chamber of Deputies
 - 2021-06-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-07: sent for promulgation
+- 2021-06-23: promulgated, becomes Legea nr. 169/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L059AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2021/21L059AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-2ac7677f.md](lp-2ac7677f.md); official file https://www.senat.ro/legis/PDF/2021/21L059LP.PDF
+- 2021-06-23: Decret de promulgare (DP): [dp-88cf07e1.md](dp-88cf07e1.md); official file https://www.senat.ro/legis/PDF/2021/21L059DP.PDF
+- 2021-06-23: Adresă privind forma promulgată (AFP): [afp-ef3d01cf.md](afp-ef3d01cf.md); official file https://www.senat.ro/legis/PDF/2021/21L059AFP.PDF
+- 2021-06-23: Forma promulgată (FP): [fp-b53e707d.md](fp-b53e707d.md); official file https://www.senat.ro/legis/PDF/2021/21L059FP.PDF
