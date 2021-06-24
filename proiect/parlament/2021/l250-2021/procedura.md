@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2021-05-25: registered at the Chamber of Deputies
 - 2021-06-23: adopted by the Chamber of Deputies
+- 2021-06-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2021-06-24: Adresă de înaintare a inițiativei (AD): [ad-d49f19f3.md](ad-d49f19f3.md); official file https://www.senat.ro/legis/PDF/2021/21L250AD.PDF
+- 2021-06-24: Forma inițiatorului (FG): [fg-82504f19.md](fg-82504f19.md); official file https://www.senat.ro/legis/PDF/2021/21L250FG.PDF
+- 2021-06-24: Expunere de motive (EM): [em-f438f6a1.md](em-f438f6a1.md); official file https://www.senat.ro/legis/PDF/2021/21L250EM.PDF
