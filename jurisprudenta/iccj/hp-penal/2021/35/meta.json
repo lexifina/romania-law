@@ -1,0 +1,199 @@
+{
+ "key": "iccj-hp-penal-35-2021",
+ "label": "Decizia ÎCCJ nr. 35/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "35",
+ "date": "2021-05-25",
+ "year": "2021",
+ "heading": "DECIZIA nr. 35 din 25 mai 2021",
+ "subtitle": "referitoare la interpretarea art. 598 alin. (1) lit. c) teza finală din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "629",
+  "bis": false,
+  "date": "2021-06-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "764/1/2021",
+  "699/1/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "117",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Cluj - Secția penală, în Dosarul nr. 1.494/219/2020*, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept:",
+  "Dacă în procedura contestației la executare, în interpretarea art. 598 alin. (1) lit. c) teza finală din Codul de procedură penală (împiedicare la executare), atunci când pentru o parte dintre pedepsele indicate în mandatul european de arestare emis de autoritatea judiciară solicitantă română, autoritatea judiciară de executare străină refuză predarea, iar pentru o altă parte dintre pedepse admite predarea: – impedimentul la executarea pedepselor cu privire la care s-a refuzat predarea pentru motivul că persoana condamnată nu are posibilitatea să conteste condamnarea pronunțată în lipsă este temporar, aceste pedepse putând fi executate ulterior, în condițiile art. 117 alin. (4) lit. c) din Legea nr. 302/2004, republicată (text aplicabil prin analogie și în ipoteza refuzului de predare), sau – impedimentul la executarea pedepselor cu privire care s-a refuzat predarea pentru motivul că persoana condamnată nu are posibilitatea să conteste condamnarea pronunțată în lipsă este definitiv, aceste pedepse aplicate de instanțele române neputând fi executate pe teritoriul României ulterior executării pedepselor pentru care s-a admis predarea.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "598",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "595",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "117",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-06-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243807",
+  "text_sha256": "138b4ecb5c910cf2e5e0a8248f448eaf0eb8c53cc50d127f6aec66282da288c7",
+  "catalogue_sha256": "138b4ecb5c910cf2e5e0a8248f448eaf0eb8c53cc50d127f6aec66282da288c7",
+  "fetched": "2026-11-06T03:52:29Z",
+  "chars": 54053,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/243807",
+   "timestamp": "20251012150448",
+   "crawl": "CC-MAIN-2025-43",
+   "filename": "crawl-data/CC-MAIN-2025-43/segments/1759648358780.8/warc/CC-MAIN-20251012131417-20251012161417-00920.warc.gz",
+   "offset": "325096131",
+   "length": "27914",
+   "sha256": "e12fe840d7dd1a3a3da835ec168778ab134bf3f0873194273a417ec3eb52812c"
+  },
+  "portal_id": "243807",
+  "tip": "DECIZIE"
+ }
+}
