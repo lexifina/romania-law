@@ -1,0 +1,22 @@
+# Proiect de lege L248/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 34/2022 (`legea-34-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.58/2021 privind instituirea unei scheme de ajutor de stat pentru susținerea activității crescătorilor din sectorul bovin, în anul 2021, în contextul crizei economice generate de pandemia COVID 19
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-25: Adresă de înaintare a inițiativei (AD): [ad-8e69d4af.md](ad-8e69d4af.md); official file https://www.senat.ro/legis/PDF/2021/21L248AD.PDF
+- 2021-06-25: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L248FG.PDF
+- 2021-06-25: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L248EM.PDF
+- 2021-06-25: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L248LG.PDF
+- 2021-06-25: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L248OG.PDF
+- 2021-06-25: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L248HG.PDF
