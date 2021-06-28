@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 174/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-03-05: Adresă către Camera Deputaților (AM): [am-7bb33356.md](am-7bb33356.md); official file https://www.senat.ro/legis/PDF/2021/21L023AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-b4ae6dd8.md](axs-b4ae6dd8.md); official file https://www.senat.ro/legis/PDF/2021/21L023AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-a5a132b6.md](lp-a5a132b6.md); official file https://www.senat.ro/legis/PDF/2021/21L023LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-0b2da311.md](dp-0b2da311.md); official file https://www.senat.ro/legis/PDF/2021/21L023DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2021/21L023AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-c8ffc255.md](fp-c8ffc255.md); official file https://www.senat.ro/legis/PDF/2021/21L023FP.PDF
