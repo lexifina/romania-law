@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 177/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L363AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-862151a5.md](axs-862151a5.md); official file https://www.senat.ro/legis/PDF/2019/19L363AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-bcbcd2cc.md](lp-bcbcd2cc.md); official file https://www.senat.ro/legis/PDF/2019/19L363LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-e9144bfb.md](dp-e9144bfb.md); official file https://www.senat.ro/legis/PDF/2019/19L363DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2019/19L363AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-c249b263.md](fp-c249b263.md); official file https://www.senat.ro/legis/PDF/2019/19L363FP.PDF
