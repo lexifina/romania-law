@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 179/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: Adresă către Camera Deputaților (AM): [am-c3287d6a.md](am-c3287d6a.md); official file https://www.senat.ro/legis/PDF/2021/21L101AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-9f52849a.md](axs-9f52849a.md); official file https://www.senat.ro/legis/PDF/2021/21L101AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-d1357645.md](lp-d1357645.md); official file https://www.senat.ro/legis/PDF/2021/21L101LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-8f1e7b0c.md](dp-8f1e7b0c.md); official file https://www.senat.ro/legis/PDF/2021/21L101DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2021/21L101AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-c03270d5.md](fp-c03270d5.md); official file https://www.senat.ro/legis/PDF/2021/21L101FP.PDF
