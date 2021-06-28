@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-02-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 172/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-02-08: Adresă către Camera Deputaților (AM): [am-2f2c9956.md](am-2f2c9956.md); official file https://www.senat.ro/legis/PDF/2021/21L004AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-8909911e.md](axs-8909911e.md); official file https://www.senat.ro/legis/PDF/2021/21L004AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-afd48b69.md](lp-afd48b69.md); official file https://www.senat.ro/legis/PDF/2021/21L004LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-14d3bc5b.md](dp-14d3bc5b.md); official file https://www.senat.ro/legis/PDF/2021/21L004DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2021/21L004AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-b868fb5a.md](fp-b868fb5a.md); official file https://www.senat.ro/legis/PDF/2021/21L004FP.PDF
