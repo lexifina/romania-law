@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 175/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-f669b6eb.md](am-f669b6eb.md); official file https://www.senat.ro/legis/PDF/2020/20L223AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-0c223ee3.md](axs-0c223ee3.md); official file https://www.senat.ro/legis/PDF/2020/20L223AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-6c500ad3.md](lp-6c500ad3.md); official file https://www.senat.ro/legis/PDF/2020/20L223LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-414c5b17.md](dp-414c5b17.md); official file https://www.senat.ro/legis/PDF/2020/20L223DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2020/20L223AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-80768536.md](fp-80768536.md); official file https://www.senat.ro/legis/PDF/2020/20L223FP.PDF
