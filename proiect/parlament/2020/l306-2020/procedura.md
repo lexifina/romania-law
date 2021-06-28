@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-09: sent for promulgation
+- 2021-06-28: promulgated, becomes Legea nr. 176/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L306AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-e51ef8e5.md](axs-e51ef8e5.md); official file https://www.senat.ro/legis/PDF/2020/20L306AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-390fd666.md](lp-390fd666.md); official file https://www.senat.ro/legis/PDF/2020/20L306LP.PDF
+- 2021-06-28: Decret de promulgare (DP): [dp-871e1865.md](dp-871e1865.md); official file https://www.senat.ro/legis/PDF/2020/20L306DP.PDF
+- 2021-06-28: Adresă privind forma promulgată (AFP): [afp-af2eab6a.md](afp-af2eab6a.md); official file https://www.senat.ro/legis/PDF/2020/20L306AFP.PDF
+- 2021-06-28: Forma promulgată (FP): [fp-64191c49.md](fp-64191c49.md); official file https://www.senat.ro/legis/PDF/2020/20L306FP.PDF
