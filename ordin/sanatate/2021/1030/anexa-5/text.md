@@ -1,0 +1,23 @@
+# Anexa nr. 5 (Anexa nr. 6 la norme)
+CERERE de aprobare a prețurilor la medicamente pentru care DAPP solicită diminuarea voluntară a prețului de producător
+I.
+A.
+Pentru prețul aprobat în Canamed,.............................................., deținător/reprezentant al deținătorului autorizației de punere pe piață, solicit emiterea ordinului privind prețul maximal de producător, prețul maximal cu ridicata și cu amănuntul pentru produsul/produsele pentru care diminuez voluntar nivelul de preț de producător, după cum urmează:
+Denumirea produsului Formă farmaceutică Formă de ambalare DCI CIM Cod produs (GTIN/PPN)
+DAPP Preț producător actual Preț producător diminuat Preț cu ridicata Preț cu amănuntul
+Datele vor fi trecute în tabele în conformitate cu autorizația de punere pe piață.
+Vă declar că nivelul/nivelurile prețului/prețurilor de producător respectă prețurile aprobate în Canamed.
+B.
+Pentru prețul aprobat în Catalogul public,........................................, deținător/reprezentant al deținătorului autorizației de punere pe piață, solicit emiterea ordinului privind prețul maximal de producător, prețul maximal cu ridicata și cu amănuntul pentru produsul/produsele pentru care diminuez voluntar nivelul de preț de producător, după cum urmează:
+Denumirea produsului Formă farmaceutică Formă de ambalare DCI CIM Cod produs (GTIN/PPN)
+DAPP Preț producător actual Preț producător diminuat Preț cu ridicata Preț cu amănuntul
+Datele vor fi trecute în tabele în conformitate cu autorizația de punere pe piață.
+II.
+Declar că informațiile și documentele prezentate respectă Normele privind modul de calcul și procedura de aprobare a prețurilor maximale ale medicamentelor de uz uman, aprobate prin Ordinul ministrului sănătății nr. 368/2017, cu modificările și completările ulterioare.
+Date de contact:............................... (Compania) Nume:..................................................
+Adresa:........................................
+Telefon:........................................
+E-mail:..........................................
+Numele persoanei de contact pe probleme de prețuri:.......................................
+Data:............................................
+Semnătura:.....................................
