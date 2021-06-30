@@ -1,0 +1,22 @@
+# Proiect de lege L281/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 93/2022 (`legea-93-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.72/2021 pentru modificarea Ordonanței de urgență a Guvernului nr.133/ 2020 privind unele măsuri pentru sprijinirea categoriilor de elevi cei mai defavorizați care beneficiază de sprijin educaţional pe bază de tichete sociale pe suport electronic pentru sprijin educaţional acordate din fonduri externe nerambursabile, precum şi unele măsuri de distribuire a acestora
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L281AD.PDF
+- 2021-06-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L281FG.PDF
+- 2021-06-30: Expunere de motive (EM): [em-b0b9c3b5.md](em-b0b9c3b5.md); official file https://www.senat.ro/legis/PDF/2021/21L281EM.PDF
+- 2021-06-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L281LG.PDF
+- 2021-06-30: Document (OG): [og-230acf62.md](og-230acf62.md); official file https://www.senat.ro/legis/PDF/2021/21L281OG.PDF
+- 2021-06-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L281HG.PDF
