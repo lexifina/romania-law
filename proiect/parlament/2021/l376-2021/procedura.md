@@ -1,0 +1,17 @@
+# Propunere legislativă L376/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind transmiterea unor bunuri imobile din domeniul public al statului aflate în administrarea Ministerului Transporturilor și Infrastructurii și concesiunea Companiei Naționale de Căi Ferate C.F.R. - S.A. în domeniul public al municipiului Brad și al comunelor Șoimuș, Luncoiu de Jos, Vălișoara și Băița
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-06-30: Adresă de înaintare a inițiativei (AD): [ad-64da77ec.md](ad-64da77ec.md); official file https://www.senat.ro/legis/PDF/2021/21L376AD.PDF
+- 2021-06-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L376FG.PDF
+- 2021-06-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L376EM.PDF
