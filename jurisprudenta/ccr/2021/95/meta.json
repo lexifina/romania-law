@@ -1,0 +1,332 @@
+{
+ "key": "dcc-95-2021",
+ "label": "Decizia CCR nr. 95/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "95",
+ "date": "2021-02-16",
+ "year": "2021",
+ "heading": "DECIZIA nr. 95 din 16 februarie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 9 alin. (1) lit. c) și ale art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu, în redactarea modificată și completată prin Ordonanța Guvernului nr. 31/2013, aprobată prin Legea nr. 384/2013",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "642",
+  "bis": false,
+  "date": "2021-06-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3/204/2018",
+  "911D/2018",
+  "354D/2020",
+  "77/2/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Vitalia Salubritate Prahova - S.R.L. din localitatea Băicoi, județul Prahova, în Dosarul nr. 3/204/2018 al Judecătoriei Câmpina - Secția civilă și de Societatea ECOREC - S.A. din localitatea Popești-Leordeni, județul Ilfov, în Dosarul nr. 77/2/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și constată că prevederile art. 9 alin. (1) lit. c) și ale art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu, în redactarea modificată și completată prin Ordonanța Guvernului nr. 31/2013, aprobată prin Legea nr. 384/2013, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Câmpina - Secția civilă și Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 196/2005",
+    "number": "196",
+    "year": "2005",
+    "path": "oug/2005/196"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrul mediului, apelor și pădurilor nr. 2.413/2016",
+    "number": "2413",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 31/2013",
+    "number": "31",
+    "year": "2013",
+    "path": "og/2013/31"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 48/2017",
+    "number": "48",
+    "year": "2017",
+    "path": "oug/2017/48"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 211/2011",
+    "number": "211",
+    "year": "2011",
+    "path": "lege/2011/211"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 384/2013",
+    "number": "384",
+    "year": "2013",
+    "path": "lege/2013/384"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 74/2018",
+    "number": "74",
+    "year": "2018",
+    "path": "oug/2018/74"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 249/2015",
+    "number": "249",
+    "year": "2015",
+    "path": "lege/2015/249"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/2019",
+    "number": "31",
+    "year": "2019",
+    "path": "lege/2019/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul viceprim-ministrului, ministrul mediului, nr. 149/2019",
+    "number": "149",
+    "year": "2019"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 349/2005",
+    "number": "349",
+    "year": "2005",
+    "path": "hg/2005/349"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/243926",
+  "text_sha256": "f0f67bd0d0a98ee8f374fd29d535e68d7ef6e0876d7380d70ab0841906cc3919",
+  "catalogue_sha256": "f0f67bd0d0a98ee8f374fd29d535e68d7ef6e0876d7380d70ab0841906cc3919",
+  "fetched": "2026-11-03T01:44:02Z",
+  "chars": 28751,
+  "portal_id": "243926",
+  "tip": "DECIZIE"
+ }
+}
