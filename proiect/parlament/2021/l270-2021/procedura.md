@@ -1,0 +1,22 @@
+# Proiect de lege L270/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 346/2022 (`legea-346-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgență a Guvernului nr.60/2021 privind modificarea și completarea Ordonanţei de urgență a Guvernului nr.69/2019 pentru aplicarea unor măsuri de protecţie socială acordată persoanelor disponibilizate prin concedieri colective efectuate în baza planurilor de disponibilizare din cadrul operatorilor economici pentru care s-a aprobat acordarea ajutoarelor de stat pentru facilitarea închiderii minelor de cărbune necompetitive în perioada 2019-2024, precum și pentru completarea Ordonanţei de urgenţă a Guvernului nr.115/2011 privind stabilirea cadrului instituţional şi autorizarea Guvernului, prin Ministerul Finanţelor Publice, de a scoate la licitaţie certificatele de emisii de gaze cu efect de seră atribuite României la nivelul Uniunii Europene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L270AD.PDF
+- 2021-06-30: Forma inițiatorului (FG): [fg-42175e86.md](fg-42175e86.md); official file https://www.senat.ro/legis/PDF/2021/21L270FG.PDF
+- 2021-06-30: Expunere de motive (EM): [em-a5501b5b.md](em-a5501b5b.md); official file https://www.senat.ro/legis/PDF/2021/21L270EM.PDF
+- 2021-06-30: Aviz Consiliul Legislativ (LG): [lg-a8424c8d.md](lg-a8424c8d.md); official file https://www.senat.ro/legis/PDF/2021/21L270LG.PDF
+- 2021-06-30: Document (OG): [og-a171e18e.md](og-a171e18e.md); official file https://www.senat.ro/legis/PDF/2021/21L270OG.PDF
+- 2021-06-30: Document (HG): [hg-b321314b.md](hg-b321314b.md); official file https://www.senat.ro/legis/PDF/2021/21L270HG.PDF
