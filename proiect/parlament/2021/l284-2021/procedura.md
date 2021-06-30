@@ -1,0 +1,22 @@
+# Proiect de lege L284/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 59/2022 (`legea-59-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.75/2021 privind executarea serviciilor de aerofotogrammetrie şi de realizare a ortofotoplanurilor pe teritoriul României şi executarea serviciilor de digitizare şi actualizare a Sistemului de identificare a parcelelor agricole pentru Ministerul Agriculturii şi Dezvoltării Rurale în perioada 2021-2030
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-06-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L284AD.PDF
+- 2021-06-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L284FG.PDF
+- 2021-06-30: Expunere de motive (EM): [em-02a6a1cb.md](em-02a6a1cb.md); official file https://www.senat.ro/legis/PDF/2021/21L284EM.PDF
+- 2021-06-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L284LG.PDF
+- 2021-06-30: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L284OG.PDF
+- 2021-06-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L284HG.PDF
