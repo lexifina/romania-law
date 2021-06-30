@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-12: sent for promulgation
+- 2021-06-30: promulgated, becomes Legea nr. 182/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-04-23: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L067AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-99585e61.md](axs-99585e61.md); official file https://www.senat.ro/legis/PDF/2018/18L067AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-17ecdac7.md](lp-17ecdac7.md); official file https://www.senat.ro/legis/PDF/2018/18L067LP.PDF
+- 2021-06-30: Decret de promulgare (DP): [dp-2e0a87f3.md](dp-2e0a87f3.md); official file https://www.senat.ro/legis/PDF/2018/18L067DP.PDF
+- 2021-06-30: Adresă privind forma promulgată (AFP): [afp-016e3841.md](afp-016e3841.md); official file https://www.senat.ro/legis/PDF/2018/18L067AFP.PDF
+- 2021-06-30: Forma promulgată (FP): [fp-42154342.md](fp-42154342.md); official file https://www.senat.ro/legis/PDF/2018/18L067FP.PDF
