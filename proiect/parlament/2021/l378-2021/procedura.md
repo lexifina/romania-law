@@ -1,0 +1,17 @@
+# Propunere legislativă L378/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Ordonanţei de urgenţã nr.128 din 31 iulie 2020 privind unele măsuri pentru instituirea Programului naţional de racordare a populaţiei şi clienţilor noncasnici la sistemul inteligent de distribuţie a gazelor naturale aprobată prin Legea 214/2020
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-07-01: Adresă de înaintare a inițiativei (AD): [ad-55a4d69b.md](ad-55a4d69b.md); official file https://www.senat.ro/legis/PDF/2021/21L378AD.PDF
+- 2021-07-01: Forma inițiatorului (FG): [fg-79b36a8e.md](fg-79b36a8e.md); official file https://www.senat.ro/legis/PDF/2021/21L378FG.PDF
+- 2021-07-01: Expunere de motive (EM): [em-e0eaf7df.md](em-e0eaf7df.md); official file https://www.senat.ro/legis/PDF/2021/21L378EM.PDF
