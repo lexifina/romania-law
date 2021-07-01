@@ -1,0 +1,22 @@
+# Anexa 20
+Anexa nr. 23D
+DECLARAȚIE
+Subsemnatul(a), .................... domiciliat/ă în localitatea .................., str. .............. nr. ..., bl...., sc. ..., et. ..., ap. ..., județul ..........., telefon ........., actul de identitate ...... seria ....., nr. ...., CNP/cod unic de asigurare ............. cunoscând că falsul în declarații se pedepsește conform legii,
+declar pe propria răspundere că mă încadrez în una dintre categoriile de asigurați scutite de coplată, prevăzute mai jos: ( ) copii 0 - 18 ani [conform art. 225 alin. (1) lit. a) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare - se completează de părinți/aparținători legali];
+( ) copii 0 - 18 ani care nu dețin cod numeric personal și care nu sunt înregistrați în registrele de stare civilă [conform art. 225 alin. (1) lit. a) și alin. (2) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare]; *)
+( ) tineri între 18 ani și 26 de ani - dacă sunt elevi, absolvenți de liceu - până la începerea anului universitar, dar nu mai mult de 3 luni, ucenici sau studenți - care nu realizează venituri din muncă [conform art. 225 alin. (1) lit. b) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare];
+( ) bolnavi cu afecțiuni incluse în programele naționale de sănătate stabilite de Ministerul Sănătății - pentru serviciile medicale aferente bolii de bază a respectivei afecțiuni care nu realizează venituri din muncă, pensie sau din alte resurse [conform art. 225 alin. (1) lit. c) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare];
+( ) persoanele fizice cu venituri din pensii și indemnizație socială pentru pensionari, de până la 900 lei/lună inclusiv, indiferent dacă realizează sau nu alte venituri [conform art. 225 alin. (1) lit. d) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare];
+( ) femei însărcinate și lăuze - cu venituri egale sau peste salariul de bază minim brut pe țară - pentru servicii medicale legate de evoluția sarcinii [conform art. 225 alin. (1) lit. e) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare];
+( ) femei însărcinate și lăuze care nu dețin cod numeric personal și care nu sunt înregistrate în registrele de stare civilă - cu venituri egale sau peste salariul de bază minim brut pe țară - pentru servicii medicale legate de evoluția sarcinii [conform art. 225 alin. (1) lit. e) și alin. (2) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare]; *)
+( ) femei însărcinate și lăuze - care nu au niciun venit sau au venituri sub salariul de bază minim brut pe țară - pentru toate serviciile medicale [conform art. 225 alin. (1) lit. e) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare],
+( ) femei însărcinate și lăuze care nu dețin cod numeric personal și care nu sunt înregistrate în registrele de stare civilă - care nu au niciun venit sau au venituri sub salariul de bază minim brut pe țară - pentru toate serviciile medicale [conform art. 225 alin. (1) lit. e) și alin.(2) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare], *)
+( ) persoane cetățeni români, care sunt victime ale traficului de persoane [conform art. 225 alin. (1) lit. f) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare] *)
+( ) persoane cetățeni români care nu dețin cod numeric personal și care nu sunt înregistrate în registrele de stare civilă, care sunt victime ale traficului de persoane [conform art. 225 alin. (1) lit. f) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare] *)
+( ) persoane reținute, arestate sau deținute, dacă nu realizează venituri din muncă, pensie sau din alte resurse, care se află în centrele de reținere și arestare preventivă [conform art. 225 alin. (1) lit. g) din Legea nr. 95/2006, republicată, cu modificările și completările ulterioare]. *)
+dovedită prin documentul/documentele .......................................
+Data
+.................
+Semnătura
+.................
+*) persoanele care solicită servicii medicale, vor declara că nu sunt înregistrate în registrele de stare civilă, cu excepția copiilor de până la 14 ani și a persoanelor cu handicap, pentru care declarația se formulează de către persoanele care le însoțesc la furnizorul de servicii medicale.
