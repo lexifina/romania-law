@@ -13,8 +13,14 @@ Initiator: Guvernul României.
 - 2021-06-02: registered at the Chamber of Deputies
 - 2021-06-28: documents published: Raport comisie sesizată pe fond
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Document
+- 2021-07-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2021-06-28: Raport comisie sesizată pe fond (CR): [cr-f68382c5.md](cr-f68382c5.md); official file https://www.senat.ro/legis/PDF/2021/21L291CR.PDF
 - 2021-06-29: Document (OG): [og-f331e893.md](og-f331e893.md); official file https://www.senat.ro/legis/PDF/2021/21L291OG.PDF
+- 2021-07-01: Adresă de înaintare a inițiativei (AD): [ad-8d40e187.md](ad-8d40e187.md); official file https://www.senat.ro/legis/PDF/2021/21L291AD.PDF
+- 2021-07-01: Forma inițiatorului (FG): [fg-2b6be03a.md](fg-2b6be03a.md); official file https://www.senat.ro/legis/PDF/2021/21L291FG.PDF
+- 2021-07-01: Expunere de motive (EM): [em-d51466e4.md](em-d51466e4.md); official file https://www.senat.ro/legis/PDF/2021/21L291EM.PDF
+- 2021-07-01: Aviz Consiliul Legislativ (LG): [lg-b164fc93.md](lg-b164fc93.md); official file https://www.senat.ro/legis/PDF/2021/21L291LG.PDF
+- 2021-07-01: Document (HG): [hg-403c7409.md](hg-403c7409.md); official file https://www.senat.ro/legis/PDF/2021/21L291HG.PDF
