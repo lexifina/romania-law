@@ -1,0 +1,3 @@
+# ANEXĂ la Autorizația pentru utilizarea mecanismului special pentru declararea și plata TVA la import nr................
+AUTORIZARE MODIFICARE/REVOCARE AUTORIZAȚIE
+Biroul vamal Data emiterii autorizației Cuantum garanție Semnătură șef birou vamal Biroul vamal Data modificării/ revocării autorizației Cuantum garanție Semnătură șef birou vamal
