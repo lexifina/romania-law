@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-03: adopted by the Chamber of Deputies
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-12: sent for promulgation
+- 2021-07-01: promulgated, becomes Legea nr. 186/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-12: Adresă către Camera Deputaților (AM): [am-546d1176.md](am-546d1176.md); official file https://www.senat.ro/legis/PDF/2021/21L067AM.PDF
 - 2021-06-07: Adresă privind sesizarea CCR (AXS): [axs-4ba75a86.md](axs-4ba75a86.md); official file https://www.senat.ro/legis/PDF/2021/21L067AXS.PDF
 - 2021-06-07: Forma trimisă la promulgare (LP): [lp-2f475f50.md](lp-2f475f50.md); official file https://www.senat.ro/legis/PDF/2021/21L067LP.PDF
+- 2021-07-01: Decret de promulgare (DP): [dp-9f7acf6b.md](dp-9f7acf6b.md); official file https://www.senat.ro/legis/PDF/2021/21L067DP.PDF
+- 2021-07-01: Adresă privind forma promulgată (AFP): [afp-6c297d12.md](afp-6c297d12.md); official file https://www.senat.ro/legis/PDF/2021/21L067AFP.PDF
+- 2021-07-01: Forma promulgată (FP): [fp-0b82c957.md](fp-0b82c957.md); official file https://www.senat.ro/legis/PDF/2021/21L067FP.PDF
