@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-29: documents published: Aviz comisie
 - 2021-06-30: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-07-02: sent for promulgation
 
 ## Documents
 
