@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-12: sent for promulgation
 - 2021-07-01: promulgated, becomes Legea nr. 184/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-02: published in the Monitorul Oficial
 
 ## Documents
 
