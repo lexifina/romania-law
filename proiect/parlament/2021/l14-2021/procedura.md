@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-09: adopted by the Chamber of Deputies
 - 2021-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-16: sent for promulgation
+- 2021-07-05: promulgated, becomes Legea nr. 187/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-02-26: Adresă către Camera Deputaților (AM): [am-ea99f48d.md](am-ea99f48d.md); official file https://www.senat.ro/legis/PDF/2021/21L014AM.PDF
 - 2021-06-14: Adresă privind sesizarea CCR (AXS): [axs-ff005942.md](axs-ff005942.md); official file https://www.senat.ro/legis/PDF/2021/21L014AXS.PDF
 - 2021-06-14: Forma trimisă la promulgare (LP): [lp-4fa4c623.md](lp-4fa4c623.md); official file https://www.senat.ro/legis/PDF/2021/21L014LP.PDF
+- 2021-07-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L014DP.PDF
+- 2021-07-05: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L014AFP.PDF
+- 2021-07-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L014FP.PDF
