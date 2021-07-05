@@ -1,0 +1,21 @@
+# Proiect de lege L269/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 144/2023 (`legea-144-2023`).
+
+Proiect de lege pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.43/2007 privind introducerea deliberată în mediu a organismelor modificate genetic
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-07-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-07-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L269AD.PDF
+- 2021-07-05: Forma inițiatorului (FG): [fg-9596e6fe.md](fg-9596e6fe.md); official file https://www.senat.ro/legis/PDF/2021/21L269FG.PDF
+- 2021-07-05: Expunere de motive (EM): [em-820df7b6.md](em-820df7b6.md); official file https://www.senat.ro/legis/PDF/2021/21L269EM.PDF
+- 2021-07-05: Aviz Consiliul Legislativ (LG): [lg-90d5c09c.md](lg-90d5c09c.md); official file https://www.senat.ro/legis/PDF/2021/21L269LG.PDF
+- 2021-07-05: Document (HG): [hg-4a966727.md](hg-4a966727.md); official file https://www.senat.ro/legis/PDF/2021/21L269HG.PDF
