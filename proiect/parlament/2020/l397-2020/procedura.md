@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-09: adopted by the Chamber of Deputies
 - 2021-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-16: sent for promulgation
+- 2021-07-05: promulgated, becomes Legea nr. 188/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-eec88d9a.md](am-eec88d9a.md); official file https://www.senat.ro/legis/PDF/2020/20L397AM.PDF
 - 2021-06-14: Adresă privind sesizarea CCR (AXS): [axs-2b91b322.md](axs-2b91b322.md); official file https://www.senat.ro/legis/PDF/2020/20L397AXS.PDF
 - 2021-06-14: Forma trimisă la promulgare (LP): [lp-3f47da38.md](lp-3f47da38.md); official file https://www.senat.ro/legis/PDF/2020/20L397LP.PDF
+- 2021-07-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L397DP.PDF
+- 2021-07-05: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L397AFP.PDF
+- 2021-07-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L397FP.PDF
