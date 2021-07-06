@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-16: sent for promulgation
 - 2021-07-05: promulgated, becomes Legea nr. 188/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-06: published in the Monitorul Oficial
 
 ## Documents
 
