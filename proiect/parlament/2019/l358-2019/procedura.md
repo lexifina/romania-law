@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-06-09: adopted by the Chamber of Deputies
 - 2021-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-19: sent for promulgation
+- 2021-07-08: promulgated, becomes Legea nr. 190/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L358AM.PDF
 - 2021-06-14: Adresă privind sesizarea CCR (AXS): [axs-be1d5607.md](axs-be1d5607.md); official file https://www.senat.ro/legis/PDF/2019/19L358AXS.PDF
 - 2021-06-14: Forma trimisă la promulgare (LP): [lp-b0e49c1c.md](lp-b0e49c1c.md); official file https://www.senat.ro/legis/PDF/2019/19L358LP.PDF
+- 2021-07-08: Decret de promulgare (DP): [dp-34953e6f.md](dp-34953e6f.md); official file https://www.senat.ro/legis/PDF/2019/19L358DP.PDF
+- 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2019/19L358AFP.PDF
+- 2021-07-08: Forma promulgată (FP): [fp-6763e553.md](fp-6763e553.md); official file https://www.senat.ro/legis/PDF/2019/19L358FP.PDF
