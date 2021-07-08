@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-06-04: returned for re-examination
 - 2021-06-28: returned for re-examination
 - 2021-07-01: sent for promulgation
+- 2021-07-08: promulgated, becomes Legea nr. 192/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-02-03: Forma adoptată de Senat (FS): [fs-663dda06.md](fs-663dda06.md); official file https://www.senat.ro/legis/PDF/2020/20L699FS.PDF
 - 2021-02-08: Adresă privind sesizarea CCR (AXS): [axs-f1dd2da8.md](axs-f1dd2da8.md); official file https://www.senat.ro/legis/PDF/2020/20L699AXS.PDF
 - 2021-02-08: Forma trimisă la promulgare (LP): [lp-b9e16dc5.md](lp-b9e16dc5.md); official file https://www.senat.ro/legis/PDF/2020/20L699LP.PDF
+- 2021-07-08: Decret de promulgare (DP): [dp-9d865aa4.md](dp-9d865aa4.md); official file https://www.senat.ro/legis/PDF/2020/20L699DP.PDF
+- 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2020/20L699AFP.PDF
+- 2021-07-08: Forma promulgată (FP): [fp-b1e18f03.md](fp-b1e18f03.md); official file https://www.senat.ro/legis/PDF/2020/20L699FP.PDF
