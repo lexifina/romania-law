@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-10-19: returned for re-examination
 - 2021-06-28: adopted by the Senate
 - 2021-07-02: sent for promulgation
+- 2021-07-08: promulgated, becomes Legea nr. 193/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3854d51d.md](am-3854d51d.md); official file https://www.senat.ro/legis/PDF/2020/20L320AM.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-ac64555e.md](axs-ac64555e.md); official file https://www.senat.ro/legis/PDF/2020/20L320AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-6f6d99e9.md](lp-6f6d99e9.md); official file https://www.senat.ro/legis/PDF/2020/20L320LP.PDF
+- 2021-07-08: Decret de promulgare (DP): [dp-064ee513.md](dp-064ee513.md); official file https://www.senat.ro/legis/PDF/2020/20L320DP.PDF
+- 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2020/20L320AFP.PDF
+- 2021-07-08: Forma promulgată (FP): [fp-d9c999dd.md](fp-d9c999dd.md); official file https://www.senat.ro/legis/PDF/2020/20L320FP.PDF
