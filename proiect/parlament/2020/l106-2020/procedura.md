@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-09: adopted by the Chamber of Deputies
 - 2021-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-19: sent for promulgation
+- 2021-07-08: promulgated, becomes Legea nr. 191/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L106AM.PDF
 - 2021-06-14: Adresă privind sesizarea CCR (AXS): [axs-14d69182.md](axs-14d69182.md); official file https://www.senat.ro/legis/PDF/2020/20L106AXS.PDF
 - 2021-06-14: Forma trimisă la promulgare (LP): [lp-2fae0f31.md](lp-2fae0f31.md); official file https://www.senat.ro/legis/PDF/2020/20L106LP.PDF
+- 2021-07-08: Decret de promulgare (DP): [dp-5ca14022.md](dp-5ca14022.md); official file https://www.senat.ro/legis/PDF/2020/20L106DP.PDF
+- 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2020/20L106AFP.PDF
+- 2021-07-08: Forma promulgată (FP): [fp-d345605d.md](fp-d345605d.md); official file https://www.senat.ro/legis/PDF/2020/20L106FP.PDF
