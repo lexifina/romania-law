@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-28: adopted by the Senate
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-02: sent for promulgation
+- 2021-07-08: promulgated, becomes Legea nr. 195/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,6 @@ Initiator: Guvernul României.
 - 2021-06-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L191AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L191AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-8ab28526.md](lp-8ab28526.md); official file https://www.senat.ro/legis/PDF/2021/21L191LP.PDF
+- 2021-07-08: Decret de promulgare (DP): [dp-9e3400c2.md](dp-9e3400c2.md); official file https://www.senat.ro/legis/PDF/2021/21L191DP.PDF
+- 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2021/21L191AFP.PDF
+- 2021-07-08: Forma promulgată (FP): [fp-68ea2009.md](fp-68ea2009.md); official file https://www.senat.ro/legis/PDF/2021/21L191FP.PDF
