@@ -1,0 +1,26 @@
+# Anexa nr. 3
+Modelul cererii și al declarației pe propria răspundere pentru persoanele fizice care obțin venituri exclusiv din drepturile de autor și drepturile conexe, astfel cum sunt reglementate de Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată, cu modificările și completările ulterioare, care urmează să beneficieze de plata indemnizației prevăzute la art. 3 din Ordonanța de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă, aprobată cu modificări și completări prin Legea nr. 282/2020, cu modificările și completările ulterioare
+CERERE
+Către
+AGENȚIA PENTRU PLĂȚI ȘI INSPECȚIE SOCIALĂ A JUDEȚULUI............................../MUNICIPIULUI BUCUREȘTI
+Subsemnatul,............., cu domiciliul/sediul în localitatea....................., str.................. nr..........., județul.........../municipiul București, sectorul......., identificat cu CI/BI seria...... nr........, CNP............, telefon.........., e-mail............., în conformitate cu prevederile art. 3 din Ordonanța de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă, aprobată cu modificări și completări prin Legea nr. 282/2020, cu modificările și completările ulterioare, vă solicit acordarea indemnizației pentru perioada..............
+Solicit plata în contul....................., al cărui titular sunt, deschis la Banca............................
+Atașez: - declarația pe propria răspundere;
+- copie după actul de identitate;
+- copie după extrasul de cont (deschis în calitatea menționată, pentru care solicit indemnizația).
+Data................
+Numele și prenumele (în clar)..............................
+Semnătura.........................
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Către
+AGENȚIA PENTRU PLĂȚI ȘI INSPECȚIE SOCIALĂ A JUDEȚULUI.................../MUNICIPIULUI BUCUREȘTI
+Subsemnatul/a,..............., cu domiciliul/sediul în localitatea................., str................... nr......., județul...................../municipiul București, sectorul......, identificat(ă) cu CI/BI seria..... nr..............., CNP.................., telefon.................., e-mail................., cunoscând prevederile art. 326 din Codul penal cu privire la falsul în declarații, declar pe propria răspundere următoarele:
+1. în anul 2019 media încasărilor brute obținute exclusiv din drepturi de autor lunare a fost de............... lei;
+2. veniturile estimate în declarația unică, respectiv norma de venit stabilit în anul 2020 sunt/este de........................ lei;
+3. în perioada stării de urgență/stării de alertă am beneficiat de indemnizația prevăzută de art. XV alin. (4) din Ordonanța de urgență a Guvernului nr. 30/2020 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri în domeniul protecției sociale în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, aprobată cu modificări și completări prin Legea nr. 59/2020, în cuantum de............... lei;
+4. realizez activitate din luna..............., obținând încasări brute de............ lei (medie lunară) exclusiv din drepturi de autor, neîncasând și sume din alte tipuri de activități.
+În aceste condiții declar că în luna....................., pentru care solicit indemnizația, încasările brute obținute exclusiv din drepturi de autor sunt de................ lei.
+Data.................
+Numele și prenumele (în clar)...................
+Semnătura............................
+----
