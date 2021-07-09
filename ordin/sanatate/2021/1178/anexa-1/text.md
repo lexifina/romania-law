@@ -1,0 +1,8 @@
+# ANEXĂ
+COMPLETĂRI ale anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative -
+După poziția nr. 7189 se introduc două poziții noi, pozițiile nr. 7190 și 7191, cu următorul cuprins:
+Nr. crt. Cod_cim Obs. Denumire produs Forma Concentrație Firma/Țara DCI Ambalaj Grupa ATC Statut_frm Statut_anm Preț producător (lei) Preț ridicata maximal fără TVA (lei) Preț amănuntul maximal cu TVA (lei) Stare Observații Valabilitate preț
+„7190 W60867001
+BCG VACCINE PULB. + SOLV. PT. SUSP. INJ. 0,05 mg/doză C.N. UNIFARM - S.A. - ROMÂNIA VACCIN BCG Cutie cu 20 fiole a câte 20 doze pediatrice + 20 fiole solv. pt. susp. inj. (3 ani) J07AN01 MI 2.644,00 2.674,00 2.952,81 N Cant. 1.295 cutii Prețurile sunt valabile până la data de 29.09.2021. 7191 W66819001
+SIBELIUM 10 mg COMPR. 10 mg JOHNSON & JOHNSON ROMANIA - S.R.L. - ROMÂNIA FLUNARIZINUM Cutie x 30 compr. N02CX MI 36,27 41,35 54,08 N Cant. 12 cutii Prețurile sunt valabile până la data de 23.06.2022.”
+----
