@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-28: adopted by the Senate
 - 2021-07-02: sent for promulgation
 - 2021-07-08: promulgated, becomes Legea nr. 193/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,10 @@ Initiator: Guvernul României.
 - 2021-07-08: Decret de promulgare (DP): [dp-064ee513.md](dp-064ee513.md); official file https://www.senat.ro/legis/PDF/2020/20L320DP.PDF
 - 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2020/20L320AFP.PDF
 - 2021-07-08: Forma promulgată (FP): [fp-d9c999dd.md](fp-d9c999dd.md); official file https://www.senat.ro/legis/PDF/2020/20L320FP.PDF
+- 2021-07-09: Document (SC): [sc-c006f0ac.md](sc-c006f0ac.md); official file https://www.senat.ro/legis/PDF/2020/20L320SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (DC): [dc-1027c0f1.md](dc-1027c0f1.md); official file https://www.senat.ro/legis/PDF/2020/20L320DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (RC): [rc-ed4d4e90.md](rc-ed4d4e90.md); official file https://www.senat.ro/legis/PDF/2020/20L320RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L320XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L320SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L320XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (PX): [px-1ebb4e41.md](px-1ebb4e41.md); official file https://www.senat.ro/legis/PDF/2020/20L320PX.PDF (its day is not given by the bill file: shown from the last stage held)
