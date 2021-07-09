@@ -1,0 +1,302 @@
+{
+ "key": "dcc-211-2021",
+ "label": "Decizia CCR nr. 211/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "211",
+ "date": "2021-03-25",
+ "year": "2021",
+ "heading": "DECIZIA nr. 211 din 25 martie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații\" din art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, precum și a dispozițiilor art. 169^2 din aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "684",
+  "bis": false,
+  "date": "2021-07-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.576/97/2018",
+  "538D/2019",
+  "1.046/98/2018",
+  "4.218/97/2018",
+  "316/97/2019",
+  "2.317/97/2018",
+  "3.081/97/2018",
+  "386/97/2019",
+  "1.842/95/2018",
+  "2.646/95/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Potcovel, Dorin Gheorghe Barbu, Balint Tolnai, Gheorghe Căploiu, Gheorghe Bardaș, Iosif Barabaș, Mariana Manoilă, Simion Bonțidean, Biró Bèla, Valerian Lionti, Vasile Bărbieru, Toader Dorin Doroftei și Petru Moldovan în dosarele nr. 3.576/97/2018, nr. 3.577/97/2018, nr. 2.317/97/2018, nr. 2.897/97/2018, nr. 3.074/97/2018, nr. 3.439/97/2018, nr. 3.667/97/2018, nr. 4.195/97/2017, nr. 2.594/97/2018, nr. 3.081/97/2018, nr. 386/97/2019, nr. 4.218/97/2018 și nr. 316/97/2019 ale Tribunalului Hunedoara - Secția I civilă, de Ceambur Dumitru, Ion Armășoiu și Gabriel Ghimpușan în dosarele nr. 1.842/95/2018, nr. 2.646/95/2018 și nr. 1.844/95/2018 ale Tribunalului Gorj - Secția conflicte de muncă și asigurări sociale, precum și de Dinu Dorin Petrescu în Dosarul nr. 1.046/98/2018 al Tribunalului Ialomița - Secția civilă și constată că sintagma „stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații“ din art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, precum și dispozițiile art. 169^2 din aceeași lege sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Hunedoara - Secția I civilă, Tribunalului Gorj - Secția conflicte de muncă și asigurări sociale și Tribunalului Ialomița - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3",
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169-2",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 257/2011",
+    "number": "257",
+    "year": "2011",
+    "path": "hg/2011/257"
+   },
+   "articles": [
+    {
+     "art": "134",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2018",
+    "number": "221",
+    "year": "2018",
+    "path": "lege/2018/221"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-07-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244254",
+  "text_sha256": "88f15b75a602a4bde032b3269580cb441fe17313b0b0e0cd54ecd65ec9321182",
+  "catalogue_sha256": "88f15b75a602a4bde032b3269580cb441fe17313b0b0e0cd54ecd65ec9321182",
+  "fetched": "2026-11-03T01:43:40Z",
+  "chars": 33726,
+  "portal_id": "244254",
+  "tip": "DECIZIE"
+ }
+}
