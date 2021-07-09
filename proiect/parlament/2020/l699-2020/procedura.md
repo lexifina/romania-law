@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2021-06-28: returned for re-examination
 - 2021-07-01: sent for promulgation
 - 2021-07-08: promulgated, becomes Legea nr. 192/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,11 @@ Initiator: Guvernul României.
 - 2021-07-08: Decret de promulgare (DP): [dp-9d865aa4.md](dp-9d865aa4.md); official file https://www.senat.ro/legis/PDF/2020/20L699DP.PDF
 - 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2020/20L699AFP.PDF
 - 2021-07-08: Forma promulgată (FP): [fp-b1e18f03.md](fp-b1e18f03.md); official file https://www.senat.ro/legis/PDF/2020/20L699FP.PDF
+- 2021-07-09: Document (AL): [al-d648cce6.md](al-d648cce6.md); official file https://www.senat.ro/legis/PDF/2020/20L699AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (SC): [sc-c50cae90.md](sc-c50cae90.md); official file https://www.senat.ro/legis/PDF/2020/20L699SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (DC): [dc-1805eea9.md](dc-1805eea9.md); official file https://www.senat.ro/legis/PDF/2020/20L699DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L699RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (SX): [sx-fe19b952.md](sx-fe19b952.md); official file https://www.senat.ro/legis/PDF/2020/20L699SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (LX): [lx-09639c92.md](lx-09639c92.md); official file https://www.senat.ro/legis/PDF/2020/20L699LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (XXS): [xxs-1d70f085.md](xxs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2020/20L699XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (PX): [px-1396e069.md](px-1396e069.md); official file https://www.senat.ro/legis/PDF/2020/20L699PX.PDF (its day is not given by the bill file: shown from the last stage held)
