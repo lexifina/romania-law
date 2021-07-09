@@ -1,0 +1,21 @@
+# Proiect de lege L302/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 96/2022 (`legea-96-2022`).
+
+Proiect de lege pentru modificarea și completarea anexei la Legea nr.339/2005 privind regimul juridic al plantelor, substanțelor și preparatelor stupefiante și psihotrope
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-07-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-07-09: Adresă de înaintare a inițiativei (AD): [ad-298cea1e.md](ad-298cea1e.md); official file https://www.senat.ro/legis/PDF/2021/21L302AD.PDF
+- 2021-07-09: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L302FG.PDF
+- 2021-07-09: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L302EM.PDF
+- 2021-07-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L302LG.PDF
+- 2021-07-09: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L302HG.PDF
