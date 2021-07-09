@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-30: sent for promulgation
 - 2021-07-08: promulgated, becomes Legea nr. 194/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2021-07-08: Decret de promulgare (DP): [dp-9d8d8ea0.md](dp-9d8d8ea0.md); official file https://www.senat.ro/legis/PDF/2021/21L118DP.PDF
 - 2021-07-08: Adresă privind forma promulgată (AFP): [afp-9b7350ce.md](afp-9b7350ce.md); official file https://www.senat.ro/legis/PDF/2021/21L118AFP.PDF
 - 2021-07-08: Forma promulgată (FP): [fp-2176b786.md](fp-2176b786.md); official file https://www.senat.ro/legis/PDF/2021/21L118FP.PDF
+- 2021-07-09: Document (AJ): [aj-f9352511.md](aj-f9352511.md); official file https://www.senat.ro/legis/PDF/2021/21L118AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-09: Document (AL): [al-0fcd42c1.md](al-0fcd42c1.md); official file https://www.senat.ro/legis/PDF/2021/21L118AL.PDF (its day is not given by the bill file: shown from the last stage held)
