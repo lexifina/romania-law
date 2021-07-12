@@ -1,0 +1,225 @@
+{
+ "key": "dcc-413-2021",
+ "label": "Decizia CCR nr. 413/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "413",
+ "date": "2021-06-10",
+ "year": "2021",
+ "heading": "DECIZIA nr. 413 din 10 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"alte instituții de spectacole sau concerte\" cuprinsă la pct. I din capitolul I din anexa nr. III la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "687",
+  "bis": false,
+  "date": "2021-07-12",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.125/62/2019",
+  "2.686D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Claudiu-Florin Ailenei, Balàzs Ildikó-Gabriella, Alice Boiu, Cristina Bunescu (fostă Călărași), Corina Csomortani (fostă Tofănel), Emin Curtgeafar, Attila Demeter, Roxana Bârsan (fostă Curtgeafar), Aneta-Gina Dumitru, Gabriel Dumitru, Alexandra-Maria Enache, Mihaela Gradea, Simona-Maria Gurău, Valentina Guți, Alexandru Mihai Hamzea, George Hociung, Cornel Homocianu, Raluca Irimia, Izsák Jeno, Liliana Lazăr, Sorin Lazăr, Dănuț Manea, Laurențiu Mara, Valeriana-Alina Mara, Marius Adrian Mihăilă, Raluca Ioana Mihălcioiu, Răzvan-Ionel Mureșan, Ovidiu-Cornel Nauncef, Alina-Maria Nauncef, Gheorghe-Ștefan Neagoe, Lucia Neagoe, Ioana-Cristiana Papa, Ciprian Patriche, Dan Pepelea, Nicolae-Vasile Pop, George Popa, Iulian Rusu, Florin Simion, Aurel-Cristian Tancu, Delia Tancu, Tarcsi Szabolcs, Leona-Claudia Varvarichi și Judith-Christianna Wunderlich în Dosarul nr. 1.125/62/2019 al Tribunalului Brașov - Secția I civilă și constată că sintagma „alte instituții de spectacole sau concerte“ cuprinsă la pct. I din capitolul I din anexa nr. III la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului și Tribunalului Brașov - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/2007",
+    "number": "21",
+    "year": "2007",
+    "path": "og/2007/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 157/2021",
+    "number": "157",
+    "year": "2021",
+    "path": "lege/2021/157"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-07-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244268",
+  "text_sha256": "9804841404ba54f563daef83b58feb2235aa0a004b1661d2d38b8962c1bfe99f",
+  "catalogue_sha256": "9804841404ba54f563daef83b58feb2235aa0a004b1661d2d38b8962c1bfe99f",
+  "fetched": "2026-11-03T01:43:40Z",
+  "chars": 26210,
+  "portal_id": "244268",
+  "tip": "DECIZIE"
+ }
+}
