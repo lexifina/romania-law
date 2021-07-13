@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-07: first record in the bill file
 - 2021-06-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-15: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
+- 2021-07-13: registered at the Senate
 
 ## Documents
 
