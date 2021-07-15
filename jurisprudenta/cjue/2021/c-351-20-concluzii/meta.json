@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-351-20-concluzii-2021-07-15",
+ "label": "CJUE, Concluziile avocatului general J. Kokott prezentate la 15 iulie 2021, Cauza C-351/20 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-07-15",
+ "year": "2021",
+ "case": "Cauza C-351/20 P.",
+ "celex": "62020CC0351",
+ "ecli": "ECLI:EU:C:2021:625",
+ "heading": "Concluziile avocatului general J. Kokott prezentate la 15 iulie 2021",
+ "formation": null,
+ "procedure": "APPEAL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Investigații ale Oficiului European de Luptă Antifraudă (OLAF) – Rapoarte ale investigațiilor – Cerere de începere a unei investigații în legătură cu desfășurarea investigațiilor anterioare de către OLAF – Cerere de acces la documente – Scrisoare de respingere – Articolul 263 TFUE – Decizie care poate face obiectul unei acțiuni în anulare – Termen de introducere a acțiunilor – Acțiune împotriva unei scrisori de confirmare a rapoartelor de investigație ale OLAF – Regulamentul (CE) nr. 1049/2001 – Articolul 6 și articolul 7 alineatul (2) – Obligația de a informa solicitantul cu privire la dreptul său de a prezenta o cerere de confirmare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CC0351",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-351/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/cf0681cb-e570-11eb-a1a5-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "18f442b40df22ddbd0673e71f88eadcc5f47c19ea5e3bb09d6a3b26ff7b27bd8"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
