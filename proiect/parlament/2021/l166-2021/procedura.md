@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-30: sent for promulgation
+- 2021-07-16: promulgated, becomes Legea nr. 199/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-06-22: Forma adoptată de Senat (FS): [fs-578c074a.md](fs-578c074a.md); official file https://www.senat.ro/legis/PDF/2021/21L166FS.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-54e161bb.md](axs-54e161bb.md); official file https://www.senat.ro/legis/PDF/2021/21L166AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-1a38ade8.md](lp-1a38ade8.md); official file https://www.senat.ro/legis/PDF/2021/21L166LP.PDF
+- 2021-07-16: Decret de promulgare (DP): [dp-b7278745.md](dp-b7278745.md); official file https://www.senat.ro/legis/PDF/2021/21L166DP.PDF
+- 2021-07-16: Adresă privind forma promulgată (AFP): [afp-f96909b0.md](afp-f96909b0.md); official file https://www.senat.ro/legis/PDF/2021/21L166AFP.PDF
+- 2021-07-16: Forma promulgată (FP): [fp-0ded97cd.md](fp-0ded97cd.md); official file https://www.senat.ro/legis/PDF/2021/21L166FP.PDF
