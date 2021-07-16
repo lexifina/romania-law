@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-16: adopted by the Chamber of Deputies
 - 2021-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-28: sent for promulgation
+- 2021-07-16: promulgated, becomes Legea nr. 197/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-12-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L652AM.PDF
 - 2021-06-23: Adresă privind sesizarea CCR (AXS): [axs-d178ff83.md](axs-d178ff83.md); official file https://www.senat.ro/legis/PDF/2020/20L652AXS.PDF
 - 2021-06-23: Forma trimisă la promulgare (LP): [lp-929b74e3.md](lp-929b74e3.md); official file https://www.senat.ro/legis/PDF/2020/20L652LP.PDF
+- 2021-07-16: Decret de promulgare (DP): [dp-1d0b2748.md](dp-1d0b2748.md); official file https://www.senat.ro/legis/PDF/2020/20L652DP.PDF
+- 2021-07-16: Adresă privind forma promulgată (AFP): [afp-37986a05.md](afp-37986a05.md); official file https://www.senat.ro/legis/PDF/2020/20L652AFP.PDF
+- 2021-07-16: Forma promulgată (FP): [fp-b1925c4a.md](fp-b1925c4a.md); official file https://www.senat.ro/legis/PDF/2020/20L652FP.PDF
