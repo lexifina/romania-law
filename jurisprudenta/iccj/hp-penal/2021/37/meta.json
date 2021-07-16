@@ -1,0 +1,173 @@
+{
+ "key": "iccj-hp-penal-37-2021",
+ "label": "Decizia ÎCCJ nr. 37/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "37",
+ "date": "2021-06-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 37 din 7 iunie 2021",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: \"Publicarea de anunțuri fictive online care a avut drept consecință producerea unei pagube, fără ca prin această activitate să se intervină asupra sistemului informatic sau asupra datelor informatice prelucrate de acesta, realizează condițiile de tipicitate ale infracțiunii de fraudă informatică, prevăzute de art. 249 din Codul penal (în modalitatea alternativă a «introducerii de date informatice»), sau ale infracțiunii de înșelăciune, prevăzute de art. 244 alin. (2) din Codul penal (în modalitatea alternativă «prin alte mijloace frauduloase»)?\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "707",
+  "bis": false,
+  "date": "2021-07-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "769/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secția penală prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarei chestiuni de drept: „Publicarea de anunțuri fictive online care a avut drept consecință producerea unei pagube, fără ca prin această activitate să se intervină asupra sistemului informatic sau asupra datelor informatice prelucrate de acesta, realizează condițiile de tipicitate ale infracțiunii de fraudă informatică, prevăzute de art. 249 din Codul penal (în modalitatea alternativă a «introducerii de date informatice»), sau ale infracțiunii de înșelăciune, prevăzute de art. 244 alin. (2) din Codul penal (în modalitatea alternativă «prin alte mijloace frauduloase»)?“",
+  "Stabilește că publicarea de anunțuri fictive online care a avut drept consecință producerea unei pagube, fără ca prin această activitate să se intervină asupra sistemului informatic sau asupra datelor informatice prelucrate de acesta, realizează condițiile de tipicitate ale infracțiunii de înșelăciune, prevăzute de art. 244 din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 71
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "215",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-07-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244415",
+  "text_sha256": "ad97cb7dbaa69382700e2d4c3f1b6af946c95edc1eb7f734bdf72abb1dda430b",
+  "catalogue_sha256": "ad97cb7dbaa69382700e2d4c3f1b6af946c95edc1eb7f734bdf72abb1dda430b",
+  "fetched": "2026-11-03T16:38:52Z",
+  "chars": 98675,
+  "portal_id": "244415",
+  "tip": "DECIZIE"
+ }
+}
