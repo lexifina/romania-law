@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-02-01: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
+- 2021-07-19: promulgated, becomes Legea nr. 205/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-11-28: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L666AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2020/20L666AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-5b71e72d.md](lp-5b71e72d.md); official file https://www.senat.ro/legis/PDF/2020/20L666LP.PDF
+- 2021-07-19: Decret de promulgare (DP): [dp-9fc8739a.md](dp-9fc8739a.md); official file https://www.senat.ro/legis/PDF/2020/20L666DP.PDF
+- 2021-07-19: Adresă privind forma promulgată (AFP): [afp-a72a9c43.md](afp-a72a9c43.md); official file https://www.senat.ro/legis/PDF/2020/20L666AFP.PDF
+- 2021-07-19: Forma promulgată (FP): [fp-f9e41753.md](fp-f9e41753.md); official file https://www.senat.ro/legis/PDF/2020/20L666FP.PDF
