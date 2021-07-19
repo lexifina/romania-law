@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-16: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
+- 2021-07-19: promulgated, becomes Legea nr. 204/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -40,3 +41,6 @@ Initiator: Guvernul României.
 - 2021-06-14: Adresă către Camera Deputaților (AM): [am-a7dc0152.md](am-a7dc0152.md); official file https://www.senat.ro/legis/PDF/2021/21L165AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L165AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-445efa9f.md](lp-445efa9f.md); official file https://www.senat.ro/legis/PDF/2021/21L165LP.PDF
+- 2021-07-19: Decret de promulgare (DP): [dp-cbbc61d2.md](dp-cbbc61d2.md); official file https://www.senat.ro/legis/PDF/2021/21L165DP.PDF
+- 2021-07-19: Adresă privind forma promulgată (AFP): [afp-bbefc61c.md](afp-bbefc61c.md); official file https://www.senat.ro/legis/PDF/2021/21L165AFP.PDF
+- 2021-07-19: Forma promulgată (FP): [fp-829e21a4.md](fp-829e21a4.md); official file https://www.senat.ro/legis/PDF/2021/21L165FP.PDF
