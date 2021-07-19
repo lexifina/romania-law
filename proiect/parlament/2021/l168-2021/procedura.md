@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-06-28: sent for promulgation
 - 2021-07-16: promulgated, becomes Legea nr. 198/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-19: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-16: Decret de promulgare (DP): [dp-e410f894.md](dp-e410f894.md); official file https://www.senat.ro/legis/PDF/2021/21L168DP.PDF
 - 2021-07-16: Adresă privind forma promulgată (AFP): [afp-3289ff4f.md](afp-3289ff4f.md); official file https://www.senat.ro/legis/PDF/2021/21L168AFP.PDF
 - 2021-07-16: Forma promulgată (FP): [fp-740738b4.md](fp-740738b4.md); official file https://www.senat.ro/legis/PDF/2021/21L168FP.PDF
+- 2021-07-19: Document (AL): [al-6b7bb355.md](al-6b7bb355.md); official file https://www.senat.ro/legis/PDF/2021/21L168AL.PDF (its day is not given by the bill file: shown from the last stage held)
