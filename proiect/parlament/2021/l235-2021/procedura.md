@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
 - 2021-07-10: published in the Monitorul Oficial
+- 2021-07-19: promulgated, becomes Legea nr. 201/2021; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Guvernul României.
 - 2021-06-28: Forma adoptată de Senat (FS): [fs-7a0f6a46.md](fs-7a0f6a46.md); official file https://www.senat.ro/legis/PDF/2021/21L235FS.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L235AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-5e6eb96a.md](lp-5e6eb96a.md); official file https://www.senat.ro/legis/PDF/2021/21L235LP.PDF
+- 2021-07-19: Document (AL): [al-8aa54ded.md](al-8aa54ded.md); official file https://www.senat.ro/legis/PDF/2021/21L235AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-19: Decret de promulgare (DP): [dp-99f4b7aa.md](dp-99f4b7aa.md); official file https://www.senat.ro/legis/PDF/2021/21L235DP.PDF
+- 2021-07-19: Adresă privind forma promulgată (AFP): [afp-8df0ff22.md](afp-8df0ff22.md); official file https://www.senat.ro/legis/PDF/2021/21L235AFP.PDF
+- 2021-07-19: Forma promulgată (FP): [fp-9dcf608d.md](fp-9dcf608d.md); official file https://www.senat.ro/legis/PDF/2021/21L235FP.PDF
