@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-06-28: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
+- 2021-07-19: promulgated, becomes Legea nr. 202/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2021-06-28: Forma adoptată de Senat (FS): [fs-ace40733.md](fs-ace40733.md); official file https://www.senat.ro/legis/PDF/2021/21L237FS.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L237AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-c573a7a9.md](lp-c573a7a9.md); official file https://www.senat.ro/legis/PDF/2021/21L237LP.PDF
+- 2021-07-19: Decret de promulgare (DP): [dp-eb43d9f7.md](dp-eb43d9f7.md); official file https://www.senat.ro/legis/PDF/2021/21L237DP.PDF
+- 2021-07-19: Adresă privind forma promulgată (AFP): [afp-096dd9b1.md](afp-096dd9b1.md); official file https://www.senat.ro/legis/PDF/2021/21L237AFP.PDF
+- 2021-07-19: Forma promulgată (FP): [fp-57a99fa7.md](fp-57a99fa7.md); official file https://www.senat.ro/legis/PDF/2021/21L237FP.PDF
