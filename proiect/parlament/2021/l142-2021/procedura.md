@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-14: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
+- 2021-07-20: promulgated, becomes Legea nr. 208/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2021-06-04: Adresă către Camera Deputaților (AM): [am-29ec1817.md](am-29ec1817.md); official file https://www.senat.ro/legis/PDF/2021/21L142AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L142AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-fbf9d38c.md](lp-fbf9d38c.md); official file https://www.senat.ro/legis/PDF/2021/21L142LP.PDF
+- 2021-07-20: Decret de promulgare (DP): [dp-fd3faa21.md](dp-fd3faa21.md); official file https://www.senat.ro/legis/PDF/2021/21L142DP.PDF
+- 2021-07-20: Adresă privind forma promulgată (AFP): [afp-879390bd.md](afp-879390bd.md); official file https://www.senat.ro/legis/PDF/2021/21L142AFP.PDF
+- 2021-07-20: Forma promulgată (FP): [fp-06a8f749.md](fp-06a8f749.md); official file https://www.senat.ro/legis/PDF/2021/21L142FP.PDF
