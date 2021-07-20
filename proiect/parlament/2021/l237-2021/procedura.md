@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
 - 2021-07-19: promulgated, becomes Legea nr. 202/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-07-19: Decret de promulgare (DP): [dp-eb43d9f7.md](dp-eb43d9f7.md); official file https://www.senat.ro/legis/PDF/2021/21L237DP.PDF
 - 2021-07-19: Adresă privind forma promulgată (AFP): [afp-096dd9b1.md](afp-096dd9b1.md); official file https://www.senat.ro/legis/PDF/2021/21L237AFP.PDF
 - 2021-07-19: Forma promulgată (FP): [fp-57a99fa7.md](fp-57a99fa7.md); official file https://www.senat.ro/legis/PDF/2021/21L237FP.PDF
+- 2021-07-20: Document (TX): [tx-7dc84378.md](tx-7dc84378.md); official file https://www.senat.ro/legis/PDF/2021/21L237TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-20: Document (AL): [al-80295b2e.md](al-80295b2e.md); official file https://www.senat.ro/legis/PDF/2021/21L237AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-07-20: Document (TC): [tc-81441ac0.md](tc-81441ac0.md); official file https://www.senat.ro/legis/PDF/2021/21L237TC.PDF (its day is not given by the bill file: shown from the last stage held)
