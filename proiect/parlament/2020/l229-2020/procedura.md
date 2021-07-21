@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2020-05-20: registered at the Chamber of Deputies
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-02: sent for promulgation
+- 2021-07-21: promulgated, becomes Legea nr. 214/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-19c16fb5.md](am-19c16fb5.md); official file https://www.senat.ro/legis/PDF/2020/20L229AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L229AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-58f06124.md](lp-58f06124.md); official file https://www.senat.ro/legis/PDF/2020/20L229LP.PDF
+- 2021-07-21: Decret de promulgare (DP): [dp-c9c0c035.md](dp-c9c0c035.md); official file https://www.senat.ro/legis/PDF/2020/20L229DP.PDF
+- 2021-07-21: Adresă privind forma promulgată (AFP): [afp-9802699c.md](afp-9802699c.md); official file https://www.senat.ro/legis/PDF/2020/20L229AFP.PDF
+- 2021-07-21: Forma promulgată (FP): [fp-017516fa.md](fp-017516fa.md); official file https://www.senat.ro/legis/PDF/2020/20L229FP.PDF
