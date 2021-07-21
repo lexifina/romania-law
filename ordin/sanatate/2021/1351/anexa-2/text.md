@@ -1,0 +1,27 @@
+# Anexa nr. 2 (Anexa nr. 2 la norme)
+FORMULAR de solicitare a autorizației pentru furnizare de medicamente pentru nevoi speciale, conform art. 703 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății
+AGENȚIA NAȚIONALĂ A MEDICAMENTULUI ȘI A DISPOZITIVELOR MEDICALE DIN ROMÂNIA
+1.
+Informații despre medicamentul pentru nevoi speciale: Denumirea comercială:
+Substanța activă (DCI):
+Concentrație:
+Forma farmaceutică:
+Deținătorul autorizației de punere pe piață în țara de origine:
+Țara de origine:
+Fabricantul responsabil cu eliberarea seriei în țara de origine:
+Cantitatea solicitată:
+Indicații privind administrarea:
+Reacții adverse și precauții privind administrarea:
+2.
+Informații despre solicitant: Denumirea distribuitorului angro:
+Adresa:
+Numărul autorizației de distribuție angro:
+Persoana calificată (date de contact):
+Telefon:
+Fax:
+E-mail:
+Solicităm eliberarea unei autorizații pentru furnizarea medicamentului de mai sus în cantitatea precizată.
+Declarăm că ne angajăm să respectăm prevederile legale privind furnizarea de medicamente fără autorizație de punere pe piață în România, pentru nevoi speciale, conform art. 703 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare.
+Solicitant,.............................. (semnătura și ștampila)
+Data:.................
+NOTĂ: Acest formular de solicitare este valabil numai însoțit de toate documentele menționate la art. 14 alin. (1) din Normele de aplicare a prevederilor art. 703 alin. (1) și (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății referitoare la medicamentele utilizate pentru rezolvarea unor nevoi speciale, aprobate prin Ordinul ministrului sănătății nr. 85/2013, cu modificările și completările ulterioare.
