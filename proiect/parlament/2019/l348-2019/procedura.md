@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2019-10-28: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-22: promulgated, becomes Legea nr. 216/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L348AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2019/19L348AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-dbce0a2d.md](lp-dbce0a2d.md); official file https://www.senat.ro/legis/PDF/2019/19L348LP.PDF
+- 2021-07-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L348DP.PDF
+- 2021-07-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L348AFP.PDF
+- 2021-07-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L348FP.PDF
