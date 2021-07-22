@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-02: sent for promulgation
 - 2021-07-20: promulgated, becomes Legea nr. 210/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-22: published in the Monitorul Oficial
 
 ## Documents
 
