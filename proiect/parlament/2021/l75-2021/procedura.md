@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-01: sent for promulgation
 - 2021-07-20: promulgated, becomes Legea nr. 207/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2021-07-20: Decret de promulgare (DP): [dp-3179be07.md](dp-3179be07.md); official file https://www.senat.ro/legis/PDF/2021/21L075DP.PDF
 - 2021-07-20: Adresă privind forma promulgată (AFP): [afp-0a2751ce.md](afp-0a2751ce.md); official file https://www.senat.ro/legis/PDF/2021/21L075AFP.PDF
 - 2021-07-20: Forma promulgată (FP): [fp-36632943.md](fp-36632943.md); official file https://www.senat.ro/legis/PDF/2021/21L075FP.PDF
+- 2021-07-22: Document (TA): [ta-bedd8d2d.md](ta-bedd8d2d.md); official file https://www.senat.ro/legis/PDF/2021/21L075TA.PDF (its day is not given by the bill file: shown from the last stage held)
