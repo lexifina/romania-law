@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-23: adopted by the Chamber of Deputies
 - 2021-06-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-03: sent for promulgation
+- 2021-07-22: promulgated, becomes Legea nr. 215/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-02: Adresă către Camera Deputaților (AM): [am-d206909e.md](am-d206909e.md); official file https://www.senat.ro/legis/PDF/2021/21L149AM.PDF
 - 2021-06-28: Adresă privind sesizarea CCR (AXS): [axs-0d45ca59.md](axs-0d45ca59.md); official file https://www.senat.ro/legis/PDF/2021/21L149AXS.PDF
 - 2021-06-28: Forma trimisă la promulgare (LP): [lp-b84b50e9.md](lp-b84b50e9.md); official file https://www.senat.ro/legis/PDF/2021/21L149LP.PDF
+- 2021-07-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L149DP.PDF
+- 2021-07-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L149AFP.PDF
+- 2021-07-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L149FP.PDF
