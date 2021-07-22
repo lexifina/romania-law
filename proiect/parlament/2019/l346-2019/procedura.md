@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2019-10-14: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-22: promulgated, becomes Legea nr. 218/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2019-10-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L346AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2019/19L346AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-63c8d381.md](lp-63c8d381.md); official file https://www.senat.ro/legis/PDF/2019/19L346LP.PDF
+- 2021-07-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L346DP.PDF
+- 2021-07-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L346AFP.PDF
+- 2021-07-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L346FP.PDF
