@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-14: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-22: promulgated, becomes Legea nr. 217/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-09: Adresă către Camera Deputaților (AM): [am-5f881556.md](am-5f881556.md); official file https://www.senat.ro/legis/PDF/2021/21L181AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L181AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-5a0084ef.md](lp-5a0084ef.md); official file https://www.senat.ro/legis/PDF/2021/21L181LP.PDF
+- 2021-07-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L181DP.PDF
+- 2021-07-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L181AFP.PDF
+- 2021-07-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L181FP.PDF
