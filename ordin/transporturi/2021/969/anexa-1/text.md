@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE de punere în aplicare a Ordonanței de urgență a Guvernului nr. 1/2021 privind stabilirea cadrului instituțional și adoptarea unor măsuri necesare pentru înființarea punctului național de acces, conform regulamentelor delegate de completare a Directivei 2010/40/UE a Parlamentului European și a Consiliului din 7 iulie 2010 privind cadrul pentru implementarea sistemelor de transport inteligente în domeniul transportului rutier și pentru interfețele cu alte moduri de transport
