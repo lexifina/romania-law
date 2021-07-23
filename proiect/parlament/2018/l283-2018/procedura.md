@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-03: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-23: promulgated, becomes Legea nr. 219/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2018-07-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L283AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2018/18L283AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-3eb94e64.md](lp-3eb94e64.md); official file https://www.senat.ro/legis/PDF/2018/18L283LP.PDF
+- 2021-07-23: Decret de promulgare (DP): [dp-21083084.md](dp-21083084.md); official file https://www.senat.ro/legis/PDF/2018/18L283DP.PDF
+- 2021-07-23: Adresă privind forma promulgată (AFP): [afp-5f0cea23.md](afp-5f0cea23.md); official file https://www.senat.ro/legis/PDF/2018/18L283AFP.PDF
+- 2021-07-23: Forma promulgată (FP): [fp-36d39c58.md](fp-36d39c58.md); official file https://www.senat.ro/legis/PDF/2018/18L283FP.PDF
