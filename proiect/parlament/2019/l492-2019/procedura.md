@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: registered at the Chamber of Deputies
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-23: promulgated, becomes Legea nr. 222/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L492AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L492AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-977d3a79.md](lp-977d3a79.md); official file https://www.senat.ro/legis/PDF/2019/19L492LP.PDF
+- 2021-07-23: Decret de promulgare (DP): [dp-c4395500.md](dp-c4395500.md); official file https://www.senat.ro/legis/PDF/2019/19L492DP.PDF
+- 2021-07-23: Adresă privind forma promulgată (AFP): [afp-1cb2e514.md](afp-1cb2e514.md); official file https://www.senat.ro/legis/PDF/2019/19L492AFP.PDF
+- 2021-07-23: Forma promulgată (FP): [fp-66b669a0.md](fp-66b669a0.md); official file https://www.senat.ro/legis/PDF/2019/19L492FP.PDF
