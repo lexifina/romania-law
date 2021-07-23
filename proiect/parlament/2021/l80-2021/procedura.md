@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-06-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-23: promulgated, becomes Legea nr. 224/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L080AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L080AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-59867cd1.md](lp-59867cd1.md); official file https://www.senat.ro/legis/PDF/2021/21L080LP.PDF
+- 2021-07-23: Decret de promulgare (DP): [dp-36b4c8c8.md](dp-36b4c8c8.md); official file https://www.senat.ro/legis/PDF/2021/21L080DP.PDF
+- 2021-07-23: Adresă privind forma promulgată (AFP): [afp-6e5262a2.md](afp-6e5262a2.md); official file https://www.senat.ro/legis/PDF/2021/21L080AFP.PDF
+- 2021-07-23: Forma promulgată (FP): [fp-52b383e8.md](fp-52b383e8.md); official file https://www.senat.ro/legis/PDF/2021/21L080FP.PDF
