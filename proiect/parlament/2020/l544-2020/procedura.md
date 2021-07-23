@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-10-12: registered at the Chamber of Deputies
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-23: promulgated, becomes Legea nr. 223/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-fdb3c34f.md](am-fdb3c34f.md); official file https://www.senat.ro/legis/PDF/2020/20L544AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L544AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-d7cc9493.md](lp-d7cc9493.md); official file https://www.senat.ro/legis/PDF/2020/20L544LP.PDF
+- 2021-07-23: Decret de promulgare (DP): [dp-923cca20.md](dp-923cca20.md); official file https://www.senat.ro/legis/PDF/2020/20L544DP.PDF
+- 2021-07-23: Adresă privind forma promulgată (AFP): [afp-52a1a95f.md](afp-52a1a95f.md); official file https://www.senat.ro/legis/PDF/2020/20L544AFP.PDF
+- 2021-07-23: Forma promulgată (FP): [fp-e303cc70.md](fp-e303cc70.md); official file https://www.senat.ro/legis/PDF/2020/20L544FP.PDF
