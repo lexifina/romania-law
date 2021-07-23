@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-03: sent for promulgation
 - 2021-07-22: promulgated, becomes Legea nr. 215/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-23: published in the Monitorul Oficial
 
 ## Documents
 
