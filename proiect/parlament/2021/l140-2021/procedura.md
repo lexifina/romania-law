@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-16: registered at the Chamber of Deputies
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
+- 2021-07-23: promulgated, becomes Legea nr. 220/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-14: Adresă către Camera Deputaților (AM): [am-56058db2.md](am-56058db2.md); official file https://www.senat.ro/legis/PDF/2021/21L140AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L140AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-54f93f9a.md](lp-54f93f9a.md); official file https://www.senat.ro/legis/PDF/2021/21L140LP.PDF
+- 2021-07-23: Decret de promulgare (DP): [dp-afc8692c.md](dp-afc8692c.md); official file https://www.senat.ro/legis/PDF/2021/21L140DP.PDF
+- 2021-07-23: Adresă privind forma promulgată (AFP): [afp-57a56cb7.md](afp-57a56cb7.md); official file https://www.senat.ro/legis/PDF/2021/21L140AFP.PDF
+- 2021-07-23: Forma promulgată (FP): [fp-97fc4c88.md](fp-97fc4c88.md); official file https://www.senat.ro/legis/PDF/2021/21L140FP.PDF
