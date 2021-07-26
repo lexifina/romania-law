@@ -1,0 +1,273 @@
+{
+ "key": "dcc-469-2021",
+ "label": "Decizia CCR nr. 469/2021",
+ "court": "ccr",
+ "kind": "alta",
+ "subkind": "hotarare-parlament",
+ "number": "469",
+ "date": "2021-07-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 469 din 7 iulie 2021",
+ "subtitle": "referitoare la sesizarea de neconstituționalitate a Hotărârii Senatului nr. 56/2021 privind numirea președintelui Consiliului de monitorizare a implementării Convenției privind drepturile persoanelor cu dizabilități",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "731",
+  "bis": false,
+  "date": "2021-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.150L/2/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea de neconstituționalitate a Hotărârii Senatului nr. 56/2021 privind numirea președintelui Consiliului de monitorizare a implementării Convenției privind drepturile persoanelor cu dizabilități, formulată de Grupul parlamentar al Uniunii Salvați România din Senat.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Senatului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2010",
+    "number": "221",
+    "year": "2010",
+    "path": "lege/2010/221"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/2016",
+    "number": "8",
+    "year": "2016",
+    "path": "lege/2016/8"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 93/2012",
+    "number": "93",
+    "year": "2012",
+    "path": "oug/2012/93"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244922",
+  "text_sha256": "9ff2ae3ae53054be13c4dce34cf37833756e5a864ed400984c8d885cf057433b",
+  "catalogue_sha256": "9ff2ae3ae53054be13c4dce34cf37833756e5a864ed400984c8d885cf057433b",
+  "fetched": "2026-11-03T01:43:15Z",
+  "chars": 61980,
+  "portal_id": "244922",
+  "tip": "DECIZIE"
+ }
+}
