@@ -1,0 +1,267 @@
+{
+ "key": "iccj-hp-32-2021",
+ "label": "Decizia ÎCCJ nr. 32/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2021-05-17",
+ "year": "2021",
+ "heading": "DECIZIA nr. 32 din 17 mai 2021",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: \"Dacă, în urma abrogării, prin Ordinul nr. 901/2.460/2019, publicat în Monitorul Oficial al României, Partea I, nr. 574 din 12.07.2019, a dispozițiilor alin. 2 al art. 10 din Normele metodologice de aplicare a prevederilor Legii nr. 125/2014, norme ce au fost aprobate prin Ordinul nr. 2.073/1.623/2014, abrogare ce a avut în vedere Sentința civilă nr. 313/17.10.2016, pronunțată de Curtea de Apel Cluj - Secția a III-a de contencios administrativ și fiscal în Dosarul nr. 620/33/2016, rămasă definitivă prin Decizia nr. 2.251/2019 dată de Înalta Curte de Casație și Justiție, dispozițiile art. 1 alin. (1) din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii se interpretează în sensul că nu se mai recuperează nici debitele corespunzătoare perioadei ulterioare datei de 1.10.2014 și pentru care s-au emis decizii de debit în conformitate cu dispozițiile art. 179 din Legea nr. 263/2010.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "730",
+  "bis": false,
+  "date": "2021-07-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "620/33/2016",
+  "593/1/2021",
+  "2.523/111/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea - Secția I civilă în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă, în urma abrogării, prin Ordinul nr. 901/2.460/2019, publicat în Monitorul Oficial al României, Partea I, nr. 574 din 12.07.2019, a dispozițiilor alin. 2 al art. 10 din Normele metodologice de aplicare a prevederilor Legii nr. 125/2014, norme ce au fost aprobate prin Ordinul nr. 2.073/1.623/2014, abrogare ce a avut în vedere Sentința civilă nr. 313/17.10.2016, pronunțată de Curtea de Apel Cluj - Secția a III-a de contencios administrativ și fiscal în Dosarul nr. 620/33/2016, rămasă definitivă prin Decizia nr. 2.251/2019 dată de Înalta Curte de Casație și Justiție, dispozițiile art. 1 alin. (1) din Legea nr. 125/2014 privind scutirea de la plată a unor debite provenite din pensii se interpretează în sensul că nu se mai recuperează nici debitele corespunzătoare perioadei ulterioare datei de 1.10.2014 și pentru care s-au emis decizii de debit în conformitate cu dispozițiile art. 179 din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 125/2014",
+    "number": "125",
+    "year": "2014",
+    "path": "lege/2014/125"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "179",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2020",
+    "number": "263",
+    "year": "2020",
+    "path": "lege/2020/263"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 901/2460",
+    "number": "901",
+    "year": "2460"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 124/2014",
+    "number": "124",
+    "year": "2014",
+    "path": "lege/2014/124"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-07-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244909",
+  "text_sha256": "32bc8bc29506066db7c73cdec1cdb81aa6f3711b3299b9763ba3c009a1fb098c",
+  "catalogue_sha256": "32bc8bc29506066db7c73cdec1cdb81aa6f3711b3299b9763ba3c009a1fb098c",
+  "fetched": "2026-11-03T15:27:24Z",
+  "chars": 38877,
+  "portal_id": "244909",
+  "tip": "DECIZIE"
+ }
+}
