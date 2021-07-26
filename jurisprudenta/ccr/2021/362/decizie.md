@@ -1,0 +1,43 @@
+# DECIZIA nr. 362 din 3 iunie 2021
+referitoare la excepția de neconstituționalitate a prevederilor art. 183 alin. (1) și (3) din Codul de procedură civilă
+Valer Dorneanu - președinte
+Cristian Deliorga - judecător
+Marian Enache - judecător
+Daniel Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Varga Attila - judecător
+Irina Loredana Gulie - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Liviu Drăgănescu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a prevederilor art. 183 alin. (1) și (3) din Codul de procedură civilă, excepție ridicată de Maria Roșu în Dosarul nr. 9.764/233/2016 al Tribunalului Galați - Secția I civilă și care formează obiectul Dosarului Curții Constituționale nr. 1.083D/2019.
+2. La apelul nominal lipsesc părțile. Procedura de citare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care pune concluzii de respingere a excepției ca neîntemeiată, invocând jurisprudența Curții Constituționale în materie.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 11 aprilie 2019, pronunțată în Dosarul nr. 9.764/233/2016, Tribunalul Galați - Secția I civilă a sesizat Curtea Constituțională cu excepția de neconstituționalitate a prevederilor art. 183 alin. (1) și (3) din Codul de procedură civilă. Excepția a fost invocată într-o cauză având ca obiect soluționarea apelului declarat împotriva Sentinței civile nr. 553 din 30 ianuarie 2018, pronunțată de Judecătoria Galați într-un litigiu având ca obiect reducțiunea liberalităților excesive.
+5. În motivarea excepției de neconstituționalitate se arată, în esență, că, potrivit textului de lege criticat, actul de procedură depus înăuntrul termenului prevăzut de lege prin scrisoare recomandată la oficiul poștal este socotit a fi făcut în termen, iar recipisa oficiului poștal servește ca dovadă a datei depunerii actului de către partea interesată. Per a contrario, potrivit textului de lege criticat, actul de procedură, deși este depus înăuntrul termenului prevăzut de lege, nu este socotit a fi făcut în termen, dacă natura trimiterii este scrisoarea simplă, care nu poartă recipisa oficiului poștal. În speță, cererea de apel a fost expediată prin scrisoare simplă în ultima zi a termenului legal, fiind înregistrată la instanța de apel a două zi după expirarea termenului de apel.
+6. Se susține că o astfel de redactare a textului de lege criticat conduce la imposibilitatea de a dovedi data depunerii scrisorii la oficiul poștal, ceea ce generează tratamente discriminatorii între justițiabili aflați în aceeași situație juridică, fără a exista o justificare obiectivă sau rezonabilă. De asemenea, se mai susține că, dacă legiuitorul a considerat că recipisa oficiului poștal, aplicată pe scrisoarea recomandată, servește ca dovadă a datei depunerii actului de către partea interesată, atunci și scrisoarea simplă, pe care este aplicată data poștei, ar trebui să constituie o dovadă în același sens.
+7. Tribunalul Galați - Secția I civilă apreciază că excepția de neconstituționalitate este neîntemeiată. În acest sens apreciază că justițiabilii care depun actul de procedură în interiorul termenului prevăzut de lege prin scrisoare recomandată la oficiul poștal, cărora li se va socoti actul de procedură ca fiind depus în termen, indiferent de data înregistrării acestuia la instanță, și cei care, deși depun actul de procedură la oficiul poștal în ultima zi a termenului prevăzut de lege, nu înțeleg să opteze pentru modalitatea scrisorii recomandate se află în situații juridice diferite, aspect ce justifică tratamentul juridic diferit aplicat de legiuitor, tratament care este și consecința opțiunii personale de a expedia actul prin scrisoare simplă.
+8. De asemenea, se mai apreciază că, în condițiile în care toți justițiabilii au posibilitatea de a depune actul de procedură prin scrisoare recomandată, textul de lege criticat nu îngrădește în niciun fel accesul liber la justiție sau dreptul persoanei la un proces echitabil.
+9. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate invocate.
+10. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, republicată, reține următoarele:
+11. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, republicată, să soluționeze excepția de neconstituționalitate.
+12. Obiectul excepției de neconstituționalitate îl constituie prevederile art. 183 alin. (1) și (3) din Codul de procedură civilă, potrivit cărora:
+(1) Actul de procedură depus înăuntrul termenului prevăzut de lege prin scrisoare recomandată la oficiul poștal sau depus la un serviciu de curierat rapid ori la un serviciu specializat de comunicare este socotit a fi făcut în termen. (...)
+(3) În cazurile prevăzute la alin. (1) și (2), recipisa oficiului poștal, precum și înregistrarea ori atestarea făcută, după caz, de serviciul de curierat rapid, de serviciul specializat de comunicare, de unitatea militară sau de administrația locului de deținere, pe actul depus, servesc ca dovadă a datei depunerii actului de către partea interesată.“
+13. În opinia autoarei excepției de neconstituționalitate, prevederile legale criticate contravin dispozițiilor constituționale cuprinse în art. 16 alin. (1) privind egalitatea în drepturi, art. 20 - Tratatele internaționale privind drepturile omului și art. 21 - Accesul liber la justiție. De asemenea, se mai invocă dispozițiile art. 6 paragraful 1, referitor la dreptul la un proces echitabil, cuprins în Convenția pentru apărarea drepturilor omului și a libertăților fundamentale.
+14. Examinând excepția de neconstituționalitate, Curtea reține că autoarea acesteia susține, în esență, că, prin neincluderea modalității de trimitere a actului procedural prin scrisoare simplă, pe lângă scrisoarea recomandată, textul de lege criticat contravine principiilor constituționale ale egalității în drepturi și liberului acces la justiție.
+15. Or, astfel cum sunt formulate, criticile de neconstituționalitate vizează, în realitate, completarea acestor dispoziții legale. Prin urmare, motivarea excepției de neconstituționalitate vizează, în fapt, o omisiune de reglementare, fără relevanță constituțională, dat fiind faptul că tinde la includerea în textul de lege criticat a unei alte modalități de trimitere a actului procedural, aspect care, în temeiul art. 2 alin. (3) din Legea nr. 47/1992, nu poate fi suplinit în cadrul controlului de constituționalitate. În temeiul art. 61 alin. (1) din Constituție, modificarea sau completarea normelor juridice sunt atribuții exclusive ale Parlamentului (a se vedea, în acest sens, Decizia nr. 103 din 28 februarie 2019, publicată în Monitorul Oficial al României, Partea I, nr. 439 din 3 iunie 2019, paragrafele 18 și 19).
+16. Prin urmare, având în vedere prevederile art. 2 alin. (3) din Legea nr. 47/1992, potrivit cărora instanța de contencios constituțional se pronunță numai asupra constituționalității prevederii de lege cu care a fost sesizată, excepția de neconstituționalitate urmează să fie respinsă ca inadmisibilă.
+17. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 183 alin. (1) și (3) din Codul de procedură civilă, excepție ridicată de Maria Roșu în Dosarul nr. 9.764/233/2016 al Tribunalului Galați - Secția I civilă.
+Definitivă și general obligatorie.
+Decizia se comunică Tribunalului Galați - Secția I civilă și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 3 iunie 2021.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE prof. univ. dr. VALER DORNEANU
+Magistrat-asistent,
+Irina Loredana Gulie
