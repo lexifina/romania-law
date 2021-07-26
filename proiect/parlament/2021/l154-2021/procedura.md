@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
 - 2021-07-23: promulgated, becomes Legea nr. 221/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-23: Decret de promulgare (DP): [dp-532b82d0.md](dp-532b82d0.md); official file https://www.senat.ro/legis/PDF/2021/21L154DP.PDF
 - 2021-07-23: Adresă privind forma promulgată (AFP): [afp-7bbbea5e.md](afp-7bbbea5e.md); official file https://www.senat.ro/legis/PDF/2021/21L154AFP.PDF
 - 2021-07-23: Forma promulgată (FP): [fp-5ac64242.md](fp-5ac64242.md); official file https://www.senat.ro/legis/PDF/2021/21L154FP.PDF
+- 2021-07-26: Document (AA): [aa-180336db.md](aa-180336db.md); official file https://www.senat.ro/legis/PDF/2021/21L154AA.PDF (its day is not given by the bill file: shown from the last stage held)
