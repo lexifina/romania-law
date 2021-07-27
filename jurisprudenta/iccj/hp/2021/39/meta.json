@@ -1,0 +1,150 @@
+{
+ "key": "iccj-hp-39-2021",
+ "label": "Decizia ÎCCJ nr. 39/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "39",
+ "date": "2021-06-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 39 din 7 iunie 2021",
+ "subtitle": "referitoare la interpretarea a dispozițiilor art. 906 alin. (4) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "733",
+  "bis": false,
+  "date": "2021-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "861/1/2021",
+  "9.487/196/2020",
+  "17.317/196/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Brăila - Secția I civilă în Dosarul nr. 9.487/196/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Modul de interpretare a dispozițiilor art. 906 alin. (4) din Codul de procedură civilă, respectiv să se stabilească dacă creditorul poate solicita fixarea sumei definitive ce i se datorează de către debitor cu titlu de penalități și în ipoteza în care debitorul execută obligația în mai puțin de 3 luni de la data comunicării încheierii pronunțate în baza alin. (2) sau (3) a art. 906 din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4",
+      "2",
+      "5",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244945",
+  "text_sha256": "57b5ff554ed90f0517e05aacb19bd42409fc74d14f56ae38f474799c044803c5",
+  "catalogue_sha256": "57b5ff554ed90f0517e05aacb19bd42409fc74d14f56ae38f474799c044803c5",
+  "fetched": "2026-11-03T01:43:12Z",
+  "chars": 42235,
+  "portal_id": "244945",
+  "tip": "DECIZIE"
+ }
+}
