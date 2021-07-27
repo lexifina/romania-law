@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-30: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
 - 2021-07-23: promulgated, becomes Legea nr. 225/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-23: Decret de promulgare (DP): [dp-010d20e8.md](dp-010d20e8.md); official file https://www.senat.ro/legis/PDF/2018/18L102DP.PDF
 - 2021-07-23: Adresă privind forma promulgată (AFP): [afp-09ba27d1.md](afp-09ba27d1.md); official file https://www.senat.ro/legis/PDF/2018/18L102AFP.PDF
 - 2021-07-23: Forma promulgată (FP): [fp-30a08791.md](fp-30a08791.md); official file https://www.senat.ro/legis/PDF/2018/18L102FP.PDF
+- 2021-07-27: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L102AA.PDF (its day is not given by the bill file: shown from the last stage held)
