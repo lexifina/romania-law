@@ -1,0 +1,152 @@
+{
+ "key": "iccj-hp-45-2021",
+ "label": "Decizia ÎCCJ nr. 45/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "45",
+ "date": "2021-06-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 45 din 7 iunie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 50 alin. (1) din Ordonanța Guvernului nr. 39/2005 privind cinematografia",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "735",
+  "bis": false,
+  "date": "2021-07-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "932/1/2021",
+  "971/2/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, în Dosarul nr. 971/2/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "1. În interpretarea și aplicarea art. 50 alin. (1) din Ordonanța Guvernului nr. 39/2005 privind cinematografia, noțiunea de «nerespectarea procedurilor prevăzute de prezenta ordonanță privind acordarea creditului direct pentru producție» trebuie interpretată în sensul în care Comisia de soluționare a contestațiilor constituită în cadrul Ministerului Culturii are atribuția de a reevalua scenariile proiectelor cinematografice?",
+  "2. Art. 50 alin. (1) din Ordonanța Guvernului nr. 39/2005 privind cinematografia se poate interpreta în sensul în care participanții la Concursul de selecție a proiectelor cinematografice organizat de Centrul Național al Cinematografiei au deschisă calea contestației în ceea ce privește evaluarea propriu-zisă a proiectelor cinematografice (calitate scenariu, calitate regizor, calitate producător)?",
+  "3. Art. 50 din Ordonanța Guvernului nr. 39/2005 privind cinematografia poate fi interpretat în sensul în care Comisia de soluționare a contestațiilor din cadrul Ministerului Culturii are atribuția de a reevalua scenariile proiectelor cinematografice înscrise în concurs?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 39/2005",
+    "number": "39",
+    "year": "2005",
+    "path": "og/2005/39"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-07-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244962",
+  "text_sha256": "d2ba73997672272083b7024123e05dfa2d203a19ecd5c508594540b9b22644da",
+  "catalogue_sha256": "d2ba73997672272083b7024123e05dfa2d203a19ecd5c508594540b9b22644da",
+  "fetched": "2026-11-06T03:58:58Z",
+  "chars": 33282,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/244962",
+   "timestamp": "20260219103144",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395866930.93/warc/CC-MAIN-20260219082733-20260219112733-00853.warc.gz",
+   "offset": "275839446",
+   "length": "29791",
+   "sha256": "e3b3b34d9027ee3e2e29dfe1e429eecd5df693ec0890c4859d910fdec3e2b198"
+  },
+  "portal_id": "244962",
+  "tip": "DECIZIE"
+ }
+}
