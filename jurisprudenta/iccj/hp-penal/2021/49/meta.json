@@ -1,0 +1,205 @@
+{
+ "key": "iccj-hp-penal-49-2021",
+ "label": "Decizia ÎCCJ nr. 49/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "49",
+ "date": "2021-06-09",
+ "year": "2021",
+ "heading": "DECIZIA nr. 49 din 9 iunie 2021",
+ "subtitle": "referitoare la interpretarea art. 37 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "737",
+  "bis": false,
+  "date": "2021-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "860/1/2021",
+  "3.835/308/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie, în Dosarul nr. 3.835/308/2019, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea de principiu a următoarelor chestiuni de drept:",
+  "1. Aplicarea art. 37 din Codul penal are ca efect desființarea sentinței penale anterioare de condamnare pentru o parte din actele materiale ce intră în cuprinsul infracțiunii continuate, iar în caz afirmativ această desființare se impune a fi făcută în integralitatea sa, atât pe latură penală, cât și pe latură civilă?",
+  "2. În aplicarea art. 37 din Codul penal, termenul de supraveghere stabilit potrivit art. 92 din Codul penal se calculează de la data rămânerii definitive a hotărârii anterioare care este desființată sau de la data rămânerii definitive a hotărârii prin care se pronunță o soluție cu privire la infracțiunea în întregul său?",
+  "3. Obligația referitoare la munca în folosul comunității stabilită potrivit art. 93 alin. (3) din Codul penal prin hotărârea anterioară care se desființează se deduce dintr-o eventuală obligație de aceeași natură stabilită în cauza în care se judecă infracțiunea în integralitatea sa?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "1",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/244980",
+  "text_sha256": "c069c275d45b7e1c3c3abe432cf27be928e6488b47cf84e3ee05118c85008523",
+  "catalogue_sha256": "c069c275d45b7e1c3c3abe432cf27be928e6488b47cf84e3ee05118c85008523",
+  "fetched": "2026-11-03T01:43:08Z",
+  "chars": 58290,
+  "portal_id": "244980",
+  "tip": "DECIZIE"
+ }
+}
