@@ -1,0 +1,9 @@
+# HCL Castelu nr. 55/2021
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Castelu
+- Decision: nr. 55/2021
+- Adopted: 2021-07-28
+- Title: PRIVIND APROBAREA MODIFICĂRII HOTĂRÂRII CONSILIULUI LOCAL NR.40 DIN 16.06.2020 PRIVIND APROBAREA VALORII DE INVESTITIE A PROIECTULUI „AMENAJAREA UNUI SPATIU PUBLIC DE RECREERE PENTRU POPULATIA RURALA IN SAT NISIPARI, COMUNA CASTELU, JUDETUL CONSTANTA” SI SOLICITAREA SCRISORII DE GARANTIE DIN PARTEA FONDULUI NATIONAL DE GARANTARE A CREDITELOR PENTRU IMM, PRECUM SI APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI AFERENT PROIECTULUI
+- Record: https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#982
