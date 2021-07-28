@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-07-05: sent for promulgation
 - 2021-07-23: promulgated, becomes Legea nr. 219/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-07-28: published in the Monitorul Oficial
 
 ## Documents
 
