@@ -1,0 +1,22 @@
+# Proiect de lege L307/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 344/2022 (`legea-344-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.84/2021 pentru abrogarea art.72 alin.(1) din Ordonanța de urgență a Guvernului nr.70/2020 privind reglementarea unor măsuri, începând cu data de 15 mai 2020, în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, pentru prelungirea unor termene, pentru modificarea și completarea Legii nr.227/2015 privind Codul fiscal, a Legii educației naționale nr.1/2011, precum și a altor acte normative
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-08-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-08-06: Adresă de înaintare a inițiativei (AD): [ad-ca15438d.md](ad-ca15438d.md); official file https://www.senat.ro/legis/PDF/2021/21L307AD.PDF
+- 2021-08-06: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L307FG.PDF
+- 2021-08-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L307EM.PDF
+- 2021-08-06: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L307LG.PDF
+- 2021-08-06: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L307OG.PDF
+- 2021-08-06: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L307HG.PDF
