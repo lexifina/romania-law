@@ -1,0 +1,267 @@
+{
+ "key": "dcc-370-2021",
+ "label": "Decizia CCR nr. 370/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "370",
+ "date": "2021-06-03",
+ "year": "2021",
+ "heading": "DECIZIA nr. 370 din 3 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 169 alin. (1) lit. d) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "771",
+  "bis": false,
+  "date": "2021-08-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.403/99/2015/a1",
+  "1.210D/2018",
+  "1.674D/2018",
+  "5.181/3/2017/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gabriel Rusu în Dosarul nr. 8.403/99/2015/a1 al Tribunalului Iași - Secția a II-a civilă - Faliment, precum și de către Mircea Alexandru Georgescu și Levente Benko în Dosarul nr. 5.181/3/2017/a1 al Tribunalului București - Secția a VII-a civilă și constată că prevederile art. 169 alin. (1) lit. d) din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Iași - Secția a II-a civilă - Faliment și Tribunalului București - Secția a VII-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilității nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "241",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-08-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245247",
+  "text_sha256": "f177813af15cc3bd23184e238c67b42481029d1aaf49fe0e8eb13fa67bce24cb",
+  "catalogue_sha256": "f177813af15cc3bd23184e238c67b42481029d1aaf49fe0e8eb13fa67bce24cb",
+  "fetched": "2026-11-06T02:11:42Z",
+  "chars": 30659,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406002813/https://legislatie.just.ro/Public/DetaliiDocumentAfis/245247",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245247",
+   "timestamp": "20250406002813",
+   "sha256": "51af036d11c620d44b987f11c7579591c01b4a350a030fbf280de8bda8d0f899"
+  },
+  "portal_id": "245247",
+  "tip": "DECIZIE"
+ }
+}
