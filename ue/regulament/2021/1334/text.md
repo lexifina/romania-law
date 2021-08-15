@@ -1,0 +1,35 @@
+REGULAMENTUL DELEGAT (UE) 2021/1334 AL COMISIEI
+din 27 mai 2021
+de modificare a Regulamentului (UE) 2019/787 al Parlamentului European și al Consiliului în ceea ce privește aluziile la denumirile legale ale băuturilor spirtoase sau la indicațiile geografice ale băuturilor spirtoase în descrierea, prezentarea și etichetarea altor băuturi spirtoase
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2019/787 al Parlamentului European și al Consiliului din 17 aprilie 2019 privind definirea, descrierea, prezentarea și etichetarea băuturilor spirtoase, utilizarea denumirilor băuturilor spirtoase în prezentarea și etichetarea altor produse alimentare, protecția indicațiilor geografice ale băuturilor spirtoase, utilizarea alcoolului etilic și a distilatelor de origine agricolă în băuturile alcoolice, și de abrogare a Regulamentului (CE) nr. 110/2008 (1), în special articolul 50 alineatul (3),
+întrucât:
+(1) Articolul 12 alineatul (4) din Regulamentul (UE) 2019/787 stabilește norme privind modul de afișare a aluziilor la denumirea legală a categoriilor de băuturi spirtoase sau la indicațiile geografice ale băuturilor spirtoase în prezentarea și etichetarea băuturilor alcoolice.
+(2) Articolul 12 alineatul (4) din Regulamentul (UE) 2019/787 nu impune ca denumirea băuturii alcoolice rezultate să fie afișată în același câmp vizual ca aluzia. În cazul în care denumirea băuturii alcoolice apare într-un câmp vizual diferit de cel al aluziei, consumatorii pot fi totuși determinați să considere că aluzia face parte din denumirea băuturii alcoolice, în special în cazurile în care băutura alcoolică rezultată este o băutură spirtoasă.
+(3) În plus, în anumite cazuri, o astfel de aluzie poate utiliza abuziv și în mod nejustificat reputația categoriilor de băuturi spirtoase sau a indicațiilor geografice care, atunci când sunt combinate cu alte produse alimentare care nu sunt necesare sau permise în procesul de producție, nu mai au aceeași natură și nu mai pot fi etichetate ca atare. Afișarea acestor denumiri într-un mod proeminent în prezentarea și etichetarea băuturii spirtoase care face aluzie la acestea poate conduce astfel la însușirea ilegală a reputației lor.
+(4) Articolul 7 alineatul (1) litera (a) din Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului (2) prevede că informațiile referitoare la produsele alimentare nu trebuie să inducă în eroare, în special în ceea ce privește natura și identitatea produsului alimentar. Articolul 9 din regulamentul respectiv prevede că trebuie furnizate informații obligatorii referitoare la produsele alimentare, inclusiv denumirea produsului alimentar, iar articolul 13 din regulamentul respectiv prevede că informațiile obligatorii sunt amplasate într-un loc evident, astfel încât să fie ușor vizibile, lizibile și, după caz, indelebile.
+(5) În conformitate cu articolul 9 din Regulamentul (UE) 2019/787, cerințele de prezentare și etichetare stabilite în Regulamentul (UE) nr. 1169/2011 se aplică băuturilor alcoolice care rezultă din combinarea băuturilor spirtoase cu alte produse alimentare. Pentru a se asigura că cerințele respective sunt îndeplinite în modul cel mai convenabil, în special în cazul băuturilor spirtoase care fac aluzie la alte băuturi spirtoase, este oportun să se solicite ca denumirea legală a băuturii spirtoase rezultate să fie afișată în același câmp vizual ca aluzia la o băutură spirtoasă. Acest lucru trebuie să se întâmple de fiecare dată când aluzia este indicată în descrierea, prezentarea sau etichetarea unei băuturi spirtoase. Acest lucru va preveni practicile înșelătoare și va asigura informarea corespunzătoare a consumatorilor cu privire la natura reală a băuturii spirtoase care rezultă din combinarea băuturilor spirtoase cu alte produse alimentare.
+(6) Prin urmare, Regulamentul (UE) 2019/787 trebuie să fie modificat în consecință.
+(7) Trebuie prevăzută o perioadă de tranziție pentru aplicarea dispozițiilor privind etichetarea prevăzute în prezentul regulament, pentru a permite ca băuturile spirtoase etichetate înainte de 31 decembrie 2022 în conformitate cu dispozițiile Regulamentului (CE) nr. 110/2008 al Parlamentului European și al Consiliului (3) să continue să fie introduse pe piață, fără a fi necesară reetichetarea lor.
+(8) În conformitate cu articolul 51 alineatul (3) din Regulamentul (UE) 2019/787 și pentru a se evita orice vid normativ, prezentul regulament trebuie să se aplice retroactiv, de la 25 mai 2021,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+La articolul 12 din Regulamentul (UE) 2019/787, alineatul (4) se înlocuiește cu următorul text:
+„(4) Aluziile menționate la alineatele (2) și (3):
+(a) nu se afișează pe același rând cu denumirea băuturii alcoolice;
+(b) se scriu cu caractere a căror dimensiune nu depășește jumătate din dimensiunea caracterelor utilizate pentru denumirea băuturii alcoolice și, în cazul în care sunt utilizați termeni compuși, cu caractere a căror dimensiune nu depășește jumătate din dimensiunea caracterelor utilizate pentru acești termeni compuși în conformitate cu articolul 11 alineatul (3) litera (c) și
+(c) în cazul aluziilor din descrierea, prezentarea și etichetarea băuturilor spirtoase, acestea sunt însoțite întotdeauna de denumirea legală a băuturii spirtoase, care apare în același câmp vizual ca aluzia.”
+Articolul 2
+Băuturile spirtoase care nu îndeplinesc cerințele prevăzute la articolul 12 alineatul (4) litera (c) din Regulamentul (UE) 2019/787, astfel cum a fost modificat prin prezentul regulament, dar care îndeplinesc cerințele din Regulamentul (CE) nr. 110/2008 și care au fost etichetate înainte de 31 decembrie 2022 pot fi introduse în continuare pe piață până la epuizarea stocurilor.
+Articolul 3
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 25 mai 2021.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 27 mai 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 130, 17.5.2019, p. 1.
+(2) Regulamentul (UE) nr. 1169/2011 al Parlamentului European și al Consiliului din 25 octombrie 2011 privind informarea consumatorilor cu privire la produsele alimentare, de modificare a Regulamentelor (CE) nr. 1924/2006 și (CE) nr. 1925/2006 ale Parlamentului European și ale Consiliului și de abrogare a Directivei 87/250/CEE a Comisiei, a Directivei 90/496/CEE a Consiliului, a Directivei 1999/10/CE a Comisiei, a Directivei 2000/13/CE a Parlamentului European și a Consiliului, a Directivelor 2002/67/CE și 2008/5/CE ale Comisiei și a Regulamentului (CE) nr. 608/2004 al Comisiei (JO L 304, 22.11.2011, p. 18).
+(3) Regulamentul (CE) nr. 110/2008 al Parlamentului European și al Consiliului din 15 ianuarie 2008 privind definirea, desemnarea, prezentarea, etichetarea și protecția indicațiilor geografice ale băuturilor spirtoase și de abrogare a Regulamentului (CEE) nr. 1576/89 al Consiliului (JO L 39, 13.2.2008, p. 16).
