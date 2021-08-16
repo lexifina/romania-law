@@ -1,0 +1,178 @@
+{
+ "key": "dcc-266-2021",
+ "label": "Decizia CCR nr. 266/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "266",
+ "date": "2021-04-22",
+ "year": "2021",
+ "heading": "DECIZIA nr. 266 din 22 aprilie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 3 alin. (1^1) și ale art. 8 alin. (1^1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "785",
+  "bis": false,
+  "date": "2021-08-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.716/254/2017",
+  "1.135D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea SIR IMPEX - S.R.L., cu sediul în localitatea Neptun, județul Constanța, în Dosarul nr. 1.716/254/2017 al Judecătoriei Mangalia și constată că prevederile art. 3 alin. (1^1) și ale art. 8 alin. (1^1) din Ordonanța Guvernului nr. 15/2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Mangalia și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 15/2002",
+    "number": "15",
+    "year": "2002",
+    "path": "og/2002/15"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-08-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245345",
+  "text_sha256": "d7e6558c039e2c54f6f2bf69f52186df1e6be4a8bd19b85ccd9bd183cfe5b02c",
+  "catalogue_sha256": "d7e6558c039e2c54f6f2bf69f52186df1e6be4a8bd19b85ccd9bd183cfe5b02c",
+  "fetched": "2026-11-03T01:42:46Z",
+  "chars": 19908,
+  "portal_id": "245345",
+  "tip": "DECIZIE"
+ }
+}
