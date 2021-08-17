@@ -1,0 +1,29 @@
+# Anexa 5
+Anexa nr. 5
+la procedură
+MINISTERUL AGRICULTURII ȘI DEZVOLTĂRII RURALE
+Agenția Națională a Zonei Montane
+Oficiul de Dezvoltare Montană ...............................
+PROCES-VERBAL DE CONSTATARE
+nr. ............. din data de ....................
+privind verificarea realității datelor înscrise în documentația pentru acordarea dreptului de utilizare a mențiunii „produs montan“
+1.
+Obiectul controlului: verificarea realității datelor înscrise în documentația depusă la Agenția Națională a Zonei Montane, conform anexei nr. 1 la Procedura de verificare a conformității datelor cuprinse în caietul de sarcini în vederea acordării dreptului de utilizare a mențiunii de calitate facultative „produs montan“ și de realizare a controlului în vederea verificării respectării legislației europene și naționale de către operatorii economici care au obținut dreptul de utilizare a respectivei mențiuni, aprobată prin Ordinul ministrului agriculturii și dezvoltării rurale nr. 174/2021 .
+2.
+Subsemnatul/Subsemnata, ..............................., posesor/posesoare al/a Legitimației nr. ........., eliberată de Agenția Națională a Zonei Montane, în urma verificării realității datelor cuprinse în caietul de sarcini pentru acordarea dreptului de utilizare a mențiunii „produs montan“ pentru produsul/produsele .................., fabricat(e) de ....
+3.
+Solicitantul .................................................., înmatriculat în registrul comerțului cu nr. ..............., cod unic de înregistrare ........................., nr. de înregistrare în Registrul asociațiilor și fundațiilor ......................., Atestat de producător nr. ............/.........., adresa sediului .........................../tel. ............../fax ................., cu unitatea (filială, punct de lucru), adresa: ..............................., reprezentat legal de domnul/ doamna ....................., posesor/posesoare al/a actului de identitate ...... seria ....... nr. ..........., eliberat de .................... la data de ..................., CNP ................................., am constatat următoarele: – unitatea de producție/locul de producție îndeplinește/nu îndeplinește condițiile pentru acordarea dreptului de utilizare a mențiunii „produs montan“. (Se vor menționa distinct motivele acordării/neacordării dreptului de utilizare a mențiunii „produs montan“.)
+..........................................................
+........................................................
+4.
+Măsuri stabilite în baza constatării unor neconcordanțe și termenul finalizării lor: ......................................................
+.....................................................
+Oficiul de dezvoltare montană ...........................................
+Numele, prenumele reprezentantului
+….....................................………………..
+Funcția
+…………………..........…..
+(semnătura)
+Operatorul economic sau reprezentantul împuternicit
+………………..….............................
+(semnătura)
