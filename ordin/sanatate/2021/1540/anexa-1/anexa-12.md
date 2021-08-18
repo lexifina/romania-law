@@ -1,0 +1,9 @@
+# ANEXA nr. 2 la formularul de cerere de prelungire a autorizației
+Declarație privitoare la punerea unui medicament pe piață în România în baza autorizației menționate
+Numele medicamentului, forma farmaceutică și concentrația:
+Subsemnatul, deținător propus al prelungirii autorizației de punere pe piață, declar prin prezenta că: - medicamentul care urmează a fi pus pe piața din România în baza respectivei autorizații, la orice moment al perioadei de valabilitate a prelungirii autorizației în cauză, este identic cu cel autorizat pentru punerea pe piața din.........(stat membru al) (statul membru de origine)............ în baza autorizației de punere pe piață din statul membru respectiv;
+- sunt pe deplin conștient de obligațiile care îmi revin conform prevederilor Legii 95/2006, republicată, cu modificările și completările ulterioare, și îmi asum îndeplinirea acestora și respectarea termenilor și condițiilor prezentei autorizații.
+..............................
+Data...................................................................................................................
+Numele (majuscule) deținătorului propus al autorizației de punere pe piață..................................................................................................................
+Semnătura deținătorului propus al autorizației de punere pe piață
