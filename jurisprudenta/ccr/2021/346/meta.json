@@ -1,0 +1,205 @@
+{
+ "key": "dcc-346-2021",
+ "label": "Decizia CCR nr. 346/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "346",
+ "date": "2021-05-20",
+ "year": "2021",
+ "heading": "DECIZIA nr. 346 din 20 mai 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 6 alin. (2) din Ordonanța de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "792",
+  "bis": false,
+  "date": "2021-08-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "6.133/193/2017",
+  "109D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 74/2013",
+    "number": "74",
+    "year": "2013",
+    "path": "oug/2013/74"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 6 alin. (2) din Ordonanța de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative, excepție ridicată de Marius-Gabriel Bejenariu în Dosarul nr. 6.133/193/2017 al Judecătoriei Oradea - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Oradea - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 74/2013",
+    "number": "74",
+    "year": "2013",
+    "path": "oug/2013/74"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-08-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245375",
+  "text_sha256": "000d1eebcf2f0fdac3fd4d8b11c3c91203223b6d3febfa1a7f6954e02db16a26",
+  "catalogue_sha256": "000d1eebcf2f0fdac3fd4d8b11c3c91203223b6d3febfa1a7f6954e02db16a26",
+  "fetched": "2026-11-03T01:42:44Z",
+  "chars": 18303,
+  "portal_id": "245375",
+  "tip": "DECIZIE"
+ }
+}
