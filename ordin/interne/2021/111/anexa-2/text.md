@@ -1,0 +1,2 @@
+# Anexa nr. 2
+REGULAMENT de organizare și funcționare a comisiei de sprijin familial prevăzute la art. 64 din Normele de aplicare în Ministerul Afacerilor Interne a Legii nr. 168/2020 pentru recunoașterea meritelor personalului participant la acțiuni militare, misiuni și operații pe teritoriul sau în afara teritoriului statului român și acordarea unor drepturi acestuia, familiei acestuia și urmașilor celui decedat, aprobate prin Ordinul ministrului afacerilor interne nr. 48/2021
