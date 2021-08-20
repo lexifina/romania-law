@@ -1,0 +1,198 @@
+{
+ "key": "dcc-453-2021",
+ "label": "Decizia CCR nr. 453/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "453",
+ "date": "2021-06-29",
+ "year": "2021",
+ "heading": "DECIZIA nr. 453 din 29 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 169^1 alin. (3) teza finală din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu referire la sintagma \"stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații\", în interpretarea dată prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "803",
+  "bis": false,
+  "date": "2021-08-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "528/97/2018",
+  "1.187D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Petru Ungureanu, Gheorghe Cardoș, Constantin Răucescu, Deak Csaba, Constantin Palaghiu, Nuță Calotă, Nicolae Șoica, Constantin Alecsa, Mihai Szechei și, respectiv, de Sorin Ioan Ciocan în dosarele nr. 528/97/2018, nr. 426/97/2018, nr. 662/97/2018, nr. 416/97/2018, nr. 601/97/2018, nr. 455/97/2018, nr. 457/97/2018, nr. 917/97/2018, nr. 1.808/97/2018 și, respectiv, nr. 1.057/97/2018 ale Curții de Apel Alba Iulia - Secția I civilă și constată că prevederile art. 169^1 alin. (3) teza finală din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu referire la sintagma „stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații“, în interpretarea dată prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, sunt constituționale în raport cu criticile de neconstituționalitate formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Alba Iulia - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 291/2017",
+    "number": "291",
+    "year": "2017",
+    "path": "hg/2017/291"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2015",
+    "number": "192",
+    "year": "2015",
+    "path": "lege/2015/192"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-08-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245426",
+  "text_sha256": "0ac23db34df753ad9de0fe853aa05ea422cdc3d9e785f45c5cd720cac2c0d784",
+  "catalogue_sha256": "0ac23db34df753ad9de0fe853aa05ea422cdc3d9e785f45c5cd720cac2c0d784",
+  "fetched": "2026-11-03T01:42:39Z",
+  "chars": 20786,
+  "portal_id": "245426",
+  "tip": "DECIZIE"
+ }
+}
