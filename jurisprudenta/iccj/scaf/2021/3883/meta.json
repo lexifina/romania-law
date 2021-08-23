@@ -1,0 +1,288 @@
+{
+ "key": "iccj-scaf-3883-2021",
+ "label": "Decizia ÎCCJ nr. 3883/2021 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3883",
+ "date": "2021-07-20",
+ "year": "2021",
+ "heading": "DECIZIA nr. 3.883 din 20 iulie 2021",
+ "subtitle": "referitoare la recursul declarat de recurentul-pârât Comitetul Național pentru Situații de Urgență prin reprezentant legal Departamentul pentru Situații de Urgență din Cadrul Ministerului Afacerilor Interne împotriva Sentinței civile nr. 1.076 din 1 iulie 2021 a Curții de Apel București - Secția a IX-a contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "805",
+  "bis": false,
+  "date": "2021-08-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.331/2/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepțiile invocate de intimatul-reclamant Secu Cristian Adrian prin întâmpinare, respectiv excepția nulității și excepția lipsei de interes în promovarea recursului.",
+  "Respinge recursul declarat de recurentul-pârât Comitetul Național pentru Situații de Urgență prin reprezentant legal Departamentul pentru Situații de Urgență din Cadrul Ministerului Afacerilor Interne împotriva Sentinței civile nr. 1.076 din 1 iulie 2021 a Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 63/2021",
+    "number": "63",
+    "year": "2021",
+    "path": "oug/2021/63"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "458",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2004",
+    "number": "21",
+    "year": "2004",
+    "path": "oug/2004/21"
+   },
+   "articles": [
+    {
+     "art": "8-1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-08-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245449",
+  "text_sha256": "d098a3a5fd34e9c66d549c9c8bfe6d92d1085bb2007aa5bb98929de9ca62b1c2",
+  "catalogue_sha256": "d098a3a5fd34e9c66d549c9c8bfe6d92d1085bb2007aa5bb98929de9ca62b1c2",
+  "fetched": "2026-11-03T01:42:38Z",
+  "chars": 38658,
+  "portal_id": "245449",
+  "tip": "DECIZIE"
+ }
+}
