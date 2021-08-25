@@ -1,0 +1,505 @@
+{
+ "key": "dcc-416-2021",
+ "label": "Decizia CCR nr. 416/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "416",
+ "date": "2021-06-10",
+ "year": "2021",
+ "heading": "DECIZIA nr. 416 din 10 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4^1, art. 4^2, art. 4^3, art. 4^4 și art. 4^5 din Ordonanța de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență și ale art. 3 și art. 8 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "814",
+  "bis": false,
+  "date": "2021-08-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.260/46/2020",
+  "403D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2004",
+    "number": "21",
+    "year": "2004",
+    "path": "oug/2004/21"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 4^1, art. 4^2, art. 4^3, art. 4^4 și art. 4^5 din Ordonanța de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență, excepție ridicată de Societatea Comercială MADI SUPER TOYS - S.R.L., Societatea Comercială MONACO LUNGE CAFFE - S.R.L., Societatea Comercială CLASIC MARKET - S.R.L., Societatea Comercială DAK COTYSO AKA - S.R.L., Societatea Comercială PIZZA CHEF STAR - S.R.L., Societatea Comercială POWER FORE EVER - S.R.L., Societatea Comercială DINO S FOOD SHOP - S.R.L. în Dosarul nr. 1.260/46/2020 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceleași autoare în același dosar al aceleiași instanțe și constată că dispozițiile art. 3 și art. 8 din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2004",
+    "number": "21",
+    "year": "2004",
+    "path": "oug/2004/21"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 68/2020",
+    "number": "68",
+    "year": "2020",
+    "path": "oug/2020/68"
+   },
+   "articles": [
+    {
+     "art": "4-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4-5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.065/2020",
+    "number": "1065",
+    "year": "2020",
+    "path": "hg/2020/1065"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 843/1999",
+    "number": "843",
+    "year": "1999",
+    "path": "hg/1999/843"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 58/1998",
+    "number": "58",
+    "year": "1998",
+    "path": "og/1998/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului agriculturii, pădurilor și dezvoltării rurale nr. 128/2006",
+    "number": "128",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 176/2010",
+    "number": "176",
+    "year": "2010",
+    "path": "lege/2010/176"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-08-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245494",
+  "text_sha256": "324a5d206a03122d3a97261b64568cb2bb68da85defaeaae84164a0b59d7bd21",
+  "catalogue_sha256": "324a5d206a03122d3a97261b64568cb2bb68da85defaeaae84164a0b59d7bd21",
+  "fetched": "2026-11-03T01:42:36Z",
+  "chars": 71090,
+  "portal_id": "245494",
+  "tip": "DECIZIE"
+ }
+}
