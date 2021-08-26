@@ -1,0 +1,22 @@
+# Proiect de lege L313/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 17/2023 (`legea-17-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.92/2021 privind regimul deșeurilor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-08-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-08-26: Adresă de înaintare a inițiativei (AD): [ad-62d835cf.md](ad-62d835cf.md); official file https://www.senat.ro/legis/PDF/2021/21L313AD.PDF
+- 2021-08-26: Forma inițiatorului (FG): [fg-5e8c1b00.md](fg-5e8c1b00.md); official file https://www.senat.ro/legis/PDF/2021/21L313FG.PDF
+- 2021-08-26: Expunere de motive (EM): [em-c0ccdad8.md](em-c0ccdad8.md); official file https://www.senat.ro/legis/PDF/2021/21L313EM.PDF
+- 2021-08-26: Aviz Consiliul Legislativ (LG): [lg-a8a01701.md](lg-a8a01701.md); official file https://www.senat.ro/legis/PDF/2021/21L313LG.PDF
+- 2021-08-26: Document (OG): [og-e9509251.md](og-e9509251.md); official file https://www.senat.ro/legis/PDF/2021/21L313OG.PDF
+- 2021-08-26: Document (HG): [hg-91337cc3.md](hg-91337cc3.md); official file https://www.senat.ro/legis/PDF/2021/21L313HG.PDF
