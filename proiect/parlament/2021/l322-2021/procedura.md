@@ -1,0 +1,22 @@
+# Proiect de lege L322/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 150/2025 (`legea-150-2025`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.6/2021 privind reducerea impactului anumitor produse din plastic asupra mediului
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-08-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-08-31: Adresă de înaintare a inițiativei (AD): [ad-8d65442e.md](ad-8d65442e.md); official file https://www.senat.ro/legis/PDF/2021/21L322AD.PDF
+- 2021-08-31: Forma inițiatorului (FG): [fg-5005c6f1.md](fg-5005c6f1.md); official file https://www.senat.ro/legis/PDF/2021/21L322FG.PDF
+- 2021-08-31: Expunere de motive (EM): [em-ef5bfdde.md](em-ef5bfdde.md); official file https://www.senat.ro/legis/PDF/2021/21L322EM.PDF
+- 2021-08-31: Aviz Consiliul Legislativ (LG): [lg-eabafeb7.md](lg-eabafeb7.md); official file https://www.senat.ro/legis/PDF/2021/21L322LG.PDF
+- 2021-08-31: Document (OG): [og-13c00c7e.md](og-13c00c7e.md); official file https://www.senat.ro/legis/PDF/2021/21L322OG.PDF
+- 2021-08-31: Document (HG): [hg-efd83ef3.md](hg-efd83ef3.md); official file https://www.senat.ro/legis/PDF/2021/21L322HG.PDF
