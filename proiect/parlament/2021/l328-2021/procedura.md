@@ -1,0 +1,22 @@
+# Proiect de lege L328/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 160/2022 (`legea-160-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.12/2021 privind completarea Ordonanței Guvernului nr.40/2006 pentru aprobarea și finanțarea programelor multianuale prioritare de mediu și gospodărire a apelor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-08-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-08-31: Adresă de înaintare a inițiativei (AD): [ad-f76521fa.md](ad-f76521fa.md); official file https://www.senat.ro/legis/PDF/2021/21L328AD.PDF
+- 2021-08-31: Forma inițiatorului (FG): [fg-cc00fe3c.md](fg-cc00fe3c.md); official file https://www.senat.ro/legis/PDF/2021/21L328FG.PDF
+- 2021-08-31: Expunere de motive (EM): [em-9446bf72.md](em-9446bf72.md); official file https://www.senat.ro/legis/PDF/2021/21L328EM.PDF
+- 2021-08-31: Aviz Consiliul Legislativ (LG): [lg-8a5870de.md](lg-8a5870de.md); official file https://www.senat.ro/legis/PDF/2021/21L328LG.PDF
+- 2021-08-31: Document (OG): [og-6e86e205.md](og-6e86e205.md); official file https://www.senat.ro/legis/PDF/2021/21L328OG.PDF
+- 2021-08-31: Document (HG): [hg-1664c548.md](hg-1664c548.md); official file https://www.senat.ro/legis/PDF/2021/21L328HG.PDF
