@@ -1,0 +1,20 @@
+# Proiect de lege L332/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.16/2021 pentru modificarea și completarea Ordonanței Guvernului nr.25/2001 privind înființarea Companiei Naționale de Investiții “C.N.I.” – S.A.
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-08-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-08-31: Adresă de înaintare a inițiativei (AD): [ad-9f968264.md](ad-9f968264.md); official file https://www.senat.ro/legis/PDF/2021/21L332AD.PDF
+- 2021-08-31: Forma inițiatorului (FG): [fg-75319a93.md](fg-75319a93.md); official file https://www.senat.ro/legis/PDF/2021/21L332FG.PDF
+- 2021-08-31: Expunere de motive (EM): [em-fe6f2df3.md](em-fe6f2df3.md); official file https://www.senat.ro/legis/PDF/2021/21L332EM.PDF
+- 2021-08-31: Aviz Consiliul Legislativ (LG): [lg-5783ab30.md](lg-5783ab30.md); official file https://www.senat.ro/legis/PDF/2021/21L332LG.PDF
+- 2021-08-31: Document (OG): [og-db020fb3.md](og-db020fb3.md); official file https://www.senat.ro/legis/PDF/2021/21L332OG.PDF
+- 2021-08-31: Document (HG): [hg-9d6eaecb.md](hg-9d6eaecb.md); official file https://www.senat.ro/legis/PDF/2021/21L332HG.PDF
