@@ -1,0 +1,49 @@
+# Anexa nr. 4
+Documente avizare intermediar principal
+Macheta nr. 1 - Dosarul de avizare A.
+Documente entitate: 1. cerere de obținere a avizului, conform machetei nr. 2;
+2. copia autorizației de funcționare emise de Banca Națională a României sau Autoritatea de Supraveghere Financiară;
+3. copie a hotărârii/deciziei de numire a conducerii executive, prevăzută la art. 2 alin. (1) pct. 9 lit. b) din Norma Autorității de Supraveghere Financiară nr. 22/2021 privind distribuția de asigurări;
+4. copie a regulamentului de organizare și funcționare, structura organizatorică, sistemul de guvernanță, cu precizarea răspunderilor și a limitelor de competență pentru conducerea executivă și angajații implicați în activitatea de distribuție;
+5. copie a contractului de asigurare de răspundere civilă profesională sau dovada existenței garanției echivalente, cu respectarea prevederilor art. 11 alin. (1) din Legea nr. 236/2018 privind distribuția de asigurări, cu completările ulterioare;
+6. declarație a conducerii definită la art. 3 alin. (1) pct. 4 din Legea nr. 236/2018 privind distribuția de asigurări, cu completările ulterioare, atestată potrivit legii sau autentificată de un notar public, conform machetei nr. 4 din anexa nr. 3 la Norma Autorității de Supraveghere Financiară nr. 22/2021;
+7. copie a documentului care atestă plata taxei de avizare în contul Autorității de Supraveghere Financiară.
+B.
+Documente conducere executivă: 1. certificate de cazier judiciar și fiscal, în termenul legal de valabilitate, în original;
+2. curriculum vitae în format Europass cu semnătură olografă;
+3. copie a actului de identitate, certificată de posesor prin semnătură olografă pentru conformitate cu originalul;
+4. copie legalizată a diplomei de studii superioare;
+5. documentarea experienței profesionale prevăzute la art. 13 alin. (1) lit. e) pct. (i) din Norma Autorității de Supraveghere Financiară nr. 22/2021 privind distribuția de asigurări;
+6. declarație pe propria răspundere a conducerii executive, atestată potrivit legii sau autentificată de un notar public, în original, conform machetei nr. 3;
+7. certificat sau adeverință conform prevederilor art. 13 alin. (1) lit. e) pct. (v) din Norma Autorității de Supraveghere Financiară nr. 22/2021 privind distribuția de asigurări sau, în cazul în care nu desfășoară activitate de distribuție, declarație pe proprie răspundere că nu desfășoară această activitate.
+Macheta nr. 2 - Cerere standard privind acordarea avizului ca intermediar principal^1 ^1 Se completează de către solicitant, instituția de credit sau firma de investiții, după caz.
+Data....................................
+1.
+Denumirea completă a persoanei juridice.......................................................................................................................
+2.
+Numărul de înmatriculare la Oficiul Național al Registrului Comerțului...........................................................................
+3.
+Codul unic de înregistrare...............................................................................................................................................
+4.
+Adresa sediului social......................................................................................................................................................
+5.
+Numărul de telefon fix și/sau mobil..................................................................................................................................
+6.
+Numărul de fax................................................................................................................................................................
+7.
+Adresa oficială de e-mail a persoanei juridice.................................................................................................................
+8.
+Numele și prenumele persoanelor din conducere prevăzute la art. 3 alin. (1) pct. 4 din Legea nr. 236/2018, cu completările ulterioare...................................................................
+9.
+Persoana din conducerea executivă (numele, prenumele, funcția, telefon și adresă e-mail)...........................................
+10.
+Opisul documentelor depuse................................
+Subsemnatul, propus pentru funcția de conducător al departamentului de distribuție,........................, în calitate de reprezentant legal al............................., cunoscând prevederile Codului penal privind falsul în declarații, declar pe propria răspundere că toate informațiile și documentele sunt complete și conforme cu realitatea și că nu există alte fapte relevante care trebuie aduse la cunoștința Autorității de Supraveghere Financiară.
+Numele și prenumele (cu majuscule)..............................................................
+Semnătura...........................................................................
+Macheta nr. 3 - Declarație conducere executivă Subsemnatul,.......................................(numele și prenumele), propus pentru funcția de/având funcția de^1............................... în cadrul conducerii executive la..............................................(denumirea entității^2), având calitatea de intermediar principal, declar că: ^1 Se completează și funcția deținută în cadrul entității.
+1. nu voi deține funcții în cadrul conducerii executive la o altă persoană juridică română sau străină după obținerea avizului de desfășurare a activității de distribuție ori după aprobarea de către Autoritatea de Supraveghere Financiară, precum și în timpul exercitării funcției la...................................................(denumirea entității^2); ^2 Se completează cu denumirea instituției de credit sau a firmei de investiții, după caz; documentația se transmite Autorității de Supraveghere Financiară într-un singur exemplar, în dosar cu paginile numerotate, însoțită de un opis.
+2. nu am fost sancționat cu retragerea aprobării de către o autoritate din România sau din străinătate însărcinată cu supravegherea în domeniul asigurărilor sau financiar în ultimii 5 ani.
+Subsemnatul,.........., cunoscând prevederile Codului penal privind falsul în declarații, declar pe propria răspundere că toate informațiile sunt complete și conforme cu realitatea și că nu există alte fapte relevante care trebuie aduse la cunoștința Autorității de Supraveghere Financiară.
+Data:..............................
+Semnătura..............
