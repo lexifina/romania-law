@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-116-20-concluzii-2021-09-02",
+ "label": "CJUE, Concluziile avocatului general A. Rantos prezentate la 2 septembrie 2021, Cauza C-116/20.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-09-02",
+ "year": "2021",
+ "case": "Cauza C-116/20.",
+ "celex": "62020CC0116",
+ "ecli": "ECLI:EU:C:2021:684",
+ "heading": "Concluziile avocatului general A. Rantos prezentate la 2 septembrie 2021",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Timișoara.",
+ "national_followup": null,
+ "parties": "SC Avio Lucos SRL împotriva Agenției de Plăți și Intervenție pentru Agricultură – Centrul județean Dolj și Agenția de Plăți și Intervenție pentru Agricultură (APIA) – Aparat Central.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Agricultură – Politica agricolă comună – Scheme de sprijin direct – Norme comune – Schemă de plată unică pe suprafață – Regulamentul (CE) nr. 73/2009 – Articolul 2 litera (c) – Noțiunea de «activitate agricolă» – Articolul 35 – Regulamentul (CE) nr. 1122/2009 – Reglementare națională care impune prezentarea unui titlu juridic care dovedește dreptul de folosință asupra parcelei agricole puse la dispoziția agricultorului în cadrul unui contract de concesiune și care condiționează validitatea unui astfel de contract de calitatea de crescător sau de proprietar de animale a viitorului concesionar – Concesionar al unei pășuni care a încheiat un contract de colaborare cu crescători de animale – Autoritate de lucru judecat.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CC0116",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-116/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/5c06618d-0bde-11ec-adb1-01aa75ed71a1.0004.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "fa69308c28c0c574a6e2335cec4d0b855bf3b375688712e74ddd051c92ca44b4"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
