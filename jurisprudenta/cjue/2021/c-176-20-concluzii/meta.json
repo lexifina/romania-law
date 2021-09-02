@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-176-20-concluzii-2021-09-02",
+ "label": "CJUE, Concluziile avocatului general A. Rantos prezentate la 2 septembrie 2021, Cauza C-176/20.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-09-02",
+ "year": "2021",
+ "case": "Cauza C-176/20.",
+ "celex": "62020CC0176",
+ "ecli": "ECLI:EU:C:2021:685",
+ "heading": "Concluziile avocatului general A. Rantos prezentate la 2 septembrie 2021",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Alba Iulia.",
+ "national_followup": null,
+ "parties": "SC Avio Lucos SRL împotriva Agenției de Plăți și Intervenție pentru Agricultură – Centrul județean Dolj și a Agenției de Plăți și Intervenție pentru Agricultură (APIA) – Aparat Central.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Agricultură – Politica agricolă comună – Scheme de sprijin direct – Norme comune – Schemă de plată unică pe suprafață – Regulamentul (UE) nr. 1307/2013 – Articolul 4 alineatul (1) literele (a) și (c) și alineatul (2) litera (b) – Reglementare națională care condiționează sprijinul direct de deținerea de către fermier a unor animale proprii – Articolul 9 alineatul (1) – Noțiunea de «fermier activ» – Regulamentul (UE) nr. 1306/2013 – Articolul 60 – Clauza de eludare – Noțiunea de «condiții create în mod artificial».",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CC0176",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-176/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/29c387f8-0be1-11ec-adb1-01aa75ed71a1.0009.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c0656f0748269f012e2d880ae4b69968a2f8c01e4dc6baea015c00f84ece9ca7"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
