@@ -1,0 +1,134 @@
+{
+ "key": "cedo-14132-14-2021-05-18",
+ "label": "CEDO, Zamfirescu c. României, 2021-05-18",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2021-05-18",
+ "year": "2021",
+ "heading": "HOTĂRÂREA din 18 mai 2021",
+ "subtitle": "în Cauza Zamfirescu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "841",
+  "bis": false,
+  "date": "2021-09-02",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "no-violation"
+ ],
+ "applications": [
+  "14132/14"
+ ],
+ "case_name": "Zamfirescu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu a fost încălcat art. 6 din Convenție;",
+  "4. respinge cererea de acordare a unei reparații echitabile."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/245984",
+  "text_sha256": "53c3e3ded478a842bca967133c1498514b1476d239acfe49c033ee5f7c8af0a2",
+  "catalogue_sha256": "53c3e3ded478a842bca967133c1498514b1476d239acfe49c033ee5f7c8af0a2",
+  "fetched": "2026-11-03T01:42:23Z",
+  "chars": 49996,
+  "portal_id": "245984",
+  "tip": "HOTĂRÂRE"
+ }
+}
