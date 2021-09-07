@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății TRANS PEC LEASING IFN - S.A., cu sediul în Galați, str. Regiment 11 Siret nr. 2 F, județul Galați, înregistrată la oficiul registrul comerțului cu nr. J17/531/2004, cod unic de înregistrare 16316990, înscrisă în Registrul general cu nr. RG-PJR-18-110139/21.06.2007, la secțiunea k) "Activități multiple de creditare".
