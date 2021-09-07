@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-06-28: documents published: Raport comisie sesizată pe fond
 - 2018-09-03: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2018-09-11: registered at the Chamber of Deputies
+- 2021-09-07: adopted by the Chamber of Deputies
 
 ## Documents
 
