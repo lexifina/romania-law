@@ -1,0 +1,2 @@
+# Anexă
+PROCEDURĂ de înregistrare în vederea utilizării unuia dintre regimurile speciale pentru persoanele impozabile care prestează servicii către persoane neimpozabile sau efectuează vânzări de bunuri la distanță, precum și pentru declararea taxei pe valoarea adăugată, potrivit prevederilor art. 314, art. 315 și art. 315^2 din Codul fiscal, în situația în care România este stat membru de înregistrare, precum și pentru modificarea unor prevederi procedurale
