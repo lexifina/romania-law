@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-25: first record in the bill file
 - 2021-05-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-06-02: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
+- 2021-09-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-02: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L294ES.PDF
 - 2021-06-02: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L294LG.PDF
 - 2021-06-02: Punct de vedere (PV): [pv-b67b65ea.md](pv-b67b65ea.md); official file https://www.senat.ro/legis/PDF/2021/21L294PV.PDF
+- 2021-09-07: Aviz comisie (CA44): [ca44-04a70f2c.md](ca44-04a70f2c.md); official file https://www.senat.ro/legis/PDF/2021/21L294CA44.PDF
