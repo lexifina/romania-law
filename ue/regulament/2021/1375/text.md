@@ -1,0 +1,33 @@
+REGULAMENTUL DELEGAT (UE) 2021/1375 AL COMISIEI
+din 11 iunie 2021
+de modificare a Regulamentului delegat (UE) 2019/33 în ceea ce privește modificarea mențiunilor tradiționale din sectorul vitivinicol
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de instituire a unei organizări comune a piețelor produselor agricole și de abrogare a Regulamentelor (CEE) nr. 922/72, (CEE) nr. 234/79, (CE) nr. 1037/2001 și (CE) nr. 1234/2007 ale Consiliului (1), în special articolul 114,
+întrucât:
+(1) Regulamentul delegat (UE) 2019/33 al Comisiei (2), care a înlocuit și a abrogat Regulamentul (CE) nr. 607/2009 al Comisiei (3), stabilește norme de completare a Regulamentului (UE) nr. 1308/2013 în ceea ce privește protecția, anularea și modificarea mențiunilor tradiționale.
+(2) Articolul 34 din Regulamentul delegat (UE) 2019/33 prevede că modificarea unei mențiuni tradiționale înregistrate poate viza numai elementele menționate la articolul 26 alineatul (1) literele (b), (c) și (d) din regulamentul respectiv, care se referă la tipul mențiunii tradiționale, la limba în care este exprimată mențiunea tradițională, respectiv, la categoria de produse vitivinicole vizată de utilizarea acesteia.
+(3) Totuși, articolul 42a din Regulamentul (CE) nr. 607/2009 prevedea o listă mai lungă de modificări posibile. Acest articol includea, în special, posibilitatea de a modifica mențiunea tradițională însăși, limba în care este indicată mențiunea tradițională, vinul sau vinurile în cauză și rezumatul definiției sau condițiile de utilizare a mențiunii tradiționale. Prin urmare, Regulamentul (CE) nr. 607/2009 prevedea mai multe posibilități de modificare, permițând producătorilor de vinuri să extindă sau să limiteze, de exemplu, lista vinurilor cu denumiri de origine protejate sau cu indicații geografice protejate care pot utiliza o mențiune tradițională sau să modifice condițiile de utilizare a mențiunii tradiționale, inclusiv metodele de producție a vinurilor în cauză.
+(4) Dispozițiile din Regulamentul delegat (UE) 2019/33 referitoare la mențiunile tradiționale au fost redactate cu intenția de a se asigura continuitatea cadrului comun privind mențiunile tradiționale stabilit prin Regulamentul (CE) nr. 607/2009 și de a permite, totodată, completarea și clarificarea procedurilor existente ori de câte ori este necesar. Articolul 34 din Regulamentul delegat (UE) 2019/33 se referă în mod direct la elementele unui formular de cerere completat în mod corespunzător, astfel cum este prevăzut la articolul 26 alineatul (1) din regulamentul respectiv. Cu toate acestea, din cauza unei omisiuni involuntare, litera (a) de la articolul 26 alineatul (1), referitoare la denumirea mențiunii tradiționale în cauză, litera (e) de la articolul 26 alineatul (1), referitoare la rezumatul definiției și condițiile de utilizare, și litera (f) de la articolul 26 alineatul (1), referitoare la denumirile de origine protejate sau indicațiile geografice protejate în cauză, nu au fost menționate în lista stabilită la articolul 34, deși aceste elemente au fost incluse la articolul 42a din Regulamentul (CE) nr. 607/2009. Consecința neintenționată a acestui fapt este că posibilitățile de modificare a unei mențiuni tradiționale sunt limitate la modificarea tipului de mențiune tradițională, a limbii și a categoriei de produse vitivinicole în cauză.
+(5) În practică, textul actual al primului paragraf de la articolul 34 nu permite posibilitatea de a extinde utilizarea unei mențiuni tradiționale la denumiri de origine protejate noi sau la indicații geografice protejate noi ori posibilitatea de a exclude din lista vinurilor autorizate să utilizeze o anumită mențiune tradițională acele vinuri care nu mai respectă condițiile de utilizare a acesteia. În plus, textul nu permite, de exemplu, adaptarea metodelor de producție menționate în caietul de sarcini al unei mențiuni tradiționale în cazul în care metodele respective evoluează ca urmare a modificării condițiilor climatice sau de mediu.
+(6) Pentru a corecta această omisiune neintenționată și pentru a le reda titularilor mențiunilor tradiționale flexibilitatea acordată în temeiul Regulamentului (CE) nr. 607/2009, este necesar ca lista modificărilor posibile ale unei mențiuni tradiționale înregistrate, menționată la articolul 34 primul paragraf din Regulamentul (UE) 2019/33, să fie extinsă pentru a include elementele menționate la articolul 26 alineatul (1) literele (a), (e) și (f) din regulamentul respectiv.
+(7) Prin urmare, Regulamentul delegat (UE) 2019/33 trebuie modificat în consecință.
+(8) Din motive de claritate juridică și pentru a se asigura tratamentul egal al tuturor cererilor de modificare a unor mențiuni tradiționale înregistrate, prezentul regulament trebuie să se aplice retroactiv, de la 14 ianuarie 2019,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Articolul 34 din Regulamentul delegat (UE) 2019/33 se înlocuiește cu următorul text:
+„Articolul 34
+Modificarea unei mențiuni tradiționale
+Un solicitant care îndeplinește condițiile prevăzute la articolul 25 poate solicita aprobarea unei modificări a mențiunii tradiționale înregistrate în ceea ce privește elementele menționate la articolul 26 alineatul (1) literele (a)-(f).
+Articolele 26-31 se aplică mutatis mutandis cererilor de modificare.”
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 14 ianuarie 2019.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 11 iunie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 347, 20.12.2013, p. 671.
+(2) Regulamentul delegat (UE) 2019/33 al Comisiei din 17 octombrie 2018 de completare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește cererile de protecție a denumirilor de origine, a indicațiilor geografice și a mențiunilor tradiționale din sectorul vitivinicol, procedura de opoziție, restricțiile de utilizare, modificările caietelor de sarcini ale produselor, anularea protecției și etichetarea și prezentarea (JO L 9, 11.1.2019, p. 2).
+(3) Regulamentul (CE) nr. 607/2009 al Comisiei din 14 iulie 2009 de stabilire a unor norme de punere în aplicare a Regulamentului (CE) nr. 479/2008 al Consiliului în ceea ce privește denumirile de origine protejate și indicațiile geografice protejate, mențiunile tradiționale, etichetarea și prezentarea anumitor produse vitivinicole (JO L 193, 24.7.2009, p. 60).
