@@ -13,7 +13,11 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: registered at the Chamber of Deputies
 - 2021-06-09: documents published: Raport comisie sesizată pe fond
 - 2021-09-07: adopted by the Chamber of Deputies
+- 2021-09-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2021-06-09: Raport comisie sesizată pe fond (CR): [cr-fa1f2bfc.md](cr-fa1f2bfc.md); official file https://www.senat.ro/legis/PDF/2021/21L390CR.PDF
+- 2021-09-09: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L390AD.PDF
+- 2021-09-09: Forma inițiatorului (FG): [fg-6d810760.md](fg-6d810760.md); official file https://www.senat.ro/legis/PDF/2021/21L390FG.PDF
+- 2021-09-09: Expunere de motive (EM): [em-5a02b47c.md](em-5a02b47c.md); official file https://www.senat.ro/legis/PDF/2021/21L390EM.PDF
