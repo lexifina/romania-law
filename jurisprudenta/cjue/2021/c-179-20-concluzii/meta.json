@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-179-20-concluzii-2021-09-09",
+ "label": "CJUE, Concluziile avocatului general P. Pikamäe prezentate la 9 septembrie 2021, Cauza C-179/20.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2021-09-09",
+ "year": "2021",
+ "case": "Cauza C-179/20.",
+ "celex": "62020CC0179",
+ "ecli": "ECLI:EU:C:2021:731",
+ "heading": "Concluziile avocatului general P. Pikamäe prezentate la 9 septembrie 2021",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel București.",
+ "national_followup": null,
+ "parties": "Fondul Proprietatea SA împotriva Guvernului României și alții.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Piața internă a energiei electrice – Directiva 2009/72/CE – Articolul 15 alineatul (4) – Dispecerizare cu prioritate – Siguranța alimentării – Articolul 32 alineatul (1) – Liberul acces al terților – Acces garantat la rețelele de transport – Directiva 2009/28/CE – Articolul 16 alineatul (2) – Acces garantat – Articolul 107 alineatul (1) TFUE – Articolul 108 alineatul (3) TFUE – Ajutoare de stat.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CC0179",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-179/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/ce43cea7-1fb3-11ec-bd8e-01aa75ed71a1.0013.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3e852e3d0999d5e54c38c3a73c40ba31971dc74998f7bad7a080b4f18356deca"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
