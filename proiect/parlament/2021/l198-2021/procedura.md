@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2021-06-09: documents published: Aviz comisie
 - 2021-06-15: documents published: Aviz comisie
+- 2021-09-11: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: Punct de vedere (PV): [pv-02053c1a.md](pv-02053c1a.md); official file https://www.senat.ro/legis/PDF/2021/21L198PV.PDF
 - 2021-06-09: Aviz comisie (CA45): [ca45-5efdffaf.md](ca45-5efdffaf.md); official file https://www.senat.ro/legis/PDF/2021/21L198CA45.PDF
 - 2021-06-15: Aviz comisie (CA41): [ca41-974d7366.md](ca41-974d7366.md); official file https://www.senat.ro/legis/PDF/2021/21L198CA41.PDF
+- 2021-09-11: Forma adoptată de Senat (FS): [fs-06cf2eb1.md](fs-06cf2eb1.md); official file https://www.senat.ro/legis/PDF/2021/21L198FS.PDF
+- 2021-09-11: Adresă către Camera Deputaților (AM): [am-e63dcd38.md](am-e63dcd38.md); official file https://www.senat.ro/legis/PDF/2021/21L198AM.PDF
