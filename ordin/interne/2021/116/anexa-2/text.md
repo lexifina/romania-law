@@ -1,0 +1,17 @@
+# Anexa nr. 2 (Anexa nr. 64 la Ordinul nr. 490/2008)
+ȘCOALA DE APLICAȚIE PENTRU OFIȚERI A JANDARMERIEI ROMÂNE „MIHAI VITEAZUL”
+Însemnul heraldic al Școlii de Aplicație pentru Ofițeri a Jandarmeriei Române „Mihai Viteazul” din cadrul Inspectoratului General al Jandarmeriei Române se prezintă după cum urmează: scut francez modern, cu o bandă argintie încărcată cu un copac smuls de culoare verde și cu două stele roșii, având în cartierul superior din stânga, pe roșu, o carte deschisă de argint, iar în cel inferior din dreapta, pe albastru, un delfin de aur.
+Sub scut, deviza scrisă cu litere majuscule negre pe o eșarfă albă: FORȚĂ ȘI INTELIGENȚĂ.
+În exergă, între două cercuri liniare aurii, legenda scrisă cu litere majuscule, de asemenea, de aur, pe fond albastru: * ȘCOALA DE APLICAȚIE PENTRU OFIȚERI A JANDARMERIEI ROMÂNE „MIHAI VITEAZUL”.
+Drapelul distinctiv al Școlii de Aplicație pentru Ofițeri a Jandarmeriei Române „Mihai Viteazul” va avea flamura dreptunghiulară, de culoarea albă, cu lungimea de 135 centimetri și lățimea de 90 centimetri și ornamentație identică pe ambele fețe. Compoziția heraldică de mai sus, cu diametrul de 54 centimetri, se va aplica pe centru, pe avers și pe revers, simetric față de marginile superioară și inferioară, la o distanță de câte 18 centimetri, respectiv stânga și dreapta ale drapelului, la o distanță de câte 40,5 centimetri, iar la cele patru colțuri, așezate aproape pe diagonale, la 5 centimetri de marginile flamurii, patru coroane de stejar cu frunze și fructe, aurii, cu înălțimea de 18 centimetri, în interiorul cărora se află câte un romb argintiu, ieșind dintr-o cunună compusă din trei frunze de stejar aurii, având în centru litera J stilizată cu negru.
+Flamura are atașați, pe cele trei laturi libere, franjuri aurii cu lungimea de 5 centimetri, iar în colțurile libere are prinse, cu șnur din fir auriu, două canafuri, de asemenea, aurii, cu lungimea de 12 centimetri.
+Hampa drapelului este confecționată din lemn tare, uscat, fără noduri, de culoare brună (maro închis), cu diametrul de 3,5 centimetri și cu lungimea de 240 centimetri.
+La partea superioară a hampei, în ultimii 70 centimetri, se face o frezare interioară în care se va introduce vergeaua din metal inoxidabil, pe care se montează drapelul.
+Vergeaua metalică este fixată în partea inferioară cu un inel de alamă, înalt de 3,2 centimetri, pe care este gravată, cu litere majuscule, denumirea ȘCOALA DE APLICAȚIE PENTRU OFIȚERI A JANDARMERIEI ROMÂNE „MIHAI VITEAZUL”, iar la partea superioară, de un manșon metalic cilindric, cu diametrul exterior de 3,5 centimetri, dotat în partea de sus cu două inele cu lățimea de 4,5 centimetri, grosimea de 0,75 centimetri și distanța dintre ele de 0,75 centimetri.
+Pe cilindru este montat vârful hampei, sub formă de vârf de lance, cu înălțimea de 12 centimetri, realizat din alamă aurită și plasat peste ultimul inel al cilindrului.
+La partea inferioară hampa este prevăzută, pentru protecție, cu un cilindru de alamă, obturat la capătul inferior, având diametrul interior de 3,4 centimetri, cel exterior de 4 centimetri și înălțimea, de asemenea, de 4 centimetri.
+Semnificația elementelor însumate: a) banda - apărare, protecție, ordine;
+b) cartea deschisă de argint - învățământ, cunoaștere; evocă menirea unității;
+c) arbore smuls: rădăcinile - colaborarea între structuri; trunchiul - pregătirea în comun a unor planuri de acțiune; ramurile - punerea în practică a acțiunilor care, cum se speră, vor produce numeroase fructe;
+d) stelele roșii - oamenii;
+e) delfinul de aur - inteligența.
