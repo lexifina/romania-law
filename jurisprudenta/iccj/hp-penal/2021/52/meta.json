@@ -1,0 +1,333 @@
+{
+ "key": "iccj-hp-penal-52-2021",
+ "label": "Decizia ÎCCJ nr. 52/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "52",
+ "date": "2021-06-28",
+ "year": "2021",
+ "heading": "DECIZIA nr. 52 din 28 iunie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 377 din Codul penal, prin raportare la art. 177 alin. (2) din Codul penal, pentru determinarea subiecților infracțiunii de incest",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "874",
+  "bis": false,
+  "date": "2021-09-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.236/1/2021",
+  "2.796/218/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "377",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția penală și pentru cauze cu minori, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 377 din Codul penal, prin raportare la art. 177 alin. (2) din Codul penal, pentru determinarea subiecților infracțiunii de incest, stabilirea calității de rude biologice în linie directă sau între frați și surori, în cazul în care subiect al infracțiunii este o persoană adoptată, poate avea loc în condițiile art. 52 alin. (1) și (2) din Codul de procedură penală independent de dispozițiile art. 440 și art. 470 alin. (2) din Codul civil.",
+  "Pentru determinarea subiecților infracțiunii de incest prevăzute de art. 377 din Codul penal, în cazul în care unul dintre aceștia este adoptat, nu se impune stabilirea în prealabil a unui raport juridic civil de rude în linie directă sau frați și surori potrivit art. 409 din Codul civil raportat la art. 416 din Codul civil sau art. 424 din Codul civil, după caz, acest aspect putând fi stabilit în absența actelor de stare civilă și a unei acțiuni civile cu acest obiect, în cadrul procesului penal pendinte potrivit mijloacelor de probă prevăzute de art. 97 alin. (1) din Codul de procedură penală prin raportare la art. 52 alin. (1) și (2) din Codul de procedură penală.",
+  "Efectele legăturii de rudenie biologică stabilite într-un proces civil sau chiar în procesul penal pendinte ulterior comiterii faptei de incest retroactivează până la momentul nașterii copilului.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "440",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "377",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "92",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-09-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246288",
+  "text_sha256": "f46fb56548662367186b9aa544b21bcbdf81d407f77a8fb3cca584cfc7ed55ab",
+  "catalogue_sha256": "f46fb56548662367186b9aa544b21bcbdf81d407f77a8fb3cca584cfc7ed55ab",
+  "fetched": "2026-11-06T04:01:46Z",
+  "chars": 70502,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246288",
+   "timestamp": "20260215170328",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395506573.55/warc/CC-MAIN-20260215160456-20260215190456-00776.warc.gz",
+   "offset": "248333812",
+   "length": "55651",
+   "sha256": "9a968fa2ca403253ace274127da156f92253461836fbb31f864ea516c313630f"
+  },
+  "portal_id": "246288",
+  "tip": "DECIZIE"
+ }
+}
