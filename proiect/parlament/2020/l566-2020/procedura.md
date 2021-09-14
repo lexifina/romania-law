@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-01: registered at the Chamber of Deputies
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-08: promulgated, becomes Legea nr. 243/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-08: Decret de promulgare (DP): [dp-461c2da5.md](dp-461c2da5.md); official file https://www.senat.ro/legis/PDF/2020/20L566DP.PDF
 - 2021-09-08: Adresă privind forma promulgată (AFP): [afp-44370d4b.md](afp-44370d4b.md); official file https://www.senat.ro/legis/PDF/2020/20L566AFP.PDF
 - 2021-09-08: Forma promulgată (FP): [fp-cd292daa.md](fp-cd292daa.md); official file https://www.senat.ro/legis/PDF/2020/20L566FP.PDF
+- 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-5da75850.md](axs-5da75850.md); official file https://www.senat.ro/legis/PDF/2020/20L566AXS.PDF
+- 2021-09-14: Forma trimisă la promulgare (LP): [lp-4223fe02.md](lp-4223fe02.md); official file https://www.senat.ro/legis/PDF/2020/20L566LP.PDF
