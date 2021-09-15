@@ -1,0 +1,319 @@
+{
+ "key": "iccj-scaf-2073-2021",
+ "label": "Decizia ÎCCJ nr. 2073/2021 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "2073",
+ "date": "2021-03-31",
+ "year": "2021",
+ "heading": "DECIZIA nr. 2.073 din 31 martie 2021",
+ "subtitle": "referitoare la anularea în parte Hotărârea Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal cu privire la pct. 94 alin. (1) lit. c) din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "884",
+  "bis": false,
+  "date": "2021-09-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "744/54/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "hg/2016/1"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de recurenta-reclamantă AMV S - S.R.L. împotriva Sentinței nr. 381 din 21 octombrie 2019, pronunțată de Curtea de Apel C - Secția contencios administrativ și fiscal.",
+  "Casează în tot sentința recurată și rejudecând:",
+  "Admite acțiunea formulată de reclamanta AMV S - S.R.L., în contradictoriu cu pârâtul G.R. și intervenientul M.F.P.",
+  "Anulează în parte Hotărârea Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal cu privire la pct. 94 alin. (1) lit. c) din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal.",
+  "Respinge cererea de intervenție accesorie formulată de M.F.P., ca neîntemeiată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "hg/2016/1"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "399",
+     "alin": [
+      "1",
+      "11",
+      "2"
+     ],
+     "lit": [
+      "d",
+      "c"
+     ]
+    },
+    {
+     "art": "355",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "339",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "357",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-09-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246368",
+  "text_sha256": "5d942dc5a367e2f622dcbab0a738ef0e1fefe065d47914801fa129b17fb43871",
+  "catalogue_sha256": "5d942dc5a367e2f622dcbab0a738ef0e1fefe065d47914801fa129b17fb43871",
+  "fetched": "2026-11-03T01:41:57Z",
+  "chars": 57753,
+  "portal_id": "246368",
+  "tip": "DECIZIE"
+ }
+}
