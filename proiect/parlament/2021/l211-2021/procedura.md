@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-16: documents published: Aviz comisie
 - 2021-06-17: documents published: Aviz comisie
 - 2021-06-23: documents published: Aviz comisie
+- 2021-09-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-16: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L211CA5.PDF
 - 2021-06-17: Aviz comisie (CA8): [ca8-52106ff8.md](ca8-52106ff8.md); official file https://www.senat.ro/legis/PDF/2021/21L211CA8.PDF
 - 2021-06-23: Aviz comisie (CA39): [ca39-29ffce73.md](ca39-29ffce73.md); official file https://www.senat.ro/legis/PDF/2021/21L211CA39.PDF
+- 2021-09-16: Forma adoptată de Senat (FS): [fs-30ee098f.md](fs-30ee098f.md); official file https://www.senat.ro/legis/PDF/2021/21L211FS.PDF
+- 2021-09-16: Adresă către Camera Deputaților (AM): [am-58119e68.md](am-58119e68.md); official file https://www.senat.ro/legis/PDF/2021/21L211AM.PDF
