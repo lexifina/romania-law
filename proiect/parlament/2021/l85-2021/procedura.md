@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-05-19: registered at the Chamber of Deputies
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-09-16: sent for promulgation; promulgated, becomes Legea nr. 226/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Guvernul României.
 - 2021-05-17: Adresă către Camera Deputaților (AM): [am-881b7da5.md](am-881b7da5.md); official file https://www.senat.ro/legis/PDF/2021/21L085AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-70e8ab0f.md](axs-70e8ab0f.md); official file https://www.senat.ro/legis/PDF/2021/21L085AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-33cd233a.md](lp-33cd233a.md); official file https://www.senat.ro/legis/PDF/2021/21L085LP.PDF
+- 2021-09-16: Decret de promulgare (DP): [dp-58515511.md](dp-58515511.md); official file https://www.senat.ro/legis/PDF/2021/21L085DP.PDF
+- 2021-09-16: Adresă privind forma promulgată (AFP): [afp-bbd184df.md](afp-bbd184df.md); official file https://www.senat.ro/legis/PDF/2021/21L085AFP.PDF
+- 2021-09-16: Forma promulgată (FP): [fp-4f808ef7.md](fp-4f808ef7.md); official file https://www.senat.ro/legis/PDF/2021/21L085FP.PDF
