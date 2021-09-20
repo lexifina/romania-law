@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2021-09-01: documents published: Aviz comisie
 - 2021-09-07: documents published: Aviz comisie
 - 2021-09-15: documents published: Raport comisie sesizată pe fond
+- 2021-09-20: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2021-09-01: Aviz comisie (CA3): [ca3-7a53637d.md](ca3-7a53637d.md); official file https://www.senat.ro/legis/PDF/2021/21L277CA3.PDF
 - 2021-09-07: Aviz comisie (CA39): [ca39-4b49c878.md](ca39-4b49c878.md); official file https://www.senat.ro/legis/PDF/2021/21L277CA39.PDF
 - 2021-09-15: Raport comisie sesizată pe fond (CR): [cr-10f4fb66.md](cr-10f4fb66.md); official file https://www.senat.ro/legis/PDF/2021/21L277CR.PDF
+- 2021-09-20: Forma adoptată de Senat (FS): [fs-913a6ecd.md](fs-913a6ecd.md); official file https://www.senat.ro/legis/PDF/2021/21L277FS.PDF
+- 2021-09-20: Adresă către Camera Deputaților (AM): [am-20adfcf9.md](am-20adfcf9.md); official file https://www.senat.ro/legis/PDF/2021/21L277AM.PDF
