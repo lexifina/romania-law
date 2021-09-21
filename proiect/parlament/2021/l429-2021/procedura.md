@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2021-09-01: registered at the Chamber of Deputies
+- 2021-09-21: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2021-09-21: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L429CR.PDF
