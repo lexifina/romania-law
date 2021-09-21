@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-04-08: sent for promulgation
 - 2021-04-26: promulgated, becomes Legea nr. 101/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2021-04-27: published in the Monitorul Oficial
+- 2021-09-21: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2021-04-26: Decret de promulgare (DP): [dp-cfd7e117.md](dp-cfd7e117.md); official file https://www.senat.ro/legis/PDF/2020/20L444DP.PDF
 - 2021-04-26: Adresă privind forma promulgată (AFP): [afp-5e0c0e91.md](afp-5e0c0e91.md); official file https://www.senat.ro/legis/PDF/2020/20L444AFP.PDF
 - 2021-04-26: Forma promulgată (FP): [fp-aba09994.md](fp-aba09994.md); official file https://www.senat.ro/legis/PDF/2020/20L444FP.PDF
+- 2021-09-21: Document (TA): [ta-f631a70b.md](ta-f631a70b.md); official file https://www.senat.ro/legis/PDF/2020/20L444TA.PDF (its day is not given by the bill file: shown from the last stage held)
