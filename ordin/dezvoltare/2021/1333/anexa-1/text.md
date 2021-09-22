@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE pentru punerea în aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții "Anghel Saligny", pentru categoriile de investiții prevăzute la art. 4 alin. (1) lit. a)-d) din Ordonanța de urgență a Guvernului nr. 95/2021
