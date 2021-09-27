@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-09-16: documents published: Aviz comisie
 - 2021-09-20: documents published: Aviz comisie
 - 2021-09-22: documents published: Aviz comisie
+- 2021-09-27: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2021-09-22: Aviz comisie (CA12): [ca12-ab507a70.md](ca12-ab507a70.md); official file https://www.senat.ro/legis/PDF/2021/21L334CA12.PDF
 - 2021-09-22: Aviz comisie (CA41): [ca41-abe0aba2.md](ca41-abe0aba2.md); official file https://www.senat.ro/legis/PDF/2021/21L334CA41.PDF
 - 2021-09-22: Aviz comisie (CA6): [ca6-54f996ab.md](ca6-54f996ab.md); official file https://www.senat.ro/legis/PDF/2021/21L334CA6.PDF
+- 2021-09-27: Raport comisie sesizată pe fond (CR): [cr-ef06b5ed.md](cr-ef06b5ed.md); official file https://www.senat.ro/legis/PDF/2021/21L334CR.PDF
