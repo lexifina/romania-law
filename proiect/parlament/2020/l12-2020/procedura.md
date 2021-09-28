@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-04-21: sent for promulgation
 - 2021-05-06: promulgated, becomes Legea nr. 123/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2021-05-07: published in the Monitorul Oficial
+- 2021-09-28: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2021-05-06: Decret de promulgare (DP): [dp-fab01e35.md](dp-fab01e35.md); official file https://www.senat.ro/legis/PDF/2020/20L012DP.PDF
 - 2021-05-06: Adresă privind forma promulgată (AFP): [afp-1746faf6.md](afp-1746faf6.md); official file https://www.senat.ro/legis/PDF/2020/20L012AFP.PDF
 - 2021-05-06: Forma promulgată (FP): [fp-82768996.md](fp-82768996.md); official file https://www.senat.ro/legis/PDF/2020/20L012FP.PDF
+- 2021-09-28: Document (TA): [ta-f23b6387.md](ta-f23b6387.md); official file https://www.senat.ro/legis/PDF/2020/20L012TA.PDF (its day is not given by the bill file: shown from the last stage held)
