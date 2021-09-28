@@ -1,0 +1,151 @@
+{
+ "key": "iccj-hp-30-2021",
+ "label": "Decizia ÎCCJ nr. 30/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "30",
+ "date": "2021-05-17",
+ "year": "2021",
+ "heading": "DECIZIA nr. 30 din 17 mai 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 906 alin. (4) din Codul de procedură civilă, astfel cum a fost modificat prin art. I pct. 68 din Legea nr. 310/2018",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "925",
+  "bis": false,
+  "date": "2021-09-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "497/1/2021",
+  "681/336/2019",
+  "1.199/336/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Maramureș - Secția I Civilă în Dosarul nr. 681/336/2019 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Modul de interpretare și aplicare a dispozițiilor art. 906 alin. (4) din Codul de procedură civilă, astfel cum a fost modificat prin art. I pct. 68 din Legea nr. 310/2018, respectiv dacă dispoziția modificată se aplică doar executărilor silite începute după intrarea în vigoare a Legii nr. 310/2018 sau se aplică și cererilor de stabilire a despăgubirilor introduse după intrarea în vigoare a Legii nr. 310/2018, indiferent de data la care a fost formulată cererea de executare silită",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-09-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246687",
+  "text_sha256": "db1235fe7170f15edaeb0b23a465c47b8ec9ceaf1111ef8720285349ad4152fe",
+  "catalogue_sha256": "db1235fe7170f15edaeb0b23a465c47b8ec9ceaf1111ef8720285349ad4152fe",
+  "fetched": "2026-11-03T01:41:38Z",
+  "chars": 45850,
+  "portal_id": "246687",
+  "tip": "DECIZIE"
+ }
+}
