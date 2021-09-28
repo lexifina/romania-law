@@ -1,0 +1,6 @@
+# Anexa nr. 4 (Anexa nr. 6 la Ordinul nr. 68/101/2021)
+DECLARAȚIE
+Subsemnatul/a,..................................., cetățean............................., născut(ă) la data de................................. în localitatea........................., domiciliat(ă) în................................, str.......................... nr......, bl....., sc....., et....., ap....., sectorul/județul............, posesor(oare) al/a BI/CI, seria........ nr.................., eliberat(ă) de.................................... la data de.........................., cod numeric personal................., cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, referitoare la falsul în declarații, declar pe propria răspundere că mi s-a administrat vaccinul la domiciliul anterior menționat/la adresa de reședință din: localitatea.........................., str........................ nr......., bl......., sc......., et......., ap......., sectorul/județul.................., de către doamna/domnul dr.................., cod parafă...........................
+Declarant................................................. (numele, prenumele și semnătura)
+Data.................................................
+------
