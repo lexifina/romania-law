@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2021-09-01: registered at the Chamber of Deputies
 - 2021-09-27: legislative procedure ended
+- 2021-09-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2021-09-28: Adresă de înaintare a inițiativei (AD): [ad-88d543bb.md](ad-88d543bb.md); official file https://www.senat.ro/legis/PDF/2021/21L409AD.PDF
+- 2021-09-28: Forma inițiatorului (FG): [fg-4ab1430d.md](fg-4ab1430d.md); official file https://www.senat.ro/legis/PDF/2021/21L409FG.PDF
+- 2021-09-28: Expunere de motive (EM): [em-11f438ce.md](em-11f438ce.md); official file https://www.senat.ro/legis/PDF/2021/21L409EM.PDF
