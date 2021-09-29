@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-07-14: documents published: Aviz comisie
 - 2021-05-04: adopted by the Senate
 - 2021-09-22: sent for promulgation
+- 2021-09-29: promulgated, becomes Legea nr. 228/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2020-05-13: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2020/20L206AXS.PDF
 - 2020-05-13: Forma trimisă la promulgare (LP): [lp-b9a5e305.md](lp-b9a5e305.md); official file https://www.senat.ro/legis/PDF/2020/20L206LP.PDF
 - 2020-07-14: Aviz comisie (CA41): [ca41-6ee7a4fe.md](ca41-6ee7a4fe.md); official file https://www.senat.ro/legis/PDF/2020/20L206CA41.PDF
+- 2021-09-29: Decret de promulgare (DP): [dp-a0bc5d6d.md](dp-a0bc5d6d.md); official file https://www.senat.ro/legis/PDF/2020/20L206DP.PDF
+- 2021-09-29: Adresă privind forma promulgată (AFP): [afp-16a64d5c.md](afp-16a64d5c.md); official file https://www.senat.ro/legis/PDF/2020/20L206AFP.PDF
+- 2021-09-29: Forma promulgată (FP): [fp-629c016b.md](fp-629c016b.md); official file https://www.senat.ro/legis/PDF/2020/20L206FP.PDF
