@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2021-09-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-09-28: documents published: Aviz comisie
+- 2021-09-29: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,7 @@ Initiator: Guvernul României.
 - 2021-09-16: Document (OG): [og-1a41c2ed.md](og-1a41c2ed.md); official file https://www.senat.ro/legis/PDF/2021/21L393OG.PDF
 - 2021-09-16: Document (HG): [hg-bebfac53.md](hg-bebfac53.md); official file https://www.senat.ro/legis/PDF/2021/21L393HG.PDF
 - 2021-09-28: Aviz comisie (CA44): [ca44-bf2d67b4.md](ca44-bf2d67b4.md); official file https://www.senat.ro/legis/PDF/2021/21L393CA44.PDF
+- 2021-09-29: Aviz comisie (CA3): [ca3-6a466ccb.md](ca3-6a466ccb.md); official file https://www.senat.ro/legis/PDF/2021/21L393CA3.PDF
+- 2021-09-29: Aviz comisie (CA41): [ca41-2421894c.md](ca41-2421894c.md); official file https://www.senat.ro/legis/PDF/2021/21L393CA41.PDF
+- 2021-09-29: Aviz comisie (CA45): [ca45-7639d2d9.md](ca45-7639d2d9.md); official file https://www.senat.ro/legis/PDF/2021/21L393CA45.PDF
+- 2021-09-29: Aviz comisie (CA51): [ca51-cdd22beb.md](ca51-cdd22beb.md); official file https://www.senat.ro/legis/PDF/2021/21L393CA51.PDF
