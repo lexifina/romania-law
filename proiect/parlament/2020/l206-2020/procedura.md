@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-05-04: adopted by the Senate
 - 2021-09-22: sent for promulgation
 - 2021-09-29: promulgated, becomes Legea nr. 228/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-09-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,9 @@ Initiator: Guvernul României.
 - 2021-09-29: Decret de promulgare (DP): [dp-a0bc5d6d.md](dp-a0bc5d6d.md); official file https://www.senat.ro/legis/PDF/2020/20L206DP.PDF
 - 2021-09-29: Adresă privind forma promulgată (AFP): [afp-16a64d5c.md](afp-16a64d5c.md); official file https://www.senat.ro/legis/PDF/2020/20L206AFP.PDF
 - 2021-09-29: Forma promulgată (FP): [fp-629c016b.md](fp-629c016b.md); official file https://www.senat.ro/legis/PDF/2020/20L206FP.PDF
+- 2021-09-30: Document (SC): [sc-01c1caca.md](sc-01c1caca.md); official file https://www.senat.ro/legis/PDF/2020/20L206SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-09-30: Document (DC): [dc-13daf563.md](dc-13daf563.md); official file https://www.senat.ro/legis/PDF/2020/20L206DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-09-30: Document (XD): [xd-8edbf66f.md](xd-8edbf66f.md); official file https://www.senat.ro/legis/PDF/2020/20L206XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-09-30: Document (SX): [sx-c39eb957.md](sx-c39eb957.md); official file https://www.senat.ro/legis/PDF/2020/20L206SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-09-30: Document (XXS): [xxs-258d6641.md](xxs-258d6641.md); official file https://www.senat.ro/legis/PDF/2020/20L206XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-09-30: Document (PX): [px-8fbb873a.md](px-8fbb873a.md); official file https://www.senat.ro/legis/PDF/2020/20L206PX.PDF (its day is not given by the bill file: shown from the last stage held)
