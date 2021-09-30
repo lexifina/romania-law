@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-05-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: sent for promulgation
+- 2021-09-30: promulgated, becomes Legea nr. 231/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-05-04: Adresă către Camera Deputaților (AM): [am-7969bb36.md](am-7969bb36.md); official file https://www.senat.ro/legis/PDF/2021/21L088AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-b6b3b923.md](axs-b6b3b923.md); official file https://www.senat.ro/legis/PDF/2021/21L088AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-7b09163d.md](lp-7b09163d.md); official file https://www.senat.ro/legis/PDF/2021/21L088LP.PDF
+- 2021-09-30: Decret de promulgare (DP): [dp-2d9baf28.md](dp-2d9baf28.md); official file https://www.senat.ro/legis/PDF/2021/21L088DP.PDF
+- 2021-09-30: Adresă privind forma promulgată (AFP): [afp-b5231774.md](afp-b5231774.md); official file https://www.senat.ro/legis/PDF/2021/21L088AFP.PDF
+- 2021-09-30: Forma promulgată (FP): [fp-87f82566.md](fp-87f82566.md); official file https://www.senat.ro/legis/PDF/2021/21L088FP.PDF
