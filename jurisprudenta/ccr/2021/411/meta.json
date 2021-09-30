@@ -1,0 +1,228 @@
+{
+ "key": "dcc-411-2021",
+ "label": "Decizia CCR nr. 411/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "411",
+ "date": "2021-06-10",
+ "year": "2021",
+ "heading": "DECIZIA nr. 411 din 10 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 162 alin. (3) din Legea nr. 53/2003 - Codul muncii și ale art. 38 alin. (3) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "935",
+  "bis": false,
+  "date": "2021-09-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "946/100/2018",
+  "2.657D/2019",
+  "2.699D/2019",
+  "726/112/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Angelica Camelia Leta în Dosarul nr. 946/100/2018 al Tribunalului Maramureș - Secția a II-a civilă contencios administrativ și fiscal și de Maria Liana Vieriu în Dosarul nr. 726/112/2018** al Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale și constată că prevederile art. 162 alin. (3) din Legea nr. 53/2003 - Codul muncii sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 38 alin. (3) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Angelica Camelia Leta în Dosarul nr. 946/100/2018 al Tribunalului Maramureș - Secția a II-a civilă contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Maramureș - Secția a II-a civilă contencios administrativ și fiscal și Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-09-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246768",
+  "text_sha256": "22825303f372761980f784d39faaaafc9c7098d1d27f74d512ae0f78ccfd2ce0",
+  "catalogue_sha256": "22825303f372761980f784d39faaaafc9c7098d1d27f74d512ae0f78ccfd2ce0",
+  "fetched": "2026-11-03T01:41:31Z",
+  "chars": 20564,
+  "portal_id": "246768",
+  "tip": "DECIZIE"
+ }
+}
