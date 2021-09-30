@@ -1,0 +1,11 @@
+# HCGMB nr. 296/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 296/2021
+- Adopted: 2021-09-30
+- Title: PRIVIND COOPERAREA INTRE MUNICIPIUL BUCURESTI SI FEDERATIA SPORTULUI SCOLAR SI UNIVERSITAR IN VEDEREA STABILIRII CADRULUI ORGANIZATORIC DE INCURAJARE A PARTICIPARII PRESCOLARILOR, ELEVILOR SI STUDENTILOR LA ACTIVITATI CU CARACTER SPORTIV, IMPLEMENTAREA NORMELOR PRIVIND FINANTAREA UNOR PROGRAME SPORTIVE SI ORGANIZAREA DE EVENIMENTE SPORTIVE, CU APLICAREA CRITERIILOR SPECIFICE DE SELECTIE SI INDRUMARE A ELEVILOR
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42104
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/42104/H296_21.pdf
+- Document sha256: f694b22279c95ad4662fab4912f45a550d1a13a90379d6ff23721850bbba63b1
