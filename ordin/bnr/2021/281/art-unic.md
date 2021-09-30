@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății BGA MICROCREDIT IFN - S.A., cu sediul în Odorheiu Secuiesc, str. Kuvar nr. 28, județul Harghita, înregistrată la registrul comerțului cu nr. J19/144/2010, cod unic de înregistrare 26874691, înscrisă în Registrul general cu nr. RG-PJR-21-030264/17.06.2010, la secțiunea c) "Microcreditare".
