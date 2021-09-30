@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: sent for promulgation
+- 2021-09-30: promulgated, becomes Legea nr. 230/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -47,3 +48,6 @@ Initiator: Guvernul României.
 - 2020-10-06: Adresă către Camera Deputaților (AM): [am-98750278.md](am-98750278.md); official file https://www.senat.ro/legis/PDF/2020/20L592AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-e4644379.md](axs-e4644379.md); official file https://www.senat.ro/legis/PDF/2020/20L592AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-be0c8a22.md](lp-be0c8a22.md); official file https://www.senat.ro/legis/PDF/2020/20L592LP.PDF
+- 2021-09-30: Decret de promulgare (DP): [dp-354f888d.md](dp-354f888d.md); official file https://www.senat.ro/legis/PDF/2020/20L592DP.PDF
+- 2021-09-30: Adresă privind forma promulgată (AFP): [afp-7b31b907.md](afp-7b31b907.md); official file https://www.senat.ro/legis/PDF/2020/20L592AFP.PDF
+- 2021-09-30: Forma promulgată (FP): [fp-20059280.md](fp-20059280.md); official file https://www.senat.ro/legis/PDF/2020/20L592FP.PDF
