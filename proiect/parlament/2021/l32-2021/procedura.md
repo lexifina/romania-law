@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: sent for promulgation
+- 2021-09-30: promulgated, becomes Legea nr. 234/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2021-03-20: Adresă către Camera Deputaților (AM): [am-d2251e3f.md](am-d2251e3f.md); official file https://www.senat.ro/legis/PDF/2021/21L032AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-87b61b39.md](axs-87b61b39.md); official file https://www.senat.ro/legis/PDF/2021/21L032AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-75099429.md](lp-75099429.md); official file https://www.senat.ro/legis/PDF/2021/21L032LP.PDF
+- 2021-09-30: Decret de promulgare (DP): [dp-05377933.md](dp-05377933.md); official file https://www.senat.ro/legis/PDF/2021/21L032DP.PDF
+- 2021-09-30: Adresă privind forma promulgată (AFP): [afp-2c189321.md](afp-2c189321.md); official file https://www.senat.ro/legis/PDF/2021/21L032AFP.PDF
+- 2021-09-30: Forma promulgată (FP): [fp-7dd33ae9.md](fp-7dd33ae9.md); official file https://www.senat.ro/legis/PDF/2021/21L032FP.PDF
