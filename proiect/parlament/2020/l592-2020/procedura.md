@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: sent for promulgation
 - 2021-09-30: promulgated, becomes Legea nr. 230/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-10-01: published in the Monitorul Oficial
 
 ## Documents
 
