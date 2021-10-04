@@ -1,0 +1,22 @@
+# Proiect de lege L416/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 102/2022 (`legea-102-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.111/2021 pentru stabilirea unor măsuri de protecție socială a angajaților și a altor categorii profesionale în contextul interzicerii, suspendării ori limitării activităților economice, determinate de situaţia epidemiologică generată de răspândirea coronavirusului SARS-CoV-2
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-10-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-10-04: Adresă de înaintare a inițiativei (AD): [ad-a1f1ff1b.md](ad-a1f1ff1b.md); official file https://www.senat.ro/legis/PDF/2021/21L416AD.PDF
+- 2021-10-04: Forma inițiatorului (FG): [fg-13a8f32e.md](fg-13a8f32e.md); official file https://www.senat.ro/legis/PDF/2021/21L416FG.PDF
+- 2021-10-04: Expunere de motive (EM): [em-0b761db6.md](em-0b761db6.md); official file https://www.senat.ro/legis/PDF/2021/21L416EM.PDF
+- 2021-10-04: Aviz Consiliul Legislativ (LG): [lg-9e970738.md](lg-9e970738.md); official file https://www.senat.ro/legis/PDF/2021/21L416LG.PDF
+- 2021-10-04: Document (OG): [og-4dc208de.md](og-4dc208de.md); official file https://www.senat.ro/legis/PDF/2021/21L416OG.PDF
+- 2021-10-04: Document (HG): [hg-279f6139.md](hg-279f6139.md); official file https://www.senat.ro/legis/PDF/2021/21L416HG.PDF
