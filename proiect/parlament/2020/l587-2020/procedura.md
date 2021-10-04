@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: sent for promulgation
+- 2021-10-04: promulgated, becomes Legea nr. 235/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-10-03: Adresă către Camera Deputaților (AM): [am-31f7184e.md](am-31f7184e.md); official file https://www.senat.ro/legis/PDF/2020/20L587AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-9a15c1e4.md](axs-9a15c1e4.md); official file https://www.senat.ro/legis/PDF/2020/20L587AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-498db0ea.md](lp-498db0ea.md); official file https://www.senat.ro/legis/PDF/2020/20L587LP.PDF
+- 2021-10-04: Decret de promulgare (DP): [dp-ee8431e5.md](dp-ee8431e5.md); official file https://www.senat.ro/legis/PDF/2020/20L587DP.PDF
+- 2021-10-04: Adresă privind forma promulgată (AFP): [afp-77bce61b.md](afp-77bce61b.md); official file https://www.senat.ro/legis/PDF/2020/20L587AFP.PDF
+- 2021-10-04: Forma promulgată (FP): [fp-d6dedf69.md](fp-d6dedf69.md); official file https://www.senat.ro/legis/PDF/2020/20L587FP.PDF
