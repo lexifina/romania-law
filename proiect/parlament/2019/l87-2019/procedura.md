@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-04-06: sent for promulgation
 - 2019-06-13: returned for re-examination
 - 2019-11-26: rejected by the Senate
+- 2021-10-05: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-02-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087AM.PDF
 - 2019-04-01: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087AXS.PDF
 - 2019-04-01: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087LP.PDF
+- 2021-10-05: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-05: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L087RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-05: Document (XD): [xd-24e9cce7.md](xd-24e9cce7.md); official file https://www.senat.ro/legis/PDF/2019/19L087XD.PDF (its day is not given by the bill file: shown from the last stage held)
