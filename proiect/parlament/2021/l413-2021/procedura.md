@@ -12,7 +12,13 @@ Initiator: Guvernul României.
 
 - 2021-09-27: registered at the Chamber of Deputies
 - 2021-10-04: legislative procedure ended
+- 2021-10-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
-- none held as text
+- 2021-10-05: Adresă de înaintare a inițiativei (AD): [ad-a587903c.md](ad-a587903c.md); official file https://www.senat.ro/legis/PDF/2021/21L413AD.PDF
+- 2021-10-05: Forma inițiatorului (FG): [fg-f11f5e46.md](fg-f11f5e46.md); official file https://www.senat.ro/legis/PDF/2021/21L413FG.PDF
+- 2021-10-05: Expunere de motive (EM): [em-eb82c907.md](em-eb82c907.md); official file https://www.senat.ro/legis/PDF/2021/21L413EM.PDF
+- 2021-10-05: Aviz Consiliul Legislativ (LG): [lg-50027116.md](lg-50027116.md); official file https://www.senat.ro/legis/PDF/2021/21L413LG.PDF
+- 2021-10-05: Document (OG): [og-bc3d1d62.md](og-bc3d1d62.md); official file https://www.senat.ro/legis/PDF/2021/21L413OG.PDF
+- 2021-10-05: Document (HG): [hg-da09f7a9.md](hg-da09f7a9.md); official file https://www.senat.ro/legis/PDF/2021/21L413HG.PDF
