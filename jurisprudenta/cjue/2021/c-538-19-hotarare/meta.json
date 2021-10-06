@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-538-19-hotarare-2021-10-06",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 6 octombrie 2021, Cauza C-538/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2021-10-06",
+ "year": "2021",
+ "case": "Cauza C-538/19",
+ "celex": "62019CJ0538",
+ "ecli": "ECLI:EU:C:2021:809",
+ "heading": "Hotărârea Curții (Camera a patra) din 6 octombrie 2021",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Constanţa",
+   "date": "2019-07-04",
+   "national_file": "6353/118/2016"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Constanța",
+ "national_followup": [
+  "Curtea de Apel Constanţa, Secția I civilă, Decizia civilă din 18/02/2022 (ECLI:RO:CACTA:2022:025.000225)"
+ ],
+ "parties": "TS și alții împotriva Casei Naționale de Asigurări de Sănătate și a Casei de Asigurări de Sănătate Constanța",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Securitate socială – Asigurare de sănătate – Regulamentul (CE) nr. 883/2004 – Articolul 20 alineatele (1) și (2) – Tratament medical primit în alt stat membru decât cel de reședință al persoanei asigurate – Autorizație prealabilă – Condiții – Cerința unui raport emis de un medic din sistemul public de asigurări de sănătate național care să prescrie un tratament – Prescriere, cu titlu de a doua opinie medicală, emisă în alt stat membru decât cel de reședință al persoanei asigurate, a unui tratament alternativ care prezintă avantajul de a nu cauza un handicap – Rambursare integrală a cheltuielilor medicale aferente acestui tratament alternativ – Libera prestare a serviciilor – Articolul 56 TFUE",
+ "interprets": [
+  {
+   "celex": "32004R0883",
+   "folder": "ue/regulament/2004/883"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0538",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-538/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/ac732ab6-2684-11ec-bd8e-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "d3e91884f1a81a83d41ed38d8e210c4cb2dab743a6d9352872c10356df49b54e"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "Articolul 20 din Regulamentul (CE) nr. 883/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind coordonarea sistemelor de securitate socială, astfel cum a fost modificat prin Regulamentul (CE) nr. 988/2009 al Parlamentului European și al Consiliului din 16 septembrie 2009, coroborat cu articolul 56 TFUE trebuie interpretat în sensul că persoana asigurată care a primit, în alt stat membru decât cel de reședință, un tratament care figurează printre prestațiile prevăzute de legislația statului membru de reședință are dreptul la rambursarea integrală a costurilor acestui tratament, în condițiile prevăzute de acest regulament, atunci când persoana respectivă nu a putut obține o autorizație din partea instituției competente, în conformitate cu articolul 20 alineatul (1) din regulamentul menționat, pentru motivul că, deși diagnosticul și necesitatea punerii imediate în aplicare a unui tratament au fost confirmate de un medic din cadrul sistemului de asigurări de sănătate din statul membru de reședință, acest medic i‑a prescris un tratament diferit de cel pe care persoana în cauză l‑a ales în conformitate cu o a doua opinie medicală emisă de un medic dintr‑un alt stat membru, tratament care, spre deosebire de primul, nu ar genera un handicap."
+ ]
+}
