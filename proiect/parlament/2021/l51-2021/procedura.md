@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-04: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-20: sent for promulgation
+- 2021-10-08: promulgated, becomes Legea nr. 242/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-04: Adresă către Camera Deputaților (AM): [am-b9921916.md](am-b9921916.md); official file https://www.senat.ro/legis/PDF/2021/21L051AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-672056b9.md](axs-672056b9.md); official file https://www.senat.ro/legis/PDF/2021/21L051AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-171e7e93.md](lp-171e7e93.md); official file https://www.senat.ro/legis/PDF/2021/21L051LP.PDF
+- 2021-10-08: Decret de promulgare (DP): [dp-4124e0a0.md](dp-4124e0a0.md); official file https://www.senat.ro/legis/PDF/2021/21L051DP.PDF
+- 2021-10-08: Adresă privind forma promulgată (AFP): [afp-3c8b4cc0.md](afp-3c8b4cc0.md); official file https://www.senat.ro/legis/PDF/2021/21L051AFP.PDF
+- 2021-10-08: Forma promulgată (FP): [fp-663216cb.md](fp-663216cb.md); official file https://www.senat.ro/legis/PDF/2021/21L051FP.PDF
