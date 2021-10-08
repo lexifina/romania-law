@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-07: adopted by the Chamber of Deputies
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-20: sent for promulgation
+- 2021-10-08: promulgated, becomes Legea nr. 240/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L331AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-deab5513.md](axs-deab5513.md); official file https://www.senat.ro/legis/PDF/2018/18L331AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-19e3d542.md](lp-19e3d542.md); official file https://www.senat.ro/legis/PDF/2018/18L331LP.PDF
+- 2021-10-08: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L331AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-08: Decret de promulgare (DP): [dp-1bbfbe5f.md](dp-1bbfbe5f.md); official file https://www.senat.ro/legis/PDF/2018/18L331DP.PDF
+- 2021-10-08: Adresă privind forma promulgată (AFP): [afp-1e4ef195.md](afp-1e4ef195.md); official file https://www.senat.ro/legis/PDF/2018/18L331AFP.PDF
+- 2021-10-08: Forma promulgată (FP): [fp-199c68bc.md](fp-199c68bc.md); official file https://www.senat.ro/legis/PDF/2018/18L331FP.PDF
