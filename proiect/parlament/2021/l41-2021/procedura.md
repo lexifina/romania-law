@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-03-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-09-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-20: sent for promulgation
+- 2021-10-08: promulgated, becomes Legea nr. 239/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-03-22: Adresă către Camera Deputaților (AM): [am-445ef962.md](am-445ef962.md); official file https://www.senat.ro/legis/PDF/2021/21L041AM.PDF
 - 2021-09-14: Adresă privind sesizarea CCR (AXS): [axs-e7429b7f.md](axs-e7429b7f.md); official file https://www.senat.ro/legis/PDF/2021/21L041AXS.PDF
 - 2021-09-14: Forma trimisă la promulgare (LP): [lp-fe01a691.md](lp-fe01a691.md); official file https://www.senat.ro/legis/PDF/2021/21L041LP.PDF
+- 2021-10-08: Decret de promulgare (DP): [dp-a0bc9be9.md](dp-a0bc9be9.md); official file https://www.senat.ro/legis/PDF/2021/21L041DP.PDF
+- 2021-10-08: Adresă privind forma promulgată (AFP): [afp-44afcd2e.md](afp-44afcd2e.md); official file https://www.senat.ro/legis/PDF/2021/21L041AFP.PDF
+- 2021-10-08: Forma promulgată (FP): [fp-73e08aae.md](fp-73e08aae.md); official file https://www.senat.ro/legis/PDF/2021/21L041FP.PDF
