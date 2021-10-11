@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-09-15: adopted by the Chamber of Deputies
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-22: sent for promulgation
+- 2021-10-11: promulgated, becomes Legea nr. 246/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,6 @@ Initiator: Guvernul României.
 - 2021-06-02: Adresă către Camera Deputaților (AM): [am-cb97ddfa.md](am-cb97ddfa.md); official file https://www.senat.ro/legis/PDF/2021/21L141AM.PDF
 - 2021-09-20: Adresă privind sesizarea CCR (AXS): [axs-b88d4d47.md](axs-b88d4d47.md); official file https://www.senat.ro/legis/PDF/2021/21L141AXS.PDF
 - 2021-09-20: Forma trimisă la promulgare (LP): [lp-071fc7fc.md](lp-071fc7fc.md); official file https://www.senat.ro/legis/PDF/2021/21L141LP.PDF
+- 2021-10-11: Decret de promulgare (DP): [dp-ed0e5297.md](dp-ed0e5297.md); official file https://www.senat.ro/legis/PDF/2021/21L141DP.PDF
+- 2021-10-11: Adresă privind forma promulgată (AFP): [afp-89b8a31a.md](afp-89b8a31a.md); official file https://www.senat.ro/legis/PDF/2021/21L141AFP.PDF
+- 2021-10-11: Forma promulgată (FP): [fp-b6765f23.md](fp-b6765f23.md); official file https://www.senat.ro/legis/PDF/2021/21L141FP.PDF
