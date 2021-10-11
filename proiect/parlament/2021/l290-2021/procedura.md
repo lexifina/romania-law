@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-09-01: documents published: Aviz comisie
 - 2021-09-09: documents published: Aviz comisie
+- 2021-10-11: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-30: Expunere de motive (EM): [em-fbda72f4.md](em-fbda72f4.md); official file https://www.senat.ro/legis/PDF/2021/21L290EM.PDF
 - 2021-09-01: Aviz comisie (CA3): [ca3-3ac51fd6.md](ca3-3ac51fd6.md); official file https://www.senat.ro/legis/PDF/2021/21L290CA3.PDF
 - 2021-09-09: Aviz comisie (CA45): [ca45-5c43f2ab.md](ca45-5c43f2ab.md); official file https://www.senat.ro/legis/PDF/2021/21L290CA45.PDF
+- 2021-10-11: Forma adoptată de Senat (FS): [fs-2c2df74c.md](fs-2c2df74c.md); official file https://www.senat.ro/legis/PDF/2021/21L290FS.PDF
