@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-09-15: adopted by the Chamber of Deputies
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-22: sent for promulgation
+- 2021-10-11: promulgated, becomes Legea nr. 245/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-06-02: Adresă către Camera Deputaților (AM): [am-1bfa315b.md](am-1bfa315b.md); official file https://www.senat.ro/legis/PDF/2021/21L113AM.PDF
 - 2021-09-20: Adresă privind sesizarea CCR (AXS): [axs-258d6641.md](axs-258d6641.md); official file https://www.senat.ro/legis/PDF/2021/21L113AXS.PDF
 - 2021-09-20: Forma trimisă la promulgare (LP): [lp-f9d8289f.md](lp-f9d8289f.md); official file https://www.senat.ro/legis/PDF/2021/21L113LP.PDF
+- 2021-10-11: Decret de promulgare (DP): [dp-b3aa49ab.md](dp-b3aa49ab.md); official file https://www.senat.ro/legis/PDF/2021/21L113DP.PDF
+- 2021-10-11: Adresă privind forma promulgată (AFP): [afp-3e208689.md](afp-3e208689.md); official file https://www.senat.ro/legis/PDF/2021/21L113AFP.PDF
+- 2021-10-11: Forma promulgată (FP): [fp-e14343a6.md](fp-e14343a6.md); official file https://www.senat.ro/legis/PDF/2021/21L113FP.PDF
