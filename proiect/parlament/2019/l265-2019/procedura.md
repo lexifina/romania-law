@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-15: adopted by the Chamber of Deputies
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-22: sent for promulgation
+- 2021-10-11: promulgated, becomes Legea nr. 247/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2019-09-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L265AM.PDF
 - 2021-09-20: Adresă privind sesizarea CCR (AXS): [axs-258d6641.md](axs-258d6641.md); official file https://www.senat.ro/legis/PDF/2019/19L265AXS.PDF
 - 2021-09-20: Forma trimisă la promulgare (LP): [lp-59a23b0c.md](lp-59a23b0c.md); official file https://www.senat.ro/legis/PDF/2019/19L265LP.PDF
+- 2021-10-11: Decret de promulgare (DP): [dp-e84fe8c7.md](dp-e84fe8c7.md); official file https://www.senat.ro/legis/PDF/2019/19L265DP.PDF
+- 2021-10-11: Adresă privind forma promulgată (AFP): [afp-c06c2e7d.md](afp-c06c2e7d.md); official file https://www.senat.ro/legis/PDF/2019/19L265AFP.PDF
+- 2021-10-11: Forma promulgată (FP): [fp-bc749e86.md](fp-bc749e86.md); official file https://www.senat.ro/legis/PDF/2019/19L265FP.PDF
