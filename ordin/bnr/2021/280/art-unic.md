@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății EUROTATI IFN - S.A., cu sediul în Botoșani, str. Cuza Vodă nr. 11, județul Botoșani, înregistrată la registrul comerțului cu nr. J07/273/1996, cod unic de înregistrare 8586453, înscrisă în Registrul general cu nr. RG-PJR-07- 110150/03.07.2007 și în Registrul special cu nr. RS-PJR-07-110128/03.08.2021, la secțiunea k) "Activități multiple de creditare".
