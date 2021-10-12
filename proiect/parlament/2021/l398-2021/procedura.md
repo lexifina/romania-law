@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-21: rejected by the Chamber of Deputies
 - 2021-09-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-10-05: documents published: Aviz comisie
+- 2021-10-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-22: Forma inițiatorului (FG): [fg-dbebf8e9.md](fg-dbebf8e9.md); official file https://www.senat.ro/legis/PDF/2021/21L398FG.PDF
 - 2021-09-22: Expunere de motive (EM): [em-d5ece38f.md](em-d5ece38f.md); official file https://www.senat.ro/legis/PDF/2021/21L398EM.PDF
 - 2021-10-05: Aviz comisie (CA3): [ca3-c47bbbd0.md](ca3-c47bbbd0.md); official file https://www.senat.ro/legis/PDF/2021/21L398CA3.PDF
+- 2021-10-12: Aviz comisie (CA45): [ca45-efbd74e7.md](ca45-efbd74e7.md); official file https://www.senat.ro/legis/PDF/2021/21L398CA45.PDF
