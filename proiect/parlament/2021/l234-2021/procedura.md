@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-22: sent for promulgation
 - 2021-10-11: promulgated, becomes Legea nr. 248/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-10-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-11: Decret de promulgare (DP): [dp-edcb8742.md](dp-edcb8742.md); official file https://www.senat.ro/legis/PDF/2021/21L234DP.PDF
 - 2021-10-11: Adresă privind forma promulgată (AFP): [afp-dcd5f749.md](afp-dcd5f749.md); official file https://www.senat.ro/legis/PDF/2021/21L234AFP.PDF
 - 2021-10-11: Forma promulgată (FP): [fp-9f9d680a.md](fp-9f9d680a.md); official file https://www.senat.ro/legis/PDF/2021/21L234FP.PDF
+- 2021-10-12: Document (AL): [al-c2797e2e.md](al-c2797e2e.md); official file https://www.senat.ro/legis/PDF/2021/21L234AL.PDF (its day is not given by the bill file: shown from the last stage held)
