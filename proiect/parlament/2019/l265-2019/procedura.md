@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-22: sent for promulgation
 - 2021-10-11: promulgated, becomes Legea nr. 247/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-10-12: published in the Monitorul Oficial
 
 ## Documents
 
