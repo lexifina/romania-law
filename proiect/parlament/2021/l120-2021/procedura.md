@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-14: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-09-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-25: sent for promulgation
+- 2021-10-12: promulgated, becomes Legea nr. 249/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-14: Forma adoptată de Senat (FS): [fs-074cd69a.md](fs-074cd69a.md); official file https://www.senat.ro/legis/PDF/2021/21L120FS.PDF
 - 2021-09-20: Adresă privind sesizarea CCR (AXS): [axs-258d6641.md](axs-258d6641.md); official file https://www.senat.ro/legis/PDF/2021/21L120AXS.PDF
 - 2021-09-20: Forma trimisă la promulgare (LP): [lp-613ffc33.md](lp-613ffc33.md); official file https://www.senat.ro/legis/PDF/2021/21L120LP.PDF
+- 2021-10-12: Decret de promulgare (DP): [dp-567a4d87.md](dp-567a4d87.md); official file https://www.senat.ro/legis/PDF/2021/21L120DP.PDF
+- 2021-10-12: Adresă privind forma promulgată (AFP): [afp-db96a291.md](afp-db96a291.md); official file https://www.senat.ro/legis/PDF/2021/21L120AFP.PDF
+- 2021-10-12: Forma promulgată (FP): [fp-a74b598d.md](fp-a74b598d.md); official file https://www.senat.ro/legis/PDF/2021/21L120FP.PDF
