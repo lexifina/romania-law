@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-09: sent for promulgation
 - 2020-10-19: returned for re-examination
 - 2021-03-22: rejected by the Senate
+- 2021-10-13: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L469AM.PDF
 - 2020-06-03: Adresă privind sesizarea CCR (AXS): [axs-630f1c70.md](axs-630f1c70.md); official file https://www.senat.ro/legis/PDF/2019/19L469AXS.PDF
 - 2020-06-03: Forma trimisă la promulgare (LP): [lp-ed55b577.md](lp-ed55b577.md); official file https://www.senat.ro/legis/PDF/2019/19L469LP.PDF
+- 2021-10-13: Document (SC): [sc-42ba168c.md](sc-42ba168c.md); official file https://www.senat.ro/legis/PDF/2019/19L469SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-13: Document (DC): [dc-a853f6c8.md](dc-a853f6c8.md); official file https://www.senat.ro/legis/PDF/2019/19L469DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-13: Document (RC): [rc-0b78aac6.md](rc-0b78aac6.md); official file https://www.senat.ro/legis/PDF/2019/19L469RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-13: Document (XD): [xd-0e800216.md](xd-0e800216.md); official file https://www.senat.ro/legis/PDF/2019/19L469XD.PDF (its day is not given by the bill file: shown from the last stage held)
