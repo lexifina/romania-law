@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2021-06-16: registered at the Chamber of Deputies
+- 2021-10-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2021-10-13: Raport comisie sesizată pe fond (CR): [cr-f12032ab.md](cr-f12032ab.md); official file https://www.senat.ro/legis/PDF/2021/21L492CR.PDF
