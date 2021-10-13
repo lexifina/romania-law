@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-08: documents published: Aviz comisie
 - 2021-06-14: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2021-10-11: adopted by the Chamber of Deputies
+- 2021-10-13: registered at the Senate
 
 ## Documents
 
