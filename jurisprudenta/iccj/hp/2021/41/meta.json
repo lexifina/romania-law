@@ -1,0 +1,202 @@
+{
+ "key": "iccj-hp-41-2021",
+ "label": "Decizia ÎCCJ nr. 41/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "41",
+ "date": "2021-06-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 41 din 7 iunie 2021",
+ "subtitle": "referitoare la interpretarea art. 55 alin. 1 din Legea nr. 4/1953 - Codul familiei, republicată, cu modificările și completările ulterioare, în forma anterioară modificării intervenite prin Legea nr. 288/2007 pentru modificarea și completarea Legii nr. 4/1953 - Codul familiei",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "979",
+  "bis": false,
+  "date": "2021-10-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "636/1/2021",
+  "4.184/258/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 4/1953",
+    "number": "4",
+    "year": "1953",
+    "path": "lege/1953/4"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2007",
+    "number": "288",
+    "year": "2007",
+    "path": "lege/2007/288"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Harghita - Secția civilă, în Dosarul nr. 4.184/258/2018, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Art. 55 alin.1 din Legea nr. 4/1953 - Codul familiei, republicată, cu modificările și completările ulterioare, în forma anterioară modificării intervenite prin Legea nr. 288/2007 pentru modificarea și completarea Legii nr. 4/1953 - Codul familiei, își menține aplicabilitatea, având în vedere art. 8 din Convenția pentru apărarea drepturilor omului și a libertăților fundamentale, interpretat în lumina jurisprudenței Curții Europene a Drepturilor Omului?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 4/1953",
+    "number": "4",
+    "year": "1953",
+    "path": "lege/1953/4"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2007",
+    "number": "288",
+    "year": "2007",
+    "path": "lege/2007/288"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-10-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247394",
+  "text_sha256": "7d4d271268e428318004a8271c80641663057663199e59f562f888286554106a",
+  "catalogue_sha256": "7d4d271268e428318004a8271c80641663057663199e59f562f888286554106a",
+  "fetched": "2026-11-03T01:41:09Z",
+  "chars": 44510,
+  "portal_id": "247394",
+  "tip": "DECIZIE"
+ }
+}
