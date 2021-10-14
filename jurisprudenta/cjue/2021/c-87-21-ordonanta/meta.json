@@ -1,0 +1,60 @@
+{
+ "key": "cjue-c-87-21-ordonanta-2021-10-14",
+ "label": "CJUE, Ordonanța Curții (Camera a șasea) din 14 octombrie 2021, Cauza C-87/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2021-10-14",
+ "year": "2021",
+ "case": "Cauza C-87/21",
+ "celex": "62021CO0087",
+ "ecli": "ECLI:EU:C:2021:860",
+ "heading": "Ordonanța Curții (Camera a șasea) din 14 octombrie 2021",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2020-11-26",
+   "national_file": "2016/679"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": "NSV și NM împotriva BT",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Articolul 99 din Regulamentul de procedură al Curții – Protecția consumatorilor – Directiva 93/13/CEE – Clauze abuzive în contractele încheiate cu consumatorii – Domeniu de aplicare – Articolul 1 alineatul (2) – Clauze contractuale care reflectă acte cu putere de lege sau norme administrative obligatorii – Contracte de împrumut exprimate în monedă străină – Clauze referitoare la riscul valutar care preiau o dispoziție supletivă din dreptul național – Pretinsă încălcare a obligației de informare ce revine instituției bancare creditoare – Cerința bunei‑credințe – Examinare de către instanța națională care trebuie efectuată cu prioritate în raport cu articolul 1 alineatul (2) din Directiva 93/13",
+ "interprets": [
+  {
+   "celex": "31993L0013",
+   "folder": "ue/directiva/1993/13"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CO0087",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-87/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a842a11a-365d-11ec-8daf-01aa75ed71a1.0002.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "4e686308c8281bcc032e36f163ff97bad95b4411160558ca9d1a61f4a70ed476"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară:",
+  "Articolul 1 alineatul (2) din Directiva 93/13/CEE al Consiliului din 5 aprilie 1993 a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii trebuie interpretat în sensul că o clauză inserată într‑un contract de împrumut exprimat în monedă străină, încheiat între un consumator și un profesionist, care reflectă o dispoziție de drept național de natură supletivă nu intră în domeniul de aplicare al acestei directive, chiar dacă:",
+  "– această dispoziție de drept național nu a făcut obiectul unei evaluări de către legiuitorul național, în vederea instituirii unui echilibru între interesele consumatorului și ale profesionistului, în cadrul specific al contractelor de împrumut bancar încheiate cu consumatorii;",
+  "– profesionistul a inserat această clauză în contractul vizat cu nerespectarea obligației sale de informare și de transparență;",
+  "– există indicii care permit să se considere că profesionistul în cauză a inserat clauza respectivă în acest contract acționând cu rea‑credință, acest profesionist neputând ignora faptul că aplicarea aceleiași clauze era susceptibilă să provoace un dezechilibru semnificativ între drepturile și obligațiile părților la contractul menționat, în detrimentul consumatorului."
+ ]
+}
