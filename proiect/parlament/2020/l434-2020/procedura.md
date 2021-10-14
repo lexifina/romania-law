@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-09-21: adopted by the Chamber of Deputies
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
+- 2021-10-14: promulgated, becomes Legea nr. 251/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-08-06: Adresă către Camera Deputaților (AM): [am-4b8c7b92.md](am-4b8c7b92.md); official file https://www.senat.ro/legis/PDF/2020/20L434AM.PDF
 - 2021-09-27: Adresă privind sesizarea CCR (AXS): [axs-e5f1be70.md](axs-e5f1be70.md); official file https://www.senat.ro/legis/PDF/2020/20L434AXS.PDF
 - 2021-09-27: Forma trimisă la promulgare (LP): [lp-dbc76d1d.md](lp-dbc76d1d.md); official file https://www.senat.ro/legis/PDF/2020/20L434LP.PDF
+- 2021-10-14: Decret de promulgare (DP): [dp-014421de.md](dp-014421de.md); official file https://www.senat.ro/legis/PDF/2020/20L434DP.PDF
+- 2021-10-14: Adresă privind forma promulgată (AFP): [afp-4d9f5203.md](afp-4d9f5203.md); official file https://www.senat.ro/legis/PDF/2020/20L434AFP.PDF
+- 2021-10-14: Forma promulgată (FP): [fp-661400fb.md](fp-661400fb.md); official file https://www.senat.ro/legis/PDF/2020/20L434FP.PDF
