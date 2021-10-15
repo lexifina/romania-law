@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURA de decontare a sumelor pentru plata indemnizației pentru fiecare zi liberă acordată în condițiile art. 1 din Ordonanța de urgență a Guvernului nr. 110/2021 privind acordarea unor zile libere plătite părinților și altor categorii de persoane în contextul răspândirii coronavirusului SARS-CoV-2, a documentelor justificative, precum și a modelului acestora
