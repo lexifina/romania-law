@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de implementare a sesiunii nr. 2 aferente măsurii "Microgranturi acordate din fonduri externe nerambursabile" din cadrul schemei de ajutor de stat instituite prin Ordonanța de urgență a Guvernului nr. 130/2020 privind unele măsuri pentru acordarea de sprijin financiar din fonduri externe nerambursabile, aferente Programului operațional Competitivitate 2014-2020, în contextul crizei provocate de COVID-19, precum și alte măsuri în domeniul fondurilor europene
