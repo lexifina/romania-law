@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2021-06-15: first record in the bill file
 - 2021-08-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2021-10-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,5 @@ Initiator: Guvernul României.
 - 2021-08-30: Aviz Consiliul Legislativ (LG): [lg-284e0943.md](lg-284e0943.md); official file https://www.senat.ro/legis/PDF/2021/21L319LG.PDF
 - 2021-08-30: Document (OG): [og-b72354fd.md](og-b72354fd.md); official file https://www.senat.ro/legis/PDF/2021/21L319OG.PDF
 - 2021-08-30: Document (HG): [hg-12c484df.md](hg-12c484df.md); official file https://www.senat.ro/legis/PDF/2021/21L319HG.PDF
+- 2021-10-15: Forma adoptată de Senat (FS): [fs-5d635108.md](fs-5d635108.md); official file https://www.senat.ro/legis/PDF/2021/21L319FS.PDF
+- 2021-10-15: Adresă către Camera Deputaților (AM): [am-cb647a6b.md](am-cb647a6b.md); official file https://www.senat.ro/legis/PDF/2021/21L319AM.PDF
