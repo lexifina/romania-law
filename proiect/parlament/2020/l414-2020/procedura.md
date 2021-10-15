@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-09-21: adopted by the Chamber of Deputies
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
+- 2021-10-15: promulgated, becomes Legea nr. 253/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-0eba0f8d.md](am-0eba0f8d.md); official file https://www.senat.ro/legis/PDF/2020/20L414AM.PDF
 - 2021-09-27: Adresă privind sesizarea CCR (AXS): [axs-7fd9ef3b.md](axs-7fd9ef3b.md); official file https://www.senat.ro/legis/PDF/2020/20L414AXS.PDF
 - 2021-09-27: Forma trimisă la promulgare (LP): [lp-764f9b4b.md](lp-764f9b4b.md); official file https://www.senat.ro/legis/PDF/2020/20L414LP.PDF
+- 2021-10-15: Decret de promulgare (DP): [dp-a362d3ba.md](dp-a362d3ba.md); official file https://www.senat.ro/legis/PDF/2020/20L414DP.PDF
+- 2021-10-15: Adresă privind forma promulgată (AFP): [afp-f403cc7c.md](afp-f403cc7c.md); official file https://www.senat.ro/legis/PDF/2020/20L414AFP.PDF
+- 2021-10-15: Forma promulgată (FP): [fp-4ae8e84c.md](fp-4ae8e84c.md); official file https://www.senat.ro/legis/PDF/2020/20L414FP.PDF
