@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-03-02: registered at the Chamber of Deputies
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
+- 2021-10-15: promulgated, becomes Legea nr. 255/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2020-02-26: Adresă către Camera Deputaților (AM): [am-aa4bb946.md](am-aa4bb946.md); official file https://www.senat.ro/legis/PDF/2020/20L080AM.PDF
 - 2021-09-27: Adresă privind sesizarea CCR (AXS): [axs-b5b292c3.md](axs-b5b292c3.md); official file https://www.senat.ro/legis/PDF/2020/20L080AXS.PDF
 - 2021-09-27: Forma trimisă la promulgare (LP): [lp-0262e42c.md](lp-0262e42c.md); official file https://www.senat.ro/legis/PDF/2020/20L080LP.PDF
+- 2021-10-15: Decret de promulgare (DP): [dp-8941297e.md](dp-8941297e.md); official file https://www.senat.ro/legis/PDF/2020/20L080DP.PDF
+- 2021-10-15: Adresă privind forma promulgată (AFP): [afp-dac3298c.md](afp-dac3298c.md); official file https://www.senat.ro/legis/PDF/2020/20L080AFP.PDF
+- 2021-10-15: Forma promulgată (FP): [fp-1c3e4c87.md](fp-1c3e4c87.md); official file https://www.senat.ro/legis/PDF/2020/20L080FP.PDF
