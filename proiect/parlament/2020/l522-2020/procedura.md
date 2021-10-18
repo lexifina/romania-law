@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-14: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2020-10-20: registered at the Chamber of Deputies
 - 2021-10-13: adopted by the Chamber of Deputies
+- 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-13: Raport comisie sesizată pe fond (CR): [cr-3f6ee99a.md](cr-3f6ee99a.md); official file https://www.senat.ro/legis/PDF/2020/20L522CR.PDF
 - 2020-10-14: Forma adoptată de Senat (FS): [fs-0016a87b.md](fs-0016a87b.md); official file https://www.senat.ro/legis/PDF/2020/20L522FS.PDF
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-d0299ea6.md](am-d0299ea6.md); official file https://www.senat.ro/legis/PDF/2020/20L522AM.PDF
+- 2021-10-18: Adresă privind sesizarea CCR (AXS): [axs-32e9902a.md](axs-32e9902a.md); official file https://www.senat.ro/legis/PDF/2020/20L522AXS.PDF
+- 2021-10-18: Forma trimisă la promulgare (LP): [lp-2b3a1e02.md](lp-2b3a1e02.md); official file https://www.senat.ro/legis/PDF/2020/20L522LP.PDF
