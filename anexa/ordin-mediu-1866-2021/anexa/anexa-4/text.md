@@ -1,0 +1,10 @@
+# Anexa 4
+Anexa nr. 1
+la contractul de finanțare
+CAPITOLE ȘI SUBCAPITOLE DE CHELTUIELI ELIGIBILE
+AFM
+Președinte,
+.....................................
+BENEFICIAR
+Prin reprezentant legal,
+.....................................
