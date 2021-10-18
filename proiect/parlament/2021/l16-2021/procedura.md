@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-06-04: sent for promulgation
 - 2021-06-22: returned for re-examination
 - 2021-10-11: adopted by the Senate
+- 2021-10-18: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Guvernul României.
 - 2021-02-22: Adresă către Camera Deputaților (AM): [am-f51a2ef7.md](am-f51a2ef7.md); official file https://www.senat.ro/legis/PDF/2021/21L016AM.PDF
 - 2021-06-02: Adresă privind sesizarea CCR (AXS): [axs-266af189.md](axs-266af189.md); official file https://www.senat.ro/legis/PDF/2021/21L016AXS.PDF
 - 2021-06-02: Forma trimisă la promulgare (LP): [lp-806200fd.md](lp-806200fd.md); official file https://www.senat.ro/legis/PDF/2021/21L016LP.PDF
+- 2021-10-18: Document (AT): [at-e5abfd57.md](at-e5abfd57.md); official file https://www.senat.ro/legis/PDF/2021/21L016AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (S1): [s1-fc6a74ef.md](s1-fc6a74ef.md); official file https://www.senat.ro/legis/PDF/2021/21L016S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (RX): [rx-249f89ed.md](rx-249f89ed.md); official file https://www.senat.ro/legis/PDF/2021/21L016RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (XA): [xa-b1771fb0.md](xa-b1771fb0.md); official file https://www.senat.ro/legis/PDF/2021/21L016XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (CX): [cx-e91d8dce.md](cx-e91d8dce.md); official file https://www.senat.ro/legis/PDF/2021/21L016CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (XD): [xd-0a198b33.md](xd-0a198b33.md); official file https://www.senat.ro/legis/PDF/2021/21L016XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-18: Document (SX): [sx-d61b314d.md](sx-d61b314d.md); official file https://www.senat.ro/legis/PDF/2021/21L016SX.PDF (its day is not given by the bill file: shown from the last stage held)
