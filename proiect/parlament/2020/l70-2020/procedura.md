@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-21: adopted by the Chamber of Deputies
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
+- 2021-10-18: promulgated, becomes Legea nr. 256/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-03-02: Adresă către Camera Deputaților (AM): [am-3481fd92.md](am-3481fd92.md); official file https://www.senat.ro/legis/PDF/2020/20L070AM.PDF
 - 2021-09-27: Adresă privind sesizarea CCR (AXS): [axs-fa5c67aa.md](axs-fa5c67aa.md); official file https://www.senat.ro/legis/PDF/2020/20L070AXS.PDF
 - 2021-09-27: Forma trimisă la promulgare (LP): [lp-cef142ab.md](lp-cef142ab.md); official file https://www.senat.ro/legis/PDF/2020/20L070LP.PDF
+- 2021-10-18: Decret de promulgare (DP): [dp-235d8bed.md](dp-235d8bed.md); official file https://www.senat.ro/legis/PDF/2020/20L070DP.PDF
+- 2021-10-18: Adresă privind forma promulgată (AFP): [afp-07d2dcc5.md](afp-07d2dcc5.md); official file https://www.senat.ro/legis/PDF/2020/20L070AFP.PDF
+- 2021-10-18: Forma promulgată (FP): [fp-f699c7a0.md](fp-f699c7a0.md); official file https://www.senat.ro/legis/PDF/2020/20L070FP.PDF
