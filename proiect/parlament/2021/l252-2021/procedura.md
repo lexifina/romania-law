@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
 - 2021-10-18: promulgated, becomes Legea nr. 257/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-10-19: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2021-10-18: Decret de promulgare (DP): [dp-ace05c0e.md](dp-ace05c0e.md); official file https://www.senat.ro/legis/PDF/2021/21L252DP.PDF
 - 2021-10-18: Adresă privind forma promulgată (AFP): [afp-2c2aa2fc.md](afp-2c2aa2fc.md); official file https://www.senat.ro/legis/PDF/2021/21L252AFP.PDF
 - 2021-10-18: Forma promulgată (FP): [fp-e7a5a9e5.md](fp-e7a5a9e5.md); official file https://www.senat.ro/legis/PDF/2021/21L252FP.PDF
+- 2021-10-19: Document (AL): [al-d06e9aaf.md](al-d06e9aaf.md); official file https://www.senat.ro/legis/PDF/2021/21L252AL.PDF (its day is not given by the bill file: shown from the last stage held)
