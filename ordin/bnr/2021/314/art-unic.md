@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a societății PRO VITAL CREDIT IFN - S.A., cu sediul în str. Octav Cocărăscu nr. 14, sectorul 1, București, înregistrată la Registrul Comerțului cu nr. J40/12895/2019, cod unic de înregistrare 41694686, înscrisă în Registrul general cu nr. RG-PJR-41-110355/30.07.2020, la secțiunea k) - Activități multiple de creditare.
