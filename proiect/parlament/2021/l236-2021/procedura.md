@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-29: sent for promulgation
 - 2021-10-18: promulgated, becomes Legea nr. 258/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-10-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,7 @@ Initiator: Guvernul României.
 - 2021-10-18: Decret de promulgare (DP): [dp-196a332b.md](dp-196a332b.md); official file https://www.senat.ro/legis/PDF/2021/21L236DP.PDF
 - 2021-10-18: Adresă privind forma promulgată (AFP): [afp-149703c6.md](afp-149703c6.md); official file https://www.senat.ro/legis/PDF/2021/21L236AFP.PDF
 - 2021-10-18: Forma promulgată (FP): [fp-b83ef1a6.md](fp-b83ef1a6.md); official file https://www.senat.ro/legis/PDF/2021/21L236FP.PDF
+- 2021-10-20: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L236DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-20: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L236TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-20: Document (AL): [al-4b23fc80.md](al-4b23fc80.md); official file https://www.senat.ro/legis/PDF/2021/21L236AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-10-20: Document (TC): [tc-ed0060a9.md](tc-ed0060a9.md); official file https://www.senat.ro/legis/PDF/2021/21L236TC.PDF (its day is not given by the bill file: shown from the last stage held)
