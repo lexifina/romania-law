@@ -1,0 +1,264 @@
+{
+ "key": "dcc-506-2021",
+ "label": "Decizia CCR nr. 506/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "506",
+ "date": "2021-07-13",
+ "year": "2021",
+ "heading": "DECIZIA nr. 506 din 13 iulie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații\" din cuprinsul art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, precum și a prevederilor art. 169^2 din aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1015",
+  "bis": false,
+  "date": "2021-10-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "270/97/2018",
+  "1.571D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Vasile Băbănaș, Neculai Datcu, Costel Postolache, Alexandru Cioflică, Nuțu Cioran, Petru Bolog, Viorel Gîrdea, Adrian Trofin, Pap Ernő, Miluca Stoica, Molnar Francisc, Marinel Mocanu, Florin-Ionel Stan, Virgil Niță, Ioan Tecșa, Radu Lăbușcă, Ionel Ion, Eugen Cornel Stoicoiu și Vasile Berecki în dosarele nr. 270/97/2018, nr. 272/97/2018, nr. 700/97/2018, nr. 607/97/2018, nr. 3.087/97/2018, nr. 3.088/97/2018, nr. 885/97/2018, nr. 713/97/2018, nr. 1.802/97/2018, nr. 802/97/2018, nr. 1.146/97/2018, nr. 1.046/97/2018, nr. 3.096/97/2018, nr. 994/97/2018, nr. 737/97/2018, nr. 1.210/97/2018, nr. 740/97/2018, nr. 3.034/97/2018 și nr. 2.677/97/2018 ale Curții de Apel Alba Iulia - Secția I civilă și constată că sintagma „stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații“ din cuprinsul art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, precum și dispozițiile art. 169^2 din aceeași lege sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Alba Iulia - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247657",
+  "text_sha256": "3d9a74d860550305398994ed436ace7aee3cdca374169ec6f50f0c7c0e38a8c8",
+  "catalogue_sha256": "3d9a74d860550305398994ed436ace7aee3cdca374169ec6f50f0c7c0e38a8c8",
+  "fetched": "2026-11-03T01:40:50Z",
+  "chars": 28790,
+  "portal_id": "247657",
+  "tip": "DECIZIE"
+ }
+}
