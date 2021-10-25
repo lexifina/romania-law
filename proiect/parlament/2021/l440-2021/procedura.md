@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-09-28: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2021-10-18: rejected by the Senate; documents published: Raport comisie sesizată pe fond, Adresă către Camera Deputaților
+- 2021-10-25: registered at the Chamber of Deputies
 
 ## Documents
 
