@@ -1,0 +1,285 @@
+{
+ "key": "dcc-418-2021",
+ "label": "Decizia CCR nr. 418/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "418",
+ "date": "2021-06-17",
+ "year": "2021",
+ "heading": "DECIZIA nr. 418 din 17 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, precum și a prevederilor art. 518-521 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1018",
+  "bis": false,
+  "date": "2021-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.316D/2018",
+  "1.368D/2018",
+  "3.066/183/2015",
+  "31.703/197/2014",
+  "67.810/301/2014",
+  "1.895D/2018",
+  "1.928D/2018",
+  "6.633/302/2016",
+  "1.987D/2018",
+  "386/257/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "I. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a prevederilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, excepție ridicată de Societatea Pastur - S.R.L. din comuna Nojorid, județul Bihor, și de Banca Comercială Română - S.A. din București în dosarele nr. 8.599/271/C/2016 - R și, respectiv, nr. 651/296/C/2017-R ale Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal, de Petru Cichiroiu în Dosarul nr. 3.066/183/2015* al Curții de Apel Craiova - Secția I civilă, de Piraeus Bank România - S.A., Banca Comercială Română - S.A., Lucian Alin Ciulcu, Carmen Diana Ciulcu și de Claudiu Viorel Ciucă în dosarele nr. 8.572/318/2015, nr. 11.013/225/2015, nr. 11.478/318/2015*, nr. 5.061/215/2016 și nr. 687/63/2017* ale Curții de Apel Craiova - Secția a II-a civilă, de Societatea DA - S.R.L. din Vaslui în Dosarul nr. 31.703/197/2014 al Curții de Apel Brașov - Secția civilă, de Consiliul Național pentru Studierea Arhivelor Securității în Dosarul nr. 67.810/301/2014 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, de Alexandru-Cornel-Lucian Luncian și Sultănica Luncian în Dosarul nr. 7.272/325/2017 al Curții de Apel Timișoara - Secția I civilă, de Elena Dumitrescu Pîrvu și Manuel Laurențiu Pîrvu în Dosarul nr. 6.633/302/2016 al Curții de Apel București - Secția a VI-a civilă și de Olga Pleșa și, respectiv, de Elisabeta Maria Mareș și Lia Sima în dosarele nr. 386/257/2016 și nr. 968/272/2016 ale Curții de Apel Alba Iulia - Secția I civilă.",
+  "II. Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 518-521 din Codul de procedură civilă, excepție ridicată de Societatea Pastur - S.R.L. din comuna Nojorid, județul Bihor, și de Banca Comercială Română -S.A. din București în dosarele nr. 8.599/271/C/2016 - R și, respectiv nr. 651/296/C/2017-R ale Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal, de Petru Cichiroiu în Dosarul nr. 3.066/183/2015* al Curții de Apel Craiova - Secția I civilă, de Elena Dumitrescu Pîrvu și Manuel Laurențiu Pîrvu în Dosarul nr. 6.633/302/2016 al Curții de Apel București - Secția a VI-a civilă, de Olga Pleșa și, respectiv, de Elisabeta Maria Mareș și Lia Sima în dosarele nr. 386/257/2016 și nr. 968/272/2016 ale Curții de Apel Alba Iulia - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Oradea - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Craiova - Secția I civilă, Curții de Apel Craiova - Secția a II-a civilă, Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, Curții de Apel Timișoara - Secția I civilă, Curții de Apel București - Secția a VI-a civilă, Curții de Apel Brașov - Secția civilă și Curții de Apel Alba Iulia - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "511",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247688",
+  "text_sha256": "fb5d84e0e9702c82a25c93b928273e744b2db1efd45c938a8896d223cdc22644",
+  "catalogue_sha256": "fb5d84e0e9702c82a25c93b928273e744b2db1efd45c938a8896d223cdc22644",
+  "fetched": "2026-11-03T01:40:50Z",
+  "chars": 39166,
+  "portal_id": "247688",
+  "tip": "DECIZIE"
+ }
+}
