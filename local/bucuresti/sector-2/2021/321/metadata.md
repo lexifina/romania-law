@@ -1,0 +1,10 @@
+# HCLS2 nr. 321/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 2 al Municipiului București
+- Decision: nr. 321/2021
+- Published: 2021-10-26
+- Title: privind aprobarea indicatorilor tehnico-economici şi a devizului general pentru reabilitarea-modernizarea Liceului Teoretic „Lucian Blaga” – liceu, şcoalăşi magazie din Şos. Pantelimon nr. 355, Sectorul 2 al Municipiului Bucureşti Modificată/completată prin HCL S2 nr. 235/2022
+- Record: https://cl.ps2.ro/index.php/consiliul-local/hotarari/2021/hotararea-nr-321
+- Document: https://cl.ps2.ro/index.php/consiliul-local/hotarari/hotararea-nr-321/download
