@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-10-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2021-10-26: documents published: Aviz comisie
+- 2021-10-27: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,8 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-18: Aviz Consiliul Economic și Social (ES): [es-75bdc188.md](es-75bdc188.md); official file https://www.senat.ro/legis/PDF/2021/21L467ES.PDF
 - 2021-10-18: Aviz Consiliul Legislativ (LG): [lg-4edcbba3.md](lg-4edcbba3.md); official file https://www.senat.ro/legis/PDF/2021/21L467LG.PDF
 - 2021-10-26: Aviz comisie (CA19): [ca19-ee35095a.md](ca19-ee35095a.md); official file https://www.senat.ro/legis/PDF/2021/21L467CA19.PDF
+- 2021-10-27: Aviz comisie (CA3): [ca3-9dfbc36f.md](ca3-9dfbc36f.md); official file https://www.senat.ro/legis/PDF/2021/21L467CA3.PDF
+- 2021-10-27: Aviz comisie (CA8): [ca8-35b15214.md](ca8-35b15214.md); official file https://www.senat.ro/legis/PDF/2021/21L467CA8.PDF
+- 2021-10-27: Raport comisie sesizată pe fond (CR): [cr-b8649666.md](cr-b8649666.md); official file https://www.senat.ro/legis/PDF/2021/21L467CR.PDF
+- 2021-10-27: Forma adoptată de Senat (FS): [fs-fd07767d.md](fs-fd07767d.md); official file https://www.senat.ro/legis/PDF/2021/21L467FS.PDF
+- 2021-10-27: Adresă către Camera Deputaților (AM): [am-2f027e4a.md](am-2f027e4a.md); official file https://www.senat.ro/legis/PDF/2021/21L467AM.PDF
