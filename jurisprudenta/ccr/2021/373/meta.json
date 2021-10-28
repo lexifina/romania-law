@@ -1,0 +1,287 @@
+{
+ "key": "dcc-373-2021",
+ "label": "Decizia CCR nr. 373/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "373",
+ "date": "2021-06-03",
+ "year": "2021",
+ "heading": "DECIZIA nr. 373 din 3 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 4 alin. (1) lit. a) coroborate cu cele ale art. 1 alin. (1) și (2) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1029",
+  "bis": false,
+  "date": "2021-10-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "15.219/215/2016",
+  "1.539D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 4 alin. (1) lit. a) coroborate cu cele ale art. 1 alin. (1) și (2) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de Cabinetul Stomatologic Dobrin S. Anca Maria în Dosarul nr. 15.219/215/2016 al Tribunalului Dolj - Secția a II-a civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2000",
+    "number": "193",
+    "year": "2000",
+    "path": "lege/2000/193"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "1271",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/1992",
+    "number": "2",
+    "year": "1992",
+    "path": "og/1992/2"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinței nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-10-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247742",
+  "text_sha256": "5bc78b03821d2fb91685ba65d22d204d36e2c5d0e9060adde6f9259c1ec097b1",
+  "catalogue_sha256": "5bc78b03821d2fb91685ba65d22d204d36e2c5d0e9060adde6f9259c1ec097b1",
+  "fetched": "2026-11-03T01:40:28Z",
+  "chars": 26821,
+  "portal_id": "247742",
+  "tip": "DECIZIE"
+ }
+}
