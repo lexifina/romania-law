@@ -1,0 +1,57 @@
+{
+ "key": "cjue-c-909-19-hotarare-2021-10-28",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 28 octombrie 2021, Cauza C-909/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2021-10-28",
+ "year": "2021",
+ "case": "Cauza C-909/19",
+ "celex": "62019CJ0909",
+ "ecli": "ECLI:EU:C:2021:893",
+ "heading": "Hotărârea Curții (Camera a zecea) din 28 octombrie 2021",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Iaşi",
+   "date": "2019-12-03",
+   "national_file": "18/89/2018"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Iași",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția securității și a sănătății lucrătorilor – Directiva 2003/88/CE – Organizarea timpului de lucru – Articolul 2 punctele 1 și 2 – Noțiunile de «timp de lucru» și de «perioadă de repaus» – Formare profesională obligatorie urmată la inițiativa angajatorului",
+ "interprets": [
+  {
+   "celex": "32003L0088",
+   "folder": "ue/directiva/2003/88"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0909",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-909/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/8ebc6508-37cc-11ec-8daf-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "79cb270ad79c2a7f8ca0b9f20b08edcef676b97994137691328b786e060d15f9"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "Articolul 2 punctul 1 din Directiva 2003/88/CE a Parlamentului European și a Consiliului din 4 noiembrie 2003 privind anumite aspecte ale organizării timpului de lucru trebuie interpretat în sensul că perioada în care un lucrător urmează o formare profesională care îi este impusă de angajatorul său, care se desfășoară în afara locului său obișnuit de muncă, în localurile prestatorului serviciilor de formare, și în care nu își exercită atribuțiile obișnuite constituie „timp de lucru”, în sensul acestei dispoziții."
+ ]
+}
