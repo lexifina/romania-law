@@ -1,0 +1,11 @@
+# HCGMB nr. 336/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 336/2021
+- Adopted: 2021-10-29
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 138/30.06.2015 PRIVIND DECLANSAREA PROCEDURILOR DE EXPROPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA ’'PENETRAJIE PRELUNGIREA GHENCEA – DOMNESTI SI SUPRALARGIRE BULEVARDUL GHENCEA INTRE STR. BRASOV SI TERMINAL TRAMVAI 41 ” IN VEDEREA EFECTUARII LUCRARILOR DE INTERES PUBLIC LOCAL. MODIFICA ART. NR. 2 SI NR. 4 DIN HCGMB NR. 138/2015
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42149
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/42149/H336_21.pdf
+- Document sha256: e66a5c0ddd1571e045ce342d3f23ad93801d38617b97b3867b21bbd3814f1df0
