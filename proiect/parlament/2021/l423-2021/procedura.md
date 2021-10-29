@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2021-10-18: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-10-25: registered at the Chamber of Deputies
 - 2021-10-27: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-10-29: sent for promulgation; promulgated, becomes Legea nr. 259/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2021-10-18: Adresă către Camera Deputaților (AM): [am-0037da66.md](am-0037da66.md); official file https://www.senat.ro/legis/PDF/2021/21L423AM.PDF
 - 2021-10-27: Adresă privind sesizarea CCR (AXS): [axs-04a74c90.md](axs-04a74c90.md); official file https://www.senat.ro/legis/PDF/2021/21L423AXS.PDF
 - 2021-10-27: Forma trimisă la promulgare (LP): [lp-4e71b282.md](lp-4e71b282.md); official file https://www.senat.ro/legis/PDF/2021/21L423LP.PDF
+- 2021-10-29: Decret de promulgare (DP): [dp-08465657.md](dp-08465657.md); official file https://www.senat.ro/legis/PDF/2021/21L423DP.PDF
+- 2021-10-29: Adresă privind forma promulgată (AFP): [afp-4afc8b3d.md](afp-4afc8b3d.md); official file https://www.senat.ro/legis/PDF/2021/21L423AFP.PDF
+- 2021-10-29: Forma promulgată (FP): [fp-19f643ca.md](fp-19f643ca.md); official file https://www.senat.ro/legis/PDF/2021/21L423FP.PDF
