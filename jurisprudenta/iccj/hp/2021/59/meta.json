@@ -1,0 +1,271 @@
+{
+ "key": "iccj-hp-59-2021",
+ "label": "Decizia ÎCCJ nr. 59/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2021-09-13",
+ "year": "2021",
+ "heading": "DECIZIA nr. 59 din 13 septembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 207 alin. (2) și (3) din Legea nr. 95/2006 raportate la prevederile art. 31 alin. (8) din Legea-cadru nr. 153/2017 și ale art. 10 din anexa nr. II cap. II din aceeași lege, precum și la prevederile art. 41 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 286/2011",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1049",
+  "bis": false,
+  "date": "2021-11-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.638/1/2021",
+  "4.308/63/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția de litigii de muncă și asigurări sociale în Dosarul nr. 4.308/63/2020 și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea prevederilor art. 207 alin. (2) și (3) din Legea nr. 95/2006 raportate la prevederile art. 31 alin. (8) din Legea-cadru nr. 153/2017 și ale art. 10 din anexa nr. II cap. II din aceeași lege, precum și la prevederile art. 41 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 286/2011, încadrarea asistenților medicali absolvenți de studii sanitare postliceale sau superioare de scurtă durată într-o specializare de profil clinic, care au dobândit gradul de principal și, ulterior, au absolvit studii superioare de asistent medical generalist sau de moașă, în funcția corespunzătoare studiilor superioare absolvite, în condițiile art. 207 alin. (2) și (3) din Legea nr. 95/2006, intervine de drept, nefiind condiționată de îndeplinirea altor cerințe pentru promovarea în funcție, respectiv de încadrarea în cheltuielile de personal aprobate în buget, conform art. 31 alin. (8) din Legea-cadru nr. 153/2017, și de transformarea postului avut într-un post corespunzător studiilor superioare absolvite, în condițiile art. 10 din anexa nr. II cap. II din Legea-cadru nr. 153/2017 și ale art. 41 din Regulamentul-cadru aprobat prin Hotărârea Guvernului nr. 286/2011.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "207",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "202",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2",
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 286/2011",
+    "number": "286",
+    "year": "2011",
+    "path": "hg/2011/286"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 1.224/2010",
+    "number": "1224",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 153/2018",
+    "number": "153",
+    "year": "2018",
+    "path": "hg/2018/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 35/2012",
+    "number": "35",
+    "year": "2012",
+    "path": "oug/2012/35"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 358/2013",
+    "number": "358",
+    "year": "2013",
+    "path": "lege/2013/358"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 45/2016",
+    "number": "45",
+    "year": "2016",
+    "path": "oug/2016/45"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247877",
+  "text_sha256": "69fac1315d9f8e61066d990cac53d804288cde4c7373de87807ce6a7346b2483",
+  "catalogue_sha256": "69fac1315d9f8e61066d990cac53d804288cde4c7373de87807ce6a7346b2483",
+  "fetched": "2026-11-03T15:42:23Z",
+  "chars": 63234,
+  "portal_id": "247877",
+  "tip": "DECIZIE"
+ }
+}
