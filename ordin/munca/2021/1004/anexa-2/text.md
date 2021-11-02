@@ -1,0 +1,9 @@
+# ANEXĂ la cerere
+Către
+AGENȚIA PENTRU PLĂȚI ȘI INSPECȚIE SOCIALĂ A JUDEȚULUI............./MUNICIPIULUI BUCUREȘTI
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul,....................., cu domiciliul/sediul în localitatea...................., str....................... nr......., județul.........../ municipiul..............., sectorul...., identificat cu CI/BI seria...... nr........., CNP......................, telefon...................., e-mail..................., cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, cu privire la falsul în declarații, declar pe propria răspundere că, în contextul creșterii incidenței răspândirii coronavirusului SARS-CoV-2 și al măsurilor pentru diminuarea impactului tipului de risc prevăzute de hotărârile Guvernului pentru prelungirea stării de alertă pe teritoriul României, activitatea desfășurată este întreruptă temporar total sau parțial, pe perioada în care solicit acordarea acestei indemnizații.
+Menționez că în luna pentru care solicit indemnizația nu beneficiez de sprijinul prevăzut de art. 3 din Ordonanța de urgență a Guvernului nr. 132/2020 privind măsuri de sprijin destinate salariaților și angajatorilor în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, precum și pentru stimularea creșterii ocupării forței de muncă, aprobată cu modificări și completări prin Legea nr. 282/2020, cu modificările și completările ulterioare.
+Data.......................................
+Numele și prenumele (în clar)..........................
+Semnătura..................................
