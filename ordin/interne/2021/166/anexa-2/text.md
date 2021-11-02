@@ -1,0 +1,29 @@
+# Anexa nr. 2
+DECLARAȚIE PE PROPRIA RĂSPUNDERE (a părintelui care formulează cererea de acordare a majorării salariale)
+- model -
+Subsemnatul/Subsemnata,................................................., cu domiciliul în..........................................., legitimat/legitimată cu......... seria.......... nr........................, CNP............................., angajat/angajată la................................. în funcția de................................, cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, cu privire la falsul în declarații, declar prin prezenta, pe propria răspundere:
+1. am calitatea de: a) [] părinte firesc, potrivit Legii nr. 287/2009 privind Codul civil, republicată, cu modificările ulterioare;
+b) [] adoptator;
+c) [] persoană care are copilul/copiii în încredințare în vederea adopției;
+d) [] persoană care are copilul în plasament sau sub tutelă;
+e) [] persoană desemnată conform art. 104 alin. (2) din Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, republicată, cu modificările și completările ulterioare;
+f) [] părinte sau reprezentant legal al persoanei adulte cu handicap înscrise într-o unitate de învățământ;
+g) [] părinte sau reprezentant legal al copilului cu handicap grav neșcolarizat, care a optat pentru acordarea indemnizației prevăzute de art. 42 alin. (4) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare - doar în situațiile în care activitatea serviciului de zi este limitată/suspendată, prin dispoziție/decizie a autorității care are în administrare serviciul de zi, ca urmare a răspândirii coronavirusului SARS-CoV-2;
+h) [] părinte care are în îngrijire, supraveghere și întreținere persoana adultă încadrată în grad de handicap grav sau în grad de handicap grav cu asistent personal pentru care s-a optat pentru acordarea indemnizației prevăzute de art. 42 alin. (4) din Legea nr. 448/2006, republicată, cu modificările și completările ulterioare - doar dacă beneficiază de servicii de zi, a căror activitate este limitată sau suspendată, prin dispoziție/decizie a autorității care are în administrare serviciul de zi, ca urmare a răspândirii coronavirusului SARS-CoV-2;
+i) [] părinte având unul sau mai mulți copii cu vârsta de până la 18 ani, înscris/înscriși în cadrul unei/unor unități de învățământ, care face/fac parte dintr-o grupă de risc, respectiv cei diagnosticați cu boli respiratorii cronice severe, boli cardiovasculare, obezitate severă, diabet zaharat tip I, boli inflamatorii, boli imune/autoimune, boli rare, boli ereditare de metabolism, dizabilități, tratament imunosupresiv sau alte afecțiuni cronice;
+j) [] părinte având unul sau mai mulți copii cu vârsta de până la 18 ani, înscris/înscriși în cadrul unei/unor unități de învățământ, care face/fac parte dintr-o grupă de risc, respectiv este/sunt diagnosticat/diagnosticați cu afecțiuni asociate cu imunodepresie moderată sau severă, au suferit un transplant, prezintă afecțiuni oncologice în tratament imunosupresor, imunodeficiențe primare sau dobândite sau urmează alte tipuri de tratamente imunosupresoare;
+k) [] părinte având unul sau mai mulți copii cu vârsta de până la 18 ani, înscris/înscriși în cadrul unei/unor unități de învățământ, care locuiește/locuiesc împreună cu o persoană diagnosticată cu afecțiuni asociate cu imunodepresie moderată sau severă, a suferit un transplant, prezintă afecțiuni oncologice în tratament imunosupresor, imunodeficiențe primare sau dobândite sau urmează alte tipuri de tratamente imunosupresoare;
+NOTĂ: Situațiile de la lit. a)-f) se completează numai de către cei care au copii cu vârsta de până la 12 ani inclusiv, înscriși în cadrul unei unități de învățământ, sau au copii cu dizabilități cu vârstă de până la 26 de ani, înscriși în cadrul unei unități de învățământ. al copilului/copiilor: a) numele și prenumele.........................................................................., în vârstă de....... ani;
+b) numele și prenumele.........................................................................., în vârstă de....... ani;
+c) numele și prenumele.........................................................................., în vârstă de....... ani;
+2. nu am calitatea de asistent personal al unuia dintre copiii aflați în întreținere, în condițiile Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare.
+3. mă aflu/nu mă aflu în una dintre situațiile prevăzute la art. 3 din Legea nr. 277/2010 privind alocația pentru susținerea familiei, republicată, cu modificările și completările ulterioare^(1). ^(1) Prin persoană singură se înțelege persoana care se află în una dintre următoarele situații: a) este necăsătorită;
+b) este văduvă;
+c) este divorțată;
+d) are soțul/soția declarat/declarată dispărut/dispărută prin hotărâre judecătorească;
+e) are soțul/soția arestat/arestată preventiv pe o perioadă mai mare de 30 de zile sau execută o pedeapsă privativă de libertate și nu participă la întreținerea copiilor;
+f) nu a împlinit vârsta de 18 ani și se află în una dintre situațiile prevăzute la lit. a)-e);
+g) a fost numită tutore sau i s-a încredințat ori i s-au dat în plasament unul sau mai mulți copii și se află în una din situațiile prevăzute la lit. a)-c).
+Totodată, mă angajez să restitui Ministerului Afacerilor Interne sumele încasate cu titlu necuvenit în baza art. 7 alin. (4) din Ordonanța de urgență a Guvernului nr. 110/2021 privind acordarea unor zile libere plătite părinților și altor categorii de persoane în contextul răspândirii coronavirusului SARS-CoV-2.
+Data...............................
+Semnătura...............................
