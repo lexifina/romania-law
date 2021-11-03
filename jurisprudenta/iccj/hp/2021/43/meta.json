@@ -1,0 +1,457 @@
+{
+ "key": "iccj-hp-43-2021",
+ "label": "Decizia ÎCCJ nr. 43/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "43",
+ "date": "2021-06-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 43 din 7 iunie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 2.279 și ale art. 2.321 din Codul civil, coroborate cu art. 120 din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1051",
+  "bis": false,
+  "date": "2021-11-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "643/1/2021",
+  "34.108/299/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2321",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a V-a civilă în Dosarul nr. 34.108/299/2013* și, în consecință, stabilește că: În interpretarea și aplicarea dispozițiilor art. 2.279 și ale art. 2.321 din Codul civil, coroborate cu art. 120 din Ordonanța de urgență a Guvernului nr. 99/2006 privind instituțiile de credit și adecvarea capitalului, scrisoarea de garanție emisă de o instituție de credit constituie titlu executoriu numai dacă aceasta este emisă în garantarea unui contract de credit.",
+  "Obligatorie, potrivit dispozițiilor art. 519 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [
+    {
+     "art": "2279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2321",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "2279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2321",
+     "alin": [
+      "2",
+      "5",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1396",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2431",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "715",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "638",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "640",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 85/2004",
+    "number": "85",
+    "year": "2004",
+    "path": "og/2004/85"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 93/2009",
+    "number": "93",
+    "year": "2009",
+    "path": "lege/2009/93"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 455/2001",
+    "number": "455",
+    "year": "2001",
+    "path": "lege/2001/455"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2013",
+    "number": "92",
+    "year": "2013",
+    "path": "oug/2013/92"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 8/2014",
+    "number": "8",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru modificarea și completarea Ordonanței Guvernului nr. 51/1997",
+    "number": "51",
+    "year": "1997",
+    "path": "lege/1997/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "oug/2016/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1998",
+    "number": "58",
+    "year": "1998",
+    "path": "lege/1998/58"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 34/1991",
+    "number": "34",
+    "year": "1991",
+    "path": "lege/1991/34"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "oug/1997/43"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/247895",
+  "text_sha256": "acda053f804578fbab163c84a1d59c2753e87acd15951e0c3e9cf7b4ec367c01",
+  "catalogue_sha256": "acda053f804578fbab163c84a1d59c2753e87acd15951e0c3e9cf7b4ec367c01",
+  "fetched": "2026-11-03T01:40:19Z",
+  "chars": 64332,
+  "portal_id": "247895",
+  "tip": "DECIZIE"
+ }
+}
