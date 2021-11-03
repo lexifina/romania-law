@@ -1,0 +1,17 @@
+# Propunere legislativă L535/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Legii nr.219/2015 privind economia socială
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-11-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-11-03: Adresă de înaintare a inițiativei (AD): [ad-6b1fac81.md](ad-6b1fac81.md); official file https://www.senat.ro/legis/PDF/2021/21L535AD.PDF
+- 2021-11-03: Forma inițiatorului (FG): [fg-1f341a70.md](fg-1f341a70.md); official file https://www.senat.ro/legis/PDF/2021/21L535FG.PDF
+- 2021-11-03: Expunere de motive (EM): [em-5083f0e6.md](em-5083f0e6.md); official file https://www.senat.ro/legis/PDF/2021/21L535EM.PDF
