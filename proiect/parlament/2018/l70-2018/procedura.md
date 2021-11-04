@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2017-11-14: documents published: Aviz Consiliul Legislativ, Punct de vedere
 - 2018-04-03: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2018-04-10: registered at the Chamber of Deputies
+- 2021-11-04: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2017-11-14: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L070LG.PDF
 - 2017-11-14: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L070PV.PDF
 - 2018-04-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L070AM.PDF
+- 2021-11-04: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L070AA.PDF (its day is not given by the bill file: shown from the last stage held)
