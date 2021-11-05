@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: documents published: Aviz comisie
 - 2021-10-14: documents published: Aviz comisie
 - 2021-10-27: documents published: Aviz comisie
+- 2021-11-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: Aviz comisie (CA45): [ca45-75c2128c.md](ca45-75c2128c.md); official file https://www.senat.ro/legis/PDF/2021/21L408CA45.PDF
 - 2021-10-14: Aviz comisie (CA6): [ca6-28f5e7ff.md](ca6-28f5e7ff.md); official file https://www.senat.ro/legis/PDF/2021/21L408CA6.PDF
 - 2021-10-27: Aviz comisie (CA49): [ca49-a3f659b9.md](ca49-a3f659b9.md); official file https://www.senat.ro/legis/PDF/2021/21L408CA49.PDF
+- 2021-11-05: Raport comisie sesizată pe fond (CR): [cr-ba84ae7a.md](cr-ba84ae7a.md); official file https://www.senat.ro/legis/PDF/2021/21L408CR.PDF
