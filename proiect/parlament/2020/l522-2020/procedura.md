@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: adopted by the Chamber of Deputies
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-20: sent for promulgation
+- 2021-11-05: promulgated, becomes Legea nr. 264/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-d0299ea6.md](am-d0299ea6.md); official file https://www.senat.ro/legis/PDF/2020/20L522AM.PDF
 - 2021-10-18: Adresă privind sesizarea CCR (AXS): [axs-32e9902a.md](axs-32e9902a.md); official file https://www.senat.ro/legis/PDF/2020/20L522AXS.PDF
 - 2021-10-18: Forma trimisă la promulgare (LP): [lp-2b3a1e02.md](lp-2b3a1e02.md); official file https://www.senat.ro/legis/PDF/2020/20L522LP.PDF
+- 2021-11-05: Decret de promulgare (DP): [dp-12d6c261.md](dp-12d6c261.md); official file https://www.senat.ro/legis/PDF/2020/20L522DP.PDF
+- 2021-11-05: Adresă privind forma promulgată (AFP): [afp-2c7a929e.md](afp-2c7a929e.md); official file https://www.senat.ro/legis/PDF/2020/20L522AFP.PDF
+- 2021-11-05: Forma promulgată (FP): [fp-8ef43a18.md](fp-8ef43a18.md); official file https://www.senat.ro/legis/PDF/2020/20L522FP.PDF
