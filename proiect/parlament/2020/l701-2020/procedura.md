@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-12-15: adopted by the Chamber of Deputies
 - 2020-12-17: registered at the Senate
 - 2020-12-30: documents published: Aviz comisie
+- 2021-11-08: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-07: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L701CA8.PDF
 - 2020-11-23: Raport comisie sesizată pe fond (CR): [cr-1a1bf101.md](cr-1a1bf101.md); official file https://www.senat.ro/legis/PDF/2020/20L701CR.PDF
 - 2020-12-30: Aviz comisie (CA3): [ca3-d399bb6d.md](ca3-d399bb6d.md); official file https://www.senat.ro/legis/PDF/2020/20L701CA3.PDF
+- 2021-11-08: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L701AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-08: Document (AA): [aa-c4ed3656.md](aa-c4ed3656.md); official file https://www.senat.ro/legis/PDF/2020/20L701AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-08: Document (ARD): [ard-90660a86.md](ard-90660a86.md); official file https://www.senat.ro/legis/PDF/2020/20L701ARD.PDF (its day is not given by the bill file: shown from the last stage held)
