@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-20: sent for promulgation
 - 2021-11-05: promulgated, becomes Legea nr. 266/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-11-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2021-11-05: Decret de promulgare (DP): [dp-67de7bcd.md](dp-67de7bcd.md); official file https://www.senat.ro/legis/PDF/2021/21L394DP.PDF
 - 2021-11-05: Adresă privind forma promulgată (AFP): [afp-84903287.md](afp-84903287.md); official file https://www.senat.ro/legis/PDF/2021/21L394AFP.PDF
 - 2021-11-05: Forma promulgată (FP): [fp-4192322d.md](fp-4192322d.md); official file https://www.senat.ro/legis/PDF/2021/21L394FP.PDF
+- 2021-11-08: Document (AL): [al-174722cd.md](al-174722cd.md); official file https://www.senat.ro/legis/PDF/2021/21L394AL.PDF (its day is not given by the bill file: shown from the last stage held)
