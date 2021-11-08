@@ -1,0 +1,246 @@
+{
+ "key": "iccj-hp-60-2021",
+ "label": "Decizia ÎCCJ nr. 60/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "60",
+ "date": "2021-09-20",
+ "year": "2021",
+ "heading": "DECIZIA nr. 60 din 20 septembrie 2021",
+ "subtitle": "referitoare la interpretarea art. 5 alin. (7) din Decretul-lege nr. 118/1990, în forma modificată prin Legea nr. 232/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1066",
+  "bis": false,
+  "date": "2021-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.618/1/2021",
+  "31/63/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Dolj - Secția contencios administrativ și fiscal, prin Încheierea din 12 mai 2021, pronunțată în Dosarul nr. 31/63/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "–",
+  "Legea aplicabilă stabilirii dreptului copilului aflat în situația prevăzută de art. 5 alin. (7) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, astfel cum a fost modificat prin Legea nr. 130/2020, este cea în vigoare la momentul formulării cererii de către copil sau cea de la data soluționării cererii de către agenția județeană de plăți și inspecție socială, respectiv forma modificată prin Legea nr. 232/2020 ?",
+  "–",
+  "Dispozițiile art. 5 alin. (7) din Decretul-lege nr. 118/1990, în forma modificată prin Legea nr. 232/2020, se interpretează în sensul că dreptul copilului se va stabili prin reanalizarea dreptului părintelui la data depunerii cererii de către copil, urmând a se analiza dacă părintele s-ar afla la data depunerii cererii de către copil în una dintre situațiile prevăzute de art. 1 alin. (1) lit. a)-f) din Decretul-lege nr. 118/1990 și dacă la acel moment ar întruni condițiile prevăzute de acest act normativ pentru a beneficia de indemnizație sau se va ține cont de încadrarea părintelui în una dintre situațiile prevăzute de art. 1 alin. (1) lit. a)-f) din Decretul-lege nr. 118/1990, stabilită printr-o hotărâre emisă anterior pe numele său, și de faptul că hotărârile emise anterior datei de 31 iulie 1997 sunt acte administrative cu caracter jurisdicțional, care nu pot fi revocate conform deciziilor Curții Constituționale nr. 55/2000 și nr. 56/2000 ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7",
+      "6",
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "e",
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 130/2020",
+    "number": "130",
+    "year": "2020",
+    "path": "lege/2020/130"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 232/2020",
+    "number": "232",
+    "year": "2020",
+    "path": "lege/2020/232"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 41/1997",
+    "number": "41",
+    "year": "1997",
+    "path": "oug/1997/41"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248279",
+  "text_sha256": "d3f7661f7fdef5e7201955f94d949794c2e44ee931b05937ddafc7d45f39bebd",
+  "catalogue_sha256": "d3f7661f7fdef5e7201955f94d949794c2e44ee931b05937ddafc7d45f39bebd",
+  "fetched": "2026-11-03T01:40:09Z",
+  "chars": 62329,
+  "portal_id": "248279",
+  "tip": "DECIZIE"
+ }
+}
