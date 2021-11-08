@@ -1,0 +1,17 @@
+# Propunere legislativă L559/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind modificarea și completarea „Legii nr.259/2021 privind aprobarea Ordonanței de urgență a Guvernului nr.118/2021 privind stabilirea unei scheme de compensare pentru consumul de energie electrica și gaze naturale pentru sezonul rece 2021-2022, precum și pentru completarea Ordonanței Guvernului nr.27/1996 privind acordarea de facilități persoanelor care domiciliază sau lucrează în unele localități din Munții Apuseni și în Rezervația Biosferei „Delta Dunării”
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-11-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-11-08: Adresă de înaintare a inițiativei (AD): [ad-f74a30c3.md](ad-f74a30c3.md); official file https://www.senat.ro/legis/PDF/2021/21L559AD.PDF
+- 2021-11-08: Forma inițiatorului (FG): [fg-4accd7c2.md](fg-4accd7c2.md); official file https://www.senat.ro/legis/PDF/2021/21L559FG.PDF
+- 2021-11-08: Expunere de motive (EM): [em-36f2aa68.md](em-36f2aa68.md); official file https://www.senat.ro/legis/PDF/2021/21L559EM.PDF
