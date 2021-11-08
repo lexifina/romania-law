@@ -1,0 +1,6 @@
+# Anexa nr. 5 la anexă
+CERERE de înregistrare în baza națională de date a clasificării și de eliberare a aplicației informatice specifice
+Subsemnatul,.........., cu domiciliul................, posesor al BI/CI seria......... nr......., CNP │_│_│_│_│_│_│_│_│_│_│_│_│_│, [] clasificator carcase independent [] reprezentant al agenției clasificare carcase............, C.U.I. │_│_│_│_│_│_│_│_│_│, vă solicit înregistrarea în baza națională de date a clasificării și eliberarea aplicației informatice specifice, fiindu-mi necesară pentru înregistrarea și raportarea datelor de clasificare, după obținerea autorizației de clasificare.
+Declar că sunt de acord cu prelucrarea datelor cu caracter personal.
+Data........................
+Semnătura....................

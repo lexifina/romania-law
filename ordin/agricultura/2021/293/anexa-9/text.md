@@ -1,0 +1,6 @@
+# Anexa nr. 6 la anexă
+DECLARAȚIE pentru respectarea prevederilor art. 6 alin. (1) lit. l) și m) și ale art. 7 lit. x) și y) din Hotărârea Guvernului nr. 842/2021 privind modul de organizare și funcționare a Sistemului național de clasificare a carcaselor de bovine, porcine și ovine
+Subsemnatul,............., cu domiciliul.............., posesor al BI/CI seria....... nr............, CNP │_│_│_│_│_│_│_│_│_│_│_│_│_│, [] clasificator carcase independent [] reprezentant al agenției clasificare carcase........................., mă angajez că voi comunica Comisiei de clasificare a carcaselor tarifele de clasificare, așa cum sunt prevăzute în contractele de prestări servicii încheiate cu abatoarele, imediat după obținerea autorizației de clasificare carcase sau ori de câte ori se produce o modificare a acestui tarif sau voi încheia un alt contract de prestări servicii de clasificare cu un alt abator.
+Mă angajez că voi completa și transmite Comisiei de clasificare a carcaselor, în primele 5 zile lucrătoare ale fiecărei luni, declarația de plată privind numărul de carcase clasificate în luna anterioară și voi achita, în baza facturii emise de aceasta, cota procentuală din tariful de clasificare, în termen de 10 zile lucrătoare de la data încasării de la abator a contravalorii serviciilor de clasificare.
+Data........................
+Semnătura.......................
