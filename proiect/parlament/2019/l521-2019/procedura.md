@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-14: registered at the Chamber of Deputies
 - 2021-10-13: adopted by the Chamber of Deputies
 - 2021-10-23: sent for promulgation
+- 2021-11-09: promulgated, becomes Legea nr. 268/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-09: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L521CA8.PDF
 - 2019-10-09: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L521FS.PDF
 - 2019-10-09: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L521AM.PDF
+- 2021-11-09: Decret de promulgare (DP): [dp-b701211e.md](dp-b701211e.md); official file https://www.senat.ro/legis/PDF/2019/19L521DP.PDF
+- 2021-11-09: Adresă privind forma promulgată (AFP): [afp-6e68420d.md](afp-6e68420d.md); official file https://www.senat.ro/legis/PDF/2019/19L521AFP.PDF
+- 2021-11-09: Forma promulgată (FP): [fp-98b1bfeb.md](fp-98b1bfeb.md); official file https://www.senat.ro/legis/PDF/2019/19L521FP.PDF
