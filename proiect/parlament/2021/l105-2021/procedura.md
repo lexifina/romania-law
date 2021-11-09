@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: adopted by the Chamber of Deputies
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-23: sent for promulgation
+- 2021-11-09: promulgated, becomes Legea nr. 269/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-25: Adresă către Camera Deputaților (AM): [am-21e75803.md](am-21e75803.md); official file https://www.senat.ro/legis/PDF/2021/21L105AM.PDF
 - 2021-10-18: Adresă privind sesizarea CCR (AXS): [axs-cf29bd3a.md](axs-cf29bd3a.md); official file https://www.senat.ro/legis/PDF/2021/21L105AXS.PDF
 - 2021-10-18: Forma trimisă la promulgare (LP): [lp-026410cb.md](lp-026410cb.md); official file https://www.senat.ro/legis/PDF/2021/21L105LP.PDF
+- 2021-11-09: Decret de promulgare (DP): [dp-54a2888d.md](dp-54a2888d.md); official file https://www.senat.ro/legis/PDF/2021/21L105DP.PDF
+- 2021-11-09: Adresă privind forma promulgată (AFP): [afp-240616e2.md](afp-240616e2.md); official file https://www.senat.ro/legis/PDF/2021/21L105AFP.PDF
+- 2021-11-09: Forma promulgată (FP): [fp-a00c2a77.md](fp-a00c2a77.md); official file https://www.senat.ro/legis/PDF/2021/21L105FP.PDF
