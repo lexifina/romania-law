@@ -1,0 +1,478 @@
+{
+ "key": "iccj-hp-56-2021",
+ "label": "Decizia ÎCCJ nr. 56/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "56",
+ "date": "2021-09-13",
+ "year": "2021",
+ "heading": "DECIZIA nr. 56 din 13 septembrie 2021",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 27 din Ordonanța Guvernului nr. 137/2000, art. 211 din Legea nr. 62/2011 și art. 268 din Codul muncii",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1071",
+  "bis": false,
+  "date": "2021-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.269/1/2021",
+  "722/111/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2019",
+    "number": "7",
+    "year": "2019",
+    "path": "lege/2019/7"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Oradea - Secția I civilă, în Dosarul nr. 722/111/2020, în vederea pronunțării unei hotărâri prealabile cu privire la dezlegarea următoarelor chestiuni de drept: 1.",
+  "Dacă, raportat la dispozițiile art. 27 din Ordonanța Guvernului nr. 137/2000, art. 211 din Legea nr. 62/2011 sau art. 268 din Codul muncii, personalul din justiție care, fiind în imposibilitate obiectivă de a beneficia și care nu a beneficiat de recunoașterea drepturilor salariale stabilite anterior intrării în vigoare a Legii nr. 330/2009, recunoscute în favoarea altor salariați prin hotărâri judecătorești anterioare intrării în vigoare a Legii nr. 330/2009, este îndreptățit la acordarea retroactivă, începând cu data intrării în vigoare a Legii nr. 330/2009, a drepturilor salariale stabilite și recunoscute prin Decizia Înaltei Curți de Casație și Justiție pronunțată în soluționarea unui recurs în interesul Legii nr. 7/2019 în favoarea altor salariați care și-au desfășurat activitatea în aceleași condiții;",
+  "2. Într-o cauză având ca obiect o cerere de chemare în judecată prin care se solicită obligarea pârâților la plata unor despăgubiri pentru săvârșirea unor fapte de discriminare salarială de către aceștia, în calitatea lor de ordonatori de credite, pentru perioada 1.01.2010-8.04.2015, și întemeiată în drept pe dispozițiile Ordonanței Guvernului nr. 137/2000 privind prevenirea și sancționarea tuturor formelor de discriminare, care din textele legale ce reglementează cursul prescripției dreptului material la acțiune este incident, anume: art. 27 din Ordonanța Guvernului nr. 137/2000, art. 211 lit. c) din Legea nr. 62/2011 sau art. 268 alin. (1) lit. c) din Codul muncii ?;",
+  "3. În cazul în care aplicabile speței sunt incidente prevederile art. 27 din Ordonanța Guvernului nr. 137/2000, termenul de prescripție curge de la momentul producerii actului de discriminare (plata efectuată discriminatoriu în temeiul unor hotărâri judecătorești pronunțate în perioada 2006-2009, ale căror dispozitive au fost lămurite în cursul anului 2019 ca urmare a pronunțării Deciziei Înaltei Curți de Casație și Justiție pronunțate în soluționarea unui recurs în interesul Legii nr. 7/2019), de la data publicării Deciziei nr. 7/2019 sau de la momentul în care diferențele salariale trebuiau să fie plătite lună de lună?;",
+  "4. Dacă publicarea Deciziei nr. 7/2019 pronunțate de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii constituie momentul obiectiv de la care începe să curgă termenul de prescripție a dreptului material la acțiune având ca obiect acordarea de despăgubiri reprezentând diferențele dintre indemnizația efectiv încasată și indemnizația rezultată ca urmare a aplicării majorărilor la valoarea de referință sectorială (VRS), conform prevederilor art. 1 din Ordonanța Guvernului nr. 10/2007 (5%, 2% și 11%), și a aplicării coeficientului de multiplicare 19,000 (diferențe de drepturi salariale în raport cu indemnizațiile procurorilor D.N.A. și D.I.I.C.O.T. - Ordonanța de urgență a Guvernului nr. 27/2006), pentru perioada 1.01.2010-8.04.2015, cauza juridică a acțiunii fiind fapta discriminatorie săvârșită în anul 2019 de ordonatorul de credite?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "211",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "166",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "171",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1531",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2500",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2506",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "499",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 10/2007",
+    "number": "10",
+    "year": "2007",
+    "path": "og/2007/10"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 330/2008",
+    "number": "330",
+    "year": "2008",
+    "path": "lege/2008/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2019",
+    "number": "7",
+    "year": "2019",
+    "path": "lege/2019/7"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248317",
+  "text_sha256": "37f9875ea864ab495693c7ef77a4f6f369040cd052714cbf5dd6d6985c00eaff",
+  "catalogue_sha256": "37f9875ea864ab495693c7ef77a4f6f369040cd052714cbf5dd6d6985c00eaff",
+  "fetched": "2026-11-03T15:23:12Z",
+  "chars": 56941,
+  "portal_id": "248317",
+  "tip": "DECIZIE"
+ }
+}
