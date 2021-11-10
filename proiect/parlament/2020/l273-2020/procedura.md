@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-07: sent for promulgation
 - 2021-03-03: published in the Monitorul Oficial
 - 2021-04-01: returned for re-examination
+- 2021-11-10: adopted by the Senate
 
 ## Documents
 
