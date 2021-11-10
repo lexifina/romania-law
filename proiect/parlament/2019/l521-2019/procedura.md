@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: adopted by the Chamber of Deputies
 - 2021-10-23: sent for promulgation
 - 2021-11-09: promulgated, becomes Legea nr. 268/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-11-10: published in the Monitorul Oficial
 
 ## Documents
 
