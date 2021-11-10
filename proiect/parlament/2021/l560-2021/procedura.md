@@ -1,0 +1,19 @@
+# Propunere legislativă L560/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 10/2023 (`legea-10-2023`).
+
+Propunere legislativă pentru completarea Anexei nr.VIII familia ocupațională de funcții bugetare ''administrație'' din Legea-cadru nr.153 din 28 iunie 2017 privind salarizarea personalului plătit din fonduri publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-11-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-11-10: Adresă de înaintare a inițiativei (AD): [ad-ecc7efa0.md](ad-ecc7efa0.md); official file https://www.senat.ro/legis/PDF/2021/21L560AD.PDF
+- 2021-11-10: Forma inițiatorului (FG): [fg-5d030e5a.md](fg-5d030e5a.md); official file https://www.senat.ro/legis/PDF/2021/21L560FG.PDF
+- 2021-11-10: Expunere de motive (EM): [em-ba0f44d3.md](em-ba0f44d3.md); official file https://www.senat.ro/legis/PDF/2021/21L560EM.PDF
