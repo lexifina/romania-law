@@ -1,0 +1,2 @@
+# ANEXĂ
+REGULAMENT ȘI METODOLOGIE de colectare, de înregistrare, de prelucrare și raportare a rezultatelor de clasificare a carcaselor, a prețurilor acestora și a unor categorii de animale vii, pe specii, în baza națională de date a clasificării, prin intermediul sistemului informatic, precum și a modalității de obținere a aplicațiilor informatice specifice de înregistrare și raportare a datelor și a parolei securizate de acces în sistemul informatic, furnizate de Comisia de clasificare a carcaselor
