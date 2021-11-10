@@ -1,0 +1,29 @@
+# Anexa nr. 3
+Măsura 11 - Agricultură ecologică
+Condiții care pot fi afectate de pandemia de COVID-19
+Modul în care condițiile pot fi afectate de pandemia de COVID-19
+I. Condiții generatoare de pierderi de venituri și/sau costuri suplimentare:
+Cerințe specifice
+1.
+Beneficiarii măsurii 11 trebuie să respecte practicile specifice agriculturii ecologice pe suprafețele agricole care fac obiectul angajamentului, pe toată perioada de desfășurare a acestuia.
+Nerespectare dacă fermierii nu au putut desfășura activitățile agricole sau nu au putut achiziționa cele necesare desfășurării activităților specifice agriculturii ecologice, ca urmare a indisponibilității forței de muncă în zonele carantinate sau ca urmare a incapacității beneficiarului de a efectua lucrarea sau de a achiziționa cele necesare (boală, izolare, restricții de deplasare/de altă natură, impuse de starea de carantină etc.).
+2.
+Submăsura 11.1: Beneficiarii submăsurii trebuie să mențină certificarea suprafețelor care au făcut obiectul angajamentului pentru conversia la metodele de agricultură ecologică pentru o perioadă de cel puțin 5 ani de la momentul semnării angajamentului respectiv.
+Nerespectare dacă fermierii nu au putut desfășura activitățile agricole din cauza stării de sănătate, indisponibilității forței de muncă, imposibilitatea achiziționării celor necesare desfășurării activității agricole specifice agriculturii ecologice, în caz de carantinare a unor zone, în caz de izolare sau carantinare a persoanelor. În cazul decertificării suprafețelor, angajamentele se închid fără recuperarea sumelor primite în campaniile anterioare.
+3.
+Submăsura 11.2: Beneficiarii submăsurii trebuie să mențină angajamentul pentru agricultură ecologică pentru o perioadă de 5 ani, respectiv 2 ani pentru angajamentele semnate începând cu anul 2021.
+Nerespectare dacă fermierii nu au putut desfășura activitățile agricole din cauza stării de sănătate, indisponibilității forței de muncă, imposibilitatea achiziționării celor necesare desfășurării activității agricole specifice agriculturii ecologice, în caz de carantinare a unor zone, în caz de izolare sau carantinare a persoanelor. În cazul decertificării suprafețelor, angajamentele se închid fără recuperarea sumelor primite în campaniile anterioare.
+II. Condiții negeneratoare de pierderi de venituri și/sau costuri suplimentare:
+Condiții de eligibilitate
+1.
+Suprafața minimă agricolă deținută de fermier este de 1 ha, identificabilă în IACS.
+Nerespectare dacă au fost reziliate contractele de închiriere a suprafețelor de teren agricol, motivele rezilierii fiind legate de manifestarea COVID-19, sau dacă nu au putut fi reînnoite contractele de arendă/închiriere care au expirat, motivele fiind legate de boală, izolare, restricții de deplasare/de altă natură impuse de starea de carantină etc. ale beneficiarului sau proprietarului, iar fermierii nu au putut face dovada că terenul eligibil declarat este la dispoziția lor, în conformitate cu prevederile art. 5 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 45/2021 pentru aprobarea criteriilor de eligibilitate, condițiilor specifice și a modului de implementare a schemelor de plăți prevăzute la art. 1 alin. (2) și (3) și art. 35 alin. (3) din Ordonanța de urgență a Guvernului nr. 11/2021 pentru aprobarea schemelor de plăți și a unor instrumente de garantare care se aplică în agricultură în anii 2021 și 2022, cu modificările ulterioare (Ordinul ministrului agriculturii și dezvoltării rurale nr. 45/2021)
+În această situație, dacă începând cu anul 2021 fermierul va solicita prin cererea unică de plată sprijin în cadrul M11 pentru o suprafață mai mică de 1 ha, fermierul nu primește plata aferentă anilor respectivi, nu i se recuperează sumele primite în anii anteriori și angajamentul se închide.
+2.
+Angajamentele se aplică la nivel de parcelă agricolă, neexistând posibilitatea schimbării parcelelor pe perioada angajamentelor.
+Nerespectare dacă au fost reziliate contractele de închiriere pentru suprafețele de teren agricol, motivele rezilierii fiind legate de manifestarea COVID-19, sau dacă nu au putut fi reînnoite contractele de arendă/închiriere care au expirat, motivele fiind legate de boală, izolare, restricții de deplasare/de altă natură impuse de starea de carantină etc. ale beneficiarului sau proprietarului, iar fermierii nu au putut face dovada că terenul eligibil declarat este la dispoziția lor, în conformitate cu prevederile art. 5 din Ordinul ministrului agriculturii și dezvoltării rurale nr. 45/2021.
+În această situație, dacă începând cu anul 2021 fermierul va solicita prin cererea unică de plată sprijin în cadrul M11 pentru o suprafață mai mică decât suprafața pentru care are angajament în desfășurare, fermierul nu primește plata aferentă anilor respectivi pentru parcelele pentru care nu a putut face dovada că terenul este la dispoziția sa și nu i se recuperează sumele primite în anii anteriori. Angajamentul se închide pentru parcelele în cauză.
+Cerințe specifice
+3.
+Beneficiarii măsurii trebuie să facă dovada deținerii competențelor necesare implementării angajamentelor sau se angajează să obțină cunoștințele și informațiile necesare sau să asigure expertiza necesară în domeniul implementării angajamentelor de agricultură ecologică prin servicii de consiliere sau consultanță, care să vizeze cel puțin aspectele legate de identificarea parcelelor agricole, completarea și depunerea angajamentelor și cererilor de plată, măsurile de management aplicabile la nivelul fermei, necesare pentru conformarea la cerințele de bază și la cerințele specifice ale angajamentelor.
+Depunerea documentului justificativ privind deținerea competențelor necesare implementării angajamentelor se amână până la data de depunere aplicabilă pentru anul următor pentru fermierii care nu au putut beneficia de cursuri/instruire/pregătire din cauza pandemiei de COVID-19.

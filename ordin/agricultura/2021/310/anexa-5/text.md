@@ -1,0 +1,30 @@
+# Anexa nr. 5
+SCHEMA DE AJUTOR DE STAT
+„Sprijin pentru prima împădurire și crearea de suprafețe împădurite” - Componenta aferentă Primei 1
+Nr. crt.
+Criterii de eligibilitate (CE)/Cerințe asimilate criteriilor de eligibilitate (CS) care pot fi afectate de pandemia de COVID-19
+Modul în care respectarea CE și CS poate fi afectată de pandemia de COVID-19
+1.
+Efectuarea lucrărilor de înființare și de împrejmuire a plantațiilor forestiere trebuie să se realizeze doar după semnarea angajamentului și depunerea acestuia la Agenția de Plăți și Intervenție pentru Agricultură (APIA) și nu mai târziu de maximum 2 ani de la data semnării angajamentului.
+Înființarea plantațiilor se poate realiza în perioada 1 septembrie-30 aprilie, în perioada în care condițiile climatice permit (în conformitate cu prevederile ghidurilor solicitantului aferente schemei de ajutor de stat).
+O parte din beneficiari pot fi afectați de manifestarea pandemiei de COVID-19 în cazul în care nu au posibilitatea de a realiza lucrările de împădurire în termenul de 2 ani prevăzut de această condiție din cauza manifestării pandemiei de COVID-19.
+Beneficiarii care au semnat angajamente în cadrul sesiunilor 1, 2 și 3 au posibilitatea să solicite prelungirea cu un an a perioadei de 2 ani stabilite pentru finalizarea lucrărilor de înființare și împrejmuire.
+2.
+Suprafața terenului propus pentru împădurire în vederea realizării de perdele forestiere de protecție este de minimum 0,5 ha. „Prima lucrare de înființare a plantației trebuie să se realizeze pe o suprafață minimă totală (care cuprinde unități amenajistice întregi) de cel puțin 0,5 ha”.
+În cazul în care beneficiarii care au semnat angajamente în cadrul sesiunilor 1, 2 și 3 nu au putut respecta condiția de înființare a cel puțin 0,5 ha din cauza faptului că a intervenit cazul de forță majoră sau circumstanță excepțională, determinat de manifestarea pandemiei de COVID-19, aceștia au posibilitatea să solicite prelungirea cu un an a perioadei de 2 ani stabilite pentru finalizarea lucrărilor de înființare.
+3.
+Suprafața terenului propus pentru împădurire în vederea realizării de trupuri de pădure este de minimum 1 ha. „Prima lucrare de înființare a plantației trebuie să se realizeze pe o suprafață minimă totală (care cuprinde unități amenajistice întregi) de cel puțin 1 ha în cazul creării de trupuri de pădure”.
+În cazul în care beneficiarii care au semnat angajamente în cadrul sesiunilor 1, 2 și 3 nu au putut respecta condiția de înființare a cel puțin 1 ha din cauza manifestării pandemiei de COVID-19, aceștia au posibilitatea să solicite prelungirea cu un an a perioadei de 2 ani stabilite pentru finalizarea lucrărilor de înființare.
+4.
+Suprafața compactă minimă împădurită eligibilă la plată este de minimum 0,1 ha în cazul realizării de perdele forestiere.
+În cazul în care beneficiarii care au semnat angajamente în cadrul sesiunilor 1, 2 și 3 nu au putut respecta condiția de înființare a unei suprafețe compacte minime de cel puțin 0,1 ha din cauza manifestării pandemiei de COVID-19, aceștia au posibilitatea să solicite prelungirea cu un an a perioadei de 2 ani stabilite pentru finalizarea lucrărilor de înființare.
+5.
+Suprafața compactă minimă împădurită eligibilă la plată este de minimum 0,5 ha în cazul realizării de trupuri de pădure.
+În cazul în care beneficiarii care au semnat angajamente în cadrul sesiunilor 1, 2 și 3 nu au putut respecta condiția de înființare a unei suprafețe compacte minime de cel puțin 0,5 ha din cauza manifestării pandemiei de COVID-19, aceștia au posibilitatea să solicite prelungirea cu un an a perioadei de 2 ani stabilite pentru finalizarea lucrărilor de înființare.
+6.
+Respectarea dimensiunii suprafeței eligibile prevăzute în cererea de sprijin (proiectul tehnic de împăduriri) la nivel de unitate amenajistică pe care s-au efectuat lucrări de înființare
+Lucrările de completare pot fi realizate în cele mai bune condiții în perioadele optime martie-aprilie și septembrie-octombrie.
+Astfel, pentru cererile de plată depuse începând cu anul 2021, menținerea suprafeței determinate la nivel de u.a. poate fi afectată în situația în care beneficiarul nu a putut realiza lucrările de completare începând cu anul 2021 din cauza manifestării pandemiei de COVID-19.
+7.
+La nivel de unitate amenajistică toate lucrările de înființare a plantației se realizează într-o singură perioadă de repaus vegetativ, cuprinsă între data de 1 septembrie și data de 30 aprilie a anului următor („data de 30 aprilie poate fi depășită în cazul în care condițiile meteo nu permit realizarea lucrărilor. În această situație persoanele fizice care au calitatea de diriginte de șantier și persoanele juridice atestate de autoritatea națională în domeniul silviculturii conform Ordinului ministrului mediului, apelor și pădurilor nr. 1.763/2015 pentru aprobarea Regulamentului privind atestarea persoanelor juridice care realizează lucrări de regenerare și întreținere a semințișurilor și plantațiilor, lucrări de îngrijire a arboretelor, precum și atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare în domeniul silvic, cu modificările ulterioare, sau Ordinului ministrului mediului și pădurilor nr. 718/2010 pentru aprobarea Normelor metodologice privind atestarea persoanelor fizice și juridice care efectuează proiectarea și/sau execută lucrări de îmbunătățiri funciare din domeniul silvic vor motiva punctual și detaliat în Ordinul de demarare a lucrării de înființare a plantației și/sau în Nota de constatare a finalizării lucrărilor de înființare a plantației necesitatea depășirii termenului de 30 aprilie”).
+Înființarea plantațiilor forestiere se poate realiza în perioada 1 septembrie-30 aprilie, în perioada în care condițiile climatice permit (în conformitate cu prevederile ghidurilor solicitantului aferente schemei de ajutor de stat). Ca urmare a restricțiilor și limitărilor în efectuarea lucrărilor de înființare generate de manifestarea pandemiei de COVID-19, beneficiarii ar putea să depășească termenul-limită de finalizare a lucrărilor de înființare (completare).
