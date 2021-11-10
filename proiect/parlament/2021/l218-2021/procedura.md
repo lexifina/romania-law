@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-23: sent for promulgation
 - 2021-11-09: promulgated, becomes Legea nr. 267/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-11-10: published in the Monitorul Oficial
 
 ## Documents
 
