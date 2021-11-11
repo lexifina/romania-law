@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-11: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-23: sent for promulgation
+- 2021-11-11: promulgated, becomes Legea nr. 271/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-11: Forma adoptată de Senat (FS): [fs-2c2df74c.md](fs-2c2df74c.md); official file https://www.senat.ro/legis/PDF/2021/21L290FS.PDF
 - 2021-10-18: Adresă privind sesizarea CCR (AXS): [axs-8094e1e1.md](axs-8094e1e1.md); official file https://www.senat.ro/legis/PDF/2021/21L290AXS.PDF
 - 2021-10-18: Forma trimisă la promulgare (LP): [lp-528cee73.md](lp-528cee73.md); official file https://www.senat.ro/legis/PDF/2021/21L290LP.PDF
+- 2021-11-11: Decret de promulgare (DP): [dp-2e593452.md](dp-2e593452.md); official file https://www.senat.ro/legis/PDF/2021/21L290DP.PDF
+- 2021-11-11: Adresă privind forma promulgată (AFP): [afp-175ed33b.md](afp-175ed33b.md); official file https://www.senat.ro/legis/PDF/2021/21L290AFP.PDF
+- 2021-11-11: Forma promulgată (FP): [fp-11f01572.md](fp-11f01572.md); official file https://www.senat.ro/legis/PDF/2021/21L290FP.PDF
