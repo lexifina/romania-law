@@ -1,0 +1,43 @@
+# Anexa 6
+Anexa nr. 3
+la contractul de finanțare nr. ...../GES/..........
+Nr. de înregistrare la AFM ......./.............../...............
+NOTĂ DE STINGERE AVANS
+În baza Contractului de finanțare nerambursabilă nr. ....... din ..../..../............ și a cererii de avans depuse în ...................., vă transmitem documentele justificative pentru suma de .................... lei, reprezentând ........% din finanțarea nerambursabilă în valoare de .................... lei. Această sumă a fost utilizată pentru plata cheltuielilor eligibile aferente activităților desfășurate până la data prezentei note.
+Prezenta notă de stingere avans este însoțită și de documentele justificative conform prevederilor contractuale.
+În eventualitatea în care se constată că documentele justificative transmise prin prezenta notă nu sunt conforme sau nu sunt îndeplinite condițiile prevăzute în contract pentru acordarea și stingerea integrală a avansului, mă oblig să fac demersurile necesare pentru completarea dosarului de stingere a avansului în termen de 7 zile de la notificare.
+În caz contrar, accept restituirea avansului cu dobânzile și penalitățile aplicabile în condițiile Ordonanței de urgență a Guvernului nr. 196/2005 privind Fondul pentru mediu, aprobată cu modificări și completări prin Legea nr. 105/2006 , cu modificările și completările ulterioare.
+Situația avansului acordat:
+Suma maximă ce poate fi acordată ca avans - 30% din valoarea contractului de finanțare nerambursabilă Suma totală trasă din avans Suma trasă din avans pentru care nu au fost prezentate documente justificative până la data prezentei note de stingere avans Suma justificată prin prezenta notă de stingere avans
+Suma rămasă de justificat din avansul acordat
+(3-4)
+1 2 3 4 5
+Subsemnatul, ............................., declar că am luat cunoștință de prevederile Legii nr. 286/2009 privind Codul penal , cu modificările și completările ulterioare, privind falsul în declarații, și garantez că documentele depuse în vederea decontării respectă cerințele Ghidului de finanțare a Programului.
+Administrația Fondului pentru Mediu
+BENEFICIAR
+Reprezentant legal ...................
+Numele și prenumele ...............
+Funcția .....................................
+Semnătura ...............................
+Avizat
+Conducător structura AFM
+cu atribuții financiar-contabilitate
+......................................
+(nume și prenume)
+......................................
+(semnătură)
+Viza CFPP
+Avizat
+Conducător structura AFM cu atribuții gestionare/implementare proiecte
+...........................
+(nume și prenume)
+.......................
+(semnătură)
+Verificat
+Conducător structura AFM cu atribuții gestionare/implementare proiecte
+............................
+(nume și prenume)
+.........................
+(semnătură)
+Întocmit
+..........................................
