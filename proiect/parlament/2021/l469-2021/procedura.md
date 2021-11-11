@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-11-09: documents published: Aviz comisie
 - 2021-11-10: documents published: Aviz comisie
+- 2021-11-11: documents published: Aviz comisie
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-09: Aviz comisie (CA3): [ca3-39c25e2a.md](ca3-39c25e2a.md); official file https://www.senat.ro/legis/PDF/2021/21L469CA3.PDF
 - 2021-11-10: Aviz comisie (CA45): [ca45-c916ac7e.md](ca45-c916ac7e.md); official file https://www.senat.ro/legis/PDF/2021/21L469CA45.PDF
 - 2021-11-10: Aviz comisie (CA8): [ca8-421989a8.md](ca8-421989a8.md); official file https://www.senat.ro/legis/PDF/2021/21L469CA8.PDF
+- 2021-11-11: Aviz comisie (CA51): [ca51-95caeed3.md](ca51-95caeed3.md); official file https://www.senat.ro/legis/PDF/2021/21L469CA51.PDF
