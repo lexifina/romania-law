@@ -1,0 +1,261 @@
+{
+ "key": "iccj-ril-20-2021",
+ "label": "Decizia ÎCCJ nr. 20/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "20",
+ "date": "2021-09-27",
+ "year": "2021",
+ "heading": "DECIZIA nr. 20 din 27 septembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 651 alin. (1), art. 666, art. 712, art. 714 și art. 112 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1083",
+  "bis": false,
+  "date": "2021-11-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.696/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Înaltei Curți de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 651 alin. (1), art. 666, art. 712, art. 714 și art. 112 din Codul de procedură civilă, instanța de executare competentă teritorial să soluționeze contestația la executare propriu-zisă formulată de unul dintre debitorii la care se referă titlul executoriu este judecătoria care a încuviințat executarea silită a acelui titlu executoriu, în afara cazurilor în care legea dispune altfel.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "112",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "6",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "535",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "818",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "819",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "652",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "650",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248392",
+  "text_sha256": "14692b1828773c5d66c7fc3b766dc77b637a07a35bae89cb7063d971ec4a14fc",
+  "catalogue_sha256": "14692b1828773c5d66c7fc3b766dc77b637a07a35bae89cb7063d971ec4a14fc",
+  "fetched": "2026-11-03T22:26:32Z",
+  "chars": 57715,
+  "portal_id": "248392",
+  "tip": "DECIZIE"
+ }
+}
