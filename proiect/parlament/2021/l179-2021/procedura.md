@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-13: adopted by the Chamber of Deputies
 - 2021-10-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-23: sent for promulgation
+- 2021-11-11: promulgated, becomes Legea nr. 270/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-22: Adresă către Camera Deputaților (AM): [am-a0e3d373.md](am-a0e3d373.md); official file https://www.senat.ro/legis/PDF/2021/21L179AM.PDF
 - 2021-10-18: Adresă privind sesizarea CCR (AXS): [axs-babe6483.md](axs-babe6483.md); official file https://www.senat.ro/legis/PDF/2021/21L179AXS.PDF
 - 2021-10-18: Forma trimisă la promulgare (LP): [lp-e050a5b6.md](lp-e050a5b6.md); official file https://www.senat.ro/legis/PDF/2021/21L179LP.PDF
+- 2021-11-11: Decret de promulgare (DP): [dp-c342666b.md](dp-c342666b.md); official file https://www.senat.ro/legis/PDF/2021/21L179DP.PDF
+- 2021-11-11: Adresă privind forma promulgată (AFP): [afp-3dde30ec.md](afp-3dde30ec.md); official file https://www.senat.ro/legis/PDF/2021/21L179AFP.PDF
+- 2021-11-11: Forma promulgată (FP): [fp-13d5302b.md](fp-13d5302b.md); official file https://www.senat.ro/legis/PDF/2021/21L179FP.PDF
