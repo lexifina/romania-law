@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-05-25: adopted by the Senate
 - 2021-10-26: returned for re-examination
 - 2021-11-05: sent for promulgation
+- 2021-11-12: promulgated, becomes Legea nr. 272/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,13 @@ Initiator: Guvernul României.
 - 2020-06-23: Adresă către Camera Deputaților (AM): [am-eaad48f8.md](am-eaad48f8.md); official file https://www.senat.ro/legis/PDF/2020/20L280AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L280AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-6da35139.md](lp-6da35139.md); official file https://www.senat.ro/legis/PDF/2020/20L280LP.PDF
+- 2021-11-12: Document (TA): [ta-09d6c4fe.md](ta-09d6c4fe.md); official file https://www.senat.ro/legis/PDF/2020/20L280TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (AT): [at-0419dd12.md](at-0419dd12.md); official file https://www.senat.ro/legis/PDF/2020/20L280AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (S1): [s1-0dce4040.md](s1-0dce4040.md); official file https://www.senat.ro/legis/PDF/2020/20L280S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (RX): [rx-3ffd93eb.md](rx-3ffd93eb.md); official file https://www.senat.ro/legis/PDF/2020/20L280RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (CX): [cx-f846d036.md](cx-f846d036.md); official file https://www.senat.ro/legis/PDF/2020/20L280CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (X2): [x2-4828109d.md](x2-4828109d.md); official file https://www.senat.ro/legis/PDF/2020/20L280X2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (XD): [xd-cbe6d693.md](xd-cbe6d693.md); official file https://www.senat.ro/legis/PDF/2020/20L280XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (SX): [sx-6eff3193.md](sx-6eff3193.md); official file https://www.senat.ro/legis/PDF/2020/20L280SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (XXS): [xxs-7c5384cd.md](xxs-7c5384cd.md); official file https://www.senat.ro/legis/PDF/2020/20L280XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-12: Document (PX): [px-34703c7d.md](px-34703c7d.md); official file https://www.senat.ro/legis/PDF/2020/20L280PX.PDF (its day is not given by the bill file: shown from the last stage held)
