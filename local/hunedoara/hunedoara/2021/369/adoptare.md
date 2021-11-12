@@ -1,0 +1,7 @@
+Hotărârea a fost adoptată cu vot liber exprimat 20 voturi “pentru“,;
+Hotărârea se adoptă cu majoritatea absolută;
+Art. 2. - Aprobă actualizarea cu rata inflației de 2,6% a limitelor amenzilor, prevăzute la art. 493 alin. (3) și alin. (4) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, aplicabile în anul 2020, începând cu data de 1 ianuarie 2022.
+Art. 3. - Hotărârea se aduce la cunoștință publică prin afișare pe panourile de afișaj special amenajate ale Consiliului local al municipiului Hunedoara, precum și pe pagina de internet a Primăriei municipiului Hunedoara.
+Art. 4. - Împotriva acestei hotărâri persoanele interesate pot face contestație în termen de 15 zile de la afișarea sau publicarea acesteia.
+Art. 5. - Hotărârea se comunică Prefectului județului Hunedoara, Primarului municipiului Hunedoara, Administratorului Public, Direcției economice, Direcției Patrimoniu, Serviciul Investiții, Monitorizarea Serviciilor Comunitare de Utilități Publice, Serviciului Juridic, Administrație Publică Locală și autoritate tutelară, Biroului Urbanism, Serviciului impozite și taxe locale, Impunere, Constatare, Serviciului Informații pentru Cetățeni și Relații Publice, Monitorul Oficial Local, Biroului Comunicare, Promovare Imagine, Compartimentului Audit Intern, Biroului Informatică și tehnică de calcul, și se aduce la cunoștința publică prin afișarea pe pagina de internet www.primariahunedoara.ro.
+Hunedoara, la 12.11.2021
