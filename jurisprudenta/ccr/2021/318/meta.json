@@ -1,0 +1,374 @@
+{
+ "key": "dcc-318-2021",
+ "label": "Decizia CCR nr. 318/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "318",
+ "date": "2021-05-11",
+ "year": "2021",
+ "heading": "DECIZIA nr. 318 din 11 mai 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 266^3 din Legea nr. 207/2015 privind Codul de procedură fiscală, ale art. I pct. 102 din Ordonanța Guvernului nr. 30/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală, precum și a Ordonanței Guvernului nr. 30/2017, în ansamblu",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1090",
+  "bis": false,
+  "date": "2021-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "30.303/325/2018",
+  "331D/2019",
+  "452D/2019",
+  "30.379/325/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "266-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 30/2017",
+    "number": "30",
+    "year": "2017",
+    "path": "og/2017/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Tender - S.A. din Timișoara, județul Timiș, în insolvență, prin administrator judiciar Alfa &amp; Quantum Consulting SPRL în dosarele nr. 30.303/325/2018 și nr. 30.379/325/2018 ale Judecătoriei Timișoara - Secția I civilă și constată că dispozițiile art. 266^3 din Legea nr. 207/2015 privind Codul de procedură fiscală, ale art. I pct. 102 din Ordonanța Guvernului nr. 30/2017 pentru modificarea și completarea Legii nr. 207/2015 privind Codul de procedură fiscală, precum și Ordonanța Guvernului nr. 30/2017, în ansamblu, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Timișoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 30/2017",
+    "number": "30",
+    "year": "2017",
+    "path": "og/2017/30"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "266-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "220",
+     "alin": [
+      "8",
+      "2-1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2017",
+    "number": "161",
+    "year": "2017",
+    "path": "lege/2017/161"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3.744/2015",
+    "number": "3744",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.744/2015",
+    "number": "3744",
+    "year": "2015"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248446",
+  "text_sha256": "9f0ffdaaf34f61d038ea2ff0d5276126f61a90651747bc7267a3b664d726f934",
+  "catalogue_sha256": "9f0ffdaaf34f61d038ea2ff0d5276126f61a90651747bc7267a3b664d726f934",
+  "fetched": "2026-11-03T01:40:01Z",
+  "chars": 45524,
+  "portal_id": "248446",
+  "tip": "DECIZIE"
+ }
+}
