@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-03: adopted by the Chamber of Deputies
 - 2021-11-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-11-15: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2021-11-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-04: Forma inițiatorului (FG): [fg-43dc2ed2.md](fg-43dc2ed2.md); official file https://www.senat.ro/legis/PDF/2021/21L483FG.PDF
 - 2021-11-04: Expunere de motive (EM): [em-5bba11f2.md](em-5bba11f2.md); official file https://www.senat.ro/legis/PDF/2021/21L483EM.PDF
 - 2021-11-15: Forma adoptată de Senat (FS): [fs-584b437e.md](fs-584b437e.md); official file https://www.senat.ro/legis/PDF/2021/21L483FS.PDF
+- 2021-11-16: Adresă privind sesizarea CCR (AXS): [axs-dd61c609.md](axs-dd61c609.md); official file https://www.senat.ro/legis/PDF/2021/21L483AXS.PDF
+- 2021-11-16: Forma trimisă la promulgare (LP): [lp-7b48b3b0.md](lp-7b48b3b0.md); official file https://www.senat.ro/legis/PDF/2021/21L483LP.PDF
