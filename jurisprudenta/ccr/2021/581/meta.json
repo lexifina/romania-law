@@ -1,0 +1,134 @@
+{
+ "key": "dcc-581-2021",
+ "label": "Decizia CCR nr. 581/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "581",
+ "date": "2021-09-16",
+ "year": "2021",
+ "heading": "DECIZIA nr. 581 din 16 septembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor cuprinse în capitolul II subcapitolul 1 lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) și lit. b) pct. 5 din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1094",
+  "bis": false,
+  "date": "2021-11-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "472/119/2019",
+  "2.638D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor din capitolul II subcapitolul 1 lit. A secțiunea II pct. 6 subpct. 6.2 lit. a) și lit. b) pct. 5 din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Thymea-Melinda Luppinger în Dosarul nr. 472/119/2019 al Tribunalului Covasna - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Covasna - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-11-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248480",
+  "text_sha256": "48fa057fb27f44eee13e0f5ea44d425fe814da4f7c30d8de041e095ebfb7db5e",
+  "catalogue_sha256": "48fa057fb27f44eee13e0f5ea44d425fe814da4f7c30d8de041e095ebfb7db5e",
+  "fetched": "2026-11-03T01:39:57Z",
+  "chars": 15166,
+  "portal_id": "248480",
+  "tip": "DECIZIE"
+ }
+}
