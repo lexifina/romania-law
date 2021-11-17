@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-03: adopted by the Chamber of Deputies
 - 2021-11-04: registered at the Senate
 - 2021-11-16: documents published: Aviz comisie
+- 2021-11-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-22: Aviz comisie (CA51): [ca51-750da135.md](ca51-750da135.md); official file https://www.senat.ro/legis/PDF/2021/21L482CA51.PDF
 - 2021-10-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L482CR.PDF
 - 2021-11-16: Aviz comisie (CA3): [ca3-9b7207a7.md](ca3-9b7207a7.md); official file https://www.senat.ro/legis/PDF/2021/21L482CA3.PDF
+- 2021-11-17: Aviz comisie (CA8): [ca8-96da04ec.md](ca8-96da04ec.md); official file https://www.senat.ro/legis/PDF/2021/21L482CA8.PDF
