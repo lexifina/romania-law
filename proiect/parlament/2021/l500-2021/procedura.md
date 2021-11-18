@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2021-11-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-11-08: documents published: Aviz Consiliul Legislativ
+- 2021-11-18: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-01: Forma inițiatorului (FG): [fg-2a6dd3fe.md](fg-2a6dd3fe.md); official file https://www.senat.ro/legis/PDF/2021/21L500FG.PDF
 - 2021-11-01: Expunere de motive (EM): [em-1db67358.md](em-1db67358.md); official file https://www.senat.ro/legis/PDF/2021/21L500EM.PDF
 - 2021-11-08: Aviz Consiliul Legislativ (LG): [lg-edf8f11a.md](lg-edf8f11a.md); official file https://www.senat.ro/legis/PDF/2021/21L500LG.PDF
+- 2021-11-18: Raport comisie sesizată pe fond (CR): [cr-82d8571d.md](cr-82d8571d.md); official file https://www.senat.ro/legis/PDF/2021/21L500CR.PDF
