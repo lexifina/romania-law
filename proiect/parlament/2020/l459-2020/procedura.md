@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-10-26: adopted by the Chamber of Deputies
 - 2021-11-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-05: sent for promulgation
+- 2021-11-19: promulgated, becomes Legea nr. 274/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2020-08-21: Adresă către Camera Deputaților (AM): [am-964cf2b9.md](am-964cf2b9.md); official file https://www.senat.ro/legis/PDF/2020/20L459AM.PDF
 - 2021-11-02: Adresă privind sesizarea CCR (AXS): [axs-714efb7e.md](axs-714efb7e.md); official file https://www.senat.ro/legis/PDF/2020/20L459AXS.PDF
 - 2021-11-02: Forma trimisă la promulgare (LP): [lp-e930ab05.md](lp-e930ab05.md); official file https://www.senat.ro/legis/PDF/2020/20L459LP.PDF
+- 2021-11-19: Decret de promulgare (DP): [dp-4b5d50b4.md](dp-4b5d50b4.md); official file https://www.senat.ro/legis/PDF/2020/20L459DP.PDF
+- 2021-11-19: Adresă privind forma promulgată (AFP): [afp-91ddb094.md](afp-91ddb094.md); official file https://www.senat.ro/legis/PDF/2020/20L459AFP.PDF
+- 2021-11-19: Forma promulgată (FP): [fp-26e084d4.md](fp-26e084d4.md); official file https://www.senat.ro/legis/PDF/2020/20L459FP.PDF
