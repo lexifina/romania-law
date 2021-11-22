@@ -1,0 +1,267 @@
+{
+ "key": "dcc-419-2021",
+ "label": "Decizia CCR nr. 419/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "419",
+ "date": "2021-06-17",
+ "year": "2021",
+ "heading": "DECIZIA nr. 419 din 17 iunie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1.035, ale art. 1.042, ale art. 1.043 și ale art. 1.045 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1111",
+  "bis": false,
+  "date": "2021-11-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "205/191/2018",
+  "318D/2018",
+  "1.155D/2018",
+  "13.937/4/2018",
+  "2.242D/2018",
+  "17.401/215/2018",
+  "17.401/215/2018/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1035",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1042",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1043",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1045",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dumitru Emil Brânză, Ana Brânză, Diana Adina Ispas și Alina Ispas în Dosarul nr. 205/191/2018 al Judecătoriei Blaj, de Marin Toma în Dosarul nr. 13.937/4/2018 al Judecătoriei Sectorului 4 București și de Dorian Nae în Dosarul nr. 17.401/215/2018 al Judecătoriei Craiova și constată că dispozițiile art. 1.035, ale art. 1.042, ale art. 1.043 și ale art. 1.045 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Blaj, Judecătoriei Sectorului 4 București și Tribunalului Dolj - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1045",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1035",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1042",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1043",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1054",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1034",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248623",
+  "text_sha256": "3f752d592de050b671cc568e730f65fc49896c03d33f1b6b537c1044108eedc2",
+  "catalogue_sha256": "3f752d592de050b671cc568e730f65fc49896c03d33f1b6b537c1044108eedc2",
+  "fetched": "2026-11-03T01:39:50Z",
+  "chars": 28142,
+  "portal_id": "248623",
+  "tip": "DECIZIE"
+ }
+}
