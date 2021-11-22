@@ -1,0 +1,213 @@
+{
+ "key": "iccj-ril-18-2021",
+ "label": "Decizia ÎCCJ nr. 18/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "18",
+ "date": "2021-09-27",
+ "year": "2021",
+ "heading": "DECIZIA nr. 18 din 27 septembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 45 alin. (5) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE- COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1108",
+  "bis": false,
+  "date": "2021-11-22",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.838/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 45 alin. (5) din Codul penal, în materia tratamentului penal al concursului de infracțiuni, aplicarea pedepsei accesorii presupune stabilirea acesteia mai întâi pe lângă pedeapsa principală inițială și, apoi, pe lângă pedeapsa principală rezultantă.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "45",
+     "alin": [
+      "5",
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "471",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248596",
+  "text_sha256": "bcb0a5b8d26cbb7a5014a9ad2bbd770d7caf72ef516055f2fc77b70e1837661d",
+  "catalogue_sha256": "bcb0a5b8d26cbb7a5014a9ad2bbd770d7caf72ef516055f2fc77b70e1837661d",
+  "fetched": "2026-11-03T01:39:49Z",
+  "chars": 53920,
+  "portal_id": "248596",
+  "tip": "DECIZIE"
+ }
+}
