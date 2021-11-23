@@ -1,0 +1,195 @@
+{
+ "key": "iccj-ril-21-2021",
+ "label": "Decizia ÎCCJ nr. 21/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "21",
+ "date": "2021-09-27",
+ "year": "2021",
+ "heading": "DECIZIA nr. 21 din 27 septembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 107, art. 113 alin. (1) pct. 9 și art. 116 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1114",
+  "bis": false,
+  "date": "2021-11-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.694/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Înaltei Curți de Casație și Justiție.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 107, art. 113 alin. (1) pct. 9 și art. 116 din Codul de procedură civilă stabilește că sintagma „loc al producerii prejudiciului“ în acțiunile în pretenții formulate de organismele de gestiune colectivă a drepturilor de autor, având ca obiect obligarea utilizatorilor de a achita remunerațiile cuvenite pentru comunicarea publică/radiodifuzarea neautorizată a fonogramelor de comerț sau publicate în scop comercial ori a reproducerilor acestora și/sau a prestațiilor artistice din domeniul audiovizual, corespunde locului săvârșirii faptei ilicite, iar nu celui al efectuării plății prejudiciului.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "116",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "110",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1504",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1494",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "1390",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/1996",
+    "number": "8",
+    "year": "1996",
+    "path": "lege/1996/8"
+   },
+   "articles": [
+    {
+     "art": "188",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248648",
+  "text_sha256": "78d25cdfe1039591019edadc245f5811fd6d82e78a647e2432ca24c004b9bf29",
+  "catalogue_sha256": "78d25cdfe1039591019edadc245f5811fd6d82e78a647e2432ca24c004b9bf29",
+  "fetched": "2026-11-03T01:39:49Z",
+  "chars": 49250,
+  "portal_id": "248648",
+  "tip": "DECIZIE"
+ }
+}
