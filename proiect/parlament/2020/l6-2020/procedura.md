@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-02-17: registered at the Chamber of Deputies
 - 2021-11-16: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-19: sent for promulgation
+- 2021-11-24: promulgated, becomes Legea nr. 275/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2020-02-06: Adresă către Camera Deputaților (AM): [am-4f99fb28.md](am-4f99fb28.md); official file https://www.senat.ro/legis/PDF/2020/20L006AM.PDF
 - 2021-11-16: Adresă privind sesizarea CCR (AXS): [axs-48dee7dd.md](axs-48dee7dd.md); official file https://www.senat.ro/legis/PDF/2020/20L006AXS.PDF
 - 2021-11-16: Forma trimisă la promulgare (LP): [lp-9dba7f10.md](lp-9dba7f10.md); official file https://www.senat.ro/legis/PDF/2020/20L006LP.PDF
+- 2021-11-24: Decret de promulgare (DP): [dp-9b46cf70.md](dp-9b46cf70.md); official file https://www.senat.ro/legis/PDF/2020/20L006DP.PDF
+- 2021-11-24: Adresă privind forma promulgată (AFP): [afp-81eda945.md](afp-81eda945.md); official file https://www.senat.ro/legis/PDF/2020/20L006AFP.PDF
+- 2021-11-24: Forma promulgată (FP): [fp-1915f463.md](fp-1915f463.md); official file https://www.senat.ro/legis/PDF/2020/20L006FP.PDF
