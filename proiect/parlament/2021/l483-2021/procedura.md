@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-15: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-11-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-19: sent for promulgation
+- 2021-11-25: promulgated, becomes Legea nr. 276/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-15: Forma adoptată de Senat (FS): [fs-584b437e.md](fs-584b437e.md); official file https://www.senat.ro/legis/PDF/2021/21L483FS.PDF
 - 2021-11-16: Adresă privind sesizarea CCR (AXS): [axs-dd61c609.md](axs-dd61c609.md); official file https://www.senat.ro/legis/PDF/2021/21L483AXS.PDF
 - 2021-11-16: Forma trimisă la promulgare (LP): [lp-7b48b3b0.md](lp-7b48b3b0.md); official file https://www.senat.ro/legis/PDF/2021/21L483LP.PDF
+- 2021-11-25: Document (AL): [al-1f9a9354.md](al-1f9a9354.md); official file https://www.senat.ro/legis/PDF/2021/21L483AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-11-25: Decret de promulgare (DP): [dp-ed52e995.md](dp-ed52e995.md); official file https://www.senat.ro/legis/PDF/2021/21L483DP.PDF
+- 2021-11-25: Adresă privind forma promulgată (AFP): [afp-ad4f04bc.md](afp-ad4f04bc.md); official file https://www.senat.ro/legis/PDF/2021/21L483AFP.PDF
+- 2021-11-25: Forma promulgată (FP): [fp-3fafdf7f.md](fp-3fafdf7f.md); official file https://www.senat.ro/legis/PDF/2021/21L483FP.PDF
