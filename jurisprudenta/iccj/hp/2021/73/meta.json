@@ -1,0 +1,151 @@
+{
+ "key": "iccj-hp-73-2021",
+ "label": "Decizia ÎCCJ nr. 73/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "73",
+ "date": "2021-10-11",
+ "year": "2021",
+ "heading": "DECIZIA nr. 73 din 11 octombrie 2021",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 9 coroborat cu art. 22 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1123",
+  "bis": false,
+  "date": "2021-11-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.216/1/2021",
+  "10.604/325/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1541",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția a II-a civilă în Dosarul nr. 10.604/325/2020, în vederea pronunțării unei hotărâri prealabile cu privire la dezlegarea următoarei chestiuni de drept:",
+  "1. În interpretarea dispozițiilor art. 9 coroborat cu art. 22 din Codul de procedură civilă, poate instanța de judecată să invoce din oficiu incidența prevederilor art. 1.541 alin. (1) lit. b) din Codul civil referitoare la reducerea penalității vădit excesive și astfel să pună în discuția părților eventualul caracter disproporționat al clauzei penale, în lipsa unei cereri exprese din partea părții interesate?",
+  "2. În contextul unor penalități de întârziere în cotă procentuală stabilite de părți pentru îndeplinirea cu întârziere a unei obligații de plată a unei sume de bani, apreciate de instanța de judecată ca fiind vădit excesive, se aplică limitarea reglementată de art. 1.541 alin. (2) din Codul civil ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1541",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 24
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/248705",
+  "text_sha256": "00586b7d96b7155af03525cdff4a0d9fab634cef607f652fa3d5311902bb607a",
+  "catalogue_sha256": "00586b7d96b7155af03525cdff4a0d9fab634cef607f652fa3d5311902bb607a",
+  "fetched": "2026-11-03T22:30:26Z",
+  "chars": 34296,
+  "portal_id": "248705",
+  "tip": "DECIZIE"
+ }
+}
