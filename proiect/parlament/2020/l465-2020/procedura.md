@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-07-21: returned for re-examination
 - 2021-09-20: adopted by the Senate
 - 2021-11-17: sent for promulgation
+- 2021-11-26: promulgated, becomes Legea nr. 277/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2020-08-30: Adresă către Camera Deputaților (AM): [am-dd1e486b.md](am-dd1e486b.md); official file https://www.senat.ro/legis/PDF/2020/20L465AM.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2020/20L465AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-49054ed8.md](lp-49054ed8.md); official file https://www.senat.ro/legis/PDF/2020/20L465LP.PDF
+- 2021-11-26: Decret de promulgare (DP): [dp-7c28f10b.md](dp-7c28f10b.md); official file https://www.senat.ro/legis/PDF/2020/20L465DP.PDF
+- 2021-11-26: Adresă privind forma promulgată (AFP): [afp-af1923e8.md](afp-af1923e8.md); official file https://www.senat.ro/legis/PDF/2020/20L465AFP.PDF
+- 2021-11-26: Forma promulgată (FP): [fp-2fcd2ea7.md](fp-2fcd2ea7.md); official file https://www.senat.ro/legis/PDF/2020/20L465FP.PDF
