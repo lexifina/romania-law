@@ -1,0 +1,69 @@
+REGULAMENTUL (UE) 2021/1925 AL COMISIEI
+din 5 noiembrie 2021
+de modificare a anumitor anexe la Regulamentul (UE) nr. 142/2011 în ceea ce privește cerințele pentru introducerea pe piață a anumitor produse derivate din insecte și adaptarea unei metode de izolare
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1069/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de abrogare a Regulamentului (CE) nr. 1774/2002 (1), în special articolul 15 alineatul (1) primul paragraf literele (b), (h), (i) și (j), articolul 21 alineatul (6) primul paragraf litera (d), articolul 27 primul paragraf litera (c), articolul 31 alineatul (2) și articolul 32 alineatul (3) primul paragraf litera (a).
+întrucât:
+(1) Regulamentul (UE) nr. 142/2011 al Comisiei (2) stabilește norme de sănătate publică și animală pentru introducerea pe piață și exportul produselor derivate.
+(2) Dezvoltarea rapidă a sectorului de producție a insectelor a dus la o cantitate semnificativă de excremente de insecte care, în absența unor norme armonizate la nivelul Uniunii, sunt eliminate în mod diferit în fiecare stat membru. Pentru a asigura valorificarea excrementelor de insecte ca îngrășăminte, este necesar să se stabilească norme ale Uniunii
+(3) În sensul Regulamentul (UE) nr. 142/2011, „frass” trebuie definit ca amestecul de excremente de insecte cu părți de insecte moarte și substrat de hrănire. Larvele de insecte, care sunt utilizate în mod obișnuit pentru producția de proteine animale prelucrate sau pentru consumul uman, trăiesc în frass. Definiția pentru „frass” trebuie introdusă în anexa I la Regulamentul (UE) nr. 142/2011 pentru a alinia cerințele privind tratarea și introducerea pe piață a frass cu cerințele privind gunoiul de grajd prelucrat. Prin urmare, anexa I la Regulamentul (UE) nr. 142/2011 trebuie modificată în consecință.
+(4) Colectarea la timp a carcaselor individuale de animale de fermă nerumegătoare nu este întotdeauna fezabilă din punct de vedere economic, în special în ceea ce privește carcasele colectate de la exploatații mici. Prin urmare, capitolul V din anexa IX la Regulamentul (UE) nr. 142/2011 prevede metode de izolare pentru a asigura depozitarea în siguranță a anumitor animale de fermă nerumegătoare moarte până la colectare. Metoda de izolare „hidroliză cu eliminare ulterioară” se referă în prezent numai la carcasele de porcine. Este oportun să se extindă această metodă de izolare pentru a include și carcasele de păsări de curte și de lagomorfe de crescătorie. Prin urmare, punctul 2 al secțiunii 2.B din capitolul V al anexei IX la Regulamentul (UE) nr. 142/2011 ar trebui modificat în consecință.
+(5) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice (denumit în continuare „Acordul de retragere”), în special cu articolul 5 alineatul (4) din Protocolul privind Irlanda/Irlanda de Nord coroborat cu anexa 2 la respectivul protocol, Regulamentul (CE) nr. 1069/2009, precum și actele Comisiei bazate pe acesta, se aplică Regatului Unit și în Regatul Unit în ceea ce privește Irlanda de Nord după încheierea perioadei de tranziție prevăzute în Acordul de retragere.
+(6) Deoarece perioada de tranziție prevăzută în Acordul de retragere s-a încheiat la 31 decembrie 2020, punctul 1 din capitolul V secțiunea 2.B din anexa IX la Regulamentul (UE) nr. 142/2011 trebuie modificat pentru a înlocui trimiterea la Regatul Unit din lista statelor membre autorizate să aplice metoda izolării cu o trimitere la Regatul Unit în ceea ce privește Irlanda de Nord. În plus, trimiterile la Regatul Unit din capitolul V secțiunea 2.A din anexa IX la Regulamentul (UE) nr. 142/2011 și din tabelul 3 din capitolul II secțiunea 11 din anexa XIV la regulamentul respectiv trebuie eliminate.
+(7) La 8 octombrie 2015, Autoritatea Europeană pentru Siguranța Alimentară (EFSA) a publicat un aviz științific privind un profil de risc referitor la producția și consumul de insecte ca alimente și ca hrană pentru animale (3). Printre mai multe specii de insecte, EFSA a evaluat viermii de mătase ca posibilă sursă pentru producția de proteine animale prelucrate. Sericicultura are o tradiție îndelungată în anumite regiuni ale Uniunii. Deoarece viermii de mătase domestici se hrănesc numai cu frunze de dud (Morus alba și Morus nigra), nu există niciun risc de contaminare cu hrană de origine animală, care nu este autorizată pentru hrănirea insectelor. Prin urmare, viermii de mătase trebuie autorizați în vederea prelucrării în proteine animale destinate fabricării de hrană pentru animalele de fermă, după recoltarea mătăsii. Este oportun să se adauge viermii de mătase (Bombyx mori) în lista speciilor de insecte autorizate pentru producția de proteine animale prelucrate destinate fabricării de hrană pentru animalele de fermă. Prin urmare, anexa X la Regulamentul (UE) nr. 142/2011 trebuie modificată în consecință.
+(8) Anexa XI la Regulamentul (UE) nr. 142/2011 stabilește cerințele pentru introducerea pe piață a gunoiului de grajd. În urma introducerii definiției pentru „frass” în anexa I la regulamentul respectiv, cerințele pentru introducerea pe piață a frass-ului prelucrat trebuie să asigure comerțul în condiții de siguranță cu frass prelucrat. Prin urmare, cerințele prevăzute în anexa respectivă ar trebui să acopere și frass-ul. Prin urmare, anexa XI la Regulamentul (UE) nr. 142/2011 trebuie modificată în consecință.
+(9) Statele membre care aplică în prezent măsuri naționale pentru prelucrarea frass-ului trebuie să își alinieze măsurile naționale la metoda prevăzută în anexa XI la Regulamentul (UE) nr. 142/2011, astfel cum a fost modificată prin prezentul regulament. Prezentul regulament trebuie să prevadă o perioadă de tranziție de 12 luni.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexele I, IX, X, XI și XIV la Regulamentul (UE) nr. 142/2011 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Operatorii autorizați sau înregistrați într-un stat membru care aplică măsuri naționale pentru prelucrarea frass-ului pot continua să aplice măsurile naționale respective pentru introducerea pe piață a frass-ului în statul membru în cauză până la 8 noiembrie 2022.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 5 noiembrie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 300, 14.11.2009, p. 1.
+(2) Regulamentul (UE) nr. 142/2011 al Comisiei din 25 februarie 2011 de punere în aplicare a Regulamentului (CE) nr. 1069/2009 al Parlamentului European și al Consiliului de stabilire a unor norme sanitare privind subprodusele de origine animală și produsele derivate care nu sunt destinate consumului uman și de punere în aplicare a Directivei 97/78/CE a Consiliului în ceea ce privește anumite probe și produse care sunt scutite de la controalele sanitar-veterinare la frontieră în conformitate cu directiva menționată (JO L 54, 26.2.2011, p. 1).
+(3) Scientific Opinion on a Risk profile related to production and consumption of insects as food and feed (Aviz științific privind un profil de risc asociat producției și consumului de insecte ca alimente și ca hrană pentru animale), EFSA Journal (2015);13(10):4257.
+ANEXĂ
+Anexele I, IX, X XI și XIV a Regulamentul (UE) nr. 142/2011 se modifică după cum urmează:
+1. În anexa I, se adaugă următorul punct 61:
+„61. | ‘frass’ înseamnă un amestec de excremente derivate din insecte de crescătorie, substrat de hrănire, părți de insecte de crescătorie, ouă moarte și un conținut de insecte de crescătorie de cel mult 5 % în volum și de cel mult 3 % în greutate.”
+2. În capitolul V din anexa IX, secțiunea 2 se modifică după cum urmează:
+(a) punctul A.1 se înlocuiește cu următorul text:
+„1. | Statele membre(*1) vizate Procesul de maturare aerobă și depozitare a porcilor care au murit în fermă și a anumitor alte materiale de origine porcină, urmate de incinerare sau de coincinerare poate fi utilizat în Franța, Irlanda, Letonia, Portugalia și Regatul Unit în ceea ce privește Irlanda de Nord. După maturare aerobă și depozitarea materialului, autoritatea competentă din statul membru în cauză trebuie să se asigure că materialele sunt colectate și eliminate pe teritoriul respectivului stat membru.
+(*1) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în special cu articolul 5 alineatul (4) din Protocolul privind Irlanda/Irlanda de Nord, în coroborare cu anexa 2 la respectivul protocol, în sensul prezentei anexe, referințele la statele membre includ Regatul Unit în ceea ce privește Irlanda de Nord.”;"
+(b) punctele B.1 și B.2 se înlocuiesc cu următorul text:
+„1. | Statele membre(*2) vizate Procesul de hidroliză cu eliminare ulterioară poate fi utilizat în Irlanda, Spania, Letonia, Portugalia și Regatul Unit în ceea ce privește Irlanda de Nord. După hidroliză, autoritatea competentă autorizantă trebuie să se asigure că materialele sunt colectate și eliminate pe teritoriul aceluiași stat membru menționat anterior.
+2. Materii prime
+Pentru acest proces pot fi utilizate numai următoarele materiale provenite de la porcine, păsări de curte sau lagomorfe de crescătorie:
+(a) Materiale de categoria 2 menționate la articolul 9 litera (f) punctele (i), (ii) și (iii) din Regulamentul (CE) nr. 1069/2009;
+(b) Materiale de categoria 3 menționate la articolul 10 litera (h) din regulamentul respectiv.
+Această metodă se aplică numai pentru eliminarea animalelor din speciile de porcine, păsări de curte sau lagomorfe de crescătorie care provin din aceeași exploatație, cu condiția ca această exploatație să nu facă obiectul unei interdicții din cauza unui focar suspect sau confirmat al unei boli transmisibile grave care afectează animalele din speciile de porcine, păsări de curte sau lagomorfe de crescătorie, iar animalele nu au fost ucise în scopul combaterii bolilor.
+(*2) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în special cu articolul 5 alineatul (4) din Protocolul privind Irlanda/Irlanda de Nord, în coroborare cu anexa 2 la respectivul protocol, în sensul prezentei anexe, referințele la statele membre includ Regatul Unit în ceea ce privește Irlanda de Nord.” "
+3. În anexa X capitolul II secțiunea 1.A, la punctul 2 se adaugă următorul subpunct (iv):
+„(iv) | Viermi de mătase (Bombyx mori).”
+4. În anexa XI capitolul I, secțiunea 2 se modifică după cum urmează:
+(a) titlul și paragraful introductiv se înlocuiesc cu următorul text:
+„ Secțiunea 2
+Guano de la lilieci, frass, gunoi de grajd prelucrat și produse derivate din gunoi de grajd prelucrat
+Introducerea pe piață a guano de la lilieci, a gunoiului de grajd prelucrat și a produselor derivate din gunoi de grajd prelucrat face obiectul condițiilor prevăzute la literele (a)-(e) de mai jos. În plus, în cazul guano-ului de la lilieci, este necesară aprobarea statului membru de destinație, astfel cum se menționează la articolul 48 alineatul (1) din Regulamentul (CE) nr. 1069/2009:”;
+(b) se adaugă următoarea literă (f):
+„(f) | Introducerea pe piață a frass-ului face obiectul condițiilor prevăzute la literele (a), (b), (d) și (e) din prezenta secțiune.”
+5. În anexa XIV capitolul II secțiunea 11, tabelul 3 se înlocuiește cu următorul text:
+„Tabelul 3
+Importuri de fotogelatină
+Țara terță de origine | Instalații de proveniență | Statul membru de destinație | Punct de control la frontieră de primă intrare în Uniune | Fabrici autorizate din industria fotografică
+Japonia | Nitta Gelatin Inc., 2-22 Futamata Yao-City, Osaka 581-0024 Japonia Jellie Co. Ltd. 7-1, Wakabayashi 2-Chome, Wakabayashi-ku, Sendai-City; Miyagi, 982 Japonia NIPPI Inc. Gelatine Division 1 Yumizawa-Cho Fujinomiya City Shizuoka 418-0073 Japonia | Țările de Jos | Rotterdam | FujifilmEurope, Oudenstaart 1, 5047 TK Tilburg, Țările de Jos
+Nitta Gelatin Inc., 2-22 Futamata Yao-City, Osaka 581-0024 Japonia
+Cehia | Hamburg | FOMA Bohemia, spol. SRO Jana Krušinky 1604 501 04 Hradec Králové, Cehia
+Statele Unite | Eastman Gelatine Corporation, 227 Washington Street, Peabody, MA, 01960 SUA Gelita North America, 2445 Port Neal Industrial Road Sergeant Bluff, Iowa, 51054 SUA | | |
+Cehia | Hamburg | FOMA Bohemia spol. SRO Jana Krušinky 1604 501 04 Hradec Králové, Cehia”
+(*1) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în special cu articolul 5 alineatul (4) din Protocolul privind Irlanda/Irlanda de Nord, în coroborare cu anexa 2 la respectivul protocol, în sensul prezentei anexe, referințele la statele membre includ Regatul Unit în ceea ce privește Irlanda de Nord.”;
+(*2) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în special cu articolul 5 alineatul (4) din Protocolul privind Irlanda/Irlanda de Nord, în coroborare cu anexa 2 la respectivul protocol, în sensul prezentei anexe, referințele la statele membre includ Regatul Unit în ceea ce privește Irlanda de Nord.” ’
