@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-08: sent for promulgation
 - 2021-11-26: promulgated, becomes Legea nr. 279/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-02: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-26: Decret de promulgare (DP): [dp-d535a56c.md](dp-d535a56c.md); official file https://www.senat.ro/legis/PDF/2021/21L206DP.PDF
 - 2021-11-26: Adresă privind forma promulgată (AFP): [afp-2c1a594a.md](afp-2c1a594a.md); official file https://www.senat.ro/legis/PDF/2021/21L206AFP.PDF
 - 2021-11-26: Forma promulgată (FP): [fp-c531963a.md](fp-c531963a.md); official file https://www.senat.ro/legis/PDF/2021/21L206FP.PDF
+- 2021-12-02: Document (AA): [aa-cf1b96d2.md](aa-cf1b96d2.md); official file https://www.senat.ro/legis/PDF/2021/21L206AA.PDF (its day is not given by the bill file: shown from the last stage held)
