@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-09-20: adopted by the Senate
 - 2021-11-17: sent for promulgation
 - 2021-11-26: promulgated, becomes Legea nr. 277/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-02: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,11 @@ Initiator: Guvernul României.
 - 2021-11-26: Decret de promulgare (DP): [dp-7c28f10b.md](dp-7c28f10b.md); official file https://www.senat.ro/legis/PDF/2020/20L465DP.PDF
 - 2021-11-26: Adresă privind forma promulgată (AFP): [afp-af1923e8.md](afp-af1923e8.md); official file https://www.senat.ro/legis/PDF/2020/20L465AFP.PDF
 - 2021-11-26: Forma promulgată (FP): [fp-2fcd2ea7.md](fp-2fcd2ea7.md); official file https://www.senat.ro/legis/PDF/2020/20L465FP.PDF
+- 2021-12-02: Document (AT): [at-729e049e.md](at-729e049e.md); official file https://www.senat.ro/legis/PDF/2020/20L465AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (S1): [s1-adef83ac.md](s1-adef83ac.md); official file https://www.senat.ro/legis/PDF/2020/20L465S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (RX): [rx-0a6ff26d.md](rx-0a6ff26d.md); official file https://www.senat.ro/legis/PDF/2020/20L465RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (CX): [cx-4de682aa.md](cx-4de682aa.md); official file https://www.senat.ro/legis/PDF/2020/20L465CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (XD): [xd-f8743333.md](xd-f8743333.md); official file https://www.senat.ro/legis/PDF/2020/20L465XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (SX): [sx-6cfda750.md](sx-6cfda750.md); official file https://www.senat.ro/legis/PDF/2020/20L465SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (XXS): [xxs-a9c78079.md](xxs-a9c78079.md); official file https://www.senat.ro/legis/PDF/2020/20L465XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-02: Document (PX): [px-873fd070.md](px-873fd070.md); official file https://www.senat.ro/legis/PDF/2020/20L465PX.PDF (its day is not given by the bill file: shown from the last stage held)
