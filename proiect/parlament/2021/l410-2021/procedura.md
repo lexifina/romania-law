@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2021-10-27: documents published: Aviz comisie
 - 2021-11-09: documents published: Aviz comisie
 - 2021-11-22: documents published: Raport comisie sesizată pe fond
+- 2021-12-06: registered at the Senate
 
 ## Documents
 
