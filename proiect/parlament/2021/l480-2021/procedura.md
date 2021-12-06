@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-10: documents published: Aviz comisie
 - 2021-11-11: documents published: Aviz comisie
 - 2021-11-16: documents published: Aviz comisie
+- 2021-12-06: withdrawn by the initiator
 
 ## Documents
 
