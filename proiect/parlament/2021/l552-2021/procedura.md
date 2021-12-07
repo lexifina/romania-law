@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-18: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2021-06-15: registered at the Senate
 - 2021-09-14: registered at the Chamber of Deputies
+- 2021-12-07: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-18: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L552ES.PDF
 - 2021-05-18: Aviz Consiliul Legislativ (LG): [lg-ec063174.md](lg-ec063174.md); official file https://www.senat.ro/legis/PDF/2021/21L552LG.PDF
 - 2021-05-18: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L552SJ.PDF
+- 2021-12-07: Raport comisie sesizată pe fond (CR): [cr-5d8a8388.md](cr-5d8a8388.md); official file https://www.senat.ro/legis/PDF/2021/21L552CR.PDF
