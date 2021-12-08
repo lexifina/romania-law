@@ -1,0 +1,19 @@
+# Propunere legislativă L52/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 114/2023 (`legea-114-2023`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.217/2003 pentru prevenirea și combaterea violenței domestice, precum și a Legii nr.61/1993 privind alocația de stat pentru copii
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-12-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-12-08: Adresă de înaintare a inițiativei (AD): [ad-c474ba49.md](ad-c474ba49.md); official file https://www.senat.ro/legis/PDF/2022/22L052AD.PDF
+- 2021-12-08: Forma inițiatorului (FG): [fg-fd6f7e94.md](fg-fd6f7e94.md); official file https://www.senat.ro/legis/PDF/2022/22L052FG.PDF
+- 2021-12-08: Expunere de motive (EM): [em-33a156a0.md](em-33a156a0.md); official file https://www.senat.ro/legis/PDF/2022/22L052EM.PDF
