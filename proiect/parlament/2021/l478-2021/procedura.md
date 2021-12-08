@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-28: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2021-11-16: documents published: Aviz comisie
 - 2021-11-17: documents published: Aviz comisie
+- 2021-12-08: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-16: Aviz comisie (CA44): [ca44-9f54c6de.md](ca44-9f54c6de.md); official file https://www.senat.ro/legis/PDF/2021/21L478CA44.PDF
 - 2021-11-17: Aviz comisie (CA3): [ca3-7694246f.md](ca3-7694246f.md); official file https://www.senat.ro/legis/PDF/2021/21L478CA3.PDF
 - 2021-11-17: Aviz comisie (CA41): [ca41-5f473ee6.md](ca41-5f473ee6.md); official file https://www.senat.ro/legis/PDF/2021/21L478CA41.PDF
+- 2021-12-08: Aviz comisie (CA42): [ca42-9995dd75.md](ca42-9995dd75.md); official file https://www.senat.ro/legis/PDF/2021/21L478CA42.PDF
