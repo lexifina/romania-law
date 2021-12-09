@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-11-10: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
 - 2021-11-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-20: sent for promulgation
+- 2021-12-09: promulgated, becomes Legea nr. 290/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-11-10: Forma adoptată de Senat (FS): [fs-a0ef05c1.md](fs-a0ef05c1.md); official file https://www.senat.ro/legis/PDF/2021/21L388FS.PDF
 - 2021-11-15: Adresă privind sesizarea CCR (AXS): [axs-3cf42d41.md](axs-3cf42d41.md); official file https://www.senat.ro/legis/PDF/2021/21L388AXS.PDF
 - 2021-11-15: Forma trimisă la promulgare (LP): [lp-1fe9655a.md](lp-1fe9655a.md); official file https://www.senat.ro/legis/PDF/2021/21L388LP.PDF
+- 2021-12-09: Decret de promulgare (DP): [dp-94da55fb.md](dp-94da55fb.md); official file https://www.senat.ro/legis/PDF/2021/21L388DP.PDF
+- 2021-12-09: Adresă privind forma promulgată (AFP): [afp-2aa9d6af.md](afp-2aa9d6af.md); official file https://www.senat.ro/legis/PDF/2021/21L388AFP.PDF
+- 2021-12-09: Forma promulgată (FP): [fp-6ef54055.md](fp-6ef54055.md); official file https://www.senat.ro/legis/PDF/2021/21L388FP.PDF
