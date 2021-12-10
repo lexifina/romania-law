@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-24: sent for promulgation
+- 2021-12-10: promulgated, becomes Legea nr. 291/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-04: Adresă către Camera Deputaților (AM): [am-6b2a326a.md](am-6b2a326a.md); official file https://www.senat.ro/legis/PDF/2021/21L294AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-7cc0fb43.md](axs-7cc0fb43.md); official file https://www.senat.ro/legis/PDF/2021/21L294AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-0a672098.md](lp-0a672098.md); official file https://www.senat.ro/legis/PDF/2021/21L294LP.PDF
+- 2021-12-10: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L294CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-10: Decret de promulgare (DP): [dp-6bad64ae.md](dp-6bad64ae.md); official file https://www.senat.ro/legis/PDF/2021/21L294DP.PDF
+- 2021-12-10: Adresă privind forma promulgată (AFP): [afp-6ab901f4.md](afp-6ab901f4.md); official file https://www.senat.ro/legis/PDF/2021/21L294AFP.PDF
+- 2021-12-10: Forma promulgată (FP): [fp-87411dae.md](fp-87411dae.md); official file https://www.senat.ro/legis/PDF/2021/21L294FP.PDF
