@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: documents published: Raport comisie sesizată pe fond
 - 2021-06-09: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-09-08: documents published: Aviz comisie
+- 2021-12-13: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-09: Forma inițiatorului (FG): [fg-649fdffb.md](fg-649fdffb.md); official file https://www.senat.ro/legis/PDF/2021/21L223FG.PDF
 - 2021-06-09: Expunere de motive (EM): [em-1d849376.md](em-1d849376.md); official file https://www.senat.ro/legis/PDF/2021/21L223EM.PDF
 - 2021-09-08: Aviz comisie (CA19): [ca19-ddf6a456.md](ca19-ddf6a456.md); official file https://www.senat.ro/legis/PDF/2021/21L223CA19.PDF
+- 2021-12-13: Forma adoptată de Senat (FS): [fs-23b44ee1.md](fs-23b44ee1.md); official file https://www.senat.ro/legis/PDF/2021/21L223FS.PDF
