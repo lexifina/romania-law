@@ -1,0 +1,3230 @@
+(5Jt
+u
+PARLAMENTUL ROMANIEI
+SENATUL
+CAMERA DEPUTATILOR
+LEGE
+privind prevenirea §i combaterea dopajuluiin sport
+ParlamentuI Romaniei adopta prezenta lege.
+TITLUL I
+Dispozi^ii generale
+Art. 1. - (1) Prezenta lege reglementeaza prevenirea §i eombaterea
+dopajului in sport.
+(2) Conform reglementarilor Convenliei impotriva dopajului,
+adoptata in cadrul Consiliului Europei, la Strasbourg la 16 noiembrie 1989,
+ratificata prin Legea nr. 171/1998, ale Convenliei intemalionale impotriva
+dopajului in sport, adoptata in cadrul Conferinlei Generale a Organizaliei
+Naliunilor Unite pentru Educalie, §timla §i Cultura, la Paris la 19 octombrie 2005,
+acceptata prin Legea nr. 367/2006, §i ale Codului Mondial Anti-Doping,
+denumit in continuare Cod, elaborat de Agen^ia Mondiala Anti-Doping,
+denumita in continuare WAD A, se interzice dopajul in sport din ra^iuni de
+natura etica §i medicala.
+A
+(3) In vederea prevenirii si combaterii dopajului in sport la nivel
+national functioneaza Agenda Nationals Anti-Doping, denumita in continuare
+ANAD si Laboratorul de Control Doping, denumit in continuare LCD.
+(4) Este interzis oric^ei persoane sa se implice in orice activitate, alta
+decat programele de reabilitare sau educatie anti-doping, care are legatura cu
+controlul doping, perfonnanta sportiva sau ingrijirea medicala intr-un mediu
+sportiv, inclusiv in calitate de supervizor, atunci c&id aceasta persoana:
+
+2
+M
+a) se afla in perioada de suspendare pentm o incalcare a
+reglementarilor anti-doping, conform prevederilor Codului si a prezentei legi;
+b) nu intra sub incidenta Codului, dar s-a implicat direct si
+intentionat, in ultimii 6 ani, in activitati care ar fi constituit incalcari ale
+reglementarilor anti-doping, daca acestei persoane i-ar fi fost aplicabile
+reglementari conforme cu Codul.
+(5) Prezenta lege se aplica:
+a) sportivilor;
+b) personalului asistent al sportivilor;
+c) practicantilor sportului recreativ;
+d) Ministerului Tineretului si Sportului si structurilor aflate in
+subordinea acestuia, Comitetului Olimpic si Sportiv Roman, Comitetului
+Paralimpic, federatiilor sportive nationale, ligilor profesioniste si personalului
+angajat al acestora sau care se afla in raporturi juridice cu acestea;
+e) personalului angajat al ANAD, inclusiv persoanelor desemnate in
+organul de conducere al acesteia si numite in functia de presedinte sau
+vicepresedinte;
+f) membrilor Comisiei de audiere si ai Comisiei de apel;
+g) tertilor-delegati si personalului acestora implicati in orice aspect
+al controlului doping;
+h) personalului angajat al LCD;
+i) persoanelor implicate in orice aspect al controlului doping;
+j) organizatorilor de competitii sportive;
+k) oricarei alte persoane in raport cu care prezenta lege confera
+autoritate ANAD.
+/v
+(6) In examinarea faptelor §i aspectelor juridice ale unui caz de
+incalcare a reglementarilor anti-doping, jurisdicjia exclusiva apartine
+organismelor de jurisdictie sportiva, instan^a de ultim grad fiind Curtea de
+arbitraj sportiv de la Lausanne.
+Art. 2. - (1) Dopajul in sport reprezinta una sau mai multe incalcari
+ale reglementarilor anti-doping.
+(2) Constituie incalcari ale reglementarilor anti-doping urmatoarele
+fapte:
+a) prezenta unei substance interzise sau a metabolitilor acesteia ori a
+markerilor ei in proba provenita de la un sportiv. Este de datoria sportivilor sa
+se asigure ca nicio substan|a interzisa nu patrunde in organismul lor. Sportivii
+sunt raspunzatori pentm prezen|a oricarei substance interzise, sau a
+metabolililor, ori a markerilor acesteia, depistata in probele lor. In consecinta,
+nu este necesar sa se probeze intenlia, vinovalia, neglijenia sau folosirea cu
+buna stiinta de catre sportiv pentm a stabili o incalcare anti-doping;
+
+3
+b) utilizarea sau tentativa de a utiliza o substan^a interzisa sau o
+metoda interzisa. Este de datoria sportivilor sa se asigure ca nicio substan^a
+interzisa nu patrunde in corpul lor §i ca nu se utilizeaza nici o metoda
+interzisa. Prin unnare, nu este necesar sa se probeze inten^ia, vinovatia,
+neglijen^a sau utilizarea cu buna stiin^ de catre un sportiv pentru a se stabili
+0 incalcare a reglementarilor anti-doping privind utilizai'ea unei substance
+interzise sau a unei metode interzise;
+c) sustragerea de la recoltarea de probe sau refuzul nejustificat sau
+neprezentarea nejustificata pentru recoltarea de probe a unui sportiv dupa
+instiintarea de catre o persoana autorizata in mod corespunzator;
+d) orice combina^ie de trei teste neefectuate §i/sau incalcari legate
+de informa|iile privind localizarea sportivilor, a§a cum sunt prevazute in
+standardul international pentru gestionarea rezultatelor, savarsite intr-o
+perioada de 12 luni de catre un sportiv dintr-un lot de testare inregistrat;
+e) falsificarea sau tentativa de a falsifica oricare parte a controlului
+doping de catre sportiv sau alta persoana;
+f) posesia de substance sau metode interzise de catre un sportiv sau
+o alta persoana din personalul asistent al sportivului;
+(i) posesia de catre un sportiv, in competitie, a oricarei metode
+interzise sau substance interzise sau posesia de catre un sportiv, in afara
+competitiei, a oricarei metode interzise sau substance interzise care este
+interzisa in afara competi|iei, daca sportivul nu dovede§te ca posesia este
+uimare a unei scutiri pentru uz terapeutic, acordata conform prezentei legi
+sau a altei justificari acceptabile;
+(ii) posesia de catre personalul asistent al sportivilor in competitie a
+oricarei metode interzise sau substance interzise sau posesia de catre personalul
+asistent al sportivilor, in afara competi^iei, a oric^-ei metode interzise sau
+substance interzise care este interzisa in afara competi^iei, in legatura cu un
+sportiv, 0 competi^ie sau un antrenament, daca personalul asistent al sportivilor
+nu dovede§te ca posesia este in concordanta cu o scutire pentru uz terapeutic,
+acordata in conditiile prezentei legi sau a unei justificari acceptabile;
+g) traficul sau tentativa de traficare a oricarei substance interzise sau
+metode interzise de catre un sportiv sau alta persoana;
+h) administrarea sau tentativa de a administra de catre un sportiv
+sau o alta persoana orice substanta sau metoda interzisa oricarui sportiv, in
+competitie, ori administrarea sau tentativa de a administra oricarui sportiv, in
+afara competitiei, orice substanta sau metoda interzisa care este interzisa in
+afara competi^iei;
+
+4
+i) complicitatea sau tentativa de complicitate din partea imui sportiv sau
+. a altei persoane, prin asistarea, incurajarea, sprijinirea, instigarea, uneltirea,
+acoperirea sau orice alt tip de complicitate inten^ionata sau tentativa de
+complicitate care presupune o incalcare sau o tentativa de incalcare a
+reglementarilor anti-doping sau incalcarea prevederilor art. 107 alin. (1) - (3);
+j) asocierea intre un sportiv sau o alta persoana aflata sub autoritatea
+unei organiza^ii anti-doping pe baza unui raport profesional sau de natura
+sportiva, pe de o parte, si, pe de alta parte, orice membru al personalului
+asistent al sportivului care:
+(i) daca se afla sub autoritatea unei organiza^ii anti-doping, face
+obiectul unei perioade de suspendare; sau
+(ii) daca nu se afla sub autoritatea unei organiza^ii anti-doping §i
+daca suspendarea nu a fost dispusa printr-o procedura de gestionare a
+rezultatelor in temeiul Codului - a fost condamnat sau - pe baza unor
+proceduri penale sau disciplinare sau profesionale - a fost gasit vinovat de a
+fi adoptat o conduita care ar fi constituit o incalcare a regulilor anti-doping in
+situatia in care acelei persoane i-ar fi fost incidente reglementari conforme cu
+Codul. Statutul de descalificare al unei astfel de persoane va fi in vigoare
+pentru perioada cea mai lunga dintre durata de 6 ani de la data deciziei de
+natura penala, disciplinara sau profesionala, sau durata sanctiunii de natura
+penala, disciplinara sau profesionala impuse; sau
+(iii) serve§te drept acoperire sau intermediar pentru una din
+persoanele prevazute la lit. j) pet. (i) si (ii);
+k) actiunile unui sportiv sau ale altei persoane de descurajare sau de
+represalii impotriva raportarii catre autoritati, cu exceptia cazului in care astfel
+de actiuni reprezinta incalcarea reglementarilor anti-doping prevazuta la lit. e).
+(3) Nu este necesar sa se probeze intenfia, vinovafia, neglijenfa sau
+folosirea cu buna stiinta de catre sportiv pentru a dovedi o incalcare a
+reglementarilor anti-doping in sensul alin. (2) lit. a) sau utilizarea unei
+substante interzise sau metode interzise in sensul alin. (2) lit. b).
+(4) Dovada unei incalcari a reglementarilor anti-doping in sensul
+prevederilor alin. (2) lit. a) este reprezentata de una din urmatoarele situafii:
+a) prezenfa unei substanfe interzise sau a metabolifilor sau
+markerilor acesteia in proba A a unui sportiv in cazul in care sportivul
+renunfa la analiza probei B §i proba B nu este analizata;
+b) proba B este analizata, iar analiza confirma prezenfa substanfei
+interzise sau a metabolifilor sau markerilor sai detectafi in proba A a sportivului;
+c) proba A sau B a sportivului este imparfita in doua parti, iar
+analiza partii de confirmare din proba impartita confirma prezenfa unei
+substanfe interzise sau a metabolifilor sau markerilor acesteia identificati in
+prima parte a probei impartite;
+
+5
+d) sportivul renunta la analiza partii de conflnnare din proba
+impartita potrivit lit. c).
+(5) Prezen^a oricarei cantita|i raportate dintr-o substan^a interzisa
+sau a metaboli^ilor sau a markerilor acesteia in proba unui sportiv constituie o
+incalcare a reglementarilor anti-doping conform prevederilor alin. (2) lit. a),
+exceptie facand acele substance pentru care este identificata in mod specific o
+limita de decizie in Lista interzisa sau intr-un document tehnic.
+(6) Prin exceptie de la alin. (2) lit. a), Lista interzisa, standardele
+intema^ionale sau documentele tehnice pot stabili criterii speciale pentru
+raportarea sau evaluarea anumitor substance interzise.
+■
+/V
+(7) In sensul alin. (2) lit. b), nu prezinta relevanta daca tentativa de
+utilizare a unei substance interzise sau a unei metode interzise a condus la
+rezultatul dorit. Este suficient faptul ca s-a incercat folosirea uneia dintre acestea
+pentru a se considera ca a avut loc o incalcare a reglementarilor anti-doping.
+(8) In situatia in care sportivului i s-a acordat o SUT in conformitate
+cu Standardul International pentru SUT, nu se va retine o incalcare a
+reglementarilor anti-doping in sensul alin. (2) lit. a), b), f) si h).
+(9) In sensul alin. (2) lit. k), constituie o incalcare a reglementarilor
+anti-doping orice actiune prin care se ameninta sau este menita sa intimideze
+o alta persoana cu scopul de a descuraja acea persoana sa raporteze cu buna
+credinta o presupusa incalcare a reglementarilor anti-doping sau o presupusa
+neconformitate cu Codul, catre WADA, ANAD, o alta organizatie
+anti-doping, organele de urmarire penala, un organism de reglementare sau
+de cercetare profesionala disciplinary, un organism de audiere sau o persoana
+care deruleaza o investigatie pentru WADA, pentru ANAD sau orice alta
+organizatie anti-doping, precum si orice represalii impotriva unei persoane
+care, cu buna credinta, a fiimizat dovezi sau informatii cu privire la o
+presupusa incalcare a reglementarilor anti-doping sau o presupusa
+neconformitate cu Codul, catre WADA, catre ANAD, o organizatie
+anti-doping, un organ al legii, un organism de reglementare sau de cercetare
+profesionala disciplinary, un organism de audiere sau o persoany care
+deruleazy o investigatie pentru WADA sau o organizatie anti-doping.
+(10) Represaliile, amenintarea si intimidarea prevdzute la alin. (9)
+includ orice fapty sdvarsity, fie cy fapta este lipsity de un temei de bund
+credinty, fie cy aceasta constituie un ryspuns disproportionat.
+Art. 3. - (1) Sarcina probei privind dovedirea incyicyrii
+reglementyrilor anti-doping revine ANAD in conformitate cu principiile
+privind sarcina probei si standardele probatorii consacrate de Cod si cu
+procedurile prevyzute de prezenta lege.
+
+6
+(2) Standardul probatoriu la care se raporteaza ANAD consta in
+dovedirea incalcarii reglementarilor anti-doping intr-un mod suficient de
+convingator pentm organismele de audiere prevazute la art. 61 alin. (2) lit. b) si c)
+din prezenta lege ^inand cont de gravitatea prezumtiei formulate. In toate cazurile,
+acest standard probatoriu are o pondere mai mare decat un simplu echilibru al
+probabilita|ilor insa o pondere mai mica decat o dovada neindoielnica.
+(3) Standardul probatoriu va fi balanta probabilita^ilor, cand
+prezenta lege sau Codul stabilesc ca ii revine sportivului sau altei persoane,
+ce se presupune ca a savarsit o incalcare a reglementarilor anti-doping,
+sarcina sa infirme prezum^ia sau sa stabileasca fapte sau circumstance
+specifice, cu exceptia prevederilor alin. (5) lit. b) si c) si alin. (8) - (10).
+(4) Faptele legate de incalcari ale reglementarilor anti-doping pot fi
+stabilite pe baza oricaror mijloace de proba admisibile, inclusiv recunoasterea.
+(5) Urmatoarele reguli de dovedire a incalcarii reglementarilor
+anti-doping sunt aplicabile in cazurile de dopaj:
+a) metodele analitice sau limitele de decizie aprobate de WADA
+dupa consultarea cu comunitatea §tiinCifica de specialitate sau care au facut
+obiectul examinarii de catre exper^i in domeniu sunt considerate ca fiind
+validate §tiinCific;
+b) prezumtia ca laboratoarele acreditate sau aprobate de WADA au
+facut analize de probe §i au aplicat proceduri de pastrare a probelor in
+concordanfa cu Standardul Intemafional pentru Laboratoare;
+c) abaterile de la orice alt standard intemaCional sau alte
+reglementari sau politic! anti-doping prevazute in Cod sau in prezenta lege,
+nu vor invalida rezultatele analitice sau alte probe ale incalcarii
+reglementarilor anti-doping si nu vor constitui o aparare in raport cu o
+incalcare a reglementarilor anti-doping;
+d) faptele stabilite in cadrul unei decizii a unei instance sau a unui
+organism disciplinar profesional din cadrul unei jurisdicfii competente, care
+nu face obiectul unui apel in curs, vor reprezenta dovezi de netagaduit
+impotriva sportivului sau a altei persoane asupra careia s-a luat o decizie pe
+baza acelor fapte, daca sportivul sau alta persoana nu dovede§te ca decizia
+incalca principiile generale ale dreptului;
+e) comisia care face audierea in cazul unei incalcari a
+reglementarilor anti-doping poate ajunge la o concluzie negativa referitoare la
+sportivul sau la alta persoana despre care se afirma ca a incalcat o
+reglementare anti-doping, pe baza refuzului sportivului sau al altei persoane
+de a se prezenta, dupa ce, intr-o limita de timp rezonabila, i s-a solicitat sa
+participe la audiere, fie in persoana fie telefonic, conform celor dispose de
+comisia de audiere si sa raspunda la intrebarile comisiei sau ale ANAD.
+
+7
+(6) Orice sportiv sau persoana care doreste sa conteste daca au fost
+intrunite conditiile pentm prezumtia de validitate prevazuta la alin. (5) lit. a) sau
+sa rastoame aceasta prezumtie va trebui, ca o conditie prealabila, sa informeze
+mai intai WADA cu privire la contestatie si la temeiul acesteia. Organismul de
+audiere initial, comisia de apel de la nivel national si CAS pot, de asemenea, din
+proprie iniliativa, sa informeze WADA cu privire la contestatie.
+(7) In termen de 10 zile de la primirea de catre WADA a informarii
+prevazute la alin. (6) §i a dosarului cazului legat de contestatie, WADA va
+avea, de asemenea, dreptul sa intervina ca parte sau ca amicus curiae sau sa
+prezinte in alt mod dovezi in cadrul procedurii arbitrate, in spetele deduse
+CAS, la solicitarea WADA, completul arbitral va trebui sa numeasca un
+expert §tiintific calificat pentm a sprijini in evaluarea contestatiei.
+(8) Sportivul sau alta persoana poate respinge prezumda confonn
+reglementarii prevazute la alin. (5) lit. b) daca dovede§te ca s-a produs o
+abatere de la Standardul International pentm Laboratoare, care ar fi putut
+cauza rezultatul pozitiv.
+(9) Daca sportivul sau alta persoana respinge prezumtia prevazuta la
+alin. (5) lit. b) demonstrand ca a existat o abatere de la Standardul
+International pentm Laboratoare, care, in mod rezonabil ar fi putut cauza
+rezultatul pozitiv, atunci organizatia anti-doping va avea obligatia sa
+stabileasca faptul ca respectiva abatere nu a fost cauza rezultatului pozitiv.
+(10) Daca sportivul sau alta persoana demonstreaza ca o abatere de
+launul din standardele intemationale mentionate in prezentul alineat ar fi
+putut, in mod rezonabil, cauza rezultatul pozitiv sau incalcarea obligatiilor
+privind localizarea, atunci ANAD are obligatia de a demonstra ca aceasta
+abatere nu a determinat rezultatul pozitiv sau incalcarea obligatiilor privind
+localizarea dupa cum urmeaza:
+a) in cazul unei abateri de la Standardul International pentm Testare
+si Investigatii legata de reeoltarea probei sau manipularea probei, pentru o
+incalcare a reglementarilor anti-doping bazata pe un rezultat analitie pozitiv;
+b) in cazul unei abateri de la Standardul International privind
+Gestionarea Rezultatelor sau Standardul International pentru Testare si
+Investigatii legata de un rezultat pozitiv din pasaportul biologic al sportivului;
+c) in cazul unei abateri de la Standardul International privind
+Gestionarea Rezultatelor legata de obligativitatea instiintarii sportivului cu
+privire la deschiderea probei B;
+d) in cazul unei abateri de la Standardul International privind
+Gestionarea Rezultatelor legata de instiintarea sportivului, care ar fi putut
+cauza in mod rezonabil o incalcare a obligatiilor privind localizarea.
+(11) Pentru a stabili o incalcare a prevederilor art. 2 alin. (2) lit. j),
+sarcina probei revine dupa cum urmeaza:
+
+8
+a) ANAD sau altei organizatii anti-doping care trebuie sa probeze
+ca sportivul sau o alta persoana cunostea statutul de persoana descalificata a
+membmlui personalului asistent al sportivului;
+b) sportivului sau altei persoane care trebuie sa probeze ca asocierea
+cu un membru al personalului asistent al sportivului descris la art. 2 alin. (2)
+lit. j) pet. (i) sau (ii) nu este de natura profesionala sau sportiva si/sau ca o
+astfel de asociere nu putea fi evitata intr-o maniera rezonabila.
+(12) Organizaliile anti-doping care au informatii cu privire la membri
+ai personalului asistent al sportivului care corespund criteriilor prevazute la
+art. 2 alin. (2) lit. j) trebuie sa transmita aceste informatii catre WADA.
+A
+Art. 4. - In intelesul prezentei legi, termenii §i expresiile de mai jos
+au urmatoarele semnificatii:
+1. abatere gravd - fapta angajatului ANAD sau a angajatului LCD
+care incalca una din reglementarile anti-doping prevazute la art. 2 alin. (2)
+lit. e) si g) - k);
+2. acord fdrd prejudiciu - in sensul art. 99 si 104, un acord scris
+incheiat intre o organizatie anti-doping si un sportiv sau o alta persoana, care
+le permite acestora sa ofere informatii organizatiei anti-doping, intr-un
+interval de timp precizat, cu acceptarea faptului ca, in situatia in care nu se
+incheie un acord pentru ajutor substantial sau pentru solutionarea cazului,
+informatiile oferite de acestia in acel context nu vor fi folosite de organizatia
+anti-doping impotriva sportivului sau a altei persoane in nicio procedura de
+gestionare a rezultatelor desfasurata conform Codului, iar informatiile oferite
+de organizatia anti-doping in acel context specific nu vor fi folosite de sportiv
+sau o alta persoana impotriva organizatiei anti-doping in nicio procedura de
+gestionare a rezultatelor desfasurata conform Codului. Un astfel de acord nu
+va impiedica organizatia anti-doping, sportivul sau o alta persoana sa
+foloseasca informatiile sau probele culese din orice sursa, altfel decat in
+intervalul precizat asa cum este prevazut in acord;
+3. activitdti anti-doping - activitati privind informarea si educatia
+anti-doping, planificarea distribuirii testarilor, mentinerea unui lot de testare
+inregistrat, gestionarea pasapoartelor biologice ale sportivilor, efectuarea
+testarilor, organizarea analizelor probelor, culegerea de informatii si
+efectuarea de investigatii, procesarea solicitarilor de SUT, gestionarea
+rezultatelor, audieri, monitorizarea si implementarea conformitatii cu toate
+consecintele impuse, precum si orice alte activitati din domeniul anti-doping
+care sunt efectuate de si in numele unei organizatii anti-doping, asa cum este
+prevazut in Cod si/sau in standardele intemationale;
+
+9
+4. ADAMS - sistem de administrare §i management anti-doping,
+instrument de gestionare a bazei de date folosind intemetul pentm
+introducerea, depozitarea, difuzarea §i raportarea de date destinate sa ajute
+beneficiarii §i WADA in opera|iunile anti-doping, in confonnitate cu
+legisla^ia in vigoare referitoare la prelucrarea datelor cu caracter personal;
+5. administrarea - punerea la dispozi^ie, furaizarea, supei-vizarea,
+facilitarea sau participarea in orice alt mod la utilizarea de catre o alta
+persoana sau tentativa unei alte persoane de a utiliza o substan^a interzisa sau
+0 metoda interzisa. Totu§i, aceasta defini|ie nu include ac^iunile personalului
+medical de buna credin^a cu privire la o substan^a interzisa sau o metoda
+interzisa utilizata in scopuri terapeutice legitime si legale sau in baza unei alte
+justificM acceptabile §i activita^i care implica substance interzise care nu sunt
+interzise in testarea in afara competi^iei - decat daca circumstantele evaluate
+in ansamblul lor demonstreaza ca respectivele substance interzise fie nu sunt
+destinate unor scopuri terapeutice legitime §i legale, fie sunt utilizate pentm a
+imbunatafi perfonnanfa sportiva;
+6. ajutor substantial - in sensul art. 100, conduita unei persoane
+care, in mod voluntar, se obliga: sa declare sub semnatura sau intr-un interviu
+inregistrat toate informafiile pe care le define legate de incalcari ale
+reglementarilor anti-doping sau alte procedmi descrise la art. 99 §i sa
+coopereze pe deplin in cazul investigarii §i judecarii oricarui caz sau speta,
+legate de acele informafii, inclusiv, de exemplu, prin depunerea unei marturii
+in cadrul unei audieri, daca organizafia anti-doping sau organismul de audiere
+solicita acest lucru. In plus, infonnatiile fumizate trebuie sa fie credibile si sa
+constituie o parte importanta a cazului sau a procedurii initiate sau, daca nu
+se initiaza un caz sau o procedura, trebuie sa fi flimizat un temei suficient pe
+care s-ar fi putut sprijini un caz sau o procedura;
+7. audiere provizorie - o audiere sumara, de urgenfa, care are loc
+inaintea audierii prevazute in cap. VIII, care presupune in§tiinfarea
+sportivului §i ii ofera oportunitatea de a fi audiat, in fonna orala sau scrisa;
+8. autoritatea pentru gestionarea rezultatelor - organizafia anti-doping
+responsabila de gestionarea rezultatelor intr-o speta data;
+9. autoritate de testare - organizafia anti-doping care autorizeaza
+testarea sportivilor asupra carora are autoritate;
+
+10
+10. circumstante agravante - actiunile savarsite de un sportiv sau o
+alta persoana sau circumstantele referitoare la acestia care ar putea justifica
+impunerea unei perioade de suspendare mai mari decat sanctiunea standard.
+Astfel de circumstante si actiuni includ, dar nu se limiteaza la; sportivul sau o
+alta persoana a folosit sau a detinut mai multe substante sau metode interzise,
+a folosit sau a detinut o substanta sau o metoda interzisa de mai multe ori sau
+a savarsit mai multe alte incalcari ale reglementarilor anti-doping; exista
+posibilitatea ca un sportiv sau alta persoana sa beneficieze de efectele de
+sporire a performantei generate de incalcarea reglementarilor anti-doping
+dincolo de perioada de suspendare altfel aplicabila; sportivul sau o alta
+persoana s-a angajat in comportamente inselatoare sau obstructive pentru a
+evita depistarea sau judecarea unei incalcari ale reglementarilor anti-doping;
+sportivul sau o alta persoana s-a implicat in activitati de falsificare pe
+parcursul procedurii de gestionare al rezultatelor. Pentru evitarea oricarui
+dubiu, exemplele de circumstante si conduite descrise aici nu sunt exclusive,
+iar alte circumstante sau conduite similare pot justifica impunerea unei
+perioade mai mari de suspendare;
+11. comitet national olimpic - organizalie recunoscuta de Comitetul
+International Olimpic;
+12. competitie - o singura cursa, meci, joc sau o intrecere sportiva
+singulara. De exemplu, un meci de baschet sau finala olimpica la cursa de
+100 m. Pentru cursele pe etape §i alte intreceri sportive in care premiile sunt
+acordate zilnic sau intr-o alta modalitate intermediara, distinctia intre o
+competitie §i o manifestare sportiva va fi facuta conform regulamentelor
+respectivei federatii intemationale;
+13. consecinte fmanciare - sanctiunea de natura fmanciara impusa
+ca urmare a unei incalcari a reglementarilor anti-doping sau pentru a recupera
+costurile asociate acesteia;
+14. control doping - toate etapele §i toate procesele incepand cu
+planificarea distribuirii testarilor §i pana la ultima decizie in cazul unui apel si
+implementarea consecintelor - incluzand aici toti pa§ii §i toate procesele
+intermediare, inclusiv dar nelimitandu-se la testare, investigatii, informatii
+privind localizarea, scutiri pentru uz terapeutic, recoltare §i manipulare de
+probe, analize de laborator, gestionarea rezultatelor, precum si investigatii
+sau proceduri cu privire la incalcarile prevederilor cap. XIII;
+15. conventia UNESCO - Conventia intemationala impotriva
+dopajului in sport, adoptata la cea de a 33-a sesiune a Conferintei Generale
+UNESCO din 19 octombrie 2005, inclusiv toate amendamentele adoptate de
+statele parti la Conventie §i de Conferinta partilor la Conventia intemationala
+impotriva-dopajului in sport;
+16.
+Curtea de Arbitraj Sportiv, denumitain cele ce urmeaza CAN,
+
+11
+17. descalificare - invalidarea rezultatelor sportivului, ob^inute in
+cadrul unei anumite competi^ii sau manifestari sportive, cu toate consecin^ele
+ce decurg din aceasta, inclusiv retragerea de medalii, puncte §i premii;
+18. document tehnic - un document adoptat si publicat de WAD A
+periodic, care cuprinde cerintele tehnice obligatorii cu privire la anumite
+aspecte anti-doping prevazute intr-un standard international;
+19. educatie - procesul de invatare pentru insuflarea valorilor si
+dezvoltarea compoitamentelor care sa promoveze si sa protejeze spiritul
+sportului, si sa previna dopajul intentional sau neintentionat;
+20. falsificare - comportament intentionat care submineaza procesul
+de control doping dar care nu ar fi fost inclus altfel in defmitia metodelor
+interzise. Falsificarea include, fara limitare, oferirea sau acceptarea unei mite
+pentru efectuarea sau neefectuarea unei actiuni, impiedicarea recoltarii
+probei, influentai'ea sau punerea in imposibilitate a analizei probelor,
+falsificarea documentelor trimise la o organizatie anti-doping sau o comisie
+SUT sau comisie de audiere, procurarea de marturii mincinoase de la martori,
+savarsirea oricm'ei alte actiuni frauduloase in relatia cu organizatia
+anti-doping sau comisia de audiere, care afecteaza gestionarea rezultatelor
+sau impunerea de consecinte, precum si orice alte interferente similare
+intentionate sau tentative de interferente in orice aspect al controlului doping;
+21. gestionarea rezultatelor - procesul care cuprinde perioada de
+timp dintre notificarea prevazuta la articolul 5 din Standardul International
+pentru Gestionarea Rezultatelor sau, in anumite cazuri, cum ar fi rezultate
+atipice, pasaportul biologic al sportivului, incalcari privind informatiile de
+localizare, acele etape prealabile notificarii prevazuta in mod expres in
+articolul 5 din Standardul International pentru Gestionarea Rezultatelor,
+trecand prin acuzatie si pana la solutionarea fmala a cazului, incluzand fmalul
+procedurii de audiere in prima instanta sau, daca este cazul, in apel;
+22. informarea publicd - publicarea sau distribuirea de informalii
+catre publicul larg sau persoane, altele decat persoanele care au dreptul sa fie
+in^tiinfate in prealabil, in conformitate cu cap. IX;
+23. in competijie - perioada care incepe la ora 11:59 p.m. in ziua
+premergatoare unei competifii in care sportivul este programat sa participe §i
+care se termina la fmalul unei astfel de competitii §i al procesului de
+prelevare a probelor legat de acea competifie, exceptand situatia in care
+WADA aproba, intr-un anumit sport, o defmitie altemativa daca o federatie
+intemationala ofera o justificare rezonabila ca o defmitie diferita este
+necesara in sportul sau;
+24. in afara competitiei - orice perioada care nu este in competitie;
+
+12
+25. independent a institutionald - organismele de audiere in apel
+trebuie sa fie complet independente institutional de organizatia anti-doping
+responsabila cu gestionarea rezultatelor. Prin urmare, acestea nu trebuie sub
+nicio forma sa fie administrate, legate sau subordonate fata de organizatia
+anti-doping responsabila cu gestionarea rezultatelor;
+26. independenta operationald - aceasta inseamna ca: membrii
+Consiliului Director, angajatii, membrii comisiilor, consultantii sau oficialii
+organizatiei anti-doping cu responsabilitate in gestionarea rezultatelor sau
+organismele afiliate, federatie sau confederatie membra, precum si orice
+persoana implicata in investigarea si procedura administrative de cercetare
+prealabila a cazului nu pot fi desemnati membri si/sau secretari/in masura in
+care secretarul/grefierul este implicat in procesul de deliberare si/sau
+redactare a unei decizii in comisiile de audiere ale organizatiei anti-doping cu
+responsabilitate in gestionarea rezultatelor si comisiile de audiere se afla in
+pozitia de a desfasura procesul de audiere si luare a deciziilor fara
+interference din partea organizatiei anti-doping sau a unui tert. S copul este de
+a asigura ca membrii comisiei de audiere sau persoanele altfel implicate in
+orice fel in decizia comisiei de audiere nu sunt implicate in investigarea unui
+caz sau in decizia de a trece la judecarea cazului;
+27. limitd de decizie - valoarea rezultatului pentru o substanta cu
+prag dintr-o proba, dincolo de care se raporteaza un rezultat analitic pozitiv,
+asa cum este definit in Standardul International pentru Laboratoare;
+28. lipsa vinovd}iei sau neglijenfei - dovedirea de catre sportiv sau
+alta persoana a faptului ca nu a §tiut sau suspectat §i ca nu putea in mod
+rezonabil sa §tie sau sa suspecteze, chiar prin manifestarea celei mai atente
+precautii, faptul ca a folosit sau ca i s-au administrat substanfe interzise sau
+metode interzise sau ca, intr-un alt mod, a incalcat reglementarile
+anti-doping. Exceptand cazul unei persoane protejate sau a unui sportiv
+practicant de sport recreativ, pentru orice incalcare a art. 2 alin. (2) lit. a),
+sportivul trebuie de asemenea sa stabileasca §i modul in care substanfa
+interzisa a ajuns in corpul sportivului;
+29. lipsa vinovdliei sau neglijen^ei semnificative - dovedirea de
+catre sportiv sau alta persoana a faptului ca vinovafia sau neglijenfa sa, atunci
+cand se analizeaza in raport cu toate circumstanfele §i se iau in calcul
+criteriile stabilite pentru lipsa vinovafiei sau neglijenfei, nu a fost
+semnificativa in raport cu incalcarea reglementarilor anti-doping. Exceptand
+cazul unei persoane protejate sau a unui sportiv practicant de sport recreativ,
+pentru orice incalcare a art. 2 alin. (2) lit. a), sportivul trebuie de asemenea sa
+stabileasca §i modul in care substanfa interzisa a ajuns in corpul sportivului;
+30. Listd interzisa - lista care identifica substanfele §i metodele
+interzise;
+
+13
+31. locul unei manifestdri sportive - locatiile stabilite de organismul
+sub egida caruia se desfasoara evenimentul;
+32. lot de testare mregistrat - lotul format din sportivi de elita,
+stabilit separat la nivel international de catre fiecare federa^ie intema|ionala §i
+respectiv la nivel national de catre fiecare organizalie na^ionala anti-doping,
+care sunt supu§i testarii doping tinta in competitie §i in afara competiliei, ca
+parte a planului de distribuire a testarilor apar^inand organizatiei sau
+federafiei intemalionale respective §i care au obliga^ia sa flimizeze informa|ii
+de localizare in conformitate cu prevederile Codului §i ale Standardului
+International pentru Testare §i Investigatii;
+33. manifestare sportivd - serie de competitii individuale organizate
+impreuna de catre un singur organism decizional;
+34. manifestare sportivd internaiionald - manifestare sportiva sau
+competitie in cadrul careia Comitetul International Olimpic, Comitetul
+International Paralimpic, o federatie intemationala, o organizatie care organizeaza
+o manifestare sportiva majora sau alta organizatie sportiva intemationala raspund
+de manifestarea sportiva sau numesc oficiali pentm aceasta;
+35. manifestare sportivd na^ionald - manifestare sportiva sau
+competide ce implica participarea sportivilor de nivel national §i
+international, care nu este o manifestare sportiva intemationala;
+36. marker - un compus, gmp de compu§i sau variabile biologice,
+care indica utilizarea de substante sau metode interzise;
+37. metabolit - orice substanta produsa in urma unui proces de
+transformare metabolica;
+38. metodd interzisd - orice metoda calificata astfel in cuprinsul
+Listei interzise;
+39. minor - o persoana flzica ce nu a implinit varsta de 18 ani;
+40. nivel minim de raportare - concentratia estimata a unei
+substante interzise sau a metabolitilor sau a markerilor ei dintr-o proba, sub
+nivelul careia laboratoarele acreditate de WADA nu raporteaza acea proba ca
+rezultat analitic pozitiv;
+41. oficial pentru recoltarea probelor de sdnge - persoana fizica
+calificata si atestata de ANAD sa recolteze probe de sange de la sportivi, in
+conformitate cu prevederile legale;
+42. ofiter de control doping - un oficial care a fost instmit §i
+autorizat de ANAD sa indeplineasca responsabilitatile atribuite oflterilor de
+control doping prin Standardul International pentru Testare §i Investigate;
+43. organizator de manifestdri sportive majore — asociatiile
+continentale ale comitetelor nationale olimpice §i alte organizatii
+Internationale sportive multidisciplinare, care functioneaza drept organism
+decizional al oricaror manifestari sportive continentale, regionale sau
+Internationale;
+
+14
+44. organizafie anti-doping - WADA sau un semnatar
+responsabil de adoptarea de reglementari pentru initierea, implementarea sau
+aplicarea oricarei par^i din procesul de control doping. Aceasta include, de
+exemplu Comitetul International Olimpic, Comitetul International
+Paralimpic, alte organizatii de evenimente sportive majore care efectueaza
+testarea in cadrul evenimentelor. sportive care se afla sub egida lor, federatii
+Internationale §i organizatii nationale anti-doping;
+45. organizafie nafionald anti-doping - entitate desemnata de
+fiecare tara, avand autoritatea §i responsabilitatea principals la nivel national de
+a adopta §i implementa reglementarile anti-doping, de a coordona activitatea de
+prelevare a probelor, de gestionare a rezultatelor testarilor §i procedura de
+gestionare a rezultatelor la nivel national. In Romania este ANAD;
+46. organizatie regionald anti-doping - entitate la nivel regional,
+desemnata de tarile membre sa coordoneze §i sa gestioneze domenii delegate
+din programele nationale anti-doping ale acestora, care pot include adoptarea
+§i implementarea de reglementari anti-doping, planificarea §i prelevarea de
+probe, gestionarea rezultatelor, verificarea solicitarilor SUT, desfa§urarea
+audierilor §i coordonarea programelor educative la nivel regional;
+41 .participant - orice sportiv sau membru al personalului
+asistent al sportivului;
+48. pa§aportul biologic al sportivului - programul §i metodele
+prin care se colecteaza §i se consemneaza informatii, in conformitate cu
+Standardul International pentru Testare si Investigatii si Standardul
+International pentru Laboratoare;
+49. perioada manifestdrii sportive - intervalul de timp dintre
+inceputul §i sfar§itul unei manifestari sportive, stabilit de organismul care
+coordoneaza manifestarea;
+50. persoand - persoana fizica sau juridica §i orice alta entitate;
+51. persoand protejatd - un sportiv sau o alta persoana fizica,
+care, la momentul savarsirii incalcarii reglementarilor anti-doping se afla in
+una din urmatoarele situatii: nu a implinit varsta de 16 ani; nu a implinit
+varsta de 18 ani si nu este inclus in niciun lot de testare inregistrat si nu a
+participat la nicio manifestare sportiva intemationala la o categorie deschisa
+sau pentru alte motive decat varsta, s-a stabilit lipsa capacitatii legale
+conform legislatiei nationale in vigoare;
+52. personal asistent al sportivului - orice antrenor, preparator,
+manager, agent, personal din conducerea echipei, oficial, personal medical ori
+paramedical, parinte sau orice alta persoana care lucreaza, trateaza sau acorda
+asistenta sportivului care participa sau se pregate§te sa participe la competitii
+sportive;
+
+15
+53. posesia - posesia fizica, de fapt, sau reala care nu va fi dovedita
+decat daca persoana exercita control exclusiv sau intenlioneaza sa exercite
+control exclusiv asupra substanlei interzise sau a metodei interzise, sau a
+locurilor in care se afla o substanla interzisa sau o metoda interzisa. Totu§i,
+daca persoana nu exercita control exclusiv asupra substan^ei interzise sau a
+metodei interzise, sau a locurilor in care se afla o substanfa interzisa sau o
+metoda interzisa, posesia de fapt se va demonstra doar daca persoana a §tiut
+despre prezenfa substanfei interzise sau a metodei interzise §i a intenfionat sa
+exercite control asupra acesteia. Insa, nu se va putea considera o incalcare a
+reglementarilor anti-doping numai pe baza posesiei daca, inaintea primirii
+in^tiinfafii confonn careia persoana a comis o incalcare a reglementarilor
+anti-doping, persoana a intreprins acfiuni concrete demonstrand ca nu a
+intenfionat niciodata sa aiba posesie §i a renunfat la posesie declarand acest
+fapt in mod explicit organizafiei anti-doping, in pofida oricarei dispozifii
+contrare din aceasta defmifie, cumpararea, inclusiv prin orice mijloc
+electronic sau de alta natura, a unei substance interzise sau metode interzise
+constituie posesie savar§ita de catre persoana care realizeaza cumpararea;
+54. proba - orice material biologic recoltat pentru a fi supus
+controlului doping;
+55. produs contaminat ~ un produs care confine o substanfa
+interzisa care nu este precizata pe eticheta produsului sau in informafiile
+accesibile printr-un demers rezonabil de cautare pe internet;
+56. programul observatorilor independenti - echipa de observatori
+si/sau auditori sub coordonarea WADA, care observa §i ofera indrumari cu
+privire la procesul de control doping anterior sau pe durata anumitor
+manifestari sportive §i raporteaza observafiile prin intermediul programului
+de monitorizare a conformitatii al WADA;
+57. represalii - actiuni care ameninta starea fizica sau mentala,
+reputatia, posibilitatea continuarii carierei sau interesele economice ale
+persoanelor care fac raportarea, ale familiilor sau asociatilor acestora.
+Represaliile nu includ acuzatia de incalcare a reglementarilor anti-doping
+formulata de o organizatie anti-doping, cu buna-credinta, impotriva persoanei
+care face raportarea;
+58. reprezentant al sportivului - persoana fizica cu capacitate
+deplina de exercifiu care reprezinta interesele sportivului pe parcursul
+controlului doping;
+59. rezultat atipic - un raport de la un laborator acreditat de WADA
+sau de la un alt laborator aprobat de WADA, care necesita investigafii
+suplimentare potrivit prevederilor Standardului Intemafional pentru
+Laboratoare sau documentelor tehnice corespunzatoare, inainte de a se stabili
+un rezultat analitic pozitiv;
+
+16
+60. rezultat analitic pozitiv - un raport de la un laborator acreditat
+de WADA sau de la un alt laborator aprobat de catre WADA, care in
+conformitate cu Standardul International pentru Laboratoare stabileste intr-o
+proba, prezen^a unei substance interzise, a metabolililor, ori a markerilor sai
+sau dovada utilizarii unei metode interzise;
+61. rezultat pozitiv pentru pasaportul biologic - un raport identificat
+ca un rezultat pozitiv pentru pasaportul biologic asa cum este el definit in
+standardele intemationale aplicabile;
+62. rezultat atipic pentru pasaportul biologic - un raport identificat
+ca un rezultat atipic pentru pasaportul biologic asa cum este el definit in
+standardele intemationale aplicabile;
+63. scutire pentru uz terapeutic (SUT) - o scutire pentm uz terapeutic
+permite unui sportiv care are o afectiune medicala sa utilizeze o substanta sau
+metoda interzisa, insa doar daca sunt intrunite cerintele prevazute in Cod si in
+Standardul international privind scutirile pentm uz terapeutic;
+64. semnatari - acele entitafi care accepta Codul §i se angajeaza sa
+implementeze prevederile acestuia, asa cum se prevede in art. 23 din Cod;
+65. sport de echipd - un sport in care inlocuirea jucatorilor este
+permisa pe durata desfa§urarii unei competifn;
+66. sport individual - orice sport care nu este sport de echipa;
+67. sportiv - orice persoana care participa la activitatea sportiva la
+nivel intemafional, definita ca atare de fiecare federafie internafionala, sau la
+nivel national, definita ca atare de fiecare organizafie nafionala anti-doping,
+precum si orice alta persoana care concureaza intr-un sport si care este
+legitimate la un club sportiv sau o federatie sportiva nationala si orice alta
+persoana care participa la activitati sportive la un nivel inferior;
+68. sportiv de nivel national - sportiv care concureaza intr-o discipline
+sportive la nivel national, definit ca atare de fiecare organizafie nafionaie anti-
+doping in concordance cu Standardul International pentm Testare si Investigatii.
+In Romania, este orice sportiv care concureaze intr-o discipline sportive la nivel
+national si/sau international, legitimat la un club sportiv afiliat federatiilor
+nationale si/sau ligilor profesioniste sau care nu este definit ca sportiv de nivel
+international de federatia intemationale de care apartine;
+69. sportiv de nivel international - sportiv care concureaze la nivel
+international intr-o discipline sportive, definit ca atare de fiecare federafie
+intemationale, cu respectarea Standardului International pentru Testare §i
+Investigatii;
+
+17
+70. sportiv practicant al sportului recreativ - sportivul de nivel
+national sau de nivel international retras din activitatea sportiva, precum si
+orice persoana fizica care nu este sportiv de nivel national sau sportiv de
+nivel international si care participa la evenimente sportive organizate pe
+teritoriul Romaniei in scop recreational; cu toate acestea, prezenta defmitie
+nu va include nicio persoana care, timp de 5 ani inainte de savarsirea unei
+incalcari a reglementarilor anti-doping, a fost sportiv de nivel international,
+asa cum este deflnit de fiecare federatie intemationala, in conformitate cu
+Standardul International pentru Testare si Investigatii, sau sportiv de nivel
+national, asa cum este definit de fiecare organizatie nationals anti-doping, in
+conformitate cu Standardul International pentru Testare si Investigatii, a
+reprezentat o tara la o manifestare sportiva intemationala la o categoric
+deschisa sau a fost inclus intr-un lot de testare imegistrat sau in alt lot
+cuprinzand informatii de localizare detinut de orice federatie intemationala
+sau organizatie nationals anti-doping;
+71. standard international - un standard adoptat de WAD A in
+sprijinul prevederilor Codului. Respectarea standardului intemafional, spre
+deosebire de un alt standard, o alta practica sau procedura altemativa, este
+suficienta pentm a concluziona ca procedurile la care se face referire in
+standardul intemafional au fost indeplinite in mod corespunzator. Standardele
+intema|ionale vor include orice document tehnic elaborat pe baza lor;
+72. stricta responsabilitate - regula conform careia, potrivit art. 2
+alin. (2) lit. a) §i b), pentru a stabili incalcarea unei reglementari anti-doping,
+nu este necesar ca organizafia anti-doping sa demonstreze intenfia, vinovafia,
+neglijenfa sau utilizarea cu buna §tiinfa a unei substanfe §i/sau metode
+interzise de catre sportiv;
+73. substantd interzisd - orice substan^a sau clasa de substanfe
+calificata astfel in cuprinsul Listei interzise;
+74. suspendarea - interdictia dispusa sportivului sau a unei
+persoane, pentm o perioada determinata de timp, in temeiul incalcarii unei
+reglementari anti-doping, de a participa in orice competifie, sau de a
+desfasura orice activitate sau de a beneficia de fmantare, in conformitate cu
+art. 107 alin. (1) - (4);
+75. suspendare provizorie - interdictia dispusa temporar pana la
+luarea deciziei finale, sportivului sau a unei persoane fata de care a fost
+formulata o acuzatie de incalcare a regulamentelor anti-doping de a participa
+in orice competitie sau de a desfasura orice activitate, in conformitate cu
+art. 107 alin. (1) - (4);
+
+18
+76. tentativa - implicarea inten|ionata intr-o ac^iune care constituie
+un pas important in desfa§urarea unei activitati pl^uite sa culmineze cu
+comiterea unei incalcari a reglementarilor anti-doping, in orice caz, nu se va
+stabili o incalcare a reglementarilor anti-doping doar pe baza tentativei de a
+comite o astfel de incalcare, daca persoana renunfa la tentativa mai inainte ca
+aceasta sa fie descoperita de o terfa parte, neimplicata in respectiva tentativa;
+77. terapeutic - care se refera sau are legatura cu tratamentul unei
+afectiuni medicale cu agenfi sau metode curative sau care ajuta la vindecare;
+78. test neefectuat - nerespectarea de catre sportiv a obligafiei de a
+fi disponibil pentru testare la locul §i timpul indicate in foraiularul pentru
+informafii privind localizarea sa, pentru perioada de 60 de minute identificate
+in raportarea informatiilor de localizare pentru ziua respectiva, in
+confonnitate cu Standardul Intemafional pentru Testare §i Investigafii si
+Standardul International pentru Gestionarea Rezultatelor;
+79. tert-delegat - orice persoana careia, o organizatie anti-doping ii
+deleaga orice parte a controlului doping sau a programului de educatie
+anti-doping, incluzand dar nelimitandu-se la terti sau alte organizatii
+anti-doping care desfasoara servicii de recoltare a probelor sau alte servicii
+legate de controlul doping sau programele educationale anti-doping, pentru
+organizatia anti-doping, sau persoane care actioneaza in calitate de
+contractori independent care desfasoara servicii legate de controlul doping
+pentru organizatia anti-doping, cum ar fi ofiterii de control doping sau
+insbtitorii care nu fac parte din personalul organizatiei anti-doping. Aceasta
+definite nu include si CAS;
+80. testdri-^intd - selecfionarea sportivilor pentru testare, pe baza
+criteriilor prevazute in Standardul International pentru Testare §i Investigafii;
+81. testare - parte a procesului de desfa§urare a controlului doping,
+ce presupune planificarea distribuirii testelor, prelevarea de probe,
+manipularea lor §i transportul de probe la laborator;
+82. trafic - vanzarea, oferirea, transportul, expedierea, livrarea sau
+distribuirea catre un terf sau posesia in oricare dintre aceste scopuri a unei
+substanfe interzise sau metode interzise, posesie fizica sau prin mijloace
+electronice sau de alta natura, de catre un sportiv, un membru al personalului
+asistent al sportivului sau o alta persoana aflata sub autoritatea unei
+organizafii anti-doping. Totu§i, aceasta definifie nu cuprinde actiunile
+savar§ite cu buna-credinfa de personalul medical §i care implica o substanfa
+interzisa utilizata in scopuri terapeutice legitime §i licite sau in alte scopuri
+justificabile, §i nu cuprinde acfiuni care implica substanfe interzise care nu
+sunt interzise in testarea in afara competifiei - daca circumstanfele in
+ansamblul lor nu demonstreaza ca substanfele interzise nu sunt destinate unor
+scopuri terapeutice legitime §i licite sau sunt destinate sa imbunatafeasca
+performanfa sportiva;
+
+19
+83. unitatea de management al pa§aportului biologic al sportivilor
+- laboratoml de control doping acreditat de catre WADA deseninat de catre
+ANAD drept custodele pa§aportului biologic;
+84. utilizare de substanfe sau metode interzise - utilizarea,
+aplicarea, ingerarea, injectarea sau consumul prin orice mijloace al oricarei
+substance sau metode interzise;
+85. vinovdtia - orice incalcare a unei indatoriri sau orice lipsa de
+aten^ie cuvenita in conformitate cu o situa^ie anume. Factorii care se iau in
+considerare in evaluarea gradului de vinova|ie a unui sportiv sau a unei alte
+persoane includ, de exemplu, experien|a sportivului sau a persoanei in cauza,
+faptul ca sportivul sau persoana in cauza este persoana protejata, considerente
+speciale cum ar fi o dizabilitate, gradul de rise care ar fi trebuit perceput de
+catre sportiv precum si nivelul de aten^ie §i documentare exercitat de sportiv
+in legatura cu ceea ce ar fi trebuit sa fie nivelul de rise perceput. in aprecierea
+gradului de vinova^ie a sportivului sau a altei persoane, circumstan^ele luate
+in considerare trebuie sa fie specifice §i relevante pentru a explica abaterea
+sportivului sau a persoanei in cauza de la standardul de conduita preconizat.
+Astfel, de exemplu, faptul ca un sportiv ar pierde oportunitatea de a realiza
+venituri considerabile pe perioada suspendarii, sau faptul ca sportivul mai are
+la dispozifie o perioada redusa in cariera sa, sau momentul de referinfa din
+calendarul competifional - nu ar constitui factori relevanfi care sa fie luafi in
+considerare in reducerea perioadei de suspendare conform prevederilor art. 96
+si 97 din prezenta lege.
+TITLUL II
+Organizarea activitafii anti-doping la nivel national
+CAPITOLUL I
+Agenfia Nafionala Anti-Doping
+Art. 5. - (1) in vederea combaterii fenomenului de dopaj in sport
+funefioneaza Agenda Nationala Anti-Doping, denumita in continuare ANAD,
+organ de specialitate al administratiei publice centrale, cu personalitate
+juridica, cu deplina autonomic decizionala §i operafionala in activitatea
+anti-doping §;i de cercetare §tiinfifica in domeniu, in subordinea Guvemului,
+coordonata de prim-ministru, fmanfata din venituri proprii si subvenfii
+acordate de la bugetul de stat prin bugetul Secretariatului General al
+Guvemului, cu sediul in municipiul Bucure§ti, bd. Basarabia m. 37 - 39,
+sectoml 2.
+
+20
+(2) ANAD este independenta in deciziile si activitatile operationale
+de structurile sportive si guvemamentale, inclusiv dar fara limitare, prin
+interzicerea oricarei implicari in deciziile sau activitatile sale din partea
+oricarei persoane care este in acelasi timp implicata in conducerea sau
+activitatea unei federatii intemationale, a unei federatii nationale, a unui
+organizator de evenimente sportive majore, a unui comitet national olinipic,a
+unui comitet national paralimpic sau a unei structuri guvemamentale cu
+responsabilitate in domeniul sportului sau anti-doping.
+Art. 6. - ANAD are urmatoarele obiective:
+a) prevenirea §i combaterea la nivel national a fenomenului de dopaj
+prin adoptarea §i implementarea politicilor §i reglementarilor anti-doping,
+coordonarea activitatii de prelevare de probe, gestionarea rezultatelor
+testarilor si efectuarea procedurii de gestionare a rezultatelor in conformitate
+cu prevederile prezentei legi, ale Codului si standardelor intemationale;
+b) incurajarea practicarii unui sport curat, in vederea protejarii
+sanatatii sportivilor §i respectarii principiilor fairplay-ului in sport;
+c) prevenirea §i combaterea producerii §i traficului ilicit de
+substance dopante cu grad mare de rise in conformitate cu Legea nr. 104/2008
+privind prevenirea si combaterea producerii si traficului ilicit de substante
+dopante, republicata, cu modificarile si completarile ulterioare;
+d) consolidarea pozifiei de partener credibil §i activ al Romaniei, in
+efortul global de lupta impotriva dopaj ului in sport;
+e) dezvoltarea institufionala in vederea implementarii politicilor
+adoptate in domeniu.
+A
+Art. 7. - In vederea realizarii obiectivelor prevazute la art. 6,
+ANAD indepline§te urmatoarele atribufii:
+a) elaboreaza Strategia Nafionala Anti-Doping, in conformitate cu
+obiectivele §i prevederile Codului, ale standardelor intemafionale, ale
+reglementarilor Convenfiei impotriva dopajului, adoptata in cadml
+Consiliului Europei la Strasbourg, la 16 noiembrie 1989, ratificata prin Legea
+nr. 171/1998, §i ale Convenfiei UNESCO;
+b) initiaza proiecte de acte normative pentru armonizarea legislafiei
+nafionale anti-doping cu reglementarile intemationale in domeniu;
+c) raspunde de efectuarea testarilor doping §i asigura gestionarea
+rezultatelor controlului doping;
+d) elaboreaza §i actualizeaza planul national anual de testare, in
+conformitate cu prevederile Codului §i ale Standardului International pentm
+Testare §i Investigate;
+e) colaboreaza cu alte organizatii anti-doping in scop de testare
+reciproca;
+
+21
+f) investigheaza rezultatele atipice §i datele atipice din pa§aportul
+biologic al sportivului;
+g) investigheaza orice infonna^ii rezultate din analize sau din alte
+surse care indica incalcarea uneia sau mai multor reglementari anti-doping, in
+scopul fie de a exclude suspiciunea privind incalcarea regulii/regulilor, fie de
+a consolida probe care sa sprijine ini|ierea unei proceduri privind incalcarea
+unei reglementari anti-doping;
+h) ini^iaza, planifica, implementeaza, evalueaza, promoveaza §i/sau
+sus^ine financiar, dupa caz, programe educative §i de prevenire a dopajului in
+sport in conformitate cu Standardul International pentru educatie;
+i) organizeaza §i efectueaza controale doping in competilie §i in
+afara competiliei;
+j) asigura aplicarea masurilor concrete pentru sanclionarea
+dopajului in sport;
+k) iniliaza, sus^ine financiar §i/sau incurajeaza programe de
+promovare a fairplay-ului in sport;
+l) incurajeaza structurile sportive, Ministerul Tineretului §i
+Sportului §i Comitetul Olimpic §i Sportiv Roman in adoptarea unor programe
+de testare si educatie anti-doping;
+m) colaboreaza cu alte autoritati nationale si intemationale si
+institutii publice relevante, cu organiza^iile guvemamentale §i
+neguvemamentale si cu alte organizatii anti-doping;
+n) elaboreaza §i dezvolta studii §i proiecte de cercetare sociologice,
+comportamentale, juridice si etice in domeniul anti-doping;
+o) propune masuri specifice §i colaboreaza cu autoritalile §i
+instituliile publice in sensul intensificarii luptei iihpotriva traficului ilicit de
+substance §i/sau metode interzise in conformitate cu atributiile stabilite prin
+Legea nr. 104/2008, republicata, cu modificarile si completarile ulterioare;
+p) aproba §i revizuieste Lista interzisa, pe baza Listei interzise a
+WADA in conformitate cu Codul;
+q) intocme§te lotul de testare inregistrat §i line eviden^a localizarii
+sportivilor, potrivit prevederilor Standardului Intemalional pentru Testare §i
+Investigatii al WADA; asigura organizarea §i funclionarea Comisiei de scutiri
+de uz terapeutic;
+r) tine evidenta scutirilor de uz terapeutic pentru sportivi, cu
+exceptia sportivilor de nivel international;
+s)
+elaboreaza normele metodologice privind organizarea §i
+desfa§urarea controlului doping si pentru gestionarea rezultatelor;
+s) organizeaza cursuri pentru formarea profesionala §i perfeclionarea
+ofilerilor de control doping;
+
+22
+t) infiinteaza si organizeaza baza de date cu privire la ofiterii de
+control doping desemnati pentru recoltarea probelor in vederea asigurarii
+persoanelor calificate pentru aducerea la indeplinire a planului anual national
+de testare;
+t) indeplineste atributiile prevazute in Legea nr. 104/2008,
+republicata, cu modificarile si completarile ulterioare;
+u) prezinta anual un raport de activitate Guvemului §i Parlamentului;
+v) ini^iaza, promoveaza §i desfa§oara activita^i de cercetare §tiin|ifica;
+w) da publicitatii, anual, raportul statistic referitor la activitatile de
+control doping intreprinse, copia acestuia fiind comunicata WADA;
+x) colecteaza, stocheaza, prelucreaza sau comunica date cu caracter
+personal cu privire la sportiv §i alte persoane, atunci cand este necesar §i
+aplicabil in desfa§urarea activitatilor anti-doping, in conformitate cu Codul,
+Standardul International pentru prelucrarea datelor cu caracter personal §i
+legisla^ia na^ionala in vigoare;
+y)
+aplica sanctiuni in conformitate cu prevederile Legii
+nr. 104/2008, republicata, cu modificarile si completarile ulterioare.
+Art. 8. - Pe langa ANAD functioneaza Consiliul director, ca organ
+consultativ.
+Art. 9. - (1) Consiliul director al ANAD are in componenia
+7 membri, dupa cum urmeaza:
+a) pre§edintele ANAD;
+b) doi reprezentanli ai aparatului de lucru al Guvemului;
+c) un reprezentant al Ministerului Tineretului §i Sportului, desemnat
+de ministm, din randul angaja^ilor sai;
+d) un reprezentant al Comitetului Olimpic §i Sportiv Roman;
+e) un reprezentant - al sportivilor de performan^a, desemnat de
+Comitetul Olimpic §i Sportiv Roman;
+f) un reprezentant al federaliilor sportive na^ionale, desemnat de
+Comitetul Olimpic §i Sportiv Roman.
+(2) Consiliul Director asigura consultants strategics independents in
+legSturS cu urmStoarele:
+a) Strategia Nationals Anti-Doping;
+b) programele educative si de prevenire a dopajului in sport;
+c) programele de promovare a fairplay-ului in sport;
+d) ansamblul de mSsuri ce urmeazS a fi luate in sensul intensificSrii
+luptei impotriva traficului ilicit de substance dopante;
+e) planul de acliuni privind informarea, prevenirea §i combaterea
+fenomenului de dopaj in sport;
+
+23
+f) programul actiunilor §i activita^ilor de cercetare pentru eradicarea
+dopajului in sport.
+(3) Activitatea Consiliului director este condusa de presedintele
+ANAD.
+(4) Mandatul membrilor Consiliului director este de 5 ani, care
+poate fi reinnoit o singura data.
+(5) Membrii Consiliului director sunt obligati sa respecte secretul
+profesional §i vor semna declaratii de confiden^ialitate §i conflict de interese.
+(6) Consiliul director se intrune§te in §edinte ordinare trimestriale §i
+in §edin^e extraordinare ori de cate ori este nevoie, la solicitarea pre§edintelui
+sau a cel pu|in doua treimi din numarul membrilor sai.
+(7) Convocarea Consiliului director se face cu cel pu^in 5 zile
+lucratoare inainte de data §edin|ei §i va cuprinde in mod obligatoriu ordinea
+de zi §i documenta^ia necesara.
+(8) Membrii Consiliului director, cu exceptia presedintelui, care
+participa la §edin|e, beneficiaza de indemnizatie de §edin^a de 20% din
+indemniza^ia lunara a pre§edintelui. Totalul sumelor cuvenite unui membru al
+Consiliului director, ca urmare a participarii la §edin|e, nu poate depa§i intr-o
+luna 20% din indemniza|ia lunara a pre§edintelui.
+Art. 10. - (1) Mandatul membrilor Consiliului director, cu exceptia
+presedintelui ANAD, inceteaza inainte de termen, in urmatoarele situajii;
+a) renun^area la calitatea de membru;
+b) pierderea calita^ii pentru care au fost numi^i;
+c) deces;
+d) revocarea, pentru motive intemeiate, de catre autoritatea care 1-a
+desenmat.
+(2) In cazurile prevazute la alin. (1) se desemneaza un nou
+reprezentant, al carui mandat dureaza pana la expirarea mandatului celui in
+locul caruia a fost numit.
+Art. 11. - Pe langa ANAD func^ioneaza Consiliul de prevenire §i
+combatere a traficului ilicit de substance dopante cu grad mare de rise, organ
+consultativ fara personalitate juridica, in conformitate cu prevederile art. 4 - 6
+din Legea nr. 104/2008, republicata, cu modificarile si completmle ulterioare.
+Art. 12. - (1) Conducerea ANAD este asigurata de un pre§edinte,
+numit prin decizie a prim-ministrului pentru un mandat de 5 ani care poate fi
+reinnoit o singura data si care trebuie sa indeplineasca urmatoarele conditii:
+a) buna reputatie;
+b) vechime in specialitate si in functii de conducere in ultimii 5 ani in
+domeniile: juridic, economic, stiintele naturii, medical, educatie fizica si sport;
+
+24
+c) cunostinte temeinice in domeniul prevenirii si combaterii
+dopajului in sport;
+d) independenta politica §i independen^a fa^a de structurile sportive.
+(2) In vederea numirii, presedintele seinneaza o declaratie pe
+propria raspundere ca nu se afla in niciuna dintre situatiile de
+incompatibilitate prevazute la art. 13 alin. (4).
+(3) Pre§edintele ANAD are rang de secretar de stat §i este ajutat in
+activitatea sa de un vicepre§edinte, cu rang de subsecretar de stat, numit prin
+decizie a prim-ministrului pentru un mandat de 5 ani care poate fi reinnoit o
+singura data si caruia i se aplica in mod corespunzator prevederile de la alin.
+(1) si (2).
+(4) ANAD are un secretar general, inalt flmctionar public, numit in
+conditiile legii.
+(5) In exercitarea atribuliilor sale pre§edintele ANAD emite ordine
+si decizii.
+(6) Ordinele cu caracter normativ emise de presedintele ANAD se
+publica in Monitorul Oficial al Romaniei, Partea I.
+(7) Deciziile se emit in exercitarea atributiilor ANAD privind
+gestionarea rezultatelor controlului doping si sunt acte administrative individuate.
+(8) Mandatul presedintelui sau al vicepresedintelui ANAD
+inceteaza in urmatoarele cazuri:
+a) incalcarea unei reglementari anti-doping conform art. 2 alin. (2)
+lit. e) si g) - k);
+b) nerespectarea regimului juridic general al incompatibilitatilor si
+conflictelor de interese, precum si a incompatibilitatilor si interdictiilor
+prevazute la art. 13 alin . (3);
+c) expirarea mandatului;
+d) renunlarea la mandat; ,
+e) decesul.
+Art. 13. - (1) Personalul ANAD este format din functionari publici
+si personal contractual si este salarizat in conditiile legii.
+(2) Pentru ocuparea unei functii publice de conducere sau de
+executie din cadrul ANAD, cu atributii in gestionarea rezultatelor controlului
+doping, potrivit fisei postului este obligatorie obtinerea certificatului de ofiter
+control doping, in conditiile legii.
+(3) Presedintele ANAD, vicepresedintele ANAD, secretarul general al
+ANAD si personalul de conducere si de executie al ANAD au obligatia de a
+respecta regimul juridic general al incompatibilitatilor si conflictelor de interese
+aplicabil flmctiei ocupate precum si urmatoarele incompatibilitati si interdictii;
+a) nu pot participa la luarea deciziilor cu privire la sportivii sau alte
+persoane cu care au avut un raport profesional sau personal in ultimii 3 ani;
+
+25
+b) nu pot detine calitatea de asociat sau administrator al unui
+tert-delegat, personal sau printr-o alta persoana interpusa;
+c) nu pot participa la luarea deciziilor cu privire la un tert-delegat cu
+care au avut raporturi profesionale sau personale in ultimii 3 ani;
+d) nu pot detine calitatea de membru in comisiile de audiere si de apel.
+(4) Nu pot fi numite si mentinute in functiile de denmitate publica
+de presedinte, vicepresedinte, in functiile publice din categoria inaltilor
+functionari publici, in functii publice de conducere si de executie din cadrul
+Agentiei Nationale Anti-Doping, indiferent de categoria acestora, persoanele:
+a) care au fost sanctionate pentru incalcarea unei reglementari
+anti-doping, sau, in situatia in care nu le-au fost incidente prevederile
+Codului sau ale prezentei legi, in decursul ultimilor 6 ani, in mod direct si
+intentionat au avut o conduita care ar fi constituit o incalcare a
+reglementarilor anti-doping - daca reglementari conforme cu Codul le-ar fi
+fost incidente;
+b) al caror raport administrativ, sau raport de munca a incetat, ca
+urmare a faptului ca au fost condamnate printr-o hotarare judecatoreasca
+defmitiva, pentru infractiuni cu intentie, cu exceptia cazurilor in care a
+intervenit reabilitarea, amnistia post-condamnatorie sau dezincriminarea, in
+conditiile legii;
+c) care au fost destituite din functie sau carora le-a incetat contractul
+individual de munca disciplinar pentru savarsirea unei abateri grave, in sensul
+prezentei legi.
+(5) Interdictia prevazuta la alin. (4) lit. c) se mentine pe o perioada
+de 6 ani, de la data ramanerii definitive, in conditiile legii, a sanctiunii
+disciplinare.
+Art. 14. - ANAD transmite LCD scrisoarea de sustinere in
+conformitate cu prevederile Standardului International pentru Laboratoare.
+Art. 15. - ANAD are obligafia de a achita cotizafiile stabilite de
+catre organizafiile guvemamentale |i neguvemamentale intemafionale,
+asumate prin Conventia impotriva dopajului, adoptata, in cadrul Consiliului
+Europe!, la Strasbourg la 16 noiembrie 1989, ratificata prin Legea
+nr. 171/1998 §i prin Convenfia intemafionala impotriva dopajului in sport,
+adoptata in cadrul Conferinfei Generale a Organizafiei Nafiunilor Unite
+pentru Educafie, §tiinfa §i Cultura, la Paris, la 19 octombrie 2005, acceptata
+prin Legea nr. 367/2006.
+
+26
+Art. 16. - Posturile publice de radio §i de televiziune pun la
+dispozi^ie, gratuit, ANAD un spa^iu de emisie de minimum 30 de minute
+lunar, din care 50% la ore de maxima audien^a, pentru difuzarea de emisiuni
+cu caracter educativ §i materiale promotional, in scopul prevenirii §i
+combaterii dopajului in sport.
+Art. 17. - (1) Finantarea cheltuielilor curente §i de capital ale
+ANAD se asigura din venituri proprii si subven^ii acordate de la bugetul de
+stat, prin bugetul Secretariatului General al Guvemului.
+(2) Tarifele pentru formarea §i perfectionarea ofiterilor de control
+doping se stabilesc prin ordin al pre§edintelui ANAD, care se publica in
+Monitorul Oficial al Romaniei, Partea 1.
+Art. 18. - Organizarea, fimctionarea, numarul de posturi §i structura
+organizatorica ale ANAD se stabilesc prin hotarare a Guvemului.
+CAPITOLULII
+Laboratorul de control doping
+Art. 19. - (1) Laboratorul de Control Doping este organ de
+specialitate al administratiei publice centrale, cu personalitate juridica, in
+subordinea Guvemului si coordonarea prim-ministmlui, fmantat din venituri
+proprii §i subven^ii acordate de la bugetul de stat, prin bugetul Secretariatului
+General al Guvemului.
+(2) In indeplinirea atributiilor ce ii revin, potrivit legii, LCD
+actioneaza pe baza de autonomie functionala si decizionala, independent de
+alte autoritati si institutii publice.
+Art. 20. - LCD are urmatoarele obiective:
+a) prevenirea si combaterea fenomenului de dopaj in scopul
+practicarii unui sport curat si protejarii sanatatii sportivilor si a populatiei
+generate prin efectuarea analizelor de control doping cu grad inalt de
+acuratete pentm probele recoltate de la sportivi, in competitie si in afara
+competitiei, in conformitate cu prevederile intemationale in domeniu, si
+raportarea de rezultate valide bazate pe date probatorii fiabile;
+b) sustinerea si dezvoltarea fundamentului stiintific al controlului
+doping prin programe de cercetare si dezvoltare;
+c) dezvoltarea institutionala in vederea implementarii politicilor
+intemationale si nationale adoptate in domeniu.
+
+27
+Art. 21. - (1) Pentm realizarea obiectivelor prev^ute la art. 20,
+LCD reprezinta Romania in domeniul sau de activitate in rela^iile cu
+organiza^iile na^ionale §i intema^ionale anti-doping §i achita cotiza|iile §i
+taxele stabilite de catre organiza^iile guvemamentale §i neguvemamentale
+intema^ionale, asumate prin Conven|ia impotriva dopajului, adoptata, in
+cadrul Consiliului Europei, la Strasbourg la 16 noiembrie 1989, ratificata prin
+Legea nr. 171/1998, §i Conven|ia intema^ionala impotriva dopajului in sport,
+adoptata in cadrul Conferin^ei Generale a Organiza|iei Na^iunilor Unite
+pentru Educatie, §tiin^a §i Cultura, la Paris la 19 octombrie 2005, acceptata
+prin Legea nr. 367/2006.
+(2) LCD are obligatia de a analiza, anual, numarul minim de probe
+prevazut de Standardul International pentru Laboratoare, in vederea
+mentinerii acreditarii, provenite de la organizatii anti-doping conforme cu
+Codul.
+Art. 22. - (1) LCD este condus de catre un director, ajutat de catre
+un director adjunct.
+(2) Numirea directorului, respectiv a directorului adjunct al LCD se
+realizeaza prin ordin al secretarului general al Guvemului, in urma
+cOncursului organizat cu respectarea legislatiei in vigoare pentru personalul
+contractual din administratia publica si a conditiilor specifice de ocupare
+impuse de Standardul International pentru Laboratoare.
+(3) Modificarea, suspendarea si incetarea raporturilor de munca,
+precum si sanctionarea conducerii LCD se dispun de catre secretarul general
+al Guvemului, in conditiile legii.
+Art. 23. - Atribuliile, organizarea, funclionarea, numarul de posturi
+§i structura organizatorica ale LCD se stabilesc prin hotarare a Guvemului.
+Art. 24. - Personalul LCD este personal contractual §i este salarizat
+in conditiile legii.
+Art. 25. - (1) Personalul LCD care ocupa functii de conducere si de
+executie, are obligatia de a respecta regimul juridic general al
+incompatibilitatilor si conflictelor de interese.
+(2) Nu pot fi numite in flmctiile de conducere si de executie,
+indiferent de categoria acestora, persoanele:
+
+28
+a) care au fost sanctionate pentru incalcarea unei reglementari
+anti-doping, sau, in situatia in care unei persoane nu i-au fost incidente
+prevederile Codului sau ale prezentei legi, care, in decursul ultimilor 6 ani, in
+mod direct si intentionat a avut o conduita care ar fi constituit o incalcare a
+reglementarilor anti-doping - daca reglementari conforme cu Codul ar fi fost
+incidente unei astfel de persoane.
+b) care au fost destituite din functie ca urmare a faptului ca au fost
+condamnate printr-o hotarare judecatoreasca defmitiva, cu exceptia cazurilor
+in care a intervenit reabilitarea in conditiile legii;
+c) care au fost destituite din functie disciplinar pentru savarsirea
+unei abateri grave, in sensul prezentei legi.
+Art. 26. - (1) Tarifele pentru analiza probelor de control doping §i a
+suplimentelor nutritive, pentru eliberarea pachetului de documente §i pentru
+pastrarea pe termen lung a probelor de control doping se aproba, la
+propunerea directorului LCD, prin ordin al secretarului general al
+Guvemului, care se publica in Monitorul Oficial al Romaniei, Partea I.
+(2) Tarifele sunt aduse la cuno§tinfa autoritafilor de testare prin
+publicare in sistemul de management §i administrare anti-doping ADAMS,
+conform prevederilor Standardului International pentru Laboratoare.
+(3) Prin ordinul prevazut la alin. (1) se pot stabili reducer! ale
+tarifelor in functie de numarul de probe transmise pentru analiza.
+CAPITOLUL III
+Publicarea revizuirea Listei interzise
+/V
+- (1) In vederea aplicMi sanctiunilor pentru incalcarea
+reglementarilor anti-doping, toate substanfele interzise vor fi substanfe
+specifice, cu excepfia celor identificate ca atare in Lista Interzisa. Nicio
+metoda interzisa nu va fi o metoda specifica, cu exceptia celor identificate in
+mod special ca metode specifice in Lista interzisa.
+(2) In vederea aplicarii sanctiunilor pentru incalcarea reglementarilor
+anti-doping, substantele de abuz vor include acele substante interzise care sunt
+in mod specific identificate ca substante de abuz in Lista interzisa.
+(3) Lista interzisa, in conformitate cu cea elaborata de WADA, se
+aproba prin ordin al pre§edintelui ANAD §i se publica in Monitorul Oficial al
+Romaniei, Partea I.
+(4) ANAD va revizui Lista interzisa ori de cate ori vor aparea
+modificari in lista publicata de WADA.
+Art. 27.
+
+29
+(5) Decizia WADA este definitiva §i nu va face obiectul contestarii de
+catre sportivi sau alte persoane, inclusiv, dar nelimitandu-se la o contestatie in
+temeiul motivarii ca substan^a sau metoda nu a fost un agent de mascare sau nu
+a avut capacitatea de a duce la cre§terea perfonnan^ei, nu a reprezentat un rise
+pentm sanatate, nu a incalcat spiritul sportiv - cu referire la:
+a) includerea de substance interzise §i metode interzise in Lista
+Interzisa;
+b) clasificarea substan^elor in categorii in Lista Interzisa;
+c) clasificarea unei substanfe ca interzisa in orice moment sau
+numai in competifie;
+d) clasificarea unei substante sau metode ca fiind o substanta sau
+metoda specifica sau substanta de abuz.
+CAPITOLUL IV
+Scutiri pentru uz terapeutic
+Art. 28. - (1) ANAD asigura aplicarea procedurii de acordare a
+scutirilor pentru uz terapeutic pentru sportivii de nivel national sau pentru
+sportivii rezidenfi pe teritoriul Romaniei, dar care nu sunt de nivel
+international, la solicitarea scrisa a acestora, in conformitate cu procedura
+descrisa in Standardul international de acordare a SUT al WADA.
+(2) In situatia in care ANAD refuza solicitarea, sportivul poate
+formula apel doar la Comisia de Apel.
+(3) ANAD va notifica sportivilor in cauza deciziile referitoare la
+scutirile pentru uz terapeutic si va raporta deciziile, prin ADAMS, catre
+WADA si alte organizatii anti-doping.
+Art. 29. - (1) Sportivii de nivel international au obligatia de a
+solicita scutire de uz terapeutic federatiei intemationale la care sunt afiliati.
+(2) Daca sportivul de nivel international poseda deja o SUT
+acordata de organizatia nationals anti-doping din tara sa pentru o substanta
+sau metoda interzisa §i daca acea SUT indepline§te criteriile prevazute in
+Standardul international pentru scutiri de uz terapeutic, atunci respectiva
+federatie intemationala trebuie sa o recunoasca.
+(3) Daca federatia intemationala considera ca SUT nu indepline§te
+acele criterii §i astfel refuza sa o recunoasca, trebuie sa informeze sportivul §i
+ANAD printr-o notificare motivata §i transmisa cu promptitudine.
+(4) Sportivul sau ANAD vor avea la dispozitie un termen de 21 de zile
+de la data notificarii pentm a se adresa WADA pentm verificarea refuzului.
+
+30
+(5) Daca refuzul este inaintat catre WADA pentru verificare, SUT .
+acordata de organiza^ia na^ionala anti-doping ramane in vigoare pentru
+testarea in competitii de nivel national si in afara competiliei insa nu este
+valabila pentru competiliile de nivel international pana la adoptarea unei
+decizii de catre WADA.
+(6) Daca refuzul nu este inaintat catre WADA pentru verificare in
+termen de 21 de zile, organizatia nationala anti-doping a sportivului trebuie
+sa stabileasca daca SUT acordata initial de acea organizatie nationala
+anti-doping ramane valabila pentru testarile in competitii de nivel national si
+in afara competitiei cu conditia ca sportivul sa inceteze sa mai fie sportiv de
+nivel international si sa nu participe la competitii de nivel international.
+(7) Daca federatia intemationala la care este afiliat sportivul de
+nivel international refuza sa recunoasca o SUT acordata de ANAD, exclusiv
+in temeiul lipsei informa^iilor medicale sau de alta natura care sunt necesare
+pentru a proba confonuitatea cu Standardul Intema|ional pentru SUT, cererea
+de revizuire este inadmisibila. in acest caz dosarul trebuie completat §i
+prezentat din nou respectivei federa^ii intema^ionale.
+(8) Daca o federa^ie intemalionala alege sa testeze un sportiv care
+nu este sportiv de nivel international, atunci va trebui sa recunoasca
+valabilitatea SUT acordata sportivului in cauza de organizatia nationala
+anti-doping de care acesta apartine.
+(9) Daca sportivul de nivel international nu este deja in posesia unei
+SUT acordata de organizatia nationala anti-doping de care apaifine pentru
+substanta sau metoda in cauza, sportivul trebuie sa se adreseze direct
+federatiei intemationale de care apartine pentru a obtine o SUT imediat ce
+apare aceasta necesitate.
+Art. 30. - O SUT acordata de ANAD sau de orice alta organizatie
+nationala anti-doping este valabila la orice nivel national in orice tara si nu
+trebuie recunoscuta in mod formal de o alta organizatie nationala anti-doping,
+aceasta nefiind valabila in situatia in care sportivul devine un sportiv de nivel
+international sau concureaza intr-o manifestare sportiva intemationala,
+exceptand situatia in care este recunoscuta de federatia intemationala
+responsabila sau de organizatorul de evenimente sportive majore, in
+conformitate cu Standardul international pentru scutiri de uz terapeutic.
+Art. 31. - (1) Pe langa ANAD se constitute Comisia de acordare a
+scutirilor pentru uz terapeutic.
+(2) Componenta, competentele si reglementMle operationale ale
+comisiei prevazute la alin. (1) se aproba prin ordin al pre§edintelui ANAD in
+conformitate cu Standardul international pentru scutiri de uz terapeutic.
+
+31
+(3) Membrii Comisiei de acordare a scutirilor de uz terapeutic care
+participa la §edinte, beneficiaza de indemnizalie de §edinla de pana la 20%
+din indemnizalia lunara a pre§edintelui AN AD. Totalul sumelor cuvenite
+unui membru al comisiei, ca urmare a participarii la §edinle, nu poate depa§i
+intr-o luna 20% din indemniza^ia lunara a pre§edintelui ANAD.
+(4) Pentru activitatea prestata de comisia prevazuta la alin. (1) se
+percepe o taxa al carei cuantum se stabile§te, prin ordin al presedintelui
+ANAD, publicat in Monitorul Oficial al Romaniei, Partea I.
+'
+A
+Art. 32. - (1) In completarea procedurii de verificare prevazuta la
+art. 29, deciziile care au ca obiect SUT pot fi atacate cu apel conform
+prevederilor art. 110 din prezenta lege.
+(2) Orice decizie a unei federa^ii Internationale sau a ANAD, in
+situatia in care a acceptat sa examineze solicitarea in numele unei federa^ii
+intemationale, care nu este verificata de WADA sau care este verificata de
+WADA §i nu este desfiintata, poate fi contestata cu apel doar la CAS - de catre
+sportiv §Psau de catre organizatia nationala anti-doping de care acesta apartine.
+(3) Decizia WADA de a desfiinfa o decizie privind o SUT poate fi
+atacata cu apel numai la CAS de catre sportiv, de catre ANAD §i/sau de catre
+federafia intemafionala relevanta.
+(4) Neluarea unei decizii intr-un interval de timp rezonabil cu
+privire la o solicitare cored formulata pentru acordarea/recunoa§terea unei
+SUT sau pentru verificarea unei decizii privind o SUT va fi considerate drept
+un refliz al solicitarii in cauza, declansand in acest fel drepturile incidente de
+verificare sau apel.
+CAPITOLUL V
+Responsabilitafile sportivilor, personalului asistent al acestora
+si altor persoane
+Art. 33. - Sportivii, personalul asistent al acestora precum si orice
+alte persoane sunt obligafi sa cunoasca §i sa respecte legea, toate politicile si
+reglementarile anti-doping adoptate in conformitate cu Codul si standardele
+intemationale, care le sunt aplicabile.
+Art. 34. - Sportivii sunt raspunzatori, in contextul anti-doping,
+pentru ceea ce ingereaza sau utilizeaza.
+Art. 35. - Sportivii au obligatia de a fi disponibili in orice moment
+pentru prelevarea de probe.
+
+32
+Art. 36. - Sportivul are obliga|ia sa i§i decline calitatea in fa^a
+personalului medical, inclusiv a medicilor de familie §i medicilor speciali§ti,
+are obligatia sa nu utilizeze substance interzise §i metode interzise §i trebuie
+sa i§i asume raspunderea in a se asigura ca niciunul din tratamentele medicale
+primite nu duce la incalcarea politicilor §i reglementarilor anti-doping
+adoptate in conformitate cu prevederile Codului.
+Art. 37. - (1) Sportivii, personalul asistent al acestora si alte
+persoane au obliga|ia sa coopereze cu organiza^iile anti-doping in cadrul
+investiga^iilor referitoare la incalcari ale reglementarilor anti-doping.
+(2) Sportivii, personalul asistent al acestora si alte persoane au
+obligatia sa informeze ANAD, organizatia nationala anti-doping si federatia
+intemationala de care apartin in legatura cu orice decizie adoptata de un
+nesemnatar al Codului prin care s-a constatat ca acestia au savarsit o
+incalcare a reglementarilor anti-doping in decursul ultimilor 10 ani.
+(3) Sportivii au obligatia sa dezvaluie identitatea membrilor
+personalului asistent al acestora, la solicitarea unei organizatii anti-doping cu
+autoritate asupra sportivilor.
+Art. 38. - Personalul asistent al sportivului nu va utiliza §i nu va
+detine substante interzise sau metode interzise fara o justificare acceptabila.
+Art. 39. - Sportivii care fac parte din Lotul de testare inregistrat al
+ANAD au obligatia sa fiimizeze informatii de localizare corecte si la timp §i
+sa le completeze in sistemul ADAMS.
+Art. 40. - (1) Sportivii de nivel national sau international, inclu§i in
+Lotul de testare inregistrat, care se retrag din activitatea sportiva, au
+urmatoarele obligadi:
+a) sa notifice in scris cu 6 luni inainte de revenire faptul ca revin in
+activitatea sportiva;
+b) sa nu concureze la manifestari sportive intemationale sau
+nationale pe perioada retragerii din activitatea sportiva;
+c) sa fie disponibili pentru testare §i sa fumizeze informatii de
+localizare ANAD §i/sau federatiei intemationale de care apartin de la
+momentul revenirii in activitatea sportiva.
+(2) WADA poate acorda o scutire de la regula notificarii in scris,
+prevazuta la alin. (1), conform prevederilor Codului.
+(3) Orice rezultate obtinute in competitie cu incalcarea prevederilor
+alin. (1) vor fi descalificate, cu exceptia situatiei in care sportivul poate
+dovedi ca nu avea cum sa cunoasca, in mod rezonabil, ca aceea era o
+manifestare sportiva de nivel international sau national.
+
+33
+Art. 41. - (1) in situatia in care un sportiv se retrage din activitatea
+sportiva in timp ce executa o perioada de suspendare, acesta trebuie sa
+notifice in scris organizatia anti-doping care a impus perioada de suspendare
+cu privire la aceasta retragere.
+(2) Revenirea in activitatea sportiva a sportivilor prevazuti la alin. (1)
+nu se va putea realiza fara o notificare scrisa adresata organizatiei anti-doping
+care a impus perioada de suspendare.
+(3) instiintarea scrisa se va remite in avans cu o perioada de timp
+egala cu perioada de suspendare ramasa de executat la momentul retragerii,
+cand aceasta este mai mare de 6 luni, iar in caz contrar, cu 6 luni inainte.
+(4) Pentru a participa la manifestari sportive intema^ionale sau
+na^ionale sportivii prevazuti la alin. (1) au obligatia de a se supune testarii doping.
+Art. 42. - Medicii, asisten^ii medicali §i personalul paramedical
+trebuie sa acorde o aten^ie deosebita tratamentului medical aplicat sportivilor
+§i sa respecte urmatoarele reguli:
+a) sa nu recomande, sa nu prescrie §i sa nu administreze
+medicamente §i/sau suplimente alimentare care au in compozi^ie substance
+interzise, cu excep^ia situaliei in care exista SUT;
+b) sa nu recomande, sa nu prescrie sau sa nu colaboreze la utilizarea
+unor metode interzise care sunt incluse pe Lista interzisa, cu exceptia situa^iei
+in care se poate ob^ine SUT;
+c) sa previna folosirea de catre sportivi a substan^elor §i/sau a
+metodelor interzise;
+d)
+sa informeze sportivii §i federa^iile sportive na|ionale
+responsabile asupra medica^iei si metodelor administrate, a compozi^iei §i
+efectelor asupra organismului;
+e) sa informeze federa^ia sportiva na^ionala responsabila, precum §i
+Agen^ia, in cazul in care suspecteaza un sportiv ca ar folosi substance §i/sau
+metode interzise, pentru ca acesta sa fie supus unor testari-^inta.
+f) sa acorde sprijinul si sa colaboreze cu AN AD si cu alte
+organizatii anti-doping in investigatiile desfasurate cu privire la incalcarea
+reglementarilor anti-doping.
+Art. 43. - Personalul angajat al ANAD, inclusiv persoanele
+desemnate in organul de conducere al acesteia §i numite in func^ia de
+pre§edinte sau vicepre§edinte, precum §i personalul angajat cu func^ii de
+conducere sau de execu^ie al LCD au obligatia sa cunoasca §i sa respecte
+toate reglementarile anti-doping adoptate in conformitate cu Codul §i
+prezenta lege.
+
+34
+CAPITOLUL VI
+Testarea doping §i investiga^ii
+Art. 44. - (1) Testarea si investigatiile pot fi intreprinse in orice
+scop privind prevenirea si combaterea dopajului in sport.
+(2) Testarea doping se efectueaza conform Planului national anual
+de testare, cu respectarea prevederilor Standardului International pentm
+Testare §i Investigatii.
+(3) Investigatiile si culegerea de informatii in domeniul anti-doping
+sunt intreprinse de ANAD cu respectarea Standardului International pentru
+Testare si Investigatii.
+Art. 45. - (1) Testarea doping se efectueaza de catre Agen^ie, din
+propria initiativa, sau poate fi solicitata acesteia de catre:
+a) Ministerul Tineretului §i Sportului;
+b) Comitetul Olimpic §i Sportiv Roman;
+c) Federafia Sportului §colar §i Universitar;
+d) federafiile sportive nafionale, cluburi sau ligi profesioniste;
+e) alfi organizatori de manifestari sportive, care nu sunt cuprin§i
+intr-un cadru federal;
+f) alte organizatii anti-doping si organisme sportive intemationale.
+(2) Procedura de desfa§urare a testarii doping este reglementata in
+nonnele metodologice privind organizarea §i desfa§urarea controlului doping,
+care se elaboreaza de catre Agenfie, aprobate prin hotarare a Guvemului, in
+conformitate cu prevederile Codului, ale Standardului International pentru
+Testare §i Investigatii §i ale Standardului international de acordare a SUT,
+emise de WADA.
+Art. 46. - (1) Oricarui sportiv i se poate solicita o proba in orice
+moment §i in orice loc de catre o organizatie anti-doping cu autoritate de
+testare asupra sa, sub condifia limitarilor pentru testarea in cadrul
+manifestarilor sportive prevazute la alin. (8) - (16).
+(2) ANAD are autoritate de testare in competitie §i in afara
+competitiei asupra tuturor sportivilor care sunt cetateni, rezidenti, detinatori
+de licenta sau membri ai organizatiilor sportive din Romania sau care sunt
+prezenfi in Romania.
+(3) ANAD poate testa orice sportiv care nu s-a retras in raport cu care
+are autoritate de testare, inclusiv sportivii care executa o perioada de suspendare.
+(4) Recordul national se poate omologa numai in urma testarii
+doping a sportivului in cauza, imediat dupa inregistrarea acestuia.
+
+35
+(5) TestMle pot fi efectuate oricand, fara aviz prealabil, la cea mai
+apropiata sta^ie de control doping, la locurile de cazare a sportivului in
+perioada de pregatire, in toate locurile §i incintele in care se desfa§oara
+activitali fizice §i sportive sau la domiciliul sportivului, iar acesta are
+obliga|ia sa se supuna acestor testari.
+(6) Daca nu se prevede altfel in cele de mai jos, doar o singura
+organizatie va avea autoritate de testare pentru a efectua testari la locurile de
+desfasurare ale manifestarii sportive pe durata acesteia. in cadrul
+competi^iilor de nivel international care se desfa§oara pe teritoriul Romaniei,
+autoritatea de testare este organiza^ia sub egida careia se organizeaza
+manifestarea sportiva. La evenimentele nationale organizate in Romania
+ANAD va avea autoritatea de a efectua testarea.
+(7) La solicitarea organizatiei sub egida careia se organizeaza
+manifestarea sportiva, orice testare realizata pe perioada manifestarii
+sportive, in afara locurilor de desfa§urare a competitiilor din cadrul
+manifestarii sportive, va fi coordonata cu acea organizatie.
+(8) ANAD poate efectua testari in locurile de desfa§urare a
+competitiilor in cadrul unei manifestari sportive, intr-o competifie intemationala
+desfa§urata pe teritoriul Romaniei, cu aprobarea organizafiei intemationale sub
+egida careia se organizeaza manifestarea sportiva conform alin. (6), iar, in caz
+de refuz, se poate adresa WADA, pentru a fi autorizata in acest sens in
+conformitate cu Standardul International pentru Testare si Investigatii.
+(9) inainte de a aproba solicitarea ANAD formulata in conformitate
+cu alin. (8), WADA se va consulta cu organizatia intemafionala sub egida
+careia se organizeaza manifestarea sportiva.
+(10) O alta organizatie anti-doping poate efectua testari, cu
+aprobarea ANAD, in locurile de desfa§urare a competifiilor in cadrul unei
+manifestari sportive nationale desfasurata in Romania, in caz de refiiz, se
+poate adresa WADA, pentru a fi autorizata in acest sens in conformitate cu
+Standardul International pentru Testare si Investigatii.
+(11) inainte de a aproba solicitarea unei alte organizatii anti-doping
+de a inifia §i efectua testari in cadrul unei manifestari sportive nafionale in
+conformitate cu alin. (10), WADA se va consulta cu ANAD.
+(12) Decizia WADA in legatura cu prevederile alin. (8) si (10) este
+defmitiva si nu poate fi atacata cu apel.
+(13) in temeiul autorizatiei emise, astfel de testari vor fi considerate
+testari in afara competitiei, daca nu se specified altfel in autorizatie.
+(14) Daca nu se prevede altfel in prezenta lege sau in reglementarile
+organizafiei sub egida careia se organizeaza manifestarea sportiva, de
+gestionarea rezultatelor va fi responsabila organizatia anti-doping care a
+initiat si coordonat prelevarea de probe si va fi guvemata de regulile de
+procedura ale acesteia.
+
+36
+(15) in situatia in care o federa|ie intema(ionala sau un organizator
+de manifestari sportive majore deleaga sau incredin|eaza prin contract orice
+parte a procedurii de testare catre ANAD, aceasta poate preleva probe
+suplimentare sau poate solicita unui laborator acreditat de WADA tipuri
+suplimentare de analize, din bugetul propriu al ANAD, cu notificarea
+prealabila a organizatorului.
+(16) in situa(iile in care este posibil in mod rezonabil, testarea va fi
+coordonata prin ADAMS cu alte organizatii anti-doping, in scopul de a
+maximiza eficien(a eforturilor de testare conjugate §i pentru a evita repetari
+inutile ale testarii.
+Art. 47. - (1) Testarea doping in competi^ie se efectueaza in spa^ii
+adecvate numite sta(ie de control doping, organizate conform normelor
+metodologice privind organizarea §i desfa§urarea controlului doping aprobate
+prin hotarare a Guvemului in conformitate cu Standardul International de
+Testare si Investigatii.
+(2) in cazuri excep^ionale, sta(ia de control doping poate fi
+amenajata intr-un spafiu pus la dispozifie de organizatia sub egida careia se
+organizeaza manifestarea sportiva.
+Art. 48. - Testarile doping pot fi efectuate de catre ofiferii de
+control doping, precum §i de catre personalul din cadrul ANAD imputemicit
+in acest sens de catre pre§edintele acesteia.
+Art. 49. - (1) Raspunderea privind recoltarea §i transportarea
+probelor la laborator aparfine ANAD sau ofiferului de control doping care
+le-a efectuat, dupa caz.
+(2) Probele recoltate de la sportivi se afla in proprietatea autoritafii
+de testare responsabila pentru respectiva §edin(a de recoltare a probelor.
+(3) Autoritatea de testare poate transfera proprietatea asupra
+probelor catre autoritatea pentru gestionarea rezultatelor sau o alta organizafie
+anti-doping, la cerere.
+CAPITOLULVII
+Analiza probelor de control doping si gestionarea rezultatelor
+/V
+Art. 50. - (1) In scopul determinarii directe a unui rezultat analitic
+pozitiv in temeiul art. 2 alin. (2) lit. a), analiza probelor se efectueaza doar de
+catre un laborator de control doping, acreditat sau aprobat de WADA. Faptele
+referitoare la incMcari ale reglementarilor anti-doping pot fi stabilite prin
+orice mijloc de proba credibil.
+
+37
+(2) Probele si datele analitice corelative sau informatiile cu privire
+la controlul doping vor fl analizate in scopul detectarii substan^elor interzise
+§i a metodelor interzise identificate in lista interzisa, precum §i a altor
+substance, la solicitarea WADA, in conformitate cu programul de
+monitorizare al WADA sau pentru a ajuta o organiza^ie anti-doping sa
+realizeze un profil al parametrilor relevant! din urina, sange sau alta matrice a
+sportivului, inclusiv profilul ADN sau genomic, sau pentru orice alt scop
+anti-doping legitim.
+(3) Probele, datele analitice corelative si informatiile cu privire la
+controlul doping pot fi folosite in scop de cercetare, insa nicio proba nu poate
+fl folosita fara consim|amantul scris al sportivului. Probele folosite, datele
+analitice corelative sau informatiile cu privire la controlul doping in scop de
+cercetare trebuie mai intai procesate intr-o maniera in care sa se previna
+asocierea cu un sportiv anume a probelor, datelor analitice corelative sau
+informatiile cu privire la controlul doping.
+(4) Laboratorul de Control Doping subcontracteaza, pe baza de
+comanda, dupa consultarea ANAD sau a autoritatii de testare, efectuarea
+analizelor de catre alte laboratoare acreditate WADA, in conditiile
+Standardului international pentru laboratoare.
+(5) Organiza^ia anti-doping responsabila cu gestionarea rezultatelor
+stabile§te laboratorul acreditat sau aprobat de WADA pentru analiza probelor.
+(6) Laboratorul de control doping va analiza probele de control
+doping §i va raporta rezultatele in conformitate cu Standardul international
+pentru laboratoare.
+(7) ANAD poate solicita laboratorului acreditat sau aprobat de
+WADA, desemnat in conditiile alin. (1) sa analizeze probele sale pentru
+substante interzise sau metode interzise care nu sunt incluse in meniul analitic
+standard pentru probe. Rezultatele unor astfel de analize trebuie raportate
+ANAD in conformitate cu Standardul International pentru Laboratoare si au
+aceeasi validitate si aceleasi consecinte ca orice alt rezultat analitic.
+(8) Laboratorul de control doping desemnat in conditiile alin. (2),
+conform prevederilor Standardului Intemalional pentru Laboratoare, din proprie
+ini|iativa |i din bugetul propriu, poate analiza probe pentru detectarea
+substan^elor interzise sau metode interzise care nu sunt incluse in meniul
+standard de analize ale probelor. Rezultatele unor astfel de analize sunt raportate
+in conformitate cu prevederile Standardului International pentru Laboratoare si
+au aceeasi validitate si aceleasi consecinte ca orice alt rezultat analitic.
+9
+9
+9
+9
+
+38
+(9) Nu va exista nicio limitare in ce priveste autoritatea
+laboratorului desemnat de a repeta analize sau de a efectua analize
+suplimentare ale unei probe inainte ca ANAD sa notifice un sportiv ca proba
+constituie temeiul unei acuzatii de incalcare a reglementarilor anti-doping
+prevazuta la art. 2 alin. (2) lit. a). Daca, dupa aceasta notificare, ANAD
+doreste sa efectueze analize suplimentare asupra acelei probe, poate face
+acest lucru doar cu consimtamantul sportivului sau cu aprobarea unui
+organism de audiere.
+(10) Dupa ce un laborator a raportat un rezultat ca negativ, sau
+analiza probei nu a determinat in alt mod o invinuire de incalcare a
+reglementarilor anti-doping, proba ar putea fi pastrata si supusa in orice
+moment unor analize suplimentare in scopurile prevazute la alin. (2), exclusiv
+la solicitarea organizatiei anti-doping care a initiat si coordonat prelevarea
+probei sau a WADA.
+(11) Orice alta organizatie anti-doping, cu autoritate de testare in
+raport cu sportivul, care doreste analizarea suplimentara a unei probe
+depozitate, poate sa faca acest lucru cu permisiunea ANAD sau a WADA si
+va raspunde de orice procedura ulterioara de gestionare a rezultatelor. Orice
+depozitare sau analizare suplimentara a probei, initiata de WADA sau o alta
+organizatie anti-doping se va face pe cheltuiala WADA, respectiv a celeilalte
+organizatii. Analizarea suplimentara a probelor se va face in conformitate cu
+cerintele Standardului International pentru Laboratoare.
+(12) in situatia in care WADA, ANAD si/sau un laborator acreditat
+de WADA, cu aprobarea acesteia sau a ANAD doresc sa imparta o proba A
+sau B, cu scopul de a folosi prima parte a probei impartite pentru analiza
+probei A si a doua parte a probei impartite pentru confirmare, vor fi urmate
+procedurile prevazute in Standardul International pentru Laboratoare.
+(13) WADA poate, la discretia sa si in orice moment, cu sau fara
+notificare prealabila, sa rntre in posesia fizica a oricarei probe si a datelor analitice
+sau informatiilor corelative aflate in posesia laboratorului sau a ANAD.
+(14) La solicitarea WADA, laboratorul sau ANAD aflat/(a) in
+posesia probei sau a datelor va oferi WADA acces imediat si va facilita
+intrarea in posesia fizica a probelor sau a datelor.
+(15) Daca WADA nu a notificat laboratorul sau ANAD, anterior
+preluarii unei probe sau a unor date, aceasta va trimite o astfel de notificare
+laboratorului sau ANAD ale carui/carei probe sau date au fost preluate de
+WADA, intr-un termen rezonabil dupa preluarea posesiei.
+(16) Dupa analizarea si investigarea probelor si datelor confiscate,
+WADA poate desenma o alta organizatie anti-doping cu autoritate de testare
+asupra sportivului sa preia responsabilitatea gestionarii rezultatelor probei sau
+pentru date, daca se descopera o posibila incalcare a reglementarilor anti-doping.
+
+39
+Art. 51. - (1) Gestionarea rezultatelor stabileste procedura cu
+privire la solutionarea cazurilor de incalcari ale reglementarilor anti-doping.
+(2) ANAD organizeaza procedura administrativa de cercetare
+prealabila referitoare la potentialele incalcari ale reglementarilor anti-doping
+in conformitate cu principiile prevazute in prezentul articol si in Standardul
+International pentru Gestionarea Rezultatelor.
+(3) Investigarea unui rezultat atipic sau pozitiv se va face conform
+Standardului Intema|ional pentru Gestionarea Rezultatelor.
+(4) In situatia in care, in orice etapa a gestionarii rezultatelor pana la
+formularea acuzatiei de incalcare a reglementarilor anti-doping, ANAD
+decide sa nu continue procedura, va trebui sa notifice sportivul, personalul
+asistent al sportivilor sau o alta persoana, daca acestia au fost deja instiintati
+cu privire la procedura aflata in curs de desfasurare si sa notifice motivat
+organizatiile anti-doping cu drept de a formula apel in conformitate cu
+prevederile art. 111 si 114.
+(5) in situatia in care intervine un litigiu intre organiza^ii
+anti-doping cu privire la cea careia ii revine raspunderea pentru gestionarea
+rezultatelor, WAD A va decide carei organiza^ii ii revine aceasta
+responsabilitate. impotriva deciziei WADA se poate formula apel la Curtea
+de Arbitraj Sportiv de catre oricare dintre organizatiile anti-doping implicate
+in litigiu, in termen de 7 zile de la comunicarea deciziei de catre WADA.
+Apelul va fi examinat de CAS cu celeritate §i va fi judecat de un arbitru unic.
+Orice organizatie anti-doping care doreste sa efectueze procedura de
+gestionare a rezultatelor in afara autoritatii prevazute in prezentul articol
+poate solicita WADA aprobare in acest sens.
+/V
+Art. 52. - In cazul gestionarii rezultatelor controlului doping cu
+privire la incalcarea reglementarilor anti-doping prevazute la art. 2 alin. (2),
+care nu presupun analiza de probe, ANAD veriflca circumstantele in care a
+fost savarsita posibila incalcare a reglementarilor anti-doping si notifica cu
+promptitudine in conformitate cu Standardul international pentru gestionarea
+rezultatelor sportivul sau persoana in cauza si, simultan, informeaza alte
+organizatii nationale anti-doping de care apartine sportivul sau alta persoana,
+federatia intemationala competenta si WADA, si raporteaza cu promptitudine
+informatiile in ADAMS.
+Art. 53. - (1) Investigarea potentialelor incalcari privind obligatia
+de a fumiza informafii de localizare si testele neefectuate va fi efectuata in
+conformitate cu Standardul International pentru Gestionarea Rezultatelor.
+
+40
+'4"
+(2) ANAD va transmite WAD A, prin intermediul ADAMS, toate
+informatiile cu privire la incalcarea obligatiei de a fumiza informatii de
+localizare si cu privire la teste neefectuate, pentru a fi puse la dispozitie
+tuturor organizatiilor anti-doping relevante.
+Art. 54. - Procedura referitoare la aducere la cunostinta de catre
+ANAD a acuzatiei de incalcare a reglementarilor anti-doping se realizeaza cu
+respectarea dispozitiilor referitoare la invinuire prevazute in Standardul
+International pentru Gestionarea Rezultatelor.
+Art. 55. - (1) Daca un sportiv sau alta persoana se retrage in timp
+ce o procedura de gestionare a rezultatelor este in derulare, organiza|ia
+anti-doping care efectueaza procedura de gestionare a rezultatelor ramane
+competenta sa fmalizeze procedura.
+(2) Daca un sportiv sau alta persoana se retrage inainte de inceperea
+procedurii de gestionare a rezultatelor, autoritatea de a efectua procedura de
+gestionare a rezultatelor revine ANAD sau altei organizatii anti-doping care
+ar fi avut autoritate de gestionare a rezultatelor in raport cu sportivul sau alta
+persoana la momentul la care sportivul sau alta persoana a savarsit o
+incalcare a reglementarilor anti-doping.
+Art. 56. - ANAD este autoritate de gestionare a rezultatelor
+controlului doping in cazurile prevazute la art. 46 alin. (14) si (15).
+Art. 57. - (1) In scopul gestionMi rezultatelor pentru o testare sau o
+analiza suplimentara intreprinsa de catre WADA, din proprie initiativa, sau
+pentru o incalcare a reglementarilor anti-doping descoperita de catre WADA,
+aceasta va desemna o organizatie anti-doping cu autoritate in raport cu sportivul,
+personalul asistent al sportivului sau alta persoana.
+(2) Pentru gestionarea rezultatelor legat de o proba initiata si prelevata
+in timpul unui eveniment sportiv la initiativa unui organizator de manifestari
+sportive majore sau de o incalcare a reglementarilor anti-doping survenita in
+cursul unui astfel de eveniment, organizatorul evenimentului sportiv major isi
+va asuma responsabilitatea gestionarii rezultatelor cel putin in ceea ce priveste
+organizarea unei proceduri de audiere pentm a determina daca s-a savarsit o
+incalcare a reglementarilor anti-doping, si, in caz afirmativ, descalificarile
+incidente in sensul art. 85 din prezenta lege, orice retragere de medalii, puncte
+sau premii obtinute la acel eveniment sportiv si orice recuperare a costurilor
+aferente incalcarii reglementarilor anti-doping, in situatia in care organizatorul
+evenimentului sportiv major isi asuma doar o responsabilitate limitata in
+gestionarea rezultatelor, cazul va fi inaintat de acesta la federatia intemationala
+relevanta in vederea fmalizarii procedurii de gestionare a rezultatelor.
+
+41
+4
+Art. 58. - (1) Procedura de gestionare a rezultatelor cu privire la
+posibile incalcari ale prevederilor art. 2 alin. (2) lit. d) va fi asigurata de
+federatia intemationala sau de ANAD sau de alta organizatie nationala anti-
+doping careia sportivul transmite informatii de localizare, in confonnitate cu
+Standardul International privind Gestionarea Rezultatelor.
+(2) Cerinlele referitoare la informaliile de localizare vor fi prevazute
+in normele metodologice privind controlul doping aprobate prin hotarare a
+Guvemului.
+Art. 59. - Nicio procedura cu privire la incalcarea reglementarilor
+anti-doping nu va putea fi ini^iata impotriva unui sportiv sau a altei persoane
+fara ca acesta/aceasta sa fie in§tiin|at(a) in legatura cu incalcarea
+reglementarilor anti-doping in cauza, in conformitate cu art. 51 alin. (4), sau
+fara efectuarea unor demersuri rezonabile pentru in§tiin|are, intr-un termen de
+10 ani de la data la care se considera ca a avut loc respectiva incalcare.
+Art. 60. - (1) Inainte de finalizarea procedurii administrative de
+cercetare prealabila cu privire la gestionarea rezultatelor, ANAD solicita
+sportivului sau altei persoane sa comunice daca renunta la audiere sau
+contesta acuzatia ANAD referitoare la faptul ca o incalcare a reglementarilor
+anti-doping a avut loc intr-o anumita perioada de timp, in tennen de 10 zile
+de la primirea notificarii prin care se aduce la cunostinta acuzatia de incalcare
+a reglementarilor anti-doping.
+(2) in situatia in care sportivul sau alta persoana renunta la audiere
+in mod expres, sau daca nu contesta acuzatia ANAD referitoare la faptul ca o
+incalcare a reglementarilor anti-doping a avut loc intr-o anumita perioada de
+timp, in termenul prevazut la alin. (1) ANAD emite o decizie in forma scrisa,
+motivata, datata §i comunicata intr-un timp rezonabil cu privire la incalcarea
+reglementarii anti-doping savarsita.
+(3) in situatia in care sportivul sau alta persoana nu renunta la
+audiere sau contesta acuzatia ANAD referitoare la faptul ca o incalcare a
+reglementarilor anti-doping a avut loc intr-o anumita perioada de timp, in
+termenul prevazut la alin. (1), Comisia de audiere va fi sesizata in
+conformitate cu art. 62.
+CAPITOLUL VIII
+Jurisdictia anti-doping la nivel national
+Art. 61. - (1) Prezentul capital reglementeaza competenta de
+solutionare la nivel national a cauzelor privind incalcarea reglementarilor
+anti-doping si alte cauze prevazute de prezenta lege.
+
+42
+(2) Competenta, la nivel national, pentru solutionarea cauzelor cu
+privire la incalcarea reglementarilor anti-doping revine:
+a) ANAD;
+b) Comisiei de audiere;
+c) Comisiei de apel.
+(3) In spete eare rezulta in urma participarii la o manifestare sportiva
+intemalionala sau in spete in care sunt implicali sportivi de nivel international,
+deciziile ANAD sau ale Comisiei de audiere pot fi contestate cu apel exclusiv la
+CAS, in conformitate cu prevederile art. 113 alin. (2) si art. 114.
+Art. 62. - (1) Comisia de audiere este competenta sa solutioneze:
+a) invinuirile aduse de ANAD, in temeiul unei prezumate incalcari a
+, reglementarilor anti-doping, cu referire la sportivi, personal asistent al
+sportivilor si alte persoane ca unnare a fmalizarii procedurii administrative de
+cercetare prealabila in gestionarea rezultatelor;
+b) cererile de audiere ale sportivilor sau altor persoane formulate
+dupa aducerea la cunostinta a acuzatiei de incalcare a reglementarilor anti-
+doping ca urmare a fmalizarii procedurii administrative de cercetare
+prealabila in gestionarea rezultatelor;
+c) cererile fonnulate de catre sportivi in legatura cu suspendarea
+provizorie obligatorie potrivit art. 80, de suspendare provizorie optionala a
+sportivilor, personalului asistent al sportivilor si persoanelor fata de care
+ANAD sustine acuzatia de incalcare a reglementarilor anti-doping, pentru
+care suspendarea provizorie nu este obligatorie;
+d) efectuarea audierilor in regim de urgenta, la sesizarea
+presedintelui ANAD pentru sportivii sau personalul asistent al sportivului sau
+alte persoane fata de care s-a dispus o masura de suspendare provizorie;
+e) cererile accesorii sau incidentale in legatura cu solutionarea cauzei.
+(2) Comisia de audiere va fi echitabila, impartiala si independents
+operational, in sensul defmitiei de la art. 4 pet. 26.
+Art. 63. - (1) Comisia de apel solutioneaza:
+a) apelurile formulate impotriva deciziilor prevazute la art. 110;
+b) apelurile in regim de urgenta.
+(2) Comisia de apel va fi echitabila, impartiala si independents
+operational si institutional in sensul defmitiilor de la art. 4 pet. 25 si 26.
+Art. 64. - (1) Comisia de audiere este compusS dintr-un numSr de
+pans la 12 membri, selectati pentru un mandat de 3 ani, cu posibilitatea
+reinnoirii. Membrii Comisiei de audiere sunt selectati de cStre o comisie
+formats din 5 reprezentanti ai mediului academic si universitar.
+
+43
+(2) Comisia de audiere este condusa de un presedinte, ajutat de un
+vicepresedinte, alesi pe o perioada de 3 ani, cu posibilitatea realegerii o
+singura data. Alegerea si revocarea pre§edintelui si vicepresedintelui se
+realizeaza de catre plenul Comisiei de audiere prin votul secret al majoritatii
+membrilor in functie.
+(3) Calitatea de membru al Comisiei de audiere este incompatibila
+cu calitatea de membru al Comisiei de apel si cu orice functie sau calitate
+detinuta in cadrul ANAD, Ministerului Tineretului si Sportului, federatiilor
+nationale si ligilor profesioniste, al Comitetului Olimpic si Sportiv Roman, al
+Comitetului Paralimpic Roman sau al Secretariatului General al Guvemului.
+(4) Membrii Comisiei de audiere pot fi recuzati de catre partile
+implicate in solutionarea cazului, daca exista temei pentru un posibil conflict
+de interese.
+(5) Membrii Comisiei de audiere se abtin de la solutionarea cazului
+in situatia in care se afla in conflict de interese sau incompatibilitate.
+(6) Membrii Comisiei de audiere au obligatia de a depune la data
+inceperii mandatului declaratii de confidentialitate si declaratii de
+incompatibilitate si conflict de interese.
+Art. 65. - (1) Membrii Comisiei de audiere isi desfasoara
+activitatea in conformitate cu dispozitiile Regulamentului de organizare si
+functionare a acesteia, aprobat prin ordin al presedintelui Agentiei si publicat
+in Monitorul Oficial al Romaniei.
+(2) Comisia de audiere se reuneste in plen in prezenta a doua treimi
+din numarul total al membrilor in functie.
+Art. 66. - (1) Membrii Comisiei de audiere sunt numiti prin ordin al
+presedintelui ANAD confonn rezultatelor selectiei efectuate de catre comisia
+prevazuta la art. 64 alin. (1).
+(2) Criteriile de selectie pentru a fi desemnat ca membru in Comisia
+de audiere sunt urmatoarele;
+a) sa fie cetatean roman cu domiciliul in Romania;
+b) sa aiba capacitate deplina de exerci^iu;
+c) sa aiba o buna reputa^ie;
+d) sa nu fi fost condamnat pentru infracliuni savar§ite cu intenlie;
+e) sa nu defina calita^i sau func|ii de natura a genera o stare de
+incompatibilitate cu calitatea de membru al Comisiei de audiere a sportivilor
+§i a personalului asistent al sportivilor;
+f) sa nu fie suspendat din activitatea sportiva, ca urmare a savarsirii
+unei incalcari a reglementarilor anti-doping;
+
+44
+g) sa aiba experienta de minimum 5 ani in unul dintre urmatoarele
+domenii: juridic, medical, al stiintelor naturii si sport si care sa aiba
+obligatoriu experienta si/sau cunostinte in domeniul anti-doping, cu
+respectarea prevederilor Codului si a Standardului International pentm
+Gestionarea Rezultatelor.
+(3) Selectarea membrilor Comisiei de audiere se realizeaza de catre
+comisia de selectie prevazuta la art. 64 alin. (1), in baza procedurii aprobate
+prin ordin al presedintelui Agentiei.
+(4) Revocarea membrilor Comisiei de audiere se face la propunerea
+presedintelui Comisiei de audiere prin ordin al presedintelui AN AD.
+(5) Mandatul membrilor Comisiei de audiere inceteaza inainte de
+termen in urmatoarele situatii;
+j
+a) renuntarea la calitatea de membru;
+b) revocarea membrilor Comisiei de audiere ca urmare a
+nerespectarii obliga^iilor ce le revin;
+c) refuzul semnarii declara^iilor de confidentialitate §i conflict de
+interese;
+d) deces;
+e) dobandirea unei calitafi, demnitafi sau funcfii de natura a genera
+o stare de incompatibilitate cu calitatea de membru al Comisiei de audiere.
+(6) in cazurile prevazute la alin. (5) se nume|te un nou membru, al
+carui mandat dureaza pana la expirarea mandatului celui in locul caruia a fost
+numit.
+Art. 67. - (1) Organizarea si desfasurarea sedintelor completelor
+Comisiei de audiere si alte atributii stabilite prin Regulamentul de organizare
+si functionare a Comisiei de audiere se asigura de catre secretariatul acesteia.
+(2) Secretariatul Comisiei de audiere se asigura de catre ANAD si
+este format din 2 persoane, desemnate prin ordin al presedintelui ANAD.
+(3) Dispozitiile privind recuzarea membrilor Comisiei de audiere se
+aplica in mod corespunzator si membrilor secretariatului acesteia.
+(4) Membrii Comisiei de audiere, care participa la ^edinfe, beneficiaza
+de indemnizatie de §edinfa de pana la 20% din indemnizafia lunara a
+presedintelui ANAD si se asigura din bugetul ANAD. Totalul sumelor cuvenite
+unui membru al comisiei, ca urmare a participarii la sedinfe, nu poate depa§i
+intr-o luna 20% din indemnizafia lunara a presedintelui ANAD.
+Art. 68. - (1) Pentm solutionarea cauzelor de catre Comisia de
+audiere se percepe taxa de audiere, care se face venit la bugetul ANAD.
+(2) Cuantumul taxei de audiere si conditiile in care se acorda ajutoml
+public judiciar cu privire la taxa de audiere se stabilesc prin ordin al
+presedintelui ANAD care se publica in Monitoml Oficial al Romaniei, Partea I.
+
+45
+Art. 69. - (1) Comisia de apel este compusa dintr-un numar de pana
+la 12 membri, selectati pentm un mandat de 3 ani, cu posibilitatea reinnoirii.
+Membrii Comisiei de apel sunt selectati de catre o comisie foraiata din
+5 reprezentanti ai mediului academic si universitar.
+(2) Comisia de apel este condusa de un presedinte, ajutat de un
+vicepresedinte alesi pe o perioada de 3 ani, cu posibilitatea realegerii o
+singura data. Alegerea si revocarea pre§edintelui si vicepresedintelui se
+realizeaza de catre plenul Comisiei de apel prin votul secret al majoritatii
+membrilor in functie.
+(3) Calitatea de membru a Comisiei de apel este incompatibila cu
+calitatea de membru al Comisiei de audiere si cu orice functie sau calitate
+detinuta in cadrul ANAD, Ministerului Tineretului si Sportului, federatiilor
+nationale si ligilor profesioniste, a Comitetului Olimpic si Sportiv Roman, a
+Comitetului Paralimpic Roman sau a Secretariatului General al Guvemului.
+(4) Membrii Comisiei de apel pot fi recuzati de catre partile
+implicate in solutionarea cazului daca exista temei pentm un posibil conflict
+de interese.
+(5) Membrii Comisiei de apel se abtin de la solutionarea cazului in
+situatia in care se afla in conflict de interese sau incompatibilitate.
+(6) Membrii Comisiei de apel au obligatia de a depune la data
+inceperii mandatului declaratii de confidentialitate si declaratii de
+incompatibilitate si conflict de interese.
+Art. 70. - (1) Membrii Comisiei de apel isi desfasoara activitatea in
+conformitate cu dispozitiile Regulamentului de organizare si functionare a
+acesteia, aprobat prin ordin al secretamlui general al Guvemului.
+(2) Comisia de apel se reuneste in plen in prezenta a doua treimi din
+numaml total al membrilor in functie.
+Art. 71. - (1) Membrii Comisiei de apel sunt numiti prin ordin al
+secretamlui general al Guvemului conform rezultatelor selectiei efectuate de
+catre comisia prevazuta la art. 69 alin. (1).
+(2) Criteriile de selectie pentm a fi desemnat ca membru in comisia
+de audiere sunt urmatoarele:
+a) sa fie cetafeni romani cu domiciliul in Romania;
+b) sa aiba capacitate deplina de exercifiu;
+c) sa aiba o buna reputafie;
+d) sa nu fi fost condamnat pentm infracfiuni savar§ite cu intenfie;
+e) sa nu defina calitafi sau funcfii de natura a genera o stare de
+incompatibilitate cu calitatea de membru al Comisiei de audiere a sportivilor
+§i a personalului asistent al sportivilor;
+
+46
+f) sa nu fie suspendat din activitatea sportiva, ca imnare a savarsirii
+unei incalcari a reglementarilor anti-doping;
+g) sa aiba experienta de minimum 5 ani in unul dintre urmatoarele
+domenii: juridic, medical, al stiintelor naturii si sport si care sa aiba
+obligatoriu experienta si/sau cunostinte in domeniul anti-doping, cu
+respectarea prevederilor Codului si a Standardului international pentru
+gestionarea rezultatelor.
+(3) Selectarea membrilor Comisiei de apel se realizeaza in baza
+procedurii de selectie aprobate prin ordin al secretamlui general al Guvemului.
+(4) Revocarea membrilor Comisiei de apel se face la propunerea
+presedintelui Comisiei de apel prin ordin al secretamlui general al Guvemului.
+(5) Mandatul membrilor Comisiei de apel inceteaza inainte de
+termen in urmatoarele situatii:
+a) renunfarea la calitatea de membm;
+b) revocarea membrilor Comisiei de apel ca urmare a nerespectarii
+obligafiilor ce le revin;
+c) refuzul semnarii declarafiilor de confidenfialitate §i conflict de
+interese;
+d) deces;
+e) dobandirea unei calitafi, demnitafi sau funcfii de natura a genera
+o stare de incompatibilitate cu calitatea de membm al Comisiei de apel.
+(6) in cazurile prevazute la alin. (5) se nume§te un nou membm, al
+cami mandat dureaza pana la expirarea mandatului celui in locul camia a fost
+numit.
+Art. 72. - (1) Organizarea si desfasurarea sedintelor completelor
+Comisiei de apel si alte atributii stabilite prin Regulamentul de organizare si
+functionare a Comisiei de apel se asigura de catre secretariatul acesteia.
+(2) Secretariatul Comisiei de apel se asigura de catre Secretariatul
+General al Guvemului si este format din doua persoane, desemnate prin ordin
+al secretamlui general al Guvemului.
+Art. 73. - Dispozitiile privind recuzarea membrilor Comisiei de apel
+se aplica in mod corespunzator si membrilor secretariatului Comisiei de apel.
+Art. 74. - Membrii Comisiei de apel, care participa la §edinte,
+beneficiaza de indemnizafie de §edin|a de 20% din indemnizafia lunara a
+secretamlui general adjunct al Guvemului si se asigura din bugetul
+Secretariatului General al Guvemului. Totalul sumelor cuvenite unui membru
+al comisiei, ca urmare a participarii la §edinfe, nu poate depa§i intr-o luna
+20% din indemnizafia lunara a secretamlui general adjunct.
+
+47
+Art. 75. - (1) Pentru solutionarea cauzelor de catre Comisia de apel
+se percepe taxa de apel care se constituie venit la bugetul de stat.
+(2) Cuantumul taxei de apel si conditiile in care se acorda ajutoml
+public judiciar cu privire la taxa de apel se stabilesc prin ordin al secretamlui
+general al Guvemului care se publica in Monitorul Oficial al Romaniei,
+Partea I.
+Art. 76. - (1) Procedura de audiere in fata Comisiei de audiere si a
+Comisiei de apel se desfa§oara cu respectarea urmatoarelor principii:
+a) organizarea unei audieri impartiale si intr-un interval de timp
+rezonabil;
+b) dreptul de a fi reprezentat de avocat pe cheltuiala persoanei;
+c) dreptul de a fi infonnat corect §i la timp despre invinuirea adusa
+de incalcare a regleinentarilor anti-doping;
+d) dreptul de acces la dovezi relevante si dreptul de a prezenta
+dovezi relevante, dreptul de a depune concluzii scrise si orale, dreptul de a
+chema si examina martori;
+e) dreptul persoanei la un interpret pe durata audierii, desemnat de
+completul care solutioneaza cauza, persoana urmand a suporta costurile;
+f) dreptul sportivului sau al altei persoane de a solicita o audiere
+publica. ANAD poate de asemenea solicita o audiere publica, cu conditia ca
+sportivul sau cealalta persoana sa isi fi exprimat consimtamantul in scris in
+acest sens;
+g) dreptul la o decizie in forma scrisa, motivata, datata §i
+comunicata intr-un timp rezonabil.
+(2) In situatia in care Comisia de audiere sau Comisia de apel
+considera necesara prezenfa la audieri a unor persoane, altele decat sportivul
+sau o alta persoana impotriva careia a fost formulata acuzatia de incalcare a
+reglementarilor anti-doping, acestea sunt obligate sa se prezinte in locul, ziua
+§i la ora comunicate, avand obligafia sa declare tot ceea ce §tiu cu privire la
+posibila incalcare a reglementarilor anti-doping.
+(3) Solutionarea cauzelor in fata Comisiei de audiere sau a Comisiei
+de apel se desfasoara cu celeritate, in termen de 6 luni de la data sesizarii
+Comisiei de audiere, respectiv de la data sesizarii Comisiei de apel, cu
+posibilitatea prelungirii duratei, in cazuri temeinic motivate.
+(4) Amanarea pronuntarii deciziilor nu poate depasi 15 zile de la
+data sedintei in care completul a administrat toate probele solicitate de parti si
+a decis inchiderea dezbaterilor asupra cauzei.
+(5) Deciziile pronuntate de catre Comisia de audiere si de catre
+Comisia de apel se redacteaza in maximum 30 de zile de la pronuntare.
+
+48
+(6) Deciziile Comisiei de audiere si ale Comisiei de apel se
+comunica partilor in termen de maximum 10 zile de la redactare si cuprind
+termenul de exercitare a caii de atac si organul jurisdictional la care se
+depune calea de atac. Alte entitati cu drept de apel in confonnitate cu art. Ill
+si art. 114 din prezenta lege trebuie notificate simultan in confonnitate cu
+Codul si cu Standardul international pentru gestionarea rezultatelor.
+Art. 77. - Organizatia anti-doping cu drept de a fonnula apel, cu
+privire la o decizie primita in confonnitate cu prevederile art. 83, poate
+solicita, in termen de 15 zile de la primirea deciziei, o copie a dosarului.
+Art. 78. - Deciziile Comisiei de audiere si ale Comisiei de apel pot
+fl atacate cu apel potrivit art. 110 si art. 113.
+Art. 79. - (1) Acuzatiile privind incalcarile reglementarilor anti-
+doping formulate impotriva sportivului de nivel intemalional §i nalional,
+personalului asistent al sportivilor sau altei persoane pot face obiectul unei
+audieri unice in fata Curtii de arbitraj sportiv, fara obligativitatea unei audieri
+preliminare, pe baza consimtamantului sportivului, personalului asistent al
+sportivului sau altor persoane, al ANAD si al WADA.
+(2) Daca sportivul, personalul asistent al sportivilor sau alta
+persoana si ANAD convin sa procedeze la o audiere unica la Curtea de
+arbitraj sportiv, ANAD va solicita acordul WADA cu privire la aceasta
+propunere. In situatia in care WADA nu este de acord, atunci cazul va fi
+judecat de Comisia de audiere de pe langa ANAD.
+(3) in situatia in care toate partile relevante convin sa sesizeze CAS
+ca unica instanta, in momentul inceperii procedurii, ANAD are obligatia sa
+notifice imediat organizatiile anti-doping cu drept de a formula apel, conform
+art. Ill si art. 114, astfel incat acestea sa poata interveni in proces.
+Art. 80. - (1) Suspendarea provizorie este o masura care se poate
+dispune in situatia in care sportivul, personalul asistent al sportivilor sau alta
+persoana, carora li s-a adus la cunostinta acuzatia de incalcare a
+reglementarilor anti-doping nu accepta suspendarea provizorie voluntara.
+(2) Suspendarea provizorie voluntara consta in acceptarea voluntara
+expresa de catre sportiv sau o alta persoana a unei masuri de suspendare
+provizorie.
+(3) Sportivii pot accepta, din proprie initiative, o masura de
+suspendare provizorie voluntara daca procedeaza astfel cel mai tarziu pana la;
+a) expirarea unui termen de 10 zile de la raportul analitic pentru proba
+B sau renuntarea la analizarea probei B sau a unui termen de 10 zile de la
+notificarea cu privire la orice alta incalcare a reglementarilor anti-doping; sau
+
+49
+b) data la care sportivul concureaza pentm prima oara dupa o astfel
+de raportare sau notificare.
+(4) Alte persoane pot accepta din proprie initiativa o masura de
+suspendare provizorie voluntara daca procedeaza astfel in tennen de 10 zile
+de la notificarea cu privire la incalcarea unei reglementari anti-doping.
+(5) Suspendarea provizorie a unui sportiv este obligatorie pe baza
+unui rezultat pozitiv al probei A sau a unui rezultat pozitiv din pasaportul
+biologic, raportat pentm o substanta interzisa sau o metoda interzisa, alta
+decat o substanta specifica sau o metoda specified.
+(6) Suspendarea provizorie a unui sportiv sau personalului asistent al
+sportivilor ori a oricarei alte persoane este de asemenea impusa in cazul
+incalcarilor reglementarilor anti-doping prevazute la art. 2 alin. (2) lit. e) - i) si k).
+(7) Suspendarea provizorie, conform alin. (5) si (6), se dispune prin
+decizia presedintelui ANAD care sesizeaza de indata Comisia de audiere in
+vederea audierii in regim de urgenta a sportivului sau altei persoane.
+(8) Perioada de suspendare provizorie poate fi eliminata in situatia
+in care sportivul dovede§te in fata Comisiei de audiere ca rezultatul pozitiv ar
+fi putut fi cauzat de utilizarea unui produs contaminat, sau incalcarea
+presupune o substanta de abuz si sportivul face dovada ca are dreptul la o
+reducere a sanctiunii conform art. 87.
+(9) Nu poate fi contestata cu apel decizia unui organism de audiere de
+a nu elimina o masura de suspendare provizorie obligatorie in temeiul
+sustinerilor unui sportiv referitoare la un produs contaminat precizat la alin. (8).
+(10) Posibilitatea unui apel in regim de urgenta impotriva unei
+masuri de suspendare provizorie sau a unei decizii de a nu impune o
+suspendare provizorie este prevazuta la art. 110 alin. (3) lit. j).
+(11) Daca nu s-a comunicat deja in temeiul unei alte prevederi din
+prezenta lege, impunerea unei masuri de suspendare provizorie comunicata
+unui sportiv sau unei alte persoane sau acceptarea voluntara a unei masuri de
+suspendare provizorie, sau revocarea uneia dintre acestea, trebuie comunicata
+imediat de catre ANAD in atentia organizatiilor nationale anti-doping si
+federatiilor intemationale de care apartine sportivul sau alta persoana si in
+atentia WAD A si trebuie imediat faportata in ADAMS.
+CAPITOLULIX
+Confidenfialitate §i raportare
+Art. 81. - (1) Numele sportivului sau altei persoane fata de care s-a
+formulat acuzatia de incalcare a reglementMlor anti-doping, substanta sau
+metoda interzisa si natura incalcarii, precum si daca sportivul sau o alta persoana
+face obiectul unei masuri de suspendare provizorie vor fi facute publice de catre
+ANAD, dupa in^tiinfarea acestora si a organizatiilor anti-doping relevante.
+
+50
+(2) In termen de 20 de zile de la data la care deciziile cu privire la
+incalcmle anti-doping an ramas definitive potrivit prezentei legi, ANAD
+trebuie sa faca publica decizia dispusa incluzand sportul, reglementarea anti-
+doping incalcata, numele sportivului sau al altei persoane care a savarsit
+incalcarea, substan^a interzisa sau metoda interzisa implicata, daca este cazul,
+precum §i consecin^ele impuse.
+(3) In termen de 20 de zile, ANAD trebuie de asemenea sa faca
+publice rezultatele deciziilor luate in apel in cazurile de incMcare a
+reglementarilor anti-doping, incluzand §i informatiile precizate mai sus.
+(4) in toate cazurile in care s-a stabilit, dupa o procedura de audiere
+sau de apel, ca un sportiv sau o alta persoana nu a savarsit o incalcare a
+reglementarilor anti-doping, faptul ca decizia a fost atacata cu apel poate fi
+facut public. Cu toate acestea, decizia si faptele care stau la baza ei pot fi
+facute publice numai cu consim^amantul sportivului sau al altei persoane care
+face obiectul deciziei. ANAD trebuie sa depuna eforturi rezonabile pentru a
+ob^ine acest consimtamant §i, in situatia in care il obtine, va face publica
+decizia in integralitatea sa sau intr-o forma redactata pe care sportivul sau o
+alta persoana sa o aprobe.
+(5) Informa^iile facute publice potrivit alin. (l)-(4) sunt prezentate §i
+pastrate pe perioada suspendarii pe pagina de internet a ANAD §i ale
+federafiilor sportive nafionale responsabile, acolo unde acestea exista, dar nu
+mai pufin de o luna.
+(6) Cu exceptia prevederilor alin. (1), pre§edintele ANAD sau, in
+lipsa acestuia, inlocuitorul sau poate formula comentarii publice cu referire la
+aspectele specifice ale unui caz aflat in desfa§urare, doar ca raspuns la
+comentarii publice atribuite sportivului, altei persoane, sau anturajului
+acestora sau altor reprezentanti, sau bazate pe informatii fumizate de acestia.
+Altfel, nicio organizafie anti-doping sau laborator sau reprezentant oficial al
+acestora nu va face comentarii publice cu referire la aspectele specifice ale
+unui caz aflat in desfa§urare.
+(7) Infonnarea publica obligatorie prevazuta la alin. (2) nu va fi
+necesara in cazurile in care sportivul sau o alta persoana este un minor, o
+persoana protejata sau sportiv practicant al sportului recreativ. Orice
+informare publica facultativa intr-un caz ce prive§te un minor, o persoana
+protejata sau sportiv practicant al sportului recreativ va fi corelata
+proportional cu faptele §i circumstanfele cazului.
+
+51
+Art. 82. - ANAD va notifica toate entitalile prevazute la art. Ill
+alin. (1) lit. a) - c), e) si g) si art. 114 in legatura cu deciziile referitoare la
+faptul ca incalcarea nu a avut loc, impunerea unei masuri de suspendare
+provizorie, acceptarea unei sanctiuni fara parcurgerea procedurii de audiere
+de catre un sportiv sau o persoana din cadrul personalului asistent al
+sportivilor sau alta persoana.
+Art. 83. - Deciziile cu privire la incalc^i ale reglementarilor anti-
+doping vor include toate motivele avute in vedere in pronuntarea deciziei,
+inclusiv, daca este cazul, motivarea opliunii de a nu impune sancliunea cea
+mai severa.
+Art. 84. - Un element obligatoriu al fiecarei sanc|iuni consta in
+publicarea automata a acesteia, conform prevederilor Codului si ale
+Standardului international pentru gestionarea rezultatelor.
+CAPITOLUL X
+Sanctiuni
+Art. 85. - (1) O incalcare a reglementarilor anti-doping intr-un
+sport individual prevazuta la art. 2 alin. (2) in legatura cu o testare in
+competitie duce automat la descalificarea rezultatelor individuale oblinute in
+acea competitie, cu toate consecintele decurgand de aici, inclusiv retragerea
+oricaror medalii, puncte si premii.
+(2) O incalcare a reglementarilor anti-doping produsa in cursul sau
+in legatura cu o manifestare sportiva, poate sa determine - conform deciziei
+organismului sub egida caruia se desfasoara manifestarea sportiva -
+descalificarea tuturor rezultatelor individuale obfinute de sportivul in cauza in
+cadrul acelei manifestari sportive, cu toate consecinfele decurgand de aici,
+inclusiv retragerea tuturor medaliilor, punctelor §i premiilor, cu excepfia celor
+prevazute la alin. (3). Printre factorii de care trebuie sa se fina seama cand se
+decide asupra descalificarii altor rezultate din cadrul unei manifestari sportive
+se numara, de exemplu, gravitatea incalcarii reglementarilor anti-doping §i
+daca sportivul a fost testat negativ la celelalte competifii.
+(3) In situatia in care sportivul dovede§te lipsa vinovafiei sau
+neglijenfei in legatura cu incalcarile prevazute la alin. (2), rezultatele
+individuale ale sportivului la celelalte competipi nu vor fi descalificate decat
+daca rezultatele sportivului in competipi altele decat cea in care s-a produs
+incalcarea reglementarilor anti-doping ar fi putut fi afectate de incalcarea de
+catre sportiv a prevederilor art. 2 alin. (2).
+
+52
+A
+(4) In plus fa^a de descalificarea automata a rezultatelor oblinute in
+competi|ia in cadrul careia s-a prelevat proba pozitiva, prin aplicarea alin. (1),
+toate celelalte rezultate oblinute de sportiv incepand cu data prelevarii probei
+pozitive, fie in competilie, fie in afara competiliei, sau cu data savar§irii
+oricarei alte incalcari a dispoziliilor art. 2 alin. (2) §i pana la data inceperii
+perioadei de suspendare provizorie sau de suspendare vor fi descalificate, cu
+toate consecinlele ce rezulta din aceasta, inclusiv retragerea de medalii,
+puncte §i premii, cu excep^ia cazului in care principiul echitatii prevede altfel.
+Art. 86. - (1) Faptele prevazute la art. 2 alin. (2) lit. a), b) §i f) se
+sanc^ioneaza cu suspendarea din activitatea sportiva pe o perioada de 4 ani,
+cu posibilitatea eliminarii, reducerii sau inghetarii in conformitate cu art. 93,
+94 sau 99:
+a) cand incalcarea reglementarilor anti-doping nu presupune o
+substan^a specified sau o metoda specified cu excep^ia cazului in care sportivul
+sau o altd persoand dovede§te cd incdlcarea nu a fost sdvarsitd cu inten|ie;
+b) cand incdlcarea reglementdrii anti-doping presupune o substan^d
+specified sau metodd specified, iar ANAD poate proba cd s-a sdvarsit cu intenfie;
+c) in situatia in care nu sunt aplicabile prevederile de la lit. a) §i b),
+in conformitate cu art. 88, perioada de suspendare va fi de 2 ani.
+(2) in sensul dispozitiilor prezentului articol expresia cu inteniie
+este menitd sd identifice sportivii sau alte persoane care au adoptat o conduitd
+despre care §tiau cd reprezintd o incdlcare a reglementdrilor anti-doping sau
+in relafie cu care §tiau cd existd un rise semnificativ ca respectiva conduitd sd
+constitute sau sd dued la o incdlcare a reglementdrilor anti-doping, §i, in mod
+vddit au desconsiderat acest rise.
+(3) O incdlcare a reglementdrilor anti-doping avand ca temei un
+rezultat analitic pozitiv pentru o substanfd care este interzisd numai in
+competifie va fi prezumatd ca fiind sdvarsitd fard intenfie, dacd substanfa este
+o substanfd specified §i sportivul poate dovedi cd substanfa interzisd a fost
+utilizatd in afara competifiei.
+(4) O incdlcare a reglementdrilor anti-doping avand ca temei un
+rezultat analitic pozitiv pentru o substanfd care este interzisd numai in
+competifie va fi consideratd ca fiind sdvarsitd fard intenfie, dacd substanfa nu
+este 0 substanfd specified §i sportivul poate dovedi cd substanfa interzisd a
+fost utilizatd in afara competifiei intr-un context care nu a avut legdturd cu
+performanfa in sport.
+Art. 87. - (1) Fdrd a aduce atingere celorlalte prevederi ale art. 86,
+in situatia in care incdlcarea reglementdrilor anti-doping presupune o
+substantd de abuz:
+
+53
+a) daca sportivul poate stabili ca orice ingerare sau utilizare a unei
+substante de abuz s-a produs in afara competitiei si nu a avut legatura cu
+performanta in sport, atunci perioada de suspendare este de trei luni;
+b) totodata, perioada de suspendare poate fi redusa la o luna daca
+sportivul sau o alta persoana fmalizeaza in mod adecvat un program de
+tratament pentru substante de abuz aprobat de ANAD.
+(2) Perioada de suspendare, stabilita in temeiul alin. (1), nu face
+obiectul niciunei reduceri in temeiul dispozitiilor art. 94.
+A
+Art. 88. - In situatia in care ingerarea, utilizarea sau posesia se
+produc in competitie si sportivul poate dovedi ca imprejurarile referitoare la
+ingerare, utilizare sau posesie nu au avut legatura cu performanta in sport,
+atunci acestea nu vor fi considerate ca savarsite cu intentie in sensul art. 86
+alin. (1) si nu vor constitui un temei pentru a se retine circumstante agravante
+in sensul art. 90.
+Perioada de suspendare pentru incalcari ale
+reglementarilor anti-doping, altele decat cele prevazute in art. 86 - 88, daca
+nu sunt aplicabile prevederile art. 96 sau 99, va fi dupa cum unneaza:
+a) pentru incalcarea prevederilor art. 2 alin. (2) lit. c) sau e) perioada
+de suspendare va fi de 4 ani, cu urmatoarele excep^ii; in situatia in care
+sportivul nu se prezinta pentru prelevarea probei, daca acesta poate dovedi ca
+incalcarea reglementarilor anti-doping a fost savarsita fara intentie, perioada
+de suspendare va fi de 2 ani; in toate celelalte cazuri, in situatia in care
+sportivul sau alta persoana poate face dovada unor circumstante exceptionale
+care justified o reducere a perioadei de suspendare, perioada de suspendare va
+fi cuprinsa intre 2 si 4 ani, in functie de gradul de vinovatie al sportivului sau
+altei persoane; sau in cazul in cai'e este implicata o persoana protejata sau un
+sportiv care practica sportul recreativ, perioada de suspendare va fi de
+maximum 2 ani pana la minim o mustrare si nicio perioada de suspendare, in
+functie gradul de vinovatie al persoanei protejate sau sportivului care practica
+sportul recreativ;
+Art. 89.
+b) pentru incalcarea prevederilor art. 2 alin. (2) lit. d), perioada de
+suspendare va fi de 2 ani, cu posibilitatea reducerii la o perioada minima de
+un an, in ftincfie de gradul de vinovafie a sportivului. Individualizarea
+alegerii intre o perioada de suspendare de 2 ani §i respectiv de un an
+prevazuta de acest articol nu este aplicabila sportivilor cu un istoric de
+modificare a infomiatiilor de localizare de ultim moment sau cu o conduita
+similara care genereaza o suspiciune grava ca sportivul a incercat sa evite
+procedura de testare;
+
+54
+c) pentru incalcarea prevederilor art. 2 alin. (2) lit. g) sau h),
+perioada de suspendare va fi de minimum 4 ani mergand pana la suspendarea
+pe viata, in func^ie de severitatea incalcarii. O incalcare a art. 2 alin. (2) lit. g)
+sau h) care implica o persoana protejata va fi considerata drept o incalcare
+deosebit de grava §i, daca este savarsita de un membru al personalului
+asistent al sportivului, pentru incalcari altele decat cele care presupun o
+substanfa specifica, va fi sanctionata cu suspendarea pe viafa a respectivului
+membru al personalului asistent al sportivului. In plus, incalcarile grave ale
+art. 2 alin. (2) lit. g) sau h), care pot constitui §i incalcari ale unor legi §i
+reglementari din afara domeniului sportului, vor fi raportate autoritafilor
+administrative, profesionale §ijudiciare competente;
+d) pentru incalcarea prevederilor art. 2 alin. (2) lit. i), perioada de
+suspendare va fi de la un minimum de 2 ani pana la suspendare pe viata, in
+flmcfie de gravitatea incalcarii;
+e) pentru incalcarea prevederilor art. 2 alin. (2) lit. j), perioada de
+suspendare va fi de 2 ani, cu posibilitatea reducerii perioadei la un minimum
+de un an, in flmcfie de gradul de vinovafie a sportivului sau a altei persoane §i
+de alte circumstance ale cazului;
+f) pentru incalcarea prevederilor art. 2 alin. (2) lit. k), perioada de
+suspendare va fi de minimum 2 ani pana la suspendarea pe viata, in funcfie
+de gravitatea incalcarii savarsite de sportiv sau de alta persoana.
+Art. 90. - In situatia in care ANAD stabileste intr-un caz individual
+care presupune o incalcare a reglementarilor anti-doping, alta decat
+incalcarile prevazute la art. 2 alin. (2) lit. g) - i) si k), ca exista circumstante
+agravante care justifica impunerea unei perioade de suspendare mai mare
+decat sanctiunea standard, atunci perioada de suspendare aplicabila va fi
+marita cu o perioada suplimentara de suspendare de pana la 2 ani, in functie
+de gravitatea incalcarii si natura circumstantelor agravante, cu exceptia
+cazului in care sportivul sau o alta persoana poate stabili ca nu a savarsit cu
+buna stiinta incalcarea reglementarilor anti-doping.
+Art. 91. - (1) Pentru incalcarea reglementMlor anti-doping prevazute
+la art. 2 alin. (2) lit. e) si g) - k), prin derogare de la prevederile art. 492 si 493
+din Ordonanta de urgenta a Guvemului nr. 57/2019 privihd Codul
+administrativ, cu modificarile si completarile ulterioare si ale art. 252 alin. (1)
+din Legea nr. 53/2003 - Codul Muncii, republicat, cu modificarile si
+completarile ulterioare, presedintele ANAD dispune destituirea din functie,
+sau, dupa caz, incetarea contractului individual de munca, in termen de 30 de
+zile de la data comunicarii deciziei emise de organul competent potrivit legii.
+
+55
+(2) Pentru incalcarea reglementarilor anti-doping prevazute la art. 2
+alin. (2) lit. e) si g) - k), prin derogare de la prevederile art. 252 alin. (1) din
+Legea nr. 53/2003, republicata, cu modificarile si completarile ulterioare,
+directorul LCD dispune incetarea contractului de munca, ca sanctiune
+disciplinary, pentru personalul contractual de conducere si de executie al
+Laboratorului de control doping, in termen de 30 de zile de la data
+comunicarii deciziei emise de organul competent potrivit legii.
+(3) Deciziile prevazute la alin. (1) si (2) stabilesc savarsirea abaterii
+grave, astfel cum aceasta este definita la art. 4 pet. 1, in conditiile si cu
+procedura prevazute de prezenta lege.
+(4) Sanctiunea destituirii din functie a presedintelui, vicepresedintelui
+ANAD, secretarului general al ANAD sau, dupa caz, a incetarii raporturilor de
+munca a directorului sau directorului adjunct al Laboratorului de Control
+Doping se dispune de catre prim-ministru sau, dupa caz, de catre secretarul
+general al Guvemului, in tennen de 30 de zile de la data comunicarii deciziei
+Comisiei de audiere, ramasa definitiva.
+(5) Dispozitiile alin. (1) - (3) se aplica in mod corespunzator
+persoanelor care ocupa functii de demnitate publica, functii publice, functii
+de conducere sau calitati, indiferent de forma de exercitare a acestora, si/sau
+functii pentru care angajarea se face prin contract individual de munca, de
+catre prim-ministru, conducatorul autoritatii sau institutiei publice sau, dupa
+caz, organele de conducere ale uneia dintre autoritatile si institutiile publice si
+ale persoanelor juridice de interes public sau persoanelor juridice de drept
+privat mentionate la art. 1 alin. (5) lit. d) - k) din prezenta lege.
+Art. 92. - Prevederile prezentului capitol se completeaza cu
+prevederile Legii nr. 104/2008 privind prevenirea si combaterea producerii si
+traficului ilicit de substante dopante, republicata, cu modificarile si
+completarile ulterioare.
+CAPITOLUL XI
+Eliminarea, reducerea sau inghelarea perioadei de suspendare
+sau a altor consecinie
+Art. 93. - Daca un sportiv sau o alta persoana poate demonstra,
+intr-un caz particular, ca nu i se poate imputa vinova|ia sau neglijenta,
+perioada de suspendare altfel aplicabila va fi eliminata.
+Art. 94. - (1) Reducerea perioadei de suspendare in temeiul lipsei
+vinova^iei sau neglijenlei semnificative pentru incalcarile reglementarilor
+anti-doping prevazute la art. 2 alin. (2) lit. a), b) §i f) se aplica in urmatoarele
+situa^ii:
+
+56
+a) in situatia in care incalcarea reglementarilor anti-doping
+presupune o substan^a specifica, alta decat o substanta de abuz, sau o metoda
+specifica, iar sportivul sau o alta persoana poate dovedi lipsa vinovatiei sau
+neglijen^ei seninificative, atunci sanctiunea va fi sub fonna de mustrare §i
+fara perioada de suspendare, pana la un maximum de 2 ani de suspendare, in
+func^ie de gradul de vinova^ie a sportivului sau a altei persoane;
+b) in situatia in care sportivul sau o alta persoana poate dovedi atat
+lipsa vinovatiei sau neglijentei semnificative cat §i faptul ca substanta
+interzisa detectata, alta decat o substanta de abuz, provine dintr-un produs
+contaminat, atunci sanctiunea va fi sub forma de mustrare §i fara perioada de
+suspendare, pana la un maximum de 2 ani de suspendare, in funcfie de gradul
+de vinovafie a sportivului sau a altei persoane;
+c) in situatia in care incalcarea reglementarilor anti-doping, care nu
+implica o substanta de abuz, este savarsita de o persoana protejata sau de un
+sportiv care practica sportul recreativ, iar persoana protejata sau sportivul
+care practica sportul recreativ poate sa dovedeasca lipsa vinovatiei sau a.
+neglijentei semnificative, atunci sanctiunea va fi sub forma de mustrare fara
+perioada de suspendare, pana la un maximum de 2 ani de suspendare, in
+funcfie de gradul de vinovafie a sportivului sau a altei persoane.
+(2) Toate reducerile aplicate in temeiul alin. (1) se exclud reciproc
+si nu pot fi cumulate.
+Art. 95. - (1) Daca un sportiv sau o alta persoana poate dovedi intr-un
+caz particular, caruia nu i se aplica prevederile art. 93, ca nu poarta
+raspunderea unei vinovafii sau neglijente semnificative, atunci, in funcfie de
+reducerea suplimentara sau eliminarea suspendmi in confonnitate cu art. 98,
+perioada de suspendare altfel aplicabila poate fi redusa in funcfie de gradul de
+vinovafie a sportivului sau a altei persoane, dar aceasta nu poate f! mai mica
+decat jumatatea perioadei de suspendare altfel aplicabila.
+(2) Daca perioada de suspendare consta in suspendarea pe viata,
+perioada redusa in conformitate cu prezentul articol nu poate fi mai mica de 8 ani.
+Art. 96. - Dispozitiile art. 95 se aplica oricaror incalcari ale
+reglementarilor anti-doping, cu excepfia acelora in care intenfia constituie un
+element al incalcarii reglementarilor anti-doping sau constituie un element al
+unei anumite sancfiuni ori in cazul situatiilor prevazute la art. 94, art. 97 - 100,
+in temeiul gradului de vinovafie a sportivului sau a altei persoane.
+
+57
+Art. 97. - (1) in situatia in care un sportiv sau alta persoana
+recunoa§te din propria ini|iativa ca a savar§it o incalcare a reglementarilor
+anti-doping, inainte de primirea instiintarii pentru prelevarea de probe care ar
+putea dovedi o incalcare a reglementarilor anti-doping sau, in cazul unei
+incalcari a reglementarilor anti-doping alta decat cea prevazuta la art. 2 alin. (2)
+lit. a), inaintea comunicarii primei in§tiintari referitoare la incalcarea
+reglementarilor anti-doping gestionate in conformitate cu art. 52 si, aceasta
+recunoa§tere este singura dovada de incredere privind incalcarea la momentul
+recunoa§terii, atunci perioada de suspendare poate fi redusa, insa aceasta nu
+va fi mai mica de jumatate din perioada de suspendare altfel aplicabila.
+(2) Dispozitiile alin. (1) nu se aplica in situatia in care sportivul sau
+o alta persoana m^uriseste si recunoasterea survine dupa ce acesta crede ca
+urmeaza sa fie prins.
+(3) Reducerea care se aplica din perioada suspendarii trebuie sa se
+faca in corela^ie cu probabilitatea ca sportivul sau alta persoana sa fl fost
+depistati, daca nu ar fi ales sa recunoasca din proprie inifiativa.
+Art. 98. - (1) Anterior unei decizii atacate cu apel sau expirarii
+termenului acordat pentru formularea apelului, ANAD poate sa suspende o
+parte din consecintele dispuse, altele decat descalificarea si informarea publica
+obligatorie, intr-un caz individual in situatia in care sportivul sau o alta persoana
+a acordat un ajutor substantial unei organizafii anti-doping, unei autoritafi
+judiciare sau unui organism disciplinar profesional care sa determine:
+a) descoperirea sau dovedirea de catre o organizafie anti-doping a
+unei incalcari a reglementarilor anti-doping savarsita de o alta persoana;
+b) descoperirea sau dovedirea de catre un organism judiciar sau
+disciplinar a unei fapte de natura penala sau a incalcarii unor reguli
+profesionale de catre o alta persoana, iar infonnafia fumizata de persoana
+care acorda un ajutor substantial sa fie adusa la cunostinta ANAD;
+c) initierea procedurilor de catre WADA impotriva unui semnatar, a
+unui laborator acreditat de WADA sau unei unitati de management al
+pasaportului biologic al sportivului privind neconformitatea cu Codul,
+standardul international sau documentul tehnic;
+d) cu acordul WADA, dovedirea de catre un organism judiciar sau
+disciplinar a unei fapte de natura penala sau a incalcarii unor reguli
+profesionale sau sportive care decurg din incalcarea intergritatii sportive, alta
+decat dopajul.
+(2) Dupa o decizie dispusa in apel conform capitolului XIV din
+prezenta lege, sau dupa expirarea termenului limita pentru a formula apel,
+ANAD poate suspenda o parte a consecinfelor altfel aplicabile numai cu
+aprobarea WADA §i a federatiei Internationale relevante.
+
+58
+(3) Durata cu care perioada de suspendare altfel aplicabila poate fi
+inghe^ata se va stabili in func|ie de gravitatea incalcarii anti-doping savarsita
+de sportiv sau de alta persoana §i de relevan^a ajutomlui substantial oferit de
+sportiv sau de alta persoana in efortul de a elimina dopajul din sport,
+neconformitatea cu Codul si/sau incalcari ale intergritatii sportului.
+(4) Nu se poate ingheta mai mult de 3/4 din perioada de suspendare
+altfel aplicabila.
+(5) In situatia in care perioada de suspendare altfel aplicabila este
+suspendarea pe viata, atunci perioada de suspendare ramasa de executat nu
+va putea fi mai mica de 8 ani.
+(6) in sensul prevederilor alin. (3) - (5), perioada de suspendare
+altfel aplicabila nu include nicio perioada de suspendare care ar putea fi
+adaugata conform dispozitiilor legale privind incalcmle multiple.
+(7) ANAD trebuie sa permita sportivului sau altei persoane sa fumizeze
+informatii in conditiile unui acord fara prejudiciu, daca se solicita astfel de catre
+un sportiv sau o alta persoana care doreste sa acorde ajutor substantial.
+(8) In situatia in care sportivul sau o alta persoana inceteaza
+cooperarea §i fumizarea de ajutor substantial complet §i credibil pe care s-a
+intemeiat suspendarea consecintelor, atunci ANAD va reinstitui consecintele
+dispuse initial.
+(9) In situatia in care ANAD decide sa reinstituie sau decide sa nu
+reinstituie consecintele suspendate, acea decizie poate fi contestata de orice
+persoana cu drept de apel, conform prevederilor art. Ill si art. 114.
+A
+Art. 99. - (1) In vederea incurajarii sportivilor §i a altor persoane sa
+acorde ajutor substantial ANAD si altor organizatii anti-doping, la solicitarea
+ANAD sau la solicitarea sportivului sau a altei persoane care a savarsit sau se
+prezuma ca a savarsit o incalcare a unei reglementari anti-doping sau o alta
+incalcare a Codului, WADA i§i poate da acordul, in orice etapa a procesului
+de gestionare a rezultatelor, inclusiv dupa o decizie ramasa definitive in apel,
+cu privire la ceea ce considera a fi o masura adecvata de inghetare a perioadei
+de suspendare altfel aplicabila sau de suspendare a altor consecinte.
+(2) In circumstante exceptional, in temeiul sprijinului substantial,
+WADA i§i poate da acordul pentru masuri de inghetare a unei perioade de
+suspendare sau pentru suspendarea altor consecinte mai grave decat cele
+altfel prevazute la art. 87 si 88, sau chiar pentru eliminarea perioadei de
+suspendare, a informarii publice obligatorii §i/sau anularea masurii de
+retumare a premiilor in bani sau a masurii de aplicare a unor amenzi sau
+costuri. Aprobarea acordata de catre WADA va face obiectul reinstituirii
+consecintelor prevazute la art. 85 si 89.
+(3) Fara a aduce atingere prevederilor art. 110, deciziile luate de
+WADA in contextul prezentului articol nu pot fi atacate cu apel.
+
+59
+/V
+^
+Art. 100. - (1) In situatia in care, in temeiul ajutorului substantial,
+ANAD suspenda o parte a unei sanctiuni altfel aplicabile, aceasta va notifica in
+conformitate cu art. 81 - 83 decizia motivata celorlalte organizatii anti-doping
+care au drept de a fonnula apel, asa cum se prevede la art. Ill si 114 din
+prezenta lege.
+(2) In circumstante absolut exceptionale, daca WADA decide ca ar
+fi in interesul optim al efortului anti-doping, aceasta poate autoriza ANAD sa
+incheie acorduri de confldentialitate care sa limiteze sau sa amane publicarea
+acordurilor referitoare la ajutorul substantial sau a informatiilor privind
+natura ajutorului substantial acordat.
+A
+Art. 101. - (1) In situatia in care un sportiv, personalul asistent al
+sportivilor sau o alta persoana dovede§te ca are dreptul la eliminarea sau
+reducerea unei sanctiuni, fiindu-i incidente dispozitiile art. 94 - 99, inainte de
+aplicarea oricarei masuri de reducere sau de suspendare, conform
+prevederilor art. 99 si 100, perioada de suspendare altfel aplicabila va fi
+stabilita conform art. 87 si 94-98.
+(2) Daca sportivul sau o alta persoana dovedeste ca ii sunt aplicabile
+prevederile art. 85 - 90 cu privire la reducerea sau inghetarea perioadei de
+suspendare, atunci perioada de suspendare poate fi redusa sau inghetata, dar
+nu sub pragul de 1/4 din perioada de suspendare altfel aplicabila.
+Art. 102. - (1) In situatia in care sportivul sau alta persoana, dupa
+instiintarea sa de catre ANAD cu privire la o posibila incalcare a
+reglementarilor anti-doping pentru care sanctiunea prevazuta este de 4 ani sau
+mai mare, inclusiv orice perioada de suspendare ca urmare a retinerii
+circumstantelor agravante pentru incalcarea reglementarilor anti-doping,
+admite incalcarea si accepta perioada de suspendare prevazuta in cel mult 20
+de zile
+de la primirea notificarii privind acuzatia de incalcare a
+reglementarilor anti-doping, sportivul sau alta persoana poate beneficia de o
+reducere de un an a perioadei de suspendare impusa de ANAD.
+(2) In situatia in care sportivul sau o alta persoana primeste o
+reducere de un an a perioadei de suspendare in temeiul alin. (1), nu mai poate
+fi aplicata nicio alta reducere a perioadei de suspendare in temeiul altor
+dispozitii legale.
+Art. 103. - (1) In situatia in care sportivul sau o alta persoana
+recunoaste o incalcare a reglementarilor anti-doping dupa ce aceasta i-a fost
+adusa la cunostinta de catre ANAD si accepta consecintele agreate de ANAD
+si WADA, la latitudinea exclusiva a acestora atunci:
+
+60
+a) sportivul sau alta persoana poate beneficia de o reducere a
+perioadei de suspendare pe baza unei evaluari intreprinsa de ANAD si
+WADA, cu aplicarea art. 85 - 90 si art. 93 - 99 in raport cu presupusa
+incalcare a reglementarilor anti-doping, gravitatea faptei, gradului de
+vinovatie a sportivului sau a altei persoane si gradul de promptitudine in
+recunoasterea incalcarii de catre sportiv sau alta persoana; si
+b) perioada de suspendare poate incepe cel mai devreme de la data
+recoltarii probei sau de la data la care a avut loc o alta incalcare a
+reglementarilor anti-doping.
+(2) Cu toate acestea, in fiecare caz in care prezentul articol se
+aplica, sportivul sau o alta persoana trebuie sa ramana suspendat cel putin
+jumatate din perioada de suspendare convenita care va incepe cel mai
+devreme de la data in care sportivul sau o alta persoana a acceptat impunerea
+unei sanctiuni sau a unei suspendari provizorii, care a fost ulterior respectata
+de catre sportiv sau o alta persoana.
+(3) Decizia WADA si a ANAD de a incheia sau nu un acord
+privind solutionarea unui caz, precum si durata reducerii aplicate si data
+inceperii perioadei de suspendare nu constituie aspecte deduse judecatii sau
+revizuirii de catre un organism de audiere si nu pot fi atacate cu apel.
+Art. 104. - Daca un sportiv sau alta persoana doreste sa incheie un
+acord privind solutionarea unui caz potrivit prevederilor art. 103, ANAD trebuie
+sa permita sportivului sau respectivei persoane sa discute despre o recunoastere
+a incalcarii reglementarilor anti-doping in cadml unui acord fara prejudicii.
+CAPITOLUL XII
+Reglementari pentru cazurile de incalcari repetate
+Art. 105. - (1) Perioada de suspendare in cazul comiterii unei a
+doua incalcari a reglementarilor anti-doping de catre un sportiv sau o alta
+persoana va fi cea mai lunga dintre urmatoarele:
+a) 6 luni; sau
+b) o perioada din intervalul cuprins intre suma dintre perioada de
+suspendare impusa pentru prima incalcare a unei reglementari anti-doping si
+perioada de suspendare altfel aplicabila celei de-a doua incalcari a
+reglementarilor anti-doping considerata ca si cum ar fi fost o prima incalcare
+si respectiv dublul perioadei de suspendare altfel aplicabila pentru a doua
+incalcare a reglementarilor anti-doping considerata ca §i cum ar fi fost o
+prima incalcare.
+(2) Perioada de suspendare din acest interval trebuie stabilita pe
+baza tuturor circumstantelor si a gradului de vinovatie a sportivului sau a altei
+persoane cu privire la a doua incalcare.
+
+61
+(3) O a treia incalcare a reglementarilor anti-doping va determina
+intotdeauna o suspendare pe viata, cu exceppa situapilor in care cea de-a treia
+incalcare indepline§te condipile pentru eliminarea sau reducerea perioadei de
+suspendare confonn art. 93 sau art. 94, sau presupune o incalcare prevazuta la
+art. 2 alin. (2) lit. d). In aceste cazuri particulare, perioada de suspendare va fi
+de la 8 ani la suspendarea pe viata.
+(4) Perioada de suspendare prevazuta la alin. (1) si (3) poate fi
+redusa ulterior prin aplicarea art. 99.
+(5) Urmatoarele situapi nu constitute incalcari ale reglementarilor
+anti-doping in sensul alin. (1) - (4):
+a) o incalcare a reglementarilor anti-doping pentru care sportivul
+sau o alta persoana poate dovedi lipsa vinovapei sau neglijentei;
+b) o incalcare a reglement^lor anti-doping sancponata potrivit art. 87.
+(6) in scopul aplicarii sancpunilor conform alin. (1) - (4), cu exceppa
+prevederilor alin. (7) si (8), o incalcare a reglementarilor anti-doping va fi
+considerata a doua incMcare doar daca ANAD poate dovedi ca sportivul sau
+alta persoana a savarsit incalcarea suplimentara, dupa ce sportivului sau altei
+persoane i-a fost adusa la cunostinta prima incalcare conform art. 51 p 52.
+(7) in situapa in care ANAD nu poate dovedi ca a notificat sportivul
+sau alta persoana cu privire la prima incalcare, incalcarile vor fi considerate
+impreuna, ca o singura prima incalcare a reglementarilor anti-doping §i
+sancpunea aplicata se va raporta la incalcarea care presupune sancpunea mai
+severa, inclusiv cu aplicarea circumstantelor agravante. Rezultatele obpnute
+la toate competipile incepand cu data precedentei incalcari a reglementarilor
+anti-doping vor fi descalificate, asa cum se prevede in art. 85.
+(8) in situapa in care ANAD stabileste ca un sportiv sau alta
+persoana savarseste o incalcare anti-doping suplimentara inainte de notificare
+si ca acea incalcare suplimentara a avut loc cu 12 luni sau mai mult inainte
+sau dupa prima incalcare notificata, perioada de suspendare pentru incalcarea
+suplimentara va fi calculata ca si cum incalcarea suplimentara constitute o
+prima incalcare de sine statatoare si aceasta perioada de suspendare se va
+executa succesiv, mai degraba decat simultan, cu perioada de suspendare
+impusa pentru incalcarea notificata mai devreme. In cazul in care se aplica
+prezentul alineat, incalcarile luate impreuna constitute o singura incalcare in
+sensul alin. (1) -(4).
+
+62
+(9) In situatia in care ANAD stabileste ca un sportiv sau o alta
+persoana a savarsit o incalcare a art. 2 alin. (2) lit. e) in legatura cu procedura
+de control doping pentru o presupusa incalcare subiacenta a reglementarilor
+anti-doping, incalcarea art. 2 alin. (2) lit. e) va fi tratata ca o prima incalcare
+de sine statatoare si perioada de suspendare pentru o astfel de incalcare va fi
+efectuata consecutiv, mai degraba decat simultan, cu perioada de suspendare,
+daca este cazul, impusa pentru incalcarea subiacenta a reglementarilor
+anti-doping. In situatia in care prezentul alineat se aplica, incalcarile luate
+impreuna constituie o singura incalcare in sensul alin. (1) - (4).
+(10) In situatia in care ANAD stabileste ca un sportiv sau alta
+persoana a savarsit a doua sau a treia incalcare a reglementarilor anti-doping
+in decursul unei perioade de suspendare, perioadele de suspendare pentru
+incalcarile multiple vor fi efectuate succesiv, mai degraba decat simultan.
+(11) In aplicarea dispozitiilor alin. (1) - (10), fiecare incalcare a
+reglementarilor anti-doping trebuie sa aiba loc in decursul aceleiasi
+perioade de 10 ani, pentru a fi considerate incalcari multiple.
+(12) Dispozitiile art. 103 si 104 se aplica si in cazul incalcarilor
+reglementarilor anti-doping repetate.
+CAPITOLUL XIII
+A.Inceputul perioadei de suspendare, statutul sportivilor, personalului
+asistent al sportivilor sau altor persoane pe perioada de suspendare
+si consecinte pentru echipe
+Art. 106. - (1) Perioada de suspendare incepe de la data emiterii
+deciziei finale de suspendare in urma audierii,, sau daca se renun|a la audiere
+sau aceasta nu are loc, de la data de la care aceasta este acceptata sau impusa.
+(2) Daca un sportiv sau o alta persoana executa o perioada de
+suspendare pentru o incalcare a reglementarilor anti-doping, o noua perioada
+de suspendare va incepe in prima zi dupa ce perioada de suspendare actuala
+va inceta.
+/V
+(3) In situatia in care s-au produs intarzieri substan^iale in procesul
+de audiere sau in alte aspecte ale controlului doping, si sportivul sau alta
+persoana poate stabili ca aceste intarzieri nu ii pot fi atribuite, organismul
+care aplica sanc^iunea poate dispune ca perioada de suspendare sa inceapa la
+o data anterioara, cel mai devreme la data prelevarii probei sau la data ultimei
+incalcari a reglementarilor anti-doping.
+(4) in condi(iile in care sunt aplicabile prevederile alin. (3), toate
+rezultateie competitionale ob(inute pe durata perioadei de suspendare,
+inclusiv in decursul suspendarii retroactive, vor fi descalificate.
+
+63
+(5) Durata suspendarii provizorii se deduce din perioada de
+suspendare impusa prin decizia de sanctionare, in cazul in care suspendarea
+provizorie este resp’ectata de catre sportivul sau persoana sanctionata cu
+suspendarea din activitatea sportiva.
+(6) Daca perioada de suspendare provizorie nu este respectata de
+sportivul sau persoana sanctionata, atunci aceasta nu se va deduce din
+perioada de suspendare aplicata.
+(7) Daca se aplica o perioada de suspendare ca rezultat al unei
+decizii care este ulterior contestata cu apel, atunci durata unei astfel de
+suspendari va fi dedusa din perioada de suspendare aplicata prin hot^area
+data in apel.
+(8) Sportivului sau persoanei care accepta in mod voluntar, in scris,
+suspendarea provizorie din partea ANAD si, ulterior respecta perioada de
+suspendare provizorie, aceasta i se va deduce din perioada de suspendare
+aplicata printr-o decizie defmitiva.
+(9) O copie a inscrisului privind acceptarea voluntara de catre
+sportiv sau de catre o alta persoana a perioadei de suspendare provizorie va fi
+comunicata fiecarei parti indrepta|ite sa primeasca in§tiin^area despre o
+posibila incalcare, conform art. 86.
+(10) Perioada de timp dinaintea datei de incepere a perioadei de
+suspendare provizorie sau suspendare provizorie voluntara nu se deduce din
+perioada de suspendare impusa printr-o decizie defmitiva, chiar daca sportivul
+a ales sa nu mai concureze sau daca a fost suspendat de catre echipa sa.
+(11) In sporturile de echipa, in situa^ia in care o suspendare este
+impusa cu privire la echipa, daca principiul echita(ii nu prevede altfel,
+perioada de suspendare va incepe cu data deciziei definitive a organismului
+de audiere cu privire la suspendare, sau, daca s-a renun(at la audiere, cu data
+la care suspendarea este acceptata sau altfel impusa. Orice perioada de
+suspendare provizorie aplicata echipei, fie impusa sau acceptata voluntar, va
+fi dedusa din perioada totala de suspendare care trebuie executata.
+Art. 107. - (1) Niciun sportiv sau alta persoana care face obiectul unei
+suspendari sau a unei suspends provizorii nu poate participa, pe parcursul unei
+perioade de suspendare sau suspendare provizorie, in nicio calitate, la nicio
+competitie sau activitate, alta decat programele autorizate de educa(ie
+anti-doping sau de reabilitare, autorizata sau organizata de catre un semnatar, o
+organiza(ie membra a semnatarului, de un club sau o alta organiza(ie membra a
+unei organiza(ii membre a unui semnatar sau la competi(ii autorizate sau
+organizate de ligi profesioniste sau de orice organizator de manifestari sportive
+de nivel national sau intema(ional sau la manifestari sportive de elita sau de
+nivel national finantate de un organism guvemamental sau organizate pe
+teritoriul Romaniei de un organizator neafiliat.
+
+64
+(2) Un sportiv sau o alta persoana care face obiectul unei perioade
+de suspendare mai mare de 4 ani poate participa ca sportiv, dupa executarea a
+4 ani din perioada de suspendare, la competitii sportive locale, care nu se afla
+sub inciden^a sau in orice alt mod sub autoritatea unui semnatar al Codului
+sau a unui membru al unui semnatar al Codului, dar numai daca acea
+competi^ie sportiva locala nu este de un nivel care ar putea altfel sa califice in
+mod direct sau indirect un sportiv sau o persoana sa concureze sau sa
+acumuleze puncte intr-un campionat national sau intr-o manifestare sportiva
+intema^ionala si nu presupune ca sportivul sau alta persoana sa lucreze in
+vreo modalitate cu persoane protejate.
+(3) Un sportiv sau o alta persoana aflata in perioada de suspendare
+are obligatia de a se supune testarii si de a raspunde la orice solicitari
+formulate de o organizatie anti-doping in vederea flimizarii infonnatiilor
+privind localizarea.
+(4) Ca o exceptie de la prevederile alin. (1) - (3), un sportiv poate
+reveni pentru a se antrena cu o echipa sau pentru a utiliza dotarile unui club
+sau unei organiza|ii membre a unei organiza^ii membre a unui semnatar, pe
+perioada mai scurta dintre:
+a) ultimele doua luni ramase din perioada de suspendare;
+b) ultimul sfert din perioada de suspendare impusa.
+(5) Un sportiv sau o alta persoana care incalca interdictia
+participarii pe parcursul unei suspendm provizorii, potrivit alin. (1) - (3), nu
+va primi nicio reducere pentru perioada de suspendare provizorie executata,
+iar rezultatele realizate printr-o astfel de participare vor fi descalificate.
+A,
+(6) In situatia in care un sportiv sau o alta persoana care a fost
+suspendat/(a) incalca interdic|ia de participare in perioada de suspendare
+descrisa la alin. (1) - (3), rezultatele unei asemenea participari vor fi
+descalificate §i o noua perioada de suspendare egala ca durata cu perioada
+inifiala de suspendare va fi adaugata la finalul perioadei de suspendare
+inifiala. Noua perioada de suspendare, inclusiv o mustrare sau nicio perioada
+de suspendare, poate fi modificata in funcfie de gradul de vinovafie a
+sportivului sau a altei persoane si de alte circumstance legate de cazul in
+spefa. Decizia daca un sportiv sau alta persoana a incalcat interdictia de
+participare, si daca este incidents o modificare, va fi luata de organizatia
+anti-doping a carei procedura de gestionare a rezultatelor a dus la impunerea
+perioadei de suspendare initiala. Aceasta decizie poate fi contestata cu apel.
+(7) Dispozifiile art. 62 sunt aplicabile §i personalului asistent al
+sportivului sau altei persoane care ajuta persoana sa incalce interdicfia de
+participare pe timpul perioadei de suspendare sau de suspendare provizorie.
+Sancfiunea pentru incalcarea art. 2 alin. (2) lit. i) pentru acest tip de sprijin se
+aplica de catre organizatia anti-doping cu autoritate in raport cu personalul
+asistent al sportivului sau alta persoana.
+
+65
+Art. 108. - Pentm orice incalcare a reglementarilor anti-doping care
+nu presupune o sanc^iune redusa in sensul art. 94 - 99 din prezenta lege, o
+parte sau intreg sprijinul fmanciar legat de sport sau alte beneficii legate de
+sport primite de o astfel de persoana vor fi retrase de catre semnatari,
+organizaliile membre ale seinnatarilor, de Ministerul Tineretului si Sportului
+sau, dupa caz, de catre Guvem.
+/V
+Art. 109. - (1) In situatia in care mai mult de un membru al unei
+echipe dintr-un sport de echipa a fost in§tiinlat despre o incalcare a
+reglementarilor anti-doping in sensul art. 51 in legatura cu o manifestare
+sportiva, organismul sub egida caruia se afla manifestarea sportiva va efectua
+testarea ^inta corespunzatoare a echipei pe durata manifestarii sportive.
+(2) In situatia in care mai mult de 2 membri ai unei echipe dintr-un
+sport de echipa sunt gasi^i vinovali de o incalcare a reglementarilor
+anti-doping prevazuta la art. 2 alin. (2) in perioada unei manifestari sportive,
+organismul sub egida caruia se organizeaza manifestarea sportiva va impune
+echipei o sanctiune corespunzatoare cum ar fi pierderea punctelor,
+descalificarea dintr-o competitie sau proba sau o alta sancfiune, pe langa
+orice consecinte dispose in sarcina sportivilor in cauza.
+(3) Organismul sub egida caruia se organizeaza o manifestare sportiva
+poate alege sa stabileasca pentm o manifestare reguli care sa impuna pentm
+sporturile de echipa consecinfe mai stricte decat cele prevazute la alin. (2) in
+legatura cu manifestarea in cauza. in mod similar, o federatie intemationala
+poate alege sa stabileasca niste reguli care sa impuna consecinte mai stricte
+decat cele prevazute la alin. (2) pentm sporturile de echipa aflate sub
+autoritatea sa.
+CAPITOLUL XIV
+Apeluri
+Art. 110. - (I) Deciziile AN AD sau ale Comisiei de audiere emise
+sau adoptate in baza prevederilor prezentei legi pot fi atacate cu apel la Comisia
+de apel sau, dupa caz la CAS, potrivit dispozitiilor prezentului capitol.
+(2) Domeniul revizuirii in apel vizeaza toate elementele relevante in
+raport cu cazul in spefa §i in mod expres nu se limiteaza la elementele sau
+domeniul revizuirii din procedura desfasurata in fata Comisiei de audiere.
+Oricare dintre partile apelului pot propune dovezi, argumente legale si
+pretentii care nu au fost prezentate la audierea in prima instanta, atat timp cat
+acestea deriva din aceeasi cauza, sau din aceleasi fapte sau circumstante
+generate ridicate sau prezentate la audierea in fata Comisiei de audiere.
+(3) Pot fi atacate cu apel, la Comisia de apel sau, dupa caz la CAS,
+urmatoarele decizii:
+
+66
+a) o decizie a ANAD sau, dupa caz, a Comisiei de audiere, ca s-a
+comis 0 incalcare a reglementarilor anti-doping;
+b) deciziile ANAD sau, dupa caz, ale Comisiei de audiere de a
+impune sau de a nu impune consecinte pentru incalcari ale reglementarilor
+anti-doping;
+c) o decizie a ANAD sau, dupa caz, a Comisiei de audiere, ca nu s-a
+comis o incalcare a reglementarilor anti-doping;
+d) 0 decizie a ANAD sau, dupa caz, a Comisiei de audiere, ca o
+procedura privind o incalcare a reglementarilor anti-doping nu poate fi
+continuata din motive procedurale, inclusiv, prescriptia;
+e) o decizie a ANAD de a nu prezenta un rezultat pozitiv sau un
+rezultat atipic ca o incalcare a reglementarilor anti-doping;
+f) o decizie a ANAD de a nu continua cercetarea unei incalcari a
+reglementarilor anti-doping dupa o investigatie efectuata in conformitate cu
+Standardul International pentru Gestionarea Rezultatelor;
+g) o decizie a Comisiei de audiere de a impune sau de a revoca o
+masura de suspendare provizorie ca urmare unei audieri provizorii;
+h) nerespectarea de catre ANAD a prevederilor art. 57;
+i) nerespectarea prevederilor art. 103 alin. (1);
+j) nerespectarea de catre ANAD a prevederilor art. 80;
+k) decizia conform careia ANAD nu are competenta sa decida cu
+pfivire la o posibila incalcare a unei reglementari anti-doping sau la
+consecintele ce se impun;
+l) o decizie a ANAD de a suspenda sau nu consecintele sau de a
+reinstitui sau nu consecintele in conformitate cu art. 98 si 99;
+m) o decizie adoptata in conformitate cu art. 107 alin. (5) - (7);
+n) decizia ANAD de a nu pune in aplicare o decizie adoptata de o
+alta organiza^ie anti-doping in conformitate cu dispozitiile art. 122 - 124;
+o) o decizie a ANAD emisa in temeiul art. 156;
+p) decizia WAD A de a nu acorda o scutire de la obligativitatea
+impusa unui sportiv de a-§i anunfa revenirea in activitatea competilionala cu
+6 luni in prealabil, conform art. 40;
+q) decizia WADA de a desemna raspunderea privind gestionarea
+rezultatelor, in cazul apariliei unui litigiu intre ANAD §i alta organizalie
+anti-doping.
+Art. 111. - (1) Deciziile prevazute la art. 110 lit. a) -p), in situatia
+in care nu sunt aplicabile prevederile art. 61 alin. (3), pot fi contestate la
+Comisia de apel de catre urmatoarele entitati:
+a) sportivul sau alta persoana care este subiect al deciziei contestate;
+b) alta persoana in legatura cu care s-a luat decizia contestata;
+c) federa^ia intemationala responsabila;
+
+67
+d)
+Comitetul Intema|ional Olimpic, Comitetul International
+Paralimpic, dupa caz, in situatia in care decizia poate avea efecte in raport cu
+Jocurile Olimpice sau Jocurile Paralimpice, inclusiv decizii care privesc
+dreptul de participare la Jocurile Olimpice sau Jocurile Paralimpice;
+e) organizatia nationala anti-doping din tara de resedinta a persoanei
+sau din tarile in care persoana detine cetatenie sau licenta;
+f) ANAD;
+g) WADA.
+(2) Termenul pentru exercitarea apelului de catre entitatile
+prevazute la alin. (1) lit. a) - f) este de 21 de zile calculat de la data
+comunicarii deciziei. Termenul pentru exercitarea apelului de catre WADA
+este prevazut la art. 113 alin. (2).
+(3) Deciziile prin care s-a dispus o suspendare provizorie pot fi
+atacate cu apel exclusiv de catre sportivul sau de catre alta persoana carora li
+s-a impus o suspendare provizorie, in termen de 5 zile de la data notificarii.
+Apelul se judeca in regim de urgenta.
+(4) Organizatiile anti-doping cu drept de a formula apel, potrivit
+dispozitiilor alin. (1) lit. b) - g), pot solicita, in termen de 15 zile de la
+comunicarea deciziei, o copie a dosarului complet in baza caruia s-a emis decizia.
+(5) Toate partile intr-un apel la CAS trebuie sa se asigure ca WADA
+si toate celelalte parti cu drept de apel au fost notificate in timp util cu privire
+la apel.
+Art. 112. - (1) Apelurile prevazute la art. 98 se solutioneaza de
+catre Comisia de apel, cu eXceptia celor expres prevazute in competenta
+exclusiva a CAS, cu respectarea dispozitiilor art. 61 alin. (3).
+(2) Comisia de apel se organizeaza si isi desfasoara activitatea cu
+respectarea dispozitiilor cap. VIII din prezenta lege.
+Art. 113. - (1) Deciziile Comisiei de apel pot fl contestate la CAS
+numai de entitatile prevazute la art. Ill alin. (1) lit. c), d) si g).
+(2) Termenul limita pentru formularea unui apel de catre WADA va
+fi data celui mai indepMat dintre urmatoarele:
+a) 21 de zile de la ultima zi in care oricare dintre celelalte par|i cu
+drept de apel ar fi putut formula apel; sau
+b) 21 de zile de la data la care WADA prime§te dosarul complet
+referitor la decizie.
+A
+Art. 114. - (1) In spetele carora le sunt incidente prevederile art. 61
+alin. (3), urmatoarele parti au drept de apel la CAS;
+a) sportivul sau alta persoana care este subiect al deciziei contestate;
+b) cealalta parte in speta in care s-a dispus decizia;
+
+68
+c) federa^ia intemationala responsabila;
+d) Comitetul International Olimpic sau Comitetul International
+Paralimpic, dupa caz, in situatia in care decizia poate avea efecte in raport cu
+Jocurile Olimpice sau Jocurile Paralimpice, inclusiv decizii care privesc
+dreptul de participare la Jocurile Olimpice sau Jocurile Paralimpice;
+e) organizatia nationals anti-doping a tarii de domiciliu al persoanei
+sau din tarile unde persoana detine cetatenie sau licenta;
+’ f) WADA.
+(2) Dispozidile art. Ill alin. (2) se aplica in mod corespunzator si in
+cazul apelurilor formulate impotriva deciziilor de suspendare provizorie de
+catre sportivii de nivel international sau de catre alte persoane in cazurile
+prevazute la art. 61 alin. (3), in termenul de exercitare prevazut de CAS si in
+conformitate cu procedura de solutionare a apelurilor de la CAS.
+Art. 115. - Deciziile prevazute la art. 110 alin. (3) lit. g) pot fi
+contestate direct la CAS numai de catre sportivi sau alte persoane prevazute
+la art. 61 alin. (3) impotriva carora a fost impusa sanctiunea de suspendare
+provizorie.
+Art. 116. - (1) Apelul incident precum §i alte forme de apel
+subsecvente formulate de intimat in cazurile prezentate la CAS in temeiul
+prevederilor Codului sunt permise in mod specific. Orice parte cu drept de apel
+in temeiul art. Ill - 114 trebuie sa formuleze un apel incident sau un apel
+subsecvent cel mai tarziu odata cu intampinarea formulata de partea respective.
+(2) in situafia in care, intr-un anumit caz, ANAD nu reu§e§te, intr-o
+limita rezonabila de timp stabilita de WADA, sa adopte o decizie prin care sa
+stabileasca daca a avut loc o incalcare a reglementarilor anti-doping, WADA
+poate alege sa faca apel direct la CAS ca §i cum ANAD ar fi luat o decizie
+conform careia nu a fost savarsita nicio incalcare a reglementarilor
+anti-doping, in situatia in care completul arbitral de la CAS stabile|te ca a
+fost savarsita o incalcare a reglementarilor anti-doping §i ca WADA a
+acfionat rezonabil alegand sa faca apel direct la CAS, atunci costurile si
+onorariile de reprezentare avocatiala angajate de WADA pentru judecarea
+apelului vor fi rambursate WADA de catre ANAD.
+Art. 117. - Deciziile contestate i§i pastreaza efectele pe durata
+desfa§urarii procedurii de apel, cu excepfia situafiei in care Comisia de apel,
+respectiv CAS decide suspendarea acestora.
+Art. 118. - ANAD va comunica decizia emisa de Comisia de apel
+sportivului sau altei persoane si altor organizafii cu drept de a formula apel.
+
+69
+Art. 119. - Comisia de apel solu|ioneaza cauza sub toate aspectele §i nu
+se limiteaza la elementele, temeiurile sau domeniul revizuirii din prima instanta.
+Art. 120. - Orice organizalie anti-doping care este parte intr-o
+procedura de apel va transmite cu promptitudine decizia dispusa in apel
+sportivului sau altei persoane §i oricarei organizalii anti-doping care ar fi avut
+drept de apel in temeiul art. 111 si 114, in conformitate cu prevederile art. 82.
+A
+Art. 121. - In situatia in care WADA are dreptul de a formula apel
+in temeiul art. 99 §i nicio alta parte nu a formulat apel impotriva unei decizii
+finale in cadrul procedurii organizaliei anti-doping, WADA poate contesta cu
+apel astfel de decizii direct la CAS fara a fi obligata sa epuizeze alte cai de
+atac in cadrul procedurii organizafiei anti-doping.
+CAPITOLUL XV
+Punerea in aplicare a deciziilor altor organizatii anti-doping
+Art. 122. - (1) O decizie privind incalcarea reglementarilor
+anti-doping dispusa de o organizatie anti-doping semnatara, un organism de
+apel sau CAS va deveni automat obligatorie, dupa notificarea partilor, nu
+doar pentru partile care iau parte la procedura, dar si pentru orice semnatar
+din orice sport, avand efectele descrise mai jos:
+a) decizia unuia dintre organismele descrise mai sus, prin care se
+impune o suspendare provizorie dupa ce a avut loc o audiere provizorie sau
+sportivul sau o alta persoana fie a acceptat suspendarea provizorie fie a
+renuntat la dreptul la o audiere provizorie, audiere in regim de urgenta sau
+apel in regim de urgenta, interzice automat unui sportiv sau altei persoane sa
+participe in toate sporturile aflate sub autoritatea unui semnatar, pe durata
+perioadei de suspendare provizorie;
+b) decizia unuia dintre organismele descrise mai sus, prin care se
+impune o perioada de suspendare, dupa ce a avut loc o audiere sau s-a
+renuntat la audiere, interzice automat unui sportiv sau altei persoane sa
+participe in toate sporturile aflate sub autoritatea unui semnatar, pe durata
+perioadei de suspendare;
+c) decizia unuia dintre organismele descrise mai sus, prin care se
+, accepta o incalcare a reglementarilor anti-doping, are caracter automat
+obligatoriu pentru toti semnatarii;
+d) decizia unuia dintre organismele descrise mai sus, prin care sunt
+descalificate rezultate in conformitate cu art. 85, pe o perioada de timp
+determinata, descalifica automat toate rezultatele obtinute sub autoritatea
+oricarui semnatar in respectiva perioada de timp.
+
+70
+(2) ANAD are obligatia de a recunoaste si de a pune in aplicare o
+decizie si efectele sale, conform prevederilor alin. (1) al prezentului articol,
+fara a fi necesare demersuri suplimentare incepand cu prima dintre
+urmatoarele date: data la care semnatarul primeste notificarea privind decizia
+sau data la care decizia este consemnata in ADAMS.
+(3) O decizie de a revoca sau suspenda consecinte dispusa de o
+organizatie anti-doping, un organism de apel sau de CAS este obligatorie
+pentru toti semnatarii, fara a fi necesare demersuri suplimentare, incepand cu
+prima dintre urmatoarele date: data la care semnatarul primeste notificarea
+privind decizia sau data la care decizia este consemnata in ADAMS.
+Art. 123. - Cu toate acestea, fara a aduce atingere prevederilor art. 110,
+o decizie privind incalcarea reglementarilor anti-doping dispusa de un
+organizator de evenimente sportive majore in cadrul unei proceduri in regim
+de urgenta in timpul unui eveniment sportiv nu este obligatorie pentru ceilalti
+semnatari, cu exceptia cazului in care reglementarile organizatorului de
+evenimente sportive majore ofera sportivului sau unei alte persoane
+oportunitatea de a formula apel in confonnitate cu o procedura ordinara.
+Art. 124. - O decizie anti-doping luata de un organism care nu este
+semnatar al Codului va fi pusa in aplicare de fiecare semnatar in situatia in
+care semnatarul stabileste ca:
+a) acea decizie se incadreaza in aria de competenta a acelui organism;
+SI
+b) reglementarile anti-doping ale respectivului organism sunt, de
+altfel, in concordanta cu prevederile Codului.
+CAPITOLUL XVI
+Educatia si cercetarea anti-doping .
+SECTIUNEA 1
+f
+Educatia anti-doping
+Art. 125. - (1) ANAD dezvolta programe educative anti-doping la
+nivel national armonizate, coordonate si eficiente in concordanta cu
+prevederile Codului si Standardului international pentru educatie.
+(2) Programele educative sunt create sa pastreze spiritul sportului si
+sa protejeze sanatatea si drepturile sportivului pentru a putea sa concureze
+intr-un mediu fara dopaj, sa sporeasca gradul de constientizare, sa ofere
+informatii precise si sa dezvolte capacitatea de luare a deciziilor in vederea
+prevenirii incalcarii reglementarilor anti-doping cu sau fara intentie si a altor
+incalcari ale Codului.
+
+71
+(3) Programele educative si implementarea lor trebuie sa conduca la
+insusirea de valori si principii care sa protejeze spiritul sportiv.
+(4) ANAD in cooperare cu alti seinnatari ai Codului, va planifica,
+implementa, monitoriza, evalua §i promova programele de educatie in
+conformitate cu cerintele prevazute in Standardul International pentru educatie.
+Art. 126. - (1) Programele educative, asa cum este prevazut in
+Standardul International pentru educatie, vor promova spiritul sportiv cu
+scopul de a crea o influenta pozitiva si pe termen lung asupra deciziilor
+sportivului si a altor persoane.
+(2) ANAD va dezvolta planul de educatie anti-doping, in
+concordanta cu Standardul international pentru educatie. Stabilirea
+prioritatilor in privinta grupurilor tinta si a activitatilor se va intemeia pe un
+rationament clar al planului de educatie.
+(3) ANAD va pune la dispozitia celorlalti semnatari planul de educatie
+pentru a evita duplicarea eforturilor atunci cand este posibil si pentru a sprijini
+procesul de recunoastere prevazut in Standardul International pentru educatie.
+(4) Programul educativ al ANAD trebuie sa includa urmatoarele
+componente de constientizare, informare, bazate pe valori si componente
+educative care sa fie disponibile pe site-ul acesteia, dupa cum urmeaza:
+a) principii si valori asociate cu sportul curat;
+b) drepturile si responsabilitatile sportivului, personalului asistent al
+sportivului si a altor grupuri prevazute in Cod;
+c) principiul responsabilitatii stricte;
+d) consecintele dopajului in ceea ce priveste sanatatea, efectele
+sociale si economice si sanctiunile;
+e) incalcarile reglementarilor anti-doping;
+f) substantele si metodele din Lista interzisa;
+g) riscul utilizarii suplimentelor alimentare;
+h) utilizarea de medicamente si SUT;
+i) procedurile de testare, inclusiv probele de urina, sange si
+pasaportul biologic al sportivului;
+j) Cerinfele Lotului de testare inregistrat, inclusiv informatiile
+privind localizarea si utilizarea ADAMS.
+Art. 127. - (1) ANAD va identifica grupurile tinta si va alcatui un
+Lot pentru actiunile educative, care sa eorespunda cerintelor minime
+prevazute in Standardul International pentru educatie.
+(2) Orice activitate educativa adresata Lotului pentru actiunile
+educative va fi transmisa de o persoana instruita si autorizata conform
+prevederilor stabilite in Standardul International pentru educatie.
+
+72
+Art. 128. - (1) AN AD va coopera cu WAD A pentru a pune in
+aplicare Standardul International pentru educatie.
+(2) WADA flinctioneaza ca un registru central pentru mformatiile si
+resursele educative si/sau pentru programele elaborate de WADA sau de semnatari.
+(3) Semnatarii vor coopera atat intre ei cat si cu Guvemele pentru
+coordonarea demersurilor.
+(4) La nivel national, programele de educatie sunt coordonate de ANAD
+care colaboreaza cu federatiile sportive nationale, Comitetul Olimpic si Sportiv
+Roman, Comitetul National Paralimpic, Guvemul si institutirle de invatamant.
+(5) Programele de educatie destinate sportivilor de nivel
+international vor avea prioritate pentru federatiile Internationale.
+Evenimentele axate pe educatie constituie un element obligatoriu al oricarui
+program anti-doping asociat cu un eveniment international.
+Art. 129. - (1) To^i semnatarii vor coopera intre ei §i cu Guvemele
+pentru aincuraja organizatiile sportive, institutiile de invatamant si asocia^iile
+profesionale relevante sa elaboreze §i sa implementeze coduri de conduita
+adecvate, care sa reflecte bunele practici §i principiile etice in practicarea
+sportului cu referire la anti-doping.
+(2) Astfel de Coduri de conduita trebuie sa prevada masuri
+disciplinare adecvate ce trebuie adoptate de organismele sportive fie pentru a
+sprijini punerea in aplicare a oricaror sanctiuni pentru dopaj fie pentru ca o
+organizatie sa intreprinda propriile demersuri disciplinare in situatia in care
+lipsa dovezilor suficiente impiedica gestionarea unei incalcari a
+reglementarilor anti-doping.
+SECTIUNEA 2
+Cercetarea anti-doping
+Art. 130. - (1) Cercetarea anti-doping contribuie la elaborarea §i
+implementarea de programe eficiente de control doping §i la informarea §i
+educarea pentm un sport fara dopaj.
+(2) ANAD, LCD si WADA vor incuraja §i promova astfel de
+cercetari §i vor lua toate masurile necesare pentru a se asigura ca rezultatele
+acestor cercetari sunt folosite pentm promovarea obiectivelor care sunt in
+acord cu principiile Codului.
+Art. 131. - (1) Cercetarea anti-doping poate cuprinde, fara a se
+limita la acestea, studii sociologice, comportamentale, juridice §i etice, pe
+langa investigafiile efectuate in domeniul stiintific, medical, analitic, statistic
+§i fiziologic.
+
+73
+(2) Fara sa se liiniteze la cele mentionate mai sus, vor fi efectuate studii
+cu privire la elaborarea §i evaluarea eficientei programelor §tiintifice de
+antrenament fiziologic §i psihologic care sunt in concordan|a cu principiile
+Codului §i care respecta integritatea subieclilor umani, precum §i studii referitoare
+la utilizarea noilor substance sau metode rezultate din descoperirile §tiin^ifice.
+Art. 132. - Coordonarea prin intermediul WADA a cercetarii
+anti-doping este esentiala. Sub rezerva drepturilor de proprietate intelectuala,
+rezultatele unor astfel de cercetari efectuate in domeniul anti-doping vor fi
+puse la dispozilia WADA §i, dupa caz, vor fi comunicate organizatiilor
+anti-doping, sportivilor §i altor persoane.
+Art. 133. - (1) Activitatile de cercetare in domeniul anti-doping
+trebuie efectuate in confonnitate cu practicile etice recunoscute pe plan
+international.
+(2) In cadrul cercetarii anti-doping se va evita administrarea de
+substanfe interzise sau de metode interzise sportivilor.
+(3) Rezultatele obtinute in urma cercetarii anti-doping nu trebuie
+folosite in mod abuziv si aplicate in scop de dopaj.
+Art. 134. - (1) Nerespectarea dispozitiilor art. 133 alin. (1) si (2)
+poate atrage raspunderea disciplinary, civila sau, dupa caz, penala a
+personalului ANAD si a personalului LCD.
+(2) Nerespectarea dispozitiilor art. 133 alin. (3) poate intruni elementele
+constitutive ale unei incalcari ale reglementarilor anti-doping savarsite de
+persoanele care folosesc si aplica rezultatele cercetarii in scop de dopaj.
+CAPITOLUL XVII
+Obligatiile structurilor sportive nafionale §i ale Comitetului Olimpic
+§i Sportiv Roman
+Art. 135. - (1) Comitetul Olimpic §i Sportiv Roman, Comitetul
+National Paralimpic, federafiile sportive nafionale, Federafia Sportului §colar
+§i Universitar, ligile profesioniste §i cluburile sportive au obligafia de a-§i
+modifica §i completa statutele §i regulamentele in concordanfa cu dispozifiile
+prezentei legi, ale Codului, cu reglementarile federafiilor sportive
+intemafionale §i cu normele privind controlul doping.
+(2) Sportivul are obligafia de a suporta costurile analizelor de
+laborator in cazul unui rezultat pozitiv.
+(3) Solicitantul controlului doping are obligatia de a suporta
+costurile de prelevare si ale analizelor de laborator, inclusiv cele generate de
+recomandarile APMU si probele diluate.
+
+74
+Art. 136. - (1) Orice organizator al unei competitii sau al unei
+manifestari sportive organizate de acesta are obliga^ia de a desemna o
+persoana care sa asigure:
+a) spatiul necesar pentru organizarea sta^iei de control doping
+conform normelor metodologice de control doping;
+b) hidratarea sportivilor in sta|ia de control doping, potrivit
+Standardului International pentru Testare §i Investigatii.
+(2) Prin exceptie de la dispozi|iile alin. (1), in cazul competitiilor
+organizate pentru sporturile de echipa ce se desfa§oara pe parcursul mai
+multor etape, obligatia prevazuta la alin. (1) revine cluburilor sportive gazda.
+Art. 137. - (1) Comitetul Olimpic §i Sportiv Roman, Comitetul
+National Paralimpic, federatiile sportive nationale, Federa^ia Sportului §colar
+§i Universitar, ligile profesioniste, sunt obligate sa comunice ANAD, in
+termenul stabilit de aceasta, informatii detaliate privind numarul de sportivi
+legitimati, calendarul sportiv intern §i international, planurile de pregatire a
+echipelor §i sportivilor care participa la competitiile si evenimentele sportive
+organizate de acestea, cu precizarea exacta a locurilor §i orelor de
+desfa§urare, lista cu sportivii de nivel national/intemational §i adresele
+acestora, precum si orice alte informatii solicitate in conformitate cu
+Standardul International de Testare si Investigatii.
+(2) Federatiile sportive nationale au obligatia de a comunica
+ANAD, cu cel putin 5 zile inainte, orice modificare intervenita in calendarul
+sportiv sau in planul de pregatire.
+(3) Federatiile sportive nationale, cluburile, ligile, Federatia
+Sportului §colar §i Universitar §i Comitetul Olimpic §i Sportiv Roman au
+obligatia de a desemna o persoana responsabila cu activitatea anti-doping.
+Art. 138. - (1) Cluburile sportive au obligatia sa comunice
+informatiile necesare entitatilor la care sunt afiliate, in vederea respectarii
+prevederilor art. 137.
+(2) Informatiile prevazute la art. 137 alin. (1) se comunica si
+Agentiei Nationale Anti-Doping in termenul stabilit de catre aceasta prin
+solicitarea formulata in scris.
+Art. 139. - (1) In vederea protejarii sanatatii sportivilor si prevenirii
+dopajului in sport federatiile sportive nationale, Comitetul Olimpic si Sportiv
+Roman si Comitetul National Paralimpic au obligatia sa isi prevada in
+bugetul anual sume destinate programelor de educatie anti-doping si sa
+desemneze o persoana cu cunostinte in domeniul medical, atestata anual de
+ANAD sa desfasoare aceste programe educative destinate sportivilor si
+personalului asistent.
+
+75
+(2) Nerespectarea prevederilor alin. (1) constituie contraven^ie §i se
+sanctioneaza cu amenda de la 5.000 lei la 15.000 lei.
+Art. 140. - (1) Punerea in aplicare a sancliunilor sportivilor sau
+personalului asistent al sportivilor revine federa^iilor, cluburilor sau ligilor,
+organizatorilor de competitii sau manifestari sportive in conformitate cu
+prevederile prezentei legi.
+(2) Neindeplinirea de catre federa^ii, cluburi, ligi sau Federa|ia
+Sportului §colar §i Universitar, organizatorilor de competitii sau manifestari
+sportive, a obligaliilor prevazute la alin. (1), cu excep^ia situatiei prevazute la
+art. 141 alin. (1), constituie contraven^ie §i se sanctioneaza cu amenda de la
+5.000 lei la 30.000 lei, retragerea oricarui sprijin fmanciar din fonduri
+publice, suspendarea temporara a certificatului de identitate sportiva sau
+radierea din registrul sportiv, interdictia de a organiza competitii sau
+manifestari sportive pe teritoriul Romaniei pentru o perioada cuprinsa intre
+1-3 ani, dupa caz.
+Art. 141. - (1) Introducerea sportivilor aflali in perioada de
+suspendare in competitii sau manifestari sportive de catre federa^ii sportive
+nationale, cluburi, ligi profesioniste ori alti organizatori de competitii sau
+manifestari sportive constituie contraventie §i se sanctioneaza cu amenda de
+la 7.500 lei la 30.000 lei, precum §i retragerea oricarui sprijin fmanciar din
+fonduri publice, suspendarea temporara a certificatului de identitate sportiva
+sau radierea din registrul sportiv, interdictia de a organiza competitii pe
+teritoriul Romaniei pentru o perioada cuprinsa intre 1-3 ani.
+(2) Desemnarea pentru a fi supusa testarii doping a unei persoane
+care nu are calitatea de sportiv constituie contravenlie §i se sancfioneaza cu
+amenda de la 5.000 lei la 30.000 lei.
+Art. 142. - (1) Cluburile sportive §i ligile profesioniste in cadrul
+carora au fost sanc^ionate persoane pentru dopaj se sanclioneaza cu amenda
+contraven|ionala de la 5.000 lei la 30.000 lei.
+(2) Nerespectarea dispozitiilor art. 42, constituie contraventie si se
+sanctioneaza cu amenda de la 5.000 de lei la 25.000 de lei.
+(3) Nerespectarea prevederilor art. 76 alin. (2) constituie
+contraventie §i se sanctioneaza cu amenda de la 1.500 lei la 2.500 lei.
+Aplicarea sanctiunii contraventionale se realizeaza la sesizarea presedintelui
+Comisiei de audiere sau a presedintelui Comisiei de apel.
+(4) Nerespectarea prevederilor art. 136 constituie contraventie §i se
+sanctioneaza cu amenda de la 5.000 lei la 10.000 lei.
+
+76
+(5) Nerespectarea de catre sportivii sau membrii personalului
+asistent suspenda^i a prevederilor art. 107 constituie contravenlie §i se
+sanctioneaza cu amenda de la 5.000 lei la 10.000 lei.
+(6)
+Nerespectarea prevederilor art. 137 si 138 constituie
+contravenlie §i se sanc^ioneaza cu amenda de la 5.000 lei la 15.000 lei.
+(7) Nerespectarea dispozitiilor art. 147 de catre administratorii
+bazelor sportive si organizatorii manifestarilor sportive constituie
+contraventie si se sanctioneaza cu amenda de la 5.000 lei la 25.000 lei.
+(8) Determinarea exercitata, prin orice mijloace, de catre o persoana
+asupra unui sportiv, in scopul utilizarii de substance si/sau metode interzise,
+constituie contraventie §i se sanc|ioneaza cu amenda de la 7.500 lei la 15.000 lei.
+(9) Sportivul care a incalcat reglementarile anti-doping, in cazul
+aplicarii sanc^iunii maxime pentru fapta savar§ita, conform prezentei legi, va
+fi sancfionat cu amenda in cuantum de 750 lei la 1.000 lei pentru incalcari
+care presupun substante sau metode specifice si in cuantum de 1.500 lei la
+3.000 lei pentru incalcari care presupun substante sau metode nespecifice.
+(10) Constatarea contraventiilor §i aplicarea sanctiunilor se fac de
+catre personalul anume imputemicit din cadrul AN AD.
+Art. 143. - (1) Contravenientul poate achita, in termen de 15 zile de la
+data comunicarii procesului-verbal, jumatate din cuantumul amenzii aplicate,
+prevazute la art. 139 alin. (2), art. 140 alin. (2), art. 141 si 142, agentul
+constatator facand mentiune despre aceasta posibilitate in procesul-verbal.
+(2) Contraventiilor prevazute la art. 139 alin. (2), art. 140 alin. (2),
+art. 141 si 142 le sunt aplicabile dispozitiile Ordonantei Guvemului nr. 2/2001
+privind regimul juridic al contraventiilor, aprobata cu modificari §i completari
+prin Legea m. 180/2002, cu modificMle §i completarile ulterioare.
+(3) Prin derogare de la dispozitiile Ordonantei Guvemului
+nr. 2/2001, aprobata cu modificari §i completari prin Legea m. 180/2002, cu
+modificarile §i completarile ulterioare, sumele reprezentand contravaloarea
+amenzilor contraventionale constituie venit al ANAD si se utilizeaza pentm
+actiunile privind prevenirea si combaterea dopajului in sport.
+/V
+Art. 144. - In cazul in care substanfele descoperite pe parcursul
+controlului doping intra §i sub incidenfa Legii nr. 143/2000 privind
+prevenirea §i combaterea traficului §i consumului ilicit de droguri,
+republicata, cu modificarile §i completarile ulterioare, sau a Legii
+nr. 142/2018 privind precursorii de droguri, Agenfia are obligafia de a
+in§tiinfa Agenfia Nafionala Antidrog §i organele de urmarire penala.
+%
+
+77
+TITLUL III
+Dispozi^ii tranzitorii §i finale
+Art. 145. - (1) Pentm infomiarea §i educarea personalului implicat
+in activitalile sportive, toate institu|iile de invalamant superior medical si
+farmacologic, de educatie fizica §i sport din ^ara, precum §i Centrul National
+de Formare §i Perfeclionare a Antrenorilor introduc in programele de
+invalamant cursuri de prezentare a reglementarilor na^ionale §i intemalionale
+anti-doping, precum §i Strategia na|ionala anti-doping.
+(2) Institu^iile de invalamant vor introduce in programa scolara
+activita^i de educare §i informare anti-doping.
+i
+(1) Pe langa raspunderea pentru incalcarea
+reglementarilor anti-doping in sensul Codului si al art. 2 din prezenta lege,
+care va fi stabilita conform procedurii de gestionare a rezultatelor prevazuta
+la art. 51 - 60 si va face obiectul sanctiunilor prevazute la art. 85-91, ofiterii
+de control doping, oficialii pentru recoltarea probelor de sange, tertii delegati,
+membrii Comisiei de audiere si ai Comisiei de apel raspund pentru faptele
+care constitute incalcari ale reglementarilor anti-doping savarsite in
+exercitarea atributiilor ce le revin din prezenta lege sau a contractelor
+incheiate cu Agenda, dupa caz, administrativ, disciplinar, civil sau penal.
+(2) Cheltuielile de judecata ocazionate de procedurile judiciare
+initiate impotriva membrilor comisiilor se suporta de catre ANAD sau de
+catre Secretariatul General al Guvemului si se recupereaza de la membrii
+comisiilor care au cazut in pretenlii.
+Art. 147. - Conducerea ANAD precum §i personalul implicat in
+controlul doping sau in investigatii vor avea acces si pot folosi la cererea
+acestora, spatiile si utilitatile necesare controlului doping, in toate bazele
+sportive si la toate manifestarile sportive pe baza de legitima|ie, al carui
+model §i conlinut se stabilesc prin ordin al presedintelui ANAD, care se
+publica in Monitorul Oficial al Romaniei, Partea I, sau pe baza de delegatie
+emisa de ANAD.
+Art. 146.
+Art. 148. - (1) Personalul ANAD §i ofiterii de control doping
+poarta uniforme de serviciu cu insemne specifice.
+(2) Modelul, insemnele specifice, modul de acordare §i portul
+uniformei se aproba prin ordin al presedintelui ANAD.
+(3) Finanlarea cheltuielilor privind achizilionarea uniformelor de serviciu
+se reaiizeaza din fondurile prevazute in bugetul ANAD cu aceasta destma|ie.
+
+78
+Art. 149. - Se autorizeaza Secretariatul General al Guvemului sa
+introduca modificarile ce decurg din aplicarea prevederilor prezentei legi in
+anexele la bugetul aprobat acestei institulii, respectiv in anexele privind
+cheltuielile cu salariile §i numarul maxim de posturi §i fondul aferent
+salariilor de baza, cu avizul Ministerului Finan^elor, precum §i in bugetele
+instituliilor care fac obiectul prevederilor acestei legi.
+Art. 150. - (1) Mandatul membrilor Comisiei de audiere selectati in
+temeiul Ordinului presedintelui Agentiei Nationale Anti-Doping nr. 118/2018
+privind aprobarea criteriilor pentru selectia membrilor Comisiei de audiere a
+sportivilor si a personalului asistent al sportivilor si a procedurilor de selectie
+si de solutionare a contestatiilor pentru desemnarea membrilor Comisiei de
+audiere a sportivilor si personalului asistent al sportivilor, aflati in
+componenta acesteia la data intrarii in vigoare a prezentului act nonnativ
+continua pana la expirarea acestuia, cu respectarea regimului
+incompatibilitatilor si a conflictelor de interese prev^ute de lege.
+(2) Ulterior expirarii mandatului initial locurile ramase vacante se
+vor completa confonn procedurii de la art. 66 alin. (2).
+(3) Dispozitiile alin. (1) se aplica in mod corespunzator mandatului
+membrilor in exercitiu ai Comisiei de apel pana la expirarea acestuia.
+Art. 151. - (1) Orice caz de incalcare a reglementarilor anti-doping
+care nu a fost solu^ionat pana la data intrarii in vigoare §i orice caz de
+incalcare a reglementarilor anti-doping care a aparut dupa data intrarii in
+vigoare a prezentei legi, cu privire la o fapta comisa anterior acestei date vor
+fi guvemate de reglementarile anti-doping in vigoare la momentul la care a
+avut loc incalcarea, daca nolle prevederi nu sunt mai favorabile.
+(2) Daca Comisia de audiere, Comisia de apel sau CAS examinand
+cazul, stabilesc aplicarea principiului legii mai favorabile atunci se aplica
+dispozitiile legale mai favorabile.
+/V
+(3) In aceste scopuri, perioadele anterioare in care incalcarile
+reglementarilor anti-doping stabilite pot fi luate in consideratie in sensul
+incalcarilor multiple §i a prescriptiei, reprezinta reglementari procedural.
+A
+Art. 152. - (1) In ceea ce prive§te cazurile in care o decizie finala
+privind o incalcare a reglementarilor anti-doping a fost luata inaintea intrarii
+in vigoare a prevederilor prezentei legi, dar sportivul sau alta persoana se afla
+inca in perioada de suspendare la data intrarii in vigoare, sportivul sau o alta
+persoana poate solicita ANAD, sa ia in considerare o reducere a perioadei de
+suspendare in temeiul prevederilor prezentei legi.
+(2) Cererea se depune la ANAD inainte de expirarea perioadei de
+suspendare.
+
+79
+(3) Decizia ANAD poate fi supusa apelului conform art. 111.
+Art. 153. - in vederea aplicarii art. 94 in aprecierea unei perioade
+de suspendare pentru o a doua incalcare, daca sanc^iunea dispusa peritru
+prima incalcare a fost stabilita pe baza reglementarilor anterioare, se va aplica
+perioada de suspendare care ar fi fost stabilita pentru acea prima incalcare
+daca ar fi fost aplicabile prevederile prezentei legi.
+Art. 154. - (1) Dispozi^iile prezentei legi se completeaza cu
+prevederile Codului §i se vor interpreta conform acestuia.
+(2) incalcarile reglementarilor anti-doping savarsite inainte de
+intrarea in vigoare a prezentei legi continua sa fie considerate drept prima
+incalcare sau, dupa caz, a doua incalcare, in scopul stabilirii sanctiunilor
+pentru incalcari ale reglementarilor anti-doping survenite ulterior intrarii in
+vigoare a acesteia.
+Art. 155. - In termen de 6 luni de la data intrarii in vigoare a
+prezentei legi presedintele ANAD va supune spre aprobare Guvemului
+structura organizatorica si regulamentul de organizare si flmctionare ale
+ANAD si va face numirile in flinctiile publice stabilite si avizate, potrivit
+structurii organizatorice aprobate.
+A
+Art. 156. - In termen de 90 de zile de la intrarea in vigoare a
+dispozitiilor prezentei legi, ANAD initiaza si supune spre adoptare
+Guvemului normele metodologice privind controlul doping si normele
+metodologice privind educatia anti-doping, cu respectarea standardelor
+intemationale ale WADA.
+Art. 157. - Dispozitiile cap. XVII intra in vigoare la 15 zile de la
+data intrMi in vigoare a prezentei legi.
+Art. 158. - (1) La data intrarii in vigoare a prezentei legi, se abroga
+art. 1 - 83 si art. 94 - 103 din Legea nr. 227/2006 privind prevenirea §i
+combaterea dopajului in sport, republicata in Monitoml Oficial al Romaniei,
+Partea I, nr. 156 din 1 martie 2016, cu modificarile si completarile ulterioare.
+(2) Dispozitiile art. 84 - 93 din Legea nr. 227/2006, republicata in
+Monitorul Oficial al Romaniei, Partea I, nr. 156 din 1 martie 2016, cu
+modificMle si completarile ulterioare, se abroga la 15 zile de la data intrarii
+in vigoare a prezentei legi.
+
+80
+0
+Aceastd lege a fast adoptatd de Parlamentul Romdniei, cu
+respectarea prevederilor art. 75 §i ale art. 76 alin. (1) din Constitutia
+Romdniei, republicatd.
+p. PRE§EDINTELE
+CAMEREI DEPUTATILOR
+PRE§EDINTELE
+SENATULUR
+FLO^-VASILE CIJU
+njlL^uciu
+VASILE7-
+Bucure§ti,
+Nr.
