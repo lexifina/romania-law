@@ -1,0 +1,9 @@
+# Anexa 4
+Anexa nr. 4
+la instrucțiuni
+Domnului ........................................................
+Subsemnatul, ..............................................................., desemnat consilier de etică la nivelul Administrației Naționale a Penitenciarelor/Unității^1 ................................, solicit să vă acord consiliere etică. ^1 Penitenciar, penitenciar-spital, centru educativ, centru de detenție, Baza de aprovizionare, gospodărire și reparații, Școala Națională de Pregătire a Agenților de Penitenciare Târgu Ocna, Centrul de pregătire, odihnă și recuperare - Complex Sovata, Centrul de pregătire, odihnă și recuperare - Complex Flamingo Eforie Sud.
+Data
+...................................
+Semnătura
+...................................
