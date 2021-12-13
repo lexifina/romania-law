@@ -1,0 +1,11 @@
+# HCGMB nr. 446/2021
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 446/2021
+- Adopted: 2021-12-13
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 6 AL MUNICIPIULUI BUCURESTI DE A HOTARI CU PRIVIRE LA ASOCIEREA DINTRE SECTORUL 6 AL MUNICIPIULUI BUCURESTI SI MUNICIPIUL BUCURESTI, IN VEDEREA FINANTARII IN COMUN A OBIECTIVULUI DE INVESTITII DE INTERES PUBLIC LOCAL “PENETRATIE PRELUNGIREA GHENCEA – DOMNESTI SI SUPRALARGIRE BULEVARDUL GHENCEA INTRE STRADA BRASOV SI TERMINAL TRAMVAI 41 ”, PE RAZA ADMINISTRATIV TERITORIALA A SECTORULUI 6 AL MUNICIPIULUI BUCURESTI
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42267
+- Document: https://doc.pmb.ro/legis/acteinterne/2021/42267/H446_21.pdf
+- Document sha256: aff44b19d6bdc493da40fc4856c40e62105d8acccc5c231f5fe761af5d8f559a
