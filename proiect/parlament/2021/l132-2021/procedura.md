@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-24: sent for promulgation
+- 2021-12-13: promulgated, becomes Legea nr. 296/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,6 @@ Initiator: Guvernul României.
 - 2021-05-25: Adresă către Camera Deputaților (AM): [am-911e2eab.md](am-911e2eab.md); official file https://www.senat.ro/legis/PDF/2021/21L132AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-192fc64a.md](axs-192fc64a.md); official file https://www.senat.ro/legis/PDF/2021/21L132AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-8ddafcef.md](lp-8ddafcef.md); official file https://www.senat.ro/legis/PDF/2021/21L132LP.PDF
+- 2021-12-13: Decret de promulgare (DP): [dp-39fdd8ec.md](dp-39fdd8ec.md); official file https://www.senat.ro/legis/PDF/2021/21L132DP.PDF
+- 2021-12-13: Adresă privind forma promulgată (AFP): [afp-439e5486.md](afp-439e5486.md); official file https://www.senat.ro/legis/PDF/2021/21L132AFP.PDF
+- 2021-12-13: Forma promulgată (FP): [fp-eea0a19d.md](fp-eea0a19d.md); official file https://www.senat.ro/legis/PDF/2021/21L132FP.PDF
