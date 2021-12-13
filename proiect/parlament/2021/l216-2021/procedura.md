@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-06: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-09-14: registered at the Chamber of Deputies
 - 2021-12-07: adopted by the Chamber of Deputies
+- 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-01: Raport comisie sesizată pe fond (CR): [cr-eeb77fee.md](cr-eeb77fee.md); official file https://www.senat.ro/legis/PDF/2021/21L216CR.PDF
 - 2021-09-06: Forma adoptată de Senat (FS): [fs-f60cc770.md](fs-f60cc770.md); official file https://www.senat.ro/legis/PDF/2021/21L216FS.PDF
 - 2021-09-06: Adresă către Camera Deputaților (AM): [am-584fdb3f.md](am-584fdb3f.md); official file https://www.senat.ro/legis/PDF/2021/21L216AM.PDF
+- 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-3b0a55f0.md](axs-3b0a55f0.md); official file https://www.senat.ro/legis/PDF/2021/21L216AXS.PDF
+- 2021-12-13: Forma trimisă la promulgare (LP): [lp-9f136264.md](lp-9f136264.md); official file https://www.senat.ro/legis/PDF/2021/21L216LP.PDF
