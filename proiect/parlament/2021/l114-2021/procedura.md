@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-24: sent for promulgation
+- 2021-12-13: promulgated, becomes Legea nr. 295/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-06-14: Adresă către Camera Deputaților (AM): [am-75b0a4e0.md](am-75b0a4e0.md); official file https://www.senat.ro/legis/PDF/2021/21L114AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-4f4ef8df.md](axs-4f4ef8df.md); official file https://www.senat.ro/legis/PDF/2021/21L114AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-38cb3cda.md](lp-38cb3cda.md); official file https://www.senat.ro/legis/PDF/2021/21L114LP.PDF
+- 2021-12-13: Decret de promulgare (DP): [dp-125845ab.md](dp-125845ab.md); official file https://www.senat.ro/legis/PDF/2021/21L114DP.PDF
+- 2021-12-13: Adresă privind forma promulgată (AFP): [afp-78b7687b.md](afp-78b7687b.md); official file https://www.senat.ro/legis/PDF/2021/21L114AFP.PDF
+- 2021-12-13: Forma promulgată (FP): [fp-ad86d074.md](fp-ad86d074.md); official file https://www.senat.ro/legis/PDF/2021/21L114FP.PDF
