@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății PHOENIX CREDIT IFN - S.A., cu sediul în Str. Fabricii de Chibrituri nr. 13-21, et. 1, Cluj-Napoca, județul Cluj, înregistrată la registrul comerțului cu nr. J12/3259/2008, cod unic de înregistrare 24267146, înscrisă în Registrul general cu nr. RG-PJR-13-110254/2.02.2009, la secțiunea k) "Activități multiple de creditare".
