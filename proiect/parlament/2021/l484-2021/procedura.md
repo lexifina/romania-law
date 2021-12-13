@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-11-04: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-11-17: documents published: Aviz comisie
 - 2021-12-06: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2021-11-04: Document (HG): [hg-e3c1deaf.md](hg-e3c1deaf.md); official file https://www.senat.ro/legis/PDF/2021/21L484HG.PDF
 - 2021-11-17: Aviz comisie (CA45): [ca45-492b7e2e.md](ca45-492b7e2e.md); official file https://www.senat.ro/legis/PDF/2021/21L484CA45.PDF
 - 2021-12-06: Forma adoptată de Senat (FS): [fs-33ad0c7f.md](fs-33ad0c7f.md); official file https://www.senat.ro/legis/PDF/2021/21L484FS.PDF
+- 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-e66a983b.md](axs-e66a983b.md); official file https://www.senat.ro/legis/PDF/2021/21L484AXS.PDF
+- 2021-12-13: Forma trimisă la promulgare (LP): [lp-f097a6a5.md](lp-f097a6a5.md); official file https://www.senat.ro/legis/PDF/2021/21L484LP.PDF
