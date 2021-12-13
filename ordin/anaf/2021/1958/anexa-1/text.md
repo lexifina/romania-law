@@ -1,0 +1,2 @@
+# ANEXĂ
+INSTRUCTIUNI privind depunerea la autoritatea vamală a declarațiilor referitoare la numerarul însoțit sau neînsoțit, modelul și modul de emitere a deciziei autorității vamale prevăzute la art. 7 din Regulamentul (UE) 2018/1.672 al Parlamentului European și al Consiliului din 23 octombrie 2018 privind controlul numerarului care intră sau iese din Uniune și de abrogare a Regulamentului (CE) nr. 1.889/2005
