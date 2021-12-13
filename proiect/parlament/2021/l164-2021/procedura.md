@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-24: sent for promulgation
+- 2021-12-13: promulgated, becomes Legea nr. 293/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2021-06-07: Adresă către Camera Deputaților (AM): [am-d9a6b726.md](am-d9a6b726.md); official file https://www.senat.ro/legis/PDF/2021/21L164AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-931eae8c.md](axs-931eae8c.md); official file https://www.senat.ro/legis/PDF/2021/21L164AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-87a60b96.md](lp-87a60b96.md); official file https://www.senat.ro/legis/PDF/2021/21L164LP.PDF
+- 2021-12-13: Decret de promulgare (DP): [dp-1c6639c6.md](dp-1c6639c6.md); official file https://www.senat.ro/legis/PDF/2021/21L164DP.PDF
+- 2021-12-13: Adresă privind forma promulgată (AFP): [afp-4685ab5e.md](afp-4685ab5e.md); official file https://www.senat.ro/legis/PDF/2021/21L164AFP.PDF
+- 2021-12-13: Forma promulgată (FP): [fp-3577433e.md](fp-3577433e.md); official file https://www.senat.ro/legis/PDF/2021/21L164FP.PDF
