@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-11-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-08: sent for promulgation
+- 2021-12-14: promulgated, becomes Legea nr. 297/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2021-11-22: Forma adoptată de Senat (FS): [fs-196ed014.md](fs-196ed014.md); official file https://www.senat.ro/legis/PDF/2021/21L428FS.PDF
 - 2021-12-06: Adresă privind sesizarea CCR (AXS): [axs-8c92f2cf.md](axs-8c92f2cf.md); official file https://www.senat.ro/legis/PDF/2021/21L428AXS.PDF
 - 2021-12-06: Forma trimisă la promulgare (LP): [lp-7bdec5d2.md](lp-7bdec5d2.md); official file https://www.senat.ro/legis/PDF/2021/21L428LP.PDF
+- 2021-12-14: Decret de promulgare (DP): [dp-a26afeb9.md](dp-a26afeb9.md); official file https://www.senat.ro/legis/PDF/2021/21L428DP.PDF
+- 2021-12-14: Adresă privind forma promulgată (AFP): [afp-051f30d0.md](afp-051f30d0.md); official file https://www.senat.ro/legis/PDF/2021/21L428AFP.PDF
+- 2021-12-14: Forma promulgată (FP): [fp-60a0769b.md](fp-60a0769b.md); official file https://www.senat.ro/legis/PDF/2021/21L428FP.PDF
