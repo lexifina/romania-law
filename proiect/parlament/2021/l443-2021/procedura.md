@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-11-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-11: sent for promulgation
+- 2021-12-14: promulgated, becomes Legea nr. 300/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2021-11-22: Forma adoptată de Senat (FS): [fs-d7f5f9b9.md](fs-d7f5f9b9.md); official file https://www.senat.ro/legis/PDF/2021/21L443FS.PDF
 - 2021-12-06: Adresă privind sesizarea CCR (AXS): [axs-f892c11c.md](axs-f892c11c.md); official file https://www.senat.ro/legis/PDF/2021/21L443AXS.PDF
 - 2021-12-06: Forma trimisă la promulgare (LP): [lp-b232fd3e.md](lp-b232fd3e.md); official file https://www.senat.ro/legis/PDF/2021/21L443LP.PDF
+- 2021-12-14: Decret de promulgare (DP): [dp-36c63977.md](dp-36c63977.md); official file https://www.senat.ro/legis/PDF/2021/21L443DP.PDF
+- 2021-12-14: Adresă privind forma promulgată (AFP): [afp-9c8acc46.md](afp-9c8acc46.md); official file https://www.senat.ro/legis/PDF/2021/21L443AFP.PDF
+- 2021-12-14: Forma promulgată (FP): [fp-9e88cb46.md](fp-9e88cb46.md); official file https://www.senat.ro/legis/PDF/2021/21L443FP.PDF
