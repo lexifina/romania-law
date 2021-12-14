@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-12: sent for promulgation
 - 2021-01-14: returned for re-examination
 - 2021-02-22: rejected by the Senate
+- 2021-12-14: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-22: Adresă către Camera Deputaților (AM): [am-0abd20a3.md](am-0abd20a3.md); official file https://www.senat.ro/legis/PDF/2020/20L119AM.PDF
 - 2020-10-06: Adresă privind sesizarea CCR (AXS): [axs-b4cfe3ba.md](axs-b4cfe3ba.md); official file https://www.senat.ro/legis/PDF/2020/20L119AXS.PDF
 - 2020-10-06: Forma trimisă la promulgare (LP): [lp-e533ba07.md](lp-e533ba07.md); official file https://www.senat.ro/legis/PDF/2020/20L119LP.PDF
+- 2021-12-14: Document (SC1): [sc1-696d18fc.md](sc1-696d18fc.md); official file https://www.senat.ro/legis/PDF/2020/20L119SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-14: Document (DC1): [dc1-ccccd463.md](dc1-ccccd463.md); official file https://www.senat.ro/legis/PDF/2020/20L119DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-14: Document (RC1): [rc1-2a014997.md](rc1-2a014997.md); official file https://www.senat.ro/legis/PDF/2020/20L119RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-14: Document (XD1): [xd1-cab30ca1.md](xd1-cab30ca1.md); official file https://www.senat.ro/legis/PDF/2020/20L119XD1.PDF (its day is not given by the bill file: shown from the last stage held)
