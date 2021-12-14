@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-11-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-08: sent for promulgation
+- 2021-12-14: promulgated, becomes Legea nr. 299/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2021-11-22: Forma adoptată de Senat (FS): [fs-f7053e43.md](fs-f7053e43.md); official file https://www.senat.ro/legis/PDF/2021/21L459FS.PDF
 - 2021-12-06: Adresă privind sesizarea CCR (AXS): [axs-bdb2c011.md](axs-bdb2c011.md); official file https://www.senat.ro/legis/PDF/2021/21L459AXS.PDF
 - 2021-12-06: Forma trimisă la promulgare (LP): [lp-415175f2.md](lp-415175f2.md); official file https://www.senat.ro/legis/PDF/2021/21L459LP.PDF
+- 2021-12-14: Decret de promulgare (DP): [dp-813e312b.md](dp-813e312b.md); official file https://www.senat.ro/legis/PDF/2021/21L459DP.PDF
+- 2021-12-14: Adresă privind forma promulgată (AFP): [afp-5d5f19b6.md](afp-5d5f19b6.md); official file https://www.senat.ro/legis/PDF/2021/21L459AFP.PDF
+- 2021-12-14: Forma promulgată (FP): [fp-2958f49f.md](fp-2958f49f.md); official file https://www.senat.ro/legis/PDF/2021/21L459FP.PDF
