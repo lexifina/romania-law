@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-04-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-09-16: returned for re-examination
 - 2021-12-06: returned for re-examination
+- 2021-12-15: sent for promulgation
 
 ## Documents
 
