@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-08: sent for promulgation
 - 2021-12-14: promulgated, becomes Legea nr. 298/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Guvernul României.
 - 2021-12-14: Decret de promulgare (DP): [dp-e46e902f.md](dp-e46e902f.md); official file https://www.senat.ro/legis/PDF/2021/21L457DP.PDF
 - 2021-12-14: Adresă privind forma promulgată (AFP): [afp-f59c80b2.md](afp-f59c80b2.md); official file https://www.senat.ro/legis/PDF/2021/21L457AFP.PDF
 - 2021-12-14: Forma promulgată (FP): [fp-a05e9596.md](fp-a05e9596.md); official file https://www.senat.ro/legis/PDF/2021/21L457FP.PDF
+- 2021-12-15: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L457DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L457TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (AL): [al-49166fa4.md](al-49166fa4.md); official file https://www.senat.ro/legis/PDF/2021/21L457AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (TC): [tc-106ba628.md](tc-106ba628.md); official file https://www.senat.ro/legis/PDF/2021/21L457TC.PDF (its day is not given by the bill file: shown from the last stage held)
