@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
+- 2021-12-15: promulgated, becomes Legea nr. 304/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-25: Adresă către Camera Deputaților (AM): [am-21e75803.md](am-21e75803.md); official file https://www.senat.ro/legis/PDF/2021/21L098AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-4ecb28f6.md](axs-4ecb28f6.md); official file https://www.senat.ro/legis/PDF/2021/21L098AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-65f4378e.md](lp-65f4378e.md); official file https://www.senat.ro/legis/PDF/2021/21L098LP.PDF
+- 2021-12-15: Decret de promulgare (DP): [dp-71b6ba08.md](dp-71b6ba08.md); official file https://www.senat.ro/legis/PDF/2021/21L098DP.PDF
+- 2021-12-15: Adresă privind forma promulgată (AFP): [afp-bb03fc44.md](afp-bb03fc44.md); official file https://www.senat.ro/legis/PDF/2021/21L098AFP.PDF
+- 2021-12-15: Forma promulgată (FP): [fp-a601bf8b.md](fp-a601bf8b.md); official file https://www.senat.ro/legis/PDF/2021/21L098FP.PDF
