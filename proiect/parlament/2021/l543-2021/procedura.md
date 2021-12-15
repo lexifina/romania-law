@@ -1,0 +1,22 @@
+# Proiect de lege L543/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 301/2023 (`legea-301-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.125/2021 pentru modificarea și completarea Legii nr.127/2019 privind sistemul public de pensii, precum și pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.6/2009 privind instituirea pensiei sociale minime garantate
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-12-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-12-15: Adresă de înaintare a inițiativei (AD): [ad-b6559229.md](ad-b6559229.md); official file https://www.senat.ro/legis/PDF/2021/21L543AD.PDF
+- 2021-12-15: Forma inițiatorului (FG): [fg-4835cbf3.md](fg-4835cbf3.md); official file https://www.senat.ro/legis/PDF/2021/21L543FG.PDF
+- 2021-12-15: Expunere de motive (EM): [em-23bf93fb.md](em-23bf93fb.md); official file https://www.senat.ro/legis/PDF/2021/21L543EM.PDF
+- 2021-12-15: Aviz Consiliul Legislativ (LG): [lg-1389db33.md](lg-1389db33.md); official file https://www.senat.ro/legis/PDF/2021/21L543LG.PDF
+- 2021-12-15: Document (OG): [og-46d3e170.md](og-46d3e170.md); official file https://www.senat.ro/legis/PDF/2021/21L543OG.PDF
+- 2021-12-15: Document (HG): [hg-19ef917f.md](hg-19ef917f.md); official file https://www.senat.ro/legis/PDF/2021/21L543HG.PDF
