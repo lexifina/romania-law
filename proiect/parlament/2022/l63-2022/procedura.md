@@ -1,0 +1,19 @@
+# Propunere legislativă L63/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 182/2022 (`legea-182-2022`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.59/1934 asupra cecului
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2021-12-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2021-12-15: Adresă de înaintare a inițiativei (AD): [ad-473f3edb.md](ad-473f3edb.md); official file https://www.senat.ro/legis/PDF/2022/22L063AD.PDF
+- 2021-12-15: Forma inițiatorului (FG): [fg-8d9e7a89.md](fg-8d9e7a89.md); official file https://www.senat.ro/legis/PDF/2022/22L063FG.PDF
+- 2021-12-15: Expunere de motive (EM): [em-ae3bb852.md](em-ae3bb852.md); official file https://www.senat.ro/legis/PDF/2022/22L063EM.PDF
