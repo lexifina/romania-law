@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
+- 2021-12-15: promulgated, becomes Legea nr. 303/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-12: Adresă către Camera Deputaților (AM): [am-faedcb35.md](am-faedcb35.md); official file https://www.senat.ro/legis/PDF/2021/21L045AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-5eeb0539.md](axs-5eeb0539.md); official file https://www.senat.ro/legis/PDF/2021/21L045AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-902f247d.md](lp-902f247d.md); official file https://www.senat.ro/legis/PDF/2021/21L045LP.PDF
+- 2021-12-15: Decret de promulgare (DP): [dp-f3cb896d.md](dp-f3cb896d.md); official file https://www.senat.ro/legis/PDF/2021/21L045DP.PDF
+- 2021-12-15: Adresă privind forma promulgată (AFP): [afp-e5485206.md](afp-e5485206.md); official file https://www.senat.ro/legis/PDF/2021/21L045AFP.PDF
+- 2021-12-15: Forma promulgată (FP): [fp-20e2fb54.md](fp-20e2fb54.md); official file https://www.senat.ro/legis/PDF/2021/21L045FP.PDF
