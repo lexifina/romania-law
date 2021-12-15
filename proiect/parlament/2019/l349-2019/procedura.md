@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
+- 2021-12-15: promulgated, becomes Legea nr. 305/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L349AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-b6a5d5f6.md](axs-b6a5d5f6.md); official file https://www.senat.ro/legis/PDF/2019/19L349AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-bd18c665.md](lp-bd18c665.md); official file https://www.senat.ro/legis/PDF/2019/19L349LP.PDF
+- 2021-12-15: Decret de promulgare (DP): [dp-10af8ac0.md](dp-10af8ac0.md); official file https://www.senat.ro/legis/PDF/2019/19L349DP.PDF
+- 2021-12-15: Adresă privind forma promulgată (AFP): [afp-d45e2efe.md](afp-d45e2efe.md); official file https://www.senat.ro/legis/PDF/2019/19L349AFP.PDF
+- 2021-12-15: Forma promulgată (FP): [fp-27348d24.md](fp-27348d24.md); official file https://www.senat.ro/legis/PDF/2019/19L349FP.PDF
