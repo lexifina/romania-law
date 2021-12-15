@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-08: sent for promulgation
 - 2021-12-14: promulgated, becomes Legea nr. 297/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Guvernul României.
 - 2021-12-14: Decret de promulgare (DP): [dp-a26afeb9.md](dp-a26afeb9.md); official file https://www.senat.ro/legis/PDF/2021/21L428DP.PDF
 - 2021-12-14: Adresă privind forma promulgată (AFP): [afp-051f30d0.md](afp-051f30d0.md); official file https://www.senat.ro/legis/PDF/2021/21L428AFP.PDF
 - 2021-12-14: Forma promulgată (FP): [fp-60a0769b.md](fp-60a0769b.md); official file https://www.senat.ro/legis/PDF/2021/21L428FP.PDF
+- 2021-12-15: Document (DR): [dr-a00a4fd3.md](dr-a00a4fd3.md); official file https://www.senat.ro/legis/PDF/2021/21L428DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (TX): [tx-a47fe345.md](tx-a47fe345.md); official file https://www.senat.ro/legis/PDF/2021/21L428TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (AL): [al-381b01b2.md](al-381b01b2.md); official file https://www.senat.ro/legis/PDF/2021/21L428AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-15: Document (TC): [tc-c1e2b555.md](tc-c1e2b555.md); official file https://www.senat.ro/legis/PDF/2021/21L428TC.PDF (its day is not given by the bill file: shown from the last stage held)
