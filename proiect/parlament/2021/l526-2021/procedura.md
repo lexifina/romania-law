@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2021-12-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-12-14: documents published: Aviz comisie
+- 2021-12-15: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -33,3 +34,8 @@ Initiator: Guvernul României.
 - 2021-12-14: Aviz comisie (CA52): [ca52-b71f6b83.md](ca52-b71f6b83.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA52.PDF
 - 2021-12-14: Aviz comisie (CA53): [ca53-58480650.md](ca53-58480650.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA53.PDF
 - 2021-12-14: Aviz comisie (CA6): [ca6-319e40c1.md](ca6-319e40c1.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA6.PDF
+- 2021-12-15: Aviz comisie (CA41): [ca41-3c1ad3bc.md](ca41-3c1ad3bc.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA41.PDF
+- 2021-12-15: Aviz comisie (CA5): [ca5-0feedf9d.md](ca5-0feedf9d.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA5.PDF
+- 2021-12-15: Raport comisie sesizată pe fond (CR): [cr-6476cb6a.md](cr-6476cb6a.md); official file https://www.senat.ro/legis/PDF/2021/21L526CR.PDF
+- 2021-12-15: Forma adoptată de Senat (FS): [fs-c97b6388.md](fs-c97b6388.md); official file https://www.senat.ro/legis/PDF/2021/21L526FS.PDF
+- 2021-12-15: Adresă către Camera Deputaților (AM): [am-c21a50a7.md](am-c21a50a7.md); official file https://www.senat.ro/legis/PDF/2021/21L526AM.PDF
