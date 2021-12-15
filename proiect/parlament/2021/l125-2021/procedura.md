@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-16: adopted by the Chamber of Deputies
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
+- 2021-12-15: promulgated, becomes Legea nr. 302/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-24: Adresă către Camera Deputaților (AM): [am-ee8510eb.md](am-ee8510eb.md); official file https://www.senat.ro/legis/PDF/2021/21L125AM.PDF
 - 2021-11-22: Adresă privind sesizarea CCR (AXS): [axs-1a3da009.md](axs-1a3da009.md); official file https://www.senat.ro/legis/PDF/2021/21L125AXS.PDF
 - 2021-11-22: Forma trimisă la promulgare (LP): [lp-1687995a.md](lp-1687995a.md); official file https://www.senat.ro/legis/PDF/2021/21L125LP.PDF
+- 2021-12-15: Decret de promulgare (DP): [dp-845fd379.md](dp-845fd379.md); official file https://www.senat.ro/legis/PDF/2021/21L125DP.PDF
+- 2021-12-15: Adresă privind forma promulgată (AFP): [afp-a537ecca.md](afp-a537ecca.md); official file https://www.senat.ro/legis/PDF/2021/21L125AFP.PDF
+- 2021-12-15: Forma promulgată (FP): [fp-3791aee6.md](fp-3791aee6.md); official file https://www.senat.ro/legis/PDF/2021/21L125FP.PDF
