@@ -1,0 +1,251 @@
+{
+ "key": "dcc-646-2021",
+ "label": "Decizia CCR nr. 646/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "646",
+ "date": "2021-10-19",
+ "year": "2021",
+ "heading": "DECIZIA nr. 646 din 19 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 29 alin. (1) lit. a) teza a doua din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului, în interpretarea dată prin Decizia nr. 16 din 8 iunie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1193",
+  "bis": false,
+  "date": "2021-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.556/117/2012/a15",
+  "1.804D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valer Turcu și Daniela Turcu în Dosarul nr. 18.556/117/2012/a15 al Curții de Apel Cluj - Secția penală și de minori și constată că dispozițiile art. 29 alin. (1) lit. a) teza a doua din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului, în interpretarea dată prin Decizia nr. 16 din 8 iunie 2016, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Cluj - Secția penală și de minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 420/2006",
+    "number": "420",
+    "year": "2006",
+    "path": "lege/2006/420"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "270",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249284",
+  "text_sha256": "5e7ce89671be2c6a8933f884d2f8dc68074f70311764ce611a3e3245abf1d816",
+  "catalogue_sha256": "5e7ce89671be2c6a8933f884d2f8dc68074f70311764ce611a3e3245abf1d816",
+  "fetched": "2026-11-03T01:38:20Z",
+  "chars": 27144,
+  "portal_id": "249284",
+  "tip": "DECIZIE"
+ }
+}
