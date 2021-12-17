@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-11-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-19: sent for promulgation
 - 2021-12-08: promulgated, becomes Legea nr. 285/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2021-12-08: Decret de promulgare (DP): [dp-5e3963d8.md](dp-5e3963d8.md); official file https://www.senat.ro/legis/PDF/2021/21L456DP.PDF
 - 2021-12-08: Adresă privind forma promulgată (AFP): [afp-043e9d65.md](afp-043e9d65.md); official file https://www.senat.ro/legis/PDF/2021/21L456AFP.PDF
 - 2021-12-08: Forma promulgată (FP): [fp-29592253.md](fp-29592253.md); official file https://www.senat.ro/legis/PDF/2021/21L456FP.PDF
+- 2021-12-17: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L456TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-17: Document (AL): [al-542b2047.md](al-542b2047.md); official file https://www.senat.ro/legis/PDF/2021/21L456AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-17: Document (TC): [tc-9e1b18da.md](tc-9e1b18da.md); official file https://www.senat.ro/legis/PDF/2021/21L456TC.PDF (its day is not given by the bill file: shown from the last stage held)
