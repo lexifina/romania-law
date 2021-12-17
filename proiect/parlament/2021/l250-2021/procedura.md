@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-02: sent for promulgation
 - 2021-07-22: returned for re-examination
 - 2021-12-15: returned for re-examination
+- 2021-12-17: returned for re-examination
 
 ## Documents
 
