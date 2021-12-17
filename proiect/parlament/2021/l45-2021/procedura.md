@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
 - 2021-12-15: promulgated, becomes Legea nr. 303/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-17: published in the Monitorul Oficial
 
 ## Documents
 
