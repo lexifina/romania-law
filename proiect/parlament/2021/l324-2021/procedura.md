@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-11-25: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-11-27: sent for promulgation
 - 2021-12-15: promulgated, becomes Legea nr. 301/2021
+- 2021-12-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2021-10-11: Adresă către Camera Deputaților (AM): [am-5d4e27a5.md](am-5d4e27a5.md); official file https://www.senat.ro/legis/PDF/2021/21L324AM.PDF
 - 2021-11-25: Adresă privind sesizarea CCR (AXS): [axs-6c3ef340.md](axs-6c3ef340.md); official file https://www.senat.ro/legis/PDF/2021/21L324AXS.PDF
 - 2021-11-25: Forma trimisă la promulgare (LP): [lp-4354b5f1.md](lp-4354b5f1.md); official file https://www.senat.ro/legis/PDF/2021/21L324LP.PDF
+- 2021-12-17: Document (TA): [ta-8757aff4.md](ta-8757aff4.md); official file https://www.senat.ro/legis/PDF/2021/21L324TA.PDF (its day is not given by the bill file: shown from the last stage held)
