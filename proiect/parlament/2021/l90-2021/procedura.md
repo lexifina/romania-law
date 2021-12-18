@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-27: documents published: Raport comisie sesizată pe fond
 - 2021-06-02: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-12-18: sent for promulgation
 
 ## Documents
 
