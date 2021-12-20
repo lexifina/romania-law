@@ -1,0 +1,53 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2021/2094 AL COMISIEI
+din 29 noiembrie 2021
+privind autorizarea decochinatului (Deccox și Avi-Deccox 60G) ca aditiv în hrana puilor pentru îngrășare (titularul autorizației: Zoetis Belgium SA) și de abrogare a Regulamentului (CE) nr. 1289/2004
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2) și articolul 13 alineatul (3),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații. Articolul 10 din regulamentul respectiv prevede reevaluarea aditivilor autorizați în temeiul Directivei 70/524/CEE a Consiliului (2).
+(2) Utilizarea decochinatului a fost autorizată pentru o perioadă de 10 ani, în conformitate cu Directiva 70/524/CEE, ca aditiv în hrana puilor pentru îngrășare prin Regulamentul (CE) nr. 1289/2004 al Comisiei (3). Aditivul respectiv a fost ulterior înscris în Registrul aditivilor pentru hrana animalelor ca produs existent, în conformitate cu articolul 10 alineatul (1) din Regulamentul (CE) nr. 1831/2003.
+(3) În conformitate cu articolul 10 alineatul (2) din Regulamentul (CE) nr. 1831/2003 coroborat cu articolul 7 din același regulament, a fost depusă o cerere pentru reevaluarea substanței decochinat ca aditiv în hrana puilor pentru îngrășare. Solicitantul a cerut ca aditivul respectiv să fie clasificat în categoria de aditivi „coccidiostatice și histomonostatice”. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(4) În conformitate cu articolul 13 alineatul (3) din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere de modificare a compoziției aditivului decochinat (Deccox) ca aditiv în hrana puilor pentru îngrășare, în special pentru a înlocui componentele vegetale cu minerale. Solicitantul a cerut menținerea pe piață a ambelor compoziții ale aditivului. Cererea respectivă a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(5) În avizele sale din 29 noiembrie 2018 (4), din 28 ianuarie 2021 (5) și din 30 octombrie 2014 (6), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat că, în condițiile de utilizare propuse, substanța decochinat nu are efecte adverse asupra sănătății animalelor, asupra sănătății umane sau asupra mediului și că este eficace în prevenirea coccidiozei. De asemenea, s-a concluzionat că nu este necesară o perioadă de așteptare pentru a asigura siguranța consumatorilor și că nu sunt considerate necesare limite maxime de reziduuri (LMR). Autoritatea a concluzionat, de asemenea, că modificarea solicitată a suporturilor și a formei fizice ale Avi-Deccox 60G în ceea ce privește Deccox nu îi afectează siguranța și capacitatea de a controla coccidioza. Prin urmare, ambele forme ale aditivului sunt considerate echivalente în ceea ce privește controlul coccidiozei. Autoritatea a concluzionat că trebuie să se realizeze un plan de monitorizare ulterioară introducerii pe piață pentru a monitoriza rezistența la Eimeria spp. În plus, ea a verificat raportul referitor la metoda de analiză a aditivului în hrana pentru animale, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(6) Evaluarea substanței decochinat arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, utilizarea substanței respective trebuie să fie autorizată conform specificațiilor din anexele la prezentul regulament.
+(7) Din motive de securitate juridică, Regulamentul (CE) nr. 1289/2004 trebuie să fie abrogat.
+(8) Întrucât niciun motiv legat de siguranță nu impune aplicarea imediată a modificărilor condițiilor de autorizare, este adecvat să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care decurg din autorizare.
+(9) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizarea
+Substanța decochinat specificată în anexe, aparținând categoriei de aditivi „coccidiostatice și histomonostatice”, este autorizată ca aditiv în hrana animalelor în condițiile stabilite în anexele respective.
+Articolul 2
+Abrogarea
+Regulamentul (CE) nr. 1289/2004 se abrogă.
+Articolul 3
+Măsuri tranzitorii
+Substanța menționată în anexa I și hrana pentru animale care conține substanța respectivă, care sunt produse și etichetate înainte de 20 iunie 2022 în conformitate cu normele aplicabile înainte de 20 decembrie 2021, pot fi, în continuare, introduse pe piață și utilizate până la epuizarea stocurilor existente.
+Articolul 4
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 29 noiembrie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Directiva 70/524/CEE a Consiliului din 23 noiembrie 1970 privind aditivii din hrana animalelor (JO L 270, 14.12.1970, p. 1).
+(3) Regulamentul (CE) nr. 1289/2004 al Comisiei din 14 iulie 2004 privind autorizarea pe o perioadă de zece ani a utilizării în hrana animalelor a aditivului „Deccox®” aparținând grupei coccidiostaticelor și altor substanțe medicamentoase (JO L 243, 15.7.2004, p. 15).
+(4) EFSA Journal 2019;17(1):5541.
+(5) EFSA Journal 2021;19(3):6453.
+(6) EFSA Journal 2014;12(11):3905.
+ANEXA I
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de substanță activă/kg de furaj complet cu un conținut de umiditate de 12 %
+Categoria aditivului: coccidiostatice și histomonostatice
+51756i | Zoetis Belgium SA | Decochinat (Deccox) | Compoziția aditivului Decochinat: 60,0 g/kg Ulei de soia: 28,5 g/kg Silice coloidală: 0,6 g/kg Făină de grâu inferioară: în cantitate suficientă până la 1 kg Caracterizarea substanței active Decochinat C24H35NO5 Etil-6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilat Numărul CAS: 18507-89-6 Impurități asociate: Acid 6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilic: < 0,5 % Metil-6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilat: < 1,0 % Dietil-4-decicloxi-3-etoxianilinometilenemalonat (compus de anilină): < 0,5 % Metoda analitică (1) Pentru determinarea decochinatului în aditivul furajer, preamestecuri și hrana pentru animale: cromatografie în fază lichidă de înaltă performanță cu fază inversă cu detectare cu fluorescență (RP-HPLC-FL) – EN 16162 | Pui pentru îngrășare | | 30 | 40 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Aditivul se încorporează în furajele combinate sub formă de preamestec. 3. Aditivul nu trebuie amestecat cu alte coccidiostatice. 4. Titularul autorizației efectuează programe de monitorizare ulterioară introducerii pe piață pentru: rezistența la bacterii și la Eimeria spp. 5. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție. | 20.12.2031
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+ANEXA II
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de substanță activă/kg de furaj complet cu un conținut de umiditate de 12 %
+Categoria aditivului: coccidiostatice și histomonostatice
+51756ii | Zoetis Belgium SA | Decochinat (Avi-Deccox 60G) | Compoziția aditivului Decochinat: 60,0 g/kg Silice coloidală: 0,6 g/kg Dioxid de siliciu: 4,0 g/kg Carboximetilceluloză sodică: 30,0 g/kg Sulfat de calciu dihidrat: în cantitate suficientă până la 1 000,0 g Caracterizarea substanței active Decochinat C24H35NO5 Etil-6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilat Numărul CAS: 18507-89-6 Impurități asociate: Acid 6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilic: < 0,5 % Metil-6-decicloxi-7-etoxi-4-hidroxichinolin-3-carboxilat: < 1,0 % Dietil-4-decicloxi-3-etoxianilinometilenemalonat (compus de anilină): < 0,5 % Metoda analitică (1) Pentru determinarea decochinatului în aditivul furajer, preamestecuri și hrana pentru animale: — cromatografie în fază lichidă de înaltă performanță cu fază inversă cu detectare cu fluorescență (RP-HPLC-FL) – EN 16162 | Pui pentru îngrășare | | 30 | 40 | 1. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului și a preamestecurilor. 2. Aditivul se încorporează în furajele combinate sub formă de preamestec. 3. Aditivul nu trebuie amestecat cu alte coccidiostatice. 4. Titularul autorizației efectuează programe de monitorizare ulterioară introducerii pe piață pentru: rezistența la bacterii și la Eimeria spp. 5. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale stabilesc proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție. | 20.12.2031
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
