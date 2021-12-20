@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 20.12.2021, cu respectarea prevederilor art. 139, alin. 1 din Oug nr. 57/2019, cu un număr de 13 voturi pentru, 0 voturi împotrivă, 2 voturi abțineri, din totalul de 15 consilieri locali prezenți.
