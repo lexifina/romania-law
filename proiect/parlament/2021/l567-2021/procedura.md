@@ -1,0 +1,21 @@
+# Proiect de lege L567/2021
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 318/2021 (`legea-318-2021`).
+
+Proiect de lege - Bugetul asigurărilor sociale de stat pe anul 2022
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-12-20: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-12-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L567AD.PDF
+- 2021-12-20: Forma inițiatorului (FG): [fg-31cacade.md](fg-31cacade.md); official file https://www.senat.ro/legis/PDF/2021/21L567FG.PDF
+- 2021-12-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L567EM.PDF
+- 2021-12-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L567LG.PDF
+- 2021-12-20: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L567HG.PDF
