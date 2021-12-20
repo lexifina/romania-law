@@ -1,0 +1,22 @@
+# Proiect de lege L1/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 231/2023 (`legea-231-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.133/2021 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2021-2027 alocate României din Fondul European de Dezvoltare Regională, Fondul de Coeziune, Fondul Social European Plus, Fondul pentru o Tranziție Justă
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-12-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-12-20: Adresă de înaintare a inițiativei (AD): [ad-8a4b6a00.md](ad-8a4b6a00.md); official file https://www.senat.ro/legis/PDF/2022/22L001AD.PDF
+- 2021-12-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L001FG.PDF
+- 2021-12-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L001EM.PDF
+- 2021-12-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L001LG.PDF
+- 2021-12-20: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L001OG.PDF
+- 2021-12-20: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L001HG.PDF
