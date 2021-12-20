@@ -1,0 +1,142 @@
+PARLAMENTUL ROMÂNIEI
+SENATUL
+CAMERA DEPUTAȚILOR
+LEGE
+pentru aprobarea plafoanelor unor indicatori specificați în cadrul fiscal-
+bugetar pe anul 2022
+Parlamentul României adoptă prezenta lege:
+Art.l. - Prezenta lege aprobă plafoanele unor indicatori specificați în cadrul
+fiscal-bugetar, potrivit dispozițiilor art.26 alin.(2) și art.29 alin.(l) din Legea
+responsabilității fiscal-bugetare nr.69/2010, republicată.
+Art.2. - (1) Plafonul soldului bugetului general consolidat, exprimat ca procent
+în produsul intern brut, este în anul 2022 de 5,8 %, iar în anul 2023 de 4,4 %.
+(2) Plafonul cheltuielilor de personal ale bugetului general consolidat, exprimat
+ca procent în produsul intern brut, este de 8,8 % în anul 2022 și de 8,2 % în anul 2023.
+Art.3. - (1) Plafonul privind datoria publică, conform metodologiei Uniunii
+Europene pentru sfârșitul anului 2022, este de 49,8% din produsul intern brut.
+(2) în anul 2022, plafonul privind finanțările rambursabile, care pot fi
+contractate de către unitățile/subdiviziunile administrativ-teritoriale, este în sumă de
+1.600 milioane lei, iar plafonul privind tragerile din finanțările rambmsab|le
+contractate, sau care urmează a fi contractate de către unitățile|^iMî^|iuîâ^
+administrativ-teritoriale, este în sumă de 2.000 milioane lei. Val»
+1
+
+finanțărilor rambursabile, care poate fi autorizată anual pentru o unitate/subdiviziune
+administrativ-teritorială, este de maximum:
+a) 50 milioane lei, în cazul comunelor;
+b) 100 milioane lei, în cazul orașelor;
+c) ~r50“ milioane lei~îri cazul““municipiilor;~sectoarelor municipiului
+București și județelor.
+(3) Plafoanele prevăzute la alin.(2) nu cuprind finanțările rambursabile
+destinate refinanțării datoriei publice locale, finanțările rambursabile destinate
+proiectelor care beneficiază de fonduri externe nerambursabile de la Uniunea
+Europeană și nici pe cele destinate proiectelor care beneficiază de fonduri externe
+nerambursabile de la donatori europeni în cadrul programelor interguvemamentale,
+(4) Plafonul privind emiterea de garanții de către Guvern, prin Ministerul
+Finanțelor și de către unitățile/subdiviziunile administrativ-teritoriale, pentru anul
+2022, este de 30.000 milioane lei.
+(5) Prin derogare de la prevederile art. 6 și 7 din Legea nr.69/2010, republicată,
+în anul 2022, plafoanele nominale ale cheltuielilor totale și ale cheltuielilor de
+personal, stabilite potrivit dispozițiilor art.29 alin.(l) lit. g) din aceeași lege sunt
+prevăzute în anexa nr. 1.
+(6) Prin derogare de la prevederile art. 6 și 7 din Legea nr.69/2010, republicată,
+în anul 2022, sunt stabilite plafoanele nominale ale soldurilor bugetului general
+consolidat, bugetului de stat, bugetului asigurărilor sociale de stat, bugetelor
+fondurilor speciale și ale altor bugete componente ale bugetului general consolidat și
+sunt prevăzute în anexa nr.2.
+A
+(7) In anul 2022, plafonul soldului primar al bugetului general consolidat este
+de minus 57.044,8 milioane lei.
+Art.4. - (1) Obiectivul bugetar pe termen mediu este reprezentat de atingerea
+unui nivel al soldului structural anual al administrației publice de minus 1% din
+produsul intern brut.
+(2) Prin derogare de la prevederile art. 6,7 și 26 alin.(3) din Legea
+republicată, prezentul act normativ nu prevede calea de ajustare căSfeSpilItiș^v/Ș
+2
+
+bugetar pe termen mediu prevăzut la alin.(l), iar nivelul plafoanelor soldului
+structural anual al administrației publice este prevăzut în anexa nr.3. Ajustarea
+soldului structural anual al administrației publice se continuă și în anul 2022.
+(3) în anul 2022, prevederile art.l4 alin.(l) din Legea nr.69/2010, republicată,
+hii se aplică.
+Art.5. - Ordonatorii principali de credite ai bugetului de stat, bugetului
+asigurărilor sociale de stat și bugetelor fondurilor speciale vor elabora propunerile de
+cheltuieli bugetare, în concordanță cu prevederile Legii nr.69/2010, republicată,
+precum și cu încadrarea în plafoanele prevăzute în prezenta lege.
+Alt. 6. - Anexele nr.l - 3 fac parte integrantă din prezenta lege.
+3
+
+Anexa nr.1
+Plafoane nominale ale cheltuielilor totale și ale cheltuielilor de personal pe anul 2022 *)
+- milioane lei •*
+din care:
+Cheltuieli
+totale
+Cheltuieli de
+personal
+Bugetul general consolidat
+457.969,4
+115.407,0
+Bugetul de stat
+254.271,2
+57.745,8
+Bugetul general centralizat al unităților administrativ teritoriale**)
+96.227,2
+35.950,0
+Bugetul asigurărilor sociale de stat
+99.683,2
+448,0
+Bugetul asigurărilor pentru șomaj
+1.541,0
+147,2
+Bugetul Fondului național unic de asigurări sociale de
+sănătate**)
+51.322,2
+305,9
+Bugetul instituțiilor/activităților finanțate integral și/sau parțial din
+venituri proprii **)
+34.897,1
+20.060,0
+Alte bugete componente ale bugetului general consolidat **)
+9.775,5
+750,1
+*) nu includ asistența financiară din partea UE sau alți donatori.
+**) estimări
+
+Anexa nr.2
+Plafoanele nominale ale soldului bugetului general consolidat și ale principalelor bugete
+componente pentru anul 2022
+...... ..
+- milioane lei -
+-76.983,0
+Bugetul general consolidat
+din care:
+Bugetul de stat
+-85.285,2
+Bugetul asigurărilor sociale de stat
+38,9
+Bugetul fondului național unic de asigurări sociale de sanatate
+Bugetul asigurărilor pentru șomaj
+1.574,4
+Bugetul instituțiilor/activităților finanțate integral și/sau parțial din venituri proprii
+2.253,3
+&
+
+Anexa.nr.3
+Plafoanele soldului structural anual al administrației publice
+% din PIB
+2019*)
+2020*)
+2021*)
+2022*)
+2023*)
+2024*)
+Sold structural anual al
+admninistratiei publice
+-4,80
+-7.31
+-7,72
+-5,71
+-4,18
+-2,88
+*) estimări
