@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 20.12.2021, cu respectarea prevederilor art. 139, alin.3 lit.c) din OUG nr. 57/2019 privind Codul administrativ, cu un număr de 13 voturi pentru, 0 voturi împotrivă, 0 voturi abțineri, din totalul de 14 consilieri prezenți.
