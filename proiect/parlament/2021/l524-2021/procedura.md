@@ -9,6 +9,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2021-11-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2021-12-21: documents published: Aviz comisie
 
 ## Documents
 
@@ -18,3 +19,9 @@ Initiator: Guvernul României.
 - 2021-11-26: Aviz Consiliul Legislativ (LG): [lg-95de4d13.md](lg-95de4d13.md); official file https://www.senat.ro/legis/PDF/2021/21L524LG.PDF
 - 2021-11-26: Document (OG): [og-77c1dc8f.md](og-77c1dc8f.md); official file https://www.senat.ro/legis/PDF/2021/21L524OG.PDF
 - 2021-11-26: Document (HG): [hg-1df62dcb.md](hg-1df62dcb.md); official file https://www.senat.ro/legis/PDF/2021/21L524HG.PDF
+- 2021-12-21: Aviz comisie (CA12): [ca12-d454e1fa.md](ca12-d454e1fa.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA12.PDF
+- 2021-12-21: Aviz comisie (CA19): [ca19-f7cd96b1.md](ca19-f7cd96b1.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA19.PDF
+- 2021-12-21: Aviz comisie (CA41): [ca41-91cd5a8f.md](ca41-91cd5a8f.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA41.PDF
+- 2021-12-21: Aviz comisie (CA43): [ca43-78f8c227.md](ca43-78f8c227.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA43.PDF
+- 2021-12-21: Aviz comisie (CA47): [ca47-b0b0592f.md](ca47-b0b0592f.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA47.PDF
+- 2021-12-21: Aviz comisie (CA53): [ca53-939fc27e.md](ca53-939fc27e.md); official file https://www.senat.ro/legis/PDF/2021/21L524CA53.PDF
