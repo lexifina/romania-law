@@ -1,0 +1,103 @@
+{
+ "key": "cjue-c-357-19-hotarare-2021-12-21",
+ "label": "CJUE, Hotărârea Curții (Marea Cameră) din 21 decembrie 2021, Cauzele conexate C-357/19, C-379/19, C-547/19, C-811/19 și C-840/19",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2021-12-21",
+ "year": "2021",
+ "case": "Cauzele conexate C-357/19, C-379/19, C-547/19, C-811/19 și C-840/19",
+ "celex": "62019CJ0357",
+ "ecli": "ECLI:EU:C:2021:1034",
+ "heading": "Hotărârea Curții (Marea Cameră) din 21 decembrie 2021",
+ "formation": "CHAMB_GD_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2019-05-06",
+   "national_file": "1114391"
+  },
+  {
+   "court": "Tribunalul Bihor",
+   "date": "2019-05-14",
+   "national_file": "3507/111/2016"
+  },
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2019-05-13",
+   "national_file": "927/1/2018"
+  },
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2019-10-31",
+   "national_file": "1132627"
+  },
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie",
+   "date": "2019-11-19",
+   "national_file": "3201/1/2018"
+  }
+ ],
+ "referral_text": "Cereri de decizie preliminară formulate de Înalta Curte de Casație și Justiție și Tribunalul Bihor",
+ "national_followup": [
+  "Înalta Curte de Casaţie şi Justiţie, Decizia din 07/04/2022 (ECLI:RO:ICCJ:2022:022.000041)",
+  "Înalta Curte de Casaţie şi Justiţie, Decizia din 25/11/2022 (ECLI:RO:ICCJ:2022:022.000085)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Decizia 2006/928/CE – Mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției – Natură și efecte juridice – Caracter obligatoriu pentru România – Stat de drept – Independența judecătorilor – Articolul 19 alineatul (1) al doilea paragraf TUE – Articolul 47 din Carta drepturilor fundamentale a Uniunii Europene – Lupta împotriva corupției – Protecția intereselor financiare ale Uniunii – Articolul 325 alineatul (1) TFUE – Convenția „PIF” – Proceduri penale – Decizii ale Curții Constituționale (România) privind legalitatea administrării anumitor probe și compunerea completurilor de judecată în materie de corupție gravă – Obligația judecătorilor naționali de a da efect deplin deciziilor Curții Constituționale – Răspundere disciplinară a judecătorilor în cazul nerespectării acestor decizii – Puterea de a lăsa neaplicate deciziile Curții Constituționale neconforme cu dreptul Uniunii – Principiul supremației dreptului Uniunii",
+ "interprets": [
+  {
+   "celex": "12007P047",
+   "folder": null
+  },
+  {
+   "celex": "12008E325",
+   "folder": null
+  },
+  {
+   "celex": "12008M002",
+   "folder": null
+  },
+  {
+   "celex": "12008M004",
+   "folder": null
+  },
+  {
+   "celex": "12008M019",
+   "folder": null
+  },
+  {
+   "celex": "32006D0928",
+   "folder": "ue/decizie/2006/928"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62019CJ0357",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-357/19&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/407d6ebf-625f-11ec-a033-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "fc47f9ea3349d7ed9b4bdbaf7ab1aace5505ed8ecc6613a1ed92b553ab1433d2"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Marea Cameră) declară:",
+  "1) Decizia 2006/928/CE a Comisiei din 13 decembrie 2006 de stabilire a unui mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției este, atât timp cât nu a fost abrogată, obligatorie în toate elementele sale pentru România. Obiectivele de referință care figurează în anexa la aceasta urmăresc să asigure respectarea de către acest stat membru a valorii statului de drept prevăzute la articolul 2 TUE și au caracter obligatoriu pentru statul membru respectiv, în sensul că acesta din urmă este ținut să ia măsurile adecvate pentru atingerea acestor obiective, ținând seama în mod corespunzător, în temeiul principiului cooperării loiale prevăzut la articolul 4 alineatul (3) TUE, de rapoartele întocmite de Comisia Europeană pe baza deciziei respective, în special de recomandările formulate în rapoartele menționate.",
+  "2) Articolul 325 alineatul (1) TFUE coroborat cu articolul 2 din Convenția elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană, privind protejarea intereselor financiare ale Comunităților Europene, semnată la Luxemburg la 26 iulie 1995, precum și Decizia 2006/928 trebuie interpretate în sensul că se opun unei reglementări sau unei practici naționale potrivit căreia hotărârile în materie de corupție și de fraudă în domeniul taxei pe valoarea adăugată (TVA) care nu au fost pronunțate, în primă instanță, de completuri de judecată specializate în această materie sau, în apel, de completuri de judecată ai căror membri au fost desemnați toți prin tragere la sorți sunt lovite de nulitate absolută, astfel încât cauzele de corupție și de fraudă în domeniul TVA‑ului în discuție trebuie, dacă este cazul, în urma unei căi extraordinare de atac împotriva unor hotărâri definitive, să fie rejudecate în primă instanță și/sau în apel, în măsura în care aplicarea acestei reglementări sau a acestei practici naționale este de natură să creeze un risc sistemic de impunitate a faptelor ce constituie infracțiuni grave de fraudă care aduce atingere intereselor financiare ale Uniunii sau de corupție în general. Obligația de a se asigura că astfel de infracțiuni fac obiectul unor sancțiuni penale care au un caracter efectiv și disuasiv nu scutește instanța de trimitere de verificarea respectării necesare a drepturilor fundamentale garantate la articolul 47 din Carta drepturilor fundamentale a Uniunii Europene, fără ca această instanță să poată aplica un standard național de protecție a drepturilor fundamentale care să implice un asemenea risc sistemic de impunitate.",
+  "3) Articolul 2 și articolul 19 alineatul (1) al doilea paragraf TUE, precum și Decizia 2006/928 trebuie interpretate în sensul că nu se opun unei reglementări sau unei practici naționale potrivit căreia deciziile curții constituționale naționale sunt obligatorii pentru instanțele de drept comun, cu condiția ca dreptul național să garanteze independența curții constituționale menționate în special față de puterile legislativă și executivă, astfel cum este impusă de aceste dispoziții. În schimb, aceste dispoziții din Tratatul UE și decizia menționată trebuie interpretate în sensul că se opun unei reglementări naționale potrivit căreia orice nerespectare a deciziilor curții constituționale naționale de către judecătorii naționali de drept comun este de natură să angajeze răspunderea lor disciplinară.",
+  "4) Principiul supremației dreptului Uniunii trebuie interpretat în sensul că se opune unei reglementări sau unei practici naționale potrivit căreia instanțele naționale de drept comun sunt ținute de deciziile curții constituționale naționale și nu pot, din acest motiv și cu riscul săvârșirii unei abateri disciplinare, să lase neaplicată din oficiu jurisprudența rezultată din deciziile menționate, chiar dacă ele consideră, în lumina unei hotărâri a Curții, că această jurisprudență este contrară articolului 19 alineatul (1) al doilea paragraf TUE, articolului 325 alineatul (1) TFUE sau Deciziei 2006/928."
+ ]
+}
