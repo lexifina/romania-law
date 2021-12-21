@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-14: registered at the Chamber of Deputies
 - 2021-11-04: documents published: Punct de vedere Guvern
 - 2021-12-07: adopted by the Chamber of Deputies; registered at the Senate
+- 2021-12-21: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-09: Expunere de motive (EM): [em-3b7773f3.md](em-3b7773f3.md); official file https://www.senat.ro/legis/PDF/2021/21L527EM.PDF
 - 2021-07-07: Aviz comisie (CA3): [ca3-f1a3b5e6.md](ca3-f1a3b5e6.md); official file https://www.senat.ro/legis/PDF/2021/21L527CA3.PDF
 - 2021-11-04: Punct de vedere Guvern (SJ): [sj-29dc0f14.md](sj-29dc0f14.md); official file https://www.senat.ro/legis/PDF/2021/21L527SJ.PDF
+- 2021-12-21: Aviz comisie (CA45): [ca45-0988615e.md](ca45-0988615e.md); official file https://www.senat.ro/legis/PDF/2021/21L527CA45.PDF
