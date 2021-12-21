@@ -1,0 +1,29 @@
+# Anexa 1
+Anexa nr. 1
+la procedură
+- Model cerere -
+Nr. ......./...............
+Avizat
+Domnule director,
+Subsemnatul(a), ......................................., având funcția de .............................. (gradul, numele și prenumele), în cadrul ..................................... (unitatea), prin prezenta solicit acordarea biletului de odihnă, în locația ..............................., spațiul de cazare ............................ și seria de odihnă, fiind menționate 4 opțiuni: (1)
+.................................
+(2)
+.................................
+(3)
+.................................
+(4)
+................................. .
+Precizez că membrul/membrii de familie pentru care solicit biletul este/sunt următorul/următorii și se încadrează în următoarele categorii de asigurați: 1.
+.................................
+2.
+.................................
+3.
+.................................
+4.
+................................ .
+În cazul în care cererea va fi admisă, mă angajez să achit contribuția care trebuie suportată de beneficiarul biletului de odihnă.
+Sub sancțiunile aplicate faptei de fals în acte publice, în cazul în care voi beneficia de bilet de odihnă, declar că acesta nu se decontează de altă instituție.
+Menționez că pot fi contactat la numărul de telefon ............................ .
+Cu stimă,
+Semnătura ........................
+Data .......................
