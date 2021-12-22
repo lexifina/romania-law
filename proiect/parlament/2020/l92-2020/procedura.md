@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-16: returned for re-examination
 - 2021-12-06: returned for re-examination
 - 2021-12-15: sent for promulgation
+- 2021-12-22: promulgated, becomes Legea nr. 308/2021; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,14 @@ Initiator: Guvernul României.
 - 2020-04-28: Forma adoptată de Senat (FS): [fs-4fb4690c.md](fs-4fb4690c.md); official file https://www.senat.ro/legis/PDF/2020/20L092FS.PDF
 - 2020-04-29: Adresă privind sesizarea CCR (AXS): [axs-466bb0ae.md](axs-466bb0ae.md); official file https://www.senat.ro/legis/PDF/2020/20L092AXS.PDF
 - 2020-04-29: Forma trimisă la promulgare (LP): [lp-856b7a29.md](lp-856b7a29.md); official file https://www.senat.ro/legis/PDF/2020/20L092LP.PDF
+- 2021-12-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L092AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (SC): [sc-48d7da74.md](sc-48d7da74.md); official file https://www.senat.ro/legis/PDF/2020/20L092SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (DC): [dc-aa921937.md](dc-aa921937.md); official file https://www.senat.ro/legis/PDF/2020/20L092DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (RC): [rc-9b1f3c01.md](rc-9b1f3c01.md); official file https://www.senat.ro/legis/PDF/2020/20L092RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (SX): [sx-663ef629.md](sx-663ef629.md); official file https://www.senat.ro/legis/PDF/2020/20L092SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (LX): [lx-14ed6318.md](lx-14ed6318.md); official file https://www.senat.ro/legis/PDF/2020/20L092LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (XXS): [xxs-d9bf368e.md](xxs-d9bf368e.md); official file https://www.senat.ro/legis/PDF/2020/20L092XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Document (PX): [px-f8b0c3de.md](px-f8b0c3de.md); official file https://www.senat.ro/legis/PDF/2020/20L092PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-22: Decret de promulgare (DP): [dp-7b066bb7.md](dp-7b066bb7.md); official file https://www.senat.ro/legis/PDF/2020/20L092DP.PDF
+- 2021-12-22: Adresă privind forma promulgată (AFP): [afp-04daa7eb.md](afp-04daa7eb.md); official file https://www.senat.ro/legis/PDF/2020/20L092AFP.PDF
+- 2021-12-22: Forma promulgată (FP): [fp-0dec1845.md](fp-0dec1845.md); official file https://www.senat.ro/legis/PDF/2020/20L092FP.PDF
