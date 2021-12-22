@@ -1,0 +1,7 @@
+Consiliul local al comunei Vama Buzăului, Întrunit în ședința ordinară din data de 22.12.2021;
+Analizând proiectul de hotărâre inițiat de viceprimarul comunei Vama Buzăului și referatul de aprobare al acestui proiect de hotărâre, văzând raportul întocmit de compartimentul de resort din cadrul aparatului de specialitate al Primarului comunei Vama Buzăului, precum și avizele comisiilor de specialitate nr. 1, nr. 2 și nr. 3;
+Văzând Amenajamentul pajiștilor (descrierea vegetației forestiere) proprietate privată a Comunei Vama Buzăului, județul Brașov, întocmit de către S.C. Impact Sil S.R.L. Brașov;
+În conformitate cu prevederile art. 6 din O.U.G. nr. 34/2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completarea Legii fondului funciar nr. 18/1991, cu modificările și completările ulterioare, ale art. 8 și art. 9 din H.G. nr. 1064/2013 privind aprobarea Normelor metodolgice pentru aplicarea prevederilor O.U.G. nr. 34/2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completarea Legii fondului funciar nr. 18/1991, cu modificările și completările ulterioare, coroborate cu prevederile art. 129, alin. (2), lit. ,,c” și alin. (7), lit. ,,b” din O.U.G. nr.
+57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+În temeiul prevederilor art. 139, alin. (1) și alin. (3) și art. 196, alin.(1), lit. ,,a” din O.U.G. nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare,
+HOTĂRĂȘTE:
