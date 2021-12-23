@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-12-07: adopted by the Chamber of Deputies
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-15: sent for promulgation
+- 2021-12-23: promulgated, becomes Legea nr. 310/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2021-10-18: Adresă către Camera Deputaților (AM): [am-1adda9f0.md](am-1adda9f0.md); official file https://www.senat.ro/legis/PDF/2021/21L396AM.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-b2ecc534.md](axs-b2ecc534.md); official file https://www.senat.ro/legis/PDF/2021/21L396AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-1bbabf2c.md](lp-1bbabf2c.md); official file https://www.senat.ro/legis/PDF/2021/21L396LP.PDF
+- 2021-12-23: Decret de promulgare (DP): [dp-585eb805.md](dp-585eb805.md); official file https://www.senat.ro/legis/PDF/2021/21L396DP.PDF
+- 2021-12-23: Adresă privind forma promulgată (AFP): [afp-b943db3c.md](afp-b943db3c.md); official file https://www.senat.ro/legis/PDF/2021/21L396AFP.PDF
+- 2021-12-23: Forma promulgată (FP): [fp-5b97d33b.md](fp-5b97d33b.md); official file https://www.senat.ro/legis/PDF/2021/21L396FP.PDF
