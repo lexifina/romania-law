@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2021-12-20: registered at the Chamber of Deputies
 - 2021-12-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-23: sent for promulgation
+- 2021-12-24: promulgated, becomes Legea nr. 311/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -46,3 +47,6 @@ Initiator: Guvernul României.
 - 2021-12-16: Aviz comisie (CA3): [ca3-176d20c5.md](ca3-176d20c5.md); official file https://www.senat.ro/legis/PDF/2021/21L526CA3.PDF
 - 2021-12-21: Adresă privind sesizarea CCR (AXS): [axs-f52974df.md](axs-f52974df.md); official file https://www.senat.ro/legis/PDF/2021/21L526AXS.PDF
 - 2021-12-21: Forma trimisă la promulgare (LP): [lp-2c95070a.md](lp-2c95070a.md); official file https://www.senat.ro/legis/PDF/2021/21L526LP.PDF
+- 2021-12-24: Decret de promulgare (DP): [dp-3c7eaabc.md](dp-3c7eaabc.md); official file https://www.senat.ro/legis/PDF/2021/21L526DP.PDF
+- 2021-12-24: Adresă privind forma promulgată (AFP): [afp-81676ee6.md](afp-81676ee6.md); official file https://www.senat.ro/legis/PDF/2021/21L526AFP.PDF
+- 2021-12-24: Forma promulgată (FP): [fp-ea148ba5.md](fp-ea148ba5.md); official file https://www.senat.ro/legis/PDF/2021/21L526FP.PDF
