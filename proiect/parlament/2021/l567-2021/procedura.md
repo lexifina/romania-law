@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2021-12-21: documents published: Aviz comisie
 - 2021-12-22: documents published: Raport comisie sesizată pe fond
 - 2021-12-23: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2021-12-25: sent for promulgation
 
 ## Documents
 
