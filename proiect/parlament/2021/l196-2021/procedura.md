@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-08: returned for re-examination
 - 2021-12-13: returned for re-examination
 - 2021-12-22: sent for promulgation
+- 2021-12-27: promulgated, becomes Legea nr. 313/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-28: Forma adoptată de Senat (FS): [fs-f231f7af.md](fs-f231f7af.md); official file https://www.senat.ro/legis/PDF/2021/21L196FS.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L196AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-59e6c5b7.md](lp-59e6c5b7.md); official file https://www.senat.ro/legis/PDF/2021/21L196LP.PDF
+- 2021-12-27: Decret de promulgare (DP): [dp-51deb64f.md](dp-51deb64f.md); official file https://www.senat.ro/legis/PDF/2021/21L196DP.PDF
+- 2021-12-27: Adresă privind forma promulgată (AFP): [afp-1c346d70.md](afp-1c346d70.md); official file https://www.senat.ro/legis/PDF/2021/21L196AFP.PDF
+- 2021-12-27: Forma promulgată (FP): [fp-b94a953c.md](fp-b94a953c.md); official file https://www.senat.ro/legis/PDF/2021/21L196FP.PDF
