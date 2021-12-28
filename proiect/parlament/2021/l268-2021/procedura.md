@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-07: adopted by the Chamber of Deputies
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-15: sent for promulgation
+- 2021-12-28: promulgated, becomes Legea nr. 315/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,6 @@ Initiator: Guvernul României.
 - 2021-10-09: Adresă către Camera Deputaților (AM): [am-75cbee7b.md](am-75cbee7b.md); official file https://www.senat.ro/legis/PDF/2021/21L268AM.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-16387948.md](axs-16387948.md); official file https://www.senat.ro/legis/PDF/2021/21L268AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-141fa156.md](lp-141fa156.md); official file https://www.senat.ro/legis/PDF/2021/21L268LP.PDF
+- 2021-12-28: Decret de promulgare (DP): [dp-da101ede.md](dp-da101ede.md); official file https://www.senat.ro/legis/PDF/2021/21L268DP.PDF
+- 2021-12-28: Adresă privind forma promulgată (AFP): [afp-761b6e32.md](afp-761b6e32.md); official file https://www.senat.ro/legis/PDF/2021/21L268AFP.PDF
+- 2021-12-28: Forma promulgată (FP): [fp-c0121465.md](fp-c0121465.md); official file https://www.senat.ro/legis/PDF/2021/21L268FP.PDF
