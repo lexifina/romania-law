@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-13: returned for re-examination
 - 2021-12-22: sent for promulgation
 - 2021-12-27: promulgated, becomes Legea nr. 313/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,11 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-27: Decret de promulgare (DP): [dp-51deb64f.md](dp-51deb64f.md); official file https://www.senat.ro/legis/PDF/2021/21L196DP.PDF
 - 2021-12-27: Adresă privind forma promulgată (AFP): [afp-1c346d70.md](afp-1c346d70.md); official file https://www.senat.ro/legis/PDF/2021/21L196AFP.PDF
 - 2021-12-27: Forma promulgată (FP): [fp-b94a953c.md](fp-b94a953c.md); official file https://www.senat.ro/legis/PDF/2021/21L196FP.PDF
+- 2021-12-28: Document (AL): [al-b34a1b95.md](al-b34a1b95.md); official file https://www.senat.ro/legis/PDF/2021/21L196AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (SC): [sc-8767e219.md](sc-8767e219.md); official file https://www.senat.ro/legis/PDF/2021/21L196SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L196DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (RC): [rc-4eb2b7a5.md](rc-4eb2b7a5.md); official file https://www.senat.ro/legis/PDF/2021/21L196RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (SX): [sx-b20ed31e.md](sx-b20ed31e.md); official file https://www.senat.ro/legis/PDF/2021/21L196SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (LX): [lx-d32f997f.md](lx-d32f997f.md); official file https://www.senat.ro/legis/PDF/2021/21L196LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (XXS): [xxs-c36bbe5a.md](xxs-c36bbe5a.md); official file https://www.senat.ro/legis/PDF/2021/21L196XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2021-12-28: Document (PX): [px-b97f3e11.md](px-b97f3e11.md); official file https://www.senat.ro/legis/PDF/2021/21L196PX.PDF (its day is not given by the bill file: shown from the last stage held)
