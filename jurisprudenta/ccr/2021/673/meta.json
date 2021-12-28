@@ -1,0 +1,207 @@
+{
+ "key": "dcc-673-2021",
+ "label": "Decizia CCR nr. 673/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "673",
+ "date": "2021-10-21",
+ "year": "2021",
+ "heading": "DECIZIA nr. 673 din 21 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5 din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1233",
+  "bis": false,
+  "date": "2021-12-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.905/90/2014",
+  "463D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Corina Maria Terzi, Anca Pascu și Terzi Bogdan, moștenitori ai defunctului Radu Lucian Terzi, în Dosarul nr. 3.905/90/2014 al Tribunalului Vâlcea - Secția a II-a civilă și constată că dispozițiile art. 5 din Legea nr. 164/2014 privind unele măsuri pentru accelerarea și finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr. 9/1998 privind acordarea de compensații cetățenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și pentru modificarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vâlcea - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 164/2014",
+    "number": "164",
+    "year": "2014",
+    "path": "lege/2014/164"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 290/2003",
+    "number": "290",
+    "year": "2003",
+    "path": "lege/2003/290"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 9/1998",
+    "number": "9",
+    "year": "1998",
+    "path": "lege/1998/9"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2021-12-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/249948",
+  "text_sha256": "24614a5fd25b8bc7cbc82947ba16a21166bbadfbde953b9b0e1ae4e7fbefc639",
+  "catalogue_sha256": "24614a5fd25b8bc7cbc82947ba16a21166bbadfbde953b9b0e1ae4e7fbefc639",
+  "fetched": "2026-11-03T01:37:56Z",
+  "chars": 16304,
+  "portal_id": "249948",
+  "tip": "DECIZIE"
+ }
+}
