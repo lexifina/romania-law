@@ -1,0 +1,22 @@
+# Proiect de lege L3/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 307/2023 (`legea-307-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.136/2021 pentru modificarea anexei nr.6 la Ordonanța de urgență a Guvernului nr.196/2005 privind Fondul pentru mediu
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-12-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-12-28: Adresă de înaintare a inițiativei (AD): [ad-4d07c707.md](ad-4d07c707.md); official file https://www.senat.ro/legis/PDF/2022/22L003AD.PDF
+- 2021-12-28: Forma inițiatorului (FG): [fg-b2d8a027.md](fg-b2d8a027.md); official file https://www.senat.ro/legis/PDF/2022/22L003FG.PDF
+- 2021-12-28: Expunere de motive (EM): [em-ba2cd01c.md](em-ba2cd01c.md); official file https://www.senat.ro/legis/PDF/2022/22L003EM.PDF
+- 2021-12-28: Aviz Consiliul Legislativ (LG): [lg-e6042db8.md](lg-e6042db8.md); official file https://www.senat.ro/legis/PDF/2022/22L003LG.PDF
+- 2021-12-28: Document (OG): [og-f6f21842.md](og-f6f21842.md); official file https://www.senat.ro/legis/PDF/2022/22L003OG.PDF
+- 2021-12-28: Document (HG): [hg-2e9be322.md](hg-2e9be322.md); official file https://www.senat.ro/legis/PDF/2022/22L003HG.PDF
