@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-07: adopted by the Chamber of Deputies
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-15: sent for promulgation
+- 2021-12-28: promulgated, becomes Legea nr. 316/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-43f20dd7.md](am-43f20dd7.md); official file https://www.senat.ro/legis/PDF/2020/20L597AM.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-83bb442e.md](axs-83bb442e.md); official file https://www.senat.ro/legis/PDF/2020/20L597AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-f5be4c0b.md](lp-f5be4c0b.md); official file https://www.senat.ro/legis/PDF/2020/20L597LP.PDF
+- 2021-12-28: Decret de promulgare (DP): [dp-7535742d.md](dp-7535742d.md); official file https://www.senat.ro/legis/PDF/2020/20L597DP.PDF
+- 2021-12-28: Adresă privind forma promulgată (AFP): [afp-9f075632.md](afp-9f075632.md); official file https://www.senat.ro/legis/PDF/2020/20L597AFP.PDF
+- 2021-12-28: Forma promulgată (FP): [fp-3d4e8fb0.md](fp-3d4e8fb0.md); official file https://www.senat.ro/legis/PDF/2020/20L597FP.PDF
