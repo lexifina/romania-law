@@ -1,0 +1,22 @@
+# Proiect de lege L7/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 205/2023 (`legea-205-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.140/2021 privind anumite aspecte referitoare la contractele de vânzare de bunuri
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2021-12-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2021-12-29: Adresă de înaintare a inițiativei (AD): [ad-759f82a4.md](ad-759f82a4.md); official file https://www.senat.ro/legis/PDF/2022/22L007AD.PDF
+- 2021-12-29: Forma inițiatorului (FG): [fg-c90c3966.md](fg-c90c3966.md); official file https://www.senat.ro/legis/PDF/2022/22L007FG.PDF
+- 2021-12-29: Expunere de motive (EM): [em-6e664bb7.md](em-6e664bb7.md); official file https://www.senat.ro/legis/PDF/2022/22L007EM.PDF
+- 2021-12-29: Aviz Consiliul Legislativ (LG): [lg-a41816a9.md](lg-a41816a9.md); official file https://www.senat.ro/legis/PDF/2022/22L007LG.PDF
+- 2021-12-29: Document (OG): [og-600a5456.md](og-600a5456.md); official file https://www.senat.ro/legis/PDF/2022/22L007OG.PDF
+- 2021-12-29: Document (HG): [hg-ae53be7e.md](hg-ae53be7e.md); official file https://www.senat.ro/legis/PDF/2022/22L007HG.PDF
