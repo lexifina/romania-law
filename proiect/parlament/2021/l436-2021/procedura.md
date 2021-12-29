@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-07: registered at the Chamber of Deputies
 - 2021-12-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-23: sent for promulgation
+- 2021-12-29: promulgated, becomes Legea nr. 322/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-22: Adresă către Camera Deputaților (AM): [am-45ce94ac.md](am-45ce94ac.md); official file https://www.senat.ro/legis/PDF/2021/21L436AM.PDF
 - 2021-12-21: Adresă privind sesizarea CCR (AXS): [axs-0b7a39bb.md](axs-0b7a39bb.md); official file https://www.senat.ro/legis/PDF/2021/21L436AXS.PDF
 - 2021-12-21: Forma trimisă la promulgare (LP): [lp-2aa1f13e.md](lp-2aa1f13e.md); official file https://www.senat.ro/legis/PDF/2021/21L436LP.PDF
+- 2021-12-29: Decret de promulgare (DP): [dp-db98b16f.md](dp-db98b16f.md); official file https://www.senat.ro/legis/PDF/2021/21L436DP.PDF
+- 2021-12-29: Adresă privind forma promulgată (AFP): [afp-1b82ce87.md](afp-1b82ce87.md); official file https://www.senat.ro/legis/PDF/2021/21L436AFP.PDF
+- 2021-12-29: Forma promulgată (FP): [fp-7ad734f4.md](fp-7ad734f4.md); official file https://www.senat.ro/legis/PDF/2021/21L436FP.PDF
