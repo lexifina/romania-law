@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-12-15: adopted by the Chamber of Deputies
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-22: sent for promulgation
+- 2021-12-29: promulgated, becomes Legea nr. 320/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Guvernul României.
 - 2021-10-18: Adresă către Camera Deputaților (AM): [am-2ccabe19.md](am-2ccabe19.md); official file https://www.senat.ro/legis/PDF/2021/21L392AM.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-fd348255.md](axs-fd348255.md); official file https://www.senat.ro/legis/PDF/2021/21L392AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-32a5d812.md](lp-32a5d812.md); official file https://www.senat.ro/legis/PDF/2021/21L392LP.PDF
+- 2021-12-29: Decret de promulgare (DP): [dp-3ba34068.md](dp-3ba34068.md); official file https://www.senat.ro/legis/PDF/2021/21L392DP.PDF
+- 2021-12-29: Adresă privind forma promulgată (AFP): [afp-2640273d.md](afp-2640273d.md); official file https://www.senat.ro/legis/PDF/2021/21L392AFP.PDF
+- 2021-12-29: Forma promulgată (FP): [fp-78514397.md](fp-78514397.md); official file https://www.senat.ro/legis/PDF/2021/21L392FP.PDF
