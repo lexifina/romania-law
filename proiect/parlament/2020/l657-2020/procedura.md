@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-15: sent for promulgation
 - 2021-12-28: promulgated, becomes Legea nr. 314/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-29: published in the Monitorul Oficial
 
 ## Documents
 
