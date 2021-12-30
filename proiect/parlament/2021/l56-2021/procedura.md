@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-12-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-23: sent for promulgation
 - 2021-12-29: promulgated, becomes Legea nr. 323/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,4 @@ Initiator: Guvernul României.
 - 2021-12-29: Decret de promulgare (DP): [dp-55ff4e12.md](dp-55ff4e12.md); official file https://www.senat.ro/legis/PDF/2021/21L056DP.PDF
 - 2021-12-29: Adresă privind forma promulgată (AFP): [afp-ac704b41.md](afp-ac704b41.md); official file https://www.senat.ro/legis/PDF/2021/21L056AFP.PDF
 - 2021-12-29: Forma promulgată (FP): [fp-dcc507cf.md](fp-dcc507cf.md); official file https://www.senat.ro/legis/PDF/2021/21L056FP.PDF
+- 2021-12-30: Document (AL): [al-1216a768.md](al-1216a768.md); official file https://www.senat.ro/legis/PDF/2021/21L056AL.PDF (its day is not given by the bill file: shown from the last stage held)
