@@ -1,0 +1,177 @@
+{
+ "key": "iccj-hp-70-2021",
+ "label": "Decizia ÎCCJ nr. 70/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "70",
+ "date": "2021-10-11",
+ "year": "2021",
+ "heading": "DECIZIA nr. 70 din 11 octombrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 170 alin. (3) din Legea nr. 263/2010",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1256",
+  "bis": false,
+  "date": "2021-12-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.956/1/2021",
+  "1.245/95/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Craiova - Secția de litigii de muncă și asigurări sociale în Dosarul nr. 1.245/95/2020 și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 170 alin. (3) din Legea nr. 263/2010, data acordării indicelui de corecție este cea la care stabilirea pensiei a avut loc pentru prima oară în condițiile Legii nr. 263/2010, chiar dacă aceasta este anterioară zilei de 10 februarie 2020, când Decizia nr. 702 din 31 octombrie 2019 pronunțată de Curtea Constituțională a fost publicată în Monitorul Oficial al României, Partea I, nr. 96.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "170",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2013",
+    "number": "3",
+    "year": "2013",
+    "path": "lege/2013/3"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2021-12-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250101",
+  "text_sha256": "86330f65d203562ba1ac547f0174368cdbcc97b4678ea70aad3fe17204950282",
+  "catalogue_sha256": "86330f65d203562ba1ac547f0174368cdbcc97b4678ea70aad3fe17204950282",
+  "fetched": "2026-11-04T03:14:57Z",
+  "chars": 46894,
+  "portal_id": "250101",
+  "tip": "DECIZIE"
+ }
+}
