@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-22: sent for promulgation
 - 2021-12-29: promulgated, becomes Legea nr. 320/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2021-12-31: published in the Monitorul Oficial
 
 ## Documents
 
