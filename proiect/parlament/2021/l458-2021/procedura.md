@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-12-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-18: sent for promulgation
+- 2022-01-04: promulgated, becomes Legea nr. 5/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2021-12-06: Forma adoptată de Senat (FS): [fs-6fbb62e1.md](fs-6fbb62e1.md); official file https://www.senat.ro/legis/PDF/2021/21L458FS.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-01f3b6b6.md](axs-01f3b6b6.md); official file https://www.senat.ro/legis/PDF/2021/21L458AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-137125cb.md](lp-137125cb.md); official file https://www.senat.ro/legis/PDF/2021/21L458LP.PDF
+- 2022-01-04: Decret de promulgare (DP): [dp-af1110df.md](dp-af1110df.md); official file https://www.senat.ro/legis/PDF/2021/21L458DP.PDF
+- 2022-01-04: Adresă privind forma promulgată (AFP): [afp-4b866e0f.md](afp-4b866e0f.md); official file https://www.senat.ro/legis/PDF/2021/21L458AFP.PDF
+- 2022-01-04: Forma promulgată (FP): [fp-8c76520f.md](fp-8c76520f.md); official file https://www.senat.ro/legis/PDF/2021/21L458FP.PDF
