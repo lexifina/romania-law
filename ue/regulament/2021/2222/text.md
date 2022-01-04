@@ -1,0 +1,118 @@
+REGULAMENTUL DELEGAT (UE) 2021/2222 AL COMISIEI
+din 30 septembrie 2021
+de completare a Regulamentului (UE) 2019/818 al Parlamentului European și al Consiliului cu norme detaliate privind funcționarea registrului central de raportare și statistici
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2019/818 al Parlamentului European și al Consiliului din 20 mai 2019 privind instituirea unui cadru pentru interoperabilitatea dintre sistemele de informații ale UE în domeniul cooperării polițienești și judiciare, al azilului și al migrației și de modificare a Regulamentelor (UE) 2018/1726, (UE) 2018/1862 și (UE) 2019/816 (1), în special articolul 39 alineatul (5),
+întrucât:
+(1) Regulamentul (UE) 2019/818, împreună cu Regulamentul (UE) 2019/817 al Parlamentului European și al Consiliului (2), stabilește un cadru pentru a asigura interoperabilitatea dintre sistemele de informații ale UE în domeniul frontierelor, al vizelor, al cooperării polițienești și judiciare, al azilului și al migrației.
+(2) Acest cadru include o serie de componente și instrumente care sprijină interoperabilitatea, inclusiv un registru central de raportare și statistici (denumit în continuare „registrul central”). Registrul central stochează date anonimizate extrase din sistemele de informații ale UE subiacente, din serviciul comun de comparare a datelor biometrice, din registrul comun de date de identitate și din detectorul de identități multiple, pentru a furniza rapoarte statistice între sisteme în scopuri de politică, operaționale și de asigurare a calității datelor.
+(3) Agenția Europeană pentru Gestionarea Operațională a Sistemelor Informatice la Scară Largă în Spațiul de Libertate, Securitate și Justiție („eu-LISA”) este responsabilă de crearea, implementarea și găzduirea registrului central și de gestionarea operațională a acestuia.
+(4) Pentru a permite registrului central să furnizeze date statistice între sisteme, este necesar să se stabilească norme detaliate privind funcționarea acestuia, inclusiv standarde specifice pentru prelucrarea datelor cu caracter personal, precum și norme de securitate.
+(5) Pentru a face imposibilă identificarea persoanelor fizice pe baza datelor statistice din registrul central, eu-LISA ar trebui să dezvolte un instrument de anonimizare a datelor ca parte a arhitecturii sale. Procesul de anonimizare ar trebui să fie automatizat.
+(6) Accesul controlat și securizat ar trebui acordat numai membrilor personalului autorizat din cadrul autorităților competente, al instituțiilor și al agențiilor Uniunii, astfel încât aceștia să poată consulta datele și statisticile din registrul central. În acest scop, eu-LISA ar trebui să dezvolte un instrument de raportare ca parte a arhitecturii sale. Personalul eu-LISA nu ar trebui să aibă acces direct la datele cu caracter personal stocate în sistemele de informații ale UE sau în componentele de interoperabilitate.
+(7) Pentru a ține evidența corelării încrucișate a dosarelor de identitate în cadrul sistemelor de informații ale UE corespunzătoare sau între acestea în scopuri statistice relevante, registrul central ar trebui să păstreze un număr de referință unic. Nu ar trebui să fie posibil să se utilizeze acest număr pentru a obține informații din dosarele de identitate.
+(8) Soluția tehnică care găzduiește registrul central ar trebui implementată în cadrul amplasamentului tehnic al eu-LISA și în cadrul amplasamentului de rezervă, pentru a se asigura că aceasta rămâne disponibilă în orice moment.
+(9) Dat fiind faptul că Regulamentul (UE) 2019/818 se bazează pe acquis-ul Schengen, în conformitate cu articolul 4 din Protocolul nr. 22 privind poziția Danemarcei, anexat la Tratatul privind Uniunea Europeană și la Tratatul privind funcționarea Uniunii Europene, Danemarca a notificat punerea în aplicare a Regulamentului (UE) 2019/818 în dreptul său național. Prin urmare, Danemarca are obligația de a respecta prezentul regulament.
+(10) Prezentul regulament constituie o dezvoltare a dispozițiilor acquis-ului Schengen la care Irlanda nu participă (3). Prin urmare, Irlanda nu participă la adoptarea prezentului regulament, acesta nu este obligatoriu pentru respectivul stat membru și nu i se aplică.
+(11) În ceea ce privește Islanda și Norvegia, prezentul regulament constituie o dezvoltare a dispozițiilor acquis-ului Schengen în sensul Acordului încheiat de Consiliul Uniunii Europene și Republica Islanda și Regatul Norvegiei privind asocierea acestora din urmă la implementarea, aplicarea și dezvoltarea acquis-ului Schengen (4), care se încadrează în domeniul menționat la articolul 1 punctul A din Decizia 1999/437/CE a Consiliului (5).
+(12) În ceea ce privește Elveția, prezentul regulament constituie o dezvoltare a dispozițiilor acquis-ului Schengen în sensul Acordului dintre Uniunea Europeană, Comunitatea Europeană și Confederația Elvețiană cu privire la asocierea Confederației Elvețiene la punerea în aplicare, respectarea și dezvoltarea acquis-ului Schengen (6), care se încadrează în domeniul menționat la articolul 1 punctul A din Decizia 1999/437/CE coroborat cu articolul 3 din Decizia 2008/146/CE a Consiliului (7).
+(13) În ceea ce privește Liechtensteinul, prezentul regulament constituie o dezvoltare a dispozițiilor acquis-ului Schengen în sensul Protocolului dintre Uniunea Europeană, Comunitatea Europeană, Confederația Elvețiană și Principatul Liechtenstein privind aderarea Principatului Liechtenstein la Acordul dintre Uniunea Europeană, Comunitatea Europeană și Confederația Elvețiană privind asocierea Confederației Elvețiene la punerea în aplicare, respectarea și dezvoltarea acquis-ului Schengen (8), care se încadrează în domeniul menționat la articolul 1 punctul A din Decizia 1999/437/CE coroborat cu articolul 3 din Decizia 2011/350/UE a Consiliului (9).
+(14) În ceea ce privește Ciprul, Bulgaria, România și Croația, prezentul regulament constituie un act care se întemeiază pe acquis-ul Schengen sau care se raportează la acesta în sensul articolului 3 alineatul (1) din Actul de aderare din 2003, al articolului 4 alineatul (1) din Actul de aderare din 2005 și, respectiv, al articolului 4 alineatul (1) din Actul de aderare din 2011.
+(15) Autoritatea Europeană pentru Protecția Datelor a fost consultată în conformitate cu articolul 42 alineatul (1) din Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului (10) și a emis un aviz la 17 iunie 2021,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Definiții
+În sensul prezentului regulament, se aplică următoarele definiții:
+1. „date statistice” înseamnă datele care sunt anonimizate și utilizate exclusiv în scopul elaborării de rapoarte statistice în temeiul Regulamentului (UE) 2017/2226 (11), al Regulamentului (UE) 2018/1240 (12), al Regulamentului (UE) 2018/1860 (13), al Regulamentului (UE) 2018/1861 (14), al Regulamentului (UE) 2018/1862 (15) și al Regulamentului (UE) 2019/816 (16) ale Parlamentului European și ale Consiliului;
+2. „rapoarte (statistice)” înseamnă o colecție organizată de date statistice, produsă de registrul central în mod automat, în conformitate cu un set de norme prestabilite și stocată în registrul central;
+3. „rapoarte configurabile” înseamnă rapoarte statistice care sunt extrase pe baza datelor statistice conținute în registrul central în conformitate cu norme specifice stabilite ad-hoc de către un utilizator și stocate în registrul central;
+4. „date de identitate critice” înseamnă oricare dintre următoarele date sau o combinație a acestora, pe baza cărora pot fi identificate persoane fizice:
+(a) numele, prenumele, numele de familie, prenume, pseudonimul oricărei persoane ale cărei date pot fi stocate în orice sistem de informații al UE;
+(b) numărul documentului de călătorie;
+(c) adresa (numele străzii, numărul imobilului);
+(d) telefonul, adresa IP;
+(e) adresele de e-mail;
+(f) datele biometrice.
+Articolul 2
+Informații care trebuie incluse în registrul central
+(1) Datele menționate la articolul 39 alineatul (2) din Regulamentul (UE) 2019/818 sunt puse la dispoziție și stocate în registrul central în conformitate cu prezentul regulament.
+(2) Registrul central conține date statistice, inclusiv rapoarte privind utilizarea sistemului în scopul monitorizării funcționării componentelor de interoperabilitate menționate la articolul 62 din Regulamentul (UE) 2019/818.
+(3) Registrul central conține rapoarte tehnice pentru a asigura monitorizarea de către eu-LISA a dezvoltării și funcționării componentelor de interoperabilitate în conformitate cu articolul 74 alineatul (1) din Regulamentul (UE) 2019/818.
+(4) Registrul central păstrează un număr de referință unic care permite să se țină evidența corelării încrucișate a dosarelor de identitate în cadrul sistemelor de informații ale UE corespunzătoare sau între acestea în scopuri statistice. Nu este posibilă utilizarea acestui număr de referință pentru a obține dosarele de identitate subiacente.
+(5) Registrul central permite personalului autorizat în mod corespunzător din cadrul autorităților competente menționate la articolul 39 alineatul (2) din Regulamentul (UE) 2019/818 să obțină următoarele:
+(a) rapoarte în temeiul articolului 74 din Regulamentul (UE) 2018/1862, care conțin următoarele statistici privind înregistrările păstrate în Sistemul de informații Schengen:
+(i) statistici zilnice, lunare și anuale care indică numărul de înregistrări pentru fiecare categorie de semnalări, atât pentru fiecare stat membru, cât și agregate, în temeiul articolului 74 alineatul (3) din regulamentul respectiv;
+(ii) rapoarte anuale privind numărul de rezultate pozitive pentru fiecare categorie de semnalări, numărul de căutări efectuate în Sistemul de informații Schengen și de accesări ale sistemului în scopul introducerii, actualizării sau ștergerii unei semnalări, atât pentru fiecare stat membru, cât și agregate, în temeiul articolului 74 alineatul (3) din regulamentul respectiv;
+(iii) la cererea Comisiei, rapoarte statistice specifice suplimentare, fie periodic, fie ad-hoc, privind performanța și utilizarea Sistemului de informații Schengen și privind schimbul de informații suplimentare, în temeiul articolului 74 alineatul (6) al doilea paragraf din regulamentul respectiv;
+(iv) la cererea Agenției Europene pentru Poliția de Frontieră și Garda de Coastă, rapoarte statistice specifice suplimentare, fie periodic, fie ad-hoc, în scopul efectuării de analize de risc și de evaluări ale vulnerabilității, în temeiul articolului 74 alineatul (6) al treilea paragraf din regulamentul respectiv;
+(v) rapoarte și statistici în scopul întreținerii tehnice, al raportării, al raportării privind calitatea datelor și al statisticilor în temeiul articolului 74 alineatul (2) din regulamentul respectiv;
+(vi) rapoarte privind calitatea datelor în temeiul articolului 15 alineatul (4) din regulamentul respectiv;
+(b) rapoarte în temeiul articolului 32 din Regulamentul (UE) 2019/816, care conțin următoarele statistici privind înregistrările păstrate în Sistemul european de informații cu privire la cazierele judiciare ale resortisanților țărilor terțe (ECRIS-TCN) și aplicația de referință a ECRIS:
+(i) rapoarte și statistici configurabile referitoare la înregistrarea, stocarea și schimbul de informații extrase din cazierele judiciare prin intermediul Sistemului european de informații cu privire la cazierele judiciare ale resortisanților țărilor terțe;
+(ii) rapoarte și statistici în scopul întreținerii tehnice, al raportării privind calitatea datelor și al statisticilor în temeiul articolului 32 alineatul (3) din regulamentul respectiv.
+(6) Rapoartele tehnice menționate la alineatul (2) conțin statistici privind utilizarea sistemului, disponibilitatea, incidentele, capacitatea de performanță, acuratețea biometrică, calitatea datelor și, după caz, operațiunile în curs.
+(7) Rapoartele de activitate produse de registrul central sunt configurabile de către utilizator, astfel încât să permită filtrarea sau gruparea datelor cu ajutorul unui instrument de raportare care este pus la dispoziție împreună cu registrul central.
+(8) Se pune la dispoziție un catalog de rapoarte. Solicitările de noi rapoarte sau de modificări ale celor existente respectă politica eu-LISA de gestionare a modificărilor.
+Articolul 3
+Registrul de date și instrumentul de raportare
+(1) Registrul central utilizează o soluție tehnică care găzduiește date extrase din sistemele de informații ale UE subiacente și din componentele de interoperabilitate.
+(2) Soluția tehnică conține un instrument de raportare configurat pentru a crea, menține și executa rapoartele și rapoartele configurabile menționate la articolul 2.
+(3) Instrumentul de raportare permite generarea de rapoarte de activitate și de rapoarte tehnice, precum și recuperarea acestora de către utilizator.
+(4) Instrumentul de raportare permite furnizarea de date statistice între sisteme și raportarea analitică în scopuri de politică, operaționale și de calitate a datelor, în cazul în care acest lucru este prevăzut de dreptul Uniunii.
+(5) Toate rapoartele sunt gestionate în cadrul soluției tehnice. Măsurile adecvate de securitate și integritate sunt puse în aplicare în soluția tehnică, pentru a îndeplini cerințele planului de securitate prevăzut la articolul 42 alineatul (3) din Regulamentul (UE) 2019/818.
+(6) Soluția tehnică este implementată în cadrul amplasamentului tehnic al eu-LISA și în cadrul amplasamentului de rezervă.
+Articolul 4
+Extragerea datelor
+Registrul central obține din sistemele de informații ale UE copii care pot fi doar citite ale datelor menționate la articolul 39 alineatul (2) și la articolul 62 alineatele (1), (2) și (3) din Regulamentul (UE) 2019/818 pentru a produce statisticile și rapoartele menționate la articolele 39 și 62 din regulamentul respectiv. Datele se obțin în mod regulat și cel puțin zilnic, prin extragere unidirecțională.
+Articolul 5
+Instrumentul de anonimizare a datelor
+(1) Datele extrase din sistemele de informații ale UE subiacente și din componentele de interoperabilitate sunt anonimizate cu ajutorul unui instrument de anonimizare a datelor. Numai datele anonimizate sunt stocate în registrul central.
+(2) Instrumentul de anonimizare a datelor identifică datele de identitate critice din sistemele de informații ale UE și le anonimizează prin intermediul unui proces automat înainte ca datele statistice să fie stocate în registrul central. Procesul de anonimizare este ireversibil.
+Articolul 6
+Acces
+(1) Accesul personalului autorizat în mod corespunzător la registrul central se acordă și se gestionează în conformitate cu articolul 74 din Regulamentul (UE) 2018/1862 și cu articolul 32 din Regulamentul (UE) 2019/816.
+(2) Registrul central este accesibil statelor membre, Comisiei și agențiilor Uniunii, în conformitate cu drepturile lor de acces în temeiul dreptului Uniunii, prin intermediul unei conexiuni securizate la rețea (TESTA).
+(3) Numai personalului autorizat în mod corespunzător din cadrul autorităților competente, în conformitate cu articolul 39 alineatul (2) și cu articolul 62 alineatele (1)-(5) din Regulamentul (UE) 2019/818, i se acordă acces la instrumentul menționat la articolul 3 alineatul (2) din prezentul regulament.
+(4) Autoritățile competente accesează registrul central prin intermediul unor profiluri de utilizator. eu-LISA păstrează o listă a profilurilor de utilizator. O autoritate poate avea mai multe profiluri, în funcție de drepturile sale de acces.
+(5) Accesul la registrul central este înregistrat. Informațiile înregistrate includ cel puțin:
+(a) marca temporală;
+(b) autoritatea;
+(c) tipul de raport în cauză.
+(6) Înregistrările care permit identificarea utilizatorilor care accesează registrul central se păstrează la nivel național și de către Comisie, Agenția Europeană pentru Poliția de Frontieră și Garda de Coastă și Europol. eu-LISA păstrează înregistrări ale tuturor operațiunilor de acces. Înregistrările se păstrează în registrul central timp de un an, după care sunt șterse automat.
+(7) Eventualele roluri contradictorii din cadrul registrului central sunt identificate și accesul se acordă în conformitate cu următoarele principii:
+(a) „necesitatea de a cunoaște”;
+(b) accesul cu privilegii minime;
+(c) separarea atribuțiilor.
+(8) Rapoartele privind calitatea datelor emise în temeiul articolului 15 alineatul (4) din Regulamentul (UE) 2018/1862 includ un instrument prin care statele membre pot furniza eu-LISA feedback cu privire la corectarea problemelor întâmpinate.
+Articolul 7
+Persoana împuternicită de operator
+În scopul anonimizării datelor cu caracter personal în temeiul articolului 5, eu-LISA este persoana împuternicită de operator în sensul articolului 3 punctul 12 din Regulamentul (UE) 2018/1725.
+Articolul 8
+Alte aspecte legate de protecția datelor și securitate
+(1) Datele stocate în registrul central sunt consultate exclusiv în scopul întocmirii de rapoarte și statistici.
+(2) eu-LISA pune în aplicare măsurile de securitate necesare pentru a asigura integritatea datelor din registrul central. Orice modificare a datelor trebuie să poată fi urmărită în scopul auditului.
+Articolul 9
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în statele membre în conformitate cu tratatele.
+Adoptat la Bruxelles, 30 septembrie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 135, 22.5.2019, p. 85.
+(2) Regulamentul (UE) 2019/817 al Parlamentului European și al Consiliului din 20 mai 2019 privind instituirea unui cadru pentru interoperabilitatea dintre sistemele de informații ale UE în domeniul frontierelor și al vizelor și de modificare a Regulamentelor (CE) nr. 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 și (UE) 2018/1861 ale Parlamentului European și ale Consiliului și a Deciziilor 2004/512/CE și 2008/633/JAI ale Consiliului (JO L 135, 22.5.2019, p. 27).
+(3) Prezentul regulament nu intră în domeniul de aplicare al măsurilor prevăzute în Decizia 2002/192/CE a Consiliului din 28 februarie 2002 privind solicitarea Irlandei de a participa la unele dintre dispozițiile acquis-ului Schengen (JO L 64, 7.3.2002, p. 20).
+(4) JO L 176, 10.7.1999, p. 36.
+(5) Decizia 1999/437/CE a Consiliului din 17 mai 1999 privind anumite modalități de aplicare a Acordului încheiat între Consiliul Uniunii Europene și Republica Islanda și Regatul Norvegiei în ceea ce privește asocierea acestor două state în vederea punerii în aplicare, a asigurării respectării și dezvoltării acquis-ului Schengen (JO L 176, 10.7.1999, p. 31).
+(6) JO L 53, 27.2.2008, p. 52.
+(7) Decizia 2008/146/CE a Consiliului din 28 ianuarie 2008 privind încheierea, în numele Comunității Europene, a Acordului între Uniunea Europeană, Comunitatea Europeană și Confederația Elvețiană cu privire la asocierea Confederației Elvețiene la punerea în aplicare, respectarea și dezvoltarea acquis-ului Schengen (JO L 53, 27.2.2008, p. 1).
+(8) JO L 160, 18.6.2011, p. 21.
+(9) Decizia 2011/350/UE a Consiliului din 7 martie 2011 privind încheierea, în numele Uniunii Europene, a Protocolului dintre Uniunea Europeană, Comunitatea Europeană, Confederația Elvețiană și Principatul Liechtenstein privind aderarea Principatului Liechtenstein la Acordul dintre Uniunea Europeană, Comunitatea Europeană și Confederația Elvețiană privind asocierea Confederației Elvețiene la punerea în aplicare, respectarea și dezvoltarea acquis-ului Schengen, în ceea ce privește eliminarea controalelor la frontierele interne și circulația persoanelor (JO L 160, 18.6.2011, p. 19).
+(10) Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului din 23 octombrie 2018 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal de către instituțiile, organele, oficiile și agențiile Uniunii și privind libera circulație a acestor date și de abrogare a Regulamentului (CE) nr. 45/2001 și a Deciziei nr. 1247/2002/CE (JO L 295, 21.11.2018, p. 39).
+(11) Regulamentul (UE) 2017/2226 al Parlamentului European și al Consiliului din 30 noiembrie 2017 de instituire a Sistemului de intrare/ieșire (EES) pentru înregistrarea datelor de intrare și de ieșire și a datelor referitoare la refuzul intrării ale resortisanților țărilor terțe care trec frontierele externe ale statelor membre, de stabilire a condițiilor de acces la EES în scopul aplicării legii și de modificare a Convenției de punere în aplicare a Acordului Schengen și a Regulamentelor (CE) nr. 767/2008 și (UE) nr. 1077/2011 (JO L 327, 9.12.2017, p. 20).
+(12) Regulamentul (UE) 2018/1240 al Parlamentului European și al Consiliului din 12 septembrie 2018 de instituire a Sistemului european de informații și de autorizare privind călătoriile (ETIAS) și de modificare a Regulamentelor (UE) nr. 1077/2011, (UE) nr. 515/2014, (UE) 2016/399, (UE) 2016/1624 și (UE) 2017/2226 (JO L 236, 19.9.2018, p. 1).
+(13) Regulamentul (UE) 2018/1860 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind utilizarea Sistemului de informații Schengen pentru returnarea resortisanților țărilor terțe aflați în situație de ședere ilegală (JO L 312, 7.12.2018, p. 1).
+(14) Regulamentul (UE) 2018/1861 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul verificărilor la frontiere, de modificare a Convenției de punere în aplicare a Acordului Schengen și de modificare și abrogare a Regulamentului (CE) nr. 1987/2006 (JO L 312, 7.12.2018, p. 14).
+(15) Regulamentul (UE) 2018/1862 al Parlamentului European și al Consiliului din 28 noiembrie 2018 privind instituirea, funcționarea și utilizarea Sistemului de informații Schengen (SIS) în domeniul cooperării polițienești și al cooperării judiciare în materie penală, de modificare și de abrogare a Deciziei 2007/533/JAI a Consiliului și de abrogare a Regulamentului (CE) nr. 1986/2006 al Parlamentului European și al Consiliului și a Deciziei 2010/261/UE a Comisiei (JO L 312, 7.12.2018, p. 56).
+(16) Regulamentul (UE) 2019/816 al Parlamentului European și al Consiliului din 17 aprilie 2019 de stabilire a unui sistem centralizat pentru determinarea statelor membre care dețin informații privind condamnările resortisanților țărilor terțe și ale apatrizilor (ECRIS-TCN), destinat să completeze sistemul european de informații cu privire la cazierele judiciare, și de modificare a Regulamentului (UE) 2018/1726 (JO L 135, 22.5.2019, p. 1).
