@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-18: sent for promulgation
+- 2022-01-05: promulgated, becomes Legea nr. 9/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-06: Forma adoptată de Senat (FS): [fs-0a438b96.md](fs-0a438b96.md); official file https://www.senat.ro/legis/PDF/2021/21L390FS.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-eb0ed2d5.md](axs-eb0ed2d5.md); official file https://www.senat.ro/legis/PDF/2021/21L390AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-8f5f4110.md](lp-8f5f4110.md); official file https://www.senat.ro/legis/PDF/2021/21L390LP.PDF
+- 2022-01-05: Decret de promulgare (DP): [dp-b471a9ed.md](dp-b471a9ed.md); official file https://www.senat.ro/legis/PDF/2021/21L390DP.PDF
+- 2022-01-05: Adresă privind forma promulgată (AFP): [afp-77eb431e.md](afp-77eb431e.md); official file https://www.senat.ro/legis/PDF/2021/21L390AFP.PDF
+- 2022-01-05: Forma promulgată (FP): [fp-7537d9a7.md](fp-7537d9a7.md); official file https://www.senat.ro/legis/PDF/2021/21L390FP.PDF
