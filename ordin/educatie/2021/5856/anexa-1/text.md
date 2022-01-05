@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURI de înscriere a organizațiilor furnizoare de educație, care organizează și desfășoară, pe teritoriul României, activități de învățământ corespunzătoare unui sistem educațional din altă țară, în Registrul special al organizațiilor furnizoare de educație care organizează și desfășoară, pe teritoriul României, activități de învățământ corespunzătoare unui sistem educațional din altă țară și de recunoaștere a studiilor efectuate de elevii școlarizați în cadrul acestor unități de învățământ
