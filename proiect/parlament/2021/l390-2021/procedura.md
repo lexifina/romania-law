@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-18: sent for promulgation
 - 2022-01-05: promulgated, becomes Legea nr. 9/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2022-01-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-05: Decret de promulgare (DP): [dp-b471a9ed.md](dp-b471a9ed.md); official file https://www.senat.ro/legis/PDF/2021/21L390DP.PDF
 - 2022-01-05: Adresă privind forma promulgată (AFP): [afp-77eb431e.md](afp-77eb431e.md); official file https://www.senat.ro/legis/PDF/2021/21L390AFP.PDF
 - 2022-01-05: Forma promulgată (FP): [fp-7537d9a7.md](fp-7537d9a7.md); official file https://www.senat.ro/legis/PDF/2021/21L390FP.PDF
+- 2022-01-06: Document (AL): [al-2665d3f6.md](al-2665d3f6.md); official file https://www.senat.ro/legis/PDF/2021/21L390AL.PDF (its day is not given by the bill file: shown from the last stage held)
