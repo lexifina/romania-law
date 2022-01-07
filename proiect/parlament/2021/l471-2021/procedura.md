@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-13: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-22: sent for promulgation
+- 2022-01-07: promulgated, becomes Legea nr. 11/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,9 @@ Initiator: Guvernul României.
 - 2021-12-13: Forma adoptată de Senat (FS): [fs-e49f834f.md](fs-e49f834f.md); official file https://www.senat.ro/legis/PDF/2021/21L471FS.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-e68324e7.md](axs-e68324e7.md); official file https://www.senat.ro/legis/PDF/2021/21L471AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-1fdfa8c5.md](lp-1fdfa8c5.md); official file https://www.senat.ro/legis/PDF/2021/21L471LP.PDF
+- 2022-01-07: Document (AT): [at-2e7c29fd.md](at-2e7c29fd.md); official file https://www.senat.ro/legis/PDF/2021/21L471AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-07: Document (S1): [s1-9eeb29e4.md](s1-9eeb29e4.md); official file https://www.senat.ro/legis/PDF/2021/21L471S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-07: Document (AL): [al-25ca12aa.md](al-25ca12aa.md); official file https://www.senat.ro/legis/PDF/2021/21L471AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-07: Decret de promulgare (DP): [dp-572285fe.md](dp-572285fe.md); official file https://www.senat.ro/legis/PDF/2021/21L471DP.PDF
+- 2022-01-07: Adresă privind forma promulgată (AFP): [afp-ac20032c.md](afp-ac20032c.md); official file https://www.senat.ro/legis/PDF/2021/21L471AFP.PDF
+- 2022-01-07: Forma promulgată (FP): [fp-b731cf29.md](fp-b731cf29.md); official file https://www.senat.ro/legis/PDF/2021/21L471FP.PDF
