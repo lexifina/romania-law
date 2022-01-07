@@ -1,0 +1,276 @@
+{
+ "key": "dcc-675-2021",
+ "label": "Decizia CCR nr. 675/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "675",
+ "date": "2021-10-21",
+ "year": "2021",
+ "heading": "DECIZIA nr. 675 din 21 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 82 alin. (2) și (3) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "24",
+  "bis": false,
+  "date": "2022-01-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "10.432/99/2017",
+  "1.093D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 82 alin. (2) și (3) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, excepție ridicată de Geanina Tăutu în Dosarul nr. 10.432/99/2017 al Tribunalului Iași - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Iași - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 364/2004",
+    "number": "364",
+    "year": "2004",
+    "path": "lege/2004/364"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-01-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250329",
+  "text_sha256": "2884a49aef8d56da808145b1a9abc940547d4150ad43475c6bb57b053a48c525",
+  "catalogue_sha256": "2884a49aef8d56da808145b1a9abc940547d4150ad43475c6bb57b053a48c525",
+  "fetched": "2026-11-06T02:53:22Z",
+  "chars": 15372,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250329",
+   "timestamp": "20260115025840",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469188.1/warc/CC-MAIN-20260115010708-20260115040708-00327.warc.gz",
+   "offset": "284801860",
+   "length": "19486",
+   "sha256": "8a1530f0746505b8b3b7aba6fcee896885883c9558e33e8b06be256bd90d21d5"
+  },
+  "portal_id": "250329",
+  "tip": "DECIZIE"
+ }
+}
