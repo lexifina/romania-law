@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-12-15: adopted by the Chamber of Deputies
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-22: sent for promulgation
+- 2022-01-07: promulgated, becomes Legea nr. 12/2022; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Guvernul României.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-77a183ca.md](am-77a183ca.md); official file https://www.senat.ro/legis/PDF/2020/20L596AM.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-0be5505d.md](axs-0be5505d.md); official file https://www.senat.ro/legis/PDF/2020/20L596AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-51d106d6.md](lp-51d106d6.md); official file https://www.senat.ro/legis/PDF/2020/20L596LP.PDF
+- 2022-01-07: Decret de promulgare (DP): [dp-e70dc926.md](dp-e70dc926.md); official file https://www.senat.ro/legis/PDF/2020/20L596DP.PDF
+- 2022-01-07: Adresă privind forma promulgată (AFP): [afp-dc102ded.md](afp-dc102ded.md); official file https://www.senat.ro/legis/PDF/2020/20L596AFP.PDF
+- 2022-01-07: Forma promulgată (FP): [fp-84408ab6.md](fp-84408ab6.md); official file https://www.senat.ro/legis/PDF/2020/20L596FP.PDF
