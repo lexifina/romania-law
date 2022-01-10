@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-12-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-18: sent for promulgation
 - 2022-01-04: promulgated, becomes Legea nr. 2/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2022-01-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,7 @@ Initiator: Guvernul României.
 - 2022-01-04: Decret de promulgare (DP): [dp-3189decd.md](dp-3189decd.md); official file https://www.senat.ro/legis/PDF/2021/21L445DP.PDF
 - 2022-01-04: Adresă privind forma promulgată (AFP): [afp-3091bde4.md](afp-3091bde4.md); official file https://www.senat.ro/legis/PDF/2021/21L445AFP.PDF
 - 2022-01-04: Forma promulgată (FP): [fp-5c3fe3a7.md](fp-5c3fe3a7.md); official file https://www.senat.ro/legis/PDF/2021/21L445FP.PDF
+- 2022-01-10: Document (DR): [dr-9aad79f7.md](dr-9aad79f7.md); official file https://www.senat.ro/legis/PDF/2021/21L445DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-10: Document (TX): [tx-f21962c3.md](tx-f21962c3.md); official file https://www.senat.ro/legis/PDF/2021/21L445TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-10: Document (AL): [al-e4be1e3f.md](al-e4be1e3f.md); official file https://www.senat.ro/legis/PDF/2021/21L445AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-10: Document (TC): [tc-09ecacab.md](tc-09ecacab.md); official file https://www.senat.ro/legis/PDF/2021/21L445TC.PDF (its day is not given by the bill file: shown from the last stage held)
