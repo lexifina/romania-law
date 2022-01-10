@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-13: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-25: sent for promulgation
+- 2022-01-10: promulgated, becomes Legea nr. 14/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-13: Forma adoptată de Senat (FS): [fs-23b44ee1.md](fs-23b44ee1.md); official file https://www.senat.ro/legis/PDF/2021/21L223FS.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-585c1fe7.md](axs-585c1fe7.md); official file https://www.senat.ro/legis/PDF/2021/21L223AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-f94a8276.md](lp-f94a8276.md); official file https://www.senat.ro/legis/PDF/2021/21L223LP.PDF
+- 2022-01-10: Document (AL): [al-ae88e4e0.md](al-ae88e4e0.md); official file https://www.senat.ro/legis/PDF/2021/21L223AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-10: Decret de promulgare (DP): [dp-0e31cb43.md](dp-0e31cb43.md); official file https://www.senat.ro/legis/PDF/2021/21L223DP.PDF
+- 2022-01-10: Adresă privind forma promulgată (AFP): [afp-84e9398f.md](afp-84e9398f.md); official file https://www.senat.ro/legis/PDF/2021/21L223AFP.PDF
+- 2022-01-10: Forma promulgată (FP): [fp-fd3955dc.md](fp-fd3955dc.md); official file https://www.senat.ro/legis/PDF/2021/21L223FP.PDF
