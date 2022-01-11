@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-12-20: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2021-12-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-23: sent for promulgation
+- 2022-01-11: promulgated, becomes Legea nr. 15/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,7 @@ Initiator: Guvernul României.
 - 2021-12-20: Forma adoptată de Senat (FS): [fs-e03ae603.md](fs-e03ae603.md); official file https://www.senat.ro/legis/PDF/2020/20L700FS.PDF
 - 2021-12-21: Adresă privind sesizarea CCR (AXS): [axs-5ee81071.md](axs-5ee81071.md); official file https://www.senat.ro/legis/PDF/2020/20L700AXS.PDF
 - 2021-12-21: Forma trimisă la promulgare (LP): [lp-b353d7b8.md](lp-b353d7b8.md); official file https://www.senat.ro/legis/PDF/2020/20L700LP.PDF
+- 2022-01-11: Document (AL): [al-424221c9.md](al-424221c9.md); official file https://www.senat.ro/legis/PDF/2020/20L700AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-11: Decret de promulgare (DP): [dp-fdab2cc6.md](dp-fdab2cc6.md); official file https://www.senat.ro/legis/PDF/2020/20L700DP.PDF
+- 2022-01-11: Adresă privind forma promulgată (AFP): [afp-2fbdbdd8.md](afp-2fbdbdd8.md); official file https://www.senat.ro/legis/PDF/2020/20L700AFP.PDF
+- 2022-01-11: Forma promulgată (FP): [fp-326fa811.md](fp-326fa811.md); official file https://www.senat.ro/legis/PDF/2020/20L700FP.PDF
