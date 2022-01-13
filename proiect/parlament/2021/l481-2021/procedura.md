@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-15: adopted by the Chamber of Deputies
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-25: sent for promulgation
+- 2022-01-13: promulgated, becomes Legea nr. 16/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-03: Adresă către Camera Deputaților (AM): [am-4bf81a27.md](am-4bf81a27.md); official file https://www.senat.ro/legis/PDF/2021/21L481AM.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-d77c438a.md](axs-d77c438a.md); official file https://www.senat.ro/legis/PDF/2021/21L481AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-832cf2e1.md](lp-832cf2e1.md); official file https://www.senat.ro/legis/PDF/2021/21L481LP.PDF
+- 2022-01-13: Decret de promulgare (DP): [dp-3c46b033.md](dp-3c46b033.md); official file https://www.senat.ro/legis/PDF/2021/21L481DP.PDF
+- 2022-01-13: Adresă privind forma promulgată (AFP): [afp-0c821df6.md](afp-0c821df6.md); official file https://www.senat.ro/legis/PDF/2021/21L481AFP.PDF
+- 2022-01-13: Forma promulgată (FP): [fp-f2d1f741.md](fp-f2d1f741.md); official file https://www.senat.ro/legis/PDF/2021/21L481FP.PDF
