@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-25: registered at the Chamber of Deputies
 - 2021-12-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-27: sent for promulgation
+- 2022-01-13: promulgated, becomes Legea nr. 19/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-15: Adresă către Camera Deputaților (AM): [am-92121764.md](am-92121764.md); official file https://www.senat.ro/legis/PDF/2021/21L367AM.PDF
 - 2021-12-21: Adresă privind sesizarea CCR (AXS): [axs-56ddbcd9.md](axs-56ddbcd9.md); official file https://www.senat.ro/legis/PDF/2021/21L367AXS.PDF
 - 2021-12-21: Forma trimisă la promulgare (LP): [lp-b460537d.md](lp-b460537d.md); official file https://www.senat.ro/legis/PDF/2021/21L367LP.PDF
+- 2022-01-13: Decret de promulgare (DP): [dp-672ebb32.md](dp-672ebb32.md); official file https://www.senat.ro/legis/PDF/2021/21L367DP.PDF
+- 2022-01-13: Adresă privind forma promulgată (AFP): [afp-48f9ca0d.md](afp-48f9ca0d.md); official file https://www.senat.ro/legis/PDF/2021/21L367AFP.PDF
+- 2022-01-13: Forma promulgată (FP): [fp-c4c967b5.md](fp-c4c967b5.md); official file https://www.senat.ro/legis/PDF/2021/21L367FP.PDF
