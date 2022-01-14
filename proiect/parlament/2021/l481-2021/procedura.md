@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-25: sent for promulgation
 - 2022-01-13: promulgated, becomes Legea nr. 16/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2022-01-14: published in the Monitorul Oficial
 
 ## Documents
 
