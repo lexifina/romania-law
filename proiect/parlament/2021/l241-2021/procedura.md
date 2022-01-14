@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-04: registered at the Chamber of Deputies
 - 2021-12-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-12-27: sent for promulgation
+- 2022-01-14: promulgated, becomes Legea nr. 22/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,8 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-27: Adresă către Camera Deputaților (AM): [am-132f838f.md](am-132f838f.md); official file https://www.senat.ro/legis/PDF/2021/21L241AM.PDF
 - 2021-12-21: Adresă privind sesizarea CCR (AXS): [axs-4b79e6fe.md](axs-4b79e6fe.md); official file https://www.senat.ro/legis/PDF/2021/21L241AXS.PDF
 - 2021-12-21: Forma trimisă la promulgare (LP): [lp-0a686f0f.md](lp-0a686f0f.md); official file https://www.senat.ro/legis/PDF/2021/21L241LP.PDF
+- 2022-01-14: Document (AT): [at-471db028.md](at-471db028.md); official file https://www.senat.ro/legis/PDF/2021/21L241AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-14: Document (S1): [s1-9db836f7.md](s1-9db836f7.md); official file https://www.senat.ro/legis/PDF/2021/21L241S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-01-14: Decret de promulgare (DP): [dp-b331a7a0.md](dp-b331a7a0.md); official file https://www.senat.ro/legis/PDF/2021/21L241DP.PDF
+- 2022-01-14: Adresă privind forma promulgată (AFP): [afp-22a5235b.md](afp-22a5235b.md); official file https://www.senat.ro/legis/PDF/2021/21L241AFP.PDF
+- 2022-01-14: Forma promulgată (FP): [fp-9c43e89a.md](fp-9c43e89a.md); official file https://www.senat.ro/legis/PDF/2021/21L241FP.PDF
