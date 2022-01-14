@@ -1,0 +1,17 @@
+# Propunere legislativă L97/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind regimul articolelor pirotehnice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-01-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-01-14: Adresă de înaintare a inițiativei (AD): [ad-7468944f.md](ad-7468944f.md); official file https://www.senat.ro/legis/PDF/2022/22L097AD.PDF
+- 2022-01-14: Forma inițiatorului (FG): [fg-ef772d88.md](fg-ef772d88.md); official file https://www.senat.ro/legis/PDF/2022/22L097FG.PDF
+- 2022-01-14: Expunere de motive (EM): [em-28e7c9f0.md](em-28e7c9f0.md); official file https://www.senat.ro/legis/PDF/2022/22L097EM.PDF
