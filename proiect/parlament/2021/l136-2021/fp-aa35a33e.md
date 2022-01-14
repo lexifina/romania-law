@@ -1,0 +1,79 @@
+PARLAMENTUL ROMANIEI
+CAMERA DEPUTATILOR
+SENATUL
+LEGE
+privind instituirea zilei de 15 februarie ca Ziua nationald
+a lecturii
+Parlamentul Romaniei adopta prezenta lege.
+Art. 1. - Se instituie ziua de 15 februarie ca Ziua nationald
+a lecturii.
+Art. 2. - Cu prilejul Zilei nationale a lecturii se pot organiza
+activitati culturale, sociale si educationale prin care se evidentiaza
+importanta lecturii, in special in formarea copiilor si tinerilor.
+Art. 3. - (1) Autoritatile administratiei publice centrale si
+locale, serviciile publice deconcentrate, astfel cum sunt definite la art. 5
+lit. 11) din Ordonanta de urgenta a Guvernului nr. 57/2019 privind Codul
+administrate, cu modificarile si completarile ulterioare, cu atributii in
+domeniile educatiei si culturii, precum si institutiile de invatamant
+superior pot acorda sprijin material, fmanciar si logistic bibliotecilor,
+muzeelor, institutiilor de invatamant, organizatiilor neguvemamentale,
+editurilor, precum si altor institutii cu atributii in domeniile educatiei si
+culturii pentru organizarea de evenimente de incurajare a lecturii, in
+limita resurselor bugetare si logistice disponibile.
+
+2
+(2) Autoritatile si institutiile prevazute la alin. (1) pot organiza
+manifestari culturale dedicate Zilei nationale a lecturii in colaborare cu
+asociatii si fundatii care au ca obiect de activitate realizarea de activitati
+educationale si/sau culturale.
+(3) Muzeele, bibliotecile publice si institutiile cu atributii in
+domeniile educatiei si culturii pot acorda asistenta de specialitate pentru
+manifestarile organizate cu ocazia Zilei nationale a lecturii, in vederea
+incurajarii lecturii si monitorizeaza aceste activitati.
+(4) In saptamana care include Ziua nationala a lecturii, in
+timpul desfasurarii activitatilor didactice, unitatile de invatamant
+preuniversitar pot organiza activitati de promovare si incurajare a
+lecturii, pentru care dispun, in prealabil, urmatoarele masuri:
+a) invitarea bibliotecilor locale, judetene si/sau metropolitane
+de a derula activitati de prezentare a serviciilor de biblioteca, de
+inregistrare la biblioteca, de colectare de carte si donatie, inclusiv prin
+amenajarea de standuri proprii in incinta unitatilor de invatamant;
+b) invitarea asociatiilor, fiindatiilor non-profit si asociatiilor de
+creatori, cu experienta in derularea de activitati educationale, de a
+sustine cluburi de lectura, ateliere de scriere creativa, ateliere de ilustrare
+de carte, discutii libere si dezbateri despre literatura si carti sau alte
+programe similare;
+c) oferirea, cu titlu gratuit, editurilor si librariilor, la cerere si in
+masura disponibilitatii, de spatii pentru prezentare si vanzare de carte cu
+caracter educativ si/sau recreativ, adecvat varstei elevilor.
+Art. 4. - (1) Cu ocazia zilei nationale prevazute la art. 1,
+Societatea Romana de Radiodifiiziune, Societatea Romana de
+Televiziune si Agenda Nationala de Presa AGERPRES produc,
+difuzeaza sau rediluzeaza, dupa caz, emisiuni de promovare si incurajare
+a lecturii.
+(2) In ziua de 15 februarie, in timpul orelor de curs, personalul
+didactic impreuna cu elevii pot desfasura activitati de promovare si
+incurajare a lecturii.
+Art. 5. - Institutul Cultural Roman, Departamentul pentru
+Romanii de Pretutindeni, ambasadele si consulatele Romaniei pot
+desfasura proiecte culturale si/sau educationale dedicate Zilei nationale
+a lecturii, individual sau in colaborare cu asociatii si fundatii de profil, in
+limita resurselor bugetare si logistice disponibile.
+
+3
+Aceasta lege a fost adoptata de Parlamentul Romdniei,
+cu respectarea prevederilor art. 75 si ale art. 76 alin. (2) din Constitutia
+Romdniei, republicatd.
+PRE§EDINTELE
+SENATULUI
+p. PRE§EDINTELE
+CAMEREI DEPUTAJILOR
+A
+ANIEL SUCIU
+VASILiE-r
+\
+i/—
+L
+Bucurejti, /i,
+&Ci2.2.
+Nr. ^4
