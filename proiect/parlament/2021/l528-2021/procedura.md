@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-09: documents published: Raport comisie sesizată pe fond
 - 2021-12-07: adopted by the Chamber of Deputies
 - 2021-12-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2022-01-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-08: Adresă de înaintare a inițiativei (AD): [ad-ea83c778.md](ad-ea83c778.md); official file https://www.senat.ro/legis/PDF/2021/21L528AD.PDF
 - 2021-12-08: Forma inițiatorului (FG): [fg-c7147cd6.md](fg-c7147cd6.md); official file https://www.senat.ro/legis/PDF/2021/21L528FG.PDF
 - 2021-12-08: Expunere de motive (EM): [em-320377f6.md](em-320377f6.md); official file https://www.senat.ro/legis/PDF/2021/21L528EM.PDF
+- 2022-01-14: Aviz comisie (CA45): [ca45-64cff157.md](ca45-64cff157.md); official file https://www.senat.ro/legis/PDF/2021/21L528CA45.PDF
