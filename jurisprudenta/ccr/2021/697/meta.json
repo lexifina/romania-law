@@ -1,0 +1,291 @@
+{
+ "key": "dcc-697-2021",
+ "label": "Decizia CCR nr. 697/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "697",
+ "date": "2021-10-28",
+ "year": "2021",
+ "heading": "DECIZIA nr. 697 din 28 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 103 alin. (2) și ale art. 396 alin. (2), (3) și (4) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "54",
+  "bis": false,
+  "date": "2022-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.701/3/2014/a38",
+  "325D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sorin Stuparu, Doina Mirela Petrescu, Ionuț Robert Chiripuș și Antoaneta Silvia Zsido în Dosarul nr. 1.701/3/2014/a38 al Tribunalului București - Secția I penală și constată că dispozițiile art. 103 alin. (2) și ale art. 396 alin. (2),",
+  "(3) și (4) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "395",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "87",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250572",
+  "text_sha256": "17bf2111fc97e272197438202ba84c2b44c3c8b8660bf43c5d45d558a2dac2ef",
+  "catalogue_sha256": "17bf2111fc97e272197438202ba84c2b44c3c8b8660bf43c5d45d558a2dac2ef",
+  "fetched": "2026-11-03T01:37:15Z",
+  "chars": 23287,
+  "portal_id": "250572",
+  "tip": "DECIZIE"
+ }
+}
