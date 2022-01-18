@@ -1,0 +1,173 @@
+{
+ "key": "dcc-703-2021",
+ "label": "Decizia CCR nr. 703/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "703",
+ "date": "2021-10-28",
+ "year": "2021",
+ "heading": "DECIZIA nr. 703 din 28 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 341 alin. (2) și ale art. 341 alin. (7) pct. 2 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "53",
+  "bis": false,
+  "date": "2022-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "8.090/202/2018/a1",
+  "775D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "2",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 341 alin. (2) teza a doua și ale art. 341 alin. (7) pct. 2 din Codul de procedură penală, excepție ridicată de Ionuț Ciprian Moraru în Dosarul nr. 8.090/202/2018/a1 al Judecătoriei Călărași.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor în același dosar al aceleiași instanțe și constată că dispozițiile art. 341 alin. (2) teza întâi din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Călărași și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "341",
+     "alin": [
+      "2",
+      "7",
+      "6",
+      "1"
+     ],
+     "lit": [
+      "b",
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/250565",
+  "text_sha256": "4dff011a30a13130251ab864a206ee96d8768ecd0d2198111cabfcd22c73c076",
+  "catalogue_sha256": "4dff011a30a13130251ab864a206ee96d8768ecd0d2198111cabfcd22c73c076",
+  "fetched": "2026-11-03T01:37:17Z",
+  "chars": 27445,
+  "portal_id": "250565",
+  "tip": "DECIZIE"
+ }
+}
