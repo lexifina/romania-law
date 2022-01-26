@@ -1,0 +1,226 @@
+{
+ "key": "iccj-ril-24-2021",
+ "label": "Decizia ÎCCJ nr. 24/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "24",
+ "date": "2021-11-15",
+ "year": "2021",
+ "heading": "DECIZIA nr. 24 din 15 noiembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 5 alin. (1) și art. 8 din anexa nr. I capitolul I litera B din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "75",
+  "bis": false,
+  "date": "2022-01-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.453/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "4-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 5 alin. (1) și art. 8 din anexa nr. I capitolul I litera B din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, personalul didactic beneficiază de gradația de merit sau de majorarea de dirigenție începând cu data la care salariul de bază este stabilit conform anexelor acestei legi, respectiv data de la care salariul de bază devine egal sau mai mare decât cel stabilit potrivit legii pentru anul 2022.",
+  "Până la acel moment, începând cu data de 1 ianuarie 2019, aceste drepturi vor fi luate în considerare în conformitate cu dispozițiile art. 38 alin. (4^1) din Legea-cadru nr. 153/2017, prin aplicarea acestora la salariul de bază prevăzut de lege pentru anul 2022, din care se scade salariul de bază aferent lunii decembrie 2018 pentru determinarea tranșelor de majorare.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "4",
+      "3",
+      "4-1",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a",
+      "e"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 71
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 20/2016",
+    "number": "20",
+    "year": "2016",
+    "path": "oug/2016/20"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "3-3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251123",
+  "text_sha256": "379e104089503293b3fa2a46e47907adf5d4a88caabad6717da6245bc0d7beed",
+  "catalogue_sha256": "379e104089503293b3fa2a46e47907adf5d4a88caabad6717da6245bc0d7beed",
+  "fetched": "2026-11-03T01:37:02Z",
+  "chars": 60605,
+  "portal_id": "251123",
+  "tip": "DECIZIE"
+ }
+}
