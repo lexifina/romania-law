@@ -1,0 +1,26 @@
+# Anexa nr. 5
+MACHETA de raportare a indicatorilor de evaluare (fizici și de eficiență)
+Unitatea........................
+Acțiuni prioritare pentru monitorizarea, tratamentul și îngrijirea pacienților internați în unitățile de supraveghere și tratament avansat al pacienților cardiaci critici (AP-USTACC)
+Raportare pentru trimestrul....
+Nr..... din........
+AP-USTACC Prevedere bugetară anuală (lei)
+Finanțare primită în trimestrul de raportat (lei)
+Indicatori fizici realizați în trimestrul de raportat
+Finanțare primită de la începutul anului (lei)
+Indicatori fizici realizați cumulat de la începutul anului
+Cheltuiala efectivă realizată în trimestrul de raportat (lei)
+Cheltuiala efectivă realizată cumulat de la începutul anului (lei)
+Cost mediu realizat pe fiecare indicator fizic (lei)
+Plăți efectuate în trimestrul de raportat (lei)
+Plăți efectuate cumulat de la începutul anului (lei)
+Suma rămasă neutilizată de la începutul anului 1 2 3 4 5 6 7 8 9 = 8/6 10 11 12 = 5 - 11
+Nr. pacienți critici cardiaci tratați
+Managerul unității care derulează AP-USTACC, * Semnează raportările întocmite de unitatea sanitară pentru AP-USTACC derulate la nivelul acesteia, pe care le transmit direcției de sănătate publică. Pentru unitățile sanitare aflate în subordinea Ministerului Sănătății, raportările vor fi transmise Serviciului medicină de urgență, în conformitate cu prevederile Ordinului ministrului sănătății nr. 101/2022 privind aprobarea modului de administrare, finanțare și implementare a acțiunilor prioritare pentru monitorizarea, tratamentul și îngrijirea pacienților internați în unitățile de supraveghere și tratament avansat al pacienților cardiaci critici (AP-USTACC)........................
+Directorul financiar-contabil al unității sanitare,.............................
+Coordonatorul AP-USTACC,...............
+Directorul executiv al direcției de sănătate publică, * Semnează raportările centralizate la nivelul județului pe care le transmit Serviciului medicină de urgență, în conformitate cu prevederile Ordinului ministrului sănătății nr. 101/2022 privind aprobarea modului de administrare, finanțare și implementare a acțiunilor prioritare pentru monitorizarea, tratamentul și îngrijirea pacienților internați în unitățile de supraveghere și tratament avansat al pacienților cardiaci critici (AP-USTACC)...............................................
+Directorul executiv adjunct economic al direcției de sănătate publică,..............................................
+NOTĂ: Costul mediu/indicator fizic se calculează ca raport între cheltuielile efective și indicatorii fizici realizați.
+În cazul în care au fost finanțate și alte acțiuni pentru care nu au fost stabiliți indicatori fizici, acestea vor fi evidențiate distinct, indicându-se fiecare acțiune.
+Sumele care se găsesc în tabel se exprimă în lei.
