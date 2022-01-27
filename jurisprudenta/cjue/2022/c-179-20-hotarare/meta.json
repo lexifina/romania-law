@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-179-20-hotarare-2022-01-27",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 27 ianuarie 2022, Cauza C-179/20",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2022-01-27",
+ "year": "2022",
+ "case": "Cauza C-179/20",
+ "celex": "62020CJ0179",
+ "ecli": "ECLI:EU:C:2022:58",
+ "heading": "Hotărârea Curții (Camera a cincea) din 27 ianuarie 2022",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti",
+   "date": "2020-03-03",
+   "national_file": "6738/2/2013*"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel București",
+ "national_followup": null,
+ "parties": "Fondul Proprietatea SA împotriva Guvernului României și alții",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Piața internă a energiei electrice – Directiva 2009/72/CE – Articolul 15 alineatul (4) – Dispecerizare cu prioritate – Siguranța alimentării – Articolul 32 alineatul (1) – Liberul acces al terților – Acces garantat la rețelele de transport – Directiva 2009/28/CE – Articolul 16 alineatul (2) – Acces garantat – Articolul 107 alineatul (1) TFUE – Articolul 108 alineatul (3) TFUE – Ajutoare de stat",
+ "interprets": [
+  {
+   "celex": "12008E107",
+   "folder": null
+  },
+  {
+   "celex": "32009L0072",
+   "folder": "ue/directiva/2009/72"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CJ0179",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-179/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/31ac8bb0-7f52-11ec-8c40-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "03bc997edc9ebed22ef7d7bde2722674f26f0ff126d865c95317f4505efbf9bf"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "1) Articolul 32 alineatul (1) din Directiva 2009/72/CE a Parlamentului European și a Consiliului din 13 iulie 2009 privind normele comune pentru piața internă a energiei electrice și de abrogare a Directivei 2003/54/CE trebuie interpretat în sensul că nu se opune acordării de către un stat membru a unui drept de acces garantat la rețelele de transport anumitor producători de energie electrică ale căror instalații folosesc, ca sursă primară de energie, combustibili indigeni pentru a garanta siguranța alimentării cu energie electrică, cu condiția ca acest drept de acces garantat să se întemeieze pe criterii obiective și rezonabile și să fie proporțional cu scopul legitim urmărit, aspect a cărui verificare revine instanței de trimitere.",
+  "2) Articolul 107 alineatul (1) TFUE trebuie interpretat în sensul că o serie de măsuri instituită printr‑o hotărâre de guvern și care constă în dispecerizarea cu prioritate de către operatorul de transport și de sistem, al cărui capital este deținut în majoritate de stat, a energiei electrice produse de anumiți producători de energie electrică ale căror instalații folosesc, ca sursă primară de energie, combustibili indigeni, într‑un acces garantat al energiei electrice produse de aceste instalații ale producătorilor menționați la rețelele de transport și în obligația acelorași producători de a furniza servicii tehnologice de sistem operatorului de transport și de sistem pentru o anumită cantitate de megawați, care le rezervă pentru această cantitate un drept de furnizare la prețuri stabilite în prealabil și care ar putea să le depășească pe cele care rezultă de pe piață, este susceptibilă să fie calificată drept „ajutor de stat”, în sensul articolului 107 alineatul (1) TFUE. În caz afirmativ, o asemenea serie de măsuri trebuie considerată ajutor nou și este, cu acest titlu, supusă obligației de a fi notificată în prealabil Comisiei Europene în conformitate cu articolul 108 alineatul (3) TFUE."
+ ]
+}
