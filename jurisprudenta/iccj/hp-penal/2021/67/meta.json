@@ -1,0 +1,190 @@
+{
+ "key": "iccj-hp-penal-67-2021",
+ "label": "Decizia ÎCCJ nr. 67/2021 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "67",
+ "date": "2021-09-29",
+ "year": "2021",
+ "heading": "DECIZIA nr. 67 din 29 septembrie 2021",
+ "subtitle": "referitoare la interpretarea art. 418 alin. (2) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "86",
+  "bis": false,
+  "date": "2022-01-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.795/1/2021",
+  "473/321/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău, Secția penală, cauze cu minori și familie, în Dosarul nr. 473/321/2020, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Instanța de apel învestită cu apelul declarat de procuror exclusiv pentru motive de nelegalitate a sentinței pronunțate în prima instanță, dintre care unul/unele este/sunt în favoarea inculpatului, altul/altele este/sunt în defavoarea aceluiași inculpat, aceste din urmă motive vizând alte chestiuni decât pedeapsa aplicată de prima instanță, poate să examineze în privința acestui inculpat sentința apelată și sub aspectul temeiniciei pedepsei aplicate, ce ar avea drept consecință majorarea cuantumului acesteia sau înlăturarea dispozițiilor privind suspendarea sub supraveghere a executării acestei pedepse dispuse prin sentința apelată, fără a încălca prevederile art. 418 alin. (2) din Codul de procedură penală.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "418",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "93",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "371",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251195",
+  "text_sha256": "56e3e6f9f26c2c4ac65293f7ecaeebeb14750c582ed3dcdb28a1ebe45227c871",
+  "catalogue_sha256": "56e3e6f9f26c2c4ac65293f7ecaeebeb14750c582ed3dcdb28a1ebe45227c871",
+  "fetched": "2026-11-03T01:36:56Z",
+  "chars": 41513,
+  "portal_id": "251195",
+  "tip": "DECIZIE"
+ }
+}
