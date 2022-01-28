@@ -1,0 +1,209 @@
+{
+ "key": "dcc-584-2021",
+ "label": "Decizia CCR nr. 584/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "584",
+ "date": "2021-09-23",
+ "year": "2021",
+ "heading": "DECIZIA nr. 584 din 23 septembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor capitolului I litera A pct. II lit. a) și b) din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale capitolului I litera A pct. I lit. c) și d) din anexa nr. VIII la aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "85",
+  "bis": false,
+  "date": "2022-01-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "538/112/2018",
+  "202D/2019",
+  "2.605/121/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Teritorial APIA - Bistrița-Năsăud pentru membrii săi Elisabeta Maria Barta, Carmen Mihăianu, Viorica Oltean, Petru Taran, Livia Vlad, Sofita Cherecheș, Maria Seica, Gabriel Horațiu, Violeta Rusu, Valer Rusu și Lucia Ioana Ignat în dosarele nr. 538/112/2018, nr. 557/112/2018, nr. 561/112/2018, nr. 590/112/2018, nr. 592/112/2018, nr. 543/112/2018, nr. 588/112/2018, nr. 574/112/2018, nr. 579/112/2018, nr. 578/112/2018 și nr. 568/112/2018 ale Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal, precum și de Gheorghe Iuroaea și alții în Dosarul nr. 2.605/121/2018 al Tribunalului Galați - Secția contencios administrativ și fiscal și constată că dispozițiile capitolului I litera A pct. II lit. a) și b) din anexa nr. VIII la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale capitolului I litera A pct. I lit. c) și d) din anexa nr. VIII la aceeași lege sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bistrița-Năsăud - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Galați - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-01-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251199",
+  "text_sha256": "082b2fff9062cc141ce21f261395410a62ffd29d5181e74aea1b3d68f1253a8c",
+  "catalogue_sha256": "082b2fff9062cc141ce21f261395410a62ffd29d5181e74aea1b3d68f1253a8c",
+  "fetched": "2026-11-03T01:36:56Z",
+  "chars": 20191,
+  "portal_id": "251199",
+  "tip": "DECIZIE"
+ }
+}
