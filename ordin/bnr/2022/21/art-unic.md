@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății BIOCHEM CREDITARE IFN - S.A., cu sediul în Constanța, bd. Mamaia nr. 158, cam. 1-2, biroul nr. 8, județul Constanța, înregistrată la oficiul registrului comerțului cu nr. J13/2112/2014, cod unic de înregistrare 33748165, înscrisă în Registrul general cu nr. RG-PJR-14-110294 din 27.01.2015, la secțiunea k) "Activități multiple de creditare".
