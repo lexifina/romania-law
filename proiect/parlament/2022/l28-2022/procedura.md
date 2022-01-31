@@ -1,0 +1,22 @@
+# Proiect de lege L28/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 124/2023 (`legea-124-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.12/2022 pentru modificarea și completarea unor acte normative din domeniul transporturilor rutiere
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-01-31: Adresă de înaintare a inițiativei (AD): [ad-c586f2d6.md](ad-c586f2d6.md); official file https://www.senat.ro/legis/PDF/2022/22L028AD.PDF
+- 2022-01-31: Forma inițiatorului (FG): [fg-e9635754.md](fg-e9635754.md); official file https://www.senat.ro/legis/PDF/2022/22L028FG.PDF
+- 2022-01-31: Expunere de motive (EM): [em-6dc77a7b.md](em-6dc77a7b.md); official file https://www.senat.ro/legis/PDF/2022/22L028EM.PDF
+- 2022-01-31: Aviz Consiliul Legislativ (LG): [lg-dc7bddd2.md](lg-dc7bddd2.md); official file https://www.senat.ro/legis/PDF/2022/22L028LG.PDF
+- 2022-01-31: Document (OG): [og-faea4fdd.md](og-faea4fdd.md); official file https://www.senat.ro/legis/PDF/2022/22L028OG.PDF
+- 2022-01-31: Document (HG): [hg-78fda87d.md](hg-78fda87d.md); official file https://www.senat.ro/legis/PDF/2022/22L028HG.PDF
