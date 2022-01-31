@@ -1,0 +1,317 @@
+{
+ "key": "iccj-ril-28-2021",
+ "label": "Decizia ÎCCJ nr. 28/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "28",
+ "date": "2021-12-06",
+ "year": "2021",
+ "heading": "DECIZIA nr. 28 din 6 decembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 58 alin. (5) din Legea nr. 119/1996 cu privire la actele de stare civilă, republicată, cu modificările și completările ulterioare, art. 94 pct. 1 lit. b) din Legea nr. 134/2010 privind Codul de procedură civilă, republicată, cu modificările și completările ulterioare (atât în redactarea anterioară Legii nr. 310/2018, cât și în redactarea ulterioară acestei legi), art. 100 alin. (2) și (4) din Legea nr. 287/2009 privind Codul civil, art. 2 alin. (1) lit. c), f) și i) și alin. (2) și art. 5 alin. (2) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "95",
+  "bis": false,
+  "date": "2022-01-31",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.705/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/1996",
+    "number": "119",
+    "year": "1996",
+    "path": "lege/1996/119"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 58 alin. (5) din Legea nr. 119/1996 cu privire la actele de stare civilă, republicată, cu modificările și completările ulterioare, art. 94 pct. 1 lit. b) din Legea nr. 134/2010 privind Codul de procedură civilă, republicată, cu modificările și completările ulterioare (atât în redactarea anterioară Legii nr. 310/2018, cât și în redactarea ulterioară acestei legi), art. 100 alin. (2) și (4) din Legea nr. 287/2009 privind Codul civil, art. 2 alin. (1) lit. c), f) și i) și alin. (2) și art. 5 alin. (2) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, revine judecătoriilor competența materială procesuală de soluționare în primă instanță a cererilor în anulare/contestațiilor formulate împotriva dispozițiilor emise de primari în soluționarea cererilor de rectificare a actelor de stare civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 119/1996",
+    "number": "119",
+    "year": "1996",
+    "path": "lege/1996/119"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "5",
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "4",
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "98",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "i",
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-01-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251238",
+  "text_sha256": "ecd7eacefd64ec8a78c258d6dbb945384c27f22f58aef7d1e0a15cd3aa9af35f",
+  "catalogue_sha256": "ecd7eacefd64ec8a78c258d6dbb945384c27f22f58aef7d1e0a15cd3aa9af35f",
+  "fetched": "2026-11-03T01:36:51Z",
+  "chars": 42262,
+  "portal_id": "251238",
+  "tip": "DECIZIE"
+ }
+}
