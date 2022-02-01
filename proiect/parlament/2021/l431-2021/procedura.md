@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2021-10-22: documents published: Aviz comisie
 - 2021-10-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-10-29: sent for promulgation
+- 2022-02-01: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2021-10-27: Forma adoptată de Senat (FS): [fs-dc13122c.md](fs-dc13122c.md); official file https://www.senat.ro/legis/PDF/2021/21L431FS.PDF
 - 2021-10-27: Adresă privind sesizarea CCR (AXS): [axs-2461bee8.md](axs-2461bee8.md); official file https://www.senat.ro/legis/PDF/2021/21L431AXS.PDF
 - 2021-10-27: Forma trimisă la promulgare (LP): [lp-d3d54cd8.md](lp-d3d54cd8.md); official file https://www.senat.ro/legis/PDF/2021/21L431LP.PDF
+- 2022-02-01: Document (AL): [al-f3907031.md](al-f3907031.md); official file https://www.senat.ro/legis/PDF/2021/21L431AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-02-01: Document (SC1): [sc1-4e9b383a.md](sc1-4e9b383a.md); official file https://www.senat.ro/legis/PDF/2021/21L431SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-02-01: Document (DC1): [dc1-73aabb88.md](dc1-73aabb88.md); official file https://www.senat.ro/legis/PDF/2021/21L431DC1.PDF (its day is not given by the bill file: shown from the last stage held)
