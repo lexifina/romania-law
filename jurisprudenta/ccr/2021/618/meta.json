@@ -1,0 +1,185 @@
+{
+ "key": "dcc-618-2021",
+ "label": "Decizia CCR nr. 618/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "618",
+ "date": "2021-10-05",
+ "year": "2021",
+ "heading": "DECIZIA nr. 618 din 5 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 38 alin. (4) și (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "106",
+  "bis": false,
+  "date": "2022-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "865/40/2019",
+  "2.677D/2019",
+  "862/40/2019",
+  "953/40/2019",
+  "1.011/40/2019",
+  "1.019/40/2019",
+  "1.058/40/2019",
+  "972/40/2019",
+  "900/40/2019",
+  "997/40/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 38 alin. (4) și (6) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Ciprian-Alexandru Costiuc, Paul Agraviloaiei, DanielCătălin Hrițcu, Cristina Coteț-Lăzăreanu, Elena-Mihaela Nechifor, Ana Aciobanite, Gabriela Costiuc, Constantin Cătălin Anghel, Lenuța Prundeanu, Brîndușa Margareta Russu, Marcela Neamțu, Cornelia Bortă-Sandu, Cristian Bîrzoieș, Maria Liliana Boghian, Vasile Hurduzan și Aura Loredana Dupir în dosarele nr. 865/40/2019, nr. 862/40/2019, nr. 953/40/2019, nr. 1.011/40/2019, nr. 1.019/40/2019, nr. 1.058/40/2019, nr. 860/40/2019, nr. 992/40/2019, nr. 945/40/2019, nr. 994/40/2019, nr. 972/40/2019, nr. 900/40/2019, nr. 997/40/2019, nr. 1.164/40/2019, nr. 1.121/40/2019 și nr. 926/40/2019 ale Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "6",
+      "4",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251358",
+  "text_sha256": "5333e0d0a3fedd992d56564df091828267d98e4407093a2e9ff630cb941355ce",
+  "catalogue_sha256": "5333e0d0a3fedd992d56564df091828267d98e4407093a2e9ff630cb941355ce",
+  "fetched": "2026-11-03T01:36:46Z",
+  "chars": 22602,
+  "portal_id": "251358",
+  "tip": "DECIZIE"
+ }
+}
