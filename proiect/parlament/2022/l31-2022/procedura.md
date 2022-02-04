@@ -1,0 +1,22 @@
+# Proiect de lege L31/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 342/2022 (`legea-342-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.6/2022 pentru modificarea și completarea Ordonanţei de urgenţã a Guvernului nr.68/2021 privind adoptarea unor măsuri pentru punerea în aplicare a cadrului european pentru eliberarea, verificarea și acceptarea certificatului digital al Uniunii Europene privind COVID pentru a facilita libera circulație pe durata pandemiei de COVID-19
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-02-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-02-04: Adresă de înaintare a inițiativei (AD): [ad-04322ef3.md](ad-04322ef3.md); official file https://www.senat.ro/legis/PDF/2022/22L031AD.PDF
+- 2022-02-04: Forma inițiatorului (FG): [fg-be3dbd30.md](fg-be3dbd30.md); official file https://www.senat.ro/legis/PDF/2022/22L031FG.PDF
+- 2022-02-04: Expunere de motive (EM): [em-2b538b19.md](em-2b538b19.md); official file https://www.senat.ro/legis/PDF/2022/22L031EM.PDF
+- 2022-02-04: Aviz Consiliul Legislativ (LG): [lg-ac811705.md](lg-ac811705.md); official file https://www.senat.ro/legis/PDF/2022/22L031LG.PDF
+- 2022-02-04: Document (OG): [og-c41fe318.md](og-c41fe318.md); official file https://www.senat.ro/legis/PDF/2022/22L031OG.PDF
+- 2022-02-04: Document (HG): [hg-54960fd9.md](hg-54960fd9.md); official file https://www.senat.ro/legis/PDF/2022/22L031HG.PDF
