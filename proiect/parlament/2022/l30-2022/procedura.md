@@ -1,0 +1,22 @@
+# Proiect de lege L30/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 204/2023 (`legea-204-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.5/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.129/2021 privind implementarea formularului digital de intrare în România
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-02-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-02-04: Adresă de înaintare a inițiativei (AD): [ad-bcb4de6d.md](ad-bcb4de6d.md); official file https://www.senat.ro/legis/PDF/2022/22L030AD.PDF
+- 2022-02-04: Forma inițiatorului (FG): [fg-65b18928.md](fg-65b18928.md); official file https://www.senat.ro/legis/PDF/2022/22L030FG.PDF
+- 2022-02-04: Expunere de motive (EM): [em-5fed0da1.md](em-5fed0da1.md); official file https://www.senat.ro/legis/PDF/2022/22L030EM.PDF
+- 2022-02-04: Aviz Consiliul Legislativ (LG): [lg-3e52bdbf.md](lg-3e52bdbf.md); official file https://www.senat.ro/legis/PDF/2022/22L030LG.PDF
+- 2022-02-04: Document (OG): [og-cd722011.md](og-cd722011.md); official file https://www.senat.ro/legis/PDF/2022/22L030OG.PDF
+- 2022-02-04: Document (HG): [hg-a05f6587.md](hg-a05f6587.md); official file https://www.senat.ro/legis/PDF/2022/22L030HG.PDF
