@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății IFN TOP LEASING - S.A., în faliment, cu sediul comunicat în Bulevardul Unirii nr. 57, bl. E4, sc. 5, ap. 118, sectorul 3, București, înregistrată la registrul comerțului cu nr. J40/8138/2001, având cod unic de înregistrare 14196129, înscrisă în Registrul general cu nr. RG-PJR-41-080122 din 29.05.2007, la secțiunea h) - Leasing financiar.
