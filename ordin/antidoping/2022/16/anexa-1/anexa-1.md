@@ -1,0 +1,11 @@
+# ANEXĂ la regulament
+Către
+COMISIA DE AUDIERE
+Domnule președinte/Doamnă președinte,
+Subsemnatul/Subsemnata,..............................................., cu domiciliul în localitatea............................................., str.................................. nr........, bl........, sc........, et......, ap......, cod poștal................ județul/sectorul................................., și reședința în localitatea.........................................., str........................................... nr........, bl........, sc......., et......, ap......., cod poștal................., județul/sectorul......................., număr de telefon........................, adresă de e-mail.............................., identificat(ă) cu...... seria..... nr................, eliberat(ă) de................. la data de..................., valabil(ă) până la data de..................., CNP.............................., legitimat(ă) la............................., reprezentat legal/convențional prin............................ ca urmare a Notificării Agenției Naționale Anti-Doping nr........./........, primită la data de..................., formulez prezenta
+CERERE DE SESIZARE A COMISIEI DE AUDIERE^1 prin care solicit sesizarea Comisiei de audiere de pe lângă Agenția Națională Anti-Doping în vederea organizării audierii mele cu privire la posibila încălcare a reglementărilor anti-doping descrisă în notificare.
+Poziția mea cu privire la posibila încălcare a reglementărilor anti-doping descrisă în notificare, precum și motivarea în fapt și în drept le voi menționa în fața completului de audiere sau într-un memoriu^2 separat pe care îl voi formula și transmite completului de audiere potrivit dispozițiilor Regulamentului Comisiei de audiere.
+Data
+Semnătura ^1 Agenția Națională Anti-Doping și Comisia de audiere prelucrează datele și informațiile cu caracter personal numai în scopul gestionării cauzei, cu respectarea prevederilor Standardului internațional pentru prelucrarea datelor cu caracter personal, Codului mondial anti-doping și ale art. 5 și art. 6 alin. (1) lit. c),
+e) și f), alin. (2) și (3) din Regulamentul general pentru protecția datelor cu caracter personal. ^2 Memoriul nu este obligatoriu atunci când motivarea în fapt și în drept se realizează în fața completului de audiere.
+----
