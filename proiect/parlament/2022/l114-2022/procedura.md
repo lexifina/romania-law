@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2021-10-25: registered at the Chamber of Deputies
+- 2022-02-07: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2022-02-07: Raport comisie sesizată pe fond (CR): [cr-db6a66b8.md](cr-db6a66b8.md); official file https://www.senat.ro/legis/PDF/2022/22L114CR.PDF
