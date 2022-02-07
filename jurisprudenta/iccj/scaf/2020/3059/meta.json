@@ -1,0 +1,359 @@
+{
+ "key": "iccj-scaf-3059-2020",
+ "label": "Decizia ÎCCJ nr. 3059/2020 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3059",
+ "date": "2020-07-01",
+ "year": "2020",
+ "heading": "DECIZIA nr. 3.059 din 1 iulie 2020",
+ "subtitle": "Ședința publică din 1 iulie 2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "122",
+  "bis": false,
+  "date": "2022-02-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.300/2/2017"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de recurentul-pârât Ministerul Finanțelor Publice împotriva Sentinței nr. 4.756 din 6 decembrie 2017, pronunțată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 2.632/2016",
+    "number": "2632",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 521/2005",
+    "number": "521",
+    "year": "2005",
+    "path": "hg/2005/521"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2013",
+    "number": "52",
+    "year": "2013",
+    "path": "lege/2013/52"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "493",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MFP nr. 2.632/2016",
+    "number": "2632",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 2.632/2016",
+    "number": "2632",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVII",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 34/2009",
+    "number": "34",
+    "year": "2009",
+    "path": "hg/2009/34"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 215/2001",
+    "number": "215",
+    "year": "2001",
+    "path": "lege/2001/215"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-02-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251457",
+  "text_sha256": "a21efeda89c67926a197f29a9b8623d8ad69ba0c4a4c2ee55d486afaf4c085a6",
+  "catalogue_sha256": "a21efeda89c67926a197f29a9b8623d8ad69ba0c4a4c2ee55d486afaf4c085a6",
+  "fetched": "2026-11-03T01:36:39Z",
+  "chars": 31789,
+  "portal_id": "251457",
+  "tip": "DECIZIE"
+ }
+}
