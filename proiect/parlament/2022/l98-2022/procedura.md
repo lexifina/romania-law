@@ -9,7 +9,9 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-02-03: first record in the bill file
+- 2022-02-08: documents published: Punct de vedere, Punct de vedere Guvern
 
 ## Documents
 
-- none held as text
+- 2022-02-08: Punct de vedere (PV): [pv-6055ed3a.md](pv-6055ed3a.md); official file https://www.senat.ro/legis/PDF/2022/22L098PV.PDF
+- 2022-02-08: Punct de vedere Guvern (SJ): [sj-e5b6ddde.md](sj-e5b6ddde.md); official file https://www.senat.ro/legis/PDF/2022/22L098SJ.PDF
