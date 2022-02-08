@@ -1,0 +1,11 @@
+# ANEXĂ
+COMPLETĂRI ale anexei nr. 1 la Ordinul ministrului sănătății nr. 1.165/2020 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative -
+După poziția nr. 7674 se introduc trei noi poziții, pozițiile nr. 7675-7677, cu următorul cuprins:
+Nr. crt. cod_cim obs. Denumire produs Forma Concentrație Firma/Țara DCI Ambalaj grupa ATC statut_frm statut_anm Preț producător (lei) Preț ridicata maximal fără TVA (lei) Preț amănuntul maximal cu TVA (lei) Stare Observații Valabilitate preț 7675 W67244002
+VANCOMICINĂ MIP 500 mg PULB. PT. SOL. PERF. 500 mg MIP PHARMA GMBH - GERMANIA VANCOMYCINUM Cutie cu 5 flac. din sticlă incoloră de tip I, cu capacitatea de 10 ml, închise cu dop gri din cauciuc bromobutilic, sigilat cu capsă metalică prevăzută cu disc din plastic tip flip-off (2 ani - după ambalarea pt. comercializare; după reconstituire se utilizează imediat) J01XA01 MG generic 169,14 186,05 227,13
+Prețurile sunt valabile până la data de 28.02.2022. 7676 W67245004
+VANCOMICINĂ MIP 1000 mg PULB. PT. SOL. PERF. 1000 mg MIP PHARMA GMBH - GERMANIA VANCOMYCINUM Cutie cu 5 flac. din sticlă incoloră de tip I, cu capacitatea de 25 ml, închise cu dop gri din cauciuc bromobutilic, sigilat cu capsă metalică prevăzută cu disc din plastic tip flip-off (2 ani - după ambalarea pt. comercializare; după reconstituire se utilizează imediat) J01XA01 MG generic 315,35 345,35 414,58
+Prețurile sunt valabile până la data de 28.02.2022. 7677 W68338004
+METOTREXAT SANDOZ 2,5 mg (vezi L01BA01) COMPR. 2,5 mg SANDOZ - S.R.L. - ROMÂNIA METHOTREXATUM Cutie cu 1 flac. din PP x 50 compr. (3 ani) L04AX03 MG generic 28,10 32,03 41,90
+Prețurile sunt valabile până la data de 28.02.2022.
+----
