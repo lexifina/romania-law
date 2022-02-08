@@ -12,9 +12,13 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-02-01: first record in the bill file
 - 2022-02-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2022-02-08: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 
 ## Documents
 
 - 2022-02-03: Adresă de înaintare a inițiativei (AD): [ad-23de0b98.md](ad-23de0b98.md); official file https://www.senat.ro/legis/PDF/2022/22L132AD.PDF
 - 2022-02-03: Forma inițiatorului (FG): [fg-9a809f2d.md](fg-9a809f2d.md); official file https://www.senat.ro/legis/PDF/2022/22L132FG.PDF
 - 2022-02-03: Expunere de motive (EM): [em-cea49ce7.md](em-cea49ce7.md); official file https://www.senat.ro/legis/PDF/2022/22L132EM.PDF
+- 2022-02-08: Aviz Consiliul Economic și Social (ES): [es-26dfac9b.md](es-26dfac9b.md); official file https://www.senat.ro/legis/PDF/2022/22L132ES.PDF
+- 2022-02-08: Aviz Consiliul Legislativ (LG): [lg-71843fa2.md](lg-71843fa2.md); official file https://www.senat.ro/legis/PDF/2022/22L132LG.PDF
+- 2022-02-08: Punct de vedere (PV): [pv-c88a4e9b.md](pv-c88a4e9b.md); official file https://www.senat.ro/legis/PDF/2022/22L132PV.PDF
