@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-31: documents published: Aviz comisie
 - 2022-02-04: documents published: Aviz comisie
 - 2022-02-08: documents published: Aviz comisie
+- 2022-02-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-31: Aviz comisie (CA6): [ca6-ce6b3a86.md](ca6-ce6b3a86.md); official file https://www.senat.ro/legis/PDF/2021/21L530CA6.PDF
 - 2022-02-04: Aviz comisie (CA45): [ca45-61eee3a1.md](ca45-61eee3a1.md); official file https://www.senat.ro/legis/PDF/2021/21L530CA45.PDF
 - 2022-02-08: Aviz comisie (CA8): [ca8-be9f5e17.md](ca8-be9f5e17.md); official file https://www.senat.ro/legis/PDF/2021/21L530CA8.PDF
+- 2022-02-09: Aviz comisie (CA41): [ca41-4ae4e42c.md](ca41-4ae4e42c.md); official file https://www.senat.ro/legis/PDF/2021/21L530CA41.PDF
