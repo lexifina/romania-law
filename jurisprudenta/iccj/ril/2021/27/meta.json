@@ -1,0 +1,218 @@
+{
+ "key": "iccj-ril-27-2021",
+ "label": "Decizia ÎCCJ nr. 27/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "27",
+ "date": "2021-12-06",
+ "year": "2021",
+ "heading": "DECIZIA nr. 27 din 6 decembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 131 alin. (1), art. 714 alin. (1) și art. 719 alin. (7) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "135",
+  "bis": false,
+  "date": "2022-02-10",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.618/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel București și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 131 alin. (1), art. 714 alin. (1) și art. 719 alin. (7) din Codul de procedură civilă, instanța învestită cu o cerere de suspendare provizorie a executării este obligată să își verifice competența potrivit dispozițiilor generale, iar în cazul în care constată că nu este competentă să soluționeze cauza pe fond, trebuie să pronunțe o soluție de declinare a competenței în favoarea instanței de executare.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "450",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "997",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "717",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "998",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "999",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1000",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251538",
+  "text_sha256": "d65ac57278e20eea79ab774bf8c301192c178fb1f5cf1eb0b0bdb9a6e61e2246",
+  "catalogue_sha256": "d65ac57278e20eea79ab774bf8c301192c178fb1f5cf1eb0b0bdb9a6e61e2246",
+  "fetched": "2026-11-03T01:36:33Z",
+  "chars": 42530,
+  "portal_id": "251538",
+  "tip": "DECIZIE"
+ }
+}
