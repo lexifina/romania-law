@@ -1,0 +1,159 @@
+{
+ "key": "dcc-872-2021",
+ "label": "Decizia CCR nr. 872/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "872",
+ "date": "2021-12-16",
+ "year": "2021",
+ "heading": "DECIZIA nr. 872 din 16 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 alin. (2) lit. c) teza finală din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977 nr. 341/2004, astfel cum au fost modificate prin Ordonanța de urgență a Guvernului nr. 95/2014",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "136",
+  "bis": false,
+  "date": "2022-02-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.522/85/2018",
+  "1.381D/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 4 alin. (2) lit. c) teza finală din Legea recunoștinței pentru victoria Revoluției Române din Decembrie 1989, pentru revolta muncitorească anticomunistă de la Brașov din noiembrie 1987 și pentru revolta muncitorească anticomunistă din Valea Jiului - Lupeni - august 1977 nr. 341/2004, astfel cum au fost modificate prin Ordonanța de urgență a Guvernului nr. 95/2014, ridicată de Casa Județeană de Pensii Sibiu în Dosarul nr. 1.522/85/2018 al Curții de Apel Alba Iulia - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Alba Iulia - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 1/2015",
+    "number": "1",
+    "year": "2015",
+    "path": "og/2015/1"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251539",
+  "text_sha256": "db90637200f6662d32d0f9effbb86af9d3fba3559d62c66c30b4826e6a240241",
+  "catalogue_sha256": "db90637200f6662d32d0f9effbb86af9d3fba3559d62c66c30b4826e6a240241",
+  "fetched": "2026-11-03T01:36:33Z",
+  "chars": 13285,
+  "portal_id": "251539",
+  "tip": "DECIZIE"
+ }
+}
