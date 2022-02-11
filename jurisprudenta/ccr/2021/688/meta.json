@@ -1,0 +1,227 @@
+{
+ "key": "dcc-688-2021",
+ "label": "Decizia CCR nr. 688/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "688",
+ "date": "2021-10-21",
+ "year": "2021",
+ "heading": "DECIZIA nr. 688 din 21 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 10 alin. (2) din anexa nr. 1 la Legea nr. 573/2004 privind Semnul onorific În Serviciul Patriei pentru ofițeri, funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de ofițeri, și preoți militari",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "144",
+  "bis": false,
+  "date": "2022-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "570/33/2016/a1",
+  "2.097D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 573/2004",
+    "number": "573",
+    "year": "2004",
+    "path": "lege/2004/573"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Filip Petru în Dosarul nr. 570/33/2016/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și constată că prevederile art. 10 alin. (2) din anexa nr. 1 la Legea nr. 573/2004 privind Semnul onorific În Serviciul Patriei pentru ofițeri, funcționari publici cu statut special, cu grade profesionale echivalente cu gradele de ofițeri, și preoți militari sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 573/2004",
+    "number": "573",
+    "year": "2004",
+    "path": "lege/2004/573"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 149/2018",
+    "number": "149",
+    "year": "2018",
+    "path": "lege/2018/149"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2015",
+    "number": "81",
+    "year": "2015",
+    "path": "lege/2015/81"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 364/2004",
+    "number": "364",
+    "year": "2004",
+    "path": "lege/2004/364"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251596",
+  "text_sha256": "8d5ee798ea4dfc27bae7ad27ab87fed994a7f03048b5d4a5156b5768e763ffdd",
+  "catalogue_sha256": "8d5ee798ea4dfc27bae7ad27ab87fed994a7f03048b5d4a5156b5768e763ffdd",
+  "fetched": "2026-11-03T01:36:29Z",
+  "chars": 24664,
+  "portal_id": "251596",
+  "tip": "DECIZIE"
+ }
+}
