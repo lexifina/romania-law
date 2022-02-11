@@ -1,0 +1,392 @@
+{
+ "key": "iccj-hp-77-2021",
+ "label": "Decizia ÎCCJ nr. 77/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "77",
+ "date": "2021-11-15",
+ "year": "2021",
+ "heading": "DECIZIA nr. 77 din 15 noiembrie 2021",
+ "subtitle": "referitoare la interpretarea art. 119 alin. (1) și (2) din Legea nr. 76/2002",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2022-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.333/1/2021",
+  "2.321/62/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Brașov - Secția civilă, în Dosarul nr. 2.321/62/2020, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "În interpretarea dispozițiilor art. 119 alin. (1) și (2) din Legea nr. 76/2002, raportat la art. XI și XII din Ordonanța de urgență a Guvernului nr. 30/2020, să se stabilească dacă raportul juridic, având ca obiect obținerea fondurilor necesare plății indemnizației prevăzute de art. XI din Ordonanța de urgență a Guvernului nr. 30/2020 de către angajator, intră în categoria unui conflict de drepturi privind stabilirea și plata indemnizațiilor de șomaj, astfel încât competența materială procesuală să aparțină completelor specializate în materia drepturilor de asigurări sociale și litigiilor de muncă, potrivit dispozițiilor art. 153 lit. l) din Legea nr. 263/2010, respectiv art. 269 din Codul muncii;",
+  "În interpretarea dispozițiilor art. XI și XII din Ordonanța de urgență a Guvernului nr. 30/2020, să se stabilească dacă, în noțiunea de «angajator», pot fi incluse și instituțiile, după caz, serviciile publice finanțate parțial sau integral de la bugetul public sau local.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "119",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XIV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XI",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "78",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 240/2020",
+    "number": "240",
+    "year": "2020",
+    "path": "decret/2020/240"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2020",
+    "number": "43",
+    "year": "2020",
+    "path": "oug/2020/43"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 32/2020",
+    "number": "32",
+    "year": "2020",
+    "path": "oug/2020/32"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251589",
+  "text_sha256": "3e4099b37b3fc9994c3aad7d0292ee0077bc46a4f26db3d756c85c20a382f6ec",
+  "catalogue_sha256": "3e4099b37b3fc9994c3aad7d0292ee0077bc46a4f26db3d756c85c20a382f6ec",
+  "fetched": "2026-11-03T01:36:30Z",
+  "chars": 81907,
+  "portal_id": "251589",
+  "tip": "DECIZIE"
+ }
+}
