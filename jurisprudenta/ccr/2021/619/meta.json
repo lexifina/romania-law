@@ -1,0 +1,245 @@
+{
+ "key": "dcc-619-2021",
+ "label": "Decizia CCR nr. 619/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "619",
+ "date": "2021-10-05",
+ "year": "2021",
+ "heading": "DECIZIA nr. 619 din 5 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 252 alin. (1) din Legea nr. 53/2003 - Codul muncii, în interpretarea dată prin Decizia nr. 16 din 12 noiembrie 2012, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "143",
+  "bis": false,
+  "date": "2022-02-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.802/113/2018",
+  "2.798D/2019",
+  "2.876/113/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion Perianu, Gheorghe Calotă, Marian Radu, Radu Alexandru, Petruș Danciu, Nicolae Zara, Daniel Găvăneanu, Gheorghe Vasilache, Cristea Pricope, Nelu Toboșaru, Iulian Lazăr, Lucian Radu, Nicu Cîrlan, Valentin Petcu, Marian Matei, Stelică Stănescu, Georgiu Dumitru, George Sandu, Aurelian Țigău, Valentino Robertino Andrei, Ionel Popa, Ionuț Ilie, Dumitru Roșcan, Virgil Burlacu, Tudorel Munteanu, Jeni Chiriță, Laurențiu Dumitru, Nicolae Mitrofan, Marian Șerbu, Neculai Talabă, Aurel Raită, Sorin Turcu, Ionel Chirilă, Petrică Tănăsuică, Vasile Taraș, Ștefan Zăvoiu, Marian Podaru, Condor-Nicolae Jorăscu, Ionel Isac, Cornel Gherguș, Cristian Iacob, Stănel Bîtcă, Valentin Druțu, Ionel Crețu, Florin Satnoianu, Constantin Bercaru, Ionel Lepădatu, Gigel Gîrbă, Gică Popa, Petrică Lungu, Stelică Dudulea, Gabriel Milea, Ionel Vintilă, Gheorghiță Secăreanu, Șerban Banciu, Nicu Bratosin, Ion-Tiberiu Răducu, Silviu Ștefan, Ștefan Horneț, Dumitru Nedelcu, Angelin Piroșcă, Gigel Nănescu, Alexandru Nicolaie, Stan Iordan, Cosmin Ionel Mitu, Dănuț Bustiuc, George Popescu, Viorel Coman, Marin Cioroiu, Marius Dragu, Săndel Velișcu, Emanoil Chirilă, Mihai Dragomir, Viorel Dicianu, Valentin Brescan și Adrian Boncu în dosarele nr. 2.802/113/2018, nr. 2.815/113/2018, nr. 2.811/113/2018, nr. 2.845/113/2018, nr. 2.867/113/2018, nr. 2.894/113/2018, nr. 2.788D/113/2018, nr. 2.834/113/2018, nr. 2.794/113/2018, nr. 2.813/113/2018, nr. 2.896/113/2018, nr. 2.923/113/2018, nr. 2.859/113/2018, nr. 2.790/113/2018, nr. 2.808/113/2018, nr. 2.824/113/2018, nr. 2.853/113/2018, nr. 2.919/113/2018, nr. 2.818/113/2018, nr. 2.831/113/2018, nr. 2.882/113/2018, nr. 2.925/113/2018, nr. 2.812/113/2018, nr. 2.838/113/2018, nr. 2.805/113/2018, nr. 2.797/113/2018, nr. 2.878/113/2018, nr. 2.887/113/2018, nr. 2.832/113/2018, nr. 2.814/113/2018, nr. 2.881/113/2018, nr. 2.880/113/2018, nr. 2.873/113/2018, nr. 2.854/113/2018, nr. 2.861/113/2018, nr. 2.876/113/2018, nr. 2.884/113/2018, nr. 2.869/113/2018, nr. 2.825/113/2018, nr. 2.826/113/2018, nr. 2.833/113/2018, nr. 2.842/113/2018, nr. 2.843/113/2018, nr. 2.862/113/2018, nr. 2.865/113/2018, nr. 2.870/113/2018, nr. 2.852/113/2018, nr. 2.856/113/2018, nr. 2.857/113/2018, nr. 2.858/113/2018, nr. 2.883/113/2018, nr. 2.885/113/2018, nr. 2.891/113/2018, nr. 2.899/113/2018, nr. 2.799/113/2018, nr. 2.800/113/2018, nr. 2.789/113/2018, nr. 2.879/113/2018, nr. 2.822/113/2018, nr. 2.868/113/2018, nr. 2.817/113/2018, nr. 2.902/113/2018, nr. 2.921/113/2018, nr. 2.888/113/2018, nr. 2.897/113/2018, nr. 2.900/113/2018, nr. 2.903/113/2018, nr. 2.795/113/2018, nr. 2.875/113/2018, nr. 2.898/113/2018, nr. 2.803/113/2018, nr. 2.877/113/2018, nr. 2.792/113/2018, nr. 2.844/113/2018, nr. 2.895/113/2018 și nr. 2.801/113/2018 ale Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și constată că dispozițiile art. 252 alin. (1) din Legea nr. 53/2003 - Codul muncii, în interpretarea dată prin Decizia nr. 16 din 12 noiembrie 2012, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/1970",
+    "number": "1",
+    "year": "1970",
+    "path": "lege/1970/1"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251592",
+  "text_sha256": "2b36ffb2f0ff659175e387ab603b18084ac310f0d673bf4a7442f17066db761b",
+  "catalogue_sha256": "2b36ffb2f0ff659175e387ab603b18084ac310f0d673bf4a7442f17066db761b",
+  "fetched": "2026-11-03T01:36:31Z",
+  "chars": 29692,
+  "portal_id": "251592",
+  "tip": "DECIZIE"
+ }
+}
