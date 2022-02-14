@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-08: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-01-14: documents published: Aviz comisie
 - 2022-02-10: documents published: Raport comisie sesizată pe fond
+- 2022-02-14: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-08: Punct de vedere (PV): [pv-cc63e469.md](pv-cc63e469.md); official file https://www.senat.ro/legis/PDF/2021/21L534PV.PDF
 - 2022-01-14: Aviz comisie (CA45): [ca45-a9145dfb.md](ca45-a9145dfb.md); official file https://www.senat.ro/legis/PDF/2021/21L534CA45.PDF
 - 2022-02-10: Raport comisie sesizată pe fond (CR): [cr-252f1af4.md](cr-252f1af4.md); official file https://www.senat.ro/legis/PDF/2021/21L534CR.PDF
+- 2022-02-14: Adresă către Camera Deputaților (AM): [am-19aab9d9.md](am-19aab9d9.md); official file https://www.senat.ro/legis/PDF/2021/21L534AM.PDF
