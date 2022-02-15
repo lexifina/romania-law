@@ -1,0 +1,17 @@
+# Propunere legislativă L170/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea articolului 6 din Legea nr.31/1990 privind societățile și completarea articolului 40 din Legea nr.287/2009 privind Codul Civil
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-02-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-02-15: Adresă de înaintare a inițiativei (AD): [ad-86ae2ff8.md](ad-86ae2ff8.md); official file https://www.senat.ro/legis/PDF/2022/22L170AD.PDF
+- 2022-02-15: Forma inițiatorului (FG): [fg-070cd3a2.md](fg-070cd3a2.md); official file https://www.senat.ro/legis/PDF/2022/22L170FG.PDF
+- 2022-02-15: Expunere de motive (EM): [em-f2c23cce.md](em-f2c23cce.md); official file https://www.senat.ro/legis/PDF/2022/22L170EM.PDF
