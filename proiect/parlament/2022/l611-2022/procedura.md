@@ -1,0 +1,17 @@
+# Propunere legislativă L611/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea și modificarea Legii educației naționale nr.1/2011
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-02-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-02-15: Adresă de înaintare a inițiativei (AD): [ad-00084bb8.md](ad-00084bb8.md); official file https://www.senat.ro/legis/PDF/2022/22L611AD.PDF
+- 2022-02-15: Forma inițiatorului (FG): [fg-91c4c6ba.md](fg-91c4c6ba.md); official file https://www.senat.ro/legis/PDF/2022/22L611FG.PDF
+- 2022-02-15: Expunere de motive (EM): [em-4dbc3183.md](em-4dbc3183.md); official file https://www.senat.ro/legis/PDF/2022/22L611EM.PDF
