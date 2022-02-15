@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-02: adopted by the Chamber of Deputies
 - 2022-02-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-12: sent for promulgation
+- 2022-02-15: promulgated, becomes Legea nr. 24/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-04: Adresă către Camera Deputaților (AM): [am-7321a471.md](am-7321a471.md); official file https://www.senat.ro/legis/PDF/2021/21L359AM.PDF
 - 2022-02-07: Adresă privind sesizarea CCR (AXS): [axs-c334a2f5.md](axs-c334a2f5.md); official file https://www.senat.ro/legis/PDF/2021/21L359AXS.PDF
 - 2022-02-07: Forma trimisă la promulgare (LP): [lp-a77e08ac.md](lp-a77e08ac.md); official file https://www.senat.ro/legis/PDF/2021/21L359LP.PDF
+- 2022-02-15: Decret de promulgare (DP): [dp-e3f3dfab.md](dp-e3f3dfab.md); official file https://www.senat.ro/legis/PDF/2021/21L359DP.PDF
+- 2022-02-15: Adresă privind forma promulgată (AFP): [afp-08981dae.md](afp-08981dae.md); official file https://www.senat.ro/legis/PDF/2021/21L359AFP.PDF
+- 2022-02-15: Forma promulgată (FP): [fp-b8f31b8f.md](fp-b8f31b8f.md); official file https://www.senat.ro/legis/PDF/2021/21L359FP.PDF
