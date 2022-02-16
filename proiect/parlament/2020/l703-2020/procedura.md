@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: registered at the Chamber of Deputies
 - 2020-12-15: adopted by the Chamber of Deputies
 - 2020-12-17: registered at the Senate
+- 2022-02-16: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-07-31: Punct de vedere Guvern (SJ): [sj-f402896f.md](sj-f402896f.md); official file https://www.senat.ro/legis/PDF/2020/20L703SJ.PDF
 - 2020-07-31: Punct de vedere (PV): [pv-caeeab9a.md](pv-caeeab9a.md); official file https://www.senat.ro/legis/PDF/2020/20L703PV.PDF
 - 2020-09-07: Aviz comisie (CA45): [ca45-88a32e95.md](ca45-88a32e95.md); official file https://www.senat.ro/legis/PDF/2020/20L703CA45.PDF
+- 2022-02-16: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L703AJ.PDF (its day is not given by the bill file: shown from the last stage held)
