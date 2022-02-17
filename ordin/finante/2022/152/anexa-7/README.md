@@ -1,0 +1,7 @@
+# Anexa nr. 7: Caracteristici de editare, modul de difuzare, de utilizare și păstrare a „Declarației privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asi
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 251720 (https://legislatie.just.ro/Public/DetaliiDocument/251720)
+- sha256 of that document's text as the service returned it: 00c3869dca180ade7818e904c7da80103d2004591954da6f3a6202e5dc2e852d
+- Retrieved: 2026-11-03
