@@ -1,0 +1,383 @@
+{
+ "key": "dcc-713-2021",
+ "label": "Decizia CCR nr. 713/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "713",
+ "date": "2021-11-02",
+ "year": "2021",
+ "heading": "DECIZIA nr. 713 din 2 noiembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. V din Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției, precum și a dispozițiilor Legii nr. 239/2019 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "163",
+  "bis": false,
+  "date": "2022-02-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.602/62/2018",
+  "217D/2019",
+  "3.604/62/2018",
+  "2.442/104/2018",
+  "2.441/104/2018",
+  "586/108/2019",
+  "4.142/86/2018",
+  "741/120/2019",
+  "587/101/2019",
+  "1.026/120/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2018",
+    "number": "92",
+    "year": "2018",
+    "path": "oug/2018/92"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 239/2019",
+    "number": "239",
+    "year": "2019",
+    "path": "lege/2019/239"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mircea-Aurel Boeriu, Maria-Laura Boștean-Olariu, Livia Debu și Mihaela-Mariana Timofte în Dosarul nr. 3.602/62/2018 al Tribunalului Brașov - Secția I civilă și în Dosarul nr. 3.604/62/2018 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, de Elena Vlăducu în Dosarul nr. 2.442/104/2018 al Tribunalului Olt - Secția I civilă, de Mirela Nicolăescu și de Andra Rodica Marina în dosarele nr. 7.514/63/2018 și nr. 7.513/63/2018 ale Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Iustin Mihai în Dosarul nr. 2.441/104/2018 al Tribunalului Olt - Secția I civilă, de Antoanella Claudia Ianotă în Dosarul nr. 586/108/2019 al Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Neculai Topliceanu în Dosarul nr. 4.142/86/2018 al Tribunalului Suceava - Secția I civilă, de Daniela Boricean, Petrina Moș, Daniela Urs, Alina Mioc și Cornelia Iacob în Dosarul nr. 741/120/2019 al Tribunalului Dâmbovița - Secția I civilă, de Florica-Simona Fachelman (Homescu) și de Dan Ciprian Gherghina în dosarele nr. 587/108/2019 și nr. 588/108/2019 ale Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Florica Băbuțău în Dosarul nr. 587/101/2019 al Tribunalului Mehedinți - Secția conflicte de muncă și asigurări sociale, de Ioana Dana Bogdan în Dosarul nr. 1.026/120/2019 al Tribunalului Dâmbovița - Secția I civilă, de Codruța Simona Chindea în Dosarul nr. 1.100/62/2019 al Tribunalului Brașov - Secția I civilă, de Radu Iosof și Bereczki Francisc Adrian în Dosarul nr. 256/107/2019 al Tribunalului Alba - Secția I civilă, de Camelia Betina Deaconescu în Dosarul nr. 7.515/63/2018 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Ioana Petrovici în Dosarul nr. 512/102/2019 al Tribunalului Mureș - Secția civilă, de Adriana-Claudia Pampu-Romanescu în Dosarul nr. 1.458/62/2019 al Tribunalului Brașov - Secția I civilă, de Mircea Cezar Ciuciulete în Dosarul nr. 10.074/3/2019 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Daniela Boricean, Alina Mioc, Petrina Moș și Daniela Urs în Dosarul nr. 2.038/102/2018** al Tribunalului Mureș - Secția civilă, de Ilie Tiberius Moldovan în Dosarul nr. 8.613/3/2019 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Ecaterina Sandu în Dosarul nr. 1.772/109/2019 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Bokor-Toth Orsolya în Dosarul nr. 199/96/2019 al Tribunalului Harghita - Secția civilă, de Corina Sanda Corbaciu în Dosarul nr. 645/101/2019 al Tribunalului Mehedinți - Secția conflicte de muncă și asigurări sociale, de Miklos Erzsebet în Dosarul nr. 202/96/2019 al Tribunalului Harghita - Secția civilă, de Mirela Elena Negoiță în Dosarul nr. 1.773/109/2019 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Mihaela Fackelmann și Adriana Ioana Simu în Dosarul nr. 994/30/2019 al Tribunalului Timiș - Secția I civilă, de Maria Daniela Velican și de Carmen Mirela Logigan în dosarele nr. 961/96/2019 și nr. 642/96/2019 ale Tribunalului Harghita - Secția civilă, de Crenguța Andreea Lionte în Dosarul nr. 4.956/63/2019 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Tatiana Marcu în Dosarul nr. 3.336/111/2019 al Tribunalului Bihor - Secția I civilă, de Monica Daniela Ivănuș în Dosarul nr. 1.775/109/2019 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Natalia Petronela Vâlcu și de Dan Radu Trifan în dosarele nr. 2.755/85/2019 și nr. 456/90/2020, ambele ale Tribunalului Vâlcea - Secția I civilă, de Monica Isailă în Dosarul nr. 5.703/109/2019 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Ingrid-Luciana Mocanu și de Simona Gabriela Popa în dosarele nr. 4.017/3/2020 și nr. 6.391/3/2020 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Andreea Manuela Benedek în Dosarul nr. 6.624/120/2020 al Tribunalului Dâmbovița - Secția I civilă și de Codruța Mariana Crețu (fostă Trandafir) în Dosarul nr. 3.148/93/2020 al Tribunalului Ilfov - Secția civilă și constată că dispozițiile art. V din Ordonanța de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției, precum și dispozițiile Legii nr. 239/2019 privind aprobarea Ordonanței de urgență a Guvernului nr. 92/2018 pentru modificarea și completarea unor acte normative în domeniul justiției sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Brașov - Secția I civilă, Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Suceava - Secția I civilă, Tribunalului Dâmbovița - Secția I civilă, Tribunalului Mehedinți - Secția conflicte de muncă și asigurări sociale, Tribunalului Mureș - Secția civilă, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, Tribunalului Harghita - Secția civilă, Tribunalului Timiș - Secția I civilă, Tribunalului Bihor - Secția I civilă, Tribunalului Ilfov - Secția civilă, Tribunalului Olt - Secția I civilă, Tribunalului Alba - Secția I civilă și Tribunalului Vâlcea - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2018",
+    "number": "92",
+    "year": "2018",
+    "path": "oug/2018/92"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 73
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 239/2019",
+    "number": "239",
+    "year": "2019",
+    "path": "lege/2019/239"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "134",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 45
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2021",
+    "number": "86",
+    "year": "2021",
+    "path": "lege/2021/86"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251747",
+  "text_sha256": "bc4981844ce13dab09198cc7e82513a9c17fa1c5563a7e65d268cd34ad7aa37a",
+  "catalogue_sha256": "bc4981844ce13dab09198cc7e82513a9c17fa1c5563a7e65d268cd34ad7aa37a",
+  "fetched": "2026-11-03T23:21:05Z",
+  "chars": 95903,
+  "portal_id": "251747",
+  "tip": "DECIZIE"
+ }
+}
