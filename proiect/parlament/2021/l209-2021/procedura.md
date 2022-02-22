@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-02-02: adopted by the Chamber of Deputies
 - 2022-02-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-09: sent for promulgation
+- 2022-02-22: promulgated, becomes Legea nr. 27/2022; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2021-09-06: Adresă către Camera Deputaților (AM): [am-51a663e1.md](am-51a663e1.md); official file https://www.senat.ro/legis/PDF/2021/21L209AM.PDF
 - 2022-02-07: Adresă privind sesizarea CCR (AXS): [axs-9632417a.md](axs-9632417a.md); official file https://www.senat.ro/legis/PDF/2021/21L209AXS.PDF
 - 2022-02-07: Forma trimisă la promulgare (LP): [lp-ceb10e97.md](lp-ceb10e97.md); official file https://www.senat.ro/legis/PDF/2021/21L209LP.PDF
+- 2022-02-22: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L209DP.PDF
+- 2022-02-22: Adresă privind forma promulgată (AFP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L209AFP.PDF
+- 2022-02-22: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L209FP.PDF
