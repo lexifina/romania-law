@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-06: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-02-14: documents published: Aviz comisie
 - 2022-02-15: documents published: Aviz comisie
+- 2022-02-22: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-06: Punct de vedere (PV): [pv-ff8fa018.md](pv-ff8fa018.md); official file https://www.senat.ro/legis/PDF/2022/22L041PV.PDF
 - 2022-02-14: Aviz comisie (CA50): [ca50-0bc6e9e3.md](ca50-0bc6e9e3.md); official file https://www.senat.ro/legis/PDF/2022/22L041CA50.PDF
 - 2022-02-15: Aviz comisie (CA44): [ca44-ae10ec0a.md](ca44-ae10ec0a.md); official file https://www.senat.ro/legis/PDF/2022/22L041CA44.PDF
+- 2022-02-22: Aviz comisie (CA45): [ca45-3f261cc2.md](ca45-3f261cc2.md); official file https://www.senat.ro/legis/PDF/2022/22L041CA45.PDF
