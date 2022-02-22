@@ -1,0 +1,17 @@
+# Propunere legislativă L189/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii nr.55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, publicată în Monitorul Oficial al României, Partea I, nr.396 din 15 mai 2020
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-02-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-02-22: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L189AD.PDF
+- 2022-02-22: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L189FG.PDF
+- 2022-02-22: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L189EM.PDF
