@@ -1,0 +1,22 @@
+# Proiect de lege L102/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 36/2024 (`legea-36-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.12/2022 pentru modificarea şi completarea Ordonanţei Guvernului nr.15/2013 privind reglementarea unor măsuri fiscal-bugetare pentru suportarea de la bugetul de stat a sumelor aferente corecțiilor financiare aplicate pentru abaterile de la conformitatea cu legislația din domeniul achizițiilor publice pentru Programul operațional sectorial Mediu 2007-2013 şi pentru proiecte preluate integral sau parţial din Programul operațional sectorial Mediu 2007-2013 în cadrul Programului operațional Infrastructura mare 2014-2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-02-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-02-23: Adresă de înaintare a inițiativei (AD): [ad-5ca41de7.md](ad-5ca41de7.md); official file https://www.senat.ro/legis/PDF/2022/22L102AD.PDF
+- 2022-02-23: Forma inițiatorului (FG): [fg-81ab499f.md](fg-81ab499f.md); official file https://www.senat.ro/legis/PDF/2022/22L102FG.PDF
+- 2022-02-23: Expunere de motive (EM): [em-d6a9b03c.md](em-d6a9b03c.md); official file https://www.senat.ro/legis/PDF/2022/22L102EM.PDF
+- 2022-02-23: Aviz Consiliul Legislativ (LG): [lg-44558860.md](lg-44558860.md); official file https://www.senat.ro/legis/PDF/2022/22L102LG.PDF
+- 2022-02-23: Document (OG): [og-e1a75621.md](og-e1a75621.md); official file https://www.senat.ro/legis/PDF/2022/22L102OG.PDF
+- 2022-02-23: Document (HG): [hg-11a429bf.md](hg-11a429bf.md); official file https://www.senat.ro/legis/PDF/2022/22L102HG.PDF
