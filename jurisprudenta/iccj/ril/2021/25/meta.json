@@ -1,0 +1,352 @@
+{
+ "key": "iccj-ril-25-2021",
+ "label": "Decizia ÎCCJ nr. 25/2021 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "25",
+ "date": "2021-11-15",
+ "year": "2021",
+ "heading": "DECIZIA nr. 25 din 15 noiembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 166 din Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016, cu modificările și completările ulterioare, respectiv a dispozițiilor art. 97^1 din Hotărârea Guvernului nr. 925/2006 pentru aprobarea normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii, cu modificările și completările ulterioare, raportat la art. 2 alin. (1) lit. c) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare și ale art. 8 alin. (2) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "180",
+  "bis": false,
+  "date": "2022-02-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.469/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 925/2006",
+    "number": "925",
+    "year": "2006",
+    "path": "hg/2006/925"
+   },
+   "articles": [
+    {
+     "art": "97-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Iași și, în consecință, stabilește că: În interpretarea și aplicarea dispozițiilor art. 166 din Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016, cu modificările și completările ulterioare, respectiv a dispozițiilor art. 97^1 din Hotărârea Guvernului nr. 925/2006 pentru aprobarea normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii, cu modificările și completările ulterioare, raportat la art. 2 alin. (1) lit. c) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, competența de soluționare a litigiilor având ca obiect anularea documentului constatator care conține informații referitoare la neîndeplinirea obligațiilor contractuale de către contractant/contractantul asociat și la eventualele prejudicii aparține instanței civile, în condițiile art. 53 alin. (1^1) din Legea nr. 101/2016 privind remediile și căile de atac în materie de atribuire a contractelor de achiziție publică, a contractelor sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii, precum și pentru organizarea și funcționarea Consiliului Național de Soluționare a Contestațiilor, cu modificările și completările ulterioare, și ale art. 8 alin. (2) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 925/2006",
+    "number": "925",
+    "year": "2006",
+    "path": "hg/2006/925"
+   },
+   "articles": [
+    {
+     "art": "97-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [
+    {
+     "art": "286",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 23/2020",
+    "number": "23",
+    "year": "2020",
+    "path": "oug/2020/23"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 278/2010",
+    "number": "278",
+    "year": "2010",
+    "path": "lege/2010/278"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2012",
+    "number": "77",
+    "year": "2012",
+    "path": "oug/2012/77"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-02-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251875",
+  "text_sha256": "e6a8cab15f4998399cbad57b6c52bb74cb121e7f7d4a56ce579ba430a57d730b",
+  "catalogue_sha256": "e6a8cab15f4998399cbad57b6c52bb74cb121e7f7d4a56ce579ba430a57d730b",
+  "fetched": "2026-11-03T01:36:12Z",
+  "chars": 45731,
+  "portal_id": "251875",
+  "tip": "DECIZIE"
+ }
+}
