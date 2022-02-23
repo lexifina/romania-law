@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-01-25: documents published: Aviz comisie
 - 2022-02-04: documents published: Aviz comisie
 - 2022-02-08: documents published: Aviz comisie
+- 2022-02-23: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Guvernul României.
 - 2022-01-25: Aviz comisie (CA44): [ca44-ff09d6f6.md](ca44-ff09d6f6.md); official file https://www.senat.ro/legis/PDF/2022/22L007CA44.PDF
 - 2022-02-04: Aviz comisie (CA45): [ca45-ea6c1a13.md](ca45-ea6c1a13.md); official file https://www.senat.ro/legis/PDF/2022/22L007CA45.PDF
 - 2022-02-08: Aviz comisie (CA16): [ca16-2e46bc29.md](ca16-2e46bc29.md); official file https://www.senat.ro/legis/PDF/2022/22L007CA16.PDF
+- 2022-02-23: Raport comisie sesizată pe fond (CR): [cr-bf4314a5.md](cr-bf4314a5.md); official file https://www.senat.ro/legis/PDF/2022/22L007CR.PDF
