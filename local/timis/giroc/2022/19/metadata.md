@@ -1,0 +1,10 @@
+# HCL Giroc nr. 19/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Giroc
+- Decision: nr. 19/2022
+- Adopted: 2022-02-24
+- Published: 2025-08-28
+- Title: privind aprobarea tarifelor unice și a tarifelor distincte practicate de către RETIM ECOLOGIC SERVICE SA în raport cu utilizatorii serviciului de salubrizare pentru activitatea de colectare și transport al deșeurilor municipale desfășurată în Zona 1 a județului Timiș, în baza contractului de delegare prin concesiune a activității de colectare și transport a deșeurilor
+- Record: https://emol.ro/giroc-tm/registru-hcl/58921
