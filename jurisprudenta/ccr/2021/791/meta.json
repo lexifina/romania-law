@@ -1,0 +1,192 @@
+{
+ "key": "dcc-791-2021",
+ "label": "Decizia CCR nr. 791/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "791",
+ "date": "2021-11-23",
+ "year": "2021",
+ "heading": "DECIZIA nr. 791 din 23 noiembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 165 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2011 privind atribuirea anumitor contracte de achiziții publice în domeniile apărării și securității",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "186",
+  "bis": false,
+  "date": "2022-02-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "17.600/3/2018",
+  "1.402D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2011",
+    "number": "114",
+    "year": "2011",
+    "path": "oug/2011/114"
+   },
+   "articles": [
+    {
+     "art": "165",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Transcarpat Sportours International - S.R.L., cu sediul în București, în Dosarul nr. 17.600/3/2018 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că prevederile art. 165 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2011 privind atribuirea anumitor contracte de achiziții publice în domeniile apărării și securității sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2011",
+    "number": "114",
+    "year": "2011",
+    "path": "oug/2011/114"
+   },
+   "articles": [
+    {
+     "art": "165",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c",
+      "g"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251906",
+  "text_sha256": "a9cdac389ef560ffc7767430665bf260a8cab8946ba12b3780af27c2aa4abb19",
+  "catalogue_sha256": "a9cdac389ef560ffc7767430665bf260a8cab8946ba12b3780af27c2aa4abb19",
+  "fetched": "2026-11-06T03:12:42Z",
+  "chars": 27791,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251906",
+   "timestamp": "20250908065648",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047532967.51/warc/CC-MAIN-20250908050432-20250908080432-00074.warc.gz",
+   "offset": "322195463",
+   "length": "28499",
+   "sha256": "ea0b91971a79b3684b982bc62a87e3052094bf081f271c5a26fe60f9c80c6402"
+  },
+  "portal_id": "251906",
+  "tip": "DECIZIE"
+ }
+}
