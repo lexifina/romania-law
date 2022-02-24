@@ -1,0 +1,61 @@
+{
+ "key": "cjue-c-582-20-hotarare-2022-02-24",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 24 februarie 2022, Cauza C-582/20",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2022-02-24",
+ "year": "2022",
+ "case": "Cauza C-582/20",
+ "celex": "62020CJ0582",
+ "ecli": "ECLI:EU:C:2022:114",
+ "heading": "Hotărârea Curții (Camera a cincea) din 24 februarie 2022",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secția de contencios administrativ și fiscal",
+   "date": "2020-07-23",
+   "national_file": "550/33/2017"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casație și Justiție",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Sistemul comun al taxei pe valoarea adăugată – Directiva 2006/112/CE – Articolele 167 și 168 – Drept de deducere – Refuz – Fraudă fiscală – Administrarea probelor – Suspendarea soluționării unei contestații administrative referitoare la o decizie de impunere prin care se refuză un drept de deducere, în așteptarea soluționării unei proceduri penale – Autonomie procedurală a statelor membre – Principiul neutralității fiscale – Dreptul la bună administrare – Articolul 47 din Carta drepturilor fundamentale a Uniunii Europene",
+ "interprets": [
+  {
+   "celex": "12007P047",
+   "folder": null
+  },
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62020CJ0582",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-582/20&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/e7786b1b-9555-11ec-b4e4-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "90de9841b30616c367bd048af27a162b7709f1fa7f3da1290b0b19136a8bc68d"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată și articolul 47 din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretate în sensul că nu se opun unei reglementări naționale care permite autorităților fiscale naționale să suspende soluționarea unei contestații administrative îndreptate împotriva unei decizii de impunere prin care unei persoane impozabile i se refuză beneficiul dreptului de deducere a taxei pe valoarea adăugată plătite în amonte ca urmare a implicării acestei persoane impozabile într‑o fraudă fiscală, în vederea obținerii unor elemente obiective suplimentare referitoare la această implicare, cu condiția, în primul rând, ca o astfel de suspendare să nu aibă ca efect întârzierea soluționării acestei proceduri de contestație administrativă dincolo de un termen rezonabil, în al doilea rând, ca decizia prin care se dispune această suspendare să fie motivată în drept și în fapt și să poată face obiectul unui control jurisdicțional și, în al treilea rând, ca, dacă se dovedește în final că dreptul de deducere a fost refuzat cu încălcarea dreptului Uniunii, această persoană impozabilă să poată obține rambursarea sumei corespunzătoare într‑un termen rezonabil, precum și, dacă este cazul, a dobânzilor de întârziere aferente acesteia. În aceste condiții, nu este obligatoriu ca, pe perioada acestei suspendări a soluționării contestației, persoana impozabilă respectivă să beneficieze de o suspendare a executării acestei decizii de impunere, cu excepția situației în care, în caz de îndoieli serioase cu privire la legalitatea deciziei de impunere menționate, acordarea unei suspendări a executării aceleiași decizii de impunere este necesară pentru a evita prejudicierea gravă și ireparabilă a intereselor persoanei impozabile."
+ ]
+}
