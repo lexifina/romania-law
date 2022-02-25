@@ -1,0 +1,11 @@
+# HCGMB nr. 107/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 107/2022
+- Adopted: 2022-02-25
+- Title: PENTRU MODIFICAREA ANEXEI NR. 1 SI ANEXEI NR. 2 LA HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 370/08.11.2021 PRIVIND APROBAREA CERERII DE FINANTARE SI A DEVIZULUI GENERAL ESTIMATIV, IN VEDEREA FINANTARII OBIECTIVULUI DE INVESTITII “REABILITARE SISTEM RUTIER PE BULEVARDUL DIMITRIE POMPEIU, SOSEAUA PETRICANI, BULEVARDUL LACUL TEI, STRADA MAICA DOMNULUI,STRADA REINVIERII SI STRADA TURMELOR”, IN CADRUL PROGRAMULUI NATIONAL DE INVESTITII “ANGHEL SALIGNY”
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42391
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/42391/H107_22.pdf
+- Document sha256: 34a505172bdbb4bc7dd868cb6a0549fa5c3d3a68595424ca3ca13ba77fc70a67
