@@ -1,0 +1,198 @@
+{
+ "key": "dcc-746-2021",
+ "label": "Decizia CCR nr. 746/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "746",
+ "date": "2021-11-04",
+ "year": "2021",
+ "heading": "DECIZIA nr. 746 din 4 noiembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 324 alin. (1) pct. 3 teza a doua din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 3 din 6 martie 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "187",
+  "bis": false,
+  "date": "2022-02-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.115/326/2018",
+  "2.385D/2019",
+  "2.115/326/2018/a2"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Comisia locală pentru stabilirea dreptului de proprietate asupra terenurilor din localitatea Corbu, județul Harghita în Dosarul nr. 2.115/326/2018 al Judecătoriei Toplița și constată că dispozițiile art. 324 alin. (1) pct. 3 teza a doua din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 3 din 6 martie 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Harghita - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-02-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251915",
+  "text_sha256": "4e34ae3c5a2df7beda69e422103f43bbe214476ca86dfd7489ca04a2563b2b4a",
+  "catalogue_sha256": "4e34ae3c5a2df7beda69e422103f43bbe214476ca86dfd7489ca04a2563b2b4a",
+  "fetched": "2026-11-03T01:36:12Z",
+  "chars": 18158,
+  "portal_id": "251915",
+  "tip": "DECIZIE"
+ }
+}
