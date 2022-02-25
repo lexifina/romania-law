@@ -1,0 +1,23 @@
+# Text
+Notă
+...
+Conținut de DECIZIA nr. 9 din 16 februarie 2022 , publicată în Monitorul Oficial al României, Partea I, nr. 189 din 25 februarie 2022.
+Încheiat astăzi, 22 martie 2021, între:
+UCMR-ADA, Asociația pentru Drepturi de Autor a Compozitorilor (UCMR-ADA), organism de gestiune colectivă a drepturilor patrimoniale de autor în domeniul muzical, conform Deciziei directorului general al Oficiului Român pentru Drepturile de Autor nr. 3/1997 , cu sediul în București, Str. Ostașilor nr. 12, sectorul 1, având cod de identificare fiscală RO 8887006, reprezentată prin doamna Ana Achim, în calitate de manager general,
+Teatrul Național București „I.L. Caragiale“, cu sediul în București, bd. Nicolae Bălcescu nr. 2, sectorul 1, cod de identificare fiscală nr. 4192626, reprezentat prin domnul Ion Caramitru, în calitate de director general,
+Teatrul „Ion Creangă“, cu sediul în municipiul București, str. General Constantin Budișteanu nr. 24, sectorul 1, cod de identificare fiscală nr. 4266510, reprezentat prin domnul Petre Gabriel Coveșeanu, în calitate de director,
+CREART, Centrul de Creație, Artă și Tradiție al Municipiului București, cu sediul în municipiul București, Piața Lahovari nr. 7, sectorul 1, cod de identificare fiscală nr. 4266901, reprezentat prin doamna Popa Claudia Nicoleta, în calitate de director,
+Teatrul „Stela Popescu“, cu sediul în municipiul București, Palatul Național al Copiilor, Bulevardul Tineretului nr. 8-10, sectorul 4, cod de identificare fiscală nr. 36097576, reprezentat prin domnul Nicolae Pungă, în calitate de manager,
+Teatrul Național „Radu Stanca“, cu sediul în municipiul Sibiu, bulevardul Corneliu Coposu nr. 2, județul Sibiu, cod de identificare fiscală nr. 4556190, reprezentat prin domnul Constantin Chiriac, în calitate de director general, și doamna Irina Chiorean, în calitate de consilier juridic,
+Teatrul Național Cluj-Napoca, cu sediul în municipiul Cluj-Napoca, Piața Ștefan cel Mare nr. 2-4, județul Cluj, cod de identificare fiscală nr. 4426344, reprezentat prin domnul Mihai Măniuțiu, în calitate de manager, prin împuternicit doamna Monica Hanganu, în calitate de consilier juridic,
+Teatrul „Marin Sorescu“ Craiova, cu sediul în municipiul Craiova, strada Alexandru Ioan Cuza nr. 11, județul Dolj, cod de identificare fiscală nr. 4417168, reprezentat prin domnul Alexandru Boureanu, în calitate de manager,
+Teatrul Național „Vasile Alecsandri“, cu sediul în municipiul Iași, strada Agatha Bârsescu nr. 18, județul Iași, cod de identificare fiscală nr. 4540445, reprezentat prin domnul Cristian Hadji-Culea, în calitate de manager-director general,
+Teatrul Municipal „Lucia Sturdza Bulandra“, cu sediul în municipiul București, bulevardul Schitu Măgureanu nr. 1, sectorul 5, cod de identificare fiscală nr. 4220955, reprezentat prin domnul Vlad Zamfirescu, în calitate de manager,
+Teatrul „C.I. Nottara“, cu sediul în București, bulevardul General Gheorghe Magheru nr. 20, sectorul 1, cod de identificare fiscală nr. 4266634, reprezentat prin doamna Marinela Țepuș, în calitate de director,
+Asociația Teatrelor Independente, cu sediul în București, str. Viorele nr. 34, bl. 15, sc. A, ap. 2, sectorul 4, cod de identificare fiscală nr. 37814857, reprezentată prin domnul Radu Popescu, în calitate de președinte,
+Societatea Quantum Media Creative - S.R.L., cu sediul în București, strada Vatra Dornei nr. 11, bloc 18B+C, scara 2, etaj 4, ap. 64, sectorul 4, cod unic de identificare 31525388, înregistrată la registrul comerțului cu nr. J40/5127/2013, reprezentată prin doamna Alina Gugu, în calitate de administrator,
+în calitate de membri ai Comisiei de negociere a Metodologiei privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului a spectacolelor de teatru în mediul online, constituită în temeiul art. 163 din Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată și modificată prin Decizia directorului general al Oficiului Român pentru Drepturile de Autor nr. 6 din 2 februarie 2021 , completată prin Decizia nr. 9 din 12 februarie 2021 ,
+ca urmare a negocierilor desfășurate potrivit alineatului (2) și în conformitate cu alineatul (3) al articolului 165 din Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată și modificată,
+s-a încheiat prezentul protocol care cuprinde forma finală a Metodologiei privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului a spectacolelor de teatru în mediul online, după cum urmează:
+METODOLOGIE privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului
+a spectacolelor de teatru în mediul online
