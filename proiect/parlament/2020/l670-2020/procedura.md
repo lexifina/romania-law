@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-02-02: adopted by the Chamber of Deputies
 - 2022-02-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-09: sent for promulgation
+- 2022-02-28: promulgated, becomes Legea nr. 36/2022
 
 ## Documents
 
