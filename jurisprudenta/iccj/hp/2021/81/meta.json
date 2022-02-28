@@ -1,0 +1,106 @@
+{
+ "key": "iccj-hp-81-2021",
+ "label": "Decizia ÎCCJ nr. 81/2021 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "81",
+ "date": "2021-12-06",
+ "year": "2021",
+ "heading": "DECIZIA nr. 81 din 6 decembrie 2021",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 719 alin. (4) pct. 1 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "194",
+  "bis": false,
+  "date": "2022-02-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.483/1/2021",
+  "10.415/300/2019/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "719",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a VI-a civilă în Dosarul nr. 10.415/300/2019/a1 în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea art. 719 alin. (4) pct. 1 din Codul de procedură civilă, efectele suspendării obligatorii a executării silite se produc până la data soluționării în primă instanță a contestației la executare, iar o cerere având acest obiect nu poate fi reiterată în calea de atac exercitată împotriva hotărârii instanței de executare.",
+  "Respinge ca inadmisibilă cererea de pronunțare a unei hotărâri prealabile pentru interpretarea dispozițiilor art. 719 alin. (4) pct. 1 din Codul de procedură civilă sub aspectul indicării limitelor analizei instanței de judecată, în verificarea incidenței cazului de suspendare obligatorie a executării silite.",
+  "Obligatorie, potrivit dispozițiilor a rt. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "719",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/251962",
+  "text_sha256": "2b6435b6131ae9f5314598b66052c0860cda89e2a8cd16b97df6830897be0a39",
+  "catalogue_sha256": "2b6435b6131ae9f5314598b66052c0860cda89e2a8cd16b97df6830897be0a39",
+  "fetched": "2026-11-03T01:36:21Z",
+  "chars": 49044,
+  "portal_id": "251962",
+  "tip": "DECIZIE"
+ }
+}
