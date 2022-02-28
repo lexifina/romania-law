@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2021-04-28: sent for promulgation
 - 2021-05-17: promulgated, becomes Legea nr. 145/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
+- 2022-02-28: registered at the Chamber of Deputies
 
 ## Documents
 
