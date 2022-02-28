@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2021-03-24: adopted by the Chamber of Deputies
 - 2021-03-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2021-04-13: documents published: Aviz comisie
+- 2022-02-28: rejected by the Senate
 
 ## Documents
 
