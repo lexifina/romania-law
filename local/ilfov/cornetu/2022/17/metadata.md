@@ -1,0 +1,9 @@
+# HCL Cornetu nr. 17/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Cornetu
+- Decision: nr. 17/2022
+- Adopted: 2022-02-28
+- Title: privind desemnarea unui reprezentant al Consiliului Local Cornetu si a unui membru supleant, care sa faca parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director/director adjunct din unitatile de invatamant preuniversitar de stat de pe raza comunei Cornetu, judetul Ilfov
+- Record: https://emol.ro/cornetu-if/registru-hcl/53011
