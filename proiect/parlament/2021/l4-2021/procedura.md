@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-06-09: sent for promulgation
 - 2021-06-28: promulgated, becomes Legea nr. 172/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2021-06-29: published in the Monitorul Oficial
+- 2022-02-28: registered at the Chamber of Deputies
 
 ## Documents
 
