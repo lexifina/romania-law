@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-10-08: sent for promulgation
 - 2021-01-20: returned for re-examination
 - 2021-04-06: rejected by the Senate
+- 2022-03-01: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,8 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-24: Adresă către Camera Deputaților (AM): [am-1ff42b17.md](am-1ff42b17.md); official file https://www.senat.ro/legis/PDF/2020/20L295AM.PDF
 - 2020-10-06: Adresă privind sesizarea CCR (AXS): [axs-b4cfe3ba.md](axs-b4cfe3ba.md); official file https://www.senat.ro/legis/PDF/2020/20L295AXS.PDF
 - 2020-10-06: Forma trimisă la promulgare (LP): [lp-1d768d2d.md](lp-1d768d2d.md); official file https://www.senat.ro/legis/PDF/2020/20L295LP.PDF
+- 2022-03-01: Document (AT): [at-f4da1888.md](at-f4da1888.md); official file https://www.senat.ro/legis/PDF/2020/20L295AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (SC): [sc-9a0eee01.md](sc-9a0eee01.md); official file https://www.senat.ro/legis/PDF/2020/20L295SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (DC): [dc-959af0fc.md](dc-959af0fc.md); official file https://www.senat.ro/legis/PDF/2020/20L295DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (RC): [rc-8acbf455.md](rc-8acbf455.md); official file https://www.senat.ro/legis/PDF/2020/20L295RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (XD): [xd-e07ae3ac.md](xd-e07ae3ac.md); official file https://www.senat.ro/legis/PDF/2020/20L295XD.PDF (its day is not given by the bill file: shown from the last stage held)
