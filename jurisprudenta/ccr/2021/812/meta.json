@@ -1,0 +1,410 @@
+{
+ "key": "dcc-812-2021",
+ "label": "Decizia CCR nr. 812/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "812",
+ "date": "2021-12-09",
+ "year": "2021",
+ "heading": "DECIZIA nr. 812 din 9 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 346 alin. (1), (2) și (4^1), ale art. 347 alin. (3) teza finală și ale art. 425^1 alin. (1) și (7) din Codul de procedură penală, precum și ale art. 29 alin. (1) lit. a) și b) din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "200",
+  "bis": false,
+  "date": "2022-03-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "31.983/3/2017",
+  "1.089D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 425^1 alin. (1) și (7) din Codul de procedură penală, excepție ridicată de Bendei Ioan, de Societatea RCS&amp;RDS - S.A. din București și de Serghei Bulgac în Dosarul nr. 31.983/3/2017 al Tribunalului București - Secția I penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Serghei Bulgac, de Bendei Ioan și de Societatea RCS&amp;RDS - S.A. din București în Dosarul nr. 31.983/3/2017 al Tribunalului București - Secția I penală și constată că dispozițiile art. 346 alin. (1), (2) și (4^1), ale art. 347 alin. (3) teza finală din Codul de procedură penală, precum și ale art. 29 alin. (1) lit. a) și b) din Legea nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării terorismului sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "346",
+     "alin": [
+      "1",
+      "2",
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "347",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "282",
+     "alin": [
+      "1",
+      "4",
+      "5"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "101",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "c",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2019",
+    "number": "129",
+    "year": "2019",
+    "path": "lege/2019/129"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252241",
+  "text_sha256": "5a74791e2d749dc4783a36b647bd272621aa9dce19e8050d9e007cf5138297a8",
+  "catalogue_sha256": "5a74791e2d749dc4783a36b647bd272621aa9dce19e8050d9e007cf5138297a8",
+  "fetched": "2026-11-03T01:35:57Z",
+  "chars": 80130,
+  "portal_id": "252241",
+  "tip": "DECIZIE"
+ }
+}
