@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-03: sent for promulgation
 - 2020-06-09: returned for re-examination
 - 2021-06-28: rejected by the Senate
+- 2022-03-01: legislative procedure ended; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,9 @@ Initiator: Membri ai Parlamentului.
 - 2019-06-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206AM.PDF
 - 2020-01-29: Adresă privind sesizarea CCR (AXS): [axs-9d11990b.md](axs-9d11990b.md); official file https://www.senat.ro/legis/PDF/2019/19L206AXS.PDF
 - 2020-01-29: Forma trimisă la promulgare (LP): [lp-089114d3.md](lp-089114d3.md); official file https://www.senat.ro/legis/PDF/2019/19L206LP.PDF
+- 2022-03-01: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (SC): [sc-be258eac.md](sc-be258eac.md); official file https://www.senat.ro/legis/PDF/2019/19L206SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (DC): [dc-348bb8f5.md](dc-348bb8f5.md); official file https://www.senat.ro/legis/PDF/2019/19L206DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L206RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-01: Document (XD): [xd-c6c81abc.md](xd-c6c81abc.md); official file https://www.senat.ro/legis/PDF/2019/19L206XD.PDF (its day is not given by the bill file: shown from the last stage held)
