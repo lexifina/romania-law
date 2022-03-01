@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-02-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-09: sent for promulgation
 - 2022-02-28: promulgated, becomes Legea nr. 35/2022
+- 2022-03-01: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Guvernul României.
 - 2020-03-09: Adresă către Camera Deputaților (AM): [am-44b99997.md](am-44b99997.md); official file https://www.senat.ro/legis/PDF/2020/20L013AM.PDF
 - 2022-02-07: Adresă privind sesizarea CCR (AXS): [axs-b972831f.md](axs-b972831f.md); official file https://www.senat.ro/legis/PDF/2020/20L013AXS.PDF
 - 2022-02-07: Forma trimisă la promulgare (LP): [lp-dc72f8cd.md](lp-dc72f8cd.md); official file https://www.senat.ro/legis/PDF/2020/20L013LP.PDF
+- 2022-03-01: Document (TA): [ta-29c6b36c.md](ta-29c6b36c.md); official file https://www.senat.ro/legis/PDF/2020/20L013TA.PDF (its day is not given by the bill file: shown from the last stage held)
