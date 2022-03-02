@@ -1,0 +1,22 @@
+# Proiect de lege L110/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 54/2023 (`legea-54-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.17/2022 pentru modificarea și completarea Legii nr.21/2020 privind Codul aerian
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-03-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-03-02: Adresă de înaintare a inițiativei (AD): [ad-914122c5.md](ad-914122c5.md); official file https://www.senat.ro/legis/PDF/2022/22L110AD.PDF
+- 2022-03-02: Forma inițiatorului (FG): [fg-db69b6bc.md](fg-db69b6bc.md); official file https://www.senat.ro/legis/PDF/2022/22L110FG.PDF
+- 2022-03-02: Expunere de motive (EM): [em-a96dce49.md](em-a96dce49.md); official file https://www.senat.ro/legis/PDF/2022/22L110EM.PDF
+- 2022-03-02: Aviz Consiliul Legislativ (LG): [lg-d97c15d2.md](lg-d97c15d2.md); official file https://www.senat.ro/legis/PDF/2022/22L110LG.PDF
+- 2022-03-02: Document (OG): [og-eeb54456.md](og-eeb54456.md); official file https://www.senat.ro/legis/PDF/2022/22L110OG.PDF
+- 2022-03-02: Document (HG): [hg-3d8535fc.md](hg-3d8535fc.md); official file https://www.senat.ro/legis/PDF/2022/22L110HG.PDF
