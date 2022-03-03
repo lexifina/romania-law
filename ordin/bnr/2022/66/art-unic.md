@@ -1,0 +1,2 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății VISION LEASING IFN - S.A., cu sediul în Sibiu, Calea Poplăcii nr. 104, județul Sibiu, înregistrată la oficiul registrului comerțului cu nr. J32/310/2008, cod unic de înregistrare 23349965, înscrisă în Registrul general cu nr. RG-PJR-33-110241/9.09.2008, la secțiunea k) "Activități multiple de creditare".
