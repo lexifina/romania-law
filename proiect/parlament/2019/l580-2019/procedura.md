@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-12: sent for promulgation
 - 2022-03-03: promulgated, becomes Legea nr. 39/2022
+- 2022-03-04: published in the Monitorul Oficial
 
 ## Documents
 
