@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-12-21: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2022-02-22: documents published: Aviz comisie, Raport comisie sesizată pe fond
+- 2022-03-07: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-21: Aviz Consiliul Legislativ (LG): [lg-4bad8db9.md](lg-4bad8db9.md); official file https://www.senat.ro/legis/PDF/2022/22L067LG.PDF
 - 2022-02-22: Aviz comisie (CA45): [ca45-d73a8d4a.md](ca45-d73a8d4a.md); official file https://www.senat.ro/legis/PDF/2022/22L067CA45.PDF
 - 2022-02-22: Raport comisie sesizată pe fond (CR): [cr-2d339e6c.md](cr-2d339e6c.md); official file https://www.senat.ro/legis/PDF/2022/22L067CR.PDF
+- 2022-03-07: Adresă către Camera Deputaților (AM): [am-29697125.md](am-29697125.md); official file https://www.senat.ro/legis/PDF/2022/22L067AM.PDF
