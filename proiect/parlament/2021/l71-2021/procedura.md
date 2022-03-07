@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2021-02-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2021-04-12: withdrawn by the initiator
+- 2022-03-07: registered at the Chamber of Deputies
 
 ## Documents
 
