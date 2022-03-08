@@ -1,0 +1,78 @@
+REGULAMENTUL DELEGAT (UE) 2022/204 AL COMISIEI
+din 8 decembrie 2021
+de modificare a Regulamentului delegat (UE) 2015/242 de stabilire a normelor detaliate de funcționare a consiliilor consultative în cadrul politicii comune în domeniul pescuitului
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1380/2013 al Parlamentului European și al Consiliului din 11 decembrie 2013 privind politica comună în domeniul pescuitului, de modificare a Regulamentelor (CE) nr. 1954/2003 și (CE) nr. 1224/2009 ale Consiliului și de abrogare a Regulamentelor (CE) nr. 2371/2002 și (CE) nr. 639/2004 ale Consiliului și a Deciziei 2004/585/CE a Consiliului (1), în special articolul 45 alineatul (4),
+întrucât:
+(1) Articolul 43 din Regulamentul (UE) nr. 1380/2013 prevede instituirea de consilii consultative care să promoveze o reprezentare echilibrată a tuturor părților interesate din domeniul pescuitului și al acvaculturii și să contribuie la îndeplinirea obiectivelor politicii comune în domeniul pescuitului.
+(2) În conformitate cu articolul 45 alineatul (4) din Regulamentul (UE) nr. 1380/2013, Comisia a adoptat Regulamentul delegat (UE) 2015/242 al Comisiei (2) de stabilire a normelor detaliate de funcționare a consiliilor consultative în cadrul politicii comune în domeniul pescuitului.
+(3) Comisia a adoptat Regulamentul delegat (UE) 2017/1575 (3) de modificare a Regulamentului delegat (UE) 2015/242 pentru a clarifica definiția „organizațiilor sectoriale”, pentru a specifica procedura de clasificare a membrilor consiliilor consultative într-una dintre cele două categorii de părți interesate menționate la articolul 45 alineatul (1) din Regulamentul (UE) nr. 1380/2013 și pentru a acorda ambelor categorii dreptul de a decide în mod autonom cu privire la reprezentarea lor în comitetul executiv.
+(4) Consiliile consultative și statele membre au fost consultate având în vedere experiența lor privind aplicarea Regulamentului delegat (UE) 2015/242.
+(5) Pentru a se asigura o reprezentare mai echilibrată a tuturor intereselor și pentru a se îmbunătăți imparțialitatea președinților, este adecvat ca consiliile consultative să desemneze, prin consens, un președinte și cel puțin un vicepreședinte care să aparțină unor categorii diferite de părți interesate, astfel cum sunt menționate la articolul 45 alineatul (1) din Regulamentul (UE) nr. 1380/2013. Grupurile de lucru trebuie să fie prezidate, atunci când este posibil, de reprezentanți ai celor două categorii de părți interesate. Consiliile consultative trebuie să fie împuternicite să desemneze un președinte și vicepreședinți din afara consiliilor consultative.
+(6) Pentru a se asigura buna funcționare a consiliilor consultative, este necesar să se precizeze mai în detaliu criteriile de clasificare a membrilor consiliilor consultative în cele două categorii de părți interesate menționate la articolul 45 alineatul (1) din Regulamentul (UE) nr. 1380/2013.
+(7) Articolul 2 punctul 2 din Regulamentul delegat (UE) 2015/242 definește organizațiile sectoriale ca fiind organizațiile care reprezintă sectorul pescuitului și, dacă este cazul, operatorii din sectorul acvaculturii, precum și reprezentanții sectoarelor de prelucrare și de comercializare. Conform articolului 4 punctul 30 din Regulamentul (UE) nr. 1380/2013, prin „operator” se înțelege persoana fizică sau juridică ce operează sau deține o întreprindere care desfășoară oricare dintre activitățile legate de oricare dintre etapele lanțurilor de producție, prelucrare, comercializare, distribuție și vânzare cu amănuntul a produselor pescărești și de acvacultură. Prin urmare, criteriile de clasificare a membrilor consiliilor consultative trebuie să permită clasificarea organizațiilor care reprezintă sectoarele menționate anterior în categoria „organizații sectoriale”. În plus, furnizorii din sectoarele menționate mai sus, cum ar fi producătorii de plase de pescuit sau producătorii de gheață, trebuie, de asemenea, să fie clasificați drept „organizații sectoriale”.
+(8) O organizație poate fi considerată reprezentativă pentru sector atunci când cel puțin 50 % din membrii săi sunt ei înșiși reprezentanți ai sectorului sau au interese economice directe sau indirecte în sector, atunci când reprezintă angajații din sector sau când cel puțin 50 % din finanțarea sa provine din sector. Astfel de organizații trebuie, de asemenea, să fie considerate „organizații sectoriale” în sensul articolului 45 alineatul (1) din Regulamentul (UE) nr. 1380/2013.
+(9) Pentru a se asigura o funcționare echilibrată a consiliilor consultative, este necesar ca organizațiile care promovează principii orizontale precum protecția mediului, drepturile omului și ale consumatorilor, sănătatea, promovarea egalității sau sănătatea sau bunăstarea animalelor să fie clasificate drept organizații sectoriale atunci când sunt reprezentative pentru sector în sensul considerentelor 7 sau 8. Organizațiile care promovează astfel de principii orizontale trebuie, prin urmare, să fie clasificate în „alte grupuri de interes” numai dacă sunt independente de sector, ceea ce înseamnă că mai puțin de 50 % din membrii lor sunt ei înșiși reprezentanți ai sectorului sau au un interes economic direct sau indirect în sector, că nu reprezintă salariați din sector și că mai puțin de 50 % din finanțarea lor provine din sector.
+(10) Articolul 4 punctul 28 din Regulamentul (CE) nr. 1224/2009 definește „pescuitul de agrement” drept activități necomerciale de pescuit care exploatează resursele acvatice marine vii în scop recreativ, turistic sau sportiv. Organizațiile care reprezintă pescuitul sportiv sau de agrement, deoarece diferă prin natură, obiective și mijloace de organizațiile sectoriale, astfel cum sunt definite la articolul 2 punctul 2 din Regulamentul delegat (UE) 2015/242, trebuie clasificate drept „alte grupuri de interes”.
+(11) Sectorul pescuitului și al acvaculturii se confruntă din ce în ce mai mult cu nevoia de a dialoga cu părțile interesate care concurează pentru utilizări diferite ale mării, inclusiv pentru producerea de energie, extracție, turism sau conservare. Astfel de părți interesate ar putea avea interese diferite față de cele ale sectorului pescuitului și al acvaculturii. Prin urmare, este necesar ca organizațiile care participă la sarcinile consiliilor consultative, astfel cum sunt definite la articolul 44 din Regulamentul (UE) nr. 1380/2013, și care reprezintă sau au interese economice directe sau indirecte legate de utilizarea mediului marin sau a spațiului maritim diferite de pescuitul comercial, acvacultura sau prelucrarea, comercializarea, distribuția și vânzarea cu amănuntul de pește și fructe de mare să fie clasificate în „alte grupuri de interes”.
+(12) Trebuie să se acorde o atenție deosebită asigurării unei reprezentări echilibrate și largi a tuturor părților interesate în consiliile consultative, inclusiv a altor grupuri de interes și a reprezentanților flotelor de mici dimensiuni.
+(13) Pentru a se îndeplini cerințele articolului 43 alineatul (1) din Regulamentul (UE) nr. 1380/2013, care prevede că se înființează consilii consultative pentru a contribui la realizarea obiectivelor politicii comune în domeniul pescuitului prevăzute la articolul 2 din regulamentul respectiv, este necesar să se detalieze metodele de lucru pe care trebuie să le respecte consiliile consultative atunci când elaborează recomandări.
+(14) Consiliile consultative, în calitate de organisme care urmăresc un obiectiv de interes european comun, primesc sprijin financiar din partea Uniunii. Prin urmare, funcționarea lor trebuie monitorizată și evaluată în mod regulat prin efectuarea de evaluări externe, periodice și independente ale performanței.
+(15) Prin urmare, Regulamentul delegat (UE) 2015/242 trebuie să fie modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul delegat (UE) 2015/242 se modifică după cum urmează:
+1. Articolul 4 se înlocuiește cu următorul text:
+„Articolul 4
+Structura și organizarea consiliilor consultative
+(1) În plus față de dispozițiile de la articolul 43 alineatul (1), de la articolul 45 alineatele (1)-(3) și din anexa III la Regulamentul (UE) nr. 1380/2013, structura și organizarea consiliilor consultative trebuie să respecte cerințele de la alineatele (2)-(7) din prezentul articol.
+(2) Consiliul consultativ desemnează, prin consens, un președinte și cel puțin un vicepreședinte. Președintele poate proveni din afara membrilor consiliului consultativ. În cazul în care președintele este ales din rândul reprezentanților organizațiilor membre, cel puțin unul dintre vicepreședinți trebuie să fie ales din rândul membrilor categoriei organizațiilor sectoriale și ai altor grupuri de interes menționate la articolul 2 din care nu face parte președintele. Acest principiu se aplică, atunci când este posibil, și în cazul președinților grupurilor de lucru.
+(3) Adunarea generală a unui consiliu consultativ:
+(a) adoptă regulamentul de procedură al consiliului consultativ;
+(b) se reunește cel puțin o dată pe an pentru a aproba raportul anual, planul strategic anual și bugetul anual al consiliului consultativ;
+(c) decide cu privire la clasificarea membrilor consiliului consultativ în categoriile «organizații sectoriale» sau «alte grupuri de interes», utilizând criteriile stabilite în anexa I și pe baza unor informații obiective și verificabile, cum ar fi dispozițiile statutului, lista membrilor și natura activităților organizației în cauză.
+(4) Pe baza numirilor efectuate de organizațiile sectoriale și de alte grupuri de interes pentru locurile care le sunt atribuite, adunarea generală numește un comitet executiv format din cel mult 25 de membri. După consultarea Comisiei, adunarea generală poate decide să numească un comitet executiv format din cel mult 30 de membri, pentru a asigura o reprezentare adecvată a flotelor de dimensiune mică.
+(5) Adunarea generală se asigură că cotizațiile de membru sunt echitabile și permit o reprezentare largă și echilibrată a tuturor părților interesate, ținând seama de capacitatea financiară a acestora.
+(6) Comitetul executiv:
+(a) conduce și gestionează sarcinile consiliului consultativ în conformitate cu articolul 44 alineatele (2) și (3) din Regulamentul (UE) nr. 1380/2013;
+(b) pregătește raportul anual, planul strategic anual și bugetul anual;
+(c) adoptă recomandări și sugestii, astfel cum se menționează la articolul 44 alineatul (2) din Regulamentul (UE) nr. 1380/2013.
+(7) Adunarea generală și comitetul executiv asigură o reprezentare largă și echilibrată a tuturor părților interesate, punând accentul pe alte grupuri de interes și, după caz, pe flotele de dimensiune mică. Numărul reprezentanților flotelor de dimensiune mică trebuie să reflecte ponderea acestora din urmă în sectorul pescuitului din statele membre în cauză.”
+2. Articolul 5 se înlocuiește cu următorul text:
+„Articolul 5
+Metode de lucru
+(1) Consiliul consultativ se asigură că recomandările și sugestiile emise:
+(a) respectă normele și obiectivele politicii comune în domeniul pescuitului, astfel cum sunt prevăzute la articolul 2 din Regulamentul (UE) nr. 1380/2013;
+(b) sunt elaborate pe baza unor principii stricte de transparență, de reprezentare echilibrată și de respectare a tuturor opiniilor exprimate;
+(c) sunt adoptate, dacă este posibil, prin consens. În cazul în care nu se poate ajunge la un consens, opiniile divergente exprimate de către membri se menționează în recomandările adoptate de majoritatea membrilor votanți prezenți.
+(2) Atunci când decide asupra metodelor sale de lucru, consiliul consultativ încearcă să asigure eficiența și participarea deplină a tuturor membrilor, prin utilizarea mijloacelor de comunicare IT moderne și prin furnizarea de servicii de traducere și interpretare.”
+3. Se introduce următorul articol 7a:
+„Articolul 7a
+Evaluări ale performanței
+Consiliul consultativ se supune cel puțin o dată la cinci ani unei evaluări independente a performanței. Această evaluare urmărește să identifice cele mai bune practici și deficiențele, să enumere recomandările care vizează îmbunătățirea funcționării consiliului consultativ și să evalueze contribuția globală a acestuia la obiectivele politicii comune în domeniul pescuitului, astfel cum sunt prevăzute în Regulamentul (UE) nr. 1380/2013. Rezultatele acestor evaluări sunt făcute publice și, în cazul în care se identifică deficiențe în funcționarea consiliului consultativ, sunt însoțite de un plan de acțiune care stabilește acțiuni concrete și un calendar clar pentru punerea lor în aplicare.”
+4. Se adaugă anexa „Criterii de clasificare a membrilor consiliilor consultative în categoria «organizații sectoriale» sau «alte grupuri de interes»”:
+„ANEXĂ
+Criterii de clasificare a membrilor consiliilor consultative în categoria «organizații sectoriale» sau «alte grupuri de interes»
+1.
+O organizație este clasificată drept «organizație sectorială» atunci când este îndeplinit cel puțin unul dintre următoarele criterii:
+(a) organizația reprezintă sau are interese economice directe sau indirecte în sectorul pescuitului comercial, al acvaculturii sau al prelucrării, comercializării, distribuției sau vânzării cu amănuntul de pește și fructe de mare;
+(b) majoritatea membrilor organizației, persoane fizice sau juridice, reprezintă sau au interese economice directe sau indirecte în sectorul pescuitului comercial, al acvaculturii sau al prelucrării, comercializării, distribuției sau vânzării cu amănuntul de pește și fructe de mare;
+(c) organizația reprezintă angajați din sectoarele legate de pescuitul comercial, de acvacultură sau de prelucrarea, comercializarea, distribuția sau vânzarea cu amănuntul de pește și fructe de mare;
+(d) cel puțin 50 % din finanțarea organizației provine de la întreprinderi care își desfășoară activitatea în sectorul pescuitului comercial, al acvaculturii sau al prelucrării, comercializării, distribuției sau vânzării cu amănuntul de pește și fructe de mare;
+(e) organizația îndeplinește cel puțin unul dintre criteriile enumerate la punctul 1 literele (a)-(d) și este activă în domeniul mediului, al drepturilor omului și ale consumatorilor, al sănătății, al promovării egalității sau al sănătății sau bunăstării animalelor.
+2.
+O organizație este clasificată drept „alt grup de interes” atunci când nu îndeplinește niciunul dintre criteriile prevăzute la punctul 1 și:
+(a) este activă în principal în domeniul mediului, al drepturilor omului și ale consumatorilor, al sănătății, al promovării egalității, al sănătății sau bunăstării animalelor sau al pescuitului recreativ sau sportiv; sau
+(b) reprezintă sau are interese economice directe sau indirecte legate de utilizarea mediului marin sau a spațiului maritim diferite de pescuitul comercial, acvacultura sau prelucrarea, comercializarea, distribuția și vânzarea cu amănuntul de pește și fructe de mare.
+”
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 8 decembrie 2021.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 354, 28.12.2013, p. 22.
+(2) Regulamentul delegat (UE) 2015/242 al Comisiei din 9 octombrie 2014 de stabilire a normelor detaliate de funcționare a consiliilor consultative în cadrul politicii comune în domeniul pescuitului (JO L 41, 17.2.2015, p. 1).
+(3) Regulamentul delegat (UE) 2017/1575 al Comisiei din 23 iunie 2017 de modificare a Regulamentului delegat (UE) 2015/242 (JO L 239, 19.9.2017, p. 1).
