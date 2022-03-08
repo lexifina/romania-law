@@ -1,0 +1,256 @@
+{
+ "key": "dcc-787-2021",
+ "label": "Decizia CCR nr. 787/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "787",
+ "date": "2021-11-23",
+ "year": "2021",
+ "heading": "DECIZIA nr. 787 din 23 noiembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 252 alin. (1) din Legea nr. 53/2003 - Codul muncii, în interpretarea dată prin Decizia nr. 16 din 12 noiembrie 2012, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "228",
+  "bis": false,
+  "date": "2022-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.910D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate formulată de Ghiorghe Oancia, Marian Crețu, Bogdan Marin, Ionel Bălan, Constantin Petrică, Anghel Drăghia, Nicolae Dragu, Marian Micu, Gigel Ștefan, Costel Berbecaru, Gheorghiță Borș, Valentin Rădulescu, Pietro Branchina, Mihai Epure și Ionel Vartolomei în dosarele nr. 2.848/113/2018, nr. 2.820/113/2018, nr. 2.809/113/2018, nr. 2.863/113/2018, nr. 2.791/113/2018, nr. 2.807/113/2018, nr. 2.806/113/2018, nr. 2.874/113/2018, nr. 2.864/113/2018, nr. 2.830/113/2018, nr. 2.893/113/2018, nr. 2.889/113/2018, nr. 2.922/113/2018, nr. 2.846/113/2018 și nr. 2.849/113/2018 ale Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și constată că dispozițiile art. 252 alin. (1) din Legea nr. 53/2003 - Codul muncii, în interpretarea dată prin Decizia nr. 16 din 12 noiembrie 2012, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "329",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252435",
+  "text_sha256": "a9c965b25f45e6d2b1ffc33712719d48d5914245b8e53731a9d6d516a89b8b28",
+  "catalogue_sha256": "a9c965b25f45e6d2b1ffc33712719d48d5914245b8e53731a9d6d516a89b8b28",
+  "fetched": "2026-11-03T01:35:46Z",
+  "chars": 24169,
+  "portal_id": "252435",
+  "tip": "DECIZIE"
+ }
+}
