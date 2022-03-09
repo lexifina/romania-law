@@ -1,0 +1,255 @@
+{
+ "key": "dcc-784-2021",
+ "label": "Decizia CCR nr. 784/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "784",
+ "date": "2021-11-23",
+ "year": "2021",
+ "heading": "DECIZIA nr. 784 din 23 noiembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1.050-1.053 din Codul de procedură civilă, precum și ale art. 56, ale art. 76 și ale art. 82 din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, în interpretarea dată prin Decizia nr. 19 din 5 octombrie 2015, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "233",
+  "bis": false,
+  "date": "2022-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.283/300/2016",
+  "528D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1050",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Steliana Iamandi, Maria Argintaru și George Iamandi în Dosarul nr. 13.283/300/2016 al Judecătoriei Sectorului 2 București și constată că dispozițiile art. 1.050-1.053 din Codul de procedură civilă, precum și ale art. 56, ale art. 76 și ale a rt. 82 din Legea nr. 71/2011 pentru punerea în aplicare a Legii nr. 287/2009 privind Codul civil, în interpretarea dată prin Decizia nr. 19 din 5 octombrie 2015, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 2 București - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1050",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252489",
+  "text_sha256": "8174a859c689271de37aea43fdcfcef946b1e3e0fcbbb37e02335988ea15c57f",
+  "catalogue_sha256": "8174a859c689271de37aea43fdcfcef946b1e3e0fcbbb37e02335988ea15c57f",
+  "fetched": "2026-11-03T01:35:44Z",
+  "chars": 15288,
+  "portal_id": "252489",
+  "tip": "DECIZIE"
+ }
+}
