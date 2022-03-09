@@ -1,0 +1,192 @@
+{
+ "key": "dcc-896-2021",
+ "label": "Decizia CCR nr. 896/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "896",
+ "date": "2021-12-16",
+ "year": "2021",
+ "heading": "DECIZIA nr. 896 din 16 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "235",
+  "bis": false,
+  "date": "2022-03-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "13.871/3/2019",
+  "3.104D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare, excepție ridicată de Dan Băzăvan în Dosarul nr. 13.871/3/2019 al Tribunalului București - Secția a II-a de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252496",
+  "text_sha256": "d77b73b9bed19b03297a6ff0a6bbf891abdee986e57009d34f247c6b5126e120",
+  "catalogue_sha256": "d77b73b9bed19b03297a6ff0a6bbf891abdee986e57009d34f247c6b5126e120",
+  "fetched": "2026-11-03T01:35:44Z",
+  "chars": 9254,
+  "portal_id": "252496",
+  "tip": "DECIZIE"
+ }
+}
