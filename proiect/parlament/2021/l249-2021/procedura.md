@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-02-15: adopted by the Chamber of Deputies
 - 2022-02-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-23: sent for promulgation
+- 2022-03-09: promulgated, becomes Legea nr. 48/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2021-09-14: Adresă către Camera Deputaților (AM): [am-298a00cc.md](am-298a00cc.md); official file https://www.senat.ro/legis/PDF/2021/21L249AM.PDF
 - 2022-02-21: Adresă privind sesizarea CCR (AXS): [axs-84e87919.md](axs-84e87919.md); official file https://www.senat.ro/legis/PDF/2021/21L249AXS.PDF
 - 2022-02-21: Forma trimisă la promulgare (LP): [lp-3a32dac4.md](lp-3a32dac4.md); official file https://www.senat.ro/legis/PDF/2021/21L249LP.PDF
+- 2022-03-09: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L249TA.PDF (its day is not given by the bill file: shown from the last stage held)
