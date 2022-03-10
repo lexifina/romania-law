@@ -1,0 +1,231 @@
+{
+ "key": "dcc-823-2021",
+ "label": "Decizia CCR nr. 823/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "823",
+ "date": "2021-12-09",
+ "year": "2021",
+ "heading": "DECIZIA nr. 823 din 9 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 511 alin. (1) pct. 8 din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "240",
+  "bis": false,
+  "date": "2022-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "720/1/2018/a1",
+  "2.057D/2018",
+  "771D/2019",
+  "5.542/2/2018",
+  "1.178D/2019",
+  "875/2/2019",
+  "2.362D/2019",
+  "1.259/2/2019",
+  "3.362D/2019",
+  "7.128/99/2015/a2"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "511",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate a dispozițiilor art. 511 alin. (1) pct. 8 din Codul de procedură civilă, excepție ridicată de Antonie Popescu în Dosarul nr. 720/1/2018/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă, de Societatea Ana Hotels - S.A. din București în Dosarul nr. 5.542/2/2018 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, de Gelu Manea, Carmen Manea, Victoria Ene, Maria Bogdan, Elena-Viorica Rusu și Marilena Ciocsan în Dosarul nr. 875/2/2019 al Curții de Apel București - Secția a V-a civilă, de Gelu Manea și Carmen Manea în Dosarul nr. 1.259/2/2019 al Curții de Apel București - Secția a VI-a civilă și de Ionuț Traian Banu în Dosarul nr. 7.128/99/2015/a2 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, Curții de Apel București - Secția a V-a civilă, Curții de Apel București - Secția a VI-a civilă și Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "511",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "513",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252524",
+  "text_sha256": "c194a08271cff796935745b1d6767b7e0a842220c4f2eee6aa7e19a41326b856",
+  "catalogue_sha256": "c194a08271cff796935745b1d6767b7e0a842220c4f2eee6aa7e19a41326b856",
+  "fetched": "2026-11-03T01:35:40Z",
+  "chars": 32682,
+  "portal_id": "252524",
+  "tip": "DECIZIE"
+ }
+}
