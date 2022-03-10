@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-13-21-concluzii-2022-03-10",
+ "label": "CJUE, Concluziile avocatului general N. Emiliou prezentate la 10 martie 2022, Cauza C-13/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2022-03-10",
+ "year": "2022",
+ "case": "Cauza C-13/21.",
+ "celex": "62021CC0013",
+ "ecli": "ECLI:EU:C:2022:188",
+ "heading": "Concluziile avocatului general N. Emiliou prezentate la 10 martie 2022",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Judecătoria Miercurea Ciuc.",
+ "national_followup": null,
+ "parties": "Pricoforest SRL împotriva Inspectoratul de Stat pentru Controlul în Transportul Rutier (ISCTR).",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Transport rutier – Dispoziții sociale – Regulamentul (CE) nr. 561/2006 – Derogări – Articolul 13 alineatul (1) litera (b) – Noțiunea de «rază de până la 100 de kilometri (km) de la sediul întreprinderii» – Vehicule care efectuează transporturi în această rază, precum și dincolo de raza menționată.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0013",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-13/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3236d2e8-a064-11ec-83e1-01aa75ed71a1.0013.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "406e1131cb213b16219eb14fea4ce25cbf59999b901f9030d58de664f1f0bd8a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
