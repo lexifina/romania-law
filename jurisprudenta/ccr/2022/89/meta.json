@@ -1,0 +1,164 @@
+{
+ "key": "dcc-89-2022",
+ "label": "Decizia CCR nr. 89/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "89",
+ "date": "2022-03-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 89 din 9 martie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "243",
+  "bis": false,
+  "date": "2022-03-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "567A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecția de neconstituționalitate a Legii privind desființarea Secției pentru investigarea infracțiunilor din justiție, precum și pentru modificarea Legii nr. 135/2010 privind Codul de procedură penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252557",
+  "text_sha256": "0db657bf2edaaeb0a46fae9a23142eba8ab8067036e042b280727517fb3bb7fd",
+  "catalogue_sha256": "0db657bf2edaaeb0a46fae9a23142eba8ab8067036e042b280727517fb3bb7fd",
+  "fetched": "2026-11-06T00:11:54Z",
+  "chars": 10532,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406205525/https://legislatie.just.ro/Public/DetaliiDocumentAfis/252557",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252557",
+   "timestamp": "20250406205525",
+   "sha256": "570a36e1643b8c8b056c049fb860887759fc2aee5cc469adac0c17a93463af36"
+  },
+  "portal_id": "252557",
+  "tip": "DECIZIE"
+ }
+}
