@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-14: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2022-03-02: documents published: Raport comisie sesizată pe fond
 - 2022-03-07: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2022-03-14: registered at the Chamber of Deputies
 
 ## Documents
 
