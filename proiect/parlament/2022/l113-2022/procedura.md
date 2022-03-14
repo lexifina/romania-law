@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-03-08: documents published: Aviz comisie
 - 2022-03-09: documents published: Aviz comisie
 - 2022-03-10: documents published: Aviz comisie
+- 2022-03-14: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Guvernul României.
 - 2022-03-08: Aviz comisie (CA44): [ca44-dc5ea276.md](ca44-dc5ea276.md); official file https://www.senat.ro/legis/PDF/2022/22L113CA44.PDF
 - 2022-03-09: Aviz comisie (CA3): [ca3-9576b646.md](ca3-9576b646.md); official file https://www.senat.ro/legis/PDF/2022/22L113CA3.PDF
 - 2022-03-10: Aviz comisie (CA45): [ca45-768d6827.md](ca45-768d6827.md); official file https://www.senat.ro/legis/PDF/2022/22L113CA45.PDF
+- 2022-03-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L113CR.PDF
+- 2022-03-14: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L113FS.PDF
+- 2022-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L113AM.PDF
