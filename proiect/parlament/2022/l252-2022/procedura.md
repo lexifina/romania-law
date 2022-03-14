@@ -1,0 +1,17 @@
+# Propunere legislativă L252/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru transparența utilizării și eficienței sumelor în cadrul Programului pentru promovarea exporturilor prin completarea Ordonanței de urgență nr.120/2002 privind aprobarea Sistemului de susținere și promovare a exportului cu finanțare de la bugetul de stat
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-03-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-03-14: Adresă de înaintare a inițiativei (AD): [ad-c252c524.md](ad-c252c524.md); official file https://www.senat.ro/legis/PDF/2022/22L252AD.PDF
+- 2022-03-14: Forma inițiatorului (FG): [fg-b3a97022.md](fg-b3a97022.md); official file https://www.senat.ro/legis/PDF/2022/22L252FG.PDF
+- 2022-03-14: Expunere de motive (EM): [em-52d13578.md](em-52d13578.md); official file https://www.senat.ro/legis/PDF/2022/22L252EM.PDF
