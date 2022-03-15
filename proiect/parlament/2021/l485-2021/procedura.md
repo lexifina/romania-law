@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-02-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-02-23: sent for promulgation
 - 2022-03-14: promulgated, becomes Legea nr. 55/2022
+- 2022-03-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2022-02-14: Forma adoptată de Senat (FS): [fs-34f1782e.md](fs-34f1782e.md); official file https://www.senat.ro/legis/PDF/2021/21L485FS.PDF
 - 2022-02-21: Adresă privind sesizarea CCR (AXS): [axs-84e87919.md](axs-84e87919.md); official file https://www.senat.ro/legis/PDF/2021/21L485AXS.PDF
 - 2022-02-21: Forma trimisă la promulgare (LP): [lp-113740d2.md](lp-113740d2.md); official file https://www.senat.ro/legis/PDF/2021/21L485LP.PDF
+- 2022-03-15: Document (AL): [al-4ec73d67.md](al-4ec73d67.md); official file https://www.senat.ro/legis/PDF/2021/21L485AL.PDF (its day is not given by the bill file: shown from the last stage held)
