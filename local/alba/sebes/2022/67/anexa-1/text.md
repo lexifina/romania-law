@@ -1,0 +1,64 @@
+# Anexa nr. 1
+ANEXĂ LA HCL NR. 2 / 2222
+De acordare a facilităților la transportul public locăil rutier pentru elevii din învățământul preuniversitar acredităt/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș pentru anul 2022
+Capitolul I — Dispoziții generale
+Art.1 Obiectul prezentului regulament îl constituie reglementarea cadrului general de decontare a facilitățiilor la transportul public local rutier pentru elevii din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș pentru anul 2022.
+Art.2 Prezentul Regulament este elaborat în conformitate cu: i
+- Art. L din OUG 130/17.12.2021 privind unele măsuri fiscal-bugetare, prorogarea unor termene, precum și modificarea și completarea unor acte normative;
+- Legea nr. 51/2006 privin serviciile comunitare de utilități publice, republicată cu modificările și completările ulterioare; :
+- Legea 92/2007 privind serviciile de transport persoane în unitățile administrativ-teritoriale cu modificările și completările ulterioare;
+- Legeanr. 1/2011 a educației naționale cu modificările și completările ulterioare;
+- Prevedrile Legii 273/2006 privind finanțele publice locale cu modificările și completările ulterioare; '
+- 00G 57/2019 privind Codul Administrativ cu modificările și completările ulterioare;
+-- HCL 186/17.08.2015 privind aprobarea atribuirii contractului de delegare a gestiunii serviciului de transport public local de persoane prin curse regulate în municipiul Sebeș și tarifele pentru bilete și abonamente; :
+- Contractul nr. 65/14.09.2015 de delegare a gestiunii serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș încheiat între Municipiul Sebeș și SC
+- HCL 389/2021 privind aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr. 65/2015 — "Tarife de transport”;
+Capitolul II — Tipuri de facilități la transportul public local rutier pentru elevii din învățământul preuniversitar acreditatautorizat de pe raza administrativ-teritorială a Municipiului Sebeș pentru anul 2022.
+Art3 (1) Elevii din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș care utilizează mijloacele de transport în comun beneficiază de gratuitate pe parcursul anului 2022; RI :
+(2) Gratuitatea se acordă pe un singur traseu de transport (dus-întors), respectiv de la domiciliul elevului la adresa unității de învățământ.
+Art.4 (1) Tariful lunar pentru transportul local rutier cu mijloace de transport în comun al elevilor valabil pentru un traseu este în valoare de 168 lei/lună;. confomn HCL : 385/2021 privind - aprobarea modificării alin. (1) al Art. 13 din Contractul de atribuire în gestiune: delegată a serviciului de transport public local de persoane prin curse regulate în Municipiul Sebeș, nr:
+65/2015 — "Tarife de transport”;
+(2) În situația în care contravaloarea călătoriilor efectuate este sub nivelul valorii 168 lei/ lună, se va deconta contravalarea călătoriilor efectuate.
+(3) Se asigură pentru elevi deplasarea gratuită de la domiciliu la unitatea de învățământ și înapoi, 21 zile lucrătoare pe lună, costul abonamentului fiind de 168 lei/ lună, doar în perioada cursurilor școlare.
+(4) Se decontează costul a 21 de călătorii pe traseul aprobat dus-întors, nu mai mult de 168 lei/ lună, FT
+Art.5 Costul transportului local rutier cu mijloace de transport în comun al elevilor de pe raza administrativ-teritorială a Municipiului Sebeș, va fi asigurat din'bugetul local.
+Capitolul III — Criterii de acordare a facilităților la transportul înrbari cu mijloace de transport în comun. :
+Art.6 Elevii beneficiază de gratuitate 100% a transportului urban cu mijloace de transport în comun, valabil pe un traseu, în condițiile în câre sunt înscriși înff-o: unitate de învățământ din învățământul preuniversitar acreditat/autorizat, de pe raza administrati v-teritorială a Municipiului
+Capitolul IV — Caracteristicile legitimațiilor de călătorie la transportul urban cu mijloace de transport în comun
+Art7 (1) Începând cu data intrării în vigoare a prezentului Regulament, elevii vor circula în baza unui abonament lunar valabil pus la dispoziție de SC LIVIO DARIO'SRI. pe-un singur traseu și care va fi distribuit prin unitățile de învățământ; :
+(2) SC LVIO DARIO SRL, va asigura imprimarea cardurilor de transport pentru elevi care vor fi personalizate și netransmisibile; :
+(3) Cardurile de transport pentru elevi, vor fi valabile pe un singur traseu de transport
+(dus-întors), respectiv de la domiciliul elevului la adresa unității de învățământ.
+Capitolul V — Modalitatea de acordare a facilităților la transportul urban cu mijloace de transport în comun ;
+Art.8 Pentru a beneficia de gratuitatea serviciilor de transport public local rutier, unitățile din învățământul preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș, vor solicita abonament de la SC LIVIO DARIO SRL, în intervalul de timp 10 — 20 ale lunii în curs pentru luna următoare, în baza unor tabele nominale care vor fi întocmite în dublu exemplar de fiecare unitate de învățământ în parte. Modelul acestor liste este prevăzut în anexa nr. 1 care face parte integrantă din prezentul Regulament și vor cuprinde următoarele date:
+- Nume și prenume elev;
+- Serie și număr act de identitate;
+- Adresa de domiciliu a elevului;
+- Traseul de transport urban utilizat de elev;
+- Numele și adresa unității de învățământ;
+Art.9 Fiecare unitate de învățământ din Muicipiul Sebeș, va primi la începutul fiecărei luni de la SC LIVIO DARIO SRL, un număr de abonamente cu valabilitate de o lună pentru elevii care solocită această facilitate. .
+Art.10 Costul inițial al cardurilor de transport pentru elevi vor fi suportate integral de operatorul de transport SC LIVIO DARIO SRL. În cazul pierderii sau distrugerii din culpa posesorului, eliberarea unui nou card, se va face cu suportarea costurilor acestuia de către beneficiar.
+Art.11 Abonamentul lunar va fi valabil numai însoțit de carnetul de elev, vizat de instituția de învățământ din Municipiul Sebeș, pentru anul școlar în curs. '
+Art.12 Distribuirea abonamentelor se va efectua numai cu respectarea condițiilor stabilite în prezentul Regulament, respectiv obligativitatea elevului de a fi înscris într-o unitate de învățământ preuniversitar acreditat/autorizat de pe raza administrativ-teritorială a Municipiului Sebeș. Responsabilitatea respectării acestor condiții revin unității de învățămârit.
+Art.13 După finalizarea distribuirii cardurilor de transport pentru elevi un exemplar al tabelelor nominale centralizate pe fiecare unitate de învățământ și certificate, vor fi predate reprezentantului SC LIVIO DARIO SRL, până la data de întâi a lunii următoare, în format letric și electronic, în vederea facturării lunare a serviciului de transport public pentru elevi,
+Art.14 Lunar, până la data de întâi a fiecărei luni, instiuțiile de învățământ de pe raza administrativ-teritorială a Municipiului Sebeș, vor transmite operatorului de transport public local, modificările intervenite în cursul lunii anterioare, față de tabelele transmise inițial, cu privire la elevii beneficiari de transport public (ex: elevi noi înscriși, elevi care nu mai aparțin unității de învățământ, modificarea domiciliului elevului, alte situații care conduc la modificarea situației inițiale și implicit a facturii din luna respectivă). :
+Art.15 SC LIVIO DARIO SRL, în baza tabelelor centralizate pe fiecare instituție de învățământ va emite factura fiscală și o va înainta Municipiului Sebeș până în data de 5 a lunii în curs pentru luna precedentă. Factura fiscală va fi însoțită de situația centralizatoare a călătoriilor efectuate de beneficiari, avizate de instituțiile de învățământ, situație a cărui model se regăsește în anexa nr. 2, parte integrantă a prezentului Regulament.
+Art.16 Compartimentul Patrimoniu și Transport din cadrul Aparatului de Specialitate al Primarului, va înainta factura în vederea efectuării plății, până la data de 25 a lunii următoare, către Serviciul Cheltuieli și Resurse Umane.
+Art.17 Instituțiile de învățământ de pe raza administrativ-teritorială a Municipiului Sebeș și SC LIVIO DARIO SRL, răspund administrativ, patrimonial și penal, de corectitudinea datelor cuprinse în documntele justificative prevăzute la art. 15 al prezentului Regulament și de respectarea condițiilor de distribuire a cardurilor de transport pentru elevi, în timp util.
+Art.18 SC LIVIO DARIO SRL, răspunde de asigurarea transportului public local pentru elevii din Municipiul Sebeș, asigurarea numărului de abonamente. și a cardurilor de transport necesare, de distribuirea acestora către unitățile de învățământ, precum și de centralizarea tabelelor nominale și întocmirea corectă a facturilor fiscale.
+Anexa nr. 1 la Regulament
+Instituția de învățâmânt:
+Adresa instituției:
+LISTA NOMINALĂ CU ELEVII CARE BENEFICIAZĂ DE CARD ANUAL DE TRANSPORT PUBLIC LOCAL CU MIJLOACE DE
+TRASNPORT ÎN COMUN SITUAȚIA LUNA ANUL Nume și prenume Seria și nr. Clasa | Adresa de domiciliu Traseul solicitat Seria , Semnătura act identitate abonament/card | de primire
+& —
+Certificăm prin prezenta corecțitudinea datelor cuprinse în tabelul nominal și respectarea condițiilor de acordare a facilităților la transportul urban cu mijloace de transport în comun al elevilor, ,
+VNETIE VNILSIHI VIA
+STAI TAIAT. "IVHANED YVLINDIS
+——
+NVEZILS NAIVE NVALSI TYS t20[ Logrsuo)
+YÂNIGTS IQ IINICESTAI
+Ol
+L
+Ss La £ c I %00I 2SInpINH (zod umumip) JIOĂdSUBIȚ Sp [N.107LI0d0 Ip ISIMI , 10 (VD-2AILOILA ragserdap "IN /211Z “IN pILI/UDUEUOAE "IN Iunuodd 15 INN IN ouOLIIIM otgzopduzroo 15 oHIgIgIpou N “IIOT/F IA Porieonpo HBO ULLOFUOI IN[MZ.IOĂSULI) VIILOJLALIJUOI- EZBo:U0IMp 95 vdaEI vzug uz zuguagiganț op vozezrun ur iuzIIE[OIĂ mnue / ung od I0pAT VILVALIS erep / IN (EIMSIIL LOIUNUSp) :yodsuezy op 1ozersdQ
+Juaute(nBoy EJ 7 “Ju exauy
