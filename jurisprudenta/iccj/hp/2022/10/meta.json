@@ -1,0 +1,241 @@
+{
+ "key": "iccj-hp-10-2022",
+ "label": "Decizia ÎCCJ nr. 10/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "10",
+ "date": "2022-02-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 10 din 21 februarie 2022",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "257",
+  "bis": false,
+  "date": "2022-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.878/1/2021",
+  "12.588/300/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a IV-a civilă, în Dosarul nr. 12.588/300/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă noțiunile de „terenuri atribuite în folosință“ și „actuali titulari ai dreptului de folosință“, prevăzute în art. 36 alin. (3) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare, se interpretează în sens restrictiv, doar prin raportare la existența unor acte de atribuire în folosință sau, după caz, închiriere, ori în sensul în care includ și situația unei lăsări de către stat în folosința proprietarilor construcției a terenului ce a trecut în proprietatea statului în temeiul dispozițiilor art. 30 din Legea nr. 58/1974 privind sistematizarea teritoriului și localităților urbane și rurale, ca urmare a înstrăinării construcției, precum și dacă în interpretarea acestor noțiuni trebuie avută în vedere voința reală a părților de la momentul încheierii contractului de vânzare-cumpărare.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1974",
+    "number": "58",
+    "year": "1974",
+    "path": "lege/1974/58"
+   },
+   "articles": [
+    {
+     "art": "36",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 4/1973",
+    "number": "4",
+    "year": "1973",
+    "path": "lege/1973/4"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 138/2000",
+    "number": "138",
+    "year": "2000",
+    "path": "oug/2000/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252641",
+  "text_sha256": "0d8b504088de642d48d789cf094faf263a4ce8bdca775e02f6d1485ef82f38fa",
+  "catalogue_sha256": "0d8b504088de642d48d789cf094faf263a4ce8bdca775e02f6d1485ef82f38fa",
+  "fetched": "2026-11-06T03:47:59Z",
+  "chars": 47787,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/252641",
+   "timestamp": "20250909103122",
+   "crawl": "CC-MAIN-2025-38",
+   "filename": "crawl-data/CC-MAIN-2025-38/segments/1757047533047.83/warc/CC-MAIN-20250909090544-20250909120544-00846.warc.gz",
+   "offset": "314383592",
+   "length": "41223",
+   "sha256": "297d8eb88cfd73f39a68207b3bab226333f2df2fcaf8757175c54df8ed606ff3"
+  },
+  "portal_id": "252641",
+  "tip": "DECIZIE"
+ }
+}
