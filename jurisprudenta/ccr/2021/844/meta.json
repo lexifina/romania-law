@@ -1,0 +1,389 @@
+{
+ "key": "dcc-844-2021",
+ "label": "Decizia CCR nr. 844/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "844",
+ "date": "2021-12-14",
+ "year": "2021",
+ "heading": "DECIZIA nr. 844 din 14 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. VII din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "259",
+  "bis": false,
+  "date": "2022-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "916/100/2018",
+  "551D/2019",
+  "2.003/100/2018",
+  "37/108/2019",
+  "26/83/2019",
+  "512/91/2018",
+  "35.515/3/2018",
+  "3.373/121/2018",
+  "2.505/107/2018",
+  "2.409/89/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Dumitru Măcelaru în Dosarul nr. 916/100/2018 al Tribunalului Maramureș - Secția I civilă, de Vasile Crăciun în Dosarul nr. 2.003/100/2018 al Tribunalului Maramureș - Secția I civilă, de Dacian Flavius Indrie în Dosarul nr. 37/108/2019 al Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Gheorghe Liviu Gliga în Dosarul nr. 26/83/2019 al Tribunalului Satu Mare - Secția I civilă, de Săndel Stoica în Dosarul nr. 512/91/2018 al Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale, de Ionuț Dănuț Mitroi în Dosarul nr. 35.515/3/2018 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Eduard Biro în Dosarul nr. 3.373/121/2018 al Tribunalului Galați - Secția I civilă, de Constantin Virgil Mărginean în Dosarul nr. 2.505/107/2018 al Tribunalului Alba - Secția I civilă, de Gheorghe Ciobotariu în Dosarul nr. 2.409/89/2018 al Tribunalului Vaslui - Secția civilă, de Ioana Stanca în Dosarul nr. 8.290/63/2018 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Constantin Preoteasa în Dosarul nr. 1.451/97/2018 al Tribunalului Hunedoara - Secția I civilă, de Marinel Sorin Surdu în Dosarul nr. 9.931/3/2019 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Eugen Dumitrașcu în Dosarul nr. 5.569/3/2019 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Constantin Văduva în Dosarul nr. 2.472/89/2018 al Tribunalului Vaslui - Secția civilă, de Radu Mihai Ballos în Dosarul nr. 28/83/2019 al Tribunalului Satu Mare - Secția I civilă, de Giani Tiberiu Bojte în Dosarul nr. 1.126/108/2019 al Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale și de Sorinel-Iliuță Constantin în Dosarul nr. 7.717/3/2019 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că dispozițiile art. VII din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Maramureș - Secția I civilă, Tribunalului Arad – Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Satu Mare - Secția I civilă, Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Galați - Secția I civilă, Tribunalului Alba - Secția I civilă, Curții de Apel Iași - Secția litigii de muncă și asigurări sociale, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și Tribunalului Hunedoara - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "m",
+      "l"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 46
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1",
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 149/2018",
+    "number": "149",
+    "year": "2018",
+    "path": "lege/2018/149"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252656",
+  "text_sha256": "32e2fac4eef1b02431a2879c94f5ca3458eae6c2af61102f0c91bbdcb8c2f835",
+  "catalogue_sha256": "32e2fac4eef1b02431a2879c94f5ca3458eae6c2af61102f0c91bbdcb8c2f835",
+  "fetched": "2026-11-03T01:35:32Z",
+  "chars": 52720,
+  "portal_id": "252656",
+  "tip": "DECIZIE"
+ }
+}
