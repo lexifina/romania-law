@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-02: documents published: Aviz comisie
 - 2020-09-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-09-14: sent for promulgation
+- 2022-03-16: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: Forma adoptată de Senat (FS): [fs-bc7e6ade.md](fs-bc7e6ade.md); official file https://www.senat.ro/legis/PDF/2020/20L562FS.PDF
 - 2020-09-08: Adresă privind sesizarea CCR (AXS): [axs-a0d7f824.md](axs-a0d7f824.md); official file https://www.senat.ro/legis/PDF/2020/20L562AXS.PDF
 - 2020-09-08: Forma trimisă la promulgare (LP): [lp-b2f29c43.md](lp-b2f29c43.md); official file https://www.senat.ro/legis/PDF/2020/20L562LP.PDF
+- 2022-03-16: Document (AL): [al-ae88df41.md](al-ae88df41.md); official file https://www.senat.ro/legis/PDF/2020/20L562AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-16: Document (SC1): [sc1-5d80e311.md](sc1-5d80e311.md); official file https://www.senat.ro/legis/PDF/2020/20L562SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-16: Document (DC1): [dc1-9f23b4e2.md](dc1-9f23b4e2.md); official file https://www.senat.ro/legis/PDF/2020/20L562DC1.PDF (its day is not given by the bill file: shown from the last stage held)
