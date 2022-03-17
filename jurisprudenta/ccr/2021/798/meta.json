@@ -1,0 +1,189 @@
+{
+ "key": "dcc-798-2021",
+ "label": "Decizia CCR nr. 798/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "798",
+ "date": "2021-12-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 798 din 7 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 35 alin. (6) și ale art. 130 din Legea nr. 72/2016 privind sistemul de pensii și alte drepturi de asigurări sociale ale avocaților",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "261",
+  "bis": false,
+  "date": "2022-03-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.611/63/2018",
+  "639D/2019",
+  "4.632/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2016",
+    "number": "72",
+    "year": "2016",
+    "path": "lege/2016/72"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion Stolojan în Dosarul nr. 7.611/63/2018 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și constată că dispozițiile art. 35 alin. (6) și ale art. 130 din Legea nr. 72/2016 privind sistemul de pensii și alte drepturi de asigurări sociale ale avocaților sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 72/2016",
+    "number": "72",
+    "year": "2016",
+    "path": "lege/2016/72"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252671",
+  "text_sha256": "1f06fc43aea7935891caf2fdfbe012c7ebc3c5c38991f436ad6e96d1ae581e14",
+  "catalogue_sha256": "1f06fc43aea7935891caf2fdfbe012c7ebc3c5c38991f436ad6e96d1ae581e14",
+  "fetched": "2026-11-05T02:36:31Z",
+  "chars": 18516,
+  "portal_id": "252671",
+  "tip": "DECIZIE"
+ }
+}
