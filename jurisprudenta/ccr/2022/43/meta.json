@@ -1,0 +1,194 @@
+{
+ "key": "dcc-43-2022",
+ "label": "Decizia CCR nr. 43/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "43",
+ "date": "2022-01-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 43 din 27 ianuarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 51 alin. (2), (3) și (8) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "268",
+  "bis": false,
+  "date": "2022-03-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.710/88/2017",
+  "236D/2019",
+  "1.963D/2019",
+  "486/59/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Petruș Bălănică în Dosarul nr. 1.710/88/2017 al Curții de Apel Constanța - Secția I civilă, precum și de Gheorghe-Radu Săsăran în Dosarul nr. 486/59/2019 al Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și constată că dispozițiile art. 51 alin. (2),",
+  "(3) și (8) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția I civilă și Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "51",
+     "alin": [
+      "2",
+      "3",
+      "8",
+      "9",
+      "11",
+      "14"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2016",
+    "number": "7",
+    "year": "2016",
+    "path": "lege/2016/7"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 145/2017",
+    "number": "145",
+    "year": "2017",
+    "path": "lege/2017/145"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-03-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252744",
+  "text_sha256": "1ec66b6c082236584d2af79d0166e04d58ff8cdd9b1bfb2e9979aabfc0f6a760",
+  "catalogue_sha256": "1ec66b6c082236584d2af79d0166e04d58ff8cdd9b1bfb2e9979aabfc0f6a760",
+  "fetched": "2026-11-03T14:32:29Z",
+  "chars": 27605,
+  "portal_id": "252744",
+  "tip": "DECIZIE"
+ }
+}
