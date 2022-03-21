@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-02-22: adopted by the Chamber of Deputies
 - 2022-03-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-03: sent for promulgation
+- 2022-03-21: promulgated, becomes Legea nr. 63/2022
 
 ## Documents
 
