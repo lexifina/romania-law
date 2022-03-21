@@ -11,7 +11,9 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-01: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2022-03-07: legislative procedure ended
 - 2022-03-08: registered at the Senate
+- 2022-03-21: documents published: Aviz comisie
 
 ## Documents
 
 - 2022-02-01: Punct de vedere Guvern (SJ): [sj-7c870d8e.md](sj-7c870d8e.md); official file https://www.senat.ro/legis/PDF/2022/22L174SJ.PDF
+- 2022-03-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L174CA3.PDF
