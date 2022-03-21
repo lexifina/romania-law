@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 2022-02-21: registered at the Chamber of Deputies
 - 2022-03-15: documents published: Raport comisie sesizată pe fond
+- 2022-03-21: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
 - 2022-03-15: Raport comisie sesizată pe fond (CR): [cr-bdbfc451.md](cr-bdbfc451.md); official file https://www.senat.ro/legis/PDF/2022/22L162CR.PDF
+- 2022-03-21: Document (OG): [og-c7bd7c79.md](og-c7bd7c79.md); official file https://www.senat.ro/legis/PDF/2022/22L162OG.PDF
