@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-03-08: first record in the bill file
+- 2022-03-21: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2022-03-21: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L108CA45.PDF
