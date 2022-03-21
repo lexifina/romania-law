@@ -1,0 +1,19 @@
+# Propunere legislativă L260/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 105/2023 (`legea-105-2023`).
+
+Propunere legislativă privind reglementarea modalității de raportare a stocurilor la produsele agricole
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-03-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-03-21: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L260AD.PDF
+- 2022-03-21: Forma inițiatorului (FG): [fg-daeda0b8.md](fg-daeda0b8.md); official file https://www.senat.ro/legis/PDF/2022/22L260FG.PDF
+- 2022-03-21: Expunere de motive (EM): [em-6a988f99.md](em-6a988f99.md); official file https://www.senat.ro/legis/PDF/2022/22L260EM.PDF
