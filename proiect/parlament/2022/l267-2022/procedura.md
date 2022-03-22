@@ -1,0 +1,19 @@
+# Propunere legislativă L267/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 154/2024 (`legea-154-2024`).
+
+Propunere legislativă pentru modificarea art.17 alin.(4) din Legea nr.160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-03-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-03-22: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L267AD.PDF
+- 2022-03-22: Forma inițiatorului (FG): [fg-eafe9d5a.md](fg-eafe9d5a.md); official file https://www.senat.ro/legis/PDF/2022/22L267FG.PDF
+- 2022-03-22: Expunere de motive (EM): [em-9b8c8256.md](em-9b8c8256.md); official file https://www.senat.ro/legis/PDF/2022/22L267EM.PDF
