@@ -1,0 +1,17 @@
+# Propunere legislativă L272/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea alin.(1)-(3) ale art.77 din Legea nr.227/2015 privind Codul fiscal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-03-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-03-23: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L272AD.PDF
+- 2022-03-23: Forma inițiatorului (FG): [fg-f6c4f4bc.md](fg-f6c4f4bc.md); official file https://www.senat.ro/legis/PDF/2022/22L272FG.PDF
+- 2022-03-23: Expunere de motive (EM): [em-bbe36b25.md](em-bbe36b25.md); official file https://www.senat.ro/legis/PDF/2022/22L272EM.PDF
