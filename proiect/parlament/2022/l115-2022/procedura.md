@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-01: rejected by the Chamber of Deputies
 - 2022-03-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-03-14: documents published: Aviz comisie
+- 2022-03-23: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-03: Forma inițiatorului (FG): [fg-468e168c.md](fg-468e168c.md); official file https://www.senat.ro/legis/PDF/2022/22L115FG.PDF
 - 2022-03-03: Expunere de motive (EM): [em-b6fe87e6.md](em-b6fe87e6.md); official file https://www.senat.ro/legis/PDF/2022/22L115EM.PDF
 - 2022-03-14: Aviz comisie (CA50): [ca50-00b9d935.md](ca50-00b9d935.md); official file https://www.senat.ro/legis/PDF/2022/22L115CA50.PDF
+- 2022-03-23: Aviz comisie (CA45): [ca45-6c4154b4.md](ca45-6c4154b4.md); official file https://www.senat.ro/legis/PDF/2022/22L115CA45.PDF
