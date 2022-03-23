@@ -1,0 +1,273 @@
+{
+ "key": "iccj-ril-5-2022",
+ "label": "Decizia ÎCCJ nr. 5/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "5",
+ "date": "2022-02-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 5 din 21 februarie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a prevederilor art. 684 și 687 din Legea nr. 95/2006 și ale art. 94 pct. 1 lit. k) și art. 95 pct. 1 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE -COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "279",
+  "bis": false,
+  "date": "2022-03-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.065/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "684",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "679",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "680",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "681",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "682",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "683",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "685",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului și, în consecință, stabilește că: În interpretarea și aplicarea unitară a prevederilor art. 684 și 687 din Legea nr. 95/2006 și ale art. 94 pct. 1 lit. k) și art. 95 pct. 1 din Codul de procedură civilă, competența materială de soluționare a cauzelor având ca obiect obligarea pe temei delictual a pârâților la achitarea daunelor materiale și/sau morale pentru malpraxis, în situația în care nu a fost urmată procedura reglementată de dispozițiile art. 679-685 din Legea nr. 95/2006, aparține judecătoriei.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "684",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "684",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "679",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "680",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "681",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "682",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "683",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "685",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "673",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "653",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-03-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253108",
+  "text_sha256": "8285d5357dabe1ffc24c9e0b2a8df947a7538a95ebd0daf5d157e0333aff713e",
+  "catalogue_sha256": "8285d5357dabe1ffc24c9e0b2a8df947a7538a95ebd0daf5d157e0333aff713e",
+  "fetched": "2026-11-03T01:35:20Z",
+  "chars": 51716,
+  "portal_id": "253108",
+  "tip": "DECIZIE"
+ }
+}
