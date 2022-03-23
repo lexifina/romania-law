@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-03-08: adopted by the Chamber of Deputies
 - 2022-03-09: registered at the Senate
 - 2022-03-22: documents published: Aviz comisie
+- 2022-03-23: documents published: Aviz comisie
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2021-11-09: Aviz comisie (CA41): [ca41-600b46ba.md](ca41-600b46ba.md); official file https://www.senat.ro/legis/PDF/2021/21L410CA41.PDF
 - 2021-11-22: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L410CR.PDF
 - 2022-03-22: Aviz comisie (CA8): [ca8-5aa51d60.md](ca8-5aa51d60.md); official file https://www.senat.ro/legis/PDF/2021/21L410CA8.PDF
+- 2022-03-23: Aviz comisie (CA93): [ca93-892b28ed.md](ca93-892b28ed.md); official file https://www.senat.ro/legis/PDF/2021/21L410CA93.PDF
