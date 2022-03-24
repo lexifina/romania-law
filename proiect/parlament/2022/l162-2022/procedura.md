@@ -13,8 +13,14 @@ Initiator: Guvernul României.
 - 2022-02-21: registered at the Chamber of Deputies
 - 2022-03-15: documents published: Raport comisie sesizată pe fond
 - 2022-03-21: adopted by the Chamber of Deputies; documents published: Document
+- 2022-03-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2022-03-15: Raport comisie sesizată pe fond (CR): [cr-bdbfc451.md](cr-bdbfc451.md); official file https://www.senat.ro/legis/PDF/2022/22L162CR.PDF
 - 2022-03-21: Document (OG): [og-c7bd7c79.md](og-c7bd7c79.md); official file https://www.senat.ro/legis/PDF/2022/22L162OG.PDF
+- 2022-03-24: Adresă de înaintare a inițiativei (AD): [ad-4faaf6a2.md](ad-4faaf6a2.md); official file https://www.senat.ro/legis/PDF/2022/22L162AD.PDF
+- 2022-03-24: Forma inițiatorului (FG): [fg-f7d4172c.md](fg-f7d4172c.md); official file https://www.senat.ro/legis/PDF/2022/22L162FG.PDF
+- 2022-03-24: Expunere de motive (EM): [em-72381aeb.md](em-72381aeb.md); official file https://www.senat.ro/legis/PDF/2022/22L162EM.PDF
+- 2022-03-24: Aviz Consiliul Legislativ (LG): [lg-e94ba1bf.md](lg-e94ba1bf.md); official file https://www.senat.ro/legis/PDF/2022/22L162LG.PDF
+- 2022-03-24: Document (HG): [hg-030c746d.md](hg-030c746d.md); official file https://www.senat.ro/legis/PDF/2022/22L162HG.PDF
