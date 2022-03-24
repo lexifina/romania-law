@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-07: sent for promulgation
 - 2022-03-23: promulgated, becomes Legea nr. 66/2022
+- 2022-03-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-23: Adresă către Camera Deputaților (AM): [am-9da6a6ee.md](am-9da6a6ee.md); official file https://www.senat.ro/legis/PDF/2021/21L225AM.PDF
 - 2022-03-01: Adresă privind sesizarea CCR (AXS): [axs-69811e1f.md](axs-69811e1f.md); official file https://www.senat.ro/legis/PDF/2021/21L225AXS.PDF
 - 2022-03-01: Forma trimisă la promulgare (LP): [lp-5289cf2f.md](lp-5289cf2f.md); official file https://www.senat.ro/legis/PDF/2021/21L225LP.PDF
+- 2022-03-24: Document (CC): [cc-6e0f9f6c.md](cc-6e0f9f6c.md); official file https://www.senat.ro/legis/PDF/2021/21L225CC.PDF (its day is not given by the bill file: shown from the last stage held)
