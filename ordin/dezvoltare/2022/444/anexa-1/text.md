@@ -1,0 +1,2 @@
+# ANEXĂ
+GHID SPECIFIC privind Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelurilor de proiecte PNRR/2022/C5/1/A.3.1/1, PNRR/2022/C5/1/A.3.2/1, componenta 5 - Valul renovării, axa 1 - Schema de granturi pentru eficiență energetică și reziliență în clădiri rezidențiale multifamiliale, operațiunea A.3 - Renovarea energetică moderată sau aprofundată a clădirilor rezidențiale multifamiliale
