@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-03-01: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-07: sent for promulgation
 - 2022-03-23: promulgated, becomes Legea nr. 68/2022
+- 2022-03-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2022-02-21: Forma adoptată de Senat (FS): [fs-b0824ab5.md](fs-b0824ab5.md); official file https://www.senat.ro/legis/PDF/2021/21L554FS.PDF
 - 2022-03-01: Adresă privind sesizarea CCR (AXS): [axs-f8e6a147.md](axs-f8e6a147.md); official file https://www.senat.ro/legis/PDF/2021/21L554AXS.PDF
 - 2022-03-01: Forma trimisă la promulgare (LP): [lp-b9e081be.md](lp-b9e081be.md); official file https://www.senat.ro/legis/PDF/2021/21L554LP.PDF
+- 2022-03-25: Document (DR): [dr-db3b187c.md](dr-db3b187c.md); official file https://www.senat.ro/legis/PDF/2021/21L554DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-25: Document (TX): [tx-49e7ce78.md](tx-49e7ce78.md); official file https://www.senat.ro/legis/PDF/2021/21L554TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-25: Document (AL): [al-987aa0eb.md](al-987aa0eb.md); official file https://www.senat.ro/legis/PDF/2021/21L554AL.PDF (its day is not given by the bill file: shown from the last stage held)
