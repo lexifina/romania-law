@@ -1,0 +1,3 @@
+# ANEXĂ
+GHID SPECIFIC privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C5/2/B.2.1/1,
+PNRR/2022/C5/B.2.2/1, componenta 5 - Valul renovării, axa 2 - Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiunea B.2: Renovarea energetică moderată sau aprofundată a clădirilor publice
