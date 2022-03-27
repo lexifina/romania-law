@@ -1,0 +1,64 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2022/378 AL COMISIEI
+din 4 martie 2022
+de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active abamectină, Bacillus subtilis (Cohn 1872) tulpina QST 713, Bacillus thuringiensis subsp. Aizawai tulpinile ABTS-1857 și GC-91, Bacillus thuringiensis subsp. Israeliensis (serotipul H-14) tulpina AM65-52, Bacillus thuringiensis subsp. Kurstaki tulpinile ABTS 351, PB 54, SA 11, SA12 și EG 2348, Beauveria bassiana tulpinile ATCC 74040 și GHA, clodinafop, Cydia pomonella Granulovirus (CpGV), ciprodinil, diclorprop-P, fenpiroximat, fosetil, malation, mepanipirim, metconazol, metrafenon, pirimicarb, Pseudomonas chlororaphis tulpina MA342, pirimetanil, Pythium oligandrum M1, rimsulfuron, spinosad, Trichoderma asperellum (anterior T. harzianum) tulpinile ICC012, T25 și TV1, Trichoderma atroviride (anterior T. harzianum) tulpina T11, Trichoderma gamsii (anterior T. viride) tulpina ICC080, Trichoderma harzianum tulpinile T-22 și ITEM 908, triclopir, trinexapac, triticonazol și ziram
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 17 primul paragraf,
+întrucât:
+(1) Partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (2) stabilește substanțele active considerate a fi fost aprobate în temeiul Regulamentului (CE) nr. 1107/2009.
+(2) Regulamentul de punere în aplicare (UE) 2021/566 al Comisiei (3) a prelungit până la 30 aprilie 2022 perioada de aprobare a substanțelor active abamectină, Bacillus subtilis (Cohn 1872) tulpina QST 713, Bacillus thuringiensis subsp. Aizawai tulpinile ABTS-1857 și GC-91, Bacillus thuringiensis subsp. Israeliensis (serotipul H-14) tulpina AM65-52, Bacillus thuringiensis subsp. Kurstaki tulpinile ABTS 351, PB 54, SA 11, SA12 și EG 2348, Beauveria bassiana tulpinile ATCC 74040 și GHA, clodinafop, Cydia pomonella Granulovirus (CpGV), ciprodinil, diclorprop-P, fenpiroximat, fosetil, mepanipirim, metconazol, metrafenon, pirimicarb, Pseudomonas chlororaphis tulpina MA342, pirimetanil, Pythium oligandrum M1, rimsulfuron, spinosad, Trichoderma asperellum (anterior „T. harzianum”) tulpinile ICC012, T25 și TV1, Trichoderma atroviride (anterior „T. harzianum”) tulpina T11, Trichoderma gamsii (anterior „T. viride”) tulpina ICC080, Trichoderma harzianum tulpinile T-22 și ITEM 908, triclopir, trinexapac, triticonazol și ziram. Regulamentul de punere în aplicare (UE) 2017/1527 al Comisiei (4) a prelungit perioada de aprobare a substanței active malation până la 30 aprilie 2022.
+(3) Cererile de reînnoire a aprobării substanțelor respective au fost transmise în conformitate cu Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei (5). Deși Regulamentul de punere în aplicare (UE) nr. 844/2012 a fost abrogat prin Regulamentul de punere în aplicare (UE) 2020/1740 al Comisiei (6), dispozițiile privind reînnoirea aprobării substanțelor active respective prevăzute în regulamentul respectiv continuă să se aplice în conformitate cu articolul 17 din Regulamentul de punere în aplicare (UE) 2020/1740.
+(4) Din cauza faptului că evaluarea substanțelor active respective a fost amânată din motive independente de voința solicitanților, este probabil ca aprobările lor să expire înainte de adoptarea unei decizii privind reînnoirea lor. Prin urmare, este necesar să se prelungească perioadele lor de aprobare.
+(5) În plus, este necesară prelungirea perioadei de aprobare pentru substanțele active clodinafop, ciprodinil, diclorprop-P, fenpiroximat, fosetil, mepanipirim, metconazol, metrafenon, pirimicarb, pirimetanil, spinosad, triclopir, trinexapac, triticonazol și ziram, pentru a acorda timpul necesar pentru efectuarea unei evaluări a proprietăților care perturbă sistemul endocrin ale substanțelor active respective, în conformitate cu procedura prevăzută la articolele 13 și 14 din Regulamentul de punere în aplicare (UE) nr. 844/2012.
+(6) În ceea ce privește cazurile în care Comisia urmează să adopte un regulament care prevede că aprobarea unei substanțe active menționate în anexa la prezentul regulament nu se reînnoiește deoarece nu sunt îndeplinite criteriile de aprobare, Comisia va stabili ca dată de expirare fie data prevăzută înainte de intrarea în vigoare a prezentului regulament, fie data intrării în vigoare a regulamentului care prevede că aprobarea substanței active nu se reînnoiește, oricare dintre aceste date survine mai târziu. În ceea ce privește cazurile în care Comisia urmează să adopte un regulament care să prevadă reînnoirea aprobării unei substanțe active menționate în anexa la prezentul regulament, Comisia va urmări să stabilească, în funcție de circumstanțe, cea mai timpurie dată posibilă de punere în aplicare. Prelungirea propusă este limitată la perioada prevăzută pentru finalizarea evaluării.
+(7) Prin urmare, este necesar ca Regulamentul de punere în aplicare (UE) nr. 540/2011 să fie modificat în consecință.
+(8) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 4 martie 2022.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+(3) Regulamentul de punere în aplicare (UE) 2021/566 al Comisiei din 30 martie 2021 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active abamectin, Bacillus subtilis (Cohn 1872) tulpina QST 713, Bacillus thuringiensis subsp. Aizawai tulpinile ABTS-1857 și GC-91, Bacillus thuringiensis subsp. Israeliensis (serotipul H-14) tulpina AM65-52, Bacillus thuringiensis subsp. Kurstaki tulpinile ABTS 351, PB 54, SA 11, SA12 și EG 2348, Beauveria bassiana tulpinile ATCC 74040 și GHA, clodinafop, clopiralid, Cydia pomonella Granulovirus (CpGV), ciprodinil, diclorprop-P, fenpiroximat, fosetil, mepanipirim, Metarhizium anisopliae (var. anisopliae) tulpina BIPESCO 5/F52, metconazol, metrafenonă, pirimicarb, Pseudomonas chlororaphis tulpina MA342, pirimetanil, Pythium oligandrum M1, rimsulfuron, spinosad, Streptomyces K61 (anterior „S. griseoviridis”), Trichoderma asperellum (anterior „T. harzianum”) tulpinile ICC012, T25 și TV1, Trichoderma atroviride (anterior „T. harzianum”) tulpina T11, Trichoderma gamsii (anterior „T. viride”) tulpina ICC080, Trichoderma harzianum tulpinile T-22 și ITEM 908, triclopir, trinexapac, triticonazol și ziram (JO L 118, 7.4.2021, p. 1).
+(4) Regulamentul de punere în aplicare (UE) 2017/1527 al Comisiei din 6 septembrie 2017 de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 în ceea ce privește prelungirea perioadelor de aprobare a substanțelor active ciflufenamid, fluopicolid, heptamaloxiloglucan și malation (JO L 231, 7.9.2017, p. 3).
+(5) Regulamentul de punere în aplicare (UE) nr. 844/2012 al Comisiei din 18 septembrie 2012 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, prevăzută în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare (JO L 252, 19.9.2012, p. 26).
+(6) Regulamentul de punere în aplicare (UE) 2020/1740 al Comisiei din 20 noiembrie 2020 de stabilire a dispozițiilor necesare pentru punerea în aplicare a procedurii de reînnoire pentru substanțele active, astfel cum se prevede în Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului, și de abrogare a Regulamentului de punere în aplicare (UE) nr. 844/2012 al Comisiei (JO L 392, 23.11.2020, p. 20).
+ANEXĂ
+Partea A a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică după cum urmează:
+1. în a șasea coloană, „Expirarea aprobării”, la rândul 74, „Ziram”, data se înlocuiește cu „30 aprilie 2023”;
+2. în a șasea coloană, „Expirarea aprobării”, la rândul 89, „Pseudomonas chlororaphis” tulpina MA 342, data se înlocuiește cu „30 aprilie 2023”;
+3. în a șasea coloană, „Expirarea aprobării”, la rândul 90, „Mepanipirim”, data se înlocuiește cu „30 aprilie 2023”;
+4. în a șasea coloană, „Expirarea aprobării”, la rândul 123, „Clodinafop”, data se înlocuiește cu „30 aprilie 2023”;
+5. în a șasea coloană, „Expirarea aprobării”, la rândul 124, „Pirimicarb”, data se înlocuiește cu „30 aprilie 2023”;
+6. în a șasea coloană, „Expirarea aprobării”, la rândul 125, „Rimsulfuron”, data se înlocuiește cu „30 aprilie 2023”;
+7. în a șasea coloană, „Expirarea aprobării”, la rândul 127, „Triticonazol”, data se înlocuiește cu „30 aprilie 2023”;
+8. în a șasea coloană, „Expirarea aprobării”, la rândul 130, „Ciprodinil”, data se înlocuiește cu „30 aprilie 2023”;
+9. în a șasea coloană, „Expirarea aprobării”, la rândul 131, „Fosetil”, data se înlocuiește cu „30 aprilie 2023”;
+10. în a șasea coloană, „Expirarea aprobării”, la rândul 132, „Trinexapac”, data se înlocuiește cu „30 aprilie 2023”;
+11. în a șasea coloană, „Expirarea aprobării”, la rândul 133, „Diclorprop-P”, data se înlocuiește cu „30 aprilie 2023”;
+12. în a șasea coloană, „Expirarea aprobării”, la rândul 134, „Metconazol”, data se înlocuiește cu „30 aprilie 2023”;
+13. în a șasea coloană, „Expirarea aprobării”, la rândul 135, „Pirimetanil”, data se înlocuiește cu „30 aprilie 2023”;
+14. în a șasea coloană, „Expirarea aprobării”, la rândul 136, „Triclopir”, data se înlocuiește cu „30 aprilie 2023”;
+15. în a șasea coloană, „Expirarea aprobării”, la rândul 137, „Metrafenon”, data se înlocuiește cu „30 aprilie 2023”;
+16. în a șasea coloană, „Expirarea aprobării”, la rândul 138, „Bacillus subtilis (Cohn 1872) tulpina QST 713”, data se înlocuiește cu „30 aprilie 2023”;
+17. în a șasea coloană, „Expirarea aprobării”, la rândul 139, „Spinosad”, data se înlocuiește cu „30 aprilie 2023”;
+18. în a șasea coloană, „Expirarea aprobării”, la rândul 193, „Bacillus thuringiensis” subsp. Aizawai tulpina ABTS-1857 și tulpina GC-91, data se înlocuiește cu „30 aprilie 2023”;
+19. în a șasea coloană, „Expirarea aprobării”, la rândul 194, „Bacillus thuringiensis” subsp. israeliensis (serotipul H-14) tulpina AM65-52, data se înlocuiește cu „30 aprilie 2023”;
+20. în a șasea coloană, „Expirarea aprobării”, la rândul 195, „Bacillus thuringiensis” subsp. kurstaki tulpina ABTS 351, tulpina PB 54, tulpina SA 11, tulpina SA 12, tulpina EG 2348, data se înlocuiește cu „30 aprilie 2023”;
+21. în a șasea coloană, „Expirarea aprobării”, la rândul 197, „Beauveria bassiana” tulpina ATCC 74040, tulpina GHA, data se înlocuiește cu „30 aprilie 2023”;
+22. în a șasea coloană, „Expirarea aprobării”, la rândul 198, „Cydia pomonella Granulovirus (CpGV)”, data se înlocuiește cu „30 aprilie 2023”;
+23. în a șasea coloană, „Expirarea aprobării”, la rândul 202, „Pythium oligandrum”, tulpina M1, data se înlocuiește cu „30 aprilie 2023”;
+24. în a șasea coloană, „Expirarea aprobării”, la rândul 204, „Trichoderma atroviride”, (anterior T. harzianum) tulpina T11, data se înlocuiește cu „30 aprilie 2023”;
+25. în a șasea coloană, „Expirarea aprobării”, la rândul 206, „Trichoderma harzianum” tulpina T-22, tulpina ITEM 908, data se înlocuiește cu „30 aprilie 2023”;
+26. în a șasea coloană, „Expirarea aprobării”, la rândul 207, „Trichoderma asperellum” (anterior T. harzianum) tulpina ICC012, tulpina T25, tulpina TV1, data se înlocuiește cu „30 aprilie 2023”;
+27. în a șasea coloană, „Expirarea aprobării”, la rândul 208, „Trichoderma gamsii”, (anterior T. viride) tulpina ICC080, data se înlocuiește cu „30 aprilie 2023”;
+28. în a șasea coloană, „Expirarea aprobării”, la rândul 210, „Abamectină”, data se înlocuiește cu „30 aprilie 2023”;
+29. în a șasea coloană, „Expirarea aprobării”, la rândul 213, „Fenpiroximat”, data se înlocuiește cu „30 aprilie 2023”;
+30. în a șasea coloană, „Expirarea aprobării”, la rândul 300, „Malation”, data se înlocuiește cu „30 aprilie 2023”.
