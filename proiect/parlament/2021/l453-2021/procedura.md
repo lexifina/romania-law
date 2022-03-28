@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-22: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2021-12-07: registered at the Chamber of Deputies
 - 2022-03-23: adopted by the Chamber of Deputies
+- 2022-03-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-14: Punct de vedere (PV): [pv-17a6f4b2.md](pv-17a6f4b2.md); official file https://www.senat.ro/legis/PDF/2021/21L453PV.PDF
 - 2021-11-17: Raport comisie sesizată pe fond (CR): [cr-43f21576.md](cr-43f21576.md); official file https://www.senat.ro/legis/PDF/2021/21L453CR.PDF
 - 2021-11-22: Adresă către Camera Deputaților (AM): [am-cd7f7797.md](am-cd7f7797.md); official file https://www.senat.ro/legis/PDF/2021/21L453AM.PDF
+- 2022-03-28: Adresă privind sesizarea CCR (AXS): [axs-c49bda4d.md](axs-c49bda4d.md); official file https://www.senat.ro/legis/PDF/2021/21L453AXS.PDF
+- 2022-03-28: Forma trimisă la promulgare (LP): [lp-44f78b62.md](lp-44f78b62.md); official file https://www.senat.ro/legis/PDF/2021/21L453LP.PDF
