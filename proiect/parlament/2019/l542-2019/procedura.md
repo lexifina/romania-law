@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-26: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2019-12-02: registered at the Chamber of Deputies
 - 2022-03-23: adopted by the Chamber of Deputies
+- 2022-03-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-09-11: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L542ES.PDF
 - 2019-10-23: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L542CR.PDF
 - 2019-11-26: Adresă către Camera Deputaților (AM): [am-5959eb2c.md](am-5959eb2c.md); official file https://www.senat.ro/legis/PDF/2019/19L542AM.PDF
+- 2022-03-28: Adresă privind sesizarea CCR (AXS): [axs-0051a725.md](axs-0051a725.md); official file https://www.senat.ro/legis/PDF/2019/19L542AXS.PDF
+- 2022-03-28: Forma trimisă la promulgare (LP): [lp-5027649d.md](lp-5027649d.md); official file https://www.senat.ro/legis/PDF/2019/19L542LP.PDF
