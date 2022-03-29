@@ -1,0 +1,17 @@
+# Propunere legislativă L302/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru clarificarea accesului la informațiile de interes public prin modificarea și completarea Legii nr.544/2001 privind liberul acces la informații de interes public
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-03-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-03-29: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L302AD.PDF
+- 2022-03-29: Forma inițiatorului (FG): [fg-def6f598.md](fg-def6f598.md); official file https://www.senat.ro/legis/PDF/2022/22L302FG.PDF
+- 2022-03-29: Expunere de motive (EM): [em-1cc6e3b9.md](em-1cc6e3b9.md); official file https://www.senat.ro/legis/PDF/2022/22L302EM.PDF
