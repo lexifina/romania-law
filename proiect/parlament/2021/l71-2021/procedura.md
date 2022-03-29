@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-02-16: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2021-04-12: withdrawn by the initiator
 - 2022-03-07: registered at the Chamber of Deputies
+- 2022-03-29: adopted by the Chamber of Deputies
 
 ## Documents
 
