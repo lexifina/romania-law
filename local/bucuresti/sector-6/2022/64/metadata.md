@@ -1,0 +1,11 @@
+# HCLS6 nr. 64/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 6 al Municipiului București
+- Decision: nr. 64/2022
+- Adopted: 2022-03-29
+- Title: privind aprobarea, pentru anul 2022, a listelor cu ordinea de prioritate în soluționarea cererilor de locuință depuse în baza Ordonanței de Urgență a Guvernului nr. 74/2007
+- Record: https://www.primarie6.ro/primarie_sector6/hotarare-privind-aprobarea-pentru-anul-2022-listelor-cu-ordinea-de-prioritate-solutionarea-cererilor-de-locuinta-depuse-baza-ordonantei-de-urgenta-guvernului-nr-742007
+- Document: https://www.primarie6.ro/primarie_sector6/sites/default/files/2022-04/HCL%2064%20-%202022.pdf
+- Document sha256: 439ecbe857dc055a5d0bbae9263b4bbacaa9b90681b7dcbefafd317522db32b8
