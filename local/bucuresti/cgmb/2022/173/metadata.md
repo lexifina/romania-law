@@ -1,0 +1,11 @@
+# HCGMB nr. 173/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 173/2022
+- Adopted: 2022-03-30
+- Title: PRIVIND REVOCAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 128/25.02.2022 PRIVIND MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 230/08.06.2008 PRIVIND APROBAREA INDICATORILOR TEHNICA- ECONOMICI AFERENTI OBIECTIVULUI DE INVESTITII AL TEATRULUI MUNICIPAL L.S . BULANDRA "EXTINDERE , REABILITARE SI DESFIINTARE PARTIALA SPATII EXISTENTE PENTRU ACCES ACTORI, CABINE SI SPATIU DE RECREERE SI ACTUALIZARE FATADA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42679
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/42679/H173_22.pdf
+- Document sha256: ca576b45ebbb484f2956d85c1e5232ec66fe774f878c6263faadb3fb463a0d73
