@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-12: sent for promulgation
 - 2020-12-10: returned for re-examination
+- 2022-03-31: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,9 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-03: Adresă către Camera Deputaților (AM): [am-3d3eb977.md](am-3d3eb977.md); official file https://www.senat.ro/legis/PDF/2020/20L220AM.PDF
 - 2020-06-10: Adresă privind sesizarea CCR (AXS): [axs-6a49fb21.md](axs-6a49fb21.md); official file https://www.senat.ro/legis/PDF/2020/20L220AXS.PDF
 - 2020-06-10: Forma trimisă la promulgare (LP): [lp-89e10a51.md](lp-89e10a51.md); official file https://www.senat.ro/legis/PDF/2020/20L220LP.PDF
+- 2022-03-31: Document (AT): [at-8a186da7.md](at-8a186da7.md); official file https://www.senat.ro/legis/PDF/2020/20L220AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-31: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L220S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-31: Document (SC1): [sc1-0ef3f28a.md](sc1-0ef3f28a.md); official file https://www.senat.ro/legis/PDF/2020/20L220SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-31: Document (SC2): [sc2-92f866a6.md](sc2-92f866a6.md); official file https://www.senat.ro/legis/PDF/2020/20L220SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-31: Document (DC1): [dc1-ca88a77e.md](dc1-ca88a77e.md); official file https://www.senat.ro/legis/PDF/2020/20L220DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-03-31: Document (APV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L220APV.PDF (its day is not given by the bill file: shown from the last stage held)
