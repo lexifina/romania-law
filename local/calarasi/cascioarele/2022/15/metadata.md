@@ -1,0 +1,9 @@
+# HCL Căscioarele nr. 15/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Căscioarele
+- Decision: nr. 15/2022
+- Adopted: 2022-03-31
+- Title: privind aprobarea bugetului de venituri si cheltuieli pentru anul 2022 al SC Gospodarire Comunala Cascioarele SRL
+- Record: https://cascioarele.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/29433#32717
