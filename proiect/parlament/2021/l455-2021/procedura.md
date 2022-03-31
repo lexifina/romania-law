@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-12: sent for promulgation
 - 2022-03-30: promulgated, becomes Legea nr. 72/2022
+- 2022-03-31: published in the Monitorul Oficial
 
 ## Documents
 
