@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-12: sent for promulgation
 - 2022-03-30: promulgated, becomes Legea nr. 73/2022
+- 2022-03-31: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-15: Adresă către Camera Deputaților (AM): [am-598afbdc.md](am-598afbdc.md); official file https://www.senat.ro/legis/PDF/2021/21L540AM.PDF
 - 2022-03-07: Adresă privind sesizarea CCR (AXS): [axs-9878313b.md](axs-9878313b.md); official file https://www.senat.ro/legis/PDF/2021/21L540AXS.PDF
 - 2022-03-07: Forma trimisă la promulgare (LP): [lp-ee44e9d4.md](lp-ee44e9d4.md); official file https://www.senat.ro/legis/PDF/2021/21L540LP.PDF
+- 2022-03-31: Document (CF): [cf-f79cc18f.md](cf-f79cc18f.md); official file https://www.senat.ro/legis/PDF/2021/21L540CF.PDF (its day is not given by the bill file: shown from the last stage held)
