@@ -1,0 +1,97 @@
+REGULAMENTUL DELEGAT (UE) 2022/519 AL COMISIEI
+din 14 ianuarie 2022
+de modificare a Regulamentului delegat (UE) 2016/127 în ceea ce privește cerințele în materie de proteine aplicabile formulelor de început și formulelor de continuare pe bază de hidrolizate proteice
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului din 12 iunie 2013 privind alimentele destinate sugarilor și copiilor de vârstă mică, alimentele destinate unor scopuri medicale speciale și înlocuitorii unei diete totale pentru controlul greutății și de abrogare a Directivei 92/52/CEE a Consiliului, a Directivelor 96/8/CE, 1999/21/CE, 2006/125/CE și 2006/141/CE ale Comisiei, a Directivei 2009/39/CE a Parlamentului European și a Consiliului și a Regulamentelor (CE) nr. 41/2009 și (CE) nr. 953/2009 ale Comisiei (1), în special articolul 11 alineatul (2),
+întrucât:
+(1) Regulamentul delegat (UE) 2016/127 al Comisiei (2) stabilește, printre altele, cerințe specifice privind compoziția aplicabile formulelor de început și formulelor de continuare pe bază de hidrolizate proteice. El prevede că formulele de început și formulele de continuare pe bază de hidrolizate proteice trebuie să respecte cerințele privind conținutul de proteine, sursa de proteine și prelucrarea proteinelor, precum și cerințele privind aminoacizii indispensabili și indispensabili în anumite condiții și L-carnitina, prevăzute la punctul 2.3 din anexa I și la punctul 2.3 din anexa II la regulamentul respectiv.
+(2) Astfel cum se indică în considerentele Regulamentului delegat (UE) 2016/127, în avizul său din 24 iulie 2014 privind compoziția esențială a formulelor de început și a formulelor de continuare (3), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a menționat că siguranța și adecvarea fiecărei formule specifice care conține hidrolizate proteice trebuie să fie stabilită prin evaluare clinică în cadrul populației-țintă. Autoritatea a declarat, de asemenea, că, până în prezent, o singură formulă care conține proteine din zer hidrolizate parțial a fost evaluată în mod pozitiv de către autoritate. Compoziția formulei evaluate de autoritate corespunde cerințelor stabilite în prezent în Regulamentul delegat (UE) 2016/127. Totuși, aceste cerințe pot fi actualizate pentru a permite introducerea pe piață a formulelor fabricate pe bază de hidrolizate proteice cu o compoziție diferită de cea deja evaluată pozitiv, în urma unei evaluări efectuate de autoritate de la caz la caz a siguranței și adecvării acestor formule.
+(3) La 20 septembrie 2019, Comisia a primit din partea Danone Trading ELN B.V. o cerere de evaluare de către autoritate a siguranței și a adecvării unei formule de început și de continuare fabricate dintr-un hidrolizat proteic a cărui compoziție nu respectă cerințele prevăzute la punctul 2.3 din anexa I și la punctul 2.3 din anexa II la Regulamentul delegat (UE) 2016/127.
+(4) La cererea Comisiei, autoritatea a emis, la 28 noiembrie 2020, un aviz științific privind siguranța și adecvarea pe plan nutrițional a hidrolizatului proteic specific derivat dintr-un concentrat de proteine din zer și utilizat într-o formulă de început și de continuare fabricată pe bază de proteine hidrolizate de Danone Trading ELN B.V (4). Autoritatea a concluzionat că hidrolizatul proteic în cauză este o sursă de proteine sigură din punct de vedere nutrițional și adecvată pentru a fi utilizată în formulele de început și formulele de continuare, atât timp cât formula în care este utilizat conține cel puțin 0,55 g/100 kJ (2,3 g/100 kcal) de proteine și respectă celelalte criterii privind compoziția stabilite în Regulamentul delegat (UE) 2016/127, precum și valorile aminoacizilor indicate în secțiunea A din anexa III la regulamentul respectiv.
+(5) Ținând seama de concluziile avizului autorității din 2020, este oportun să se permită introducerea pe piață a formulei de început și de continuare fabricate pe baza hidrolizatului proteic în cauză. Prin urmare, cerințele privind hidrolizatele proteice prevăzute în Regulamentul (UE) 2016/127 trebuie să fie actualizate și adaptate pentru a include și cerințele referitoare la acest hidrolizat proteic.
+(6) Regulamentul delegat (UE) 2016/127 prevede că dispozițiile sale privind formulele de început și formulele de continuare pe bază de hidrolizate proteice trebuie să se aplice de la 22 februarie 2022. Pentru ca formulele de început și formulele de continuare fabricate pe bază de proteine hidrolizate în conformitate cu cerințele stabilite în prezentul regulament să poată rămâne pe piață de la data respectivă, prezentul regulament trebuie să intre în vigoare în regim de urgență.
+(7) Prin urmare, anexele I, II și III la Regulamentul delegat (UE) 2016/127 trebuie modificate în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexele I, II și III la Regulamentul delegat (UE) 2016/127 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 14 ianuarie 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 181, 29.6.2013, p. 35.
+(2) Regulamentul delegat (UE) 2016/127 al Comisiei din 25 septembrie 2015 de completare a Regulamentului (UE) nr. 609/2013 al Parlamentului European și al Consiliului în ceea ce privește cerințele specifice privind compoziția și informarea pentru formulele de început și formulele de continuare și în ceea ce privește cerințele privind informațiile privitoare la alimentația sugarilor și a copiilor de vârstă mică (JO L 25, 2.2.2016, p. 1).
+(3) EFSA NDA Panel (Grupul EFSA pentru produse dietetice, nutriție și alergii), 2014. Scientific Opinion on the essential composition of infant and follow-on formulae (Aviz științific privind compoziția esențială a formulelor de început și a formulelor de continuare). EFSA Journal 2014;12(7):3760.
+(4) EFSA NDA Panel (Grupul științific al EFSA pentru nutriție, alimente noi și alergeni alimentari), 2020. Nutritional safety and suitability of a specific protein hydrolysate derived from whey protein concentrate and used in an infant and follow-on formula manufactured from hydrolysed protein by Danone Trading ELN B.V., EFSA Journal 2020;18(11):6304.
+ANEXĂ
+Anexele I, II și III la Regulamentul delegat (UE) 2016/127 se modifică după cum urmează:
+1. În anexa I, punctul 2.3 se înlocuiește cu următorul text:
+„2.3. | Formule de început pe bază de hidrolizate proteice Formulele de început pe bază de hidrolizate proteice trebuie să respecte fie cerințele referitoare la proteine prevăzute la punctul 2.3.1, fie cerințele referitoare la proteine prevăzute la punctul 2.3.2.
+2.3.1. Cerințe referitoare la proteine, grupa A
+2.3.1.1. Conținutul de proteine
+Minimum | Maximum
+0,44 g/100 kJ | 0,67 g/100 kJ
+(1,86 g/100 kcal) | (2,8 g/100 kcal)
+2.3.1.2. Sursa de proteine
+Proteine din zer dulce demineralizat, derivate din lapte de vacă după precipitarea enzimatică a cazeinei cu ajutorul chimozinei, constând în:
+(a) 63 % izolat de proteine din zer fără cazeino-glicomacropeptide cu un conținut minim de proteine de 95 % din substanța uscată, o denaturare a proteinelor mai mică de 70 % și un conținut maxim de cenușă de 3 %; precum și
+(b) 37 % concentrat de proteine din zer dulce cu un conținut minim de proteine de 87 % din substanța uscată, o denaturare a proteinelor mai mică de 70 % și un conținut maxim de cenușă de 3,5 %.
+2.3.1.3. Prelucrarea proteinelor
+Procedeu de hidroliză în două etape care utilizează un preparat din tripsină și cuprinde o etapă de tratament termic (care durează 3 până la 10 minute la 80-100 °C) între cele două etape de hidroliză.
+2.3.1.4. Aminoacizi indispensabili și indispensabili în anumite condiții și L-carnitină
+Pentru o valoare energetică egală, formulele de început fabricate pe bază de hidrolizate proteice trebuie să conțină o cantitate disponibilă din fiecare aminoacid indispensabil sau indispensabil în anumite condiții cel puțin egală cu cea conținută în proteina de referință, astfel cum este definită în secțiunea B din anexa III. Cu toate acestea, pentru calcule, concentrația de metionină și cea de cistină se pot adăuga împreună, în cazul în care raportul metionină/cistină nu depășește 2, iar concentrația de fenilalanină și cea de tirozină se pot adăuga împreună, în cazul în care raportul tirozină/fenilalanină nu depășește 2. Raportul metionină/cistină și tirozină/fenilalanină poate fi mai mare de 2, cu condiția ca adecvarea produsului în cauză pentru sugari să fie demonstrată în conformitate cu articolul 3 alineatul (3).
+Conținutul de L-carnitină trebuie să fie cel puțin egal cu 0,3 mg/100 kJ (1,2 mg/100 kcal).
+2.3.2. Cerințe referitoare la proteine, grupa B
+2.3.2.1. Conținutul de proteine
+Minimum | Maximum
+0,55 g/100 kJ | 0,67 g/100 kJ
+(2,3 g/100 kcal) | (2,8 g/100 kcal)
+2.3.2.2. Sursa de proteine
+Proteine din zer derivate din lapte de vacă, constând în:
+(a) 77 % zer acid provenit din concentrat de proteine din zer cu un conținut de proteine cuprins între 35 și 80 %;
+(b) 23 % zer dulce provenit din zer dulce demineralizat cu un conținut minim de proteine de 12,5 %.
+2.3.2.3. Prelucrarea proteinelor
+Materialul de bază este hidratat și încălzit. După etapa tratamentului termic, hidroliza se efectuează la un pH cuprins între 7,5 și 8,5 și la o temperatură de 55-70 °C, cu ajutorul unui amestec enzimatic compus din endopeptidază serină și dintr-un complex de protează/peptidază. Enzimele alimentare sunt inactivate în cursul unei etape de tratament termic (de la 2 la 10 secunde la 120-150 °C) în timpul procesului de producție.
+2.3.2.4. Aminoacizi indispensabili și indispensabili în anumite condiții și L-carnitină
+Pentru o valoare energetică egală, formulele de început fabricate pe bază de hidrolizate proteice trebuie să conțină o cantitate disponibilă din fiecare aminoacid indispensabil sau indispensabil în anumite condiții cel puțin egală cu cea conținută în proteina de referință, astfel cum este definită în secțiunea A din anexa III. Cu toate acestea, pentru calcule, concentrația de metionină și cea de cistină se pot adăuga împreună, în cazul în care raportul metionină/cistină nu depășește 2, iar concentrația de fenilalanină și cea de tirozină se pot adăuga împreună, în cazul în care raportul tirozină/fenilalanină nu depășește 2. Raportul metionină/cistină și tirozină/fenilalanină poate fi mai mare de 2, cu condiția ca adecvarea produsului în cauză pentru sugari să fie demonstrată în conformitate cu articolul 3 alineatul (3).
+Conținutul de L-carnitină trebuie să fie cel puțin egal cu 0,3 mg/100 kJ (1,2 mg/100 kcal).”
+2. În anexa II, punctul 2.3 se înlocuiește cu următorul text:
+„2.3. | Formule de continuare pe bază de hidrolizate proteice Formulele de continuare pe bază de hidrolizate proteice trebuie să respecte fie cerințele referitoare la proteine prevăzute la punctul 2.3.1, fie cerințele referitoare la proteine prevăzute la punctul 2.3.2.
+2.3.1. Cerințe referitoare la proteine, grupa A
+2.3.1.1 Conținutul de proteine
+Minimum | Maximum
+0,44 g/100 kJ | 0,67 g/100 kJ
+(1,86 g/100 kcal) | (2,8 g/100 kcal)
+2.3.1.2. Sursa de proteine
+Proteine din zer dulce demineralizat, derivate din lapte de vacă după precipitarea enzimatică a cazeinei cu ajutorul chimozinei, constând în:
+(a) 63 % izolat de proteine din zer fără cazeino-glicomacropeptide cu un conținut minim de proteine de 95 % din substanța uscată, o denaturare a proteinelor mai mică de 70 % și un conținut maxim de cenușă de 3 %; precum și
+(b) 37 % concentrat de proteine din zer dulce cu un conținut minim de proteine de 87 % din substanța uscată, o denaturare a proteinelor mai mică de 70 % și un conținut maxim de cenușă de 3,5 %.
+2.3.1.3. Prelucrarea proteinelor
+Procedeu de hidroliză în două etape care utilizează un preparat din tripsină și cuprinde o etapă de tratament termic (care durează 3 până la 10 minute la 80-100 °C) între cele două etape de hidroliză.
+2.3.1.4. Aminoacizi indispensabili și indispensabili în anumite condiții și L-carnitină
+Pentru o valoare energetică egală, formulele de continuare pe bază de hidrolizate proteice trebuie să conțină o cantitate disponibilă din fiecare aminoacid indispensabil sau indispensabil în anumite condiții cel puțin egală cu cea conținută în proteina de referință, astfel cum este definită în secțiunea B din anexa III. Cu toate acestea, pentru calcule, concentrația de metionină și cea de cistină și concentrația de fenilalanină și cea de tirozină se pot adăuga împreună.
+2.3.2. Cerințe referitoare la proteine, grupa B
+2.3.2.1. Conținutul de proteine
+Minimum | Maximum
+0,55 g/100 kJ | 0,67 g/100 kJ
+(2,3 g/100 kcal) | (2,8 g/100 kcal)
+2.3.2.2. Sursa de proteine
+Proteine din zer derivate din lapte de vacă, constând în:
+(a) 77 % zer acid provenit din concentrat de proteine din zer cu un conținut de proteine cuprins între 35 și 80 %;
+(b) 23 % zer dulce provenit din zer dulce demineralizat cu un conținut minim de proteine de 12,5 %.
+2.3.2.3. Prelucrarea proteinelor
+Materialul de bază este hidratat și încălzit. După etapa tratamentului termic, hidroliza se efectuează la un pH cuprins între 7,5 și 8,5 și la o temperatură de 55-70 °C, cu ajutorul unui amestec enzimatic compus din endopeptidază serină și dintr-un complex de protează/peptidază. Enzimele alimentare sunt inactivate în cursul unei etape de tratament termic (de la 2 la 10 secunde la 120-150 °C) în timpul procesului de producție.
+2.3.2.4. Aminoacizi indispensabili și indispensabili în anumite condiții
+Pentru o valoare energetică egală, formulele de continuare pe bază de hidrolizate proteice trebuie să conțină o cantitate disponibilă din fiecare aminoacid indispensabil sau indispensabil în anumite condiții cel puțin egală cu cea conținută în proteina de referință, astfel cum este definită în secțiunea A din anexa III. Cu toate acestea, pentru calcule, concentrația de metionină și cea de cistină și concentrația de fenilalanină și cea de tirozină se pot adăuga împreună.”
+3. Anexa III se modifică după cum urmează:
+(a) secțiunea A se modifică după cum urmează:
+(i) titlul se înlocuiește cu următorul text:
+„Formulele de început și formulele de continuare produse din proteine din lapte de vacă sau din lapte de capră, formulele de început și formulele de continuare produse din izolatele proteice din soia, singure sau în amestec cu proteine din lapte de vacă sau din lapte de capră și formulele de început și formulele de continuare pe bază de hidrolizate proteice”;
+(ii) teza introductivă se înlocuiește cu următorul text:
+„În sensul punctelor 2.1, 2.2 și 2.3.2 din anexele I și II, aminoacizii din laptele matern, indispensabili și indispensabili în anumite condiții, exprimați în mg pentru 100 kJ și 100 kcal, sunt următorii:”;
+(b) în secțiunea B, teza introductivă se înlocuiește cu următorul text:
+„În sensul punctului 2.3.1 din anexele I și II, aminoacizii din laptele matern, indispensabili și indispensabili în anumite condiții, exprimați în mg pentru 100 kJ și 100 kcal, sunt următorii:”.
