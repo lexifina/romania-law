@@ -1,0 +1,22 @@
+# Proiect de lege L180/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 240/2022 (`legea-240-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.33/2022 pentru modificarea și completarea Legii nr.219/2015 privind economia socială
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-04-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-04-01: Adresă de înaintare a inițiativei (AD): [ad-c922a78b.md](ad-c922a78b.md); official file https://www.senat.ro/legis/PDF/2022/22L180AD.PDF
+- 2022-04-01: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L180FG.PDF
+- 2022-04-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L180EM.PDF
+- 2022-04-01: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L180LG.PDF
+- 2022-04-01: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L180OG.PDF
+- 2022-04-01: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L180HG.PDF
