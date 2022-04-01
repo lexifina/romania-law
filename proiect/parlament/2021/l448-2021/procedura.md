@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-03-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-03-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-16: sent for promulgation
+- 2022-04-01: promulgated, becomes Legea nr. 75/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2022-03-07: Forma adoptată de Senat (FS): [fs-b9bd3a76.md](fs-b9bd3a76.md); official file https://www.senat.ro/legis/PDF/2021/21L448FS.PDF
 - 2022-03-14: Adresă privind sesizarea CCR (AXS): [axs-7b1b086c.md](axs-7b1b086c.md); official file https://www.senat.ro/legis/PDF/2021/21L448AXS.PDF
 - 2022-03-14: Forma trimisă la promulgare (LP): [lp-a31aecb7.md](lp-a31aecb7.md); official file https://www.senat.ro/legis/PDF/2021/21L448LP.PDF
+- 2022-04-01: Document (AL): [al-0cec7937.md](al-0cec7937.md); official file https://www.senat.ro/legis/PDF/2021/21L448AL.PDF (its day is not given by the bill file: shown from the last stage held)
