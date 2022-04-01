@@ -1,0 +1,3 @@
+# ANEXĂ
+ANEXA pentru modificarea și completarea Ordinului ministrului sănătății și al președintelui
+Casei Naționale de Asigurări de Sănătate nr. 1.068/627/2021 privind aprobarea Normelor metodologice de aplicare în anul 2021 a Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, tehnologiilor și dispozitivelor asistive în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021 - 2022, precum și prelungirea aplicării prevederilor acestuia
