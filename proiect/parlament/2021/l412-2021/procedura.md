@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-03-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-09: sent for promulgation
 - 2022-03-28: promulgated, becomes Legea nr. 69/2022
+- 2022-04-01: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2021-11-10: Adresă către Camera Deputaților (AM): [am-386c31d3.md](am-386c31d3.md); official file https://www.senat.ro/legis/PDF/2021/21L412AM.PDF
 - 2022-03-07: Adresă privind sesizarea CCR (AXS): [axs-1649ca5d.md](axs-1649ca5d.md); official file https://www.senat.ro/legis/PDF/2021/21L412AXS.PDF
 - 2022-03-07: Forma trimisă la promulgare (LP): [lp-e58f4585.md](lp-e58f4585.md); official file https://www.senat.ro/legis/PDF/2021/21L412LP.PDF
+- 2022-04-01: Document (TA): [ta-fa76d1b0.md](ta-fa76d1b0.md); official file https://www.senat.ro/legis/PDF/2021/21L412TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-01: Document (AT): [at-3e331762.md](at-3e331762.md); official file https://www.senat.ro/legis/PDF/2021/21L412AT.PDF (its day is not given by the bill file: shown from the last stage held)
