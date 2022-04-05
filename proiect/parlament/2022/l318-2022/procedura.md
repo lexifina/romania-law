@@ -1,0 +1,19 @@
+# Propunere legislativă L318/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 242/2023 (`legea-242-2023`).
+
+Propunere legislativă pentru modificarea și completarea Legii privind protecţia drepturilor persoanelor diagnosticate sau suspectate a fi diagnosticate cu boli sau afecţiuni alergice nr.4/2021
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-04-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-04-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L318AD.PDF
+- 2022-04-05: Forma inițiatorului (FG): [fg-32561da8.md](fg-32561da8.md); official file https://www.senat.ro/legis/PDF/2022/22L318FG.PDF
+- 2022-04-05: Expunere de motive (EM): [em-903bffd8.md](em-903bffd8.md); official file https://www.senat.ro/legis/PDF/2022/22L318EM.PDF
