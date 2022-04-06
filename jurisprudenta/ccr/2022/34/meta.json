@@ -1,0 +1,238 @@
+{
+ "key": "dcc-34-2022",
+ "label": "Decizia CCR nr. 34/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "34",
+ "date": "2022-01-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 34 din 27 ianuarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II din Ordonanța de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative și a dispozițiilor art. 6 alin. (5^1) și ale art. 36 lit. h) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "336",
+  "bis": false,
+  "date": "2022-04-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.874/234/2017",
+  "2.324D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. II din Ordonanța de urgență a Guvernului nr. 98/2016 pentru prorogarea unor termene, instituirea unor noi termene, privind unele măsuri pentru finalizarea activităților cuprinse în contractele încheiate în cadrul Acordului de împrumut dintre România și Banca Internațională pentru Reconstrucție și Dezvoltare pentru finanțarea Proiectului privind reforma sistemului judiciar, semnat la București la 27 ianuarie 2006, ratificat prin Legea nr. 205/2006, precum și pentru modificarea și completarea unor acte normative și a dispozițiilor art. 6 alin. (5^1) și ale art. 36 lit. h) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de primarul municipiului Gheorgheni în Dosarul nr. 1.874/234/2017 al Tribunalului Harghita - Secția civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Harghita - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-04-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253656",
+  "text_sha256": "fcfca4833f2f56b842ed209ec11f7c8dabd6c8dd35e1e0ef470128b6d75ee393",
+  "catalogue_sha256": "fcfca4833f2f56b842ed209ec11f7c8dabd6c8dd35e1e0ef470128b6d75ee393",
+  "fetched": "2026-11-03T01:34:42Z",
+  "chars": 20496,
+  "portal_id": "253656",
+  "tip": "DECIZIE"
+ }
+}
