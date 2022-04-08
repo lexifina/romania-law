@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2020-10-19: returned for re-examination
 - 2021-02-15: adopted by the Senate
 - 2022-03-30: sent for promulgation
+- 2022-04-08: promulgated, becomes Legea nr. 79/2022
 
 ## Documents
 
