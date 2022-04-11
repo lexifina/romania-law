@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-16: documents published: Raport comisie sesizată pe fond
 - 2022-03-23: adopted by the Chamber of Deputies
 - 2022-03-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2022-04-11: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-24: Adresă de înaintare a inițiativei (AD): [ad-02285205.md](ad-02285205.md); official file https://www.senat.ro/legis/PDF/2022/22L161AD.PDF
 - 2022-03-24: Forma inițiatorului (FG): [fg-48e0cef4.md](fg-48e0cef4.md); official file https://www.senat.ro/legis/PDF/2022/22L161FG.PDF
 - 2022-03-24: Expunere de motive (EM): [em-25c269ad.md](em-25c269ad.md); official file https://www.senat.ro/legis/PDF/2022/22L161EM.PDF
+- 2022-04-11: Aviz comisie (CA50): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L161CA50.PDF
