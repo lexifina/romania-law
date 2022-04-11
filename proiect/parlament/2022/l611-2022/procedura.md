@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2022-03-18: registered at the Senate
 - 2022-03-29: documents published: Aviz comisie
+- 2022-04-11: registered at the Chamber of Deputies
 
 ## Documents
 
