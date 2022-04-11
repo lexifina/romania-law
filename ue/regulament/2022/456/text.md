@@ -1,0 +1,47 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2022/456 AL COMISIEI
+din 21 martie 2022
+de aprobare a substanței de bază chitosan în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a anexei la Regulamentul de punere în aplicare (UE) nr. 540/2011
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului din 21 octombrie 2009 privind introducerea pe piață a produselor fitosanitare și de abrogare a Directivelor 79/117/CEE și 91/414/CEE ale Consiliului (1), în special articolul 23 alineatul (5) coroborat cu articolul 13 alineatul (2),
+întrucât:
+(1) La 19 decembrie 2018, Comisia a primit, de la KitoZyme, o cerere de extindere a utilizării clorhidratului de chitosan, aprobată ca substanță de bază prin Regulamentul de punere în aplicare (UE) nr. 563/2014 al Comisiei (2). Deoarece cererea nu era completă, la 28 noiembrie 2019, KitoZyme a transmis o cerere revizuită, însoțită de informațiile prevăzute la articolul 23 alineatul (3) al doilea paragraf din Regulamentul (CE) nr. 1107/2009.
+(2) Comisia a solicitat asistență științifică din partea Autorității Europene pentru Siguranța Alimentară („autoritatea”). La 8 iulie 2020, autoritatea a furnizat Comisiei un raport tehnic (3) care conținea rezumatul rezultatului consultării cu statele membre cu privire la cererea de extindere a utilizării clorhidratului de chitosan ca substanță de bază și care prezenta opiniile științifice ale EFSA cu privire la observațiile individuale primite. Pe baza raportului tehnic respectiv și a documentației furnizate de solicitant, este adecvat să se definească obiectul cererii ca incluzând substanța activă „chitosan”. La 19 mai 2021, Comisia a prezentat Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale raportul ei de reexaminare a substanței chitosan (4).
+(3) Informațiile furnizate de solicitant arată că substanța chitosan îndeplinește criteriile pentru a fi considerată un produs alimentar, astfel cum este definit la articolul 2 din Regulamentul (CE) nr. 178/2002 al Parlamentului European și al Consiliului (5). În plus, ea nu este utilizată predominant în scopuri de protecție a plantelor, dar, totuși, poate fi utilă în protecția plantelor dacă intră în compoziția unui produs care constă în substanța respectivă și apă. În consecință, chitosanul trebuie considerat o substanță de bază în conformitate cu articolul 23 din Regulamentul (CE) nr. 1107/2009.
+(4) După examinarea cererii și a tuturor documentelor conexe, s-a stabilit că chitosanul îndeplinește, în general, cerințele prevăzute la articolul 23 din Regulamentul (CE) nr. 1107/2009, în particular în ceea ce privește utilizările examinate și detaliate în raportul de reexaminare întocmit de Comisie. Prin urmare, este adecvat să se aprobe chitosanul ca substanță de bază.
+(5) Totuși, în conformitate cu articolul 13 alineatul (2) din Regulamentul (CE) nr. 1107/2009, coroborat cu articolul său 6 literele (a), (b), (d) și (j), și având în vedere cunoștințele științifice și tehnice actuale, este necesară includerea anumitor condiții pentru aprobare.
+(6) În conformitate cu articolul 13 alineatul (4) din Regulamentul (CE) nr. 1107/2009, este necesar ca anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei (6) să fie modificată în consecință.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Aprobarea unei substanțe de bază
+Substanța chitosan, cu specificațiile din anexa I, se aprobă ca substanță de bază sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Modificări ale Regulamentului de punere în aplicare (UE) nr. 540/2011
+Anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se modifică în conformitate cu anexa II la prezentul regulament.
+Articolul 3
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 21 martie 2022.
+Pentru Comisie
+Președintele
+Ursula VON DER LEYEN
+(1) JO L 309, 24.11.2009, p. 1.
+(2) Regulamentul de punere în aplicare (UE) nr. 563/2014 al Comisiei din 23 mai 2014 de autorizare a substanței active clorhidrat de chitosan, în conformitate cu Regulamentul (CE) nr. 1107/2009 al Parlamentului European și al Consiliului privind introducerea pe piață a produselor fitosanitare, și de modificare a Regulamentului de punere în aplicare (UE) nr. 540/2011 al Comisiei (JO L 156, 24.5.2014, p. 5).
+(3) EFSA [European Food Safety Authority (Autoritatea Europeană pentru Siguranța Alimentară)], 2020. Technical report on the outcome of the consultation with Member States and EFSA on the basic substance application for approval of chitosan hydrochloride for an extension of use in plant protection as an elicitor in horticulture, olive trees, grapes, grass and post-harvest fruit treatment (Raport tehnic privind rezultatul consultării cu statele membre și cu EFSA privind cererea de aprobare a extinderii utilizării clorhidratului de chitosan ca substanță de bază în protecția plantelor ca elicitor în horticultură, pentru măslini, struguri, iarbă și în tratamentul fructelor după recoltare). EFSA supporting publication (Materiale conexe ale EFSA) 2020:EN-1900. p. 53. doi:10.2903/sp.efsa.2020.EN-1900.
+(4) Final review report for the basic substance chitosan finalised in the Standing Committee on Plants, Animals, Food and Feed at its meeting on 28 January 2022 in view of the approval of chitosan as basic substance in accordance with Regulation (EC) No 1107/2009 (SANTE/10594/2021) [Raport final privind reexaminarea substanței de bază chitosan, finalizat de Comitetul permanent pentru plante, animale, produse alimentare și hrană pentru animale, în cadrul reuniunii sale din 28 ianuarie 2022, în vederea aprobării chitosanului ca substanță de bază în conformitate cu Regulamentul (CE) nr. 1107/2009 (SANTE/10594/2021)].
+(5) Regulamentul (CE) nr. 178/2002 al Parlamentului European și al Consiliului din 28 ianuarie 2002 de stabilire a principiilor și a cerințelor generale ale legislației alimentare, de instituire a Autorității Europene pentru Siguranța Alimentară și de stabilire a procedurilor în domeniul siguranței produselor alimentare (JO L 31, 1.2.2002, p. 1).
+(6) Regulamentul de punere în aplicare (UE) nr. 540/2011 al Comisiei din 25 mai 2011 de punere în aplicare a Regulamentului (CE) nr. 1107/2009 al Parlamentului European și al Consiliului în ceea ce privește lista substanțelor active aprobate (JO L 153, 11.6.2011, p. 1).
+ANEXA I
+Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Dispoziții specifice
+Chitosan Nr. CAS: 9012-76-4 Nr. CE: 618-480-0 | Denumire chimică (cu cea IUPAC): poli[4-O-(2-acetamido-2-deoxi-β-D-glucopiranozil)-2-amino-2-deoxiy-β-D-glucopiyranoză] | ≥ 85 % chitosan metalele grele: max. 20 mg/kg De calitate alimentară, care respectă specificațiile pentru „extract de chitosan din ciuperci”, astfel cum se prevede în Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei(2). | 11 aprilie 2022 | Chitosanul se utilizează în conformitate cu condițiile specifice incluse în concluziile raportului de reexaminare privind chitosanul (SANTE/10594/2021) și în special în apendicele sale I și II.
+(1) Detalii suplimentare cu privire la identitatea, specificațiile și modul de utilizare a substanței de bază sunt prezentate în raportul de reexaminare.
+(2) Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei din 20 decembrie 2017 de stabilire a listei cu alimente noi a Uniunii în conformitate cu Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului privind alimentele noi (JO L 351, 30.12.2017, p. 72).
+ANEXA II
+În partea C din anexa la Regulamentul de punere în aplicare (UE) nr. 540/2011 se adaugă următoarea rubrică:
+Număr | Denumire comună, numere de identificare | Denumire IUPAC | Puritate(1) | Data aprobării | Dispoziții specifice
+„24 | Chitosan Nr. CAS: 9012-76-4 Nr. CE: 618-480-0 | Denumire chimică (cu cea IUPAC): poli[4-O-(2-acetamido-2-deoxi-β-D-glucopiranozil)-2-amino-2-deoxiy-β-D-glucopiyranoză] | ≥ 85 % chitosan metalele grele: max. 20 mg/kg De calitate alimentară, care respectă specificațiile pentru „extract de chitosan din ciuperci”, astfel cum se prevede în Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei(2) | 11 aprilie 2022 | Chitosanul se utilizează în conformitate cu condițiile specifice incluse în concluziile raportului de reexaminare privind chitosanul (SANTE/10594/2021) și în special în apendicele sale I și II.”
+(1) Detalii suplimentare cu privire la identitatea, specificațiile și modul de utilizare a substanței de bază sunt prezentate în raportul de reexaminare.
+(2) Regulamentul de punere în aplicare (UE) 2017/2470 al Comisiei din 20 decembrie 2017 de stabilire a listei cu alimente noi a Uniunii în conformitate cu Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului privind alimentele noi (JO L 351, 30.12.2017, p. 72).
