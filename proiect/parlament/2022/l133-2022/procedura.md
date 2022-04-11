@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-24: documents published: Aviz comisie
 - 2022-03-30: documents published: Aviz comisie, Raport comisie sesizată pe fond
 - 2022-04-04: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2022-04-11: registered at the Chamber of Deputies
 
 ## Documents
 
