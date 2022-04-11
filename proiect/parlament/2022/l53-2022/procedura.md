@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-14: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-03-23: documents published: Raport comisie sesizată pe fond
 - 2022-04-04: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2022-04-11: registered at the Chamber of Deputies; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-14: Punct de vedere (PV): [pv-a3814a5f.md](pv-a3814a5f.md); official file https://www.senat.ro/legis/PDF/2022/22L053PV.PDF
 - 2022-03-23: Raport comisie sesizată pe fond (CR): [cr-1ba40894.md](cr-1ba40894.md); official file https://www.senat.ro/legis/PDF/2022/22L053CR.PDF
 - 2022-04-04: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L053AM.PDF
+- 2022-04-11: Document (CC): [cc-591f04b1.md](cc-591f04b1.md); official file https://www.senat.ro/legis/PDF/2022/22L053CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-11: Document (AT): [at-bb30d912.md](at-bb30d912.md); official file https://www.senat.ro/legis/PDF/2022/22L053AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-11: Document (S1): [s1-2126f334.md](s1-2126f334.md); official file https://www.senat.ro/legis/PDF/2022/22L053S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-11: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L053AA.PDF (its day is not given by the bill file: shown from the last stage held)
