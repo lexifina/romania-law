@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-23: sent for promulgation
 - 2022-04-11: promulgated, becomes Legea nr. 81/2022
+- 2022-04-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: Adresă către Camera Deputaților (AM): [am-f73871b5.md](am-f73871b5.md); official file https://www.senat.ro/legis/PDF/2021/21L049AM.PDF
 - 2022-03-21: Adresă privind sesizarea CCR (AXS): [axs-9d323625.md](axs-9d323625.md); official file https://www.senat.ro/legis/PDF/2021/21L049AXS.PDF
 - 2022-03-21: Forma trimisă la promulgare (LP): [lp-55931414.md](lp-55931414.md); official file https://www.senat.ro/legis/PDF/2021/21L049LP.PDF
+- 2022-04-12: Document (CC): [cc-8a6b3ac1.md](cc-8a6b3ac1.md); official file https://www.senat.ro/legis/PDF/2021/21L049CC.PDF (its day is not given by the bill file: shown from the last stage held)
