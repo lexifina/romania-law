@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-04: registered at the Chamber of Deputies
 - 2022-03-14: adopted by the Chamber of Deputies
 - 2022-03-26: sent for promulgation
+- 2022-04-12: promulgated, becomes Legea nr. 84/2022
 
 ## Documents
 
