@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-03-14: adopted by the Chamber of Deputies
 - 2022-03-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-11: promulgated, becomes Legea nr. 80/2022
+- 2022-04-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2022-02-08: Aviz comisie (CA16): [ca16-ff2b56e1.md](ca16-ff2b56e1.md); official file https://www.senat.ro/legis/PDF/2022/22L012CA16.PDF
 - 2022-03-21: Adresă privind sesizarea CCR (AXS): [axs-15f39f9c.md](axs-15f39f9c.md); official file https://www.senat.ro/legis/PDF/2022/22L012AXS.PDF
 - 2022-03-21: Forma trimisă la promulgare (LP): [lp-6026f211.md](lp-6026f211.md); official file https://www.senat.ro/legis/PDF/2022/22L012LP.PDF
+- 2022-04-12: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L012TA.PDF (its day is not given by the bill file: shown from the last stage held)
