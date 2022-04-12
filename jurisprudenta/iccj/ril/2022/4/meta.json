@@ -1,0 +1,179 @@
+{
+ "key": "iccj-ril-4-2022",
+ "label": "Decizia ÎCCJ nr. 4/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2022-02-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 4 din 21 februarie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 430 alin. (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "362",
+  "bis": false,
+  "date": "2022-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.036/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Suceava cu privire la următoarele probleme de drept: În interpretarea și aplicarea prevederilor art. 430 alin. (2) din Codul de procedură civilă, conceptul de autoritate de lucru judecat nu permite existența unei neconcordanțe între dispozitivul și considerentele hotărârii, cu excepția cazului în care neconcordanța este justificată prin prisma incidenței în cauză a principiului non reformatio in pejus?",
+  "Sintagma „cazurile anume prevăzute de lege“, statuată în cuprinsul art. 481 din Codul de procedură civilă, în care legea admite posibilitatea agravării situației părții în propria cale de atac, prin derogare de la principiul non reformatio in pejus, trebuie interpretată în sensul că sfera acestor cazuri se circumscrie doar excepției autorității de lucru judecat, în aplicarea art. 432 teza a II-a din Codul de procedură civilă, sau, dimpotrivă, și altor excepții procesuale (de fond și de procedură) absolute, de ordine publică, apte să infirme legalitatea unei hotărâri pronunțate de către instanța ierarhic inferioară cu nesocotirea unor dispoziții imperative menite să asigure și să ocrotească securitatea socială și ordinea juridică?",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "481",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "489",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "142",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253840",
+  "text_sha256": "2ce2ea7a02b036219fc9e04188622ab40d4924a09bc39a05b32fa744de79c76f",
+  "catalogue_sha256": "2ce2ea7a02b036219fc9e04188622ab40d4924a09bc39a05b32fa744de79c76f",
+  "fetched": "2026-11-03T01:34:32Z",
+  "chars": 56250,
+  "portal_id": "253840",
+  "tip": "DECIZIE"
+ }
+}
