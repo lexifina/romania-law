@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-09: sent for promulgation
 - 2022-04-11: promulgated, becomes Legea nr. 83/2022
+- 2022-04-12: published in the Monitorul Oficial
 
 ## Documents
 
