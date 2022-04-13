@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-03-01: documents published: Aviz comisie
 - 2022-03-02: documents published: Aviz comisie
 - 2022-04-11: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2022-04-13: registered at the Chamber of Deputies
 
 ## Documents
 
