@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-26: sent for promulgation
 - 2022-04-12: promulgated, becomes Legea nr. 86/2022
+- 2022-04-13: published in the Monitorul Oficial
 
 ## Documents
 
