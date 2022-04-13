@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-02-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2022-04-06: documents published: Aviz comisie
+- 2022-04-13: documents published: Aviz comisie
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-22: Aviz Consiliul Economic și Social (ES): [es-ed68cecb.md](es-ed68cecb.md); official file https://www.senat.ro/legis/PDF/2022/22L165ES.PDF
 - 2022-02-22: Punct de vedere (PV): [pv-32678676.md](pv-32678676.md); official file https://www.senat.ro/legis/PDF/2022/22L165PV.PDF
 - 2022-04-06: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L165CA3.PDF
+- 2022-04-13: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L165CA1.PDF
