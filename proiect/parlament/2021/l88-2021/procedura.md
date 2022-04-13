@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-09-16: sent for promulgation
 - 2021-09-30: promulgated, becomes Legea nr. 231/2021; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2021-10-01: published in the Monitorul Oficial
+- 2022-04-13: registered at the Chamber of Deputies
 
 ## Documents
 
