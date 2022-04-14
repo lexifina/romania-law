@@ -1,0 +1,505 @@
+{
+ "key": "iccj-ril-11-2022",
+ "label": "Decizia ÎCCJ nr. 11/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "11",
+ "date": "2022-03-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 11 din 21 martie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 1 alin. (1) și (3) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, aprobată cu modificări și completări prin Legea nr. 115/2017, cu modificările ulterioare, art. 7 alin. (4) și (5) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, aprobată prin Legea nr. 152/2017, și art. 12 alin. (8) și (9) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice, aprobată cu modificări și completări prin Legea nr. 71/2015, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "371",
+  "bis": false,
+  "date": "2022-04-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "183/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 1 alin. (1) și (3) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, aprobată cu modificări și completări prin Legea nr. 115/2017, cu modificările ulterioare, art. 7 alin. (4) și (5) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, aprobată prin Legea nr. 152/2017, și art. 12 alin. (8) și (9) din Ordonanța de urgență a Guvernului nr. 83/2014 privind salarizarea personalului plătit din fonduri publice în anul 2015, precum și alte măsuri în domeniul cheltuielilor publice, aprobată cu modificări și completări prin Legea nr. 71/2015, cu modificările și completările ulterioare, stabilește că:",
+  "Sporul pentru risc și suprasolicitare neuropsihică de care beneficiază inspectorii antifraudă din cadrul Direcției generale antifraudă fiscală se acordă, în perioada 1 martie 2017-31 decembrie 2017, în cuantumul procentual stabilit prin ordinul președintelui Agenției Naționale de Administrare Fiscală (A.N.A.F.) emis în condițiile art. 7 alin. (5) din Ordonanța de urgență a Guvernului nr. 99/2016, respectiv cu încadrarea în cheltuielile cu salariile aprobate prin bugetul A.N.A.F.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "8",
+      "6",
+      "2",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "3",
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 103/2013",
+    "number": "103",
+    "year": "2013",
+    "path": "oug/2013/103"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "435",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "433",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "434",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 74/2013",
+    "number": "74",
+    "year": "2013",
+    "path": "oug/2013/74"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.860/2006",
+    "number": "1860",
+    "year": "2006",
+    "path": "hg/2006/1860"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2015",
+    "number": "71",
+    "year": "2015",
+    "path": "lege/2015/71"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 835/2017",
+    "number": "835",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 836/2017",
+    "number": "836",
+    "year": "2017"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-04-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253921",
+  "text_sha256": "9fc313b23915cf7a5c2f11ec42df7e786f49bc0c1a1489e857f178f79b0c907a",
+  "catalogue_sha256": "9fc313b23915cf7a5c2f11ec42df7e786f49bc0c1a1489e857f178f79b0c907a",
+  "fetched": "2026-11-03T14:33:08Z",
+  "chars": 60732,
+  "portal_id": "253921",
+  "tip": "DECIZIE"
+ }
+}
