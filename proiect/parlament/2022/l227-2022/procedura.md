@@ -1,0 +1,22 @@
+# Proiect de lege L227/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 235/2022 (`legea-235-2022`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.43/2022 privind regimul de control al operațiunilor cu produse cu dublă utilizare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-04-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-04-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227AD.PDF
+- 2022-04-14: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227FG.PDF
+- 2022-04-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227EM.PDF
+- 2022-04-14: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227LG.PDF
+- 2022-04-14: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227OG.PDF
+- 2022-04-14: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L227HG.PDF
