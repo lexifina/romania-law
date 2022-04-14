@@ -1,0 +1,6 @@
+# ANEXĂ
+CALENDARUL sesiunii speciale a examenului de bacalaureat - 2022 pentru absolvenții de liceu participanți la loturile olimpice și la competițiile sportive și artistice internaționale care se desfășoară în aceeași perioadă cu examenul național de bacalaureat 2022 - sesiunea iunie-iulie și/sau pentru absolvenții de liceu care susțin examenul de admitere la academii militare din Statele Unite ale Americii 9-10 mai 2022
+Înscrierea candidaților la sesiunea specială de examen 11 mai 2022 Evaluarea competențelor lingvistice de comunicare orală în limba română - proba A 12-13 mai 2022 Evaluarea competențelor lingvistice într-o limbă de circulație internațională - proba C 16-17 mai 2022 Evaluarea competențelor digitale - proba D 17 mai 2022 Evaluarea competențelor lingvistice de comunicare orală în limba maternă - proba B 18 mai 2022 Limba și literatura română - proba E)a) - proba scrisă 19 mai 2022 Proba obligatorie a profilului - proba E)c) - proba scrisă 20 mai 2022 Proba la alegere a profilului și specializării - proba E)d) - proba scrisă 23 mai 2022 Limba și literatura maternă - proba E)b) - proba scrisă 26 mai 2022
+Afișarea rezultatelor până la ora 12.00
+Depunerea contestațiilor (între orele 12.00 și 14.00) 26-29 mai 2022 Rezolvarea contestațiilor 29 mai 2022 Afișarea rezultatelor finale
+----
