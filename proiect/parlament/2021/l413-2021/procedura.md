@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-03-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-30: sent for promulgation
 - 2022-04-14: promulgated, becomes Legea nr. 100/2022
+- 2022-04-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2021-11-03: Adresă către Camera Deputaților (AM): [am-9f3146c0.md](am-9f3146c0.md); official file https://www.senat.ro/legis/PDF/2021/21L413AM.PDF
 - 2022-03-28: Adresă privind sesizarea CCR (AXS): [axs-6f75560b.md](axs-6f75560b.md); official file https://www.senat.ro/legis/PDF/2021/21L413AXS.PDF
 - 2022-03-28: Forma trimisă la promulgare (LP): [lp-74fe672d.md](lp-74fe672d.md); official file https://www.senat.ro/legis/PDF/2021/21L413LP.PDF
+- 2022-04-15: Document (AT): [at-d3667715.md](at-d3667715.md); official file https://www.senat.ro/legis/PDF/2021/21L413AT.PDF (its day is not given by the bill file: shown from the last stage held)
