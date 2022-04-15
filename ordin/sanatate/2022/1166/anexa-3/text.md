@@ -1,0 +1,36 @@
+# Anexa nr. 3 (Anexa nr. 10 la norme)
+CERERE depusă pentru situațiile de la art. 64 alin. (10) din normele aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017
+Perioada de raportare
+Luna.......... an.......
+Unitatea........................................................
+Str....................................... nr......, bl...., sc...., et...., ap...., sectorul/județul.................
+Codul fiscal...............................
+Contul.......................................
+Trezoreria/Banca........................
+Nr........./................
+Către Casa de Asigurări de Sănătate...........................
+Unitatea........................................................., codul fiscal....................., cu sediul în localitatea........................................, str.......................................... nr....., bl....., sc....., et....., ap....., sectorul/județul..........................., cont............................... deschis la Trezoreria/Banca........................, vă rugăm a ne vira suma plătită asiguraților salariați care se recuperează din bugetul Fondului național unic de asigurări sociale de sănătate, potrivit art. 38 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobată cu modificări și completări prin Legea nr. 399/2006, cu modificările și completările ulterioare, în cuantum de................. lei, din care: -
+J1........................... lei, reprezentând indemnizații pentru incapacitate temporară de muncă, cauzată de boli obișnuite sau de accidente în afara muncii, din care:
+-
+J1.1........................ lei, reprezentând indemnizații aferente certificatelor de concediu medical acordate pentru bolile infectocontagioase pentru care se impune măsura izolării;
+-
+J2........................... lei, reprezentând indemnizații pentru prevenirea îmbolnăvirilor și recuperarea capacității de muncă, exclusiv pentru situațiile rezultate ca urmare a unor accidente de muncă sau boli profesionale, din care:
+-
+J2.2......................... lei, reprezentând indemnizații aferente certificatelor de concediu medical acordate pentru carantină;
+-
+J2.3......................... lei, reprezentând indemnizații aferente certificatelor de concediu medical acordate pentru reducerea timpului de muncă sau tratament balnear;
+-
+J3........................... lei, reprezentând indemnizații pentru maternitate;
+-
+J4........................... lei, reprezentând indemnizații pentru îngrijirea copilului bolnav, din care:
+-
+J4.1........................... lei, reprezentând indemnizații pentru supravegherea și îngrijirea copilului pentru care s-a dispus măsura carantinei sau a izolării;
+-
+J5........................... lei, reprezentând indemnizații de risc maternal;
+-
+J6........................ lei, reprezentând indemnizații pentru îngrijirea pacientului cu afecțiuni oncologice.
+La prezenta cerere depunem un număr de........... certificate de concediu medical aferente lunii/perioadei pentru care se solicită restituirea sumelor.
+Ne asumăm răspunderea pentru realitatea datelor prezentate mai sus și pentru corectitudinea determinării drepturilor de indemnizații sociale de sănătate.
+Anexă: Centralizator privind certificatele de concediu medical aferent lunii/lunilor...................
+Director (Administrator),.............................
+Director economic,...............................
