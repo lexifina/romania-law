@@ -1,0 +1,9 @@
+# Anexa nr. 1 (Anexa nr. 3^1 la norma sanitară veterinară)
+NOTIFICARE de comercializare cu amănuntul la distanță a produselor medicinale veterinare
+Către
+Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor
+Subsemnatul(a),............................., reprezentant legal al............................, cu punctul de lucru în localitatea......................, str.......................... nr......, bl......, sc....., et....., ap....., județul/sectorul......................., cod poștal...................., telefon...................., fax......................, e-mail........................, număr de ordine în registrul comerțului....................., cod unic de înregistrare...................., numărul și data autorizației sanitare veterinare/înregistrării sanitare veterinare emise de direcția sanitar-veterinară și pentru siguranța alimentelor........................................,
+NOTIFIC comercializarea la distanță pe site-ul/site-urile.................................. a produselor medicinale veterinare care se eliberează fără prescripție medicală.
+Link valid al site-ului:....................................
+Data...................................
+Semnătura.........................
