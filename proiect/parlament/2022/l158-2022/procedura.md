@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-04-05: documents published: Aviz comisie
 - 2022-04-06: documents published: Aviz comisie
 - 2022-04-13: documents published: Aviz comisie
+- 2022-04-19: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2022-04-06: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L158CA41.PDF
 - 2022-04-06: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L158CA42.PDF
 - 2022-04-13: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L158CA19.PDF
+- 2022-04-19: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L158FS.PDF
