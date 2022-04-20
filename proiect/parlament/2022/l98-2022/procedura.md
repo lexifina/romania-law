@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-08: documents published: Punct de vedere, Punct de vedere Guvern
 - 2022-03-01: documents published: Aviz comisie
 - 2022-03-23: registered at the Senate
+- 2022-04-20: registered at the Senate
 
 ## Documents
 
