@@ -1,0 +1,19 @@
+# Propunere legislativă L354/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 234/2025 (`legea-234-2025`).
+
+Propunere legislativă pentru modificarea Legii nr.335/2007 a camerelor de comerț din România, publicată în Monitorul Oficial al României, Partea I, nr.836 din 6 decembrie 2007, cu modificările și completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-04-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-04-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L354AD.PDF
+- 2022-04-20: Forma inițiatorului (FG): [fg-f3376b67.md](fg-f3376b67.md); official file https://www.senat.ro/legis/PDF/2022/22L354FG.PDF
+- 2022-04-20: Expunere de motive (EM): [em-cc681475.md](em-cc681475.md); official file https://www.senat.ro/legis/PDF/2022/22L354EM.PDF
