@@ -1,0 +1,19 @@
+# Propunere legislativă L355/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 50/2025 (`legea-50-2025`).
+
+Propunere legislativă pentru completarea Legii nr.138/2004 a îmbunătățirilor funciare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-04-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-04-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L355AD.PDF
+- 2022-04-20: Forma inițiatorului (FG): [fg-45bf89d9.md](fg-45bf89d9.md); official file https://www.senat.ro/legis/PDF/2022/22L355FG.PDF
+- 2022-04-20: Expunere de motive (EM): [em-4cfc8fa0.md](em-4cfc8fa0.md); official file https://www.senat.ro/legis/PDF/2022/22L355EM.PDF
