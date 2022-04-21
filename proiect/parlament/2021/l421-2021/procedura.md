@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-06: sent for promulgation
 - 2022-04-20: promulgated, becomes Legea nr. 110/2022
+- 2022-04-21: published in the Monitorul Oficial
 
 ## Documents
 
