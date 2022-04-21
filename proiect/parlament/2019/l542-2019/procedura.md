@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-02: sent for promulgation
 - 2022-04-20: promulgated, becomes Legea nr. 107/2022
+- 2022-04-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-11-26: Adresă către Camera Deputaților (AM): [am-5959eb2c.md](am-5959eb2c.md); official file https://www.senat.ro/legis/PDF/2019/19L542AM.PDF
 - 2022-03-28: Adresă privind sesizarea CCR (AXS): [axs-0051a725.md](axs-0051a725.md); official file https://www.senat.ro/legis/PDF/2019/19L542AXS.PDF
 - 2022-03-28: Forma trimisă la promulgare (LP): [lp-5027649d.md](lp-5027649d.md); official file https://www.senat.ro/legis/PDF/2019/19L542LP.PDF
+- 2022-04-21: Document (AA): [aa-5ad10208.md](aa-5ad10208.md); official file https://www.senat.ro/legis/PDF/2019/19L542AA.PDF (its day is not given by the bill file: shown from the last stage held)
