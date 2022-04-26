@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-06: sent for promulgation
 - 2022-04-21: promulgated, becomes Legea nr. 114/2022
+- 2022-04-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2022-03-28: Forma adoptată de Senat (FS): [fs-3c5af9e2.md](fs-3c5af9e2.md); official file https://www.senat.ro/legis/PDF/2022/22L078FS.PDF
 - 2022-04-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L078AXS.PDF
 - 2022-04-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L078LP.PDF
+- 2022-04-26: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L078TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-26: Document (AL): [al-e1ea80f1.md](al-e1ea80f1.md); official file https://www.senat.ro/legis/PDF/2022/22L078AL.PDF (its day is not given by the bill file: shown from the last stage held)
