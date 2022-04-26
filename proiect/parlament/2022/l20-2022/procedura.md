@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-06: sent for promulgation
 - 2022-04-21: promulgated, becomes Legea nr. 112/2022
+- 2022-04-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2022-03-14: Adresă către Camera Deputaților (AM): [am-f9c5d614.md](am-f9c5d614.md); official file https://www.senat.ro/legis/PDF/2022/22L020AM.PDF
 - 2022-04-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L020AXS.PDF
 - 2022-04-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L020LP.PDF
+- 2022-04-26: Document (AT): [at-43d3b750.md](at-43d3b750.md); official file https://www.senat.ro/legis/PDF/2022/22L020AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-04-26: Document (S1): [s1-535066ce.md](s1-535066ce.md); official file https://www.senat.ro/legis/PDF/2022/22L020S1.PDF (its day is not given by the bill file: shown from the last stage held)
