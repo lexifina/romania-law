@@ -1,0 +1,326 @@
+{
+ "key": "iccj-hp-7-2022",
+ "label": "Decizia ÎCCJ nr. 7/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2022-02-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 7 din 21 februarie 2022",
+ "subtitle": "referitoare la interpretarea art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006, republicată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "397",
+  "bis": false,
+  "date": "2022-04-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.430/1/2021",
+  "11.436/212/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2018",
+    "number": "297",
+    "year": "2018",
+    "path": "lege/2018/297"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Constanța - Secția a II-a civilă, în Dosarul nr. 11.436/212/2021, privind pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: Facturilor emise de operatorii serviciilor de apă și canalizare, care sunt titluri executorii, conform dispozițiilor art. 31 alin. (17) din Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006, republicată, cu modificările și completările ulterioare, le sunt aplicabile dispozițiile art. 4 din Legea nr. 297/2018 privind publicitatea mobiliară, republicată, astfel cum au fost modificate prin Legea nr. 196/2020 pentru modificarea și completarea Legii nr. 297/2018 privind Registrul Național de Publicitate Mobiliară și pentru abrogarea Ordonanței Guvernului nr. 89/2000 privind unele măsuri pentru autorizarea operatorilor și efectuarea înscrierilor în Arhiva Electronică de Garanții Reale Mobiliare, care instituie o condiție suplimentară pentru declanșarea executării silite, aceea a înscrierii titlului executoriu în Registrul Național de Publicitate Mobiliară?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 297/2018",
+    "number": "297",
+    "year": "2018",
+    "path": "lege/2018/297"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 196/2020",
+    "number": "196",
+    "year": "2020",
+    "path": "lege/2020/196"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "641",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/2017",
+    "number": "17",
+    "year": "2017",
+    "path": "lege/2017/17"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1798",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1809",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-04-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254351",
+  "text_sha256": "67c8dedc2a882510bb01c10cf636c78e7ff81b91539606ec3712599da232b718",
+  "catalogue_sha256": "67c8dedc2a882510bb01c10cf636c78e7ff81b91539606ec3712599da232b718",
+  "fetched": "2026-11-03T01:34:13Z",
+  "chars": 61275,
+  "portal_id": "254351",
+  "tip": "DECIZIE"
+ }
+}
