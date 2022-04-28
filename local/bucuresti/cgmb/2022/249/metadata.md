@@ -1,0 +1,11 @@
+# HCGMB nr. 249/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 249/2022
+- Adopted: 2022-04-28
+- Title: PENTRU APROBAREA PROGRAMULUI MUNICIPAL DE RESTAURARE A IMOBILELOR MONUMENTE ISTORICE SI A IMOBILELOR AFLATE IN ANSAMBLURI DE ARHITECTURA SI ZONE CONSTRUITE PROTEJATE DE PE TERITORIUL MUNICIPIULUI BUCURESTI, PROGRAM FINANTAT DE LA BUGETUL LOCAL SI DIN ALTE SURSE LEGAL CONSTITUITE, PRIN BUGETUL STRUCTURII DE SPECIALITATE A MUNICIPIULUI BUCURESTI, ADMINISTRATIA MUNICIPALA PENTRU CONSOLIDAREA CLADIRILOR CU RISC SEISMIC SI A NORMELOR METODOLOGICE AFERENTE
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42734
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/42734/H249_22.pdf
+- Document sha256: d8d0d1cb4265e0a5876d0b2511d7b1fcf178c2e8bc41bc681f2a93e33aaadbf6
