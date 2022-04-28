@@ -1,0 +1,11 @@
+# HCGMB nr. 255/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 255/2022
+- Adopted: 2022-04-28
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 2 AL MUNICIPIULUI BUCURESTI, DE A HOTARI, INCHEIEREA UNUI MEMORANDUM DE COOPERARE INTRE SECTORUL 2 AL MUNICIPIULUI BUCURESTI SI UNICEF- FONDUL NATIUNILOR UNITE PENTRU COPII, IN VEDEREA IDENTIFICARII, IMPLEMENTARII, MONITORIZARII SI EVALUARII INTERVENTIILOR PENTRU IMBUNATATIREA SITUATIEI SI BUNASTARII COPIILOR SI FAMILIILOR PROVENITE DIN ZONE DE CONFLICT DIN UCRAINA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42763
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/42763/H255_22.pdf
+- Document sha256: 9cca61c110bc3de403e101f2c5ee893406ff11083874b38ded439dba2732a995
