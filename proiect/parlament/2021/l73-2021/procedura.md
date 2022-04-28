@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-29: adopted by the Chamber of Deputies
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-09: sent for promulgation
+- 2022-04-28: promulgated, becomes Legea nr. 119/2022
 
 ## Documents
 
