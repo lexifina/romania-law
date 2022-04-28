@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-09: sent for promulgation
 - 2022-04-27: promulgated, becomes Legea nr. 117/2022
+- 2022-04-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-30: Adresă către Camera Deputaților (AM): [am-f2f37350.md](am-f2f37350.md); official file https://www.senat.ro/legis/PDF/2021/21L371AM.PDF
 - 2022-04-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L371AXS.PDF
 - 2022-04-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L371LP.PDF
+- 2022-04-28: Document (BNR): [bnr-bae1da27.md](bnr-bae1da27.md); official file https://www.senat.ro/legis/PDF/2021/21L371BNR.PDF (its day is not given by the bill file: shown from the last stage held)
