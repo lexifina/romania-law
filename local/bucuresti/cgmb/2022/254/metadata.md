@@ -1,0 +1,11 @@
+# HCGMB nr. 254/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 254/2022
+- Adopted: 2022-04-28
+- Title: PRIVIND APROBAREA DEPUNERII CERERII DE FINANTARE CU TITLUL „MODERNIZAREA SI EXTINDEREA SISTEMULUI DE SEMAFORIZARE INTELIGENTA (MANAGEMENTUL TRAFICULUI BUCURESTI – ILFOV) SI PRIORITIZAREA VEHICULELOR DE TRANSPORT PUBLIC, IN VEDEREA CRESTERII SIGURANTEI RUTIERE, FLUIDIZARII TRAFICULUI SI REDUCERII POLUARII”, A NOTEI DE FUNDAMENTARE A INVESTITIEI PRECUM SI A ACORDULUI DE PARTENERIAT IN CADRUL APELULUI DE PROIECTE PNRR/2022/C10
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/42725
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/42725/H254_22.pdf
+- Document sha256: b911a59949388729e501471087983eea99215d07c161f26a225d187a501295c8
