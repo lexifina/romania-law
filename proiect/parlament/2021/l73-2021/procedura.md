@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-09: sent for promulgation
 - 2022-04-28: promulgated, becomes Legea nr. 119/2022
+- 2022-04-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L073AM.PDF
 - 2022-04-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L073AXS.PDF
 - 2022-04-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L073LP.PDF
+- 2022-04-29: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L073AA.PDF (its day is not given by the bill file: shown from the last stage held)
