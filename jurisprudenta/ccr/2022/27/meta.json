@@ -1,0 +1,219 @@
+{
+ "key": "dcc-27-2022",
+ "label": "Decizia CCR nr. 27/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "27",
+ "date": "2022-01-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 27 din 27 ianuarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 9 alin. (1) lit. c) și alin. (7) din Ordonanța de urgență a Guvernului nr. 32/2012 privind organismele de plasament colectiv în valori mobiliare și societățile de administrare a investițiilor, precum și pentru modificarea și completarea Legii nr. 297/2004 privind piața de capital",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "425",
+  "bis": false,
+  "date": "2022-05-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.262/2/2017",
+  "808D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 32/2012",
+    "number": "32",
+    "year": "2012",
+    "path": "oug/2012/32"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea S.A.I. Swiss Capital Asset Management - S.A. din București și de Olimpiu-Ionel Blăjuț în Dosarul nr. 6.262/2/2017 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că dispozițiile art. 9 alin. (1) lit. c) și alin. (7) din Ordonanța de urgență a Guvernului nr. 32/2012 privind organismele de plasament colectiv în valori mobiliare și societățile de administrare a investițiilor, precum și pentru modificarea și completarea Legii nr. 297/2004 privind piața de capital sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 32/2012",
+    "number": "32",
+    "year": "2012",
+    "path": "oug/2012/32"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "7"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 93/2012",
+    "number": "93",
+    "year": "2012",
+    "path": "oug/2012/93"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 75/1999",
+    "number": "75",
+    "year": "1999",
+    "path": "oug/1999/75"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 100/2018",
+    "number": "100",
+    "year": "2018",
+    "path": "oug/2018/100"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254581",
+  "text_sha256": "fa0da09667ee531ae95f497be43c91d6becfcc75cdace5f9ca63ac5ae6f978d1",
+  "catalogue_sha256": "fa0da09667ee531ae95f497be43c91d6becfcc75cdace5f9ca63ac5ae6f978d1",
+  "fetched": "2026-11-03T01:33:59Z",
+  "chars": 37228,
+  "portal_id": "254581",
+  "tip": "DECIZIE"
+ }
+}
