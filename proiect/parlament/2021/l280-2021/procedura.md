@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2022-04-05: adopted by the Chamber of Deputies
 - 2022-04-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-13: sent for promulgation
+- 2022-05-02: promulgated, becomes Legea nr. 123/2022; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 
 ## Documents
 
@@ -42,3 +43,6 @@ Initiator: Guvernul României.
 - 2021-09-24: Adresă către Camera Deputaților (AM): [am-d18c089c.md](am-d18c089c.md); official file https://www.senat.ro/legis/PDF/2021/21L280AM.PDF
 - 2022-04-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L280AXS.PDF
 - 2022-04-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L280LP.PDF
+- 2022-05-02: Decret de promulgare (DP): [dp-77bca226.md](dp-77bca226.md); official file https://www.senat.ro/legis/PDF/2021/21L280DP.PDF
+- 2022-05-02: Adresă privind forma promulgată (AFP): [afp-0b6b0534.md](afp-0b6b0534.md); official file https://www.senat.ro/legis/PDF/2021/21L280AFP.PDF
+- 2022-05-02: Forma promulgată (FP): [fp-9ccaf4fe.md](fp-9ccaf4fe.md); official file https://www.senat.ro/legis/PDF/2021/21L280FP.PDF
