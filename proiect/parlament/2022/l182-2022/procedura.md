@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-13: documents published: Aviz comisie
 - 2022-04-19: documents published: Raport comisie sesizată pe fond
 - 2022-04-26: documents published: Aviz comisie
+- 2022-05-02: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-13: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L182CA45.PDF
 - 2022-04-19: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L182CR.PDF
 - 2022-04-26: Aviz comisie (CA44): [ca44-811af5d1.md](ca44-811af5d1.md); official file https://www.senat.ro/legis/PDF/2022/22L182CA44.PDF
+- 2022-05-02: Document (AA): [aa-a6c9c875.md](aa-a6c9c875.md); official file https://www.senat.ro/legis/PDF/2022/22L182AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-02: Document (ARD): [ard-4d17ae35.md](ard-4d17ae35.md); official file https://www.senat.ro/legis/PDF/2022/22L182ARD.PDF (its day is not given by the bill file: shown from the last stage held)
