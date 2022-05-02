@@ -1,0 +1,53 @@
+{
+ "key": "cjue-c-627-21-ordonanta-2022-05-02",
+ "label": "CJUE, Ordonanța Curții (Camera a șaptea) din 2 mai 2022, Cauza C-627/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2022-05-02",
+ "year": "2022",
+ "case": "Cauza C-627/21",
+ "celex": "62021CO0627",
+ "ecli": "ECLI:EU:C:2022:344",
+ "heading": "Ordonanța Curții (Camera a șaptea) din 2 mai 2022",
+ "formation": "CHAMB_07_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Alba Iulia",
+ "national_followup": [
+  "Curtea de Apel Alba Iulia, Secţia de Contencios administrativ şi Fiscal, încheiere din 05/10/2021 (1735/85/2019)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 99 din Regulamentul de procedură al Curții – Armonizarea legislațiilor fiscale – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Deducere a taxei achitate în amonte în legătură cu achiziționarea, construirea și transformarea unor bunuri imobile – Anulare din oficiu a înregistrării unei persoane impozabile în scopuri de TVA – Ajustare a deducerii efectuate inițial – Răspuns la întrebarea preliminară care poate fi în mod clar dedus din jurisprudență",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CO0627",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-627/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3c8346c1-d0ef-11ec-a95f-01aa75ed71a1.0002.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "f15cfaf29f593fdc868ca4686f2518d46f079ac53c34c0e2716ba3134a6772f6"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șaptea) declară:",
+  "Articolele 16, 184, 186-188 și 192 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că se opun unei reglementări și unei practici naționale care obligă o persoană impozabilă, a cărei înregistrare în scopuri de taxă pe valoarea adăugată (TVA) a fost anulată pentru o perioadă determinată din cauza neevidențierii unor operațiuni impozabile în deconturile sale de TVA depuse timp de șase luni consecutive, să efectueze o regularizare a TVA‑ului dedus în amonte în legătură cu achiziționarea unor bunuri de capital, fără ca respectiva persoană impozabilă să fie autorizată să dovedească faptul că sunt îndeplinite condițiile de fond pentru a putea beneficia de dreptul de deducere, pentru motivul că există o prezumție irefragabilă că persoana impozabilă a folosit aceste bunuri pentru alte scopuri decât activitățile economice."
+ ]
+}
