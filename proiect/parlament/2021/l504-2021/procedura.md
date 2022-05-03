@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-13: sent for promulgation
 - 2022-05-02: promulgated, becomes Legea nr. 121/2022
+- 2022-05-03: published in the Monitorul Oficial
 
 ## Documents
 
