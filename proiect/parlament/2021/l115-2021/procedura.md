@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-05-15: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-05-25: registered at the Chamber of Deputies
 - 2022-04-27: adopted by the Chamber of Deputies
+- 2022-05-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2021-05-12: Raport comisie sesizată pe fond (CR): [cr-575fc772.md](cr-575fc772.md); official file https://www.senat.ro/legis/PDF/2021/21L115CR.PDF
 - 2021-05-15: Forma adoptată de Senat (FS): [fs-eea7a0d6.md](fs-eea7a0d6.md); official file https://www.senat.ro/legis/PDF/2021/21L115FS.PDF
 - 2021-05-15: Adresă către Camera Deputaților (AM): [am-bfef6ce6.md](am-bfef6ce6.md); official file https://www.senat.ro/legis/PDF/2021/21L115AM.PDF
+- 2022-05-03: Adresă privind sesizarea CCR (AXS): [axs-3137684c.md](axs-3137684c.md); official file https://www.senat.ro/legis/PDF/2021/21L115AXS.PDF
+- 2022-05-03: Forma trimisă la promulgare (LP): [lp-eb397548.md](lp-eb397548.md); official file https://www.senat.ro/legis/PDF/2021/21L115LP.PDF
