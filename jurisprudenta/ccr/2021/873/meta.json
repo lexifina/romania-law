@@ -1,0 +1,322 @@
+{
+ "key": "dcc-873-2021",
+ "label": "Decizia CCR nr. 873/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "873",
+ "date": "2021-12-16",
+ "year": "2021",
+ "heading": "DECIZIA nr. 873 din 16 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 2/2020 pentru prorogarea intrării în vigoare a art. I pct. 1 din Legea nr. 14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "429",
+  "bis": false,
+  "date": "2022-05-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "899/2/2020",
+  "1.095D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 2/2020",
+    "number": "2",
+    "year": "2020",
+    "path": "oug/2020/2"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/2020",
+    "number": "14",
+    "year": "2020",
+    "path": "lege/2020/14"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Andrei Gavril, în numele copiilor săi minori, în Dosarul nr. 899/2/2020 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și constată că Ordonanța de urgență a Guvernului nr. 2/2020 pentru prorogarea intrării în vigoare a art. I pct. 1 din Legea nr. 14/2020 privind aprobarea Ordonanței de urgență a Guvernului nr. 9/2019 pentru modificarea și completarea Legii nr. 61/1993 privind alocația de stat pentru copii, precum și pentru modificarea art. 58 alin. (1) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap este constituțională în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 2/2020",
+    "number": "2",
+    "year": "2020",
+    "path": "oug/2020/2"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/2020",
+    "number": "14",
+    "year": "2020",
+    "path": "lege/2020/14"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 448/2006",
+    "number": "448",
+    "year": "2006",
+    "path": "lege/2006/448"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 160/2020",
+    "number": "160",
+    "year": "2020",
+    "path": "lege/2020/160"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 123/2020",
+    "number": "123",
+    "year": "2020",
+    "path": "oug/2020/123"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1993",
+    "number": "61",
+    "year": "1993",
+    "path": "lege/1993/61"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 56/2021",
+    "number": "56",
+    "year": "2021",
+    "path": "oug/2021/56"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea bugetului de stat nr. 5/2020",
+    "number": "5",
+    "year": "2020",
+    "path": "lege/2020/5"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254597",
+  "text_sha256": "54eb5b94a3b02e3d1cd01a41e358826d89a152c16789a159d572e8347c6a6230",
+  "catalogue_sha256": "54eb5b94a3b02e3d1cd01a41e358826d89a152c16789a159d572e8347c6a6230",
+  "fetched": "2026-11-03T01:33:55Z",
+  "chars": 23570,
+  "portal_id": "254597",
+  "tip": "DECIZIE"
+ }
+}
