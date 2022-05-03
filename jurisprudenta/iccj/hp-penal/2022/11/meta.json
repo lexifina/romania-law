@@ -1,0 +1,179 @@
+{
+ "key": "iccj-hp-penal-11-2022",
+ "label": "Decizia ÎCCJ nr. 11/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "11",
+ "date": "2022-02-23",
+ "year": "2022",
+ "heading": "DECIZIA nr. 11 din 23 februarie 2022",
+ "subtitle": "referitoare la interpretarea art. 336 alin. (1) și (2) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "430",
+  "bis": false,
+  "date": "2022-05-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "3.007/1/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de către Curtea de Apel Cluj - Secția penală și de minori, în Dosarul nr. 8.337/190/2020, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă fapta unei persoane de a conduce pe drumurile publice un autovehicul, care la momentul prelevării mostrelor biologice a avut o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge și care se afla sub influența unor substanțe psihoactive, întrunește elementele de tipicitate ale infracțiunii cu conținut alternativ prevăzute de art. 336 alin. (1) și (2) din Codul penal sau întrunește elementele de tipicitate a două infracțiuni cu conținuturi alternative în concurs ideal, prevăzute de art. 336 alin. (1) din Codul penal și art. 336 alin. (2) din Codul penal, cu aplicarea art. 38 alin. (2) din Codul penal ?“ și, în consecință, stabilește: Fapta unei persoane de a conduce pe drumurile publice un autovehicul, având o îmbibație alcoolică de peste 0,80 g/l alcool pur în sânge și aflându-se sub influența unor substanțe psihoactive, întrunește elementele de tipicitate ale infracțiunii prevăzute de art. 336 alin. (1) și (2) din Codul penal, infracțiune unică.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-05-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254609",
+  "text_sha256": "6f62d695bc722d925e7830378b404bf501d79173dbb7ebef7194b0cb6bace2bf",
+  "catalogue_sha256": "6f62d695bc722d925e7830378b404bf501d79173dbb7ebef7194b0cb6bace2bf",
+  "fetched": "2026-11-03T01:33:58Z",
+  "chars": 61547,
+  "portal_id": "254609",
+  "tip": "DECIZIE"
+ }
+}
