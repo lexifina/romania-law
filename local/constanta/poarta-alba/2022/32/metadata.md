@@ -1,0 +1,10 @@
+# HCL Poarta Albă nr. 32/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Poarta Albă
+- Decision: nr. 32/2022
+- Adopted: 2022-02-28
+- Published: 2022-05-04
+- Title: privind aprobarea indicatorilor tehnico-economici actualizați și deviz general actualizat aferent obiectivului „CONSTRUIRE CENTRU MEDICAL ÎN LOCALITATEA POARTA ALBĂ-NORD”
+- Record: https://emol.ro/poartaalba-ct/registru-hcl/55459
