@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2022-03-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-04-05: documents published: Aviz comisie
 - 2022-04-11: documents published: Aviz comisie
+- 2022-05-04: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Guvernul României.
 - 2022-03-25: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L152HG.PDF
 - 2022-04-05: Aviz comisie (CA1): [ca1-6d549dd5.md](ca1-6d549dd5.md); official file https://www.senat.ro/legis/PDF/2022/22L152CA1.PDF
 - 2022-04-11: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L152CA16.PDF
+- 2022-05-04: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L152CR.PDF
