@@ -1,0 +1,16 @@
+# Anexa 4
+Anexa nr. 4
+la procedură
+Declarația pe propria răspundere privind evitarea dublei finanțări
+- model -
+DECLARAȚIA PE PROPRIA RĂSPUNDERE
+privind evitarea dublei finanțări proiect „Facilitarea inserției pe piața muncii a persoanelor cu dizabilități“ POCU/605/3/1/130164
+Denumirea angajatorului ..........................
+CIF/CUI ........................................
+Nr. ............. data ..........................
+Salariat ........ (numele și prenumele)......../CNP ...........................
+Subsemnatul, ...................................................., reprezentant legal al ................................................., cunoscând că falsul în declarații este pedepsit în conformitate cu art. 326 din Codul penal , declar pe propria răspundere că adaptarea rezonabilă la locul de muncă pentru persoana cu dizabilități încadrată în muncă ca urmare a implementării proiectului „Facilitarea inserției pe piața muncii a persoanelor cu dizabilități“ POCU/605/3/1/130164 nu face obiectul unei alte finanțări din fonduri publice naționale sau ale Uniunii Europene.
+Semnătură autorizată
+Administrator/Împuternicit,
+..............................................
+(numele și prenumele)
