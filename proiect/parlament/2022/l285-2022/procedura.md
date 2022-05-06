@@ -1,0 +1,21 @@
+# Proiect de lege L285/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 408/2023 (`legea-408-2023`).
+
+Proiect de lege pentru modificarea și completarea Legii nr.335/2013 privind efectuarea stagiului pentru absolvenții de învățământ superior
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-05-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-05-06: Adresă de înaintare a inițiativei (AD): [ad-32c8a282.md](ad-32c8a282.md); official file https://www.senat.ro/legis/PDF/2022/22L285AD.PDF
+- 2022-05-06: Forma inițiatorului (FG): [fg-53c6750b.md](fg-53c6750b.md); official file https://www.senat.ro/legis/PDF/2022/22L285FG.PDF
+- 2022-05-06: Expunere de motive (EM): [em-4ba6f9ff.md](em-4ba6f9ff.md); official file https://www.senat.ro/legis/PDF/2022/22L285EM.PDF
+- 2022-05-06: Aviz Consiliul Legislativ (LG): [lg-3baac0eb.md](lg-3baac0eb.md); official file https://www.senat.ro/legis/PDF/2022/22L285LG.PDF
+- 2022-05-06: Document (HG): [hg-d0893f0b.md](hg-d0893f0b.md); official file https://www.senat.ro/legis/PDF/2022/22L285HG.PDF
