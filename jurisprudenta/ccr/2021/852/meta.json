@@ -1,0 +1,194 @@
+{
+ "key": "dcc-852-2021",
+ "label": "Decizia CCR nr. 852/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "852",
+ "date": "2021-12-14",
+ "year": "2021",
+ "heading": "DECIZIA nr. 852 din 14 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (2) și (3) din Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice \"Gheorghe Ionescu-Șișești\" și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, precum și ale anexei nr. 3.25 la aceeași lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "452",
+  "bis": false,
+  "date": "2022-05-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "547/231/2017",
+  "2.343D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 31 alin. (2) și (3) din Legea nr. 45/2009 privind organizarea și funcționarea Academiei de Științe Agricole și Silvice „Gheorghe Ionescu-Șișești“ și a sistemului de cercetare-dezvoltare din domeniile agriculturii, silviculturii și industriei alimentare, precum și ale anexei nr. 3.25 la aceeași lege, excepție ridicată de Gheorghe Dudescu și Săvel Călin Ciofu în Dosarul nr. 547/231/2017*/a1 al Tribunalului Vrancea - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 45/2009",
+    "number": "45",
+    "year": "2009",
+    "path": "lege/2009/45"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 168/2015",
+    "number": "168",
+    "year": "2015",
+    "path": "lege/2015/168"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254920",
+  "text_sha256": "bd9864a37c466f679ef785b1b4d42974af11dc8e920b6da42328390a20fdb8f9",
+  "catalogue_sha256": "bd9864a37c466f679ef785b1b4d42974af11dc8e920b6da42328390a20fdb8f9",
+  "fetched": "2026-11-03T17:06:11Z",
+  "chars": 20013,
+  "portal_id": "254920",
+  "tip": "DECIZIE"
+ }
+}
