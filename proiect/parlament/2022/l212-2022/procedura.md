@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-04-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-23: sent for promulgation
 - 2022-05-05: promulgated, becomes Legea nr. 129/2022
+- 2022-05-09: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2022-04-19: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L212FS.PDF
 - 2022-04-20: Adresă privind sesizarea CCR (AXS): [axs-f41aa253.md](axs-f41aa253.md); official file https://www.senat.ro/legis/PDF/2022/22L212AXS.PDF
 - 2022-04-20: Forma trimisă la promulgare (LP): [lp-25d8ab3a.md](lp-25d8ab3a.md); official file https://www.senat.ro/legis/PDF/2022/22L212LP.PDF
+- 2022-05-09: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L212TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-09: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L212AL.PDF (its day is not given by the bill file: shown from the last stage held)
