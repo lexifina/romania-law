@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-28: first record in the bill file
 - 2022-03-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-03-08: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2022-05-09: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-01: Expunere de motive (EM): [em-8f4ac90c.md](em-8f4ac90c.md); official file https://www.senat.ro/legis/PDF/2022/22L214EM.PDF
 - 2022-03-08: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L214ES.PDF
 - 2022-03-08: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L214LG.PDF
+- 2022-05-09: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L214CA45.PDF
