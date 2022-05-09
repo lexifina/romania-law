@@ -1,0 +1,208 @@
+{
+ "key": "dcc-8-2022",
+ "label": "Decizia CCR nr. 8/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "8",
+ "date": "2022-01-18",
+ "year": "2022",
+ "heading": "DECIZIA nr. 8 din 18 ianuarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5 alin. (3) lit. a) și ale art. 65 lit. l) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "460",
+  "bis": false,
+  "date": "2022-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.464/251/2020",
+  "1.353D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca fiind inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 5 alin. (3) lit. a) și ale art. 65 lit. l) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, excepție ridicată de Societatea Sabliv - S.R.L. din localitatea Sărmașu, județul Mureș, prin administrator Adela Monica Rad, în Dosarul nr. 1.464/251/2020 al Judecătoriei Luduș.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Luduș și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a",
+      "f"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": null,
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "66",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 476/2020",
+    "number": "476",
+    "year": "2020",
+    "path": "hg/2020/476"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/254960",
+  "text_sha256": "84ac06b27667ed4ffa0ea2eec9756ccccc88b672eb51692398eefe5b1a77e9b6",
+  "catalogue_sha256": "84ac06b27667ed4ffa0ea2eec9756ccccc88b672eb51692398eefe5b1a77e9b6",
+  "fetched": "2026-11-03T01:33:32Z",
+  "chars": 12976,
+  "portal_id": "254960",
+  "tip": "DECIZIE"
+ }
+}
