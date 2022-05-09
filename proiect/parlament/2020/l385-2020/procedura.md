@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-04-11: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-21: sent for promulgation
+- 2022-05-09: promulgated, becomes Legea nr. 130/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Guvernul României.
 - 2022-04-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L385FS.PDF
 - 2022-04-19: Adresă privind sesizarea CCR (AXS): [axs-7a96052f.md](axs-7a96052f.md); official file https://www.senat.ro/legis/PDF/2020/20L385AXS.PDF
 - 2022-04-19: Forma trimisă la promulgare (LP): [lp-45f98c9a.md](lp-45f98c9a.md); official file https://www.senat.ro/legis/PDF/2020/20L385LP.PDF
+- 2022-05-09: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L385AL.PDF (its day is not given by the bill file: shown from the last stage held)
