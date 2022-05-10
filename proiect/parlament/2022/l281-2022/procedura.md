@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-05-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2022-05-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,5 @@ Initiator: Guvernul României.
 - 2022-05-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L281EM.PDF
 - 2022-05-06: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L281LG.PDF
 - 2022-05-06: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L281HG.PDF
+- 2022-05-10: Aviz comisie (CA44): [ca44-acc65b07.md](ca44-acc65b07.md); official file https://www.senat.ro/legis/PDF/2022/22L281CA44.PDF
+- 2022-05-10: Aviz comisie (CA53): [ca53-8ea7a5ba.md](ca53-8ea7a5ba.md); official file https://www.senat.ro/legis/PDF/2022/22L281CA53.PDF
