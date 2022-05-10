@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-21: documents published: Aviz comisie
 - 2022-03-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-04-06: documents published: Aviz comisie
+- 2022-05-10: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-23: Forma inițiatorului (FG): [fg-4447e75d.md](fg-4447e75d.md); official file https://www.senat.ro/legis/PDF/2022/22L174FG.PDF
 - 2022-03-23: Expunere de motive (EM): [em-b7692dcd.md](em-b7692dcd.md); official file https://www.senat.ro/legis/PDF/2022/22L174EM.PDF
 - 2022-04-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L174CA45.PDF
+- 2022-05-10: Raport comisie sesizată pe fond (CR): [cr-cadd5992.md](cr-cadd5992.md); official file https://www.senat.ro/legis/PDF/2022/22L174CR.PDF
