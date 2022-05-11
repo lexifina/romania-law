@@ -1,0 +1,58 @@
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+pentru modificarea Ordonanței de urgență a Guvernului nr.51/2008 privind
+ajutorul public judiciar în materie civilă
+Senatul adoptă prezentul proiect de lege
+Art.I.- Ordonanța de urgență a Guvernului nr.51/2008 privind ajutorul public
+judiciar în materie civilă, publicată în Monitorul Oficial al României, Partea I, nr.327
+din 25 aprilie 2008, aprobată cu modificări și completări prin Legea nr. 193/2008, cu
+modificările și completările ulterioare, se modifică după cum urmează:
+1. Articolul 7 se modifică și va avea următorul cuprins:
+„Art.7.- Ajutorul public judiciar se poate acorda, separat sau cumulat, în
+oricare dintre formele prevăzute la art.6. Valoarea ajutorului public judiciar acordat,
+separat sau cumulat, în oricare dintre formele prevăzute la art.6 lit.a)-c), nu poate
+depăși, în cursul unei perioade de un an, suma maximă echivalentă cu 10 salarii de
+bază minime brute pe țară la nivelul anului în care a fost formulată cererea de
+acordare.” ^
+2. La articolul 8, alineatele (1) și (2) se modifică și vor avea următorul
+cuprins:
+„Art.8.- (1) Beneficiază de ajutor public judiciar în formele prevăzute la
+art.6 persoanele al căror venit mediu net lunar pe membru de familie, în ultimele
+două luni anterioare formulării cererii, se situează sub nivelul echivalentului a 25%
+din salariul de bază minim brut pe țară. în acest caz, sumele care constituie ajutor
+public judiciar se avansează în întregime de către stat.
+
+2
+(2) Dacă venitul mediu net lunar pe membru de familie, în
+ultimele două luni anterioare formulării cererii, se situează sub nivelul echivalentului
+a 50% din salariul de bază minim brut pe țară, sumele de bani care constituie ajutor
+public judiciar se avansează de către stat în proporție de 50%.”
+3. Articolul 9 se modifică și va avea următorul cuprins:
+„Art.9.- La stabilirea venitului se iau în calcul orice venituri periodice,
+precum salarii, indemnizații, onorarii, rente, chirii, profit din activități comerciale
+sau dintr-o activitate independentă și altele asemenea, precum și sumele datorate în
+mod periodic pentru satisfacerea unor necesități de bază, cum ar fi chiriile și
+obligațiile de întreținere.”
+4. La articolul 16, alineatul (2) se abrogă.
+5. La articolul 22, alineatul (1) se abrogă.
+6. Articolul 50^ se abrogă.
+7. Articolul 51 se abrogă.
+8. Articolul 53 se abrogă.
+Art.II.- Ordonanța de urgență a Guvernului nr.51/2008 privind ajutorul public
+judiciar în materie civilă, publicată în Monitorul Oficial al României, Partea I, nr.327
+din 25 aprilie 2008, aprobată cu modificări și completări prin Legea nr. 193/2008, cu
+modificările și completările ulterioare, precum și cu modificările aduse prin prezenta
+lege, se va republica în Monitorul Oficial al României, Partea I, dându-se textelor o
+nouă numerotare.
+
+3
+Acest proiect de lege se consideră adoptat de Senat în forma inițială, în
+condițiile articolului 75 alineatul (2) teza a IlI-a din Constituția României,
+republicată.
+PREȘED
+e:
+LUI
+iile Cîtu
+9
+Florin-
