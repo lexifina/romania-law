@@ -1,0 +1,25 @@
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+pentru modificarea art32 alin.(2) lit.c) din Ordonanța de urgență a Guvernului
+nr. 195/2002 privind circulația pe drumurile publice
+Senatul adoptă prezentul proiect de lege
+Articol unic.* La articolul 32 alineatul (2) din Ordonanța de urgență a Guvernului
+nr. 195/2002 privind circulația pe drumurile publice, republicată în Monitorul Oficial
+al României, Partea I, nr.670 din 3 august 2006, cu modificările și completările
+ulterioare, litera c) se modifică și va avea următorul cuprins:
+„c) pentru lumina galbenă - autovehiculele cu mase și/sau dimensiuni de gabarit
+depășite ori care însoțesc asemenea vehicule, cele care transportă anumite mărfuri sau
+substanțe periculoase, cele destinate întreținerii, reparării ori verificării unor lucrări
+efectuate în partea carosabilă sau executării unor lucrări de drumuri, curățeniei
+străzilor, deszăpezirii sau tractării, transportului și depanării autovehiculelor rămase în
+pană sau avariate, cele destinate asigurării pazei patrimoniului autostrăzilor, precum și
+tractoarele care tractează utilajele agricole și tehnologice cu dimensiuni de gabarit
+depășite.”
+
+2
+Acest proiect de lege a fost adoptat de Senat în ședința din 11 mai 2022, cu
+respectarea prevederilor articolului 76 alineatul (2) din Constituția României,
+republicată.
+p. PREȘEDINTELE SENATULUI
+Alina-Ștefania Gorghiu
