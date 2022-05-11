@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-01-22: returned for re-examination
 - 2021-04-06: adopted by the Senate
 - 2022-05-04: adopted by the Chamber of Deputies
+- 2022-05-11: sent for promulgation
 
 ## Documents
 
