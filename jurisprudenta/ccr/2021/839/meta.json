@@ -1,0 +1,300 @@
+{
+ "key": "dcc-839-2021",
+ "label": "Decizia CCR nr. 839/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "839",
+ "date": "2021-12-09",
+ "year": "2021",
+ "heading": "DECIZIA nr. 839 din 9 decembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3, ale art. 4 alin. (1), art. 5 alin. (1) și (3), art. 7 alin. (1) și (2) și ale art. 11 din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "476",
+  "bis": false,
+  "date": "2022-05-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.916/287/2016",
+  "124D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, raportate la prevederile art. 3 teza a doua, art. 4 alin. (1) și art. 7 alin. (1) și (2) din același act normativ, precum și excepția de neconstituționalitate referitoare la sintagma „precum și din devalorizarea bunurilor imobile“ din cuprinsul art. 11 teza întâi din Legea nr. 77/2016, excepție ridicată de creditoarea-contestatoare Banca Românească - S.A. - membră a Grupului National Bank Of Greece în Dosarul nr. 1.916/287/2016 al Judecătoriei Râmnicu Sărat - Civil-Penal.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 11 teza a doua, precum și a dispozițiilor art. 11 teza întâi, raportate la art. 3 teza întâi din Legea nr. 77/2016, excepție ridicată de aceeași parte în același dosar al aceleiași instanțe.",
+  "3. Respinge, ca neîntemeiată, excepția de neconstituționalitate a dispozițiilor art. 11 teza întâi raportate la prevederile art. 5 alin. (1)-(3) din Legea nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, excepție ridicată de aceeași parte în același dosar al aceleiași instanțe, și constată că acestea sunt constituționale, în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Râmnicu Sărat - Civil-Penal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 48
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2015",
+    "number": "77",
+    "year": "2015",
+    "path": "lege/2015/77"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 77/2006",
+    "number": "77",
+    "year": "2006",
+    "path": "lege/2006/77"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255089",
+  "text_sha256": "5df15b79303f1efa316b4ff8fb0704b3c18c696d33c73657860bc700920dde1a",
+  "catalogue_sha256": "5df15b79303f1efa316b4ff8fb0704b3c18c696d33c73657860bc700920dde1a",
+  "fetched": "2026-11-03T01:33:25Z",
+  "chars": 29867,
+  "portal_id": "255089",
+  "tip": "DECIZIE"
+ }
+}
