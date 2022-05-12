@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-03-19: returned for re-examination
 - 2021-04-19: adopted by the Senate
 - 2022-05-05: sent for promulgation
+- 2022-05-12: promulgated, becomes Legea nr. 132/2022
 
 ## Documents
 
