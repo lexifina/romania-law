@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-19: adopted by the Senate
 - 2022-05-05: sent for promulgation
 - 2022-05-12: promulgated, becomes Legea nr. 132/2022
+- 2022-05-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Guvernul României.
 - 2020-10-21: Adresă către Camera Deputaților (AM): [am-5eb9c6b7.md](am-5eb9c6b7.md); official file https://www.senat.ro/legis/PDF/2020/20L618AM.PDF
 - 2020-11-24: Adresă privind sesizarea CCR (AXS): [axs-2ee34369.md](axs-2ee34369.md); official file https://www.senat.ro/legis/PDF/2020/20L618AXS.PDF
 - 2020-11-24: Forma trimisă la promulgare (LP): [lp-1abc0083.md](lp-1abc0083.md); official file https://www.senat.ro/legis/PDF/2020/20L618LP.PDF
+- 2022-05-13: Document (SC): [sc-c0912489.md](sc-c0912489.md); official file https://www.senat.ro/legis/PDF/2020/20L618SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (DC): [dc-deb3e6b2.md](dc-deb3e6b2.md); official file https://www.senat.ro/legis/PDF/2020/20L618DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (RC): [rc-5dc21d93.md](rc-5dc21d93.md); official file https://www.senat.ro/legis/PDF/2020/20L618RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L618XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L618SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (XXS): [xxs-fb6be3e9.md](xxs-fb6be3e9.md); official file https://www.senat.ro/legis/PDF/2020/20L618XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-13: Document (PX): [px-d3636bdb.md](px-d3636bdb.md); official file https://www.senat.ro/legis/PDF/2020/20L618PX.PDF (its day is not given by the bill file: shown from the last stage held)
