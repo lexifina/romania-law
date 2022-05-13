@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general Instituții Financiare Nebancare, ținut de către Banca Națională a României, a Societății APS CONSUMER FINANCE IFN - S.A., cu sediul în București, sectorul 2, str. Ing. George Constantinescu nr. 4B și George Constantinescu nr. 2-4, Globalworth Campus, clădirea C, etajul 3, birourile 32-1, 32-2, 32-3, înregistrată la oficiul registrul comerțului cu nr. J40/17048/2007, cod unic de înregistrare 22396322, înscrisă în Registrul general cu nr. RG-PJR-41-110221/27.12.2007, la secțiunea k) - "Activități multiple de creditare".
+333 336
