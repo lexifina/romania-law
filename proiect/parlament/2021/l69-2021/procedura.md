@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-26: sent for promulgation
 - 2022-05-12: promulgated, becomes Legea nr. 133/2022
+- 2022-05-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-05-05: Adresă către Camera Deputaților (AM): [am-0dbb5b63.md](am-0dbb5b63.md); official file https://www.senat.ro/legis/PDF/2021/21L069AM.PDF
 - 2022-04-19: Adresă privind sesizarea CCR (AXS): [axs-7a96052f.md](axs-7a96052f.md); official file https://www.senat.ro/legis/PDF/2021/21L069AXS.PDF
 - 2022-04-19: Forma trimisă la promulgare (LP): [lp-53407475.md](lp-53407475.md); official file https://www.senat.ro/legis/PDF/2021/21L069LP.PDF
+- 2022-05-13: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L069AT.PDF (its day is not given by the bill file: shown from the last stage held)
