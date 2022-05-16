@@ -1,0 +1,243 @@
+{
+ "key": "iccj-ril-7-2022",
+ "label": "Decizia ÎCCJ nr. 7/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "7",
+ "date": "2022-03-07",
+ "year": "2022",
+ "heading": "DECIZIA nr. 7 din 7 martie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 488^6 alin. (1) din Codul de procedură penală raportat la art. 285 din același cod și art. 154 din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "484",
+  "bis": false,
+  "date": "2022-05-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "40/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 488^6 alin. (1) din Codul de procedură penală raportat la art. 285 din același cod și art. 154 din Codul penal, în cauzele având ca obiect contestații privind durata procesului în cazul faptelor ai căror autori nu au fost identificați (sau identificabili), deși organele de urmărire penală au depus diligențele necesare în acest scop, se stabilesc termene în vederea finalizării urmăririi penale (ce implică și identificarea făptuitorilor) și, respectiv, în care o nouă contestație nu poate fi formulată.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488-5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4885",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4886",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "285",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "285",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255450",
+  "text_sha256": "712973d8017489f784968a6a30d374dcec812c599bb9e89029f79e4c981ebf5e",
+  "catalogue_sha256": "712973d8017489f784968a6a30d374dcec812c599bb9e89029f79e4c981ebf5e",
+  "fetched": "2026-11-06T03:56:45Z",
+  "chars": 43112,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255450",
+   "timestamp": "20251117180803",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439646378.73/warc/CC-MAIN-20251117175408-20251117205408-00327.warc.gz",
+   "offset": "294090117",
+   "length": "40844",
+   "sha256": "9cbf8b1922c2b1bef8131e777d142de70fa63ec7eb0643da07ba233e9bb0ca56"
+  },
+  "portal_id": "255450",
+  "tip": "DECIZIE"
+ }
+}
