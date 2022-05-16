@@ -1,0 +1,21 @@
+# Proiect de lege L323/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 233/2022 (`legea-233-2022`).
+
+Proiect de lege privind obligaţiunile garantate, precum şi pentru modificarea şi completarea unor acte normative în domeniul financiar
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-05-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-05-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L323AD.PDF
+- 2022-05-16: Forma inițiatorului (FG): [fg-5651b954.md](fg-5651b954.md); official file https://www.senat.ro/legis/PDF/2022/22L323FG.PDF
+- 2022-05-16: Expunere de motive (EM): [em-29b287ef.md](em-29b287ef.md); official file https://www.senat.ro/legis/PDF/2022/22L323EM.PDF
+- 2022-05-16: Aviz Consiliul Legislativ (LG): [lg-de3ea9bc.md](lg-de3ea9bc.md); official file https://www.senat.ro/legis/PDF/2022/22L323LG.PDF
+- 2022-05-16: Document (HG): [hg-4c5d7cfb.md](hg-4c5d7cfb.md); official file https://www.senat.ro/legis/PDF/2022/22L323HG.PDF
