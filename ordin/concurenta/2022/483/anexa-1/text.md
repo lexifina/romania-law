@@ -1,0 +1,2 @@
+# ANEXĂ
+INSTRUCTIUNI privind individualizarea sancțiunilor prevăzute la art. 68 alin. (1^1) lit. a) și b) pentru contravențiile prevăzute la art. 67^1 din Ordonanța Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare
