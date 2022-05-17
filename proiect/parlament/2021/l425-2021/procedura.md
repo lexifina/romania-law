@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-04-20: adopted by the Chamber of Deputies
 - 2022-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-28: sent for promulgation
+- 2022-05-17: promulgated, becomes Legea nr. 139/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Guvernul României.
 - 2021-11-03: Adresă către Camera Deputaților (AM): [am-1742ffc2.md](am-1742ffc2.md); official file https://www.senat.ro/legis/PDF/2021/21L425AM.PDF
 - 2022-04-26: Adresă privind sesizarea CCR (AXS): [axs-3519eee3.md](axs-3519eee3.md); official file https://www.senat.ro/legis/PDF/2021/21L425AXS.PDF
 - 2022-04-26: Forma trimisă la promulgare (LP): [lp-21ba645e.md](lp-21ba645e.md); official file https://www.senat.ro/legis/PDF/2021/21L425LP.PDF
+- 2022-05-17: Document (TA): [ta-8ace9f62.md](ta-8ace9f62.md); official file https://www.senat.ro/legis/PDF/2021/21L425TA.PDF (its day is not given by the bill file: shown from the last stage held)
