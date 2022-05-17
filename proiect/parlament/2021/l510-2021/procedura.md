@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-26: sent for promulgation
 - 2022-05-13: promulgated, becomes Legea nr. 135/2022
+- 2022-05-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-05: Adresă către Camera Deputaților (AM): [am-85f389f3.md](am-85f389f3.md); official file https://www.senat.ro/legis/PDF/2021/21L510AM.PDF
 - 2022-04-19: Adresă privind sesizarea CCR (AXS): [axs-7a96052f.md](axs-7a96052f.md); official file https://www.senat.ro/legis/PDF/2021/21L510AXS.PDF
 - 2022-04-19: Forma trimisă la promulgare (LP): [lp-8b995d35.md](lp-8b995d35.md); official file https://www.senat.ro/legis/PDF/2021/21L510LP.PDF
+- 2022-05-17: Document (CC): [cc-b69306c7.md](cc-b69306c7.md); official file https://www.senat.ro/legis/PDF/2021/21L510CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-17: Document (CF): [cf-06c4cf4d.md](cf-06c4cf4d.md); official file https://www.senat.ro/legis/PDF/2021/21L510CF.PDF (its day is not given by the bill file: shown from the last stage held)
