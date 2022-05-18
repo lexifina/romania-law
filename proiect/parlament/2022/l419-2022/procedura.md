@@ -1,0 +1,17 @@
+# Propunere legislativă L419/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii nr.286/2009 privind Codul penal publicată în Monitorul Oficial al României, Partea I, nr.510 din 24 iulie 2009, cu modificările și completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-05-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-05-18: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L419AD.PDF
+- 2022-05-18: Forma inițiatorului (FG): [fg-54d49cea.md](fg-54d49cea.md); official file https://www.senat.ro/legis/PDF/2022/22L419FG.PDF
+- 2022-05-18: Expunere de motive (EM): [em-5928615d.md](em-5928615d.md); official file https://www.senat.ro/legis/PDF/2022/22L419EM.PDF
