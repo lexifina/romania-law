@@ -1,0 +1,253 @@
+{
+ "key": "iccj-ril-10-2022",
+ "label": "Decizia ÎCCJ nr. 10/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "10",
+ "date": "2022-03-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 10 din 21 martie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 2.523 din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "497",
+  "bis": false,
+  "date": "2022-05-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "159/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Brașov privind dezlegarea următoarei probleme de drept:",
+  "În interpretarea și aplicarea dispozițiilor art. 2.523 din Codul civil, trebuia beneficiarul să cunoască drepturile financiare cuvenite, cu consecința curgerii termenului de prescripție a dreptului material la acțiune împotriva sa, în condițiile în care acesta nu a efectuat demersuri în vederea aflării conținutului Hotărârii Guvernului nr. 1.086/2004 pentru stabilirea sporurilor specifice și a drepturilor de diurnă, cazare și hrană cuvenite personalului participant la misiuni în afara teritoriului statului român, cu modificările și completările ulterioare, act normativ ce are caracter militar, nepublicat în Monitorul Oficial al României și necomunicat pe nicio altă cale beneficiarilor drepturilor, dar la a cărui existență s-a făcut trimitere în anumite acte legislative publicate în Monitorul Oficial, fără ca în cuprinsul acestor acte legislative să se fi prevăzut conținutul hotărârii de guvern nepublicate.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.086/2004",
+    "number": "1086",
+    "year": "2004",
+    "path": "hg/2004/1086"
+   },
+   "articles": [],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 121/2011",
+    "number": "121",
+    "year": "2011",
+    "path": "lege/2011/121"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 582/2015",
+    "number": "582",
+    "year": "2015",
+    "path": "hg/2015/582"
+   },
+   "articles": [],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 518/1995",
+    "number": "518",
+    "year": "1995",
+    "path": "hg/1995/518"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-05-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255562",
+  "text_sha256": "bff9f7addcabb270b39abcd4b1189b17138e2a8341e7195cc28c4f976d9d7529",
+  "catalogue_sha256": "bff9f7addcabb270b39abcd4b1189b17138e2a8341e7195cc28c4f976d9d7529",
+  "fetched": "2026-11-03T01:33:13Z",
+  "chars": 55192,
+  "portal_id": "255562",
+  "tip": "DECIZIE"
+ }
+}
