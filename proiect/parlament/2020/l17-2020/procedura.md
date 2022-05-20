@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-06: adopted by the Senate
 - 2022-05-04: adopted by the Chamber of Deputies
 - 2022-05-11: sent for promulgation
+- 2022-05-20: promulgated, becomes Legea nr. 141/2022
 
 ## Documents
 
