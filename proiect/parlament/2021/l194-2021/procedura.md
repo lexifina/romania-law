@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2021-05-28: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-05-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2022-05-20: sent for promulgation
 
 ## Documents
 
