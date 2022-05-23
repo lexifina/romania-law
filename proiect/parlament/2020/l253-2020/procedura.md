@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-02: sent for promulgation
 - 2022-05-20: promulgated, becomes Legea nr. 143/2022
+- 2022-05-23: published in the Monitorul Oficial
 
 ## Documents
 
