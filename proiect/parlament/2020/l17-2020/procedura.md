@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-05-04: adopted by the Chamber of Deputies
 - 2022-05-11: sent for promulgation
 - 2022-05-20: promulgated, becomes Legea nr. 141/2022
+- 2022-05-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,10 @@ Initiator: Guvernul României.
 - 2020-02-10: Adresă către Camera Deputaților (AM): [am-d175897d.md](am-d175897d.md); official file https://www.senat.ro/legis/PDF/2020/20L017AM.PDF
 - 2020-11-10: Adresă privind sesizarea CCR (AXS): [axs-689570e7.md](axs-689570e7.md); official file https://www.senat.ro/legis/PDF/2020/20L017AXS.PDF
 - 2020-11-10: Forma trimisă la promulgare (LP): [lp-bb1d0bc7.md](lp-bb1d0bc7.md); official file https://www.senat.ro/legis/PDF/2020/20L017LP.PDF
+- 2022-05-23: Document (SC): [sc-d634d763.md](sc-d634d763.md); official file https://www.senat.ro/legis/PDF/2020/20L017SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (DC): [dc-0de01d1f.md](dc-0de01d1f.md); official file https://www.senat.ro/legis/PDF/2020/20L017DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (RC): [rc-78caac7a.md](rc-78caac7a.md); official file https://www.senat.ro/legis/PDF/2020/20L017RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (XD): [xd-6966bf82.md](xd-6966bf82.md); official file https://www.senat.ro/legis/PDF/2020/20L017XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (SX): [sx-49f32d09.md](sx-49f32d09.md); official file https://www.senat.ro/legis/PDF/2020/20L017SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (XXS): [xxs-07a27787.md](xxs-07a27787.md); official file https://www.senat.ro/legis/PDF/2020/20L017XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-23: Document (PX): [px-7341b162.md](px-7341b162.md); official file https://www.senat.ro/legis/PDF/2020/20L017PX.PDF (its day is not given by the bill file: shown from the last stage held)
