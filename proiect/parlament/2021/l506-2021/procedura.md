@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-02: sent for promulgation
 - 2022-05-20: promulgated, becomes Legea nr. 142/2022
+- 2022-05-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-02: Adresă către Camera Deputaților (AM): [am-e5de8344.md](am-e5de8344.md); official file https://www.senat.ro/legis/PDF/2021/21L506AM.PDF
 - 2022-04-26: Adresă privind sesizarea CCR (AXS): [axs-3519eee3.md](axs-3519eee3.md); official file https://www.senat.ro/legis/PDF/2021/21L506AXS.PDF
 - 2022-04-26: Forma trimisă la promulgare (LP): [lp-12709012.md](lp-12709012.md); official file https://www.senat.ro/legis/PDF/2021/21L506LP.PDF
+- 2022-05-23: Document (CF): [cf-8ed9cbb3.md](cf-8ed9cbb3.md); official file https://www.senat.ro/legis/PDF/2021/21L506CF.PDF (its day is not given by the bill file: shown from the last stage held)
