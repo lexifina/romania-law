@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-02: sent for promulgation
 - 2022-05-20: promulgated, becomes Legea nr. 144/2022
+- 2022-05-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-04: Adresă către Camera Deputaților (AM): [am-cbfc4931.md](am-cbfc4931.md); official file https://www.senat.ro/legis/PDF/2021/21L364AM.PDF
 - 2022-04-26: Adresă privind sesizarea CCR (AXS): [axs-3519eee3.md](axs-3519eee3.md); official file https://www.senat.ro/legis/PDF/2021/21L364AXS.PDF
 - 2022-04-26: Forma trimisă la promulgare (LP): [lp-bef43516.md](lp-bef43516.md); official file https://www.senat.ro/legis/PDF/2021/21L364LP.PDF
+- 2022-05-23: Document (AA): [aa-e6b0b22c.md](aa-e6b0b22c.md); official file https://www.senat.ro/legis/PDF/2021/21L364AA.PDF (its day is not given by the bill file: shown from the last stage held)
