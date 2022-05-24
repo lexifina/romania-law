@@ -1,0 +1,157 @@
+{
+ "key": "dcc-5-2022",
+ "label": "Decizia CCR nr. 5/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "5",
+ "date": "2022-01-18",
+ "year": "2022",
+ "heading": "DECIZIA nr. 5 din 18 ianuarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 82 alin. (5) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "507",
+  "bis": false,
+  "date": "2022-05-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.175/111/2017",
+  "278D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ligia Pălcuț în Dosarul nr. 6.175/111/2017 al Curții de Apel Oradea - Secția I civilă și constată că dispozițiile art. 82 alin. (5) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Oradea - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255629",
+  "text_sha256": "46597bea34858061aca7aabc7e1c4652d56025e1ad6557c2bd9d052dabf8eb14",
+  "catalogue_sha256": "46597bea34858061aca7aabc7e1c4652d56025e1ad6557c2bd9d052dabf8eb14",
+  "fetched": "2026-11-03T01:33:06Z",
+  "chars": 16423,
+  "portal_id": "255629",
+  "tip": "DECIZIE"
+ }
+}
