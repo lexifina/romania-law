@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-05-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-05: sent for promulgation
 - 2022-05-23: promulgated, becomes Legea nr. 146/2022
+- 2022-05-24: published in the Monitorul Oficial
 
 ## Documents
 
