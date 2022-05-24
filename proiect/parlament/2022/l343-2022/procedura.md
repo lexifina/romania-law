@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-23: documents published: Aviz comisie
 - 2022-03-14: registered at the Chamber of Deputies
 - 2022-05-23: adopted by the Chamber of Deputies
+- 2022-05-24: registered at the Senate
 
 ## Documents
 
