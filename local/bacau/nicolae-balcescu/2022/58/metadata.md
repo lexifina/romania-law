@@ -1,0 +1,10 @@
+# HCL Nicolae Bălcescu nr. 58/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Nicolae Bălcescu
+- Decision: nr. 58/2022
+- Adopted: 2022-05-13
+- Published: 2022-05-24
+- Title: Pentru modificarea și completarea HCL 41/2022 privind aprobarea tarifelor pentru chiria spațiilor medicale din comuna Nicolae Bălcescu „Dispensar uman N.Bălcescu”
+- Record: https://emol.ro/nicolaebalcescu-bc/registru-hcl/60633
