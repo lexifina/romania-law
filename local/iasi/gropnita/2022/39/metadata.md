@@ -1,0 +1,10 @@
+# HCL Gropnița nr. 39/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Gropnița
+- Decision: nr. 39/2022
+- Adopted: 2022-05-09
+- Published: 2022-05-24
+- Title: privind obiectivul de investiții “Construire teren de sport pentru copii și tineret la Școala Săveni, comuna Gropnița, județ Iași”
+- Record: https://emol.ro/gropnita-is/registru-hcl/59817
