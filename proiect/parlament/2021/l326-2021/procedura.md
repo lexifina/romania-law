@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-05-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-05: sent for promulgation
 - 2022-05-18: rejected by the Chamber of Deputies
+- 2022-05-24: promulgated, becomes Legea nr. 155/2022
 
 ## Documents
 
