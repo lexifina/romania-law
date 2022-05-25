@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-04-11: registered at the Chamber of Deputies
+- 2022-05-25: adopted by the Chamber of Deputies
 
 ## Documents
 
