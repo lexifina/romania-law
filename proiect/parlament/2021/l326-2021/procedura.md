@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-05-05: sent for promulgation
 - 2022-05-18: rejected by the Chamber of Deputies
 - 2022-05-24: promulgated, becomes Legea nr. 155/2022
+- 2022-05-25: published in the Monitorul Oficial
 
 ## Documents
 
