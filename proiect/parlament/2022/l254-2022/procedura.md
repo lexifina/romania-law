@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-11: registered at the Chamber of Deputies; adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-05-18: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-20: sent for promulgation
+- 2022-05-25: promulgated, becomes Legea nr. 157/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-11: Adresă către Camera Deputaților (AM): [am-99c53db7.md](am-99c53db7.md); official file https://www.senat.ro/legis/PDF/2022/22L254AM.PDF
 - 2022-05-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L254AXS.PDF
 - 2022-05-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L254LP.PDF
+- 2022-05-25: Document (CF): [cf-7fb55f6d.md](cf-7fb55f6d.md); official file https://www.senat.ro/legis/PDF/2022/22L254CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-05-25: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L254CC.PDF (its day is not given by the bill file: shown from the last stage held)
