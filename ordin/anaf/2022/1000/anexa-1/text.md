@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURĂ privind întocmirea și transmiterea de către structura de inspecție fiscală a listei cu obligațiile fiscale ce pot face obiectul anulării prevăzute de art. I din Legea nr. 72/2022 pentru anularea unor obligații fiscale și pentru modificarea unor acte normative, individualizate în decizii de impunere emise și comunicate contribuabilului în perioada cuprinsă între 1 iulie 2015 și data intrării în vigoare a legii
