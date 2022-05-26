@@ -1,0 +1,19 @@
+# Propunere legislativă L463/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 280/2024 (`legea-280-2024`).
+
+Propunere legislativă pentru modificarea articolului 17 din Decretul-lege nr.118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate, ori constituite în prizonieri
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-05-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-05-26: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L463AD.PDF
+- 2022-05-26: Forma inițiatorului (FG): [fg-1637ecee.md](fg-1637ecee.md); official file https://www.senat.ro/legis/PDF/2022/22L463FG.PDF
+- 2022-05-26: Expunere de motive (EM): [em-5548c3ef.md](em-5548c3ef.md); official file https://www.senat.ro/legis/PDF/2022/22L463EM.PDF
