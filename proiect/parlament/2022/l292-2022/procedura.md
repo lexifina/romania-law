@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-04: adopted by the Chamber of Deputies
 - 2022-05-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-05-18: documents published: Aviz comisie
+- 2022-05-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292EM.PDF
 - 2022-05-18: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292CA49.PDF
 - 2022-05-18: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292CA57.PDF
+- 2022-05-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292CA45.PDF
