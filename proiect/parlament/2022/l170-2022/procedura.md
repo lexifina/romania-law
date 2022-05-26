@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 - 2022-04-19: documents published: Aviz comisie
 - 2022-05-04: documents published: Raport comisie sesizată pe fond
+- 2022-05-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-22: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L170PV.PDF
 - 2022-04-19: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L170CA8.PDF
 - 2022-05-04: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L170CR.PDF
+- 2022-05-26: Forma adoptată de Senat (FS): [fs-a8483b4e.md](fs-a8483b4e.md); official file https://www.senat.ro/legis/PDF/2022/22L170FS.PDF
+- 2022-05-26: Adresă către Camera Deputaților (AM): [am-b19e2990.md](am-b19e2990.md); official file https://www.senat.ro/legis/PDF/2022/22L170AM.PDF
