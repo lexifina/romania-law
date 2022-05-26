@@ -12,7 +12,12 @@ Initiator: Guvernul României.
 
 - 2022-04-11: registered at the Chamber of Deputies
 - 2022-05-25: adopted by the Chamber of Deputies
+- 2022-05-26: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
-- none held as text
+- 2022-05-26: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345AD.PDF
+- 2022-05-26: Forma inițiatorului (FG): [fg-59f0ae17.md](fg-59f0ae17.md); official file https://www.senat.ro/legis/PDF/2022/22L345FG.PDF
+- 2022-05-26: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345EM.PDF
+- 2022-05-26: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345LG.PDF
+- 2022-05-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345HG.PDF
