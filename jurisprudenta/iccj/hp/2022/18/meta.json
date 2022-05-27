@@ -1,0 +1,145 @@
+{
+ "key": "iccj-hp-18-2022",
+ "label": "Decizia ÎCCJ nr. 18/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "18",
+ "date": "2022-04-04",
+ "year": "2022",
+ "heading": "DECIZIA nr. 18 din 4 aprilie 2022",
+ "subtitle": "referitoare la interpretarea art. 4 alin. (5) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2022-05-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.160/1/2021",
+  "1.587/46/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal în Dosarul nr. 1.587/46/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă dispozițiile art. 4 alin. (5) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, cu modificările și completările ulterioare, se aplică și în cazul valabilității indicației de utilizare în unitățile sanitare a produselor biocide pentru care nu s-au întocmit rapoarte de testare a eficacității biocide conform art. 7^1 din Ordinul comun al ministrului sănătății, al ministrului mediului și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 10/368/11/2010 privind aprobarea procedurii de avizare a produselor biocide care sunt plasate pe piață pe teritoriul României, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "5",
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "7-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-05-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255759",
+  "text_sha256": "b07ae6cbec1e36fd21330444189a418669a749db25acac7c33d2d3bfcb684648",
+  "catalogue_sha256": "b07ae6cbec1e36fd21330444189a418669a749db25acac7c33d2d3bfcb684648",
+  "fetched": "2026-11-06T04:02:26Z",
+  "chars": 53398,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/255759",
+   "timestamp": "20260207020839",
+   "crawl": "CC-MAIN-2026-08",
+   "filename": "crawl-data/CC-MAIN-2026-08/segments/1770395505680.41/warc/CC-MAIN-20260207002457-20260207032457-00219.warc.gz",
+   "offset": "267068985",
+   "length": "37499",
+   "sha256": "ed7e98327ae45f3875b30f89b49a715bce3042cf93294b4cd382d5a70bb3b1a3"
+  },
+  "portal_id": "255759",
+  "tip": "DECIZIE"
+ }
+}
