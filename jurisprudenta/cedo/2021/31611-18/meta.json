@@ -1,0 +1,93 @@
+{
+ "key": "cedo-31611-18-2021-11-16",
+ "label": "CEDO, Marin c. României, 2021-11-16",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2021-11-16",
+ "year": "2021",
+ "heading": "HOTĂRÂREA din 16 noiembrie 2021",
+ "subtitle": "în Cauza Marin împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "525",
+  "bis": false,
+  "date": "2022-05-27",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "31611/18"
+ ],
+ "case_name": "Marin",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 2 din Convenție sub aspect procedural;",
+  "3. hotărăște: a) că statul pârât trebuie să îi plătească reclamantului, în termen de trei luni, suma de 20.000 EUR (douăzeci de mii de euro) cu titlu de daune morale, care trebuie convertită în moneda statului pârât la rata de schimb aplicabilă la data plății, plus orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255760",
+  "text_sha256": "d1fca7b78a76008fc927ad71d25b1a6e6d1692521ae969e425956df344463e0e",
+  "catalogue_sha256": "d1fca7b78a76008fc927ad71d25b1a6e6d1692521ae969e425956df344463e0e",
+  "fetched": "2026-11-03T01:33:01Z",
+  "chars": 15428,
+  "portal_id": "255760",
+  "tip": "HOTĂRÂRE"
+ }
+}
