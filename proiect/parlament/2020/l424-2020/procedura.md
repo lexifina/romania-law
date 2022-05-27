@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-27: adopted by the Chamber of Deputies
 - 2022-05-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-09: sent for promulgation
+- 2022-05-27: promulgated, becomes Legea nr. 159/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-11: Adresă către Camera Deputaților (AM): [am-28adbd23.md](am-28adbd23.md); official file https://www.senat.ro/legis/PDF/2020/20L424AM.PDF
 - 2022-05-03: Adresă privind sesizarea CCR (AXS): [axs-d99710a7.md](axs-d99710a7.md); official file https://www.senat.ro/legis/PDF/2020/20L424AXS.PDF
 - 2022-05-03: Forma trimisă la promulgare (LP): [lp-1eb16bec.md](lp-1eb16bec.md); official file https://www.senat.ro/legis/PDF/2020/20L424LP.PDF
+- 2022-05-27: Document (AA): [aa-32d6c45c.md](aa-32d6c45c.md); official file https://www.senat.ro/legis/PDF/2020/20L424AA.PDF (its day is not given by the bill file: shown from the last stage held)
