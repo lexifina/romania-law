@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-05-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-11: sent for promulgation
 - 2022-05-30: promulgated, becomes Legea nr. 163/2022
+- 2022-05-31: published in the Monitorul Oficial
 
 ## Documents
 
