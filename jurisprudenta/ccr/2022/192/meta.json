@@ -1,0 +1,259 @@
+{
+ "key": "dcc-192-2022",
+ "label": "Decizia CCR nr. 192/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "192",
+ "date": "2022-04-06",
+ "year": "2022",
+ "heading": "DECIZIA nr. 192 din 6 aprilie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "535",
+  "bis": false,
+  "date": "2022-05-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "670A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecția de neconstituționalitate a Legii pentru modificarea și completarea unor acte normative în domeniul comunicațiilor electronice pentru stabilirea unor măsuri de facilitare a dezvoltării rețelelor de comunicații electronice, obiecție formulată de un număr de 41 de deputați aparținând Alianței pentru Unirea Românilor și Partidului Social Democrat și deputați neafiliați.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 111/2011",
+    "number": "111",
+    "year": "2011",
+    "path": "oug/2011/111"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 422/2001",
+    "number": "422",
+    "year": "2001",
+    "path": "lege/2001/422"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2005",
+    "number": "195",
+    "year": "2005",
+    "path": "oug/2005/195"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 292/2018",
+    "number": "292",
+    "year": "2018",
+    "path": "lege/2018/292"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-05-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255840",
+  "text_sha256": "02fd1bda2429b1478e65ca6297816fe4d675252024a1fa3780b26a46cf371653",
+  "catalogue_sha256": "02fd1bda2429b1478e65ca6297816fe4d675252024a1fa3780b26a46cf371653",
+  "fetched": "2026-11-03T01:32:52Z",
+  "chars": 30432,
+  "portal_id": "255840",
+  "tip": "DECIZIE"
+ }
+}
