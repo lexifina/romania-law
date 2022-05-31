@@ -1,0 +1,2 @@
+# ANEXĂ
+GHIDUL ESMA pentru aplicarea prevederilor Ghidului ESMA privind metodologia, funcția de supraveghere și ținerea evidențelor în temeiul Regulamentului privind indicii de referință și pentru modificarea și completarea anexei la Norma Autorității de Supraveghere Financiară nr. 21/2019 privind aplicarea Ghidului ESMA cu privire la indicii de referință nesemnificativi din Regulamentul privind indicii de referință
