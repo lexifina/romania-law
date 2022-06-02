@@ -1,0 +1,11 @@
+# HCGMB nr. 276/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 276/2022
+- Adopted: 2022-06-02
+- Title: PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 176/23.04.2019 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE SI A INDICATORILOR TEHNICO-ECONOMICI PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII "REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI", MODIFICATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 688/18.12.2019 SI PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 247/18.06.2020
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43153
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/43153/H276_22.pdf
+- Document sha256: 62b8a915e48edc07ec3e1481937cb640a1623abae43c18aef7eb03e68df95837
