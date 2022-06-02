@@ -1,0 +1,11 @@
+# HCGMB nr. 303/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 303/2022
+- Adopted: 2022-06-02
+- Title: PRIVIND DECLANSAREA PROCEDURILOR DE EXPROPRIERE PENTRU IMOBILELE PROPRIETATE PRIVATA SITUATE PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA „REGENERAREA SPATIILOR PUBLICE DIN ZONA CUPRINSA INTRE STR. MITROPOLIT DOSOFTEI SI STR. SURA MARE (PIATA EROII REVOLUTIEI) PRIN MODERNIZAREA SISTEMULUI RUTIER, MODERNIZAREA PLATFORMELOR SI A LOCURILOR DE PARCARE EXISTENTE, A SPATIULUI PIETONAL, MODERNIZAREA SPATIILOR VERZI SI A ILUMINATULUI PUBLIC (DE TIP SMART)”
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43182
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/43182/H303_22.pdf
+- Document sha256: 93e14756a4599db603bb40d71a9d694e0831eeb31ab581a60a8ab01646a9de5c
