@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-04: adopted by the Chamber of Deputies
 - 2022-05-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-14: sent for promulgation
+- 2022-06-02: promulgated, becomes Legea nr. 167/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-0b3396ad.md](am-0b3396ad.md); official file https://www.senat.ro/legis/PDF/2022/22L044AM.PDF
 - 2022-05-09: Adresă privind sesizarea CCR (AXS): [axs-07a27787.md](axs-07a27787.md); official file https://www.senat.ro/legis/PDF/2022/22L044AXS.PDF
 - 2022-05-09: Forma trimisă la promulgare (LP): [lp-92d80bd7.md](lp-92d80bd7.md); official file https://www.senat.ro/legis/PDF/2022/22L044LP.PDF
+- 2022-06-02: Document (CF): [cf-21102424.md](cf-21102424.md); official file https://www.senat.ro/legis/PDF/2022/22L044CF.PDF (its day is not given by the bill file: shown from the last stage held)
