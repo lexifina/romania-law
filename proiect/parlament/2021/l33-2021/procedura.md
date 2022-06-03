@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2021-11-17: adopted by the Senate
 - 2022-03-14: adopted by the Chamber of Deputies
 - 2022-03-23: sent for promulgation
+- 2022-06-03: promulgated, becomes Legea nr. 170/2022
 
 ## Documents
 
