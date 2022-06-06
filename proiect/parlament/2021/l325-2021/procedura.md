@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-03-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-30: sent for promulgation
 - 2022-06-03: promulgated, becomes Legea nr. 169/2022
+- 2022-06-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2021-10-15: Adresă către Camera Deputaților (AM): [am-cdf4b26b.md](am-cdf4b26b.md); official file https://www.senat.ro/legis/PDF/2021/21L325AM.PDF
 - 2022-03-28: Adresă privind sesizarea CCR (AXS): [axs-e7a3a491.md](axs-e7a3a491.md); official file https://www.senat.ro/legis/PDF/2021/21L325AXS.PDF
 - 2022-03-28: Forma trimisă la promulgare (LP): [lp-e108ce76.md](lp-e108ce76.md); official file https://www.senat.ro/legis/PDF/2021/21L325LP.PDF
+- 2022-06-06: Document (TA): [ta-71db978a.md](ta-71db978a.md); official file https://www.senat.ro/legis/PDF/2021/21L325TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (SC): [sc-a562a189.md](sc-a562a189.md); official file https://www.senat.ro/legis/PDF/2021/21L325SC.PDF (its day is not given by the bill file: shown from the last stage held)
