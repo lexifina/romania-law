@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-03-14: adopted by the Chamber of Deputies
 - 2022-03-23: sent for promulgation
 - 2022-06-03: promulgated, becomes Legea nr. 170/2022
+- 2022-06-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,10 @@ Initiator: Guvernul României.
 - 2021-03-22: Adresă către Camera Deputaților (AM): [am-445ef962.md](am-445ef962.md); official file https://www.senat.ro/legis/PDF/2021/21L033AM.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L033AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): [lp-90cc93a3.md](lp-90cc93a3.md); official file https://www.senat.ro/legis/PDF/2021/21L033LP.PDF
+- 2022-06-06: Document (DC): [dc-e906b17a.md](dc-e906b17a.md); official file https://www.senat.ro/legis/PDF/2021/21L033DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (RC): [rc-11382bce.md](rc-11382bce.md); official file https://www.senat.ro/legis/PDF/2021/21L033RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (XD): [xd-cdb972d8.md](xd-cdb972d8.md); official file https://www.senat.ro/legis/PDF/2021/21L033XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (SX): [sx-ad52c172.md](sx-ad52c172.md); official file https://www.senat.ro/legis/PDF/2021/21L033SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (XXS): [xxs-6c77ef34.md](xxs-6c77ef34.md); official file https://www.senat.ro/legis/PDF/2021/21L033XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (PX): [px-a3008e39.md](px-a3008e39.md); official file https://www.senat.ro/legis/PDF/2021/21L033PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-06: Document (DC2): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L033DC2.PDF (its day is not given by the bill file: shown from the last stage held)
