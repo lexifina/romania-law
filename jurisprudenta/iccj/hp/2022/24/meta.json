@@ -1,0 +1,133 @@
+{
+ "key": "iccj-hp-24-2022",
+ "label": "Decizia ÎCCJ nr. 24/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "24",
+ "date": "2022-05-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 24 din 9 mai 2022",
+ "subtitle": "referitoare la interpretare dispozițiilor art. 2.551-2.553 din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2022-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "458/1/2022",
+  "8.720/299/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2551",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a V-a civilă, în Dosarul nr. 8.720/299/2019, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei probleme de drept: Modalitatea de interpretare a incidenței dispozițiilor art. 2.551-2.553 din Codul civil în cazul termenelor stabilite pe zile calendaristice în convenția părților.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2551",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2553",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1266",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255991",
+  "text_sha256": "4964f72ad3c138576e0ebd30e176d308d6ffb8311382d82f306c1796ba7618f6",
+  "catalogue_sha256": "4964f72ad3c138576e0ebd30e176d308d6ffb8311382d82f306c1796ba7618f6",
+  "fetched": "2026-11-03T01:32:40Z",
+  "chars": 29994,
+  "portal_id": "255991",
+  "tip": "DECIZIE"
+ }
+}
