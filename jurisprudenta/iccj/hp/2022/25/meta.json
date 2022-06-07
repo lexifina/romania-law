@@ -1,0 +1,209 @@
+{
+ "key": "iccj-hp-25-2022",
+ "label": "Decizia ÎCCJ nr. 25/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "25",
+ "date": "2022-05-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 25 din 9 mai 2022",
+ "subtitle": "referitoare la interpretarea Ordonanței de urgență a Guvernului nr. 54/2016 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terțelor persoane prin accidente de vehicule și de tramvaie și dobânda legală penalizatoare stipulată de prevederile Ordonanței Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, aprobată prin Legea nr. 43/2012, cu completările ulterioare, și Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "554",
+  "bis": false,
+  "date": "2022-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "460/1/2022",
+  "2.921/3/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a V-a civilă în Dosarul nr. 2.921/3/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: În cazul acțiunilor ce au ca obiect acordarea de daune morale, formulate în contradictoriu cu o societate de asigurare și BAAR (prin acțiune solicitându-se obligarea solidară a pârâtelor la plată), reclamanții au posibilitatea de a opta între acordarea penalităților în cuantum de 0,2% pe zi de întârziere prevăzute de Ordonanța de urgență a Guvernului nr. 54/2016 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terțelor persoane prin accidente de vehicule și de tramvaie și dobânda legală penalizatoare stipulată de prevederile Ordonanței Guvernului nr. 13/2011 privind dobânda legală remuneratorie și penalizatoare pentru obligații bănești, precum și pentru reglementarea unor măsuri financiar-fiscale în domeniul bancar, aprobată prin Legea nr. 43/2012, cu completările ulterioare, și Codul civi l?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1385",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1386",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255992",
+  "text_sha256": "6e39eb7c288e4c5564069123308dacb853fc6fcd0009bcc02cbf358e3919b60d",
+  "catalogue_sha256": "6e39eb7c288e4c5564069123308dacb853fc6fcd0009bcc02cbf358e3919b60d",
+  "fetched": "2026-11-03T01:32:44Z",
+  "chars": 50582,
+  "portal_id": "255992",
+  "tip": "DECIZIE"
+ }
+}
