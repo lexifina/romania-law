@@ -1,0 +1,10 @@
+# HCL Mădârjac nr. 27/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Mădârjac
+- Decision: nr. 27/2022
+- Adopted: 2022-05-16
+- Published: 2022-06-07
+- Title: privind aprobarea organigramei și a statului de funcții a Unității Administrativ-Teritoriale Comuna Mădârjac, începând cu data de 23.05.2022
+- Record: https://emol.ro/madarjac-is/registru-hcl/62631
