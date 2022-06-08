@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-05-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-20: sent for promulgation
+- 2022-06-08: promulgated, becomes Legea nr. 173/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,6 @@ Initiator: Guvernul României.
 - 2022-05-16: Forma adoptată de Senat (FS): [fs-d9e5f789.md](fs-d9e5f789.md); official file https://www.senat.ro/legis/PDF/2021/21L195FS.PDF
 - 2022-05-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195AXS.PDF
 - 2022-05-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L195LP.PDF
+- 2022-06-08: Document (AT): [at-2940bb6c.md](at-2940bb6c.md); official file https://www.senat.ro/legis/PDF/2021/21L195AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (S1): [s1-547f289c.md](s1-547f289c.md); official file https://www.senat.ro/legis/PDF/2021/21L195S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (AL): [al-d9753b44.md](al-d9753b44.md); official file https://www.senat.ro/legis/PDF/2021/21L195AL.PDF (its day is not given by the bill file: shown from the last stage held)
