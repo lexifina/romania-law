@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-02: adopted by the Senate
 - 2022-05-25: returned for re-examination
 - 2022-05-30: sent for promulgation
+- 2022-06-08: promulgated, becomes Legea nr. 171/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,14 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-14: Adresă către Camera Deputaților (AM): [am-e63dcd38.md](am-e63dcd38.md); official file https://www.senat.ro/legis/PDF/2021/21L180AM.PDF
 - 2021-11-15: Adresă privind sesizarea CCR (AXS): [axs-ffa77b76.md](axs-ffa77b76.md); official file https://www.senat.ro/legis/PDF/2021/21L180AXS.PDF
 - 2021-11-15: Forma trimisă la promulgare (LP): [lp-950c8421.md](lp-950c8421.md); official file https://www.senat.ro/legis/PDF/2021/21L180LP.PDF
+- 2022-06-08: Document (SC): [sc-be4164a0.md](sc-be4164a0.md); official file https://www.senat.ro/legis/PDF/2021/21L180SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L180DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (RX): [rx-3e88014e.md](rx-3e88014e.md); official file https://www.senat.ro/legis/PDF/2021/21L180RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (XA): [xa-5ef013c3.md](xa-5ef013c3.md); official file https://www.senat.ro/legis/PDF/2021/21L180XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L180CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L180AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (X2): [x2-a64d1495.md](x2-a64d1495.md); official file https://www.senat.ro/legis/PDF/2021/21L180X2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (XD): [xd-5048485f.md](xd-5048485f.md); official file https://www.senat.ro/legis/PDF/2021/21L180XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (SX): [sx-6657a61d.md](sx-6657a61d.md); official file https://www.senat.ro/legis/PDF/2021/21L180SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L180XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L180PX.PDF (its day is not given by the bill file: shown from the last stage held)
