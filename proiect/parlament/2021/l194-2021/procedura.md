@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-05-16: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-05-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-20: sent for promulgation
+- 2022-06-08: promulgated, becomes Legea nr. 172/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,8 @@ Initiator: Guvernul României.
 - 2022-05-16: Forma adoptată de Senat (FS): [fs-c63c1767.md](fs-c63c1767.md); official file https://www.senat.ro/legis/PDF/2021/21L194FS.PDF
 - 2022-05-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L194AXS.PDF
 - 2022-05-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L194LP.PDF
+- 2022-06-08: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L194DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L194TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (AT): [at-d828454b.md](at-d828454b.md); official file https://www.senat.ro/legis/PDF/2021/21L194AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (S1): [s1-bd87d093.md](s1-bd87d093.md); official file https://www.senat.ro/legis/PDF/2021/21L194S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-08: Document (AL): [al-d00a6b51.md](al-d00a6b51.md); official file https://www.senat.ro/legis/PDF/2021/21L194AL.PDF (its day is not given by the bill file: shown from the last stage held)
