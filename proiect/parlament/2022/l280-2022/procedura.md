@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-05-26: documents published: Aviz comisie
 - 2022-05-31: documents published: Raport comisie sesizată pe fond
+- 2022-06-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L280EM.PDF
 - 2022-05-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L280CA45.PDF
 - 2022-05-31: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L280CR.PDF
+- 2022-06-08: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L280FS.PDF
+- 2022-06-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L280AM.PDF
