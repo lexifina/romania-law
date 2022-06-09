@@ -1,0 +1,22 @@
+# Proiect de lege L378/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 357/2023 (`legea-357-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.79/2022 pentru completarea Ordonanței de urgență a Guvernului nr.202/2008 privind punerea în aplicare a sancțiunilor internaționale
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-06-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-06-09: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378AD.PDF
+- 2022-06-09: Forma inițiatorului (FG): [fg-249fcc01.md](fg-249fcc01.md); official file https://www.senat.ro/legis/PDF/2022/22L378FG.PDF
+- 2022-06-09: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378EM.PDF
+- 2022-06-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378LG.PDF
+- 2022-06-09: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378OG.PDF
+- 2022-06-09: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378HG.PDF
