@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-05-09: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-05-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-21: sent for promulgation
+- 2022-06-09: promulgated, becomes Legea nr. 174/2022
 
 ## Documents
 
