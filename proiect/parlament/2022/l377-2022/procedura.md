@@ -1,0 +1,22 @@
+# Proiect de lege L377/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 172/2023 (`legea-172-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.78/2022 privind unele măsuri pentru ocuparea posturilor aferente funcțiilor publice vacante și temporar vacante care au atribuții în implementarea Planului național de redresare și reziliență al României
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-06-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-06-09: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L377AD.PDF
+- 2022-06-09: Forma inițiatorului (FG): [fg-26dd5965.md](fg-26dd5965.md); official file https://www.senat.ro/legis/PDF/2022/22L377FG.PDF
+- 2022-06-09: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L377EM.PDF
+- 2022-06-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L377LG.PDF
+- 2022-06-09: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L377OG.PDF
+- 2022-06-09: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L377HG.PDF
