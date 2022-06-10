@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2022-05-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-21: sent for promulgation
 - 2022-06-09: promulgated, becomes Legea nr. 174/2022
+- 2022-06-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2022-05-09: Forma adoptată de Senat (FS): [fs-05abba52.md](fs-05abba52.md); official file https://www.senat.ro/legis/PDF/2022/22L159FS.PDF
 - 2022-05-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L159AXS.PDF
 - 2022-05-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L159LP.PDF
+- 2022-06-10: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L159TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-10: Document (AL): [al-d8512d2e.md](al-d8512d2e.md); official file https://www.senat.ro/legis/PDF/2022/22L159AL.PDF (its day is not given by the bill file: shown from the last stage held)
