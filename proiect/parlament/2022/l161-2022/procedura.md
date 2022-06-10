@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-21: sent for promulgation
 - 2022-06-09: promulgated, becomes Legea nr. 175/2022
+- 2022-06-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-11: Forma adoptată de Senat (FS): [fs-08a69d9a.md](fs-08a69d9a.md); official file https://www.senat.ro/legis/PDF/2022/22L161FS.PDF
 - 2022-05-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L161AXS.PDF
 - 2022-05-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L161LP.PDF
+- 2022-06-10: Document (AL): [al-c6932d60.md](al-c6932d60.md); official file https://www.senat.ro/legis/PDF/2022/22L161AL.PDF (its day is not given by the bill file: shown from the last stage held)
