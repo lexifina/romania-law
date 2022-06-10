@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-05-18: adopted by the Chamber of Deputies
 - 2022-05-25: sent for promulgation
 - 2022-06-09: promulgated, becomes Legea nr. 176/2022
+- 2022-06-10: published in the Monitorul Oficial
 
 ## Documents
 
