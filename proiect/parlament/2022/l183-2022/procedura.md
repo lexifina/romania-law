@@ -26,6 +26,7 @@ Initiator: Guvernul României.
 - 2022-05-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-25: sent for promulgation
 - 2022-06-09: promulgated, becomes Legea nr. 179/2022
+- 2022-06-14: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -51,3 +52,7 @@ Initiator: Guvernul României.
 - 2022-05-18: Forma adoptată de Senat (FS): [fs-ba581757.md](fs-ba581757.md); official file https://www.senat.ro/legis/PDF/2022/22L183FS.PDF
 - 2022-05-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L183AXS.PDF
 - 2022-05-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L183LP.PDF
+- 2022-06-14: Document (TA): [ta-f0816d51.md](ta-f0816d51.md); official file https://www.senat.ro/legis/PDF/2022/22L183TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-14: Document (AT): [at-b306e9ae.md](at-b306e9ae.md); official file https://www.senat.ro/legis/PDF/2022/22L183AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-14: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L183S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-14: Document (AL): [al-418b1193.md](al-418b1193.md); official file https://www.senat.ro/legis/PDF/2022/22L183AL.PDF (its day is not given by the bill file: shown from the last stage held)
