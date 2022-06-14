@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-03-24: documents published: Aviz comisie
 - 2022-05-25: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-27: sent for promulgation
+- 2022-06-14: promulgated, becomes Legea nr. 181/2022
 
 ## Documents
 
