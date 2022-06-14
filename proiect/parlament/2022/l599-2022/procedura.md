@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-06-09: first record in the bill file
+- 2022-06-14: registered at the Senate
 
 ## Documents
 
