@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-05-20: registered at the Senate
+- 2022-06-15: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2022-06-15: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L422CA3.PDF
