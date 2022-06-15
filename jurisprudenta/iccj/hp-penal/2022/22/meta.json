@@ -1,0 +1,303 @@
+{
+ "key": "iccj-hp-penal-22-2022",
+ "label": "Decizia ÎCCJ nr. 22/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "22",
+ "date": "2022-05-04",
+ "year": "2022",
+ "heading": "DECIZIA nr. 22 din 4 mai 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 338 alin. (2) din Codul pena l",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "580",
+  "bis": false,
+  "date": "2022-06-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "241/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a II-a penală, în Dosarul nr. 4.091/229/2018 (1.518/2021), prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea și aplicarea prevederilor art. 338 alin. (2) din Codul pena l, fapta oricărei persoane de a modifica starea locului are în vedere și schimbarea poziției vehiculului implicat într-un accident de circulație, sintagmă prevăzută distinct de art. 77 alin. (3) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice“ și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 338 alin. (2) din Codul pena l privind infracțiunea de părăsire a locului accidentului ori modificarea sau ștergerea urmelor acestuia, „fapta oricărei persoane de a modifica starea locului are în vedere și schimbarea poziției vehiculului implicat într-un accident de circulație“.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "404",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "338",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "383",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/2006",
+    "number": "49",
+    "year": "2006",
+    "path": "lege/2006/49"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256426",
+  "text_sha256": "b03e66a5509504679582d09bb110909590e9e06d2152cc55faa6a84a568343da",
+  "catalogue_sha256": "b03e66a5509504679582d09bb110909590e9e06d2152cc55faa6a84a568343da",
+  "fetched": "2026-11-03T22:21:02Z",
+  "chars": 71656,
+  "portal_id": "256426",
+  "tip": "DECIZIE"
+ }
+}
