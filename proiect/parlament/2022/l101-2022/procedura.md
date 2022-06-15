@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-05-25: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-27: sent for promulgation
 - 2022-06-14: promulgated, becomes Legea nr. 181/2022
+- 2022-06-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2022-03-24: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L101CA16.PDF
 - 2022-05-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L101AXS.PDF
 - 2022-05-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L101LP.PDF
+- 2022-06-15: Document (TA): [ta-a24d3081.md](ta-a24d3081.md); official file https://www.senat.ro/legis/PDF/2022/22L101TA.PDF (its day is not given by the bill file: shown from the last stage held)
