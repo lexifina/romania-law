@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a societății FONDUL DE GARANTARE A CAPACITĂȚII FINANCIARE IFN - S.A., cu sediul în Ploiești, str. Duca Vodă nr. 23, județul Prahova, înmatriculată la oficiul registrului comerțului cu nr. J29/1480/2017, având codul unic de înregistrare 37786510, înscrisă în Registrul general cu nr. RG-PJR-30-110357/11.11.2020 și în Registrul special cu nr. RS-PJR-30-110137/17.02.2022, la secțiunea k) - "Activități multiple de creditare".
+333 715
