@@ -1,0 +1,230 @@
+{
+ "key": "iccj-hp-penal-21-2022",
+ "label": "Decizia ÎCCJ nr. 21/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "21",
+ "date": "2022-05-04",
+ "year": "2022",
+ "heading": "DECIZIA nr. 21 din 4 mai 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 469 alin. (5) și alin. (7) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "592",
+  "bis": false,
+  "date": "2022-06-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "240/1/2022",
+  "7.717/180/2021",
+  "9.776/180/2017",
+  "1.128/180/2018",
+  "17.329/180/2019",
+  "1.332/110/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "469",
+     "alin": [
+      "5",
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bacău, Secția penală, în Dosarul nr. 7.717/180/2021, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: În interpretarea și aplicarea art. 469 alin. (5) ș i alin. (7) din Codul de procedură penală admiterea căii de atac exercitate împotriva încheierii prin care s-a admis cererea de redeschidere a procesului penal, desființarea acestei încheieri are ca efect redobândirea autorității de lucru judecat și caracterul executoriu al hotărârii în raport cu care s-a cerut redeschiderea procesului penal.",
+  "În caz afirmativ, este necesară emiterea unor noi forme de executare.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "469",
+     "alin": [
+      "5",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "583",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2",
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "550",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "327",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 86/2006",
+    "number": "86",
+    "year": "2006",
+    "path": "lege/2006/86"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256499",
+  "text_sha256": "59796b8efecc7941248cbb44ab03e71ef953e5d4d17cebe8efa97b9b3ecf2cfd",
+  "catalogue_sha256": "59796b8efecc7941248cbb44ab03e71ef953e5d4d17cebe8efa97b9b3ecf2cfd",
+  "fetched": "2026-11-03T01:32:28Z",
+  "chars": 55056,
+  "portal_id": "256499",
+  "tip": "DECIZIE"
+ }
+}
