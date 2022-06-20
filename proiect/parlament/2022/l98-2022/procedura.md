@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-23: registered at the Senate
 - 2022-04-20: registered at the Senate
 - 2022-06-07: registered at the Chamber of Deputies
+- 2022-06-20: legislative procedure ended
 
 ## Documents
 
