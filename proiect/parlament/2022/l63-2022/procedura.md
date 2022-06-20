@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-25: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-30: sent for promulgation
 - 2022-06-17: promulgated, becomes Legea nr. 182/2022
+- 2022-06-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-14: Adresă către Camera Deputaților (AM): [am-aee7a070.md](am-aee7a070.md); official file https://www.senat.ro/legis/PDF/2022/22L063AM.PDF
 - 2022-05-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L063AXS.PDF
 - 2022-05-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L063LP.PDF
+- 2022-06-20: Document (CC): [cc-08f7da7d.md](cc-08f7da7d.md); official file https://www.senat.ro/legis/PDF/2022/22L063CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-06-20: Document (BNR): [bnr-c50e655d.md](bnr-c50e655d.md); official file https://www.senat.ro/legis/PDF/2022/22L063BNR.PDF (its day is not given by the bill file: shown from the last stage held)
