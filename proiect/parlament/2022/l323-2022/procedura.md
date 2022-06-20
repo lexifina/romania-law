@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2022-05-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-06-09: documents published: Raport comisie sesizată pe fond
 - 2022-06-14: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2022-06-20: registered at the Chamber of Deputies
 
 ## Documents
 
