@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-26: documents published: Aviz comisie
 - 2022-05-31: documents published: Aviz comisie
 - 2022-06-15: rejected by the Chamber of Deputies; rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2022-06-20: registered at the Chamber of Deputies
 
 ## Documents
 
