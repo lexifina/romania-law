@@ -1,0 +1,221 @@
+{
+ "key": "dcc-67-2022",
+ "label": "Decizia CCR nr. 67/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "67",
+ "date": "2022-02-24",
+ "year": "2022",
+ "heading": "DECIZIA nr. 67 din 24 februarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II alin. (1) din Ordonanța de urgență a Guvernului nr. 86/2018 pentru modificarea și completarea Legii nr. 3/2000 privind organizarea și desfășurarea referendumului, precum și pentru unele măsuri pentru buna organizare și desfășurare a referendumului național pentru revizuirea Constituției",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "607",
+  "bis": false,
+  "date": "2022-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "575/42/2018",
+  "1.574D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 86/2018",
+    "number": "86",
+    "year": "2018",
+    "path": "oug/2018/86"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Emil Moise și Asociația pentru Libertatea de Conștiință din Buzău în Dosarul nr. 575/42/2018 al Curții de Apel Ploiești - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. II alin. (1) din Ordonanța de urgență a Guvernului nr. 86/2018 pentru modificarea și completarea Legii nr. 3/2000 privind organizarea și desfășurarea referendumului, precum și pentru unele măsuri pentru buna organizare și desfășurare a referendumului național pentru revizuirea Constituției sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 86/2018",
+    "number": "86",
+    "year": "2018",
+    "path": "oug/2018/86"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/2000",
+    "number": "3",
+    "year": "2000",
+    "path": "lege/2000/3"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "oug/2003/92"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2013",
+    "number": "341",
+    "year": "2013",
+    "path": "lege/2013/341"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256599",
+  "text_sha256": "cd290ea27fd6244df0b20642675d3c3939ef59d36b5fb6622dc11aeca6b60228",
+  "catalogue_sha256": "cd290ea27fd6244df0b20642675d3c3939ef59d36b5fb6622dc11aeca6b60228",
+  "fetched": "2026-11-03T01:32:19Z",
+  "chars": 19776,
+  "portal_id": "256599",
+  "tip": "DECIZIE"
+ }
+}
