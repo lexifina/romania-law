@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-06-20: registered at the Chamber of Deputies; documents published: Raport comisie sesizată pe fond
+- 2022-06-21: adopted by the Chamber of Deputies
 
 ## Documents
 
