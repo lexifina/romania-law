@@ -1,0 +1,269 @@
+{
+ "key": "dcc-74-2022",
+ "label": "Decizia CCR nr. 74/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "74",
+ "date": "2022-03-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 74 din 3 martie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2022-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.826/291/2018",
+  "517D/2020",
+  "2.483D/2020",
+  "1.779/313/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Constantin Bodea în Dosarul nr. 4.826/291/2018 al Tribunalului Neamț - Secția I civilă și de contencios administrativ și de Nelu Osiceanu în Dosarul nr. 1.779/313/2020 al Judecătoriei Strehaia și constată că dispozițiile art. 102 alin. (3) lit. e) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția I civilă și de contencios administrativ și Judecătoriei Strehaia și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "og/2002/195"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "118",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256590",
+  "text_sha256": "c6eddc62889720cd6df575714b9181811e27657abde8dda0de77cee1787768c0",
+  "catalogue_sha256": "c6eddc62889720cd6df575714b9181811e27657abde8dda0de77cee1787768c0",
+  "fetched": "2026-11-06T03:03:20Z",
+  "chars": 22455,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256590",
+   "timestamp": "20221001113010",
+   "crawl": "CC-MAIN-2022-40",
+   "filename": "crawl-data/CC-MAIN-2022-40/segments/1664030335609.53/warc/CC-MAIN-20221001101652-20221001131652-00458.warc.gz",
+   "offset": "410189546",
+   "length": "24724",
+   "sha256": "8cbd31576c417c688938f3dd4ec1624445dfcdfa866be4a20a35f006d24f2877"
+  },
+  "portal_id": "256590",
+  "tip": "DECIZIE"
+ }
+}
