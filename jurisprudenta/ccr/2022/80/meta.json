@@ -1,0 +1,409 @@
+{
+ "key": "dcc-80-2022",
+ "label": "Decizia CCR nr. 80/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "80",
+ "date": "2022-03-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 80 din 3 martie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, în ansamblul său, și a dispozițiilor art. 4 alin. (1) și (2), ale art. 6 lit. c) și ale art. 9 alin. (4) din Legea nr. 55/2020, precum și ale art. I pct. 1 din Ordonanța de urgență a Guvernului nr. 192/2020 pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, precum și pentru modificarea lit. a) a art. 7 din Legea nr. 81/2018 privind reglementarea activității de telemuncă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "608",
+  "bis": false,
+  "date": "2022-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.425/337/2021",
+  "3.771D/2021",
+  "3.938D/2021",
+  "2.619/301/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 192/2020",
+    "number": "192",
+    "year": "2020",
+    "path": "oug/2020/192"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2018",
+    "number": "81",
+    "year": "2018",
+    "path": "lege/2018/81"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ernő Kovács în Dosarul nr. 1.425/337/2021 al Judecătoriei Zalău - Secția civilă și de Eduard Cristian Irimia în Dosarul nr. 2.619/301/2021 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, în ansamblul său, și dispozițiile art. 4 alin. (1) și (2) și ale art. 6 lit. c) din Legea nr. 55/2020 sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 9 alin. (4) din Legea nr. 55/2020, excepție ridicată de Eduard Cristian Irimia în Dosarul nr. 2.619/301/2021 al Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "3. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. I pct. 1 din Ordonanța de urgență a Guvernului nr. 192/2020 pentru modificarea și completarea Legii nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, precum și pentru modificarea lit. a) a art. 7 din Legea nr. 81/2018 privind reglementarea activității de telemuncă, excepție ridicată de Ernő Kovács în Dosarul nr. 1.425/337/2021 al Judecătoriei Zalău - Secția civilă și de Eduard Cristian Irimia în Dosarul nr. 2.619/301/2021 al Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Zalău - Secția civilă și Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 192/2020",
+    "number": "192",
+    "year": "2020",
+    "path": "oug/2020/192"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2018",
+    "number": "81",
+    "year": "2018",
+    "path": "lege/2018/81"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "9",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4",
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 68/2020",
+    "number": "68",
+    "year": "2020",
+    "path": "oug/2020/68"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2004",
+    "number": "21",
+    "year": "2004",
+    "path": "oug/2004/21"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256615",
+  "text_sha256": "4d142914d168dfa79d3e7001f59ef6f09f6637aeb44e3e0ad1275f6d948bcdf8",
+  "catalogue_sha256": "4d142914d168dfa79d3e7001f59ef6f09f6637aeb44e3e0ad1275f6d948bcdf8",
+  "fetched": "2026-11-03T01:32:20Z",
+  "chars": 46845,
+  "portal_id": "256615",
+  "tip": "DECIZIE"
+ }
+}
