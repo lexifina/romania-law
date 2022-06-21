@@ -1,0 +1,191 @@
+{
+ "key": "dcc-68-2022",
+ "label": "Decizia CCR nr. 68/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "68",
+ "date": "2022-02-24",
+ "year": "2022",
+ "heading": "DECIZIA nr. 68 din 24 februarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (2) teza a doua din Legea cadastrului și a publicității imobiliare nr. 7/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2022-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "9.384/245/2018",
+  "1.677D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Corneliu Marian Gheorghiță în Dosarul nr. 9.384/245/2018 al Judecătoriei Iași - Secția civilă și constată că dispozițiile art. 31 alin. (2) teza a doua din Legea cadastrului și a publicității imobiliare nr. 7/1996 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 700/2014",
+    "number": "700",
+    "year": "2014"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256588",
+  "text_sha256": "067dbaa34d1928155d0960ba8c6f3e00c09d1db8cd215e79e52de4e313f47dd0",
+  "catalogue_sha256": "067dbaa34d1928155d0960ba8c6f3e00c09d1db8cd215e79e52de4e313f47dd0",
+  "fetched": "2026-11-06T01:41:55Z",
+  "chars": 11856,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256588",
+   "timestamp": "20221001110900",
+   "crawl": "CC-MAIN-2022-40",
+   "filename": "crawl-data/CC-MAIN-2022-40/segments/1664030335609.53/warc/CC-MAIN-20221001101652-20221001131652-00435.warc.gz",
+   "offset": "399511732",
+   "length": "16341",
+   "sha256": "460e5a409ad9ea3665380554009703c136753fd3a1d5dd9bf453ec74df58d512"
+  },
+  "portal_id": "256588",
+  "tip": "DECIZIE"
+ }
+}
