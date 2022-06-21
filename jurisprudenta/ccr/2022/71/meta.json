@@ -1,0 +1,162 @@
+{
+ "key": "dcc-71-2022",
+ "label": "Decizia CCR nr. 71/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "71",
+ "date": "2022-02-24",
+ "year": "2022",
+ "heading": "DECIZIA nr. 71 din 24 februarie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 451 alin. (2) teza întâi din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "606",
+  "bis": false,
+  "date": "2022-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.023/280/2017",
+  "90D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Funny Tourism - S.R.L. din comuna Budeasa, județul Argeș, în Dosarul nr. 2.023/280/2017 al Tribunalului Argeș - Secția civilă și constată că dispozițiile art. 451 alin. (2) teza întâi din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Argeș - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256589",
+  "text_sha256": "715510853db17e079f0ab74bf2de617c1912ab4a1f70acf46cf4e27e2fb892bb",
+  "catalogue_sha256": "715510853db17e079f0ab74bf2de617c1912ab4a1f70acf46cf4e27e2fb892bb",
+  "fetched": "2026-11-06T02:17:39Z",
+  "chars": 10223,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256589",
+   "timestamp": "20221001111012",
+   "crawl": "CC-MAIN-2022-40",
+   "filename": "crawl-data/CC-MAIN-2022-40/segments/1664030335609.53/warc/CC-MAIN-20221001101652-20221001131652-00436.warc.gz",
+   "offset": "385908434",
+   "length": "16101",
+   "sha256": "b8a377b323f3e70c33708481b7cf9f0ab7d6e66bee76e63104a3abfff063bd6e"
+  },
+  "portal_id": "256589",
+  "tip": "DECIZIE"
+ }
+}
