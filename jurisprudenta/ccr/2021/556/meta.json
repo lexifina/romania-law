@@ -1,0 +1,215 @@
+{
+ "key": "dcc-556-2021",
+ "label": "Decizia CCR nr. 556/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "556",
+ "date": "2021-09-14",
+ "year": "2021",
+ "heading": "DECIZIA nr. 556 din 14 septembrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. 46 alin. (12) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor și ale art. II alin. (1) din Ordonanța Guvernului nr. 7/2010 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "613",
+  "bis": false,
+  "date": "2022-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.293/238/2017",
+  "2.038D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 7/2010",
+    "number": "7",
+    "year": "2010",
+    "path": "og/2010/7"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Tractor Point - S.R.L. (fostă Trading Trust - S.R.L.) în Dosarul nr. 1.293/238/2017 al Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale și constată că prevederile art. 46 alin. (12) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor și cele ale art. II alin. (1) din Ordonanța Guvernului nr. 7/2010 pentru modificarea și completarea Ordonanței Guvernului nr. 43/1997 privind regimul drumurilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Arad - Secția a III-a de contencios administrativ și fiscal, litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 43/1997",
+    "number": "43",
+    "year": "1997",
+    "path": "og/1997/43"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "12",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 7/2010",
+    "number": "7",
+    "year": "2010",
+    "path": "og/2010/7"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 198/2015",
+    "number": "198",
+    "year": "2015",
+    "path": "lege/2015/198"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256666",
+  "text_sha256": "0237c8f2761a3cb93fcd08fdf8cc305ad41dcf01cb3784dc5f7ed05b44f8939b",
+  "catalogue_sha256": "0237c8f2761a3cb93fcd08fdf8cc305ad41dcf01cb3784dc5f7ed05b44f8939b",
+  "fetched": "2026-11-03T17:03:59Z",
+  "chars": 18817,
+  "portal_id": "256666",
+  "tip": "DECIZIE"
+ }
+}
