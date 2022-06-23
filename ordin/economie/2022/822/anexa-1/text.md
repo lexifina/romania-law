@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de instituire a supravegherii și a criteriilor privind stabilirea impactului economic semnificativ pentru persoanele juridice deținute sau aflate sub controlul unei persoane sau entități desemnate ale căror fonduri și/sau resurse economice sunt blocate pentru instituirea provizorie a unui sistem de supraveghere care să asigure respectarea de către persoana juridică a sancțiunilor internaționale
