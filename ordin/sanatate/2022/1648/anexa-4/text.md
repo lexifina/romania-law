@@ -1,0 +1,5 @@
+# Anexa nr. 4
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul/Subsemnata,..................................................., cetățean român/alta decât cetățenia română..........................., fiul/fiica lui............................ și al/a........................, născut/născută la data de.......................... în..................................., CNP................................, reprezentant legal al minorului/pacientului lipsit de discernământ........................................................., CNP..........................................*, respectiv, născut la data...................(Se va completa în cazul pacientului care nu are CNP.)........................., cunoscând prevederile art. 326 din Codul penal cu privire la falsul în declarații, declar prin prezenta, pe propria răspundere, că nu am beneficiat de prescripție medicală privind administrarea medicamentului iodură de potasiu de 65 mg comprimate.
+* Se va completa dacă este cazul.
+Data, semnătura......................................
