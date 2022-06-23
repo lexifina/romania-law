@@ -1,0 +1,373 @@
+{
+ "key": "dcc-294-2022",
+ "label": "Decizia CCR nr. 294/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "294",
+ "date": "2022-05-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 294 din 17 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 21 alin. (1) și (2) din Ordonanța Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor, ale art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 14 alin. (1) și (5) și ale art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "616",
+  "bis": false,
+  "date": "2022-06-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "778D/2020",
+  "14.664/3/2019",
+  "39.309/3/2018",
+  "31.116/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "1. Admite excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele unor membri ai săi, în dosarele nr. 14.664/3/2019 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, nr. 39.309/3/2018, nr. 2.545/115/2019, nr. 2.550/115/2019, nr. 2.567/115/2019, nr. 2.460/115/2019, nr. 2.467/115/2019, nr. 2.478/115/2019 și nr. 2.520/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 31.116/3/2019 și nr. 14.672/3/2019 ale Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, nr. 2.551/63/2020 și nr. 2.606/63/2020 ale Tribunalului Dolj - Secția contencios administrativ și fiscal, nr. 2.719/97/2019 și nr. 21.094/3/2019 ale Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 17.092/3/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, nr. 36.564/3/2019 al Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 1.797/99/2020 al Tribunalului Iași - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 6.434/118/2019 al Tribunalului Ialomița - Secția civilă, nr. 14.657/3/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal, nr. 3.139/120/2019 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și nr. 15.251/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că dispozițiile art. 14 alin. (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt neconstituționale.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele unor membri ai săi, în dosarele nr. 14.664/3/2019 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, nr. 2.545/115/2019, nr. 2.550/115/2019, nr. 2.567/115/2019, nr. 2.460/115/2019, nr. 2.467/115/2019, nr. 2.478/115/2019 și nr. 2.520/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 31.116/3/2019 și nr. 14.672/3/2019 ale Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, nr. 2.551/63/2020 și nr. 2.606/63/2020 ale Tribunalului Dolj - Secția contencios administrativ și fiscal, nr. 2.719/97/2019 și nr. 21.094/3/2019 ale Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 17.092/3/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, nr. 36.564/3/2019 al Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 1.797/99/2020 al Tribunalului Iași - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 6.434/118/2019 al Tribunalului Ialomița - Secția civilă, nr. 14.657/3/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal, nr. 3.139/120/2019 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și nr. 15.251/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că dispozițiile art. 14 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "3. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 21 alin. (1) și (2) din Ordonanța Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele unor membri ai săi, în Dosarul nr. 14.664/3/2019 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, nr. 39.309/3/2018, nr. 2.545/115/2019, nr. 2.550/115/2019 și nr. 2.567/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 31.116/3/2019 al Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, nr. 2.551/63/2020 și nr. 2.606/63/2020 ale Tribunalului Dolj - Secția contencios administrativ și fiscal, nr. 2.719/97/2019 și nr. 21.094/3/2019 ale Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 17.092/3/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, nr. 1.797/99/2020 al Tribunalului Iași - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 6.434/118/2019 al Tribunalului Ialomița - Secția civilă, nr. 14.657/3/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal, nr. 3.139/120/2019 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și nr. 15.251/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, a dispozițiilor art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele membrilor Sorin Petrișor și Cezar Iulius Coman, în Dosarul nr. 14.657/3/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal, precum și a dispozițiilor art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, în numele unor membri ai săi, în dosarele nr. 14.664/3/2019 al Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, nr. 2.460/115/2019, nr. 2.467/115/2019, nr. 2.478/115/2019 și nr. 2.520/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 31.116/3/2019 și nr. 14.672/3/2019 ale Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, nr. 2.551/63/2020 și nr. 2.606/63/2020 ale Tribunalului Dolj - Secția contencios administrativ și fiscal, nr. 2.719/97/2019 și nr. 21.094/3/2019 ale Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 17.092/3/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, nr. 36.564/3/2019 al Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 1.797/99/2020 al Tribunalului Iași - Secția a II-a civilă, de contencios administrativ și fiscal, nr. 14.657/3/2019 al Tribunalului Galați - Secția contencios administrativ și fiscal, nr. 3.139/120/2019 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și nr. 15.251/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președinților celor două Camere ale Parlamentului, Guvernului și Tribunalului Alba - Secția a II-a civilă, de contencios administrativ, fiscal și de insolvență, Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Bihor - Secția a III-a contencios administrativ și fiscal, Tribunalului Dolj - Secția contencios administrativ și fiscal, Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel București - Secția a IX-a contencios administrativ și fiscal, Tribunalului Satu Mare - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Iași - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Ialomița - Secția civilă, Tribunalului Galați - Secția contencios administrativ și fiscal, Curții de Apel Ploiești - Secția de contencios administrativ și fiscal și Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 53/2018",
+    "number": "53",
+    "year": "2018",
+    "path": "oug/2018/53"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 104/2001",
+    "number": "104",
+    "year": "2001",
+    "path": "oug/2001/104"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "oug/2003/38"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2004",
+    "number": "8",
+    "year": "2004",
+    "path": "og/2004/8"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256677",
+  "text_sha256": "606843b6a106a5a4c886a306724a69fc5a3b7d2be356bb242d7ee553cef674a8",
+  "catalogue_sha256": "606843b6a106a5a4c886a306724a69fc5a3b7d2be356bb242d7ee553cef674a8",
+  "fetched": "2026-11-03T01:32:16Z",
+  "chars": 71265,
+  "portal_id": "256677",
+  "tip": "DECIZIE"
+ }
+}
