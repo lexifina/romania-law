@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-06-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-16: sent for promulgation
 - 2022-06-22: promulgated, becomes Legea nr. 188/2022
+- 2022-06-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2022-04-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L153AM.PDF
 - 2022-06-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L153AXS.PDF
 - 2022-06-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L153LP.PDF
+- 2022-06-23: Document (TA): [ta-b91195a4.md](ta-b91195a4.md); official file https://www.senat.ro/legis/PDF/2022/22L153TA.PDF (its day is not given by the bill file: shown from the last stage held)
