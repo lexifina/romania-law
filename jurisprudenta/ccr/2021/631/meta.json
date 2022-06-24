@@ -1,0 +1,262 @@
+{
+ "key": "dcc-631-2021",
+ "label": "Decizia CCR nr. 631/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "631",
+ "date": "2021-10-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 631 din 7 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 17 alin. (2) și ale art. 22 din capitolul VIII din anexa nr. V \"Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională\" la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 25 alin. (1) și ale art. 38 alin. (6) din aceeași lege-cadru",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "619",
+  "bis": false,
+  "date": "2022-06-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.249/2/2019",
+  "3.347D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valentin Rusu, Valeriu Păcuraru, Marlena Carmen Antonescu, Silvia Dana Nicolae, Florin Cristinel Fuică și Laurențiu Scântei în Dosarul nr. 2.249/2/2019 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal - Veche și constată că dispozițiile art. 17 alin. (2) și ale art. 22 din capitolul VIII din anexa nr. V „Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională“ la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 25 alin. (1) și ale art. 38 alin. (6) din aceeași lege-cadru sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal - Veche și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 adițional la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256712",
+  "text_sha256": "1c0fc4927ac637bc817ae1b2ea1196cf56ee1e3632033ece73e5223d4479f996",
+  "catalogue_sha256": "1c0fc4927ac637bc817ae1b2ea1196cf56ee1e3632033ece73e5223d4479f996",
+  "fetched": "2026-11-06T00:36:44Z",
+  "chars": 24218,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20220624190150/https://legislatie.just.ro/Public/DetaliiDocument/256712",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/256712",
+   "timestamp": "20220624190150",
+   "sha256": "d249db7c4e0f45c693f293838e64ea3780adc85a1323b1c3126ba4ee5b16f28e"
+  },
+  "portal_id": "256712",
+  "tip": "DECIZIE"
+ }
+}
