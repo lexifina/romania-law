@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-05-30: registered at the Chamber of Deputies
+- 2022-06-27: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
-- none held as text
+- 2022-06-27: Document (OG): [og-2aa544aa.md](og-2aa544aa.md); official file https://www.senat.ro/legis/PDF/2022/22L452OG.PDF
