@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-18: sent for promulgation
 - 2022-03-23: returned for re-examination
 - 2022-04-13: registered at the Chamber of Deputies
+- 2022-06-27: rejected by the Senate
 
 ## Documents
 
