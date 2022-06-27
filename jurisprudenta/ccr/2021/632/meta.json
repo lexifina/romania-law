@@ -1,0 +1,193 @@
+{
+ "key": "dcc-632-2021",
+ "label": "Decizia CCR nr. 632/2021",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "632",
+ "date": "2021-10-07",
+ "year": "2021",
+ "heading": "DECIZIA nr. 632 din 7 octombrie 2021",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "631",
+  "bis": false,
+  "date": "2022-06-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.519/3/2019",
+  "3.354D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sectorul 4 al Municipiului București, prin primar Daniel Băluță, în Dosarul nr. 7.519/3/2019 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. 11 alin. (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "b",
+      "c"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256772",
+  "text_sha256": "c00737ff1702539d3e17c51a39594bff0e3262701b050265cb2fc081ab5ecb78",
+  "catalogue_sha256": "c00737ff1702539d3e17c51a39594bff0e3262701b050265cb2fc081ab5ecb78",
+  "fetched": "2026-11-06T03:15:21Z",
+  "chars": 19016,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20250406065333/https://legislatie.just.ro/Public/DetaliiDocumentAfis/256772",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/256772",
+   "timestamp": "20250406065333",
+   "sha256": "1e769b138baea3a91c5de0c138291c4c294c9c8ef1e5326f08db40bf4fa0544a"
+  },
+  "portal_id": "256772",
+  "tip": "DECIZIE"
+ }
+}
