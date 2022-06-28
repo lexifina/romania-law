@@ -1,0 +1,17 @@
+# Propunere legislativă L558/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.11 din Legea nr.752/2001 privind organizarea și funcționarea Academiei Române
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-06-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-06-28: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L558AD.PDF
+- 2022-06-28: Forma inițiatorului (FG): [fg-22ca3e59.md](fg-22ca3e59.md); official file https://www.senat.ro/legis/PDF/2022/22L558FG.PDF
+- 2022-06-28: Expunere de motive (EM): [em-198ed8c0.md](em-198ed8c0.md); official file https://www.senat.ro/legis/PDF/2022/22L558EM.PDF
