@@ -1,0 +1,99 @@
+PARLAMENTUL ROMÂNIEI
+SENATUL
+CAMERA DEPUTAȚILOR
+LEGE
+pentru modificarea și completarea Legii nr, 278/2013 privind emisiile
+industriale
+Parlamentul României adoptă prezenta lege.
+Art.I. - Legea nr. 278/2013 privind emisiile industriale, publicată în Monitorul
+Oficial al României, Partea I, nr. 671 din 1 noiembrie 2013, cu modificările și
+completările ulterioare, se modifică și se completează după cum urmează:
+1. Articolul 73 se modifică și va avea următorul cuprins:
+„(1) Următoarele fapte constituie contravenții și, prin derogare de la prevederile
+art. 8 alin. (2) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al
+contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu
+modificările și completările ulterioare, se sancționează cu amendă de la 50.000 lei și
+500.000 lei, după cum urmează:
+a) nerespectarea prevederilor art. 50 alin. (13), cu amendă de la 50.000 lei la
+80.000 lei;
+1
+
+b) nerespectarea prevederilor art. 50 alin. (12), art. 52 alin. (1), (2), (5) și (6) și
+art. 53 alin. (2) și (3), cu amendă de la 60.000 lei la 100.000 lei;
+c) nerespectarea prevederilor art. 21 alin. (2), art. 30 alin. (12), art. 31 alin. (2),
+art. 33 alin. (1) lit. a) și b), art. 37 alin. (3), art. 38 alin. (2) și (4), art. 48 alin. (1), (2) și
+(4), art. 50 alin. (6)-(8) și (10), art. 52 alin. (4), art. 59 alin. (10) și art. 62, cu amendă de
+la 70.000 lei la 120.000 lei;
+d) nerespectarea prevederilor art. 22 alin. (2) și (6)-(8), art. 50 alin. (1) și (3)-(5),
+art. 55 alin. (1), art. 59 alin. (1) și art. 63 alin. (4), cu amendă de la 80.000 lei la 150.000
+lei;
+e) nerespectarea prevederilor art. 4 alin. (1), art. 8 alin. (1), (2) și (4), art. 11 lit.
+a)-c), g) și h), art. 20 alin. (1) și (3), art. 23 alin. (2), art. 33 alin-. (1) lit. d), art. 34 alin.
+(3), art. 37 alin. (4), art. 40 alin. (2) lit. a), art. 46 alin. (2)-(4) și (8)-(12), art. 47, 49,
+art. 51 alin. (3) și (4), art. 59 alin. (8), art. 66, 67 și art. 68 alin. (2), cu amendă de la
+150.000 lei la 500.000 lei.
+(2) Prin derogare de la prevederile art. 7 alin. (3) din Ordonanța Guvernului nr.
+2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și
+completările ulterioare, avertismentul ca sancțiune contravențională principală nu se
+aplică în cazul contravențiilor prevăzute la alin. (1).
+(3) Pentru nerespectarea prevederilor art. 4 alin. (1), se aplică și sancțiunea
+complementară de suspendare a activității operatorului economic, până la data
+conformării.
+(4) Constatarea contravențiilor și aplicarea sancțiunilor prevăzute la alin. (1) și (3)
+se realizează de către comisarii și persoanele împuternicite din cadrul Gărzii Naționale
+de Mediu.
+(5) Prin derogare de la prevederile art. 13 alin. (1) din Ordonanța Guvernului nr.
+2/2001, aprobată cu modificări și completări prin Legea nr. 180/20Q2|^n^^^dificările
+2
+
+și completările ulterioare, termenul de prescripție a aplicării sancțiunilor pentru
+contravențiile prevăzute la alin, (1) este de 3 ani de la data săvârșirii faptei.
+(6) Prin derogare de la prevederile art. 14 alin. (1) din Ordonanța Guvernului nr.
+2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările
+și completările ulterioare, executarea sancțiunilor aplicate pentru contravențiile
+prevăzute la alin. (1) se prescrie în termen de 3 ani de la data aplicării.
+(7) Prin derogare de la dispozițiile art. 32 alin.(l) din Ordonanța Guvernului nr.
+2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările
+și completările ulterioare, plângerea împotriva procesului-verbal de constatare și
+sancționare a contravențiilor emis de comisarii și persoanele împuternicite din cadrul
+Gărzii Naționale de Mediu, se depune la instanța competentă în a cărei circumscripție a
+fost săvârșită fapta, în termen de 15 zile de Ia comunicarea procesului verbal de
+constatare și sancționare a contravențiilor.
+(8) Prin derogare de la dispozițiile art. 32 alin.(3) din Ordonanța Guvernului nr.
+2/2001, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările
+și completările ulterioare, plângerea împotriva procesului-verbal de constatare și
+sancționare a contravențiilor, emis de comisarii și persoanele împuternicite din cadrul
+Gărzii Naționale de Mediu, nu suspendă executarea sancțiunilor prevăzute la alin. (1)
+și (3).
+(9) Pentru situațiile prevăzute la alin. (7) instanțele au obligația de a soluționa
+plângerea împotriva procesului-verbal de constatare și sancționare în termen de 1 an de
+la înregistrarea acesteia la respectiva instanță de judecată.
+(10) în măsura în care prezenta lege nu dispune altfel, contravențiilor prevăzute
+la alin.(l) le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind
+regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr.
+180/2002, cu modificările și completările ulterioare, cu excepția art. 28s^iin?QJ și art.
+29.”
+3
+
+2. După articolul 73 se introduc trei noi articole, art. 73^ - 73^ cu următorul
+cuprins:
+„Art.73*. - Constituie infracțiune și se pedepsește cu închisoare de la 6 luni la 3
+ani sau cu amendă, operarea oricărei instalații sau instalații de ardere, instalații de
+incinerare a deșeurilor sau instalații de coincinerare a deșeurilor cu încălcarea
+prevederilor art. 4 alin. (1), dacă aceasta a fost de natură să pună în pericol viața sau
+sănătatea umană, animală sau vegetală, ori continuarea activității după ce s-a dispus
+aplicarea sancțiunii contravenționale complementare de suspendare a activității.
+Art,73^. - Constituie infracțiune și se pedepsește cu închisoare de la 3 luni la 1
+an sau cu amendă, dacă a fost de natură să pună în pericol viața sau sănătatea umană,
+animală sau vegetală, operarea după aducerea de modificări substanțiale în sensul art.
+3 lit. i) a oricărei instalații sau instalații de ardere, instalații de incinerare a deșeurilor
+sau instalații de coincinerare a deșeurilor, fără a deține autorizație integrată de
+mediu/autorizație de mediu care să includă și condiții de funcționare corespunzătoare
+respectivelor modificări.
+Art.73^. - Prin derogare de la dispozițiile art. 137 alin. (2) din Legea nr.
+286/2009 privind Codul penal, cu modificările și completările ulterioare, în cazul
+infracțiunilor prevăzute la art. 73' și 73^, suma corespunzătoare unei zile-amendă
+pentru persoana juridică este cuprinsă între 1000 lei și 25.000 lei.”
+Art.II. - Dispozițiile art. I pct. 1 intră în vigoare la 10 zile de la data publicării
+prezentei legi în Monitorul Oficial al României, Partea I.
+4
