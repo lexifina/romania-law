@@ -1,0 +1,290 @@
+{
+ "key": "dcc-153-2022",
+ "label": "Decizia CCR nr. 153/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "153",
+ "date": "2022-03-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 153 din 17 martie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, a dispozițiilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma \"precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv\", precum și ale art. 518 și ale art. 521 alin. (3) și (4) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "638",
+  "bis": false,
+  "date": "2022-06-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "13.285/233/2016",
+  "20D/2019",
+  "132D/2019",
+  "171D/2019",
+  "8.907/196/2016",
+  "36D/2019",
+  "4.095/324/2015",
+  "37D/2019",
+  "15.307/233/2016",
+  "38D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 27 din Codul de procedură civilă, în interpretarea dată prin Decizia nr. 52 din 18 iunie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, excepție ridicată de Curtea de Apel Galați - Secția I civilă din oficiu, în dosarele nr. 13.285/233/2016, nr. 2.682/113/2015**, nr. 13.574/196/2016, nr. 335/838/2015*, nr. 18.240/233/2014*, nr. 11.981/233/2015*, nr. 12.416/233/2016, nr. 12.188/233/2016*, nr. 2.970/231/2017, nr. 6.787/231/2014*, nr. 4.322/324/2016, nr. 25.271/299/2016, nr. 8.907/196/2016*, nr. 4.095/324/2015, nr. 15.307/233/2016*, nr. 13.775/231/2015*, nr. 14.754/233/2016*, nr. 15.381/233/2016, nr. 3.754/324/2016, nr. 16.690/231/2016, nr. 20.434/233/2015, nr. 1.338/233/2016, nr. 14.584/231/2016, nr. 5.929/324/2016, nr. 1.848/231/2015*, nr. 10.875/231/2014*, de Curtea de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, din oficiu, în dosarele nr. 1.646/202/2017 și nr. 37.924/301/2015, de Banca Comercială Română - S.A. din București în Dosarele nr. 18.240/233/2014* și nr. 1.848/231/2015*, de Raiffeisen Bank - S.A. din București în Dosarul nr. 8.907/196/2016*, de Societatea Easy Credit 4 ALL IFN - S.A. din Constanța în Dosarul nr. 4.095/324/2015, de societățile Credit Europe Bank NV Olanda și Credit Europe Ipotecar I.F.N. - S.A. din București în Dosarul nr. 15.307/233/2016*, de Societatea Credit Europe Bank (România) - S.A. din București în Dosarele nr. 14.754/233/2016* și nr. 15.381/233/2016 ale Curții de Apel Galați - Secția I civilă și de petenții Monica Carmen Bordei și George Răzvan Bordei în Dosarul nr. 1.708/121/2016/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă, cu referire la sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“, precum și ale art. 518 și ale art. 521 alin. (3) și (4) din Codul de procedură civilă, excepție ridicată de Curtea de Apel Galați - Secția I civilă din oficiu, în dosarele nr. 13.285/233/2016, nr. 2.682/113/2015**, nr. 13.574/196/2016, nr. 335/838/2015*, nr. 18.240/233/2014*, nr. 11.981/233/2015*, nr. 12.416/233/2016, nr. 12.188/233/2016*, nr. 2.970/231/2017, nr. 6.787/231/2014*, nr. 4.322/324/2016, nr. 25.271/299/2016, nr. 8.907/196/2016*, nr. 4.095/324/2015, nr. 15.307/233/2016*, nr. 13.775/231/2015*, nr. 14.754/233/2016*, nr. 15.381/233/2016, nr. 3.754/324/2016, nr. 16.690/231/2016, nr. 20.434/233/2015, nr. 1.338/233/2016, nr. 14.584/231/2016, nr. 5.929/324/2016, nr. 1.848/231/2015*, nr. 10.875/231/2014* ale Curții de Apel Galați - Secția I civilă, de Societatea Easy Credit 4 ALL IFN - S.A. din Constanța în Dosarul nr. 4.095/324/2015, de societățile Credit Europe Bank NV Olanda și Credit Europe Ipotecar I.F.N. - S.A. din București în Dosarul nr. 15.307/233/2016* ale Curții de Apel Galați - Secția I civilă, de Curtea de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie din oficiu, în dosarele nr. 1.646/202/2017 și nr. 37.924/301/2015, de Societatea CDH Confort - S.A. din Comănești în Dosarul nr. 1.845/334/2015 al Curții de Apel Suceava - Secția I civilă și de petenții Monica Carmen Bordei și George Răzvan Bordei în Dosarul nr. 1.708/121/2016/a2 al Înaltei Curți de Casație și Justiție - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția I civilă, Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, Curții de Apel Suceava - Secția I civilă și Înaltei Curți de Casație și Justiție - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 51
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "518",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256831",
+  "text_sha256": "e417777c78c1c9b2e9dbb959dda74b5e5ee3d14f1b160c8de5acc741644a9e61",
+  "catalogue_sha256": "e417777c78c1c9b2e9dbb959dda74b5e5ee3d14f1b160c8de5acc741644a9e61",
+  "fetched": "2026-11-03T01:32:05Z",
+  "chars": 44167,
+  "portal_id": "256831",
+  "tip": "DECIZIE"
+ }
+}
