@@ -1,0 +1,193 @@
+{
+ "key": "iccj-hp-36-2022",
+ "label": "Decizia ÎCCJ nr. 36/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "36",
+ "date": "2022-06-06",
+ "year": "2022",
+ "heading": "DECIZIA nr. 36 din 6 iunie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 180 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "635",
+  "bis": false,
+  "date": "2022-06-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "585/1/2022",
+  "98/99/2020/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția civilă, în Dosarul nr. 98/99/2020/a1, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: În interpretarea și aplicarea dispozițiilor art. 180 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare, după închiderea procedurii de insolvență, mai poate fi soluționată o cerere întemeiată pe dispozițiile art. 169 din aceeași lege?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256799",
+  "text_sha256": "dbc078a841748c59a56a3cc3cbdaca3d5fdbc8003f0a6222f525fd7b3eb3653c",
+  "catalogue_sha256": "dbc078a841748c59a56a3cc3cbdaca3d5fdbc8003f0a6222f525fd7b3eb3653c",
+  "fetched": "2026-11-03T01:32:04Z",
+  "chars": 30616,
+  "portal_id": "256799",
+  "tip": "DECIZIE"
+ }
+}
