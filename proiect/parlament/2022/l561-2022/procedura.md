@@ -1,0 +1,17 @@
+# Propunere legislativă L561/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă privind stabilirea unor măsuri de organizare și de funcționare a piețelor volante în orașe, destinate comercializării produselor agricole și alimentare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-06-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-06-28: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L561AD.PDF
+- 2022-06-28: Forma inițiatorului (FG): [fg-6654379b.md](fg-6654379b.md); official file https://www.senat.ro/legis/PDF/2022/22L561FG.PDF
+- 2022-06-28: Expunere de motive (EM): [em-8bb94e61.md](em-8bb94e61.md); official file https://www.senat.ro/legis/PDF/2022/22L561EM.PDF
