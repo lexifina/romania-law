@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2021-06-22: adopted by the Senate
 - 2022-06-21: returned for re-examination
 - 2022-06-23: sent for promulgation
+- 2022-06-28: promulgated, becomes Legea nr. 191/2022
 
 ## Documents
 
