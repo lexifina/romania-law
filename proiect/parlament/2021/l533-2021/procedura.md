@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2022-06-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-06-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-10: sent for promulgation
+- 2022-06-28: promulgated, becomes Legea nr. 190/2022
 
 ## Documents
 
