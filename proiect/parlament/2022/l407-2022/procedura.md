@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-06-15: documents published: Raport comisie sesizată pe fond
 - 2022-06-21: adopted by the Chamber of Deputies
 - 2022-06-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2022-06-29: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,9 @@ Initiator: Guvernul României.
 - 2022-06-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L407EM.PDF
 - 2022-06-23: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L407LG.PDF
 - 2022-06-23: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L407HG.PDF
+- 2022-06-29: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L407CA3.PDF
+- 2022-06-29: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L407CA45.PDF
+- 2022-06-29: Aviz comisie (CA56): [ca56-f12835a0.md](ca56-f12835a0.md); official file https://www.senat.ro/legis/PDF/2022/22L407CA56.PDF
+- 2022-06-29: Forma adoptată de Senat (FS): [fs-6d9fde99.md](fs-6d9fde99.md); official file https://www.senat.ro/legis/PDF/2022/22L407FS.PDF
+- 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2022/22L407AXS.PDF
+- 2022-06-29: Forma trimisă la promulgare (LP): [lp-bd628aa7.md](lp-bd628aa7.md); official file https://www.senat.ro/legis/PDF/2022/22L407LP.PDF
