@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-11: documents published: Aviz comisie
 - 2022-05-19: documents published: Aviz comisie
 - 2022-06-27: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2022-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-11: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L236CA49.PDF
 - 2022-05-19: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L236CA41.PDF
 - 2022-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L236FS.PDF
+- 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L236AXS.PDF
+- 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L236LP.PDF
