@@ -1,0 +1,11 @@
+# HCGMB nr. 347/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 347/2022
+- Adopted: 2022-06-29
+- Title: PRIVIND APROBAREA LISTEI UTILAJELOR SI AUTOVEHICULELOR CU MASA TOTALA AUTORIZATA MAI MARE DE 5 TONE, PRECUM SI A TRASEELOR DE DEPLASARE PENTRU REALIZAREA OBIECTIVULUI DE INVESTITII "REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI (7 OBIECTIVE INSUMAND O LUNGIME DE TRASEU DE 31,621 KM.)- PATRU OBIECTIVE INSUMAND O LUNGIME DE TRASEU DE 19,861 KM. GRUPATE PE TREI LOTURI, LOT 1- OBIECTIV 1, MAGISTRALA 1 SUD, TRONSON CM11'- CP3- CV5/4- 5,958 KM.", CONFORM ART. 2 DIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 94/2021
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43229
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/43229/H347_22.pdf
+- Document sha256: ce0f7d119a2cecab89abf29d57058c029c404c7ea5addf6bb297e804da48378d
