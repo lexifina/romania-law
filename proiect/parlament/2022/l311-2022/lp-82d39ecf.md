@@ -1,0 +1,59 @@
+W(
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+SENATUL
+LEGE
+pentru aprobarea Ordonanței de urgență a Guvernului
+nr. 64/2022 privind ajustarea prețurilor și a valorii devizelor
+generale în cadrul proiectelor finanțate din fonduri externe
+nerambursabile
+Parlamentul României adoptă prezenta lege.
+Art. 1. - Se aprobă Ordonanța de urgență a Guvernului nr. 64
+din 9 mai 2022 privind ajustarea prețurilor și a valorii devizelor generale
+în cadrul proiectelor finanțate din fonduri externe nerambursabile,
+publicată în Monitorul Oficial al României, Partea 1, nr, 472 din 11 mai
+2022, cu următoarea modificare:
+- La articolul 3, alineatele (4) și (14) se modifică și vor avea
+următorul cuprins:
+„(4) Ajustarea prevăzută la alin. (1) se aplică contractelor de
+achiziție încheiate de către beneficiarii privați pentru contractele de
+lucrări și contractele de servicii în condițiile art. 3 alin. (2) lit. c),
+atribuite conform prevederilor Ordinului ministrului fondurilor europene
+nr. 1.284/2016 privind aprobarea procedurii competitive aplicabile
+solicitanților/beneficiarilor privați pentru atribuirea contractelor de
+furnizare, servicii sau lucrări finanțate din fonduri europene, denumit în
+continuare Orc/mw/ ministrului fondurilor europene nr. 1.284/2016, cu
+condiția ca suplimentarea prețului să nu conducă la depășirea pragurilor
+
+. 2
+valorice și a condițiilor cumulative prevăzute la art. 6 din Legea
+nr. 98/2016, cu modificările și completările ulterioare, în condițiile
+prezentei ordonanțe de urgență.
+(14) Prevederile prezentei ordonanțe de urgență se aplică și
+contractelor de achiziție în care beneficiarii fondurilor externe
+nerambursabile au aplicat penalități de întârziere/maj orări de
+întârziere/daune interese sau alte clauze penalizatoare de natură similară
+pentru neîndeplinirea culpabilă a obligațiilor contractuale asumate de
+contractant, altele decât cele prevăzute în prezenta ordonanță de urgență
+sau pentru cele care au depășit durata de execuție prevăzută în contract
+fără ca aceasta să fi fost modificată potrivit clauzelor contractuale sau
+potrivit prevederilor legale în vigoare.”
+Art, II. - Pentru contractele de servicii prevăzute la art. 3
+alin. (4) și pentru contractele de achiziție prevăzute la art. 3 alin. (14),
+termenul prevăzut la art, 11 alin. (1) din Ordonanța de urgență a
+Guvernului nr. 64/2022 privind ajustarea prețurilor și a valorii devizelor
+generale în cadrul proiectelor finanțate din fonduri externe
+nerambursabile, cu modificările ulterioare, se calculează de la data
+intrării în vigoare a prezentei legi.
+
+3
+Această lege a fost adoptată de Parlamentul României,
+cu respectarea prevederilor art. 75 și ale art. 76 alin. (2) din Constituția
+României, republicată.
+PREȘEDINTELE
+CAMEREI DEPUTi^CoR
+p. PREȘEDINTELE
+SENATULUI
+lON-MARCEL CIOLACU ALINA-ȘTEFANIA GORGHIU
+București,
+Nr.
