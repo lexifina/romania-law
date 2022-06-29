@@ -1,0 +1,229 @@
+{
+ "key": "iccj-hp-33-2022",
+ "label": "Decizia ÎCCJ nr. 33/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "33",
+ "date": "2022-06-06",
+ "year": "2022",
+ "heading": "DECIZIA nr. 33 din 6 iunie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 107 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "642",
+  "bis": false,
+  "date": "2022-06-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "629/1/2022",
+  "303/121/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Galați - Secția conflicte de muncă și asigurări sociale, în Dosarul nr. 303/121/2021, pentru pronunțarea unei hotărâri prealabile cu privire la următoarea problemă de drept: În interpretarea și aplicarea dispozițiilor art. 107 alin. (1) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, se poate modifica, pe calea revizuirii, stagiul complet de cotizare utilizat, necontestat la momentul stabilirii drepturilor de pensie, ca urmare a pronunțării unei decizii în interesul legii de către Înalta Curte de Casație și Justiție?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "169-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "149",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "88",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 113/2021",
+    "number": "113",
+    "year": "2021",
+    "path": "lege/2021/113"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256853",
+  "text_sha256": "2738dc5d93636d68d109a9059c80e43dd51f5ef4f97dc2ff129409316e8d7299",
+  "catalogue_sha256": "2738dc5d93636d68d109a9059c80e43dd51f5ef4f97dc2ff129409316e8d7299",
+  "fetched": "2026-11-03T01:32:04Z",
+  "chars": 39780,
+  "portal_id": "256853",
+  "tip": "DECIZIE"
+ }
+}
