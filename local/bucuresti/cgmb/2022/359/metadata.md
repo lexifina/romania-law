@@ -1,0 +1,11 @@
+# HCGMB nr. 359/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 359/2022
+- Adopted: 2022-06-29
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 216/19.04.2018 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE SI A INDICATORILOR TEHNICO –CONOMICI AFERENTI OBIECTIVULUI DE INVESTITII REABILITAREA SISTEMULUI DE TERMOFICARE AL MUNICIPIULUI BUCURESTI (7 OBIECTIVE INSUMAND O LUNGIME DE TRASEU DE 31,621 KM)”, MODIFICATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 444/1 3.12.2021 MODIFICA ANEXELE NR. 1 SI NR. 2 DIN HCGMB NR. 216/2018
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43202
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/43202/H359_22.pdf
+- Document sha256: 1bb9faacecb117cc075865c5d64b9c15a63243f649956bb4c45972e348be53e5
