@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-01: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-05-18: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-05-23: registered at the Chamber of Deputies
+- 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-18: Raport comisie sesizată pe fond (CR): [cr-a6df9009.md](cr-a6df9009.md); official file https://www.senat.ro/legis/PDF/2022/22L187CR.PDF
 - 2022-05-18: Forma adoptată de Senat (FS): [fs-6360f7f1.md](fs-6360f7f1.md); official file https://www.senat.ro/legis/PDF/2022/22L187FS.PDF
 - 2022-05-18: Adresă către Camera Deputaților (AM): [am-e9d14c64.md](am-e9d14c64.md); official file https://www.senat.ro/legis/PDF/2022/22L187AM.PDF
+- 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L187AXS.PDF
+- 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L187LP.PDF
