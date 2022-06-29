@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-05-11: documents published: Aviz comisie
 - 2022-05-16: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-05-18: registered at the Chamber of Deputies
+- 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2022-05-11: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L208CA42.PDF
 - 2022-05-16: Forma adoptată de Senat (FS): [fs-341a52f0.md](fs-341a52f0.md); official file https://www.senat.ro/legis/PDF/2022/22L208FS.PDF
 - 2022-05-16: Adresă către Camera Deputaților (AM): [am-506c6300.md](am-506c6300.md); official file https://www.senat.ro/legis/PDF/2022/22L208AM.PDF
+- 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L208AXS.PDF
+- 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L208LP.PDF
