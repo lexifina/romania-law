@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-06-29: first record in the bill file
+- 2022-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2022-06-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L572AD.PDF
+- 2022-06-30: Forma inițiatorului (FG): [fg-7e4fa13a.md](fg-7e4fa13a.md); official file https://www.senat.ro/legis/PDF/2022/22L572FG.PDF
+- 2022-06-30: Expunere de motive (EM): [em-493fe922.md](em-493fe922.md); official file https://www.senat.ro/legis/PDF/2022/22L572EM.PDF
