@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2022-06-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-10: sent for promulgation
 - 2022-06-28: promulgated, becomes Legea nr. 190/2022
+- 2022-06-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,4 @@ Initiator: Guvernul României.
 - 2022-06-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L533FS.PDF
 - 2022-06-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L533AXS.PDF
 - 2022-06-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L533LP.PDF
+- 2022-06-30: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L533AL.PDF (its day is not given by the bill file: shown from the last stage held)
