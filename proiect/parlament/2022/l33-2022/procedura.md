@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-02-22: documents published: Aviz comisie
 - 2022-02-23: documents published: Aviz comisie
 - 2022-06-29: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2022-07-01: sent for promulgation
 
 ## Documents
 
