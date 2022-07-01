@@ -1,0 +1,206 @@
+{
+ "key": "iccj-hp-penal-12-2022",
+ "label": "Decizia ÎCCJ nr. 12/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2022-02-23",
+ "year": "2022",
+ "heading": "DECIZIA nr. 12 din 23 februarie 2022",
+ "subtitle": "referitoare la interpretarea Decretului Președintelui României nr. 195 din 16 martie 2020 privind instituirea stării de urgență pe teritoriul României, publicat în Monitorul Oficial al României, Partea I, nr. 212 din 16 martie 2020, aprobat prin Hotărârea Parlamentului României nr. 3 din 19 martie 2020 pentru încuviințarea măsurii adoptate de Președintele României privind instituirea stării de urgență pe întreg teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 224 din 19 martie 2020, și Decretului Președintelui României nr. 240 din 14 aprilie 2020 privind prelungirea stării de urgență pe teritoriul României, publicat în Monitorul Oficial al României, Partea I, nr. 311 din 14 aprilie 2020, aprobat prin Hotărârea Parlamentului României nr. 4 din 16 aprilie 2020 pentru încuviințarea măsurii adoptate de Președintele României privind prelungirea stării de urgență pe întreg teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 320 din 16 aprilie 2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "663",
+  "bis": false,
+  "date": "2022-07-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.090/1/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția I penală, în Dosarul nr. 29.254/94/2020, prin care se solicită dezlegarea următoarei chestiuni de drept:",
+  "Decretul Președintelui României nr. 195 din 16 martie 2020 privind instituirea stării de urgență pe teritoriul României, publicat în Monitorul Oficial al României, Partea I, nr. 212 din 16 martie 2020, aprobat prin Hotărârea Parlamentului României nr. 3 din 19 martie 2020 pentru încuviințarea măsurii adoptate de Președintele României privind instituirea stării de urgență pe întreg teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 224 din 19 martie 2020, și Decretul Președintelui României nr. 240 din 14 aprilie 2020 privind prelungirea stării de urgență pe teritoriul României, publicat în Monitorul Oficial al României, Partea I, nr. 311 din 14 aprilie 2020, aprobat prin Hotărârea Parlamentului României nr. 4 din 16 aprilie 2020 pentru încuviințarea măsurii adoptate de Președintele României privind prelungirea stării de urgență pe întreg teritoriul României, publicată în Monitorul Oficial al României, Partea I, nr. 320 din 16 aprilie 2020, constituie cauze de suspendare a prescripției răspunderii penale în condițiile art. 156 din Codul pena l.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "293",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "198",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 1/1999",
+    "number": "1",
+    "year": "1999",
+    "path": "oug/1999/1"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 120/2020",
+    "number": "120",
+    "year": "2020",
+    "path": "lege/2020/120"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-07-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256967",
+  "text_sha256": "bec98d750c1baff5df2b4f1026cf4e1609be282a5a405f0374d4c1848c7a5a7e",
+  "catalogue_sha256": "bec98d750c1baff5df2b4f1026cf4e1609be282a5a405f0374d4c1848c7a5a7e",
+  "fetched": "2026-11-03T01:31:57Z",
+  "chars": 62776,
+  "portal_id": "256967",
+  "tip": "DECIZIE"
+ }
+}
