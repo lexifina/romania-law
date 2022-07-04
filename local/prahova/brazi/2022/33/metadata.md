@@ -1,0 +1,9 @@
+# HCL Brazi nr. 33/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Brazi
+- Decision: nr. 33/2022
+- Adopted: 2022-04-28
+- Published: 2022-07-04
+- Record: https://emol.ro/brazi-ph/registru-hcl/65318
