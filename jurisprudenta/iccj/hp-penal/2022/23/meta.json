@@ -1,0 +1,291 @@
+{
+ "key": "iccj-hp-penal-23-2022",
+ "label": "Decizia ÎCCJ nr. 23/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "23",
+ "date": "2022-05-04",
+ "year": "2022",
+ "heading": "DECIZIA nr. 23 din 4 mai 2022",
+ "subtitle": "referitoare la interpretarea art. 345 alin. (3) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "665",
+  "bis": false,
+  "date": "2022-07-04",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "470/1/2022",
+  "13.117/197/2019/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "345",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Brașov - Secția penală în Dosarul nr. 13.117/197/2019/a1, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă actul trebuie verificat pentru legalitate și temeinicie de către procurorul ierarhic superior și care este termenul-limită până la care ar putea interveni această verificare“ și stabilește următoarele:",
+  "Actul prin care procurorul remediază neregularitățile rechizitoriului, în condițiile prevăzute de art. 345 alin. (3) din Codul de procedură penală, nu este supus verificării pentru legalitate și temeinicie de către procurorul ierarhic superior.",
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Brașov - Secția penală în Dosarul nr. 13.117/197/2019/a1 privind pronunțarea unei hotărâri prealabile referitoare la următoarea chestiune de drept:",
+  "Care este natura juridică a termenului de 5 zile în cadrul căruia procurorul remediază neregularitățile actului de sesizare; care este felul actului procesual prin care se realizează remedierea",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "345",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "207",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "318",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "286",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "54",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "327",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 92
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 75/2016",
+    "number": "75",
+    "year": "2016",
+    "path": "lege/2016/75"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "264",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2006",
+    "number": "356",
+    "year": "2006",
+    "path": "lege/2006/356"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256972",
+  "text_sha256": "95feadb33ef02e263d5c020ce01a1df21889f519fdbff9d8bb35ea9e61f2cb2b",
+  "catalogue_sha256": "95feadb33ef02e263d5c020ce01a1df21889f519fdbff9d8bb35ea9e61f2cb2b",
+  "fetched": "2026-11-03T01:31:55Z",
+  "chars": 106618,
+  "portal_id": "256972",
+  "tip": "DECIZIE"
+ }
+}
