@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-01-10: returned for re-examination
 - 2022-05-02: adopted by the Senate
 - 2022-06-29: sent for promulgation
+- 2022-07-06: promulgated, becomes Legea nr. 197/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,10 @@ Initiator: Guvernul României.
 - 2021-09-06: Adresă către Camera Deputaților (AM): [am-adeae749.md](am-adeae749.md); official file https://www.senat.ro/legis/PDF/2021/21L304AM.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-f65a89e0.md](axs-f65a89e0.md); official file https://www.senat.ro/legis/PDF/2021/21L304AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-1d972eae.md](lp-1d972eae.md); official file https://www.senat.ro/legis/PDF/2021/21L304LP.PDF
+- 2022-07-06: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L304RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (XA): [xa-b44cc4d9.md](xa-b44cc4d9.md); official file https://www.senat.ro/legis/PDF/2021/21L304XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (CX): [cx-a2be1b0d.md](cx-a2be1b0d.md); official file https://www.senat.ro/legis/PDF/2021/21L304CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (XD): [xd-5ea8cf5b.md](xd-5ea8cf5b.md); official file https://www.senat.ro/legis/PDF/2021/21L304XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L304SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L304XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-06: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L304PX.PDF (its day is not given by the bill file: shown from the last stage held)
