@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-06-15: adopted by the Senate
 - 2022-06-29: adopted by the Chamber of Deputies
 - 2022-07-01: sent for promulgation
+- 2022-07-07: promulgated, becomes Legea nr. 199/2022
 
 ## Documents
 
