@@ -1,0 +1,278 @@
+{
+ "key": "iccj-hp-penal-39-2022",
+ "label": "Decizia ÎCCJ nr. 39/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "39",
+ "date": "2022-06-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 39 din 9 iunie 2022",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prelabile, în baza art. 476 alin. (1) din Codul de procedură penală raportat la art. 475 din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "678",
+  "bis": false,
+  "date": "2022-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "854/1/2022",
+  "15.551/320/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală și pentru cauze cu minori și de familie prin care solicită dezlegarea următoarei chestiuni de drept:",
+  "În situația în care un minor, căruia i s-a aplicat anterior o măsură educativă privativă de libertate, fiind judecat în baza procedurii recunoașterii învinuirii, este judecat ulterior pentru o infracțiune concurentă, tot conform procedurii simplificate, determinarea limitelor în care se prelungește măsura educativă privativă de libertate se face prin raportare la prevederile art. 396 alin. (10) teza finală din Codul de procedură penală sau la prevederile art. 125 alin. (2) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "395",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "125",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "233",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 57
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2016",
+    "number": "18",
+    "year": "2016",
+    "path": "oug/2016/18"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257347",
+  "text_sha256": "01cd29bb7a0f07628ac99b94f3ed83f38a7e376dfdc04187140096fc5259d413",
+  "catalogue_sha256": "01cd29bb7a0f07628ac99b94f3ed83f38a7e376dfdc04187140096fc5259d413",
+  "fetched": "2026-11-03T01:31:46Z",
+  "chars": 57743,
+  "portal_id": "257347",
+  "tip": "DECIZIE"
+ }
+}
