@@ -1,0 +1,69 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2022/1167 AL COMISIEI
+din 6 iulie 2022
+de modificare a Regulamentului de punere în aplicare (UE) 2021/633 de instituire a unei taxe antidumping definitive la importurile de glutamat monosodic originar din Republica Populară Chineză și Indonezia, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în temeiul articolului 11 alineatul (2) din Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului în urma unei reexaminări intermediare parțiale
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/1036 al Parlamentului European și al Consiliului din 8 iunie 2016 privind protecția împotriva importurilor care fac obiectul unui dumping din partea țărilor care nu sunt membre ale Uniunii Europene (1) (denumit în continuare „regulamentul de bază”), în special articolul 11 alineatul (3),
+întrucât:
+1. PROCEDURĂ
+1.1. Investigațiile precedente și măsurile în vigoare
+(1) Prin Regulamentul (CE) nr. 1187/2008 al Consiliului (2), Consiliul a instituit taxe antidumping definitive asupra importurilor de glutamat monosodic (denumit în continuare „MSG”) originar din Republica Populară Chineză (denumită în continuare „China”, „RPC” sau „țara în cauză”) (denumită în continuare „investigația inițială”).
+(2) La 21 ianuarie 2015, în urma unei reexaminări efectuate în perspectiva expirării măsurilor în conformitate cu articolul 11 alineatul (2) din regulamentul de bază, în temeiul Regulamentului de punere în aplicare (UE) 2015/83 al Comisiei (3), Comisia a decis să mențină măsurile stabilite în cadrul investigației inițiale.
+(3) La 14 aprilie 2021, în urma unei a doua reexaminări efectuate în perspectiva expirării măsurilor în conformitate cu articolul 11 alineatul (2) din regulamentul de bază, în temeiul Regulamentului de punere în aplicare (UE) 2021/633 al Comisiei (4), Comisia a decis să mențină nivelul taxelor antidumping, astfel cum a fost stabilit în investigația inițială și astfel cum a fost confirmat prin Regulamentul de punere în aplicare (UE) 2015/83 al Comisiei.
+(4) Nivelurile definitive ale taxelor antidumping în vigoare variază în prezent între 33,8 % și 39,7 %.
+1.2. Cerere de modificare a denumirii
+(5) În ianuarie 2019, un producător-exportator chinez, Tongliao Meihua Bio-Tech Co., Ltd a susținut că și-a schimbat denumirea în Tongliao Meihua Biological Sci-Tech Co., Ltd.
+(6) Această societate este unul dintre cei doi producători-exportatori afiliați grupului Meihua, împreună cu Hebei Meihua MSG Group Co., Ltd, care beneficiază în prezent de un nivel individual al taxei de 33,8 % în cadrul codului adițional TARIC A883. Prin urmare, Tongliao Meihua Biological Sci-Tech Co., Ltd a solicitat să se reflecte schimbarea denumirii sale pentru aplicarea nivelului individual existent al taxei, de 33,8 %.
+(7) Cu toate acestea, documentația justificativă furnizată de Tongliao Meihua Biological Sci-Tech Co., Ltd în sprijinul cererii a arătat că grupul Meihua a făcut obiectul unei reorganizări structurale importante, care depășește cu mult simpla schimbare a denumirii. Prin urmare, s-a considerat că este posibil ca marja de dumping individuală stabilită pentru entitățile inițiale (Hebei Meihua MSG Group Co., Ltd și Tongliao Meihua Bio-Tech Co., Ltd sau „grupul Meihua”) sub codul adițional TARIC A883 să nu mai fie adecvată.
+(8) Pe baza celor de mai sus, Comisia a considerat că există suficiente elemente de probă conform cărora circumstanțele care au condus la instituirea măsurilor existente asupra celor doi producători-exportatori afiliați ai grupului Meihua în cursul investigației inițiale s-au schimbat. Comisia a concluzionat, de asemenea, că aceste modificări au un caracter durabil.
+1.3. Deschiderea unei reexaminări intermediare parțiale
+(9) Pe baza informațiilor menționate în considerentul 8, la 24 ianuarie 2022, Comisia a decis, din proprie inițiativă, să deschidă o reexaminare intermediară parțială a măsurilor antidumping aplicabile importurilor de glutamat monosodic originar din China, în conformitate cu articolul 11 alineatul (3) din regulamentul de bază și a publicat un aviz de deschidere a unei reexaminări intermediare parțiale în Jurnalul Oficial al Uniunii Europene (denumit în continuare „avizul de deschidere”) (5). O rectificare la avizul de deschidere din 24 ianuarie 2022 a fost publicată la 22 martie 2022 (6).
+(10) Domeniul de aplicare al reexaminării intermediare parțiale s-a limitat la examinarea dumpingului în ceea ce privește doi producători-exportatori chinezi din grupul Meihua, Tongliao Meihua Bio-Tech Co., Ltd și Hebei Meihua MSG Group Co, Ltd (cod adițional TARIC A883).
+1.4. Perioada investigației de reexaminare
+(11) Investigația privind dumpingul a vizat perioada cuprinsă între 1 ianuarie 2021 și 31 decembrie 2021 („perioada investigației de reexaminare”).
+1.5. Părțile interesate
+(12) În avizul de deschidere, părțile interesate au fost invitate să contacteze Comisia în vederea participării la reexaminare. În plus, Comisia a informat în mod specific cei doi producători-exportatori din grupul Meihua, singurul producător din Uniune și guvernul Chinei cu privire la deschiderea reexaminării și i-a invitat să participe.
+(13) Părțile interesate au avut ocazia de a formula observații cu privire la deschiderea reexaminării și de a solicita o audiere în fața Comisiei și/sau a consilierului-auditor pentru proceduri comerciale.
+1.5.1. Răspunsurile la chestionar
+(14) Comisia a trimis chestionare celor doi producători-exportatori din grupul Meihua și autorităților din țara în cauză. Comisia nu a primit niciun răspuns la chestionare nici din partea celor doi producători-exportatori din grupul Meihua și nici din partea autorităților din țara în cauză.
+2. PRODUSUL CARE FACE OBIECTUL PREZENTEI REEXAMINĂRI ȘI PRODUSUL SIMILAR
+(15) Produsul care face obiectul prezentei reexaminări este același ca în investigația inițială și în următoarele reexaminări menționate în considerentele 2 și 3, și anume glutamatul monosodic originar din Republica Populară Chineză și încadrat în prezent la codul NC ex 2922 42 00 (cod TARIC 2922420010).
+(16) Ca și în investigația inițială și în următoarele reexaminări menționate în considerentele 2 și 3, Comisia a constatat că produsul fabricat în RPC și exportat în Uniune și produsul fabricat și vândut pe piața internă chineză au aceleași caracteristici fizice, tehnice și chimice de bază și aceleași utilizări finale de bază. Prin urmare, aceste produse au fost considerate produse similare, în sensul articolului 1 alineatul (4) din regulamentul de bază.
+3. LIPSA COOPERĂRII
+(17) Astfel cum s-a menționat în considerentul 14, la 24 ianuarie 2022, Comisia a trimis chestionarul pentru producătorii-exportatori celor doi producători-exportatori chinezi cunoscuți din grupul Meihua și chestionarul privind existența unor distorsiuni semnificative în sensul articolului 2 alineatul (6a) litera (b) din regulamentul de bază către guvernul Chinei. Comisia nu a primit niciun răspuns și nicio altă reacție nici din partea producătorilor-exportatori, nici din partea autorităților din țara în cauză.
+(18) Prin scrisoarea din 7 aprilie 2022, Comisia a informat cei doi producători-exportatori chinezi cunoscuți din grupul Meihua că, în absența cooperării și în conformitate cu articolul 18 din regulamentul de bază, constatările vor fi stabilite pe baza datelor disponibile și i-a invitat să prezinte observații. Nu au fost primite observații din partea niciunuia dintre cei doi producători-exportatori ai grupului Meihua. Această lipsă de cooperare nu a fost explicată.
+(19) De asemenea, Comisia a informat Misiunea Republicii Populare Chineze pe lângă Uniunea Europeană că intenționează să aplice articolul 18 alineatul (1) din regulamentul de bază și să își bazeze constatările cu privire la dumpingul practicat de cei doi producători-exportatori din grupul Meihua și la existența unor distorsiuni semnificative pe datele disponibile în dosar. Aceasta a invitat Misiunea Republicii Populare Chineze pe lângă Uniunea Europeană să își prezinte observațiile. Comisia nu a primit nicio observație.
+(20) Având în vedere lipsa cooperării, Comisia a considerat că procedura de reexaminare intermediară parțială ar trebui decisă pe baza datelor disponibile în cadrul prezentei investigații. În ceea ce privește situația specifică a grupului Meihua, Comisia s-a bazat pe elementele de probă relevante prezentate în contextul cererii de schimbare a denumirii, care au condus la deschiderea reexaminării intermediare.
+(21) În cererea sa de schimbare a denumirii, s-a constatat că unul dintre producătorii-exportatori din cadrul grupului Meihua, și anume Tongliao Meihua Bio-Tech Co., Ltd, și-a schimbat denumirea în Tongliao Meihua Biological Sci-Tech Co., Ltd. Cu toate acestea, conform documentației furnizate în sprijinul cererii de modificare a denumirii, Comisia a considerat, de asemenea, că modificările din cadrul grupului Meihua au depășit cu mult o schimbare de denumire.
+(22) În primul rând, solicitantul a informat Comisia că, în 2008, celălalt exportator al grupului Meihua, și anume Hebei Meihua MSG Group Co., Ltd, și-a schimbat, de asemenea, denumirea. Denumirea actuală a acestei societăți este Meihua Holdings Group Co., Ltd. Solicitantul a explicat că Meihua Holdings Group Co., Ltd nu a notificat Comisiei acest fapt deoarece, la momentul respectiv, grupul Meihua își reorganiza activitatea pentru a forma un grup de societăți, iar rezultatul acestei reorganizări nu era foarte clar, în special pentru activitatea de vânzare. În documentația prezentată în sprijinul cererii de schimbare a denumirii, solicitantul a afirmat că Meihua Holdings Group Co., Ltd a început să vândă produsul în cauză numai pe piața internă.
+(23) În al doilea rând, solicitantul a adăugat că Meihua Group International Trading (Hong Kong) Limited (denumită în continuare „Meihua Hong Kong”) a fost integrată în grup în anul 2012 și desfășoară activitatea de export. Prin urmare, exportatorul actual al produsului în cauză ar fi Meihua Hong Kong. Potrivit solicitantului, Meihua Hong Kong exportă MSG în Uniune utilizând codul adițional TARIC A883.
+(24) În concluzie, în 2011, Tongliao Meihua Biological Sci-Tech Co., Ltd a încorporat un alt producător al produsului în cauză, Xinjiang Meihua Amino Acid Co., Ltd. Solicitantul a declarat că, în 2016, Xinjiang Meihua Amino Acid Co., Ltd a vândut, de asemenea, produsul în cauză către Uniune prin intermediul Meihua Hong Kong.
+4. CONCLUZIE ȘI COMUNICAREA CONSTATĂRILOR
+(25) Din motivele subliniate în considerentele 21-24, s-a constatat că grupul Meihua, căruia i se aplică taxa, a făcut obiectul unei reorganizări structurale. Această reorganizare a creat o nouă entitate, formată dintr-un grup de societăți, care a inclus un producător-exportator (Xinjiang Meihua Amino Acid Co., Ltd) și un comerciant afiliat (Meihua Hong Kong) și care nu au fost niciodată raportate către UE și nici investigate de către aceasta. Prin urmare, Comisia nu a putut să presupună pur și simplu că marja de dumping actuală aplicabilă întreprinderilor Hebei Meihua MSG Group Co, Ltd și Tongliao Meihua Bio-Tech Co., Ltd era încă valabilă.
+(26) Având în vedere lipsa totală de cooperare din partea producătorilor-exportatori, Comisia a fost împiedicată să examineze componența reală a entităților cărora li s-a aplicat taxa inițială, dacă nivelul taxei ar fi în continuare relevant pentru noua structură organizatorică a grupului Meihua sau dacă ar fi justificat un nou calcul al dumpingului și, în caz afirmativ, nivelul taxei antidumping.
+(27) În aceste condiții și pe baza datelor disponibile, Comisia a putut doar să concluzioneze că Grupul Meihua (compus din Tongliao Meihua Bio-Tech Co., Ltd și Hebei Meihua MSG Group Co, Ltd) căruia i-a fost atribuit un nivel individual al taxei sub codul adițional TARIC A883 nu mai există ca atare. Grupul pare să fie compus din alți producători-exportatori. Prin urmare, nivelul taxei și codul adițional TARIC menționate anterior ar trebui eliminate.
+(28) Din motivele menționate mai sus, Comisia nu este în măsură să stabilească un nivel individual al taxei și un cod adițional TARIC specific societății pentru entitatea nou-creată. Exporturile efectuate de entitatea nou-creată, dacă există, ar fi supuse ratei aplicabile pentru „toate celelalte societăți” în cadrul codului adițional TARIC A999.
+(29) Părțile interesate au fost informate în consecință și li s-a acordat posibilitatea de a transmite observații.
+(30) Comisia nu a primit nicio observație.
+(31) Prin urmare, articolul 1 alineatul (2) din Regulamentul de punere în aplicare (UE) 2021/633 al Comisiei trebuie modificat în consecință.
+(32) Prezentul regulament este în conformitate cu avizul Comitetului instituit prin articolul 15 alineatul (1) din regulamentul de bază,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Articolul 1 alineatul (2) din Regulamentul de punere în aplicare (UE) 2021/633 se modifică după cum urmează:
+„(2) Nivelurile taxei antidumping definitive aplicabile prețului net, franco-frontiera Uniunii, înainte de vămuire, vizând produsul descris la alineatul (1) și fabricat de societățile menționate mai jos, se stabilesc după cum urmează:
+Țara | Societate | Taxa antidumping (%) | Cod adițional TARIC
+RPC | Fujian Province Jianyang Wuyi MSG Co. Ltd | 36,5 | A884
+RPC | Toate celelalte societăți | 39,7 | A999”
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 6 iulie 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 176, 30.6.2016, p. 21.
+(2) JO L 322, 2.12.2008, p. 1.
+(3) JO L 15, 22.1.2015, p. 31.
+(4) JO L 132, 19.4.2021, p. 63.
+(5) JO C 35, 24.1.2022, p. 12.
+(6) JO C 129, 22.3.2022, p. 18.
