@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-06-29: adopted by the Chamber of Deputies
 - 2022-07-01: sent for promulgation
 - 2022-07-07: promulgated, becomes Legea nr. 199/2022
+- 2022-07-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,10 @@ Initiator: Guvernul României.
 - 2021-05-25: Adresă către Camera Deputaților (AM): [am-911e2eab.md](am-911e2eab.md); official file https://www.senat.ro/legis/PDF/2021/21L102AM.PDF
 - 2021-12-20: Adresă privind sesizarea CCR (AXS): [axs-3937951f.md](axs-3937951f.md); official file https://www.senat.ro/legis/PDF/2021/21L102AXS.PDF
 - 2021-12-20: Forma trimisă la promulgare (LP): [lp-fd73a907.md](lp-fd73a907.md); official file https://www.senat.ro/legis/PDF/2021/21L102LP.PDF
+- 2022-07-08: Document (SC): [sc-9358e809.md](sc-9358e809.md); official file https://www.senat.ro/legis/PDF/2021/21L102SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L102DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L102RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L102XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L102SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (XXS): [xxs-56534290.md](xxs-56534290.md); official file https://www.senat.ro/legis/PDF/2021/21L102XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-08: Document (PX): [px-f8a91505.md](px-f8a91505.md); official file https://www.senat.ro/legis/PDF/2021/21L102PX.PDF (its day is not given by the bill file: shown from the last stage held)
