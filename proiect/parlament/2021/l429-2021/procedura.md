@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2022-06-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-22: sent for promulgation
 - 2022-07-07: promulgated, becomes Legea nr. 201/2022
+- 2022-07-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2022-06-14: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L429FS.PDF
 - 2022-06-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L429AXS.PDF
 - 2022-06-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L429LP.PDF
+- 2022-07-08: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L429AL.PDF (its day is not given by the bill file: shown from the last stage held)
