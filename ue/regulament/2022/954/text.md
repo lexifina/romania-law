@@ -1,0 +1,31 @@
+REGULAMENTUL DELEGAT (UE) 2022/954 AL COMISIEI
+din 12 mai 2022
+de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) nr. 183/2014 în ceea ce privește precizarea modului de calcul al ajustărilor specifice și generale pentru riscul de credit
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 575/2013 al Parlamentului European și al Consiliului din 26 iunie 2013 privind cerințele prudențiale pentru instituțiile de credit și de modificare a Regulamentului (UE) nr. 648/2012 (1), în special articolul 110 alineatul (4) al treilea paragraf,
+întrucât:
+(1) În baza definiției ajustării pentru riscul de credit prevăzute la articolul 4 alineatul (1) punctul 95 din Regulamentul (UE) nr. 575/2013, numai pierderile de credit așteptate care sunt reflectate în ajustările specifice pentru riscul de credit efectuate de instituția care deține expunerea aflată în stare de nerambursare pot fi contabilizate la atribuirea unei ponderi de risc în sensul articolului 127 alineatul (1) din regulamentul menționat. Cu toate acestea, pierderile de credit contabilizate în prețul tranzacției pentru expunerea aflată în stare de nerambursare, care sunt raportate de instituția vânzătoare ca pierdere realizată, nu pot fi recunoscute după vânzare de către instituția cumpărătoare. Prin urmare, ponderea de risc aplicabilă expunerii aflate în stare de nerambursare poate fi modificată după vânzarea expunerii respective, chiar dacă prețul tranzacției include o reducere al cărei cuantum este egal cu ajustările specifice pentru riscul de credit aplicate pierderilor de credit așteptate contabilizate de instituția vânzătoare înainte de vânzare. Această situație creează un obstacol normativ în calea creării de piețe secundare pentru expunerile aflate în stare de nerambursare, întrucât posibila neconcordanță dintre ponderile de risc aplicate expunerii în stare de nerambursare de instituția vânzătoare și, respectiv, de instituția cumpărătoare ar putea scădea atractivitatea tranzacției pentru instituția cumpărătoare, putând crea, astfel, obstacole nejustificate pentru instituțiile de credit care încearcă să elimine din bilanț expunerile aflate în stare de nerambursare.
+(2) Pentru a ține seama și de posibilitatea ca pandemia de COVID-19 să ducă la sporirea nivelurilor expunerilor aflate în stare de nerambursare înregistrate de instituțiile de credit, este de dorit să se elimine toate obstacolele normative din calea creării de piețe secundare pentru expunerile aflate în stare de nerambursare. Astfel, este necesar să se asigure că ajustările specifice pentru riscul de credit recunoscute în sensul articolului 127 alineatul (1) din Regulamentul (UE) nr. 575/2013 includ orice reducere a prețului unei tranzacții pentru o expunere aflată în stare de nerambursare pe care instituția cumpărătoare nu a recunoscut-o prin majorarea fondurilor proprii de nivel 1 de bază. În special pentru a evita eventuala dublă recunoaștere nejustificată a posibilei reduceri a nivelului pierderii așteptate de către instituția cumpărătoare după achiziționare în fondurile proprii de nivel 1 de bază ale instituției respective, precum și în scopul stabilirii ponderii de risc în conformitate cu articolul 127 alineatul (1) din Regulamentul (UE) nr. 575/2013, în cazul unei reevaluări a expunerii în stare de nerambursare care are loc după achiziționarea acesteia, reducerea nu ar mai trebui să includă partea din cuantumul reevaluării expunerii în stare de nerambursare care a fost recunoscută ca majorând fondurile proprii de nivel 1 de bază ale instituției.
+(3) Prin urmare, Regulamentul delegat (UE) nr. 183/2014 al Comisiei (2) ar trebui modificat în consecință.
+(4) Prezentul regulament se bazează pe proiectele de standarde tehnice de reglementare prezentate Comisiei de Autoritatea Bancară Europeană.
+(5) Autoritatea Bancară Europeană a organizat consultări publice deschise cu privire la proiectele de standarde tehnice de reglementare pe care se bazează prezentul regulament, a analizat costurile și beneficiile potențiale implicate și a solicitat avizul Grupului părților interesate din domeniul bancar, instituit în conformitate cu articolul 37 din Regulamentul (UE) nr. 1093/2010 (3),
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificarea Regulamentului delegat (UE) nr. 183/2014
+La articolul 1 din Regulamentul delegat (UE) nr. 183/2014 se adaugă următorul alineat (6):
+„(6) Fără a aduce atingere alineatului (1), atunci când calculează ajustările specifice pentru riscul de credit în scopul atribuirii ponderilor de risc menționate la articolul 127 alineatul (1) literele (a) și (b) din Regulamentul (UE) nr. 575/2013 părții negarantate a unei expuneri aflate în stare de nerambursare, instituțiile includ orice diferență pozitivă dintre suma datorată de debitor pentru expunerea respectivă și suma următoarelor elemente:
+(a) reducerea fondurilor proprii suplimentare în cazul în care expunerea respectivă a fost scoasă integral în afara bilanțului;
+(b) orice reduceri deja existente ale fondurilor proprii legate de expunerea respectivă.”
+Articolul 2
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 12 mai 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 176, 27.6.2013, p. 1.
+(2) Regulamentul delegat (UE) nr. 183/2014 al Comisiei din 20 decembrie 2013 de completare a Regulamentului (UE) nr. 575/2013 al Parlamentului European și al Consiliului privind cerințele prudențiale pentru instituțiile de credit și societățile de investiții, în ceea ce privește standardele tehnice de reglementare pentru precizarea modului de calcul al ajustărilor specifice și al ajustărilor generale pentru riscul de credit (JO L 57, 27.2.2014, p. 3).
+(3) Regulamentul (UE) nr. 1093/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea bancară europeană), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/78/CE a Comisiei (JO L 331, 15.12.2010, p. 12).
