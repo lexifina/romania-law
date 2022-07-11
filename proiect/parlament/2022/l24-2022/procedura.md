@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-06-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-23: sent for promulgation
 - 2022-07-08: promulgated, becomes Legea nr. 203/2022
+- 2022-07-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-6fef261d.md](am-6fef261d.md); official file https://www.senat.ro/legis/PDF/2022/22L024AM.PDF
 - 2022-06-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L024AXS.PDF
 - 2022-06-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L024LP.PDF
+- 2022-07-11: Document (TA): [ta-ebc86e23.md](ta-ebc86e23.md); official file https://www.senat.ro/legis/PDF/2022/22L024TA.PDF (its day is not given by the bill file: shown from the last stage held)
