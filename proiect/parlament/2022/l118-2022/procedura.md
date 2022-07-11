@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-06-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-23: sent for promulgation
 - 2022-07-08: promulgated, becomes Legea nr. 205/2022
+- 2022-07-11: published in the Monitorul Oficial
 
 ## Documents
 
