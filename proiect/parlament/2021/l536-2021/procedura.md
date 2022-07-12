@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-15: adopted by the Chamber of Deputies
 - 2022-06-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-25: sent for promulgation
+- 2022-07-12: promulgated, becomes Legea nr. 211/2022
 
 ## Documents
 
