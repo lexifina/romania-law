@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-23: sent for promulgation
 - 2022-07-11: promulgated, becomes Legea nr. 208/2022
+- 2022-07-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-08: Adresă către Camera Deputaților (AM): [am-788c3955.md](am-788c3955.md); official file https://www.senat.ro/legis/PDF/2022/22L339AM.PDF
 - 2022-06-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L339AXS.PDF
 - 2022-06-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L339LP.PDF
+- 2022-07-12: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L339CC.PDF (its day is not given by the bill file: shown from the last stage held)
