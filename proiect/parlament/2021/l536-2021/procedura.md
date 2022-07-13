@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-25: sent for promulgation
 - 2022-07-12: promulgated, becomes Legea nr. 211/2022
+- 2022-07-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-23: Adresă către Camera Deputaților (AM): [am-b8ab6b30.md](am-b8ab6b30.md); official file https://www.senat.ro/legis/PDF/2021/21L536AM.PDF
 - 2022-06-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L536AXS.PDF
 - 2022-06-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L536LP.PDF
+- 2022-07-13: Document (CC): [cc-12d39d62.md](cc-12d39d62.md); official file https://www.senat.ro/legis/PDF/2021/21L536CC.PDF (its day is not given by the bill file: shown from the last stage held)
