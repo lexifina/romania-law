@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-25: sent for promulgation
 - 2022-07-12: promulgated, becomes Legea nr. 210/2022
+- 2022-07-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-25: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L104AM.PDF
 - 2022-06-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L104AXS.PDF
 - 2022-06-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L104LP.PDF
+- 2022-07-13: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L104AA.PDF (its day is not given by the bill file: shown from the last stage held)
