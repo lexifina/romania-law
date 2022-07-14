@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-332-21-concluzii-2022-07-14",
+ "label": "CJUE, Concluziile avocatului general A. M. Collins prezentate la 14 iulie 2022, Cauza C-332/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2022-07-14",
+ "year": "2022",
+ "case": "Cauza C-332/21.",
+ "celex": "62021CC0332",
+ "ecli": "ECLI:EU:C:2022:589",
+ "heading": "Concluziile avocatului general A. M. Collins prezentate la 14 iulie 2022",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Bucureşti.",
+ "national_followup": null,
+ "parties": "Quadrant Amroq Beverages SRL împotriva Agenţiei Naţionale de Administrare Fiscală – Direcţia Generală de Administrare a Marilor Contribuabili.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Armonizarea legislațiilor fiscale – Directiva 92/83/CEE – Armonizarea structurilor accizelor la alcool și băuturi alcoolice – Accize – Alcool etilic – Scutiri – Articolul 27 alineatul (1) litera (e) – Producerea aromelor folosite în producția produselor alimentare și a băuturilor nealcoolice cu o tărie alcoolică de sub 1,2 % în volum – Domeniu de aplicare – Principiile proporționalității și efectivității.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0332",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-332/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/a8e19280-036c-11ed-acce-01aa75ed71a1.0014.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "bfa0410d9a8925c1c0fa745b4de58514ed379c3001937e76021858b7c2a2e46a"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
