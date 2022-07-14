@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2022-06-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-06-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-29: sent for promulgation; documents published: Aviz comisie
+- 2022-07-14: promulgated, becomes Legea nr. 214/2022
 
 ## Documents
 
