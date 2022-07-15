@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2022-06-20: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
 - 2022-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-02: sent for promulgation
+- 2022-07-15: promulgated, becomes Legea nr. 223/2022
 
 ## Documents
 
