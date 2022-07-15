@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-20: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-02: sent for promulgation
+- 2022-07-15: promulgated, becomes Legea nr. 221/2022
 
 ## Documents
 
