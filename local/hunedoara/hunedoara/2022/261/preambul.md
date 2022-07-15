@@ -1,0 +1,11 @@
+Consiliul local al municipiului Hunedoara;
+Analizând Proiectul de Hotărâre nr. 271/25.05.2022, Referatul de aprobare al Viceprimarului municipiului Hunedoara nr.43784/25.05.2022 privind însușirea Raportului informării și consultării publicului, precum și aprobarea Planului Urbanistic Zonal si Regulamentul Local de Urbanism aferent pentru GRĂDINĂ DE VARĂ, strada Stufit nr. 9E si 9F, municipiul Hunedoara, județul Hunedoara, precum și raportul de specialitate al compartimentului de resort nr.43785/25.05.2022;
+Având în vedere Avizul nr. 4/40311/13.05.2022 al Arhitectului Șef, Referatul de specialitate nr.
+40312/13.05.2022 al Arhitectului Șef – Birou Urbanism, precum și Punctul de vedere nr.
+43778/25.05.2022 al Biroului Urbanism;
+Având în vedere avizele Comisiei de studii, prognoze economico-sociale, buget, finanțe și administrarea domeniului public și privat al municipiului Hunedoara nr. 53487/29.06.2022, al Comisiei pentru administrație publică locală, juridică, apărarea ordinii publice, respectarea drepturilor și libertăților cetățenilor nr. 53545/29.06.2022, al Comisiei de organizare și dezvoltare urbanistică, realizarea lucrărilor publice, protecția mediului înconjurător, conservarea monumentelor istorice și de arhitectură nr. 53604/29.06.2022, al Comisiei pentru servicii publice și comerț nr. 53543/29.06.2022, precum și al Comisiei pentru activități științifice, învățământ, sănătate, cultură, protecție socială, sportive și de agrement nr. 53616/29.06.2022;
+În baza prevederilor art. 56 alin. (4), alin. (6), alin. (7) și pct. 14 din Anexa nr. 1 la Legea nr.
+350/2001 privind amenajarea teritoriului și urbanismul, cu modificările și completările ulterioare, ale Ordinului M.D.R.T. nr. 2701/2010 pentru aprobarea Metodologiei de informare și consultare a publicului cu privire la elaborarea sau revizuirea planurilor de amenajare a teritoriului și de urbanism;
+În baza prevederilor art. 4 lit. b) și art. 7 din Legea nr. 52/2003 privind transparența decizională în administrația publică, republicată, cu modificările ulterioare;
+În temeiul dispozițiilor art. 129, alin. (2) lit. c) și alin. (6) lit. c), alin. (14) și art. 139, coroborat cu art.196, alin. (1) lit. a) din Ordonanța de urgență a Guvernului nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+H O T Ă R Ă Ș T E:
