@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2022-06-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-29: sent for promulgation; documents published: Aviz comisie
 - 2022-07-14: promulgated, becomes Legea nr. 214/2022
+- 2022-07-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Guvernul României.
 - 2022-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L405AXS.PDF
 - 2022-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L405LP.PDF
 - 2022-06-29: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L405CA3.PDF
+- 2022-07-15: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L405AL.PDF (its day is not given by the bill file: shown from the last stage held)
