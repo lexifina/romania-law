@@ -1,0 +1,251 @@
+{
+ "key": "iccj-scaf-1649-2022",
+ "label": "Decizia ÎCCJ nr. 1649/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "1649",
+ "date": "2022-03-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 1.649 din 21 martie 2022",
+ "subtitle": "referitoare la anularea în parte a art. 103 alin. (2) al Ordinului ministrului justiției nr. 210/2001 pentru aprobarea Regulamentulu i de aplicare a Legii nr. 188/2000 privind executorii judecătorești",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "719",
+  "bis": false,
+  "date": "2022-07-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.434/2/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului justiției nr. 210/2001",
+    "number": "210",
+    "year": "2001"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul declarat de recurentul-reclamant B.G. împotriva Sentinței nr. 1.402 din 10 aprilie 2019 pronunțate de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal.",
+  "Casează în parte sentința recurată și, rejudecând:",
+  "Admite acțiunea formulată de reclamantul B.G.",
+  "Anulează în parte art. 103 alin. (2) al Ordinului ministrului justiției nr. 210/2001 pentru aprobarea Regulamentului de aplicare a Legii nr. 188/2000 privind executorii judecătorești, în ceea ce privește sintagma „legalitatea lucrărilor executorilor judecătorești“.",
+  "Menține în rest sentința recurată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 210/2001",
+    "number": "210",
+    "year": "2001"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului justiției nr. 210/2001",
+    "number": "210",
+    "year": "2001"
+   },
+   "articles": [
+    {
+     "art": "103",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257609",
+  "text_sha256": "0b4e4243eaa04f0c86e7079f82ed2017ef77171dcf30c12b2a7d42d3d4e7c2d6",
+  "catalogue_sha256": "0b4e4243eaa04f0c86e7079f82ed2017ef77171dcf30c12b2a7d42d3d4e7c2d6",
+  "fetched": "2026-11-03T01:31:29Z",
+  "chars": 39615,
+  "portal_id": "257609",
+  "tip": "DECIZIE"
+ }
+}
