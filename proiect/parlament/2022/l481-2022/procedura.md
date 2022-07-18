@@ -1,0 +1,22 @@
+# Proiect de lege L481/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 308/2022 (`legea-308-2022`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.14/2022 pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-07-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-07-18: Adresă de înaintare a inițiativei (AD): [ad-47b19617.md](ad-47b19617.md); official file https://www.senat.ro/legis/PDF/2022/22L481AD.PDF
+- 2022-07-18: Forma inițiatorului (FG): [fg-23868dd4.md](fg-23868dd4.md); official file https://www.senat.ro/legis/PDF/2022/22L481FG.PDF
+- 2022-07-18: Expunere de motive (EM): [em-3b60d333.md](em-3b60d333.md); official file https://www.senat.ro/legis/PDF/2022/22L481EM.PDF
+- 2022-07-18: Aviz Consiliul Legislativ (LG): [lg-d57d13e2.md](lg-d57d13e2.md); official file https://www.senat.ro/legis/PDF/2022/22L481LG.PDF
+- 2022-07-18: Document (OG): [og-9b919f90.md](og-9b919f90.md); official file https://www.senat.ro/legis/PDF/2022/22L481OG.PDF
+- 2022-07-18: Document (HG): [hg-37b0efa9.md](hg-37b0efa9.md); official file https://www.senat.ro/legis/PDF/2022/22L481HG.PDF
