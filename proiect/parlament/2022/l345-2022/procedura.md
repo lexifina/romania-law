@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-02: sent for promulgation
 - 2022-07-15: promulgated, becomes Legea nr. 223/2022
+- 2022-07-19: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2022-06-20: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345FS.PDF
 - 2022-06-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345AXS.PDF
 - 2022-06-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345LP.PDF
+- 2022-07-19: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-19: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L345AL.PDF (its day is not given by the bill file: shown from the last stage held)
