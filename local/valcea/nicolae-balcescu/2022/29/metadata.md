@@ -1,0 +1,10 @@
+# HCL Nicolae Bălcescu nr. 29/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Nicolae Bălcescu
+- Decision: nr. 29/2022
+- Adopted: 2022-05-30
+- Published: 2022-07-19
+- Title: privind aprobarea contului de execuție la 31.03.2022
+- Record: https://emol.ro/nicolaebalcescu-vl/registru-hcl/66298
