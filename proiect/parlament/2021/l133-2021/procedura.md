@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-06-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-06-29: sent for promulgation
 - 2022-07-15: promulgated, becomes Legea nr. 218/2022
+- 2022-07-19: published in the Monitorul Oficial
 
 ## Documents
 
