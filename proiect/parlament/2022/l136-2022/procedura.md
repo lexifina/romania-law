@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
 - 2022-07-19: promulgated, becomes Legea nr. 234/2022
+- 2022-07-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2022-04-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L136AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L136AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L136LP.PDF
+- 2022-07-20: Document (TA): [ta-3b8b5bea.md](ta-3b8b5bea.md); official file https://www.senat.ro/legis/PDF/2022/22L136TA.PDF (its day is not given by the bill file: shown from the last stage held)
