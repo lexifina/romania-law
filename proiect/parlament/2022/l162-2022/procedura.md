@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
 - 2022-07-20: promulgated, becomes Legea nr. 245/2022
+- 2022-07-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2022-06-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L162FS.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L162AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L162LP.PDF
+- 2022-07-21: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L162AL.PDF (its day is not given by the bill file: shown from the last stage held)
