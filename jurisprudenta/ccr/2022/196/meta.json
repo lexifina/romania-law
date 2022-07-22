@@ -1,0 +1,200 @@
+{
+ "key": "dcc-196-2022",
+ "label": "Decizia CCR nr. 196/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "196",
+ "date": "2022-04-07",
+ "year": "2022",
+ "heading": "DECIZIA nr. 196 din 7 aprilie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 17 alin. (2) și ale art. 22 din capitolul VIII al anexei nr. V \"Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională\" la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 25 alin. (1) și ale art. 38 alin. (6) din același act normativ",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "739",
+  "bis": false,
+  "date": "2022-07-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.525/2/2018",
+  "710D/2020",
+  "711D/2020",
+  "3.081/2/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Horea Andrei, Levente Biro, Istvan Fechete, Mihai Ciprian Lupu, Ioan Marcel Popa și Adrian Mihai Pop în Dosarul nr. 5.525/2/2018 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și de Horia Florian Băjan, Gabriel Vicențiu Ciolan, Elena Matei, Radu Bogdan Munteanu și Adin Claudiu Radu în Dosarul nr. 3.081/2/2018 al aceleiași instanțe judecătorești și constată că dispozițiile art. 17 alin. (2) și ale art. 22 din capitolul VIII al anexei nr. V „Familia ocupațională de funcții bugetare «Justiție» și Curtea Constituțională“ la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, precum și ale art. 25 alin. (1) și ale art. 38 alin. (6) din același act normativ sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-07-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/257752",
+  "text_sha256": "8b485efb24902576fee6989e869047c547e40e231c4bd30f664e556fc2d54edb",
+  "catalogue_sha256": "8b485efb24902576fee6989e869047c547e40e231c4bd30f664e556fc2d54edb",
+  "fetched": "2026-11-03T01:31:20Z",
+  "chars": 26200,
+  "portal_id": "257752",
+  "tip": "DECIZIE"
+ }
+}
