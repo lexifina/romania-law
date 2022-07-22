@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2022-07-19: registered at the Chamber of Deputies; documents published: Raport comisie sesizată pe fond
 - 2022-07-20: adopted by the Chamber of Deputies; registered at the Senate; adopted by the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulga…
+- 2022-07-22: sent for promulgation; promulgated, becomes Legea nr. 269/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Guvernul României.
 - 2022-07-20: Forma adoptată de Senat (FS): [fs-1d08ecd7.md](fs-1d08ecd7.md); official file https://www.senat.ro/legis/PDF/2022/22L491FS.PDF
 - 2022-07-20: Adresă privind sesizarea CCR (AXS): [axs-3d079b42.md](axs-3d079b42.md); official file https://www.senat.ro/legis/PDF/2022/22L491AXS.PDF
 - 2022-07-20: Forma trimisă la promulgare (LP): [lp-d8d6f304.md](lp-d8d6f304.md); official file https://www.senat.ro/legis/PDF/2022/22L491LP.PDF
+- 2022-07-22: Document (DR): [dr-3b1c19b2.md](dr-3b1c19b2.md); official file https://www.senat.ro/legis/PDF/2022/22L491DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-22: Document (TX): [tx-5ecb030c.md](tx-5ecb030c.md); official file https://www.senat.ro/legis/PDF/2022/22L491TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-22: Document (AL): [al-00fb411e.md](al-00fb411e.md); official file https://www.senat.ro/legis/PDF/2022/22L491AL.PDF (its day is not given by the bill file: shown from the last stage held)
