@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
 - 2022-07-20: promulgated, becomes Legea nr. 249/2022
+- 2022-07-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2022-04-19: Adresă către Camera Deputaților (AM): [am-5062832a.md](am-5062832a.md); official file https://www.senat.ro/legis/PDF/2022/22L155AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2022/22L155AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): [lp-e08ad21b.md](lp-e08ad21b.md); official file https://www.senat.ro/legis/PDF/2022/22L155LP.PDF
+- 2022-07-22: Document (TA): [ta-a9e06858.md](ta-a9e06858.md); official file https://www.senat.ro/legis/PDF/2022/22L155TA.PDF (its day is not given by the bill file: shown from the last stage held)
