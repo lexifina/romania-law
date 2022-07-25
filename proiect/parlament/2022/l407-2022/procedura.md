@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-06-29: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
 - 2022-07-20: promulgated, becomes Legea nr. 246/2022
+- 2022-07-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Guvernul României.
 - 2022-06-29: Forma adoptată de Senat (FS): [fs-6d9fde99.md](fs-6d9fde99.md); official file https://www.senat.ro/legis/PDF/2022/22L407FS.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2022/22L407AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): [lp-bd628aa7.md](lp-bd628aa7.md); official file https://www.senat.ro/legis/PDF/2022/22L407LP.PDF
+- 2022-07-25: Document (AL): [al-1f01465f.md](al-1f01465f.md); official file https://www.senat.ro/legis/PDF/2022/22L407AL.PDF (its day is not given by the bill file: shown from the last stage held)
