@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-04: sent for promulgation
 - 2022-07-21: promulgated, becomes Legea nr. 258/2022
+- 2022-07-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-20: Adresă către Camera Deputaților (AM): [am-4f3e49f8.md](am-4f3e49f8.md); official file https://www.senat.ro/legis/PDF/2021/21L264AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L264AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L264LP.PDF
+- 2022-07-25: Document (AA): [aa-1ce88d27.md](aa-1ce88d27.md); official file https://www.senat.ro/legis/PDF/2021/21L264AA.PDF (its day is not given by the bill file: shown from the last stage held)
