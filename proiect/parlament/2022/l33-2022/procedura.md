@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-06-29: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
 - 2022-07-20: promulgated, becomes Legea nr. 250/2022
+- 2022-07-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2022-06-29: Forma adoptată de Senat (FS): [fs-819e2778.md](fs-819e2778.md); official file https://www.senat.ro/legis/PDF/2022/22L033FS.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2022/22L033AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): [lp-41841a0b.md](lp-41841a0b.md); official file https://www.senat.ro/legis/PDF/2022/22L033LP.PDF
+- 2022-07-26: Document (AL): [al-21301eca.md](al-21301eca.md); official file https://www.senat.ro/legis/PDF/2022/22L033AL.PDF (its day is not given by the bill file: shown from the last stage held)
