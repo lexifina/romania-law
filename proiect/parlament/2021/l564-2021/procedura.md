@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-04: sent for promulgation
 - 2022-07-22: promulgated, becomes Legea nr. 265/2022
+- 2022-07-26: published in the Monitorul Oficial
 
 ## Documents
 
