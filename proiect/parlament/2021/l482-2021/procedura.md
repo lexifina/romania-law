@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-04: sent for promulgation
 - 2022-07-22: promulgated, becomes Legea nr. 266/2022
+- 2022-07-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: Forma adoptată de Senat (FS): [fs-af049ab7.md](fs-af049ab7.md); official file https://www.senat.ro/legis/PDF/2021/21L482FS.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2021/21L482AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): [lp-6b22d3d1.md](lp-6b22d3d1.md); official file https://www.senat.ro/legis/PDF/2021/21L482LP.PDF
+- 2022-07-27: Document (AJ): [aj-366fd262.md](aj-366fd262.md); official file https://www.senat.ro/legis/PDF/2021/21L482AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-07-27: Document (AL): [al-e4a0bf9e.md](al-e4a0bf9e.md); official file https://www.senat.ro/legis/PDF/2021/21L482AL.PDF (its day is not given by the bill file: shown from the last stage held)
