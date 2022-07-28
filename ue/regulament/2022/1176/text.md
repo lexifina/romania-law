@@ -1,0 +1,42 @@
+REGULAMENTUL (UE) 2022/1176 AL COMISIEI
+din 7 iulie 2022
+de modificare a Regulamentului (CE) nr. 1223/2009 al Parlamentului European și al Consiliului în ceea ce privește utilizarea anumitor filtre UV în produsele cosmetice
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1223/2009 al Parlamentului European și al Consiliului din 30 noiembrie 2009 privind produsele cosmetice (1), în special articolul 31 alineatul (1),
+întrucât:
+(1) Substanțele 2-Hidroxi-4-metoxibenzofenonă/Oxibenzonă (nr. CAS 131-57-7), căreia i s-a atribuit denumirea de benzofenonă-3 în conformitate cu Nomenclatorul Internațional al Ingredientelor Cosmetice (INCI), și Esterul 2-etilhexilic al acidului 2-ciano-3,3-difenil-2-propenoic/Octocrilen (nr. CAS 6197-30-4), căreia i s-a atribuit denumirea de octocrilen în conformitate cu INCI, sunt permise în prezent în calitate de filtre UV în produsele cosmetice și incluse în rubricile 4 și, respectiv, 10 din anexa VI la Regulamentul (CE) nr. 1223/2009.
+(2) Având în vedere îngrijorările cu privire la proprietățile benzofenonei-3 și ale octocrilenului care pot provoca perturbări ale sistemului endocrin, atunci când aceste substanțe sunt utilizate ca filtre UV în produsele cosmetice, în 2019 a fost lansată o cerere de date. Părțile interesate au prezentat dovezi științifice pentru a demonstra siguranța utilizării benzofenonei-3 și a octocrilenului ca filtre UV în produsele cosmetice. Comisia a solicitat Comitetului științific pentru siguranța consumatorilor (CSSC) să efectueze o evaluare a siguranței ambelor substanțe, având în vedere informațiile furnizate.
+(3) Pe baza evaluării siguranței și având în vedere îngrijorările cu privire la proprietățile benzofenonei-3 care pot provoca perturbări ale sistemului endocrin, CSSC a concluzionat în avizul său din 30-31 martie 2021 (2) că benzfenona-3 nu este sigură pentru consumatori atunci când este utilizată ca filtru UV până la actuala concentrație maximă de 6 % în produsele de protecție solară, fie sub formă de cremă pentru corp, fie sub formă de spray cu aerosoli sau de spray cu pompă dozatoare.
+(4) CSSC a concluzionat, de asemenea, că benzofenona-3 este sigură pentru consumatori atunci când este utilizată ca filtru UV până la o concentrație maximă de 6 % în cremele de față, de mâini și în rujuri și că utilizarea benzofenonei-3 în proporție de 0,5 % în produsele cosmetice pentru a proteja formula cosmetică este sigură pentru consumatori.
+(5) De asemenea, CSSC a constatat că utilizarea benzofenonei-3 ca filtru UV la o concentrație de până la 2,2 % în creme de corp, în spray cu aerosoli și în spray cu pompă dozatoare este sigură pentru consumatori numai dacă benzofenona-3 nu este utilizată în plus, în proporție de 0,5 %, în aceeași formulă, pentru a proteja formula cosmetică. CSSC a concluzionat, de asemenea, că atunci când benzofenona-3 este utilizată în proporție de 0,5 % în aceeași formulă, concentrația de benzofenonă-3 utilizată ca filtru UV nu trebuie să depășească 1,7 % în cremele pentru corp, în spray-urile cu aerosoli și în spray-urile cu pompă dozatoare.
+(6) Pe baza evaluării siguranței și luând în considerare îngrijorările legate de proprietățile octocrilenului care pot provoca perturbări ale sistemului endocrin, CSSC a concluzionat, în avizul său din 30-31 martie 2021 (3), că octocrilenul este sigur ca filtru UV în concentrații de până la 10 % în produsele cosmetice atunci când este utilizat individual.
+(7) CSSC a constatat, de asemenea, că utilizarea octocrilenului este sigură în cazul utilizării combinate a unor creme sau loțiuni de protecție solară, spray cu pompă dozatoare pentru protecție solară, creme de față, creme de mâini și rujuri la o concentrație de până la 10 %, dar că utilizarea octocrilenului în concentrații de 10 % sau mai mari nu este sigură în produsele de protecție solare sub formă de spray cu aerosoli în cazul utilizării combinate. CSSC consideră că utilizarea octocrilenului în astfel de produse este sigură atunci când concentrația sa nu este mai mare de 9 %, atunci când este utilizat împreună cu cremele de față, cu cremele de mâini, sau cu rujurile care conțin octocrilen în proporție de 10 %.
+(8) Având în vedere avizul CSSC, se poate concluziona că există un risc potențial pentru sănătatea umană care rezultă din utilizarea benzofenonei-3 și a octocrilenului ca filtre UV în produsele cosmetice în concentrațiile permise în prezent. Prin urmare, utilizarea benzofenonei-3 și a octocrilenului trebuie să fie restricționată la concentrația maximă propusă de CSSC.
+(9) Prin urmare, Regulamentul (CE) nr. 1223/2009 trebuie modificat în consecință.
+(10) Industriei ar trebui să i se acorde o perioadă rezonabilă de timp pentru a se adapta la noile cerințe, inclusiv prin efectuarea ajustărilor necesare în formulele produselor, pentru a se asigura că sunt introduse pe piață numai produsele cosmetice care respectă noile cerințe. De asemenea, industriei ar trebui să i se acorde o perioadă rezonabilă de timp pentru a retrage de pe piață produsele cosmetice care nu sunt conforme cu cerințele menționate.
+(11) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru produse cosmetice,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa VI la Regulamentul (CE) nr. 1223/2009 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 7 iulie 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 342, 22.12.2009, p. 59.
+(2) CSSC (Comitetul științific pentru siguranța consumatorilor), Avizul privind benzofenona-3 (nr. CAS 131-57-7, nr. CE 205-031-5), versiunea preliminară din 15 decembrie 2020, versiunea finală din 30-31 martie 2021, CSSC/1625/20. https://ec.europa.eu/health/sites/default/files/scientific_committees/ consumer_safety/docs/sccs_o_247.pdf
+(3) CSSC (Comitetul științific pentru siguranța consumatorilor), Avizul privind octocrilenul (nr. CAS 6197-30-4, nr. CE 228-250-8), versiunea preliminară din 15 ianuarie 2021, versiunea finală din 30-31 martie 2021, CSSC/1627/21 https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/ docs/sccs_o_249.pdf
+ANEXĂ
+În anexa VI la Regulamentul (CE) nr. 1223/2009, rubricile 4 și 10 se înlocuiesc cu următorul text:
+Nr. crt. | Identificarea substanței | Condiții | Formularea condițiilor de utilizare și a avertismentelor
+Denumirea chimică/INN | Denumirea comună din Glosarul ingredientelor | Numărul CAS | Numărul CE | Tipul de produs, părțile corpului | Concentrația maximă în preparatul gata de utilizare | Altele
+a | b | c | d | e | f | g | h | i
+„4 | 2-Hidroxi-4-metoxibenzofenonă/Oxibenzonă (*1) | Benzophenone-3 | 131-57-7 | 205-031-5 | (a) Produse pentru față, produse pentru mâini și produse pentru buze, cu excepția produselor sub formă de spray cu aerosoli și de spray cu pompă dozatoare (b) Produse pentru corp, inclusiv produse sub formă de spray cu aerosoli și de spray cu pompă dozatoare (c) Alte produse | (a) 6 % (b) 2,2 % (c) 0,5 % | Pentru a) și b) Nu mai mult de 0,5 % pentru a proteja formula produsului (a) Dacă se utilizează în proporție de 0,5 % pentru a proteja formula produsului, nivelurile utilizate ca filtru UV nu trebuie să depășească 5,5 %. (b) Dacă se utilizează în proporție de 0,5 % pentru a proteja formula produsului, nivelurile utilizate ca filtru UV nu trebuie să depășească 1,7 %. | Pentru (a) și (b): Conține Benzophenone-3 (*2)
+10 | Esterul 2-etilhexilic al acidului 2-ciano-3,3-difenil-2-propenoic/Octocrilen(*1) (*3) | Octocrylene | 6197-30-4 | 228-250-8 | (a) Produse sub formă de spray cu aerosoli (b) Alte produse | (a) 9 % (b) 10 % | |
+(*1) Cu toate acestea, produsele cosmetice care conțin această substanță și care respectă restricțiile prevăzute în Regulamentul (CE) nr. 1223/2009 aplicabil la 27 iulie 2022 pot fi introduse pe piața Uniunii până la 28 ianuarie 2023 și pot fi puse la dispoziție pe piața Uniunii până la 28 iulie 2023.
+(*2) Nu este necesară în cazul în care concentrația este de 0,5 % sau mai mică și când se utilizează numai în scopuri de protecție a produsului.
+(*3) Benzofenona ca impuritate și/sau ca produs de degradare al octocrilenului trebuie menținută la nivel de urme.”
