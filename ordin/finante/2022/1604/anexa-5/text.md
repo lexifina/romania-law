@@ -1,0 +1,34 @@
+# Anexa nr. 2
+Antetul coordonatorului de reformă și/sau investiții
+Data.................
+Ministerul............., în calitate de coordonator de reformă și/sau investiții asociate componentei de împrumut din PNRR
+Către: Ministerul Finanțelor
+Direcția generală relații financiare internaționale
+SOLICITARE DE FONDURI CENTRALIZATĂ privind cheltuielile efectuate de beneficiari în cadrul reformelor și investițiilor aferente componentei de împrumut începând cu data de 1 februarie 2020 până la data încheierii contractelor de finanțare sau, după caz, până la data emiterii ordinelor/deciziilor de finanțare
+În conformitate cu prevederile art. 12 alin. (1) și (3) din normele metodologice aprobate prin Hotărârea Guvernului nr. 209/2022, vă transmitem anexat Situația privind cheltuielile efectuate de beneficiari din bugetul de stat, bugetul asigurărilor sociale de stat sau bugetele fondurilor speciale în cadrul reformelor și investițiilor aferente componentei de împrumut începând cu data de 1 februarie 2020 până la data încheierii contractelor de finanțare sau, după caz, până la data emiterii ordinelor/deciziilor de finanțare, însoțită de Declarația de conformitate. (Se completează cu o scurtă descriere a destinației cheltuielilor/activităților finanțate din acestea, pentru a justifica faptul că sunt acțiuni/activități necesare îndeplinirii jaloanelor/țintelor asociate componentei de împrumut, care intră în competența respectivilor beneficiari.)
+Pentru....................................................... (coordonatorul de reformă și/sau investiții)
+Anexe: Apendice 1
+Apendice 2
+APENDICE 1
+Antetul coordonatorului de reformă și/sau investiții
+DECLARAȚIA DE CONFORMITATE
+Data........
+Către: Ministerul Finanțelor
+În susținerea Situației privind cheltuielile efectuate de beneficiari din bugetul de stat, bugetul asigurărilor sociale de stat sau bugetele fondurilor speciale în cadrul reformelor și investițiilor aferente componentei de împrumut începând cu data de 1 februarie 2020 până la data încheierii contractelor de finanțare sau, după caz, până la data emiterii ordinelor/deciziilor de finanțare, în calitate de coordonator de reformă și/sau investiții, certificăm și/sau confirmăm că prin declarațiile/informațiile relevante transmise în mod corespunzător de beneficiari se certifică următoarele: a) informațiile prezentate sunt reale, corecte, complete, legale și conforme cu înregistrările/evidențele contabile, după cum este aplicabil;
+b) în procesul de efectuare a plăților (cheltuielilor) raportate s-a respectat cadrul legal privind angajarea, lichidarea, ordonanțarea și plata din fonduri publice, conform legislației naționale incidente în vigoare, inclusiv în ceea ce privește asigurarea controlului financiar preventiv și, respectiv, a controlului delegat;
+c) fondurile evidențiate au fost utilizate pentru acțiuni/activități necesare îndeplinirii jaloanelor și țintelor prevăzute în Decizia de punere în aplicare a Consiliului de aprobare a evaluării Planului de redresare și reziliență al României din data de 3 noiembrie 2021 (CID);
+d) informațiile prezentate sunt considerate eligibile în cadrul PNRR în condițiile art. 17 alin. (2) din Regulamentul (UE) 2021/241 al Parlamentului European și al Consiliului din 12 februarie 2021;
+e) activitățile/acțiunile pentru care au fost efectuate cheltuielile raportate nu au beneficiat și nici nu beneficiază în prezent de finanțare din fonduri publice nerambursabile de la bugetul național și/sau de la bugetul Uniunii Europene sau bugetele administrate de aceasta ori în numele ei, pentru activitățile specifice care sunt finanțate din bugetul PNRR și care urmează să se desfășoare pentru implementarea reformelor și a investițiilor. Se declară în egală măsură că nu au cunoștință de vreo situație de „dublă finanțare”, așa cum este ea definită la art. 9 din Regulamentul (UE) 2021/241 al Parlamentului European și al Consiliului din 12 februarie 2021 și la art. 191 din Regulamentul (UE, Euratom) 2018/1.046 privind normele financiare aplicabile bugetului general al Uniunii;
+f) la nivelul coordonatorului de reformă și/sau investiții, agențiilor de implementare a proiectelor/responsabililor de implementare a investițiilor specifice locale/structurilor de implementare, respectiv la nivelul beneficiarilor sunt în vigoare sisteme de management și control adaptate specificului acțiunilor/activităților necesare îndeplinirii țintelor și jaloanelor, în scopul prevenirii, detectării și constatării neregulilor, respectiv implementează procedurile proprii de verificare și control în scopul realizării prevenirii conflictului de interese, a fraudei, corupției și prin care să se asigure că fondurile au fost gestionate în concordanță cu toate regulile aplicabile, cu respectarea principiului bunei gestiuni financiare și protejarea intereselor financiare ale Uniunii Europene;
+g) informațiile financiare prezentate au fost supuse auditului Curții de Conturi și/sau oricărui alt tip de audit extern/verificării de către structuri de control, după cum este aplicabil și, potrivit rapoartelor emise de auditori/structurile de control, acestea nu prezintă nereguli, erori sau riscul de a fi cheltuieli neeligibile în sensul nerespectării prevederilor art. 17 alin. (2) din Regulamentul (UE) 2021/241 al Parlamentului European și al Consiliului din 12 februarie 2021 (și/sau, după cum este aplicabil, abaterile identificate au fost remediate) (sau, după caz, informațiile financiare prezentate nu au fost supuse auditului extern/auditului Curții de Conturi și/sau verificării de către structuri de control, după caz; astfel se va informa corespunzător MIPE cu privire la concluziile auditului extern/al Curții de Conturi și/sau ale verificării structurilor de control referitoare la situațiile de cheltuieli prezentate, de îndată ce acestea sunt disponibile și, dacă este cazul, va remedia cu maximă celeritate abaterile constatate).
+Pentru................................. (coordonatorul de reformă și/sau investiții)
+APENDICE 2
+SITUAȚIA privind cheltuielile efectuate de beneficiari în cadrul reformelor și investițiilor aferente componentei de împrumut, începând cu data de 1 februarie 2020 până la data încheierii contractelor de finanțare sau, după caz, până la data emiterii ordinelor/deciziilor de finanțare
+Cap. Art. Denumire indicator Cheltuieli eligibile efectuate cumulat începând cu data de 1 februarie 2020 până la data încheierii contractelor de finanțare sau, după caz, până la data emiterii ordinelor/deciziilor de finanțare C1 Din care
+C2 Din care
+I... R....... I... R...
+Plăți efective în mii lei
+Plăți efective în mii lei Plăți efective în mii lei Plăți efective în mii lei Plăți efective în mii lei Plăți efective în mii lei Plăți efective în mii lei Plăți efective în mii lei 1 = 2 + 3 +.... 2 = 2.1 + 2.2 + 2.3... 2.1 2.2 2.3 3 = 3.1 + 3.2 3.1 3.2...
+Total
+Pentru.................................. (coordonatorul de reformă și/sau investiții)
+----
