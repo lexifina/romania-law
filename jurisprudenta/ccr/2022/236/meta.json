@@ -1,0 +1,212 @@
+{
+ "key": "dcc-236-2022",
+ "label": "Decizia CCR nr. 236/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "236",
+ "date": "2022-05-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 236 din 3 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (5) lit. a) și alin. (6^1) din Ordonanța Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcțiilor existente",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "774",
+  "bis": false,
+  "date": "2022-08-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "20.644/3/2016",
+  "130D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 20/1994",
+    "number": "20",
+    "year": "1994",
+    "path": "og/1994/20"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "5",
+      "6-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea M&amp;S Top Media Beta - S.R.L. din București în Dosarul nr. 20.644/3/2016* al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că dispozițiile art. 2 alin. (5) lit. a) și alin. (6^1) din Ordonanța Guvernului nr. 20/1994 privind măsuri pentru reducerea riscului seismic al construcțiilor existente sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 20/1994",
+    "number": "20",
+    "year": "1994",
+    "path": "og/1994/20"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "5",
+      "6-1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-08-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258241",
+  "text_sha256": "e78c29f23a3fed03f5daf1231917168079b66fea82ec7fdfc3c88a572dfc4062",
+  "catalogue_sha256": "e78c29f23a3fed03f5daf1231917168079b66fea82ec7fdfc3c88a572dfc4062",
+  "fetched": "2026-11-03T01:31:05Z",
+  "chars": 18595,
+  "portal_id": "258241",
+  "tip": "DECIZIE"
+ }
+}
