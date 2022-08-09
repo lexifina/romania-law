@@ -1,0 +1,250 @@
+{
+ "key": "iccj-scaf-3827-2022",
+ "label": "Decizia ÎCCJ nr. 3827/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3827",
+ "date": "2022-06-28",
+ "year": "2022",
+ "heading": "DECIZIA nr. 3.827 din 28 iunie 2022",
+ "subtitle": "referitoare la cererea în contencios administrativ și fiscal formulată de reclamantul Spitalul Clinic de Urgență pentru Copii \"Sf. Ioan\" Galați, în contradictoriu cu pârâtul Guvernul României",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "789",
+  "bis": false,
+  "date": "2022-08-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "463/44/2020"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursul declarat de reclamantul Spitalul Clinic de Urgență pentru Copii „Sf. Ioan“ Galați împotriva Sentinței civile nr. 119 din 22 octombrie 2020, pronunțată de Curtea de Apel Galați - Secția contencios administrativ și fiscal.",
+  "Casează sentința recurată și, rejudecând:",
+  "Admite cererea în contencios administrativ și fiscal formulată de reclamantul Spitalul Clinic de Urgență pentru Copii „Sf. Ioan“ Galați, în contradictoriu cu pârâtul Guvernul României.",
+  "Anulează art. 30 lit. h) din Hotărârea Guvernul nr. 857/2011 privind stabilirea și sancționarea contravențiilor la normele din domeniul sănătății publice.",
+  "Obligă intimatul Guvernul României la plata către recurentul Spitalul Clinic de Urgență pentru Copii „Sf. Ioan“ Galați a sumei de 381 lei, reprezentând cheltuieli de judecată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 857/2011",
+    "number": "857",
+    "year": "2011",
+    "path": "hg/2011/857"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": [
+      "h",
+      "f"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 828/2020",
+    "number": "828",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 98/1994",
+    "number": "98",
+    "year": "1994",
+    "path": "lege/1994/98"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258351",
+  "text_sha256": "059b46f188733cf187807fc2313918f9264d754b93c3d38710a2e5d6d2a375e2",
+  "catalogue_sha256": "059b46f188733cf187807fc2313918f9264d754b93c3d38710a2e5d6d2a375e2",
+  "fetched": "2026-11-03T01:30:58Z",
+  "chars": 26651,
+  "portal_id": "258351",
+  "tip": "DECIZIE"
+ }
+}
