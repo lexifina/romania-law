@@ -1,0 +1,13 @@
+Notă
+Aprobate prin HOTĂRÂREA nr. 5 din 21 iulie 2022 , publicată în Monitorul Oficial, Partea I, nr. 789 din 9 august 2022.
+Articolul 1
+Prezentele norme privind acordarea mandatelor de reprezentare președinților filialelor teritoriale ale Colegiului Psihologilor din România sunt elaborate în conformitate cu prevederile Legii nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, cu modificările ulterioare, ale Normelor metodologice de aplicare a Legii nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, aprobate prin Hotărârea Guvernului nr. 788/2005 , cu completările ulterioare, și ale Regulamentului de organizare și funcționare internă al Colegiului Psihologilor din România , aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 4/2018 .
+Articolul 2
+Președinții filialelor teritoriale reprezintă filialele teritoriale ale Colegiului Psihologilor din România în fața entităților de drept public și privat locale, în limitele mandatului de reprezentare, acordat prin dispoziție a președintelui Colegiului Psihologilor din România, cu respectarea prezentelor norme.
+Articolul 3
+Exercitarea mandatului de reprezentare acordat președinților filialelor teritoriale se realizează cu respectarea dispozițiilor Legii nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, cu modificările ulterioare, ale Normelor metodologice de aplicare a Legii nr. 213/2004 privind exercitarea profesiei de psiholog cu drept de liberă practică, înființarea, organizarea și funcționarea Colegiului Psihologilor din România, aprobate prin Hotărârea Guvernului nr. 788/2005 , cu completările ulterioare, ale Regulamentului de organizare și funcționare internă al Colegiului Psihologilor din România , aprobat prin Hotărârea Convenției naționale a Colegiului Psihologilor din România nr. 4/2018 și ale actelor normative subsecvente adoptate de către forurile de conducere ale Colegiului Psihologilor din România, ce reglementează profesia de psiholog cu drept de liberă practică.
+Articolul 4
+În exercitarea mandatului de reprezentare, președinții filialelor teritoriale nu pot încheia contracte și convenții în numele sau pe seama Colegiului Psihologilor din România.
+Articolul 5
+Înlocuitorul de drept al președintelui filialei teritoriale, în caz de indisponibilitate a acestuia, este membrul din comitetul filialei cu vechimea profesională cea mai mare.
+----
