@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-07-20: first record in the bill file
+- 2022-08-09: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
 
 ## Documents
 
-- none held as text
+- 2022-08-09: Aviz Consiliul Economic și Social (ES): [es-8bb41a17.md](es-8bb41a17.md); official file https://www.senat.ro/legis/PDF/2023/23L088ES.PDF
+- 2022-08-09: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088LG.PDF
+- 2022-08-09: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088SJ.PDF
+- 2022-08-09: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088PV.PDF
