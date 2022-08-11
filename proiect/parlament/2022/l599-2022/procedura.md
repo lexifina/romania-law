@@ -10,7 +10,8 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-06-09: first record in the bill file
 - 2022-06-14: registered at the Senate
+- 2022-08-11: documents published: Punct de vedere Guvern
 
 ## Documents
 
-- none held as text
+- 2022-08-11: Punct de vedere Guvern (SJ): [sj-e5ed780d.md](sj-e5ed780d.md); official file https://www.senat.ro/legis/PDF/2022/22L599SJ.PDF
