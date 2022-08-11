@@ -1,0 +1,2 @@
+# ANEXĂ
+LISTĂ a speciilor de interes comunitar pentru care România are o responsabilitate mare în asigurarea conservării acestora, în cadrul Proiectului "Completarea nivelului de cunoaștere a biodiversității prin implementarea sistemului de monitorizare a stării de conservare a speciilor de păsări de interes comunitar din România și raportarea în baza articolului 12 al Directivei Păsări 2009/147/CE", finanțat prin Programul operațional Infrastructura mare 2014 - 2020
