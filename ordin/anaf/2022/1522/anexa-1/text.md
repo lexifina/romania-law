@@ -1,0 +1,32 @@
+# ANEXĂ (Anexa nr. 23 la Ordinul nr. 63/2017)
+ANTET^1)
+Dosar de executare nr...........
+Nr............. din............
+Către^2)...................... cod de identificare fiscală........................... str......................... nr......, bl........, sc....., et...., ap........, sectorul......, localitatea..................., județul..............., cod poștal...............
+PROCES-VERBAL privind calculul creanțelor fiscale accesorii sau al altor sume care nu au fost stabilite în titlul executoriu
+În temeiul prevederilor art. 227 alin. (8) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, și având în vedere că prin titlul executoriu reprezentat de............................^3), nr.................... din data de..............., au fost prevăzute, după caz, creanțe fiscale accesorii sau alte sume, fără să fi fost stabilit cuantumul acestora, s-au calculat în sarcina debitorului............................., din localitatea...................., str.......................... nr..........., bl.........., sc......., ap.........., cod de identificare fiscală..........................................^4), următoarele sume de plată:
+A.
+Actualizarea sumelor stabilite prin titlul executoriu mai sus menționat, cu indicele prețurilor de consum publicat pe portalul Institutului Național de Statistică
+Denumirea obligației fiscale/bugetare^5) Cuantumul sumei pentru care se face actualizarea cu IPC (lei) Perioada pentru care se face actualizarea cu IPC^6) Indicele prețurilor de consum^6) Cuantumul sumelor de plată rezultate după actualizare^6) (lei) Contul în care urmează a se vira suma calculată
+TOTAL
+B.
+Calculul obligațiilor fiscale accesorii aferente sumelor stabilite prin titlul executoriu mai sus menționat
+Denumirea obligației fiscale/bugetare^5) Cuantumul dobânzilor (lei) Cuantumul penalităților de întârziere (lei) Contul în care urmează a se vira suma calculată
+TOTAL
+Având în vedere caracterul de solidaritate al răspunderii, vă facem cunoscut că, pentru sumele stabilite prin prezentul proces-verbal, sunt obligați să plătească în solidar și următoarele persoane fizice/juridice^7): 1............................, având codul de identificare fiscală.......... și domiciliul/domiciliul fiscal în localitatea.............., sectorul/județul................, str......... nr........, bl........., sc........., ap......., având calitatea de.............................. al debitorului......................., în perioada.................., în limita sumei de.............. lei;
+2.............................., având codul de identificare fiscală........... și domiciliul/domiciliul fiscal în localitatea..........., sectorul/județul........., str.......... nr...., bl......, sc......, ap.........., având calitatea de.......................... al debitorului..........................., în perioada................., în limita sumei de............ lei;
+3............................, având codul de identificare fiscală.............. și domiciliul/domiciliul fiscal în localitatea........., sectorul/județul..............., str........... nr........., bl............, sc........., ap......, având calitatea de............................... al debitorului...................., în perioada................., în limita sumei de.............. lei.
+^1) Se va trece sigla conform Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3.504/2013 privind aprobarea modelului și caracteristicilor siglelor utilizate la nivelul Agenției Naționale de Administrare Fiscală, cu modificările ulterioare, denumirea și adresa organului fiscal central emitent al prezentului act. ^2) Se vor menționa numele și prenumele sau denumirea debitorului/persoanei răspunzătoare în solidar. ^3) Se va menționa titlul executoriu în care sunt prevăzute sumele fără să fi fost calculate accesoriile, cum ar fi hotărârea judecătorească definitivă. ^4) Se va menționa: codul numeric personal, numărul de identificare fiscală, codul de înregistrare fiscală sau codul unic de înregistrare, după caz. ^5) Se va preciza denumirea obligației fiscale/bugetare: impozit, taxă, contribuție socială sau alte sume datorate bugetului general consolidat. ^6) Actualizarea, conform titlului executoriu, a obligațiilor fiscale/bugetare cu indicele prețurilor de consum stabilit de Institutul Național de Statistică se determină după următoarea formulă de calcul: A = (suma de actualizat x IPC)/100,
+unde: A
+- cuantumul sumelor rezultate după actualizare;
+suma de actualizat - cuantumul obligațiilor fiscale/bugetare pentru care se face actualizarea cu IPC;
+IPC - indicele prețurilor de consum, astfel cum a fost stabilit de Institutul Național de Statistică, valabil pentru luna anterioară corespunzătoare datei în care se emite prezentul proces-verbal ori luna în care s-a stins obligația fiscală/bugetară, comparativ cu cel valabil la data la care s-a emis titlul executoriu sau cea menționată în titlul executoriu, ori luna următoare celei în care s-a făcut ultima actualizare cu IPC. ^7) Se va completa doar în situația în care, alături de persoana răspunzătoare, se constată de organul de executare silită că se atrage răspunderea solidară și asupra altor persoane.
+Detaliile referitoare la modul de calcul al sumelor reprezentând dobânzi și penalități de întârziere aferente obligațiilor fiscale/bugetare se află în anexă.
+În temeiul prevederilor art. 227 alin. (8) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, prezentul înscris constituie titlu executoriu.
+Împotriva prezentului înscris se poate introduce contestație la instanța judecătorească competentă, în termen de 15 zile de la comunicare sau luarea la cunoștință, în conformitate cu prevederile art. 260 și 261 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare.
+Potrivit dispozițiilor art. 9 alin. (2) lit. d) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, când urmează să se ia măsuri de executare silită, audierea contribuabilului nu este obligatorie.
+Prezentul proces-verbal produce efecte juridice față de dumneavoastră de la data comunicării acestuia potrivit art. 47 din Legea nr. 207/2015, cu modificările și completările ulterioare.
+Conducătorul organului de executare
+Numele și prenumele.....................
+Semnătura...........................
+L.S.
