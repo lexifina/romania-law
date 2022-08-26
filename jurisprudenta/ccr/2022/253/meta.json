@@ -1,0 +1,226 @@
+{
+ "key": "dcc-253-2022",
+ "label": "Decizia CCR nr. 253/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "253",
+ "date": "2022-05-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 253 din 5 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 175 alin. (2) din Codul penal, în interpretarea dată prin Decizia nr. 18 din 30 mai 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "840",
+  "bis": false,
+  "date": "2022-08-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "32.800/299/2017",
+  "1.718D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Medana-Alina Spanache și Alexandru-Nicolae Țană în Dosarul nr. 32.800/299/2017 al Judecătoriei Sectorului 1 București și constată că dispozițiile art. 175 alin. (2) din Codul penal, în interpretarea dată prin Decizia nr. 18 din 30 mai 2017, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1998",
+    "number": "58",
+    "year": "1998",
+    "path": "lege/1998/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 312/2015",
+    "number": "312",
+    "year": "2015",
+    "path": "lege/2015/312"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilității nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "240",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-08-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258662",
+  "text_sha256": "ec0d280fd30c9393aa1eb8f97cb884964612326a7067d7bea33036f076df879b",
+  "catalogue_sha256": "ec0d280fd30c9393aa1eb8f97cb884964612326a7067d7bea33036f076df879b",
+  "fetched": "2026-11-03T01:30:37Z",
+  "chars": 24223,
+  "portal_id": "258662",
+  "tip": "DECIZIE"
+ }
+}
