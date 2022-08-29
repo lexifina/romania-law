@@ -1,0 +1,22 @@
+# Proiect de lege L526/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 407/2023 (`legea-407-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.21/2022 pentru stabilirea unor măsuri privind finalizarea lucrărilor de intervenție pentru creșterea performanței energetice la blocurile de locuințe din cadrul Programului național multianual privind creșterea performanței energetice a blocurilor de locuințe cu finanțare în perioada 2019-2021
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-08-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-08-29: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L526AD.PDF
+- 2022-08-29: Forma inițiatorului (FG): [fg-dad8cf1c.md](fg-dad8cf1c.md); official file https://www.senat.ro/legis/PDF/2022/22L526FG.PDF
+- 2022-08-29: Expunere de motive (EM): [em-f1fa3b72.md](em-f1fa3b72.md); official file https://www.senat.ro/legis/PDF/2022/22L526EM.PDF
+- 2022-08-29: Aviz Consiliul Legislativ (LG): [lg-fe7a217a.md](lg-fe7a217a.md); official file https://www.senat.ro/legis/PDF/2022/22L526LG.PDF
+- 2022-08-29: Document (OG): [og-a8cf7448.md](og-a8cf7448.md); official file https://www.senat.ro/legis/PDF/2022/22L526OG.PDF
+- 2022-08-29: Document (HG): [hg-71821254.md](hg-71821254.md); official file https://www.senat.ro/legis/PDF/2022/22L526HG.PDF
