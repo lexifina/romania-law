@@ -1,0 +1,22 @@
+# Proiect de lege L532/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 197/2023 (`legea-197-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.27/2022 privind reglementarea unor măsuri financiare prin instituirea schemei de ajutor de minimis în vederea tranziției către economia circulară
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-08-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-08-29: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L532AD.PDF
+- 2022-08-29: Forma inițiatorului (FG): [fg-c661619b.md](fg-c661619b.md); official file https://www.senat.ro/legis/PDF/2022/22L532FG.PDF
+- 2022-08-29: Expunere de motive (EM): [em-53902b14.md](em-53902b14.md); official file https://www.senat.ro/legis/PDF/2022/22L532EM.PDF
+- 2022-08-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L532LG.PDF
+- 2022-08-29: Document (OG): [og-4723d473.md](og-4723d473.md); official file https://www.senat.ro/legis/PDF/2022/22L532OG.PDF
+- 2022-08-29: Document (HG): [hg-befedf11.md](hg-befedf11.md); official file https://www.senat.ro/legis/PDF/2022/22L532HG.PDF
