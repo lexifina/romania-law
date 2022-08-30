@@ -1,0 +1,389 @@
+{
+ "key": "dcc-249-2022",
+ "label": "Decizia CCR nr. 249/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "249",
+ "date": "2022-05-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 249 din 5 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 57 alin. (7) și (8) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în redactarea anterioară modificării prin Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, a dispozițiilor art. 9 alin. (1) lit. c), alin. (2) și alin. (3) și a sintagmei \"pretențiile părții civile\" cuprinse în art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, în redactarea anterioară modificării prin Legea nr. 55/2021 privind modificarea și completarea Legii nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, și a dispozițiilor art. 10 alin. (1) din Legea nr. 241/2005, în redactarea anterioară modificării prin Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "850",
+  "bis": false,
+  "date": "2022-08-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.270/2/2016/a1",
+  "714D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2021",
+    "number": "55",
+    "year": "2021",
+    "path": "lege/2021/55"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Adrian Sârbu și Societatea Mediafax Group - S.A. în Dosarul nr. 2.270/2/2016/a1** al Curții de Apel București - Secția I penală și constată că dispozițiile art. 57 alin. (7) și (8) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, în redactarea anterioară modificării prin Legea nr. 242/2018 pentru modificarea și completarea Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, ale art. 9 alin. (1) lit. c), alin. (2) și alin. (3), în redactarea anterioară modificării prin Legea nr. 55/2021 privind modificarea și completarea Legii nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, și ale art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, în redactarea anterioară modificării prin Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale, sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a sintagmei „pretențiile părții civile“, cuprinsă în art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, în redactarea anterioară modificării prin Legea nr. 55/2021 privind modificarea și completarea Legii nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, excepție ridicată de aceiași autori în același dosar al aceleiași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția I penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2021",
+    "number": "55",
+    "year": "2021",
+    "path": "lege/2021/55"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2014",
+    "number": "303",
+    "year": "2014",
+    "path": "lege/2014/303"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 242/2018",
+    "number": "242",
+    "year": "2018",
+    "path": "lege/2018/242"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "XXIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-08-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258716",
+  "text_sha256": "de54ebbc3c9bc603cbbadf4ff35d6e255e54a1b98a0e35611de51e0f81cbecfd",
+  "catalogue_sha256": "de54ebbc3c9bc603cbbadf4ff35d6e255e54a1b98a0e35611de51e0f81cbecfd",
+  "fetched": "2026-11-03T01:30:31Z",
+  "chars": 39438,
+  "portal_id": "258716",
+  "tip": "DECIZIE"
+ }
+}
