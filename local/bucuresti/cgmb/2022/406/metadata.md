@@ -1,0 +1,11 @@
+# HCGMB nr. 406/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 406/2022
+- Adopted: 2022-08-31
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 178/23.04.2019, MODIFICATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 586/24. 10.2019, PRIVIND APROBAREA PROIECTULUI „EXTINDEREA SI REABILITAREA INFRASTRUCTURII DE APA SI APA UZATA IN ZONELE GHIDIGENI, OLTENITEI , CHEILE TURZII SI HENRI COANDA DIN MUNICIPIUL BUCURESTI" SI A CHELTUIELILOR LEGATE DE PROIECT MODIFICA ART. NR. 2, SI NR. 3 DIN HCGMB NR. 178/2019 ABROGATA PRIN HCGMB NR. 20/2023
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/43296
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/43296/H406_22.pdf
+- Document sha256: 7a3abe6295775a9e1f5674f6585c6d898a7b0d867a4ebcd87c1f397dd273a4b2
