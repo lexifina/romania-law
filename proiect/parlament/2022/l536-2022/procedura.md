@@ -1,0 +1,20 @@
+# Proiect de lege L536/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.31/2022 pentru modificarea şi completarea Legii nr.207/2015 privind Codul de procedură fiscală
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-08-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-08-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L536AD.PDF
+- 2022-08-31: Forma inițiatorului (FG): [fg-a746499d.md](fg-a746499d.md); official file https://www.senat.ro/legis/PDF/2022/22L536FG.PDF
+- 2022-08-31: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L536EM.PDF
+- 2022-08-31: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L536LG.PDF
+- 2022-08-31: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L536OG.PDF
+- 2022-08-31: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L536HG.PDF
