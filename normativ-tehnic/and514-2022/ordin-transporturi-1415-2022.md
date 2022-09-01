@@ -1,0 +1,12 @@
+ ORDIN nr. 1.415 din 18 august 2022  pentru aprobarea  reglementării tehnice  "Regulament privind recepția lucrărilor de întreținere drumuri și poduri" - indicativ AND 514-2022     EMITENT     MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII       Publicat în
+			  MONITORUL OFICIAL nr. 860 din 1 septembrie 2022      În conformitate cu prevederile  art. 10 alin. (2) din Legea nr. 10/1995  privind calitatea în construcții, republicată, cu modificările și completările ulterioare, precum și ale  art. 57 lit. h) din Ordonanța Guvernului nr. 43/1997  privind regimul drumurilor, republicată, cu modificările și completările ulterioare,   în temeiul  art. 9 alin. (4) din Hotărârea Guvernului nr. 370/2021  privind organizarea și funcționarea Ministerului Transporturilor și Infrastructurii, cu modificările și completările ulterioare,   viceprim-ministrul, ministrul transporturilor și infrastructurii, emite următorul ordin:
+				 +
+			  Articolul 1      Se aprobă  reglementarea tehnică  „Regulament privind recepția lucrărilor de întreținere drumuri și poduri“ - indicativ AND 514-2022, prevăzută în  anexa *) care face parte integrantă din prezentul ordin. *) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 860 bis, care se poate achiziționa de la Centrul pentru relații cu publicul din șos. Panduri nr. 1, bl. P33, parter, sectorul 5, București.
+				 +
+			  Articolul 2      Începând cu data intrării în vigoare a prezentului ordin,  Ordinul ministrului transporturilor, construcțiilor și turismului nr. 616/2003  privind aprobarea reglementării tehnice „Metodologie privind efectuarea recepției lucrărilor de întreținere și reparare curentă drumuri poduri“ (revizuire AND 514-1992), indicativ AND 514-2000, publicat în Monitorul Oficial al României, Partea I, nr. 779 din 6 noiembrie 2003, se abrogă.
+				 +
+			  Articolul 3      Prevederile prezentului ordin se aplică drumurilor de interes național aflate în administrarea Ministerului Transporturilor și Infrastructurii, prin Compania Națională de Administrare a Infrastructurii Rutiere - S.A., iar pentru administratorii de drumuri județene și drumuri comunale sunt orientative, cu rol de recomandare.
+				 +
+			  Articolul 4      Prezentul ordin se publică în Monitorul Oficial al României, Partea I.       Viceprim-ministru, ministrul transporturilor și infrastructurii,    Sorin Mihai Grindeanu    București, 18 august 2022.   Nr. 1.415.
+				 +
+			  ANEXĂ         REGLEMENTARE TEHNICĂ "Regulament privind recepția lucrărilor de întreținere drumuri și poduri - indicativ AND   514-2022"
