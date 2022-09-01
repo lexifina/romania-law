@@ -1,0 +1,252 @@
+{
+ "key": "dcc-337-2022",
+ "label": "Decizia CCR nr. 337/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "337",
+ "date": "2022-05-26",
+ "year": "2022",
+ "heading": "DECIZIA nr. 337 din 26 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor capitolului I și ale art. 5 alin. (1)-(3) din secțiunea a 2-a a capitolului II, ambele capitole din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "858",
+  "bis": false,
+  "date": "2022-09-01",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "18.942/3/2018",
+  "1.037D/2019",
+  "1.457D/2019",
+  "40.375/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valerica Barbieru și alții, prin Sindicatul Național al Polițiștilor și Vameșilor „Pro Lex“, în Dosarul nr. 18.942/3/2018 al Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal, respectiv de Mihai Childesco și alții, prin Sindicatul Național al Polițiștilor și Vameșilor „Pro Lex“, în Dosarul nr. 40.375/3/2018 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile capitolului I și ale art. 5 alin. (1)-(3) din secțiunea a 2-a a capitolului II, ambele capitole din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vrancea - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 070/2004",
+    "number": "70",
+    "year": "2004",
+    "path": "hg/2004/70"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 0292/2011",
+    "number": "292",
+    "year": "2011",
+    "path": "hg/2011/292"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "HG nr. 0610/2017",
+    "number": "610",
+    "year": "2017",
+    "path": "hg/2017/610"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-09-01",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258759",
+  "text_sha256": "37bf4440928672dd21ad96892e8b0d28b1fb37ca580fbd6ceed995e94eec54be",
+  "catalogue_sha256": "37bf4440928672dd21ad96892e8b0d28b1fb37ca580fbd6ceed995e94eec54be",
+  "fetched": "2026-11-03T01:30:27Z",
+  "chars": 20269,
+  "portal_id": "258759",
+  "tip": "DECIZIE"
+ }
+}
