@@ -1,0 +1,17 @@
+# Propunere legislativă L620/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Ordonanței de Guvern nr.26/2000 cu privire la asociații și fundații
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-01: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L620AD.PDF
+- 2022-09-01: Forma inițiatorului (FG): [fg-a01b880a.md](fg-a01b880a.md); official file https://www.senat.ro/legis/PDF/2022/22L620FG.PDF
+- 2022-09-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L620EM.PDF
