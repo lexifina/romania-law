@@ -1,0 +1,17 @@
+# Propunere legislativă L622/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea unor acte normative în vederea reabilitării și/sau înființării infrastructurii principale de irigații și a infrastructurii de desecare și drenaj, precum și pentru sprijinirea investițiilor în producția și procesarea produselor agricole din România
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-01: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L622AD.PDF
+- 2022-09-01: Forma inițiatorului (FG): [fg-4dae25d0.md](fg-4dae25d0.md); official file https://www.senat.ro/legis/PDF/2022/22L622FG.PDF
+- 2022-09-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L622EM.PDF
