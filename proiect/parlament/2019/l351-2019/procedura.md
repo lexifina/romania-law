@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-05-02: sent for promulgation
 - 2022-05-17: returned for re-examination
 - 2022-06-29: adopted by the Senate
+- 2022-09-01: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,8 @@ Initiator: Guvernul României.
 - 2019-10-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351AM.PDF
 - 2022-04-26: Adresă privind sesizarea CCR (AXS): [axs-3519eee3.md](axs-3519eee3.md); official file https://www.senat.ro/legis/PDF/2019/19L351AXS.PDF
 - 2022-04-26: Forma trimisă la promulgare (LP): [lp-0c0f8a9b.md](lp-0c0f8a9b.md); official file https://www.senat.ro/legis/PDF/2019/19L351LP.PDF
+- 2022-09-01: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-09-01: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-09-01: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-09-01: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-09-01: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L351SX.PDF (its day is not given by the bill file: shown from the last stage held)
