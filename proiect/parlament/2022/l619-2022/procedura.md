@@ -1,0 +1,19 @@
+# Propunere legislativă L619/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 157/2023 (`legea-157-2023`).
+
+Propunere legislativă privind Ziua Sustenabilității în România
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-01: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L619AD.PDF
+- 2022-09-01: Forma inițiatorului (FG): [fg-d2a3b579.md](fg-d2a3b579.md); official file https://www.senat.ro/legis/PDF/2022/22L619FG.PDF
+- 2022-09-01: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L619EM.PDF
