@@ -1,0 +1,16 @@
+# Anexa nr. 2 (Anexa nr. 11 la Ordinul nr. 253/2018)
+Ministerul Sănătății
+Direcția de Sănătate Publică..........
+AUTORIZAȚIE DE FUNCȚIONARE pentru servicii de îngrijiri paliative la domiciliu în baza declarației pe propria răspundere
+Autorizația de funcționare în baza declarației pe propria răspundere pentru serviciile de îngrijiri paliative la domiciliu va cuprinde cel puțin următoarele informații:
+La cererea................................., în calitate de................................... al............., cu sediul în........................................, cod fiscal/CUI................., având în vedere Declarația pe propria răspundere nr........./.......... privind serviciile de îngrijiri paliative la domiciliu, se acordă:
+AUTORIZAȚIE DE FUNCȚIONARE
+Nr...../....../........ pentru obiectivul: Dispecerat îngrijiri paliative la domiciliu....................................., situat în............................, având ca obiect de activitate (cod CAEN)..........................., având personal medical angajat în conformitate cu dispozițiile legale și cu reglementările Ministerului Sănătății privind această activitate.
+Director executiv,.....................................................................
+Semnătura și ștampila autorității competente
+Viza la interval de 3 ani: Anul:.....................
+Anul:.....................
+Anul:.....................
+NOTĂ: Titularul autorizației este obligat: - să solicite în scris schimbarea autorizației de funcționare în cazul modificărilor legate de sediu, statut, cod fiscal, regulament de organizare și funcționare;
+- să aplice și să respecte normele antiepidemice și de igienă în vigoare;
+- să asigure furnizarea serviciilor de îngrijiri paliative la domiciliu în conformitate cu competențele oferite de curriculumul de pregătire al personalului și fișa postului.
