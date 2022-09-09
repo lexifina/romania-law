@@ -1,0 +1,13 @@
+# Anexa nr. 3
+CERTIFICAT privind taxa pe valoarea adăugată, în cazul achizițiilor intracomunitare de mijloace de transport
+Ca urmare a Cererii nr.......................... din data de..................... se certifică prin prezentul că:
+Denumirea/Numele și prenumele..................................................
+Cod de identificare fiscală/Cod numeric personal.............................
+Domiciliul fiscal:
+Localitatea...................., str.............................. nr......., bl......, ap......., et............, județul/sectorul.............. [] a achitat taxa pe valoarea adăugată aferentă achiziției intracomunitare a mijlocului de transport [] nu datorează taxa pe valoarea adăugată în România pentru achiziția intracomunitară a mijlocului de transport/transferul mijlocului de transport nou dintr-un alt stat membru al Uniunii Europene în România
+Datele de identificare ale mijlocului de transport^1..............................................................................................................................................................................................
+S-a eliberat prezentul certificat în scopul înmatriculării mijlocului de transport în România, în condițiile prevăzute de art. 324 alin. (3) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și de pct. 104 alin. (1) din titlul VII „Taxa pe valoarea adăugată” al Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 1/2016, cu modificările și completările ulterioare.
+Conducătorul unității fiscale
+Numele și prenumele..........................
+Semnătura și ștampila unității............... ^1 Se înscriu datele de identificare ale mijlocului de transport (categoria, marca, denumirea comercială, numărul de identificare/seria șasiului, numărul de omologare, după caz).
+Document care conține date cu caracter personal protejate de prevederile Regulamentului (UE) 2016/679
