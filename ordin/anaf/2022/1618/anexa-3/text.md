@@ -1,0 +1,33 @@
+# Anexa nr. 3
+MINISTERUL FINANȚELOR
+AGENȚIA NAȚIONALĂ DE ADMINISTRARE FISCALĂ
+Unitatea fiscală............................................
+Serviciul/Biroul/Compartimentul...................
+Nr............/.................
+DECIZIE de anulare a obligațiilor fiscale și/sau bugetare datorate de operatorii economici din industria națională de apărare
+Datele de identificare a contribuabilului Datele de identificare a împuternicitului
+Denumirea........................................... Denumirea/Numele și prenumele............................
+Adresa:........................................................... Adresa:...........................................................
+Codul de identificare fiscală............................. Codul de identificare fiscală.............................
+În temeiul prevederilor art. 2 din Ordonanța de urgență a Guvernului nr. 45/2022 privind unele măsuri pentru diminuarea arieratelor bugetare ale unor operatori economici din industria națională de apărare, având în vedere Cererea dumneavoastră nr............. din data de..............., înregistrată la organul fiscal cu nr.............. din data de................, precum și Certificatul de atestare fiscală nr...........din data de............, se emite următoarea decizie:
+Se acordă anularea obligațiilor fiscale și/sau bugetare, inclusiv a accesoriilor acestora, aferente producției sau comerțului cu armament, muniție și material de război, datorate și neachitate la data de 31.03.2022, în sumă totală de.....................lei, reprezentând:
+-lei-
+Nr. crt.
+Denumirea obligației fiscale și/sau bugetare
+Obligația fiscală și/sau bugetară
+Total, din care:
+Obligație fiscală și/sau bugetară principală
+Obligații accesorii
+Majorări de întârziere/Dobânzi
+Penalități de întârziere
+Penalități de nedeclarare 0 1 2 = 3 + 4 + 5 + 6 3 4 5 6
+1.
+2.
+3.......
+Total general
+Mențiuni privind audierea contribuabilului:..........................................................................
+Împotriva prezentei decizii se poate formula contestație, potrivit prevederilor a rt. 268 și 269 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, în termenul prevăzut de art. 270 al aceluiași act normativ, sub sancțiunea decăderii. Contestația se depune la organul fiscal emitent al deciziei.
+Conducătorul unității fiscale
+Numele și prenumele........................
+Semnătura și ștampila unității.............
+-----
