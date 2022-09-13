@@ -10,7 +10,8 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-09-01: first record in the bill file
 - 2022-09-06: registered at the Senate
+- 2022-09-13: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2022-09-13: Aviz comisie (CA55): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L602CA55.PDF
