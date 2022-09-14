@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-07-01: sent for promulgation
 - 2022-07-20: promulgated, becomes Legea nr. 242/2022
 - 2022-07-27: published in the Monitorul Oficial
+- 2022-09-14: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L353AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L353AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L353LP.PDF
+- 2022-09-14: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L353CC.PDF (its day is not given by the bill file: shown from the last stage held)
