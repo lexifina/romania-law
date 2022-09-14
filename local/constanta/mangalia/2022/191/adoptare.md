@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată cu un nr. de 15 voturi ”pentru”, 0 voturi ”împotrivă” și 3 voturi ”abținere”, din nr. de 18 consilieri prezenți la ședință și un nr. de 19 consilieri locali în funcție.
