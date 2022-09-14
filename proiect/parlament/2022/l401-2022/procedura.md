@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2022-08-29: documents published: Aviz comisie
 - 2022-09-08: documents published: Aviz comisie
 - 2022-09-12: documents published: Aviz comisie
+- 2022-09-14: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2022-09-08: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L401CA56.PDF
 - 2022-09-08: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L401CA8.PDF
 - 2022-09-12: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L401CA45.PDF
+- 2022-09-14: Raport comisie sesizată pe fond (CR): [cr-12f2f266.md](cr-12f2f266.md); official file https://www.senat.ro/legis/PDF/2022/22L401CR.PDF
+- 2022-09-14: Forma adoptată de Senat (FS): [fs-74c6fa38.md](fs-74c6fa38.md); official file https://www.senat.ro/legis/PDF/2022/22L401FS.PDF
+- 2022-09-14: Adresă către Camera Deputaților (AM): [am-bfcaed8a.md](am-bfcaed8a.md); official file https://www.senat.ro/legis/PDF/2022/22L401AM.PDF
