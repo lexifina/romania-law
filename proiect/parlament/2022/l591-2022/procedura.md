@@ -1,0 +1,22 @@
+# Proiect de lege L591/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 183/2023 (`legea-183-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.124/2022 pentru modificarea Ordonanței de urgență a Guvernului nr.105/2022 privind aprobarea continuării Programului-pilot de acordare a unui suport alimentar pentru preșcolarii și elevii din 300 de unități de învățământ preuniversitar de stat, precum și pentru modificarea art.97 din Legea nr.196/2016 privind venitul minim de incluziune
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-09-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-09-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L591AD.PDF
+- 2022-09-15: Forma inițiatorului (FG): [fg-5b19f77b.md](fg-5b19f77b.md); official file https://www.senat.ro/legis/PDF/2022/22L591FG.PDF
+- 2022-09-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L591EM.PDF
+- 2022-09-15: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L591LG.PDF
+- 2022-09-15: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L591OG.PDF
+- 2022-09-15: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L591HG.PDF
