@@ -1,0 +1,17 @@
+# Propunere legislativă L651/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru reducerea poverii fiscale pe muncă
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-15: Adresă de înaintare a inițiativei (AD): [ad-18744159.md](ad-18744159.md); official file https://www.senat.ro/legis/PDF/2022/22L651AD.PDF
+- 2022-09-15: Forma inițiatorului (FG): [fg-033b8575.md](fg-033b8575.md); official file https://www.senat.ro/legis/PDF/2022/22L651FG.PDF
+- 2022-09-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L651EM.PDF
