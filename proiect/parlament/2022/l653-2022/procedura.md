@@ -1,0 +1,17 @@
+# Propunere legislativă L653/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru înființarea Registrului național al gravidelor și mamelor minore, precum și pentru modificarea și completarea Legii nr.272/2004 privind protecția și promovarea drepturilor copilului
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-16: Adresă de înaintare a inițiativei (AD): [ad-00a128f8.md](ad-00a128f8.md); official file https://www.senat.ro/legis/PDF/2022/22L653AD.PDF
+- 2022-09-16: Forma inițiatorului (FG): [fg-485a5c55.md](fg-485a5c55.md); official file https://www.senat.ro/legis/PDF/2022/22L653FG.PDF
+- 2022-09-16: Expunere de motive (EM): [em-56a25230.md](em-56a25230.md); official file https://www.senat.ro/legis/PDF/2022/22L653EM.PDF
