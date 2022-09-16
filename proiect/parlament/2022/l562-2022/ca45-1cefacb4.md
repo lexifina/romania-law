@@ -1,0 +1,43 @@
+5:’1-
+Comisia pentru drepturile o^^^fegautate de șanse,cuite și minorități
+'nKJf/?UAA
+Nr. XXVI/706/13.09.2022
+AVIZ
+la
+Propunere legislativă pentru completarea și modificarea Legii nr.263/2010 privind sistemul unitar
+de pensii publice
+Comisia pentru drepturile omului, egalitate de șanse, culte și minorități, prin adresa nr. L562/2022 din
+data de 6.09.2022, a fost sesizată, în vederea întocmirii avizului, cu Propunere legislativă pentru completarea
+și modificarea Legii nr.263/2010 privind sistemul unitar de pensii publice, inițiatori: Adomnicăi Mirela-
+Elena - deputat PSD; Albotă Emil-Florin - deputat PSD; Aida Adrian - deputat PSD; Alexc Florin-Alexandru -
+deputat PNL; Bâlâșoiu Aurel - deputat PSD; Barbu Florin-Ionuț - deputat PSD; Bîrcă Constantin - deputat PSD;
+Buicu Comeliu-Florin - deputat PSD; Calotă Floricâ Ică - deputat PNL; Cătăuță Ana-Maria - deputat PSD;
+Chirilă Virgil Alin - deputat PSD; Coarnă Dumitru - deputat PSD; Cristescu Radu-Mihai - deputat PSD; Cristian
+Brian - deputat USR_PLUS; Crîstici Ognean - deputat USR (minorități); Damian Romulus-Marius - deputat
+PSD; Dinu Cristina-Elena - deputat PSD; Dumitrescu Raluca Giorgiana - deputat PSD; Dunava Costel Neculai ••
+deputat PSD; Firczak lulius Marian - deputat UCRR (minorități); Florea Daniel - deputat PSD; Georgescu
+Nicolae - deputat PSD; Ghiță Daniel-Florin - deputat PSD; Goleac Nicoleta-Matilda - deputat PSD; Holban
+Georgeta-Carmen - deputat PSD; Horga Maria-Gabriela - deputat PNL; lancu Marius-Ionel - deputat PSD;
+llișanu Claudiu-Augustin - deputat PSD; Ivan Bogdan-Gruia - deputat PSD; Lungoci Dumitru-Lucian - deputat
+PSD; Manea Cătălin-Zamfir - deputat Pro-Europa (minorități); Manta Claudiu - deputat PSD; Mărculescu
+Dumitru - deputat PNL; Marin Laurențiu Dan - deputat PSD; Merka Adrian-Miroslav - deputat UDSCR
+(minorități); Mina Marian - deputat PSD; Munteanu Remus - deputat PSD; Nassar Rodica - deputat PSD; Neaga
+Florian-Claudiu - deputat PSD; Neață Eugen - deputat PSD; Nechita Aurel - deputat PSD; Niță Nicu - deputat
+PSD; Ozmen Oana-Marciana - deputat PNL; Paladi George-Adrian ~ deputat PSD; Pavelescu Nicolae - deputat
+PSD; Peța-Ștefanescu Eliza-Mădălina - deputat PSD; Petrețchi Nicolae-Miroslav - deputat UUR (minorități);
+Piper-Savu Florin - deputat PSD; Popa Ștefan-Ovidiu - deputat PSD; Predescu Ana-Loredana •• deputat PSD;
+Presură Alexandra - deputat PSD; Șoldan Gheorghe - deputat PSD; Stănescu Vetuța - deputat PNL; Stoica Elena
+- deputat PSD; Țepeluș Laurențiu-Cristinel - deputat PSD; Trif Bogdan Gheorghe - deputat PSD; Tudorache
+Daniel - deputat PSD; Tuhuț Radu-Marcel - deputat PSD; Țuțuianu Marius-Horia - deputat PSD; Vicol-Ciorbă
+Laura-Cătălina - deputat PSD; Vulpescu loan - deputat PSD; Weber Mihai - deputat PSD; Zisopol Dragoș-
+Gabriel - deputat UER (minorități).
+în ședința din 13 septembrie 2022, Comisia pentru drepturile omului, egalitate de șanse, culte și
+minorități a hotărât, cu majoritate de voturi, să adopte un aviz favorabil.
+Secretar,
+Președintă,
+Senator TOANCHINĂ Marius-Gheorghe
+Senatoar*
+;AGU Anca Dana
+oo?
+Domnului senator ROTARĂ Ion
+Președintele Comisiei pentru muncă, familie și protecție socială
