@@ -1,0 +1,162 @@
+{
+ "key": "iccj-hp-41-2022",
+ "label": "Decizia ÎCCJ nr. 41/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "41",
+ "date": "2022-06-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 41 din 27 iunie 2022",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Dacă valoarea obiectului unui contract de mandat remunerat este reprezentată de valoarea creanței în vederea recuperării căreia s-a încheiat contractul de mandat sau de valoarea remunerației mandatarului.\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "914",
+  "bis": false,
+  "date": "2022-09-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "795/1/2022",
+  "14.029/200/2020"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Buzău - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 14.029/200/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă valoarea obiectului unui contract de mandat remunerat este reprezentată de valoarea creanței în vederea recuperării căreia s-a încheiat contractul de mandat sau de valoarea remunerației mandatarului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1026",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1033",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1548",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2009",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1225",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2010",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1270",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1527",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1531",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-09-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259417",
+  "text_sha256": "cd3706ee981b5291f50bdb67f78c3ef7f83b8bd85002dac05ed118423c55f897",
+  "catalogue_sha256": "cd3706ee981b5291f50bdb67f78c3ef7f83b8bd85002dac05ed118423c55f897",
+  "fetched": "2026-11-03T01:30:00Z",
+  "chars": 56019,
+  "portal_id": "259417",
+  "tip": "DECIZIE"
+ }
+}
