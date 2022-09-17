@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-22: documents published: Aviz comisie
 - 2022-09-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-09-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2022-09-17: sent for promulgation
 
 ## Documents
 
