@@ -1,0 +1,19 @@
+# Propunere legislativă L669/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 244/2024 (`legea-244-2024`).
+
+Propunere legislativă pentru modificarea alin.(1) al art.100 din Legea nr.227/2015 privind Codul fiscal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-09-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-09-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L669AD.PDF
+- 2022-09-19: Forma inițiatorului (FG): [fg-e9378ad4.md](fg-e9378ad4.md); official file https://www.senat.ro/legis/PDF/2022/22L669FG.PDF
+- 2022-09-19: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L669EM.PDF
