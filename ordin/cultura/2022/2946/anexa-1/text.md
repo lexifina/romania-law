@@ -1,0 +1,6 @@
+# ANEXĂ
+ZONA DE PROTECȚIE a monumentului istoric Biserica „Sf. Spiridon” și „Sf. Nicolae”, situat la adresa str. Negulescu Jean 3, municipiul Craiova, județul Dolj
+Nr. crt.
+X [m]
+Y [m] 1 314223.855 404444.228 2 314180.768 404448.932 3 314127.800 404446.817 4 314123.486 404427.524 5 314140.575 404401.763 6 314152.050 404351.066 7 314128.353 404343.566 8 314142.358 404299.314 9 314168.967 404307.736 10 314204.354 404304.599
+-----
