@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-01: first record in the bill file
 - 2022-09-06: registered at the Senate
 - 2022-09-13: documents published: Aviz comisie
+- 2022-09-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2022-09-13: Aviz comisie (CA55): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L602CA55.PDF
+- 2022-09-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L602AD.PDF
+- 2022-09-19: Forma inițiatorului (FG): [fg-b4bde105.md](fg-b4bde105.md); official file https://www.senat.ro/legis/PDF/2022/22L602FG.PDF
+- 2022-09-19: Expunere de motive (EM): [em-2f202404.md](em-2f202404.md); official file https://www.senat.ro/legis/PDF/2022/22L602EM.PDF
