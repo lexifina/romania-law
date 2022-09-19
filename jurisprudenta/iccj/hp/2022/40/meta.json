@@ -1,0 +1,309 @@
+{
+ "key": "iccj-hp-40-2022",
+ "label": "Decizia ÎCCJ nr. 40/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "40",
+ "date": "2022-06-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 40 din 27 iunie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 306 alin. (2) și art. 328 alin. (2) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "916",
+  "bis": false,
+  "date": "2022-09-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "851/1/2022",
+  "5.475/99/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 5.475/99/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: În interpretarea și aplicarea dispozițiilor art. 306 alin. (2) ș i art. 328 alin. (2) din Codul de procedură civilă, sancțiunea înlăturării din probatoriu a înscrisului defăimat ca fals, ce intervine ca urmare a neprezentării părții care l-a depus la dosar la termenul fixat în scopul verificării înscrisului, se întemeiază pe o prezumție legală care nu poate fi răsturnată în apel prin dovada contrară sau pe o prezumție ce poate fi răsturnată în apel, față de caracterul devolutiv al căii de atac, în lumina Deciziei nr. 9 din 30 martie 2020 a Înaltei Curți de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, publicată în Monitorul Oficial al României, Partea I, nr. 548 din 25 iunie 2020, și prin aplicarea dispozițiilor art. 479 alin. (2) din Codul de procedură civilă, referitoare la refacerea sau completarea probatoriilor administrate în primă instanță?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "306",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "304",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "478",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "262",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "255",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "258",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "168",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "208",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "214",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-09-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259429",
+  "text_sha256": "ac03067ae1724c6362788d889e5f18199afd1ec1fa6a974b9f7aab6705b9c341",
+  "catalogue_sha256": "ac03067ae1724c6362788d889e5f18199afd1ec1fa6a974b9f7aab6705b9c341",
+  "fetched": "2026-11-03T01:30:01Z",
+  "chars": 70265,
+  "portal_id": "259429",
+  "tip": "DECIZIE"
+ }
+}
