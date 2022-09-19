@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-09-01: registered at the Chamber of Deputies
+- 2022-09-19: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2022-09-19: Raport comisie sesizată pe fond (CR): [cr-2e172754.md](cr-2e172754.md); official file https://www.senat.ro/legis/PDF/2022/22L594CR.PDF
