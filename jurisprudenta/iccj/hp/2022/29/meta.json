@@ -1,0 +1,304 @@
+{
+ "key": "iccj-hp-29-2022",
+ "label": "Decizia ÎCCJ nr. 29/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "29",
+ "date": "2022-05-16",
+ "year": "2022",
+ "heading": "DECIZIA nr. 29 din 16 mai 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. XV alin. (1^1) raportat la art. XV alin. (1) din Ordonanța de urgență a Guvernului nr. 30/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "918",
+  "bis": false,
+  "date": "2022-09-19",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "323/1/2022",
+  "1.046/115/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": [
+      "1-1",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Timișoara - Secția de contencios administrativ și fiscal în Dosarul nr. 1.046/115/2021, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea dispozițiilor art. XV alin. (1^1) raportat la art. XV alin. (1) din Ordonanța de urgență a Guvernului nr. 30/2020 pentru modificarea și completarea unor acte normative, precum și pentru stabilirea unor măsuri în domeniul protecției sociale în contextul situației epidemiologice determinate de răspândirea coronavirusului SARS-CoV-2, cu modificările și completările ulterioare, condiția „realizării de încasări cu minimum 25% mai mici comparativ cu media lunară pe anul 2019“ nu include și ipoteza nerealizării unor venituri pe anul 2019, ca urmare a dobândirii calității de avocat doar începând cu anul 2020, respectiv anterior instituirii stării de urgență prin Decretul Președintelui României nr. 195/2020 privind instituirea stării de urgență pe teritoriul României, dar ulterior datei de 1 ianuarie 2020.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2020",
+    "number": "30",
+    "year": "2020",
+    "path": "oug/2020/30"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": [
+      "1-1",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 6/2020",
+    "number": "6",
+    "year": "2020",
+    "path": "lege/2020/6"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 113/2011",
+    "number": "113",
+    "year": "2011",
+    "path": "oug/2011/113"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "XV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2005",
+    "number": "1",
+    "year": "2005",
+    "path": "lege/2005/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 53/2020",
+    "number": "53",
+    "year": "2020",
+    "path": "oug/2020/53"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației fizice și sportului nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "X-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XI",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "67-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 60/2020",
+    "number": "60",
+    "year": "2020",
+    "path": "lege/2020/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-09-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259448",
+  "text_sha256": "65012db93427e5e4d235400f0f7699c13f4225322fe941849da46442e0eea85c",
+  "catalogue_sha256": "65012db93427e5e4d235400f0f7699c13f4225322fe941849da46442e0eea85c",
+  "fetched": "2026-11-03T01:29:58Z",
+  "chars": 42801,
+  "portal_id": "259448",
+  "tip": "DECIZIE"
+ }
+}
