@@ -1,0 +1,16 @@
+# ANEXĂ
+MODIFICĂRI ȘI COMPLETĂRI ale anexei nr. 1 la Ordinul ministrului sănătății nr. 443/2022 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman, valabile în România, care pot fi utilizate/comercializate de către deținătorii de autorizație de punere pe piață a medicamentelor sau reprezentanții acestora, distribuitorii angro și furnizorii de servicii medicale și medicamente pentru acele medicamente care fac obiectul unei relații contractuale cu Ministerul Sănătății, casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București, cuprinse în Catalogul național al prețurilor medicamentelor autorizate de punere pe piață în România, a prețurilor de referință generice și a prețurilor de referință inovative
+1.
+După poziția nr. 6874 se introduc 5 noi poziții, pozițiile nr. 6875-6879, cu următorul cuprins:
+Nr. crt. Semn_obs Stare Cod CIM Denumire produs Forma Concentrație Firma/Țara DCI Ambalaj Gr_atc Stat_frm Stat_anm Preț prod. (lei) Preț ridicata maximal fără TVA (lei) Preț amănuntul maximal cu TVA (lei) Observații Valabilitate preț 6875
+N W69119001 PROTAMINSULFAT LEO PHARMA 1400 ANTI-HEPARIN UI/ml SOL. INJ. ȘI PERF. 10 mg/ml ALLIANCE HEALTHCARE ROMANIA - S.R.L. - ROMÂNIA PROTAMINI SULFAS Cutie cu 5 fiole a câte 5 ml sol. inj. și perf. (3 ani) V03AB14 MG 270,00 297,00 362,58 Cant. 20000 de cutii Prețurile sunt valabile până la data de 6.09.2023. 6876
+N W69115001 FLEBOGAMMA DIF 100 mg/ml SOL. PERF. 100 mg/ml ROMASTRU TRADING - S.R.L. - ROMÂNIA IMUNOGLOBULINĂ NORMALĂ PT. ADM. INTRAVASCULARĂ Cutie cu 1 flac. a 200 ml sol. inj. (20 g) J06BA02 MDS 8900,00 8929,99 9771,85 Cant. 129 de cutii Prețurile sunt valabile până la data de 1.09.2023. 6877
+N W68982003 IG VENA 50 g/l SOL. PERF. 50 g/l BESMAX PHARMA SOLUTIONS - S.R.L. - ROMÂNIA IMUNOGLOBULINĂ NORMALĂ PT. ADM. INTRAVASCULARĂ Cutie cu 1 flac. a 100 ml sol. perf. 1 set de administrare (3 ani după ambalarea pt. comercializare) J06BA02 MDS 2220,00 2250,00 2490,65 Cant. 2000 de cutii Prețurile sunt valabile până la data de 29.08.2023. 6878
+N W68982001 IG VENA 50 g/l SOL. PERF. 50 g/l BESMAX PHARMA SOLUTIONS - S.R.L. - ROMÂNIA IMUNOGLOBULINĂ NORMALĂ PT. ADM. INTRAVASCULARĂ Cutie cu 1 flac. a 200 ml sol. perf. 1 set de administrare (3 ani după ambalarea pt. comercializare) J06BA02 MDS 4470,00 4499,99 4943,15 Cant. 1000 de cutii Prețurile sunt valabile până la data de 29.08.2023. 6879
+N W68982002 IG VENA 50 g/l SOL. PERF. 50 g/l BESMAX PHARMA SOLUTIONS - S.R.L. - ROMÂNIA IMUNOGLOBULINĂ NORMALĂ PT. ADM. INTRAVASCULARĂ Cutie cu 1 flac. a 50 ml sol. perf. 1 set de administrare (3 ani după ambalarea pt. comercializare) J06BA02 MDS 1095,00 1125,00 1264,40 Cant. 1036 de cutii Prețurile sunt valabile până la data de 29.08.2023.
+2.
+Poziția nr. 1472 se modifică și va avea următorul cuprins:
+Nr. crt. Semn_obs Stare Cod CIM Denumire produs Forma Concentrație Firma/Țara DCI Ambalaj Gr_atc Stat_frm Stat_anm Preț prod. (lei) Preț ridicata maximal fără TVA (lei) Preț amănuntul maximal cu TVA (lei) Observații Valabilitate preț 1472
+N W61063002 CUPRIPEN 250 mg CAPS. 250 mg CN UNIFARM - S.A. - ROMÂNIA PENICILLAMINUM Cutie cu 3 blistere a câte 10 caps.
+M01CC01 MI 62,36 69,84 88,31 Cant. 37210 cutii Prețurile sunt valabile până la data de 24.09.2023.
+----
