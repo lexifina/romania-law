@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2022-09-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2022-09-21: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,11 @@ Initiator: Guvernul României.
 - 2022-09-09: Aviz Consiliul Legislativ (LG): [lg-ec58e9ed.md](lg-ec58e9ed.md); official file https://www.senat.ro/legis/PDF/2022/22L586LG.PDF
 - 2022-09-09: Document (OG): [og-401b40bc.md](og-401b40bc.md); official file https://www.senat.ro/legis/PDF/2022/22L586OG.PDF
 - 2022-09-09: Document (HG): [hg-9bfc44ee.md](hg-9bfc44ee.md); official file https://www.senat.ro/legis/PDF/2022/22L586HG.PDF
+- 2022-09-21: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA1.PDF
+- 2022-09-21: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA19.PDF
+- 2022-09-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA3.PDF
+- 2022-09-21: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA41.PDF
+- 2022-09-21: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA43.PDF
+- 2022-09-21: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA53.PDF
+- 2022-09-21: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA56.PDF
+- 2022-09-21: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L586CA8.PDF
