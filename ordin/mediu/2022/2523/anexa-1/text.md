@@ -1,0 +1,3 @@
+# ANEXĂ
+GHID SPECIFIC privind Condiții de accesare a fondurilor europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2022/C3/S/I.1.C, pentru subinvestiția I.1.c
+"Centre integrate de colectare separată prin aport voluntar destinate aglomerărilor urbane", componenta 3: Managementul deșeurilor
