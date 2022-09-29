@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-524-21-concluzii-2022-09-29",
+ "label": "CJUE, Concluziile avocatului general J. Richard de la Tour prezentate la 29 septembrie 2022, Cauzele conexate C-524/21 și C-525/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2022-09-29",
+ "year": "2022",
+ "case": "Cauzele conexate C-524/21 și C-525/21.",
+ "celex": "62021CC0524",
+ "ecli": "ECLI:EU:C:2022:740",
+ "heading": "Concluziile avocatului general J. Richard de la Tour prezentate la 29 septembrie 2022",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Bucureşti.",
+ "national_followup": null,
+ "parties": "IG și Agenţia Municipală pentru Ocuparea Forţei de Muncă Bucureşti împotriva Agenţiei Judeţene de Ocupare a Forţei de Muncă Ilfov și a lui IM.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Politica socială – Protecția lucrătorilor salariați în cazul insolvenței angajatorului – Directiva 2008/94/CE – Suportare de către instituțiile de garantare a creanțelor salariale ale lucrătorilor salariați – Limitarea obligației de plată a instituțiilor de garantare la creanțele salariale aferente perioadei de trei luni anterioare sau ulterioare datei de deschidere a procedurii de insolvență – Aplicarea unui termen de prescripție – Recuperarea plăților achitate în mod necuvenit de instituția de garantare – Condiții.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0524",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-524/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6b93b65e-3fe0-11ed-92ed-01aa75ed71a1.0013.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "57d1f1e44886c7679fa046bee1c16b722fc20fb78aa190bc064f6eeccaab9458"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
