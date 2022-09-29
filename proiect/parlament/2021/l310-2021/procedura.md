@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-09-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-09-14: sent for promulgation
 - 2022-09-28: promulgated, becomes Legea nr. 271/2022
+- 2022-09-29: published in the Monitorul Oficial
 
 ## Documents
 
