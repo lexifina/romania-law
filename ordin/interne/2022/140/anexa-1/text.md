@@ -1,0 +1,6 @@
+# ANEXĂ (Anexa nr. 10 la normele metodologice
+DECLARAȚIE cu privire la incompatibilități specifice și conflicte de interese
+Subsemnatul(a),.................................., având funcția de...................... în cadrul......................, cunoscând prevederile art. 326 din Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, cu privire la infracțiunea de fals în declarații, declar pe propria răspundere că nu mă aflu în niciuna dintre situațiile de incompatibilitate specifică sau conflict de interese prevăzute la pct. 4 lit. f) din anexa nr. 2 la Ordinul ministrului finanțelor publice nr. 923/2014 pentru aprobarea Normelor metodologice generale referitoare la exercitarea controlului financiar preventiv și a Codului specific de norme profesionale pentru persoanele care desfășoară activitatea de control financiar preventiv propriu, republicat, cu modificările și completările ulterioare.
+Data.......................
+Semnătura........................
+-----
