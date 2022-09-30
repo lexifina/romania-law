@@ -1,0 +1,257 @@
+{
+ "key": "iccj-scaf-3583-2022",
+ "label": "Decizia ÎCCJ nr. 3583/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3583",
+ "date": "2022-06-16",
+ "year": "2022",
+ "heading": "DECIZIA nr. 3.583 din 16 iunie 2022",
+ "subtitle": "referitoare la anularea art. 46^3 din Regulamentu l de aplicare a Legii nr. 188/2000 privind executorii judecătorești, aprobat prin Ordinul ministrului justiției nr. 210/2001",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "955",
+  "bis": false,
+  "date": "2022-09-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "772/46/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul formulat de reclamanta A.B. împotriva Sentinței nr. 142/F-CONT din 18 decembrie 2020 a Curții de Apel P. - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "Casează în parte sentința recurată și, rejudecând:",
+  "Admite în parte acțiunea formulată de reclamanta A.B. în contradictoriu cu pârâtul Ministerul Justiției.",
+  "Anulează art. 46^3 din Regulamentul de aplicare a Legii nr. 188/2000 privind executorii judecătorești, aprobat prin Ordinul ministrului justiției nr. 210/2001, publicat în Monitorul Oficial al României, Partea I, nr. 64 din 6 februarie 2001.",
+  "Menține în rest sentința atacată.",
+  "Prezenta hotărâre se publică în Monitorul Oficial al României, Partea I, conform dispozițiilor art. 23 din Legea nr. 554/2004.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": [
+      "g",
+      "a"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-09-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/259793",
+  "text_sha256": "97b2cdf3a158de2fb47cf402507c8112add9b85c02c4175b20e760e6b704cc42",
+  "catalogue_sha256": "97b2cdf3a158de2fb47cf402507c8112add9b85c02c4175b20e760e6b704cc42",
+  "fetched": "2026-11-03T16:25:25Z",
+  "chars": 31544,
+  "portal_id": "259793",
+  "tip": "DECIZIE"
+ }
+}
