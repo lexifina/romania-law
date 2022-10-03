@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2022-09-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-09-19: documents published: Raport comisie sesizată pe fond
 - 2022-09-21: documents published: Aviz comisie
+- 2022-10-03: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2022-09-19: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L584CR.PDF
 - 2022-09-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L584CA3.PDF
 - 2022-09-21: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L584CA41.PDF
+- 2022-10-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L584FS.PDF
+- 2022-10-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L584AM.PDF
