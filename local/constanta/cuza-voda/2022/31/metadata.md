@@ -1,0 +1,10 @@
+# HCL Cuza Vodă nr. 31/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Cuza Vodă
+- Decision: nr. 31/2022
+- Adopted: 2022-05-23
+- Published: 2022-10-03
+- Title: privind desemnarea președintelui de ședință pentru lunile iunie, iulie, august 2022
+- Record: https://emol.ro/cuzavoda-ct/registru-hcl/61158
