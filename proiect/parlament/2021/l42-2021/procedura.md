@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-03-07: promulgated, becomes Legea nr. 41/2022
 - 2022-03-08: published in the Monitorul Oficial
 - 2022-03-14: registered at the Chamber of Deputies
+- 2022-10-04: adopted by the Chamber of Deputies
 
 ## Documents
 
