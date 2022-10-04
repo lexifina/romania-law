@@ -1,0 +1,17 @@
+# Propunere legislativă L711/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Legii nr.35/2007 privind creșterea siguranței în unitățile de învățământ
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-10-04: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-10-04: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L711AD.PDF
+- 2022-10-04: Forma inițiatorului (FG): [fg-e39df6d6.md](fg-e39df6d6.md); official file https://www.senat.ro/legis/PDF/2022/22L711FG.PDF
+- 2022-10-04: Expunere de motive (EM): [em-9b48680e.md](em-9b48680e.md); official file https://www.senat.ro/legis/PDF/2022/22L711EM.PDF
