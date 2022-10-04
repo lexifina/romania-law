@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-09-17: sent for promulgation
 - 2022-10-03: promulgated, becomes Legea nr. 277/2022
+- 2022-10-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-06: Forma adoptată de Senat (FS): [fs-c4d4e6a6.md](fs-c4d4e6a6.md); official file https://www.senat.ro/legis/PDF/2022/22L379FS.PDF
 - 2022-09-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L379AXS.PDF
 - 2022-09-12: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L379LP.PDF
+- 2022-10-04: Document (AL): [al-0ccc8e09.md](al-0ccc8e09.md); official file https://www.senat.ro/legis/PDF/2022/22L379AL.PDF (its day is not given by the bill file: shown from the last stage held)
