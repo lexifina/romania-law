@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-13: adopted by the Chamber of Deputies
 - 2022-09-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-09-21: sent for promulgation
+- 2022-10-05: promulgated, becomes Legea nr. 281/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-21: Adresă către Camera Deputaților (AM): [am-5de54859.md](am-5de54859.md); official file https://www.senat.ro/legis/PDF/2022/22L039AM.PDF
 - 2022-09-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L039AXS.PDF
 - 2022-09-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L039LP.PDF
+- 2022-10-05: Document (CC): [cc-841d4340.md](cc-841d4340.md); official file https://www.senat.ro/legis/PDF/2022/22L039CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-10-05: Document (AT): [at-60400df9.md](at-60400df9.md); official file https://www.senat.ro/legis/PDF/2022/22L039AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-10-05: Document (S1): [s1-03e3d602.md](s1-03e3d602.md); official file https://www.senat.ro/legis/PDF/2022/22L039S1.PDF (its day is not given by the bill file: shown from the last stage held)
