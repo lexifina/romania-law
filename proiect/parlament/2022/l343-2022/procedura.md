@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-23: adopted by the Chamber of Deputies
 - 2022-05-24: registered at the Senate
 - 2022-06-16: documents published: Aviz comisie
+- 2022-10-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-12-21: Punct de vedere Guvern (SJ): [sj-18c8b8e6.md](sj-18c8b8e6.md); official file https://www.senat.ro/legis/PDF/2022/22L343SJ.PDF
 - 2022-02-23: Aviz comisie (CA12): [ca12-2df1334c.md](ca12-2df1334c.md); official file https://www.senat.ro/legis/PDF/2022/22L343CA12.PDF
 - 2022-06-16: Aviz comisie (CA45): [ca45-bf945853.md](ca45-bf945853.md); official file https://www.senat.ro/legis/PDF/2022/22L343CA45.PDF
+- 2022-10-05: Raport comisie sesizată pe fond (CR): [cr-241ad119.md](cr-241ad119.md); official file https://www.senat.ro/legis/PDF/2022/22L343CR.PDF
