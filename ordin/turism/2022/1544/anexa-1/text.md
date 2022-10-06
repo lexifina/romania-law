@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de certificare și monitorizare online pentru programele cu finanțare nerambursabilă aflate în implementare la Ministerul Antreprenoriatului și Turismului prin intermediul agențiilor pentru întreprinderi mici și mijlocii, atragere de investiții și promovare a exportului, precum și prin intermediul instituțiilor de credit partenere
