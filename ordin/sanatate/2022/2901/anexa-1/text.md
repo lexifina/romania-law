@@ -1,0 +1,2 @@
+# ANEXĂ
+GHID beneficiarului în cadrul apelurilor de proiecte - cod apel: MS-0023, pilonul V: Sănătate și reziliență instituțională, componenta 12: Sănătate, investiția: I2. Dezvoltarea infrastructurii spitalicești publice, investiția specifică: I2.3 - Secții de terapie intensivă pentru nou-născuți, aferent Planului național de redresare și reziliență
