@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-07: registered at the Chamber of Deputies
 - 2022-06-20: legislative procedure ended
 - 2022-06-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2022-10-09: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-22: Adresă de înaintare a inițiativei (AD): [ad-bb6cbc6d.md](ad-bb6cbc6d.md); official file https://www.senat.ro/legis/PDF/2022/22L098AD.PDF
 - 2022-06-22: Forma inițiatorului (FG): [fg-998488e9.md](fg-998488e9.md); official file https://www.senat.ro/legis/PDF/2022/22L098FG.PDF
 - 2022-06-22: Expunere de motive (EM): [em-9298627a.md](em-9298627a.md); official file https://www.senat.ro/legis/PDF/2022/22L098EM.PDF
+- 2022-10-09: Document (AJ): [aj-f4c29c6f.md](aj-f4c29c6f.md); official file https://www.senat.ro/legis/PDF/2022/22L098AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-10-09: Forma adoptată de Senat (FS): [fs-c6ed96c4.md](fs-c6ed96c4.md); official file https://www.senat.ro/legis/PDF/2022/22L098FS.PDF
+- 2022-10-09: Adresă către Camera Deputaților (AM): [am-aeec8870.md](am-aeec8870.md); official file https://www.senat.ro/legis/PDF/2022/22L098AM.PDF
