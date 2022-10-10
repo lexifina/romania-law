@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-13: documents published: Aviz comisie
 - 2022-09-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-10-04: documents published: Aviz comisie
+- 2022-10-10: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-04: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L600CA45.PDF
 - 2022-10-04: Aviz comisie (CA50): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L600CA50.PDF
 - 2022-10-04: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L600CA53.PDF
+- 2022-10-10: Aviz comisie (CA55): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L600CA55.PDF
