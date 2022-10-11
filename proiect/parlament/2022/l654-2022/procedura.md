@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2022-09-28: registered at the Senate
+- 2022-10-11: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2022-10-11: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L654CA57.PDF
