@@ -1,0 +1,17 @@
+# Propunere legislativă L728/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii 52/2015 privind aprobarea plății anuale a cotizațiilor și serviciilor lingvistice pentru organizațiile profesionale/ interprofesionale neguvernamentale din sectorul agricol și agroalimentar
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-10-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-10-11: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L728AD.PDF
+- 2022-10-11: Forma inițiatorului (FG): [fg-e6743218.md](fg-e6743218.md); official file https://www.senat.ro/legis/PDF/2022/22L728FG.PDF
+- 2022-10-11: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L728EM.PDF
