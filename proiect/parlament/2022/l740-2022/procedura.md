@@ -1,0 +1,17 @@
+# Propunere legislativă L740/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.42 alin.(6 indice 1) din Legea serviciilor comunitare de utilităţi publice nr.51/2006, precum şi pentru modificarea art.31 alin.(17) din Legea serviciului de alimentare cu apă şi de canalizare nr.241/2006
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-10-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-10-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L740AD.PDF
+- 2022-10-12: Forma inițiatorului (FG): [fg-32a77328.md](fg-32a77328.md); official file https://www.senat.ro/legis/PDF/2022/22L740FG.PDF
+- 2022-10-12: Expunere de motive (EM): [em-a0c1ae93.md](em-a0c1ae93.md); official file https://www.senat.ro/legis/PDF/2022/22L740EM.PDF
