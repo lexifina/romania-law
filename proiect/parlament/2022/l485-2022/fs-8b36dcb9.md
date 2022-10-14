@@ -1,0 +1,26 @@
+ipp
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+pentru modificarea și completarea Legii nr.263 din 16 decembrie 2010
+privind sistemul unitar de pensii publice
+Senatul adoptă prezentul proiect de lege
+Articol unic: Legea nr.263 din 16 decembrie 2010 privind sistemul unitar de
+pensii publice, publicată în Monitorul Oficial al României, Partea I, numărul 852 din
+20 decembrie 2010, cu modificările și completările ulterioare, se modifică și
+completează și va avea următorul cuprins:
+1. La art.56, alin.(2), litera b) se modifică și va avea următorul cuprins:
+b) 50 de ani, în cazul persoanelor prevăzute la alin. (1) lit. b), cu excepția
+balerinilor, dansatorilor, soliștilor balet și acrobaților, pentru care vârsta de
+pensionare nu poate fi mai mică de 40 de ani pentru femei și 45 de ani pentru bărbați;
+2. La ANEXA Nr. 4: LISTA cuprinzând profesiile din activitatea artistică
+ale căror locuri de muncă se încadrează în condiții speciale, după punctul nr.2 se
+introduce un nou punct, punctul 2.1, cu următorul cuprins:
+„2.1. Solist balet”
+
+2
+Acest proiect de lege se consideră adoptat de Senat în forma inițială, în
+condițiile articolului 75 alineatul (2) teza a IlI-a din Constituția României,
+republicată.
+p. PREȘEDINTELE SENATULUI
+Alina-Ștefania Gorghiu
