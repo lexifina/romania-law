@@ -1,0 +1,145 @@
+{
+ "key": "iccj-hp-46-2022",
+ "label": "Decizia ÎCCJ nr. 46/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "46",
+ "date": "2022-09-19",
+ "year": "2022",
+ "heading": "DECIZIA nr. 46 din 19 septembrie 2022",
+ "subtitle": "referitoare la interpretarea art. 1 din Ordonanța de urgență a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar, aprobată cu modificări prin Legea nr. 230/2011",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1021",
+  "bis": false,
+  "date": "2022-10-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "944/1/2022",
+  "8.541/314/2020",
+  "5.187/337/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția I civilă, în Dosarul nr. 8.541/314/2020, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: „Dacă trimiterea alin. (2) al art. 1 din Ordonanța de urgență a Guvernului nr. 71/2009 privind plata unor sume prevăzute în titluri executorii având ca obiect acordarea de drepturi salariale personalului din sectorul bugetar, aprobată cu modificări prin Legea nr. 230/2011, la alin. (1) al aceluiași articol, se interpretează în sensul că termenul prevăzut la alin. (1) este reprezentat de mai multe termene succesive, dar individuale prin raportare la sfârșitul anilor 2012, 2013, 2014, 2015 și 2016 pentru fiecare tranșă detaliată la literele a)-e), sau se interpretează ca un termen unitar prin raportare doar la sfârșitul anului 2016 ca dată finală de plată a creanței în mod eșalonat“.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2009",
+    "number": "71",
+    "year": "2009",
+    "path": "oug/2009/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "707",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "664",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "479",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-10-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260606",
+  "text_sha256": "4a6c9f51eb8ae2814f3a59a5d778027a9b3f0c17ebd8c8cdfa240d30a19bf31f",
+  "catalogue_sha256": "4a6c9f51eb8ae2814f3a59a5d778027a9b3f0c17ebd8c8cdfa240d30a19bf31f",
+  "fetched": "2026-11-03T01:28:54Z",
+  "chars": 35703,
+  "portal_id": "260606",
+  "tip": "DECIZIE"
+ }
+}
