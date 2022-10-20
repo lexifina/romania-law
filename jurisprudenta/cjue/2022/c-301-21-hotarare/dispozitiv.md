@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a șasea) din 20 octombrie 2022, Cauza C-301/21
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+1) Articolul 2 alineatele (1) și (2) din Directiva 2000/78/CE a Consiliului din 27 noiembrie 2000 de creare a unui cadru general în favoarea egalității de tratament în ceea ce privește încadrarea în muncă și ocuparea forței de muncă trebuie interpretat în sensul că nu este aplicabil unei reglementări naționale care, astfel cum a fost interpretată printr‑o jurisprudență națională obligatorie, are ca rezultat faptul că salariul primit de anumiți magistrați recrutați după intrarea în vigoare a acestei reglementări este inferior celui al magistraților recrutați înainte de intrarea sa în vigoare, întrucât din ea nu rezultă nicio discriminare directă sau indirectă pe motive de vârstă.
+2) Directiva 2000/78 trebuie interpretată în sensul că nu se opune unei discriminări decât atunci când aceasta este întemeiată pe unul dintre motivele enumerate expres la articolul 1 din directivă.
