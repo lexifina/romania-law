@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-412-21-concluzii-2022-10-20",
+ "label": "CJUE, Concluziile avocatului general A. M. Collins prezentate la 20 octombrie 2022, Cauza C-412/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2022-10-20",
+ "year": "2022",
+ "case": "Cauza C-412/21.",
+ "celex": "62021CC0412",
+ "ecli": "ECLI:EU:C:2022:821",
+ "heading": "Concluziile avocatului general A. M. Collins prezentate la 20 octombrie 2022",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Satu Mare.",
+ "national_followup": null,
+ "parties": "Dual Prod SRL împotriva Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca - Comisia regională pentru autorizarea operatorilor de produse supuse accizelor armonizate.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Accize – Directiva 2008/118/CE – Articolul 16 alineatul (1) – Autorizație de funcționare ca antrepozit fiscal de produse supuse accizelor – Măsuri de suspendare succesive – Caracter penal – Articolele 48 și 50 din Carta drepturilor fundamentale a Uniunii Europene – Principiul prezumției de nevinovăție – Principiul ne bis in idem – Proporționalitate.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0412",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-412/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/85bb6083-5062-11ed-92ed-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a78d6405ec90b071a03834f7e622cf2901e1cf3974d1f0d1cdb2e78c812f7c3c"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
