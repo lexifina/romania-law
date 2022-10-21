@@ -1,0 +1,19 @@
+# Propunere legislativă L760/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 178/2023 (`legea-178-2023`).
+
+Propunere legislativă pentru completarea art.9 din Legea nr.466/2004 privind Statutul asistentului social
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-10-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-10-21: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L760AD.PDF
+- 2022-10-21: Forma inițiatorului (FG): [fg-50851df0.md](fg-50851df0.md); official file https://www.senat.ro/legis/PDF/2022/22L760FG.PDF
+- 2022-10-21: Expunere de motive (EM): [em-956a60d1.md](em-956a60d1.md); official file https://www.senat.ro/legis/PDF/2022/22L760EM.PDF
