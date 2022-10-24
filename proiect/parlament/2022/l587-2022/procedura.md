@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-08-09: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2022-09-21: documents published: Aviz comisie
 - 2022-10-18: documents published: Raport comisie sesizată pe fond
+- 2022-10-24: withdrawn by the initiator
 
 ## Documents
 
