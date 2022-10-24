@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-06: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2022-10-19: documents published: Aviz comisie
 - 2022-10-21: documents published: Aviz comisie
+- 2022-10-24: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-06: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L618LG.PDF
 - 2022-10-19: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L618CA8.PDF
 - 2022-10-21: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L618CA45.PDF
+- 2022-10-24: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L618CA53.PDF
