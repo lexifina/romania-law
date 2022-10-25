@@ -1,0 +1,22 @@
+# Proiect de lege L656/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 160/2024 (`legea-160-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.141/2022 pentru completarea articolului 32 din Ordonanţa de urgenţă a Guvernului nr.40/2015 privind gestionarea financiară a fondurilor europene pentru perioada de programare 2014 -2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-10-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-10-25: Adresă de înaintare a inițiativei (AD): [ad-eadb6a8d.md](ad-eadb6a8d.md); official file https://www.senat.ro/legis/PDF/2022/22L656AD.PDF
+- 2022-10-25: Forma inițiatorului (FG): [fg-2900b5cb.md](fg-2900b5cb.md); official file https://www.senat.ro/legis/PDF/2022/22L656FG.PDF
+- 2022-10-25: Expunere de motive (EM): [em-c8b1de91.md](em-c8b1de91.md); official file https://www.senat.ro/legis/PDF/2022/22L656EM.PDF
+- 2022-10-25: Aviz Consiliul Legislativ (LG): [lg-c148d318.md](lg-c148d318.md); official file https://www.senat.ro/legis/PDF/2022/22L656LG.PDF
+- 2022-10-25: Document (OG): [og-766c9ca3.md](og-766c9ca3.md); official file https://www.senat.ro/legis/PDF/2022/22L656OG.PDF
+- 2022-10-25: Document (HG): [hg-4623e857.md](hg-4623e857.md); official file https://www.senat.ro/legis/PDF/2022/22L656HG.PDF
