@@ -1,0 +1,17 @@
+# Anexa nr. 2 (Anexa nr. 5 la Regulamentul nr. 5/2019)
+REGISTRU
+Secțiunea 1
+Instituții emitente de monedă electronică
+Secțiunea cuprinde instituțiile emitente de monedă electronică persoane juridice române care funcționează pe baza autorizației emise de Banca Națională a României conform dispozițiilor art. 7 din Legea nr. 210/2019 privind activitatea de emitente de monedă electronică și sunt evidențiate în registrul instituțiilor emitente de monedă electronică, organizat și administrat de Banca Națională a României potrivit art. 64 alin. (1) din Legea nr. 210/2019, împreună cu sucursalele acestora din alte state membre și state terțe, precum și agenții instituțiilor emitente de monedă electronică persoane juridice române. Supravegherea prudențială a instituțiilor emitente de monedă electronică este realizată de Banca Națională a României conform secțiunii a 9-a a capitolului II din același act normativ.
+Înscrierea în Registru (Denumire instituție emitentă de monedă electronică/ sucursală/agent Tip entitate (instituție emitentă de monedă electronică/ sucursală/agent) Adresa Elementele de identificare Serviciile de emitere de monedă electronică și de plată autorizate Observații (
+Număr Data codul de identificare fiscală sau element echivalent numărul de ordine în registrul comerțului sau element echivalent identificatorul entității juridice (codul LEI) 1 2 3 4 5 6 7
+Înscrierea în Registru
+Denumire instituție emitentă de monedă electronică/ sucursală/agent Tip entitate (emitentă de monedă electronică/ sucursală/agent) Adresa Elementele de identificare Data radierii Observații (
+Număr Data cod de identificare fiscală sau element echivalent numărul de ordine în registrul comerțului sau element echivalent identificatorul entității juridice (codul LEI) 1 2 3 4 5 6 7 (Numerele de înscriere în registru a instituțiilor emitente de monedă electronică, a sucursalelor și agenților acestora au structură alfanumerică: - pentru instituțiile emitente de monedă electronică, persoane juridice române: IEME-RO, numărul de ordine în registru format din 4 caractere numerice;
+- pentru agenții instituțiilor emitente de monedă electronică: numărul de înscriere în registru a instituției emitente de monedă electronică în numele și pe seama căreia sunt furnizate serviciile de plată, A, codul statistic al țării în care își are sediul agentul, format din 2 litere, numărul de ordine în registru al agentului, format din 3 caractere numerice;
+- pentru sucursalele instituțiilor emitente de monedă electronică din alte state membre și state terțe: numărul de înscriere în registru a instituției emitente de monedă electronică pentru care emite monedă electronică sau prestează servicii de plată, B, codul statistic al țării în care își are sediul sucursala, format din 2 litere, numărul de ordine în registru al sucursalei, format din 3 caractere numerice.
+(Rubrica va cuprinde, după caz, informații cu privire la: - denumirea anterioară a entității;
+- denumirea instituției emitente de monedă electronică în numele și pe seama căreia serviciile sunt/au fost furnizate de agent;
+- perioada în care agentul a fost evidențiat în subsecțiunea a II-a - Radiate, în cazul reînscrierii (în condițiile dispozițiilor secțiunilor a 4-a și a 5-a ale capitolului II din Legea nr. 210/2019);
+- mențiuni cu privire la încetarea valabilității autorizației [art. 27 alin. (7) din Legea nr. 210/2019];
+- mențiuni cu privire la hotărârea privind retragerea autorizației și aprobarea solicitării de renunțare la autorizație [art. 27 alin. (8) din Legea nr. 210/2019].
