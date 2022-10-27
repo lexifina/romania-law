@@ -1,0 +1,237 @@
+{
+ "key": "iccj-hp-47-2022",
+ "label": "Decizia ÎCCJ nr. 47/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "47",
+ "date": "2022-09-19",
+ "year": "2022",
+ "heading": "DECIZIA nr. 47 din 19 septembrie 2022",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 158 alin. (6) și (7) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1042",
+  "bis": false,
+  "date": "2022-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.003/1/2022",
+  "2.187/95/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "6",
+      "3-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 2.187/95/2020, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă dispozițiile art. 158 alin. (6) și (7) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, se aplică și în situația în care dovada vechimii în muncă în grupele de muncă se realizează în condițiile art. 158 alin. (3^1) din lege, cu carnetul de muncă.",
+  "Dacă verificarea caracterului incorect sau incomplet al înregistrării în carnetul de muncă, în sensul art. 158 alin. (3^1) din lege, presupune și verificarea legalității încadrării activității în grupele I și/sau a II-a de muncă, în sensul art. 158 alin. (6) și (7) din Legea nr. 263/2010.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "6",
+      "3-1",
+      "5",
+      "4",
+      "3-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 68/1990",
+    "number": "68",
+    "year": "1990",
+    "path": "decret-lege/1990/68"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 125/1990",
+    "number": "125",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.223/1990",
+    "number": "1223",
+    "year": "1990",
+    "path": "hg/1990/1223"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 172/2016",
+    "number": "172",
+    "year": "2016",
+    "path": "lege/2016/172"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului muncii, familiei și egalității de șanse nr. 590/2008",
+    "number": "590",
+    "year": "2008"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260781",
+  "text_sha256": "7c6d4c17eb3da29ca1db9e09089843dd2c73dd75a9d9d9db39061cff8d564dfe",
+  "catalogue_sha256": "7c6d4c17eb3da29ca1db9e09089843dd2c73dd75a9d9d9db39061cff8d564dfe",
+  "fetched": "2026-11-03T01:28:44Z",
+  "chars": 64110,
+  "portal_id": "260781",
+  "tip": "DECIZIE"
+ }
+}
