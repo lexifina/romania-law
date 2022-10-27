@@ -13,7 +13,13 @@ Initiator: Guvernul României.
 - 2022-09-20: registered at the Chamber of Deputies
 - 2022-10-12: documents published: Raport comisie sesizată pe fond
 - 2022-10-26: adopted by the Chamber of Deputies
+- 2022-10-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2022-10-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L668CR.PDF
+- 2022-10-27: Adresă de înaintare a inițiativei (AD): [ad-7ed4a695.md](ad-7ed4a695.md); official file https://www.senat.ro/legis/PDF/2022/22L668AD.PDF
+- 2022-10-27: Forma inițiatorului (FG): [fg-3b5eae3a.md](fg-3b5eae3a.md); official file https://www.senat.ro/legis/PDF/2022/22L668FG.PDF
+- 2022-10-27: Expunere de motive (EM): [em-d409a7f2.md](em-d409a7f2.md); official file https://www.senat.ro/legis/PDF/2022/22L668EM.PDF
+- 2022-10-27: Aviz Consiliul Legislativ (LG): [lg-fa2a4db9.md](lg-fa2a4db9.md); official file https://www.senat.ro/legis/PDF/2022/22L668LG.PDF
+- 2022-10-27: Document (HG): [hg-d5296668.md](hg-d5296668.md); official file https://www.senat.ro/legis/PDF/2022/22L668HG.PDF
