@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-08: documents published: Aviz comisie
 - 2022-09-16: documents published: Aviz comisie
 - 2022-09-29: documents published: Aviz comisie
+- 2022-10-31: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-08: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L454CA3.PDF
 - 2022-09-16: Aviz comisie (CA45): [ca45-dd9f8812.md](ca45-dd9f8812.md); official file https://www.senat.ro/legis/PDF/2022/22L454CA45.PDF
 - 2022-09-29: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L454CA8.PDF
+- 2022-10-31: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L454FS.PDF
