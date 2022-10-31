@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-27: adopted by the Chamber of Deputies
 - 2022-09-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-10-11: documents published: Aviz comisie
+- 2022-10-31: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-28: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L610FG.PDF
 - 2022-09-28: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L610EM.PDF
 - 2022-10-11: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L610CA45.PDF
+- 2022-10-31: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L610ARD.PDF (its day is not given by the bill file: shown from the last stage held)
