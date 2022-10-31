@@ -1,0 +1,17 @@
+# Propunere legislativă L791/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Anexei nr.1, lit.B, pct.10 din Legea vânătorii şi a protecţiei fondului cinegetic nr.407/2006
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-10-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-10-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L791AD.PDF
+- 2022-10-31: Forma inițiatorului (FG): [fg-5c0aedda.md](fg-5c0aedda.md); official file https://www.senat.ro/legis/PDF/2022/22L791FG.PDF
+- 2022-10-31: Expunere de motive (EM): [em-14040af5.md](em-14040af5.md); official file https://www.senat.ro/legis/PDF/2022/22L791EM.PDF
