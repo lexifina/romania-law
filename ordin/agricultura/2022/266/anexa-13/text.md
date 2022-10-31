@@ -1,0 +1,17 @@
+# Anexa nr. 13 (Anexa nr. 1M la normele metodologice)
+- Model -
+- Formular -
+PROCES-VERBAL de finalizare a procedurii
+Județul/Localitatea Registrul de evidență nr...............din......./....../........ (zi/lună/an)
+Primăria
+Încheiat astăzi,..............., cu ocazia finalizării procedurii privind vânzarea terenului agricol situat în extravilanul localității............................, județul.................................., în conformitate cu prevederile art. 10 alin. (5) din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, cu modificările și completările ulterioare, și cu dispozițiile art. 3 lit. s) din Normele metodologice privind exercitarea de către Ministerul Agriculturii și Dezvoltării Rurale a atribuțiilor ce îi revin pentru aplicarea titlului I din Legea nr. 17/2014 privind unele măsuri de reglementare a vânzării terenurilor agricole situate în extravilan și de modificare a Legii nr. 268/2001 privind privatizarea societăților ce dețin în administrare terenuri proprietate publică și privată a statului cu destinație agricolă și înființarea Agenției Domeniilor Statului, aprobate prin Ordinul viceprim-ministrului, ministrul agriculturii și dezvoltării rurale, al viceprim-ministrului, ministrul dezvoltării regionale și administrației publice, al ministrului apărării naționale și al viceprim-ministrului, ministrul culturii, nr. 719/740/M.57/2.333/2014, cu modificările și completările ulterioare.
+Ca urmare a faptului că în termenul legal, respectiv 45 de zile lucrătoare/30 de zile de la data înregistrării ofertei de vânzare nr............din data de.............../de la data expirării termenului de 45 de zile lucrătoare, respectiv data de.............., afișată în data de................., conform Procesului-verbal de afișare a ofertei de vânzare nr............... din data de................, nu sa înregistrat nicio comunicare de acceptare din partea preemptorilor sau ofertă de cumpărare din partea potențialilor cumpărători pentru terenul agricol situat în extravilanul localității................... tarlaua nr......., parcela nr.........., categoria de folosință............, identificat prin nr. cadastral............, și număr carte funciară............., în suprafață de........... ha, reprezentând cota-parte............, județul................, oferit spre vânzare de către................., în calitate de vânzător/vânzătoare, proprietar/coproprietar/ acționar/asociat unic, la prețul de............................. lei, prin prezentul proces-verbal s-a constatat parcurgerea tuturor etapelor procedurale privind oferta de vânzare nr......... din data de.................... pentru terenul agricol situat în extravilanul localității....................., județul........................
+Prezentul proces-verbal se eliberează, în original, vânzătorului și se comunică, în copie, structurii centrale/structurii teritoriale......................
+Primar,..................................................... (numele și prenumele în clar)
+Semnătura....................
+L.S.
+Secretar general,.......................... (numele și prenumele în clar)
+Semnătura....................
+Consilier,.............................. (numele și prenumele în clar)
+Semnătura....................
+-----
