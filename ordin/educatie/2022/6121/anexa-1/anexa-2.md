@@ -1,0 +1,6 @@
+# Anexa nr. 2 la normele metodologice
+Deviz preliminar (pentru activități online)
+Tipul cheltuielii Nr. de persoane Sumă/persoană Sumă alocată
+Cheltuieli specifice de organizare W 100 W x 100
+Rector,...................................
+Coordonator proiect,...............................
