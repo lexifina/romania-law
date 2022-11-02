@@ -1,0 +1,19 @@
+# Propunere legislativă L796/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 342/2023 (`legea-342-2023`).
+
+Propunere legislativă pentru modificarea art.10 alin.(7) şi art.31 alin.(1) din Ordonanţa de urgenţă a Guvernului nr.158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-02: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L796AD.PDF
+- 2022-11-02: Forma inițiatorului (FG): [fg-98ade1ca.md](fg-98ade1ca.md); official file https://www.senat.ro/legis/PDF/2022/22L796FG.PDF
+- 2022-11-02: Expunere de motive (EM): [em-4f07d70c.md](em-4f07d70c.md); official file https://www.senat.ro/legis/PDF/2022/22L796EM.PDF
