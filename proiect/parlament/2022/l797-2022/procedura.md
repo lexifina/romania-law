@@ -1,0 +1,17 @@
+# Propunere legislativă L797/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru anularea creanţelor fiscale stabilite în urma plăţii indemnizaţiilor de risc maternal persoanelor prevăzute la art.1 alin.(2) din Ordonanţa de urgenţă a Guvernului nr.158/2005 privind concediile şi indemnizaţiile de asigurări sociale de sănătate
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-02: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L797AD.PDF
+- 2022-11-02: Forma inițiatorului (FG): [fg-18d44679.md](fg-18d44679.md); official file https://www.senat.ro/legis/PDF/2022/22L797FG.PDF
+- 2022-11-02: Expunere de motive (EM): [em-f629a0eb.md](em-f629a0eb.md); official file https://www.senat.ro/legis/PDF/2022/22L797EM.PDF
