@@ -1,0 +1,251 @@
+{
+ "key": "iccj-ril-19-2022",
+ "label": "Decizia ÎCCJ nr. 19/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2022-10-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 19 din 3 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 262 alin. (4), prin raportare la prevederile art. 75 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1061",
+  "bis": false,
+  "date": "2022-11-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.276/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Cluj și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 262 alin. (4), prin raportare la prevederile art. 75 din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență, cu modificările și completările ulterioare, căile de atac promovate de debitorul societate de asigurare/reasigurare față de care a fost deschisă procedura falimentului, împotriva hotărârilor judecătorești prin care au fost soluționate acțiunile unui/unor creditor/creditori pentru realizarea creanțelor asupra averii debitorului introduse pe rolul instanțelor înaintea deschiderii acestei proceduri, nu sunt suspendate de drept.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "242",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "246",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "247",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "243",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 56
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2015",
+    "number": "213",
+    "year": "2015",
+    "path": "lege/2015/213"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 237/2015",
+    "number": "237",
+    "year": "2015",
+    "path": "lege/2015/237"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/260943",
+  "text_sha256": "e0f7e3649d5a03759d776cbfc583868da9653bc398bdad252258bac9c4c1f748",
+  "catalogue_sha256": "e0f7e3649d5a03759d776cbfc583868da9653bc398bdad252258bac9c4c1f748",
+  "fetched": "2026-11-03T01:28:33Z",
+  "chars": 61375,
+  "portal_id": "260943",
+  "tip": "DECIZIE"
+ }
+}
