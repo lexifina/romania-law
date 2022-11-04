@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-10-19: adopted by the Chamber of Deputies
 - 2022-10-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-26: sent for promulgation
+- 2022-11-04: promulgated, becomes Legea nr. 298/2022
 
 ## Documents
 
