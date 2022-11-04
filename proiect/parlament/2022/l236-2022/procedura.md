@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-27: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-06-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-01: sent for promulgation
+- 2022-11-04: promulgated, becomes Legea nr. 297/2022
 
 ## Documents
 
