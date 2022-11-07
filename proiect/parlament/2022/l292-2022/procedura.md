@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-22: sent for promulgation
 - 2022-11-04: promulgated, becomes Legea nr. 296/2022
+- 2022-11-07: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-10: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292FS.PDF
 - 2022-10-17: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292AXS.PDF
 - 2022-10-17: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292LP.PDF
+- 2022-11-07: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L292AL.PDF (its day is not given by the bill file: shown from the last stage held)
