@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-19: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2022-10-17: legislative procedure ended
 - 2022-10-18: registered at the Senate
+- 2022-11-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2022-09-19: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718SJ.PDF
+- 2022-11-07: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718AD.PDF
+- 2022-11-07: Forma inițiatorului (FG): [fg-ded52af1.md](fg-ded52af1.md); official file https://www.senat.ro/legis/PDF/2022/22L718FG.PDF
+- 2022-11-07: Expunere de motive (EM): [em-772b77c2.md](em-772b77c2.md); official file https://www.senat.ro/legis/PDF/2022/22L718EM.PDF
