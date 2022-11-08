@@ -1,0 +1,154 @@
+{
+ "key": "iccj-scaf-3899-2021",
+ "label": "Decizia ÎCCJ nr. 3899/2021 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3899",
+ "date": "2021-09-14",
+ "year": "2021",
+ "heading": "DECIZIA nr. 3.899 din 14 septembrie 2021",
+ "subtitle": "referitoare la recursul declarat de pârâta Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal împotriva Sentinței civile nr. 4.433 din 1 noiembrie 2018 a Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "1078",
+  "bis": false,
+  "date": "2022-11-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.702/2/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de pârâta Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal împotriva Sentinței civile nr. 4.433 din 1 noiembrie 2018 a Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "8",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 677/2001",
+    "number": "677",
+    "year": "2001",
+    "path": "lege/2001/677"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "OG nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 102/2005",
+    "number": "102",
+    "year": "2005",
+    "path": "lege/2005/102"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261253",
+  "text_sha256": "8467cdf0b360e020d62dbb83a24e78a289376cd8f726ab2eecdb75810a6c1097",
+  "catalogue_sha256": "8467cdf0b360e020d62dbb83a24e78a289376cd8f726ab2eecdb75810a6c1097",
+  "fetched": "2026-11-03T01:28:25Z",
+  "chars": 14141,
+  "portal_id": "261253",
+  "tip": "DECIZIE"
+ }
+}
