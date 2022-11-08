@@ -1,0 +1,19 @@
+# Propunere legislativă L820/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 216/2023 (`legea-216-2023`).
+
+Propunere legislativă pentru modificarea art.291 alin.(3) din Legea nr.227/2015 privind Codul fiscal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-08: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L820AD.PDF
+- 2022-11-08: Forma inițiatorului (FG): [fg-e25d469f.md](fg-e25d469f.md); official file https://www.senat.ro/legis/PDF/2022/22L820FG.PDF
+- 2022-11-08: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L820EM.PDF
