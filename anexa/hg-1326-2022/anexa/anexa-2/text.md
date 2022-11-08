@@ -1,0 +1,23 @@
+# Anexa 2
+Anexa nr. 2
+la regulament
+COMISIA PENTRU EXAMINAREA
+INVESTIȚIILOR STRĂINE DIRECTE
+DECLARAȚIE
+Subsemnatul(a), ......................, desemnat(ă) din partea ........................ în cadrul Comisiei pentru examinarea investițiilor străine directe - CEISD, având calitatea de membru titular/supleant, în legătură cu investiția ce face obiectul procedurii de examinare nr. ...... din data de ......, cunoscând prevederile Legii nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, cu modificările și completările ulterioare, și pe cele ale art. 326 din Codul penal , declar pe propria răspundere următoarele: [ ] nu sunt soț, rudă sau afin până la gradul trei inclusiv cu niciuna dintre părțile implicate;
+[ ] nu dețin părți sociale/acțiuni la capitalul social subscris al niciuneia dintre părțile implicate;
+[ ] nu am un interes personal de natură patrimonială care ar putea influența îndeplinirea cu obiectivitate a atribuțiilor privind examinarea investiției ce face obiectul procedurii de examinare ori angajamente cu persoane care au un interes de natură să îmi afecteze imparțialitatea în procesul de examinare;
+sau
+[ ] sunt soț, rudă sau afin până la gradul trei inclusiv cu una dintre părțile implicate;
+[ ] dețin părți sociale/acțiuni la capitalul social subscris al uneia dintre părțile implicate;
+[ ] am un interes personal de natură patrimonială care ar putea influența îndeplinirea cu obiectivitate a atribuțiilor privind examinarea investiției ce face obiectul procedurii de examinare ori angajamente cu persoane care au un interes de natură să îmi afecteze imparțialitatea în procesul de examinare;
+[ ] mă aflu în următoarea situație față de investiția ce face obiectul procedurii de examinare mai sus menționate: .......................................................
+.......................................................
+.......................................................
+.......................................................
+Subsemnatul(a) declar că voi informa de îndată Secretariatul CEISD în ipoteza în care vor interveni modificări ale prezentei declarații față de data completării acesteia, pe întreaga durată a derulării procedurii de examinare.
+De asemenea, declar că informațiile furnizate sunt corecte și complete, declarația fiind conformă cu realitatea, după toate cunoștințele mele.
+Data ......................
+Numele și prenumele ....................
+Semnătura .......................
+-----
