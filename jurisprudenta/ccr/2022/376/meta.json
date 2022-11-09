@@ -1,0 +1,265 @@
+{
+ "key": "dcc-376-2022",
+ "label": "Decizia CCR nr. 376/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "376",
+ "date": "2022-07-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 376 din 5 iulie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 26 alin. (2) a patra liniuță din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, în redactarea anterioară intrării în vigoare a Legii nr. 7/2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1082",
+  "bis": false,
+  "date": "2022-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "20.941/193/2017",
+  "182D/2019",
+  "1.311D/2019",
+  "5.904/193/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 7/2020",
+    "number": "7",
+    "year": "2020",
+    "path": "lege/2020/7"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alexandru-Mihai Drobotă și de instanța judecătorească, din oficiu, în Dosarul nr. 20.941/193/2017 al Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și Dan Funduianu în Dosarul nr. 5.904/193/2018 al Judecătoriei Botoșani - Secția civilă și constată că dispozițiile art. 26 alin. (2) a patra liniuță din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, în redactarea anterioară intrării în vigoare a Legii nr. 7/2020 pentru modificarea și completarea Legii nr. 10/1995 privind calitatea în construcții și pentru modificarea și completarea Legii nr. 50/1991 privind autorizarea executării lucrărilor de construcții, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția a II-a civilă, de contencios administrativ și fiscal și Judecătoriei Botoșani - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 197/2016",
+    "number": "197",
+    "year": "2016",
+    "path": "lege/2016/197"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 50/1991",
+    "number": "50",
+    "year": "1991",
+    "path": "lege/1991/50"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2020",
+    "number": "7",
+    "year": "2020",
+    "path": "lege/2020/7"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261273",
+  "text_sha256": "0d5051e21bf5fb029a5a53b72a70494430341d0129df5b9e03417a712717ed29",
+  "catalogue_sha256": "0d5051e21bf5fb029a5a53b72a70494430341d0129df5b9e03417a712717ed29",
+  "fetched": "2026-11-03T18:55:02Z",
+  "chars": 39391,
+  "portal_id": "261273",
+  "tip": "DECIZIE"
+ }
+}
