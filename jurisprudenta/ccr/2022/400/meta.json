@@ -1,0 +1,203 @@
+{
+ "key": "dcc-400-2022",
+ "label": "Decizia CCR nr. 400/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "400",
+ "date": "2022-09-15",
+ "year": "2022",
+ "heading": "DECIZIA nr. 400 din 15 septembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 8 și ale art. 16 alin. (1) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1080",
+  "bis": false,
+  "date": "2022-11-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "495/1/2019/a1.1",
+  "678D/2019",
+  "15.470/325/2015/a2",
+  "6.664/325/2019/a2.1.1.1",
+  "5.603/325/2018",
+  "548/59/2019/a1",
+  "897/59/2019/a2",
+  "883/59/2019/a1.1.1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Carmen Grațiana Zorzon în dosarele nr. 386/1/2019/a2, nr. 495/1/2019/a1.1 și nr. 2.677/1/2019/a1.1 ale Înaltei Curți de Casație și Justiție - Secția a II-a civilă, în Dosarul nr. 15.470/325/2015/a2 al Tribunalului Timiș - Secția I civilă, în dosarele nr. 9.073/30/2015, nr. 9.073/30/2015/a2, nr. 548/59/2019/a1, nr. 897/59/2019/a2, nr. 1.072/59/2019, nr. 883/59/2019/a1.1.1 și nr. 1.159/59/2019 ale Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și în Dosarul nr. 6.664/325/2019/a2.1.1.1 al Judecătoriei Timișoara - Secția a II-a civilă, precum și de către Nicolae Mihăilescu în Dosarul nr. 5.603/325/2018 al Tribunalului Timiș - Secția I civilă și constată că dispozițiile art. 8 și ale art. 16 alin. (1) din Ordonanța de urgență a Guvernului nr. 51/2008 privind ajutorul public judiciar în materie civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă, Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale, Tribunalului Timiș - Secția I civilă și Judecătoriei Timișoara - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2008",
+    "number": "51",
+    "year": "2008",
+    "path": "oug/2008/51"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261262",
+  "text_sha256": "51ab9dc514a3630030ad262741f991094eee26b4e5410ff29b37c97916c184c5",
+  "catalogue_sha256": "51ab9dc514a3630030ad262741f991094eee26b4e5410ff29b37c97916c184c5",
+  "fetched": "2026-11-03T01:28:24Z",
+  "chars": 26824,
+  "portal_id": "261262",
+  "tip": "DECIZIE"
+ }
+}
