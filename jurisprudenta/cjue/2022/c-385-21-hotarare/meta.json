@@ -1,0 +1,63 @@
+{
+ "key": "cjue-c-385-21-hotarare-2022-11-10",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 10 noiembrie 2022, Cauza C-385/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2022-11-10",
+ "year": "2022",
+ "case": "Cauza C-385/21",
+ "celex": "62021CJ0385",
+ "ecli": "ECLI:EU:C:2022:866",
+ "heading": "Hotărârea Curții (Camera a cincea) din 10 noiembrie 2022",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Înalta Curte de Casaţie şi Justiţie, Secţia de contencios administrativ şi fiscal",
+   "date": "2021-03-01",
+   "national_file": "39/2/2015"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie",
+ "national_followup": [
+  "Înalta Curte de Casaţie şi Justiţie, Secţia de contencios administrativ şi fiscal, Decizie 27/02/2023 (n° 1053)"
+ ],
+ "parties": "Zenith Media Communications SRL împotriva Consiliului Concurenţei",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Concurență – Înțelegeri – Articolul 101 TFUE – Sancțiune aplicată de autoritatea națională de concurență – Stabilirea cuantumului amenzii – Luare în considerare a cifrei de afaceri evidențiate în contul de profit și pierderi – Cerere prin care se solicită autorității naționale de concurență să țină seama de o cifră de afaceri diferită – Refuz opus de autoritatea de concurență – Situația economică reală a întreprinderii în cauză – Principiul proporționalității",
+ "interprets": [
+  {
+   "celex": "12008E101",
+   "folder": null
+  },
+  {
+   "celex": "12008M004",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0385",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-385/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/683a384b-60e0-11ed-92ed-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3e40bc4fb9d64742d8fffaa30a6a51d9149e4d1215a9aa09eb54ad3cd3a0ac86"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Articolul 4 alineatul (3) TUE și articolul 101 TFUE trebuie interpretate în sensul că se opun unei reglementări sau unei practici naționale potrivit căreia, în vederea calculării amenzii aplicate unei întreprinderi pentru încălcarea articolului 101 TFUE, autoritatea națională de concurență este obligată, în orice împrejurări, să ia în considerare cifra de afaceri a întreprinderii respective, astfel cum este evidențiată în contul său de profit și pierderi, fără a dispune de posibilitatea de a examina elemente invocate de aceasta care urmăresc să demonstreze că cifra de afaceri menționată nu reflectă situația economică reală a întreprinderii respective și că, în consecință, trebuie să se ia în considerare, cu titlu de cifră de afaceri, un alt cuantum ce reflectă această situație, în măsura în care aceste elemente sunt precise și documentate."
+ ]
+}
