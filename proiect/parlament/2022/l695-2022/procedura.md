@@ -1,0 +1,22 @@
+# Proiect de lege L695/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 127/2023 (`legea-127-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.149/2022 privind unele măsuri pentru participarea României la Fondul Alianţei Nord-Atlantice de Inovare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-11-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-11-10: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695AD.PDF
+- 2022-11-10: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695FG.PDF
+- 2022-11-10: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695EM.PDF
+- 2022-11-10: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695LG.PDF
+- 2022-11-10: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695OG.PDF
+- 2022-11-10: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L695HG.PDF
