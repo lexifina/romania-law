@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-06: adopted by the Senate
 - 2022-10-26: returned for re-examination
 - 2022-11-05: sent for promulgation
+- 2022-11-10: promulgated, becomes Legea nr. 299/2022
 
 ## Documents
 
