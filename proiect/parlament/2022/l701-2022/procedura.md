@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-06-22: registered at the Chamber of Deputies
 - 2022-11-07: adopted by the Chamber of Deputies
+- 2022-11-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2022-11-10: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L701AD.PDF
+- 2022-11-10: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L701FG.PDF
+- 2022-11-10: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L701EM.PDF
