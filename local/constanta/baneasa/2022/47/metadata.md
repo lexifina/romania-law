@@ -1,0 +1,10 @@
+# HCL Băneasa nr. 47/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Băneasa
+- Decision: nr. 47/2022
+- Adopted: 2022-10-31
+- Published: 2022-11-11
+- Title: privind înfiinţarea Serviciului de gestionare a câinilor fară stăpân al comunei Băneasa, judeţul Constanța
+- Record: https://emol.ro/baneasa-ct/registru-hcl/77657
