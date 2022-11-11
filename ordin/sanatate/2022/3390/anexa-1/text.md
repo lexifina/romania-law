@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE pentru aplicarea prevederilor art. 3 alin. (10), art. 4 alin. (3) și art. 6 alin. (2) din Ordonanța de urgență a Guvernului nr. 29/2022 privind stabilirea cadrului instituțional și a măsurilor necesare pentru punerea în aplicare a Regulamentului (UE) nr. 536/2014 al Parlamentului European și al Consiliului din 16 aprilie 2014 privind studiile clinice intervenționale cu medicamente de uz uman și de abrogare a Directivei 2001/20/CE, precum și pentru modificarea unor acte normative în domeniul sănătății
