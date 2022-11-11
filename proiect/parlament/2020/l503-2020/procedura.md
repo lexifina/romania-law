@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-26: returned for re-examination
 - 2022-11-05: sent for promulgation
 - 2022-11-10: promulgated, becomes Legea nr. 299/2022
+- 2022-11-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,10 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-08: Adresă către Camera Deputaților (AM): [am-8509c335.md](am-8509c335.md); official file https://www.senat.ro/legis/PDF/2020/20L503AM.PDF
 - 2022-03-14: Adresă privind sesizarea CCR (AXS): [axs-fe7fbc77.md](axs-fe7fbc77.md); official file https://www.senat.ro/legis/PDF/2020/20L503AXS.PDF
 - 2022-03-14: Forma trimisă la promulgare (LP): [lp-7b48bb2c.md](lp-7b48bb2c.md); official file https://www.senat.ro/legis/PDF/2020/20L503LP.PDF
+- 2022-11-11: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L503RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L503XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (CX): [cx-102ecf2e.md](cx-102ecf2e.md); official file https://www.senat.ro/legis/PDF/2020/20L503CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (XD): [xd-7465e5ec.md](xd-7465e5ec.md); official file https://www.senat.ro/legis/PDF/2020/20L503XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (SX): [sx-e105d13c.md](sx-e105d13c.md); official file https://www.senat.ro/legis/PDF/2020/20L503SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L503XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-11: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L503PX.PDF (its day is not given by the bill file: shown from the last stage held)
