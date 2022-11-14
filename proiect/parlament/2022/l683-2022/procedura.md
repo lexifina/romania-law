@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-10-27: documents published: Raport comisie sesizată pe fond
 - 2022-10-31: adopted by the Chamber of Deputies
 - 2022-11-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2022-11-14: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Guvernul României.
 - 2022-11-02: Expunere de motive (EM): [em-2b3144c6.md](em-2b3144c6.md); official file https://www.senat.ro/legis/PDF/2022/22L683EM.PDF
 - 2022-11-02: Aviz Consiliul Legislativ (LG): [lg-289c6dc6.md](lg-289c6dc6.md); official file https://www.senat.ro/legis/PDF/2022/22L683LG.PDF
 - 2022-11-02: Document (HG): [hg-256f6c5c.md](hg-256f6c5c.md); official file https://www.senat.ro/legis/PDF/2022/22L683HG.PDF
+- 2022-11-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L683CA45.PDF
