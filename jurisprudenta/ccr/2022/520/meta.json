@@ -1,0 +1,885 @@
+{
+ "key": "dcc-520-2022",
+ "label": "Decizia CCR nr. 520/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "520",
+ "date": "2022-11-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 520 din 9 noiembrie 2022",
+ "subtitle": "referitoare la obiecțiile de neconstituționalitate privind Legea privind statutul judecătorilor și procurorilor, în ansamblul său, și ale dispozițiilor art. 17 alin. (5), art. 21 alin. (4), art. 22, art. 25, art. 26 alin. (1), art. 33 alin. (1), art. 43 alin. (2), art. 45 alin. (1), art. 59 alin. (3) și (4), art. 63 alin. (1), art. 75 alin. (5), art. 88 alin. (2), art. 89, art. 114, art. 115, art. 117 alin. (6), art. 121 alin. (4), art. 128, art. 132, art. 133, art. 135, art. 139-141, art. 143 alin. (2), art. 145-149, art. 150, art. 160 alin. (6), art. 167, art. 169 alin. (8), art. 172 alin. (8), art. 188 alin. (4), art. 206, art. 228 alin. (5)-(7), art. 234 alin. (2), art. 235 alin. (2), art. 269 alin. (16), art. 271, art. 273 alin. (1) lit. c) și d), art. 275 alin. (1), (3) și (6), art. 277 alin. (6), art. 278 alin. (2), art. 279, art. 283, art. 284 alin. (5), art. 289 alin. (2), art. 290 din aceeași lege și ale anexei nr. 1 pct. B art. 2 lit. b) la aceasta",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1100",
+  "bis": false,
+  "date": "2022-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.332A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea privind statutul judecătorilor și procurorilor, în ansamblul său, și ale dispozițiilor art. 17 alin. (5), art. 21 alin. (4), art. 22, art. 25, art. 26 alin. (1), art. 33 alin. (1), art. 43 alin. (2), art. 45 alin. (1), art. 59 alin. (3) și (4), art. 63 alin. (1), art. 75 alin. (5), art. 88 ali"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiate, obiecțiile de neconstituționalitate și constată că Legea privind statutul judecătorilor și procurorilor, în ansamblul său, precum și dispozițiile art. 17 alin. (5), art. 21 alin. (4), art. 22, art. 25, art. 26 alin. (1), art. 33 alin. (1), art. 43 alin. (2), art. 45 alin. (1), art. 59 alin. (3) și (4), art. 63 alin. (1), art. 75 alin. (5), art. 88 alin. (2), art. 89, art. 114, art. 115, art. 117 alin. (6), art. 121 alin. (4), art. 128, art. 132, art. 133, art. 135, art. 139-141, art. 143 alin. (2), art. 145-149, art. 150, art. 160 alin. (6), art. 167, art. 169 alin. (8), art. 172 alin. (8), art. 188 alin. (4), art. 206, art. 228 alin. (5)-(7), art. 234 alin. (2), art. 235 alin. (2), art. 269 alin. (16), art. 271, art. 273 alin. (1) lit. c) și d), art. 275 alin. (1), (3) și (6), art. 277 alin. (6), art. 278 alin. (2), art. 279, art. 283, art. 284 alin. (5), art. 289 alin. (2), art. 290 din aceeași lege și ale anexei nr. 1 pct. B art. 2 lit. b) la aceasta sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "206",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "227",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "88",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "89",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "160",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "145",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "149",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "283",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "235",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "16"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "284",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "151",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "168",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "285",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "167",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 284
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2012",
+    "number": "24",
+    "year": "2012",
+    "path": "lege/2012/24"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 317/2004",
+    "number": "317",
+    "year": "2004",
+    "path": "lege/2004/317"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d-1"
+     ]
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "11"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 300/2011",
+    "number": "300",
+    "year": "2011",
+    "path": "lege/2011/300"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "225",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2021",
+    "number": "192",
+    "year": "2021",
+    "path": "lege/2021/192"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "474",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261390",
+  "text_sha256": "dae437db1d8a594c46a3d6d2a3fb48d7d6e587dfb1b111cc183f07fb5f61e751",
+  "catalogue_sha256": "dae437db1d8a594c46a3d6d2a3fb48d7d6e587dfb1b111cc183f07fb5f61e751",
+  "fetched": "2026-11-03T16:13:32Z",
+  "chars": 360576,
+  "portal_id": "261390",
+  "tip": "DECIZIE"
+ }
+}
