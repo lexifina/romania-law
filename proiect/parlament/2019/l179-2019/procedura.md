@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-19: adopted by the Chamber of Deputies
 - 2022-10-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-29: sent for promulgation
+- 2022-11-15: promulgated, becomes Legea nr. 302/2022
 
 ## Documents
 
