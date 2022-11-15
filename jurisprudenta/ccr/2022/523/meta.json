@@ -1,0 +1,165 @@
+{
+ "key": "dcc-523-2022",
+ "label": "Decizia CCR nr. 523/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "523",
+ "date": "2022-11-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 523 din 9 noiembrie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind organizarea judiciară",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1101",
+  "bis": false,
+  "date": "2022-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.348A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind organizarea judiciară"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, obiecția de neconstituționalitate a Legii privind organizarea judiciară, obiecție formulată de 38 de deputați.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261393",
+  "text_sha256": "e9d7012bc4a848822633f4fa3c7d858aa4f253d2f718dfcb51fb803c9530e944",
+  "catalogue_sha256": "e9d7012bc4a848822633f4fa3c7d858aa4f253d2f718dfcb51fb803c9530e944",
+  "fetched": "2026-11-06T03:15:36Z",
+  "chars": 23204,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230202115235/https://legislatie.just.ro/Public/DetaliiDocument/261393",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/261393",
+   "timestamp": "20230202115235",
+   "sha256": "fa9a2173755c2b5f3d227d419fae8819003baaf861d25780e9e6604e3620c090"
+  },
+  "portal_id": "261393",
+  "tip": "DECIZIE"
+ }
+}
