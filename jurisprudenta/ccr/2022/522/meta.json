@@ -1,0 +1,516 @@
+{
+ "key": "dcc-522-2022",
+ "label": "Decizia CCR nr. 522/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "522",
+ "date": "2022-11-09",
+ "year": "2022",
+ "heading": "DECIZIA nr. 522 din 9 noiembrie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind organizarea judiciară, în ansamblul său, precum și a dispozițiilor art. 13, art. 15 alin. (1), art. 21 alin. (6), art. 28, art. 30 alin. (1), (3) și (5), art. 31 alin. (4) teza a doua, art. 34 alin. (3), art. 36 alin. (3) și (8), art. 45 alin. (1), (2) și (4), art. 54 alin. (2) și (5), art. 57, art. 58 alin. (4) și (5), art. 68 alin. (3) și (4), art. 70, art. 82 alin. (2) și alin. (3) teza a doua, art. 90 alin. (2) și alin. (3) teza a doua, art. 93, art. 97 alin. (2) și alin. (3) teza a doua, art. 107 alin. (2), art. 115 alin. (1), art. 150 și ale art. 159 din aceasta",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1101",
+  "bis": false,
+  "date": "2022-11-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.347A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind organizarea judiciară, în ansamblul său, precum și a dispozițiilor art. 13, art. 15 alin. (1), art. 21 alin. (6), art. 28, art. 30 alin. (1), (3) și (5), art. 31 alin. (4) teza a doua, art. 34 alin. (3), art. 36 alin. (3) și (8), art. 45 alin. (1), (2) și (4), art. 54 alin. (2) și (5),"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de 57 de deputați și constată că Legea privind organizarea judiciară, în ansamblul său, precum și dispozițiile art. 13, art. 15 alin. (1), art. 21 alin. (6), art. 28, art. 30 alin. (1), (3) și (5), art. 31 alin. (4) teza a doua, art. 34 alin. (3), art. 36 alin. (3) și (8), art. 45 alin. (1), (2) și (4), art. 54 alin. (2) și (5), art. 57, art. 58 alin. (4) și (5), art. 68 alin. (3) și (4), art. 70, art. 82 alin. (2) și alin. (3) teza a doua, art. 90 alin. (2) și alin. (3) teza a doua, art. 93, art. 97 alin. (2) și alin. (3) teza a doua, art. 107 alin. (2), art. 115 alin. (1), art. 150 și art. 159 din aceasta sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "6",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "54",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "68",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "159",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "70",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "353",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "231",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "369",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 207/2018",
+    "number": "207",
+    "year": "2018",
+    "path": "lege/2018/207"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "66-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 49/2022",
+    "number": "49",
+    "year": "2022",
+    "path": "lege/2022/49"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 78/2016",
+    "number": "78",
+    "year": "2016",
+    "path": "oug/2016/78"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "52",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 364/2004",
+    "number": "364",
+    "year": "2004",
+    "path": "lege/2004/364"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261392",
+  "text_sha256": "87abbbb26c86eb0e874dd34189074872635c0c9c1a664ca26ae9eb97f83bb8a0",
+  "catalogue_sha256": "87abbbb26c86eb0e874dd34189074872635c0c9c1a664ca26ae9eb97f83bb8a0",
+  "fetched": "2026-11-03T23:36:01Z",
+  "chars": 174288,
+  "portal_id": "261392",
+  "tip": "DECIZIE"
+ }
+}
