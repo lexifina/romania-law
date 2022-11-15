@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2019-07-01: registered at the Chamber of Deputies
 - 2022-10-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-28: sent for promulgation
+- 2022-11-15: promulgated, becomes Legea nr. 301/2022
 
 ## Documents
 
