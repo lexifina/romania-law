@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-10-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-21: sent for promulgation
 - 2022-11-09: published in the Monitorul Oficial
+- 2022-11-15: promulgated, becomes Legea nr. 303/2022
 
 ## Documents
 
