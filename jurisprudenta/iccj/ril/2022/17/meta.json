@@ -1,0 +1,181 @@
+{
+ "key": "iccj-ril-17-2022",
+ "label": "Decizia ÎCCJ nr. 17/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "17",
+ "date": "2022-10-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 17 din 3 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor pct. 3 coroborat cu pct. 6-8 și pct. 12 raportat la anexa nr. 2 din Ordinul Ministerului Muncii și Ocrotirilor Sociale, Ministerului Sănătății și Comisiei Naționale pentru Protecția Muncii nr. 50/1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și II de muncă în vederea pensionării, cu completările ulterioare, și dispozițiilor pct. 1-5 din Ordinul Ministerului Muncii și Ocrotirilor Sociale, Ministerului Sănătății și Comisiei Naționale pentru Protecția Muncii nr. 125/1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și II de muncă în vederea pensionării, pentru perioada lucrată după 1 martie 1990",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1105",
+  "bis": false,
+  "date": "2022-11-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.393/1/2022"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibil, recursul în interesul legii formulat de Avocatul Poporului, privind următoarea problemă de drept: Interpretarea și aplicarea dispozițiilor pct. 3 coroborat cu pct. 6-8 și pct. 12 raportat la anexa nr. 2 din Ordinul Ministerului Muncii și Ocrotirilor Sociale, Ministerului Sănătății și Comisiei Naționale pentru Protecția Muncii nr. 50/1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și II de muncă în vederea pensionării, cu completările ulterioare, și dispozițiilor pct. 1-5 din Ordinul Ministerului Muncii și Ocrotirilor Sociale, Ministerului Sănătății și Comisiei Naționale pentru Protecția Muncii nr. 125/1990 pentru precizarea locurilor de muncă, activităților și categoriilor profesionale cu condiții deosebite care se încadrează în grupele I și II de muncă în vederea pensionării, pentru perioada lucrată după 1 martie 1990, în sensul de a se stabili dacă activitatea desfășurată în cadrul fostelor centre teritoriale de calcul poate fi încadrată în grupa a II-a de muncă.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 125/1990",
+    "number": "125",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 27/1966",
+    "number": "27",
+    "year": "1966",
+    "path": "lege/1966/27"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 292/1959",
+    "number": "292",
+    "year": "1959",
+    "path": "decret/1959/292"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 100/1990",
+    "number": "100",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 125/1990",
+    "number": "125",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Muncii și Protecției Sociale nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 50/1990",
+    "number": "50",
+    "year": "1990"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261418",
+  "text_sha256": "6d30319e8d8bf8a3602cdf4084cc398f849cdda7d8db184938a717c4f1b1fcc7",
+  "catalogue_sha256": "6d30319e8d8bf8a3602cdf4084cc398f849cdda7d8db184938a717c4f1b1fcc7",
+  "fetched": "2026-11-03T01:28:18Z",
+  "chars": 46600,
+  "portal_id": "261418",
+  "tip": "DECIZIE"
+ }
+}
