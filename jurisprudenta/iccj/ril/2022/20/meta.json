@@ -1,0 +1,231 @@
+{
+ "key": "iccj-ril-20-2022",
+ "label": "Decizia ÎCCJ nr. 20/2022 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "20",
+ "date": "2022-10-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 20 din 17 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare, modificată",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1103",
+  "bis": false,
+  "date": "2022-11-16",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.605/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție.",
+  "În interpretarea și aplicarea unitară a dispozițiilor art. 7 alin. (1) din Legea nr. 76/2008 privind organizarea și funcționarea Sistemului Național de Date Genetice Judiciare, modificată, stabilește: Prelevarea de probe biologice de la persoane condamnate definitiv sau față de care s-a dispus amânarea aplicării pedepsei sau renunțarea la aplicarea pedepsei, pentru săvârșirea infracțiunilor cuprinse în anexa Legii nr. 76/2008, are caracter facultativ, iar nu caracter obligatoriu, instanțele având competența de a aprecia dacă trebuie sau nu introduse amprente genetice în Sistemul Național de Date Genetice Judiciare.",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2008",
+    "number": "76",
+    "year": "2008",
+    "path": "lege/2008/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 118/2019",
+    "number": "118",
+    "year": "2019",
+    "path": "lege/2019/118"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 158/2019",
+    "number": "158",
+    "year": "2019",
+    "path": "lege/2019/158"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/2008",
+    "number": "146",
+    "year": "2008",
+    "path": "lege/2008/146"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261398",
+  "text_sha256": "d5cf315148c091650cf110c8e10b9d78926f072baddb2683447b94ee9fcdd226",
+  "catalogue_sha256": "d5cf315148c091650cf110c8e10b9d78926f072baddb2683447b94ee9fcdd226",
+  "fetched": "2026-11-03T01:28:15Z",
+  "chars": 51605,
+  "portal_id": "261398",
+  "tip": "DECIZIE"
+ }
+}
