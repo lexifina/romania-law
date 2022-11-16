@@ -1,0 +1,17 @@
+# Propunere legislativă L854/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea legii nr.500/2002 a Finanțelor Publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-16: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-16: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L854AD.PDF
+- 2022-11-16: Forma inițiatorului (FG): [fg-44a8ec25.md](fg-44a8ec25.md); official file https://www.senat.ro/legis/PDF/2022/22L854FG.PDF
+- 2022-11-16: Expunere de motive (EM): [em-b29f4f37.md](em-b29f4f37.md); official file https://www.senat.ro/legis/PDF/2022/22L854EM.PDF
