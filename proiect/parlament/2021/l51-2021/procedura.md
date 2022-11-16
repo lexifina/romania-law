@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-20: sent for promulgation
 - 2021-10-08: promulgated, becomes Legea nr. 242/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2022-03-14: registered at the Chamber of Deputies
+- 2022-11-16: adopted by the Chamber of Deputies
 
 ## Documents
 
