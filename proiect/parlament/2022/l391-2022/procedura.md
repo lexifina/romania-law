@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-10-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-28: sent for promulgation
 - 2022-11-15: promulgated, becomes Legea nr. 300/2022
+- 2022-11-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2022-10-24: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L391FS.PDF
 - 2022-10-26: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L391AXS.PDF
 - 2022-10-26: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L391LP.PDF
+- 2022-11-17: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L391AL.PDF (its day is not given by the bill file: shown from the last stage held)
