@@ -1,0 +1,64 @@
+{
+ "key": "cjue-c-443-21-hotarare-2022-11-17",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 17 noiembrie 2022, Cauza C-443/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2022-11-17",
+ "year": "2022",
+ "case": "Cauza C-443/21",
+ "celex": "62021CJ0443",
+ "ecli": "ECLI:EU:C:2022:899",
+ "heading": "Hotărârea Curții (Camera a zecea) din 17 noiembrie 2022",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Piteşti",
+ "national_followup": [
+  "Curtea de Apel Piteşti, Secţia a-II-a Civilă de contencios administrativ şi fiscal, încheiere din 05/07/2021 (30326/3/2017)",
+  "Curtea de Apel Piteşti, Secţia a-II-a Civilă de contencios administrativ şi fiscal, Decizia din 12/01/2023 (ECLI:RO:CAPIT:2023:002.000059)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica agricolă comună (PAC) – Fondul european agricol pentru dezvoltare rurală (FEADR) – Regulamentul (CE) nr. 1698/2005 – Articolul 40 – Programul național de dezvoltare rurală 2007-2013 – Plăți în favoarea bunăstării animalelor – Erori de calcul – Reduceri ale plăților de către autoritățile naționale – Principiul protecției încrederii legitime – Principiul securității juridice",
+ "interprets": [
+  {
+   "celex": "12008E310",
+   "folder": null
+  },
+  {
+   "celex": "32005R1698",
+   "folder": "ue/regulament/2005/1698"
+  },
+  {
+   "celex": "32013R1306",
+   "folder": "ue/regulament/2013/1306"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0443",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-443/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/351c5979-665f-11ed-b14f-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "6413ae6461decec5ff7c9cdb250e279468c28d844bc884a1b21c3457e881fa65"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "Articolul 40 alineatul (3) din Regulamentul (CE) nr. 1698/2005 al Consiliului din 20 septembrie 2005 privind sprijinul pentru dezvoltare rurală acordat din Fondul european agricol pentru dezvoltare rurală (FEADR), astfel cum a fost modificat prin Regulamentul (CE) nr. 74/2009 al Consiliului din 19 ianuarie 2009, și articolul 58 alineatul (1) din Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului coroborate cu articolul 310 alineatul (5) TFUE, precum și principiile protecției încrederii legitime și securității juridice",
+  "trebuie interpretate în sensul că",
+  "nu se opun ca autoritățile naționale implicate în implementarea unei măsuri de sprijin financiar nerambursabil să adopte, ca urmare a unei erori de calcul constatate de Curtea de Conturi Europeană, acte care impun o reducere a cuantumului ajutorului financiar acordat prin programul de dezvoltare rurală al României din Fondul european agricol pentru dezvoltare rurală (FEADR) pentru perioada de programare 2007-2013, astfel cum a fost aprobat de Comisia Europeană, fără să aștepte adoptarea de către aceasta a unei decizii care să excludă de la finanțarea din partea Uniunii sumele rezultate din această eroare de calcul."
+ ]
+}
