@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-10-26: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
 - 2022-10-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-02: sent for promulgation
+- 2022-11-17: promulgated, becomes Legea nr. 312/2022
 
 ## Documents
 
