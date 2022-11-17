@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-29: sent for promulgation
 - 2022-11-15: promulgated, becomes Legea nr. 302/2022
+- 2022-11-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2019-05-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L179AM.PDF
 - 2022-10-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L179AXS.PDF
 - 2022-10-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L179LP.PDF
+- 2022-11-17: Document (AA): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L179AA.PDF (its day is not given by the bill file: shown from the last stage held)
