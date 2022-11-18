@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2022-05-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-05-28: sent for promulgation
 - 2022-11-17: promulgated, becomes Legea nr. 310/2022
+- 2022-11-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -48,3 +49,7 @@ Initiator: Guvernul României.
 - 2021-10-11: Adresă către Camera Deputaților (AM): [am-608edfc8.md](am-608edfc8.md); official file https://www.senat.ro/legis/PDF/2021/21L334AM.PDF
 - 2022-05-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L334AXS.PDF
 - 2022-05-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L334LP.PDF
+- 2022-11-18: Document (TA): [ta-f68ae39a.md](ta-f68ae39a.md); official file https://www.senat.ro/legis/PDF/2021/21L334TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-18: Document (AT): [at-b02a4537.md](at-b02a4537.md); official file https://www.senat.ro/legis/PDF/2021/21L334AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-18: Document (SC): [sc-c6e3757a.md](sc-c6e3757a.md); official file https://www.senat.ro/legis/PDF/2021/21L334SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-18: Document (DC): [dc-df55982e.md](dc-df55982e.md); official file https://www.senat.ro/legis/PDF/2021/21L334DC.PDF (its day is not given by the bill file: shown from the last stage held)
