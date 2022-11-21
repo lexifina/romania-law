@@ -1,0 +1,295 @@
+{
+ "key": "iccj-hp-penal-53-2022",
+ "label": "Decizia ÎCCJ nr. 53/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "53",
+ "date": "2022-09-28",
+ "year": "2022",
+ "heading": "DECIZIA nr. 53 din 28 septembrie 2022",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: \"Dacă folosirea fără drept a unui card bancar, în modalitatea contactless, la un terminal POS, pentru achitarea unor produse, întrunește elementele constitutive a două infracțiuni, respectiv acces ilegal la un sistem informatic, prevăzută de art. 360 alin. (1) din Codul penal, și efectuarea de operațiuni financiare în mod fraudulos, prevăzută de art. 250 alin. (1) din Codul penal (în formă tentată sau consumată, în funcție de efectuarea propriu-zisă a tranzacției) sau doar elementele constitutive ale infracțiunii de efectuare de operațiuni financiare în mod fraudulos, prevăzută de art. 250 alin. (1) din Codul penal (în formă tentată sau consumată, în funcție de efectuarea efectivă a tranzacției).\"",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1120",
+  "bis": false,
+  "date": "2022-11-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.242/1/2022",
+  "29.758/3/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "360",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel București - Secția I penală, în Dosarul nr. 29.758/3/2021(1.148/2022), prin care s-a solicitat pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă folosirea fără drept a unui card bancar, în modalitatea contactless, la un terminal POS, pentru achitarea unor produse, întrunește elementele constitutive a două infracțiuni, respectiv acces ilegal la un sistem informatic, prevăzută de art. 360 alin. (1) din Codul penal, și efectuarea de operațiuni financiare în mod fraudulos, prevăzută de art. 250 alin. (1) din Codul penal (în formă tentată sau consumată, în funcție de efectuarea propriu-zisă a tranzacției) sau doar elementele constitutive ale infracțiunii de efectuare de operațiuni financiare în mod fraudulos, prevăzută de art. 250 alin. (1) din Codul penal (în formă tentată sau consumată, în funcție de efectuarea efectivă a tranzacției).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "360",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "68",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 365/2002",
+    "number": "365",
+    "year": "2002",
+    "path": "lege/2002/365"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 356/2002",
+    "number": "356",
+    "year": "2002",
+    "path": "lege/2002/356"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261519",
+  "text_sha256": "c40170499cb316898e2b96116dca3c56d2984dc546b7ff2b7ebf55147dadf1ab",
+  "catalogue_sha256": "c40170499cb316898e2b96116dca3c56d2984dc546b7ff2b7ebf55147dadf1ab",
+  "fetched": "2026-11-03T01:28:07Z",
+  "chars": 66409,
+  "portal_id": "261519",
+  "tip": "DECIZIE"
+ }
+}
