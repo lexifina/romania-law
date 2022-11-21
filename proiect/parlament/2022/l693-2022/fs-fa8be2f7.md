@@ -1,0 +1,182 @@
+’^ENAP
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+privind abilitarea Guvernului de a emite ordonanțe
+Senatul adoptă prezentul proiect de lege
+Art.l.-în temeiul art.115 alin.(l) din Constituția României, republicată,
+Guvernul este abilitat ca, de la data intrării în vigoare a prezentei legi, dar nu înainte
+de încheierea celei de a doua sesiuni ordinare a anului 2022, și până la reluarea
+lucrărilor Parlamentului în prima sesiune ordinară a anului 2023, să emită ordonanțe
+în domenii care nu fac obiectul legilor organice, după cum urmează:
+I. FINANȚE ȘI ECONOMIE:
+1.
+modificarea și completarea Legii nr.227/2015 privind Codul fiscal,
+cu modificările și completările ulterioare;
+2.
+modificarea și completarea Legii nr.207/2015 privind Codul de
+procedură fiscală, cu modificările și completările ulterioare;
+3.
+modificarea art.3 alin.(l) din Ordonanța de urgență a Guvernului
+nr.23/2004 privind stabilirea unor măsuri de reorganizare a Autorității pentru
+Valorificarea Activelor Bancare prin comasarea prin absorbție cu Autoritatea pentru
+Privatizare și Administrarea Participațiilor Statului, aprobată cu completări prin
+Legea nr.360/2004, cu modificările și completările ulterioare, precum și
+modificarea art.II alin.(3) din Legea nr. 113/2013 pentru aprobarea Ordonanței de
+urgență a Guvernului nr.93/2012 privind înființarea, organizarea și funcționarea
+Autorității de Supraveghere Financiară;
+
+2
+4.
+modificarea Legii nr. 165/2013 privind măsurile pentru finalizarea
+procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod
+abuziv în perioada regimului comunist în România, cu modificările și completările
+ulterioare și a Legii nr. 164/2014 privind unele măsuri pentru accelerarea și
+finalizarea procesului de soluționare a cererilor formulate în temeiul Legii nr.9/1998
+privind acordarea de compensații cetățenilor români pentru bunurile trecute în
+proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria,
+semnat la Craiova la 7 septembrie 1940, precum și al Legii nr. 290/2003 privind
+acordarea de despăgubiri sau compensații cetățenilor români pentru bunurile
+proprietate a acestora, sechestrate, reținute sau rămase în Basarabia, Bucovina de
+Nord și Ținutul Herța, ca urmare a stării de război și a aplicării Tratatului de Pace
+între România și Puterile Aliate și Asociate, semnat la Paris la 10 februarie 1947, și
+pentru modificarea unor acte normative, cu modificările ulterioare;
+5.
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr.39/2018 privind parteneriatul public-privat, cu modificările și completările
+ulterioare;
+6.
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr.2Q/2013 privind înființarea, organizarea și funcționarea Oficiului Național pentru
+Jocuri de Noroc și pentru modificarea și completarea Ordonanței de urgență a
+Guvernului nr.77/2009 privind organizarea și exploatarea jocurilor de noroc,
+aprobată cu modificări și completări prin Legea nr.227/2013, cu modificările și
+completările ulterioare;
+7.
+măsuri pentru aplicarea Regulamentului (UE) 2019/1020 al
+Parlamentului European și al Consiliului din 20 iunie 2019 privind supravegherea
+pieței și conformitatea produselor și de modificare a Directivei 2004/42/CE și a
+Regulamentelor (CE) nr.765/2008 și (UE) nr.305/2011;
+8.
+aprobarea plății cotizației anuale de participare a României în
+calitate de membru al Asociației Europene privind cârdul pentru Tineret (EYCA) și
+completarea anexei nr.l la Ordonanța Guvernului nr.41/1994 privind autorizarea
+plății cotizațiilor la organizațiile internaționale interguvernamentale la care
+România este parte, aprobată prin Legea nr. 126/1994, cu modificările și
+completările ulterioare;
+9.
+modificarea și completarea Legii nr.207/2022 pentru reglementarea
+unor măsuri privind cadrul general aplicabil constituirii și funcționării băncilor de
+dezvoltare din România, cu completările ulterioare;
+10. măsuri privind activitatea de acreditare a organismelor de evaluare a
+conformității.
+
+3
+II. DEZVOLTARE, LUCRĂRI PUBLICE ȘI ADMINISTRAȚIE:
+1.
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr.47/2022 privind ajustarea preturilor contractelor de achiziție publică/contractelor
+sectoriale/contractelor de concesiune/acordurilor cadru;
+2.
+modificarea Legii nr.212/2022 privind unele măsuri pentru
+reducerea riscului seismic al clădirilor;
+3.
+măsuri privind stabilirea destinației unor sume restituite în contul
+Fondului de Dezvoltare și Investiții;
+4. ’ modificarea și completarea Ordonanței Guvernului nr.25/2001
+privind înființarea Companiei Naționale de Investiții "C.N.I." - S.A., aprobată cu
+modificări prin Legea nr. II7/2002, cu modificările și completările ulterioare;
+5.
+modificarea art.ll alin.(l) lit.k) din Legea nr.50/1991 privind
+autorizarea executării lucrărilor de construcții, republicată, cu modificările și
+completările ulterioare;
+6.
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr.41/2010 privind unele măsuri pentru întărirea disciplinei în construcții, aprobată
+cu modificări prin Legea nr.3/2011.
+III. TRANSPORTURI:
+- măsuri privind reorganizarea unor instituții publice din domeniul
+feroviar în subordinea Ministerului Transporturilor și Infrastructurii.
+IV. AFACERI INTERNE:
+1.
+modificarea și completarea Ordonanței Guvernului nr.26/1994
+privind drepturile de hrană, în timp de pace, ale personalului din sectorul de apărare
+națională, ordine publică și securitate națională și ale persoanelor private de
+libertate, republicată, cu modificările și completările ulterioare;
+2.
+aprobarea plății cotizației financiare anuale în vederea participării
+Poliției Române, prin intermediul Poliției Rutiere, la Rețeaua Europeană a Polițiilor
+Rutiere - ROADPOL, precum și pentru modificarea anexei nr.l la Ordonanța
+Guvernului nr.41/1994 privind autorizarea plății cotizațiilor la organizațiile
+internaționale interguvemamentale la care România este parte, aprobată prin Legea
+nr. 126/1994, cu modificările și completările ulterioare;
+3.
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr. 195/2002 privind circulația pe drumurile publice, republicată, cu modificările și
+completările ulterioare;
+4.
+modificarea și completarea unor acte normative care cuprind
+dispoziții privind evidența persoanelor și cartea electronică de identitate.
+
+4
+V. SĂNĂTATE:
+modificarea și completarea Legii nr. 185/2017 privind asigurarea
+calității în sistemul de sănătate, cu modificările și completările ulterioare;
+2. modificarea și completarea Legii nr.95/2006 privind reforma în
+domeniul sănătății, republicată, cu modificările și completările ulterioare, precum și
+pentru modificarea și completarea altor acte normative cu impact în domeniul
+sănătății;
+1.
+3. modificarea și completarea Ordonanței de urgență a Guvernului
+nr.83/2000 privind organizarea și funcționarea cabinetelor de liberă practică pentru
+servicii publice conexe actului medical, aprobată cu modificări prin Legea
+nr.598/2001;
+4. reglementări privind calitatea apei destinată consumului uman.
+VI. SPORT:
+- modificarea și completarea Legii educației fizice și sportului
+nr.69/2000, cu modificările și completările ulterioare.
+VIL CULTURĂ:
+modificarea și completarea Ordonanței de urgență a Guvernului
+nr. 189/2008 privind managementul instituțiilor publice de cultură, aprobată cu
+modificări și completări prin Legea nr.269/2009, cu modificările și completările
+ulterioare;
+1.
+2.
+modificarea și completarea Legii nr.422/2001 privind protejarea
+monumentelor istorice, republicată, cu modificările și completările ulterioare;
+3.
+modificarea și completarea Ordonanței Guvernului nr.21/2007
+privind instituțiile și companiile de spectacole sau concerte, precum și desfășurarea
+activității de impresariat artistic, aprobată cu modificări și completări prin Legea
+nr.353/2007, cu modificările și completările ulterioare.
+VIII. MEDIU:
+1. măsuri de eficientizare a gestionării deșeurilor, precum și pentru
+modificarea unor acte normative;
+2. modificarea și completarea Ordonanței de urgență a Guvernului
+nr. 115/2011 privind stabilirea cadrului instituțional și autorizarea Guvernului, prin
+Ministerul Finanțelor, de a scoate la licitație certificatele de emisii de gaze cu efect
+de seră atribuite României la nivelul Uniunii Europene, aprobată prin Legea
+nr. 163/2012, cu modificările și completările ulterioare.
+
+5
+IX. INVESTIȚII ȘI PROIECTE EUROPENE:
+1. instituirea unor măsuri în domeniul gestionării fondurilor europene
+aferente politicii de coeziune 2014-2020;
+2. instituirea unor măsuri în domeniul gestionării fondurilor europene
+aferente politicii de coeziune 2021-2027;
+3. reglementări legislative necesare pentru îndeplinirea jaloanelor și
+țintelor din Planul Național de Redresare și Rezidență.
+X. Prorogarea sau modificarea unor termene prevăzute în acte
+normative cu putere de lege.
+Art.2.-In conformitate cu dispozițiile art.115 alin.(3) din Constituția
+României, republicată, ordonanțele emise de Guvern în temeiul art. 1 vor fi înaintate
+spre aprobare Parlamentului, potrivit procedurii legislative, până la reluarea
+lucrărilor Parlamentului în prima sesiune ordinară a anului 2023. Nerespectarea
+termenului atrage încetarea efectelor ordonanței.
+
+6
+Acest proiect de lege a fost adoptat de Senat, în ședința din
+21 noiembrie 2022, cu respectarea prevederilor articolului 76 alineatul (2) din
+Constituția României, republicată.
+p. PREȘEDINTELE SENATULUI
+Alina-Ștefania Gorghiu
