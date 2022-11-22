@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-10-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-02: sent for promulgation
 - 2022-11-17: promulgated, becomes Legea nr. 312/2022
+- 2022-11-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2022-10-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643FS.PDF
 - 2022-10-31: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643AXS.PDF
 - 2022-10-31: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643LP.PDF
+- 2022-11-22: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-22: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-11-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L643AL.PDF (its day is not given by the bill file: shown from the last stage held)
