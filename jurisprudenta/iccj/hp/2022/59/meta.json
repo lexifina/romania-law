@@ -1,0 +1,277 @@
+{
+ "key": "iccj-hp-59-2022",
+ "label": "Decizia ÎCCJ nr. 59/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "59",
+ "date": "2022-10-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 59 din 17 octombrie 2022",
+ "subtitle": "referitoare la cazul de suspendare a prescripției prevăzut de art. 41 din anexa nr. 1 la Decretul Președintelui României nr. 195/2020 privind instituirea stării de urgență pe teritoriul României",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1130",
+  "bis": false,
+  "date": "2022-11-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.442/1/2022",
+  "2.278/110/2021",
+  "6.372/110/2009"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "708",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 2.278/110/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă dispozițiile care reglementează cazul de suspendare a prescripției prevăzut de art. 41 din anexa nr. 1 la Decretul Președintelui României nr. 195/2020 privind instituirea stării de urgență pe teritoriul României și de art. 62 din anexa nr. 1 la Decretul Președintelui României nr. 240/2020 privind prelungirea stării de urgență pe teritoriul României se încadrează în ipoteza legală de suspendare a cursului prescripției executării silite prevăzută de art. 708 alin. (1) pct. 4 din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "708",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 195/2020",
+    "number": "195",
+    "year": "2020",
+    "path": "decret/2020/195"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 240/2020",
+    "number": "240",
+    "year": "2020",
+    "path": "decret/2020/240"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": [
+      "9",
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/1999",
+    "number": "1",
+    "year": "1999",
+    "path": "oug/1999/1"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "43",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 120/2020",
+    "number": "120",
+    "year": "2020",
+    "path": "lege/2020/120"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261655",
+  "text_sha256": "fef7bff30c265d0806ad87f70de5ab7a637e2b2b2129a4c637b0de260b1931b1",
+  "catalogue_sha256": "fef7bff30c265d0806ad87f70de5ab7a637e2b2b2129a4c637b0de260b1931b1",
+  "fetched": "2026-11-04T19:35:42Z",
+  "chars": 57033,
+  "portal_id": "261655",
+  "tip": "DECIZIE"
+ }
+}
