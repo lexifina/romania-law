@@ -1,0 +1,19 @@
+# Propunere legislativă L865/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 188/2023 (`legea-188-2023`).
+
+Propunere legislativă privind stabilirea unor măsuri în vederea finalizării procedurilor administrative de soluţionare a cererilor aflate pe rolul comisiilor judeţene, respectiv a municipiului Bucureşti pentru aplicarea Legii nr.9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România şi Bulgaria, semnat la Craiova la 7 septembrie 1940 şi a Legii nr.290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi ţinutul Herţa, ca urmare a stării de război şi a aplicării tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947 şi pentru modificarea Legii nr.164/2014 privind unele măsuri pentru accelerarea şi finalizarea procesului de soluţionare a cererilor formulate în temeiul Legii nr.9/1998 privind acordarea de compensaţii cetăţenilor români pentru bunurile trecute în proprietatea statului bulgar în urma aplicării Tratatului dintre România și Bulgaria, semnat la Craiova la 7 septembrie 1940, precum şi al Legii nr.290/2003 privind acordarea de despăgubiri sau compensaţii cetăţenilor români pentru bunurile proprietate a acestora, sechestrate, reţinute sau rămase în Basarabia, Bucovina de Nord şi Ținutul Herţa, ca urmare a stării de război şi a aplicării Tratatului de Pace între România şi Puterile Aliate şi Asociate, semnat la Paris la 10 februarie 1947, şi pentru modificarea unor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-23: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L865AD.PDF
+- 2022-11-23: Forma inițiatorului (FG): [fg-731ddff9.md](fg-731ddff9.md); official file https://www.senat.ro/legis/PDF/2022/22L865FG.PDF
+- 2022-11-23: Expunere de motive (EM): [em-a73200b5.md](em-a73200b5.md); official file https://www.senat.ro/legis/PDF/2022/22L865EM.PDF
