@@ -1,0 +1,267 @@
+{
+ "key": "iccj-hp-45-2022",
+ "label": "Decizia ÎCCJ nr. 45/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "45",
+ "date": "2022-09-19",
+ "year": "2022",
+ "heading": "DECIZIA nr. 45 din 19 septembrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 161 din Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, forma în vigoare la 5 martie 2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1134",
+  "bis": false,
+  "date": "2022-11-24",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.001/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "lege/2016/99"
+   },
+   "articles": [
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Oradea - Secția de contencios administrativ și fiscal, prin Încheierea din 15 aprilie 2022, pronunțată în Dosarul nr. 3.722/111/CA/2020, și, în consecință, stabilește că:",
+  "În interpretarea și aplicarea dispozițiilor art. 161 din Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului sectorial/acordului-cadru din Legea nr. 99/2016 privind achizițiile sectoriale, aprobate prin Hotărârea Guvernului nr. 394/2016, forma în vigoare la 5 martie 2020, termenul de 14 zile instituit în sarcina entității contractante are natura juridică a unui termen procedural, legal, imperativ, relativ.",
+  "Nerespectarea termenului nu atrage sancțiunea nulității documentului constatator.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "lege/2016/99"
+   },
+   "articles": [
+    {
+     "art": "161",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2006",
+    "number": "34",
+    "year": "2006",
+    "path": "oug/2006/34"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "lege/2016/98"
+   },
+   "articles": [
+    {
+     "art": "166",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 925/2006",
+    "number": "925",
+    "year": "2006",
+    "path": "hg/2006/925"
+   },
+   "articles": [
+    {
+     "art": "97-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 101/2016",
+    "number": "101",
+    "year": "2016",
+    "path": "lege/2016/101"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 394/2016",
+    "number": "394",
+    "year": "2016",
+    "path": "hg/2016/394"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261685",
+  "text_sha256": "7246b2bd70cd577f1b0c692d56cff5692c13f095431b539c4949d1e1a42f9604",
+  "catalogue_sha256": "7246b2bd70cd577f1b0c692d56cff5692c13f095431b539c4949d1e1a42f9604",
+  "fetched": "2026-11-06T04:00:46Z",
+  "chars": 50286,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261685",
+   "timestamp": "20260114211057",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469150.51/warc/CC-MAIN-20260114184901-20260114214901-00704.warc.gz",
+   "offset": "263356553",
+   "length": "32298",
+   "sha256": "414536a79a600d60bbe4ee70954603c4ed951651f1ee0db23e4b07fa4171976a"
+  },
+  "portal_id": "261685",
+  "tip": "DECIZIE"
+ }
+}
