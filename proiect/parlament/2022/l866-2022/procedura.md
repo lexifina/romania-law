@@ -1,0 +1,17 @@
+# Propunere legislativă L866/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal, precum şi a altor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-24: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L866AD.PDF
+- 2022-11-24: Forma inițiatorului (FG): [fg-7a0c0cac.md](fg-7a0c0cac.md); official file https://www.senat.ro/legis/PDF/2022/22L866FG.PDF
+- 2022-11-24: Expunere de motive (EM): [em-5586441d.md](em-5586441d.md); official file https://www.senat.ro/legis/PDF/2022/22L866EM.PDF
