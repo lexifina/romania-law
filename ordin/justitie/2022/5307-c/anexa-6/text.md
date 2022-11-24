@@ -1,0 +1,26 @@
+# Anexa nr. 5
+Timbru sec (pentru formatul letric)
+Sigiliu electronic calificat (pentru formatul electronic)
+CERTIFICAT CONSTATATOR emis în temeiul art. 122 alin. (7) și (9) din Legea nr. 265/2022 privind registrul comerțului și pentru modificarea și completarea altor acte normative cu incidență asupra înregistrării în registrul comerțului, eliberat în baza declarației pe propria răspundere înregistrate cu nr............. din..................
+Firma/Sucursala:......................................................................
+Sediul social/profesional/sediul sucursalei:......................................
+Cod unic de înregistrare....................... din data........................
+Număr de ordine în registrul comerțului..................... din data.....................
+Identificator unic la nivel european (EUID)................................................
+Prezentul certificat constatator atestă că s-a înregistrat declarația pe propria răspundere conform căreia firma îndeplinește condițiile de funcționare/desfășurare a activității încadrate în clasa CAEN....... denumirea activității........................ la: - sediul social/profesional..........................................................................................................................;
+- sediile secundare (sucursale, puncte de lucru, agenții sau alte asemenea unități fără personalitate juridică)...................;
+- terți,
+specifice pentru fiecare autoritate publică/instituție publică competentă în domeniul autorizării funcționării și verificării conformității celor declarate.
+Valabilitate: până la modificarea condițiilor de funcționare sau activităților pentru care s-a dat declarația pe propria răspundere
+Director,....................................
+Semnătură olografă (pentru formatul letric)
+Semnătură electronică calificată (pentru formatul electronic)
+Eliberat la data:............................
+NOTE: 1.
+Dacă se modifică obiectul de activitate ori activitățile autorizate, sediul social/profesional sau se înființează noi sedii secundare, precum și în situația întreruperii temporare de activitate a persoanelor fizice autorizate, întreprinderii individuale, întreprinderilor familiale ori a societăților care au desfășurat activitate de la înființare sau a reluării acesteia, solicitantul depune la biroul unic din cadrul oficiului registrului comerțului o nouă declarație-tip pentru sediul social/profesional și/sau sedii secundare, după caz, la terți, corespunzătoare modificărilor intervenite și care să ateste situația curentă pentru desfășurarea tuturor activităților declarate în obiectul de activitate.
+2.
+În situația întreruperii temporare de activitate se va emite un certificat constatator care atestă că s-a înregistrat declarația pe propria răspundere conform căreia, pe perioada întreruperii temporare de activitate, nu se desfășoară niciuna din activitățile ce constituie obiectul de activitate.
+3.
+În situația în care nu se mai desfășoară niciuna din activitățile declarate anterior la sediul social/profesional sau la sediile secundare sau la terți se va emite un certificat constatator care atestă că s-a înregistrat declarația pe propria răspundere conform căreia nu se mai desfășoară niciuna din activitățile declarate la sediul social/profesional sau la sediile secundare sau la terți.
+Declarația nu afectează obligația de a desfășura toate activitățile ce constituie obiectul de activitate la sediul social/profesional și/sau la sediile secundare și/sau la terți.
+----
