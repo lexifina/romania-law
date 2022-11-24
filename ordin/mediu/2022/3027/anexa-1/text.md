@@ -1,0 +1,4 @@
+# ANEXA
+GHID privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte
+PNRR/2022/C2/I.1.A, pentru subinvestiția
+I.1.A "Sprijin pentru investiții în noi suprafețe ocupate de păduri", investiția 1: Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane, schemă de ajutor de stat, componenta 2: Păduri și protecția biodiversității
