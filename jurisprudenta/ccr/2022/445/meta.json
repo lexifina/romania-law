@@ -1,0 +1,317 @@
+{
+ "key": "dcc-445-2022",
+ "label": "Decizia CCR nr. 445/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "445",
+ "date": "2022-10-12",
+ "year": "2022",
+ "heading": "DECIZIA nr. 445 din 12 octombrie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 10/2022 pentru modificarea și completarea Legii nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1136",
+  "bis": false,
+  "date": "2022-11-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.785A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 10/2022",
+    "number": "10",
+    "year": "2022",
+    "path": "lege/2022/10"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9-1",
+     "alin": [
+      "4-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Admite obiecția de neconstituționalitate formulată de Președintele României și constată că sintagma „inclusiv propunerile legislative ale deputaților și senatorilor“ din cuprinsul dispozițiilor articolului unic pct. 1, cu referire la art. 9 alin. (2), din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 10/2022 pentru modificarea și completarea Legii nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii este neconstituțională.",
+  "2. Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că dispozițiile articolului unic pct. 2, cu referire la art. 9^1 alin. (4^2), din Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 10/2022 pentru modificarea și completarea Legii nr. 346/2004 privind stimularea înființării și dezvoltării întreprinderilor mici și mijlocii sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 10/2022",
+    "number": "10",
+    "year": "2022",
+    "path": "lege/2022/10"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9-1",
+     "alin": [
+      "4-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9-1",
+     "alin": [
+      "4-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 346/2004",
+    "number": "346",
+    "year": "2004",
+    "path": "lege/2004/346"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9-1",
+     "alin": [
+      "4-2",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 96/2006",
+    "number": "96",
+    "year": "2006",
+    "path": "lege/2006/96"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 443/2022",
+    "number": "443",
+    "year": "2022",
+    "path": "hg/2022/443"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261686",
+  "text_sha256": "2cccd09e864d34288e748772bb06f232d6fb9e85b435a800dc3a8b7229866e90",
+  "catalogue_sha256": "2cccd09e864d34288e748772bb06f232d6fb9e85b435a800dc3a8b7229866e90",
+  "fetched": "2026-11-04T19:25:01Z",
+  "chars": 71375,
+  "portal_id": "261686",
+  "tip": "DECIZIE"
+ }
+}
