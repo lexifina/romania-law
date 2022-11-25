@@ -1,0 +1,10 @@
+# HCGMB nr. 660/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 660/2022
+- Adopted: 2022-11-25
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44284
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/44284/H660_22.pdf
+- Document sha256: b7f9568a408c5746ebfd6006cdfc84d68dd858dba009f8d0b5c4d461a4af2e42
