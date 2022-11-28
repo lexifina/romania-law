@@ -1,0 +1,17 @@
+# Propunere legislativă L39/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Legii nr.107/1996 a apelor, cu modificările şi completările ulterioare
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2022-11-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2022-11-28: Adresă de înaintare a inițiativei (AD): [ad-c690a4aa.md](ad-c690a4aa.md); official file https://www.senat.ro/legis/PDF/2023/23L039AD.PDF
+- 2022-11-28: Forma inițiatorului (FG): [fg-6260d1f8.md](fg-6260d1f8.md); official file https://www.senat.ro/legis/PDF/2023/23L039FG.PDF
+- 2022-11-28: Expunere de motive (EM): [em-8cb9a40c.md](em-8cb9a40c.md); official file https://www.senat.ro/legis/PDF/2023/23L039EM.PDF
