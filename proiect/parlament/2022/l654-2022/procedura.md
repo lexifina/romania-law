@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-01: documents published: Aviz comisie
 - 2022-11-02: documents published: Aviz comisie
 - 2022-11-10: documents published: Punct de vedere Guvern
+- 2022-11-28: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-02: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L654CA45.PDF
 - 2022-11-02: Aviz comisie (CA42): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L654CA42.PDF
 - 2022-11-10: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L654SJ.PDF
+- 2022-11-28: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L654CR.PDF
