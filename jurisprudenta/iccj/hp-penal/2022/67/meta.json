@@ -1,0 +1,1208 @@
+{
+ "key": "iccj-hp-penal-67-2022",
+ "label": "Decizia ÎCCJ nr. 67/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "67",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 67 din 25 octombrie 2022",
+ "subtitle": "referitoare la interpretarea art. 426 lit. b) din Codul de procedură penală, art. 155 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1141",
+  "bis": false,
+  "date": "2022-11-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.341/1/2022",
+  "2.498/299/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "I. Admite sesizările formulate de Curtea de Apel București - Secția a II-a penală în dosarele nr. 1.341/1/2022 (pct. I.1), nr. 1.344/1/2022 (pct. IV.1.1), nr. 1.346/1/2022 (pct. IV.2.1), nr. 1.348/1/2022 (pct. IV.3.1), nr. 1.396/1/2022 (pct. IV.4) și nr. 1.495/1/2022 (pct. IV.10.2), respectiv Curtea de Apel Brașov - Secția penală în Dosarul nr. 1.465/1/2022 (pct. IV.7.1), prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: „Dacă normele care reglementează efectul întreruptiv de prescripție al actelor de procedură sunt norme de drept substanțial susceptibile de a fi aplicate ca lege penală mai favorabilă sau norme de drept procesual supuse principiului tempus regit actum“ și „Dacă în aplicarea dispozițiilor art. 426 lit. b) din Codul de procedură penală, astfel cum au fost interpretate prin Decizia nr. 10/2017, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, instanța care soluționează contestația în anulare, întemeiată pe efectele deciziilor Curții Constituționale nr. 297 din 26 aprilie 2018 și nr. 358 din 26 mai 2022, poate reanaliza prescripția răspunderii penale, în cazul în care instanța de apel a dezbătut și a analizat incidența acestei cauze de încetare a procesului penal în cursul procesului anterior acestei din urmă decizii“ și stabilește următoarele: 1.",
+  "Normele referitoare la întreruperea cursului prescripției sunt norme de drept penal material (substanțial) supuse din perspectiva aplicării lor în timp principiului activității legii penale prevăzut de art. 3 din Codul penal, cu excepția dispozițiilor mai favorabile, potrivit principiului mitior lex prevăzut de art. 15 alin. (2) din Constituția României, republicată, și art. 5 din Codul penal.",
+  "2. Instanța care soluționează contestația în anulare, întemeiată pe efectele deciziilor Curții Constituționale nr. 297 din 26 aprilie 2018 și nr. 358 din 26 mai 2022, nu poate reanaliza prescripția răspunderii penale, în cazul în care instanța de apel a dezbătut și a analizat incidența acestei cauze de încetare a procesului penal în cursul procesului anterior acestei din urmă decizii.",
+  "II. Respinge ca inadmisibile sesizările formulate în următoarele dosare: – dosarele nr. 1.344/1/2022 (pct. IV.1.2), nr. 1.346/1/2022 (pct. IV.2.2) și nr. 1.348/1/2022 (pct. IV.3.2), vizând lămurirea chestiunii de drept: Dacă art. 155 alin. (1) din Codul penal, în forma în vigoare în perioada 26.06.2018-30.05.2022, este susceptibil de a fi aplicat ca lege penală mai favorabilă;",
+  "–",
+  "Dosarul nr. 1.415/1/2022 (pct. IV.5.2), vizând lămurirea chestiunii de drept: Dacă în temeiul principiului „tempus regit actum“ pentru infracțiunile comise anterior datei de 25 iunie 2018 pot fi incidente dispozițiile art. 155 alin. (1) din Codul penal și dacă în temeiul aceluiași principiu, odată cu intrarea în vigoare a dispozițiilor Ordonanței de urgență a Guvernului nr. 71/2022, devin incidente dispozițiile art. 155 alin. (1) din Codul penal și pentru infracțiunile presupus comise anterior acestei date;",
+  "–",
+  "Dosarul nr. 1.446/1/2022 (pct. IV.6), vizând lămurirea chestiunii de drept: a) Dacă lipsa din fondul activ al legislației a cazurilor care să permită întreruperea cursului prescripției răspunderii penale în perioada 2018-2022, conform deciziilor nr. 297/2018 și nr. 358/2022 ale Curții Constituționale, determină incidența dispozițiilor art. 5 din Codul penal; b) Dacă pentru infracțiunile săvârșite anterior datei de 25.06.2018 este aplicabilă doar prescripția generală, fără luarea în considerare a cauzelor de întrerupere intervenite anterior acestei date sau se aplică prescripția specială, cu luarea în considerare a cauzelor de întrerupere a termenului de prescripție care au intervenit anterior datei de 25.06.2018 și ulterior datei de 30.05.2022;",
+  "–",
+  "Dosarul nr. 1.465/1/2022 (pct. IV.7.2), vizând lămurirea chestiunii de drept: Dispozițiile art. 155 alin. (1) din Codul penal se interpretează în sensul că își mențin efectul întreruptiv de prescripție produs în forma anterioară Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018;",
+  "–",
+  "Dosarul nr. 1.490/1/2022 (pct. IV.8), vizând lămurirea chestiunii de drept: Dacă, în situația unei activități infracționale consumate sub imperiul Codului penal anterior, cu privire la care actul de sesizare a instanței a fost emis după intrarea în vigoare a noului Cod penal, dar până la pronunțarea Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, comunicarea, potrivit art. 344 din Codul de procedură penală, a copiei certificate a rechizitoriului, precum și a încheierii pronunțate de judecătorul de cameră preliminară în conformitate cu art. 346 alin. (1) și (2) din Codul de procedură penală constituie acte întreruptive ale cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.492/1/2022 (pct. IV.9), vizând lămurirea chestiunii de drept: Dacă, în situația unei infracțiuni comise sub imperiul Codului penal în vigoare, audierea în calitate de inculpat efectuată de procuror anterior Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, reprezintă un act de procedură întreruptiv al cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.495/1/2022 (pct. IV.10.1), vizând lămurirea chestiunii de drept: Dacă un act de procedură efectuat conform dispozițiilor procedurale și ale art. 155 alin. (1) din Codul penal, în forma în vigoare la data efectuării actului de procedură, a produs în mod definitiv efectul de întrerupere al termenului de prescripție a răspunderii penale sau acest efect poate fi înlăturat ca urmare a aplicării principiului aplicării legii penale mai favorabile inculpatului, în cazul în care conținutul art. 155 alin. (1) din Codul penal sa modificat ulterior efectuării actului de procedură;",
+  "–",
+  "Dosarul nr. 1.506/1/2022 (pct. IV.11), vizând lămurirea chestiunii de drept: Dacă, în situația unei infracțiuni consumate sub imperiul Codului penal în vigoare, cu privire la care actul de sesizare a instanței a fost emis anterior pronunțării Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, comunicarea, potrivit art. 344 din Codul de procedură penală, a copiei certificate a rechizitoriului, precum și a încheierii pronunțate de judecătorul de cameră preliminară in conformitate cu art. 346 alin. (1) și (2) din Codul de procedură penală constituie acte întreruptive ale cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.554/1/2022 (pct. IV.12), vizând lămurirea chestiunii de drept: Dacă inexistența în legislație a cazurilor care să permită întreruperea cursului prescripției răspunderii penale, în perioada 2018-2022 (25.06.2018-30.05.2022), conform deciziilor nr. 297 din 26 aprilie 2018 și nr. 358 din 26 mai 2022 ale Curții Constituționale, determină incidența dispozițiilor art. 5 din Codul penal; dacă pentru infracțiunile săvârșite anterior datei de 25.06.2018 este aplicabilă doar prescripția generală, fără luarea în considerare a cauzelor de întrerupere intervenite anterior acestei date, sau se aplică prescripția specială, cu luarea în considerare a cauzelor de întrerupere a termenului de prescripție care au intervenit anterior datei de 25.06.2018 și ulterior datei de 30.05.2022;",
+  "–",
+  "Dosarul nr. 1.576/1/2022 (pct. IV.13), vizând lămurirea chestiunii de drept: Dacă, în situația unei infracțiuni comise sub imperiul noului Cod penal cu privire la care actul de sesizare a instanței a fost emis după intrarea în vigoare a Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, procesulverbal de aducere la cunoștință a calității de suspect și audierea în calitate de suspect, anterior intrării în vigoare a Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, reprezintă acte de procedură întreruptive ale cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.577/1/2022 (pct. IV.14), vizând lămurirea chestiunii de drept: Dacă, în situația unei infracțiuni comise sub imperiul noului Cod penal cu privire la care actul de sesizare a instanței a fost emis după intrarea în vigoare a Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, încheierea de admitere a plângerii și de desființare a ordonanței procurorului cu consecința trimiterii cauzei pentru completarea urmăririi penale pronunțate de judecătorul de cameră preliminară anterior intrării în vigoare a Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, reprezintă un act de procedură întreruptiv al cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.578/1/2022 (pct. IV.15), vizând lămurirea chestiunii de drept: Dacă, în situația unei activități infracționale consumate sub imperiul Codului penal anterior, cu privire la care actul de sesizare a instanței a fost emis după intrarea în vigoare a noului Cod penal, dar până la pronunțarea Deciziei Curții Constituționale nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, procesul-verbal de aducere la cunoștință a calității de suspect, audierea în calitate de suspect și comunicarea, potrivit art. 344 din Codul de procedură penală, a copiei certificate a rechizitoriului constituie acte întreruptive ale cursului termenului de prescripție, în sensul dispozițiilor art. 155 alin. (1) din Codul penal;",
+  "–",
+  "Dosarul nr. 1.415/1/2022 (pct. IV.5.1), vizând lămurirea chestiunii de drept: Dacă în determinarea legii mai favorabile conform art. 5 din Codul penal cu trimitere la deciziile nr. 297 din 26 aprilie 2018 și nr. 258 din 26 mai 2022 ale Curții Constituționale, dispozițiile art. 154 alin. (1) din Codul penal prin raportare la prevederile art. 16 alin. (1) lit. f) din Codul de procedură penală pot fi aplicate independent de prevederile art. 155 alin. (1) din Codul penal pentru infracțiunile săvârșite până în data de 9 iunie 2022 și dacă aceste decizii ale Curții Constituționale devin inaplicabile în această materie în ceea ce privește infracțiunile care afectează interesele financiare ale Uniunii Europene potrivit jurisprudenței Curții de Justiție a Uniunii Europene;",
+  "–",
+  "Dosarul nr. 1.604/1/2022 (pct. IV.16), vizând lămurirea chestiunii de drept: Dacă normele care reglementează efectul întreruptiv de prescripție al actelor de procedură, conform art. 155 alin. (1) din Codul penal, sunt norme de drept substanțial susceptibile de a fi aplicate ca lege penală mai favorabilă, aplicarea acestora potrivit art. 5 din Codul penal se face indiferent de obiectul infracțiunii sau, în ce privește infracțiunile care afectează interesele financiare ale Uniunii Europene, se impune efectuarea unei analize specifice cu privire la necesitatea de a lăsa (sau nu) neaplicate aceste dispoziții în raport cu jurisprudența Curții de Justiție a Uniunii Europene dezvoltate în baza art. 325 din TFUE, precum și a Hotărârii din data de 21.12.2021 în cauzele conexate C-357/19 Euro Box Promotion și alții, C-379/19DNA-Serviciul Teritorial Oradea, C547/19 Asociația Forumul Judecătorilor din România, C811/19 FQ și alții și C-840/19 NC.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "196",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "322",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "320",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "213",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "250",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "297",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "289",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "290",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "105",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "244",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "127",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "128",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "335",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 358
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "426",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "431",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "f",
+      "e"
+     ]
+    },
+    {
+     "art": "375",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "595",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "428",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "427",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "429",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "432",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 90
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "1391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "655",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "53-1",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "248-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "125",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "604",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 122
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 656/2002",
+    "number": "656",
+    "year": "2002",
+    "path": "lege/2002/656"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "280-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "13-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "18-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 39/2003",
+    "number": "39",
+    "year": "2003",
+    "path": "lege/2003/39"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 43/2002",
+    "number": "43",
+    "year": "2002",
+    "path": "oug/2002/43"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 129/2019",
+    "number": "129",
+    "year": "2019",
+    "path": "lege/2019/129"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2003",
+    "number": "85",
+    "year": "2003",
+    "path": "lege/2003/85"
+   },
+   "articles": [
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/2012",
+    "number": "27",
+    "year": "2012",
+    "path": "lege/2012/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261709",
+  "text_sha256": "1b238d3f711eb44653282691d86fd881bc5a81be6bacff1451f5e71f03666202",
+  "catalogue_sha256": "1b238d3f711eb44653282691d86fd881bc5a81be6bacff1451f5e71f03666202",
+  "fetched": "2026-11-03T14:29:49Z",
+  "chars": 315775,
+  "portal_id": "261709",
+  "tip": "DECIZIE"
+ }
+}
