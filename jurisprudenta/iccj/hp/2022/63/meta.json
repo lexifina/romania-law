@@ -1,0 +1,315 @@
+{
+ "key": "iccj-hp-63-2022",
+ "label": "Decizia ÎCCJ nr. 63/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "63",
+ "date": "2022-10-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 63 din din 17 octombrie 2022",
+ "subtitle": "privind interpretarea dispozițiilor art. 58 lit. b) din Legea nr. 136/1995 privind asigurările și reasigurările în România, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1156",
+  "bis": false,
+  "date": "2022-11-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.585/1/2022",
+  "164/334/2020",
+  "2.100/334/2015"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Suceava - Secția a II-a civilă, în Dosarul nr. 164/334/2020, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: În cazul acțiunii formulate de asigurătorul de răspundere civilă auto obligatorie împotriva propriului asigurat, dispozițiile art. 58 lit. b) din Legea nr. 136/1995 privind asigurările și reasigurările în România, cu modificările și completările ulterioare, se interpretează în sensul că natura și durata termenului de prescripție a dreptului material la acțiune sunt de 2 ani, conform dispozițiilor art. 2.519 alin. (1) din Codul civil aplicabile dreptului la acțiune întemeiat pe un raport de asigurare, sau de 3 ani, potrivit prevederilor art. 2.517 și/sau art. 2.528 alin. (1) din Codul civil, aplicabile acțiunii în regres/în răspundere civilă delictuală?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "51",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2519",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2210",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2523",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1593",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2517",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2528",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "336",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/2015",
+    "number": "213",
+    "year": "2015",
+    "path": "lege/2015/213"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "100",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 167/1958",
+    "number": "167",
+    "year": "1958",
+    "path": "decret/1958/167"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261917",
+  "text_sha256": "37de7cb9f739d1e5d29b4bd82e92057de88646f73d72df0ab6d490fe92ee1fea",
+  "catalogue_sha256": "37de7cb9f739d1e5d29b4bd82e92057de88646f73d72df0ab6d490fe92ee1fea",
+  "fetched": "2026-11-03T01:27:38Z",
+  "chars": 61752,
+  "portal_id": "261917",
+  "tip": "DECIZIE"
+ }
+}
