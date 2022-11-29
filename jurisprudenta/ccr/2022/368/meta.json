@@ -1,0 +1,214 @@
+{
+ "key": "dcc-368-2022",
+ "label": "Decizia CCR nr. 368/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "368",
+ "date": "2022-07-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 368 din 5 iulie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei „în mediul urban“ din cuprinsul art. 2 pct. 27) din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1146",
+  "bis": false,
+  "date": "2022-11-29",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.576D/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată direct de Avocatul Poporului și constată că sintagma „în mediul urban“ din cuprinsul art. 2 pct. 27) din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică președinților celor două Camere ale Parlamentului, prim-ministrului Guvernului și Avocatului Poporului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 61/1991",
+    "number": "61",
+    "year": "1991",
+    "path": "lege/1991/61"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-11-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/261747",
+  "text_sha256": "6ecc8e9a2df05fc949a0f386ba788ce62a80acce5682b83dac076676beff1771",
+  "catalogue_sha256": "6ecc8e9a2df05fc949a0f386ba788ce62a80acce5682b83dac076676beff1771",
+  "fetched": "2026-11-06T02:39:22Z",
+  "chars": 24060,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/261747",
+   "timestamp": "20260119074932",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469444.61/warc/CC-MAIN-20260119071657-20260119101657-00543.warc.gz",
+   "offset": "274149548",
+   "length": "26370",
+   "sha256": "f820db6da3844101e31aaf259f40e54c2e1b2506596aa8fbf46c47700d114175"
+  },
+  "portal_id": "261747",
+  "tip": "DECIZIE"
+ }
+}
