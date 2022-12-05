@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-23: sent for promulgation
 - 2022-10-12: published in the Monitorul Oficial
 - 2022-11-29: promulgated, becomes Legea nr. 329/2022
+- 2022-12-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,15 @@ Initiator: Membri ai Parlamentului.
 - 2020-09-30: Adresă către Camera Deputaților (AM): [am-b0366aef.md](am-b0366aef.md); official file https://www.senat.ro/legis/PDF/2020/20L531AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L531AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-44a93afe.md](lp-44a93afe.md); official file https://www.senat.ro/legis/PDF/2020/20L531LP.PDF
+- 2022-12-05: Document (AT): [at-13feca2e.md](at-13feca2e.md); official file https://www.senat.ro/legis/PDF/2020/20L531AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (S1): [s1-9f2fe244.md](s1-9f2fe244.md); official file https://www.senat.ro/legis/PDF/2020/20L531S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (RX): [rx-66ee7dbe.md](rx-66ee7dbe.md); official file https://www.senat.ro/legis/PDF/2020/20L531RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (XA): [xa-e51b00b4.md](xa-e51b00b4.md); official file https://www.senat.ro/legis/PDF/2020/20L531XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (CX): [cx-7faab6c0.md](cx-7faab6c0.md); official file https://www.senat.ro/legis/PDF/2020/20L531CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (X2): [x2-082cdf2d.md](x2-082cdf2d.md); official file https://www.senat.ro/legis/PDF/2020/20L531X2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (XD): [xd-3fb82fa8.md](xd-3fb82fa8.md); official file https://www.senat.ro/legis/PDF/2020/20L531XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (SX): [sx-f92239db.md](sx-f92239db.md); official file https://www.senat.ro/legis/PDF/2020/20L531SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L531XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L531PX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L531SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-05: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L531DC.PDF (its day is not given by the bill file: shown from the last stage held)
