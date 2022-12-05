@@ -1,0 +1,271 @@
+{
+ "key": "iccj-hp-57-2022",
+ "label": "Decizia ÎCCJ nr. 57/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "57",
+ "date": "2022-10-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 57 din 3 octombrie 2022",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1162",
+  "bis": false,
+  "date": "2022-12-05",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.141/1/2022",
+  "25.029/3/2020",
+  "17.530/3/2009",
+  "38.521/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie prin Încheierea din 6 mai 2022 în Dosarul nr. 25.029/3/2020 privind pronunțarea unei hotărâri prealabile și în consecință:",
+  "În interpretarea dispozițiilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, cu modificările și completările ulterioare, astfel cum au fost modificate prin Legea nr. 193/2021 privind aprobarea Ordonanței de urgență a Guvernului nr. 72/2020 pentru suspendarea aplicării prevederilor art. 21 alin. (6) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România și instituirea unor măsuri tranzitorii, stabilește că, într-un litigiu care are ca obiect contestația formulată împotriva deciziei de compensare emise de Comisia Națională pentru Compensarea Imobilelor, dispozițiile art. 21 alin. (6) din Legea nr. 165/2013, astfel cum au fost modificate prin Legea nr. 193/2021 privind aprobarea Ordonanței de urgență a Guvernului nr. 72/2020, se interpretează în sensul că evaluarea imobilului urmează a fi realizată prin raportare la grila notarilor publici valabilă în anul anterior emiterii deciziei de compensare de către Comisia Națională pentru Compensarea Imobilelor, ce face obiectul contestației judiciare.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "6",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 76
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 193/2021",
+    "number": "193",
+    "year": "2021",
+    "path": "lege/2021/193"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 98/2016",
+    "number": "98",
+    "year": "2016",
+    "path": "oug/2016/98"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2006",
+    "number": "205",
+    "year": "2006",
+    "path": "lege/2006/205"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 22/2020",
+    "number": "22",
+    "year": "2020",
+    "path": "lege/2020/22"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 94/2000",
+    "number": "94",
+    "year": "2000",
+    "path": "oug/2000/94"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea privind adoptarea Ordonanței de urgență a Guvernului nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "lege/2020/72"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-12-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262155",
+  "text_sha256": "071092a928bf52d56dcca3c17c1411ad0cae5a1aecc0443f292ecb691f92aad6",
+  "catalogue_sha256": "071092a928bf52d56dcca3c17c1411ad0cae5a1aecc0443f292ecb691f92aad6",
+  "fetched": "2026-11-06T03:52:12Z",
+  "chars": 88926,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262155",
+   "timestamp": "20251215103424",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871652622.65/warc/CC-MAIN-20251215101217-20251215131217-00597.warc.gz",
+   "offset": "274086983",
+   "length": "55310",
+   "sha256": "806b5e9a2afef9530c624c8312ee399ef1b9c52dfba5b9afb691ddf132bd68b4"
+  },
+  "portal_id": "262155",
+  "tip": "DECIZIE"
+ }
+}
