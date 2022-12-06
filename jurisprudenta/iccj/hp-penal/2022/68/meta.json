@@ -1,0 +1,198 @@
+{
+ "key": "iccj-hp-penal-68-2022",
+ "label": "Decizia ÎCCJ nr. 68/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "68",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 68 din 25 octombrie 2022",
+ "subtitle": "referitoare la art. 476 alin. (1) raportat la art. 475 din Codul de procedură penală pentru care s-a solicitat pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1167",
+  "bis": false,
+  "date": "2022-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.422/1/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "476",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția penală, prin care solicită dezlegarea următoarei chestiuni de drept:",
+  "I. În cazul în care o infracțiune (A) (nejudecată) este concurentă atât cu infracțiunea (B) ce reprezintă primul termen, cât și cu infracțiunea (C) ce reprezintă al doilea termen al unei recidive postexecutorii, iar până la judecata definitivă a infracțiunii (A), pedeapsa pentru infracțiunea (B) este integral executată; operațiunea de stabilire a pedepsei rezultante implică:",
+  "I.1.",
+  "Aplicarea regulilor concursului de infracțiuni între pedepsele stabilite pentru infracțiunile (A) și (B), rezultantei fiindu-i aplicabile ulterior regulile recidivei postcondamnatorii, la contopirea acestei pedepse rezultante cu pedeapsa (C) (dacă în urma contopirii pedepselor din concurs o astfel de recidivă se naște); considerând că intervenția recidivei duce la ruperea concurenței dintre infracțiunile (A) și (C), fiind irelevantă executarea integrală a pedepsei aplicate pentru infracțiunea (B) sau",
+  "I.2.",
+  "Aplicarea regulilor concursului de infracțiuni între pedepsele stabilite pentru infracțiunile (A), și (C), fără a se scădea ulterior ce s-a executat din pedeapsa (B) sau",
+  "I.3.",
+  "Aplicarea regulilor concursului de infracțiuni pentru pedepsele stabilite cu privire la infracțiunile (A), (B) și (C), urmând ca mai apoi să se deducă perioadele pedepselor executate din structura pedepsei rezultante.",
+  "II. În ipoteza contopirii pedepselor conform variantei I.1, natura recidivei (recidivă postexecutorie) reținută cu titlu de autoritate de lucru judecat la infracțiunea (C) se păstrează, cu consecința păstrării încadrării și a pedepsei, urmând ca doar tratamentul sancționator specific recidivei postcondamnatorii să fie aplicat în concret în operațiunea de stabilire a pedepsei rezultante pentru infracțiunile (A), (B) și (C); sau se impune modificarea încadrării juridice a infracțiunii (C), cu posibilitatea de modificare a pedepsei aplicate pentru această infracțiune; demers ce se realizează de instanța ce judecă infracțiunea (A).",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "228",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "229",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "b",
+      "d"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262178",
+  "text_sha256": "e29beb3d80761c6a8077b9d7e879e0a41f2144f90f92bf588b789df5ebfc94e1",
+  "catalogue_sha256": "e29beb3d80761c6a8077b9d7e879e0a41f2144f90f92bf588b789df5ebfc94e1",
+  "fetched": "2026-11-03T01:27:31Z",
+  "chars": 67381,
+  "portal_id": "262178",
+  "tip": "DECIZIE"
+ }
+}
