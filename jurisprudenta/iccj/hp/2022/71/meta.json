@@ -1,0 +1,242 @@
+{
+ "key": "iccj-hp-71-2022",
+ "label": "Decizia ÎCCJ nr. 71/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "71",
+ "date": "2022-10-31",
+ "year": "2022",
+ "heading": "DECIZIA nr. 71 din 31 octombrie 2022",
+ "subtitle": "referitoare la interpretarea Legii nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1169",
+  "bis": false,
+  "date": "2022-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.725/1/2022",
+  "3.273/212/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Constanța - Secția a II-a civilă, în Dosarul nr. 3.273/212/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Contractul de asistență juridică aferent profesiei de avocat, așa cum este reglementată de Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată, cu modificările și completările ulterioare, constituie sau nu titlu executoriu și pentru penalitățile de întârziere?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "666",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "638",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "628",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2006",
+    "number": "99",
+    "year": "2006",
+    "path": "oug/2006/99"
+   },
+   "articles": [
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1539",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1798",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262199",
+  "text_sha256": "bf89e64d07886f81bd216bebcb8270264882fcae5e4f3a605290d67995955f08",
+  "catalogue_sha256": "bf89e64d07886f81bd216bebcb8270264882fcae5e4f3a605290d67995955f08",
+  "fetched": "2026-11-03T01:27:35Z",
+  "chars": 41566,
+  "portal_id": "262199",
+  "tip": "DECIZIE"
+ }
+}
