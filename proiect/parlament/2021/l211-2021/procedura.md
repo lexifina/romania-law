@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-07-04: sent for promulgation
 - 2022-10-28: returned for re-examination
+- 2022-12-07: rejected by the Senate
 
 ## Documents
 
