@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2021-09-20: sent for promulgation
 - 2021-10-08: promulgated, becomes Legea nr. 239/2021; published in the Monitorul Oficial; documents published: Decret de promulgare, Adresă privind forma promulgată, Forma promulgată
 - 2022-03-23: registered at the Chamber of Deputies
+- 2022-12-07: adopted by the Chamber of Deputies
 
 ## Documents
 
