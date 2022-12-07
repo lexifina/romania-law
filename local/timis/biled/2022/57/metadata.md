@@ -1,0 +1,9 @@
+# HCL Biled nr. 57/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Biled
+- Decision: nr. 57/2022
+- Adopted: 2022-12-07
+- Title: privind extinderea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Biled , în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale
+- Record: https://biled.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/843#36124
