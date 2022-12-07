@@ -1,0 +1,283 @@
+{
+ "key": "iccj-hp-61-2022",
+ "label": "Decizia ÎCCJ nr. 61/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "61",
+ "date": "2022-10-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 61 din 17 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 2 alin. (1) lit. c) și ale art. 36 alin. (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1172",
+  "bis": false,
+  "date": "2022-12-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.545/1/2022",
+  "3.631/99/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iași - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 3.631/99/2021, privind pronunțarea unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea și aplicarea prevederilor art. 2 alin. (1) lit. c) și ale art. 36 alin. (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, cu modificările și completările ulterioare, salarizarea personalului tehnic, economic și socioadministrativ din cadrul spitalelor publice finanțate integral din venituri proprii, aflate în subordinea, sub autoritatea sau în coordonarea Ministerului Sănătății, se realizează potrivit anexei nr. VII la Legea-cadru nr. 153/2017.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 75
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "169",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "190",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "192",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 583/2009",
+    "number": "583",
+    "year": "2009",
+    "path": "hg/2009/583"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2007",
+    "number": "153",
+    "year": "2007",
+    "path": "lege/2007/153"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 72/2013",
+    "number": "72",
+    "year": "2013",
+    "path": "lege/2013/72"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 144/2010",
+    "number": "144",
+    "year": "2010",
+    "path": "hg/2010/144"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-12-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262264",
+  "text_sha256": "ed57b067876439fea276892a02a9af695a44f268c503b2e00d4c8b73aade2710",
+  "catalogue_sha256": "ed57b067876439fea276892a02a9af695a44f268c503b2e00d4c8b73aade2710",
+  "fetched": "2026-11-03T01:27:30Z",
+  "chars": 78051,
+  "portal_id": "262264",
+  "tip": "DECIZIE"
+ }
+}
