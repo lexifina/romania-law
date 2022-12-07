@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-11: rejected by the Chamber of Deputies
 - 2022-10-13: registered at the Senate
 - 2022-10-27: documents published: Aviz comisie
+- 2022-12-07: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-03: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L627CA8.PDF
 - 2022-10-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L627CR.PDF
 - 2022-10-27: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L627CA3.PDF
+- 2022-12-07: Forma adoptată de Senat (FS): [fs-88fdb40b.md](fs-88fdb40b.md); official file https://www.senat.ro/legis/PDF/2022/22L627FS.PDF
