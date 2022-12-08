@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-19: sent for promulgation
 - 2022-12-07: promulgated, becomes Legea nr. 336/2022
+- 2022-12-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L371AM.PDF
 - 2022-11-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L371AXS.PDF
 - 2022-11-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L371LP.PDF
+- 2022-12-08: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L371SM.PDF (its day is not given by the bill file: shown from the last stage held)
