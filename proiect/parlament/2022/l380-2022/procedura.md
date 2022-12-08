@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-19: sent for promulgation
 - 2022-12-07: promulgated, becomes Legea nr. 335/2022
+- 2022-12-08: published in the Monitorul Oficial
 
 ## Documents
 
