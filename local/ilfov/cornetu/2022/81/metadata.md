@@ -1,0 +1,10 @@
+# HCL Cornetu nr. 81/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Cornetu
+- Decision: nr. 81/2022
+- Adopted: 2022-10-31
+- Published: 2022-12-08
+- Title: privind aprobarea împuternicirii Asociației de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov, de a înființa, organiza, exploata, monitoriza, gestiona și, după caz, modifica serviciul public de transport feroviar de călători de interes local
+- Record: https://emol.ro/cornetu-if/registru-hcl/77941
