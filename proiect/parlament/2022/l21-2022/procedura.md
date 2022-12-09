@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-03-14: registered at the Chamber of Deputies
 - 2022-11-16: adopted by the Chamber of Deputies
 - 2022-11-23: sent for promulgation
+- 2022-12-09: promulgated, becomes Legea nr. 339/2022
 
 ## Documents
 
