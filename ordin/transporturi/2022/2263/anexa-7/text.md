@@ -1,0 +1,36 @@
+# Anexa nr. 6 (Anexa nr. 7 la Ordinul nr. 606/2017)
+MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII
+AUTORITATEA RUTIERĂ ROMÂNĂ - A.R.R.
+Bd. Dinicu Golescu nr. 38, sectorul 1, București
+PROCES-VERBAL SERIA ISR Nr................................. de constatare și sancționare a contravențiilor, încheiat în ziua......, luna........, anul.........., ora........, localitatea..................., județul (sectorul).....................
+Subsemnatul,..........................., în calitate de agent constatator la Autoritatea Rutieră Română - A.R.R..........................., în temeiul art......... din Legea nr. 265/2008, republicată, cu modificările și completările ulterioare, în baza legitimației nr................, eliberată conform art............ din Ordinul ministrului transporturilor nr. 606/2017, cu modificările și completările ulterioare, am constatat următoarele:
+1.
+Descrierea faptei (faptelor) (cu indicarea datei, orei și locului în care a/au fost săvârșită/săvârșite):.......................................................................................................................................................................................................................................................................................
+2.
+Pentru săvârșirea faptei (faptelor) descrise mai sus se face vinovată persoana juridică/persoana fizică:* * Pentru persoane fizice - numele și prenumele, data nașterii, adresa de domiciliu, actul de identitate seria și numărul, codul numeric personal (CNP)........................................................................................................................................................................................
+3.
+Fapta (faptele) descrisă (descrise) la pct. 1 constituie contravenție, conform prevederilor:................................. art......... alin...... lit................, și se sancționează, conform art............... alin............. lit..............., cu amendă în sumă de.................... lei/ sau............................. lei, în termen de cel mult 15 zile de la data înmânării sau comunicării procesului-verbal.
+4.
+Amenda se achită, după caz: 4.1. în cazul persoanelor juridice române, în contul „venituri din amenzi și alte sancțiuni aplicate de către alte instituții de specialitate” deschis la o unitate a Trezoreriei Statului, beneficiar bugetul de stat;
+4.2. în cazul persoanelor fizice române, la casieria „taxe și impozite” a unităților administrației publice locale, indiferent de localitatea pe a cărei rază acestea funcționează, domiciliul sau de reședința contravenientului ori de locul săvârșirii contravenției, beneficiar bugetul local.
+5.
+Chitanța de plată a amenzii se depune sau se transmite de către contravenient prin poștă recomandat sau electronic, prin e-mail la Autoritatea Rutieră Română - A.R.R., cu sediul în bd. Dinicu Golescu nr. 38, sectorul 1, București.
+6.
+Împotriva prezentului proces-verbal care constituie și înștiințare de plată se poate face plângere în termen de 15 zile de la data înmânării sau comunicării acestuia. Plângerea însoțită de copia procesului-verbal se depune la judecătoria în a cărei circumscripție a fost săvârșită contravenția.
+7.
+Contravenientul nu se află de față/refuză/nu poate să semneze procesul-verbal. De față a fost următorul martor:.......................... (numele și prenumele), CNP......................, născut(ă) la data de................., în localitatea....................., județul..................., și domiciliat(ă) în......................, județul..................., cu BI/CI seria.......... nr.................
+8.
+Procesul-verbal de constatare a contravenției neatacat în termen de 15 zile de la data înmânării sau comunicării, precum și hotărârea judecătorească definitivă prin care s-a soluționat plângerea constituie, potrivit legii, titlu executoriu fără vreo altă formalitate.
+9.
+Prezentul proces-verbal a fost încheiat în 3 (trei) exemplare, contravenientul fiind de față când i s-a înmânat un exemplar pe care îl primește (data înmânării și semnătura contravenientului)..........................................................................................................................................................................................
+10.
+Alte mențiuni:.......................................................................................................................................................................
+a)
+Obiecțiile contravenientului sunt:..............................................................................................................................................
+b)
+Motivul lipsei martorului:..........................................................................................................................................................
+Semnătură martor,.........................................
+Semnătură agent constatator,......................................
+Contravenient,.......................................
+Am luat la cunoștință.
+Pentru persoane juridice - denumirea societății comerciale/companiei etc., adresa sediului, codul unic de înregistrare (CUI), numele, prenumele, CNPul reprezentantului legal.
