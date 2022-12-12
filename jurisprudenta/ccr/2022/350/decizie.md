@@ -1,0 +1,42 @@
+# DECIZIA nr. 350 din 26 mai 2022
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 219 alin. (3) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătății
+Valer Dorneanu - președinte
+Cristian Deliorga - judecător
+Marian Enache - judecător
+Daniel Marius Morar - judecător
+Mona-Maria Pivniceru - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Cristina Cătălina Turcu - magistrat-asistent
+Cu participarea reprezentantului Ministerului Public, procuror Liviu Drăgănescu.
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 219 alin. (3) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătății, excepție ridicată de Claudiu Ionuț Moraru și Adriana Budără, pentru Biroul Executorului Judecătoresc Moraru și Asociații, în Dosarul nr. 4.483/63/2017 al Tribunalului Dolj - Secția contencios administrativ și fiscal, și care formează obiectul Dosarului Curții Constituționale nr. 1.776 D/2018.
+2. La apelul nominal lipsesc părțile, față de care procedura de înștiințare este legal îndeplinită.
+3. Cauza fiind în stare de judecată, președintele Curții acordă cuvântul reprezentantului Ministerului Public, care solicită respingerea excepției de neconstituționalitate ca neîntemeiată, făcând referire la jurisprudența Curții Constituționale.
+CURTEA, având în vedere actele și lucrările dosarului, constată următoarele:
+4. Prin Încheierea din 29 octombrie 2018, pronunțată în Dosarul nr. 4.483/63/2017, Tribunalul Dolj - Secția contencios administrativ și fiscal a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 219 alin. (3) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătății. Excepția a fost ridicată de Claudiu Ionuț Moraru și Adriana Budără, pentru Biroul Executorului Judecătoresc Moraru și Asociații, într-o cauză având ca obiect anularea unor decizii de impunere, printre care și o decizie prin care s-a stabilit un debit aferent contribuției la asigurările de sănătate.
+5. În motivarea excepției de neconstituționalitate se arată, în esență, că textul de lege criticat reglementează o taxă ascunsă sub forma unei cotizații în schimbul căreia nu este oferită nicio contraprestație. Agenția Națională de Administrare Fiscală este responsabilă doar cu colectarea taxei, și nu cu prestarea unui serviciu de sănătate publică, astfel că în fața sa nu poate fi ridicată excepția neexecutării obligației de a asigura servicii medicale.
+6. Tribunalul Dolj - Secția contencios administrativ și fiscal apreciază că excepția de neconstituționalitate este neîntemeiată, făcând referire la considerentele Deciziei Curții Constituționale nr. 934 din 14 decembrie 2006.
+7. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate ridicate.
+8. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, actele depuse, concluziile procurorului, dispozițiile legale criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+9. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+10. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 219 alin. (3) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată în Monitorul Oficial al României, Partea I, nr. 652 din 28 august 2015, care au următorul conținut: „Asigurările sociale de sănătate sunt obligatorii și funcționează ca un sistem unitar, iar obiectivele menționate la alin. (2) se realizează pe baza următoarelor principii: [...] e) participarea obligatorie la plata contribuției de asigurări sociale de sănătate pentru formarea Fondului național unic de asigurări sociale de sănătate“.
+11. În opinia autorului excepției de neconstituționalitate, prevederile legale criticate contravin dispozițiilor constituționale cuprinse în art. 56 - Contribuții financiare.
+12. Curtea reține că, potrivit jurisprudenței sale, obligația celor asigurați de a contribui la sistemul asigurărilor sociale de sănătate trebuie analizată în legătură cu un alt principiu ce stă la baza acestui sistem, și anume cel al solidarității. Datorită solidarității celor care contribuie, acest sistem își poate realiza obiectivul principal, respectiv cel de a asigura un minimum de asistență medicală pentru populație, inclusiv pentru acele categorii de persoane care se află în imposibilitatea de a contribui la constituirea fondurilor de asigurări de sănătate. Textul de lege criticat constituie astfel o expresie a prevederilor constituționale care reglementează ocrotirea sănătății și a celor care consacră obligația statului de a asigura protecția socială a cetățenilor (a se vedea Decizia nr. 934 din 14 decembrie 2006, publicată în Monitorul Oficial al României, Partea I, nr. 53 din 23 ianuarie 2007).
+13. Curtea a mai reținut că însuși caracterul de stat social, atribuit României, prin textul art. 1 alin. (3) din Constituție, este o rațiune suficientă pentru a impune o contribuție obligatorie la Fondul național unic de asigurări sociale de sănătate, prin aceasta asigurându-se atât ocrotirea sănătății celor cu venituri mai mari, cât și a sănătății celor care au venituri mici (a se vedea Decizia nr. 658 din 30 aprilie 2009, publicată în Monitorul Oficial al României, Partea I, nr. 451 din 30 iunie 2009).
+14. Întrucât nu au intervenit elemente noi, de natură să determine schimbarea acestei jurisprudențe, atât considerentele, cât și soluția deciziilor menționate își păstrează valabilitatea și în prezenta cauză.
+15. Distinct de cele reținute prin jurisprudența anterior evocată, cu acest prilej Curtea mai observă că Fondul național unic de asigurări sociale de sănătate este un fond special care este utilizat pentru garantarea și finanțarea asistenței de sănătate publică, ce reprezintă efortul organizat al societății în vederea protejării și promovării sănătății populației [art. 2 alin. (1) și art. 220 alin. (2) din Legea nr. 95/2006]. Contribuțiile sociale de sănătate colectate în Fondul național unic de asigurări sociale de sănătate sunt obligatorii și sunt reglementate cu respectarea art. 56 din Constituție cu denumirea marginală Contribuții financiare, deoarece ajung într-un buget public și au ca scop asigurarea asistenței medicale pentru populație, iar, potrivit principiului solidarității, acestea folosesc și acelor categorii de persoane aflate în situații vulnerabile care beneficiază de asigurare fără plata contribuției, cum ar fi, spre exemplu, copiii în vârstă de până la 18 ani, persoanele cu handicap sau persoanele care au calitatea de pensionari (a se vedea art. 224 din Legea nr. 95/2006).
+16. Pentru considerentele expuse mai sus, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Claudiu Ionuț Moraru și Adriana Budără, pentru Biroul Executorului Judecătoresc Moraru și Asociații, în Dosarul nr. 4.483/63/2017 al Tribunalului Dolj - Secția contencios administrativ și fiscal, și constată că dispozițiile art. 219 alin. (3) lit. e) din Legea nr. 95/2006 privind reforma în domeniul sănătății sunt constituționale în raport cu criticile formulate.
+Definitivă și general obligatorie.
+Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 26 mai 2022.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE pentru prof. univ. dr. VALER DORNEANU, în temeiul art. 426 alin. (4) din Codul de procedură civilă coroborat cu art. 14 din Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, semnează
+MARIAN ENACHE
+Magistrat-asistent,
+Cristina Cătălina Turcu
