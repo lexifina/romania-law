@@ -1,0 +1,9 @@
+# HCL Plătărești nr. 84/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Plătărești
+- Decision: nr. 84/2022
+- Adopted: 2022-12-12
+- Title: PRIVIND APROBAREA DOCUMENTAȚIEI DE ATRIBUIRE A CONTRACTULUI DE DELEGARE PRIN CONCESIUNE A SERVICIULUI DE OPERARE A CENTRULUI DE MANAGEMENT INTEGRAT AL DEȘEURILOR CIOCĂNEȘTI SI A STAȚIILOR DE TRANSFER LEHLIU-GARA, OLTENIȚA, CĂLĂRAȘI, TRANSPORTUL DEȘEURILOR REZIDUALE DE LA STAȚIILE DE TRANSFER LA DEPOZITUL CONFORM DE DEȘEURI NEPERICULOASE CIOCĂNEȘTI PRECUM SI COLECTAREA, TRANSPORTUL DEȘEURILOR VOLUMINOASE, DEȘEURILOR DIN CONSTRUCȚII SI DEMOLĂRI, DEȘEURILOR MENAJERE PERICULOASE DIN JUDEȚUL CĂLĂRAȘI
+- Record: https://plataresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36201#36448
