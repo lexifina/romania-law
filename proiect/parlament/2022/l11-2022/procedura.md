@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-11-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-23: sent for promulgation
 - 2022-12-09: promulgated, becomes Legea nr. 340/2022
+- 2022-12-12: published in the Monitorul Oficial
 
 ## Documents
 
