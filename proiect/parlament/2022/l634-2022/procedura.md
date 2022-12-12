@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-11-14: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-11-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-26: sent for promulgation
+- 2022-12-12: promulgated, becomes Legea nr. 349/2022
 
 ## Documents
 
