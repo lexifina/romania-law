@@ -1,0 +1,22 @@
+# Proiect de lege L811/2022
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 373/2023 (`legea-373-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.172/2022 privind dezvoltarea sistemului informatic MySMIS2021/SMIS2021+ şi a aplicaţiilor informatice MySMIS2021 şi SMIS2021 pentru gestionarea fondurilor europene aferente perioadei de programare 2021-2027 şi pentru completarea Legii-cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-12-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811AD.PDF
+- 2022-12-12: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811FG.PDF
+- 2022-12-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811EM.PDF
+- 2022-12-12: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811LG.PDF
+- 2022-12-12: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811OG.PDF
+- 2022-12-12: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L811HG.PDF
