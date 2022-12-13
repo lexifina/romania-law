@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-26: sent for promulgation
 - 2022-12-12: promulgated, becomes Legea nr. 351/2022
+- 2022-12-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-ca0a17d9.md](am-ca0a17d9.md); official file https://www.senat.ro/legis/PDF/2022/22L051AM.PDF
 - 2022-11-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L051AXS.PDF
 - 2022-11-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L051LP.PDF
+- 2022-12-13: Document (CF): [cf-73e0af3b.md](cf-73e0af3b.md); official file https://www.senat.ro/legis/PDF/2022/22L051CF.PDF (its day is not given by the bill file: shown from the last stage held)
