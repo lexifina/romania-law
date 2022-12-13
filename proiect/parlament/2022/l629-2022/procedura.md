@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-11-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-26: sent for promulgation
 - 2022-12-12: promulgated, becomes Legea nr. 347/2022
+- 2022-12-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2022-11-14: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L629FS.PDF
 - 2022-11-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L629AXS.PDF
 - 2022-11-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L629LP.PDF
+- 2022-12-13: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L629AL.PDF (its day is not given by the bill file: shown from the last stage held)
