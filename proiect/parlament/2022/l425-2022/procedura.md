@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-11-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-30: sent for promulgation
 - 2022-12-13: promulgated, becomes Legea nr. 355/2022
+- 2022-12-14: published in the Monitorul Oficial
 
 ## Documents
 
