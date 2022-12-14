@@ -1,0 +1,279 @@
+{
+ "key": "dcc-408-2022",
+ "label": "Decizia CCR nr. 408/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "408",
+ "date": "2022-09-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 408 din 21 septembrie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și pentru stabilirea unor măsuri fiscal-bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1202",
+  "bis": false,
+  "date": "2022-12-14",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.455A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și pentru stabilirea unor măsuri fiscal-bugetare"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate și constată că dispozițiile art. I pct. 2 și 3 și ale art. II din Legea pentru modificarea și completarea Legii-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și pentru stabilirea unor măsuri fiscal-bugetare sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "138",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 115/2022",
+    "number": "115",
+    "year": "2022",
+    "path": "oug/2022/115"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-12-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262505",
+  "text_sha256": "083c64394b56e0b21d890f87970e2e0788d50326089a5738c2dff60a5d7da8c4",
+  "catalogue_sha256": "083c64394b56e0b21d890f87970e2e0788d50326089a5738c2dff60a5d7da8c4",
+  "fetched": "2026-11-03T01:27:14Z",
+  "chars": 30055,
+  "portal_id": "262505",
+  "tip": "DECIZIE"
+ }
+}
