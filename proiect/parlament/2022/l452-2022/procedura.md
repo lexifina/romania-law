@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-11-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-30: sent for promulgation
 - 2022-12-13: promulgated, becomes Legea nr. 356/2022
+- 2022-12-14: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2022-11-21: Forma adoptată de Senat (FS): [fs-38d1c74d.md](fs-38d1c74d.md); official file https://www.senat.ro/legis/PDF/2022/22L452FS.PDF
 - 2022-11-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L452AXS.PDF
 - 2022-11-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L452LP.PDF
+- 2022-12-14: Document (AL): [al-61ecb7ae.md](al-61ecb7ae.md); official file https://www.senat.ro/legis/PDF/2022/22L452AL.PDF (its day is not given by the bill file: shown from the last stage held)
