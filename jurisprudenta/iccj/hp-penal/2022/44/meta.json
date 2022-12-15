@@ -1,0 +1,442 @@
+{
+ "key": "iccj-hp-penal-44-2022",
+ "label": "Decizia ÎCCJ nr. 44/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "44",
+ "date": "2022-09-19",
+ "year": "2022",
+ "heading": "DECIZIA nr. 44 din 19 septembrie 2022",
+ "subtitle": "referitoare la interpretarea art. 249 alin. (5) din Codul de procedură penală, vizând instituirea măsurii asigurătorii a sechestrului în materia infracțiunii prevăzute de art. 10 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, modificată și completată de Legea nr. 55/2021",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1205",
+  "bis": false,
+  "date": "2022-12-15",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.004/1/2022",
+  "2.221/102/2018/a1.20"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "249",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Târgu Mureș - Secția penală, prin Încheierea din 13 aprilie 2022, pronunțată în Dosarul nr. 2.221/102/2018/a1.20*, prin care se solicită pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă termenul „pagubă“ din cuprinsul art. 249 alin. (5) din Codul de procedură penală, vizând instituirea măsurii asigurătorii a sechestrului în materia infracțiunii prevăzute de art. 10 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, modificată și completată de Legea nr. 55/2021, cuprinde doar prejudiciul efectiv calculat, respectiv baza de calcul, sau cuprinde și accesoriile (dobânzi și penalități)?",
+  "Obligatorie, potrivit dispozițiilor art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "249",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "250",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "251",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "254",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "250-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "250-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 66
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "367",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [
+    {
+     "art": "213",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2021",
+    "number": "55",
+    "year": "2021",
+    "path": "lege/2021/55"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2022-12-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262521",
+  "text_sha256": "51a5e3e9c9b99e9d443a669c1e58981b2e59f9e94456f565a3bd7b2f8e80df6f",
+  "catalogue_sha256": "51a5e3e9c9b99e9d443a669c1e58981b2e59f9e94456f565a3bd7b2f8e80df6f",
+  "fetched": "2026-11-03T01:27:09Z",
+  "chars": 99113,
+  "portal_id": "262521",
+  "tip": "DECIZIE"
+ }
+}
