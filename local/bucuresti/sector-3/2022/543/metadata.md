@@ -1,0 +1,10 @@
+# HCLS3 nr. 543/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Sectorului 3 al Municipiului București
+- Decision: nr. 543/2022
+- Adopted: 2022-12-15
+- Record: https://www.primarie3.ro/index.php/consiliul_local/hotarari/2022/12
+- Document: https://www.primarie3.ro/images/uploads/consiliu_local/HCLS3_nr.543_din_15_.12.2022.pdf
+- Document sha256: f61187baabea47cc7d95961db1260720591529099965df61790b4845afdeb1f3
