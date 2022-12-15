@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-07-29: returned for re-examination
 - 2022-09-01: adopted by the Senate
 - 2022-12-13: returned for re-examination
+- 2022-12-15: sent for promulgation
 
 ## Documents
 
