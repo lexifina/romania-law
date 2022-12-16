@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-09-01: adopted by the Senate
 - 2022-12-13: returned for re-examination
 - 2022-12-15: sent for promulgation
+- 2022-12-16: promulgated, becomes Legea nr. 361/2022
 
 ## Documents
 
