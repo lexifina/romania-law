@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2022-12-12: registered at the Chamber of Deputies; adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-12-13: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-15: sent for promulgation
+- 2022-12-16: promulgated, becomes Legea nr. 360/2022; published in the Monitorul Oficial
 
 ## Documents
 
