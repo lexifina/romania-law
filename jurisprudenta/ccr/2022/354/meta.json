@@ -1,0 +1,199 @@
+{
+ "key": "dcc-354-2022",
+ "label": "Decizia CCR nr. 354/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "354",
+ "date": "2022-05-26",
+ "year": "2022",
+ "heading": "DECIZIA nr. 354 din 26 mai 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 27^21 alin. (1) lit. c) și ale art. 27^22 lit. a) din Legea nr. 360/2002 privind Statutul polițistului",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1210",
+  "bis": false,
+  "date": "2022-12-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.493/99/2019",
+  "102D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-21",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "27-22",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Florin Laurențiu Zlate în Dosarul nr. 4.493/99/2019 al Tribunalului Iași - Secția a II-a civilă de contencios administrativ și fiscal și constată că dispozițiile art. 27^21 alin. (1) lit. c) și ale art. 27^22 lit. a) din Legea nr. 360/2002 privind Statutul polițistului sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Iași - Secția a II-a civilă de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "27-21",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "27-22",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "27-31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27-23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-12-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262815",
+  "text_sha256": "f8e56c4e492550114e5bf02a8980fa02e78e5ee9053dce50e82952e98b6848c4",
+  "catalogue_sha256": "f8e56c4e492550114e5bf02a8980fa02e78e5ee9053dce50e82952e98b6848c4",
+  "fetched": "2026-11-06T02:17:45Z",
+  "chars": 11169,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20221219091429/https://legislatie.just.ro/Public/DetaliiDocument/262815",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/262815",
+   "timestamp": "20221219091429",
+   "sha256": "b8baf1b902cba9cc05ed9079d874a536d7c6fd467d0a8e79ace5d92e5c27395e"
+  },
+  "portal_id": "262815",
+  "tip": "DECIZIE"
+ }
+}
