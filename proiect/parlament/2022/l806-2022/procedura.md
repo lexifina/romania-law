@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2022-12-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-12-14: documents published: Aviz comisie
+- 2022-12-19: registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,8 @@ Initiator: Guvernul României.
 - 2022-12-13: Aviz Consiliul Legislativ (LG): [lg-0401dda7.md](lg-0401dda7.md); official file https://www.senat.ro/legis/PDF/2022/22L806LG.PDF
 - 2022-12-13: Document (HG): [hg-2b3e8276.md](hg-2b3e8276.md); official file https://www.senat.ro/legis/PDF/2022/22L806HG.PDF
 - 2022-12-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L806CA45.PDF
+- 2022-12-19: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L806CA12.PDF
+- 2022-12-19: Aviz comisie (CA55): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L806CA55.PDF
+- 2022-12-19: Raport comisie sesizată pe fond (CR): [cr-7e3ff736.md](cr-7e3ff736.md); official file https://www.senat.ro/legis/PDF/2022/22L806CR.PDF
+- 2022-12-19: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L806FS.PDF
+- 2022-12-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L806AM.PDF
