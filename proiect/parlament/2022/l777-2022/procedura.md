@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2022-12-13: documents published: Aviz comisie
 - 2022-12-14: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-16: sent for promulgation
+- 2022-12-19: promulgated, becomes Legea nr. 368/2022; published in the Monitorul Oficial
 
 ## Documents
 
