@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-11-16: adopted by the Chamber of Deputies
 - 2022-11-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-26: sent for promulgation
+- 2022-12-20: promulgated, becomes Legea nr. 370/2022; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2022-10-12: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L483AM.PDF
 - 2022-11-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L483AXS.PDF
 - 2022-11-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L483LP.PDF
+- 2022-12-20: Document (SC): [sc-4773483f.md](sc-4773483f.md); official file https://www.senat.ro/legis/PDF/2022/22L483SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-20: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L483DC.PDF (its day is not given by the bill file: shown from the last stage held)
