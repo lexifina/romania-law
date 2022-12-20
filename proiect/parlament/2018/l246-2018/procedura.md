@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-04: returned for re-examination
 - 2022-12-07: returned for re-examination
 - 2022-12-17: sent for promulgation
+- 2022-12-20: promulgated, becomes Legea nr. 371/2022
 
 ## Documents
 
