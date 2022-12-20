@@ -1,0 +1,6 @@
+# Anexa nr. 5 la regulament
+DECLARAȚIE privind utilizarea și prelucrarea datelor cu caracter personal
+Subsemnatul/Subsemnata,..............................................., având CNP........................................, născut(ă) la data de................................, în localitatea......................................., domiciliat(ă) în (satul, comuna, orașul, municipiul)..................................................., str......................................... nr............., bl........., sc........., ap.........., județul......................., posesor/posesoare al/a C.I. seria.......... nr..................., eliberată de....................... la data de.........................., în calitate de membru/ă al/a GNS - PMUD, prin prezenta îmi exprim acordul cu privire la utilizarea și prelucrarea datelor cu caracter personal, conform Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), de către Ministerul Dezvoltării, Lucrărilor Publice și Administrației și instituțiile abilitate.
+Data:.....................
+Membru GNS - PMUD
+Semnătura,..............................
