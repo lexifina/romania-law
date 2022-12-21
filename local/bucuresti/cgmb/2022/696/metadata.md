@@ -1,0 +1,11 @@
+# HCGMB nr. 696/2022
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 696/2022
+- Adopted: 2022-12-21
+- Title: PRIVIND APROBAREA COMPENSATIEI PENTRU ACOPERIREA VALORICA A PIERDERILOR TEHNOLOGICE REZULTATE DIN BILANTURILE ENERGETICE AFERENTE PERIOADEI 2019 – 2021 SI INCLUDEREA ACESTEIA IN CONTRACTUL NR. 7/29.11.2019 DE DELEGARE A GESTIUNII DIRECTE A SERVICIULUI PUBLIC DE ALIMENTARE CU ENERGIE TERMICA – ACTIVITATILE DE PRODUCERE, TRANSPORT, DISTRIBUTIE SI FURNIZARE A ENERGIEI TERMICE IN AREALUL DESERVIT DE ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA TERMOENERGETICA BUCURESTI – ILFOV
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44317
+- Document: https://doc.pmb.ro/legis/acteinterne/2022/44317/H696_22.pdf
+- Document sha256: 3be34f40b9dfd97551f49dbffdd9afe97411280611a221fbb1fb44749bb1a5f8
