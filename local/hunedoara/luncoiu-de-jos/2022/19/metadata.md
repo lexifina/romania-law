@@ -1,0 +1,10 @@
+# HCL Luncoiu de Jos nr. 19/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Luncoiu de Jos
+- Decision: nr. 19/2022
+- Adopted: 2022-04-20
+- Published: 2022-12-21
+- Title: privind ...APROBAREA ACORDULUI DE PARTENERIAT INTRE COMUNELE LUNCOIU DE JOS, VALISOARA SI BAITA, JUDETUL HUNEDOARA, IN VEDEREA DEPUNERII PROIECTULUI "DEZVOLTAREA RETELEI INTELIGENTE DE DISTRIBUTIE GAZE NATURALE IN COMUNELE LUNCOIU DE JOS, VALISOARA SI BAITA, JUDETUL HUNEDOARA", IN CADRUL PROGRAMULUI NATIONAL DE INVESTITII "ANGHEL SALIGNY"
+- Record: https://emol.ro/luncoiudejos-hd/registru-hcl/57990
