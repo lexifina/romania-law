@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-05: sent for promulgation
 - 2022-12-19: promulgated, becomes Legea nr. 366/2022
+- 2022-12-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L422AM.PDF
 - 2022-11-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L422AXS.PDF
 - 2022-11-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L422LP.PDF
+- 2022-12-21: Document (AJ): [aj-7ccf4838.md](aj-7ccf4838.md); official file https://www.senat.ro/legis/PDF/2022/22L422AJ.PDF (its day is not given by the bill file: shown from the last stage held)
