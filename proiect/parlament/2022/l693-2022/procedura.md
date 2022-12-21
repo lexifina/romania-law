@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-12-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-14: sent for promulgation
 - 2022-12-19: promulgated, becomes Legea nr. 365/2022
+- 2022-12-21: published in the Monitorul Oficial
 
 ## Documents
 
