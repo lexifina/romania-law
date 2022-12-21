@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-07: returned for re-examination
 - 2022-12-17: sent for promulgation
 - 2022-12-20: promulgated, becomes Legea nr. 371/2022
+- 2022-12-21: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,11 @@ Initiator: Membri ai Parlamentului.
 - 2018-05-09: Aviz comisie (CA7): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246CA7.PDF
 - 2018-05-14: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246AXS.PDF
 - 2018-05-14: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246LP.PDF
+- 2022-12-21: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (SX): [sx-edfb1305.md](sx-edfb1305.md); official file https://www.senat.ro/legis/PDF/2018/18L246SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (LX): [lx-45f8e3b8.md](lx-45f8e3b8.md); official file https://www.senat.ro/legis/PDF/2018/18L246LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-21: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L246PX.PDF (its day is not given by the bill file: shown from the last stage held)
