@@ -1,0 +1,62 @@
+{
+ "key": "cjue-c-392-21-hotarare-2022-12-22",
+ "label": "CJUE, Hotărârea Curții (Camera a doua) din 22 decembrie 2022, Cauza C-392/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2022-12-22",
+ "year": "2022",
+ "case": "Cauza C-392/21",
+ "celex": "62021CJ0392",
+ "ecli": "ECLI:EU:C:2022:1020",
+ "heading": "Hotărârea Curții (Camera a doua) din 22 decembrie 2022",
+ "formation": "CHAMB_02_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Cluj",
+   "date": "2021-04-12",
+   "national_file": "1191410"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": null,
+ "parties": "TJ împotriva Inspectoratului General pentru Imigrări",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Politica socială – Protecția securității și a sănătății lucrătorilor – Directiva 90/270/CEE – Articolul 9 alineatul (3) – Lucrul la monitor – Protecția ochilor și a vederii lucrătorilor – Aparate de corecție speciale – Ochelari – Achiziționare de către lucrător – Modalități de suportare a cheltuielilor de către angajator",
+ "interprets": [
+  {
+   "celex": "31990L0270",
+   "folder": "ue/directiva/1990/270"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0392",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-392/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/11f895d7-81de-11ed-9887-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "147e43e850bcd4229af50a867c48cd739b75fff9e2f1b44a47e633ce20951647"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a doua) declară:",
+  "1) Articolul 9 alineatul (3) din Directiva 90/270/CEE a Consiliului din 29 mai 1990 privind condițiile minime de securitate și sănătate pentru lucrul la monitor [a cincea directivă individuală în sensul articolului 16 alineatul (1) din Directiva 87/391/CEE]",
+  "trebuie interpretat în sensul că",
+  "„aparatele de corecție speciale”, prevăzute de această dispoziție, includ ochelarii de vedere care vizează în mod specific corectarea și prevenirea dificultăților vizuale care au legătură cu o activitate ce implică un echipament cu monitor. Pe de altă parte, aceste „aparate de corecție speciale” nu se limitează la aparate utilizate exclusiv în cadrul profesional.",
+  "2) Articolul 9 alineatele (3) și (4) din Directiva 90/270",
+  "trebuie interpretat în sensul că",
+  "obligația de a furniza lucrătorilor în cauză un aparat de corecție special, prevăzută la această dispoziție, care îi revine angajatorului, poate fi îndeplinită fie prin furnizarea directă a aparatului respectiv de către acesta din urmă, fie prin rambursarea cheltuielilor necesare efectuate de lucrător, însă nu prin plata unui spor general la salariu lucrătorului."
+ ]
+}
