@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-12-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-07: sent for promulgation
 - 2022-12-23: promulgated, becomes Legea nr. 375/2022
+- 2022-12-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2022-11-28: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L683FS.PDF
 - 2022-12-05: Adresă privind sesizarea CCR (AXS): [axs-a22a60ea.md](axs-a22a60ea.md); official file https://www.senat.ro/legis/PDF/2022/22L683AXS.PDF
 - 2022-12-05: Forma trimisă la promulgare (LP): [lp-0023d752.md](lp-0023d752.md); official file https://www.senat.ro/legis/PDF/2022/22L683LP.PDF
+- 2022-12-27: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L683AL.PDF (its day is not given by the bill file: shown from the last stage held)
