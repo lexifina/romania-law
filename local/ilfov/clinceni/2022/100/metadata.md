@@ -1,0 +1,10 @@
+# HCL Clinceni nr. 100/2022
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Clinceni
+- Decision: nr. 100/2022
+- Adopted: 2022-11-28
+- Published: 2022-12-27
+- Title: privind modificarea HCL nr. 93/2022 privind aprobarea alipirii si dezlipirii imobilului teren in suprafata de 730 mp situate in comuna Clinceni, judetul Ilfov, tarla 35 parcela 158 lot 4 si 5
+- Record: https://emol.ro/clinceni-if/registru-hcl/83309
