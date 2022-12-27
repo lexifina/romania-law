@@ -1,0 +1,433 @@
+{
+ "key": "dcc-427-2022",
+ "label": "Decizia CCR nr. 427/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "427",
+ "date": "2022-09-29",
+ "year": "2022",
+ "heading": "DECIZIA nr. 427 din 29 septembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații\" din cuprinsul art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, a dispozițiilor art. 169^2 din aceeași lege, precum și a dispozițiilor art. 521 alin. (3) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1254",
+  "bis": false,
+  "date": "2022-12-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "271/97/2018",
+  "917D/2019",
+  "1.523/101/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "169-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Valentin Kis, de Roman Stan, de Nicolae Preda, de Bogye Carol, de Viorel Vasian, de Vasile Sereș, de Vasile Mocanu, de Marius Vîlcan, de Vasile Bîrchi și de Mihai Asanache, de Mihai Aramă, de Ioan Munteanu, de Dumitru Dominte, de Ioan Cauni-Suci, de Gheorghe Nastor, de Marinică Cozac, de Viorel Mateș, de Constantin Grigoriu, de Dumitru Codrea, de Constantin Iovan, de Ioan Visalom Ciuclan, de Cornel-Viorel Cîmpean, de Gabriel Mircea Iosin și de Nuțu Coșa, de Nicolae Sîrb, de Ionică Bumbescu, de Ioan Stîngă și de Mihai Băican, de Gheorghe Dan Voican, de Nicolae Mihălescu, de Ion Savulescu, de Tiberiu Brașovan, de Nicolae Matei, de Gheorghe Spanache, de Cornel Ile, de Gheorghe Costin, de Dumitru Tivdă, de Ionel Neag, de Lucian Marius Tarnovschi, de Iosif Zoia, de Denes Balazs, de Adrian Muntean, de Mihai Buciuman, de Constantin Didirea și de Liviu Lăcătuș, de Gheorghe Berciu, de Dumitru Fodor, de Petre Belbe și de Eugen Olaret, în dosarele nr. 271/97/2018, nr. 315/97/2018, nr. 346/97/2018, nr. 407/97/2018, nr. 519/97/2018, nr. 891/97/2018, nr. 898/97/2018, nr. 189/97/2018, nr. 3.496/97/2018, nr. 2.931/97/2018, nr. 293/97/2018, nr. 660/97/2018 nr. 4.482/97/2017, nr. 414/97/2018, nr. 493/97/2018, nr. 1.495/97/2018, nr. 1.421/97/2018, nr. 330/97/2018, nr. 738/97/2018, nr. 833/97/2018, nr. 1.119/97/2018, nr. 1.121/97/2018, nr. 993/97/2018, nr. 1.123/97/2018, nr. 1.174/97/2018, nr. 1.494/97/2018, nr. 1.723/97/2018, nr. 3.221/97/2018, nr. 889/97/2018, nr. 894/97/2018, nr. 1.190/97/2018, nr. 1.798/97/2018, nr. 3.014/97/2018, nr. 1.959/97/2018, nr. 479/107/2018, nr. 3.981/97/2017, nr. 1.531/97/2018, nr. 4.092/97/2017, nr. 350/97/2018, nr. 4.399/97/2017, nr. 901/97/2018, nr. 1.140/97/2018, nr. 1.530/97/2018, nr. 3.015/97/2018, nr. 1.588/97/2018, nr. 798/97/2018, nr. 2.678/97/2018, nr. 2.936/97/2018 și nr. 2.585/97/2018 ale Curții de Apel Alba Iulia - Secția I civilă, de Octavian Viorel Berințian, de Gheorghe Costina, de Tamași Atila, de Pavel Boantă, de Ghiorghie Tătaru, de Nicolae Brădean și de Grigore Pop, de Georgeta Botică, de Viorel Șotângă, de Gheorghe Bereș, de Ghenți Zolti și de Nicolae Turcilă în dosarele nr. 2.786/97/2018, nr. 2.767/97/2018, nr. 2.462/97/2018, nr. 2.463/97/2018, nr. 2.334/97/2018, nr. 3.492/97/2018, nr. 2.556/97/2018, nr. 3.593/97/2018, nr. 2.915/97/2018, nr. 2.991/97/2018, nr. 2.551/97/2018 și nr. 3.152/97/2018 ale Tribunalului Hunedoara - Secția I civilă, de Vasile Gigel Petric și de Anton Ilieș în dosarele nr. 1.300/100/2018 și nr. 1.298/100/2018 ale Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, de Octavian-Nicușor Lăcătuș în Dosarul nr. 2.631/95/2018 al Tribunalului Gorj - Secția conflicte de muncă și asigurări sociale, de Gheorghe Cotoarbă în Dosarul nr. 1.523/101/2018 al Curții de Apel Craiova - Secția I civilă, de Moise Nan, de Vasile Drăghiciu și de Anicuța Popa în dosarele nr. 3.339/62/2018, nr. 2.734/62/2019 și nr. 3.416/62/2019 ale Tribunalului Brașov - Secția I civilă, de Nicolae Haldan și de Gheorghe Partoc, de Marin Sfântu și de Vasilica Ranzis în dosarele nr. 6.444/62/2017, nr. 428/62/2019, nr. 426/62/2019 și nr. 3.779/62/2018 ale Curții de Apel Brașov - Secția civilă, de Petru Hanganu în Dosarul nr. 5.152/63/2018 ale Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și de Emil Clopotaru în Dosarul nr. 2.028/121/2019 al Tribunalului Galați - Secția I civilă și constată că sintagma „stagiile complete de cotizare prevăzute de lege, corespunzătoare fiecărei situații“ din cuprinsul art. 169^1 alin. (3) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, în interpretarea dată acesteia prin Decizia nr. 69 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, și dispozițiile art. 169^2 din aceeași lege, precum și dispozițiile art. 521 alin. (3) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Alba Iulia - Secția I civilă, Tribunalului Hunedoara - Secția I civilă, Curții de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, Tribunalului Gorj - Secția conflicte de muncă și asigurări sociale, Curții de Apel Craiova - Secția I civilă, Tribunalului Brașov - Secția I civilă, Curții de Apel Brașov - Secția civilă, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale și Tribunalului Galați – Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "169-1",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1691",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 70
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "169-2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 221/2018",
+    "number": "221",
+    "year": "2018",
+    "path": "lege/2018/221"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 192/2015",
+    "number": "192",
+    "year": "2015",
+    "path": "lege/2015/192"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 257/2011",
+    "number": "257",
+    "year": "2011",
+    "path": "hg/2011/257"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [
+    {
+     "art": "165-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 100/2008",
+    "number": "100",
+    "year": "2008",
+    "path": "oug/2008/100"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-12-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263124",
+  "text_sha256": "62dd6bcd8fb421df2d4b921ea46489f69d77ec50d134c0275d5b17a344dd5017",
+  "catalogue_sha256": "62dd6bcd8fb421df2d4b921ea46489f69d77ec50d134c0275d5b17a344dd5017",
+  "fetched": "2026-11-03T01:26:46Z",
+  "chars": 65173,
+  "portal_id": "263124",
+  "tip": "DECIZIE"
+ }
+}
