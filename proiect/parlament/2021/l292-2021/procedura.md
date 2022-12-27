@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-08: adopted by the Chamber of Deputies
 - 2022-03-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-19: sent for promulgation
+- 2022-12-27: promulgated, becomes Legea nr. 378/2022
 
 ## Documents
 
