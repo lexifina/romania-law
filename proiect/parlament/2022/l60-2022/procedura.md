@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-04-26: sent for promulgation
 - 2022-12-27: promulgated, becomes Legea nr. 377/2022
+- 2022-12-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-381e65ee.md](am-381e65ee.md); official file https://www.senat.ro/legis/PDF/2022/22L060AM.PDF
 - 2022-04-19: Adresă privind sesizarea CCR (AXS): [axs-7a96052f.md](axs-7a96052f.md); official file https://www.senat.ro/legis/PDF/2022/22L060AXS.PDF
 - 2022-04-19: Forma trimisă la promulgare (LP): [lp-632fe46a.md](lp-632fe46a.md); official file https://www.senat.ro/legis/PDF/2022/22L060LP.PDF
+- 2022-12-28: Document (CF): [cf-50e3693e.md](cf-50e3693e.md); official file https://www.senat.ro/legis/PDF/2022/22L060CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-28: Document (SC): [sc-daec30ca.md](sc-daec30ca.md); official file https://www.senat.ro/legis/PDF/2022/22L060SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-28: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L060DC.PDF (its day is not given by the bill file: shown from the last stage held)
