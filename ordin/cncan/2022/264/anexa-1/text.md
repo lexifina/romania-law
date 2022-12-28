@@ -1,0 +1,2 @@
+# ANEXĂ
+CONDIȚII SPECIFICE privind atribuirea anumitor contracte de achiziție publică și contracte sectoriale de produse, servicii și/sau lucrări destinate sistemelor care asigură funcțiile de securitate nucleară, securitate radiologică, protecție fizică, protecție împotriva amenințărilor cibernetice și exploatarea fiabilă a instalațiilor nucleare
