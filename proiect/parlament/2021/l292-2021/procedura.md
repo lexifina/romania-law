@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-03-19: sent for promulgation
 - 2022-12-27: promulgated, becomes Legea nr. 378/2022
+- 2022-12-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-09: Adresă către Camera Deputaților (AM): [am-bcb4d25a.md](am-bcb4d25a.md); official file https://www.senat.ro/legis/PDF/2021/21L292AM.PDF
 - 2022-03-14: Adresă privind sesizarea CCR (AXS): [axs-dab47216.md](axs-dab47216.md); official file https://www.senat.ro/legis/PDF/2021/21L292AXS.PDF
 - 2022-03-14: Forma trimisă la promulgare (LP): [lp-7f52c4cf.md](lp-7f52c4cf.md); official file https://www.senat.ro/legis/PDF/2021/21L292LP.PDF
+- 2022-12-28: Document (SC): [sc-5962deca.md](sc-5962deca.md); official file https://www.senat.ro/legis/PDF/2021/21L292SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-28: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L292DC.PDF (its day is not given by the bill file: shown from the last stage held)
