@@ -1,0 +1,294 @@
+{
+ "key": "dcc-515-2022",
+ "label": "Decizia CCR nr. 515/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "515",
+ "date": "2022-11-03",
+ "year": "2022",
+ "heading": "DECIZIA nr. 515 din 3 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 995 alin. (3) teza întâi din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1273",
+  "bis": false,
+  "date": "2022-12-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "10.620/212/2016",
+  "778D/2019",
+  "7.086/212/2015",
+  "13.396/303/2015",
+  "1.866/326/2014",
+  "931/272/2013",
+  "1.262D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "995",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion Avram și Elena Avram în Dosarul nr. 10.620/212/2016 al Curții de Apel Constanța - Secția I civilă, de Alice Virginia Pană în Dosarul nr. 7.086/212/2015 al Curții de Apel Constanța - Secția I civilă, de Ilie Stan în Dosarul nr. 13.396/303/2015 al Curții de Apel București - Secția a IV-a civilă, de Constantin Pașcan în Dosarul nr. 1.866/326/2014 al Curții de Apel Târgu Mureș - Secția I civilă și de Oana Elisabeta Frânc în Dosarul nr. 931/272/2013* al Curții de Apel Alba Iulia - Secția I civilă și constată că dispozițiile art. 995 alin. (3) teza întâi din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția I civilă, Curții de Apel București - Secția a IV-a civilă, Curții de Apel Târgu Mureș - Secția I civilă și Curții de Apel Alba Iulia - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "995",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "980",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "981",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "982",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "983",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "984",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "985",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "986",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "987",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "988",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "989",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "990",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "991",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "992",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "993",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "994",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "996",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-12-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263281",
+  "text_sha256": "573beaa3f211c3bdee745cd5e72b4279153d206a59f0e8d85ef94326e716effb",
+  "catalogue_sha256": "573beaa3f211c3bdee745cd5e72b4279153d206a59f0e8d85ef94326e716effb",
+  "fetched": "2026-11-03T01:26:37Z",
+  "chars": 20646,
+  "portal_id": "263281",
+  "tip": "DECIZIE"
+ }
+}
