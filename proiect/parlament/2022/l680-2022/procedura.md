@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-12-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-10: sent for promulgation
 - 2022-12-28: promulgated, becomes Legea nr. 380/2022
+- 2022-12-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2022-11-28: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L680FS.PDF
 - 2022-12-05: Adresă privind sesizarea CCR (AXS): [axs-27689241.md](axs-27689241.md); official file https://www.senat.ro/legis/PDF/2022/22L680AXS.PDF
 - 2022-12-05: Forma trimisă la promulgare (LP): [lp-5dfbebf1.md](lp-5dfbebf1.md); official file https://www.senat.ro/legis/PDF/2022/22L680LP.PDF
+- 2022-12-29: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L680DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-29: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L680TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2022-12-29: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L680AL.PDF (its day is not given by the bill file: shown from the last stage held)
