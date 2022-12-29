@@ -1,0 +1,20 @@
+# Proiect de lege L7/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.192/2022 pentru modificarea şi completarea Ordonanței de urgență a Guvernului nr.27/2022 privind măsurile aplicabile clienţilor finali din piaţa de energie electrică şi gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum și pentru modificarea şi completarea unor acte normative din domeniul energiei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2022-12-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2022-12-29: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007AD.PDF
+- 2022-12-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007FG.PDF
+- 2022-12-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007EM.PDF
+- 2022-12-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007LG.PDF
+- 2022-12-29: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007OG.PDF
+- 2022-12-29: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L007HG.PDF
