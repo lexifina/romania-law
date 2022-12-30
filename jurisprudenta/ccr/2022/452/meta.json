@@ -1,0 +1,186 @@
+{
+ "key": "dcc-452-2022",
+ "label": "Decizia CCR nr. 452/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "452",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 452 din 25 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 73 pct. 22 coroborate cu cele ale art. 74 din Ordonanța Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1274",
+  "bis": false,
+  "date": "2022-12-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "12.798/300/2016",
+  "110D/2019",
+  "1.888D/2019",
+  "765/233/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 73 pct. 22 coroborate cu cele ale art. 74 din Ordonanța Guvernului nr. 99/2000 privind comercializarea produselor și serviciilor de piață, excepție ridicată de Societatea Cristim 2 Prodcom - S.R.L. din București în Dosarul nr. 12.798/300/2016 al Tribunalului București - Secția a II-a contencios administrativ și fiscal și în Dosarul nr. 765/233/2016* al Tribunalului Galați - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și Tribunalului Galați - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2022-12-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263340",
+  "text_sha256": "803904f78a4f6c8c3d00cd31e016ea89acc8f005fb7ed2af9320ee9666bf4015",
+  "catalogue_sha256": "803904f78a4f6c8c3d00cd31e016ea89acc8f005fb7ed2af9320ee9666bf4015",
+  "fetched": "2026-11-05T02:51:15Z",
+  "chars": 17700,
+  "portal_id": "263340",
+  "tip": "DECIZIE"
+ }
+}
