@@ -1,0 +1,9 @@
+# ANEXA C2 la norme
+UNITATEA.......................
+Lista operațiilor care se pot efectua (după caz) la recepția gazolinei
+Operațiunea Standardele de referință privind metoda de încercare
+Determinarea densității
+Conform standardelor în vigoare acceptate de părți, aplicabile atât la primirea produsului, cât și la predarea acestuia.
+Se verifică proba de la scurgere cu permanganat de potasiu.
+Beneficiar,............................
+Transportator,............................
