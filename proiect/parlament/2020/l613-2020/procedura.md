@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-12-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-21: sent for promulgation
 - 2022-12-30: promulgated, becomes Legea nr. 385/2022
+- 2023-01-03: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Guvernul României.
 - 2020-10-14: Adresă către Camera Deputaților (AM): [am-6a12d97d.md](am-6a12d97d.md); official file https://www.senat.ro/legis/PDF/2020/20L613AM.PDF
 - 2022-12-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L613AXS.PDF
 - 2022-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L613LP.PDF
+- 2023-01-03: Document (TA): [ta-418f1a74.md](ta-418f1a74.md); official file https://www.senat.ro/legis/PDF/2020/20L613TA.PDF (its day is not given by the bill file: shown from the last stage held)
