@@ -1,0 +1,164 @@
+{
+ "key": "iccj-hp-76-2022",
+ "label": "Decizia ÎCCJ nr. 76/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "76",
+ "date": "2022-11-14",
+ "year": "2022",
+ "heading": "DECIZIA nr. 76 din 14 noiembrie 2022",
+ "subtitle": "referitoare la interpretarea prevederilor art. 781 alin. (5) lit. c) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "3",
+  "bis": false,
+  "date": "2023-01-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.818/1/2022",
+  "21.478/299/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "784",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a IV-a civilă, în Dosarul nr. 21.478/299/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea prevederilor art. 781 alin. (5) lit. c) din Codul de procedură civilă, noțiunea de sume aferente plății drepturilor salariale viitoare are în vedere acele sume a căror destinație este în mod neechivoc stabilită astfel anterior sau cel mai târziu la momentul înființării popririi (de pildă, prin descrierea contului ca fiind destinat plății drepturilor salariale) ori dacă această destinație specială poate fi apreciată de terțul poprit ulterior pe baza unei solicitări formulate de către debitor pentru eliberarea unor sume în vederea plății unor drepturi salariale.",
+  "Dacă, în interpretarea prevederilor art. 781 alin. (5) lit. c) coroborate cu cele ale art. 784 alin. (1) ultima teză din Codul de procedură civilă, ulterior indisponibilizării de către terțul poprit a sumelor aflate într-un cont al debitorului, terțul poprit poate elibera, la cererea debitorului, sume de bani solicitate de acesta din urmă în vederea plății unor drepturi salariale.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "781",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "784",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "790",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "452",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "651",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "791",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/2002",
+    "number": "22",
+    "year": "2002",
+    "path": "og/2002/22"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263631",
+  "text_sha256": "d0deb48806392a21fdda8b4250f42c283569f5a271e38094b0a286082c3353d6",
+  "catalogue_sha256": "d0deb48806392a21fdda8b4250f42c283569f5a271e38094b0a286082c3353d6",
+  "fetched": "2026-11-03T01:26:26Z",
+  "chars": 40437,
+  "portal_id": "263631",
+  "tip": "DECIZIE"
+ }
+}
