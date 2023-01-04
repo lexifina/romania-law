@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-12-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-12-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-17: sent for promulgation
+- 2023-01-04: promulgated, becomes Legea nr. 6/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2022-12-07: Forma adoptată de Senat (FS): [fs-a9460e06.md](fs-a9460e06.md); official file https://www.senat.ro/legis/PDF/2022/22L681FS.PDF
 - 2022-12-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L681AXS.PDF
 - 2022-12-12: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L681LP.PDF
+- 2023-01-04: Document (AL): [al-3a4ec09f.md](al-3a4ec09f.md); official file https://www.senat.ro/legis/PDF/2022/22L681AL.PDF (its day is not given by the bill file: shown from the last stage held)
