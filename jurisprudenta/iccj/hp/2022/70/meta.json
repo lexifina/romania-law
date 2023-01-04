@@ -1,0 +1,209 @@
+{
+ "key": "iccj-hp-70-2022",
+ "label": "Decizia ÎCCJ nr. 70/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "70",
+ "date": "2022-10-31",
+ "year": "2022",
+ "heading": "DECIZIA nr. 70 din 31 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 94 pct. 1 lit. k), art. 125, art. 651 alin. (3) și (4) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "7",
+  "bis": false,
+  "date": "2023-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.626/1/2022",
+  "9.790/225/2020",
+  "5.230/225/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Craiova - Secția I civilă, în Dosarul nr. 9.790/225/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "În interpretarea și aplicarea dispozițiilor art. 94 pct. 1 lit. k), art. 125, art. 651 alin. (3) și (4) din Codul de procedură civilă, se consideră că cererea având ca obiect constatarea prescripției dreptului de a obține executarea silită a unui titlu executoriu reprezintă o cerere în pretenții de drept comun, în sensul art. 94 pct. 1 lit. k) din Codul de procedură civilă, supusă criteriului valoric sau o cerere în materie de executare silită, supusă regulilor speciale de procedură în această materie?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "125",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "3",
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "707",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "708",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "709",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "710",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "711",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2537",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1346",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263666",
+  "text_sha256": "e302c5caad458183cabf86e09cbaff23ceeb4858c45f8a636ca41304806700d2",
+  "catalogue_sha256": "e302c5caad458183cabf86e09cbaff23ceeb4858c45f8a636ca41304806700d2",
+  "fetched": "2026-11-03T01:26:24Z",
+  "chars": 49842,
+  "portal_id": "263666",
+  "tip": "DECIZIE"
+ }
+}
