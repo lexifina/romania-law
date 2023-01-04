@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-19: adopted by the Senate
 - 2022-12-20: adopted by the Chamber of Deputies
 - 2022-12-27: sent for promulgation
+- 2023-01-04: promulgated, becomes Legea nr. 10/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,10 @@ Initiator: Membri ai Parlamentului.
 - 2022-02-14: Adresă către Camera Deputaților (AM): [am-8ec64dfa.md](am-8ec64dfa.md); official file https://www.senat.ro/legis/PDF/2021/21L560AM.PDF
 - 2022-06-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560AXS.PDF
 - 2022-06-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560LP.PDF
+- 2023-01-04: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (DC): [dc-e8b6ae06.md](dc-e8b6ae06.md); official file https://www.senat.ro/legis/PDF/2021/21L560DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-04: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L560PX.PDF (its day is not given by the bill file: shown from the last stage held)
