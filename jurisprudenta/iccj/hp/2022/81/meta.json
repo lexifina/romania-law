@@ -1,0 +1,208 @@
+{
+ "key": "iccj-hp-81-2022",
+ "label": "Decizia ÎCCJ nr. 81/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "81",
+ "date": "2022-12-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 81 din 5 decembrie 2022",
+ "subtitle": "referitoare la interpretarea art. 3, dimpreună cu cele ale art. 4 alin. (4) din Legea nr. 77 din 28 aprilie 2016",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "8",
+  "bis": false,
+  "date": "2023-01-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.945/1/2022",
+  "3.327/320/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Specializat Mureș în Dosarul nr. 3.327/320/2021 în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "a. Cum se conciliază obligația instanței judecătorești „de a aplica prioritar - soluția adaptării contractului“ - statornicită, în lumina dispozițiunilor art. 3, dimpreună cu cele ale art. 4 alin. (4) din Legea nr. 77 din 28 aprilie 2016, publicată în Monitorul Oficial al României, Partea I, nr. 330 din 28 aprilie 2016 - în forma modificată prin Legea nr. 52 din 13 mai 2020, publicată în Monitorul Oficial al României, Partea I, nr. 386 din 13 mai 2020, prin considerentul decizoriu din paragraful 48 al Deciziei nr. 432 din 17 iunie 2021 a Curții Constituționale a României, publicată în Monitorul Oficial al României, Partea I, nr. 905 din 21 septembrie 2021 -, cu posibilitatea consumatorului de a pretinde adaptarea unui contract de credit încheiat cu un profesionist când acest contract de credit a fost declarat anterior scadent anticipat, creanța astfel izvorâtă - reprezentată de obligația de rambursare a întregului credit, dimpreună cu dobânda contractului și celelalte speze - fiind urmărită în cadrul unei proceduri execuționale de urmărire a imobilului (locuință) ipotecat, fără ca acesta să fie valorificat?",
+  "b. În aceleași circumstanțe, care ar fi criteriile obiective de identificare a „utilității sociale a continuării executării contractului“ ce pare a fi consfințită cu valoare de principiu de către Curtea Constituțională a României prin decizia mai degrabă pomenită?.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 53
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "480",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1492",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1271",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 52/2020",
+    "number": "52",
+    "year": "2020",
+    "path": "lege/2020/52"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 52/2016",
+    "number": "52",
+    "year": "2016",
+    "path": "oug/2016/52"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263669",
+  "text_sha256": "ba563fff0f4ad58bb2a4e4cfe11ab6f3a4b5f627fdefcd881ec3553a10424d5d",
+  "catalogue_sha256": "ba563fff0f4ad58bb2a4e4cfe11ab6f3a4b5f627fdefcd881ec3553a10424d5d",
+  "fetched": "2026-11-06T04:02:44Z",
+  "chars": 101766,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263669",
+   "timestamp": "20260117062702",
+   "crawl": "CC-MAIN-2026-04",
+   "filename": "crawl-data/CC-MAIN-2026-04/segments/1768220469323.54/warc/CC-MAIN-20260117055359-20260117085359-00228.warc.gz",
+   "offset": "299592106",
+   "length": "67020",
+   "sha256": "f623698bdeb65b7afc25b9afb14219633d6ad5096a5beccc563212a889a960c7"
+  },
+  "portal_id": "263669",
+  "tip": "DECIZIE"
+ }
+}
