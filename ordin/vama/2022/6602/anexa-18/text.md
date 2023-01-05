@@ -1,0 +1,15 @@
+# Anexa nr. 7a
+AUTORITATEA VAMALĂ ROMÂNĂ
+Direcția^1).......................... ^1) Se va menționa direcția generală din cadrul Autorității Vamale Române/direcția regională vamală/direcția regională vamală - biroul vamal din care fac parte lucrătorii vamali care efectuează controlul.
+Siglă
+Nr.........../zz.ll.aaaa
+SOMAȚIE
+Domnului/Doamnei.................., în calitate/având funcția de............. al/a........................, vă înștiințăm că în data de.............. organele fiscale de control din cadrul Autorității Vamale Române - Direcția generală.........../Direcția Regională Vamală............/Biroul Vamal.......... s-au deplasat la domiciliul fiscal/sucursala/filiala/sediul secundar al............................, situat(ă) în/la...................., în vederea^2):................................... ^2) Se înscrie obiectul acțiunii, de exemplu: - prezentarea de înscrisuri, în conformitate cu prevederile art. 64 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare;
+- efectuarea unei constatări la fața locului, în conformitate cu prevederile art. 65 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare;
+- efectuarea unui control inopinat/încrucișat, în conformitate cu prevederile art. 134 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare.
+Controlul nu s-a putut efectua, drept care pentru furnizarea de informații și lămuriri necesare stabilirii situației fiscale de fapt, în baza prevederilor art. 56 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, și ale prevederilor art. 4 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, cu modificările și completările ulterioare, ați fost invitat/invitată să vă prezentați în data de.........., ora.........., la sediul organului fiscal de control din cadrul Autorității Vamale Române, adresa.........................., camera.........., telefon.........., în vederea efectuării/continuării........................^2)
+Întrucât la data de.......... nu ați dat curs solicitării/vi s-a solicitat prin Adresa înregistrată cu nr........... prezentarea de documente/înscrisuri, vă somăm să vă prezentați în data de.......... la sediul organului fiscal de control din cadrul Autorității Vamale Române, situat în...................., str..................... nr.........., în vederea efectuării/continuării acțiunii de control, cu următoarele documente:................................................................................................
+Dacă, în termen de 15 zile de la primirea prezentei somații, nu veți da curs solicitării, în cauză sunt incidente prevederile art. 4 din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, cu modificările și completările ulterioare.
+Director general/Director executiv DRV/Șef birou vamal
+Numele și prenumele......................... (semnătura, ștampila)
+Document care conține date cu caracter personal protejate de prevederile Regulamentului (UE) 2016/679

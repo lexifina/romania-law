@@ -1,0 +1,20 @@
+# Anexa nr. 4c
+CARACTERISTICILE de tipărire și editare, modul de difuzare, de utilizare și păstrare a formularului „Proces-verbal de sigilare/desigilare”
+1.
+Denumire: Proces-verbal de sigilare/desigilare
+2.
+Format: A4/t2 (Poate avea un număr variabil de pagini.)
+3.
+Caracteristici de tipărire și editare: de regulă, se editează pe ambele fețe și cu ajutorul tehnicii de calcul, cu excepția situațiilor în care nu este posibilă editarea informatică.
+4.
+Se difuzează gratuit.
+5.
+Se utilizează de lucrătorii vamali pentru sigilare/desigilare.
+6.
+Se întocmește în două exemplare de lucrătorii vamali.
+7.
+Circulă: - exemplarul 1, la lucrătorii vamali;
+- exemplarul 2, la contribuabilul supus controlului sau la deținătorul legal al incintei sigilate.
+8.
+Se arhivează: - exemplarul 1, la direcția generală din cadrul Autorității Vamale Române/direcția regională vamală/biroul vamal care a întocmit documentul;
+- exemplarul 2, la contribuabil.

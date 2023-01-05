@@ -1,0 +1,20 @@
+# Anexa nr. 3c
+CARACTERISTICILE de tipărire și editare, modul de difuzare, de utilizare și păstrare a formularului „Proces-verbal de ridicare/restituire de înscrisuri”
+1.
+Denumire: Proces-verbal de ridicare/restituire de înscrisuri
+2.
+Format: A4/t2 (Poate avea un număr variabil de pagini.)
+3.
+Caracteristici de tipărire și editare: de regulă, se editează pe ambele fețe și cu ajutorul tehnicii de calcul, cu excepția situațiilor în care nu este posibilă editarea informatică, iar în situația în care nu se editează pe ambele fețe, paginile/fețele necompletate vor fi barate.
+4.
+Se difuzează gratuit.
+5.
+Se utilizează de lucrătorii vamali pentru ridicarea/restituirea de documente/înscrisuri.
+6.
+Se întocmește în două exemplare de lucrătorii vamali.
+7.
+Circulă: - exemplarul 1, la lucrătorii vamali;
+- exemplarul 2, la contribuabil.
+8.
+Se arhivează: - exemplarul 1, la direcția generală din cadrul Autorității Vamale Române/direcția regională vamală/biroul vamal care a întocmit documentul;
+- exemplarul 2, la contribuabil.
