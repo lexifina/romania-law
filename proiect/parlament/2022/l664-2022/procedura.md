@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-12-05: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-10: sent for promulgation
 - 2022-12-28: promulgated, becomes Legea nr. 381/2022
+- 2023-01-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Guvernul României.
 - 2022-11-28: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L664FS.PDF
 - 2022-12-05: Adresă privind sesizarea CCR (AXS): [axs-bc0dbb8b.md](axs-bc0dbb8b.md); official file https://www.senat.ro/legis/PDF/2022/22L664AXS.PDF
 - 2022-12-05: Forma trimisă la promulgare (LP): [lp-b13f7b0a.md](lp-b13f7b0a.md); official file https://www.senat.ro/legis/PDF/2022/22L664LP.PDF
+- 2023-01-05: Document (DR): [dr-56c63e96.md](dr-56c63e96.md); official file https://www.senat.ro/legis/PDF/2022/22L664DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-05: Document (TX): [tx-4141bda2.md](tx-4141bda2.md); official file https://www.senat.ro/legis/PDF/2022/22L664TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-05: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L664AL.PDF (its day is not given by the bill file: shown from the last stage held)
