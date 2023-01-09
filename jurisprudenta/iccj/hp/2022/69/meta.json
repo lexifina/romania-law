@@ -1,0 +1,218 @@
+{
+ "key": "iccj-hp-69-2022",
+ "label": "Decizia ÎCCJ nr. 69/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "69",
+ "date": "2022-10-31",
+ "year": "2022",
+ "heading": "DECIZIA nr. 69 din 31 octombrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 1.385 alin. (1) și (3) din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "21",
+  "bis": false,
+  "date": "2023-01-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.071/1/2022",
+  "7.467/63/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1385",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Înalta Curte de Casație și Justiție - Secția I civilă, în Dosarul nr. 7.467/63/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "În interpretarea și aplicarea dispozițiilor art. 1.385 alin. (1) și (3) din Codul civil, prejudiciul derivat din săvârșirea infracțiunii prevăzute de art. 23 alin. (1) din Ordonanța de urgență a Guvernului nr. 77/2009 privind organizarea și exploatarea jocurilor de noroc, în forma în vigoare la data producerii infracțiunii, este prezumat de lege prin dispozițiile art. 13 alin. (1), art. 14 alin. (2) lit. b) pct. (i) și art. 15 alin. (6) lit. a) și anexa la același act normativ?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1385",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2009",
+    "number": "77",
+    "year": "2009",
+    "path": "oug/2009/77"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "15",
+     "alin": [
+      "6"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "318",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263756",
+  "text_sha256": "4a41dcb54f034e981a75184086fcf184a065a55e1f979e7f034caed5c1907ea0",
+  "catalogue_sha256": "4a41dcb54f034e981a75184086fcf184a065a55e1f979e7f034caed5c1907ea0",
+  "fetched": "2026-11-06T04:02:37Z",
+  "chars": 42347,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/263756",
+   "timestamp": "20240425044744",
+   "crawl": "CC-MAIN-2024-18",
+   "filename": "crawl-data/CC-MAIN-2024-18/segments/1712297284704.94/warc/CC-MAIN-20240425032156-20240425062156-00855.warc.gz",
+   "offset": "323040076",
+   "length": "37662",
+   "sha256": "46bb273fcc24d61e4671e4e78844a771d72d98c8f4b087fb8fff23002f8c1481"
+  },
+  "portal_id": "263756",
+  "tip": "DECIZIE"
+ }
+}
