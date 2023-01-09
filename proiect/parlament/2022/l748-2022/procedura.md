@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2022-11-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2022-12-19: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-21: sent for promulgation
+- 2023-01-09: promulgated, becomes Legea nr. 20/2023
 
 ## Documents
 
