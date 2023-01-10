@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2022-12-19: registered at the Chamber of Deputies; adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-12-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-23: sent for promulgation
+- 2023-01-10: promulgated, becomes Legea nr. 25/2023
 
 ## Documents
 
