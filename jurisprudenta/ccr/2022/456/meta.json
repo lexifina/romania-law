@@ -1,0 +1,169 @@
+{
+ "key": "dcc-456-2022",
+ "label": "Decizia CCR nr. 456/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "456",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 456 din 25 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (10) din Ordonanța de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "31",
+  "bis": false,
+  "date": "2023-01-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.097/63/2018",
+  "308D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "oug/2009/18"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Adrian Pîrva în Dosarul nr. 5.097/63/2018 al Curții de Apel Craiova - Secția contencios administrativ și fiscal și constată că dispozițiile art. 14 alin. (10) din Ordonanța de urgență a Guvernului nr. 18/2009 privind creșterea performanței energetice a blocurilor de locuințe sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Craiova - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 18/2009",
+    "number": "18",
+    "year": "2009",
+    "path": "oug/2009/18"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-01-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263817",
+  "text_sha256": "c73c0656b8fd10e0a6637d3f1709bab1fb498ed2e32c6ad747b4a028992e1d54",
+  "catalogue_sha256": "c73c0656b8fd10e0a6637d3f1709bab1fb498ed2e32c6ad747b4a028992e1d54",
+  "fetched": "2026-11-03T01:26:16Z",
+  "chars": 16882,
+  "portal_id": "263817",
+  "tip": "DECIZIE"
+ }
+}
