@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-12-12: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2022-12-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-24: sent for promulgation
+- 2023-01-12: promulgated, becomes Legea nr. 41/2023
 
 ## Documents
 
