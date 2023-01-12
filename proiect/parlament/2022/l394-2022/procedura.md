@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-24: sent for promulgation
 - 2023-01-11: promulgated, becomes Legea nr. 34/2023
+- 2023-01-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-06: Adresă către Camera Deputaților (AM): [am-46757cf4.md](am-46757cf4.md); official file https://www.senat.ro/legis/PDF/2022/22L394AM.PDF
 - 2022-12-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L394AXS.PDF
 - 2022-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L394LP.PDF
+- 2023-01-12: Document (AA): [aa-ce3e26b5.md](aa-ce3e26b5.md); official file https://www.senat.ro/legis/PDF/2022/22L394AA.PDF (its day is not given by the bill file: shown from the last stage held)
