@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-06: sent for promulgation
 - 2022-11-23: published in the Monitorul Oficial
 - 2023-01-11: promulgated, becomes Legea nr. 32/2023
+- 2023-01-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-01: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L521AM.PDF
 - 2022-10-04: Adresă privind sesizarea CCR (AXS): [axs-b34c06c6.md](axs-b34c06c6.md); official file https://www.senat.ro/legis/PDF/2022/22L521AXS.PDF
 - 2022-10-04: Forma trimisă la promulgare (LP): [lp-55cc00ed.md](lp-55cc00ed.md); official file https://www.senat.ro/legis/PDF/2022/22L521LP.PDF
+- 2023-01-12: Document (SM): [sm-5c18214d.md](sm-5c18214d.md); official file https://www.senat.ro/legis/PDF/2022/22L521SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-12: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L521SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-12: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L521DC.PDF (its day is not given by the bill file: shown from the last stage held)
