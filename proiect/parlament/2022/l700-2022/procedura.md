@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-12-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-24: sent for promulgation
 - 2023-01-12: promulgated, becomes Legea nr. 41/2023
+- 2023-01-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,6 @@ Initiator: Guvernul României.
 - 2022-12-12: Forma adoptată de Senat (FS): [fs-2bf73866.md](fs-2bf73866.md); official file https://www.senat.ro/legis/PDF/2022/22L700FS.PDF
 - 2022-12-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L700AXS.PDF
 - 2022-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L700LP.PDF
+- 2023-01-13: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L700DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-13: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L700TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-01-13: Document (AL): [al-7bb962c9.md](al-7bb962c9.md); official file https://www.senat.ro/legis/PDF/2022/22L700AL.PDF (its day is not given by the bill file: shown from the last stage held)
