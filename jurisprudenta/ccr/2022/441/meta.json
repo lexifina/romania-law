@@ -1,0 +1,222 @@
+{
+ "key": "dcc-441-2022",
+ "label": "Decizia CCR nr. 441/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "441",
+ "date": "2022-10-06",
+ "year": "2022",
+ "heading": "DECIZIA nr. 441 din 6 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19 din Legea nr. 682/2002 privind protecția martorilor, în interpretarea dată prin Decizia nr. 3 din 28 februarie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "47",
+  "bis": false,
+  "date": "2023-01-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "48.648/299/2016",
+  "3.374D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2002",
+    "number": "682",
+    "year": "2002",
+    "path": "lege/2002/682"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ionel Bogdan în Dosarul nr. 48.648/299/2016* al Judecătoriei Sectorului 1 București - Secția penală și constată că dispozițiile art. 19 din Legea nr. 682/2002 privind protecția martorilor, în interpretarea dată prin Decizia nr. 3 din 28 februarie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept în materie penală, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 682/2002",
+    "number": "682",
+    "year": "2002",
+    "path": "lege/2002/682"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-01-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263978",
+  "text_sha256": "23cf6d45e563d5380f411e52523c8891aa6b5c4dba3799bea3d14672b90134e3",
+  "catalogue_sha256": "23cf6d45e563d5380f411e52523c8891aa6b5c4dba3799bea3d14672b90134e3",
+  "fetched": "2026-11-03T01:26:02Z",
+  "chars": 19688,
+  "portal_id": "263978",
+  "tip": "DECIZIE"
+ }
+}
