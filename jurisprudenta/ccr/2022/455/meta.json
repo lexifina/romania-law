@@ -1,0 +1,386 @@
+{
+ "key": "dcc-455-2022",
+ "label": "Decizia CCR nr. 455/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "455",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 455 din 25 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei „sau calități decât cea în care a fost numit“ din cuprinsul art. 94 alin. (1) din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, a dispozițiilor art. 16 alin. (2) din Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar, precum și ale articolului unic pct. 1 din Legea nr. 155/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 70/2017 privind modificarea și completarea Legii nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "50",
+  "bis": false,
+  "date": "2023-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "307D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 160/1998",
+    "number": "160",
+    "year": "1998",
+    "path": "lege/1998/160"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 155/2018",
+    "number": "155",
+    "year": "2018",
+    "path": "lege/2018/155"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Colegiul Medicilor Veterinari din România în Dosarul nr. 10.559/3/CAF/2017 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și constată că sintagma „sau calități decât cea în care a fost numit“ din cuprinsul art. 94 alin. (1) din Legea nr. 161/2003 privind unele măsuri pentru asigurarea transparenței în exercitarea demnităților publice, a funcțiilor publice și în mediul de afaceri, prevenirea și sancționarea corupției, dispozițiile art. 16 alin. (2) din Legea nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar și cele ale articolului unic pct. 1 din Legea nr. 155/2018 pentru aprobarea Ordonanței de urgență a Guvernului nr. 70/2017 privind modificarea și completarea Legii nr. 160/1998 pentru organizarea și exercitarea profesiunii de medic veterinar sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 161/2003",
+    "number": "161",
+    "year": "2003",
+    "path": "lege/2003/161"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 155/2018",
+    "number": "155",
+    "year": "2018",
+    "path": "lege/2018/155"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 160/1998",
+    "number": "160",
+    "year": "1998",
+    "path": "lege/1998/160"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 70/2017",
+    "number": "70",
+    "year": "2017",
+    "path": "oug/2017/70"
+   },
+   "articles": [],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 860/2004",
+    "number": "860",
+    "year": "2004",
+    "path": "hg/2004/860"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 70/2017",
+    "number": "70",
+    "year": "2017",
+    "path": "lege/2017/70"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 200/2004",
+    "number": "200",
+    "year": "2004",
+    "path": "lege/2004/200"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 42/2004",
+    "number": "42",
+    "year": "2004",
+    "path": "og/2004/42"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/263994",
+  "text_sha256": "af49a2bf3faf02575ebad76a3fd36f429e959b25daecef4532ca80f4aed0d24a",
+  "catalogue_sha256": "af49a2bf3faf02575ebad76a3fd36f429e959b25daecef4532ca80f4aed0d24a",
+  "fetched": "2026-11-06T02:17:46Z",
+  "chars": 41394,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230118133439/https://legislatie.just.ro/Public/DetaliiDocument/263994",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/263994",
+   "timestamp": "20230118133439",
+   "sha256": "4b5dace32f12081958e8cdf3c3826c2b3045376dc3af84f258772d1049267786"
+  },
+  "portal_id": "263994",
+  "tip": "DECIZIE"
+ }
+}
