@@ -1,0 +1,242 @@
+{
+ "key": "iccj-hp-penal-78-2022",
+ "label": "Decizia ÎCCJ nr. 78/2022 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "78",
+ "date": "2022-11-28",
+ "year": "2022",
+ "heading": "DECIZIA nr. 78 din 28 noiembrie 2022",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: este obligatoriu ca persoana care conduce pe drumurile publice un vehicul să dețină un permis de conducere, iar aceasta posedă exclusiv un permis de conducere provizoriu eliberat de autoritatea competentă din Marea Britanie («Provisional Driving Licence»), se reține forma atenuată a infracțiunii de conducere a unui vehicul fără permis de conducere prevăzută de art. 335 alin. (2) din Codul penal, în situația în care persoana nu are dreptul de a conduce autovehicule în România?",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "51",
+  "bis": false,
+  "date": "2023-01-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.418/1/2022",
+  "471/787/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Alba Iulia - Secția penală prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "În situația în care, potrivit legislației române, este obligatoriu ca persoana care conduce pe drumurile publice un vehicul să dețină un permis de conducere, iar aceasta posedă exclusiv un permis de conducere provizoriu eliberat de autoritatea competentă din Marea Britanie («Provisional Driving Licence»), se reține forma atenuată a infracțiunii de conducere a unui vehicul fără permis de conducere prevăzută de art. 335 alin. (2) din Codul penal, respectiv situația în care persoana nu are dreptul de a conduce autovehicule în România?“ și stabilește că:",
+  "Potrivit legislației române, conducerea pe drumurile publice a unui vehicul de către o persoană care deține un permis de conducere provizoriu valabil, eliberat de autoritatea competentă din Marea Britanie („Provisional Driving Licence“), constituie infracțiunea de conducere a unui vehicul fără permis de conducere prevăzută de art. 335 alin. (2) din Codul penal, în situația în care persoana nu are dreptul de a conduce autovehicule în România.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "323",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 61
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "82",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "377",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2022",
+    "number": "195",
+    "year": "2022",
+    "path": "oug/2022/195"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 318/1980",
+    "number": "318",
+    "year": "1980",
+    "path": "decret/1980/318"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264012",
+  "text_sha256": "dcaa94bb22684469491be91c55d94b1f07076d559f6251a5ec288b4cf1104cc8",
+  "catalogue_sha256": "dcaa94bb22684469491be91c55d94b1f07076d559f6251a5ec288b4cf1104cc8",
+  "fetched": "2026-11-03T01:26:01Z",
+  "chars": 58979,
+  "portal_id": "264012",
+  "tip": "DECIZIE"
+ }
+}
