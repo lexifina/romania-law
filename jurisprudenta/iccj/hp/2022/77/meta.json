@@ -1,0 +1,212 @@
+{
+ "key": "iccj-hp-77-2022",
+ "label": "Decizia ÎCCJ nr. 77/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "77",
+ "date": "2022-11-14",
+ "year": "2022",
+ "heading": "DECIZIA nr. 77 din 14 noiembrie 2022",
+ "subtitle": "referitoare la interpretarea art. 28 alin. (1) lit. o) din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "49",
+  "bis": false,
+  "date": "2023-01-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.909/1/2022",
+  "3.413/110/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "o"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția I civilă, în Dosarul nr. 3.413/110/2019, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Articolul 28 alin. (1) lit. o) din Legea nr. 223/2015 privind pensiile militare de stat, cu modificările și completările ulterioare, se interpretează în sensul că exclude din baza de calcul al pensiei militare sporul TBC/HIV acordat cu caracter permanent fostului salariat?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "165",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 8/2006",
+    "number": "8",
+    "year": "2006",
+    "path": "lege/2006/8"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264003",
+  "text_sha256": "95bce5d56b4ae35944b2fd697496ac6b7f294adbf83345457c0b8740d85a21ed",
+  "catalogue_sha256": "95bce5d56b4ae35944b2fd697496ac6b7f294adbf83345457c0b8740d85a21ed",
+  "fetched": "2026-11-03T01:26:00Z",
+  "chars": 49584,
+  "portal_id": "264003",
+  "tip": "DECIZIE"
+ }
+}
