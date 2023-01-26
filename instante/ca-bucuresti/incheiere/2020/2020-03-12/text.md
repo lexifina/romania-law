@@ -1,0 +1,2 @@
+ÎNCHEIERE din 12 martie 2020  Ședința publică din 12 martie 2020     EMITENT     CURTEA DE APEL BUCUREȘTI - SECȚIA A VIII-A CONTENCIOS ADMINISTRATIV ȘI FISCAL        Publicat în
+			  MONITORUL OFICIAL nr. 69 din 26 ianuarie 2023      Ședința publică din 12 martie 2020     CURTEA,     în aceeași compunere, având nevoie de timp pentru a delibera,     DISPUNE:     Amână pronunțarea la data de 16 martie 2020.    Pronunțată astăzi, 12 martie 2020, prin punerea soluției la dispoziția părților prin mijlocirea grefei instanței.     Președinte,    X    Grefier,    X    -----
