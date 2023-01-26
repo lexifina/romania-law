@@ -1,0 +1,2 @@
+# Anexa nr. 2
+METODOLOGIE privind desfășurarea concursurilor de ocupare a posturilor vacante și temporar vacante de medic, medic stomatolog, farmacist, biolog, biochimist, chimist din unitățile sanitare publice sau din direcțiile de sănătate publică și a funcțiilor de șef de secție, șef de laborator și șef de compartiment din unitățile sanitare fără paturi sau din direcțiile de sănătate publică, respectiv a funcției de farmacist-șef în unitățile sanitare publice cu paturi
