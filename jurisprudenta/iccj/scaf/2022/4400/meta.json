@@ -1,0 +1,179 @@
+{
+ "key": "iccj-scaf-4400-2022",
+ "label": "Decizia ÎCCJ nr. 4400/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4400",
+ "date": "2022-10-05",
+ "year": "2022",
+ "heading": "DECIZIA nr. 4.400 din 5 octombrie 2022",
+ "subtitle": "referitoare la recursul declarat de pârâtul Guvernul României împotriva Sentinței civile nr. 923 din 9 decembrie 2019, pronunțată de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "67",
+  "bis": false,
+  "date": "2023-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.217/2/2019",
+  "3.723/2/2019"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de pârâtul Guvernul României împotriva Sentinței civile nr. 923 din 9 decembrie 2019, pronunțate de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, ca nefondat.",
+  "Respinge cererea de intervenție accesorie formulată de intervenientul Ministerul Agriculturii și Dezvoltării Rurale în sprijinul recurentului-pârât Guvernul României, ca neîntemeiată.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 859/2009",
+    "number": "859",
+    "year": "2009",
+    "path": "hg/2009/859"
+   },
+   "articles": [
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 268/2001",
+    "number": "268",
+    "year": "2001",
+    "path": "lege/2001/268"
+   },
+   "articles": [
+    {
+     "art": "21-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 626/2001",
+    "number": "626",
+    "year": "2001",
+    "path": "hg/2001/626"
+   },
+   "articles": [
+    {
+     "art": "77-1",
+     "alin": null,
+     "lit": [
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 85/2009",
+    "number": "85",
+    "year": "2009",
+    "path": "hg/2009/85"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264377",
+  "text_sha256": "c1e511175f63687d4adbb5232a3dc9b1af20f31567a841bd6c01df4561b9a89a",
+  "catalogue_sha256": "c1e511175f63687d4adbb5232a3dc9b1af20f31567a841bd6c01df4561b9a89a",
+  "fetched": "2026-11-03T01:25:51Z",
+  "chars": 25523,
+  "portal_id": "264377",
+  "tip": "DECIZIE"
+ }
+}
