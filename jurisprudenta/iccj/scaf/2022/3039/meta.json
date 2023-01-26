@@ -1,0 +1,145 @@
+{
+ "key": "iccj-scaf-3039-2022",
+ "label": "Decizia ÎCCJ nr. 3039/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3039",
+ "date": "2022-05-26",
+ "year": "2022",
+ "heading": "DECIZIA nr. 3.039 din 26 mai 2022",
+ "subtitle": "referitoare la recursul declarat de Guvernul României împotriva Sentinței civile nr. 218 din 23 martie 2020 pronunțate de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "69",
+  "bis": false,
+  "date": "2023-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila",
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "20.735/3/2018"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge ca inadmisibilă în principiu cererea de intervenție accesorie formulată de Ministerul Muncii și Solidarității Sociale.",
+  "Respinge recursul declarat de Guvernul României împotriva Sentinței civile nr. 218 din 23 martie 2020 pronunțate de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă.",
+  "Soluția va fi pusă la dispoziția părților prin mijlocirea grefei instanței."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "494",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 52/2011",
+    "number": "52",
+    "year": "2011",
+    "path": "hg/2011/52"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 111/2010",
+    "number": "111",
+    "year": "2010",
+    "path": "oug/2010/111"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 449/2016",
+    "number": "449",
+    "year": "2016",
+    "path": "hg/2016/449"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264391",
+  "text_sha256": "31272383bd7b104316afb81ab0fac2d3a6932e9a0928fbf3a70fd010b26a9428",
+  "catalogue_sha256": "31272383bd7b104316afb81ab0fac2d3a6932e9a0928fbf3a70fd010b26a9428",
+  "fetched": "2026-11-03T01:25:52Z",
+  "chars": 13906,
+  "portal_id": "264391",
+  "tip": "DECIZIE"
+ }
+}
