@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-640-21-concluzii-2023-01-26",
+ "label": "CJUE, Concluziile avocatului general J. Richard de la Tour prezentate la 26 ianuarie 2023, Cauza C-640/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-01-26",
+ "year": "2023",
+ "case": "Cauza C-640/21.",
+ "celex": "62021CC0640",
+ "ecli": "ECLI:EU:C:2023:56",
+ "heading": "Concluziile avocatului general J. Richard de la Tour prezentate la 26 ianuarie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Cluj.",
+ "national_followup": null,
+ "parties": "SC Zes Zollner Electronic SRL împotriva Direcției Regionale Vamale Cluj – Biroul Vamal de Frontieră Aeroport Cluj Napoca.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Uniunea vamală – Regulamentul (UE) nr. 952/2013 – Codul vamal al Uniunii – Cantitate în plus de mărfuri descoperită după acordarea liberului de vamă – Articolul 173 – Modificarea unei declarații vamale – Alte mărfuri decât cele care au făcut inițial obiectul declarației care trebuie modificată – Articolul 174 – Invalidarea unei declarații vamale – Articolul 42 – Sancțiuni aplicate de autoritățile vamale competente – Regulamentul delegat (UE) 2015/2446.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0640",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-640/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/25b2151f-9d6c-11ed-b508-01aa75ed71a1.0019.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "f3f3d667c5731733f0cab982d90f755003a30b520ae73f64cbe3d012ee7526a2"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
