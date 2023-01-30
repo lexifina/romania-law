@@ -1,0 +1,8 @@
+# HCL Iernut nr. 5/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Orașului Iernut
+- Decision: nr. 5/2023
+- Adopted: 2023-01-30
+- Document sha256: d08c6237f0a6f6c0b51dee6f6c4d40783ba83742fb5f1ead748581daa38d6287
