@@ -1,0 +1,22 @@
+# Proiect de lege L33/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 371/2023 (`legea-371-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.21/2023 pentru modificarea şi completarea Legii nr.95/2006 privind reforma în domeniul sănătăţii, precum şi pentru modificarea şi completarea unor acte normative cu impact în domeniul sănătăţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-01-31: Adresă de înaintare a inițiativei (AD): [ad-0735b2ea.md](ad-0735b2ea.md); official file https://www.senat.ro/legis/PDF/2023/23L033AD.PDF
+- 2023-01-31: Forma inițiatorului (FG): [fg-40a6e5cb.md](fg-40a6e5cb.md); official file https://www.senat.ro/legis/PDF/2023/23L033FG.PDF
+- 2023-01-31: Expunere de motive (EM): [em-4ddf7a05.md](em-4ddf7a05.md); official file https://www.senat.ro/legis/PDF/2023/23L033EM.PDF
+- 2023-01-31: Aviz Consiliul Legislativ (LG): [lg-a98e2c30.md](lg-a98e2c30.md); official file https://www.senat.ro/legis/PDF/2023/23L033LG.PDF
+- 2023-01-31: Document (OG): [og-e721291d.md](og-e721291d.md); official file https://www.senat.ro/legis/PDF/2023/23L033OG.PDF
+- 2023-01-31: Document (HG): [hg-2acd11cc.md](hg-2acd11cc.md); official file https://www.senat.ro/legis/PDF/2023/23L033HG.PDF
