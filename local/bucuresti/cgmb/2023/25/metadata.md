@@ -1,0 +1,11 @@
+# HCGMB nr. 25/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 25/2023
+- Adopted: 2023-01-31
+- Title: PRIVIND APROBAREA ALIPIRII A 27 ( DOUAZECI SI SAPTE ) DE IMOBILE SITUATE IN SECTORUL 6 (ARTERA DRUMUL TABEREI - TRONSONUL CUPRINS INTRE STRADA BRASOV SI STRADA SEGARCEA), IDENTIFICATE CU NUMERELE CADASTRALE 242823, 243543, 242842, 242836, 242871, 242870,242787,242854,242840,242790,242835,242858,242804,242859, 242227,242159,242207,242109,214540,214536,214534,202207,242115, 214546, 214548, 214547, 214549, PROPRIETATE PUBLICA A MUNICIPIULUI BUCURESTI, IN VEDEREA INSCRIERII IN CARTEA FUNCIARA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44382
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/44382/H025_23.pdf
+- Document sha256: b3b6bb67716ab343f66535d5b3bc71138a3ab997823d1118b9e0b49f1c3425f3
