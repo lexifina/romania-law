@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-18: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-11-22: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2022-12-20: registered at the Senate
+- 2023-01-31: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-22: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290ES.PDF
 - 2022-11-22: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290LG.PDF
 - 2022-11-22: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290SJ.PDF
+- 2023-01-31: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290CA19.PDF
