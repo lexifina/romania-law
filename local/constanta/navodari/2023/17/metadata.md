@@ -1,0 +1,11 @@
+# HCL Năvodari nr. 17/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Năvodari
+- Decision: nr. 17/2023
+- Adopted: 2023-02-02
+- Title: cu privire la oportunitatea vanzarii prin licitatie publica a unui teren situat in Navodari, strada CiocÃ¢rliei FN, judetul Constanta
+- Record: https://www.primaria-navodari.ro/hotararile-consiliului-local-navodari-din-anul-2023/
+- Document: https://primaria-navodari.ro/wp-content/uploads/2023/02/HCL-nr17-din-02.02.2023.pdf
+- Document sha256: 55d3e4461f4a7b8e6c00446479830f252f9f46d166f64f2b23639780ec1a4942
