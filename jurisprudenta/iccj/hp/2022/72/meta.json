@@ -1,0 +1,165 @@
+{
+ "key": "iccj-hp-72-2022",
+ "label": "Decizia ÎCCJ nr. 72/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "72",
+ "date": "2022-11-07",
+ "year": "2022",
+ "heading": "DECIZIA nr. 72 din 7 noiembrie 2022",
+ "subtitle": "referitoare la pronuntarea unei hotarari prealabile privind încheierea convențiilor și achitarea subvențiilor prevăzute de dispozițiile art. 85 alin. (1) din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "93",
+  "bis": false,
+  "date": "2023-02-02",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.508/1/2022",
+  "2.194/100/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a III-a contencios administrativ și fiscal, prin Încheierea din 16 mai 2022, pronunțată în Dosarul nr. 2.194/100/2020, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: Dacă încheierea convențiilor și achitarea subvențiilor prevăzute de dispozițiile art. 85 alin. (1) din Legea nr. 76/2002 privind sistemul asigurărilor pentru șomaj și stimularea ocupării forței de muncă, cu modificările și completările ulterioare, sunt condiționate doar de depunerea unei cereri de către angajator, în termen de 12 luni de la data încheierii contractului de muncă cu o persoană ce face parte din categoriile la care se referă acest text legal, sau dacă trebuie, în plus, ca în această perioadă de 12 luni să existe și fonduri/credite bugetare aprobate în acest scop de către ordonatorii superiori de credite.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2002",
+    "number": "76",
+    "year": "2002",
+    "path": "lege/2002/76"
+   },
+   "articles": [
+    {
+     "art": "85",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "74",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "59",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-02-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264570",
+  "text_sha256": "78db5d2d6d9aaac64d9cc29088757cb5014728b2ccbe71cf7bbd42f50d12e250",
+  "catalogue_sha256": "78db5d2d6d9aaac64d9cc29088757cb5014728b2ccbe71cf7bbd42f50d12e250",
+  "fetched": "2026-11-03T01:25:39Z",
+  "chars": 42236,
+  "portal_id": "264570",
+  "tip": "DECIZIE"
+ }
+}
