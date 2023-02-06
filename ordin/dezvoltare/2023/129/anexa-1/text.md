@@ -1,0 +1,127 @@
+# ANEXĂ
+Denumirea organismului: Societatea Comercială CERTIND - S.A.
+NB 2174
+Adresa: str. George Enescu nr. 27-29, Palatul UGIR 1903, etajul 3, camerele 3, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, sectorul 1, București, tel.: +40(21) 313.36.51, fax: +40(21) 313.36.51, e-mail: office@certind.ro website: http://www.certind.ro
+Competența organismului a fost evaluată folosind ca referențial standardul: SR EN ISO/CEI 17065:2013
+Valabilitatea notificării se acordă pe termen nelimitat (cu condiția îndeplinirii continue a cerințelor care au stat la baza desemnării).
+Domeniile de competență:
+Nr. deciziei CE
+Familiile de produse și utilizările preconizate
+Sistemul de evaluare și verificare
+Specificațiile tehnice armonizate
+Funcția organismului 97/740/CE
+PRODUSE DE BAZĂ ȘI AUXILIARE PENTRU ZIDĂRIE (1/3):
+- Produse de zidărie categoria I
+Elemente având o rezistență medie la compresiune specificată cu o probabilitate de a nu fi atinsă de cel mult 5% (în stâlpi, pereți și compartimentări)
+Sistem 2+
+SR EN 771-1 + A1:2015
+SR EN 771-2 + A1:2015
+SR EN 771-3 + A1:2015
+SR EN 771-4 + A1:2015
+SR EN 771-5 + A1:2015
+SR EN 771-6 + A1:2015
+CPF 98/214/CE
+PRODUSE PENTRU CONSTRUCȚII METALICE ȘI PRODUSE CONEXE (1/4):
+- Profile metalice structurale
+Profile de diferite forme (T, L, H, U, Z, I, profile cu șanț, corniere, profile scobite, tubulare), produse plate (tole, foi, benzi), bare, piese turnate, piese forjate din diferite materiale metalice, laminate la cald, modelate la rece sau produse în alt mod, protejate sau nu împotriva coroziunii printr-o îmbrăcăminte de protecție (pentru utilizare în structurile metalice sau în structurile mixte metal-beton)
+Sistem 2+
+SR EN 10025-1:2005
+SR EN 10210-1:2006
+SR EN 10219-1:2006
+SR EN 15088:2006
+SR EN 15048-1:2007
+CPF 98/214/CE
+PRODUSE PENTRU CONSTRUCȚII METALICE ȘI PRODUSE CONEXE (2/4):
+- Elemente structurale de construcție metalică:
+Produse metalice finite, cum ar fi grinzi metalice, stâlpi, scări, piloni de fundație, picioare de susținere și palplanșe, profile debitate la dimensiune și destinate unor aplicații definite, șine și traverse
+Pot fi sau nu protejate împotriva coroziunii printr-o îmbrăcăminte de protecție, sudate sau nesudate (pentru utilizare în șarpante și fundații)
+Sistem 2+
+SR EN 1090-1+A1:2012
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):
+- Agregate pentru mixturi de bitum și tratamente de suprafață (drumuri și alte lucrări de inginerie civilă)
+Sistem 2+
+SR EN 12620:2002+A1:2008
+SR EN 13043:2003
+SR EN 13043:2003/AC:2004
+SR EN 13242+A1:2008
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):. Agregate pentru mixturi inerte sau cu liant hidraulic (pentru drumuri și alte lucrări de inginerie civilă)
+Sistem 2+
+SR EN 12620:2002+A1:2008
+SR EN 13043:2003
+SR EN 13043:2003/AC:2004
+SR EN 13242+A1:2008
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):. Blocuri de piatră pentru protecție (pentru structuri hidraulice și alte lucrări de construcții civile)
+Sistem 2+
+SR EN 13383-1:2003
+SR EN 13383-1:2003/AC:2004
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):. Filere pentru mixturi de bitum și tratamente de suprafață (pentru drumuri și alte lucrări de construcții civile)
+Sistem 2+
+SR EN 12620:2002+A1:2008
+SR EN 13043:2003
+SR EN 13043:2003/AC:2004
+SR EN 13242+A1:2008
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):. Balast feroviar (pentru lucrări feroviare)
+Sistem 2+
+SR EN 13450:2003
+SR EN 13450:2003/AC:2004
+CPF 98/598/CE
+Agregate minerale pentru utilizări supuse unor cerințe stricte de securitate (2/2):. Agregate și filere pentru beton, mortar și pastă de ciment (pentru drumuri și alte lucrări de construcții civile)
+Sistem 2+
+SR EN 12620:2002+A1:2008
+SR EN 13055-1:2003
+SR EN 13055-1:2003/AC:2004
+SR EN 13055-2:2004
+SR EN 13139:2003
+SR EN 13139:2003/AC:2004
+CPF 98/601/CE
+Produse pentru construcția drumurilor (1/2):
+Amestecuri bituminoase (utilizate la construcția și tratarea de suprafață a drumurilor)
+Sistem 2+
+SR EN 13108-1:2006
+SR EN 13108-1:2006/AC:2008
+SR EN 13108-2:2006
+SR EN 13108-2:2006/AC:2008
+SR EN 13108-3:2006
+SR EN 13108-3:2006/AC:2008
+SR EN 13108-4:2006
+SR EN 13108-4:2006/AC:2008
+SR EN 13108-5:2006
+SR EN 13108-5:2006/AC:2008
+SR EN 13108-6:2006
+SR EN 13108-6:2006/AC:2008
+SR EN 13108-7:2006
+SR EN 13108-7:2006/AC:2008
+CPF 98/601/CE
+Produse pentru construcția drumurilor (1/2):. Bitumuri (pentru utilizări în construcția drumurilor și în tratarea suprafeței drumurilor)
+Sistem 2+
+SR EN 12591:2009
+SR EN 13808:2013
+SR EN 14023:2010
+CPF 99/94/CE
+Produse prefabricate din beton normal/ușor/celular autoclavizat (1/1):. Produse prefabricate din beton normal/ușor/celular autoclavizat (pentru utilizări structurale)
+Sistem 2+
+SR EN 1168+A3:2011
+SR EN 1520:2011
+SR EN 12737+A1:2008
+SR EN 12794:2005+A1:2007
+SR EN 12794:2005+A1:2007/AC:2009
+SR EN 12843:2005
+SR EN 13224:2012
+SR EN 13225:2013
+SR EN 13693+A1:2009
+SR EN 13747+A2:2010
+SR EN 13978-1:2005
+SR EN 14843:2007
+SR EN 14844+A2:2012
+SR EN 14991:2007
+SR EN 14992+A1:2012
+SR EN 15050+A1:2012
+SR EN 15258:2009
+CPF
+NOTĂ: CPF = funcția de certificare control producție în fabrică.
+-----
