@@ -1,0 +1,3 @@
+# ANEXĂ
+GHID SPECIFIC privind regulile și condițiile aplicabile finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte PNRR/2023/C2/I.1.B, pentru subinvestiția I.1.B
+"Sprijin pentru refacerea potențialului forestier afectat de incendii, de fenomene meteorologice nefavorabile care pot fi asimilate unei calamități naturale, de infestări ale plantelor cu organisme dăunătoare și de evenimente catastrofale", investiția 1 "Campania națională de împădurire și reîmpădurire, inclusiv păduri urbane", schemă de ajutor de stat, componenta C2: Păduri și protecția biodiversității
