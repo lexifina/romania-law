@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-17: legislative procedure ended
 - 2022-10-18: registered at the Senate
 - 2022-11-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-02-07: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-07: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718AD.PDF
 - 2022-11-07: Forma inițiatorului (FG): [fg-ded52af1.md](fg-ded52af1.md); official file https://www.senat.ro/legis/PDF/2022/22L718FG.PDF
 - 2022-11-07: Expunere de motive (EM): [em-772b77c2.md](em-772b77c2.md); official file https://www.senat.ro/legis/PDF/2022/22L718EM.PDF
+- 2023-02-07: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718CR.PDF
