@@ -1,0 +1,10 @@
+# HCL Tâmna nr. 1/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Tâmna
+- Decision: nr. 1/2023
+- Adopted: 2023-01-27
+- Published: 2023-02-07
+- Title: privind privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009
+- Record: https://emol.ro/tamna-mh/registru-hcl/86970
