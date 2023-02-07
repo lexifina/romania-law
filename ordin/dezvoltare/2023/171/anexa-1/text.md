@@ -1,0 +1,1475 @@
+# Anexa nr. 1
+1.
+Generalități 1.1.
+Obiect și domeniu de aplicare
+1.2.
+Structura reglementării tehnice
+1.3.
+Definiții
+1.4.
+Unități de măsură
+1.5.
+Simboluri
+1.6.
+Documente normative de referință
+2.
+Cerințe fundamentale
+3.
+Proiectarea seismică 3.1.
+Mecanismul plastic
+3.2.
+Cerințe de rezistență, rigiditate, ductilitate și stabilitate 3.2.1.
+Rezistență
+3.2.2.
+Rigiditate
+3.2.3.
+Ductilitate
+3.2.4.
+Stabilitate
+3.2.5.
+Zone critice
+3.3.
+Calcul structural 3.3.1.
+Metode de calcul
+3.3.2.
+Calcul static liniar 3.3.2.1.
+Modelul de calcul
+3.3.2.2.
+Modelarea rigidității
+3.3.3.
+Calcul static neliniar 3.3.3.1.
+Modelul de calcul
+3.3.3.2.
+Legea de răspuns forță orizontală - deplasare orizontală
+3.4.
+Alcătuirea generală a structurilor 3.4.1.
+Planșee
+3.4.2.
+Rosturi
+3.4.3.
+Componente nestructurale
+4.
+Valori de proiectare ale eforturilor 4.1.
+Clădiri proiectate pentru clasa de ductilitate DCH sau DCM 4.1.1.
+Valori de proiectare ale momentelor încovoietoare 4.1.1.1.
+Pereți
+4.1.1.2.
+Grinzi de cuplare
+4.1.2.
+Valori de proiectare ale forțelor tăietoare 4.1.2.1.
+Pereți
+4.1.2.2.
+Grinzi de cuplare
+4.1.3.
+Valori de proiectare ale forțelor axiale
+4.1.4.
+Redistribuirea eforturilor 4.1.4.1.
+Redistribuirea eforturilor între pereți
+4.1.4.2.
+Redistribuirea eforturilor din grinzi de cuplare
+4.1.4.3.
+Redistribuirea în ansambluri de pereți cuplați și grinzi de cuplare
+4.1.5.
+Diafragme
+4.1.6.
+Infrastructuri și fundații
+4.1.7.
+Metoda de calcul static neliniar
+4.2.
+Clădiri proiectate pentru clasa de ductilitate DCL
+4.3.
+Alte prevederi
+5.
+Capacitate de rezistență 5.1.
+Capacitate de rezistență a pereților 5.1.1.
+Secțiune activă
+5.1.2.
+Capacitate de rezistență la încovoiere cu forță axială
+5.1.3.
+Capacitatea de rezistență la forță tăietoare a pereților lungi
+5.1.4.
+Capacitatea de rezistență la forță tăietoare a pereților scurți
+5.2.
+Capacitate de rezistență a grinzilor de cuplare 5.2.1.
+Secțiune activă
+5.2.2.
+Capacitatea de rezistență la încovoiere
+5.2.3.
+Capacitatea de rezistență la forță tăietoare 5.2.3.1.
+Grinzi de cuplare armate cu carcase ortogonale
+5.2.3.2.
+Grinzi de cuplare armate cu carcase diagonale
+5.3.
+Diafragme
+6.
+Capacitate de deformare
+7.
+Alcătuire și armare 7.1.
+Calitatea betonului
+7.2.
+Pereți 7.2.1.
+Secțiunea de beton 7.2.1.1.
+Pereți din suprastructură
+7.2.1.2.
+Pereți din infrastructură
+7.2.1.3.
+Goluri în pereți
+7.2.2.
+Armarea pereților 7.2.2.1.
+Armarea zonelor de capăt
+7.2.2.2.
+Armarea inimii
+7.2.2.3.
+Armarea zonelor de intersecție dintre pereți
+7.2.2.4.
+Bordarea golurilor
+7.2.3.
+Armarea pereților din infrastructură
+7.2.4.
+Ancorarea și înnădirea armăturilor din pereți
+7.3.
+Grinzi de cuplare 7.3.1.
+Secțiunea de beton
+7.3.2.
+Armarea grinzilor de cuplare 7.3.2.1.
+Grinzi de cuplare armate cu carcase ortogonale
+7.3.2.2.
+Grinzi de cuplare armate diagonal
+7.3.2.3.
+Ancorarea și înnădirea armăturilor din grinzi
+7.4.
+Zonele de intersecție a pereților cu diafragmele orizontale
+7.5.
+Planșeele din infrastructură
+8.
+Structuri prefabricate 8.1.
+Îmbinările panourilor prefabricate 8.1.1.
+Îmbinări verticale ale panourilor de perete
+8.1.2.
+Îmbinări orizontale ale panourilor de perete
+8.1.3.
+Îmbinări orizontale ale panourilor de planșeu
+1.
+Generalități 1.1.
+Obiect și domeniu de aplicare (1)
+Această reglementare tehnică cuprinde prevederi referitoare la proiectarea construcțiilor cu pereți structurali de beton armat, specifice cerinței de calitate "rezistență, mecanică și stabilitate", stabilită prin Legea nr. 10/1995 privind calitatea în construcții, republicată, cu modificările și completările ulterioare.
+(2)
+Prevederile acestei reglementări tehnice se aplică la proiectarea structurilor de beton armat pentru clădiri noi cu următoarele alcătuiri: (a) structuri cu pereți izolați;
+(b) structuri cu pereți cuplați;
+(c) structuri duale.
+(3)
+Prevederile acestei reglementări tehnice se aplică la proiectarea lucrărilor de intervenție asupra construcțiilor existente, efectuate pentru reducerea susceptibilității de avariere la diferite tipuri de acțiuni, care includ utilizarea pereților de beton armat.
+(4)
+Regulile de proiectare date în această reglementare tehnică se aplică la proiectarea pereților structurali, grinzilor de cuplare, infrastructurilor și planșeelor cu rol de diafragmă orizontală din sistemele structurale cu pereți.
+(5)
+Prevederile acestei reglementări tehnice pot fi aplicate în cazul clădirilor monument istoric numai dacă acestea nu contravin conceptelor, abordărilor și procedurilor cuprinse în documentele normative specifice acestei categorii de clădiri.
+(6)
+Cerințele de calitate minime pentru construcții stabilite prin această reglementare tehnică se asigură pe întreaga durată de existență a construcției.
+(7)
+Prevederile acestei reglementări tehnice se adresează specialiștilor cu activitate în construcții (experți tehnici, verificatori de proiecte, diriginți de șantier, responsabili tehnici cu execuția, auditori energetici pentru clădiri, arhitecți, urbaniști, ingineri), beneficiarilor, investitorilor sau proprietarilor construcțiilor, consultanților, autorităților locale și autorităților de control în construcții.
+(8)
+Prevederile acestei reglementări tehnice reflectă nivelul de cunoaștere la data elaborării acestuia privind acțiunile, principiile și regulile de calcul și alcătuire ale construcțiilor, precum și performanțele și cerințele privind construcțiile și produsele pentru construcții utilizate.
+(9)
+Prevederile acestei reglementări tehnice au caracter minimal. Proiectantul poate decide realizarea unui nivel de calitate superior cerințelor minime impuse prin această reglementare tehnică.
+1.2.
+Structura reglementării tehnice (1)
+Această reglementare tehnică cuprinde cerințe fundamentale, cerințe de performanță și cerințe prescriptive pentru proiectarea construcțiilor cu pereți structurali de beton armat, structurate în capitole cu caracter normativ și capitole cu caracter informativ.
+(2)
+Structurile realizate în acord cu această reglementare tehnică respectă toate prevederile din capitolele cu caracter normativ. Cerințele pe care structurile trebuie să le îndeplinească sunt redactate la timpul prezent.
+(3)
+Prin excepție de la (2), această reglementare include și prevederi cu caracter de recomandare, bazate pe practica inginerească generală, care se disting prin utilizarea sintagmei "se recomandă". Proiectantul poate decide justificat, de la caz la caz, o abordare inginerească diferită, cu respectarea tuturor celorlalte prevederi cu caracter obligatoriu.
+(4)
+În interpretarea prevederilor, utilizarea conjuncției "și" indică faptul că toate condițiile, cerințele, articolele, obiectele sau evenimentele se aplică. Utilizarea conjuncției "sau" indică faptul că una dintre cerințele, condițiile, articolele, obiectele sau evenimentele se aplică. Utilizarea conjuncției compuse "și/sau" indică faptul că una sau mai multe dintre cerințele, condițiile, articolele, obiectele sau evenimentele se aplică. Utilizarea verbului "a putea" la forma reflexiv impersonală "se poate" sau "se pot" indică faptul că proiectantul are posibilitatea de a utiliza soluția prescrisă într-o prevedere, fără a institui obligativitate.
+(5)
+Capitolele cu caracter informativ cuprind prevederi cu caracter de recomandare, stabilite pe baza practicii inginerești generale.
+(6)
+Structura reglementării tehnice CR2-1-1.1 este următoarea: 1.
+Generalități
+2.
+Cerințe fundamentale
+3.
+Proiectarea seismică
+4.
+Valori de proiectare ale eforturilor
+5.
+Capacitate de rezistență
+6.
+Capacitate de deformare
+7.
+Alcătuire și armare
+8.
+Structuri prefabricate
+(7)
+Capitolele 1-8 au caracter normativ.
+1.3.
+Definiții (1)
+Definițiile termenilor specifici construcțiilor cu pereți structurali de beton armat, utilizați în această reglementare tehnică, sunt:
+Clădire: construcție supraterană și, după caz, subterană, având încăperi care servesc la adăpostirea oamenilor, materialelor etc.
+Consolidare: refacerea sau înnoirea oricărei componente structurale a unei clădiri cu scopul îmbunătățirii comportării structurii la diferite tipuri de acțiuni.
+Construcție existentă: construcție la care s-a efectuat recepția la terminarea lucrărilor, inclusiv construcția aflată în exploatare înainte de data intrării în vigoare a Hotărârii Guvernului nr. 273/1994 pentru aprobarea Regulamentului privind recepția construcțiilor, cu modificările și completările ulterioare.
+Diafragma orizontală: element structural care asigură angajarea solidară, coordonată, a elementelor verticale în preluarea forțelor seismice orizontale.
+Efect indirect: variația forței axiale dintr-un element structural vertical conectat prin elemente orizontale rigide și rezistente de alte elemente structurale verticale, ca urmare a acțiunilor orizontale.
+Grindă de cuplare: element structural orizontal, având raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mic sau egal cu 3,0, conectat rigid la capete cu două elemente structurale verticale.
+Goluri: cavități de orice formă dintr-un element structural sau nestructural.
+Perete (perete structural): element structural vertical cu raportul dimensiunilor laturilor secțiunii transversale l_w/b_w0 ≥ 4.
+Perete ductil: perete cu rotirea împiedicată la bază, dimensionat și alcătuit pentru a disipa energie prin deformații plastice de încovoiere în zona critică de la baza lui.
+Perete scurt: perete la care deschiderea normalizată de forță tăietoare este mai mică decât 2, influența forței tăietoare asupra comportării fiind preponderentă.
+Perete izolat: perete conectat de restul structurii prin elemente orizontale (plăci sau grinzi) cu rigiditate și rezistență mică la încovoiere.
+Perete cuplat: perete, parte dintr-un ansamblu de elemente verticale de care acesta este conectat prin grinzi ductile, dispuse regulat, astfel încât forța axială care se dezvoltă în perete ca urmare a încărcărilor orizontale asigură preluarea a cel puțin 30% din momentul de răsturnare al ansamblului, în faza de mecanism plastic, pe direcția de calcul.
+Perete compus: element structural compus din unul sau mai mulți pereți conectați pe verticală între ei astfel încât în cazul încovoierii sub acțiuni orizontale, ipoteza geometrică a secțiunilor plane să poată fi considerată validă.
+Reparație: refacerea sau înnoirea oricărei componente degradate a unei clădiri cu scopul de a obține caracteristici similare celor anterioare degradării.
+Reparație capitală: refacerea sau înnoirea tuturor componentelor esențiale degradate ale unei clădiri pentru a se asigura un nivel al funcțiunii similar celui anterior degradării.
+Sistem structural tip pereți: sistem structural la care pereții verticali, cuplați sau nu, preiau majoritatea forțelor tăietoare care se dezvoltă în elementele verticale, contribuția acestora la preluarea forțelor tăietoare la baza clădirii depășind 65% din forța tăietoare de bază.
+Sistem structural tip cadru: sistem structural la care încărcările verticale cât și cele orizontale sunt preluate în principal de cadre spațiale, contribuția stâlpilor la preluarea forței tăietoare la baza clădirii depășind 65% din forța tăietoare de bază.
+Sistem structural dual: sistem structural în care încărcările verticale sunt preluate în principal de cadre spațiale, în timp ce încărcările laterale sunt preluate parțial de sistemul în cadre și parțial de pereți structurali, individuali sau cuplați.
+Sistem structural dual cu pereți predominanți: sistem structural dual în care contribuția pereților la preluarea forței tăietoare, la baza clădirii, depășește 50% din forța tăietoare de bază.
+Sistem structural dual cu cadre predominante: sistem dual în care contribuția cadrelor la preluarea forței tăietoare, la baza clădirii, depășește 50% din forța tăietoare de bază.
+1.4.
+Unități de măsură (1)
+Se utilizează unitățile din Sistemul Internațional.
+(2)
+Pentru calcule sunt recomandate următoarele unități de măsură: -
+Dimensiuni: m, mm;
+-
+Eforturi și încărcări: kN, kN/m, kN/mp;
+-
+Masa: kg, t;
+-
+Masa specifică (densitate): kg/mc, t/mc;
+-
+Greutate specifică: kN/mc;
+-
+Eforturi unitare și rezistențe: N/mmp (MPa), kN/mp (kPa);
+-
+Momente (încovoietoare, de torsiune, etc.): kNm;
+-
+Accelerații: m/s^2;
+-
+Accelerația gravitațională: g (9,81 m/s^2).
+1.5.
+Simboluri (1)
+Se utilizează următoarele simboluri: a_g valoarea de proiectare a accelerației terenului b_0 lățimea carcasei zonei de capăt măsurată între axele armăturilor longitudinale, la extremitatea secțiunii transversale (lățimea miezului de beton confinat) b_f grosimea secțiunii transversale a tălpii unui perete sau dimensiunea secțiunii transversale a bulbului rectangular măsurată în lungul inimii peretelui b_w dimensiunea zonei de capăt a unui perete măsurată perpendicular pe planul inimii sau lățimea inimii unei grinzi b_w0 dimensiunea secțiunii transversale a inimii unui perete măsurată perpendicular pe planul median al acestuia (grosimea inimii) c factor de amplificare a valorilor deplasărilor d înălțimea utilă a secțiunii elementului d_f diametrul secțiunii transversale a bulbului circular d_bi diametrul armăturilor înclinate d_bL diametrul armăturilor longitudinale d_b,max diametrul maxim al armăturilor d_bw diametrul etrierilor sau al fretei (d_r)^LS deplasarea relativă de nivel cauzată de acțiunea seismică asociată SLS (d_r,a)^SLS valoarea admisibilă a deplasării relative de nivel în raport cu cerințele specifice verificării la SLS (d_r)^ULS deplasarea relativă de nivel cauzată de acțiunea seismică asociată ULS (d_r,a)^ULS valoarea admisibilă a deplasării relative de nivel în raport cu cerințele specifice verificării la ULS d_u valoarea convențională a deplasării orizontale ultime d_y valoarea convențională a deplasării de curgere d_V deplasarea la nivelul punctului de inflexiune măsurată în raport cu capătul considerat al elementului f_cd valoarea de proiectare a rezistenței la compresiune a betonului f_ck valoarea caracteristică a rezistenței la compresiune a betonului f_ctd valoarea de proiectare a rezistenței la întindere a betonului f_ctm valoarea medie a rezistenței la întindere a betonului f_yd valoarea de proiectare a limitei de curgere a oțelului f_yd,h valoarea de proiectare a limitei de curgere a armăturii orizontale f_yd,i valoarea de proiectare a limitei de curgere a armăturii înclinate f_yd,v valoarea de proiectare a limitei de curgere a armăturii verticale f_yk valoarea caracteristică a limitei de curgere a oțelului f_ywd valoarea de proiectare a limitei de curgere a armăturii transversale (eterilor) g accelerația gravitațională h înălțimea secțiunii transversale a unei grinzi h_cl înălțimea liberă a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestuia h_cr lungimea zonelor critice a pereților structurali de beton armat (lungimea măsurată pe verticală a zonei critice a peretelui) h_f grosimea plăcii h_w înălțimea secțiunii transversale a unei grinzi h_s înălțimea liberă a unui etaj k_M factor care ia în considerare incertitudinile legate de distribuția reală a momentelor încovoietoare din pereți corespunzătoare răspunsului dinamic în domeniu plastic k_V coeficient de amplificare a forțelor tăietoare din pereți l_bd lungimea de ancorare l_cl lungimea (deschiderea) liberă l_f lungimea secțiunii transversale a tălpii unui perete sau dimensiunea secțiunii transversale a bulbului rectangular măsurată perpendicular pe planul inimii peretelui l_w înălțimea secțiunii transversale a unui perete (dimensiunea secțiunii transversale a unui perete măsurată paralel cu planul median al inimii) s distanța între armăturile transversale
+A_c aria secțiunii brute de beton
+A_c,w aria inimii peretelui sau suma ariilor inimilor peretelui compus
+A_f aria secțiunii transversale a bulbului sau a tălpii unui perete
+A_s aria secțiunilor armăturilor
+A_s,ch aria secțiunilor armăturilor de colectare (din centură)
+E_c valoarea modulului de elasticitate al betonului
+E_d valoarea de proiectare a efortului în combinația seismică de proiectare, ținând seama și de efectele de ordinul 2, atunci când acestea sunt semnificative
+E_Fd valoarea de proiectare a efortului secțional
+E_F,E efortul secțional rezultat din calculul la acțiunea seismică de proiectare *
+E_F,G efortul secțional produs de alte acțiuni decât acțiunea seismică care sunt incluse în combinația seismică de proiectare
+F_d valoarea convențională a forței seismice de proiectare
+F_u valoarea convențională a forței orizontale ultime
+F_y valoarea convențională a forței de curgere
+H_w înălțimea peretelui, măsurată de la baza zonei critice până la partea superioară a peretelui
+L_i distanța măsurată de la mijlocul deschiderii libere a grinzii "i" până în centrul de greutate al secțiunii montantului considerat, pe direcția de acțiune a forței seismice
+L_V distanța de la baza zonei critice a peretelui la punctul de inflexiune al deformatei (punctul de moment nul)
+M_Ed valoarea de proiectare a momentului încovoietor
+M'_Ed momentele încovoietoare rezultate din calculul structural în combinația seismică de proiectare
+M'_Ed,0 valoarea momentului încovoietor rezultată din calcul static în combinația seismică de proiectare, la baza zonei critice
+M_g,0 momentul încovoietor rezultat din calculul structural sub încărcările gravitaționale corespunzătoare combinației seismice de proiectare, la baza peretelui
+M_Rd valoarea de proiectare a capacității de rezistență la moment încovoietor
+M_Rd,0 valoarea de proiectare a capacității de rezistență la moment încovoietor, la baza peretelui
+M_Rdb valoarea momentului capabil în grindă
+M_Rd,0 valoarea de proiectare a capacității de rezistență la moment încovoietor la baza unui perete
+N_Ed valoarea de proiectare a forței axiale în combinația seismică de încărcări
+R_d valoarea corespunzătoare a efortului capabil, calculată cu valorile de proiectare ale rezistențelor materialelor, pe baza modelelor mecanice specifice tipului de element structural
+V_Ed valoarea de proiectare a forței tăietoare
+V_Ed,0 valoarea de proiectare a forței tăietoare la baza zonei critice a peretelui
+V_Edb forța tăietoare dintr-o grinda, asociată atingerii capacității de rezistență la încovoiere a acesteia
+V_Rd valoarea de proiectare a capacității de rezistență la forță tăietoare
+V_Rd,max valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la compresiune diagonală
+V_Rd,s valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a armăturilor transversale (orizontale) la întindere/valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la lunecare în rosturi orizontale pre-fisurate
+V'_Ed valoarea forței tăietoare rezultată din calculul structural în combinația seismică de proiectare
+V'_Edb forța tăietoare din grindă rezultată din calcul structural sub încărcările seismice de proiectare γ_Rd factor ce ține seama de efectul incertitudinilor legate de model în ceea ce privește valorile de proiectare ale eforturilor capabile utilizate la estimarea eforturilor de calcul, în acord cu principiul proiectării capacității de rezistență; ține seama de diferitele surse de supra-rezistență θ_e rotirea corzii θ^ULS rotirea de bară (rotirea corzii), adică unghiul dintre secanta deformatei și axul barei la extremitatea unde intervine curgerea, cauzată de acțiunea seismică asociată Stării Limită Ultime (ULS) (θ_u)^ULS valoarea admisă a rotirii elementului (rotirea corzii) în raport cu cerințele specifice verificării la Starea Limită Ultimă vd efortul axial mediu normalizat în perete μ_f coeficientul de frecare în rost la acțiuni ciclice μ_θ factorul de ductilitate exprimat în rotire
+Csi_u înălțimea relativă a zonei comprimate a unui perete p coeficientul de armare omega_l coeficient mecanic de armare longitudinală σ_cp efortul unitar mediu de compresiune din perete Ω factor de supra-rezistență la încovoiere a unui perete ΣA_sh suma ariilor secțiunilor armăturilor orizontale ΣA_si suma ariilor secțiunilor armăturilor înclinate ΣA_sv suma ariilor secțiunilor armăturilor verticale ΣA_sw suma ariilor secțiunilor ramurilor etrierilor considerați în calcul
+1.6.
+Documente normative de referință (1)
+Documentele normative de referință sunt cele din tabelul 1.1. și cele din tabelul 1.2.
+Tabelul 1.1 Reglementări tehnice de referință
+Nr. crt.
+Reglementare
+1.
+Cod de proiectare. Bazele proiectării construcțiilor, indicativ CR 0 -2012, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 1.530/2012 și completat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.411/2013, denumit în continuare în acest document cod de proiectare CR 0 2
+Cod de proiectare seismică. Partea I. Prevederi de proiectare pentru clădiri, indicativ P 100-1/2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.465/2013, și completat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.956/2019, denumit în continuare în acest document cod de proiectare seismică P 100-1
+3.
+Cod de proiectare seismică. Partea a III-a. Prevederi pentru evaluarea seismică a clădirilor existente, indicativ P 100-3/2019, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.834/2019 4
+Cod de proiectare. Evaluarea acțiunii vântului asupra construcțiilor, indicativ CR 1-1-4 - 2012, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 1.751/2012 și completat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.413/2013, denumit în continuare în acest document cod de proiectare CR 1-1-4
+5.
+Cod de proiectare. Evaluarea acțiunii zăpezii asupra construcțiilor, indicativ CR 1-1-3 - 2012, aprobat prin Ordinul ministrului dezvoltării regionale și turismului nr. 1.655/2012 și completat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.414/2013, denumit în continuare în acest document cod de proiectare CR 1-1-3
+6.
+Normativ privind proiectarea fundațiilor de suprafață, indicativ NP 112 - 2014, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 2.352/2014, denumit în continuare în acest document normativ NP 112
+Tabelul 1.2 Standarde române de referință:
+Nr. crt.
+Standard
+Denumire 1
+SR EN 1992-1-1:2004
+Eurocod 2: Proiectarea structurilor de beton. Partea 1-1: Reguli generale și reguli pentru clădiri 2
+SR EN 1998-3:2004
+Eurocod 8: Proiectarea structurilor pentru rezistența la cutremur. Partea 3: Evaluarea și consolidarea construcțiilor 3
+SR EN 1991-1-1:2004
+Eurocod 1: Acțiuni asupra structurilor. Partea 1-1: Acțiuni generale. Greutăți specifice, greutăți proprii, încărcări utile pentru clădiri
+(2)
+Lista reglementărilor tehnice de referință dată în această reglementare tehnică se consultă împreună cu lista documentelor normative aflate în vigoare publicată de către autoritățile de reglementare de resort.
+(3)
+Se utilizează cele mai recente ediții ale standardelor române de referință, împreună cu, după caz, anexele naționale, amendamentele și eratele publicate de către organismul național de standardizare.
+(4)
+În cazul în care într-o anumită situație de proiectare se identifică în această reglementare tehnică sau în documentele normative de referință aplicabile prevederi distincte, se aplică prevederile care conduc la nivelul de performanță cel mai înalt în raport cu cerințele fundamentale ale proiectării specificate în capitolul 2.
+(5)
+În situațiile în care, la proiectarea structurilor cu pereți de beton armat, se identifică conflicte între prevederi din această reglementare tehnică și prevederi similare cuprinse în codul de proiectare P 100-1, se aplică prevederile din reglementarea tehnică publicată cel mai recent.
+2.
+Cerințe fundamentale (1)
+Această reglementare tehnică conține prevederi pentru proiectarea construcțiilor cu pereți de beton armat în vederea îndeplinirii cerinței fundamentale "rezistență mecanică și stabilitate".
+(2)
+Pentru îndeplinirea cerinței fundamentale "rezistență mecanică și stabilitate" sunt aplicate reglementările tehnice specifice împreună cu prevederile suplimentare date în această reglementare tehnică.
+(3)
+Construcțiile cu pereți structurali de beton armat sunt proiectate astfel încât să preia toate acțiunile din timpul execuției și exploatării, pentru stări limită ultime și stări limită de serviciu, în acord cu prevederile codului de proiectare CR 0.
+(4)
+Greutățile specifice ale materialelor de construcție și ale materialelor depozitate, greutățile proprii ale elementelor de construcție și încărcările utile pentru clădiri sunt stabilite conform SR EN 1991-1-1.
+(5)
+Încărcările din zăpadă sunt stabilite conform prevederilor codului de proiectare CR 1-1-3.
+(6)
+Încărcările din vânt sunt stabilite conform prevederilor codului de proiectare CR 1-1-4.
+(7)
+Proiectarea structurilor de beton armat la acțiuni gravitaționale și la acțiunea vântului este realizată în acord cu prevederile SR EN 1992-1-1.
+(8)
+Proiectarea la acțiunea seismică a elementelor structurale și componentelor nestructurale este realizată conform prevederilor codului de proiectare P 100-1 și a codului de proiectare CR 2-1-1.1.
+(9)
+La proiectarea infrastructurilor și fundațiilor se aplică prevederile normativului NP 112 și ale codului de proiectare P 100-1 împreună cu prevederile suplimentare date în codul de proiectare CR 2-1-1.1.
+(10)
+Cerințele fundamentale pentru proiectarea seismică a clădirilor cu pereți structurali de beton armat și stările limită asociate (Starea Limită Ultimă, ULS, și Starea Limită de Serviciu, SLS), sunt cele definite în codul de proiectare P 100-1, unde sunt indicate și intervalele medii de recurență (IMR) ale acțiunilor seismice luate în considerare pentru cele două stări limită.
+(11)
+Pentru îndeplinirea cerințelor fundamentale ale proiectării seismice a clădirilor cu pereți structurali de beton armat sunt îndeplinite cerințele specifice de calitate, conform prevederilor capitolelor 3 - 8.
+3.
+Proiectarea seismică (1)
+La proiectarea seismică a pereților, grinzilor de cuplare și planșeelor cu rol de diafragmă orizontală pentru următoarele tipuri de sisteme structurale: (a) sistem structural tip pereți cuplați sau izolați;
+(b) sistem structural dual cu pereți predominați sau cu cadre predominante, este aplicată această reglementare tehnică.
+(2)
+Elementele structurale ale clădirilor cu pereți structurali de beton armat, altele decât cele menționate la (1), sunt proiectate la acțiuni seismice în acord cu prevederile codului de proiectare P 100-1 sau a reglementărilor tehnice specifice.
+(3)
+Prin proiectarea seismică a construcțiilor cu pereți sunt controlate următoarele caracteristici ale structurii: (a) rezistență;
+(b) rigiditate;
+(c) ductilitate;
+(d) stabilitate.
+(4)
+Controlul caracteristicilor de rezistență, rigiditate și ductilitate este realizat coroborat, ținând seama de influența cumulată a acestor proprietăți asupra răspunsului structural de ansamblu.
+(5)
+Construcția cu pereți de beton armat este proiectată pentru una dintre clasele de ductilitate, în condițiile specificate în codul de proiectare P 100-1.
+(6)
+În cazul clasei de ductilitate înaltă DCH sau clasei de ductilitate medie DCM, proiectarea este realizată în acord cu principiile metodei ierarhizării capacităților de rezistență (metoda de proiectare la capacitate).
+(7)
+În cazul clasei de ductilitate DCH sau DCM, răspunsul seismic favorabil este realizat prin formarea unui mecanism plastic cu capacitate optimă de disipare a energiei indusă de acțiunea seismică orizontală.
+(8)
+Elementele structurale care se deformează plastic suferă degradări care pot necesita lucrări de reparație post-cutremur. 3.1.
+Mecanismul plastic (1)
+Mecanismul plastic optim, având capacitate optimă de disipare a energiei indusă de acțiunea seismică orizontală, are următoarele caracteristici: (a) deformațiile plastice sunt produse din încovoierea elementelor structurale, la baza pereților structurali și în grinzile de cuplare;
+(b) deformațiile plastice ale elementelor structurale sunt moderate și distribuite uniform în ansamblul structurii;
+(c) elementele structurale au capacitate de deformare plastică suficientă, în raport cu deformațiile plastice așteptate la incidența cutremurului de proiectare, în condițiile unei comportări histeretice stabile;
+(d) elementele structurale sunt alcătuite astfel încât se evită orice tip de rupere fragilă.
+(2)
+Planșeele răspund elastic la încărcări paralele cu planul median al acestora.
+(3)
+Infrastructura și fundațiile răspund în domeniul elastic.
+(4)
+Prin excepție de la (1), în cazul grinzilor de cuplare armate diagonal, deformațiile plastice se produc din curgerea armăturilor diagonale ca efect al eforturilor de întindere care se dezvoltă în lungul diagonalei grinzii.
+(5)
+Prin excepție de la (3), în situații de proiectare în care nu poate fi asigurat un răspuns elastic al tuturor elementelor infrastructurii, se admit deformații plastice din încovoiere ale acestor elemente dacă este asigurat accesul pentru inspecție și reparație după incidența cutremurului de proiectare. La stabilirea configurației mecanismului plastic se ține seama de deformația plastică a acestor elemente.
+Notă: Elementele infrastructurii care sunt în contact direct cu terenul pe una sau mai multe laturi nu îndeplinesc condiția privind asigurarea accesului pentru inspecție și reparație.
+3.2.
+Cerințe de rezistență, rigiditate, ductilitate și stabilitate 3.2.1.
+Rezistență (1)
+Capacitatea de rezistență a construcției în ansamblu la acțiuni orizontale, pe fiecare direcție ortogonală principală, este mai mare sau egală decât forța tăietoare de bază stabilită conform codului de proiectare P 100-1. Pentru această verificare, capacitatea de rezistență a construcției în ansamblu la acțiuni orizontale corespunde valorilor de proiectare ale rezistențelor materialelor și acțiunii unor forțe orizontale aplicate static, distribuite conform rezultatelor analizei modale pentru modul fundamental de vibrație, pe fiecare direcție considerată.
+(2)
+Prevederea de la (1) nu se aplică structurilor izolate seismic.
+(3)
+Pentru fiecare element structural este îndeplinită condiția:
+E_d ≤ R_d (3.1) exprimată în termeni de rezistență, unde:
+E_d valoarea de proiectare a efortului în combinația seismică de proiectare, ținând seama și de efectele de ordinul 2, atunci când acestea sunt semnificative;
+R_d valoarea corespunzătoare a efortului capabil, calculată cu valorile de proiectare ale rezistențelor materialelor, pe baza modelelor mecanice specifice tipului de element structural.
+(4)
+Condiția de la (3) este îndeplinită pentru toate elementele structurale, pe toată lungimea acestora.
+(5)
+Elementele structurale au o capacitate suficientă de rezistență astfel încât să fie posibil un traseu complet, fără întreruperi și cât mai scurt, al încărcărilor de la locul unde sunt aplicate până la terenul de fundare.
+3.2.2.
+Rigiditate (1)
+Structurile au rigiditate suficientă la acțiuni seismice orizontale pe ambele direcții principale și rigiditate la torsiune de ansamblu, în acord cu prevederile codului de proiectare P 100-1.
+(2)
+Rigiditatea structurii la acțiuni seismice este suficient de mare pentru limitarea deplasărilor orizontale la Starea Limită de Serviciu, SLS, în acord cu prevederile codului de proiectare P 100-1. (d_r)^SLS ≤ (d_r,a)^SLS (3.2) unde: (d_r)^SLS deplasarea relativă de nivel cauzată de acțiunea seismică asociată SLS; (d_r,a)^SLS valoarea admisibilă a deplasării relative de nivel în raport cu cerințele specifice verificării la SLS.
+Notă: Această condiție asigură că la nivelul clădirii, în ansamblu, degradările elementelor nestructurale sunt limitate. Totuși, în cazul structurilor cu pereți, pot apărea local degradări mai mari ale elementelor nestructurale din cauza distribuției neuniforme a deformațiilor la fiecare nivel.
+3.2.3.
+Ductilitate (1)
+Prevederile privind ductilitatea sunt aplicate în cazul clădirilor proiectate pentru clasa de ductilitate DCM sau DCH.
+(2)
+Exigențele privind ductilitatea structurii în ansamblu la acțiuni seismice orizontale sunt asigurate prin: (a) ierarhizarea corectă a capacităților de rezistență ale elementelor structurale;
+(b) limitarea deformațiilor plastice ale structurii la incidența cutremurului de proiectare;
+(c) asigurarea ductilității locale a elementelor structurale care se deformează în domeniul plastic.
+(3)
+Pentru ierarhizarea capacităților de rezistență la încovoiere, elementele structurale au capacități de rezistență la încovoiere, cu sau fără forță axială, calibrate astfel încât, la incidența cutremurului de proiectare, zonele de deformare plastică din încovoiere se dezvoltă în pozițiile indicate la 3.1.
+(4)
+Prin ierarhizarea capacităților de rezistență este asigurată, la incidența cutremurului de proiectare, limitarea valorilor eforturilor care pot produceri ruperi de tip fragil cum sunt: (a) ruperea la forță tăietoare în secțiuni înclinate;
+(b) ruperea la forțe de lunecare, în lungul rosturilor de lucru sau în lungul altor secțiuni pre-fisurate;
+(c) ruperea ancorajelor armăturilor.
+(5)
+Pentru oricare alt tip de rupere fragilă, sunt asigurate capacități de rezistență ale elementelor structurale mai mari decât eforturile care se pot dezvolta la incidența cutremurului de proiectare, corespunzătoare fiecărui tip de rupere.
+(6)
+Limitarea incursiunilor în domeniul plastic ale structurii în ansamblu la incidența cutremurului de proiectare este realizată prin limitarea deplasărilor laterale ale structurii la Starea Limită Ultimă, ULS, în acord cu prevederile codului de proiectare P 100-1. (d_r)^ULS ≤ (d_r,a)^ULS (3.3) unde: (d_r)^uls deplasarea relativă de nivel cauzată de acțiunea seismică asociată Stării Limită Ultime; (d_r,a)^ULS valoarea admisibilă a deplasării relative de nivel în raport cu cerințele specifice verificării la Starea Limită Ultimă.
+(7)
+Pentru elementele structurale este îndeplinită condiția privind verificarea ductilității locale la încovoiere la Starea Limită Ultimă: θ^ULS ≤ (θ_u)^ULS (3.4) unde: θ^ULS rotirea de bară (rotirea corzii), adică unghiul dintre secanta deformatei și axul barei la extremitatea unde intervine curgerea, cauzată de acțiunea seismică asociată ULS; (θ_u)^ULS valoarea admisă a rotirii elementului (rotirea corzii) în raport cu cerințele specifice verificării la Starea Limită Ultimă.
+Notă: Condiția exprimată prin ecuația (3.4) se aplică pentru toate elementele care pot dezvolta articulații plastice, conform mecanismului plastic optim. Prevederi privind verificarea ductilității grinzilor și stâlpilor sunt date în codul de proiectare P 100-1.
+(8)
+Asigurarea ductilității locale a elementelor structurale care se deformează în domeniul plastic este realizată prin măsuri constructive de alcătuire și armare, în acord cu prevederile capitolului 7.
+(9)
+Pentru pereți și grinzi de cuplare este verificată explicit prin calcul capacitatea de deformare plastică locală, în acord cu prevederile acestei reglementări tehnice și codului de proiectare P 100-1.
+(10)
+Valorile rotirilor la incidența cutremurului de proiectare, asociat Stării Limită Ultime θ^ULS, sunt stabilite conform prevederilor codului de proiectare P 100-1, printr-una sau mai multe dintre următoarele metode de calcul structural: (a) prin calcul static liniar, cu transformarea valorilor rotirilor rezultate din calculul structural pentru a cuantifica neliniaritatea răspunsului structural așteptat la incidența cutremurului de proiectare;
+(b) prin calcul static neliniar, considerând rotirile corespunzătoare cerinței de deplasare determinată conform codului de proiectare P 100-1;
+(c) prin calcul dinamic neliniar, utilizând accelerograme compatibile cu spectrul de proiectare.
+(11)
+Transformarea valorilor rotirilor rezultate din calculul structural efectuat printr-o metodă de calcul static liniar pentru a cuantifica neliniaritatea răspunsului structural așteptat la incidența cutremurului de proiectare este realizată conform prevederilor codului de proiectare P 100-1, prin utilizarea factorului de amplificare a deplasărilor, c.
+(12)
+În cazul utilizării metodei de calcul neliniar, în aplicarea relației (3.4), valorile rotirilor elementelor structurale la incidența cutremurului de proiectare, θ^ULS sunt valorile corespunzătoare cerinței de deplasare la Starea Limită Ultimă.
+(13)
+Prin excepție de la (7), se admite să existe grinzi de cuplare armate diagonal pentru care nu este îndeplinită condiția (3.4) dacă sunt îndeplinite cumulativ următoarele condiții: (a) rotirea de bară (rotirea corzii), θ^ULS, este mai mică de 0,06 rad;
+(b) capacitatea de rezistență a construcției în ansamblu la acțiuni orizontale, pe fiecare direcție ortogonală principală, corespunzătoare deplasării așteptate sub acțiunea seismică de proiectare, este mai mare decât forța tăietoare de bază stabilită conform codului de proiectare P 100-1, fără considerarea contribuției acestor grinzi;
+(c) este asigurată stabilitatea clădirii, local și în ansamblu, fără considerarea contribuției acestor grinzi;
+(d) este asigurată configurația mecanismului plastic dată la 3.1;
+(e) determinarea rotirii se realizează prin calcul static neliniar;
+(f) aceste grinzi pot fi reparată după cutremur.
+3.2.4.
+Stabilitate (1)
+Structura în ansamblu, diferitele subansamble și elementele structurale sunt stabile geometric. În acest scop elementele și structurile au forme și dimensiuni potrivite, în acord cu valorile de proiectare ale acțiunilor.
+(2)
+Stabilitatea locală a pereților în zonele comprimate este asigurată prin: (a) alegerea unor forme potrivite ale secțiunilor transversale ale pereților, în special prin asigurarea unei lățimi minime a peretelui în zonele de capăt ale secțiunilor transversale;
+(b) limitarea superioară a înălțimii libere a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestuia;
+(c) limitarea superioară a forței axiale din zona comprimată a peretelui.
+(3)
+Stabilitatea locală a plăcilor de beton, parte a planșeelor cu rol de diafragmă orizontală, solicitate la eforturi de compresiune paralele cu planul median, este asigurată prin: (a) limitarea inferioară a grosimii plăcii;
+(b) limitarea superioară a deschiderii libere a plăcii pe direcția de încărcare la compresiune, măsurată între punctele de legătură care constituie reazeme pentru placă, restricționând deplasările în direcție perpendiculară pe planul acesteia;
+(c) limitarea superioară a forței axiale care se dezvoltă în placă.
+(4)
+Structura este stabilă la răsturnare și la lunecare, prin utilizarea unui sistem de fundare adecvat caracteristicilor fizico-mecanice ale terenului de fundare.
+(5)
+Structura este stabilă la torsiune de ansamblu prin așezarea potrivită în plan orizontal a pereților și a celorlalte subsisteme structurale, după caz.
+Notă: Această condiție este îndeplinită prin dispunerea de subsisteme structurale rigide și rezistente la acțiuni orizontale, aliniate după planuri verticale ortogonale, care asigură rigiditatea și rezistența la torsiune a structurii.
+3.2.5.
+Zone critice (1)
+În cazul clădirilor proiectate pentru clasa de ductilitate DCH sau DCM, cerințele calitative de rezistență, rigiditate, ductilitate și stabilitate locală sunt detaliate prin cerințe prescriptive diferite pentru zonele critice și zonele de răspuns elastic.
+(2)
+Zonele critice ale elementelor structurale reprezintă acele zone în care armăturile longitudinale pot intra în curgere la acțiunea cutremurului de proiectare.
+(3)
+Poziția zonelor critice este în acord cu mecanismul plastic optim al structurii.
+(4)
+Lungimea zonelor critice a pereților structurali de beton armat, h_cr, îndeplinește condiția: h_cr ≥ max. (l_w, H_w/6) (3.5) unde:
+H_w înălțimea peretelui, măsurată de la baza zonei critice până la partea superioară a peretelui; l_w înălțimea secțiunii transversale a peretelui.
+(5)
+În cazul structurilor multietajate, lungimea zonelor critice a pereților structurali de beton armat, h_cr, se poate limita superior la: (a) h_s, pentru clădiri cu cel mult șase niveluri supraterane;
+(b) 2h_s, pentru clădiri cu mai mult de șase niveluri supraterane;
+(c) 2l_w;
+unde: h_s este înălțimea etajului în zona critică; l_w este înălțimea secțiunii transversale a peretelui.
+(6)
+În cazul clădirilor multietajate, h_cr se rotunjește în plus la un număr întreg de niveluri, dacă limita zonei plastice determinată conform relației (3.5) depășește înălțimea unui nivel cu mai mult de 0,2h_s și în minus, în cazul contrar, unde h_s este înălțimea etajului în zona critică.
+(7)
+Lungimea zonelor critice ale grinzilor de cuplare cu raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mic sau egal decât 3 se ia egală cu lungimea grinzii.
+(8)
+Lungimea zonelor critice ale grinzilor având raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mare decât 3 se stabilește conform prevederilor pentru grinzi lungi din codul de proiectare P 100-1.
+3.3.
+Calcul structural 3.3.1.
+Metode de calcul (1)
+Stabilirea eforturilor și deformațiilor din elementele structurale pentru clădiri proiectate pentru clasa de ductilitate DCH sau DCM este realizată prin calcul structural, utilizând una sau mai multe dintre următoarele metode de calcul: (a) metoda de calcul static liniar: metoda forțelor laterale statice echivalente și/sau metoda calculului modal cu spectre de răspuns;
+(b) metoda de calcul static neliniar;
+(c) metoda de calcul dinamic neliniar.
+(2)
+La proiectarea structurilor cu pereți de beton armat pentru clasa de ductilitate DCH, din clasele de importanță și expunere la cutremur I sau II, este utilizată cel puțin o metodă de calcul static liniar și metoda de calcul static neliniar.
+(3)
+În cazul structurilor care au pereți solicitați la forțe axiale de întindere în situația formării mecanismului plastic de ansamblu al structurii se recomandă verificarea structurii prin metoda de calcul static neliniar.
+(4)
+În cazul structurilor la care pereții sunt cuplați prin grinzi care nu sunt paralele cu planul median al inimii pereților este realizată verificarea structurii prin metoda de calcul static neliniar.
+(5)
+Stabilirea eforturilor și deformațiilor din elementele structurale pentru clădiri proiectate pentru clasa de ductilitate DCL se poate face printr-una dintre metodele de calcul liniar.
+3.3.2.
+Calcul static liniar 3.3.2.1.
+Modelul de calcul (1)
+Cerințe minimale privind alcătuirea modelului de calcul pentru structuri cu pereți de beton armat, indiferent de clasa de importanță și expunere la cutremur, sunt date în acest paragraf.
+(2)
+Modelul de calcul este tridimensional și cuprinde toate elementele structurale și elementele nestructurale care pot afecta răspunsul elasto-plastic al structurii la acțiunea cutremurului de proiectare, în poziția din proiect.
+Nota: Elemente nestructurale care pot afecta răspunsul elasto-plastic al structurii sunt, de exemplu, pereții masivi de zidărie închiși în ochiurile cadrelor. Modelarea acestor pereți nu este necesară dacă, la fiecare nivel al clădirii, rigiditatea și rezistența lor la acțiuni orizontale este redusă în comparație cu rigiditatea și rezistența ansamblului structural sau dacă aceștia sunt izolați de structură prin rosturi pe trei laturi.
+(3)
+Modelul de calcul de complexitate minimală cuprinde toate elementele structurale și legăturile dintre acestea și este rezemat prin blocarea deplasărilor verticale și orizontale la partea inferioară a infrastructurii.
+(4)
+Pentru calculul eforturilor în elementele infrastructurii și a presiunilor pe teren, modelul de calcul de complexitate minimală este rezemat în direcție verticală pe resorturi unidirecționale, cu comportare elastică la compresiune și fără rezistență la întindere, și având blocate deplasările orizontale la partea inferioară a infrastructurii.
+(5)
+Modelarea rezemării pe teren indicată la (4) este recomandată și pentru calculul eforturilor și deformațiilor din suprastructură.
+(6)
+În cazul în care nu este identificat un model cu care să se poată calcula valori acoperitoare ale eforturilor și/sau deformațiilor în toate elementele structurale, sunt utilizate mai multe modele, bazate pe strategii de modelare diferite, pentru determinarea celor mai defavorabile situații de solicitare ale elementelor structurale, în strict acord cu regulile proiectării la capacitate.
+(7)
+Modelarea pereților este realizată minimal prin elemente de suprafață cu comportare de membrană, poziționate în planul inimii peretelui.
+(8)
+Modelarea grinzilor de cuplare este realizată minimal prin elemente de tip bară solicitate la încovoiere, forță tăietoare pe două direcții și torsiune.
+(9)
+Pentru grinzi de cuplare având raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mic decât 2,o se recomandă modelarea utilizând elemente de suprafață cu comportare de membrană la acțiuni paralele cu planul lor median, poziționate paralel cu planul median al inimii grinzii.
+(10)
+Modelarea stâlpilor și grinzilor lungi este realizată minimal prin elemente de tip bară solicitate la încovoiere și forță tăietoare pe două direcții și torsiune.
+(11)
+Modelarea plăcilor componente ale planșeelor este realizată minimal prin elemente de suprafață cu comportare de membrană, poziționate paralel cu planul plăcii.
+(12)
+În calcul eforturilor și deformațiilor se consideră deformabilitatea planșeelor la acțiuni paralele cu planul median al plăcilor. Se consideră cu caracter minimal răspunsul în domeniul elastic.
+(13)
+Prin excepție de la (12), se pot modela ca nedeformabile la acțiuni paralele cu planul median al plăcilor, planșeele din suprastructură în cazul structurilor care îndeplinesc condițiile privind regularitatea în plan orizontal și în elevație (plan vertical) date în codul de proiectare P 100-1, cu excepția planșeelor situate sub zona critică a pereților de beton ai suprastructurii.
+3.3.2.2.
+Modelarea rigidității (1)
+La modelarea rigidității elementelor structurale sunt considerate efectele fisurării betonului.
+(2)
+Rigiditatea la încovoiere pentru pereți, grinzi lungi, grinzi de cuplare, stâlpi și plăci de beton armat este considerată egală cu jumătate din valoarea corespunzătoare secțiunii brute, nefisurată.
+(3)
+Rigiditatea la forță axială în planul lor a plăcilor componente ale planșeelor este considerată egală cu o,7o din valoarea corespunzătoare secțiunii brute, nefisurate.
+(4)
+Prin excepție de la (2) și (3), la calculul eforturilor în structuri cu pereți de beton, se pot alege valori diferite ale factorului de reducere a rigidității la încovoiere și, respectiv, la forță axială ca urmare a fisurării betonului, dacă acestea se determină pe baza modelelor de calcul date în SR EN 1992-1-1, pe baza alcătuirii efective a fiecărui element și a stării de eforturi așteptate.
+(5)
+Prin excepție de la (2), la calculul eforturilor în structuri cu pereți de beton, se pot utiliza următorii factori de reducere a rigidității la încovoiere: (a) pentru pereți structurali: - 0,80 pentru v_d = 0,40;
+- 0,40 pentru v_d = 0;
+- 0,10 pentru v_d = -0,20;
+unde v_d este efortul axial mediu normalizat în perete, stabilit pe baza forței axiale din combinația seismică de proiectare;
+(b) pentru grinzi de cuplare: - 0,20, pentru grinzi armate cu carcase ortogonale;
+- 0,40, pentru grinzi armate cu carcase diagonale.
+Pentru valori intermediare ale efortului axial mediu normalizat față de cele precizate la (5) (a), valorile factorilor de reducere a rigidității la încovoiere se stabilesc prin interpolare liniară.
+3.3.3.
+Calcul static neliniar 3.3.3.1.
+Modelul de calcul (1)
+În cazul utilizării metodei de calcul static neliniar, la realizarea modelului pentru calcul structural sunt aplicate prevederile de la 3.3.2 împreună cu prevederile suplimentare date în acest paragraf.
+(2)
+Modelarea răspunsului neliniar al elementelor structurale este realizat astfel încât să se poată identifica mecanismul plastic al structurii sub acțiuni seismice.
+(3)
+Modelarea pereților este realizată minimal prin elemente de suprafață de tip membrană, poziționate în planul inimii peretelui, cu comportare neliniară. Modelul pereților permite identificarea variației poziției axei neutre a pereților în funcție de momentul încovoietor aplicat în planul inimii.
+(4)
+Alternativ prevederii de la (3), modelarea pereților se poate realiza și utilizând macro- elemente cu comportare neliniară calibrate pentru acest tip de elemente, dacă acestea permit identificarea variației poziției axei neutre a pereților în funcție de momentul încovoietor aplicat în planul inimii.
+(5)
+Modelarea grinzilor lungi și a stâlpilor este realizată minimal prin elemente de tip bară, solicitate la încovoiere, forță tăietoare pe două direcții și torsiune, cu neliniaritate fizică, având plasticitate concentrată sau distribuită.
+(6)
+Pentru grinzi de cuplare având raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mic decât 2,0 se recomandă modelarea utilizând elemente de suprafață de tip membrană cu comportare neliniară sau macro-modele cu comportare neliniară calibrate pentru acest tip de elemente.
+(7)
+Pentru modelarea capacității de rezistență la încovoiere a elementelor structurale sunt utilizate valorile caracteristice ale rezistențelor oțelului și betonului. Legile constitutive ale oțelului și betonului, σ-epsilon, sunt stabilite conform prevederilor SR EN 1992-1-1. Se poate utiliza modelul de confinare prevăzut de SR EN 1992-1-1 pentru modelarea comportării miezului de beton confinat, la decizia proiectantului. Rezistența betonului la întindere se neglijează. Legea constitutivă de comportare a oțelului evidențiază consolidare post-elastică (creșterea efortului unitar de întindere sau compresiune, după curgere).
+(8)
+Capacitatea de rotire a elementelor cu răspuns neliniar la încovoiere este stabilită conform prevederilor capitolului 6.
+(9)
+Acțiunea seismică este modelată utilizând două moduri de distribuție a forțelor seismice orizontale pe înălțimea clădirii, astfel: (a) un mod de distribuție în care forțele laterale sunt proporționale cu masele de nivel;
+(b) un mod de distribuție rezultat din analiza modală pentru modul predominant de vibrație.
+(10)
+Alternativ prevederii de la (9), (b), în cazul clădirilor având masele de nivel aproximativ egale pe înălțime, se poate utiliza o distribuție simplificată considerând o formă liniară a modului fundamental de vibrație (distribuție triunghiulară).
+3.3.3.2.
+Legea de răspuns forță orizontală - deplasare orizontală (1)
+Pentru determinarea valorilor convenționale ale capacității de rezistență la forțe orizontale a structurii în ansamblu și a deplasărilor orizontale corespunzătoare, legea de răspuns forță orizontală - deplasare orizontală determinată prin calcul static neliniar este transformată în format biliniar.
+(2)
+Transformarea în format biliniar este realizată prin identificarea valorilor convenționale ale forțelor orizontale și deplasărilor orizontale asociate curgerii de ansamblu a structurii și cerinței de deplasare la Starea Limită Ultimă.
+(3)
+Valoarea convențională a deplasării orizontale ultime, du, corespunzătoare legii de răspuns în format biliniar, este egală cu cerința de deplasare a sistemului cu mai multe grade de libertate dinamică (MDOF), determinată conform prevederilor codului de proiectare P 100-1, împreună cu prevederile suplimentare date în acest paragraf.
+Notă: Prevederile acestui paragraf se referă la transformarea legii de răspuns determinată prin calcul neliniar într-o lege de răspuns în format biliniar astfel încât să se țină seama că în multe situații legea de răspuns determinată prin calcul static neliniar evidențiază creșterea semnificativă a forței orizontale și după curgerea de ansamblu a structurii.
+(4)
+Valoarea convențională a forței orizontale ultime, F_u, este egală cu valoarea forței orizontale, determinată prin calcul static neliniar, corespunzătoare cerinței de deplasare, asociată cutremurului de proiectare, d^ULS.
+(5)
+Valoarea convențională a pantei în origine a legii de răspuns în format biliniar este stabilită astfel încât segmentul de răspuns cvasi-elastic intersectează legea de răspuns determinată prin calcul static neliniar la o valoare a forței orizontale egală cu 60% din valoarea convențională a forței de curgere, F_y.
+(6)
+Valoarea convențională a deplasării de curgere, d_y, și forței de curgere, F_y, este stabilită astfel încât energia de deformare elasto-plastică corespunzătoare legii de răspuns în format biliniar este egală cu cea corespunzătoare legii de răspuns determinată prin calcul static neliniar.
+Figura 3.1 Schematizarea legii de răspuns forță orizontală - deplasare orizontală
+3.4.
+Alcătuirea generală a structurilor (1)
+La stabilirea configurației structurii și a modului de dispunere a pereților în planul construcției, sunt respectate prevederile din codul de proiectare P 100-1 împreună cu prevederile suplimentare prezentate în acest capitol.
+(2)
+La stabilirea formei și a alcătuirii de ansamblu a construcțiilor, se recomandă alegerea de contururi regulate în plan orizontal, compacte, convexe și simetrice. Se recomandă evitarea disimetriilor pronunțate în distribuția volumelor, a maselor, a rigidităților și a capacităților de rezistență ale pereților și ale celorlalte componente structurale, în vederea limitării efectelor de torsiune generală la acțiunea seismică și a altor efecte structurale defavorabile.
+(3)
+Poziția centrului de rezistență al structurii la baza acesteia este apropiată de poziția centrului de rigiditate. Distanța dintre acestea nu depășește 10% din dimensiunea în plan a clădirii, pe direcție perpendiculară pe direcția de acțiune seismică.
+Notă: Pentru o direcție principală de acțiune seismică orizontală, poziția centrului de rezistență reprezintă poziția rezultantei forțelor tăietoare asociate formării mecanismului plastic de la baza zonei critice.
+(4)
+Prin alcătuirea structurii este realizat un traseu cât mai scurt de transmitere a eforturilor generate de încărcările verticale și orizontale la terenul de fundare.
+(5)
+Se recomandă ca, la fiecare nivel, planșeul să fie realizat cu continuitate (placa să fie continuă, la aceeași cotă).
+(6)
+Se recomandă ca distribuția în plan orizontal a pereților să fie aceeași la toate nivelurile, astfel ca aceștia să se suprapună pe verticală.
+(7)
+Se recomandă utilizarea pereților având forme simple ale secțiunii transversale: secțiuni lamelare (dreptunghiulare) și/sau secțiuni cu bulbi sau tălpi cu dezvoltare limitată, la ambele capete ale secțiunii transversale.
+(8)
+Se recomandă utilizarea pereților fără disimetrii pronunțate ale secțiunii transversale (cum ar fi, de exemplu, pereți cu tălpi dezvoltate numai la una dintre extremitățile secțiunii transversale). Face excepție situația în care pereții sunt grupați sub formă de nuclee și sunt cuplați între ei astfel încât să se asigure un răspuns unitar la acțiuni orizontale.
+(9)
+Se recomandă ca lungimea inimii pereților să se păstreze constantă pe înălțimea construcției. Dacă lungimea inimii pereților variază pe înălțime, prin evazare sau retragere, se iau măsuri constructive pentru asigurarea ductilității locale. În acest caz se recomandă verificarea structurii prin calcul neliniar.
+(10)
+Prin modul de realizare a pereților structurii, aceștia prezintă cerințe de ductilitate similare. Acest obiectiv este obținut realizând valori ale momentelor capabile cât mai apropiate de valorile de proiectare.
+(11)
+Pereții solicitați puternic la moment încovoietor sunt poziționați astfel încât să fie încărcați axial mai puternic, în limitele stabilite prin această reglementare tehnică.
+(12)
+Se recomandă dispunerea pereților preponderent în lungul a două direcții perpendiculare în plan orizontal. Se recomandă ca rigiditățile structurii la acțiuni orizontale pentru cele două direcții principale să fie apropiate ca valoare. În cazul construcțiilor de formă cvasi-dreptunghiulară în plan, se recomandă ca direcțiile de dispunere a pereților să fie paralele cu laturile construcției.
+(13)
+Se recomandă ca prin alcătuirea generală a structurii să se limiteze valorile momentelor încovoietoare din pereți produse de încărcările verticale, altele decât cele seismice.
+(14)
+În cazul clădirilor proiectate pentru clasele de ductilitate DCH sau DCM, se recomandă să nu se utilizeze pereți dispuși pe mai multe direcții care se intersectează și determină formarea unor pereți compuși cu dezvoltare mare în plan orizontal și secțiuni transversale complexe.
+Nota: Pereții cu secțiuni nesimetrice se pot rupe fragil pentru unul dintre sensurile de acțiune orizontală paralelă cu planul inimii peretelui.
+(15)
+La pereții cu goluri decalate pe verticală, se recomandă ca plinul pe orizontală dintre golurile la două niveluri succesive să fie mai mică sau egală decât 800 mm lungime și 3b_w0, unde b_w0 este lățimea inimii peretelui.
+(16)
+La proiectarea structurilor cu pereți sunt avute în vedere, în afara fazei de exploatare și situațiile care apar pe parcursul execuției, în care lipsa unor elemente încă neexecutate (de exemplu, a planșeelor), pot impune măsuri suplimentare în vederea asigurării stabilității.
+(17)
+Se recomandă ca grinda de cuplare să aibă lățimea mai mică sau egală cu lățimea inimii pereților pe care îi cuplează. Fac excepție situațiile în care grinda cuplează un perete cu bulb la capătul unde se realizează cuplajul ale cărui dimensiuni permit ancorarea barelor din grindă. 3.4.1.
+Planșee (1)
+Alcătuirea planșeelor satisface condițiile precizate în codul de proiectare P 100-1, împreună cu prevederile din acest paragraf.
+(2)
+Planșeele sunt realizate astfel încât să se asigure îndeplinirea cerințelor de rezistență și de rigiditate, pentru încărcări verticale și orizontale.
+(3)
+Modul de alcătuire a planșeelor este corelat cu distanțele dintre pereții structurali astfel încât să se asigure comportarea de diafragmă orizontală rigidă și rezistentă.
+(4)
+Planșeele realizate monolit au comportare optimă de diafragmă orizontală rigidă și rezistentă. Planșeele pot fi realizate și parțial sau integral prefabricat dacă se asigură comportarea de diafragmă orizontală rigidă și rezistentă.
+(5)
+Golurile din planșee se dispun astfel încât, coroborat cu măsurile de alcătuire a planșeelor, să nu se afecteze comportarea de diafragmă orizontală rigidă și rezistentă.
+3.4.2.
+Rosturi (1)
+În funcție de necesitate, sunt prevăzute rosturi de dilatare-contracție, rosturi seismice și/sau rosturi de tasare.
+(2)
+Dispunerea rosturilor seismice și lățimea acestora este realizată în acord cu prevederile din codul de proiectare P 100-1.
+(3)
+Se recomandă ca lungimea, L, a tronsoanelor de clădire și lungimea, l, dintre capetele extreme ale pereților (Figura 3.2) să nu depășească valorile prevăzute în Tabelul 3.1., în vederea reducerii eforturilor din deformații împiedicate și din torsiunea de ansamblu a clădirii la acțiuni seismice.
+Figura 3.2 Limitarea dimensiunilor tronsoanelor
+Tabelul 3.1 Dimensiuni maxime ale tronsoanelor
+Tipuri de planșeu
+L(m), B(m) l (m), b (m)
+Planșeu din beton armat monolit sau planșeu cu alcătuire mixtă (din predale prefabricate cu placă de beton armat) 60 50
+(4)
+Se pot alege distanțe între rosturi mai mari decât cele indicate în Tabelul 3.1 dacă sunt luate măsuri constructive speciale (utilizarea de betoane cu contracție mică, armări longitudinale mai puternice, utilizarea rosturilor de lucru deschise un timp suficient etc.) și se justifică prin calcul că se poate controla adecvat procesul de fisurare.
+(5)
+Valorile pentru dimensiunile L, l, B și b din Tabelul 3.1 se referă la suprastructura construcției.
+În cazul subsolurilor și al sistemelor de fundare (inclusiv al radierelor), se pot admite valori mai mari ca urmare a faptului că la elementele îngropate deformațiile din temperatură pot fi controlate mai eficient.
+3.4.3.
+Componente nestructurale (1)
+Se recomandă utilizarea cu precădere a elementelor de compartimentare ușoare, cu sensibilitate mică la deplasări în planul lor și cu influență mică asupra răspunsului structurii.
+(2)
+În cazul pereților executați din materiale rigide și rezistente (de exemplu, din zidărie), se urmărește ca prin alcătuire (dimensiuni, poziție și dimensiunea golurilor) și modul de prindere de elementele structurale să se evite realizarea unor interacțiuni nefavorabile și să se asigure limitarea degradărilor în pereți, în conformitate cu prevederile din codul de proiectare P 100-1.
+(3)
+Componentele de instalații și echipamentele cu diferite destinații, precum și prinderile lor de structură, sunt alcătuite astfel încât se asigură stabilitatea lor și se controlează efectele nefavorabile cauzate de interacțiunea dintre acestea și celelalte componente ale clădirii.
+4.
+Valori de proiectare ale eforturilor (1)
+Acest capitol conține prevederi privind determinarea valorilor de proiectare ale eforturilor care se dezvoltă în pereți, grinzi de cuplare, diafragme orizontale, fundații și infrastructuri, după caz, la structuri cu pereți de beton armat.
+(2)
+Valoarea de proiectare a efortului într-o secțiune a unui element structural reprezintă valoarea maximă a efortului care se poate mobiliza în secțiune la incidența cutremurului de proiectare.
+(3)
+Valorile de proiectare ale eforturilor care pot genera ruperi fragile ale elementelor structurale sunt stabilite ținând seama de incertitudinea evaluării.
+(4)
+Valorile de proiectare ale eforturilor sunt determinate distinct pentru fiecare combinație seismică de proiectare.
+(5)
+În cazul clădirilor proiectare pentru clasa de ductilitate DCH sau DCM, determinarea valorilor de proiectare ale momentelor încovoietoare, forțelor tăietoare și forțelor axiale în pereți și grinzi de cuplare, după caz, este realizată conform prevederilor de la 4.1.
+(6)
+În cazul clădirilor proiectare pentru clasa de ductilitate DCL, determinarea valorilor de proiectare ale momentelor încovoietoare, forțelor tăietoare și forțelor axiale în pereți și grinzi de cuplare, după caz, este realizată conform prevederilor de la 4.2. 4.1.
+Clădiri proiectate pentru clasa de ductilitate DCH sau DCM (1)
+Valoarea de proiectare a efortului dintr-o secțiune a unui element structural reprezintă valoarea efortului care se dezvoltă la mobilizarea completă a mecanismului plastic al structurii ca efect al acțiunii seismice orizontale.
+(2)
+Valorile de proiectare ale eforturilor sunt determinate prin: (a) transformarea eforturilor rezultate din calculul structural efectuat printr-o metodă de calcul static liniar pentru a cuantifica neliniaritatea răspunsului structural așteptat la incidența cutremurului de proiectare,
+sau, (b) direct, prin calcul neliniar.
+(3)
+Determinarea valorilor de proiectare ale momentelor încovoietoare, forțelor tăietoare și forțelor axiale în pereți, grinzi de cuplare, diafragme orizontale, fundații și infrastructuri, după caz, pe baza eforturilor rezultate din calculul structural static liniar, este realizată conform prevederilor de la 4.1.1, 4.1.2, 4.1.3, 4.1.5 și 4.1.6.
+(4)
+În cazul clădirilor la care calculul structural este efectuat printr-o metodă de calcul static liniar, la determinarea valorilor de proiectare sunt admise redistribuiri ale eforturilor între elementelor structurale conform prevederilor de la 4.1.4.
+(5)
+Determinarea valorilor de proiectare ale eforturilor din pereți, grinzi de cuplare, diafragme orizontale, fundații și infrastructuri, după caz, pe baza eforturilor rezultate din calcul structural static neliniar este realizată conform prevederilor de la 4.1.7. 4.1.1.
+Valori de proiectare ale momentelor încovoietoare 4.1.1.1.
+Pereți (1)
+Valoarea de proiectare a momentului încovoietor din zona critică a unui perete solicitat la încovoiere în principal ca efect al acțiunii seismice este determinată cu relația:
+M_Ed = M'_Ed (4.1) unde:
+M_Ed valoarea de proiectare a momentului încovoietor;
+M'_Ed momentul încovoietor rezultat din calculul structural în combinația seismică de proiectare.
+(2)
+Valorile de proiectare ale momentelor încovoietoare din afara zonei critice a unui perete solicitat la încovoiere în principal ca efect al acțiunii seismice sunt determinate cu relația:
+M_Ed = k_Ω M'_Ed ≤ M_Rd,0 (4.2) unde:
+M_Ed valoarea de proiectare a momentului încovoietor;
+M'_Ed momentul încovoietor rezultat din calculul structural în combinația seismică de proiectare;
+M_Rd,0 valoarea de proiectare a capacității de rezistență la moment încovoietor la baza peretelui, corespunzătoare sensului considerat al acțiunii seismice, determinată considerând valoarea forței axiale corespunzătoare formării mecanismului plastic, incluzând și efectul acțiunilor gravitaționale; k_M factor care ia în considerare incertitudinile legate de distribuția reală a eforturilor corespunzătoare răspunsului dinamic în domeniu plastic, a cărei valoare se stabilește în funcție de clasa de ductilitate a structurii: k_M = 1,30 pentru DCH (4.3) k_M = 1,15 pentru DCM Ω factor de supra-rezistență la încovoiere al peretelui izolat sau cuplat, după caz.
+(3)
+În aplicarea relațiilor (4.1) și (4.2), este considerat că un perete este solicitat în principal ca efect al acțiunii seismice dacă la baza zonei critice este îndeplinită relația:
+M_g,0 < 0,15 M'_Ed,0 (4.4) unde:
+M'_Ed,0 momentul încovoietor rezultat din calculul structural sub acțiunea seismică de proiectare, la baza peretelui;
+M_g,0 momentul încovoietor rezultat din calculul structural sub încărcările gravitaționale corespunzătoare combinației seismice de proiectare, la baza peretelui.
+(4)
+În cazul pereților izolați, factorul de supra-rezistență la încovoiere a peretelui este determinat cu relația: Ω = M_Rd,0/M'_Ed,0 (4.5) unde:
+M_Rd,0 valoarea de proiectare a capacității de rezistență la moment încovoietor, la baza peretelui, corespunzătoare sensului considerat al acțiunii seismice, determinată considerând valoarea forței axiale corespunzătoare formării mecanismului plastic, incluzând și efectul acțiunilor gravitaționale;
+M'_Ed,0 momentul încovoietor rezultat din calculul structural cauzat de acțiunea seismică de proiectare, la baza peretelui.
+(5)
+În cazul pereților cuplați, factorul de supra-rezistență la încovoiere a peretelui este determinat cu relația: Ω = [M_Rd,0 + 0,80 ΣV_Edb,i. L_i]/[M'_Ed,0 + ΣV'_Edb,i. L_i] (4.6) unde:
+V'_Edb,i forța tăietoare din grinda i care cuplează peretele, cauzată de încărcările seismice de proiectare orizontale;
+V_Edb,i forța tăietoare din grinda i care cuplează peretele, asociată atingerii capacității de rezistență la încovoiere a acesteia, incluzând efectul supra-rezistenței oțelului (valoarea de proiectare a forței tăietoare din grindă);
+L_i distanța măsurată de la punctul de moment nul al grinzii i până în centrul de greutate al secțiunii montantului considerat, pe direcția de acțiune a forței seismice.
+Notă: În cazul unei grinzi de cuplare armate cu carcase ortogonale valoarea de proiectare a forței tăietoare din grinda i, V_Edb,i, se determină conform ecuației (4.16). În cazul unei grinzi de cuplare armate diagonal, valoarea forței tăietoare din grinda i, V_Edb,i, este egală cu forța tăietoare corespunzătoare atingerii efortului unitar de curgere al oțelului din armăturile diagonale, amplificată cu γ_Rd = 1,25.
+Notă: În sume se includ toate forțele tăietoare din elementele structurale orizontale care încarcă peretele din efect indirect, indiferent de direcția acestora.
+(6)
+Valoarea absolută a valorilor de proiectare ale momentelor încovoietoare din afara zonei critice se poate limita superior la valoarea momentului încovoietor capabil de la baza zonei critice, definit conform (2).
+(7)
+O reprezentare cu caracter exemplificativ a modului de determinare a valorilor de proiectare ale momentelor încovoietoare într-un perete izolat este dată în Figura 4.1
+Figura 4.1 Diagrama momentelor încovoietoare de proiectare pentru un perete structural izolat
+(8)
+O reprezentare cu caracter exemplificativ a forțelor exterioare și eforturilor care încarcă un perete cuplat este dată în Figura 4.2.
+Figura 4.2 Eforturi care încarcă un perete cuplat
+(9)
+În cazul în care ponderea momentului încovoietor din încărcările gravitaționale M_g,0 nu este neglijabilă (M_g,0 > 0,15M'_E_d,0), în relațiile (4.5) și (4.6) M_Rd,0 este înlocuit cu M_Rd,0 ± Mg,0. Semnul "+" corespunde situației în care valorile M'_Ed,0 și M_g,0 au semne opuse, iar semnul "-" situației în care valorile celor două momente au același semn. Pentru determinarea valorilor de proiectare ale momentelor, conform relației (4.2) produsul k_M Ω M'_Ed se adună cu momentul din încărcările gravitaționale, M_g.
+(10)
+Prin excepție de la (1)-(9), în cazul pereților cu raportul dintre înălțime și lungime H_w/l_w ≤ 1 valorile de proiectare ale momentelor sunt cele obținute din calculul structural în combinația seismică de proiectare.
+4.1.1.2.
+Grinzi de cuplare (1)
+Valorile de proiectare ale momentelor încovoietoare în grinzile de cuplare sunt egale cu valorile momentelor încovoietoare rezultate din calcul structural în combinația seismică de proiectare.
+(2)
+În cazul grinzilor de cuplare cu raportul l_cl/h > 3, valorile de proiectare ale momentelor încovoietoare sunt calculate conform prevederilor din codul de proiectare P 100-1, pentru grinzi lungi.
+(3)
+În cazul grinzilor de cuplare care răspund elastic la acțiunea cutremurului de proiectare, valorile de proiectare ale momentelor încovoietoare sunt determinate pe baza echilibrului eforturilor în situația formării complete a mecanismului plastic al structurii.
+4.1.2.
+Valori de proiectare ale forțelor tăietoare 4.1.2.1.
+Pereți (1)
+Valorile de proiectare ale forțelor tăietoare în pereții structurali sunt determinate cu relația:
+V_Ed = k_V^Ω γ_Rd V'_Ed (4.7) unde:
+V_Ed valoarea de proiectare a forței tăietoare în perete;
+V'_Ed valoarea forței tăietoare rezultată din calculul structural în combinația seismică de proiectare; Ω factor de supra-rezistență la încovoiere al peretelui definit la paragraful 4.1.1; k_V coeficient de amplificare care tine seama de diferența dintre distribuția efectivă a forțelor tăietoare și distribuția acestora obținută din calculul structural liniar-elastic: k_V = 1,5, pentru pereți izolați; (4.8) k_V = 1,2, pentru pereți cuplați; (4.9) γ_Rd factor de supra-rezistență datorat efectului de consolidare al oțelului γ_Rd = 1,2 (4.10)
+(2)
+Valorile de proiectare ale forței tăietoare în perete, V_Ed, sunt limitate inferior conform relațiilor: V_Ed ≥ V_Ed,0 (1 - 1,25 y/H_w) (4.11)
+V_Ed ≥ 0,5V_Ed,0 (4.12) unde:
+V_Ed,0 valoarea de proiectare a forței tăietoare la baza zonei critice a peretelui;
+H_w înălțimea peretelui; y distanța de la baza peretelui până la secțiunea orizontală unde se face calculul valorii de proiectare a forței tăietoare.
+(3)
+O reprezentare cu caracter exemplificativ a modului de determinare a valorilor de proiectare ale forțelor tăietoare într-un perete este dată în Figura 4.3.
+Figura 4.3 Diagrama înfășurătoare a forțelor tăietoare de proiectare pentru pereți structurali
+(4)
+În aplicarea relației (4.7), produsul k_V Ω γ_Rd este limitat inferior conform relației: 1,5 ≤ k_V Ω γ_Rd (4.13)
+(5)
+Prin excepție de la prevederile (1)-(4), în cazul pereților cu raportul dintre înălțime și lungime H_w/l_w mai mic sau egal decât 2, valorile de proiectare ale forțelor tăietoare sunt calculate cu relația:
+V_Ed = Ω γ_Rd V'_Ed (4.14) unde Ω se determină conform 4.1.1.1 și γ_Rd = 1,2.
+Valorile de proiectare ale forțelor tăietoare calculate cu ecuația (4.14) se limitează inferior conform relației: 1,5V'_Ed ≤ V_Ed (4.15)
+4.1.2.2.
+Grinzi de cuplare (1)
+În cazul grinzilor de cuplare armate ortogonal, valoarea de proiectare a forței tăietoare este determinată cu ecuația:
+V_Ed= γ_Rd [(M_Rdb)^l + (M_Rdb)^r]/l_cl (4.16) în care: (M_Rdb)^l și (M_Rdb)^r capacitățile de rezistență la moment încovoietor în secțiunile de la extremitățile grinzii de cuplare; pentru sensul care întinde armăturile de la partea superioară se ține seama și de contribuția armăturilor continue din zona activă a plăcii, paralele cu grinda;
+Notă: La calculul capacităților de rezistență la moment încovoietor se ține seama de contribuția tuturor armăturilor grinzii, în raport cu efortul care se dezvoltă în acestea. γ_Rd factor care ia în considerare supra-rezistența oțelului egal cu 1,25; l_cl deschiderea liberă a grinzii de cuplare.
+(2)
+În cazul grinzilor de cuplare armate diagonal, valoarea de proiectare a forței tăietoare este egală cu forța tăietoare rezultată din calculul structural în combinația seismică de proiectare.
+(3)
+În cazul grinzilor de cuplare cu l_cl/h > 3, valorile de proiectare ale forțelor tăietoare sunt calculate conform prevederilor din codul de proiectare P 100-1.
+(4)
+În cazul grinzilor de cuplare care răspund elastic la acțiunea cutremurului de proiectare, valorile de proiectare ale forțelor tăietoare se determină pe baza echilibrului eforturilor în situația formării complete a mecanismului plastic al structurii, prin multiplicare cu γ_Rd = 1,25.
+4.1.3.
+Valori de proiectare ale forțelor axiale (1)
+Valorile de proiectare ale forțelor axiale dintr-un perete structural, N_Ed, sunt stabilite pe baza echilibrului peretelui în starea de mecanism plastic.
+(2)
+Prin excepție de la (1), valorile de proiectare ale forțelor axiale dintr-un perete izolat se pot considera egale cu forțele axiale rezultate din calculul structural.
+4.1.4.
+Redistribuirea eforturilor (1)
+Redistribuirea eforturilor rezultate din calculul structural efectuat printr-o metodă de calcul static liniar este aplicată numai dacă la modelarea structurii pentru calcul s-au considerat valorile factorilor de reducere a rigidității la încovoiere pentru pereți și, respectiv, pentru rigle de cuplare, conform 3.3.2.2 (2).
+(2)
+Redistribuirea este realizată numai pentru elementele structurale cu răspuns ductil la acțiunea seismică, pentru clădiri proiectate pentru clasa de ductilitate DCH sau DCM. Redistribuirea este aplicată exclusiv pentru partea structurii în care se formează mecanismului plastic de ansamblu.
+(3)
+Redistribuirea eforturilor din pereți și grinzi de cuplare este realizată pentru: (a) considerarea impactului modificării proprietăților de rigiditate ale elementelor structurale de beton după fisurare asupra stării de eforturi în structură;
+(b) uniformizarea soluțiilor de alcătuire și armare;
+(c) realizarea unei stări de eforturi asociată mobilizării mecanismului plastic care favorizează răspunsul ductil al structurii și evitarea ruperilor cu caracter fragil.
+Notă: De exemplu, într-un ansamblu de doi pereți cuplați, prin redistribuire se poate controla forța axială care se dezvoltă în pereți pentru a se asigura capacitatea de rezistență la forță tăietoare în ambii pereți.
+(4)
+Redistribuirea este realizată cu respectarea condițiilor de echilibru de ansamblu și local.
+Momentul global de răsturnare al structurii la acțiuni orizontale rămâne neschimbat după redistribuire.
+(5)
+Redistribuirea se poate face: (a) între pereți, conform 4.1.4.1.,
+(b) între grinzi de cuplare, conform 4.1.4.2.,
+și/sau (c) în ansambluri de pereți cuplați și grinzi de cuplare.
+4.1.4.1.
+Redistribuirea eforturilor între pereți (1)
+În cazul în care modelarea pentru calcul a structurii este realizată cu respectarea 3.3.2.2 (2), momentele încovoietoare și forțele tăietoare rezultate din calculul structural sub forța seismică de proiectare în pereți, sunt redistribuite.
+(2)
+Redistribuirea este realizată numai la structurile la care planșeele orizontale îndeplinesc rolul de diafragmă orizontală rigidă și rezistentă, conform prevederilor codului de proiectare P 100-1.
+(3)
+Pentru o combinație seismică de proiectare, prin redistribuire sunt modificate valorile momentului încovoietor și forței tăietoare de la baza zonei critice a unui perete. Momentul încovoietor și forța tăietoare de pe toată înălțimea peretelui sunt modificate în aceeași proporție.
+(4)
+La fiecare nivel, suma forțelor tăietoare din pereți după redistribuire este egală cu suma forțelor tăietoare rezultate din calculul structural sub forța seismică de proiectare.
+(5)
+În cazul redistribuirii eforturilor între pereții care sunt parte a unui ansamblu de pereții cuplați se recomandă ca redistribuirea să se facă în raport cu capacitatea de rezistență la încovoiere a fiecărui perete. Forța tăietoare din fiecare perete după redistribuire este proporțională cu raportul dintre capacitatea de rezistență la încovoiere a peretelui și suma capacităților de rezistență la încovoiere ale tuturor pereților din ansamblul de pereți cuplați. Capacitățile de rezistență la încovoiere corespund forțelor axiale în situația formării mecanismului plastic.
+(6)
+Prin redistribuire sunt modificate numai componentele momentului încovoietor și forței tăietoare care sunt cauzate de acțiunea seismică orizontală.
+(7)
+În decizia de redistribuire a forțelor tăietoare din pereți este avut în vedere ca centrul de rezistență al structurii la baza zonei critice să nu se deplaseze semnificativ în raport cu centrul de rigiditate.
+4.1.4.2.
+Redistribuirea eforturilor din grinzi de cuplare (1)
+În cazul în care modelarea pentru calcul structurii se face cu respectarea 3.3.2.2 (2), momentele încovoietoare și forțele tăietoare rezultate din calculul structural sub forța seismică de proiectare în grinzile de cuplare, se pot redistribui.
+(2)
+Redistribuirea eforturilor se poate face între grinzile de cuplare care sunt poziționate aliniat pe verticală.
+(3)
+Pentru o combinație seismică de proiectare, prin redistribuire valoarea momentului încovoietor și a forței tăietoare din secțiunile de capăt ale unei grinzi de cuplare este modificată, în limita a 30% din valoarea rezultată din calculul structural. Momentele încovoietoare și forțele tăietoare de pe lungimea grinzii de cuplare sunt modificate în aceeași proporție.
+(4)
+Pentru toate grinzile aflate pe aceeași verticală, la fiecare dintre secțiunile de capăt separat, suma forțelor tăietoare după redistribuire este egală cu suma forțelor tăietoare rezultate din calculul structural sub forța seismică de proiectare.
+(5)
+Redistribuirea eforturilor între grinzile de cuplare aflate pe aceeași verticală nu modifică valoarea momentului total de răsturnare asigurat prin grinzile de cuplare.
+4.1.4.3.
+Redistribuirea în ansambluri de pereți cuplați și grinzi de cuplare (1)
+În cazul în care modelarea pentru calcul a structurii este realizată cu respectarea 3.3.2.2 (2), momentele încovoietoare și forțele tăietoare rezultate din calculul structural sub forța seismică de proiectare în pereți, sunt redistribuite.
+(2)
+Redistribuirea eforturilor într-un ansamblu de pereți cuplați și grinzi de cuplare se referă la modificarea raportului dintre: (a) momentul aplicat ansamblului care este echilibrat prin momentele încovoietoare care se dezvoltă la baza pereților cuplați;
+(b) momentul aplicat ansamblului care este echilibrat prin cuplul sistemului de forțe axiale din efect indirect care se dezvoltă la baza pereților cuplați;
+în raport cu valorile rezultate din calculul static liniar sub forța seismică de proiectare în pereți.
+(3)
+Prin redistribuire suma dintre momentele încovoietoare care se dezvoltă la baza pereților cuplați și cuplul sistemului de forțe axiale din efect indirect care se dezvoltă la baza pereților cuplați nu este modificată.
+(4)
+Redistribuirea eforturilor într-un ansamblu de pereți cuplați și grinzi de cuplare este realizată distinct pentru fiecare sens și direcție de acțiune seismică în plan orizontal.
+(5)
+Momentul aplicat ansamblului care este echilibrat prin momentele încovoietoare care se dezvoltă la baza pereților cuplați este suma momentelor încovoietoare din zonele critice de la baza tuturor pereților dintr-un ansamblu de pereți cuplați.
+(6)
+Momentul aplicat ansamblului care este echilibrat prin cuplul sistemului de forțe axiale din efect indirect care se dezvoltă în zonele critice de la baza pereților cuplați este suma produselor dintre fiecare forță axială și distanța dintre punctul de aplicare al acesteia și un punct convenabil ales, măsurată pe direcția de acțiune seismică.
+(7)
+Modificarea valorii forței axiale din efect indirect din pereți are ca efect modificarea forțelor tăietoare din grinzile de cuplare, prin creșterea sau scăderea momentului încovoietor care se dezvoltă în zonele critice ale acestora.
+(8)
+Pentru fiecare perete și grindă de cuplare, momentele încovoietoare din afara zonelor critice sunt modificate în aceeași proporție ca și momentele încovoietoare din zona critică a acestora.
+(9)
+Pentru fiecare perete și grindă de cuplare, forțele tăietoare sunt modificate în aceeași proporție ca și momentele încovoietoare din zona critică a acestora.
+(10)
+În cazul în care momentul aplicat ansamblului care este echilibrat prin momentele încovoietoare care se dezvoltă la baza pereților cuplați se modifică în urma redistribuirii cu mai mult de 30% din valoarea rezultată din calculul static liniar este realizată verificarea structurii prin metoda de calcul static neliniar.
+4.1.5.
+Diafragme (1)
+Prevederile din acest paragraf sunt aplicate la stabilirea eforturilor de proiectare în diafragmele constituite de planșeele solicitate la încărcări în planul median.
+(2)
+Valorile de proiectare ale eforturilor în diafragme sunt egale cu eforturile asociate mobilizării mecanismului plastic de ansamblu al structurii și țin seama de imprecizia calculului.
+(3)
+Eforturile într-o diafragmă sunt stabilite considerând echilibrul acesteia sub acțiunea forțelor orizontale și a valorilor de proiectare ale forțelor tăietoare din elementele structurale care încarcă diafragma în direcție orizontală.
+4.1.6.
+Infrastructuri și fundații (1)
+Valorile de proiectare ale eforturilor și deformațiilor în elementele infrastructurii sunt obținute considerând interacțiunea teren-structură.
+(2)
+La proiectarea infrastructurii și fundațiilor sunt considerate valorile maxime ale forțelor de legătură cu suprastructura, corespunzătoare situației formării mecanismului plastic, și încărcările care acționează direct asupra acestora.
+(3)
+În cazul pereților cu fundații izolate, valorile de proiectare ale eforturilor de la baza zonei critice a pereților, EFd, sunt determinate prin transformarea valorilor eforturilor rezultate din calculul static liniar cu ecuația:
+E_Fd = E_F,G + γ_Rd Ω E_F,E (4.17) unde:
+E_F,G efortul secțional produs de alte acțiuni decât acțiunea seismică care sunt incluse în combinația seismică de proiectare;
+E_F,E efortul secțional rezultat din calculul la acțiunea seismică de proiectare; Ω factor de suprarezistență la încovoiere al peretelui stabilit conform 4.1.1.1; γ_Rd factor ce ține seama de diferitele surse de supra-rezistență, γ_Rd = 1,20.
+(4)
+Prin excepție de la (1), în cazul clădirilor cu pereți cu un singur subsol având infrastructura alcătuită ca o cutie rigidă cu perete perimetral de subsol continuu, dacă factorul de supra-rezistență la încovoiere pentru fiecare perete al suprastructurii este mai mic decât 1,20, valorile de proiectare ale eforturilor în elementele sistemului de fundare se pot obține prin calculul static liniar al unui model complet al ansamblului suprastructură - infrastructură, rezemat pe mediu elastic, încărcat cu forțele seismice de proiectare multiplicate cu 1,5:
+F_h = 1,5F_b (4.18)
+4.1.7.
+Metoda de calcul static neliniar (1)
+Valorile de proiectare ale eforturilor sunt stabilite pe baza eforturilor corespunzătoare rezultate din calculul static neliniar al structurii în ansamblu, pentru cele două moduri de distribuție a forțelor seismice date la 3.3.3.1, (9).
+(2)
+Verificarea capacității de rezistență a elementelor conform 3.2.1, (3), este realizată distinct pentru fiecare mod de distribuție a forței seismice.
+(3)
+Prin excepție de la 3.2.1, (3), verificarea capacității de rezistență la încovoiere a elementelor structurale în zonele critice unde se produc deformațiile plastice în acord cu configurația mecanismului plastic optim, este realizată numai prin verificarea globală a capacității de rezistență a structurii la acțiuni orizontale conform 3.2.1, (1).
+Notă: În cazul efectuării calculului static neliniar, această verificare se realizează prin compararea forței F_y din legea de răspuns bi-liniară, stabilită conform 3.3.3.2, cu forța tăietoare de bază stabilită conform codului de proiectare P 100-1. Pentru această verificare, forța F_y se determină utilizând valorile de proiectare ale rezistențelor materialelor.
+(4)
+Valorile de proiectare ale eforturilor care pot determina cedări de tip ductil sunt valorile eforturilor corespunzătoare cerinței de deplasare la Starea Limită Ultimă.
+Notă: Acestea este cazul general al curgerii armăturilor longitudinale ca urmare a acțiunii momentului încovoietor (cu excepția elementelor sub-armate sau supra-armate longitudinal care pot avea cedări fragile din moment încovoietor) și al curgerii armăturilor diagonale ale grinzilor de cuplare.
+(5)
+Valorile de proiectare ale eforturilor care pot determina cedări de tip fragil sunt valorile eforturilor corespunzătoare cerinței de deplasare la Starea Limită Ultimă multiplicată cu 1,50.
+Notă: În general, cedările de tip ductil pot fi obținute prin acțiunea momentului încovoietor, în condițiile asigurării ductilității de rotire a elementului structural, sau prin curgerea armăturilor diagonale ale grinzilor de cuplare. Toate celelalte moduri de rupere trebuie să fie considerate fragile în proiectare.
+(6)
+În cazul structurilor duale cu pereți predominanți și structurilor cu pereți cuplați, valorile de proiectare ale forțelor tăietoare din pereți pentru modul de distribuție în care forțele laterale sunt proporționale cu masele de nivel se pot determina simplificat considerând valorile stabilite pentru modul de distribuție rezultat din analiza modală pentru modul predominant de vibrație, multiplicate cu factorul k_v stabilit conform 4.1.2.1, (1).
+(7)
+Valorile de proiectare ale eforturilor din infrastructură și fundații, pentru toate elementele componente, sunt valorile eforturilor corespunzătoare cerinței de deplasare a structurii la Starea Limită Ultimă multiplicată cu 1,50.
+Notă: Această prevedere se aplică tuturor elementelor structurale situate sub cota inferioară a zonei critice de la baza pereților.
+4.2.
+Clădiri proiectate pentru clasa de ductilitate DCL (1)
+Valorile de proiectare ale eforturilor sunt stabilite prin transformarea eforturilor rezultate din calculul structural liniar.
+(2)
+Valorile de proiectare ale momentelor încovoietoare și forțelor axiale sunt egale cu cele rezultate din calculul structural liniar.
+(3)
+Valorile de proiectare ele forțelor tăietoare sunt egale cu cele rezultate din calcul structural static liniar cu excepția celor din pereții structurali care sunt egale cu forțele tăietoare din calculul structural liniar sub acțiunea forțelor seismice de proiectare, multiplicate cu 1,20:
+V_Ed = 1,2V'_Ed (4.19) unde:
+V_Ed valoarea de proiectare a forței tăietoare în perete;
+V'_Ed valoarea forței tăietoare rezultată din calculul structural în combinația seismică de proiectare.
+(4)
+Valorile de proiectare ale eforturilor în diafragme, constituite de planșeele solicitate la încărcări paralele cu planul lor median, sunt egale cu eforturile rezultate din calculul static liniar al structurii, multiplicate cu 1,2.
+(5)
+Valorile de proiectare ale eforturilor în infrastructură și fundații sunt egale cu eforturile rezultate din calculul static liniar, considerând deformabilitatea terenului de fundare, multiplicate cu 1,2.
+4.3.
+Alte prevederi (1)
+În cazul elementelor prefabricate, utilizate la realizarea structurilor cu pereți, valorile de proiectare ale eforturilor din îmbinări corespund stării de eforturi asociate mobilizării complete a mecanismului plastic, ținând seama de imprecizia evaluării efectelor acțiunilor și capacităților de rezistență printr-un factor γ_Rd = 1,25.
+5.
+Capacitate de rezistență (1)
+Acest capitol cuprinde prevederi specifice pentru calculul valorilor de proiectare ale capacităților de rezistență la încovoiere și forță tăietoare pentru pereții structurali și grinzile de cuplare ale clădirilor proiectate pentru clasa de ductilitate DCH sau DCM.
+(2)
+Valorile de proiectare ale capacităților de rezistență la încovoiere și forță tăietoare pentru pereții structurali și grinzile de cuplare ale clădirilor proiectate pentru clasa de ductilitate DCL sunt determinate în acord cu prevederile specifice din codul de proiectare P 100-1 și SR EN 1992-1-1.
+(3)
+Prevederile acestui capitol sunt aplicate numai pentru grinzile de cuplare la care raportul dintre lungimea liberă (lumina), ici, și înălțimea secțiunii transversale (verticale), h_w, respectă condiția: l_cl /h_w < 3 (5.1)
+(4)
+În cazul grinzilor de cuplare pentru care condiția de la (5.1) nu este îndeplinită, sunt aplicate prevederile din codul de proiectare P 100-1, specifice grinzilor lungi.
+(5)
+La verificarea capacității de rezistență de ansamblu a structurii la acțiuni orizontale, conform 3.2.1 (1), nu este luat în considerare efectul de cuplare al pereților prin intermediul plăcilor încovoiate. 5.1.
+Capacitate de rezistență a pereților 5.1.1.
+Secțiune activă (1)
+Pentru calculul capacității de rezistență, un perete compus alcătuit din pereți cu secțiunea transversală de formă dreptunghiulară, conectați pe verticală, este considerat în calcul ca element unitar (perete compus). Pereții paraleli sau aproximativ paraleli cu direcția de acțiune seismică reprezintă inimile peretelui compus. Pereții perpendiculari pe direcția de acțiune seismică reprezintă tălpile peretelui compus.
+(2)
+Pentru calculul capacității de rezistență la încovoiere a pereților compuși este luată în calcul armătura longitudinală din tălpi, amplasată pe lățimea activă a acestora.
+(3)
+Lățimea activă a unei tălpi la acțiunea seismică se stabilește ca minimul dintre: (a) lățimea efectivă a tălpii, măsurată în plan orizontal de la intersecția tălpii cu inima până la extremitatea tălpii;
+(b) jumătate din distanța dintre inimi, în cazul tălpilor care unesc două inimi;
+(c) 25% din înălțimea totală a peretelui deasupra secțiunii unde se face calculul.
+Notă: Această prevedere nu se aplică la calculul eforturilor în pereți.
+(4)
+Secțiunea activă a unui perete compus pentru calcul rezistenței la forțe tăietoare este egală cu secțiunea inimii.
+5.1.2.
+Capacitate de rezistență la încovoiere cu forță axială (1)
+Evaluarea capacității de rezistență la încovoiere este realizată în acord cu prevederile SR EN 1992-1-1.
+(2)
+Evaluarea capacității de rezistență la încovoiere este realizată considerând armăturile longitudinale ale peretelui din inimă și zona activă de talpă.
+(3)
+Peretele este alcătuit și armat astfel încât cedează ductil la încovoiere, prin zdrobirea betonului comprimat, după intrarea în curgere a armăturilor longitudinale întinse.
+(4)
+Capacitatea de rezistență la încovoiere este momentul încovoietor care conduce la inițierea zdrobirii fibrelor extreme ale betonului comprimat, după curgerea armăturilor longitudinale întinse.
+(5)
+Capacitatea de rezistență la încovoiere este mai mare decât momentul încovoietor corespunzător fisurării betonului din zona întinsă.
+(6)
+În ansamblurile alcătuite din pereți, izolați și/sau cuplați, și rigle de cuplare capacitățile de rezistență la încovoiere și forță tăietoare sunt stabilite pentru fiecare element component al ansamblului, individual, luând în considerare interacțiunea cu celelalte elemente componente.
+(7)
+Pereții compuși, definiți în acord cu 5.1.1 (1), sunt calculați ca un element individual. La calculul capacității de rezistență la încovoiere a pereților compuși se poate considera în calcul ipoteza geometrică a secțiunilor plane.
+(8)
+În cazul pereților, individuali sau compuși, perforați cu goluri, calculul capacității de rezistență la încovoiere al ansamblului se poate realiza, la nivel minimal, pe baza ipotezei geometrice a secțiunilor plane doar dacă grinzile de cuplare care se formează deasupra golurilor au răspuns elastic la acțiunea seismică de proiectare, după formarea completă a mecanismului plastic de ansamblu al structurii.
+5.1.3.
+Capacitatea de rezistență la forță tăietoare a pereților lungi (1)
+Prevederile acestui paragraf sunt aplicate pentru determinarea prin calcul a valorii de proiectare a capacității de rezistență la forță tăietoare a pereților structurali de beton armat la care raportul dintre înălțime (în elevație), H_w, și lungimea secțiunii transversale (orizontale), l_w, respectă condiția:
+H_w/l_w ≥ 1 (5.2)
+(2)
+Valoarea de proiectare a capacității de rezistență la forță tăietoare a pereților este minimul dintre: (a) valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii peretelui la compresiune diagonală;
+(b) valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la întindere a armăturilor transversale (orizontale);
+(c) valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la lunecare în rosturi orizontale pre-fisurate.
+(3)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii peretelui la compresiune diagonală, în zona critică a peretelui, este stabilită astfel:
+V_Rd,max = 0,67 A_cw radical din f_cd (5.3) unde:
+A_cw aria inimii peretelui sau suma ariilor inimilor peretelui compus, pe direcția considerată a acțiunii seismice orizontale; f_cd valoarea de proiectare a rezistenței la compresiune a betonului.
+(4)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii peretelui la compresiune diagonală, în afara zonei critice a peretelui, este stabilită astfel:
+V_Rd,max = 0,8 A_cw radical din f_cd (5.4)
+(5)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la întindere a armăturilor transversale (orizontale), în zona critică a peretelui, este stabilită astfel:
+V_Rd,s = Σ A_sh f_yd,h (5.5) unde: ΣA_sh suma secțiunilor armăturilor transversale din inima peretelui și ale armăturilor din centuri care sunt intersectate de o fisură potențială înclinată la 45° care traversează întregul perete, având vârful în secțiunea transversală în care se face verificarea și fiind orientată către zona de moment minim; f_yd,h valoarea de proiectare a limitei de curgere a armăturii orizontale.
+(6)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la întindere a armăturilor transversale (orizontale), în afara zonei critice a peretelui, este stabilită astfel:
+V_Rd,s = 0,5 σ_cp A_cw + Σ A_sh f_yd,h (5.6) unde: Σ A_sh suma secțiunilor armăturilor transversale din inima peretelui și armăturilor din centuri care sunt intersectate de o fisură potențială înclinată la 45° care traversează întregul perete, având vârful în secțiunea transversală în care se face verificarea și fiind orientată către zona de moment minim; f_yd,h valoarea de proiectare a limitei de curgere a armăturii orizontale;
+A_cw aria inimii peretelui sau suma ariilor inimilor peretelui compus, pe direcția considerată a acțiunii seismice orizontale; σ_cp efortul unitar mediu de compresiune din perete în combinația seismică de proiectare.
+(7)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență la lunecare în rosturi orizontale pre-fisurate este stabilită astfel:
+V_Rd,s = μ_f (ΣA_sv f_yd,v + N_Ed} + ΣA_si f_yd,i (cos α + μ_f sin α) (5.7) în care: ΣA_sv suma secțiunilor armăturilor verticale active de conectare, perpendiculare pe planul de lunecare; ΣA_si suma secțiunilor armăturilor înclinate sub unghiul a, față de planul potențial de lunecare, care sunt solicitate la întindere de forțele orizontale care acționează peretele; f_yd,v valoarea de proiectare a limitei de curgere a armăturilor verticale; f_yd,i valoarea de proiectare a limitei de curgere a armăturii înclinate;
+N_Ed valoarea de proiectare a forței axiale în secțiunea orizontală considerată, în combinația de încărcări care include acțiunea seismică; în cazul în care forța axială este de întindere se utilizează semnul "-"; μ_f coeficient de frecare în rost la acțiuni ciclice: μ_f = 0,6, pentru suprafețe netede, conform definiției din SR EN 1992-1-1; (5.8) μ_f = 0,7, pentru suprafețe rugoase, conform definiției din SR EN 1992-1-1. (5.9)
+(8)
+În aplicarea relației (5.7) sunt considerate ca armături active de conectare numai armăturile din inima pereților și armăturile situate în talpa sau bulbul întins.
+(9)
+Prin excepție de la (3), în cazul evaluării prin calcul neliniar a cerinței de ductilitate la rotire a pereților, valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii peretelui la compresiune diagonală, în zona critică a peretelui, se poate determina cu relația: V_Rd,max = [0,25/μ_θ + 0,6] A_cw radical din f_cd (5.10) unde:
+A_cw aria inimii peretelui sau suma ariilor inimilor peretelui compus, pe direcția considerată a acțiunii seismice orizontale; f_cd valoarea de proiectare a rezistenței la compresiune a betonului; μ_θ raportul dintre rotirea peretelui în zona critică corespunzătoare deplasării orizontale a structurii la acțiunea cutremurului de proiectare, corespunzător Stării Limită Ultime, și rotirea corespunzătoare intrării în curgere a peretelui;
+Notă: Rotirea corespunzătoare intrării în curgere se determină prin utilizarea legii de răspuns moment-rotire, M-θ, în zona critică a elementului, în format biliniar, determinată prin procedeul descris la 3.3.3.2.
+Valoarea V_Rd,max rezultată din aplicarea ecuației (5.10) se limitează superior la:
+V_Rd,max ≤ 0,8 A_cw radical din f_cd (5.11)
+(10)
+În cazul pereților solicitați la întindere excentrică în combinația seismică de proiectare, valoarea capacității de rezistență la forță tăietoare este limitată superior la 0,5 V_Rdmax.
+5.1.4.
+Capacitatea de rezistență la forță tăietoare a pereților scurți (1)
+Prevederile acestui paragraf sunt aplicate pentru determinarea prin calcul a valorii de proiectare a capacității de rezistență la forță tăietoare a pereților structurali de beton armat la care raportul dintre înălțime (în elevație), H_w, și lungimea secțiunii transversale (orizontale), l_w, respectă condiția:
+H_w/l_w < 1 (5.12)
+(2)
+Valoarea de proiectare a capacității de rezistență la forță tăietoare a pereților este determinată cu relația:
+V_Rd = 0,5 σ_cp A_cw + ΣA_sh f_yd,h + (l_w - H_w)/l_w ΣA_sv f_yd,v (5.13) unde: σ_cp efortul unitar mediu de compresiune din perete în combinația seismică de proiectare;
+A_cw aria inimii peretelui sau suma ariilor inimilor peretelui compus, pe direcția considerată a acțiunii seismice orizontale; ΣA_sh suma secțiunilor armăturilor orizontale din inima peretelui și din centuri; f_yd,h valoarea de proiectare a limitei de curgere a armăturii orizontale; ΣA_sv suma secțiunilor armăturilor verticale din inima peretelui; f_yd,v valoarea de proiectare a limitei de curgere a armăturii verticale; cu respectarea: ΣA_sh f_yd,h ≥ Σq_iH_i (5.14) q_i forțele orizontale, considerate uniform distribuite, transmise de planșeu la perete, la nivelul i, "suspendate" de diagonalele comprimate cu înclinarea de 45°, descărcate în secțiunea de la bază conform schemei din Figura 5.2;
+H_i distanța măsurată de la bază la nivelul i.
+Figura 5.1 Schema de calcul pentru pereți scurți
+5.2.
+Capacitate de rezistență a grinzilor de cuplare 5.2.1.
+Secțiune activă (1)
+Pentru calculul capacității de rezistență la încovoiere a grinzilor de cuplare realizate monolit, împreună cu placa, este considerată în calcul armătura dispusă pe lățimea activă de placă paralel cu direcția grinzii. Lățimea activă de placă este egală, de fiecare parte a grinzii, ca minimul dintre: (a) 2h_f, unde h_f este grosimea plăcii;
+(b) 0,25 l_cl, unde l_cl este deschiderea liberă (lumina) grinzii de cuplare.
+(2)
+Pentru calculul capacității de rezistență la forță tăietoare a grinzilor de cuplare, secțiunea activă este considerată egală cu secțiunea inimii.
+(3)
+Secțiunea inimii grinzilor de cuplare este stabilită astfel: (a) în cazul grinzilor pe care reazemă plăci prefabricate, aria plăcilor din dreptul inimii grinzii nu se ia în considerare la stabilirea secțiunii inimii;
+(b) în cazul grinzilor pe care reazemă plăci executate monolit împreună cu grinda, aria plăcilor din dreptul inimii grinzii se ia în considerare la stabilirea secțiunii inimii.
+(4)
+La grinzile de cuplare turnate în două etape, valoarea de proiectare a capacității de rezistență este limitată în funcție de capacitatea de conectare asigurată de etrieri pentru betoanele de vârstă diferită.
+5.2.2.
+Capacitatea de rezistență la încovoiere (1)
+Evaluarea capacității de rezistență la încovoiere este realizată în acord cu prevederile SR EN 1992-1-1.
+(2)
+Evaluarea capacității de rezistență la încovoiere este realizată considerând toate armăturile orizontale ale grinzii, dispuse în inima grinzii și, după caz, în zona activă de placă.
+5.2.3.
+Capacitatea de rezistență la forță tăietoare 5.2.3.1.
+Grinzi de cuplare armate cu carcase ortogonale (1)
+Prevederile acestui paragraf sunt aplicate pentru calculul valorii de proiectare a capacității de rezistență la forță tăietoare a grinzilor de cuplare armate cu carcase ortogonale, alcătuite din armături longitudinale și etrieri, fără armături diagonale.
+(2)
+Valoarea de proiectare a capacității de rezistență la forță tăietoare a grinzilor de cuplare armate cu carcase ortogonale este minimul dintre: (a) valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii grinzii la compresiune diagonală;
+(b) valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a armăturilor transversale (verticale) la întindere.
+(3)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a inimii grinzii la compresiune diagonală este: (a) pentru clădiri proiectate pentru clasa de ductilitate DCH:
+V_Rd,max = b_w d f_ctd (5.15)
+(b) pentru clădiri proiectate pentru clasa de ductilitate DCM:
+V_rd,max = 1,5 b_w d f_ctd (5.16) unde: b_w lățimea secțiunii transversale a inimii grinzii; d înălțimea utilă a secțiunii transversale a grinzii; f_ctd valoarea de proiectare a rezistenței la întindere a betonului.
+(4)
+Valoarea de proiectare a forței tăietoare care corespunde capacității de rezistență a armăturilor transversale la întindere este: (a) în cazul grinzilor de cuplare cu raportul l_cl/h_w ≥ 1: V_Rd,s = 0,8 ΣA_sw f_ywd (5.17) unde: ΣA_sw este suma secțiunilor etrierilor care interceptează fisura potențială înclinată la 45°; f_ywd valoarea de proiectare a limitei de curgere a armăturii transversale (eterilor);
+(b) în cazul grinzilor de cuplare cu raportul l_cl/h_w < 1:
+V_Rd,s = 0,8 [0,5 ΣA_sw f_ywd + (h_w - 0,5 l_cl/h_w) ΣA_sh f_yd,h] (5.18) unde: f_ywd valoarea de proiectare a limitei de curgere a armăturii transversale (eterilor); f_yd,h valoarea de proiectare a limitei de curgere a armăturii longitudinale; h_w înălțimea secțiunii transversale a grinzii; l_cl deschiderea liberă a grinzii; ΣA_sh aria armăturilor orizontale dispuse în inima grinzii; ΣA_sw suma secțiunilor tuturor etrierilor grinzii.
+Suma secțiunilor tuturor etrierilor grinzii, ΣA_sw, îndeplinește condiția: ΣA_sw ≥ V_Ed/f_ywd. l_cl/h_w (5.19)
+5.2.3.2.
+Grinzi de cuplare armate cu carcase diagonale (1)
+Prevederile acestui paragraf sunt aplicate pentru calculul valorii de proiectare a capacității de rezistență la forță tăietoare a grinzilor de cuplare armate cu carcase diagonale.
+(2)
+Valoarea de proiectare a capacității de rezistență la forță tăietoare a grinzilor de cuplare armate cu carcase diagonale este:
+V_Rd= 2 Σ A_si f_yd,i sin α (5.20) unde:
+A_si aria secțiunii armăturilor longitudinale ale unei carcase înclinate; f_yd,i limita de curgere a armăturilor înclinate; α unghiul de înclinare al carcaselor de armătură.
+5.3.
+Diafragme (1)
+Prevederile acestui paragraf se referă la proiectarea diafragmelor constituite din planșee solicitate la acțiuni paralele cu planul lor median.
+(2)
+Capacitatea de rezistență a diafragmelor orizontale la acțiuni în planul lor sunt determinate conform SR EN 1992-1-1, cu metoda specifică zonelor de discontinuitate.
+(3)
+Echilibrarea eforturilor paralele cu planul median al planșeului și rezultanta forțelor tăietoare din pereți se face prin trei mecanisme care se pot dezvolta simultan: (a) compresiune directă pe capătul peretelui - valoarea maximă a forței care se poate echilibra prin acest mecanism este:
+F_Rd,1 = 1,5 b_w h_f f_ck (5.21)
+(b) întinderea armăturilor de colectare dispuse în planul plăcii - valoarea maximă a forței care se poate echilibra prin acest mecanism este:
+F_Rd,2 = A_s,ch f_yd (5.22)
+(c) lunecarea dintre fețele laterale ale inimii peretelui și diafragmă - valoarea maximă a forței care se poate echilibra prin acest mecanism este:
+F_Rd,3 = 1,5 l_w h_f f_ctd ≤ A_s f_yd (5.23) unde: b_w grosimea peretelui în zona de capăt; h_f grosimea plăcii; l_w înălțimea secțiunii transversale a unui perete;
+A_s aria secțiunilor armăturilor de la partea de sus și de jos a planșeului, perpendiculare pe suprafețele verticale de contact dintre diafragmă și perete;
+A_s,ch aria secțiunilor armăturilor de colectare.
+Notă: Evaluarea fracțiunilor F_Rd,1, F_Rd,2 și F_Rd,3 din forța totală care poate fi echilibrată la intersecția diafragmă - perete se face prin aprecieri inginerești, considerând schemele posibile de echilibrare. Mecanismul "a" este mai rigid decât mecanismul "c". Mecanismul "c" este mai rigid decât mecanismul "b".
+Se recomandă ca echilibrarea eforturilor din planul planșeului și rezultanta forțelor tăietoare din pereți să se facă în principal prin compresiune directă pe capătul peretelui și lunecare între fețele laterale ale inimii peretelui și diafragmă. Dispunerea de armături de colectare pentru mobilizarea forței F_Rd,2 este recomandată în situațiile în care contribuția celorlalte două mecanisme este mică.
+În cazul unui perete situat perpendicular pe perimetrul diafragmei, adiacent acesteia, nu se ia în calcul forța de compresiune F_Rd,1 sau forța de întindere F_Rd,2, după caz, în funcție de sensul acțiunii seismice orizontale.
+În cazul unui perete adiacent unei margini a diafragmei, mecanismul de lunecare se dezvoltă numai pe o față a peretelui. Mecanismul de lunecare nu se dezvoltă pe lungimea golurilor din planșeu adiacente pereților.
+(4)
+Armăturile de colectare sunt dispuse în planșeu, paralel cu planul inimii peretelui, în volumul de intersecție a plăcii cu peretele. Alternativ, armăturile de colectare pot fi dispuse într-o bandă îngroșată în zona de intersecție a peretelui cu diafragma, paralelă cu inima peretelui. Banda îngroșată, dacă există, are grosimea sub placă egală cu lățimea ei, măsurată de la fața exterioară a peretelui.
+Figura 5.2 Soluții informative de amplasare a armăturilor de colectare
+(5)
+Armăturile de colectare sunt ancorate la ambele capete față de secțiunile verticale unde sunt solicitate la maxim. Armăturile de colectare sunt prelungite până în secțiunile unde efortul de întindere care se dezvoltă în acestea ca urmare a forțelor orizontale care acționează structura este nul, prin transfer către alte elemente structurale și/sau către rețeaua continuă de armătură a plăcii.
+6.
+Capacitate de deformare (1)
+Acest capitol cuprinde prevederi privind stabilirea valorilor admise ale rotirilor pereților și grinzilor de cuplare (rotirea corzii), în acord cu exigențele de proiectare la Starea Limită Ultimă.
+(2)
+Pentru un perete structural, rotirea corzii este stabilită cu relația: θ_e = d_V/L_V (6.1) unde:
+L_V distanța măsurată pe verticală dintre baza zonei critice a peretelui și punctul de inflexiune al deformatei (punctul de moment nul); d_V deplasarea pe orizontală a peretelui față de baza zonei critice, măsurată la nivelul punctului de inflexiune al deformatei.
+(3)
+Pentru o grindă de cuplare, rotirea corzii la fiecare capăt al grinzii este unghiul format de axul rectiliniu al grinzii de dinainte de deformare, și tangenta la axul grinzii după deformare, la fiecare capăt al grinzii.
+Notă: Axul grinzii de dinainte de deformare reprezintă dreapta care unește centrele de greutate ale secțiunilor de capăt ale grinzii.
+(4)
+Valorile admisibile ale rotirilor, (θ_u)^ULS, sunt determinate prin calcul pe baza caracteristicilor de alcătuire și armare, conform prevederilor SR EN 1998-3, pentru Starea Limită de Degradare Semnificativă, cu metoda bazată pe modelul de confinare din SR EN 1992-1-1.
+(5)
+Prin excepție de la (4), în cazul în care rotirile așteptate la incidența cutremurului de proiectare sunt determinate prin metoda de calcul static liniar, valorile admisibile ale rotirilor, (θ_u)^ULS, pentru verificări la Starea Limită Ultimă, se pot stabili simplificat, astfel: (a) valorile admise ale rotirilor pereților sunt egale cu 0,01 rad, pentru clădiri proiectate pentru clasa de ductilitate DCH, și 0,0075 rad, pentru clădiri proiectate pentru clasa de ductilitate DCM;
+(b) valorile admise ale rotirilor grinzilor de cuplare pentru clădiri proiectate pentru clasa de ductilitate DCM sau DCH sunt egale cu 0,04 rad, pentru grinzi de cuplare armate diagonal, și 0,015, pentru grinzi de cuplare armate ortogonal.
+7.
+Alcătuire și armare 7.1.
+Calitatea betonului (1)
+Clasa de rezistență a betonului este superioară clasei: (a)
+C16/20, pentru clădirile proiectate pentru clasele de ductilitate DCL;
+(b)
+C20/25, pentru clădirile proiectate pentru clasele de ductilitate DCM și DCH.
+7.2.
+Pereți 7.2.1.
+Secțiunea de beton 7.2.1.1.
+Pereți din suprastructură (1)
+Grosimea inimii pereților structurali, b_w0, este mai mare decât valoarea maximă dintre 150 mm și h_cl/20, unde h_cl este înălțimea liberă a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestuia.
+Nota: În cazul clădirilor multietajate curente, cu planșee alcătuite ca diafragme orizontale, h_cl reprezintă distanța liberă dintre două planșee consecutive.
+(2)
+Înălțimea relativă a zonei comprimate a unui perete, Csi_u, calculată considerând momentul încovoietor și forța axială corespunzătoare formării mecanismului plastic, M_Ed și N_Ed, este limitată superior la: (a) pentru clădirile proiectate pentru clasa de ductilitate DCH:
+Csi_u ≤ 0,35 (7.1)
+(b) pentru clădirile proiectate pentru clasa de ductilitate DCM:
+Csi_u ≤ 0,40 (7.2)
+(3)
+Efortul axial mediu normalizat în pereți este mai mic decât: (a) 0,35, pentru clădiri proiectate pentru clasa de ductilitate DCH;
+(b) 0,40, pentru clădiri proiectate pentru clasa de ductilitate DCM.
+(4)
+Lățimea zonei de capăt a pereților în zona critică este mai mare decât valoarea maximă dintre 200 mm și h_cl/10 unde h_cl este definit conform (1).
+(5)
+În cazul în care grosimea inimii peretelui în zona critică, bw_0, nu este suficientă pentru îndeplinirea condiției de la (4), în zonele de capăt ale peretelui sunt realizate evazări sub formă de bulbi sau tălpi de formă rectangulară sau circulară.
+În cazul tălpilor sau bulbilor rectangulari, în zona critică sunt respectate cumulativ următoarele condiții geometrice:
+A_f ≥ 0,01 h_cl l_w (7.3) b_f ≥ h_cl/15 (7.4) l_f ≥ h_cl/10 (7.5) b_f ≥ b_w0 (7.6) l_f ≥ b_w0 (7.7) unde:
+A_f aria secțiunii transversale a bulbului sau a tălpii; b_f grosimea secțiunii transversale a tălpii sau dimensiunea bulbului rectangular măsurată paralel cu planul inimii peretelui; b_w0 grosimea inimii peretelui; h_cl înălțimea liberă a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestuia; l_f lungimea secțiunii transversale a tălpii sau dimensiunea bulbului rectangular măsurată perpendicular pe planul inimii peretelui; l_w lungimea inimii secțiunii transversale a peretelui.
+În cazul bulbilor de formă circulară, în zona critică sunt respectate cumulativ condiția (7.3) și condițiile (7.8) și (7.9): d_f ≥ h_cl/10 (7.8) d_f ≥ b_w0 (7.9) unde: d_f diametrul secțiunii transversale a bulbului circular.
+Figura 7.1 Exemplu informativ privind notațiile dimensiunilor secțiunii transversale la pereți
+(6)
+Lățimea zonei de capăt a pereților în afara zonei critice este mai mare decât valoarea maximă dintre 150 mm și h_cl/15, unde h_cl este definit conform (1).
+(7)
+În cazul în care grosimea inimii peretelui în afara zonei critice, b_w0, nu este suficientă pentru îndeplinirea condiției de la (6), în zonele de capăt ale peretelui sunt realizate evazări sub formă de bulbi sau tălpi.
+În cazul tălpilor sau bulbilor rectangulari, în afara zonei critice se respectă cumulativ următoarele condiții geometrice:
+A_f ≥ 0,0067 h_cl l_w (7.10) b_f ≥ h_cl/15 (7.11) l_f ≥ h_cl/15 (7.12) b_f ≥ b_w0 (7.13) l_f ≥ b_w0 (7.14) unde:
+A_f aria secțiunii transversale bulbului sau tălpii; b_f grosimea secțiunii transversale a tălpii sau dimensiunea bulbului rectangular măsurată paralel cu planul inimii peretelui; b_w0 grosimea inimii peretelui; h_cl înălțimea liberă a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestuia; l_f lungimea secțiunii transversale a tălpii sau dimensiunea bulbului rectangular măsurată perpendicular pe planul inimii peretelui; l_w lungimea inimii secțiunii transversale a peretelui.
+În cazul bulbilor de formă circulară, în afara zonei critice, se respectă cumulativ condiția (7.10) și condițiile (7.15) și (7.16): d_f ≥ h_cl/15 (7.15) d_f ≥ b_w0 (7.16) unde: d_f diametrul secțiunii transversale a bulbului circular.
+(8)
+În cazul pereților prevăzuți cu bulbi, se recomandă utilizarea bulbilor de formă pătrată și/sau circulară, cu respectarea condițiilor de la (5) și (7).
+(9)
+În cazul în care pe capătul secțiunii transversale a unui perete reazemă una sau mai multe grinzi, proiectate ca elemente seismice principale în acord cu prevederile codului de proiectare P 100-1, care intersectează planul vertical al peretelui, lățimea zonei de capăt a peretelui este mai mare de 20 d_bL,max, unde d_bL,max este diametrul maxim al armăturilor longitudinale din grinzi.
+(10)
+În cazul în care pe capătul tălpii unui perete reazemă una sau mai multe grinzi, proiectate ca elemente seismice principale în acord cu prevederile codului de proiectare P 100-1, orientate transversal pe planul vertical al tălpii, se recomandă ca grosimea zonei de capăt a tălpii să respecte condiția: b_f ≥ 20 d_bL,max (7.17) unde: d_bL,max este diametrul maxim al armăturilor longitudinale din grinzi.
+(11)
+Prin excepție de la (4), în cazul în care la proiectarea structurii se utilizează metoda de calcul static neliniar, lățimea zonei de capăt a peretelui din zona critică se poate stabili din următoarele condiții cumulative: l_f ≥ h_cl/10 radical din (3,8/μ_θ - 0,25) (7.18) l_f ≥ h_cl/15 (7.19) unde: μ_θ raportul dintre rotirea peretelui în zona critică corespunzătoare deplasării orizontale a structurii la acțiunea cutremurului de proiectare, corespunzător Stării Limită Ultime, și rotirea corespunzătoare intrării în curgere a peretelui; h_cl înălțimea liberă a peretelui, măsurată între punctele de legătură care constituie reazeme pentru perete, restricționând deplasările în direcție perpendiculară pe planul acestui.
+Notă: Rotirea corespunzătoare intrării în curgere se determină prin utilizarea legii de răspuns moment-rotire,
+M-θ, în zona critică a elementului, în format biliniar, determinată prin procedeul descris la 3.3.3.2.
+Pentru pereți de formă dreptunghiulară (lamelari), în condiția (7.18), l_f se înlocuiește cu b_w0.
+(12)
+În cazul pereților prevăzuți cu evazări la capete având b_f ≤ b_w0, se recomandă ca dimensiunea secțiunii transversale a tălpii măsurată perpendicular pe planul inimii peretelui, l_f, să fie mai mare decât h_cl/4, unde h_cl este definit conform 7.2.1.1.
+(13)
+Se recomandă ca pe toată înălțimea unui perete, H_w, să se păstreze aceeași soluție de alcătuire a secțiunii transversale.
+(14)
+În cazul clădirilor multietajate, se poate reduce progresiv grosimea pereților de beton pe înălțimea acestora, cu respectarea condițiilor privind regularitatea în elevație din codul de proiectare P 100-1. Reducerea de grosime se realizează în afara zonei critice, numai în dreptul planșeelor, în trepte de maxim 25% din grosimea de la etajul inferior. În dreptul planșeului situat imediat deasupra zonei critice, grosimea peretelui nu se reduce.
+7.2.1.2.
+Pereți din infrastructură (1)
+Pereții de subsol respectă condițiile date la 7.2.1.1. împreună cu condițiile date în acest paragraf.
+(2)
+Pereții infrastructurii care se continuă în suprastructură au grosimea inimii mai mare sau egală cu grosimea inimii pereților din suprastructură.
+(3)
+Pereții de subsol perimetrali au grosimea inimii mai mare sau egală decât 200 mm.
+7.2.1.3.
+Goluri în pereți (1)
+În zonele de capăt ale pereților, pe o lungime cel puțin egală cu 0,1 l_w, față de fiecare din cele două extremități ale secțiunii transversale, nu sunt realizate goluri (cavități de orice formă nebetonate).
+(2)
+Golurile, dacă există, sunt plasate în afara traseelor diagonalelor comprimate principale, corespunzătoare mecanismului de echilibrare a eforturilor interioare de tip grindă cu zăbrele.
+Notă: O soluție exemplificativă de amplasare a golurilor pentru un perete de subsol este prezentată în Figura 7.2
+Figura 7.2 Exemplu privind amplasarea favorabilă a golurilor într-un perete de subsol
+(3)
+Golurile, dacă există, nu sunt plasate în poziții care amplifică riscul ruperii la forță tăietoare în secțiuni înclinate sau influența acestora asupra caracteristicilor mecanice ale peretelui este cuantificată explicit în calcul.
+Notă: Un caz exemplificativ de amplasare defavorabilă a golurilor într-un perete este prezentat în Figura 7.3
+Figura 7.3 Exemplu privind amplasarea defavorabilă a golurilor într-un perete
+(4)
+În cazul golurilor de dimensiuni mari, se recomandă utilizarea golurilor rotunde și/sau golurilor dreptunghiulare cu colțurile teșite (curb și/sau drept).
+7.2.2.
+Armarea pereților (1)
+La armarea pereților sunt utilizate următoarele tipuri de armături: (a) armături longitudinale - armături dispuse paralel cu axul longitudinal al peretelui, pe toată lungimea acestuia;
+(b) armături transversale - armături dispuse perpendicular pe axul longitudinal al peretelui, pe toată lungimea secțiunii transversale a acestuia;
+(c) armături de conectare - armături dispuse local în vecinătatea rosturilor de turnare ale pereților, perpendicular pe acestea;
+(d) armături pentru asigurarea ductilității locale - armături dispuse perpendicular pe axul longitudinal al peretelui, în zonele de la extremitățile secțiunii transversale, sub formă de etrieri sau agrafe;
+(e) armături de montaj.
+(2)
+Armarea pereților este realizată diferit, în zonele de capăt ale secțiunilor transversale și între acestea.
+(3)
+Calitatea oțelului pentru armarea pereților se stabilește în acord cu prevederile codului de proiectare P 100-1.
+(4)
+Etrierii și agrafele se realizează cu ciocuri întoarse la 135° având lungimea de 10d_bw, unde d_bw este diametrul barei.
+(5)
+În cazul în care pereții continuă sub zona critică cu lungimea secțiunii transversale mai mică sau egală cu 1,25l_w, unde l_w este lungimea secțiunii transversale la baza zonei critice, regulile privind armarea pereților în zonele critice sunt aplicate și imediat sub zona critică, pe o înălțime egală cu h_cr.
+(6)
+Armătura longitudinală a pereților se extinde dincolo de secțiunea din care nu mai este necesară din calculul de încovoiere, către zona de moment nul, pe o lungime egală cu l_w, unde l_w este înălțimea secțiunii transversale a peretelui. 7.2.2.1.
+Armarea zonelor de capăt (1)
+Armarea zonelor de capăt ale pereților se realizează cu carcase realizate din bare longitudinale și armături transversale de tipul etrierilor închiși, perimetrali și interiori.
+(2)
+Zonele de capăt ale secțiunii transversale se măsoară paralel cu planul median al peretelui, pe o lungime cel puțin egală cu 0,1 l_w, față de fiecare din cele două extremități ale peretelui.
+(3)
+Regulile privind armarea transversală date în acest paragraf sunt aplicate pe o lungimea mai mare sau egală cu 0,6 din înălțimea zonei comprimate a peretelui în combinația seismică de proiectare.
+(4)
+Aria minimă de armătură longitudinală dispusă în zonele de capăt ale secțiunilor transversale este mai mare decât aria corespunzătoare valorilor minim admise ale: (a) coeficientului mecanic de armare longitudinală, omega_l: omega_l = A_sl/A_c f_yd/f_cd (7.20)
+(b) coeficientului de armare, p_l: p_l = A_sl/A_c (721) unde:
+A_c aria secțiunii de beton a zonei de capăt;
+A_sl aria armăturii longitudinale dispusă în aria Ac; f_yd valoarea de proiectare a limitei de curgere a oțelului; f_cd valoarea de proiectare a rezistenței betonului la compresiune.
+(5)
+Coeficientul mecanic de armare longitudinală în zonele de capăt ale secțiunilor transversale ale pereților, omega_l, pentru clădiri proiectate pentru clasa de ductilitate DCH sau DCM, este mai mare decât: (a) pentru amplasamente caracterizate de a_g >0,15g: - 0,15, în zonele critice ale peretelui;
+- 0,12, în afara zonelor critice.
+(b) pentru amplasamente caracterizate de a_g ≤ 0,15g: - 0,12, în zonele critice ale peretelui;
+- 0,10, în afara zonelor critice.
+(6)
+Coeficientul mecanic de armare longitudinală în zonele de capăt ale secțiunilor transversale ale pereților, omega_l, pentru clădiri proiectate pentru clasa de ductilitate DCL este mai mare decât 0,10.
+(7)
+Coeficientul de armare longitudinală în zonele de capăt ale secțiunilor transversale ale pereților, este mai mare decât: (a) 0,005, pentru clădiri proiectate pentru clasa de ductilitate DCH sau DCM;
+(b) 0,0025, pentru clădiri proiectate pentru clasa de ductilitate DCL.
+(8)
+Diametrul minim al armăturilor longitudinale dispuse în zonele de capăt este 12 mm. Diametrul minim al armăturilor longitudinale de la colțul carcaselor din zonele de capăt este 14 mm.
+(9)
+Carcasele se alcătuiesc astfel încât să se restricționeze flambajul barelor longitudinale comprimate. Armăturile longitudinale situate pe perimetrul exterior al carcasei din zona de capăt se poziționează la colțul unui etrier perimetral sau interior. Pot face excepție o parte dintre barele longitudinale intermediare poziționate astfel încât distanța dintre barele consecutive aflate la colțul unui etrier nu este mai mare de 150 mm, pentru clasa de ductilitate DCH, 200 mm, pentru clasa de ductilitate DCM și 250 mm, pentru clasa de ductilitate DCL.
+(10)
+Pentru restricționarea flambajului armăturilor comprimate, în condițiile menționate la (9) se pot dispune suplimentar și etrieri deschiși și/sau agrafe.
+(11)
+Distanțele dintre etrieri și distanțele dintre agrafe, s, respectă condițiile: (a) în pereții structurilor proiectate pentru clasa DCH: - s ≤ min {7d_bL,min; 125 mm; b_0/3}, în zonele critice ale peretelui;
+- s ≤ min {10d_bL,min; 200 mm}, în afara zonelor critice.
+(b) în pereți structurali proiectați pentru clasa DCM: - s ≤ min {8d_bL,min; 175 mm, b_0/2}, în zonele critice ale peretelui;
+- s ≤ min {12d_bL,min; 200 mm}, în afara zonelor critice.
+(c) în pereți structurali proiectați pentru clasa DCL: - s ≤ min {12d_bL,min; 250 mm}, în orice zonă a peretelui.
+unde: d_bL,min diametrul minim al armăturilor longitudinale din zona de capăt a secțiunii transversale a peretelui; b_0 lățimea carcasei zonei de capăt măsurată între axele armăturilor longitudinale, la extremitatea exterioară a secțiunii transversale (lățimea miezului de beton confinat).
+Notă: Dacă, în vederea îndeplinirii condiției de la (9), se utilizează mai multe tipuri de armături transversale, cum sunt etrieri sau agrafe cu diferite configurații geometrice, condițiile de la (9) se aplică distinct pentru fiecare tip de armătură transversală în parte.
+(12)
+Etrierii carcaselor din zonele de capăt ale secțiunilor transversale ale pereților sunt realizați astfel încât au capacitatea de rezistență la întindere mai mare sau egală decât cea a armăturilor transversale din inima peretelui cu care se înnădesc, pe toată lungimea zonei de capăt.
+(13)
+Etrierii din zonele de capăt ale secțiunilor transversale ale pereților, în zonele critice ale acestora, sunt realizați din bare cu diametrul mai mare sau egal decât: (a) maximul dintre d_bL,max/3 și 8 mm pentru clădiri proiectate pentru clasa de ductilitate DCH;
+(b) maximul dintre d_bL,max/4 și 8 mm pentru clădiri proiectate pentru clasele de ductilitate DCM și DCL;
+unde: d_bL,max este diametrul maxim al armăturilor longitudinale.
+(14)
+La structurile proiectate pentru clasa de ductilitate DCH sau DCM, în zone seismice cu a_g > 0,15g, în zona critică a pereților cu tălpi, inclusiv a pereților compuși, măsurile privind restricționarea flambajului barelor longitudinale comprimate se asigură pe toată lungimea tălpii.
+(15)
+Detalii cu caracter informativ privind armarea zonelor de capăt ale pereților sunt date în Figura 7.4.
+7.2.2.2.
+Armarea inimii (1)
+Armarea inimii și tălpilor pereților se realizează cu minim două plase dispuse în vecinătatea fețelor laterale ale acestora. Armăturile transversale se dispun spre fața exterioară a peretelui și armăturile longitudinale se dispun spre zona centrală a inimii peretelui.
+(2)
+Aria totală de armătură longitudinală sau transversală a pereților care se dispune distribuit pe inima acestora este superioară valorilor minim admise ale: (a) coeficientului de armare longitudinală, p_l0: p_l0 = A_sl/b_w0 S_l (7.22)
+(b) coeficientului de armare transversală, p_h0: p_h0 = A_sh/b_w0 S_h (7.23) unde: b_w0 lățimea inimii peretelui;
+S_l distanța dintre două rânduri succesive de bare longitudinale;
+A_sl aria de armătură longitudinală dispusă pe aria b_w0 si;
+S_h distanța dintre două rânduri succesive de bare transversale;
+A_sh aria de armătură transversală dispusă pe aria b_w0 S_h.
+(3)
+Coeficientul minim de armare longitudinală distribuită a inimilor pereților este: (a) pentru amplasamente caracterizate de a_g > 0,15g, 0025;
+(b) pentru amplasamente caracterizate de a_g ≤ 0,15g, 0,002.
+(4)
+Diametrul minim al armăturilor longitudinale distribuite în inima pereților este 10 mm.
+(5)
+Distanța maximă dintre barele longitudinale distribuite în inima pereților este 350 mm.
+(6)
+Coeficientul minim de armare transversală distribuită a inimilor pereților este: (a) pentru amplasamente caracterizate de a_g > 0,15g: - 0,0025, pe o lungime egală cu dublul lungimii zonei critice, măsurată de la baza acesteia către capătul superior al peretelui;
+- 0,0020, în rest.
+(b) pentru amplasamente caracterizate de a_g ≤ 0,15g, 0,002.
+(7)
+Diametrul minim al armăturilor transversale distribuite în inima pereților este 8 mm.
+(8)
+Distanța maximă dintre barele transversale distribuite în inima pereților este 250 mm.
+(9)
+Armăturile transversale din inima pereților sunt detaliate astfel încât să se asigure transferul eforturilor de întindere către etrierii carcaselor din zonele de capăt. Armăturile transversale cu diametrul mai mare sau egal cu 14 mm se introduc în interiorul carcaselor din zonele de capăt. În acest scop, armăturile transversale se fasonează conform detaliului din Figura 7.4.
+Figura 7.4 Detaliu exemplificativ privind realizarea conlucrării dintre barele transversale și armăturile din zona de capăt a peretelui
+(10)
+Plasele sunt solidarizate prin agrafe, fiind dispuse cel puțin: - 4 agrafe ø06/mp, în cazul barelor cu d_b,max ≤ 10 mm;
+- 6 agrafe ø6/mp, în cazul barelor cu d_b,max >10 mm;
+unde: d_b,max este diametrul maxim al barelor longitudinale sau verticale prinse de agrafă..
+(11)
+Agrafele sunt realizate astfel încât prind exteriorul nodului format din barele dispuse pe cele două direcții.
+7.2.2.3.
+Armarea zonelor de intersecție dintre pereți (1)
+Zona de intersecție dintre pereți reprezintă aria comună a secțiunii transversale a doi sau mai mulți pereți care se intersectează, extinsă în lungul inimii fiecărui perete pe o lungime cel puțin egală cu lățimea inimii peretelui dispus transversal, b_w0 (Figura 7.5).
+(2)
+Armarea zonelor de intersecție se realizează cu carcase realizate din bare longitudinale și etrieri.
+(3)
+Se dispun în plan orizontal etrieri așezați în lungul inimii fiecărui perete care se intersectează, pe toată lungimea zonei de intersecție, care asigură conlucrarea dintre pereții dispuși pe cele două direcții (Figura 7.5).
+(4)
+Zonele de intersecție se armează longitudinal cu cel puțin 10 bare de diametru 12 mm, în cazul intersecțiilor de trei pereți (intersecție în forma literei "T"), sau cel puțin 12 bare de diametru 12 mm, în cazul intersecțiilor a patru pereți (intersecție în cruce).
+(5)
+Coeficientul de armare longitudinală în zonele de intersecție este mai mare decât: (a) 0,005, pentru clădiri proiectate pentru clasa de ductilitate DCH sau DCM;
+(b) 0,002, pentru clădiri proiectate pentru clasa de ductilitate DCL.
+(6)
+Etrierii carcaselor din zonele de intersecție sunt realizați astfel încât să aibă capacitatea de rezistență la întindere mai mare sau egală decât cea a armăturilor transversale din inima pereților cu care se înnădesc.
+(7)
+Etrierii din zonele de intersecție, în zonele critice ale pereților, sunt realizați din bare cu diametrul mai mare sau egal decât: (a) maximul dintre d_bL/3 și 8 mm pentru clădiri proiectate pentru clasa de ductilitate DCH;
+(b) maximul dintre d_bL/4 și 8 mm pentru clădiri proiectate pentru clasa de ductilitate DCM; unde: d_bl este diametrul maxim al armăturilor longitudinale din zona de intersecție.
+(8)
+În cazul în care armăturile transversale ale pereților care se intersectează sunt întrerupte în dreptul intersecției, etrierii carcaselor din zona de intersecție sunt dimensionați și detaliați astfel încât asigură transferul complet al eforturilor de întindere între armăturile transversale. Ramurile etrierilor paralele cu planul median al inimii peretelui sunt prelungite cel puțin cu lungimea de suprapunere necesară, în raport cu fața laterală a peretelui perpendicular.
+(9)
+Distanța dintre etrieri este mai mică sau egală cu distanța dintre armăturile transversale ale inimii peretelui.
+(10)
+Detalii cu caracter informativ privind armarea zonelor de intersecție dintre pereți sunt date în Figura 7.5.
+Figura 7.5 Detaliu exemplificativ privind armarea zonelor de intersecție dintre pereți
+7.2.2.4.
+Bordarea golurilor (1)
+Golurile din pereți se bordează cu armături verticale și orizontale conform reprezentării informative din Figura 7.6.
+(2)
+Aria armăturilor de bordaj este mai mare decât aria armăturilor curente din perete întrerupte din cauza golului. Armătura de bordaj este suficientă pentru preluarea eforturilor care se dezvoltă local în perete din cauza prezenței golului.
+(3)
+Armăturile orizontale de bordaj pot include și armătura centurii planșeului.
+(4)
+Armătura orizontală prevăzută la partea superioară și, după caz, la partea inferioară a golului este suficientă pentru a prelua și momentul încovoietor care se dezvoltă în grinda creată prin introducerea golului.
+(5)
+Lungimea de ancorare pentru barele care bordează goluri în pereți este suficientă astfel încât să se antreneze cel puțin numărul de bare întrerupte în fiecare direcție conform schemei din Figura 7.6.
+Figura 7.6 Ancorarea armăturilor care bordează goluri în pereți
+7.2.3.
+Armarea pereților din infrastructură (1)
+Armătura orizontală totală distribuită în inima pereților din infrastructură corespunde unui procent de armare mai mare sau egal cu 0,30%.
+(2)
+Distanța dintre barele orizontale distribuite în inima pereților este mai mică sau egală cu 250 mm.
+(3)
+Armătura verticală totală distribuită în inima pereților din infrastructură corespunde unui procent de armare mai mare sau egal cu 0,30%.
+(4)
+Distanța barele verticale distribuite în inima pereților este mai mică sau egală cu 350 mm.
+7.2.4.
+Ancorarea și înnădirea armăturilor din pereți (1)
+Pentru ancorarea și înnădirea armăturilor la clădiri proiectate pentru clasa de ductilitate DCL, se aplică prevederile SR EN 1992-1-1.
+(2)
+Pentru ancorarea și înnădirea armăturilor la clădiri proiectate pentru clasa de ductilitate DCM sau DCH, se aplică prevederile codului de proiectare P 100-1 și SR EN 1992-1-1, împreună cu prevederile suplimentare date în acest paragraf.
+(3)
+Armăturile longitudinale din pereți nu sunt înnădite prin suprapunere în zonele critice.
+(4)
+Armăturile transversale din pereți nu sunt înnădite prin suprapunere în zonele critice. Fac excepție barele transversale din inima pereților care se înnădesc prin suprapunere cu ramurile orizontale ale etrierilor din zonele de capăt sau de intersecție.
+(5)
+Prin excepție de la (3), barele longitudinale din inima pereților, situate în afara zonelor de capăt sau a celor de intersecție definite conform 7.2.2.1 și 7.2.2.3, se pot înnădi prin suprapunere de la o distanță egală cu minim h_cr/2 măsurată de baza zonei critice în sus, unde h_cr este determinat conform 3.2.5. Lungimea de suprapunere a acestor bare se calculează conform SR EN 1992-1-1, considerând că efortul maxim de întindere sau de compresiune care se dezvoltă în bară este 1,25f_yd.
+(6)
+Prin excepție de la 7.2.2 (5) și (3), barele longitudinale se pot înnădi prin suprapunere de la o distanță egală cu minim h_cr/3 sub cota inferioară a zonei critice unde h_cr este determinat conform 3.2.5. Lungimea de suprapunere a acestor bare se calculează conform SR EN 1992-1-1, considerând că efortul maxim de întindere sau de compresiune care se dezvoltă în bară este 1,25f_yd.
+(7)
+La pereții care în situația formării complete a mecanismului plastic sunt solicitați la întindere excentrică cu excentricitate mică lungimea de înnădire prin suprapunere a armăturilor longitudinale din zonele de capăt sau de intersecție se mărește cu 50% față de valoarea determinată conform SR EN 1992-1-1.
+(8)
+Dispozitive de cuplare mecanice cap-la-cap utilizate pentru înnădirea armăturilor au agrement tehnic pentru domenii de utilizare compatibile cu clasa de ductilitate selectată, pentru solicitări seismice. Pentru clădirile proiectate pentru clasele de ductilitate DCH și DCM, dispozitivele de cuplare mecanice asigură curgerea barelor de armătură până la epuizarea capacității lor de deformare la solicitări ciclic alternante, fără cedarea îmbinării. Nu este permisă cedarea îmbinării.
+(9)
+Armăturile transversale din inimile sau tălpile pereților se înnădesc prin suprapunere cu ramurile orizontale ale etrierilor din zonele de capăt sau zonele de intersecție. Pentru armăturile transversale cu diametrul mai mare sau egal cu 14 mm, ancorarea se realizează în interiorul carcaselor din zonele de capăt sau ale secțiunilor transversale ale pereților (Figura 7.4.) În acest scop armăturile transversale se fasonează prin graifuire.
+7.3.
+Grinzi de cuplare 7.3.1.
+Secțiunea de beton (1)
+Grinzile de cuplare sunt realizate din beton având aceeași clasă de rezistență ca pereții pe care îi cuplează.
+(2)
+Lățimea secțiunii transversale a grinzilor de cuplare este mai mică sau egală cu lățimea zonei de capăt a pereților pe care îi cuplează.
+(3)
+În cazul grinzilor de cuplare armate diagonal, lățimea grinzilor este de cel puțin 250 mm.
+(4)
+Pentru clădirile proiectate pentru clasa de ductilitate DCH sau DCM, grinzile de cuplare având raportul dintre deschiderea liberă și înălțimea secțiunii transversale mai mic decât 3 nu sunt slăbite prin goluri cu excepția golurilor de formă circulară care îndeplinesc cumulativ următoarele condiții: (a) diametrul golurilor, d, este mai mic sau egal cu h_w/10, unde h_w este înălțimea secțiunii transversale a grinzii
+(b) golurile sunt amplasate în afara diagonalelor principale ale grinzii, recomandabil la mijlocul acesteia, la intradosul plăcii de beton;
+(c) distanța dintre goluri este mai mare decât maximul dintre 0,2h_w și jumătate din lățimea inimii grinzii, 0,5b_w;
+(d) aria totală a golurilor este mai mică de 2% din aria laterală a grinzii, l_cl h_w.
+(e) golurile cu diametrul mai mare sau egal cu 60 mm sunt bordate cu țeavă de oțel având grosimea mai mare sau egală cu 1/25 din diametru și 3 mm, rigidizată inelar și radial, prinsă în beton cu armături de conectare sudate.
+7.3.2.
+Armarea grinzilor de cuplare (1)
+Pentru clădirile proiectate pentru clasa de ductilitate DCM sau DCH, armătura dispusă în grinzile de cuplare îndeplinește condițiile de la 7.3.2.1 și 7.3.2.2.
+(2)
+Pentru clădirile proiectate pentru clasa de ductilitate DCL, armătura dispusă în grinzile de cuplare îndeplinește condițiile date în SR EN 1992-1-1.
+(3)
+Calitatea oțelului pentru armarea grinzilor de cuplare se stabilește în acord cu prevederile codului de proiectare P 100-1. 7.3.2.1.
+Grinzi de cuplare armate cu carcase ortogonale (1)
+Carcasele ortogonale pentru armarea grinzilor de cuplare sunt alcătuite din: (a) armături longitudinale poziționate la extremitatea superioară și inferioară a secțiunii transversale;
+(b) armături longitudinale intermediare, uniform distribuite pe inimă;
+(c) etrieri perimetrali și, după caz, interiori.
+(2)
+Barele longitudinale poziționate la extremitatea superioară și inferioară a secțiunii transversale sunt dimensionate astfel încât să asigure o capacitate de rezistență la încovoiere superioară valorii de proiectare a momentului încovoietor. Coeficienții de armare longitudinală corespunzători armăturilor întinse pentru fiecare sens de acțiune a momentului încovoietor, poziționate la extremitatea superioară sau inferioară a secțiunii transversale, sunt mai mari sau egali cu 0,003, dar nu mai puțin de 0,50f_ctm/f_yk. Se dispun cel puțin două bare de armătură de diametrul 14 mm la fiecare dintre extremitățile secțiunii transversale, continue pe toată deschiderea grinzii.
+(3)
+Coeficientul de armare corespunzător armăturilor longitudinale intermediare, uniform distribuite pe inimă, este mai mare decât: (a) pentru grinzi de cuplare la care l_cl ≥ 1,5h_w: - 0,0025 pentru clasa DCH;
+- 0,0020 pentru clasa DCM;
+(b) pentru grinzi de cuplare la care l_cl < 1,5h_w: - 0,0040 pentru clasa DCH;
+- 0,0030 pentru clasa DCM.
+Notă: Coeficientul de armare corespunzător armăturilor longitudinale intermediare, uniform distribuite pe inimă, se determină ca raportul dintre aria unui rând de armături intermediare și aria aferentă de beton.
+(4)
+Armăturile longitudinale intermediare au diametrul mai mare sau egal cu 12 mm.
+(5)
+Etrierii sunt realizați din bare cu diametrul mai mare sau egal cu 8 mm.
+(6)
+Coeficientul de armare corespunzător armăturilor transversale este mai mare decât 0,002.
+(7)
+Distanța dintre etrieri, s, îndeplinește condiția: s ≤ min {7 d_bL,min; 150 mm} (7.24) unde: d_bL,min este diametrul minim al armăturilor longitudinale de la extremitățile secțiunii transversale a grinzii.
+(8)
+O soluție cu caracter informativ privind armarea grinzilor de cuplare cu carcase ortogonale este prezentată în Figura 7.7.
+Figura 7.7 Detaliu exemplificativ privind armarea cu carcase ortogonale
+7.3.2.2.
+Grinzi de cuplare armate diagonal (1)
+Grinzile de cuplare armate diagonal se pot realiza în două soluții care diferă prin modul de confinare a betonului din diagonalele comprimate: (a) grinzi armate cu carcase diagonale;
+(b) grinzi armate cu bare diagonale și confinare perimetrală.
+(2)
+În grinzile armate cu carcase diagonale sunt dispuse: (a) carcase diagonale alcătuite din armături înclinate diagonale paralele cu cele două diagonale ale grinzii în elevație și armături transversale de confinare, perpendiculare pe direcția armăturilor înclinate;
+(b) carcase ortogonale, alcătuite din bare longitudinale, poziționate la extremitățile secțiunii transversale și distribuit pe înălțimea acesteia, și etrieri perimetrali.
+(3)
+În grinzile armate cu bare diagonale și confinare perimetrală sunt dispuse: (a) armături înclinate diagonale paralele cu cele două diagonale ale grinzii în elevație;
+(b) carcase ortogonale, alcătuite din bare longitudinale, poziționate la extremitățile secțiunii transversale și distribuite pe înălțimea acesteia, și etrieri perimetrali de confinare.
+(4)
+Armăturile înclinate sunt realizate din bare continue, fără înnădiri. Sunt dispuse minim 4 bare de diametru 12 mm, pe două rânduri.
+(5)
+Armăturile înclinate se dispun pe fiecare diagonală a grinzii, pe minim jumătate din lățimea inimii grinzii, b_w.
+(6)
+Armăturile înclinate asigură capacitatea de rezistență la încovoiere și forță tăietoare.
+Armăturile transversale ale carcaselor înclinate, armăturile transversale și longitudinale ale carcaselor ortogonale asigură stabilitatea comportării histeretice a grinzii de cuplare și sunt dispuse pe criterii constructive.
+(7)
+Pentru grinzile armate cu carcase diagonale armarea transversală a carcasei diagonale este realizată cu etrieri sau cu fretă continuă cu următoarele condiții: (a) distanța dintre etrieri sau pasul fretei, s, îndeplinește condiția: s ≤ min {{6d_bi,min; 100 mm; b_0/3} (7.25) unde: d_bi,min diametrul minim al armăturilor înclinate; b_0 distanța orizontală dintre axul armăturilor longitudinale de la colțurile carcasei diagonale (lățimea miezului de beton confinat).
+(b) diametrul etrierilor sau al fretei, d_bw, pentru armarea carcasei diagonale îndeplinește condiția: d_bw ≥ max{8 mm; d_bi,max/3} unde: d_bi,max diametrul maxim al armăturilor înclinate.
+(8)
+Pentru grinzile armate cu carcase diagonale armarea carcasei ortogonale îndeplinește următoarele condiții: (a) coeficientul de armare total al armăturilor longitudinale este mai mare de 0,0025;
+(b) diametrul armăturilor longitudinale este mai mare sau egal cu 12 mm;
+(c) distanța maximă dintre armăturile longitudinale este mai mică de 200 mm;
+(d) coeficientul de armare transversală corespunzător etrierilor din carcasele ortogonale este mai mare de 0,002;
+(e) distanța dintre etrieri, măsurată în lungul grinzii, este mai mică decât 200 mm;
+(f) diametrul etrierilor este mai mare sau egal cu 10 mm;
+(9)
+Pentru grinzile armate cu bare diagonale și confinare perimetrală, armarea carcasei ortogonale îndeplinește următoarele condiții: (a) coeficientul de armare total al armăturilor longitudinale este mai mare de 0,0025;
+(b) armătura longitudinală se distribuie uniform pe perimetrul secțiunii transversale;
+(c) diametrul minim al armăturilor longitudinale este 12 mm;
+(d) distanța maximă dintre armăturile longitudinale, măsurată în lungul perimetrului secțiunii transversale, este mai mică de 150 mm și b_w/2;
+(e) coeficientul de armare transversală corespunzător etrierilor din carcasele ortogonale este mai mare de 0,002;
+(f) distanța maximă în secțiunea transversală dintre ramurile verticale ale etrierilor perimetrali sau interiori sau ale agrafelor, măsurată în direcția orizontală perpendiculară pe axul grinzii este de 150 mm;
+(g) distanța dintre etrieri, măsurată în lungul grinzii, este mai mică sau egală decât 125 mm, 6d_bi,min și b_w/2, unde d_bi,min este diametrul minim al armăturilor înclinate și bw este lățimea inimii grinzii;
+(h) diametrul etrierilor sau agrafelor este mai mare decât 8 mm și d_bi,max/3, unde d_bi,max este diametrul maxim al armăturilor înclinate;
+(i) în toate punctele de intersecție ale barelor longitudinale intermediare cu ramurile verticale ale etrierilor se dispun agrafe orizontale cu rol de confinare. Acestea traversează întreaga inimă a grinzii și sunt realizate din bare de diametru minim 8 mm cu ambele ciocuri care îmbracă prin exterior nodul realizat din barele longitudinale și transversale ale carcasei îndoite la 135°.
+(10)
+Pentru limitarea forțelor tăietoare care se dezvoltă în grindă sub acțiunea cutremurului de proiectare, armăturile longitudinale ale carcaselor ortogonale se ancorează în elementele de reazem pe o lungime egală cu 10d_bl, unde d_bl este diametrul barei care se ancorează.
+(11)
+O soluție cu caracter informativ privind grinzile armate cu carcase diagonale este prezentată în Figura 7.8.
+Figura 7.8 Detaliu exemplificativ privind armare cu carcase diagonale
+(12)
+O soluție cu caracter informativ privind grinzile armate cu bare diagonale și confinare perimetrală este prezentată în Figura 7.9.
+Figura 7.9 Detaliu exemplificativ privind armare cu bare diagonale și confinare perimetrală
+7.3.2.3.
+Ancorarea și înnădirea armăturilor din grinzi (1)
+Pentru ancorarea și înnădirea armăturilor la clădiri proiectate pentru clasa de ductilitate DCL, se aplică prevederile SR EN 1991-1-1.
+(2)
+Pentru ancorarea și înnădirea armăturilor la clădiri proiectate pentru clasa de ductilitate DCM sau DCH, se aplică prevederile codului de proiectare P 100-1 și SR EN 1992-1-1, împreună cu prevederile suplimentare date în acest paragraf.
+(3)
+Armăturile longitudinale și transversale din grinzile de cuplare nu sunt înnădite prin suprapunere în zonele critice.
+(4)
+Dispozitive de cuplare mecanice cap-la-cap utilizate pentru înnădirea armăturilor sunt validate prin încercări efectuate în condiții compatibile cu clasa de ductilitate selectată, pentru solicitări seismice. Pentru clădirile proiectate pentru clasele de ductilitate DCH și DCM, dispozitivele de cuplare mecanice asigură curgerea barelor de armătură până la epuizarea capacității lor de deformare la solicitări ciclic alternante, fără cedarea îmbinării. Nu este permisă cedarea îmbinării.
+(5)
+Armăturile diagonale sunt ancorate în elementele de reazem pentru a putea dezvolta un efort maxim de întindere și un efort maxim de compresiune egal cu 1,50f_yd.
+(6)
+Armăturile longitudinale ale grinzilor armate cu carcase ortogonale sunt ancorate în elementele de reazem pentru a putea dezvolta un efort maxim de întindere și un efort maxim de compresiune egal cu 1,35f_yd.
+7.4.
+Zonele de intersecție a pereților cu diafragmele orizontale (1)
+Pe grosimea plăcii este prevăzută în perete o armare de centură, formată din cel puțin 4 bare longitudinale.
+(2)
+Aria totală a armăturilor longitudinale din centură este mai mare decât 0,008b_w0 h_f, unde b_w0 este lățimea inimii peretelui și h_f este grosimea plăcii.
+(3)
+Diametrul armăturilor longitudinale din centuri este mai mare sau egal cu 12 mm.
+7.5.
+Planșeele din infrastructură (1)
+Grosimea plăcii planșeului de transfer, situat imediat sub zona critică a pereților, este de minim 150 mm.
+(2)
+La clădiri multietajate având unul sau mai multe subsoluri, plăcile de peste subsoluri sunt armate longitudinal la ambele fețe cu plase continue.
+(3)
+Cantitatea de armătură din fiecare plasă, pe fiecare din cele două direcții orizontale, corespunde unui procent de armare mai mare de 0,25 % și este mai mare de 300 mmp/m.
+8.
+Structuri prefabricate (1)
+Acest capitol conține prevederi privind structurile cu pereți de beton armat realizați din elementele prefabricate de tip placă (denumite în continuare panouri prefabricate).
+(2)
+La proiectarea structurilor realizate din panouri mari prefabricate se utilizează prevederile reglementărilor tehnice specifice împreună cu prevederile suplimentare date în această reglementare tehnică.
+(3)
+Prin măsurile de alcătuire a elementelor prefabricate și a îmbinărilor este realizată o comportare structurală similară cu cea a structurilor cu pereți de beton monolit.
+(4)
+Pereții structurali alcătuiți integral sau parțial din panouri prefabricate respectă cerințele generale de alcătuire date în capitolul 7. Grinzile de cuplare alcătuite integral sau parțial din panouri prefabricate respectă cerințele generale de alcătuire date în capitolul 7.
+(5)
+Structurile cu pereți din elemente prefabricate respectă cerințele generale privind proiectarea seismică indicate la capitolul 3.
+(6)
+Valorile de proiectare ale eforturilor sunt determinate în acord cu prevederile date în capitolul 4.
+(7)
+În condițiile respectării prevederii de la 8, capacitățile de rezistență ale elementelor structurale sunt determinate conform prevederilor capitolului 5 și SR EN 1992-1-1.
+(8)
+În condițiile respectării prevederii de la 8, capacitățile de deformare ale elementelor structurale sunt determinate conform prevederilor capitolului 6.
+(9)
+În cazul clădirilor proiectate pentru clasele de ductilitate DCH sau DCM, continuitatea elementelor prefabricate este realizată numai prin îmbinări umede de beton armat.
+(10)
+Armătura dispusă în zonele de îmbinare răspunde elastic la incidența cutremurului de proiectare. Pot face excepție: (a) armăturile verticale ale pereților care se deformează plastic ca urmare a încovoierii acestora, conform configurației mecanismului plastic, dacă este asigurată transmiterea integrală a eforturilor la incidența cutremurului de proiectare, fără degradarea îmbinării;
+(b) armăturile orizontale ale grinzilor de cuplare care se deformează plastic ca urmare a încovoierii acestora, conform configurației mecanismului plastic, dacă este asigurată transmiterea integrală a eforturilor la incidența cutremurului de proiectare, fără degradarea îmbinării.
+(11)
+Structura cu pereți de beton armat realizați, integral sau parțial, din panouri mari prefabricate este proiectată considerând o valoare maximă a factorului de comportare redusă cu 30% față de valorile prevăzute de codul de proiectare P 100-1.
+(12)
+Planșeul realizat parțial sau integral din panouri prefabricate, este conceput astfel încât să se asigure comportarea lui ca diafragmă practic infinit rigidă și rezistentă în planul ei. 8.1.
+Îmbinările panourilor prefabricate (1)
+Îmbinările dintre panourile prefabricate asigură o comportare similară cu cea a structurilor realizate monolit, prin turnarea betonului in situ, în poziția din proiect, sub aspectul rigidității, al capacității de rezistență și al ductilității.
+(2)
+Îmbinările verticale dintre panourile de perete asigură legătura orizontală între panouri sau între panouri și zonele de capăt ale pereților.
+(3)
+Îmbinările orizontale dintre panourile de perete asigură legătura verticală între panouri sau între panouri și elementele de reazem.
+(4)
+Îmbinările orizontale dintre panourile de planșeu asigură legătura orizontală între panouri sau între panouri și elementele de reazem.
+(5)
+Îmbinările dintre panourile prefabricate sau dintre panourile prefabricate și zone realizate monolit răspund elastic la solicitarea de lunecare la incidența cutremurului de proiectare. Capacitatea de rezistență la lunecare este cu 25% mai mare decât efortul de lunecare asociat formării mecanismului plastic în structură.
+(6)
+Forțele de compresiune din panourile prefabricate de perete se transmit direct, prin contact nemijlocit între panouri și betonul turnat monolit.
+(7)
+Forțele de întindere din panourile prefabricate se transmit prin armăturile înnădite. Înnădirea este realizată în acord cu prevederile SR EN 1992-1-1 cu limitările date în această reglementare tehnică.
+(8)
+Prin modul de poziționare al armăturilor înnădite este asigurată transmiterea fără excentricitate a eforturilor de întindere.
+(9)
+Transmiterea eforturilor normale și tangențiale prin îmbinări este realizată uniform distribuit, evitându-se concentrarea de eforturi în anumite zone;
+(10)
+Gabaritul zonelor de îmbinare, stâlpi și centuri, este suficient pentru realizarea de spații pentru montarea și înnădirea armăturilor și pentru betonarea și compactarea betonului în condiții bune.
+(11)
+Prin modul de alcătuire a îmbinărilor din zonele critice ale pereților și grinzilor de cuplare este asigurată distribuția deformațiilor specifice de întindere din armături pe o lungime suficientă pentru a se evita în toate situațiile depășirea deformației specifice ultime a oțelului.
+(12)
+Toate îmbinările dintre panouri sunt de tip deschis și permit controlul vizual al lucrărilor de armare, înainte de turnarea betonului din îmbinare, și al calității betonului turnat. 8.1.1.
+Îmbinări verticale ale panourilor de perete (1)
+Fețele laterale ale panourilor adiacente îmbinărilor verticale sunt profilate sub formă de dinți. Adâncimea dinților este de minim 25 mm. Raportul h/d între dimensiunile dinților este mai mic decât 8. Unghiul de racordare α este mai mic decât 30°. Lungimea totală a secțiunilor de forfecare a dinților (Σh_d) este de circa jumătate din înălțimea panoului.
+Figura 8.1 Detaliu privind configurarea fețelor verticale ale panourilor
+(2)
+Armătura orizontală a panourilor este continuă peste zonele de îmbinare pe verticală dintre panouri. Continuitatea armăturii se asigură prin înnădire în acord cu prevederile SR EN 1992-1-1. Înnădirea se dimensionează considerând un efort de întindere în barele orizontale ale panourilor mai mare sau egal cu f_yd.
+(3)
+Pentru asigurarea continuității armăturilor orizontale se pot utiliza armături fasonate în formă de bucle așezate în plan orizontal, înnădite prin suprapunere. Distanța maximă dintre bucle măsurată pe verticală este de 300 mm. Buclele se amplasează în alveolele care se formează între dinții de beton. Armăturile sub formă de buclă se fasonează în acord cu prevederile SR EN 1992-1-1.
+(4)
+Dimensiunile și armarea zonelor de îmbinare verticală a panourilor sunt realizate respectând condițiile de alcătuire și armare specifice a zonelor de intersecție ale pereților date la 7.2.2.3 și condițiile suplimentare date la (5).
+(5)
+Diametrul minim al etrierilor dispuși în zonele de intersecție este de 6 mm. Distanța maximă între legăturile transversale ale barelor verticale este de 10d_bl,min, unde d_hi,min este diametrul minim al barelor verticale.
+Figura 8.2 Detaliu îmbinare cu bucle
+8.1.2.
+Îmbinări orizontale ale panourilor de perete (1)
+Pe fețele superioară și inferioară ale panourilor de pereți, adiacente zonelor de îmbinare orizontale, sunt realizate alveole (amprente) cu adâncimea minimă de 25 mm și suprafața de contact este prelucrată pentru a prezenta rugozitate.
+(2)
+Îmbinările orizontale ale panourilor sunt alcătuite sub forma unor centuri continue având înălțimea mai mare sau egală cu grosimea panourilor de placă ale planșeului.
+(3)
+Armătura verticală a panourilor este continuă peste zonele de îmbinare pe verticală dintre panouri. Continuitatea armăturii se asigură prin înnădire în acord cu prevederile SR EN 1992-1-1. Înnădirea se dimensionează considerând un efort de întindere în barele verticale ale panourilor în acord cu configurația mecanismului plastic al structurii. Prin modul de realizare a detaliilor de înnădire se realizează transmiterea fără excentricitate a eforturilor de întindere din armături.
+(4)
+Pentru asigurarea continuității armăturilor verticale din panouri, în afara zonelor critice, se pot dispune bare cu rol de conectori dispuse la distanțe mai mari decât armătura verticală curentă a panourilor. Barele cu rol de conectori au diametrul mai mare sau egal cu 14 mm.
+8.1.3.
+Îmbinări orizontale ale panourilor de planșeu (1)
+Acest paragraf conține prevederi privind modul de îmbinare a panourilor orizontale de planșeu în situația în care acesta este realizat din panouri mari prefabricate, fără suprabetonare.
+(2)
+În cazul rezemării pe pereți prefabricați, panourile de planșeu sunt retrase pe tot conturul în raport cu fețele pereților prefabricați cu cel puțin 75 mm.
+(3)
+Fețele laterale ale panourilor de planșeu sunt realizate înclinat cu 10° față de planul vertical.
+(4)
+În cazul reazemelor interioare, armătura orizontală a panourilor de planșeu este continuă peste zonele de îmbinare pe orizontală dintre panouri. Continuitatea armăturii se asigură prin înnădire în acord cu prevederile SR EN 1992-1-1. Înnădirea se dimensionează considerând un efort de întindere în barele orizontale ale panourilor mai mare sau egal cu f_yd.
+(5)
+În cazul reazemelor marginale, armătura orizontală a panourilor de planșeu este ancorată în zonele de îmbinare orizontale. Ancorarea este realizată în acord cu prevederile SR EN 1992-1-1.
+(6)
+În zonele de îmbinare orizontale se realizează centuri. Armarea minimă a centurilor se stabilește conform 7.4.
+Figura 8.3 Soluție exemplificativă de îmbinare a panourilor de planșeu în dreptul unui perete prefabricat
+--------
