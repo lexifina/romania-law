@@ -1,0 +1,192 @@
+{
+ "key": "dcc-544-2022",
+ "label": "Decizia CCR nr. 544/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "544",
+ "date": "2022-11-10",
+ "year": "2022",
+ "heading": "DECIZIA nr. 544 din 10 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 lit. n) și q) și ale art. 33 alin. (3) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "110",
+  "bis": false,
+  "date": "2023-02-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "470/103/2019",
+  "2.212D/2019",
+  "825/117/2019",
+  "475/101/2019",
+  "537/107/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "n"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 2 lit. n) și q) și ale art. 33 alin. (3) din Legea nr. 94/1992 privind organizarea și funcționarea Curții de Conturi, excepție ridicată de Societatea de Producere a Energiei Electrice în Hidrocentrale Hidroelectrica - S.A. (S.P.E.E.H. Hidroelectrica - S.A.) din București, în Dosarul nr. 470/103/2019 al Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal și în dosarele nr. 825/117/2019, nr. 475/101/2019 și nr. 537/107/2019 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 94/1992",
+    "number": "94",
+    "year": "1992",
+    "path": "lege/1992/94"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "n",
+      "q"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-02-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264674",
+  "text_sha256": "c26e3b903e9924696e34e231f7dd980729b54117570ed2f8bcf2cd9e1e2cd79c",
+  "catalogue_sha256": "c26e3b903e9924696e34e231f7dd980729b54117570ed2f8bcf2cd9e1e2cd79c",
+  "fetched": "2026-11-03T01:25:32Z",
+  "chars": 24066,
+  "portal_id": "264674",
+  "tip": "DECIZIE"
+ }
+}
