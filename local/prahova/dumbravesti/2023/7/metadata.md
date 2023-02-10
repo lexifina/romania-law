@@ -1,0 +1,10 @@
+# HCL Dumbrăvești nr. 7/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Dumbrăvești
+- Decision: nr. 7/2023
+- Adopted: 2023-01-31
+- Published: 2023-02-10
+- Title: aprobarea Strategiei de dezvoltare locală a Comunei Dumbravesti, județul Prahova, pentru perioada 2022-2028
+- Record: https://emol.ro/dumbravesti-ph/registru-hcl/88338
