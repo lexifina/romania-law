@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-18: registered at the Senate
 - 2022-11-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-02-07: documents published: Raport comisie sesizată pe fond
+- 2023-02-12: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -21,3 +22,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-07: Forma inițiatorului (FG): [fg-ded52af1.md](fg-ded52af1.md); official file https://www.senat.ro/legis/PDF/2022/22L718FG.PDF
 - 2022-11-07: Expunere de motive (EM): [em-772b77c2.md](em-772b77c2.md); official file https://www.senat.ro/legis/PDF/2022/22L718EM.PDF
 - 2023-02-07: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718CR.PDF
+- 2023-02-12: Document (AJ): [aj-8b5dde11.md](aj-8b5dde11.md); official file https://www.senat.ro/legis/PDF/2022/22L718AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-12: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718FS.PDF
+- 2023-02-12: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L718AM.PDF
