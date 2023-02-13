@@ -1,0 +1,228 @@
+{
+ "key": "dcc-428-2022",
+ "label": "Decizia CCR nr. 428/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "428",
+ "date": "2022-09-29",
+ "year": "2022",
+ "heading": "DECIZIA nr. 428 din 29 septembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 153^22 din Legea societăților nr. 31/1990",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "122",
+  "bis": false,
+  "date": "2023-02-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.572/89/2018",
+  "1.372D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "153-22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea de Investiții Financiare (SIF) „Moldova“ - S.A. din Bacău, județul Bacău, în Dosarul nr. 1.572/89/2018 al Curții de Apel Iași - Secția civilă și constată că dispozițiile art. 153^22 din Legea societăților nr. 31/1990 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "153-22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "70-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "152",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "137-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "153-12",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "144-2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2017",
+    "number": "24",
+    "year": "2017",
+    "path": "lege/2017/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2013",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264771",
+  "text_sha256": "962c2c41e0cb9f7b11716248d2e904135b0884373b3675caef6c5b350f7a56ef",
+  "catalogue_sha256": "962c2c41e0cb9f7b11716248d2e904135b0884373b3675caef6c5b350f7a56ef",
+  "fetched": "2026-11-03T01:25:27Z",
+  "chars": 16862,
+  "portal_id": "264771",
+  "tip": "DECIZIE"
+ }
+}
