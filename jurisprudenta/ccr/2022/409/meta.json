@@ -1,0 +1,221 @@
+{
+ "key": "dcc-409-2022",
+ "label": "Decizia CCR nr. 409/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "409",
+ "date": "2022-09-22",
+ "year": "2022",
+ "heading": "DECIZIA nr. 409 din 22 septembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 697 alin. (1) din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "123",
+  "bis": false,
+  "date": "2023-02-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "11.167/211/2018",
+  "1D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Pasztor Iosif în Dosarul nr. 11.167/211/2018 al Judecătoriei Cluj-Napoca - Secția civilă și constată că dispozițiile art. 697 alin. (1) din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Cluj-Napoca - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "626",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "627",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "720",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "389",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/2000",
+    "number": "188",
+    "year": "2000",
+    "path": "lege/2000/188"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-02-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/264779",
+  "text_sha256": "9ce62dc5924517b8c4905521af7641acb381193478bf4547742df253685989b7",
+  "catalogue_sha256": "9ce62dc5924517b8c4905521af7641acb381193478bf4547742df253685989b7",
+  "fetched": "2026-11-03T01:25:25Z",
+  "chars": 22918,
+  "portal_id": "264779",
+  "tip": "DECIZIE"
+ }
+}
