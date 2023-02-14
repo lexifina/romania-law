@@ -1,0 +1,36 @@
+REGULAMENTUL DELEGAT (UE) 2023/314 AL COMISIEI
+din 25 octombrie 2022
+de modificare a standardelor tehnice de reglementare prevăzute în Regulamentul delegat (UE) 2016/2251 în ceea ce privește data aplicării anumitor proceduri de gestionare a riscurilor pentru schimbul de garanții
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 648/2012 al Parlamentului European și al Consiliului din 4 iulie 2012 privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții (1), în special articolul 11 alineatul (15),
+întrucât:
+(1) Regulamentul delegat (UE) 2016/2251 al Comisiei (2) precizează, printre altele, procedurile de gestionare a riscurilor, inclusiv nivelurile și tipul garanțiilor și mecanismelor de segregare menționate la articolul 11 alineatul (3) din Regulamentul (UE) nr. 648/2012, pe care contrapărțile financiare trebuie să le dețină pentru schimbul de garanții, în ceea ce privește contractele lor derivate extrabursiere (OTC) care nu sunt compensate de o contraparte centrală.
+(2) La articolul 36 alineatul (2) litera (a) și la articolul 37 alineatul (3) litera (a) din Regulamentul delegat (UE) 2016/2251 se prevede o amânare a datei de aplicare a cerințelor de marjă bilaterale pentru contractele derivate extrabursiere care nu sunt compensate de o contraparte centrală și care sunt încheiate între contrapărți care fac parte din același grup și în cazul cărora o contraparte este stabilită într-o țară terță, iar cealaltă este stabilită în Uniune. Această amânare a datei de aplicare a fost necesară pentru a se asigura că astfel de contracte derivate extrabursiere nu fac obiectul cerințelor de marjă bilaterale înainte de adoptarea unui act de punere în aplicare în temeiul articolului 13 alineatul (2) din Regulamentul (UE) nr. 648/2012.
+(3) Până în prezent, au fost adoptate opt acte de punere în aplicare în temeiul articolului 13 alineatul (2) din Regulamentul (UE) nr. 648/2012. Cu toate acestea, se depun în continuare eforturi pentru a analiza orice alte jurisdicții relevante din țări terțe în legătură cu care s-ar putea justifica un astfel de act de punere în aplicare. Aplicarea imediată a cerințelor de marjă bilaterale pentru contractele derivate extrabursiere care nu sunt compensate de o contraparte centrală și care sunt încheiate între contrapărți care fac parte din același grup și în cazul cărora o contraparte este stabilită într-o țară terță, iar cealaltă este stabilită în Uniune, fără adoptarea actelor de punere în aplicare menționate la articolul 13 alineatul (2) din Regulamentul (UE) nr. 648/2012, ar avea totuși un impact economic negativ asupra contrapărților din Uniune. Prin urmare, ar trebui amânată și mai mult aplicarea cerințelor de marjă bilaterale pentru contractele derivate extrabursiere intragrup care nu sunt compensate la nivel central.
+(4) Prin urmare, Regulamentul delegat (UE) 2016/2251 ar trebui modificat în consecință.
+(5) Prezentul regulament are la bază proiectul de standarde tehnice de reglementare prezentat Comisiei de Autoritatea Bancară Europeană, Autoritatea Europeană de Asigurări și Pensii Ocupaționale și Autoritatea Europeană pentru Valori Mobiliare și Piețe (denumite împreună AES).
+(6) Modificările Regulamentului delegat (UE) 2016/2251 reprezintă ajustări limitate ale cadrului de reglementare existent. Având în vedere domeniul de aplicare limitat al modificărilor respective și caracterul urgent al chestiunii, ar fi foarte disproporționat ca AES să organizeze consultări publice deschise sau să efectueze analize ale costurilor și beneficiilor potențiale aferente. Cu toate acestea, AES au solicitat avizul Grupului părților interesate din domeniul bancar, instituit în conformitate cu articolul 37 din Regulamentul (UE) nr. 1093/2010 al Parlamentului European și al Consiliului (3), avizul Grupului părților interesate din domeniul asigurărilor și reasigurărilor și al Grupului părților interesate din domeniul pensiilor ocupaționale, instituite în conformitate cu articolul 37 din Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului (4) și avizul Grupului părților interesate din domeniul valorilor mobiliare și piețelor, instituit în conformitate cu articolul 37 din Regulamentul (UE) nr. 1095/2010 al Parlamentului European și al Consiliului (5).
+(7) Pentru a le oferi participanților la piață securitate juridică cât mai curând posibil, prezentul regulament ar trebui să intre în vigoare în regim de urgență,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificări aduse Regulamentului delegat (UE) 2016/2251
+Regulamentul delegat (UE) 2016/2251 se modifică după cum urmează:
+1. La articolul 36 alineatul (2), litera (a) se înlocuiește cu următorul text:
+„(a) | de la 30 iunie 2025, în cazul în care nu a fost adoptată o decizie privind echivalența în temeiul articolului 13 alineatul (2) din Regulamentul (UE) nr. 648/2012 și în scopul articolului 11 alineatul (3) din regulamentul menționat în ceea ce privește țara terță relevantă;”.
+2. La articolul 37 alineatul (3), litera (a) se înlocuiește cu următorul text:
+„(a) | de la 30 iunie 2025, în cazul în care nu a fost adoptată o decizie privind echivalența în temeiul articolului 13 alineatul (2) din Regulamentul (UE) nr. 648/2012 și în scopul articolului 11 alineatul (3) din regulamentul menționat în ceea ce privește țara terță relevantă;”.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 25 octombrie 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 201, 27.7.2012, p. 1.
+(2) Regulamentul delegat (UE) 2016/2251 al Comisiei din 4 octombrie 2016 de completare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului privind instrumentele financiare derivate extrabursiere, contrapărțile centrale și registrele centrale de tranzacții în ceea ce privește standarde tehnice de reglementare pentru tehnici de minimizare a riscului pentru contracte derivate extrabursiere care nu sunt compensate printr-o contraparte centrală (JO L 340, 15.12.2016, p. 9).
+(3) Regulamentul (UE) nr. 1093/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea bancară europeană), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/78/CE a Comisiei (JO L 331, 15.12.2010, p. 12).
+(4) Regulamentul (UE) nr. 1094/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea Europeană de Asigurări și Pensii Ocupaționale) de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/79/CE a Comisiei (JO L 331, 15.12.2010, p. 48).
+(5) Regulamentul (UE) nr. 1095/2010 al Parlamentului European și al Consiliului din 24 noiembrie 2010 de instituire a Autorității europene de supraveghere (Autoritatea Europeană pentru Valori Mobiliare și Piețe), de modificare a Deciziei nr. 716/2009/CE și de abrogare a Deciziei 2009/77/CE a Comisiei (JO L 331, 15.12.2010, p. 84).
