@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-02-02: registered at the Senate
+- 2023-02-14: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2023-02-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L099CA45.PDF
