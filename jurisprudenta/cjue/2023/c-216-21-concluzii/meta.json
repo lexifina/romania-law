@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-216-21-concluzii-2023-02-16",
+ "label": "CJUE, Concluziile avocatului general N. Emiliou prezentate la 16 februarie 2023, Cauza C-216/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-02-16",
+ "year": "2023",
+ "case": "Cauza C-216/21.",
+ "celex": "62021CC0216",
+ "ecli": "ECLI:EU:C:2023:116",
+ "heading": "Concluziile avocatului general N. Emiliou prezentate la 16 februarie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Ploieşti.",
+ "national_followup": null,
+ "parties": "Asociaţia „Forumul Judecătorilor din România” și YN împotriva Consiliului Superior al Magistraturii.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Decizia 2006/928/CE – Mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției – Articolul 2 TUE – Articolul 19 alineatul (1) al doilea paragraf TUE – Stat de drept – Carta drepturilor fundamentale a Uniunii Europene – Articolul 47 – Independența judecătorilor – Reglementare națională de modificare a regimului de promovare a judecătorilor.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0216",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-216/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/9ac53a91-adeb-11ed-8912-01aa75ed71a1.0014.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3949c144d33f7119937e69e8b0aba89ece3b2a2eaf9af2f963a4729ce86e8761"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
