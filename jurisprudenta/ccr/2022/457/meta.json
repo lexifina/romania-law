@@ -1,0 +1,569 @@
+{
+ "key": "dcc-457-2022",
+ "label": "Decizia CCR nr. 457/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "457",
+ "date": "2022-10-25",
+ "year": "2022",
+ "heading": "DECIZIA nr. 457 din 25 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 10 alin. (1) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, precum și ale art. 41 alin. (1) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "132",
+  "bis": false,
+  "date": "2023-02-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "13.416/3/2017",
+  "321D/2019",
+  "33.996/3/2018",
+  "675/39/2018",
+  "27/83/2019",
+  "25.773/3/2018",
+  "32.099/3/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ilarie Achim, de Florentin Ștefan și de Ionel Leonard Gheorghe, Ion Florin Lungu și Dănuț Ștefan în dosarele nr. 13.416/3/2017, nr. 36.426/3/2018 și nr. 18.431/3/2018* ale Tribunalului București - Secția a II-a contencios administrativ și fiscal, de Aurel Dragu în Dosarul nr. 33.996/3/2018 al Tribunalului Buzău - Secția I civilă - Completul specializat în litigii de muncă și asigurări sociale, de Ioan Dumitru în Dosarul nr. 675/39/2018 al Curții de Apel Suceava - Secția de contencios administrativ și fiscal, de Ioan Hossu, Lucian Vasile Irimuș și Dorin Vanca, precum și de Nicolae Ionel Bălan, Ilie Chiorean, Dorel Ciuhat, Dorel Costraș, Liviu Cucui, Gheorghe Dolcoș, Daniel Duță, Iulian Galatan, Florin Gruița, Tiberiu Iozsa, Neculai Liuțe, Nicolae Lunca, Vasile Lupse, Vasile Mihalca, Ion Militaru, Vasile Petrule, Vasile Porumb, Ilie Rad, Dănuț Sorinel Șerban, Eugeniu Tancau, Gheorghe Tane, Nicolae Ioan Tănase, Gigi Tepus, Simion Tocanel, Iuliu Țolea, Mihai Vasile și Ioan Zaharia, în dosarele nr. 12.759/3/2018 și nr. 25.766/3/2018 ale Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și Secția a IV-a pentru litigii de muncă și asigurări sociale, de Maria Cecilia Rimili în Dosarul nr. 27/83/2019 al Tribunalului Satu Mare - Secția I civilă, de Dumitru-Sorin Pantazi, precum și de Chiva Cânjau, Costică Cojoc și Maria Ionescu în dosarele nr. 6.742/118/2017 și nr. 12.746/3/2018 ale Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, de Emil-Doru Cirstoiu, Aurel Cotelea, Gheorghe Damian, Fănică Lepădatu, de Măricel Moldovianu, Ionel-Mircea Mudura, Ilie Stan, Constantin Șchiopu, Adrian Teodorescu și Dragomir Tudor în Dosarul nr. 25.773/3/2018 al Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, de Ștefan Birceanu, Nicușor Drăgoi, Gheorghe Jucătoru, Gheorghe Marin și Ioan Pătrașcu în Dosarul nr. 32.099/3/2018 al Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Petre Roșu, Gheorghe Bărbulescu, Marian Zaharia, Daniel Viorel Bizechi și Radu Dumitru în Dosarul nr. 36.431/3/2018 al Tribunalului Constanța - Secția de contencios administrativ și fiscal, de Laurențiu-Eduard Chirea, Eugenia Dospinescu și Niculaie Stroe, de Viorel Amza, Ioan Baligi, Liviu Fetcu, Marian Garaiacu, Vasile-Leonard Glod, Nicolae Horvath, Romeo Livadaru, Lucian Neacșu, Nuta Sindrilaru și Valer Tarta, precum și de Constantin Costel Cristea în dosarele nr. 12.748/3/2018, nr. 1.012/87/2018 și nr. 5.225/3/2018* ale Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și de Irina Maria Coliban în Dosarul nr. 2.307/62/2019 al Tribunalului Brașov - Secția a I civilă - Completul specializat în soluționarea litigiilor de muncă și asigurări sociale și constată că dispozițiile art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 10 alin. (1) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 1 alin. (3) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. 11 alin. (1) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene, precum și ale art. 41 alin. (1) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal, Tribunalului Buzău - Secția I civilă - Completul specializat în litigii de muncă și asigurări sociale, Curții de Apel Suceava - Secția de contencios administrativ și fiscal, Curții de Apel Cluj - Secția a III-a contencios administrativ și fiscal și Secția a IV-a pentru litigii de muncă și asigurări sociale, Tribunalului Satu Mare - Secția I civilă, Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Ploiești - Secția de contencios administrativ și fiscal, Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, Tribunalului Constanța –- Secția de contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale și Tribunalului Brașov - Secția I civilă - Completul specializat în soluționarea litigiilor de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 12 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "81",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 567/2004",
+    "number": "567",
+    "year": "2004",
+    "path": "lege/2004/567"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2006",
+    "number": "7",
+    "year": "2006",
+    "path": "lege/2006/7"
+   },
+   "articles": [
+    {
+     "art": "73",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265123",
+  "text_sha256": "b3236bfd5d2e865e3205322c4fb809a278866f68fa1dad907c5cba05f7e89cf7",
+  "catalogue_sha256": "b3236bfd5d2e865e3205322c4fb809a278866f68fa1dad907c5cba05f7e89cf7",
+  "fetched": "2026-11-03T01:25:21Z",
+  "chars": 73161,
+  "portal_id": "265123",
+  "tip": "DECIZIE"
+ }
+}
