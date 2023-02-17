@@ -1,0 +1,22 @@
+# Proiect de lege L94/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 391/2023 (`legea-391-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.4/2023 privind stabilirea unor măsuri de restituire a unor contribuţii de asigurări sociale de sănătate
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-02-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-02-17: Adresă de înaintare a inițiativei (AD): [ad-6f04e0b0.md](ad-6f04e0b0.md); official file https://www.senat.ro/legis/PDF/2023/23L094AD.PDF
+- 2023-02-17: Forma inițiatorului (FG): [fg-7aded22a.md](fg-7aded22a.md); official file https://www.senat.ro/legis/PDF/2023/23L094FG.PDF
+- 2023-02-17: Expunere de motive (EM): [em-6fcf30cf.md](em-6fcf30cf.md); official file https://www.senat.ro/legis/PDF/2023/23L094EM.PDF
+- 2023-02-17: Aviz Consiliul Legislativ (LG): [lg-b4aec949.md](lg-b4aec949.md); official file https://www.senat.ro/legis/PDF/2023/23L094LG.PDF
+- 2023-02-17: Document (OG): [og-04872908.md](og-04872908.md); official file https://www.senat.ro/legis/PDF/2023/23L094OG.PDF
+- 2023-02-17: Document (HG): [hg-9755da1a.md](hg-9755da1a.md); official file https://www.senat.ro/legis/PDF/2023/23L094HG.PDF
