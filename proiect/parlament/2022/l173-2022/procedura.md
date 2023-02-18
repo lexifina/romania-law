@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-07-22: returned for re-examination
 - 2022-12-07: adopted by the Senate
 - 2023-02-08: returned for re-examination
+- 2023-02-18: sent for promulgation
 
 ## Documents
 
