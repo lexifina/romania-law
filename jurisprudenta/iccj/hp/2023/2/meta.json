@@ -1,0 +1,228 @@
+{
+ "key": "iccj-hp-2-2023",
+ "label": "Decizia ÎCCJ nr. 2/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "2",
+ "date": "2023-01-16",
+ "year": "2023",
+ "heading": "DECIZIA nr. 2 din 16 ianuarie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 24 alin. (1)-(3) din Legea nr. 554/2004",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "141",
+  "bis": false,
+  "date": "2023-02-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.971/1/2022",
+  "19.409/299/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul București - Secția a V-a civilă prin Încheierea din 12 iulie 2022, pronunțată în Dosarul nr. 19.409/299/2022, în vederea pronunțării unei hotărâri prealabile și, în consecință, în interpretarea prevederilor art. 24 alin. (1)-(3) și (4) din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, stabilește că: Dispozițiile art. 24 alin. (1)-(3) din Legea nr. 554/2004, cu modificările și completările ulterioare, trebuie interpretate în sensul că procedura de executare a unei hotărâri judecătorești definitive pronunțate de o instanță de contencios administrativ este aplicabilă inclusiv în situația în care obligația stabilită prin respectiva hotărâre este aceea de adoptare a unui act administrativ unilateral cu caracter individual.",
+  "Prevederile art. 24 alin. (3) și (4) din Legea nr. 554/2004 trebuie interpretate în sensul că procedura de fixare a sumei definitive datorate creditorului cu titlu de penalități se aplică inclusiv în situația în care, prin titlul executoriu, instanța de judecată a stabilit penalități aplicabile părții obligate, pentru fiecare zi de întârziere, conform art. 18 alin. (5) din Legea nr. 554/2004.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "4",
+      "3",
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "5",
+      "1",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 114
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "663",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "665",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 49/1997",
+    "number": "49",
+    "year": "1997",
+    "path": "oug/1997/49"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 138/2014",
+    "number": "138",
+    "year": "2014",
+    "path": "lege/2014/138"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-02-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265180",
+  "text_sha256": "67ac9dc54d9cc0ae4dd5245aea0e8b5262a6078bff237b030f53fa6e809434a1",
+  "catalogue_sha256": "67ac9dc54d9cc0ae4dd5245aea0e8b5262a6078bff237b030f53fa6e809434a1",
+  "fetched": "2026-11-03T23:28:31Z",
+  "chars": 99041,
+  "portal_id": "265180",
+  "tip": "DECIZIE"
+ }
+}
