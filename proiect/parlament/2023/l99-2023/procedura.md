@@ -10,7 +10,11 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-02-02: registered at the Senate
 - 2023-02-14: documents published: Aviz comisie
+- 2023-02-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2023-02-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L099CA45.PDF
+- 2023-02-20: Adresă de înaintare a inițiativei (AD): [ad-019efd4f.md](ad-019efd4f.md); official file https://www.senat.ro/legis/PDF/2023/23L099AD.PDF
+- 2023-02-20: Forma inițiatorului (FG): [fg-316ac3df.md](fg-316ac3df.md); official file https://www.senat.ro/legis/PDF/2023/23L099FG.PDF
+- 2023-02-20: Expunere de motive (EM): [em-e36cc5ee.md](em-e36cc5ee.md); official file https://www.senat.ro/legis/PDF/2023/23L099EM.PDF
