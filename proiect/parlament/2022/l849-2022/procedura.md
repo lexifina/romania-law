@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-22: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2023-02-07: documents published: Aviz comisie
 - 2023-02-15: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2023-02-20: registered at the Chamber of Deputies
 
 ## Documents
 
