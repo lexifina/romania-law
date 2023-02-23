@@ -1,0 +1,283 @@
+{
+ "key": "iccj-hp-7-2023",
+ "label": "Decizia ÎCCJ nr. 7/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2023-01-30",
+ "year": "2023",
+ "heading": "DECIZIA nr. 7 din 30 ianuarie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 25 lit. b) din Legea nr. 132/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "155",
+  "bis": false,
+  "date": "2023-02-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.295/1/2022",
+  "15.737/325/2021",
+  "9.824/30/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1394",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția a II-a civilă, în Dosarul nr. 15.737/325/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: În interpretarea și aplicarea dispozițiilor art. 25 lit. b) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie, cu modificările și completările ulterioare, art. 2.528, art. 1.597 și art. 1.394 din Codul civil, în ipoteza unei acțiuni în regres a asigurătorului împotriva persoanei răspunzătoare de producerea accidentului, întemeiate pe dispozițiile art. 25 lit. b) din Legea nr. 132/2017, este incidentă prorogarea termenului de prescripție prevăzută de art. 1.394 din Codul civil ?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1597",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2210",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1593",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1400",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2223",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-02-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265283",
+  "text_sha256": "f1143ab928ce9f65d93f68dea9bbc90351a866510bc480c19e877e1a4f6edba6",
+  "catalogue_sha256": "f1143ab928ce9f65d93f68dea9bbc90351a866510bc480c19e877e1a4f6edba6",
+  "fetched": "2026-11-03T01:25:11Z",
+  "chars": 44146,
+  "portal_id": "265283",
+  "tip": "DECIZIE"
+ }
+}
