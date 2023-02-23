@@ -1,0 +1,2 @@
+# Anexa nr. 1
+INSTRUCTIUNI de efectuare a controlului respectării legilor și a celorlalte acte normative din domeniul sportului și de verificare a activităților sportive, a modului de funcționare și administrare a structurilor sportive, în conformitate cu statutele, regulamentele și dispozițiile legale în vigoare, și a documentelor utilizate în activitatea de supraveghere și control în domeniul sportului
