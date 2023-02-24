@@ -1,0 +1,4 @@
+Consiliul local al orasului Tautii Magherauș întrunit in ședința ordinara din data de 24.02.2023 Avand in vedere:  raportul compartimentului de asistență socială nr. 1849 din 13.02.2023;  avizul favorabil al Comisiilor de specialitate din cadrul Consiliului Local al orașului Tăuții Măgherăuș,  avizul secretarului.
+Având în vedere prevederile art.65 din Legea nr. 448/2006 privind protectia si promovarea drepturilor cu handicap, republicata, cu modificarile si completarile ulterioare, potrivit căruia persoanele cu handicap sau reprezentanții legali ai acestora care au domiciliul pe raza Orasul Tautii Magheraus, la cerere, pot beneficia de un card-legitimatie de parcare pentru locurile gratuite de parcare.
+În temeiul art.196 alin.1 lit.a), art.129 alin.2 lit.b), alin.4 lit.a) din OUG nr.57/2019, privind Codul administrativ:
+HOTĂRĂȘTE:
