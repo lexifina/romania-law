@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-07: adopted by the Senate
 - 2023-02-08: returned for re-examination
 - 2023-02-18: sent for promulgation
+- 2023-02-24: promulgated, becomes Legea nr. 43/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,11 @@ Initiator: Membri ai Parlamentului.
 - 2022-04-11: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L173AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): [axs-56534290.md](axs-56534290.md); official file https://www.senat.ro/legis/PDF/2022/22L173AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): [lp-986a4b4e.md](lp-986a4b4e.md); official file https://www.senat.ro/legis/PDF/2022/22L173LP.PDF
+- 2023-02-24: Document (CF): [cf-293a6a97.md](cf-293a6a97.md); official file https://www.senat.ro/legis/PDF/2022/22L173CF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (RX): [rx-e10288c3.md](rx-e10288c3.md); official file https://www.senat.ro/legis/PDF/2022/22L173RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L173XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L173CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XD): [xd-d2a9ec8b.md](xd-d2a9ec8b.md); official file https://www.senat.ro/legis/PDF/2022/22L173XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (SX): [sx-ea5aea98.md](sx-ea5aea98.md); official file https://www.senat.ro/legis/PDF/2022/22L173SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XXS): [xxs-c7b6e125.md](xxs-c7b6e125.md); official file https://www.senat.ro/legis/PDF/2022/22L173XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (PX): [px-725e8347.md](px-725e8347.md); official file https://www.senat.ro/legis/PDF/2022/22L173PX.PDF (its day is not given by the bill file: shown from the last stage held)
