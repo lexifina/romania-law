@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-04-14: returned for re-examination
 - 2022-05-16: adopted by the Senate
 - 2023-02-18: sent for promulgation
+- 2023-02-24: promulgated, becomes Legea nr. 44/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Guvernul României.
 - 2021-10-11: Adresă către Camera Deputaților (AM): [am-fda0d9ce.md](am-fda0d9ce.md); official file https://www.senat.ro/legis/PDF/2021/21L333AM.PDF
 - 2022-03-21: Adresă privind sesizarea CCR (AXS): [axs-a7d444de.md](axs-a7d444de.md); official file https://www.senat.ro/legis/PDF/2021/21L333AXS.PDF
 - 2022-03-21: Forma trimisă la promulgare (LP): [lp-791483b1.md](lp-791483b1.md); official file https://www.senat.ro/legis/PDF/2021/21L333LP.PDF
+- 2023-02-24: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L333RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L333CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L333XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XD): [xd-a904f056.md](xd-a904f056.md); official file https://www.senat.ro/legis/PDF/2021/21L333XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (SX): [sx-08797985.md](sx-08797985.md); official file https://www.senat.ro/legis/PDF/2021/21L333SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (XXS): [xxs-c7b6e125.md](xxs-c7b6e125.md); official file https://www.senat.ro/legis/PDF/2021/21L333XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-02-24: Document (PX): [px-c371c347.md](px-c371c347.md); official file https://www.senat.ro/legis/PDF/2021/21L333PX.PDF (its day is not given by the bill file: shown from the last stage held)
