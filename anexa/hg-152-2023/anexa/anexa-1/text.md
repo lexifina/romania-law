@@ -1,0 +1,23 @@
+# Anexa 1
+ANEXĂ
+la normele metodologice
+Modelul procesului-verbal de constatare
+ROMÂNIA
+........................................... (denumirea instituției din care face parte agentul constatator)
+PROCES-VERBAL DE CONSTATARE
+Seria ....... nr. ........
+Încheiat astăzi ..................., în localitatea ................., județul ................
+Agent constatator ............................ (grad, nume, prenume, funcție) din ........................... (unitatea)
+Constat că vehiculul cu nr. de înmatriculare/înregistrare/identificare ................................, categoria ..........................., marca și tipul .........................., seria motorului ..........., seria șasiului sau caroseriei ................, culoarea .........., starea fizică ........., în legătură cu care am fost sesizați că ar putea fi fără stăpân sau abandonat, a fost identificat în ziua de ....................., ora ........, în localitatea ..........................., str. ......... nr. ...., sectorul ........, județul ........., urmând a fi înștiințate autoritățile abilitate pentru efectuarea verificărilor legale privind situația juridică a acestuia.
+Alte mențiuni (inventarul bunurilor aflate în vehicul): ......................... .............................................................................................
+............................................................................................
+..............................................................................................
+.............................................................................................
+...............................................................................................
+Fapt atestat de martorul ........................................, domiciliat în .........................., str. ................................... nr. ...., bl. ..., județul ........, act de identitate ... seria ... nr. ..........., emis de ......., C.N.P. .../.../.../.../.../.../.../.../.../.../.../.../.../
+Procesul-verbal a fost încheiat în lipsa unui martor, întrucât .......................................... .
+Au fost realizate planșe foto, cu ocazia încheierii prezentului proces-verbal: [ ] da/[ ] nu.
+Pentru care s-a încheiat prezentul proces-verbal în baza art. 5 din Normele metodologice de aplicare a Legii nr. 421/2002 privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale, aprobate prin Hotărârea Guvernului nr. 152/2023 .
+Agent constatator,
+Martor,
+-----
