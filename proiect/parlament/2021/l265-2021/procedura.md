@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-10-18: registered at the Chamber of Deputies
 - 2023-02-21: adopted by the Chamber of Deputies
+- 2023-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2021-09-07: Aviz comisie (CA45): [ca45-c072a767.md](ca45-c072a767.md); official file https://www.senat.ro/legis/PDF/2021/21L265CA45.PDF
 - 2021-10-07: Forma adoptată de Senat (FS): [fs-b691a005.md](fs-b691a005.md); official file https://www.senat.ro/legis/PDF/2021/21L265FS.PDF
 - 2021-10-07: Adresă către Camera Deputaților (AM): [am-d9580541.md](am-d9580541.md); official file https://www.senat.ro/legis/PDF/2021/21L265AM.PDF
+- 2023-02-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L265AXS.PDF
+- 2023-02-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L265LP.PDF
