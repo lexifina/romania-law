@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURA, METODELE ȘI INSTRUMENTELE încetării utilizării produselor și serviciilor provenind direct sau indirect din Federația Rusă sau de la un operator economic aflat sub controlul direct sau indirect al unei persoane fizice sau juridice din Federația Rusă sau al cărui capital este constituit cu participație provenind în mod direct sau prin firme interpuse din Federația Rusă ori din ale cărui organe de administrare fac parte persoane din Federația Rusă
