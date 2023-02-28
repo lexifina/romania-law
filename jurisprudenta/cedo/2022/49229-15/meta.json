@@ -1,0 +1,102 @@
+{
+ "key": "cedo-49229-15-2022-08-30",
+ "label": "CEDO, Gal c. României, 2022-08-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-08-30",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 30 august 2022",
+ "subtitle": "în Cauza Gal împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "172",
+  "bis": false,
+  "date": "2023-02-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "49229/15"
+ ],
+ "case_name": "Gal",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară admisibilă cererea întemeiată pe art. 6 § 1 și art. 6 § 3 lit. d) din Convenție;",
+  "2. hotărăște că a existat o încălcare a art. 6 § 1 și art. 6 § 3 lit. d) din Convenție în ceea ce privește imposibilitatea reclamantei de a interoga, personal sau prin reprezentant, pe C.M. și condamnarea sa în apel în lipsa audierii martorilor pe care s-a bazat instanța de apel;",
+  "3. hotărăște că nu este necesar să examineze celelalte aspecte privind echitatea procedurilor penale invocate în temeiul art. 6 § 1 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, următoarele sume, care vor fi convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "6.000 EUR (șase mii de euro), la care se adaugă orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă, pentru prejudiciul moral;",
+  "(ii)",
+  "3.000 EUR (trei mii de euro), la care se adaugă orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă, pentru cheltuieli de judecată;",
+  "b) că, începând cu expirarea perioadei menționate și până la efectuarea plății, aceste sume vor fi purtătoare de dobândă simplă la o rată egală cu cea a facilității de creditare marginală a Băncii Centrale Europene aplicabilă pe parcursul acestei perioade, majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265389",
+  "text_sha256": "468730031900e48bbec6cd93c81b60b63a4ddd5b90d2bd885f28ce1cc61c9e96",
+  "catalogue_sha256": "468730031900e48bbec6cd93c81b60b63a4ddd5b90d2bd885f28ce1cc61c9e96",
+  "fetched": "2026-11-03T01:25:04Z",
+  "chars": 18875,
+  "portal_id": "265389",
+  "tip": "HOTĂRÂRE"
+ }
+}
