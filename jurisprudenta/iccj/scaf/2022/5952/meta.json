@@ -1,0 +1,180 @@
+{
+ "key": "iccj-scaf-5952-2022",
+ "label": "Decizia ÎCCJ nr. 5952/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "5952",
+ "date": "2022-12-08",
+ "year": "2022",
+ "heading": "DECIZIA nr. 5.952",
+ "subtitle": "din 8 decembrie 2022 îndreptată prin Încheierea din 16 februarie 2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "169",
+  "bis": false,
+  "date": "2023-02-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "dossiers": [
+  "188/33/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge excepția nulității recursului invocată de intimata-pârâtă.",
+  "Admite recursul formulat de reclamantul E.Z.C. împotriva Sentinței civile nr. 167 din 9 iunie 2021 a Curții de Apel C. - Secția contencios administrativ și fiscal.",
+  "Casează sentința atacată și, în rejudecare:",
+  "Admite cererea formulată de reclamant. Anulează în parte Decizia nr. 463/2017, publicată în Monitorul Oficial al României, Partea I, nr. 190 din 17 martie 2017, modificată și completată prin Decizia nr. 593/2018, publicată în Monitorul Oficial al României, Partea I, nr. 820 din 25 septembrie 2018, în ceea ce privește secțiunea C pct. 2 lit. h) pct. (vi), emisă de directorul general al A.N.P.",
+  "Prezenta decizie se publică în Monitorul Oficial al României, Partea I.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "65",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 157/2016",
+    "number": "157",
+    "year": "2016",
+    "path": "hg/2016/157"
+   },
+   "articles": [
+    {
+     "art": "133",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 756/2016",
+    "number": "756",
+    "year": "2016",
+    "path": "hg/2016/756"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265370",
+  "text_sha256": "abb8afe1cada5653decdef9b966b22a2ec223b10df9c2f7a40d584ec1020367d",
+  "catalogue_sha256": "abb8afe1cada5653decdef9b966b22a2ec223b10df9c2f7a40d584ec1020367d",
+  "fetched": "2026-11-03T01:25:03Z",
+  "chars": 16872,
+  "portal_id": "265370",
+  "tip": "DECIZIE"
+ }
+}
