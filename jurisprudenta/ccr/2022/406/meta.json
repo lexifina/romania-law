@@ -1,0 +1,306 @@
+{
+ "key": "dcc-406-2022",
+ "label": "Decizia CCR nr. 406/2022",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "406",
+ "date": "2022-09-21",
+ "year": "2022",
+ "heading": "DECIZIA nr. 406 din 21 septembrie 2022",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind transmiterea unei părți dintr-un teren situat în orașul Teiuș, din proprietatea publică a orașului Teiuș și din administrarea Consiliului Local al Orașului Teiuș, județul Alba în proprietatea privată a orașului Teiuș și pentru modificarea Legii nr. 54/2018 privind transmiterea unui teren din domeniul public al statului și din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naționale de Căi Ferate \"C.F.R.\" - S.A., în domeniul public al orașului Teiuș și în administrarea Consiliului Local al Orașului Teiuș, județul Alba",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "172",
+  "bis": false,
+  "date": "2023-02-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.072A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind transmiterea unei părți dintr-un teren situat în orașul Teiuș, din proprietatea publică a orașului Teiuș și din administrarea Consiliului Local al Orașului Teiuș, județul Alba în proprietatea privată a orașului Teiuș și pentru modificarea Legii nr. 54/2018 privind transmiterea unui ter"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Admite obiecțiile de neconstituționalitate formulate de Guvern și de Președintele României și constată că Legea privind transmiterea unei părți dintr-un teren situat în orașul Teiuș, din proprietatea publică a orașului Teiuș și din administrarea Consiliului Local al Orașului Teiuș, județul Alba în proprietatea privată a orașului Teiuș și pentru modificarea Legii nr. 54/2018 privind transmiterea unui teren din domeniul public al statului și din administrarea Ministerului Transporturilor, aflat în concesiunea Companiei Naționale de Căi Ferate „C.F.R.“ - S.A., în domeniul public al orașului Teiuș și în administrarea Consiliului Local al Orașului Teiuș, județul Alba este neconstituțională în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "361",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 54/2018",
+    "number": "54",
+    "year": "2018",
+    "path": "lege/2018/54"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "860",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 213/1998",
+    "number": "213",
+    "year": "1998",
+    "path": "lege/1998/213"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 12/1998",
+    "number": "12",
+    "year": "1998",
+    "path": "oug/1998/12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-02-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265386",
+  "text_sha256": "11f8ed23f1e75d951277602be3ced75c0e6d4ccdf45ce13f5f3e8cc7f32ade71",
+  "catalogue_sha256": "11f8ed23f1e75d951277602be3ced75c0e6d4ccdf45ce13f5f3e8cc7f32ade71",
+  "fetched": "2026-11-03T01:25:04Z",
+  "chars": 49106,
+  "portal_id": "265386",
+  "tip": "DECIZIE"
+ }
+}
