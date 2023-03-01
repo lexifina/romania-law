@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-22: adopted by the Senate
 - 2023-02-15: returned for re-examination
 - 2023-02-20: sent for promulgation
+- 2023-03-01: promulgated, becomes Legea nr. 45/2023
 
 ## Documents
 
