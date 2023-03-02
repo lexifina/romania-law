@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-15: returned for re-examination
 - 2023-02-20: sent for promulgation
 - 2023-03-01: promulgated, becomes Legea nr. 45/2023
+- 2023-03-02: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,11 @@ Initiator: Membri ai Parlamentului.
 - 2019-10-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L372AM.PDF
 - 2019-12-23: Adresă privind sesizarea CCR (AXS): [axs-3ed8c7d2.md](axs-3ed8c7d2.md); official file https://www.senat.ro/legis/PDF/2019/19L372AXS.PDF
 - 2019-12-23: Forma trimisă la promulgare (LP): [lp-8a9471ee.md](lp-8a9471ee.md); official file https://www.senat.ro/legis/PDF/2019/19L372LP.PDF
+- 2023-03-02: Document (RX): [rx-66e86683.md](rx-66e86683.md); official file https://www.senat.ro/legis/PDF/2019/19L372RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (CX): [cx-520be2cb.md](cx-520be2cb.md); official file https://www.senat.ro/legis/PDF/2019/19L372CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (XA): [xa-8a7049b6.md](xa-8a7049b6.md); official file https://www.senat.ro/legis/PDF/2019/19L372XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (X2): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L372X2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (XD): [xd-c21de3ef.md](xd-c21de3ef.md); official file https://www.senat.ro/legis/PDF/2019/19L372XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (SX): [sx-dcfcd295.md](sx-dcfcd295.md); official file https://www.senat.ro/legis/PDF/2019/19L372SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L372XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-02: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L372PX.PDF (its day is not given by the bill file: shown from the last stage held)
