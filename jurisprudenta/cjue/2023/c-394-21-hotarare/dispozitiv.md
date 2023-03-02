@@ -1,0 +1,7 @@
+# CJUE, Hotărârea Curții (Camera a cincea) din 2 martie 2023, Cauza C-394/21
+
+Pentru aceste motive, Curtea (Camera a cincea) declară:
+Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică, în special articolul 1 literele (b) și (c), articolul 2 punctul 40, precum și articolul 3 din acest regulament, coroborat cu Directiva 2009/72/CE a Parlamentului European și a Consiliului din 13 iulie 2009 privind normele comune pentru piața internă a energiei electrice și de abrogare a Directivei 2003/54/CE
+trebuie interpretat în sensul că:
+– nu se opune unei reglementări a unui stat membru în temeiul căreia este menținut un monopol național legal al serviciilor de intermediere a ofertelor de vânzare și de cumpărare de energie electrică ce privește piețele angro pentru ziua următoare și intrazilnică dacă acest monopol exista deja în acest stat membru la momentul intrării în vigoare a Regulamentului (UE) 2015/1222 al Comisiei din 24 iulie 2015 de stabilire a unor linii directoare privind alocarea capacităților și gestionarea congestiilor, conform articolului 5 din acesta;
+– nu se opune unei reglementări a unui stat membru în temeiul căreia este menținut un monopol național legal al serviciilor de intermediere a ofertelor de vânzare și de cumpărare de energie electrică ce privește piața angro la termen, conformitatea unei astfel de reglementări cu dreptul Uniunii trebuind să fie apreciată în raport cu dispozițiile relevante ale dreptului primar al acestuia.

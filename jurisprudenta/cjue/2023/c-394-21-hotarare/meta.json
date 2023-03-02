@@ -1,0 +1,68 @@
+{
+ "key": "cjue-c-394-21-hotarare-2023-03-02",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 2 martie 2023, Cauza C-394/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-03-02",
+ "year": "2023",
+ "case": "Cauza C-394/21",
+ "celex": "62021CJ0394",
+ "ecli": "ECLI:EU:C:2023:146",
+ "heading": "Hotărârea Curții (Camera a cincea) din 2 martie 2023",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Bucureşti, Secţia A VIII-A contencios administrativ şi fiscal",
+   "date": "2021-06-03",
+   "national_file": "5366/2/2020"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti",
+ "national_followup": null,
+ "parties": "Bursa Română de Mărfuri SA împotriva Autorității Naţionalăede Reglementare în domeniul Energiei i (ANRE)",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Piața internă a energiei electrice – Directiva 2009/72/CE – Regulamentul (UE) 2019/943 – Articolul 1 literele (b) și (c), precum și articolul 3 – Principiile de funcționare a piețelor de energie electrică – Regulamentul (UE) 2015/1222 – Articolul 5 alineatul (1) – Operatorul pieței de energie electrică desemnat – Monopol național legal privind serviciile de intermediere pentru ziua următoare și intrazilnice – Reglementare națională care prevede un monopol asupra tranzacționării angro de energie electrică pe termen scurt, mediu și lung",
+ "interprets": [
+  {
+   "celex": "32009L0072",
+   "folder": "ue/directiva/2009/72"
+  },
+  {
+   "celex": "32015R1222",
+   "folder": "ue/regulament/2015/1222"
+  },
+  {
+   "celex": "32019R0943",
+   "folder": "ue/regulament/2019/943"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0394",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-394/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4c1633f6-b8dd-11ed-8912-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "87c576a2b4cca100465f9c06df73a729f15545868aaa70a02fd8df2149e0c0cb"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică, în special articolul 1 literele (b) și (c), articolul 2 punctul 40, precum și articolul 3 din acest regulament, coroborat cu Directiva 2009/72/CE a Parlamentului European și a Consiliului din 13 iulie 2009 privind normele comune pentru piața internă a energiei electrice și de abrogare a Directivei 2003/54/CE",
+  "trebuie interpretat în sensul că:",
+  "– nu se opune unei reglementări a unui stat membru în temeiul căreia este menținut un monopol național legal al serviciilor de intermediere a ofertelor de vânzare și de cumpărare de energie electrică ce privește piețele angro pentru ziua următoare și intrazilnică dacă acest monopol exista deja în acest stat membru la momentul intrării în vigoare a Regulamentului (UE) 2015/1222 al Comisiei din 24 iulie 2015 de stabilire a unor linii directoare privind alocarea capacităților și gestionarea congestiilor, conform articolului 5 din acesta;",
+  "– nu se opune unei reglementări a unui stat membru în temeiul căreia este menținut un monopol național legal al serviciilor de intermediere a ofertelor de vânzare și de cumpărare de energie electrică ce privește piața angro la termen, conformitatea unei astfel de reglementări cu dreptul Uniunii trebuind să fie apreciată în raport cu dispozițiile relevante ale dreptului primar al acestuia."
+ ]
+}
