@@ -1,0 +1,21 @@
+# Proiect de lege L100/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 85/2023 (`legea-85-2023`).
+
+Proiect de lege pentru instituirea zilei de 3 martie ca Ziua solidarităţii româno-polone
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-03-02: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-03-02: Adresă de înaintare a inițiativei (AD): [ad-2b5b211f.md](ad-2b5b211f.md); official file https://www.senat.ro/legis/PDF/2023/23L100AD.PDF
+- 2023-03-02: Forma inițiatorului (FG): [fg-4cc3410d.md](fg-4cc3410d.md); official file https://www.senat.ro/legis/PDF/2023/23L100FG.PDF
+- 2023-03-02: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L100EM.PDF
+- 2023-03-02: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L100LG.PDF
+- 2023-03-02: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L100HG.PDF
