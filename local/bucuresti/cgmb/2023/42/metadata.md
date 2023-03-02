@@ -1,0 +1,11 @@
+# HCGMB nr. 42/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 42/2023
+- Adopted: 2023-03-02
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 258/13.05.2022 PRIVIND APROBAREA DEPUNERII CERERII DE FINANTARE CU TITLUL “INNOIREA PARCULUI DE VEHICULE DESTINATE TRANSPORTULUI PUBLIC PRIN ACHIZITIA A UNUI NUMAR 22 DE TROLEIBUZE CU EMISII ZERO SAU CU BATERII” PRIN COMPONENTA 10 - FONDUL LOCAL IN CADRUL PLANULUI NATIONAL DE REDRESARE SI REZILIENTA (PNRR) SI VALOAREA MAXIMA ELIGIBILA A PROIECTULUI MODIFICA ANEXA NR. 1 LA HCGMB NR. 258/2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44493
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/44493/H042_23.pdf
+- Document sha256: 5d668f8451a14d36af0a7c9bcb25758b83386d710054eba6b1549977911c3f5d
