@@ -1,0 +1,321 @@
+{
+ "key": "dcc-481-2022",
+ "label": "Decizia CCR nr. 481/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "481",
+ "date": "2022-10-27",
+ "year": "2022",
+ "heading": "DECIZIA nr. 481 din 27 octombrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 158 alin. (6) și (7) din Legea nr. 263/2010 privind sistemul unitar de pensii publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "185",
+  "bis": false,
+  "date": "2023-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.250/105/2018",
+  "115D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Curtea de Apel Ploiești - Secția I civilă, din oficiu, în Dosarul nr. 1.250/105/2018 al aceleiași instanțe și constată că dispozițiile art. 158 alin. (6) și (7) din Legea nr. 263/2010 privind sistemul unitar de pensii publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "6",
+      "5",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea dialogului social nr. 62/2011",
+    "number": "62",
+    "year": "2011",
+    "path": "lege/2011/62"
+   },
+   "articles": [
+    {
+     "art": "138",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 19/2000",
+    "number": "19",
+    "year": "2000",
+    "path": "lege/2000/19"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 292/1959",
+    "number": "292",
+    "year": "1959",
+    "path": "decret/1959/292"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 27/1966",
+    "number": "27",
+    "year": "1966",
+    "path": "lege/1966/27"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 3/1977",
+    "number": "3",
+    "year": "1977",
+    "path": "lege/1977/3"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 261/2001",
+    "number": "261",
+    "year": "2001",
+    "path": "hg/2001/261"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 92/1976",
+    "number": "92",
+    "year": "1976",
+    "path": "decret/1976/92"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265489",
+  "text_sha256": "68e3bb68b6868eae568d5933b564873b964cc1bbfc796de095ff1f143537808c",
+  "catalogue_sha256": "68e3bb68b6868eae568d5933b564873b964cc1bbfc796de095ff1f143537808c",
+  "fetched": "2026-11-03T01:25:00Z",
+  "chars": 27567,
+  "portal_id": "265489",
+  "tip": "DECIZIE"
+ }
+}
