@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-11-24: returned for re-examination
 - 2022-12-07: adopted by the Senate
 - 2023-03-01: sent for promulgation
+- 2023-03-03: promulgated, becomes Legea nr. 53/2023
 
 ## Documents
 
