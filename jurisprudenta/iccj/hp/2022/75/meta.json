@@ -1,0 +1,341 @@
+{
+ "key": "iccj-hp-75-2022",
+ "label": "Decizia ÎCCJ nr. 75/2022 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "75",
+ "date": "2022-11-14",
+ "year": "2022",
+ "heading": "DECIZIA nr. 75 din 14 noiembrie 2022",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 154 alin. (1), (6) și (6)^1, art. 163 alin. (5), art. 164 alin. (4) și art. 175 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "182",
+  "bis": false,
+  "date": "2023-03-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "593/1/2022",
+  "7.578/63/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Dolj - Secția contencios administrativ și fiscal, în Dosarul nr. 7.578/63/2021, privind pronunțarea unei hotărâri prealabile și, în interpretarea și aplicarea dispozițiilor art. 154 alin. (1), (6) și (6)^1, art. 163 alin. (5), art. 164 alin. (4) și art. 175 alin. (1) din Codul de procedură civilă, stabilește că: Efectuarea procedurii de citare, în conformitate cu dispozițiile art. 154 alin. (6) din Codul de procedură civilă, dacă partea a solicitat și a indicat datele corespunzătoare în acest scop, constituie o modalitate principală de comunicare a actelor de procedură, fără a fi condiționată de efectuarea procedurii în format letric, conform dispozițiilor art. 154 alin. (1) din același act normativ.",
+  "Actul de citare a părții în proces, într-o altă modalitate decât cea invocată prin cererea adresată instanței, este lovit de nulitate în temeiul dispozițiilor art. 175 alin. (1) din Codul de procedură civilă, dacă prin nerespectarea modalității de comunicare a actului de procedură s-a adus părții o vătămare care nu poate fi înlăturată decât prin desființarea acestuia, fără a fi condiționată de utilizarea procedurii înscrierii în fals, în temeiul dispozițiilor art. 163 alin. (5) și art. 164 alin. (4) din Codul de procedură civilă.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "154",
+     "alin": [
+      "6",
+      "4",
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "158",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": [
+      "3",
+      "5",
+      "11-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "164",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "153",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "92",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "216",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "184",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "503",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 79
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1326",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 192/2022",
+    "number": "192",
+    "year": "2022",
+    "path": "lege/2022/192"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265465",
+  "text_sha256": "7f576803663979c15683e03c5a76c674a013acba1ddba37da2b555924868791e",
+  "catalogue_sha256": "7f576803663979c15683e03c5a76c674a013acba1ddba37da2b555924868791e",
+  "fetched": "2026-11-03T01:24:58Z",
+  "chars": 87332,
+  "portal_id": "265465",
+  "tip": "DECIZIE"
+ }
+}
