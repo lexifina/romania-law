@@ -1,0 +1,235 @@
+{
+ "key": "dcc-581-2022",
+ "label": "Decizia CCR nr. 581/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "581",
+ "date": "2022-11-22",
+ "year": "2022",
+ "heading": "DECIZIA nr. 581 din 22 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. 14 alin. (1) și (5) și ale art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "181",
+  "bis": false,
+  "date": "2023-03-03",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.462/115/2019",
+  "1.424D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 14 alin. (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, pentru membrii de sindicat Dumitru Tomescu, Maria Tudora, Jiri Peter Toman, Mihaela Ana Minea, Ioan Bălan, Dumitru Giurescu și Florin Lungu în dosarele nr. 2.462/115/2019, nr. 2.481/115/2019, nr. 2.497/115/2019, nr. 2.517/115/2019, nr. 2.519/115/2019, nr. 2.552/115/2019 și nr. 2.565/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor în aceleași dosare ale aceleiași instanțe judecătorești și constată că dispozițiile art. 14 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "3. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 38 alin. (2) și (3) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. 23 din anexa nr. VI la Legea-cadru nr. 153/2017, excepție ridicată de același autor în aceleași dosare ale aceleiași instanțe judecătorești.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 40
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 104/2001",
+    "number": "104",
+    "year": "2001",
+    "path": "oug/2001/104"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-03-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265451",
+  "text_sha256": "c15b9f732a9aeea14fde65c1c20f4f6ba0890b798aff2a8cdbcc0213333f4716",
+  "catalogue_sha256": "c15b9f732a9aeea14fde65c1c20f4f6ba0890b798aff2a8cdbcc0213333f4716",
+  "fetched": "2026-11-06T02:33:33Z",
+  "chars": 26551,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230305112844/https://legislatie.just.ro/Public/DetaliiDocument/265451",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/265451",
+   "timestamp": "20230305112844",
+   "sha256": "328d1113c19b48bd7665e824842b23e313f0a7b6bc9f5a6763d2909675a0b482"
+  },
+  "portal_id": "265451",
+  "tip": "DECIZIE"
+ }
+}
