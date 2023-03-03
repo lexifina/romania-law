@@ -1,0 +1,2 @@
+# ANEXĂ
+PROCEDURĂ de notificare a produselor care sunt puse pe piață ca înlocuitori totali ai dietei în scop de control al greutății în baza art. 7 din Regulamentul delegat (UE) 2017/1.798 al Comisiei din 2 iunie 2017 de completare a Regulamentului (UE) nr. 609/2013 al Parlamentului European și al Consiliului, în ceea ce privește cerințele specifice privind compoziția și informațiile aplicabile înlocuitorilor totali ai dietei în scop de control al greutății
