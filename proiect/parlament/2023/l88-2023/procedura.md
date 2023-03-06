@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-21: documents published: Raport comisie sesizată pe fond
 - 2023-02-08: adopted by the Chamber of Deputies
 - 2023-02-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-03-06: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-09: Adresă de înaintare a inițiativei (AD): [ad-f34040f8.md](ad-f34040f8.md); official file https://www.senat.ro/legis/PDF/2023/23L088AD.PDF
 - 2023-02-09: Forma inițiatorului (FG): [fg-1a367913.md](fg-1a367913.md); official file https://www.senat.ro/legis/PDF/2023/23L088FG.PDF
 - 2023-02-09: Expunere de motive (EM): [em-ac3fb42c.md](em-ac3fb42c.md); official file https://www.senat.ro/legis/PDF/2023/23L088EM.PDF
+- 2023-03-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088FS.PDF
