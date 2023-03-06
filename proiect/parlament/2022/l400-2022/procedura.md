@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-15: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-02-20: sent for promulgation
 - 2023-03-03: promulgated, becomes Legea nr. 51/2023
+- 2023-03-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-29: Adresă către Camera Deputaților (AM): [am-3eb12902.md](am-3eb12902.md); official file https://www.senat.ro/legis/PDF/2022/22L400AM.PDF
 - 2023-02-15: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L400AXS.PDF
 - 2023-02-15: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L400LP.PDF
+- 2023-03-06: Document (SM): [sm-ffb3648f.md](sm-ffb3648f.md); official file https://www.senat.ro/legis/PDF/2022/22L400SM.PDF (its day is not given by the bill file: shown from the last stage held)
