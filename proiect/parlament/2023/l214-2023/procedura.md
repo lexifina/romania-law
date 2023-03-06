@@ -1,0 +1,17 @@
+# Propunere legislativă L214/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.(11 indice 1) lit.g) din Legea nr.50/1991 privind autorizarea executării lucrărilor de construcţii
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-03-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-03-06: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L214AD.PDF
+- 2023-03-06: Forma inițiatorului (FG): [fg-05815030.md](fg-05815030.md); official file https://www.senat.ro/legis/PDF/2023/23L214FG.PDF
+- 2023-03-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L214EM.PDF
