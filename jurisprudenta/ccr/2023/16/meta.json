@@ -1,0 +1,414 @@
+{
+ "key": "dcc-16-2023",
+ "label": "Decizia CCR nr. 16/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "16",
+ "date": "2023-01-31",
+ "year": "2023",
+ "heading": "DECIZIA nr. 16 din 31 ianuarie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a Ordonanței de urgență a Guvernului nr. 50/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "187",
+  "bis": false,
+  "date": "2023-03-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.218/46/2021",
+  "343/36/2021",
+  "248/43/2021",
+  "605/39/2021",
+  "2.728D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 50/2021",
+    "number": "50",
+    "year": "2021",
+    "path": "oug/2021/50"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată direct de Avocatul Poporului, de Asociația Vâlceană a Elevilor în Dosarul nr. 1.218/46/2021 al Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, de Asociația Elevilor din Constanța în Dosarul nr. 343/36/2021 al Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea Duda Trans - S.R.L., Societatea Minibus Tour - S.R.L. și Societatea Viomob Impex - S.R.L., toate din Târgu Mureș, în Dosarul nr. 248/43/2021 al Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal, respectiv de Societatea Tarsincom - S.R.L. din Vicovu de Sus, Societatea Trans DMV Europa - S.R.L. din Suceava, Societatea Maxitrans Company - S.R.L. din Câmpulung Moldovenesc și Societatea Lin Transport - S.R.L. din comuna Frumosu, județul Suceava, în Dosarul nr. 605/39/2021 al Curții de Apel Suceava - Secția de contencios administrativ și fiscal și constată că Ordonanța de urgență a Guvernului nr. 50/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Avocatului Poporului, Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Constanța - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Târgu Mureș - Secția a II-a civilă, de contencios administrativ și fiscal și Curții de Apel Suceava - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 50/2021",
+    "number": "50",
+    "year": "2021",
+    "path": "oug/2021/50"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului educației nr. 4.426/2021",
+    "number": "4426",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "84",
+     "alin": [
+      "1-3",
+      "1-7",
+      "3",
+      "1-6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 248/2013",
+    "number": "248",
+    "year": "2013",
+    "path": "lege/2013/248"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "39",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 226/2020",
+    "number": "226",
+    "year": "2020",
+    "path": "lege/2020/226"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 70/2020",
+    "number": "70",
+    "year": "2020",
+    "path": "oug/2020/70"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor publice de transport persoane în unitățile administrativ-teritoriale nr. 92/2007",
+    "number": "92",
+    "year": "2007",
+    "path": "lege/2007/92"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "i",
+      "j"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 27/2011",
+    "number": "27",
+    "year": "2011",
+    "path": "og/2011/27"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 435/2020",
+    "number": "435",
+    "year": "2020",
+    "path": "hg/2020/435"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265509",
+  "text_sha256": "2a3813be0d4f3811a3a8222b18bdaa66ff7e6955ac3f080b94e8db2d0a205a46",
+  "catalogue_sha256": "2a3813be0d4f3811a3a8222b18bdaa66ff7e6955ac3f080b94e8db2d0a205a46",
+  "fetched": "2026-11-03T01:25:00Z",
+  "chars": 68354,
+  "portal_id": "265509",
+  "tip": "DECIZIE"
+ }
+}
