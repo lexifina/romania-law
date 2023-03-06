@@ -1,0 +1,195 @@
+{
+ "key": "iccj-hp-5-2023",
+ "label": "Decizia ÎCCJ nr. 5/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "5",
+ "date": "2023-01-30",
+ "year": "2023",
+ "heading": "DECIZIA nr. 5 din 30 ianuarie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 262 alin. (4) din Legea nr. 207/2015 privind Codul de procedură fiscală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "189",
+  "bis": false,
+  "date": "2023-03-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.155/1/2022",
+  "16.927/4/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "724",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a IV-a civilă, în Dosarul nr. 16.927/4/2017*, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Dacă dispozițiile art. 262 alin. (4) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, sunt derogatorii de la dreptul comun reprezentat de art. 724 din Codul de procedură civilă, în ceea ce privește modalitatea de restabilire a situației anterioare în cazul în care bunurile executate silit au fost valorificate, respectiv dacă, potrivit art. 262 alin. (4) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, în materie fiscală modalitatea restabilirii situației anterioare în cazul în care bunurile executate silit au fost valorificate se poate face doar prin restituirea de către cel îndreptățit a sumei ce i se cuvine din valorificarea bunurilor",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "262",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "724",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "723",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1639",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 11/1996",
+    "number": "11",
+    "year": "1996",
+    "path": "og/1996/11"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 61/2002",
+    "number": "61",
+    "year": "2002",
+    "path": "og/2002/61"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "404-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-03-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265526",
+  "text_sha256": "5eda44391ff7aa3110e7b281ccff8dc8a6af49b4f48221560b5feb32071ace6a",
+  "catalogue_sha256": "5eda44391ff7aa3110e7b281ccff8dc8a6af49b4f48221560b5feb32071ace6a",
+  "fetched": "2026-11-03T01:24:55Z",
+  "chars": 33838,
+  "portal_id": "265526",
+  "tip": "DECIZIE"
+ }
+}
