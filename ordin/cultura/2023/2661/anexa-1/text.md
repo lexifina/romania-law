@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME METODOLOGICE privind stoparea/recuperarea ajutorului de minimis acordat în cadrul Schemei de ajutor de minimis pentru sprijinirea inițiativelor culturale de accelerare a digitalizării producției și distribuției de filme, asociată Planului național de redresare și reziliență al României, pilonul IV, componenta 11 - Turism și cultură, investiția 7
