@@ -1,0 +1,60 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/341 AL COMISIEI
+din 15 februarie 2023
+privind reînnoirea autorizației pentru vitamina E ca aditiv furajer în hrana tuturor speciilor de animale și de abrogare a Regulamentului (UE) nr. 26/2011
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare și de reînnoire a unor astfel de autorizații.
+(2) Vitamina E a fost autorizată pentru o perioadă de 10 ani ca aditiv furajer pentru toate speciile de animale prin Regulamentul (UE) nr. 26/2011 al Comisiei (2).
+(3) În conformitate cu articolul 14 alineatul (1) din Regulamentul (CE) nr. 1831/2003, au fost depuse cinci cereri de reînnoire a autorizației pentru vitamina E sub formă de acetat de all-rac-alfa-tocoferil și una de reînnoire a autorizației pentru vitamina E sub formă de acetat de RRR-alfa-tocoferil ca aditivi furajeri pentru toate speciile de animale, solicitându-se ca aditivii să fie clasificați în categoria „aditivi nutriționali” și în grupa funcțională „vitamine, provitamine și substanțe chimice bine definite cu efect similar”. Cererile în cauză au fost însoțite de informațiile și de documentele necesare în conformitate cu articolul 14 alineatul (2) din regulamentul respectiv.
+(4) Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat în avizele sale din 17 martie 2021 (3) și 10 noiembrie 2021 (4) că solicitanții au furnizat dovezi că vitamina E rămâne sigură pentru toate speciile de animale, pentru consumatori și pentru mediu în condițiile de utilizare autorizate în prezent și că nu se preconizează nicio problemă pentru siguranța utilizatorilor în urma utilizării substanței active. Autoritatea nu a putut concluziona, din cauza lipsei de informații, cu privire la potențialul său de sensibilizare cutanată.
+(5) În conformitate cu articolul 5 alineatul (4) litera (c) din Regulamentul (CE) nr. 378/2005 al Comisiei (5), laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003 a considerat că concluziile și recomandările formulate în evaluările anterioare sunt aplicabile cererilor actuale.
+(6) Evaluarea vitaminei E arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este necesar ca autorizația acestui aditiv să fie reînnoită.
+(7) Comisia consideră că este necesar să fie luate măsuri adecvate de protecție pentru a se preveni efectele adverse asupra sănătății umane, îndeosebi în ceea ce privește utilizatorii aditivilor. Aceste măsuri de protecție trebuie să respecte legislația Uniunii privind cerințele de securitate a lucrătorilor.
+(8) Ca urmare a reînnoirii autorizației pentru vitamina E sub formă de acetat de all-rac-alfa-tocoferil și pentru vitamina E sub formă de acetat de RRR-alfa-tocoferil ca aditivi furajeri, precum și a expirării autorizației pentru vitamina E sub formă de RRR-alfa-tocoferol, Regulamentul (UE) nr. 26/2011 trebuie abrogat.
+(9) Deoarece nu există motive de siguranță care să impună aplicarea imediată a modificărilor condițiilor de autorizare a vitaminei E, este adecvat să se prevadă o perioadă de tranziție pentru a permite părților interesate să se pregătească pentru a îndeplini noile cerințe care decurg din reînnoirea autorizației.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Se reînnoiește autorizarea substanței și a preparatelor specificate în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „vitamine, provitamine și substanțe bine definite din punct de vedere chimic, cu efect similar”, sub rezerva îndeplinirii condițiilor prevăzute în anexa respectivă.
+Articolul 2
+Regulamentul (UE) nr. 26/2011 se abrogă.
+Articolul 3
+(1) Substanța și preparatele specificate în anexă și preamestecurile care le conțin, care sunt produse și etichetate înainte de 8 septembrie 2023 în conformitate cu normele aplicabile înainte de 8 martie 2023, pot fi în continuare introduse pe piață și utilizate până la epuizarea stocurilor existente.
+(2) Furajele combinate și materiile prime furajere care conțin substanța și preparatele specificate în anexă și care sunt produse și etichetate înainte de 8 martie 2024, în conformitate cu normele aplicabile înainte de 8 martie 2023, pot fi introduse în continuare pe piață și utilizate până la epuizarea stocurilor existente dacă sunt destinate animalelor de la care se obțin produse alimentare.
+(3) Furajele combinate și materiile prime furajere care conțin substanța și preparatele specificate în anexă și care sunt produse și etichetate înainte de 8 martie 2025, în conformitate cu normele aplicabile înainte de 8 martie 2023, pot fi introduse în continuare pe piață și utilizate până la epuizarea stocurilor existente dacă sunt destinate animalelor de la care nu se obțin produse alimentare.
+Articolul 4
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 februarie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) Regulamentul (UE) nr. 26/2011 al Comisiei din 14 ianuarie 2011 privind autorizarea vitaminei E ca aditiv furajer în hrana tuturor speciilor de animale (JO L 11, 15.1.2011, p. 18).
+(3) EFSA Journal 2021;19(4):6529, 6530, 6531, 6532 și 6533.
+(4) EFSA Journal 2021;19(12):6974.
+(5) Regulamentul (CE) nr. 378/2005 al Comisiei din 4 martie 2005 de stabilire a normelor de punere în aplicare a Regulamentului (CE) nr. 1831/2003 al Parlamentului European și al Consiliului privind funcțiile și atribuțiile laboratorului comunitar de referință cu privire la cererile de autorizare a unor aditivi pentru hrana animalelor (JO L 59, 5.3.2005, p. 8).
+ANEXĂ
+Numărul de identificare al aditivului | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg de aditiv/kg de hrană completă pentru animale, cu un conținut de umiditate de 12 %
+Categoria aditivi nutriționali. Grupa funcțională: vitamine, provitamine și substanțe bine definite din punct de vedere chimic, cu efect similar
+3a700 | „Vitamina E” sau „acetat de all-rac-alfa-tocoferil” | Compoziția aditivului Acetat de all-rac-alfa-tocoferil Formă lichidă Caracterizarea substanței active Acetat de all-rac-alfa-tocoferil C31H52O3 Numărul CAS: 7695-91-2 Puritate: > 93 % Produs prin sinteză chimică | Toate speciile de animale | - | - | - | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor trebuie indicate condițiile de depozitare și stabilitatea la tratament termic. 2. Aditivul poate fi utilizat și în apa de băut. 3. În cazul în care conținutul de vitamina E este menționat pe etichetă, următoarele echivalente pentru unitățile de măsurare ale conținutului vor fi utilizate: — 1 mg acetat de all-rac-alfa-tocoferil = 1 IU 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție a pielii. | 8 martie 2033
+Metoda analitică (1)
+1. Pentru determinarea vitaminei E (sub formă de ulei) în aditivi furajeri: Farmacopeea Europeană Ph. Eur. 07/2011:0439.
+2. Pentru determinarea vitaminei E (sub formă de pulbere) în aditivi furajeri: Farmacopeea Europeană Ph. Eur. 01/2011:0691.
+3. Pentru determinarea nivelului de vitamina E autorizată în furajele combinate: Regulamentul (CE) nr. 152/2009(2).
+3a700i | „Vitamina E” sau „acetat de all-rac-alfa-tocoferil” | Compoziția aditivului Preparat care conține ≥ 50 % acetat de all-rac-alfa-tocoferil Formă solidă Caracterizarea substanței active Acetat de all-rac-alfa-tocoferil C31H52O3 Numărul CAS: 7695-91-2 Puritate: > 93 % Produs prin sinteză chimică | Toate speciile de animale | - | - | - | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor trebuie indicate condițiile de depozitare și stabilitatea la tratament termic. 2. Aditivul poate fi utilizat și în apa de băut. 3. În cazul în care conținutul de vitamina E este menționat pe etichetă, următoarele echivalente pentru unitățile de măsurare ale conținutului vor fi utilizate: — 1 mg acetat de all-rac-alfa-tocoferil = 1 IU 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție a pielii. | 8 martie 2033
+Metoda analitică (1)
+1. Pentru determinarea vitaminei E (sub formă de ulei) în aditivi furajeri: Farmacopeea Europeană Ph. Eur. 07/2011:0439.
+2. Pentru determinarea vitaminei E (sub formă de pulbere) în aditivi furajeri: Farmacopeea Europeană Ph. Eur. 01/2011:0691.
+3. Pentru determinarea nivelului de vitamina E autorizată în furajele combinate: Regulamentul (CE) nr. 152/2009(2)
+3a700ii | „Vitamina E” sau „acetat de RRR-alfa-tocoferil” | Compoziția aditivului Preparat care conține ≥ 25 % acetat de RRR-rac-alfa-tocoferil Formă solidă Caracterizarea substanței active Acetat de RRR-alfa-tocoferil C31H52O3 Numărul CAS: 58-95-7 Puritate: > 40 % Sintetizate chimic din uleiuri vegetale. | Toate speciile de animale | - | - | - | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor trebuie indicate condițiile de depozitare și stabilitatea la tratament termic. 2. Aditivul poate fi utilizat și în apa de băut. 3. În cazul în care conținutul de vitamina E este menționat pe etichetă, următoarele echivalente pentru unitățile de măsurare ale conținutului vor fi utilizate: — 1 mg acetat de RRR-alfa-tocoferil = 1,36 IU 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și măsuri, aditivul și preamestecurile se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție a pielii. | 8 martie 2033
+Metoda analitică (1)
+1. Pentru determinarea vitaminei E (sub formă de ulei) în aditivi furajeri: Farmacopeea Europeană EP-1257.
+2. Pentru determinarea vitaminei E (sub formă de pulbere) în aditivi furajeri: Farmacopeea Europeană Ph. Eur. 01/2011:0691.
+3. Pentru determinarea nivelului de vitamina E autorizată în furajele combinate: Regulamentul (CE) nr. 152/2009(2).
+(1) Detalii ale metodelor analitice sunt disponibile la următoarea adresă a Laboratorului de referință: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1).
