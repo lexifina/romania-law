@@ -1,0 +1,6 @@
+# Anexa nr. 2.3 la normele metodologice
+Lista finală a elevilor, studenților și mentorilor care beneficiază de premiile „Henri Coandă”
+Anul........
+Sesiunea........
+Nr. crt. Numele și prenumele premiatului Unitatea de învățământ de proveniență Premiul obținut Numele competiției la care a participat Anul în care a obținut premiul Domeniul competiției [conform art. 3 alin. (2) lit. e) din anexa nr. 2 la ordin]
+-----
