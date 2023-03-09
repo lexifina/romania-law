@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-169-22-concluzii-2023-03-09",
+ "label": "CJUE, Concluziile avocatului general A. Rantos prezentate la 9 martie 2023, Cauza C-169/22.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-03-09",
+ "year": "2023",
+ "case": "Cauza C-169/22.",
+ "celex": "62022CC0169",
+ "ecli": "ECLI:EU:C:2023:196",
+ "heading": "Concluziile avocatului general A. Rantos prezentate la 9 martie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Bucureşti.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Politica agricolă comună – Fondul european agricol pentru dezvoltare rurală (FEADR) – Măsuri de sprijin pentru dezvoltarea rurală – Plăți în favoarea bunăstării animalelor – Regulamentul (CE) nr. 1974/2006 – Articolul 44 alineatul (1) și alineatul (2) litera (a) – Articolul 47 alineatul (1) – Transfer al exploatației agricole către un nou beneficiar – Încetare ulterioară de către acest beneficiar a activităților sale agricole – «Cazuri de forță majoră sau de împrejurări excepționale» – Obligația de a rambursa o parte sau totalitatea ajutorului primit – Principiul proporționalității.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0169",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-169/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/90dc5420-be6b-11ed-8912-01aa75ed71a1.0018.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "bbf479b551136243378f0fbc266451986272c6617ec27c59e425ccd188b183f8"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
