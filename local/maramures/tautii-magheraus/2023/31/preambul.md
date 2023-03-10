@@ -1,0 +1,13 @@
+Consiliul local al orașului Tăuții-Măgherăuș întrunit în ședință extraordinara la data de
+10.03.2023,
+Având în vedere:
+CONSILIUL LOCAL AL ORAȘULUI TĂUȚII MĂGHERĂUȘ
+întrunit in ședința extraordinară din data de 10.03.2023
+Examinând
+ Raportul de specialitate nr. 3168 din 08.03.2023 al Compartimentului Implementare Proiecte și Strategii.
+ Referatul de aprobare al primarului,  Documentația privind Planul de Mobilitate Urbană Durabilă pentru contextul strategic
+european aferent cadrului de programare 2021-2027 si post 2027, până în anul 2030, la nivelul zonei funcționale urbane Baia Mare;  Contractul nr. 42503/24.11.2020, având ca obiect ”Servicii de Consultanță pentru elaborarea documentelor strategice: Plan strategic instituțional, SIDU, PMUD pentru proiectul „Planificare Strategică și Implementarea de Proceduri pentru reducerea birocrației în Municipiul Baia Mare și Zona Metropolitană" cod SMIS 129243 - Lot 3: Actualizarea Planului de Mobilitate Urbană Durabilă pentru contextul strategic european aferent cadrului de programare 2021-2027 si post 2027, până în anul 2030, la nivelul zonei funcționale urbane Baia Mare, semnat cu S.C. F.I.P. Consulting S.R.L.  Contractul de finanțare nr. 436/07.10.2019, Actul adițional nr. 1/24.11.2021 și Actul adițional nr. 2 / 26.07.2022;  Decizia nr. 1955/17.10.2022;  Referatul de aprobare al Arhitectului Șef al Municipiului Baia Mare cu nr.
+54309/14.12.2022,  Anunțul Agenției de Dezvoltare Regională Nord-Vest privind demararea etapei de verificare a conformității administrative și admisibilității documentelor strategice (Planuri de Mobilitate Urbană Durabilă și Strategii Teritoriale)  Metodologia de verificare a conformității administrative și admisibilității documentelor strategice – Planuri de Mobilitate Urbană Durabilă (P.M.U.D.) și Strategii Teritoriale (S.T.)  Documentele obligatorii solicitate la depunerea S.I.D.U., care includ Hotărârile Consiliilor Locale ale UAT-urilor care fac parte din Zona Funcțională Urbană  Adresa nr. 14050 din 22.02.2023 a Direcției Proiecte – Municipiul Baia Mare.
+Având în vedere:  Legea nr. 350 din 6 iulie 2001 privind amenajarea teritoriului și urbanismul;  Normele metodologice din 2016 de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului și urbanismul și de elaborare și actualizare a documentațiilor de urbanism, art. 15 și 16;  Legea 273/2006 privind finanțele publice locale, cu modificările și completările ulterioare;
+În temeiul prevederilor:  Art.129, alin. 1., alin. 2 lit. b și d, alin.7 lit. g, din Ordonanța de Urgență 57/2019 privind Codul Administrativ
+Hotărăște:
