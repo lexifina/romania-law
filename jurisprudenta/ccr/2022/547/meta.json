@@ -1,0 +1,250 @@
+{
+ "key": "dcc-547-2022",
+ "label": "Decizia CCR nr. 547/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "547",
+ "date": "2022-11-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 547 din 17 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 2 alin. (3) și ale art. 3 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 85/2006 privind stabilirea modalităților de evaluare a pagubelor produse vegetației forestiere din păduri și din afara acestora, precum și ale anexei nr. 1 la aceeași ordonanță de urgență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "201",
+  "bis": false,
+  "date": "2023-03-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "6.387/315/2018",
+  "2.787D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "oug/2006/85"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniel Amuza în Dosarul nr. 6.387/315/2018 al Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie și constată că dispozițiile art. 2 alin. (3) și ale art. 3 alin. (1) și (2) din Ordonanța de urgență a Guvernului nr. 85/2006 privind stabilirea modalităților de evaluare a pagubelor produse vegetației forestiere din păduri și din afara acestora, precum și ale anexei nr. 1 la aceeași ordonanță de urgență sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Ploiești - Secția penală și pentru cauze cu minori și de familie și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "oug/2006/85"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 96/1998",
+    "number": "96",
+    "year": "1998",
+    "path": "og/1998/96"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 197/2020",
+    "number": "197",
+    "year": "2020",
+    "path": "lege/2020/197"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 51/2016",
+    "number": "51",
+    "year": "2016",
+    "path": "oug/2016/51"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-03-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265591",
+  "text_sha256": "f0dbf08d279b9f0411930198f336b40729d1174ed3469474a70beaf23761f6ca",
+  "catalogue_sha256": "f0dbf08d279b9f0411930198f336b40729d1174ed3469474a70beaf23761f6ca",
+  "fetched": "2026-11-06T02:55:45Z",
+  "chars": 13805,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20230315004821/https://legislatie.just.ro/Public/DetaliiDocument/265591",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/265591",
+   "timestamp": "20230315004821",
+   "sha256": "6c01a6378a6b0f3f9b653eead954484cdb54d6c948216a0aecbc3f1d574aeb20"
+  },
+  "portal_id": "265591",
+  "tip": "DECIZIE"
+ }
+}
