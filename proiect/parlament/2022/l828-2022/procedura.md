@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2022-12-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-12-23: sent for promulgation
 - 2023-02-28: published in the Monitorul Oficial
+- 2023-03-14: promulgated, becomes Legea nr. 58/2023
 
 ## Documents
 
