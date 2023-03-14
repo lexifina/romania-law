@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-03-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+- 2023-03-14: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -19,3 +20,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-13: Expunere de motive (EM): [em-99d360df.md](em-99d360df.md); official file https://www.senat.ro/legis/PDF/2023/23L130EM.PDF
 - 2023-03-13: Aviz Consiliul Legislativ (LG): [lg-1c424670.md](lg-1c424670.md); official file https://www.senat.ro/legis/PDF/2023/23L130LG.PDF
 - 2023-03-13: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L130ES.PDF
+- 2023-03-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L130CR.PDF
+- 2023-03-14: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L130FS.PDF
+- 2023-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L130AM.PDF
