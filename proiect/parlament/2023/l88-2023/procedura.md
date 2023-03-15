@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-03-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-03-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-03-15: sent for promulgation
 
 ## Documents
 
