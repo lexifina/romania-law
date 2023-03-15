@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-12-23: sent for promulgation
 - 2023-02-28: published in the Monitorul Oficial
 - 2023-03-14: promulgated, becomes Legea nr. 58/2023
+- 2023-03-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,6 @@ Initiator: Guvernul României.
 - 2022-12-21: Forma adoptată de Senat (FS): [fs-e6d5c25d.md](fs-e6d5c25d.md); official file https://www.senat.ro/legis/PDF/2022/22L828FS.PDF
 - 2022-12-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L828AXS.PDF
 - 2022-12-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L828LP.PDF
+- 2023-03-15: Document (AL): [al-598d5bfd.md](al-598d5bfd.md); official file https://www.senat.ro/legis/PDF/2022/22L828AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-15: Document (SC): [sc-650007cb.md](sc-650007cb.md); official file https://www.senat.ro/legis/PDF/2022/22L828SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-15: Document (DC): [dc-f96eb38c.md](dc-f96eb38c.md); official file https://www.senat.ro/legis/PDF/2022/22L828DC.PDF (its day is not given by the bill file: shown from the last stage held)
