@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-07: documents published: Aviz comisie
 - 2023-03-08: documents published: Aviz comisie
 - 2023-03-10: documents published: Punct de vedere Guvern
+- 2023-03-15: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-07: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L097CA41.PDF
 - 2023-03-08: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L097CA45.PDF
 - 2023-03-10: Punct de vedere Guvern (SJ): [sj-3a301074.md](sj-3a301074.md); official file https://www.senat.ro/legis/PDF/2023/23L097SJ.PDF
+- 2023-03-15: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L097CR.PDF
