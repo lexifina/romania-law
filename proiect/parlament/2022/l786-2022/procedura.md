@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-02-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-04: sent for promulgation
+- 2023-03-16: promulgated, becomes Legea nr. 60/2023
 
 ## Documents
 
