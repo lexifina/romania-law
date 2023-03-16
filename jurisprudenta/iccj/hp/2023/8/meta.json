@@ -1,0 +1,483 @@
+{
+ "key": "iccj-hp-8-2023",
+ "label": "Decizia ÎCCJ nr. 8/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "8",
+ "date": "2023-01-30",
+ "year": "2023",
+ "heading": "DECIZIA nr. 8 din 30 ianuarie 2023",
+ "subtitle": "privind interpretarea dispozițiilor art. 914 din Codul civil și ale art. 41 din Legea nr. 7/1996",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "219",
+  "bis": false,
+  "date": "2023-03-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.069/1/2022",
+  "25.826/325/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "914",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Timiș - Secția I civilă, în Dosarul nr. 25.826/325/2018, pentru pronunțarea unei hotărâri prealabile, cu privire la următoarea chestiune de drept: Dacă, în regiunile de carte funciară unde s-au aplicat dispozițiile Decretului-lege nr. 115/1938 pentru unificarea dispozițiilor privitoare la cărțile funciare, cu modificările ulterioare, în situația unui imobil teren înscris în cartea funciară sub imperiul aceluiași act normativ și înainte de intrarea în vigoare a Legii cadastrului și a publicității imobiliare nr. 7/1996, republicată, cu modificările și completările ulterioare, proprietarul poate solicita în instanță modificarea suprafeței imobilului conform prevederilor art. 914 din Codul civil sau dacă această modificare de suprafață poate fi obținută doar după parcurgerea procedurii prevăzute de art. 41 din Legea nr. 7/1996.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XIX",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 115/1938",
+    "number": "115",
+    "year": "1938",
+    "path": "decret-lege/1938/115"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii cadastrului și a publicității imobiliare nr. 7/1996",
+    "number": "7",
+    "year": "1996",
+    "path": "lege/1996/7"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "7"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "914",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "555",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "557",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "876",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "877",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "878",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "879",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "880",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "881",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "882",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "883",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "884",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "885",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "886",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "887",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "888",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "889",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "890",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "893",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "894",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "895",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "896",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "897",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "898",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "899",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "900",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "901",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "902",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "903",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "904",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "907",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "908",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "909",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "910",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "911",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "912",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "913",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "915",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "565",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 150/2015",
+    "number": "150",
+    "year": "2015",
+    "path": "lege/2015/150"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 31/2018",
+    "number": "31",
+    "year": "2018",
+    "path": "oug/2018/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 185/2018",
+    "number": "185",
+    "year": "2018",
+    "path": "lege/2018/185"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-03-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265714",
+  "text_sha256": "774741d5c75bf92c76c4fbdb78a9c76065a0d83dca1557009b249979bf0cf301",
+  "catalogue_sha256": "774741d5c75bf92c76c4fbdb78a9c76065a0d83dca1557009b249979bf0cf301",
+  "fetched": "2026-11-03T01:24:41Z",
+  "chars": 45712,
+  "portal_id": "265714",
+  "tip": "DECIZIE"
+ }
+}
