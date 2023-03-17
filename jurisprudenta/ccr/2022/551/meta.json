@@ -1,0 +1,280 @@
+{
+ "key": "dcc-551-2022",
+ "label": "Decizia CCR nr. 551/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "551",
+ "date": "2022-11-17",
+ "year": "2022",
+ "heading": "DECIZIA nr. 551 din 17 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 155 alin. (1) din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "223",
+  "bis": false,
+  "date": "2023-03-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "316/197/2018",
+  "555D/2019",
+  "1.533D/2019",
+  "11.799/63/2017",
+  "2.083D/2019",
+  "610/32/2018/a8",
+  "2.207D/2019",
+  "1.167/186/2013",
+  "2.429D/2019",
+  "210/30/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 155 alin. (1) din Codul penal, excepție ridicată de Vasile Sorinel Năstase în Dosarul nr. 316/197/2018 al Curții de Apel Brașov - Secția penală, de Adrian Dragomirescu în Dosarul nr. 11.799/63/2017 al Tribunalului Dolj - Secția penală și pentru cauze cu minori, de Silviu Costel Avram, Costică Avram, Petrică Irinel Dumea și Petru Dumea în Dosarul nr. 610/32/2018/a8 al Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie, de Adrian Groșan (fost Tarniță) în Dosarul nr. 1.167/186/2013 al Curții de Apel Cluj - Secția penală și de minori, de Societatea Caprice - S.R.L. din Timișoara în Dosarul nr. 210/30/2019 al Judecătoriei Timișoara - Secția penală, de Ion Laurențiu Chiriac în Dosarul nr. 8.846/63/2013 al Curții de Apel Craiova - Secția penală și pentru cauze cu minori, de Doina Mihaela Ștefan în Dosarul nr. 15.051/63/2014* al Tribunalului Dolj - Secția penală și pentru cauze cu minori, de Marin Bîlc în Dosarul nr. 329/59/2018/a3 al Curții de Apel Timișoara - Secția penală, de Gheorghe Coriolan Ciuhandu în Dosarul nr. 5.736/30/2019 al Tribunalului Timiș - Secția penală, de Societatea Andris - S.R.L., comuna Pietroșani, județul Argeș, și de Ion Andrei în Dosarul nr. 1.574/109/2016 al Tribunalului Argeș - Secția penală, de Eugen Marcel Stoian în Dosarul nr. 3.477/231/2020 al Judecătoriei Focșani - Secția penală, de Nicolae Ghedzira în Dosarul nr. 1.379/249/2015 al Judecătoriei Lehliu-Gară și de Dumitru Tudone în Dosarul nr. 1.309/116/2016 al Curții de Apel București - Secția a II-a penală. * Cu opinia separată a doamnelor judecător Livia-Doina Stanciu și Elena-Simina Tănăsescu, în sensul celei formulate la Decizia nr. 297 din 26 aprilie 2018, publicată în Monitorul Oficial al României, Partea I, nr. 518 din 25 iunie 2018, și la Decizia nr. 358 din 26 mai 2022, publicată în Monitorul Oficial al României, Partea I, nr. 565 din 9 iunie 2022.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția penală, Tribunalului Dolj - Secția penală și pentru cauze cu minori, Curții de Apel Bacău - Secția penală și pentru cauze cu minori și de familie, Curții de Apel Cluj - Secția penală și de minori, Judecătoriei Timișoara - Secția penală, Curții de Apel Craiova - Secția penală și pentru cauze cu minori, Curții de Apel Timișoara - Secția penală, Tribunalului Timiș - Secția penală, Tribunalului Argeș - Secția penală, Judecătoriei Focșani - Secția penală, Tribunalului Călărași - Secția penală și Curții de Apel București - Secția a II-a penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 58
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-03-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266012",
+  "text_sha256": "d47bc7d66b08e23454f7a3ffff3a5db8a07acc783ed62598b6358119db5c8ec1",
+  "catalogue_sha256": "d47bc7d66b08e23454f7a3ffff3a5db8a07acc783ed62598b6358119db5c8ec1",
+  "fetched": "2026-11-03T01:24:38Z",
+  "chars": 42101,
+  "portal_id": "266012",
+  "tip": "DECIZIE"
+ }
+}
