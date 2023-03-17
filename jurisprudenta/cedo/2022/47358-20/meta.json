@@ -1,0 +1,219 @@
+{
+ "key": "cedo-47358-20-2022-08-30",
+ "label": "CEDO, C. c. României, 2022-08-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-08-30",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 30 august 2022",
+ "subtitle": "în Cauza C. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "221",
+  "bis": false,
+  "date": "2023-03-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "47358/20"
+ ],
+ "case_name": "C.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară admisibilă plângerea referitoare la art. 8;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze admisibilitatea și temeinicia capătului de cerere formulat în temeiul art. 8 coroborat cu art. 14 din Convenție;",
+  "4. hotărăște: (a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, suma de 7.500 EUR (șapte mii cinci sute euro), care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății, pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "(b) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată anuală egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "223",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2002",
+    "number": "202",
+    "year": "2002",
+    "path": "lege/2002/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "72",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 584/1998",
+    "number": "584",
+    "year": "1998",
+    "path": "hg/1998/584"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 137/2000",
+    "number": "137",
+    "year": "2000",
+    "path": "og/2000/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265721",
+  "text_sha256": "d18cbf4ff1922fe17740261528dba3d8d30b84d1b09c68e46b5074a1925efd9c",
+  "catalogue_sha256": "d18cbf4ff1922fe17740261528dba3d8d30b84d1b09c68e46b5074a1925efd9c",
+  "fetched": "2026-11-03T01:24:38Z",
+  "chars": 76501,
+  "portal_id": "265721",
+  "tip": "HOTĂRÂRE"
+ }
+}
