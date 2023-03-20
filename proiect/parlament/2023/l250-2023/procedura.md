@@ -1,0 +1,19 @@
+# Propunere legislativă L250/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 87/2024 (`legea-87-2024`).
+
+Propunere legislativă pentru modificarea şi completarea Legii nr.165/2018 privind acordarea biletelor de valoare, precum şi pentru completarea Ordonanţei de urgenţă a Guvernului nr.8/2009 privind acordarea voucherelor de vacanţă
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-03-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-03-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L250AD.PDF
+- 2023-03-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L250FG.PDF
+- 2023-03-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L250EM.PDF
