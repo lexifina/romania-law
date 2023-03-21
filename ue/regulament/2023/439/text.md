@@ -1,0 +1,33 @@
+REGULAMENTUL DELEGAT (UE) 2023/439 AL COMISIEI
+din 16 decembrie 2022
+de modificare a anexei la Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului pentru a permite utilizarea clorurii de ribozid-nicotinamidă ca sursă de niacină în alimentele destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 609/2013 al Parlamentului European și al Consiliului din 12 iunie 2013 privind alimentele destinate sugarilor și copiilor de vârstă mică, alimentele destinate unor scopuri medicale speciale și înlocuitorii unei diete totale pentru controlul greutății și de abrogare a Directivei 92/52/CEE a Consiliului, a Directivelor 96/8/CE, 1999/21/CE, 2006/125/CE și 2006/141/CE ale Comisiei, a Directivei 2009/39/CE a Parlamentului European și a Consiliului și a Regulamentelor (CE) nr. 41/2009 și (CE) nr. 953/2009 ale Comisiei (1), în special articolul 16 alineatul (1),
+întrucât:
+(1) Anexa la Regulamentul (UE) nr. 609/2013 stabilește o listă a Uniunii cuprinzând substanțele care pot fi adăugate la una sau la mai multe categorii de alimente menționate la articolul 1 alineatul (1) din regulamentul respectiv.
+(2) În conformitate cu Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului (2), Regulamentul de punere în aplicare (UE) 2020/16 al Comisiei (3) a autorizat introducerea pe piață a clorurii de ribozid-nicotinamidă ca aliment nou destinat utilizării în suplimente alimentare, astfel cum sunt definite în Directiva 2002/46/CE a Parlamentului European și a Consiliului (4), pentru populația adultă.
+(3) În urma unei cereri de extindere a utilizării clorurii de ribozid-nicotinamidă ca aliment nou pentru a include și utilizarea sa în scopuri nutriționale ca sursă de niacină, în special în alimentele destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății, Comisia a solicitat Autorității Europene pentru Siguranța Alimentară („autoritatea”) să emită un aviz cu privire la o astfel de extindere a utilizării în conformitate cu Regulamentul (UE) 2015/2283 și, în urma rezultatului evaluării respective, să evalueze în contextul Regulamentului (UE) nr. 609/2013 siguranța și biodisponibilitatea substanței respective atunci când este adăugată în alimentele în cauză. La 14 septembrie 2021, autoritatea a adoptat un aviz științific privind extinderea utilizării clorurii de ribozid-nicotinamidă ca aliment nou (5). În avizul respectiv, autoritatea a concluzionat că clorura de ribozid-nicotinamidă este la fel de sigură ca nicotinamida pură, în cazul în care este utilizată în alimente destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății. În plus, autoritatea a confirmat biodisponibilitatea nicotinamidei, o formă de niacină, din clorura de ribozid-nicotinamidă.
+(4) Regulamentul de punere în aplicare (UE) 2022/1160 al Comisiei (6) a autorizat utilizarea clorurii de ribozid-nicotinamidă în, printre alte produse, alimentele destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății pentru populația adultă, exceptând femeile însărcinate și femeile care alăptează, cu respectarea anumitor condiții.
+(5) Comisia consideră că avizul autorității oferă, în plus, suficiente motive pentru a stabili că clorura de ribozid-nicotinamidă, ca sursă de niacină, nu reprezintă o problemă de siguranță atunci când este utilizată în alimente destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății, în condițiile stabilite în Regulamentul de punere în aplicare (UE) 2022/1160. În consecință, este adecvat să se permită utilizarea clorurii de ribozid-nicotinamidă ca sursă de niacină în alimentele destinate unor scopuri medicale speciale și în înlocuitorii totali ai dietei destinați controlului greutății. Așadar, este necesar ca substanța respectivă să fie inclusă în lista Uniunii de substanțe care pot fi adăugate la anumite categorii de alimente, stabilită în anexa la Regulamentul (UE) nr. 609/2013.
+(6) Prin urmare, este necesar ca anexa la Regulamentul (UE) nr. 609/2013 să fie modificată în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa la Regulamentul (UE) nr. 609/2013 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 16 decembrie 2022.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 181, 29.6.2013, p. 35.
+(2) Regulamentul (UE) 2015/2283 al Parlamentului European și al Consiliului din 25 noiembrie 2015 privind alimentele noi, de modificare a Regulamentului (UE) nr. 1169/2011 al Parlamentului European și al Consiliului și de abrogare a Regulamentului (CE) nr. 258/97 al Parlamentului European și al Consiliului și a Regulamentului (CE) nr. 1852/2001 al Comisiei (JO L 327, 11.12.2015, p. 1).
+(3) Regulamentul de punere în aplicare (UE) 2020/16 al Comisiei din 10 ianuarie 2020 de autorizare a introducerii pe piață a clorurii de ribozid-nicotinamidă ca aliment nou în temeiul Regulamentului (UE) 2015/2283 al Parlamentului European și al Consiliului și de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 al Comisiei (JO L 7, 13.1.2020, p. 6).
+(4) Directiva 2002/46/CE a Parlamentului European și a Consiliului din 10 iunie 2002 referitoare la apropierea legislațiilor statelor membre privind suplimentele alimentare (JO L 183, 12.7.2002, p. 51).
+(5) Scientific opinion on the extension of use of nicotinamide riboside chloride as a novel food pursuant to Regulation (EU) 2015/2283 [Aviz științific privind extinderea utilizării clorurii de ribozid-nicotinamidă ca aliment nou în temeiul Regulamentului (UE) 2015/2283], EFSA Journal 2021;19(11):6843.
+(6) Regulamentul de punere în aplicare (UE) 2022/1160 al Comisiei din 5 iulie 2022 de modificare a Regulamentului de punere în aplicare (UE) 2017/2470 în ceea ce privește condițiile de utilizare și specificațiile alimentului nou clorură de ribozid-nicotinamidă (JO L 179, 6.7.2022, p. 25).
+ANEXĂ
+În anexa la Regulamentul (UE) nr. 609/2013, în categoria de substanțe „Vitamine”, la rubrica „Niacină”, se adaugă următoarea rubrică după rubrica „nicotinamidă”:
+„clorură de ribozid-nicotinamidă | | | X | X”
