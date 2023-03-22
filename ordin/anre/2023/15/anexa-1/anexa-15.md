@@ -1,0 +1,5 @@
+# Anexa nr. 14
+Chei de verificare, conform prevederilor art. 25, alin. (4)
+1. cantitatea achiziționată din Formularul privind achizițiile curente de gaze naturale + cantitatea achiziționată din Formularul privind echilibrarea SNT + cantitatea achiziționată din Formularul privind piața de echilibrare + cantitatea extrasă din Formularul privind Înmagazinarea = cantitatea vândută din Formularul privind vânzările de gaze naturale către export + cantitatea vândută din Formularul privind vânzările de gaze naturale către alți traderi/furnizori/distribuitori/transportatori, deținători ai licenței emise de ANRE + cantitatea vândută din Formularul privind vânzările de gaze naturale către clienții finali + cantitatea vândută din Formularul privind echilibrarea SNT + cantitatea vândută din Formularul privind piața de echilibrare + cantitatea injectată din Formularul de Înmagazinare + cantitatea din Formularul Consum propriu;
+2. cantitatea injectată din Formularul privind înmagazinarea trebuie să fie egală cu cantitatea destinată înmagazinării din Formularul privind achizițiile de gaze naturale;
+----
