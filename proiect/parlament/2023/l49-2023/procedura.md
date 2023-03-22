@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-14: documents published: Aviz comisie
 - 2023-02-22: documents published: Aviz comisie
 - 2023-03-01: documents published: Aviz comisie
+- 2023-03-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-14: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L049CA19.PDF
 - 2023-02-22: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L049CA45.PDF
 - 2023-03-01: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L049CA3.PDF
+- 2023-03-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L049FS.PDF
+- 2023-03-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L049AM.PDF
