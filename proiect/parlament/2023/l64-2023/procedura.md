@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-20: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2023-02-14: documents published: Aviz comisie
 - 2023-02-22: documents published: Aviz comisie
+- 2023-03-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-20: Aviz Consiliul Legislativ (LG): [lg-2c757430.md](lg-2c757430.md); official file https://www.senat.ro/legis/PDF/2023/23L064LG.PDF
 - 2023-02-14: Aviz comisie (CA47): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L064CA47.PDF
 - 2023-02-22: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L064CA12.PDF
+- 2023-03-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L064FS.PDF
+- 2023-03-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L064AM.PDF
