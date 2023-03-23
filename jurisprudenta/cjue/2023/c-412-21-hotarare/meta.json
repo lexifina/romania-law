@@ -1,0 +1,66 @@
+{
+ "key": "cjue-c-412-21-hotarare-2023-03-23",
+ "label": "CJUE, Hotărârea Curții (Camera a patra) din 23 martie 2023, Cauza C-412/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-03-23",
+ "year": "2023",
+ "case": "Cauza C-412/21",
+ "celex": "62021CJ0412",
+ "ecli": "ECLI:EU:C:2023:234",
+ "heading": "Hotărârea Curții (Camera a patra) din 23 martie 2023",
+ "formation": "CHAMB_04_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Satu Mare, Secţia A II-A civilă, de contencios administrativ și fiscal",
+   "date": "2021-06-09",
+   "national_file": "274/83/2021"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Satu Mare",
+ "national_followup": null,
+ "parties": "Dual Prod SRL împotriva Direcţiei Generale Regionale a Finanţelor Publice Cluj-Napoca - Comisia regională pentru autorizarea operatorilor de produse supuse accizelor armonizate",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Accize – Directiva 2008/118/CE – Articolul 16 alineatul (1) – Autorizație de funcționare ca antrepozit fiscal de produse supuse accizelor – Măsuri de suspendare succesive – Caracter penal – Articolele 48 și 50 din Carta drepturilor fundamentale a Uniunii Europene – Principiul prezumției de nevinovăție – Principiul ne bis in idem – Proporționalitate",
+ "interprets": [
+  {
+   "celex": "12007P048",
+   "folder": null
+  },
+  {
+   "celex": "12007P050",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0412",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-412/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/38696242-c95f-11ed-a05c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "66db00f78b788531d9950a24b42560794543a2d3e1e7b56eb68533043bbe7404"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a patra) declară:",
+  "1) Articolul 48 alineatul (1) din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretat în sensul că se opune posibilității ca o autorizație de funcționare ca antrepozit fiscal de produse supuse accizelor să fie suspendată administrativ până la finalizarea unei proceduri penale, pentru simplul motiv că titularul acestei autorizații a dobândit calitatea de inculpat în cadrul acestei proceduri penale, dacă această suspendare constituie o sancțiune de natură penală.",
+  "2) Articolul 50 din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretat în sensul că nu se opune ca o sancțiune de natură penală pentru încălcări ale reglementării privind produsele supuse accizelor să fie aplicată unei persoane juridice care a făcut deja, pentru aceleași fapte, obiectul unei sancțiuni de natură penală rămase definitive, cu condiția ca:",
+  "– posibilitatea de a cumula aceste două sancțiuni fie prevăzută de lege;",
+  "– reglementarea națională să nu permită judecarea și sancționarea acelorași fapte în temeiul aceleiași infracțiuni sau pentru urmărirea aceluiași obiectiv, ci să prevadă doar posibilitatea unui cumul de proceduri și de sancțiuni în temeiul unor reglementări diferite;",
+  "– aceste proceduri și aceste sancțiuni să vizeze scopuri complementare având ca obiect, dacă este cazul, aspecte diferite ale aceluiași comportament infracțional vizat;",
+  "– să existe norme clare și precise care să permită să se prevadă actele și omisiunile care pot face obiectul unui cumul de proceduri și de sancțiuni, precum și coordonarea dintre diferitele autorități, cele două proceduri să fi fost desfășurate într‑un mod suficient de coordonat și de apropiat în timp și sancțiunea eventual aplicată cu ocazia primei proceduri pe plan cronologic să fi fost luată în considerare la evaluarea celei de a doua sancțiuni, astfel încât sarcinile pentru persoanele în cauză ce rezultă dintr‑un asemenea cumul să fie limitate la strictul necesar, iar ansamblul sancțiunilor aplicate să corespundă gravității încălcărilor săvârșite."
+ ]
+}
