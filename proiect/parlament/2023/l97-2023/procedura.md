@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-10: documents published: Punct de vedere Guvern
 - 2023-03-15: documents published: Raport comisie sesizată pe fond
 - 2023-03-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2023-03-27: registered at the Chamber of Deputies
 
 ## Documents
 
