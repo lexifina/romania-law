@@ -1,0 +1,140 @@
+PARLAMENTUL ROMÂNIEI
+SENAT
+LEGE
+pentru modificarea și completarea Legii nr.212/2022 privind unele măsuri
+pentru reducerea riscului seismic al clădirilor
+Senatul adoptă prezentul proiect de lege
+Art.I.- Legea nr.212/2022 privind unele măsuri pentru reducerea riscului
+seismic al clădirilor, publicată în Monitorul Oficial al României, Partea I, nr.708 din
+14 iulie 2022, cu modificările ulterioare, se modifică și se completează după cum
+urmează:
+1. La articolul 2, după litera c) se introduce o nouă literă, lit.c^) cu
+următorul cuprins:
+„c') aglomerări de persoane - prezența simultană a cel puțin 50 de
+persoane într-o încăpere, fiecăreia dintre acestea revenindu-i o arie de pardoseală
+mai mică de 4 m^;”
+2. La articolul 4, după alineatul (2) se introduc trei noi alineate, alin.(2*)-
+(2^) cu următorul cuprins:
+„(2’) Până la data de 1 ianuarie 2024, conducătorii instituțiilor publice
+prevăzuți la alin.(l) și (2) vor dispune începerea evaluării vizuale rapide realizată în
+conformitate cu reglementarea tehnică Metodologie de evaluare vizuală rapidă a
+clădirilor, indicativ RTC 10-2022, aprobată prin Ordinul ministrului dezvoltării,
+lucrărilor publice și administrației nr.3231/2022, pentru construcțiile cu destinația
+de unități sau instituții de învățământ în care se desfășoară activități didactice și
+pentru cele cu destinația de spital, policlinică sau dispensar policlinic aflate în
+patrimoniu. Activitatea de evaluare vizuală rapidă va fi finalizată până la data de
+1 noiembrie 2024.
+
+2
+(2^) Până la data de 1 ianuarie 2025, primarii municipiilor, orașelor și
+comunelor, respectiv primarul general al municipiului București și primarii
+sectoarelor vor dispune începerea evaluării vizuale rapide realizată în conformitate
+cu reglementarea tehnică Metodologie de evaluare vizuală rapidă a clădirilor,
+indicativ RTC 10-2022, pentru clădirile prevăzute la art.2 lit.c). Evaluarea vizuală
+rapidă va fi finalizată până la data de 1 iunie 2026.
+(2^) Până la data de 1 ianuarie 2024, conducătorii instituțiilor publice vor
+dispune începerea evaluării vizuale rapide realizată în conformitate cu reglementarea
+tehnică Metodologie de evaluare vizuală rapidă a clădirilor, indicativ RTC 10-2022,
+pentru clădirile prevăzute la art.3 alin.(3), cu excepția celor prevăzute la alin.(2').
+Evaluarea vizuală rapidă va fi finalizată până la data de 1 noiembrie 2024.”
+3. La articolul 4, alineatele (3) și (4) se modifică și vor avea următorul
+cuprins:
+„(3) Sursa de finanțare pentru realizarea activităților prevăzute la alin.(l),
+(2) și (2') este asigurată de la bugetul de stat sau prin alte surse legal constituite prin
+Ministerul Educației, pentru instituțiile de învățământ din subordinea/coordonarea
+acestuia, sau prin Ministerul Sănătății și alte ministere și instituții cu rețea sanitară
+proprie, pentru unitățile sanitare aflate în subordinea acestora.
+(4) Sursa de finanțare pentru realizarea activităților prevăzute la alin.(l),
+(2) și (2')-(2^) este asigurată de la bugetele locale sau prin alte surse legal constituite
+pentru instituțiile de învățământ și unitățile sanitare aflate în subordinea acestora,
+clădiri multietajate cu destinație principală de locuință aflate în raza adminsitrativ-
+teritorială și clădiri de interes și utilitate publică aflate în proprietatea sau
+administrarea autorităților și instituțiilor administrației publice locale.”
+4. La articolul 4, după alineatul (4) se introduce un nou alineat, alin.(4^) cu
+următorul cuprins:
+„(4’) Sursa de finanțare pentru realizarea activităților prevăzute la alin.(2^)
+este asigurată de la bugetul de stat sau alte surse legal constituite, pentru clădirile de
+interes și utilitate publică, aflate în patrimoniul autorităților și instituțiilor publice
+ale administrației publice centrale.”
+5. La articolul 5, după alineatul (1) se introduc trei noi alineate, alin.(2)«
+(4), cu următorul cuprins:
+„(2) Se interzic organizarea și desfășurarea de activități permanente și/sau
+temporare în spațiile prevăzute la art.2 lit.a), și altele asemenea care implică
+aglomerări de persoane, începând cu data încadrării prin raport de expertiză tehnică
+în clasa de risc seismic Rsl a clădirii existente, până la recepția la terminarea
+
+3
+lucrărilor de intervenții realizate în scopul creșterii nivelului de siguranță la acțiuni
+seismice.
+(3) Se interzice închirierea sau cedarea în comodat/folosință a spațiilor cu
+destinația de locuință din clădirile încadrate prin raport de expertiză tehnică în clasa
+de risc seismic Rsl, începând cu data încadrării în clasa de risc seismic Rsl, până la
+recepția la terminarea lucrărilor de intervenții realizate în scopul creșterii nivelului
+de siguranță la acțiuni seismice a clădirii existente.
+(4) Contractele pentru organizarea și desfășurarea activităților prevăzute
+la alin. (2), precum și contractele prevăzute la alin.(3), aflate în derulare la data
+încadrării clădirii, prin raport de expertiză tehnică, în clasa de risc seismic Rsl,
+încetează de drept la 30 de zile de la data încadrării.”
+6. La articolul 15 alineatul (1), litera b) se modifică și va avea următorul
+cuprins:
+„b) valoarea de vârf a accelerației terenului pentru proiectare la cutremur
+a(g), potrivit hărții de zonare a teritoriului României din Codul de proiectare
+seismică PI00-1, este mai mare sau egală cu 0,15 g.”
+7. La articolul 15 alineatul (2), litera b) se modifică și va avea următorul
+cuprins:
+„b) valoarea de vârf a accelerației terenului pentru proiectare la cutremur
+a(g), potrivit hărții de zonare a teritoriului României din Codul de proiectare
+seismică P100-1, este mai mare sau egală cu 0,15 g.”
+8. La articolul 20 alineatul (1), litera a) se modifică și va avea următorul
+cuprins:
+„a) obținerea hotărârii asociației de proprietari sau a hotărârilor tuturor
+asociațiilor de proprietari în cazul clădirilor în care există mai mult de o asociație de
+proprietari, hotărâri adoptate cu acordul a jumătate plus unul din numărul
+proprietarilor, privind introducerea în program și proiectarea și execuția lucrărilor
+de intervenții. în cazul în care proprietarii nu sunt constituiți în asociații de
+proprietari, introducerea în program și proiectarea și execuția lucrărilor de intervenții
+se face cu acordul scris a jumătate plus unul din numărul proprietarilor. Prevederile
+art.lO rămân aplicabile.”
+
+4
+9. La articolul 33 alineatul (1) litera a), după punctul (vi) se introduc patru
+noi puncte, pct.(vii)-(x), cu următorul cuprins:
+„(vii) nerespectarea prevederilor art.4 alin.(2') și (2^) de către conducătorii
+instituțiilor publice pentru construcțiile cu destinația de unități sau instituții de
+învățământ în care se desfășoară activități didactice, construcțiile cu destinația de
+spital, policlinică sau dispensar policlinic, precum și clădirile prevăzute la art.3
+alin.(3), cu excepția celor prevăzute la alin.(2');
+(viii) nerespectarea prevederilor art.4 alin.(2^) de către primarii
+municipiilor, orașelor și comunelor, respectiv primarul general al municipiului
+București și primarii sectoarelor, pentru clădirile prevăzute la art.2 lit.c);
+(ix) nerespectarea prevederilor art.5 alin.(2) de către proprietarii clădirilor
+încadrate prin raport de expertiză tehnică în clasa de risc seismic Rsl sau ai spațiilor
+din aceste clădiri, persoane fizice sau juridice, asociațiile de proprietari, respectiv de
+către persoanele fizice sau juridice care au în administrare clădiri încadrate prin
+raport de expertiză tehnică în clasa de risc seismic Rsl sau spații din aceste clădiri;
+(x)
+nerespectarea prevederilor art.5 alin.(3) de către proprietarii spațiilor
+cu destinația de locuință din clădirile încadrate prin raport de expertiză tehnică în
+clasa de risc seismic Rsl.”
+Art.II.- (1) Interdicțiile prevăzute la art.5 alin.(2) și (3) din Legea
+nr.212/2022 privind unele măsuri pentru reducerea riscului seismic al clădirilor, cu
+modificările ulterioare, inclusiv cu modificările și completările aduse prin prezenta
+lege, se aplică începând cu data intrării în vigoare a prezentei legi.
+(2) Contractele pentru organizarea și desfășurarea activităților
+prevăzute la art.5 alin.(2) din Legea nr.212/2022, cu modificările ulterioare, precum
+și contractele de închiriere sau cedarea în comodat/folosință a spațiilor cu destinația
+de locuință, prevăzute la art.5 alin.(3), aflate în derulare, încetează de drept la 30 de
+zile de la data intrării în vigoare a prezentei legi.
+Art.III.-Prevederile art.l pct.9 intră în vigoare la 30 de zile de la data publicării
+prezentei legi în Monitorul Oficial al României, Partea I.
+Art.IV.-La data intrării în vigoare a prezentei legi se abrogă art.ll din
+Ordonanța Guvernului nr.6/2023 pentru modificarea Legii nr.212/2022 privind unele
+măsuri pentru reducerea riscului seismic al clădirilor, publicată în Monitorul Oficial
+al României, Partea I, nr.55 din 19 ianuarie 2023.
+
+5
+Acest proiect de lege a fost adoptat de Senat, în ședința din 29 martie
+2023, cu respectarea prevederilor articolului 76 alineatul (1) din Constituția
+României, republicată.
+p. PREȘEDINTELE SENATULUI
+Alina-Ștefania Gorghiu
