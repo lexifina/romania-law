@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-03-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-15: sent for promulgation
 - 2023-03-28: promulgated, becomes Legea nr. 68/2023
+- 2023-03-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2022-11-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L623AM.PDF
 - 2023-03-13: Adresă privind sesizarea CCR (AXS): [axs-893d2e7d.md](axs-893d2e7d.md); official file https://www.senat.ro/legis/PDF/2022/22L623AXS.PDF
 - 2023-03-13: Forma trimisă la promulgare (LP): [lp-d2faddfa.md](lp-d2faddfa.md); official file https://www.senat.ro/legis/PDF/2022/22L623LP.PDF
+- 2023-03-29: Document (TA): [ta-809276a7.md](ta-809276a7.md); official file https://www.senat.ro/legis/PDF/2022/22L623TA.PDF (its day is not given by the bill file: shown from the last stage held)
