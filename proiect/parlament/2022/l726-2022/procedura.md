@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-28: documents published: Aviz comisie
 - 2022-11-29: documents published: Aviz comisie
 - 2022-12-06: documents published: Aviz comisie
+- 2023-03-29: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-28: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L726CA57.PDF
 - 2022-11-29: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L726CA3.PDF
 - 2022-12-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L726CA45.PDF
+- 2023-03-29: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L726AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-03-29: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L726ARD.PDF (its day is not given by the bill file: shown from the last stage held)
