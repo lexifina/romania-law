@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-11: sent for promulgation
 - 2023-03-29: promulgated, becomes Legea nr. 69/2023
+- 2023-03-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-09-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L420AM.PDF
 - 2023-03-06: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L420AXS.PDF
 - 2023-03-06: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L420LP.PDF
+- 2023-03-30: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L420CC.PDF (its day is not given by the bill file: shown from the last stage held)
