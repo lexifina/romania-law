@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-11: sent for promulgation
 - 2023-03-29: promulgated, becomes Legea nr. 71/2023
+- 2023-03-30: published in the Monitorul Oficial
 
 ## Documents
 
