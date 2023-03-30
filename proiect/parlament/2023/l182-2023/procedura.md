@@ -13,7 +13,13 @@ Initiator: Guvernul României.
 - 2023-03-14: registered at the Chamber of Deputies
 - 2023-03-21: documents published: Raport comisie sesizată pe fond
 - 2023-03-29: adopted by the Chamber of Deputies
+- 2023-03-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
 - 2023-03-21: Raport comisie sesizată pe fond (CR): [cr-8aca0c8f.md](cr-8aca0c8f.md); official file https://www.senat.ro/legis/PDF/2023/23L182CR.PDF
+- 2023-03-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L182AD.PDF
+- 2023-03-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L182FG.PDF
+- 2023-03-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L182EM.PDF
+- 2023-03-30: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L182LG.PDF
+- 2023-03-30: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L182HG.PDF
