@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2022-11-28: registered at the Chamber of Deputies
 - 2023-03-29: rejected by the Chamber of Deputies
+- 2023-03-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2023-03-30: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L180AD.PDF
+- 2023-03-30: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L180FG.PDF
+- 2023-03-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L180EM.PDF
