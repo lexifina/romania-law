@@ -1,0 +1,6 @@
+# Anexa nr. 1 la norme
+Anul.....
+REGISTRU DE EVIDENȚĂ al cântăritorului autorizat.....
+Nr. crt. Numărul și data de înregistrare a notificării prealabile Referințe privind operatorul comercial Referințe document de transport Codul țării de origine* Codul tipului de ambalaj** Numărul și data de înregistrare a certificatului de cântărire emis
+* Coduri de țară: codurile alfabetice ale Uniunii pentru țări și teritorii se bazează pe codurile actuale ISO alfa-2 (a2) în măsura în care acestea sunt compatibile cu cerințele Regulamentului de punere în aplicare (UE) nr. 2020/1.470 al Comisiei din 12 octombrie 2020 privind nomenclatorul țărilor și teritoriilor pentru statisticile europene referitoare la comerțul internațional cu mărfuri și defalcarea geografică pentru alte statistici de întreprindere. Comisia publică periodic regulamente prin care se actualizează lista codurilor de țară.
+** Coduri de ambalaje conform Recomandării UN/ECE nr. 21/rev. 12/2021.
