@@ -1,0 +1,292 @@
+{
+ "key": "dcc-18-2023",
+ "label": "Decizia CCR nr. 18/2023",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "18",
+ "date": "2023-02-15",
+ "year": "2023",
+ "heading": "DECIZIA nr. 18 din 15 februarie 2023",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 160/2020 pentru modificarea și completarea Ordonanței Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare, precum și pentru completarea art. 25 alin. (1) din Legea concurenței nr. 21/1996",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "277",
+  "bis": false,
+  "date": "2023-04-03",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "2.977A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 160/2020",
+    "number": "160",
+    "year": "2020",
+    "path": "lege/2020/160"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate și constată că Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 160/2020 pentru modificarea și completarea Ordonanței Guvernului nr. 22/1999 privind administrarea porturilor și a căilor navigabile, utilizarea infrastructurilor de transport naval aparținând domeniului public, precum și desfășurarea activităților de transport naval în porturi și pe căile navigabile interioare, precum și pentru completarea art. 25 alin. (1) din Legea concurenței nr. 21/1996 este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 160/2020",
+    "number": "160",
+    "year": "2020",
+    "path": "lege/2020/160"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 160/2020",
+    "number": "160",
+    "year": "2020",
+    "path": "oug/2020/160"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 22/1999",
+    "number": "22",
+    "year": "1999",
+    "path": "og/1999/22"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 433/2022",
+    "number": "433",
+    "year": "2022",
+    "path": "hg/2022/433"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "54",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-04-03",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266545",
+  "text_sha256": "de56b01a4c17f2b01059797545319fc8975db846c8ed117984a4a7b353a46a01",
+  "catalogue_sha256": "de56b01a4c17f2b01059797545319fc8975db846c8ed117984a4a7b353a46a01",
+  "fetched": "2026-11-06T02:12:43Z",
+  "chars": 47959,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/266545",
+   "timestamp": "20250806125716",
+   "crawl": "CC-MAIN-2025-33",
+   "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151279908.86/warc/CC-MAIN-20250806105403-20250806135403-00574.warc.gz",
+   "offset": "315987370",
+   "length": "35791",
+   "sha256": "5cca513e5ff55e60ed065b72f8ce7abf75d89bc7dfbd28790c38eea021bbb29a"
+  },
+  "portal_id": "266545",
+  "tip": "DECIZIE"
+ }
+}
