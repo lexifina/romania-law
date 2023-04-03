@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-01: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-03-15: documents published: Aviz comisie
 - 2023-03-21: documents published: Aviz comisie
+- 2023-04-03: adopted by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-15: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L105CA45.PDF
 - 2023-03-21: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L105CA49.PDF
 - 2023-03-21: Aviz comisie (CA58): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L105CA58.PDF
+- 2023-04-03: Document (ARD): [ard-73077f45.md](ard-73077f45.md); official file https://www.senat.ro/legis/PDF/2023/23L105ARD.PDF (its day is not given by the bill file: shown from the last stage held)
