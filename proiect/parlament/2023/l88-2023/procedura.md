@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-15: sent for promulgation
 - 2023-03-31: promulgated, becomes Legea nr. 72/2023
+- 2023-04-03: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088FS.PDF
 - 2023-03-13: Adresă privind sesizarea CCR (AXS): [axs-893d2e7d.md](axs-893d2e7d.md); official file https://www.senat.ro/legis/PDF/2023/23L088AXS.PDF
 - 2023-03-13: Forma trimisă la promulgare (LP): [lp-03557e7a.md](lp-03557e7a.md); official file https://www.senat.ro/legis/PDF/2023/23L088LP.PDF
+- 2023-04-03: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-03: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L088AL.PDF (its day is not given by the bill file: shown from the last stage held)
