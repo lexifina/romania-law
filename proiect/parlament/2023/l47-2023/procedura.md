@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-22: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-02-27: registered at the Chamber of Deputies
 - 2023-03-29: adopted by the Chamber of Deputies
+- 2023-04-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047CR.PDF
 - 2023-02-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047FS.PDF
 - 2023-02-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047AM.PDF
+- 2023-04-03: Adresă privind sesizarea CCR (AXS): [axs-39e2d2d4.md](axs-39e2d2d4.md); official file https://www.senat.ro/legis/PDF/2023/23L047AXS.PDF
+- 2023-04-03: Forma trimisă la promulgare (LP): [lp-d4894a57.md](lp-d4894a57.md); official file https://www.senat.ro/legis/PDF/2023/23L047LP.PDF
