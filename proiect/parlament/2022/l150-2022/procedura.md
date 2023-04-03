@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-03-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-15: sent for promulgation
 - 2023-03-31: promulgated, becomes Legea nr. 75/2023
+- 2023-04-03: published in the Monitorul Oficial
 
 ## Documents
 
