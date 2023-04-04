@@ -1,0 +1,201 @@
+{
+ "key": "iccj-hp-15-2023",
+ "label": "Decizia ÎCCJ nr. 15/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "15",
+ "date": "2023-03-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 15 din 13 martie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 42 alin. (6^1) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "281",
+  "bis": false,
+  "date": "2023-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "24/1/2023",
+  "23.648/299/2021",
+  "9.626/299/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările conexate formulate de Tribunalul București - Secția a VI-a civilă, în dosarele nr. 23.648/299/2021 și nr. 9.626/299/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Articolul 42 alin. (6^1) din Legea serviciilor comunitare de utilități publice nr. 51/2006, republicată, cu modificările și completările ulterioare, poate fi interpretat în sensul că și factura fiscală emisă de către operator față de autoritatea publică, în baza unui contract de delegare a gestiunii unui serviciu de utilitate publică, are caracter de titlu executoriu?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciilor comunitare de utilități publice nr. 51/2006",
+    "number": "51",
+    "year": "2006",
+    "path": "lege/2006/51"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": [
+      "6-1",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "638",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "632",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de alimentare cu apă și de canalizare nr. 241/2006",
+    "number": "241",
+    "year": "2006",
+    "path": "lege/2006/241"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "17",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 225/2016",
+    "number": "225",
+    "year": "2016",
+    "path": "lege/2016/225"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "319",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea serviciului de salubrizare a localităților nr. 101/2006",
+    "number": "101",
+    "year": "2006",
+    "path": "lege/2006/101"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266572",
+  "text_sha256": "6a3501fb420ba14ce33f39493e7462dd56e82fbb345de7a9e95d473519944b69",
+  "catalogue_sha256": "6a3501fb420ba14ce33f39493e7462dd56e82fbb345de7a9e95d473519944b69",
+  "fetched": "2026-11-03T01:23:59Z",
+  "chars": 39180,
+  "portal_id": "266572",
+  "tip": "DECIZIE"
+ }
+}
