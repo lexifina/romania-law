@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-13: first record in the bill file
 - 2023-02-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-02-21: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
+- 2023-04-05: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-21: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L160LG.PDF
 - 2023-02-21: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L160ES.PDF
 - 2023-02-21: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L160PV.PDF
+- 2023-04-05: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L160CA45.PDF
+- 2023-04-05: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L160CA56.PDF
