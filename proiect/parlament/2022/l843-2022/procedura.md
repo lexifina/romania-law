@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-14: returned for re-examination
 - 2023-03-15: returned for re-examination
 - 2023-03-29: returned for re-examination
+- 2023-04-05: sent for promulgation
 
 ## Documents
 
