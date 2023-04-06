@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-04-05: first record in the bill file
+- 2023-04-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2023-04-06: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L294AD.PDF
+- 2023-04-06: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L294FG.PDF
+- 2023-04-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L294EM.PDF
