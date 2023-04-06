@@ -1,0 +1,176 @@
+{
+ "key": "cedo-23126-16-2022-03-01",
+ "label": "CEDO, Stăvilă c. României, 2022-03-01",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-03-01",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 1 martie 2022",
+ "subtitle": "în Cauza Stăvilă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "288",
+  "bis": false,
+  "date": "2023-04-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible"
+ ],
+ "applications": [
+  "23126/16"
+ ],
+ "case_name": "Stăvilă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă în ceea ce privește capătul de cerere formulat în temeiul art. 4 din Protocolul nr. 7 la Convenție și inadmisibilă în ceea ce privește celelalte capete de cerere;",
+  "2. hotărăște că a fost încălcat art. 4 din Protocolul nr. 7 la Convenție;",
+  "3. hotărăște: (a) că statul pârât trebuie să plătească, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "5.000 EUR (cinci mii de euro) pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "(ii)",
+  "408 EUR (patru sute opt euro) pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit;",
+  "(b) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată anuală egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "86",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "335",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266609",
+  "text_sha256": "dde0589a47eacc355ab70cf33b8f3acf6a824e6cba3e5ab57ee247e628d1d8a3",
+  "catalogue_sha256": "dde0589a47eacc355ab70cf33b8f3acf6a824e6cba3e5ab57ee247e628d1d8a3",
+  "fetched": "2026-11-03T01:23:56Z",
+  "chars": 72086,
+  "portal_id": "266609",
+  "tip": "HOTĂRÂRE"
+ }
+}
