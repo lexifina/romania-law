@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-15: returned for re-examination
 - 2023-03-29: returned for re-examination
 - 2023-04-05: sent for promulgation
+- 2023-04-06: promulgated, becomes Legea nr. 84/2023
 
 ## Documents
 
