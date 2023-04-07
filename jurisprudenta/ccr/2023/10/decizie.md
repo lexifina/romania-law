@@ -1,0 +1,40 @@
+# DECIZIA nr. 10 din 31 ianuarie 2023
+referitoare la excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) fraza întâi din Codul de procedură penală
+Marian Enache - președinte
+Mihaela Ciochină - judecător
+Cristian Deliorga - judecător
+Dimitrie-Bogdan Licu - judecător
+Gheorghe Stan - judecător
+Livia Doina Stanciu - judecător
+Elena-Simina Tănăsescu - judecător
+Varga Attila - judecător
+Oana-Cristina Puică - magistrat-asistent
+1. Pe rol se află soluționarea excepției de neconstituționalitate a dispozițiilor art. 318 alin. (16) prima teză din Codul de procedură penală, excepție ridicată de Bándi Barna și László Attila în Dosarul nr. 4.295/258/2018 al Judecătoriei Miercurea-Ciuc și care formează obiectul Dosarului Curții Constituționale nr. 417D/2019.
+2. Dezbaterile au avut loc în ședința publică din 17 noiembrie 2022, cu participarea reprezentantului Ministerului Public, procuror Nicoleta-Ecaterina Eucarie. Dezbaterile au fost consemnate în încheierea din acea dată, când Curtea, având în vedere cererea de întrerupere a deliberărilor pentru o mai bună studiere a problemelor ce formează obiectul cauzei, în temeiul prevederilor art. 57 și ale art. 58 alin. (3) din Legea nr. 47/1992, a amânat pronunțarea pentru data de 13 decembrie 2022. La data menționată, constatând că nu sunt prezenți toți judecătorii care au participat la dezbateri, potrivit dispozițiilor art. 58 alin. (1) teza întâi din Legea nr. 47/1992, Curtea a amânat pronunțarea pentru data de 31 ianuarie 2023, când a pronunțat prezenta decizie.
+CURTEA, având în vedere actele și lucrările dosarului, reține următoarele:
+3. Prin Încheierea din 20 februarie 2019, pronunțată în Dosarul nr. 4.295/258/2018, Judecătoria Miercurea-Ciuc a sesizat Curtea Constituțională cu excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) prima teză din Codul de procedură penală. Excepția a fost ridicată de Bándi Barna și László Attila într-o cauză având ca obiect o cerere de confirmare a soluției procurorului de renunțare la urmărirea penală.
+4. În motivarea excepției de neconstituționalitate autorii acesteia susțin, în esență, că dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală încalcă prevederile constituționale privind folosirea căilor de atac, întrucât încheierea prin care judecătorul de cameră preliminară soluționează cererea procurorului de confirmare a soluției de renunțare la urmărirea penală nu este supusă niciunei căi ordinare de atac.
+5. Judecătoria Miercurea-Ciuc apreciază că excepția de neconstituționalitate este neîntemeiată. Arată, astfel, că din prevederile art. 129 din Constituție nu rezultă că legiuitorul constituant ar fi avut intenția de a supune căilor de atac orice hotărâre judecătorească, exercitarea acestui drept fiind lăsată la latitudinea autorității legiuitoare.
+6. Potrivit prevederilor art. 30 alin. (1) din Legea nr. 47/1992, încheierea de sesizare a fost comunicată președinților celor două Camere ale Parlamentului, Guvernului și Avocatului Poporului, pentru a-și exprima punctele de vedere asupra excepției de neconstituționalitate.
+7. Președinții celor două Camere ale Parlamentului, Guvernul și Avocatul Poporului nu au comunicat punctele lor de vedere asupra excepției de neconstituționalitate.
+CURTEA, examinând încheierea de sesizare, raportul întocmit de judecătorul-raportor, concluziile procurorului, dispozițiile de lege criticate, raportate la prevederile Constituției, precum și Legea nr. 47/1992, reține următoarele:
+8. Curtea Constituțională a fost legal sesizată și este competentă, potrivit dispozițiilor art. 146 lit. d) din Constituție, precum și ale art. 1 alin. (2), ale art. 2, 3, 10 și 29 din Legea nr. 47/1992, să soluționeze excepția de neconstituționalitate.
+9. Obiectul excepției de neconstituționalitate îl constituie dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală, introduse prin prevederile art. II pct. 82 din Ordonanța de urgență a Guvernului nr. 18/2016 pentru modificarea și completarea Legii nr. 286/2009 privind Codul penal, Legii nr. 135/2010 privind Codul de procedură penală, precum și pentru completarea art. 31 alin. (1) din Legea nr. 304/2004 privind organizarea judiciară, publicată în Monitorul Oficial al României, Partea I, nr. 389 din 23 mai 2016. Textul de lege criticat are următorul cuprins: „(16) Încheierea prin care s-a pronunțat una dintre soluțiile prevăzute la alin. (15) este definitivă. (...).“
+10. În susținerea neconstituționalității acestor dispoziții de lege, autorii excepției invocă încălcarea prevederilor constituționale ale art. 129 alin. (3) privind folosirea căilor de atac.
+11. Examinând excepția de neconstituționalitate, Curtea constată că dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală vizează lipsa unei căi ordinare de atac împotriva încheierii prin care judecătorul de cameră preliminară pronunță una dintre soluțiile reglementate de prevederile alin. (15) al art. 318 din Codul de procedură penală.
+12. Curtea observă că dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală au legătură cu soluționarea cauzei în care este ridicată excepția de neconstituționalitate numai dacă aceasta este invocată în cadrul procesual creat prin formularea unei căi ordinare de atac, apel sau contestație, cale de atac care, potrivit textului de lege criticat, este inadmisibilă.
+13. Speța în care a fost invocată prezenta excepție vizează însă judecarea pe fond a unei cereri de confirmare a soluției procurorului de renunțare la urmărirea penală. Așa fiind, dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală nu au incidență în speța în care a fost ridicată excepția de neconstituționalitate, întrucât aceasta se află în etapa procesuală a soluționării fondului. Or, potrivit prevederilor art. 29 alin. (1) din Legea nr. 47/1992, „Curtea Constituțională decide asupra excepțiilor ridicate în fața instanțelor judecătorești (...) privind neconstituționalitatea unei legi sau ordonanțe ori a unei dispoziții dintr-o lege sau dintr-o ordonanță în vigoare, care are legătură cu soluționarea cauzei (...)“.
+14. Curtea reține că, indiferent de soluția pronunțată - sub aspectul criticilor formulate referitor la lipsa unei căi ordinare de atac -, decizia Curții Constituționale nu ar produce niciun efect cu privire la rezolvarea fondului cauzei în care a fost ridicată prezenta excepție de neconstituționalitate, dispozițiile art. 318 alin. (16) fraza întâi din Codul de procedură penală neavând legătură - în sensul prevederilor art. 29 alin. (1) din Legea nr. 47/1992 - cu soluționarea cauzei. Curtea s-a mai pronunțat în jurisprudența sa în acest sens, de exemplu, prin Decizia nr. 196 din 28 mai 2020, publicată în Monitorul Oficial al României, Partea I, nr. 682 din 31 iulie 2020, paragraful 20, Decizia nr. 500 din 13 iulie 2021, publicată în Monitorul Oficial al României, Partea I, nr. 1197 din 17 decembrie 2021, paragraful 14, și Decizia nr. 361 din 8 iunie 2022, publicată în Monitorul Oficial al României, Partea I, nr. 834 din 24 august 2022, paragraful 17.
+15. Ținând cont de prevederile art. 29 alin. (1) din Legea nr. 47/1992, excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) fraza întâi din Codul de procedură penală este inadmisibilă.
+16. Pentru considerentele expuse, în temeiul art. 146 lit. d) și al art. 147 alin. (4) din Constituție, precum și al art. 1-3, al art. 11 alin. (1) lit. A.d) și al art. 29 din Legea nr. 47/1992, cu unanimitate de voturi,
+CURTEA CONSTITUȚIONALĂ
+În numele legii
+DECIDE:
+Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 318 alin. (16) fraza întâi din Codul de procedură penală, excepție ridicată de Bándi Barna și László Attila în Dosarul nr. 4.295/258/2018 al Judecătoriei Miercurea-Ciuc.
+Definitivă și general obligatorie.
+Decizia se comunică Judecătoriei Miercurea-Ciuc și se publică în Monitorul Oficial al României, Partea I.
+Pronunțată în ședința din data de 31 ianuarie 2023.
+PREȘEDINTELE CURȚII CONSTITUȚIONALE
+MARIAN ENACHE
+Magistrat-asistent,
+Oana-Cristina Puică
