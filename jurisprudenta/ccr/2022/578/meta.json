@@ -1,0 +1,417 @@
+{
+ "key": "dcc-578-2022",
+ "label": "Decizia CCR nr. 578/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "578",
+ "date": "2022-11-22",
+ "year": "2022",
+ "heading": "DECIZIA nr. 578 din 22 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 6 alin. (1) din Ordonanța de urgență a Guvernului nr. 1/2010 privind unele măsuri de reîncadrare în funcții a unor categorii de personal din sectorul bugetar și stabilirea salariilor acestora, precum și alte măsuri în domeniul bugetar, ale art. 1 alin. (5) din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, ale art. 4 alin. (2) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. II alin. (7) din Legea nr. 152/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, precum și ale art. 7 lit. b) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "298",
+  "bis": false,
+  "date": "2023-04-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "16.864/3/2019",
+  "1.385D/2020",
+  "1.890D/2020",
+  "16.859/3/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2017",
+    "number": "152",
+    "year": "2017",
+    "path": "lege/2017/152"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 6 alin. (1) din Ordonanța de urgență a Guvernului nr. 1/2010 privind unele măsuri de reîncadrare în funcții a unor categorii de personal din sectorul bugetar și stabilirea salariilor acestora, precum și alte măsuri în domeniul bugetar, ale art. 1 alin. (5) din Legea nr. 285/2010 privind salarizarea în anul 2011 a personalului plătit din fonduri publice, ale art. 4 alin. (2) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. II alin. (7) din Legea nr. 152/2017 pentru aprobarea Ordonanței de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, precum și ale art. 7 lit. b) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Cătălin Aurel Ghera, Marius Aurel Mitroaica și Dumitru Laurențiu Tănase, prin Sindicatul Polițiștilor din România „Diamantul“, în Dosarul nr. 16.864/3/2019 al Tribunalului Dolj - Secția contencios administrativ și fiscal și de Sindicatul Polițiștilor din România „Diamantul“, în numele membrilor Adrian Dumitru Burcea, Mihail Codruț Coman, Constantin Laurențiu Dragnea, Bogdan Mihai Dumitrescu, Oana Cristina Marin și Bogdan Ionuț Rusănescu, în Dosarul nr. 16.859/3/2019* al Tribunalului Argeș - Secția civilă - Complet specializat de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția contencios administrativ și fiscal și Tribunalului Argeș - Secția civilă - Complet specializat de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 1/2010",
+    "number": "1",
+    "year": "2010",
+    "path": "oug/2010/1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 285/2010",
+    "number": "285",
+    "year": "2010",
+    "path": "lege/2010/285"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2017",
+    "number": "152",
+    "year": "2017",
+    "path": "lege/2017/152"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "39",
+     "alin": null,
+     "lit": [
+      "x"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 115/2017",
+    "number": "115",
+    "year": "2017",
+    "path": "lege/2017/115"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 63/2011",
+    "number": "63",
+    "year": "2011",
+    "path": "lege/2011/63"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-04-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266721",
+  "text_sha256": "7823655ca1778356be015c50ec6d43eccbc6f698235c2d8836606a58e2d96aa8",
+  "catalogue_sha256": "7823655ca1778356be015c50ec6d43eccbc6f698235c2d8836606a58e2d96aa8",
+  "fetched": "2026-11-03T01:23:49Z",
+  "chars": 27979,
+  "portal_id": "266721",
+  "tip": "DECIZIE"
+ }
+}
