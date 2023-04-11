@@ -1,0 +1,28 @@
+# Anexa nr. 3
+Ministerul Justiției/Administrația Națională a Penitenciarelor
+Unitatea........................
+Nr........ din.................
+Ordonator de credite,.............................
+FIȘĂ INDIVIDUALĂ de evidență a orelor suplimentare pe luna...............
+Date de identificare: gradul profesional/numele și prenumele/funcția
+Compartimentul în care este încadrat conform statului de organizare și funcționare
+Compartimentul în care își desfășoară efectiv activitatea (permanent/temporar)
+Semnificația coloanelor din tabelul de mai jos este următoarea: A - activitatea desfășurată în intervalul de timp;
+B - numărul și data dispoziției de efectuare a orelor suplimentare, aprobate de ordonatorul de credite, numele și prenumele superiorului care a dispus efectuarea acestora;
+C - semnătura funcționarului;
+D - timp liber acordat în compensare.
+Nr. crt.
+Data și intervalul de timp
+Nr. de ore suplimentare efectuate
+Nr. de ore suplimentare efectuate în zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează
+Nr. de ore suplimentare efectuate în alte zile decât zilele de repaus săptămânal, de sărbători legale și în celelalte zile în care, în conformitate cu reglementările în vigoare, nu se lucrează
+A
+B
+C
+D 1 2 3 (4 + 5) 4 5 6 7 8 9
+1.
+2.
+3.
+Nr. total de ore suplimentare efectuate în anul curent:...................................
+Avizat șef ierarhic......................................................................... (grad/nume, prenume, funcție, dată și semnătură)
+Întocmit (persoana desemnată de ordonator)....................................................................................... (grad/nume, prenume, funcție, dată și semnătură)
