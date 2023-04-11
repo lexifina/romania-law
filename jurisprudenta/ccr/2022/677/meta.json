@@ -1,0 +1,245 @@
+{
+ "key": "dcc-677-2022",
+ "label": "Decizia CCR nr. 677/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "677",
+ "date": "2022-12-15",
+ "year": "2022",
+ "heading": "DECIZIA nr. 677 din 15 decembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 177 alin. (3^2) din Legea energiei electrice și a gazelor naturale nr. 123/2012, în redactarea anterioară modificării prin art. I pct. 3 din Ordonanța de urgență a Guvernului nr. 64/2016 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr. 123/2012",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "304",
+  "bis": false,
+  "date": "2023-04-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "15.403/320/2016/a1",
+  "1.021D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "177",
+     "alin": [
+      "3-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 64/2016",
+    "number": "64",
+    "year": "2016",
+    "path": "oug/2016/64"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea E.ON Energie România - S.A., cu sediul în Târgu Mureș, în Dosarul nr. 15.403/320/2016/a1 al Judecătoriei Târgu Mureș - Secția civilă și constată că dispozițiile art. 177 alin. (3^2) din Legea energiei electrice și a gazelor naturale nr. 123/2012, în redactarea anterioară modificării prin art. I pct. 3 din Ordonanța de urgență a Guvernului nr. 64/2016 pentru modificarea și completarea Legii energiei electrice și a gazelor naturale nr. 123/2012, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Târgu Mureș - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [
+    {
+     "art": "177",
+     "alin": [
+      "3-2",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "99",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 35/2014",
+    "number": "35",
+    "year": "2014",
+    "path": "oug/2014/35"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 174/2014",
+    "number": "174",
+    "year": "2014",
+    "path": "lege/2014/174"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 64/2016",
+    "number": "64",
+    "year": "2016",
+    "path": "oug/2016/64"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266740",
+  "text_sha256": "2d300b8ab2595a55fbba17a714c481cc6173903e09c36f1b1323bf1193154cb7",
+  "catalogue_sha256": "2d300b8ab2595a55fbba17a714c481cc6173903e09c36f1b1323bf1193154cb7",
+  "fetched": "2026-11-03T01:23:48Z",
+  "chars": 25862,
+  "portal_id": "266740",
+  "tip": "DECIZIE"
+ }
+}
