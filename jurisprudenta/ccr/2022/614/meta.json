@@ -1,0 +1,272 @@
+{
+ "key": "dcc-614-2022",
+ "label": "Decizia CCR nr. 614/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "614",
+ "date": "2022-11-24",
+ "year": "2022",
+ "heading": "DECIZIA nr. 614 din 24 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 4 teza a doua și ale art. 15 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "307",
+  "bis": false,
+  "date": "2023-04-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "33.232/3/2008",
+  "1.758D/2019",
+  "2.160D/2019",
+  "23.829/3/2016"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Facultatea de Drept a Universității din București în dosarele nr. 33.232/3/2008* și nr. 23.829/3/2016 ale Tribunalului București - Secția a V-a civilă și constată că dispozițiile art. 4 teza a doua și ale art. 15 din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a V-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-04-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/266773",
+  "text_sha256": "bf94baafb521b27e6c6b2f3f32a165f362c8342a9e72147fec3f5e53355176cc",
+  "catalogue_sha256": "bf94baafb521b27e6c6b2f3f32a165f362c8342a9e72147fec3f5e53355176cc",
+  "fetched": "2026-11-03T01:23:47Z",
+  "chars": 26917,
+  "portal_id": "266773",
+  "tip": "DECIZIE"
+ }
+}
