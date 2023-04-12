@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-25: sent for promulgation
 - 2023-04-11: promulgated, becomes Legea nr. 86/2023
+- 2023-04-12: published in the Monitorul Oficial
 
 ## Documents
 
