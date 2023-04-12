@@ -12,7 +12,9 @@ Initiator: Guvernul României.
 
 - 2023-03-20: registered at the Chamber of Deputies
 - 2023-04-05: documents published: Raport comisie sesizată pe fond
+- 2023-04-12: adopted by the Chamber of Deputies; documents published: Document
 
 ## Documents
 
 - 2023-04-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L209CR.PDF
+- 2023-04-12: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L209OG.PDF
