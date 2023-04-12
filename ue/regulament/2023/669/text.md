@@ -1,0 +1,34 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/669 AL COMISIEI
+din 22 martie 2023
+privind autorizarea unui preparat de endo-1,4-beta-xilanază produsă de Komagataella phaffii DSM 33574 ca aditiv pentru hrana tuturor speciilor de păsări de curte pentru îngrășare și a tuturor speciilor de păsări de curte crescute pentru ouat și crescute pentru reproducție (titularul autorizației: BioResource, international, Inc. reprezentat în Uniune de Pen & Tec Consulting, S.L.U.)
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați hranei animalelor, precum și motivele și procedurile de acordare a unei astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost depusă o cerere de autorizare a unui preparat de endo-1,4-beta-xilanază produsă de Komagataella phaffii DSM 33574. Cererea a fost însoțită de informațiile și de documentele necesare în temeiul articolului 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea vizează autorizarea unui preparat de endo-1,4-beta-xilanază produsă de Komagataella phaffii DSM 33574 ca aditiv pentru hrana tuturor speciilor de păsări de curte pentru îngrășare și a tuturor speciilor de păsări de curte crescute pentru ouat și crescute pentru reproducție, în vederea clasificării în categoria „aditivi zootehnici” și în grupa funcțională „promotori de digestibilitate”.
+(4) În avizul său din 29 iunie 2022 (2), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat că, în condițiile de utilizare propuse, preparatul de endo-1,4-beta-xilanază produsă de Komagataella phaffii DSM 33574 nu are efecte adverse asupra sănătății animalelor în ceea ce privește speciile vizate, asupra siguranței consumatorilor sau asupra mediului. În plus, autoritatea a concluzionat că expunerea utilizatorilor la preparat prin inhalare este foarte probabilă, că preparatul este un sensibilizant pentru căile respiratorii și că are potențialul de a fi iritant pentru ochi. Nu s-a putut trage nicio concluzie cu privire la potențialul preparatului de a provoca sensibilizarea pielii.
+(5) Autoritatea a concluzionat, de asemenea, că preparatul are potențialul de a fi eficace pentru toate speciile de păsări de curte pentru îngrășare și pentru toate speciile de păsări de curte crescute pentru ouat și crescute pentru reproducție. Autoritatea consideră că nu sunt necesare cerințe specifice de monitorizare ulterioară introducerii pe piață. Ea a verificat, de asemenea, raportul privind metoda de analiză a aditivului pentru hrana animalelor, transmis de laboratorul de referință înființat prin Regulamentul (CE) nr. 1831/2003.
+(6) Evaluarea preparatului de endo-1,4-beta-xilanază produsă de Komagataella phaffii DSM 33574 arată că sunt îndeplinite condițiile de autorizare prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, trebuie autorizată utilizarea preparatului respectiv, astfel cum este specificat în anexa la prezentul regulament. Comisia consideră că este necesar să fie luate măsuri adecvate de protecție pentru a se preveni efectele adverse asupra sănătății umane, îndeosebi în ceea ce îi privește pe utilizatorii preparatului.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Preparatul specificat în anexă, aparținând categoriei „aditivi zootehnici” și grupei funcționale „promotori de digestibilitate”, se autorizează ca aditiv pentru hrana animalelor, în condițiile prevăzute în anexa respectivă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 22 martie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2022;20(7):7428.
+ANEXĂ
+Numărul de identificare al aditivului | Numele titularului autorizației | Aditiv | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+Unități de activitate/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categoria aditivilor zootehnici. Grupa funcțională: promotori de digestibilitate.
+4a35 | BioResource International, Inc. reprezentată în Uniune de Pen & Tec Consulting, S.L.U. | Endo-1,4-beta-xilanază (EC 3.2.1.8) | Compoziția aditivului Preparat de endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Komagataella phaffii DSM 33574 cu o activitate minimă de: 150 000 XU(1)/g Formă solidă Caracterizarea substanței active Endo-1,4-beta-xilanază (EC 3.2.1.8) produsă de Komagataella phaffii (DSM 33574) Metoda analitică (2) Pentru cuantificarea activității endo-1,4-beta-xilanazei în aditivul destinat hranei pentru animale: metoda colorimetrică (DNS) bazată pe hidroliza enzimatică a substratului de xilan din lemn de fag. Pentru cuantificarea activității endo-1,4-beta-xilanazei în hrana combinată pentru animale: metoda colorimetrică bazată pe reacția enzimatică a endo-1,4-beta-xilanazei pe substrat Xy1X6. | Toate speciile de păsări de curte pentru îngrășare Toate speciile de păsări de curte crescute pentru ouat sau crescute pentru reproducție | — | 10 000 XU | — | 1. Aditivul nu se utilizează în preamestecuri. 2. A se menționa condițiile de depozitare și stabilitatea la tratament termic în instrucțiunile de utilizare a aditivului. 3. Pentru utilizatorii aditivului, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea acestuia. În cazul în care respectivele riscuri nu pot fi eliminate sau reduse la minimum prin astfel de proceduri și de măsuri, aditivul se utilizează cu echipamente de protecție individuală, inclusiv cu echipamente de protecție respiratorie, pentru piele și ochi. | 13.4.2033
+(1) O unitate XU este cantitatea de enzimă care eliberează 1nanomol de zaharuri reducătoare (echivalenți de xiloză) pe secundă din xilan din lemn de fag la 50 °C și pH 6,0.
+(2) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_ro
