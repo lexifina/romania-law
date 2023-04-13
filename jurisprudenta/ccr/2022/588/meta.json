@@ -1,0 +1,172 @@
+{
+ "key": "dcc-588-2022",
+ "label": "Decizia CCR nr. 588/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "588",
+ "date": "2022-11-24",
+ "year": "2022",
+ "heading": "DECIZIA nr. 588 din 24 noiembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a sintagmei \"după cel puțin un an de la începerea urmăririi penale\" din cuprinsul prevederilor art. 488^1 alin. (3) lit. a) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "317",
+  "bis": false,
+  "date": "2023-04-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "181/753/2019",
+  "2.270D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-1",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a sintagmei „după cel puțin un an de la începerea urmăririi penale“ din cuprinsul prevederilor art. 488^1 alin. (3) lit. a) din Legea nr. 135/2010 privind Codul de procedură penală, excepție ridicată de Florin Costel Talpan în Dosarul nr. 181/753/2019 al Tribunalului Militar București - Judecătorul de drepturi și libertăți.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Militar București și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-1",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-04-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267121",
+  "text_sha256": "5167c17f7f7eeb57cb17fa26702a5878a74018ca25f76bc7a1e09e7334403646",
+  "catalogue_sha256": "5167c17f7f7eeb57cb17fa26702a5878a74018ca25f76bc7a1e09e7334403646",
+  "fetched": "2026-11-03T01:23:42Z",
+  "chars": 13810,
+  "portal_id": "267121",
+  "tip": "DECIZIE"
+ }
+}
