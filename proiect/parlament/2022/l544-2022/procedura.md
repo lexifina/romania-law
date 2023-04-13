@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-10-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-10-06: sent for promulgation
 - 2023-02-28: published in the Monitorul Oficial
+- 2023-04-13: promulgated, becomes Legea nr. 103/2023
 
 ## Documents
 
