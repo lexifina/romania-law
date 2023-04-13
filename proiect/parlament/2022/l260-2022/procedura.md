@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-02-18: sent for promulgation
 - 2023-03-16: published in the Monitorul Oficial
+- 2023-04-13: promulgated, becomes Legea nr. 105/2023
 
 ## Documents
 
