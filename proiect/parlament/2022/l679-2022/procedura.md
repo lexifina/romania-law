@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-21: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
 - 2022-11-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-30: sent for promulgation
+- 2023-04-13: promulgated, becomes Legea nr. 102/2023
 
 ## Documents
 
