@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-02-21: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-02-24: sent for promulgation
 - 2023-04-04: published in the Monitorul Oficial
+- 2023-04-13: promulgated, becomes Legea nr. 104/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2023-02-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L813AM.PDF
 - 2023-02-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L813AXS.PDF
 - 2023-02-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L813LP.PDF
+- 2023-04-13: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L813SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-13: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L813DC.PDF (its day is not given by the bill file: shown from the last stage held)
