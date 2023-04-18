@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-03-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-03-29: sent for promulgation
 - 2023-04-12: promulgated, becomes Legea nr. 91/2023
+- 2023-04-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Guvernul României.
 - 2023-03-20: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L103FS.PDF
 - 2023-03-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L103AXS.PDF
 - 2023-03-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L103LP.PDF
+- 2023-04-18: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L103AL.PDF (its day is not given by the bill file: shown from the last stage held)
