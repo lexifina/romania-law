@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2023-04-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-05: sent for promulgation
 - 2023-04-13: promulgated, becomes Legea nr. 98/2023
+- 2023-04-18: published in the Monitorul Oficial
 
 ## Documents
 
