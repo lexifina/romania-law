@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2022-11-30: sent for promulgation
 - 2023-04-13: promulgated, becomes Legea nr. 102/2023
+- 2023-04-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-21: Forma adoptată de Senat (FS): [fs-4c5e7217.md](fs-4c5e7217.md); official file https://www.senat.ro/legis/PDF/2022/22L679FS.PDF
 - 2022-11-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L679AXS.PDF
 - 2022-11-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L679LP.PDF
+- 2023-04-18: Document (AJ): [aj-37036fcd.md](aj-37036fcd.md); official file https://www.senat.ro/legis/PDF/2022/22L679AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-18: Document (AL): [al-d4dc690d.md](al-d4dc690d.md); official file https://www.senat.ro/legis/PDF/2022/22L679AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-18: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L679SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-18: Document (DC): [dc-80a1f88f.md](dc-80a1f88f.md); official file https://www.senat.ro/legis/PDF/2022/22L679DC.PDF (its day is not given by the bill file: shown from the last stage held)
