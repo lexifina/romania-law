@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2022-10-06: sent for promulgation
 - 2023-02-28: published in the Monitorul Oficial
 - 2023-04-13: promulgated, becomes Legea nr. 103/2023
+- 2023-04-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2022-09-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L544AM.PDF
 - 2022-10-04: Adresă privind sesizarea CCR (AXS): [axs-f0c2c5b8.md](axs-f0c2c5b8.md); official file https://www.senat.ro/legis/PDF/2022/22L544AXS.PDF
 - 2022-10-04: Forma trimisă la promulgare (LP): [lp-983987b0.md](lp-983987b0.md); official file https://www.senat.ro/legis/PDF/2022/22L544LP.PDF
+- 2023-04-18: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L544SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-18: Document (DC): [dc-bf8d4420.md](dc-bf8d4420.md); official file https://www.senat.ro/legis/PDF/2022/22L544DC.PDF (its day is not given by the bill file: shown from the last stage held)
