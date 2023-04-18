@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2023-04-04: documents published: Aviz comisie
 - 2023-04-05: documents published: Aviz comisie
 - 2023-04-12: documents published: Raport comisie sesizată pe fond
+- 2023-04-18: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2023-04-04: Aviz comisie (CA58): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L152CA58.PDF
 - 2023-04-05: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L152CA12.PDF
 - 2023-04-12: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L152CR.PDF
+- 2023-04-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L152FS.PDF
+- 2023-04-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L152AM.PDF
