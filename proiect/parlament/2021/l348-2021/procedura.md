@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-08: sent for promulgation
 - 2023-04-12: promulgated, becomes Legea nr. 97/2023
+- 2023-04-18: published in the Monitorul Oficial
 
 ## Documents
 
