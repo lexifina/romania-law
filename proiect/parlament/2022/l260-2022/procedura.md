@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-18: sent for promulgation
 - 2023-03-16: published in the Monitorul Oficial
 - 2023-04-13: promulgated, becomes Legea nr. 105/2023
+- 2023-04-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L260AM.PDF
 - 2023-02-13: Adresă privind sesizarea CCR (AXS): [axs-c7b6e125.md](axs-c7b6e125.md); official file https://www.senat.ro/legis/PDF/2022/22L260AXS.PDF
 - 2023-02-13: Forma trimisă la promulgare (LP): [lp-97592d0e.md](lp-97592d0e.md); official file https://www.senat.ro/legis/PDF/2022/22L260LP.PDF
+- 2023-04-18: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L260SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-04-18: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L260DC.PDF (its day is not given by the bill file: shown from the last stage held)
