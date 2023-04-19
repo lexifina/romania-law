@@ -1,0 +1,113 @@
+{
+ "key": "cedo-22957-19-2022-05-03",
+ "label": "CEDO, Dâmbean c. României, 2022-05-03",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-05-03",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 3 mai 2022",
+ "subtitle": "în Cauza Dâmbean împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "329",
+  "bis": false,
+  "date": "2023-04-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "22957/19"
+ ],
+ "case_name": "Dâmbean",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 2 din Convenție sub aspect procedural;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "20.000 EUR (douăzeci de mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "2.500 EUR (două mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamantă, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "og/2000/1"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267230",
+  "text_sha256": "0004e394ceb6ffe739bf4d1ec6223b4ffc4908ec41c3514ca140da4d7a7f2eba",
+  "catalogue_sha256": "0004e394ceb6ffe739bf4d1ec6223b4ffc4908ec41c3514ca140da4d7a7f2eba",
+  "fetched": "2026-11-03T01:23:36Z",
+  "chars": 17555,
+  "portal_id": "267230",
+  "tip": "HOTĂRÂRE"
+ }
+}
