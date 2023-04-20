@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-01: sent for promulgation
 - 2023-04-13: promulgated, becomes Legea nr. 101/2023
+- 2023-04-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L319AM.PDF
 - 2023-03-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L319AXS.PDF
 - 2023-03-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L319LP.PDF
+- 2023-04-20: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L319CC.PDF (its day is not given by the bill file: shown from the last stage held)
