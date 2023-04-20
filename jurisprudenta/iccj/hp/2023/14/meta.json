@@ -1,0 +1,320 @@
+{
+ "key": "iccj-hp-14-2023",
+ "label": "Decizia ÎCCJ nr. 14/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "14",
+ "date": "2023-03-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 14 din 13 martie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 1.026 alin. (1) și art. 1.027 alin. (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "333",
+  "bis": false,
+  "date": "2023-04-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.791/1/2022",
+  "2.220/258/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1026",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1027",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2009",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Harghita - Secția civilă, în Dosarul nr. 2.220/258/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept:",
+  "1. Având în vedere dispozițiile art. 2.009 din Codul civil prin care mandatul este contractul prin care o parte, numită mandatar, se obligă să încheie unul sau mai multe acte juridice pe seama celeilalte părți, numită mandant, se poate spune că poate avea calitatea de mandatar doar avocatul, întrucât, conform Legii nr. 51/1995, doar el poate să facă acte juridice, fiind interzis mandatarului să apeleze la un avocat pentru ca acesta să redacteze acte juridice?;",
+  "2. Se poate considera că, atunci când un mandatar, acționând în baza unui contract de mandat încheiat conform dispozițiilor art. 2.009 și următoarele din Codul civil, apelează la un avocat pentru ca acesta să redacteze actele juridice la încheierea cărora mandatarul este obligat conform art. 2.009 din Codul civil, încalcă dispozițiile art. 3 alin. (1) lit. c) din Legea nr. 51/1995?;",
+  "3. Se poate considera că, atunci când un mandatar, acționând în baza unui contract de mandat încheiat conform art. 2.009 și următoarele din Codul civil, apelează la un avocat pentru ca acesta să încheie un contract de asistență juridică direct cu clientul-mandant pentru a-l reprezenta pe clientul-mandant la instanța de judecată, încalcă dispozițiile din Legea nr. 51/1995?;",
+  "4. Dacă, în interpretarea și aplicarea dispozițiilor art. 1.026 alin. (1) și art. 1.027 alin. (3) din Codul de procedură civilă, instanța de judecată, din oficiu, poate dispune constatarea nulității absolute a unui contract în cadrul cererii de valoare redusă ce are ca obiect plata unor sume de bani sau pentru a putea dispune și constata din oficiu nulitatea absolută a unui contract trebuie să pună în discuție părților necesitatea judecării acțiunii potrivit dreptului comun și să procedeze la judecarea acțiunii pe dreptul comun",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "2009",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2018",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2027",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2032",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1350",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1254",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "1026",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1027",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1030",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "84",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-04-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267276",
+  "text_sha256": "a26ad7a6382829cbf52cdb9187b56e301087fa20070b8298190c8fd1e9b4080a",
+  "catalogue_sha256": "a26ad7a6382829cbf52cdb9187b56e301087fa20070b8298190c8fd1e9b4080a",
+  "fetched": "2026-11-06T03:57:02Z",
+  "chars": 38762,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/267276",
+   "timestamp": "20250814205503",
+   "crawl": "CC-MAIN-2025-33",
+   "filename": "crawl-data/CC-MAIN-2025-33/segments/1754151577363.78/warc/CC-MAIN-20250814193753-20250814223753-00576.warc.gz",
+   "offset": "280336004",
+   "length": "37395",
+   "sha256": "06f06b8be6fc9c2c75b39e63f27b9ef851d0d168c5a54ec4049d209d45b9aaf8"
+  },
+  "portal_id": "267276",
+  "tip": "DECIZIE"
+ }
+}
