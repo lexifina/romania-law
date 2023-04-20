@@ -1,0 +1,60 @@
+{
+ "key": "cjue-c-775-21-hotarare-2023-04-20",
+ "label": "CJUE, Hotărârea Curții (Camera a șasea) din 20 aprilie 2023, Cauzele conexate C-775/21 și C-826/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-04-20",
+ "year": "2023",
+ "case": "Cauzele conexate C-775/21 și C-826/21",
+ "celex": "62021CJ0775",
+ "ecli": "ECLI:EU:C:2023:307",
+ "heading": "Hotărârea Curții (Camera a șasea) din 20 aprilie 2023",
+ "formation": "CHAMB_06_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cereri de decizie preliminară formulate de Curtea de Apel Bucureşti",
+ "national_followup": [
+  "Curtea de Apel Bucureşti, Secţia A IV-A Civilă, încheiere din 12/11/2020 (7095/3/2018)",
+  "Curtea de Apel Bucureşti, Secţia A IV-A civilă, încheiere din 01/07/2021 (38413/3/2013)"
+ ],
+ "parties": "Blue Air Aviation SA împotriva UCMR – ADA Asociaţia pentru Drepturi de Autor a Compozitorilor și Uniunea Producătorilor de Fonograme din România (UPFR) împotriva Societății Naţionale de Transport Feroviar de Călători (SNTFC) “CFR Călători” SA",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Proprietate intelectuală – Drept de autor și drepturi conexe – Directiva 2001/29/CE – Articolul 3 alineatul (1) – Comunicare publică – Noțiune – Difuzare de muzică ambientală – Directiva 2006/115/CE – Articolul 8 punctul 2 – Remunerație echitabilă – Simplă furnizare de instalații – Echipamente de sonorizare la bordul trenurilor și al aeronavelor – Prezumție de comunicare publică",
+ "interprets": [
+  {
+   "celex": "32001L0029",
+   "folder": "ue/directiva/2001/29"
+  },
+  {
+   "celex": "32006L0115",
+   "folder": "ue/directiva/2006/115"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0775",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-775/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/2516b530-df56-11ed-a05c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "d69bdfd6191ca632fb3441b65cac18a0c318cdcd8d10b62b8e3a0ba0b0ee1318"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a șasea) declară:",
+  "1) Articolul 3 alineatul (1) din Directiva 2001/29/CE a Parlamentului European și a Consiliului din 22 mai 2001 privind armonizarea anumitor aspecte ale dreptului de autor și drepturilor conexe în societatea informațională trebuie interpretat în sensul că constituie o comunicare publică, în sensul acestei dispoziții, difuzarea într‑un mijloc de transport de pasageri a unei opere muzicale ca muzică ambientală.",
+  "2) Articolul 3 alineatul (1) din Directiva 2001/29/CE și articolul 8 alineatul (2) din Directiva 2006/115/CE a Parlamentului European și a Consiliului din 12 decembrie 2006 privind dreptul de închiriere și de împrumut și anumite drepturi conexe dreptului de autor în domeniul proprietății intelectuale trebuie interpretate în sensul că nu constituie o comunicare publică, în sensul acestor dispoziții, instalarea la bordul unui mijloc de transport a unui echipament de sonorizare și, dacă este cazul, a unui program informatic care permite difuzarea de muzică ambientală.",
+  "3) Articolul 8 alineatul (2) din Directiva 2006/115 trebuie interpretat în sensul că se opune unei reglementări naționale, astfel cum este interpretată de instanțele naționale, care stabilește o prezumție simplă de comunicare publică a operelor muzicale întemeiată pe prezența unor instalații de sonorizare în mijloacele de transport."
+ ]
+}
