@@ -1,0 +1,3 @@
+# Anexa nr. 3 (Anexa nr. 4 la Instrucțiunea Autorității de Supraveghere Financiară nr. 1/2016)
+SITUAȚIA ACTIVELOR IMOBILIZATE la data de 31 decembrie......
+-------
