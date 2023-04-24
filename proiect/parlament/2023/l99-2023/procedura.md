@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-14: documents published: Aviz comisie
 - 2023-02-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-04-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2023-04-24: registered at the Chamber of Deputies
 
 ## Documents
 
