@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-03-28: documents published: Aviz comisie
 - 2023-03-29: documents published: Aviz comisie
 - 2023-03-30: documents published: Aviz comisie
+- 2023-04-24: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Guvernul României.
 - 2023-03-28: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L131CA41.PDF
 - 2023-03-29: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L131CA45.PDF
 - 2023-03-30: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L131CA8.PDF
+- 2023-04-24: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L131FS.PDF
+- 2023-04-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L131AM.PDF
