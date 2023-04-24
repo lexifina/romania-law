@@ -1,0 +1,22 @@
+# Proiect de lege L243/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 230/2023 (`legea-230-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.27/2023 pentru modificarea şi completarea unor acte normative în domeniul energetic, precum şi pentru instituirea unor derogări
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-04-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-04-24: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243AD.PDF
+- 2023-04-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243FG.PDF
+- 2023-04-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243EM.PDF
+- 2023-04-24: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243LG.PDF
+- 2023-04-24: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243OG.PDF
+- 2023-04-24: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L243HG.PDF
