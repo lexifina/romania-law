@@ -1,0 +1,11 @@
+Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2023;
+Examinând proiectul de hotărâre nr. 76/2023 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 13197/76 din 13.04.2023 prin care se propune aprobarea indexării anuale cu rata inflației de 13,8 % a impozitelor și taxelor locale, care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, precum si a actualizării cu 13,8 % a limitelor amenzilor prevăzute la art. 493 alin. (3) și alin. (4) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, în scopul respectării legislatiei în materie de drept fiscal, ce impune ca această indexare anuală, să se aprobe până la 30 aprilie.
+Având în vedere:
+a) postarea pe site-ul oficial al Ministerului Dezvoltării, Lucrărilor Publice și Administrației, potrivit link-ului http://www.dpfbl.mdrap.ro/documents/Rata_inflatiei_2022.pdf a ratei inflației de 13,8%, ce va fi luată în calcul, de consiliile locale, pentru indexarea impozitelor și taxelor locale aferente anului 2024; b)raportul întocmit în comun de serviciul juridic și biroul impozite și taxe locale din cadrul aparatului de specialitate al primarului, înregistrat sub nr. 13492 din data de 19.04.2023;
+c) avizul comisiei pentru activități economico-financiare a Consiliului local, înregistrat sub nr.
+15/14070/174 din 25.04.2023;
+În conformitate cu prevederile art. 491, art.493 alin. (3)-(4), alin. (7) din Legea nr.227/2015 privind Codul fiscal, cu modificările și completările ulterioare, ale Titlului IX: Impozite și taxe locale din Hotărârea Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Codului Fiscal, cu modificările și completările ulterioare, ale Legii nr.
+273/2006 privind finantele publice locale, cu modificările și completările ulterioare;
+În temeiul dispozitiilor art. 87 alin. (3), art. 129 alin. (2) lit. b), alin. (4) lit. c), art. 139 alin. (1), alin. (3), art. 140 alin. (1), art.196 alin. (1) lit. a), art. 197 alin. (1)-(2), alin. (4)-(5), art.
+199 alin. (1)-(2), art. 243 alin. (1) din Ordonanța de Urgență a Guvernului nr. 57/2019 privind codul administrativ, cu modificările și completările ulterioare,
+HOTĂRĂȘTE :
