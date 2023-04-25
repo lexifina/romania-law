@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2023-04-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2023-04-25: documents published: Aviz comisie
 
 ## Documents
 
@@ -20,3 +21,7 @@ Initiator: Guvernul României.
 - 2023-04-13: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206LG.PDF
 - 2023-04-13: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206OG.PDF
 - 2023-04-13: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206HG.PDF
+- 2023-04-25: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206CA12.PDF
+- 2023-04-25: Aviz comisie (CA16): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206CA16.PDF
+- 2023-04-25: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206CA41.PDF
+- 2023-04-25: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L206CA8.PDF
