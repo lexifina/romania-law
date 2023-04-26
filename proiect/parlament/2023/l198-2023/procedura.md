@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-07: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-04-19: documents published: Aviz comisie
 - 2023-04-20: documents published: Aviz comisie
+- 2023-04-26: documents published: Aviz comisie
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-07: Expunere de motive (EM): [em-ab2626fd.md](em-ab2626fd.md); official file https://www.senat.ro/legis/PDF/2023/23L198EM.PDF
 - 2023-04-19: Aviz comisie (CA55): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198CA55.PDF
 - 2023-04-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198CA45.PDF
+- 2023-04-26: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L198CA3.PDF
