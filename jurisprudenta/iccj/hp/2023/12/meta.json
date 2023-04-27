@@ -1,0 +1,147 @@
+{
+ "key": "iccj-hp-12-2023",
+ "label": "Decizia ÎCCJ nr. 12/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "12",
+ "date": "2023-02-20",
+ "year": "2023",
+ "heading": "DECIZIA nr. 12",
+ "subtitle": "din 20 februarie 2023 referitoare la interpretarea dispozițiilor art. 7 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobată cu modificări și completări prin Legea nr. 399/2006",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "357",
+  "bis": false,
+  "date": "2023-04-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.660/1/2022",
+  "5.409/30/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Timișoara - Secția litigii de muncă și asigurări sociale, în Dosarul nr. 5.409/30/2021*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept: În interpretarea dispozițiilor art. 7 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobată cu modificări și completări prin Legea nr. 399/2006, cu modificările și completările ulterioare, beneficiul drepturilor prevăzute de art. 2 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 158/2005 - plata indemnizațiilor de maternitate - este condiționat de împlinirea stagiului minim de asigurare pentru acordarea acestor drepturi - 6 luni realizate în ultimele 12 luni anterioare lunii pentru care se acordă concediul medical - la data emiterii concediului medical inițial (data nașterii) sau respectivele indemnizații se acordă și în măsura în care aceste 6 luni se împlinesc după momentul nașterii, însă înăuntrul termenului de 126 de zile de concediu medical pentru sarcină și lăuzie și, în caz afirmativ, începând cu ce moment?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 158/2005",
+    "number": "158",
+    "year": "2005",
+    "path": "oug/2005/158"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 34
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-04-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/267415",
+  "text_sha256": "42d32a29a4cdb976ae3b8ee4e69c052dd6aae931cdb607973fec8366e1849127",
+  "catalogue_sha256": "42d32a29a4cdb976ae3b8ee4e69c052dd6aae931cdb607973fec8366e1849127",
+  "fetched": "2026-11-03T01:23:22Z",
+  "chars": 41512,
+  "portal_id": "267415",
+  "tip": "DECIZIE"
+ }
+}
