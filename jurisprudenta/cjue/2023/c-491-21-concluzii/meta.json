@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-491-21-concluzii-2023-04-27",
+ "label": "CJUE, Concluziile avocatului general M. Szpunar prezentate la 27 aprilie 2023, Cauza C-491/21.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-04-27",
+ "year": "2023",
+ "case": "Cauza C-491/21.",
+ "celex": "62021CC0491",
+ "ecli": "ECLI:EU:C:2023:362",
+ "heading": "Concluziile avocatului general M. Szpunar prezentate la 27 aprilie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Înalta Curte de Casaţie şi Justiţie.",
+ "national_followup": null,
+ "parties": "WA împotriva Direcţia pentru Evidenţa Persoanelor şi Administrarea Bazelor de Date din Ministerul Afacerilor Interne.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Cetățenia Uniunii – Articolul 21 alineatul (1) TFUE – Dreptul la liberă circulație și ședere pe teritoriul statelor membre – Articolul 45 din Carta drepturilor fundamentale a Uniunii Europene – Directiva 2004/38/CE – Articolul 4 – Eliberarea unei cărți de identitate – Condiție de domiciliu în statul membru de emitere a documentului – Refuz al autorităților acestui stat membru de a elibera o carte de identitate unuia dintre resortisanții săi cu domiciliul în alt stat membru – Egalitate de tratament – Restricții – Justificare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CC0491",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-491/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/0557b76a-e4ed-11ed-a05c-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "cc025a5920f215c86bf2a2cffce5252c80244ab8fbf850dd53e659242c04731f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
