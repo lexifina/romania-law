@@ -1,0 +1,5 @@
+# CJUE, Hotărârea Curții (Camera a noua) din 27 aprilie 2023, Cauza C-827/21
+
+Pentru aceste motive, Curtea (Camera a noua) declară:
+1) Dreptul Uniunii nu obligă o instanță națională să dea o interpretare conformă cu Directiva 2009/133/CE a Consiliului din 19 octombrie 2009 privind regimul fiscal comun care se aplică fuziunilor, divizărilor, divizărilor parțiale, cesionării de active și schimburilor de acțiuni între societățile din state membre diferite și transferului sediului social al unei SE sau SCE între statele membre unei dispoziții de drept național aplicabile unei operațiuni pur interne de fuziune a două întreprinderi care au fiecare sediul social în același stat membru, din moment ce această operațiune nu intră în domeniul de aplicare al acestei directive.
+2) Curtea nu este competentă să răspundă la întrebările preliminare privind interpretarea Directivei 2009/133, din moment ce, pe de o parte, situația de fapt din litigiul principal nu intră în domeniul de aplicare al acesteia și, pe de altă parte, aplicabilitatea acestei directive nu a fost determinată de dreptul național în cazul faptelor respective în mod direct și necondiționat.
