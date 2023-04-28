@@ -1,0 +1,9 @@
+# HCL Baia de Criș nr. 33/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Baia de Criș
+- Decision: nr. 33/2023
+- Adopted: 2023-04-28
+- Title: însușirea în domeniul public al comunei Baia de Criș a imobilului compus din construcții și teren aferent
+- Record: https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#49246
