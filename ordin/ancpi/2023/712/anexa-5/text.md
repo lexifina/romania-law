@@ -1,0 +1,6 @@
+# Anexa nr. 4 la protocol
+Detaliere instrument bancar
+Luna.......... anul.....
+Biroul Notarului Public......................, CIF....................
+Nr. crt. Oficiul de Cadastru și Publicitate Imobiliară Valoarea instrumentului bancar 1 2 3 4 5 6 7 8 9 10 11 12
+Nr......../ Data.............. TOTAL
