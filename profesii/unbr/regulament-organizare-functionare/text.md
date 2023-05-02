@@ -1,933 +1,1711 @@
-DECIZIA NR. 1487
+ĚŽƉƚĂƚƉƌŝŶ,ŽƚĉƌąƌĞĂŽŶƐŝůŝƵůƵŝhEZŶƌ͘ϱͬϬϴŝƵůŝĞϮϬϭϭ, cu modificările aduse prin:
+Hotărârea nr. 301 din 03 decembrie 2011 a Consiliului U.N.B.R. și
+Hotărârea nr. 461 din 05 iunie 2019 a Consiliului U.N.B.R.
+5HJXODPHQWXOGHRUJDQL]DUHúLIXQFĠLRQDUH
+D8QLXQLL1DĠLRQDOHD%DURXULORUGLQ5RPkQLD81%5
+úLGHGHVIăúXUDUHDúHGLQĠHORU&RQVLOLXOXL81%5
+&DSLWROXO,
+'LVSR]LĠLLJHQHUDOH
+Art. 1. Statutul juridic. 81%5HVWHSHUVRDQăMXULGLFăGHLQWHUHVSXEOLFFX
+SDWULPRQLXEXJHWSURSULXúLRUJDQL]DUHGHVLQHVWăWăWRDUHFDUHHVWHFRQVWLWXLWăúL
+IXQFĠLRQHD]ăvQED]D/HJLLQUSULYLQGRUJDQL]DUHDúLH[HUFLWDUHDSURIHVLHL
+GH DYRFDW FX PRGLILFăULOH úL FRPSOHWăULOH XOWHULRDUH UHSXEOLFDWă vQ FRQWLQXDUH
+Ä/HJH´úLD6WDWXWXOXLSURIHVLHLGHDYRFDWvQFRQWLQXDUHÄ6WDWXW´
+81%5HVWHXQLFDVXFFHVRDUHGHGUHSWD8QLXQLL$YRFDĠLORUGLQ5RPkQLD
+Art. 2. Componenäâ.  81%5 HVWH FRQVWLWXLWă GLQ WRWDOLWDWHD EDURXULORU GLQ
+5RPkQLD SUHYă]XWH vQ $QH[D  FDUH IDFH SDUWH LQWHJUDQWă GLQ SUH]HQWXO
+5HJXODPHQW DVWIHO FXP DFHVWHD DX IRVW FRQVWLWXLWH úL RUJDQL]DWH SRWULYLW OHJLORU
+VXFFHVLYHSULYLQGRUJDQL]DUHDúLH[HUFLWDUHDSURIHVLHLGHDYRFDW
+)LHFDUHEDURXHVWHFRQVWLWXLWGLQWRĠLDYRFDĠLLGLQWUXQMXGHĠVDXGLQ0XQLFLSLXO
+%XFXUHúWL
+)LHFDUHEDURXDUHFDOLWDWHDGHPHPEUXGHGUHSWDO81%5
+(VWHLQWHU]LVăSULQOHJHFRQVWLWXLUHDRUJDQL]DUHDúLIXQFĠLRQDUHDEDURXULORUvQ
+DIDUD81%5VDXRUJDQL]DUHDúLIXQFĠLRQDUHDEDURXULORUFXvQFăOFDUHDGLVSR]LĠLLORU
+OHJLLúLDOH6WDWXWXOXL
+Art. 3. Sediu. 6HGLXO81%5HVWHvQ%XFXUHúWL3DODWXOGH-XVWLĠLH6SODLXO
+,QGHSHQGHQĠHLQU6HFWRU
+6FKLPEDUHD±WHPSRUDUăVDXGHILQLWLYă±DVHGLXOXL81%5SUHFXPúLORFXO
+IXQFĠLRQăULLXQRUFRPSDUWLPHQWHRULVHUYLFLLDOH81%5VHVWDELOHVFSULQKRWăUkUHD
+&RPLVLHL3HUPDQHQWHD81%5
+Art. 4. Patrimoniu.  6H FRQVWLWXLH SDWULPRQLXO 81%5 SULQ FRQWULEXĠLD
+EDURXULORUODEXJHWXO81%5vQFRWHOHVWDELOLWHGH&RQJUHVXODYRFDĠLORU
+ 3DWULPRQLXO 81%5 HVWH IRUPDW GLQ WRWDOLWDWHD EXQXULORU PRELOH úL LPRELOH
+GREkQGLWHvQFRQGLĠLLOHOHJLLvQUHJLVWUDWHúLHYLGHQĠLDWHFRUHVSXQ]ăWRUOHJLL
+ 3DWULPRQLXO 81%5 SRDWH IL IRORVLW vQ DFWLYLWăĠL SURGXFăWRDUH GH YHQLWXUL vQ
+FRQGLĠLLOH OHJLL QXPDL vQ ED]D GHFL]LLORU VDX GLVSR]LĠLLORU HPLVH GH RUJDQHOH GH
+FRQGXFHUHDSURIHVLHL
+(YLGHQĠDFRQWDELOăD81%5VHUHDOL]HD]ăFXUHVSHFWDUHDGLVSR]LĠLLORUOHJDOH
+vQYLJRDUHDSOLFDELOHRUJDQL]DĠLLORUIăUăVFRSSDWULPRQLDO
+Art. 5. Buget. %XJHWXO81%5VHIRUPHD]ăGLQYHQLWXULOHFHUHSUH]LQWăFRQWUL
+EXĠLD EDURXULORU GHWHUPLQDWă SH ED]D FULWHULLORU VWDELOLWH GH &RQJUHVXO DYRFDĠLORU
+YHQLWXULOH REĠLQXWH GLQ H[SORDWDUHD VDX YDORULILFDUHD EXQXULORU PRELOH úL LPRELOH
+SURSULHWDWHDVDGREkQ]LOHDIHUHQWHUHVXUVHORUEăQHúWLGLVSRQLELOHGRQDĠLLúLGLQDOWH
+VXUVHFRQIRUPHFXOHJHD
+ +RW&RQV81%5QU(www.unbr.ro)FXXOWLPPRGLIDGXVHSULQ+RW&RQV81%5
+QUDGRSWDWăvQúHGLQĠDGLQLXQ
 
-În conformitate cu dispozițiile art. 65 alin. (1) lit. b) și lit. c) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat și ale art. 85 alin. (1) din Statutul profesiei de avocat,
-
-Comisia Permanentă,
-
-DECIDE:
-
-Se aprobă proiectul Regulamentului de organizare și funcționare a Uniunii Naționale a Barourilor din România și de desfășurare a ședințelor Consiliului U.N.B.R. prevăzut în anexa la prezenta Decizie.
-
-Proiectul Regulamentului de organizare și funcționare a Uniunii Naționale a Barourilor din România și de desfășurare a ședințelor Consiliului U.N.B.R. va fi supus spre dezbatere și aprobare Consiliului U.N.B.R. în ședința din 15 decembrie 2007.
-
-3. Proiectul Regulamentului de organizare și funcționare a Uniunii Naționale a Barourilor din România și de desfășurare a ședințelor Consiliului U.N.B.R. se va comunica prin e-mail tuturor membrilor Consiliului U.N.B.R. prin barourile din care fac parte și se publica spre dezbatere publică, pe website-ul www.unbr.ro.
-
-P R E Ș E D I N T E,
-
-Av. dr. Gheorghe FLOREA
-
-Anexa nr. 1 la Decizia Comisiei Permanente nr. 1485/27.10.2007
-
-UNIUNEA NAȚIONALĂ A BAROURILOR DIN ROMÂNIA
-
-Comisia Permanentă
-
-PROIECT
-
-REGULAMENTUL de organizare și funcționare a UNIUNII
-
-NAȚIONALE A BAROURILOR DIN ROMÂNIA (U.N.B.R.) și de desfășurare a ședințelor Consiliului (U.N.B.R.)
-
-CAPITOLUL I
-
-DISPOZIȚII GENERALE
-
-Statutul juridic
-Art. 1
-U.N.B.R. este persoană juridică de interes public cu patrimoniu, buget propriu și organizare de sine stătătoare, care este constituită și funcționează în baza Legii nr. 51/1995 privind organizarea și exercitarea profesiei de avocat cu modificările și completările ulterioare, republicată în Monitorul Oficial, Partea I, nr. 113 din 6 martie 2001, (în continuare lege) și a Statutului profesiei de avocat, adoptat în ședința Consiliului U.N.B.R. din 25 septembrie 2004, Publicat în Monitorul Oficial, Partea I, nr. 45 din 13 ianuarie 2005, (în continuare Statut).U.N.B.R. este succesoare în drepturi a Uniunii Avocaților din România.
-
-Componență
-Art. 2
-U.N.B.R. este constituită din totalitatea barourilor din România, astfel cum acestea au fost constituite și organizate potrivit legilor succesive privind organizarea și exercitarea profesiei de avocat.Fiecare barou este constituit din toți avocații dintr-un județ sau din Municipiul București.
-
-Fiecare barou are calitatea de membru de drept al U.N.B.R.
-
-Este interzisă prin lege constituirea, organizarea și funcționarea barourilor în afara U.N.B.R. sau organizarea și funcționarea barourilor cu încălcarea dispozițiilor legii și ale Statutului.
-
-Sediu
-Art. 3
-Sediul U.N.B.R. este în București, Palatul de Justiție, Splaiul Independenței, nr. 5, Sector 5.Stabilirea, mutarea – temporară sau definitivă – a sediului U.N.B.R., funcționarea unor compartimente ori servicii ale U.N.B.R. în alte localuri, se stabilesc prin hotărârea Comisiei Permanente a U.N.B.R.
-
-Patrimoniu
-Art. 4
-Se constituie patrimoniul U.N.B.R. prin contribuția barourilor la bugetul U.N.B.R. în cotele stabilite de Congresul avocaților.Patrimoniul U.N.B.R. este format din totalitatea bunurilor mobile și imobile dobândite în condițiile legii, înregistrate și evidențiate corespunzător legii.
-
-Patrimoniul U.N.B.R. poate fi folosit în activități producătoare de venituri în condițiile legii, numai și exclusiv în baza deciziilor sau dispozițiilor emise de organele de conducere competente.
-
-Evidența contabilă a U.N.B.R. se realizează cu respectarea dispozițiilor legale în vigoare aplicabile organizațiilor fără scop patrimonial.
-
-Buget
-Art. 5
-Bugetul U.N.B.R. se formează din veniturile ce reprezintă contribuția barourilor determinată pe baza criteriilor stabilite de Congresul avocaților, veniturile obținute din exploatarea sau valorificarea bunurilor mobile și imobile proprietatea sa, dobânzile aferente resurselor bănești disponibile, donații și din alte surse, conforme cu legea.
-
-Principii de organizare și funcționare
-Art. 6
-U.N.B.R. este organizată și funcționează ca instituție autonomă înființată prin lege, cu competențe și atribuții legale. Funcționarea U.N.B.R. se realizează cu respectarea strictă a principiilor legalității, independenței, libertății, descentralizării, păstrării secretului profesional, responsabilității sociale subordonate scopului promovării și apărării drepturilor, libertăților și intereselor legitime ale persoanelor de către Corpul avocaților, constituit din totalitatea avocaților înscriși în tablourile barourilor din România.
-
-Raporturi cu autoritățile publice și alte structuri profesionale
-Art. 7
-În relațiile dintre U.N.B.R. și autoritățile publice, centrale și locale, nu există raporturi de subordonare. Relațiile U.N.B.R. cu aceste autorități se bazează pe principiile autonomiei, legalității și conlucrării pentru rezolvarea problemelor de interes comun.U.N.B.R. cooperează și dezvoltă relații profesionale în condiții de deplină egalitate cu toate organizațiile și asociațiile profesionale, legal înființate, ale membrilor altor profesii juridice sau ai altor profesii conexe activității profesionale a avocaților (notari publici, executori judecătorești, consilieri juridici, mediatori, experți tehnici și contabili, practicieni în reorganizare si lichidare, evaluatori, auditori, consultanți fiscali etc), cu organizațiile, instituțiile, asociațiile constituite pentru promovarea apărării drepturilor și intereselor legitime ale persoanelor și pentru realizarea și respectarea principiilor statului de drept pe baza instituțiilor ce organizează apărarea.
-
-Scopul exercitării atribuțiilor
-Art. 8
-Principalele atribuții ale U.N.B.R. sunt cele privitoare la crearea cadrului normativ infraparlamentar și organizatoric pentru asigurarea respectării și aplicării unitare de către toate barourile membre a prevederilor Legii privind organizarea și exercitarea profesiei de avocat, a hotărârilor și celorlalte acte de decizie ale organelor profesiei, pentru apărarea onoarei și demnității membrilor Corpului avocaților, pentru asigurarea exercitării calificate a dreptului la apărare prin avocat, pentru reprezentarea corespunzătoare a Corpului avocaților în raporturile cu autoritățile publice și în raporturile cu celelalte organisme și organizații profesionale ale avocaților constituite la nivel statal, regional sau mondial.
-
-CAPITOLUL II
-
-ORGANIZAREA ȘI STRUCTURILE DE CONDUCERE ALE U.N.B.R.
-
-Secțiunea I
-
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+371
+Art. 6. Principii de organizare ài funcäionare. 81%5 HVWH RUJDQL]DWă úL
+IXQFĠLRQHD]ă FD LQVWLWXĠLH DXWRQRPă vQILLQĠDWă SULQ OHJH FX FRPSHWHQĠH úL DWULEXĠLL
+OHJDOH )XQFĠLRQDUHD 81%5 VH UHDOL]HD]ă FX UHVSHFWDUHD VWULFWă D SULQFLSLLORU
+OHJDOLWăĠLL LQGHSHQGHQĠHL OLEHUWăĠLL GHVFHQWUDOL]ăULL SăVWUăULL VHFUHWXOXL SURIHVLRQDO
+UHVSRQVDELOLWăĠLL VRFLDOH VXERUGRQDWH VFRSXOXL SURPRYăULL úL DSăUăULL GUHSWXULORU
+OLEHUWăĠLORU úL LQWHUHVHORU OHJLWLPH DOH SHUVRDQHORU GH FăWUH &RUSXO DYRFDĠLORU
+FRQVWLWXLWGLQWRWDOLWDWHDDYRFDĠLORUvQVFULúLvQWDEORXULOHEDURXULORUGLQ5RPkQLD
+Art. 7. Raporturi cu autoritâäile publice ài alte structuri profesionale. ÌQ
+UHODĠLLOHGLQWUH81%5úLDXWRULWăĠLOHSXEOLFHFHQWUDOHúLORFDOHQXH[LVWăUDSRUWXUL
+GH VXERUGRQDUH 5HODĠLLOH 81%5 FX DFHVWH DXWRULWăĠL VH ED]HD]ă SH SULQFLSLLOH
+DXWRQRPLHL OHJDOLWăĠLL úL FRQOXFUăULL SHQWUX UH]ROYDUHD SUREOHPHORU GH LQWHUHV
+FRPXQ
+ 81%5 FRRSHUHD]ă úL GH]YROWă UHODĠLL SURIHVLRQDOH vQ FRQGLĠLL GH GHSOLQă
+HJDOLWDWHFXWRDWHRUJDQL]DĠLLOHúLDVRFLDĠLLOHSURIHVLRQDOHOHJDOvQILLQĠDWHDOHPHP
+EULORU DOWRU SURIHVLL MXULGLFH VDX DL DOWRU SURIHVLL FRQH[H DFWLYLWăĠLL SURIHVLRQDOH D
+DYRFDĠLORUQRWDULSXEOLFLH[HFXWRULMXGHFăWRUHúWLFRQVLOLHULMXULGLFLPHGLDWRULH[SHUĠL
+WHKQLFL úL FRQWDELOL SUDFWLFLHQL vQ UHRUJDQL]DUH úL OLFKLGDUH HYDOXDWRUL DXGLWRUL
+FRQVXOWDQĠL ILVFDOL HWF FX RUJDQL]DĠLLOH LQVWLWXĠLLOH DVRFLDĠLLOH FRQVWLWXLWH SHQWUX
+SURPRYDUHD DSăUăULL GUHSWXULORU úL LQWHUHVHORU OHJLWLPH DOH SHUVRDQHORU úL SHQWUX
+UHDOL]DUHDúLUHVSHFWDUHDSULQFLSLLORUVWDWXOXLGHGUHSWSHED]DLQVWLWXĠLLORUFHRUJD
+QL]HD]ăDSăUDUHD
+Art. 8. Scopul exercitârii atribuäiilor. 3ULQFLSDOHOH DWULEXĠLL DOH 81%5 VXQW
+FHOHSULYLWRDUHODFUHDUHDFDGUXOXLQRUPDWLYLQIUDSDUODPHQWDUúLRUJDQL]DWRULFSHQWUX
+DVLJXUDUHD UHVSHFWăULL úL DSOLFăULL XQLWDUH GH FăWUH WRDWH EDURXULOH PHPEUH D
+SUHYHGHULORU /HJLL SULYLQG RUJDQL]DUHD úL H[HUFLWDUHD SURIHVLHL GH DYRFDW D KRWă
+UkULORUúLFHORUODOWHDFWHGHGHFL]LHDOHRUJDQHORUSURIHVLHLSHQWUXDSăUDUHDRQRDUHL
+úLGHPQLWăĠLLPHPEULORU&RUSXOXLDYRFDĠLORUSHQWUXDVLJXUDUHDH[HUFLWăULLFDOLILFDWHD
+GUHSWXOXLODDSăUDUHSULQDYRFDWSHQWUXUHSUH]HQWDUHDFRUHVSXQ]ăWRDUHD&RUSXOXL
+DYRFDĠLORUvQUDSRUWXULOHFXDXWRULWăĠLOHSXEOLFHúLvQUDSRUWXULOHFXFHOHODOWHRUJDQLVPH
+úL RUJDQL]DĠLL SURIHVLRQDOH DOH DYRFDĠLORU FRQVWLWXLWH OD QLYHO VWDWDO UHJLRQDO VDX
+PRQGLDO
+Art. 9. Luarea hotârârilor în organele de conducere ale U.N.B.R. +RWăUkULOH
+RUJDQHORU GH FRQGXFHUH DOH 81%5 LQGLIHUHQW GH WLWXODWXUD DFHVWRU KRWăUkUL VH
+LDXFXPDMRULWDWHDSUHYă]XWăSULQSUH]HQWXOUHJXODPHQW3ULQÄPDMRULWDWHVLPSOă´VH
+vQĠHOHJHPDMRULWDWHDGHMXPăWDWHSOXVXQXGLQYRWXULOHPHPEULORUSUH]HQĠLLDUSULQ
+ÄPDMRULWDWH DEVROXWă´ VH vQĠHOHJH PDMRULWDWHD GH MXPăWDWH SOXV XQX GLQ WRWDOXO
+PHPEULORURUJDQXOXLSURIHVLHL'UHSWXOGHYRWQXSRDWHILWUDQVPLV
+&DSLWROXO,,
+2UJDQL]DUHDúLVWUXFWXULOHGHFRQGXFHUHDOH81%5
+SecĠiunea I
 Organele profesiei. Structuri de conducere
-
-Atribuții principale
-Art. 9
-U.N.B.R. îndeplinește următoarele categorii principale de atribuții:a) elaborează și aplică strategii și politici profesionale în domeniul dezvoltării și perfecționării profesiei de avocat;
-
-b) face propuneri autorităților cu drept de inițiativă legislativă privind profesia de avocat și raporturile acesteia cu sistemul judiciar și mediul de afaceri;
-
-c) asigură dezvoltarea relațiilor dintre barouri, perfecționarea pregătirii profesionale, respectarea deontologiei profesionale și a regulilor de disciplină profesională; apără onoarea și demnitatea Corpului avocaților;
-
-d) organizează și supraveghează serviciul statistic general al avocaților;
-
-e) organizează și editează publicații proprii și sprijină publicațiile barourilor;
-
-f) coordonează activitatea sistemului de asigurări sociale propriu avocaților;
-
-g) organizează și asigură reprezentarea Corpului avocaților în raporturile cu autoritățile române și străine, cu alte organisme și organizații profesionale ale avocaților.
-
-Organe de conducere
-Art. 10
-Organele de conducere ale U.N.B.R. sunt:a) Congresul avocaților;
-
-b) Consiliul U.N.B.R.;
-
-c) Comisia Permanentă a U.N.B.R.;
-
-d) Președintele U.N.B.R.
-
-Structuri organizatorice
-Art. 11
-În cadrul U.N.B.R. se constituie și funcționează:a) Comisia Centrală de Cenzori;
-
-b) Comisia Centrală de Disciplină;
-
-c) Aparatul tehnic-administrativ.
-
-Secțiunea a II-a
-
-Convocarea și desfășurarea lucrărilor Congresului avocaților
-
-Organul suprem de conducere a profesiei
-Art. 12
-Congresul este organul suprem de conducere a profesiei de avocat.Hotărârile adoptate fiind definitive și obligatorii pentru toate organele profesiei și pentru toți avocații.
-
-Convocare
-Art. 13
-Congresul U.N.B.R. se convoacă anual de către Consiliul U.N.B.R. prin Președintele U.N.B.R.Congresul extraordinar se convoacă de către Președintele U.N.B.R. ori de câte ori este necesar sau la cererea a cel puțin o treime din numărul total al barourilor.
-
-Dispoziția de convocare a Congresului se va comunica tuturor decanilor barourilor și se va publica într-un ziar de largă circulație națională și în publicațiile U.N.B.R. și ale barourilor.
-
-Dispoziția de convocare a Congresului va cuprinde obligatoriu:
-
-a) luna, ziua, ora și locul de desfășurare;
-
-b) ordinea de zi;
-
-c) condițiile convocării și ale desfășurării unui eventual Congres extraordinar.
-
-Convocarea Congresului se face cu cel puțin o lună înainte de data acestuia.
-
-Membrii Congresului. Cvorumul de constituire
-Art. 14
-La lucrările Congresului avocaților participă decanii barourilor, membrii Consiliului U.N.B.R. și delegații aleși de adunările generale ale barourilor potrivit normelor de reprezentare stabilite prin Statut.Barourile vor comunica U.N.B.R., cel mai târziu cu 10 (zece) zile înainte de data stabilită pentru începerea lucrărilor Congresului, copii certificate de pe procesele verbale și hotărârile adunărilor generale în care au fost desemnați delegații avocaților la Congres.
-
-Congresul este legal constituit dacă sunt prezenți la data și ora convocării cel puțin două treimi din numărul total al membrilor Congresului.
-
-La lucrările Congresului pot participa în calitate de invitați: reprezentanți ai autorităților publice române, ai altor organizații profesionale ale profesiilor juridice ori ale profesiilor conexe activității profesionale a avocaților, ai unor organizații neguvernamentale, reprezentanți ai organizațiilor profesionale ale avocaților din străinătate, ziariști și alți avocați, cu aprobarea prealabilă a Consiliului U.N.B.R.
-
-Pentru buna desfășurare a lucrărilor Congresului, aparatul tehnico-administrativ al U.N.B.R., sub coordonarea directă a Președintelui U.N.B.R., va publica materialele și documentele ce urmează a fi analizate și supuse aprobării Congresului și va pregăti pentru fiecare membru al Congresului o mapă ce va fi predată înaintea deschiderii lucrărilor.
-
-Competențe
-Art. 15
-Congresul U.N.B.R. are atribuțiile prevăzute de art. 61 alin. (1) din lege.Congresul avocaților aprobă afilierea U.N.B.R. la organizații internaționale de profil și plata contribuției datorate de U.N.B.R. pentru Corpul avocaților, la bugetele acestora.
-
-Congresul avocaților poate mandata Consiliul U.N.B.R. pentru a îndeplini, în perioada dintre Congrese, unele dintre atribuțiile acestuia cu condiția ca deciziile Consiliului U.N.B.R. să fie ratificate la Congresul imediat următor. În lipsa unui astfel de mandat, Consiliului U.N.B.R. îi este interzis îndeplinirea atribuțiilor legale ce revin Congresului avocaților.
-
-Conducerea Congresului. Organele de lucru ale Congresului
-Art. 16
-Lucrările Congresului U.N.B.R. sunt deschise și conduse de Președintele U.N.B.R.După constatarea prezenței membrilor Congresului, Președintele U.N.B.R. propune, pentru buna desfășurare a lucrărilor, alegerea unui prezidiu cu respectarea regulilor prevăzute în Statut.
-
-Pentru buna desfășurare a lucrărilor, vor fi alese organele de lucru ale Congresului: Secretariatul, format din 3 (trei) avocați, cu respectarea art. 82 alin. (2) din Statut, Comisia de validare a mandatelor de delegat acordate de adunările generale ale barourilor, formată din 5 (cinci) membri și, după caz, Comisia de numărătoare a voturilor, formată din 5 – 15 membri.
-
-Alegerea membrilor prezidiului și a organelor de lucru ale Congresului se face pe baza propunerilor delegaților prin vot deschis, cu majoritatea de voturi dintre participanții prezenți.
-
-După alegerea Secretariatului Congresului, membrii acestuia vor lua măsurile necesare în vederea consemnării exacte a desfășurării lucrărilor și a punctelor de vedere exprimate de participanți.
-
-Procesul – verbal va cuprinde obligatoriu:
-
-a) modul în care a fost convocat Congresul, cu precizarea caracterului ordinar sau extraordinar al acestuia;
-
-b) anul, luna, ziua și locul unde se desfășoară Congresul;
-
-c) numărul membrilor prezenți;
-
-d) componența Prezidiului;
-
-e) ordinea de zi aprobată de Congres;
-
-f) luările de cuvânt;
-
-g) hotărârile, rezoluțiile și moțiunile adoptate, textul acestora anexându-se procesului-verbal și făcând parte integrantă a acestuia;
-
-h) orice alte evenimente survenite în timpul desfășurării lucrărilor.
-
-În ipoteza în care lucrările Congresului se desfășoară pe durata mai multor zile, Secretariatul va întocmi câte un Proces-verbal pentru fiecare zi în parte.
-
-Secretariatul, sub supravegherea Prezidiului Congresului, va întocmi lista înscrierilor la cuvânt.
-
-Cu aprobarea Congresului, prin vot, lucrările pot fi înregistrate prin mijloace audio și video.
-
-Procesul-verbal se semnează de membrii Secretariatului Congresului și se contrasemnează de membrii Prezidiului.
-
-După alegerea membrilor Comisiei de validare a mandatelor de delegați aleși de adunările generale ale barourilor, Comisia își va desfășura lucrările în plen, adoptând hotărâri cu majoritate de voturi. După verificarea proceselor-verbale ale adunărilor generale ale barourilor privind desemnarea delegaților la Congres, puse la dispoziție prin grija Președintelui U.N.B.R., membrii Comisiei de validare se pronunță prin vot deschis asupra legalității acestora, întocmind un Proces-verbal final ce va fi prezentat Congresului în plenul său.
-
-Conducerea lucrărilor Congresului se face, de regulă, de Președintele Congresului U.N.B.R. sau de către un alt membru al Prezidiului desemnat de acesta.
-
-După alegerea membrilor Prezidiului, Președintele U.N.B.R. anunță și supune spre aprobare ordinea de zi a Congresului.
-
-Aprobarea ordinii de zi se face cu majoritate simplă de voturi din numărul total al membrilor prezenți.
-
-În ipoteza în care la lucrările Congresului participă reprezentanți ai autorităților publice centrale sau locale, ale unor organizații profesionale ale avocaților din alte țări, ai altor organizații profesionale, reprezentanți care doresc să transmită anumite mesaje, Președintele U.N.B.R. dă cuvântul acestora înaintea începerii dezbaterilor asupra problematicii inclusă pe ordinea de zi.
-
-Numai Congresul poate aproba desfășurarea lucrărilor în plen și pe secțiuni. În cazul în care lucrările se desfășoară pe secțiuni, plenul Congresului va fi informat despre desfășurarea și rezultatul lucrărilor pe secțiuni, în modalitatea hotărâtă de Congres.
-
-Conform ordinii de zi aprobate, se prezintă în fața membrilor Congresului materialele întocmite referitoare la problematica ce urmează a fi dezbătută și aprobată, precum și proiectele de hotărâri, rezoluții și moțiuni.
-
-În ipoteza în care membrii Congresului au studiat în prealabil materialele ce urmează a fi analizate, aprobate și adoptate, aceștia pot vota cu majoritate simplă trecerea directă la dezbaterea materialelor supuse dezbaterii și aprobării Congresului.
-
-Președintele U.N.B.R. sau membrii Prezidiului împuterniciți de acesta dau cuvântul membrilor Congresului care doresc să participe la dezbateri în ordinea înscrierii acestora pe lista ținută de Secretariat.
-
-Membrii Congresului prezenți la dezbateri pot hotărî, cu majoritate simplă de voturi, limitarea la o perioadă de timp precis determinată a duratei luărilor de cuvânt ale participanților. Limitarea nu poate fi mai mică de 5 (cinci) minute.
-
-Acte adoptate
-Art. 17
-Congresul avocaților adoptă hotărâri, rezoluții și moțiuni prin vot adoptate deschis.După finalizarea dezbaterilor, se supun spre aprobare fiecare dintre materialele incluse pe ordinea de zi.
-
-Hotărârile privind adoptarea și modificarea Statutului profesiei de avocat, statutul Casei de Asigurări a Avocaților, aprobarea bugetului anual al U.N.B.R. și cel al Casei de Asigurări a Avocaților și execuția bugetară anuală se adoptă cu majoritate absolută de voturi.
-
-Hotărârile privind alegerea organelor profesiei, Comisiei centrale de cenzori și Consiliului de Conducere ale Casei de Asigurări a Avocaților se adoptă prin vot secret.
-
-Rezoluțiile și moțiunile supuse dezbaterii se adoptă cu majoritate simplă de voturi.
-
-Hotărârile Congresului sunt definitive și obligatorii pentru toate organele profesiei, nesocotirea acestora constituind abatere disciplinară gravă.
-
-Rezoluțiile și moțiunile adoptate de Congres exprimă voința și punctele de vedere ale Corpului avocaților față de problemele de larg interes profesional pentru dezvoltarea profesiei, administrarea actului de justiție, realizarea separației puterilor în stat, apărarea avocaților.
-
-Alegerea organelor profesiei
-Art. 18
-Membrii Congresului care îndeplinesc condițiile prevăzute de lege și Statut pentru a candida în vederea ocupării uneia dintre funcțiile organelor de conducere ale profesiei își vor anunța candidatura în plenul Congresului.După închiderea listelor de candidaturi pentru fiecare categorie de organe de conducere ale U.N.B.R., Prezidiul consultă membrii Congresului dacă sunt contestații sau obiecțiuni în legătură cu persoanele înscrise pe lista de candidați, inclusiv sub aspectul eventualelor incompatibilități derivate din calitatea de membru al organelor profesiei, cu respectarea dispozițiilor art. 29 din lege.
-
-După ce se dă cuvântul contestatorilor, candidatului vizat și altor persoane interesate, se supune la vot propunerea de neincludere pe buletinul de vot a avocatului respectiv.
-
-Hotărârea asupra contestației candidaturii se ia prin vot deschis, cu majoritatea simplă de voturi a membrilor Congresului prezenți la dezbateri.
-
-După definitivarea listelor de candidați pentru fiecare dintre organele de conducere ale U.N.B.R., se alege Comisia de numărare a voturilor compusă din 5 – 15 membri, pe baza propunerilor făcute de participanții mandatați.
-
-Membrii Comisiei de numărare a voturilor nu pot fi rude sau afini cu candidații înscriși pe buletinele de vot.
-
-Alegerea membrilor Comisiei de numărare a voturilor se face prin vot deschis, cu majoritate simplă.
-
-Buletinele de vot se întocmesc separat pentru fiecare categorie de organe ale U.N.B.R. și ale Casei de Asigurări a Avocaților alese de Congres, conform modelului de buletin de vot aprobat de Consiliul U.N.B.R. Fiecare buletin de vot va avea aplicată ștampila de control cu modelul aprobat de Consiliul U.N.B.R. în cadrul operațiunilor necesare pregătirii Congresului.
-
-Înscrierea pe liste a candidaților se face în ordinea alfabetică a barourilor ori a candidaților, menționându-se obligatoriu numele și prenumele candidatului, funcția pentru care candidează și baroul din care face parte.
-
-Prin grija și sub directa coordonare a Prezidiului se vor asigura condițiile tehnico-organizatorice necesare asigurării secretului votului.
-
-Votul „ pentru” se realizează prin lăsarea intactă a numelui și prenumelui candidatului dorit, iar votul „ împotrivă” (contra) se exprimă prin ștergerea, tăierea cu o linie orizontală a numelui și prenumelui persoanei propuse.
-
-Membrii Comisiei de numărare a voturilor vor declara nule buletinele de vot care nu corespund modelului aprobat, pe cele care nu poartă ștampila de control, precum și buletinele pe care numărul candidaților votați „pentru” este mai mare decât numărul funcțiilor pentru care candidează.
-
-După finalizarea operațiunilor de numărare a voturilor, Comisia va întocmi un Proces-verbal ce va fi semnat de toți membrii acesteia în care se vor consemna rezultatele votului în ordinea descrescătoare.
-
-Președintele Comisiei de numărare a voturilor, desemnat dintre membrii acesteia, va prezenta în plenul Congresului procesul-verbal privind rezultatele finale ale votului.
-
-Sunt aleși candidații care au obținut cel mai mare număr de voturi.
-
-Congresul adoptă hotărâri de alegere a organelor U.N.B.R. și ale Casei de Asigurări a Avocaților, care se aduc la cunoștința Corpului avocaților prin publicare pe website-ul U.N.B.R.
-
-Asigurarea ordinii
-Art. 19
-Prezidiul Congresului va urmări adoptarea măsurilor tehnico-organizatorice adecvate în vederea desfășurării în condiții de maximă securitate și ordine a lucrărilor Congresului.În cazuri excepționale, Congresul poate hotărî evacuarea din sala în care se desfășoară lucrările în plen a avocaților sau altor participanți care au un comportament neadecvat, care nu înțeleg să respecte regulile impuse de majoritatea membrilor Congresului.
-
-Închiderea lucrărilor Congresului
-Art. 20
-Constatând că a fost epuizată ordinea de zi, Președintele U.N.B.R. sau membrul Prezidiului desemnat de acesta să conducă lucrările în plen declară închise lucrările Congresului.
-
-Suportarea cheltuielilor
-Art. 21
-Cheltuielile necesare organizării Congresului se suportă de fiecare barou proporțional cu numărul membrilor Congresului din baroul respectiv.Cu privire la cheltuielile ocazionate de Congres, Comisia Permanentă a U.N.B.R. va fi informată la prima ședință de după Congres.
-
-Secțiunea a III-a
-
+Art. 10. Atribuäii principale. 81%5vQGHSOLQHúWHXUPăWRDUHOHFDWHJRULLSULQFL
+SDOHGHDWULEXĠLL
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+372
+DHODERUHD]ăúLDSOLFăVWUDWHJLLúLSROLWLFLSURIHVLRQDOHvQGRPHQLXOGH]YROWăULLúL
+SHUIHFĠLRQăULLSURIHVLHLGHDYRFDW
+EIDFHSURSXQHULDXWRULWăĠLORUFXGUHSWGHLQLĠLDWLYăOHJLVODWLYăSULYLQGSURIHVLDGH
+DYRFDWúLUDSRUWXULOHDFHVWHLDFXVLVWHPXOMXGLFLDUúLPHGLXOGHDIDFHUL
+F DVLJXUă GH]YROWDUHD UHODĠLLORU GLQWUH EDURXUL SHUIHFĠLRQDUHD SUHJăWLULL SURIH
+VLRQDOHUHVSHFWDUHDGHRQWRORJLHLSURIHVLRQDOHúLDUHJXOLORUGHGLVFLSOLQăSURIHVLR
+QDOăDSăUăRQRDUHDúLGHPQLWDWHD&RUSXOXLDYRFDĠLORU
+GRUJDQL]HD]ăúLVXSUDYHJKHD]ăVHUYLFLXOVWDWLVWLFJHQHUDODODYRFDĠLORU
+H RUJDQL]HD]ă úL HGLWHD]ă SXEOLFDĠLL SURSULL úL vQFXUDMHD]ă HGLWDUHD GH FăWUH
+EDURXULDXQRUSXEOLFDĠLLSURSULL
+IFRRUGRQHD]ăDFWLYLWDWHDVLVWHPXOXLGHDVLJXUăULVRFLDOHSURSULXDYRFDĠLORU
+J RUJDQL]HD]ă úL DVLJXUă UHSUH]HQWDUHD &RUSXOXL DYRFDĠLORU vQ UDSRUWXULOH FX
+DXWRULWăĠLOH URPkQH úL VWUăLQH FX DOWH RUJDQLVPH úL RUJDQL]DĠLL SURIHVLRQDOH DOH
+DYRFDĠLORU
+
+Art. 11. Organe de conducere. 2UJDQHOHGHFRQGXFHUHDOH81%5VXQW
+D&RQJUHVXODYRFDĠLORU
+E&RQVLOLXO81%5
+F&RPLVLD3HUPDQHQWăD81%5
+G3UHúHGLQWHOH81%5
+
+Art. 12. Structuri organizatorice. ÌQ FDGUXO 81%5 VH FRQVWLWXLH úL IXQFĠLR
+QHD]ă
+D&RPLVLD&HQWUDOăGH&HQ]RUL
+E&RPLVLD&HQWUDOăGH'LVFLSOLQă
+F$SDUDWXOWHKQLFDGPLQLVWUDWLY
+SecĠiunea a II-a
+Convocarea úi desfăúurarea lucrărilor Congresului avocaĠilor
+Art. 13. Organul suprem de conducere a profesiei. &RQJUHVXOHVWHRUJDQXO
+VXSUHPGHFRQGXFHUHDSURIHVLHLGHDYRFDW
+
+Art. 14. Convocare.  &RQJUHVXO 81%5 VH FRQYRDFă DQXDO GH FăWUH
+&RQVLOLXO81%5SULQ3UHúHGLQWHOH81%5
+ &RQJUHVXO H[WUDRUGLQDU VH FRQYRDFă GH FăWUH 3UHúHGLQWHOH 81%5 RUL GH
+FkWH RUL HVWH QHFHVDU VDX OD FHUHUHD D FHO SXĠLQ R WUHLPH GLQ QXPăUXO WRWDO DO
+EDURXULORU
+ 'LVSR]LĠLD GH FRQYRFDUH D &RQJUHVXOXL VH YD FRPXQLFD WXWXURU GHFDQLORU
+EDURXULORUúLVHYDSXEOLFDvQWUXQ]LDUGHODUJăFLUFXODĠLHQDĠLRQDOăúLvQSXEOLFDĠLLOH
+81%5úLDOHEDURXULORU
+'LVSR]LĠLDGHFRQYRFDUHD&RQJUHVXOXLYDFXSULQGHREOLJDWRULX
+DOXQD]LXDRUDúLORFXOGHGHVIăúXUDUH
+ERUGLQHDGH]L
+FFRQGLĠLLOHFRQYRFăULLúLDOHGHVIăúXUăULLXQXLHYHQWXDO&RQJUHVH[WUDRUGLQDU
+&RQYRFDUHD&RQJUHVXOXLVHIDFHFXFHOSXĠLQROXQăvQDLQWHGHGDWDDFHVWXLD
+
+Art. 15. Membrii Congresului. Cvorumul de constituire.  /D OXFUăULOH
+&RQJUHVXOXLDYRFDĠLORUSDUWLFLSăGHFDQLLEDURXULORUúLPHPEULL&RQVLOLXOXL81%5
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+373
+GH GUHSW SUHFXP úL GHOHJDĠLL DOHúL GH DGXQăULOH JHQHUDOH DOH EDURXULORU SRWULYLW
+QRUPHORU GH UHSUH]HQWDUH VWDELOLWH SULQ 6WDWXW ÌQ QXPăUXO GHOHJDĠLORU GHWHUPLQDW
+SULQQRUPDGHUHSUH]HQWDUHQXVHLQFOXGPHPEULLGHGUHSWDL&RQJUHVXOXL
+%DURXULOHYRUFRPXQLFD81%5FHOPDLWkU]LXFX]HFH]LOHvQDLQWHGH
+GDWD VWDELOLWă SHQWUX vQFHSHUHD OXFUăULORU &RQJUHVXOXL FRSLL FHUWLILFDWH GH SH
+SURFHVHOHYHUEDOH úL KRWăUkULOH DGXQăULORU JHQHUDOH vQ FDUH DX IRVW GHVHPQDĠL
+GHOHJDĠLLDYRFDĠLORUOD&RQJUHV
+&RQJUHVXOHVWHOHJDOFRQVWLWXLWGDFăVXQWSUH]HQĠLODGDWDúLRUDFRQYRFăULLFHO
+SXĠLQGRXăWUHLPLGLQQXPăUXOWRWDODOPHPEULORU&RQJUHVXOXL
+ /D OXFUăULOH &RQJUHVXOXL SRW SDUWLFLSD vQ FDOLWDWH GH LQYLWDĠL UHSUH]HQWDQĠL DL
+DXWRULWăĠLORUSXEOLFHURPkQHDLDOWRURUJDQL]DĠLLSURIHVLRQDOHDOHSURIHVLLORUMXULGLFH
+RUL DOH SURIHVLLORU FRQH[H DFWLYLWăĠLL SURIHVLRQDOH D DYRFDĠLORU DL XQRU RUJDQL]DĠLL
+QHJXYHUQDPHQWDOH UHSUH]HQWDQĠL DL RUJDQL]DĠLLORU SURIHVLRQDOH DOH DYRFDĠLORU GLQ
+VWUăLQăWDWH]LDULúWLDOĠLDYRFDĠLSUHFXPúLLQYLWDĠLL3UHúHGLQWHOXL81%5FXDSUR
+EDUHDSUHDODELOăD&RQVLOLXOXL81%5
+ 3HQWUX EXQD GHVIăúXUDUH D OXFUăULORU &RQJUHVXOXL DSDUDWXO WHKQLFRDGPL
+QLVWUDWLYDO81%5VXEFRRUGRQDUHDGLUHFWăD3UHúHGLQWHOXL81%5YDSXEOLFD
+PDWHULDOHOHúLGRFXPHQWHOHFHXUPHD]ăDILDQDOL]DWHúLVXSXVHDSUREăULL&RQJUH
+VXOXLúLYDSUHJăWLSHQWUXPHPEULL&RQJUHVXOXLPDSHFHYRUILGLVWULEXLWHDFHVWRUD
+vQDLQWHDGHVFKLGHULLOXFUăULORU
+
+Art. 16. Competenäe. &RQJUHVXO81%5DUHDWULEXĠLLOHSUHYă]XWHGHDUW
+DOLQGLQ/HJH[art. 63 alin. (1), după rep. 2018]
+&RQJUHVXODYRFDĠLORUDSUREăDILOLHUHD81%5ODRUJDQL]DĠLLLQWHUQDĠLRQDOHGH
+SURILOúLSODWDFRQWULEXĠLHLGDWRUDWHGH81%5DFHVWRUD
+&RQJUHVXODYRFDĠLORUSRDWHPDQGDWD&RQVLOLXO81%5SHQWUXDvQGHSOLQLvQ
+SHULRDGDGLQWUH&RQJUHVHXQHOHGLQWUHDWULEXĠLLOHDFHVWXLD FX FRQGLĠLDFDGHFL]LLOH
+&RQVLOLXOXL 81%5 Vă ILH UDWLILFDWH OD &RQJUHVXO LPHGLDW XUPăWRU ÌQ OLSVD XQXL
+DVWIHOGHPDQGDW&RQVLOLXOXL81%5vLHVWHLQWHU]LVăvQGHSOLQLUHDDWULEXĠLLORUOHJDOH
+FHUHYLQ&RQJUHVXOXLDYRFDĠLORU
+
+Art. 17. Conducerea Congresului. Organele de lucru ale Congresului. 
+/XFUăULOH&RQJUHVXOXL81%5VXQWGHVFKLVHúLFRQGXVHGH3UHúHGLQWHOH81%5
+ 'XSă FRQVWDWDUHD SUH]HQĠHL PHPEULORU &RQJUHVXOXL 3UHúHGLQWHOH 81%5
+SURSXQH SHQWUX EXQD GHVIăúXUDUH D OXFUăULORU DOHJHUHD XQXL SUH]LGLX FX UHVSHF
+WDUHDUHJXOLORUSUHYă]XWHvQ6WDWXW
+ 3HQWUX EXQD GHVIăúXUDUH D OXFUăULORU YRU IL DOHVH RUJDQHOH GH OXFUX DOH
+&RQJUHVXOXL6HFUHWDULDWXOIRUPDWGLQWUHLDYRFDĠLFXUHVSHFWDUHDDUWDOLQ
+GLQ 6WDWXW &RPLVLD GH YDOLGDUH D PDQGDWHORU GH GHOHJDW DFRUGDWH GH DGXQăULOH
+JHQHUDOH DOH EDURXULORU IRUPDWă GLQ  FLQFL PHPEUL úL GXSă FD] &RPLVLD GH
+QXPăUDUHDYRWXULORUIRUPDWăGLQPHPEUL
+$OHJHUHDPHPEULORUSUH]LGLXOXLúLDRUJDQHORUGHOXFUXDOH&RQJUHVXOXLVHIDFH
+SH ED]D SURSXQHULORU GHOHJDĠLORU GLQWUH SDUWLFLSDQĠLL SUH]HQĠL SULQ YRW GHVFKLV FX
+PDMRULWDWHVLPSOăGHYRWXUL
+'XSăDOHJHUHD6HFUHWDULDWXOXL&RQJUHVXOXLPHPEULLDFHVWXLDYRUOXDPăVXULOH
+QHFHVDUHvQYHGHUHDFRQVHPQăULLH[DFWHDGHVIăúXUăULLOXFUăULORUúLDSXQFWHORUGH
+YHGHUHH[SULPDWHGHSDUWLFLSDQĠL
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+374
+3URFHVXOYHUEDOYDFXSULQGHREOLJDWRULX
+DPRGXOvQFDUHDIRVWFRQYRFDW&RQJUHVXOFXSUHFL]DUHDFDUDFWHUXOXL RUGLQDU
+VDXH[WUDRUGLQDUDODFHVWXLD
+EDQXOOXQD]LXDúLORFXOXQGHVHGHVIăúRDUă&RQJUHVXO
+FQXPăUXOPHPEULORUSUH]HQĠL
+GFRPSRQHQĠD3UH]LGLXOXL
+HRUGLQHDGH]LDSUREDWăGH&RQJUHV
+IOXăULOHGHFXYkQW
+J KRWăUkULOH UH]ROXĠLLOH úL PRĠLXQLOH DGRSWDWH WH[WXO DFHVWRUD DQH[kQGXVH
+SURFHVXOXLYHUEDOúLIăFkQGSDUWHLQWHJUDQWăDDFHVWXLD
+KRULFHDOWHHYHQLPHQWHVXUYHQLWHvQWLPSXOGHVIăúXUăULLOXFUăULORU
+ÌQLSRWH]DvQFDUHOXFUăULOH&RQJUHVXOXLVHGHVIăúRDUăSHGXUDWDPDLPXOWRU
+]LOH6HFUHWDULDWXOYDvQWRFPLFkWHXQSURFHVYHUEDOSHQWUXILHFDUH]LvQSDUWH
+ 6HFUHWDULDWXO VXE VXSUDYHJKHUHD 3UH]LGLXOXL &RQJUHVXOXL YD vQWRFPL OLVWD
+vQVFULHULORUODFXYkQW
+&XDSUREDUHD&RQJUHVXOXLSULQYRWOXFUăULOHSRWILvQUHJLVWUDWHSULQPLMORDFH
+DXGLRúLYLGHR
+3URFHVXOYHUEDOVHVHPQHD]ăGHPHPEULL6HFUHWDULDWXOXL&RQJUHVXOXLúLVH
+FRQWUDVHPQHD]ăGHPHPEULL3UH]LGLXOXL
+ 'XSă DOHJHUHD PHPEULORU &RPLVLHL GH YDOLGDUH D PDQGDWHORU GH GHOHJDĠL
+DOHúLGHDGXQăULOHJHQHUDOHDOHEDURXULORU&RPLVLDvúLYDGHVIăúXUDOXFUăULOHvQSOHQ
+DGRSWkQGKRWăUkULFXPDMRULWDWHGHYRWXUL'XSăYHULILFDUHDSURFHVHORUYHUEDOHDOH
+DGXQăULORUJHQHUDOHDOHEDURXULORUSULYLQGGHVHPQDUHDGHOHJDĠLORUOD&RQJUHVSXVH
+OD GLVSR]LĠLH SULQ JULMD 3UHúHGLQWHOXL 81%5 PHPEULL &RPLVLHL GH YDOLGDUH VH
+SURQXQĠă SULQ YRW GHVFKLV DVXSUD OHJDOLWăĠLL DFHVWRUD vQWRFPLQG XQ SURFHVYHUEDO
+ILQDOFHYDILSUH]HQWDW&RQJUHVXOXLvQSOHQXOVăX
+&RQGXFHUHDOXFUăULORU&RQJUHVXOXLVHDVLJXUăGH3UHúHGLQWHOH&RQJUHVXOXL
+81%5VDXGHFăWUHXQDOWPHPEUXDO3UH]LGLXOXLGHVHPQDWGHDFHVWDÌQFD]XO
+LPSRVLELOLWăĠLLSDUWLFLSăULL3UHúHGLQWHOXLFRQGXFHUHDOXFUăULORUYDILvQFUHGLQĠDWăXQXLD
+GLQWUH YLFHSUHúHGLQĠLL 81%5 GHVHPQDW GH &RQJUHV FX PDMRULWDWH VLPSOă GH
+YRWXUL
+ 'XSă DOHJHUHD PHPEULORU 3UH]LGLXOXL 3UHúHGLQWHOH 81%5 DQXQĠă úL
+VXSXQHVSUHDSUREDUHRUGLQHDGH]LD&RQJUHVXOXL
+2UGLQHDGH]LD&RQJUHVXOXLVHDSUREăFXPDMRULWDWHVLPSOăGHYRWXUL
+ ÌQ LSRWH]D vQ FDUH OD OXFUăULOH &RQJUHVXOXL SDUWLFLSă UHSUH]HQWDQĠL DL DXWR
+ULWăĠLORUSXEOLFHFHQWUDOHVDXORFDOHDOHXQRURUJDQL]DĠLLSURIHVLRQDOHDOHDYRFDĠLORU
+GLQDOWHĠăULDLDOWRURUJDQL]DĠLLSURIHVLRQDOHUHSUH]HQWDQĠLFDUHGRUHVFVăWUDQVPLWă
+DQXPLWH PHVDMH 3UHúHGLQWHOH 81%5 Gă FXYkQWXO DFHVWRUD vQDLQWHD vQFHSHULL
+GH]EDWHULORUDVXSUDSUREOHPDWLFLLLQFOXVHSHRUGLQHDGH]L
+1XPDL&RQJUHVXOSRDWHDSUREDGHVIăúXUDUHDOXFUăULORUvQSOHQúLSHVHFĠLXQL
+ÌQ FD]XO vQ FDUH OXFUăULOH VH GHVIăúRDUă SH VHFĠLXQL SOHQXO &RQJUHVXOXL YD IL
+LQIRUPDW GHVSUH GHVIăúXUDUHD úL UH]XOWDWXO OXFUăULORU SH VHFĠLXQL vQ PRGDOLWDWHD
+KRWăUkWăGH&RQJUHV
+&RQIRUPRUGLQLLGH]LDSUREDWHVHSUH]LQWăvQIDĠDPHPEULORU&RQJUHVXOXLPDWH
+ULDOHOHvQWRFPLWHUHIHULWRDUHODSUREOHPDWLFDFHXUPHD]ăDILGH]EăWXWăúLDSUREDWă
+SUHFXPúLSURLHFWHOHGHKRWăUkULUH]ROXĠLLúLPRĠLXQL
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+375
+ÌQLSRWH]DvQFDUHPHPEULL&RQJUHVXOXLDXVWXGLDWvQSUHDODELOPDWHULDOHOHFH
+XUPHD]ăDILDQDOL]DWHDSUREDWHúLDGRSWDWHDFHúWLDSRWYRWDFXPDMRULWDWHVLPSOă
+WUHFHUHD GLUHFWă OD GH]EDWHUHD PDWHULDOHORU VXSXVH GH]EDWHULL úL DSUREăULL
+&RQJUHVXOXL
+ 3UHúHGLQWHOH 81%5 VDX PHPEULL 3UH]LGLXOXL vPSXWHUQLFLĠL GH DFHVWD GDX
+FXYkQWXO PHPEULORU &RQJUHVXOXL FDUH GRUHVF Vă SDUWLFLSH OD GH]EDWHUL vQ RUGLQHD
+vQVFULHULLDFHVWRUDSHOLVWDĠLQXWăGH6HFUHWDULDW
+0HPEULL&RQJUHVXOXLSUH]HQĠLODGH]EDWHULSRWKRWăUvFXPDMRULWDWHVLPSOăGH
+YRWXULOLPLWDUHDODRSHULRDGăGHWLPSSUHFLVGHWHUPLQDWăDGXUDWHLOXăULORUGHFXYkQW
+DOHSDUWLFLSDQĠLORU/LPLWDUHDQXSRDWHILPDLPLFăGHWUHLPLQXWH
+
+Art. 18. Acte adoptate.  &RQJUHVXO DYRFDĠLORU DGRSWă KRWăUkUL UH]ROXĠLL úL
+PRĠLXQLSULQYRWGHVFKLV
+ 'XSă ILQDOL]DUHD GH]EDWHULORU VH VXSXQ VSUH DSUREDUH vQ PRG LQGLYLGXDO
+PDWHULDOHOHLQFOXVHSHRUGLQHDGH]L
+ +RWăUkULOH SULYLQG DGRSWDUHD úL PRGLILFDUHD 6WDWXWXOXL SURIHVLHL GH DYRFDW
+VWDWXWXO&DVHLGH$VLJXUăULD$YRFDĠLORUDSUREDUHDEXJHWXOXLDQXDODO81%5úL
+FHO DO &DVHL GH $VLJXUăUL D $YRFDĠLORU úL H[HFXĠLD EXJHWDUă DQXDOă VH DGRSWă FX
+PDMRULWDWHDEVROXWăGHYRWXUL
++RWăUkULOHSULYLQGDOHJHUHDRUJDQHORUSURIHVLHL&RPLVLHLFHQWUDOHGHFHQ]RULúL
+&RQVLOLXOXL GH &RQGXFHUH DOH &DVHL GH $VLJXUăUL D $YRFDĠLORU VH DGRSWă SULQ YRW
+VHFUHWFXPDMRULWDWHVLPSOă
+5H]ROXĠLLOHúLPRĠLXQLOHVXSXVHGH]EDWHULLVHDGRSWăFXPDMRULWDWHVLPSOăGH
+YRWXUL
+ +RWăUkULOH &RQJUHVXOXL VXQW GHILQLWLYH úL REOLJDWRULL SHQWUX WRDWH RUJDQHOH
+SURIHVLHL úL SHQWUX WRĠL DYRFDĠLL QHVRFRWLUHD DFHVWRUD FRQVWLWXLQG DEDWHUH GLVFLSOL
+QDUăJUDYă
+5H]ROXĠLLOHúLPRĠLXQLOHDGRSWDWHGH&RQJUHVH[SULPăYRLQĠDúLSXQFWHOHGHYHGHUH
+DOH&RUSXOXLDYRFDĠLORUIDĠăGHSUREOHPHOHGHODUJLQWHUHVSURIHVLRQDOSHQWUXGH]YROWDUHD
+SURIHVLHLDGPLQLVWUDUHDDFWXOXLGHMXVWLĠLHUHDOL]DUHDVHSDUDĠLHLSXWHULORUvQVWDWDSăUDUHD
+DYRFDĠLORU
+
+Art. 19. Alegerea organelor profesiei. 0HPEULL&RQJUHVXOXLFDUHvQGHSOLQHVF
+FRQGLĠLLOHSUHYă]XWHGH/HJHúL6WDWXWSHQWUXDFDQGLGDvQYHGHUHDRFXSăULLXQHLDGLQWUH
+IXQFĠLLOH RUJDQHORU GH FRQGXFHUH DOH SURIHVLHL vúL YRU DQXQĠD FDQGLGDWXUD vQ SOHQXO
+&RQJUHVXOXL
+'XSăvQFKLGHUHDOLVWHORUGHFDQGLGDWXULSHQWUXILHFDUHFDWHJRULHGHRUJDQHGH
+FRQGXFHUHDOH81%53UH]LGLXOFRQVXOWăPHPEULL&RQJUHVXOXLGDFăVXQWFRQWHV
+WDĠLLVDXRELHFĠLXQLvQOHJăWXUăFXSHUVRDQHOHvQVFULVHSHOLVWDGHFDQGLGDĠLLQFOXVLY
+VXE DVSHFWXO HYHQWXDOHORU LQFRPSDWLELOLWăĠL GHULYDWH GLQ FDOLWDWHD GH PHPEUX DO
+RUJDQHORUSURIHVLHLFXUHVSHFWDUHDGLVSR]LĠLLORU/HJLLúLDOH6WDWXWXOXL
+ 'XSă FH VH Gă FXYkQWXO FRQWHVWDWRULORU FDQGLGDWXOXL YL]DW úL DOWRU SHUVRDQH
+LQWHUHVDWHVHVXSXQHODYRWSURSXQHUHDGHQHLQFOXGHUHSHEXOHWLQXOGHYRWDDYRFDWXOXL
+UHVSHFWLY
++RWăUkUHDDVXSUDFRQWHVWDĠLHLFDQGLGDWXULLVHLDSULQYRWGHVFKLVFXPDMRULWDWH
+VLPSOăGHYRWXUL
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+376
+ 'XSă GHILQLWLYDUHD OLVWHORU GH FDQGLGDĠL SHQWUX ILHFDUH GLQWUH RUJDQHOH GH
+FRQGXFHUH DOH 81%5 VH DOHJH &RPLVLD GH QXPăUDUH D YRWXULORU FRPSXVă GLQ
+PHPEULSHED]DSURSXQHULORUIăFXWHGHSDUWLFLSDQĠLLPDQGDWDĠL
+0HPEULL&RPLVLHLGHQXPăUDUHDYRWXULORUQXSRWILVRĠLUXGHVDXDILQLSkQăOD
+JUDGXO,9FXFDQGLGDĠLLvQVFULúLSHEXOHWLQHOHGHYRW
+$OHJHUHDPHPEULORU&RPLVLHLGHQXPăUDUHDYRWXULORUVHIDFHSULQYRWGHVFKLV
+FXPDMRULWDWHVLPSOă
+%XOHWLQHOHGHYRWVHvQWRFPHVFVHSDUDWSHQWUXILHFDUHFDWHJRULHGHRUJDQHDOH
+81%5 úL DOH &DVHL GH $VLJXUăUL D $YRFDĠLORU DOHVH GH &RQJUHV FRQIRUP
+PRGHOXOXLGHEXOHWLQGHYRWDSUREDWGH&RQVLOLXO81%5)LHFDUHEXOHWLQGHYRWYD
+DYHD DSOLFDWă úWDPSLOD GH FRQWURO FX PRGHOXO DSUREDW GH &RQVLOLXO 81%5 vQ
+FDGUXORSHUDĠLXQLORUQHFHVDUHSUHJăWLULL&RQJUHVXOXL
+ÌQVFULHUHDSHOLVWHDFDQGLGDĠLORUVHIDFHvQRUGLQHDDOIDEHWLFăDEDURXULORURULD
+FDQGLGDĠLORUPHQĠLRQkQGXVHREOLJDWRULXQXPHOHúLSUHQXPHOHFDQGLGDWXOXLIXQFĠLD
+SHQWUXFDUHFDQGLGHD]ăúLEDURXOGLQFDUHIDFHSDUWH
+ 3ULQ JULMD úL VXE GLUHFWD FRRUGRQDUH D 3UH]LGLXOXL VH YRU DVLJXUD FRQGLĠLLOH
+WHKQLFRRUJDQL]DWRULFHQHFHVDUHDVLJXUăULLVHFUHWXOXLYRWXOXL
+9RWXOÄSHQWUX´VHUHDOL]HD]ă SULQOăVDUHDLQWDFWăDQXPHOXLúLSUHQXPHOXL
+FDQGLGDWXOXLGRULWLDUYRWXOÄvPSRWULYă´VHH[SULPăSULQWăLHUHDFXROLQLHRUL]RQWDOăD
+QXPHOXLúLSUHQXPHOXLSHUVRDQHLSURSXVH1XPăUDUHDYRWXULORUVHSRDWHUHDOL]DúL
+vQPRGHOHFWURQLFFD]vQFDUHEXOHWLQXOGHYRWYDFXSULQGHúLPRGXOGHUHDOL]DUHD
+YRWXOXLÄSHQWUX´úLDYRWXOXLÄFRQWUD´ÌQFD]GHFRQWHVWDĠLLFXSULYLUHODQXPăUăWRDUHD
+YRWXULORUUHQXPăUDUHDDFHVWRUDVHYDIDFHPDQXDO
+0HPEULL&RPLVLHLGHQXPăUDUHDYRWXULORUYRUGHFODUDQXOHEXOHWLQHOHGHYRW
+FDUHQXFRUHVSXQGPRGHOXOXLDSUREDWSHFHOHFDUHQXSRDUWăúWDPSLODGHFRQWURO
+SUHFXP úL EXOHWLQHOH SH FDUH QXPăUXO FDQGLGDĠLORU YRWDĠL ÄSHQWUX´ HVWH PDL PDUH
+GHFkWQXPăUXOIXQFĠLLORUSHQWUXFDUHFDQGLGHD]ă
+'XSăILQDOL]DUHDRSHUDĠLXQLORUGHQXPăUDUHDYRWXULORU&RPLVLDYDvQWRFPL
+XQ3URFHVYHUEDOFHYDILVHPQDWGHWRĠLPHPEULLDFHVWHLDvQFDUHVHYRUFRQVHPQD
+UH]XOWDWHOHYRWXOXLvQRUGLQHDGHVFUHVFăWRDUH
+ 3UHúHGLQWHOH &RPLVLHL GH QXPăUDUH D YRWXULORU GHVHPQDW GLQWUH PHPEULL
+DFHVWHLD YD SUH]HQWD vQ SOHQXO &RQJUHVXOXL SURFHVXOYHUEDO SULYLQG UH]XOWDWHOH
+ILQDOHDOHYRWXOXL
+6XQWDOHúLFDQGLGDĠLLFDUHDXREĠLQXWFHOPDLPDUHQXPăUGHYRWXUL
+&RQJUHVXODGRSWăKRWăUkULGHDOHJHUHDRUJDQHORU81%5úLDOH&DVHLGH
+$VLJXUăULD$YRFDĠLORUFDUHVHDGXFODFXQRúWLQĠD&RUSXOXLDYRFDĠLORUSULQSXEOLFDUH
+SHSDJLQDZHED81%5
+
+Art. 20. Asigurarea ordinii.  3UH]LGLXO &RQJUHVXOXL YD XUPăUL DGRSWDUHD
+PăVXULORU WHKQLFRRUJDQL]DWRULFH DGHFYDWH vQ YHGHUHD GHVIăúXUăULL OXFUăULORU
+&RQJUHVXOXLvQFRQGLĠLLGHVHFXULWDWHúLRUGLQHFRUHVSXQ]ăWRDUH
+ ÌQ FD]XUL H[FHSĠLRQDOH &RQJUHVXO SRDWH KRWăUv HYDFXDUHD GLQ VDOD vQ FDUH VH
+GHVIăúRDUăOXFUăULOHvQSOHQDDYRFDĠLORUVDXDOWRUSDUWLFLSDQĠLFDUHDXXQFRPSRUWDPHQW
+QHDGHFYDWVDXFDUHQXvQĠHOHJVăUHVSHFWHUHJXOLOHLPSXVHGHPDMRULWDWHDPHPEULORU
+&RQJUHVXOXL
+
+0RGLILFDWSULQ+RWăUkUHD&RQVLOLXOXL81%5QU
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+377
+Art. 21. Închiderea lucrârilor Congresului. &RQVWDWkQGFăDIRVWHSXL]DWăRUGLQHD
+GH]L3UHúHGLQWHOH81%5VDXPHPEUXO3UH]LGLXOXLGHVHPQDWVăFRQGXFăOXFUăULOHvQ
+SOHQGHFODUăvQFKLVHOXFUăULOH&RQJUHVXOXL
+
+Art. 22. Suportarea cheltuielilor. &KHOWXLHOLOHQHFHVDUHRUJDQL]ăULL&RQJUH
+VXOXLVHVXSRUWăGHILHFDUHEDURXSURSRUĠLRQDOFXQXPăUXOPHPEULORU&RQJUHVXOXL
+GLQEDURXOUHVSHFWLY
+&XSULYLUHODFKHOWXLHOLOHRFD]LRQDWHGH&RQJUHV&RPLVLD3HUPDQHQWăD81%5
+YDILLQIRUPDWăODSULPDúHGLQĠăGHGXSă&RQJUHV
+
+SecĠiunea a III-a
 Consiliul U.N.B.R.
-
-Reguli de desfășurare a ședinței Consiliului U.N.B.R.
-
-Poziția Consiliului U.N.B.R. în cadrul organelor profesiei
-Art. 22
-Consiliul U.N.B.R. își desfășoară activitatea prin subordonare față de Congresul avocaților, organul suprem de conducere a profesiei, prin care se asigură realizarea democrației profesionale interne a Corpului avocaților.Consiliul U.N.B.R. este organul reprezentativ și deliberativ al barourilor în perioadele dintre Congresele avocaților și asigură activitatea permanentă a U.N.B.R.
-
-Consiliul U.N.B.R. asigură activitatea permanentă a U.N.B.R. prin organul său executiv – Comisia Permanentă.
-
-Durata mandatului
-Art. 23
-Mandatul membrilor Consiliului U.N.B.R. este de 4 (patru) ani. În cazul schimbării decanului unui barou înaintea expirării mandatului de 4 ani, noul decan devine membru de drept al Consiliului U.N.B.R. pentru diferența de mandat.În cazul încetării mandatului unui reprezentant al baroului înaintea împlinirii termenului pentru care a fost ales de Congres, candidatul ce a obținut următorul număr de voturi în Congresul electiv îl înlocuiește de drept pe reprezentantul al cărui mandat a încetat pentru diferența de timp rămasă.
-
-În cazul în care în Congresul electiv nu a existat decât candidatura reprezentantului al cărui mandat a încetat ori dacă cel ce a obținut următorul număr de voturi în Congresul electiv refuză mandatul ori se află în imposibilitate de a deveni membru al Consiliului U.N.B.R., la proximul Congres va fi ales pentru diferența de timp rămasă un nou membru al Consiliului U.N.B.R. în calitate de reprezentant al baroului respectiv.
-
-Competențele Consiliului U.N.B.R.
-Art. 24
-Consiliul U.N.B.R. îndeplinește în principal, următoarele atribuții:a) urmărește îndeplinirea hotărârilor Congresului avocaților;
-
-b) aprobă, la propunerea Comisiei Permanente, Regulamentul de organizare și funcționare a U.N.B.R. și de desfășurare a ședințelor Consiliului U.N.B.R.
-
-c) exercită controlul asupra activității și verifică legalitatea actelor emise de Comisia Permanentă a U.N.B.R.;
-
-d) organizează examenul de verificare a cunoștințelor de drept românesc și de limba română ale avocaților străini;
-
-e) stabilește și aprobă, la propunerea barourilor și ai I.N.P.P.A, tematica și bibliografia examenelor de primire și de dobândire a titlului profesional de avocat definitiv, subiectele și metodologia de examinare în vederea creării cadrului tehnico-organizatoric adecvat asigurării caracterului unitar al examenelor respective la nivelul barourilor ;
-
-f) stabilește și comunică barourilor, cu cel puțin 60 de zile înainte, datele desfășurării examenelor de primire în profesie și ia act de datele de desfășurare a examenelor de dobândire a titlului profesional de avocat definitiv organizate de barouri;
-
-g) centralizează și analizează rezultatele examenului de primire în profesie comunicate de barouri, cele ale examenului de definitivare în profesie, precum și deciziile de primire în profesie comunicate de barouri;
-
-h) stabilește componența Comisiei de examinare a avocaților străini care solicită autorizarea de a acorda consultanță juridică privind dreptul românesc;
-
-i) stabilește componența Comisiei de evaluare, conținutul programei stagiului și modului de desfășurare a examenului susținut de avocații care profesează sub titlul profesional din statul – membru de origine în vederea recunoașterii diplomelor, admiterii în profesia de avocat și practicarea acesteia sub titlu profesional în România;
-
-j) decide asupra suspendării analizării cererii de primire în profesie, după susținerea examenului de verificare a cunoștințelor privind dreptul românesc și de limbă română sau după ce Comisia de evaluare a decis asupra scutirii solicitantului de susținerea examenului;
-
-k) organizează și conduce activitatea Institutului Național de Pregătire și Perfecționare a Avocaților (I.N.P.P.A.), constituit ca persoană juridică de drept privat nonprofit, adoptând și modificând Statutul acestuia și numind Consiliul de Conducere al Institutului;
-
-l) întocmește și aprobă, la propunerea barourilor, programele de învățământ pentru pregătirea profesională inițială unitară a avocaților stagiari, precum și planul de învățământ anual al I.N.P.P.A. la propunerea Consiliului I.N.P.P.A.;
-
-m) analizează și soluționează:
-
-1) contestațiile formulate împotriva deciziilor consiliilor barourilor de aprobare sau de respingere a cererilor de primire în profesie cu scutire de examen;
-
-2) contestațiile formulate, după caz, de Președintele U.N.B.R. sau avocatul în cauză împotriva deciziilor consiliului barourilor de declarare a nedemnității avocatului aflat într-una dintre situațiile expres enumerate de lege și/sau Statut;
-
-3) contestațiile formulate, după caz, de Președintele U.N.B.R. și/sau avocatul în cauză declarat incompatibil ca urmare a îndeplinirii funcției de membru într-un consiliu de administrație al unei societăți comerciale sau organizații nonprofit;
-
-4) contestațiile formulate împotriva deciziilor barourilor de refuz a înscrierii, reînscrierii sau menținerii pe Tabloul avocaților.
-
-5) contestațiile formulate împotriva deciziilor barourilor de suspendare a exercițiului profesiei de avocat;
-
-6) contestațiile formulate împotriva deciziilor anuale ale consiliile barourilor de menținere sau nemenținere în activitate a avocatului pensionar;
-
-7) contestațiile formulate împotriva deciziilor barourilor de respingere a cererilor de transfer ale avocaților;
-
-8) contestațiile formulate împotriva deciziilor barourilor de respingere a cererilor de înființare de sedii secundare;
-
-9) plângerile formulate împotriva deciziilor barourilor privind modul de soluționare a contestațiilor și reclamațiilor privind onorariile;
-
-10) contestațiile formulate împotriva deciziilor barourilor privind (ne)legalitatea convențiilor de colaborare încheiate de avocați conform art.3 și 6 din lege;
-
-11) contestațiile formulate împotriva hotărârilor adunărilor generale ale barourilor și hotărârilor Consiliului U.N.B.R.;
-
-n) judecă în calitate de instanță disciplinară, în plenul său, recursurile declarate împotriva deciziilor pronunțate de Comisia centrală de disciplină, ca instanță de fond, și a încheierilor prevăzute la art.74 alin.(1) și (2) din lege.
-
-o) stabilește cuantumul taxelor și contribuțiilor avocaților și a barourilor la bugetul U.N.B.R., precum și al contribuției la bugetul sistemului de asigurări al avocaților;
-
-p) coordonează activitatea Casei de Asigurări a Avocaților putând suspenda, în condițiile expres stipulate prin Statut activitatea membrilor Consiliului de Administrație și numi o conducere interimară a acesteia pe perioada suspendării;
-
-q) aprobă programul anual de investiții al Casei de Asigurări a Avocaților la propunerea Consiliului de Administrație al acesteia;
-
-r) avizează înființarea și desființarea filialelor Casei de Asigurări a Avocaților;
-
-s) convoacă ori de câte ori este cazul Congresul Avocaților;
-
-t) alege și revocă dintre membrii săi Președintele și Vicepreședinții U.N.B.R. și membrii Comisiei Permanente în condițiile prevăzute de lege și Statut;
-
-u) întocmește și supune spre aprobare Congresului avocaților proiectul de buget al U.N.B.R., raportul anual de activitate și de gestionare a patrimoniului U.N.B.R., proiectele de hotărâri, rezoluții și moțiuni propuse spre aprobare Congresului.
-
-v) aprobă înființarea Casei Centrale de Credit și Ajutor a Avocaților și controlează activitatea acesteia;
-
-w) acordă, la propunerea Comisiei Permanente a U.N.B.R., titlul de membru de onoare, respectiv de Președinte de onoare al U.N.B.R.;
-
-x) organizează și îndrumă activitatea serviciului statistic general al U.N.B.R. , precum și pe cea de editare a publicațiilor Uniunii;
-
-y) exercită alte atribuții prevăzute de lege;
-
-Convocare
-Art. 25
-Consiliul U.N.B.R. se întrunește în ședințe ordinare, trimestrial, la convocarea Președintelui U.N.B.R.Convocarea trebuie făcută cu cel puțin 10 zile înainte de data stabilită.
-
-În situații excepționale, la solicitarea a cel puțin unei treimi din numărul membrilor sau a Președintelui U.N.B.R., Consiliul se întrunește în ședință extraordinară.
-
-Convocarea ședinței extraordinare a Consiliului U.N.B.R. trebuie făcută cu cel puțin 5 (cinci) zile înainte de data stabilită.
-
-Convocarea, indiferent de natura ședinței, va fi trimisă tuturor membrilor Consiliului U.N.B.R. și va cuprinde obligatoriu: data și ora începerii lucrărilor, locul de desfășurare, ordinea de zi, precum și eventualele materiale documentare propuse spre dezbatere ori solicitarea de a fi prezentate de membrii Consiliului astfel de materiale.
-
-Convocarea membrilor Consiliului U.N.B.R. se realizează prin e-mail la adresele pe care membrii Consiliului le-au comunicat secretariatului tehnic al U.N.B.R., prin afișare pe website-ul U.N.B.R. și prin decanii barourilor, care sunt obligați să transmită convocarea și materialele ce o însoțesc tuturor reprezentanților baroului în Consiliul U.N.B.R.
-
-Desfășurarea ședințelor Consiliului
-Art. 26
-Ședințele Consiliului U.N.B.R. se desfășoară în conformitate cu dispozițiile art. 85 alin. (1) din Statut și cu respectarea prezentului Regulament.Lucrările în plen ale Consiliului U.N.B.R. sunt conduse de Președintele U.N.B.R. sau unul dintre vicepreședinți desemnat de Consiliul U.N.B.R.
-
-Indiferent de natura ședinței, Consiliul își desfășoară în mod legal lucrările numai în prezența a cel puțin două treimi din numărul membrilor săi.
-
-Președintele U.N.B.R. sau vicepreședintele desemnat de acesta, constatând că este legal constituită ședința Consiliului, declară deschise lucrările.
-
-Conducerea ședinței se realizează de un prezidiu format din Președintele, vicepreședinții U.N.B.R. și trei consilieri desemnați prin vot deschis.
-
-Ordinea de zi a ședinței este supusă aprobării Consiliului. Ea poate fi modificată sau completată prin vot. În cazul în care există propuneri de completare a ordinei de zi, propunerea trebuie formulată în scris și adusă la cunoștința Președintelui U.N.B.R. cu cel puțin 7 (șapte) zile înainte de data ședinței ordinare și cu cel puțin 3 (zile) înaintea ședinței extraordinare. Despre propunerea de completare, membrii Consiliului sunt informați în prealabil ședinței.
-
-Conform ordinii de zi aprobate, se prezintă în fața membrilor Consiliului materialele întocmite referitoare la problematica ce urmează a fi dezbătută și aprobată, precum și proiectele de hotărâri și decizii, după caz.
-
-În ipoteza în care membrii Consiliului au studiat în prealabil materialele ce urmează a fi analizate, aprobate și adoptate, aceștia pot vota cu majoritate simplă trecerea directă la dezbaterea materialelor supuse dezbaterii și aprobării.
-
-Președintele U.N.B.R. sau membrii Prezidiului împuterniciți de acesta dau cuvântul membrilor Consiliului care doresc să participe la dezbateri în ordinea înscrierii acestora.
-
-Membrii Consiliului prezenți la dezbateri pot hotărî, cu majoritate simplă de voturi, limitarea la o perioadă de timp precis determinată a duratei luărilor de cuvânt ale participanților. Limitarea nu poate fi mai mică de 3 (trei) minute.
-
-Dezbaterile asupra problemelor incluse pe ordinea de zi se consemnează într-un proces-verbal întocmit de către secretariatul ședinței Consiliului U.N.B.R. alcătuit din personalul tehnic și 3 (trei) consilieri desemnați prin vot deschis.
-
-Proces-verbal ce va fi contrasemnat de Președintele U.N.B.R. și de cel puțin unul dintre consilieri membrii ai Prezidiului.
-
-Consiliul U.N.B.R. poate aproba cu majoritate absolută de voturi participarea la ședințele sale și a altor persoane interesate sau invitați.
-
-După epuizarea tuturor problemelor incluse pe ordinea de zi, Președintele U.N.B.R. sau vicepreședintele desemnat de acesta va declara închise lucrările Consiliului.
-
-Secretariatul general al Consiliului U.N.B.R. Activitatea în comisii de lucru
-Art. 27
-Pregătirea și punerea în aplicare a hotărârilor Consiliului U.N.B.R., pregătirea dosarelor privitoare la soluționarea contestațiilor și plângerilor privind decizii ale organelor profesiei, redactarea deciziilor luate de Consiliul U.N.B.R. se asigură prin grija Secretarului general al Consiliului U.N.B.R., persoană ce face parte din aparatul tehnico – administrativ al U.N.B.R.Secretarul general al Consiliului U.N.B.R. este subordonat direct Președintelui U.N.B.R. și este ajutat în activitatea sa de personalul tehnico – administrativ special desemnat.
-
-Secretarul general al Consiliului U.N.B.R. participă la toate ședințele Comisiei Permanente și ale Consiliului U.N.B.R.
-
-Secretarul general al Consiliului U.N.B.R. contrasemnează toate actele Consiliului U.N.B.R.
-
-În raport de natura problemelor incluse pe ordinea de zi, Consiliul U.N.B.R. își poate desfășura activitatea și în comisii de lucru.
-
-Comisiile de lucru ale Consiliului U.N.B.R. se constituite în raport de structura departamentelor organizate la nivelul Comisiei Permanente a U.N.B.R.
-
-Comisia Permanentă organizează acordarea sprijinului tehnic al comisiilor de lucru ale Consiliului U.N.B.R. în conformitate cu art. 65 alin. (1) lit. c) din lege.
-
-Actele Consiliului U.N.B.R.
-Art. 28
-În ceea ce privește contestațiile și/sau plângerile enumerate la art. 24 alin. (1) litera m), în cazul în care consideră necesar, Consiliul poate aproba prin vot convocarea părților interesate în fața Consiliului U.N.B.R.Pentru o corectă și competentă soluționare a contestațiilor și/sau plângerilor enumerate la art.24 alin. (1) lit. m), Președintele U.N.B.R. va desemna din rândul vicepreședinților U.N.B.R. sau ai Comisiei Permanente un raportor.
-
-Raportorul va întocmi un raport detaliat cu privire la dosarul contestației sau al plângerii. Raportul va fi prezentat Consiliului U.N.B.R. în plenul său și va constitui fundamentul deciziei ce se va adopta.
-
-Consiliul U.N.B.R. adoptă decizii și hotărâri cu majoritatea voturilor celor prezenți.
-
-Hotărârile și deciziile Consiliului U.N.B.R. sunt obligatorii pentru toate Barourile și avocații membrii ai acestora.
-
-Hotărârile și deciziile Consiliului U.N.B.R. se aduc la cunoștință barourilor și membrilor acestora prin grija Președintelui U.N.B.R. Comunicarea acestora se poate face și prin website-ul U.N.B.R.
-
-Hotărârile și deciziile Consiliului U.N.B.R. pot fi atacate pentru nelegalitate
-
-Competența de soluționare a contestațiilor revine Congresului avocaților.
-
-Secțiunea a IV-a
-
+ Reguli de desfăúurare a úedinĠei Consiliului U.N.B.R.
+
+Art. 23. Poziäia Consiliului U.N.B.R. în cadrul organelor profesiei. 
+&RQVLOLXO 81%5 vúL GHVIăúRDUă DFWLYLWDWHD SULQ VXERUGRQDUH IDĠă GH &RQJUHVXO
+DYRFDĠLORU RUJDQXO VXSUHP GH FRQGXFHUH D SURIHVLHL SULQ FDUH VH DVLJXUă UHDOL
+]DUHDGHPRFUDĠLHLSURIHVLRQDOHLQWHUQHD&RUSXOXLDYRFDĠLORU
+ &RQVLOLXO 81%5 HVWH RUJDQXO UHSUH]HQWDWLY úL GHOLEHUDWLY DO EDURXULORU vQ
+SHULRDGHOH GLQWUH &RQJUHVHOH DYRFDĠLORU úL DVLJXUă DFWLYLWDWHD SHUPDQHQWă D
+81%5
+&RQVLOLXO81%5HVWHIRUPDWGLQGHFDQLLEDURXULORUúLUHSUH]HQWDQĠLLEDURX
+ULORUDOHúLSRWULYLWQRUPHLGHUHSUH]HQWDUHVWDELOLWHSULQ6WDWXW
+&RQVLOLXO81%5DVLJXUăDFWLYLWDWHDSHUPDQHQWăD81%5SULQRUJDQXOVăX
+H[HFXWLY±&RPLVLD3HUPDQHQWă
+
+Art. 24. Durata mandatului. 0DQGDWXOPHPEULORU&RQVLOLXOXL81%5HVWH
+GH  SDWUX DQL ÌQ FD]XO VFKLPEăULL GHFDQXOXL XQXL EDURX vQDLQWHD H[SLUăULL
+PDQGDWXOXLGHDQLQRXOGHFDQGHYLQHPHPEUXGHGUHSWDO&RQVLOLXOXL81%5
+SHQWUXGLIHUHQĠDGHPDQGDW
+ÌQFD]XOvQFHWăULLPDQGDWXOXLXQXLUHSUH]HQWDQWDOEDURXOXLvQDLQWHDvPSOLQLULL
+WHUPHQXOXLSHQWUXFDUHDIRVWDOHVGH&RQJUHVFDQGLGDWXOFHD REĠLQXWXUPăWRUXO
+QXPăU GH YRWXUL vQ &RQJUHVXO HOHFWLY vO vQORFXLHúWH GH GUHSW SH UHSUH]HQWDQWXO DO
+FăUXLPDQGDWDvQFHWDWSHQWUXGLIHUHQĠDGHWLPSUăPDVă
+ÌQFD]XOvQFDUHvQ&RQJUHVXOHOHFWLYQXDH[LVWDWGHFkWFDQGLGDWXUDUHSUH]HQ
+WDQWXOXL DO FăUXL PDQGDW D vQFHWDW RUL GDFă FHO FH D REĠLQXW XUPăWRUXO QXPăU GH
+YRWXULvQ&RQJUHVXOHOHFWLYUHIX]ăPDQGDWXORULVHDIOăvQLPSRVLELOLWDWHGHDGHYHQL
+PHPEUXDO&RQVLOLXOXL81%5ODSUR[LPXO&RQJUHVYDILDOHVSHQWUXGLIHUHQĠDGH
+WLPSUăPDVăXQQRXPHPEUXDO&RQVLOLXOXL81%5vQFDOLWDWHGHUHSUH]HQWDQWDO
+EDURXOXLUHVSHFWLY
+
+Art. 25. Competenäele Consiliului U.N.B.R. &RQVLOLXO81%5vQGHSOLQHúWHvQ
+SULQFLSDOXUPăWRDUHOHDWULEXĠLL
+DXUPăUHúWHvQGHSOLQLUHDKRWăUkULORU&RQJUHVXOXLDYRFDĠLORU
+EDSUREăODSURSXQHUHD&RPLVLHL3HUPDQHQWH5HJXODPHQWXOGHRUJDQL]DUHúL
+IXQFĠLRQDUHD81%5úLGHGHVIăúXUDUHDúHGLQĠHORU&RQVLOLXOXL81%5
+F H[HUFLWă FRQWUROXO DVXSUD DFWLYLWăĠLL úL YHULILFă OHJDOLWDWHD DFWHORU HPLVH GH
+&RPLVLD3HUPDQHQWăD81%5
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+378
+GRUJDQL]HD]ăH[DPHQXOGHYHULILFDUHDFXQRúWLQĠHORUGHGUHSWURPkQHVFúLGH
+OLPEDURPkQăDOHDYRFDĠLORUVWUăLQL
+H VWDELOHúWH úL DSUREă OD SURSXQHUHD ,QVWLWXWXOXL 1DĠLRQDO GH 3UHJăWLUH úL
+3HUIHFĠLRQDUH D $YRFDĠLORU ,133$ WHPDWLFD úL ELEOLRJUDILD H[DPHQHORU GH
+SULPLUHvQSURIHVLDGHDYRFDWúLGHGREkQGLUHDFDOLWăĠLLGHDYRFDWGHILQLWLYVXELHF
+WHOHúLPHWRGRORJLDGHH[DPLQDUHvQYHGHUHDFUHăULLFDGUXOXLWHKQLFRRUJDQL]DWRULF
+DGHFYDWDVLJXUăULLFDUDFWHUXOXLXQLWDUDOH[DPHQHORUUHVSHFWLYH
+IVWDELOHúWHúLFRPXQLFăEDURXULORUFXFHOSXĠLQGH]LOHvQDLQWHGDWDGHVIăúXUăULL
+H[DPHQXOXLGHSULPLUHvQSURIHVLHúLDH[DPHQXOXLGHGREkQGLUHDFDOLWăĠLLGHDYRFDW
+GHILQLWLY
+J FHQWUDOL]HD]ă úL DQDOL]HD]ă UH]XOWDWHOH H[DPHQXOXL GH SULPLUH vQ SURIHVLH
+FRPXQLFDWHGHEDURXULFHOHDOHH[DPHQXOXLGHGHILQLWLYDUHvQSURIHVLHSUHFXPúL
+GHFL]LLOHGHSULPLUHvQSURIHVLHFXVFXWLUHGHH[DPHQvQFRQGLĠLLOH/HJLLFRPXQLFDWH
+GHEDURXUL
+KVWDELOHúWHFRPSRQHQĠD&RPLVLHLGHH[DPLQDUHDDYRFDĠLORUVWUăLQLFDUHVROLFLWă
+vQFRQGLĠLLOH/HJLLH[HUFLWDUHDvQ5RPkQLDDSURIHVLHLGHDYRFDW
+LVWDELOHúWHFRPSRQHQĠD&RPLVLHLGHHYDOXDUHFRQĠLQXWXOSURJUDPHLVWDJLXOXLúL
+PRGXOXLGHGHVIăúXUDUHDH[DPHQXOXLVXVĠLQXWGHDYRFDĠLLFDUHSURIHVHD]ăVXEWLWOXO
+SURIHVLRQDOvQVWDWXOPHPEUXGHRULJLQHvQYHGHUHDUHFXQRDúWHULLGLSORPHORUDGPL
+WHULLvQSURIHVLDGHDYRFDWúLSUDFWLFDUHDDFHVWHLDVXEWLWOXSURIHVLRQDOvQ5RPkQLD
+M GHFLGH DVXSUD VXVSHQGăULL DQDOL]ăULL FHUHULL GH SULPLUH vQ SURIHVLH GXSă
+VXVĠLQHUHD H[DPHQXOXL GH YHULILFDUH D FXQRúWLQĠHORU SULYLQG GUHSWXO URPkQHVF úL GH
+OLPEăURPkQăVDXGXSăFH&RPLVLDGHHYDOXDUHDGHFLVDVXSUDVFXWLULLVROLFLWDQWXOXL
+GHVXVĠLQHUHDH[DPHQXOXL
+NRUJDQL]HD]ăúLFRQGXFHDFWLYLWDWHD,133$FRQVWLWXLWFDSHUVRDQăMXULGLFă
+GH GUHSW SULYDW QRQSURILW DGRSWkQG úL PRGLILFkQG 6WDWXWXO DFHVWXLD úL QXPLQG
+&RQVLOLXOGH&RQGXFHUHDO,QVWLWXWXOXL
+O vQWRFPHúWH úL DSUREă OD SURSXQHUHD EDURXULORU SURJUDPHOH GH vQYăĠăPkQW
+SHQWUXSUHJăWLUHDSURIHVLRQDOăLQLĠLDOăXQLWDUăDDYRFDĠLORUVWDJLDULSUHFXPúLSODQXO
+GHvQYăĠăPkQWDQXDODO,133$ODSURSXQHUHD&RQVLOLXOXL,133$
+PDQDOL]HD]ăúLVROXĠLRQHD]ă
+FRQWHVWDĠLLOHIRUPXODWHvPSRWULYDGHFL]LLORUFRQVLOLLORUEDURXULORUGHDSUREDUHVDX
+GHUHVSLQJHUHDFHUHULORUGHSULPLUHvQSURIHVLHFXVFXWLUHGHH[DPHQ
+ FRQWHVWDĠLLOH IRUPXODWH GXSă FD] GH 3UHúHGLQWHOH 81%5 VDX DYRFDWXO vQ
+FDX]ăvPSRWULYDGHFL]LLORUFRQVLOLXOXLEDURXULORUGHGHFODUDUHDQHGHPQLWăĠLLDYRFD
+WXOXLDIODWvQWUXQDGLQWUHVLWXDĠLLOHH[SUHVHQXPHUDWHGH/HJHúLVDX6WDWXW
+FRQWHVWDĠLLOHIRUPXODWHGXSăFD]GH3UHúHGLQWHOH81%5úLVDXDYRFDWXOvQ
+FDX]ă GHFODUDW LQFRPSDWLELO FD XUPDUH D GHĠLQHULL FDOLWăĠLL GH DVRFLDW VDX D vQGH
+SOLQLULLXQHLIXQFĠLLGHFRQGXFHUHvQWURVRFLHWDWHFRPHUFLDOăvQFRQGLĠLLOHSUHYă]XWH
+vQDUWGLQ6WDWXW
+ FRQWHVWDĠLLOH IRUPXODWH vPSRWULYD GHFL]LLORU EDURXULORU GH UHIX] D vQVFULHULL
+UHvQVFULHULLVDXPHQĠLQHULLSH7DEORXODYRFDĠLORU
+ FRQWHVWDĠLLOH IRUPXODWH vPSRWULYD GHFL]LLORU EDURXULORU GH VXVSHQGDUH D H[H
+UFLĠLXOXLSURIHVLHLGHDYRFDW
+FRQWHVWDĠLLOHIRUPXODWHvPSRWULYDGHFL]LLORUEDURXULORUGHPHQĠLQHUHVDXQHPHQ
+ĠLQHUHvQDFWLYLWDWHDDYRFDWXOXLSHQVLRQDU
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+379
+FRQWHVWDĠLLOHIRUPXODWHvPSRWULYDGHFL]LLORUEDURXULORUGHUHVSLQJHUHDFHUHULORU
+GHWUDQVIHUDOHDYRFDĠLORU
+FRQWHVWDĠLLOHIRUPXODWHvPSRWULYDGHFL]LLORUEDURXULORUGHUHVSLQJHUHDFHUHULORU
+GHvQILLQĠDUHGHVHGLLVHFXQGDUH
+SOkQJHULOHIRUPXODWHvPSRWULYDGHFL]LLORUEDURXULORUSULYLQGPRGXOGHVROXĠLRQDUH
+DFRQWHVWDĠLLORUúLUHFODPDĠLLORUSULYLQGRQRUDULLOH
+ FRQWHVWDĠLLOH IRUPXODWH vPSRWULYD GHFL]LLORU EDURXULORU SULYLQG QHOHJDOLWDWHD
+FRQYHQĠLLORUGHFRODERUDUHvQFKHLDWHGHDYRFDĠLFRQIRUPDUWGLQ/HJH
+FRQWHVWDĠLLOHIRUPXODWHvPSRWULYDKRWăUkULORUDGXQăULORUJHQHUDOHDOHEDURXULORU
+úLKRWăUkULORU&RQVLOLXOXL81%5
+QMXGHFăvQFDOLWDWHGHLQVWDQĠăGLVFLSOLQDUăvQSOHQXOVăXUHFXUVXULOHGHFODUDWH
+vPSRWULYD GHFL]LLORU SURQXQĠDWH GH &RPLVLD FHQWUDOă GH GLVFLSOLQă FD LQVWDQĠă GH
+IRQGúLDvQFKHLHULORUSUHYă]XWHODDUWDOLQúLGLQ/HJH[art. 89 alin. (1) úi
+(2), după rep. 2018]
+RVWDELOHúWHFXDQWXPXOWD[HORUúLFRQWULEXĠLLORUDYRFDĠLORUúLDEDURXULORUODEXJHWXO
+81%5SUHFXPúLDOFRQWULEXĠLHLODEXJHWXOVLVWHPXOXLGHDVLJXUăULDODYRFDĠLORU
+S FRRUGRQHD]ă DFWLYLWDWHD &DVHL GH $VLJXUăUL D $YRFDĠLORU SXWkQG VXVSHQGD
+&RQVLOLXOGH$GPLQLVWUDĠLHDODFHVWHLDvQFRQGLĠLLOHSUHYă]XWHODDUWDOLQGLQ
+SUH]HQWXO5HJXODPHQW
+T DSUREă SURJUDPXO DQXDO GH LQYHVWLĠLL DO &DVHL GH $VLJXUăUL D $YRFDĠLORU OD
+SURSXQHUHD&RQVLOLXOXLGH$GPLQLVWUDĠLHDODFHVWHLD
+UDYL]HD]ăvQILLQĠDUHDúLGHVILLQĠDUHDILOLDOHORU&DVHLGH$VLJXUăULD$YRFDĠLORU
+VFRQYRDFăRULGHFkWHRULHVWHFD]XO&RQJUHVXO$YRFDĠLORU
+WDOHJHúLUHYRFăGLQWUHPHPEULLVăL3UHúHGLQWHOHúLYLFHSUHúHGLQĠLL81%5úL
+PHPEULL&RPLVLHL3HUPDQHQWHvQFRQGLĠLLOHSUHYă]XWHGH/HJHúL6WDWXW
+XvQWRFPHúWHúLVXSXQHVSUHDSUREDUH&RQJUHVXOXLDYRFDĠLORUSURLHFWXOGHEXJHW
+DO81%5UDSRUWXODQXDOGHDFWLYLWDWHúLGHJHVWLRQDUHDSDWULPRQLXOXL81%5
+SURLHFWHOHGHKRWăUkULUH]ROXĠLLúLPRĠLXQLSURSXVHVSUHDSUREDUH&RQJUHVXOXL
+YDSUREăvQILLQĠDUHD&DVHL&HQWUDOHGH&UHGLWúL$MXWRUD$YRFDĠLORUúLFRQWUROHD]ă
+DFWLYLWDWHDDFHVWHLD
+ZDFRUGăODSURSXQHUHD&RPLVLHL3HUPDQHQWHD81%5WLWOXOGHPHPEUXGH
+RQRDUHUHVSHFWLYGH3UHúHGLQWHGHRQRDUHDO81%5
+[ RUJDQL]HD]ă úL vQGUXPă DFWLYLWDWHD VHUYLFLXOXL VWDWLVWLF JHQHUDO DO 81%5
+SUHFXPúLSHFHDGHHGLWDUHDSXEOLFDĠLLORU8QLXQLL
+\H[HUFLWăDOWHDWULEXĠLLSUHYă]XWHGHOHJHVDX6WDWXW
+Art. 26. Convocare.  &RQVLOLXO 81%5 VH vQWUXQHúWH vQ úHGLQĠH RUGLQDUH
+WULPHVWULDOODFRQYRFDUHD3UHúHGLQWHOXL81%5
+&RQYRFDUHDWUHEXLHIăFXWăFXFHOSXĠLQ]LOHvQDLQWHGHGDWDVWDELOLWă
+ ÌQ VLWXDĠLL H[FHSĠLRQDOH OD VROLFLWDUHD D FHO SXĠLQ XQHL WUHLPL GLQ QXPăUXO
+PHPEULORU VDX D 3UHúHGLQWHOXL 81%5 &RQVLOLXO VH vQWUXQHúWH vQ úHGLQĠă
+H[WUDRUGLQDUă
+&RQYRFDUHDúHGLQĠHLH[WUDRUGLQDUHD&RQVLOLXOXL81%5WUHEXLHIăFXWăFXFHO
+SXĠLQFLQFL]LOHvQDLQWHGHGDWDVWDELOLWă
+ &RQYRFDUHD LQGLIHUHQW GH QDWXUD úHGLQĠHL YD IL WULPLVă WXWXURU PHPEULORU
+&RQVLOLXOXL81%5úLYDFXSULQGHREOLJDWRULXGDWDúLRUDvQFHSHULLOXFUăULORUORFXO
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+380
+GH GHVIăúXUDUH RUGLQHD GH ]L SUHFXP úL HYHQWXDOHOH PDWHULDOH GRFXPHQWDUH
+SURSXVH VSUH GH]EDWHUH RUL VROLFLWDUHD GH D IL SUH]HQWDWH GH PHPEULL &RQVLOLXOXL
+DVWIHOGHPDWHULDOH
+ &RQYRFDUHD PHPEULORU &RQVLOLXOXL 81%5 VH UHDOL]HD]ă SULQ HPDLO OD
+DGUHVHOH SH FDUH PHPEULL &RQVLOLXOXL OHDX FRPXQLFDW VHFUHWDULDWXOXL WHKQLF DO
+81%5SULQDILúDUHSHSDJLQDZHED81%5úLSULQGHFDQLLEDURXULORUFDUHVXQW
+REOLJDĠL Vă WUDQVPLWă FRQYRFDUHD úL PDWHULDOHOH FH R vQVRĠHVF WXWXURU UHSUH
+]HQWDQĠLORUEDURXOXLvQ&RQVLOLXO81%5
+
+Art. 27. Desfâàurarea àedinäelor Consiliului. ùHGLQĠHOH&RQVLOLXOXL81%5VH
+GHVIăúRDUăvQFRQIRUPLWDWHFXGLVSR]LĠLLOHDUWDOLQGLQ6WDWXWúLFXUHVSHFWDUHD
+SUH]HQWXOXL5HJXODPHQW
+ /XFUăULOH vQ SOHQ DOH &RQVLOLXOXL 81%5 VXQW FRQGXVH GH 3UHúHGLQWHOH
+81%5VDXGHXQXOGLQWUHYLFHSUHúHGLQĠLGHVHPQDWGH&RQVLOLXO81%5
+ ,QGLIHUHQW GH QDWXUD úHGLQĠHL &RQVLOLXO vúL GHVIăúRDUă vQ PRG OHJDO OXFUăULOH
+QXPDLvQSUH]HQĠDDFHOSXĠLQGRXăWUHLPLGLQQXPăUXOPHPEULORUVăL
+ 3UHúHGLQWHOH 81%5 VDX YLFHSUHúHGLQWHOH GHVHPQDW FRQVWDWkQG Fă HVWH
+OHJDOFRQVWLWXLWăúHGLQĠD&RQVLOLXOXLGHFODUăGHVFKLVHOXFUăULOH
+ &RQGXFHUHD úHGLQĠHL VH UHDOL]HD]ă GH XQ SUH]LGLX IRUPDW GLQ 3UHúHGLQWHOH
+YLFHSUHúHGLQĠLL81%5úLWUHLFRQVLOLHULGHVHPQDĠLSULQYRWGHVFKLV
+ 2UGLQHD GH ]L D úHGLQĠHL HVWH VXSXVă DSUREăULL &RQVLOLXOXL (D SRDWH IL
+PRGLILFDWăVDXFRPSOHWDWăSULQYRWÌQFD]XOvQFDUHH[LVWăSURSXQHULGHFRPSOHWDUH
+D RUGLQHL GH ]L SURSXQHUHD WUHEXLH IRUPXODWă vQ VFULV úL DGXVă OD FXQRúWLQĠD
+3UHúHGLQWHOXL81%5FXFHOSXĠLQúDSWH]LOHvQDLQWHGHGDWDúHGLQĠHLRUGLQDUHúL
+FX FHO SXĠLQ  ]LOH vQDLQWHD úHGLQĠHL H[WUDRUGLQDUH 'HVSUH SURSXQHUHD GH FRP
+SOHWDUHPHPEULL&RQVLOLXOXLVXQWLQIRUPDĠLvQSUHDODELOúHGLQĠHL
+ &RQIRUP RUGLQLL GH ]L DSUREDWH VH SUH]LQWă vQ IDĠD PHPEULORU &RQVLOLXOXL
+PDWHULDOHOH vQWRFPLWH UHIHULWRDUH OD SUREOHPDWLFD FH XUPHD]ă D IL GH]EăWXWă úL
+DSUREDWăSUHFXPúLSURLHFWHOHGHKRWăUkULúLGHFL]LLGXSăFD]
+ ÌQ LSRWH]D vQ FDUH PHPEULL &RQVLOLXOXL DX VWXGLDW vQ SUHDODELO PDWHULDOHOH FH
+XUPHD]ăDILDQDOL]DWHDSUREDWHúLDGRSWDWHDFHúWLDSRWYRWDFXPDMRULWDWHVLPSOă
+WUHFHUHDGLUHFWăODGH]EDWHUHDPDWHULDOHORUVXSXVHGH]EDWHULLúLDSUREăULL
+ 3UHúHGLQWHOH 81%5 VDX PHPEULL 3UH]LGLXOXL vPSXWHUQLFLĠL GH DFHVWD GDX
+FXYkQWXO PHPEULORU &RQVLOLXOXL FDUH GRUHVF Vă SDUWLFLSH OD GH]EDWHUL vQ RUGLQHD
+vQVFULHULLDFHVWRUD
+0HPEULL&RQVLOLXOXLSUH]HQĠLODGH]EDWHULSRWKRWăUvFXPDMRULWDWHVLPSOăGH
+YRWXULOLPLWDUHDODRSHULRDGăGHWLPSSUHFLVGHWHUPLQDWăDGXUDWHLOXăULORUGHFXYkQW
+DOHSDUWLFLSDQĠLORU/LPLWDUHDQXSRDWHILPDLPLFăGHWUHLPLQXWH
+'H]EDWHULOHDVXSUDSUREOHPHORULQFOXVHSHRUGLQHDGH]LVHFRQVHPQHD]ă
+vQWUXQ SURFHVYHUEDO vQWRFPLW GH FăWUH VHFUHWDULDWXO úHGLQĠHL &RQVLOLXOXL 81%5
+DOFăWXLWGLQSHUVRQDOXOWHKQLFúLWUHLFRQVLOLHULGHVHPQDĠLSULQYRWGHVFKLV
+ 3URFHVXOYHUEDO YD IL FRQWUDVHPQDW GH 3UHúHGLQWHOH 81%5 VDX GH
+YLFHSUHúHGLQWHOH GHVHPQDW úL GH FHO SXĠLQ XQXO GLQWUH FRQVLOLHUL PHPEUL DL
+3UH]LGLXOXL
+ &RQVLOLXO 81%5 SRDWH DSURED FX PDMRULWDWH DEVROXWă GH YRWXUL SDUWLFL
+SDUHDODúHGLQĠHOHVDOHúLDDOWRUSHUVRDQHLQWHUHVDWHVDXLQYLWDĠL
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+381
+'XSăHSXL]DUHDWXWXURUSUREOHPHORULQFOXVHSHRUGLQHDGH]L3UHúHGLQWHOH
+81%5VDXYLFHSUHúHGLQWHOHGHVHPQDWYDGHFODUDvQFKLVHOXFUăULOH&RQVLOLXOXL
+Art. 28. Secretariatul general al Consiliului U.N.B.R. Activitatea în comisii
+de lucru. 3UHJăWLUHDúL SXQHUHDvQDSOLFDUHDKRWăUkULORU&RQVLOLXOXL 81%5
+SUHJăWLUHD GRVDUHORU SULYLWRDUH OD VROXĠLRQDUHD FRQWHVWDĠLLORU úL SOkQJHULORU SULYLQG
+GHFL]LLDOHRUJDQHORUSURIHVLHLUHGDFWDUHDGHFL]LLORUOXDWHGH&RQVLOLXO81%5VH
+DVLJXUă SULQ JULMD 6HFUHWDUXOXL JHQHUDO DO &RQVLOLXOXL 81%5 SHUVRDQă FH IDFH
+SDUWHGLQDSDUDWXOWHKQLFRDGPLQLVWUDWLYDO81%5
+6HFUHWDUXOJHQHUDODO&RQVLOLXOXL81%5HVWHVXERUGRQDWGLUHFW3UHúHGLQWHOXL
+81%5úLHVWHDMXWDWvQDFWLYLWDWHDVDGHSHUVRQDOXOWHKQLFRDGPLQLVWUDWLYVSHFLDO
+GHVHPQDW
+6HFUHWDUXOJHQHUDODO&RQVLOLXOXL81%5SDUWLFLSăODWRDWHúHGLQĠHOH&RPLVLHL
+3HUPDQHQWHúLDOH&RQVLOLXOXL81%5
+ 6HFUHWDUXO JHQHUDO DO &RQVLOLXOXL 81%5 FRQWUDVHPQHD]ă WRDWH DFWHOH
+&RQVLOLXOXL81%5
+ÌQUDSRUWGHQDWXUDSUREOHPHORULQFOXVHSHRUGLQHDGH]L&RQVLOLXO81%5vúL
+SRDWHGHVIăúXUDDFWLYLWDWHDúLvQFRPLVLLGHOXFUX
+ &RQVLOLXO 81%5 FRQVWLWXLH FD VWUXFWXUL GH OXFUX GHSDUWDPHQWH FRPLVLL
+WHPSRUDUH úL JUXSXUL GH OXFUX 'HSDUWDPHQWHOH DX FDUDFWHU SHUPDQHQW VXQW
+FRQVWLWXLWHSHSHULRDGDPDQGDWXOXL&RQVLOLXOXLSULQYRWXODFHVWXLDvQGRPHQLLOHúLFX
+DWULEXĠLLOHSUHYă]XWHGHDUWGLQSUH]HQWXO5HJXODPHQW
+ &RPLVLLOH WHPSRUDUH DOH &RQVLOLXOXL 81%5 VH FRQVWLWXLH vQ UDSRUW GH
+QHFHVLWăĠLOHGHDFWLYLWDWHLGHQWLILFDWHGH&RQVLOLXúLDXDWULEXĠLLOHVWDELOLWHGHDFHVWD
+&RRUGRQDUHDXQHLFRPLVLLWHPSRUDUHDSUREDWăGH&RQVLOLXYDSXWHDILvQFUHGLQĠDWă
+XQXLPHPEUXDO&RPLVLHL3HUPDQHQWHGHVHPQDWGHFăWUHDFHDVWDGLQXUPă
+ *UXSXULOH GH OXFUX VXQW vQILLQĠDWH GH &RQVLOLXO 81%5 vQ GRPHQLLOH úL FX
+DWULEXĠLLOHVWDELOLWHGHDFHVWD*UXSXULOHGHOXFUXGHVIăúRDUăRDFWLYLWDWHFXFDUDFWHU
+SHUPDQHQW FD vQ VLWXDĠLD FHORU SUHYă]XWH GH DUW  DOLQ  GLQ SUH]HQWXO
+5HJXODPHQWVDXFXFDUDFWHUWHPSRUDU
+
+Art. 29. Actele Consiliului U.N.B.R. $FWHOHGHRULFHQDWXUăVXSXVHGH]ED
+WHULL&RQVLOLXOXL81%5YRUSXWHDILLQFOXVHSHRUGLQHDGH]LDúHGLQĠHL&RQVLOLXOXL
+FXFRQGLĠLDGHDILIRVWvQUHJLVWUDWHOD6HFUHWDULDWXO*HQHUDODO81%5FXFHOSXĠLQ
+]LOHPDLvQDLQWHGHGDWDDQXQĠDWăDUHVSHFWLYHLúHGLQĠH
+ÌQFHHDFHSULYHúWHFRQWHVWDĠLLOHúLVDXSOkQJHULOHHQXPHUDWHODDUWDOLQ
+OLW P vQ FD]XO vQ FDUH FRQVLGHUă QHFHVDU &RQVLOLXO SRDWH DSURED SULQ YRW FRQ
+YRFDUHDSăUĠLORULQWHUHVDWHvQIDĠD&RQVLOLXOXL81%5
+ 3HQWUX VROXĠLRQDUHD FRQWHVWDĠLLORU úLVDX SOkQJHULORU HQXPHUDWH OD DUW 
+DOLQ  OLW P &RQVLOLXO 81%5 YD DSURED FRPSRQHQĠD JUXSXULORU GH OXFUX FX
+DFWLYLWDWH SHUPDQHQWă GH SH OkQJă ILHFDUH PHPEUX DO &RPLVLHL 3HUPDQHQWH SH
+GRPHQLL GH UHVSRQVDELOLWDWH 3UHúHGLQWHOH 81%5 YD GHVHPQD XQ UDSRUWRU GLQ
+UkQGXOPHPEULORU&RPLVLHL3HUPDQHQWHSHQWUXILHFDUHFRQWHVWDĠLHVDXSOkQJHUHvQ
+UDSRUWGHGRPHQLXOGHFRPSHWHQĠăDO&RQVLOLXOXL81%5
+5DSRUWRUXOYDvQWRFPLXQUDSRUWGHWDOLDWFXSULYLUHODGRVDUXOFRQWHVWDĠLHLVDXDO
+SOkQJHULL5DSRUWXOYDILSUH]HQWDW&RQVLOLXOXL81%5vQSOHQXOVăXúLYDFRQVWLWXL
+IXQGDPHQWXOGHFL]LHLFHVHYDDGRSWD
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+382
+ &RQVLOLXO 81%5 DGRSWă GHFL]LL úL KRWăUkUL FX PDMRULWDWHD YRWXULORU FHORU
+SUH]HQĠL
+ +RWăUkULOH úL GHFL]LLOH &RQVLOLXOXL 81%5 VXQW REOLJDWRULL SHQWUX WRDWH
+%DURXULOHúLDYRFDĠLLPHPEULDLDFHVWRUD
++RWăUkULOHúLGHFL]LLOH&RQVLOLXOXL81%5VHDGXFODFXQRúWLQĠăEDURXULORUúL
+PHPEULORU DFHVWRUD SULQ JULMD 3UHúHGLQWHOXL 81%5 &RPXQLFDUHD DFHVWRUD VH
+SRDWHIDFHúLSULQLQWHUPHGLXOSDJLQLLZHED81%5ÌQFD]XOGHFL]LLORUSURQXQĠDWH
+vQFDGUXOMXULVGLFĠLHLSURIHVLRQDOHFRPXQLFDUHDVHYDIDFHFăWUHFRQWHVWDWRUEDURXOD
+GRPLFLOLXOVHGLXODFHVWXLDvQFRQGLĠLLOHSUHYă]XWHGH/HJH
+/DFHUHUH6HFUHWDULDWXO*HQHUDODO81%5YDHOLEHUDRULFăUXLEDURXRFRSLH
+FHUWLILFDWăDKRWăUkULLGHFL]LHL&RQVLOLXOXL81%5vQWHUPHQGHFHOPXOW]LOHGHOD
+vQUHJLVWUDUHDFHUHULLDUKLYkQGGRYDGDGHFRPXQLFDUH
++RWăUkULOHGHFL]LLOH&RQVLOLXOXL81%5YRUILDUKLYDWHvQWUXQUHJLVWUXVSHFLDO
+úLYRUILQXPHURWDWHFURQRORJLFvQRUGLQHDDGRSWăULLORULDUFHOHFXFDUDFWHUSXEOLF
+VHYRUSXEOLFDFXLQGLFDUHDQXPăUXOXLGHvQUHJLVWUDUHvQUHJLVWUXOVSHFLDO
++RWăUkULOHúLGHFL]LLOH&RQVLOLXOXL81%5SRWILDWDFDWHSHQWUXQHOHJDOLWDWH
+GH FăWUH PHPEULL &RQVLOLXOXL 81%5 vQ WHUPHQ GH  ]LOH GH OD SXEOLFDUHD SH
+SDJLQD ZHE D 81%5 &RQWHVWDĠLD YD IL DQDOL]DWă vQ SURFHGXUă SUHOLPLQDUă vQ
+SUR[LPDúHGLQĠăD&RQVLOLXOXL81%5ÌQFD]XOvQFDUH&RQVLOLXO81%5PHQĠLQH
+KRWăUkUHDGHFL]LD FRQWHVWDWă FRPSHWHQĠD GH VROXĠLRQDUH D FRQWHVWDĠLHL UHYLQH
+&RQJUHVXOXLDYRFDĠLORU
+SecĠiunea a IV-a
 Comisia Permanentă a U.N.B.R.
+Reguli de desfăúurare a úedinĠei Comisiei Permanente U.N.B.R.
+
+Art. 30. Componenäâ. &RPLVLD3HUPDQHQWăD81%5HVWHFRPSXVăGLQ
+ PHPEUL GLQWUH FDUH  PHPEUL VXQW UHSUH]HQWDQĠL DL EDURXOXL %XFXUHúWL LDU 
+PHPEULVXQWUHSUH]HQWDQĠLDLFHORUODOWHEDURXULGLQĠDUă
+3UHúHGLQWHOHúLYLFHSUHúHGLQĠLLVXQWPHPEULGHGUHSWDL&RPLVLHL3HUPDQHQWH
+úLVHLQFOXGvQFHLPHPEUL
+&DOLWDWHDGHPHPEUXDO&RPLVLHL3HUPDQHQWHHVWHFRPSDWLELOăFXFDOLWDWHDGH
+PHPEUXDODOWRURUJDQHDOHSURIHVLHLúLFXFDOLWDWHDGHGHFDQ
+
+Art. 31. Durata mandatului.  0DQGDWXO PHPEULORU &RPLVLHL 3HUPDQHQWH
+HVWHGHSDWUXDQL
+ÌQFD]GHvQFHWDUHDPDQGDWXOXLGHPHPEUXDO&RQVLOLXOXL81%5VHGHVHP
+QHD]ăGHFăWUH&RQVLOLXO81%5XQvQORFXLWRUDOPHPEUXOXL&RPLVLHL3HUPDQHQWH
+DO FăUXL PDQGDW D vQFHWDW FX UHVSHFWDUHD UHJXOLORU SUHYă]XWH vQ SUH]HQWXO
+5HJXODPHQWSHQWUXPDQGDWXOPHPEULORU&RQVLOLXOXL81%5FDUHVHDSOLFăvQPRG
+FRUHVSXQ]ăWRU
+ÌQORFXLWRUXOGHVHPQDWYDH[HFXWDGLIHUHQĠDGHPDQGDW
+
+Art. 32. Competenäa. &RPLVLD3HUPDQHQWăFDRUJDQGHFRQGXFHUHH[HFXWLYă
+vQWUH úHGLQĠHOH &RQVLOLXOXL 81%5 D DFWLYLWăĠLL 81%5 vQGHSOLQHúWH XUPăWRDUHOH
+DWULEXĠLLSULQFLSDOH
+DXUPăUHúWHDGXFHUHDODvQGHSOLQLUHDKRWăUkULORUúLGHFL]LLORU&RQVLOLXOXL81%5
+SUHFXPúLDKRWăUkULORU&RQJUHVXOXLDYRFDĠLORU
 
-Reguli de desfășurare a ședinței Comisiei Permanente U.N.B.R.
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+383
+E vQWRFPHúWH úL VXSXQH VSUH DSUREDUH &RQVLOLXOXL 81%5 5HJXODPHQWXO GH
+RUJDQL]DUHúLIXQFĠLRQDUHDO81%5
+FDSUREăRUJDQLJUDPDDSDUDWXOXLWHKQLFRDGPLQLVWUDWLYDO81%5úLVWDELOHúWH
+FULWHULLOHGHDQJDMDUHúLYHULILFDUHDQXDOăDFXQRúWLQĠHORUSURIHVLRQDOHDOHDQJDMDĠLORU
+vQYHGHUHDPHQĠLQHULLDFHVWRUDSHSRVW
+G DVLJXUă H[HFXĠLD EXJHWDUă úL XUPăUHúWH UHDOL]DUHD UHVXUVHORU EXJHWXOXL
+81%5
+HDFFHSWăGRQDĠLLOHúLOHJDWHOHIăFXWH81%5
+IVWDELOHúWHFXDQWXPXOWD[HORUSHQWUX
+±vQVFULHUHDFDQGLGDĠLORUODH[DPHQXOGHSULPLUHvQSURIHVLH
+±vQVFULHUHDFDQGLGDĠLORUODH[DPHQXOGHGREkQGLUHDWLWOXOXLSURIHVLRQDOGHDYRFDW
+GHILQLWLY
+±vQVFULHUHDDYRFDĠLORUODH[DPHQXOGHYHULILFDUHDFXQRúWLQĠHORUGHGUHSWURPk
+QHVFúLGHOLPEăURPkQă
+±DFRUGDUHDGHDYL]HFRQIRUPHvQFRQGLĠLLOHOHJLL
+±DFWLYLWăĠLGHVHFUHWDULDWúLMXULVGLFĠLHSURIHVLRQDOă
+J GHVHPQHD]ă DUELWUXO vQVăUFLQDW FX DUELWUDUHD OLWLJLLORU vQ FDUH XQD GLQWUH SăUĠL
+DUHFDOLWDWHDGHGHFDQ
+KDSUREăOLVWDLQYLWDĠLORUOD&RQJUHVXO81%5
+LvQGHSOLQHúWHúLDOWHDWULEXĠLXQLvQED]DúLOLPLWHOHPDQGDWXOXLGDWGH&RQJUHVXO
+DYRFDĠLORUúLVDX&RQVLOLXO81%5
+
+Art. 33. Convocare.  &RPLVLD 3HUPDQHQWă VH FRQYRDFă GH 3UHúHGLQWHOH
+81%5 úLúL GHVIăúRDUă OXFUăULOH REOLJDWRULX vQDLQWHD úHGLQĠHORU &RQVLOLXOXL
+81%5VDXRULGHFkWHRULHVWHQHFHVDU
+3UHYHGHULOHDUWVHDSOLFăvQPRGFRUHVSXQ]ăWRU
+
+Art. 34. Acte adoptate.  2UGLQHD GH ]L D úHGLQĠHL HVWH VXSXVă DSUREăULL
+&RPLVLHL3HUPDQHQWH(DSRDWHILPRGLILFDWăVDXFRPSOHWDWăSULQYRWÌQFD]XOvQ
+FDUHH[LVWăSURSXQHULGHFRPSOHWDUHDRUGLQHLGH]LSURSXQHUHDWUHEXLHIRUPXODWă
+vQ VFULV úL DGXVă OD FXQRúWLQĠD 3UHúHGLQWHOXL 81%5 FX FHO SXĠLQ  úDSWH ]LOH
+vQDLQWH GH GDWD úHGLQĠHL 'HVSUH SURSXQHUHD GH FRPSOHWDUH PHPEULL &RPLVLHL
+3HUPDQHQWHVXQWLQIRUPDĠLvQDLQWHDGHVIăúXUăULLúHGLQĠHL
+&RQIRUPRUGLQLLGH]LDSUREDWHVHSUH]LQWăPHPEULORU&RPLVLHL3HUPDQHQWH
+PDWHULDOHOH vQWRFPLWH UHIHULWRDUH OD SUREOHPDWLFD FH XUPHD]ă D IL GH]EăWXWă úL
+DSUREDWăSUHFXPúLSURLHFWHOHGHKRWăUkULúLGHFL]LLGXSăFD]
+ÌQFD]XOvQFDUHPHPEULL&RPLVLHL3HUPDQHQWHDXVWXGLDWvQSUHDODELOPDWH
+ULDOHOHFHXUPHD]ăDILDQDOL]DWHDSUREDWHúLDGRSWDWHDFHúWLDSRWYRWDFXPDMR
+ULWDWH VLPSOă WUHFHUHD GLUHFWă OD GH]EDWHUHD PDWHULDOHORU VXSXVH GH]EDWHULL úL
+DSUREăULL
+ 3UHúHGLQWHOH 81%5 Gă FXYkQWXO PHPEULORU &RPLVLHL 3HUPDQHQWH FDUH
+GRUHVFVăSDUWLFLSHODGH]EDWHULvQRUGLQHDvQVFULHULLDFHVWRUD
+0HPEULL&RPLVLHL3HUPDQHQWHSUH]HQĠLODGH]EDWHULSRWKRWăUvFXPDMRULWDWH
+VLPSOăGHYRWXULOLPLWDUHDODRSHULRDGăGHWLPSGHWHUPLQDWăDGXUDWHLOXăULORUGH
+FXYkQWDOHSDUWLFLSDQĠLORU/LPLWDUHDQXSRDWHILPDLPLFăGHWUHLPLQXWH
 
-Componență
-Art. 29
-Comisia Permanentă a U.N.B.R. este compusă din 15 membri, dintre care 5 membri sunt reprezentanți ai baroului București iar 10 membri sunt reprezentanți ai celorlalte barouri din țară.Președintele și vicepreședinții sunt membri de drept ai Comisiei Permanente și se includ în cei 15 membri.
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+384
+ 'H]EDWHULOH DVXSUD SUREOHPHORU LQFOXVH SH RUGLQHD GH ]L VH FRQVHPQHD]ă
+vQWUXQSURFHVYHUEDOvQWRFPLWGHFăWUHVHFUHWDULDWXOúHGLQĠHL&RPLVLHL3HUPDQHQWH
+DOFăWXLWGLQ6HFUHWDUXO &RPLVLHL3HUPDQHQWHGHVHPQDWFRQIRUPDUW GLQ /HJH
+[art. 66, după rep. 2018]DMXWDWGHSHUVRQDOXOWHKQLFVSHFLDOGHVHPQDW
+3URFHVXOYHUEDOYDILFRQWUDVHPQDWGH3UHúHGLQWHOH81%5úLGH6HFUHWDUXO
+&RPLVLHL3HUPDQHQWH
+ &RPLVLD 3HUPDQHQWă SRDWH DSURED FX PDMRULWDWH DEVROXWă GH YRWXUL
+SDUWLFLSDUHDODúHGLQĠHOHVDOHúLDDOWRUSHUVRDQHLQWHUHVDWHVDXLQYLWDĠL
+ 'XSă HSXL]DUHD WXWXURU SUREOHPHORU LQFOXVH SH RUGLQHD GH ]L 3UHúHGLQWHOH
+81%5 VDX YLFHSUHúHGLQWHOH GHVHPQDW YD GHFODUD vQFKLVH OXFUăULOH &RPLVLHL
+3HUPDQHQWH
+0HPEULL&RPLVLHL3HUPDQHQWHFRRUGRQHD]ăDFWLYLWăĠLOHGHSDUWDPHQWHORUGH
+OXFUXRUJDQL]DWHODQLYHOXO81%5úLvQUDSRUWFXDWULEXĠLLOHKRWăUkWHGH&RPLVLH
+DVLJXUă vQWUH úHGLQĠHOH &RQVLOLXOXL 81%5 UHDOL]DUHD DFWLYLWăĠLORU FH FRUHVSXQG
+IXQFĠLHL &RPLVLHL GH RUJDQ H[HFXWLY DO &RQVLOLXOXL 81%5 úL GH OHJăWXUă FX
+EDURXULOH
+&RPLVLD3HUPDQHQWăvQGHVIăúXUDUHDDFWLYLWăĠLLVDOHHPLWHGHFL]LLúLGLVSR
+]LĠLLFDUHDXFDUDFWHUREOLJDWRULX
+ 'HFL]LLOH úL GLVSR]LĠLLOH &RPLVLHL 3HUPDQHQWH SRW IL DWDFDWH OD &RQVLOLXO
+81%5GHSHUVRDQHOHLQWHUHVDWHvQWHUPHQGH]LOHGHODFRPXQLFDUH
+SecĠiunea a V-a
+Preúedintele úi vicepreúedinĠii U.N.B.R.
+Art. 35. Alegere. 3UHúHGLQWHOHúLYLFHSUHúHGLQĠLL81%5VXQWDOHúLSULQYRW
+VHFUHWFXPDMRULWDWHDEVROXWăGHYRWXULGHFăWUH&RQVLOLXO81%5vQSULPDúHGLQĠă
+RUGLQDUăGXSăDOHJHUHDVDGHFăWUH&RQJUHVXODYRFDĠLORU
+3UHúHGLQWHOHúLYLFHSUHúHGLQĠLL81%5SRWILUHYRFDĠLGH&RQVLOLXO81%5vQ
+DFHOHDúLFRQGLĠLL
+
+Art. 36. Competenäe.  3UHúHGLQWHOH 81%5 vQGHSOLQHúWH DWULEXĠLLOH
+SUHYă]XWHGHDUWGLQ/HJH[art. 68, după rep. 2018]
+ÌQUHDOL]DUHDDFHVWRUD3UHúHGLQWHOH81%5
+DSRDWHPDQGDWDDOĠLPHPEULDL&RPLVLHL3HUPDQHQWHVDXDL&RQVLOLXOXL81%5
+SHQWUXDUHSUH]HQWD81%5vQUHODĠLLOHFXSHUVRDQHOHIL]LFHVDXMXULGLFHGLQĠDUă
+VDXVWUăLQăWDWH
+E VHPQHD]ă KRWăUkULOH GHFL]LLOH úL GLVSR]LĠLLOH DGRSWDWH GH &RQVLOLXO úLVDX
+&RPLVLD3HUPDQHQWăDOH81%5
+F DGXFH OD vQGHSOLQLUH KRWăUkUHD &RQVLOLXOXL 81%5 GH FRQYRFDUH D &RQJUH
+VXOXLDYRFDĠLORU
+GvQFKHLHúLGHVIDFHvQFRQGLĠLLOHOHJLLFRQWUDFWHOHGHPXQFăDOHSHUVRQDOXOXLGLQ
+FDGUXODSDUDWXOXLWHKQLFRDGPLQLVWUDWLYDO81%5
+H FRRUGRQHD]ă DFWLYLWDWHD GH FHQWUDOL]DUH D WDEORXULORU DYRFDĠLORU vQWRFPLWH GH
+EDURXUL SUHFXP úL UHDFWXDOL]DUHD OXQDUă D DFHVWRUD SHQWUX D DVLJXUD HYLGHQĠD
+VWDWLVWLFăFRUHFWăúLOD]LD&RUSXOXLDYRFDĠLORUúLLQIRUPDUHDSXEOLFăDLQWHUGLFĠLLORURUL
+D FRQIOLFWHORU GH LQWHUHVH DOH DYRFDĠLORU DVWIHO FXP DFHVWHD UH]XOWă GLQ WDEORXULOH
 
-Calitatea de membru al Comisiei Permanente este compatibilă cu calitatea de membru al altor organe ale profesiei și cu calitatea de decan.
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+385
+vQWRFPLWHGH EDURXULLQFOXVLYSULQDILúDUHD FHQWUDOL]DWRUXOXL WDEORXOXLDYRFDĠLORUSH
+SDJLQDZHED81%5
+I VXSUDYHJKHD]ă DFWLYLWDWHD GH FHQWUDOL]DUH D GHFL]LLORU GH H[FOXGHUH VDX GH
+VXVSHQGDUHGLQSURIHVLHHPLVHGHLQVWDQĠHOHGLVFLSOLQDUHDOHSURIHVLHLSUHFXPúLD
+FHORUODOWHVDQFĠLXQLGLVFLSOLQDUH
+J LD PăVXUL SHQWUX EXQD GHVIăúXUDUH D DFWLYLWăĠLL GH FHQWUDOL]DUH D UH]XOWDWHORU
+H[DPHQHORUGHGREkQGLUHDWLWOXOXLSURIHVLRQDOGHDYRFDWGHILQLWLYúLGHDEVROYLUHD
+,133$
+KH[HUFLWăDFĠLXQHDGLVFLSOLQDUăvQFD]XULOHGDWHSULQ/HJHúL6WDWXWvQVDUFLQDVD
+LH[HUFLWăGXSăFRPXQLFDUHDDFHVWRUDFkQGDSUHFLD]ăFăVXQWvQWUXQLWHFRQGL
+ĠLLOHOHJDOHúLVWDWXWDUHFDOHDGHDWDFDFRQWHVWDĠLHLvPSRWULYD
+± GHFL]LHL FRQVLOLXOXL EDURXOXL SULQ FDUH XQ DYRFDW HVWH GHFODUDW QHGHPQ SHQWUX
+H[HUFLWDUHDvQFRQWLQXDUHDSURIHVLHL
+± GHFL]LHL FRQVLOLXOXL EDURXOXL SULQ FDUH FDOLWDWHD GH DYRFDW HVWH GHFODUDWă
+LQFRPSDWLELOăFXFDOLWDWHDGHDVRFLDWVDXFXvQGHSOLQLUHDXQHLIXQFĠLLGHFRQGXFHUH
+vQWURVRFLHWDWHFRPHUFLDOăvQFRQGLĠLLOHSUHYă]XWHvQDUWGLQ6WDWXW
+± GHFL]LHL FRQVLOLXOXL EDURXOXL SULQ FDUH VD UHVSLQV FHUHUHD XQHL SHUVRDQH GH
+SULPLUHvQSURIHVLHFXVFXWLUHGHH[DPHQ
+MSULPHúWHFHUHULOHGHDUELWUDUHDOLWLJLLORUvQFDUHVXQWLPSOLFDĠLGHFDQLDLEDURXULORU
+úLOHFRPXQLFăSăUĠLORUúL&RPLVLHL3HUPDQHQWH
+N vQGHSOLQHúWH RULFH DOWH DWULEXĠLL VWDELOLWH GH &RPLVLD 3HUPDQHQWă úL &RQVLOLXO
+81%5
+ ÌQ FD] GH DEVHQĠă VDX vQ YHGHUHD VROXĠLRQăULL RSHUDWLYH D XQRU DFWLYLWăĠL
+3UHúHGLQWHOH SRDWH GHOHJD SH XQXO GLQWUH YLFHSUHúHGLQĠL VăO vQORFXLDVFă VDX Vă
+vQGHSOLQHDVFăRSDUWHGLQWUHDWULEXĠLLOHDIHUHQWHIXQFĠLHLGH3UHúHGLQWH81%5
+Art. 37. Vicepreàedinäii U.N.B.R.  1XPăUXO YLFHSUHúHGLQĠLORU 81%5 VH
+VWDELOHúWHSULQKRWăUkUHD&RQVLOLXOXL81%5
+9LFHSUHúHGLQĠLL81%5vQGHSOLQHVFXUPăWRDUHOHDWULEXĠLLSULQFLSDOH
+D FRRUGRQHD]ă DFWLYLWDWHD &RPLVLLORU GH OXFUX RUJDQL]DWH OD QLYHOXO &RQVLOLXOXL
+81%5 D 'HSDUWDPHQWHORU RUJDQL]DWH OD QLYHOXO 81%5 vQ UDSRUW GH UHSDUWL
+]DUHDIăFXWăGH&RPLVLD3HUPDQHQWă
+EDVLJXUăSXQHUHDvQDSOLFDUHDKRWăUkULORU&RQVLOLXOXL81%5úLDOH&RPLVLHL
+3HUPDQHQWH FRQIRUP UHSDUWL]ăULL IăFXWH GH &RPLVLD 3HUPDQHQWă D 81%5
+SULYLWRDUHODFRQOXFUDUHD]RQDOăDEDURXULORU
+FvQGHSOLQHVFWRDWHDWULEXĠLLOHVWDELOLWHGH/HJH6WDWXWVDXGHRUJDQHOHLHUDUKLFH
+DOH SURIHVLHL úL UHSUH]LQWă 81%5 vQ UHODĠLLOH FX SHUVRDQHOH IL]LFH úL MXULGLFH GLQ
+ĠDUăúLGLQVWUăLQăWDWHSHED]DvQVăUFLQăULORUH[SUHVDFRUGDWHGHRUJDQHOHSURIHVLHL
+G vQORFXLHVF 3UHúHGLQWHOH OD FHUHUHD DFHVWXLD VDX vQ DEVHQĠD VD FRQIRUP
+GHVHPQăULLIăFXWHGH3UHúHGLQWHvQDFHVWVFRS
+
+Art. 38. Acte emise. 3UHúHGLQWHOH81%5HPLWHGLVSR]LĠLLvQOLPLWDFRPSH
+WHQĠHORUDIHUHQWHIXQFĠLHL
+'LVSR]LĠLLOHHPLVHGH3UHúHGLQWHOH81%5SRWILDWDFDWHvQFRQGLĠLLOHSUHYă
+]XWHGH/HJHúL6WDWXW
 
-Durata mandatului
-Art. 30
-Mandatul membrilor Comisiei Permanente este de 4 (patru) ani.În caz de încetare a mandatului de membru al Consiliului U.N.B.R. se desemnează de către Consiliul U.N.B.R. un înlocuitor al membrului Comisiei Permanente al cărui mandat a încetat cu respectarea regulilor prevăzute în prezentul Regulament pentru mandatul membrilor Consiliului U.N.B.R., care se aplică în mod corespunzător.
-
-Înlocuitorul desemnat va executa diferența de mandat.
-
-Competența
-Art. 31
-Comisia Permanentă ca organ de conducere executivă între ședințele Consiliului U.N.B.R. a activității U.N.B.R. îndeplinește următoarele atribuții principale:a) Urmărește aducerea la îndeplinire a hotărârilor și deciziilor Consiliului U.N.B.R. precum și a hotărârilor Congresului avocaților;
-
-b) întocmește și supune spre aprobare Consiliului U.N.B.R. Regulamentul de organizare și funcționare al U.N.B.R.;
-
-c) aprobă organigrama aparatului tehnico-administrativ al U.N.B.R. și stabilește criteriile de angajare și verificare anuală a cunoștințelor profesionale ale angajaților în vederea menținerii acestora pe post;
-
-d) asigură execuția bugetară și urmărește realizarea resurselor bugetului U.N.B.R.;
-
-e) acceptă donațiile și legatele făcute U.N.B.R.;
-
-f) stabilește cuantumul taxelor datorate U.N.B.R. pentru:
-
-– înscrierea candidaților la examenul de primire în profesie;
-
-– înscrierea candidaților la examenul de dobândire a titlului profesional de avocat definitiv;
-
-– înscrierea avocaților la examenul de verificare a cunoștințelor de drept românesc și de limbă română;
-
-– acordarea de avize conforme, în condițiile legii;
-
-– activități de secretariat și jurisdicție profesională;
-
-g) desemnează arbitrul însărcinat cu arbitrarea litigiilor în care una dintre părți are calitatea de decan;
-
-h) aprobă lista invitaților la Congresul U.N.B.R.
-
-i) îndeplinește și alte atribuțiuni în baza și limitele mandatului dat de Congresul avocaților și/sau Consiliul U.N.B.R.
-
-Convocare
-Art. 32
-Comisia Permanentă se convoacă de Președintele U.N.B.R. și-și desfășoară lucrările obligatoriu înaintea ședințelor Consiliului U.N.B.R. sau ori de câte ori este necesar.Prevederile art.25 se aplică în mod corespunzător.
-
-Acte adoptate
-Art. 33
-Ordinea de zi a ședinței este supusă aprobării Comisiei Permanente. Ea poate fi modificată sau completată prin vot. În cazul în care există propuneri de completare a ordinei de zi, propunerea trebuie formulată în scris și adusă la cunoștința Președintelui U.N.B.R. cu cel puțin 7 (șapte) zile înainte de data ședinței Despre propunerea de completare, membrii Comisiei Permanente sunt informați în prealabil ședinței.Conform ordinii de zi aprobate, se prezintă în fața membrilor Comisiei Permanente materialele întocmite referitoare la problematica ce urmează a fi dezbătută și aprobată, precum și proiectele de hotărâri și decizii, după caz.
-
-În ipoteza în care membrii Comisiei Permanente au studiat în prealabil materialele ce urmează a fi analizate, aprobate și adoptate, aceștia pot vota cu majoritate simplă trecerea directă la dezbaterea materialelor supuse dezbaterii și aprobării.
-
-Președintele U.N.B.R. dă cuvântul membrilor Comisiei Permanente care doresc să participe la dezbateri în ordinea înscrierii acestora.
-
-Membrii Comisiei Permanente prezenți la dezbateri pot hotărî, cu majoritate simplă de voturi, limitarea la o perioadă de timp precis determinată a duratei luărilor de cuvânt ale participanților. Limitarea nu poate fi mai mică de 3 (trei) minute.
-
-Dezbaterile asupra problemelor incluse pe ordinea de zi se consemnează într-un proces-verbal întocmit de către secretariatul ședinței Comisiei Permanente alcătuit din Secretarul Comisiei Permanente, desemnat conform art. 64 din lege, ajutat de personalul tehnic special desemnat.
-
-Proces-verbal ce va fi contrasemnat de Președintele U.N.B.R. și de Secretarul Comisiei Permanente.
-
-Comisia Permanentă poate aproba cu majoritate absolută de voturi participarea la ședințele sale și a altor persoane interesate sau invitați.
-
-După epuizarea tuturor problemelor incluse pe ordinea de zi, Președintele U.N.B.R. sau vicepreședintele desemnat de acesta va declara închise lucrările Comisiei Permanente.
-
-Membrii Comisiei Permanente coordonează activitățile departamentelor de lucru organizate la nivelul U.N.B.R. și, în raport cu atribuțiile hotărâte de Comisie asigură între ședințele Consiliului U.N.B.R. realizarea activităților ce corespund funcției Comisiei de organ executiv al Consiliului U.N.B.R. și de legătură cu barourile.
-
-Comisia Permanentă, în desfășurarea activității sale, emite decizii și dispoziții care au caracter obligatoriu.
-
-Deciziile și dispozițiile Comisiei Permanente pot fi atacate la Consiliul U.N.B.R. de persoanele interesate, în termen de 15 zile de la comunicare.
-
-Secțiunea a V-a
-
-Președintele și Vicepreședinții U.N.B.R.
-
-Alegere
-Art. 34
-Președintele și Vicepreședinții U.N.B.R. sunt aleși prin vot secret, cu majoritate absolută de voturi, de către Consiliul U.N.B.R. în prima ședință ordinară după alegerea sa de către Congresul avocaților.Președintele și Vicepreședinții U.N.B.R. pot fi revocați de Consiliul U.N.B.R. în aceleași condiții.
-
-Competențe
-Art. 35
-Președintele U.N.B.R. îndeplinește atribuțiile prevăzute de art. 66 din lege.În realizarea acestora, Președintele U.N.B.R.:
-
-a) poate mandata alți membri ai Comisiei Permanente sau ai Consiliului U.N.B.R. pentru a reprezenta U.N.B.R. în relațiile cu persoanele fizice sau juridice din țară sau străinătate;
-
-b) semnează hotărârile, deciziile și dispozițiile adoptate de Consiliul și/sau Comisia Permanentă ale U.N.B.R.;
-
-c) aduce la îndeplinire hotărârea Consiliului U.N.B.R. de convocare a Congresului avocaților;
-
-d) încheie și desface, în condițiile legii, contractele de muncă ale personalului din cadrul aparatului tehnico-administrativ al U.N.B.R.;
-
-e) coordonează activitatea de centralizare a tablourilor avocaților întocmite de barouri, precum și reactualizarea lunară a acestora pentru a asigura evidența statistică corectă și la zi a Corpului avocaților și informarea publică a interdicțiilor ori a conflictelor de interese ale avocaților, astfel cum acestea rezultă din tablourile întocmite de barouri, inclusiv prin afișarea centralizatorului tabloului avocaților pe website-ul U.N.B.R.;
-
-f) supraveghează activitatea de centralizare a deciziilor de excludere sau de suspendare din profesie emise de instanțele disciplinare ale profesiei, precum și a celorlalte sancțiuni disciplinare;
-
-g) ia măsuri pentru buna desfășurare a activității de centralizare a rezultatelor examenelor de dobândire a titlului profesional de avocat definitiv și de absolvire a I.N.P.P.A;
-
-h) exercită acțiunea disciplinară în cazurile date prin lege și Statut în sarcina sa;
-
-i) exercită, după comunicarea acestora, când apreciază că sunt întrunite condițiile legale și statutare, calea de atac a contestației împotriva:
-
-– deciziei consiliului baroului prin care un avocat este declarat nedemn pentru exercitarea în continuare a profesiei;
-
-– deciziei consiliului baroului prin care calitatea de avocat este declarată incompatibilă cu calitatea de membru al Consiliului de Administrare al unei societăți comerciale sau al unei organizații nonprofit;
-
-– deciziei consiliului baroului prin care s-a respins cererea unei persoane de primire în profesie cu scutire de examen.
-
-j) primește cererile de arbitrare a litigiilor în care sunt implicați decani ai barourilor și le comunică părților și Comisiei Permanente;
-
-k) îndeplinește orice alte atribuții stabilite de Comisia Permanentă și Consiliul U.N.B.R.
-
-În caz de absență sau soluționarea operativă a activităților, Președintele poate delega pe unul dintre vicepreședinți să-l înlocuiască sau să îndeplinească o parte dintre atribuțiile aferente funcției de Președinte U.N.B.R.
-
-Vicepreședinții U.N.B.R.
-Art. 36
-Numărul Vicepreședinților U.N.B.R. se stabilește prin hotărâre a Consiliului U.N.B.R.Vicepreședinții U.N.B.R. îndeplinesc următoarele atribuții principale:
-
-a) coordonează activitatea Comisiilor de lucru organizate la nivelul Consiliului U.N.B.R., a Departamentelor organizate la nivelul U.N.B.R., în raport de repartizarea făcută de Comisia Permanentă;
-
-b) asigură punerea în aplicare a hotărârilor Consiliului U.N.B.R. și ale Comisiei Permanente conform repartizării făcute de Comisia Permanentă a U.N.B.R. privitoare la conlucrarea zonală a barourilor.
-
-c) îndeplinesc toate atribuțiile stabilite de lege sau de organele ierarhice ale profesiei și reprezintă U.N.B.R. în relațiile cu persoanele fizice și juridice din țară și din străinătate pe baza însărcinărilor expres acordate de organele profesiei;
-
-d) înlocuiesc Președintele la cerere sau în absența sa, conform desemnării făcute de Președinte în acest scop.
-
-Acte emise
-Art. 37
-Președintele U.N.B.R. emite dispoziții în limita competențelor aferente funcției.Dispozițiile emise de Președintele U.N.B.R. pot fi atacate în condițiile prevăzute de lege și Statut.
-
-Secțiunea a VI-a
-
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+386
+SecĠiunea a VI-a
 Departamentele organizate la nivelul U.N.B.R.
+Art. 39. Structura organizatoricâ.  /D QLYHOXO 81%5 FRUHVSXQ]ăWRU
+GHSDUWDPHQWHORU RUJDQL]DWH OD QLYHOXO &RQVLOLXOXL 81%5 úL DO &RPLVLHL 3HUPD
+QHQWHD81%5IXQFĠLRQHD]ăXUPăWRDUHOHGHSDUWDPHQWH
+ Departamentul Economico-financiar úi administrativ HVWH FRRUGRQDW GH XQ
+YLFHSUHúHGLQWH
+'HSDUWDPHQWXOHVWHFRQGXVGHXQPDQDJHUHFRQRPLFúLUăVSXQGHGHDGXFHUHD
+ODvQGHSOLQLUHDXUPăWRDUHORUDWULEXĠLXQLSULQFLSDOH
+DvQWRFPHúWHúLĠLQHFRQWDELOLWDWHDILQDQFLDUăúLGHJHVWLXQHD81%5
+EHODERUHD]ăúLIXQGDPHQWHD]ăSURLHFWXOEXJHWXOXLDQXDOGHYHQLWXULúLFKHOWXLHOL
+F XUPăUHúWH UHDOL]DUHD YHQLWXULORU SODQLILFDWH úL HIHFWXDUHD FKHOWXLHOLORU FX
+UHVSHFWDUHDVWULFWăDGHVWLQDĠLHLDFHVWRUD
+GDGPLQLVWUHD]ăEXQXULOHLPRELOHúLPRELOHSURSULHWDWHDDFHVWHLD
+HIXQGDPHQWHD]ăSURLHFWHOHGHLQYHVWLĠLLúLXUPăUHúWHGHUXODUHDFRUHVSXQ]ăWRDUH
+DDFHVWRUD
+IĠLQHHYLGHQĠDSDWULPRQLXOXL81%5
+J vQWRFPHúWH úL UăVSXQGH GH FRUHFWLWXGLQHD úL H[DFWLWDWHD UDSRUWăULORU
+ILQDQFLDUFRQWDELOHFăWUHDXWRULWăĠLOHSXEOLFHFHQWUDOHúLORFDOHFRPSHWHQWH
+KVSULMLQăEDURXULOHODVROLFLWDUHDDFHVWRUDvQOHJăWXUăFXSUREOHPDWLFDDIHUHQWă
+GRPHQLXOXLILQDQFLDUFRQWDELO
+L FRODERUHD]ă FX FRPSDUWLPHQWHOH GH VSHFLDOLWDWH GH OD QLYHOXO EDURXULORU vQ
+YHGHUHDFHQWUDOL]ăULLGHGDWHGLQGRPHQLXOILQDQFLDUFRQWDELOúLvQWRFPLULLVLWXDĠLLORU
+VROLFLWDWHGH&RPLVLD3HUPDQHQWă
+M vQGHSOLQHúWH vQ FRQGLĠLLOH /HJLL úL DOWH DWULEXĠLL úL VDUFLQL VWDELOLWH GH RUJDQHOH
+81%5
+0DQDJHUXOHFRQRPLFUăVSXQGHGHRUJDQL]DUHDFRUHVSXQ]ăWRDUHDFRQWUROXOXL
+ILQDQFLDUSUHYHQWLY
+Departamentul ProtecĠia profesiei, informare úi relaĠii publice HVWHFRRUGRQDW
+GHXQYLFHSUHúHGLQWHúLvQGHSOLQHúWHXUPăWRDUHOHDWULEXĠLXQLSULQFLSDOH
+D RUJDQL]HD]ă VWRFDUHD LQIRUPDĠLLORU GH ODUJ LQWHUHV UHIHULWRDUH OD DFWLYLWDWHD
+DYRFDĠLORUúLRUJDQHORUSURIHVLHL
+E DVLJXUă FX vQFXYLLQĠDUHD SUHDODELOă D 3UHúHGLQWHOXL 81%5 SXQHUHD OD
+GLVSR]LĠLDSHUVRDQHORULQWHUHVDWHDLQIRUPDĠLLORUVROLFLWDWH
+FLGHQWLILFăVHOHFWHD]ăúLVWRFKHD]ăúWLULOHGLIX]DWHGHPDVVPHGLDQDĠLRQDOăúL
+ORFDOăFDUHDXXQLPSDFWDVXSUDDFWLYLWăĠLLúLLPDJLQLL&RUSXOXLDYRFDĠLORUEDURXULORU
+úL RUJDQHORU 81%5 vQWUHSULQGH GHPHUVXULOH QHFHVDUH SHQWUX YHULILFDUHD
+YHULGLFLWăĠLL DFHVWRUD úL SUH]LQWă RSLQLHL SXEOLFH SXQFWXO GH YHGHUH DO FRQGXFHULL
+81%5
+GvQWRFPHúWH]LOQLFUHYLVWDSUHVHLSHFDUHRSUH]LQWă3UHúHGLQWHOXL81%5
+H vQWRFPHúWH úL ĠLQH OD ]L HYLGHQĠD UHSUH]HQWDQĠLORU PLMORDFHORU GH LQIRUPDUH vQ
+PDVăDFUHGLWDĠLSHOkQJă81%5
+I UHGDFWHD]ă FRPXQLFDWH úL GHFODUDĠLL GH SUHVă SULQ FDUH H[SULPă SXQFWXO GH
+YHGHUH DO FRQGXFHULL 81%5 vQ OHJăWXUă FX SUREOHPHOH GH ODUJ LQWHUHV FDUH
+YL]HD]ăúLDFWLYLWDWHDDYRFDĠLORU
 
-Structura organizatorică
-Art. 38
-La nivelul U.N.B.R., corespunzător departamentelor organizate la nivelul Consiliului U.N.B.R. și al Comisiei Permanente a U.N.B.R. funcționează următoarele departamente:I. Departamentul Economico-financiar și administrativ este coordonat de un vicepreședinte.
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+387
+J ĠLQH OHJăWXUD FX ELURXULOH GH SUHVă úL SXUWăWRULL GH FXYkQW DL EDURXULORU vQ
+YHGHUHDFHQWUDOL]ăULLúWLULORUúLLQIRUPDĠLLORUGLIX]DWHvQPLMORDFHOHGHFRPXQLFDUHvQ
+PDVăvQOHJăWXUăFXDFWLYLWDWHDDYRFDĠLORUúLRUJDQHORUSURIHVLHL
+KvQGHSOLQHúWHúLDOWHVDUFLQLWUDVDWHGH3UHúHGLQWHOH81%5
+LDVLJXUăDFWXDOL]DUHDOD]LDSDJLQLLZHED81%5
+'HSDUWDPHQWXOHVWHFRQGXVGHXQVSHFLDOLVWvQUHODĠLLSXEOLFHVDXGHXQDYRFDW
+FXH[SHULHQĠăvQDFWLYLWDWHDGHFRPXQLFDUHSXEOLFă
+ 'HSDUWDPHQWXO GH LQIRUPDUH SUHVă úL UHODĠLL SXEOLFH HVWH FRRUGRQDW GH
+YLFHSUHúHGLQWHOH81%5GHVHPQDWGH&RPLVLD3HUPDQHQWăFDUHvQGHSOLQHúWHúL
+IXQFĠLDGHSXUWăWRUGHFXYkQWDO81%5
+3RDWHILSXUWăWRUGHFXYkQWDO81%5úLXQDYRFDWFXH[SHULHQĠăvQGRPHQLXO
+FRPXQLFăULLSXEOLFHGHVHPQDWGH&RPLVLD3HUPDQHQWăD81%5
+3XUWăWRUXOGHFXYkQWYDH[SULPDSXQFWHOHGHYHGHUHúLOXăULOHGHSR]LĠLHDOH
+3UHúHGLQWHOXL81%5úLFHORUODOWHRUJDQHDOHSURIHVLHLIDĠăGHSUREOHPHOHUHIHUL
+WRDUHODH[HUFLWDUHDSURIHVLHLGHDYRFDW
+ ÌQ VLWXDĠLD vQ FDUH vQ FDGUXO GHSDUWDPHQWXOXL vúL GHVIăúRDUă DFWLYLWDWHD XQ
+DYRFDWDFHVWDSRDWHDYHDUDSRUWXULGHFRODERUDUHSHED]ăGHFRQYHQĠLHGHSUHVWăUL
+VHUYLFLLFX81%5
+ Departamentul Secretariat, protocol úi coordonarea serviciilor tehnico-admi-
+nistrative HVWHFRRUGRQDWGHXQYLFHSUHúHGLQWHúLvQGHSOLQHúWHXUPăWRDUHOHDWULEXĠLL
+DRUJDQL]HD]ăúLHYLGHQĠLD]ăSULPLUHDúLFRPXQLFDUHDFRUHVSRQGHQĠHLDGUHVDWH
+81%5RULFDUHSURYLQHGHOD81%5
+E RUJDQL]HD]ă HYLGHQĠD úL FRPXQLFDUHD GHFL]LLORU KRWăUkULORU GLVSR]LĠLLORU úL D
+DGUHVHORU81%5SULQFDUHVHUHDOL]HD]ăFRPXQLFăULIDĠăGHDOWHRUJDQHDOHSUR
+IHVLHLRULIDĠăGHWHUĠL
+F UHDOL]HD]ă FX SDUWLFLSDUHD FHORUODOWH GHSDUWDPHQWH VLVWHPXO GH HYLGHQĠă D
+OXFUăULORUVXSXVHDUKLYăULLSRWULYLWQRPHQFODWRUXOXLDSUREDWGH&RPLVLD3HUPDQHQWă
+GRUJDQL]HD]ăFRQGLĠLLOHGHSăVWUDUHSUHGDUHúLWUDQVIHUDOXFUăULORU
+HRUJDQL]HD]ăUHJLVWUXOJHQHUDOGHHYLGHQĠăDOXFUăULORU81%5
+IvQUHJLVWUHD]ăúLDVLJXUăWUDQVPLWHUHDFRQGLFLLGHSUHGDUHSULPLUHDOXFUăULORUGH
+OD úL FăWUH &RQVLOLXO 81%5 &RPLVLD 3HUPDQHQWă D 81%5 úL 3UHúHGLQWHOH
+81%5FăWUHGHSDUWDPHQWHOH81%5
+JRUJDQL]HD]ăDFĠLXQLOHGHSURWRFROQHFHVDUHGHVIăúXUăULLDFWLYLWăĠLORULQLĠLDWHGH
+81%5
+KH[HFXWăRULFHDOWHGLVSR]LĠLLDOHFRQGXFHULL81%5
+Departamentul Afaceri europene, cooperare internaĠională úi programe HVWH
+FRRUGRQDWGHXQYLFHSUHúHGLQWHúLvQGHSOLQHúWHXUPăWRDUHOHDWULEXĠLLSULQFLSDOH
+DDVLJXUăFRPXQLFDUHDDFWLYLWăĠLORURUJDQL]DĠLLORULQWHUQDĠLRQDOHDOFăURUPHPEUX
+HVWH81%5úLDKRWăUkULORUDFHVWRUDFăWUHRUJDQHOH81%5
+ESDUWLFLSăODQHJRFLHUHDLPSOHPHQWDUHDúLPRQLWRUL]DUHDSURJUDPHORUILQDQĠDWH
+GHGLIHULWHRUJDQLVPHúLRUJDQL]DĠLLLQWHUQDĠLRQDOHSUHFXPúLDFHORUGH]YROWDWHSH
+OLQLHELODWHUDOăGH81%5FXDFHVWHD
+FIRUPXOHD]ăSURSXQHULGHDVLVWHQĠăLQWHUQDĠLRQDOăvQLPSOHPHQWDUHDVWUDWHJLLORU
+SULYLQGGH]YROWDUHDSURIHVLHLGHDYRFDW
+G SDUWLFLSă OD RUJDQL]DUHD YL]LWHORU UHSUH]HQWDQĠLORU DYRFDĠLORU GLQ VWUăLQăWDWH vQ
+5RPkQLDRULDLUHSUH]HQWDQĠLORU81%5vQVWUăLQăWDWH
 
-Departamentul este condus de un manager economic și răspunde de aducerea la îndeplinire a următoarelor atribuțiuni principale:
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+388
+HSURPRYHD]ăúLSăVWUHD]ăOHJăWXULFXGHSDUWDPHQWHGLUHFĠLLVHUYLFLLVLPLODUHGLQ
+FDGUXOLQVWLWXĠLLORUURPkQHúWLúLDOHLQVWLWXĠLLORUHXURSHQHúLLQWHUQDĠLRQDOHFXPLVLXQL
+vQ 5RPkQLD 'LUHFĠLD $IDFHUL (XURSHQH 5HODĠLL ,QWHUQDĠLRQDOH úL 3URJUDPH GLQ
+FDGUXO &RQVLOLXOXL 6XSHULRU DO 0DJLVWUDWXULL 'LUHFĠLD $IDFHUL (XURSHQH GLQ FDGUXO
+0LQLVWHUXOXL -XVWLĠLHL 6HUYLFLXO GH &RRSHUDUH -XGLFLDUă ,QWHUQDĠLRQDOă 5HODĠLL
+,QWHUQDĠLRQDOHúL3URJUDPHGLQFDGUXO3DUFKHWXOXL*HQHUDOGHSDUWDPHQWHVLPLODUH
+GLQFDGUXO3DUODPHQWXOXLúL*XYHUQXOXL5RPkQLHL%LURXOGH,QIRUPDUHDO&RQVLOLXOXL
+(XURSHLOD%XFXUHúWL'HOHJDĠLD&RPLVLHL(XURSHQHOD%XFXUHúWLÌQDOWXO&RPLVDULDW
+DO1DĠLXQLORU8QLWHSHQWUX5HIXJLDĠL3URJUDPXO1DĠLXQLORU 8QLWHSHQWUX 'H]YROWDUH
+HWF
+I DVLJXUă XQ IOX[ GH LQIRUPDĠLL HILFLHQW vQWUH RUJDQL]DĠLLOH HXURSHQH úL LQWHUQD
+ĠLRQDOHúL&RUSXODYRFDĠLORU
+JFRODERUHD]ăSHSUREOHPHGHPDQDJHPHQWDOSURFHGXULORUVSHFLILFHFXFRRUGR
+QDWRULLGHSURLHFWVDXSURJUDPH
+K DVLJXUă LQIRUPDUHD FRUHFWă úL SURPSWă D DYRFDĠLORU LQWHUHVDĠL Vă H[HUFLWH
+SURIHVLDGHDYRFDWvQVSDĠLXOHXURSHDQúLDVLJXUăUH]ROYDUHDOXFUăULORUSULYLWRDUHOD
+vQVFULHUHDDYRFDĠLORUVWUăLQLvQEDURXULOHGLQ5RPkQLD
+L vQGHSOLQHúWH DFWLYLWăĠL VSHFLILFH FRQIRUP DWULEXĠLLORU VWDELOLWH GH FRQGXFHUHD
+81%5
+ $FWLYLWDWHD GHSDUWDPHQWXOXL VH UHDOL]HD]ă SULQ FRRUGRQDUH GLUHFWă D DFWLYL
+WăĠLORUGHFăWUHGRLPHPEULDL&RPLVLHL3HUPDQHQWHGHVHPQDĠLFDRILĠHULGHOHJă
+WXUăXQXOFXDWULEXĠLLvQOHJăWXUăFXRUJDQL]DĠLLOHHXURSHQHúLFHOăODOWFXDWULEXĠLLvQ
+OHJăWXUă FX RUJDQL]DĠLLOH LQWHUQDĠLRQDOH ÌQ UHDOL]DUHD DFHVWRU DWULEXĠLL YLFHSUHúH
+GLQWHOH FRRUGRQDWRU vPSUHXQă FX RILĠHULL GH OHJăWXUă FRQOXFUHD]ă FX PHPEULL
+&RQVLOLXOXL81%5RULFXDYRFDĠLGHVHPQDĠLGHEDURXUL
+Departamentul de Coordonare a AsistenĠei Judiciare HVWHFRRUGRQDWGHXQ
+YLFHSUHúHGLQWHúLvQGHSOLQHúWHXUPăWRDUHOHDWULEXĠLLSULQFLSDOH
+D GHVIăúRDUă FRQGXFHUHD PHWRGRORJLFă D DFWLYLWăĠLL GH DFRUGDUH D DVLVWHQĠHL
+MXGLFLDUH
+E HODERUHD]ă SURLHFWXO GH 5HJXODPHQWFDGUX SHQWUX RUJDQL]DUHD VHUYLFLLORU GH
+DVLVWHQĠăMXGLFLDUă
+F SURSXQH VDX GXSă FD] DYL]HD]ă SURLHFWH GH SURWRFRDOH FH VH vQFKHLH FX
+DXWRULWăĠLOH SXEOLFH FRPSHWHQWH vQ VFRSXO REĠLQHULL PLMORDFHORU ILQDQFLDUH QHFHVDUH
+SHQWUXRUJDQL]DUHDVHUYLFLLORUGHDVLVWHQĠăMXGLFLDUă
+GRUJDQL]HD]ă5HJLVWUXOQDĠLRQDOGHDVLVWHQĠăMXGLFLDUăSHED]DUHJLVWUHORUvQWRF
+PLWHGHEDURXUL
+H RUJDQL]HD]ă úL FRRUGRQHD]ă PHWRGRORJLD GH SODWă D RQRUDULLORU SHQWUX DVLV
+WHQĠDMXGLFLDUăDFRUGDWă
+IHIHFWXHD]ăFRQWUROXODVXSUDDVLVWHQĠHLMXGLFLDUHDFRUGDWH
+JHODERUHD]ăSURLHFWHGHDFWHQRUPDWLYHvQGRPHQLXODVLVWHQĠHLMXGLFLDUHSHFDUH
+OHSURSXQH0LQLVWHUXOXL-XVWLĠLHLvQYHGHUHDSURPRYăULL
+K VWDELOHúWH vPSUHXQă FX 0LQLVWHUXO -XVWLĠLHL LQGLFLL VWDWLVWLFL ĠLQH HYLGHQĠD
+VWDWLVWLFă D VLVWHPXOXL GH DVLVWHQĠă MXGLFLDUă úL DQDOL]HD]ă LQIRUPDĠLLOH QHFHVDUH
+SHQWUXSODQLILFDUHDúLFRRUGRQDUHDFRUHFWăDVLVWHPXOXLGHDVLVWHQĠăMXGLFLDUă
+L FRODERUHD]ă FX 0LQLVWHUXO -XVWLĠLHL SHQWUX EXQD IXQFĠLRQDUH úL SODQLILFDUHD
+LQFOXVLYGLQSXQFWGHYHGHUHEXJHWDUDVLVWHPXOXLGHDVLVWHQĠăMXGLFLDUă
+MSRSXODUL]HD]ăVLVWHPXOGHDVLVWHQĠăMXGLFLDUă
 
-a) întocmește și ține contabilitatea financiară și de gestiune a U.N.B.R.;
-
-b) elaborează și fundamentează proiectul bugetului anual de venituri și cheltuieli;
-
-c) urmărește realizarea veniturilor planificate și efectuarea cheltuielilor cu respectarea strictă a destinației acestora;
-
-d) administrează bunurile imobile și mobile proprietatea acesteia;
-
-e) fundamentează proiectele de investiții și urmărește derularea corespunzătoare a acestora;
-
-f) ține evidența patrimoniului U.N.B.R.;
-
-g) întocmește și răspunde de exactitatea raportărilor financiar-contabile către autoritățile publice centrale și locale competente;
-
-h) sprijină Barourile, la solicitarea acestora, în legătură cu problematica aferentă domeniului financiar contabil;
-
-i) colaborează cu compartimentele de specialitate de la nivelul barourilor în vederea centralizării de date din domeniul financiar-contabil și întocmirii situațiilor solicitate de Comisia Permanentă.
-
-j) îndeplinește, în condițiile legii, și alte atribuții și sarcini stabilite de organele U.N.B.R.
-
-Managerul economic răspunde de organizarea corespunzătoare a controlului financiar preventiv.
-
-II. Departamentul Protecția profesiei, informare și relații publice, este coordonat de un vicepreședinte și îndeplinește următoarele atribuțiuni principale:
-
-a) organizează stocarea informațiilor de larg interes referitoare la activitatea avocaților și organelor profesiei;
-
-b) asigură, cu încuviințarea prealabilă a Președintelui U.N.B.R., punerea la dispoziția persoanelor interesate a informațiilor solicitate;
-
-c) identifică, selectează și stochează știrile difuzate de mass-media națională și locală care au un impact asupra activității și imaginii Corpului avocaților, barourilor și organelor U.N.B.R., întreprinde demersurile necesare pentru verificarea veridicității acestora și prezintă opiniei publice punctul de vedere al conducerii Uniunii;
-
-d) întocmește zilnic revista presei pe care o prezintă Președintelui U.N.B.R.;
-
-e) întocmește și ține la zi evidența reprezentanților mijloacelor de informare în masă acreditați pe lângă U.N.B.R.;
-
-f) redactează comunicate și declarații de presă prin care exprimă punctul de vedere al conducerii U.N.B.R. în legătură cu problemele de larg interes care vizează și activitatea avocaților;
-
-g) ține legătura cu birourile de presă și purtătorii de cuvânt ai barourilor în vederea centralizării știrilor și informațiilor difuzate în mijloacele de comunicare în masă în legătură cu activitatea avocaților și organelor profesiei;
-
-h) îndeplinește și alte sarcini trasate de Președintele U.N.B.R;
-
-i) asigură actualizarea la zi a website-ului U.N.B.R.
-
-Departamentul este condus de un specialist în relații publice sau un avocat cu experiență în activitatea de comunicare publică.
-
-Departamentului de informare, presă și relații publice este coordonat de vicepreședintele U.N.B.R. desemnat de Comisia Permanentă, care îndeplinește și funcția de purtător de cuvânt al U.N.B.R.
-
-Poate fi purtător de cuvânt al U.N.B.R. și un avocat cu experiență în domeniul comunicării publice, desemnat de Comisia Permanentă a U.N.B.R.
-
-Purtătorul de cuvânt va exprima punctele de vedere și luările de poziție ale Președintelui U.N.B.R. și celorlalte organe ale profesiei față de problemele referitoare la exercitarea profesiei de avocat.
-
-În situația în care în cadrul departamentului își desfășoară activitatea un avocat, acesta poate avea raporturi de colaborare pe bază de convenție de prestări servicii cu U.N.B.R.
-
-III. Departamentul Secretariat, protocol și coordonarea serviciilor tehnico – administrative este coordonat de un vicepreședinte și îndeplinește următoarele atribuții:
-
-a) organizează și evidențiază primirea și comunicarea corespondenței adresate U.N.B.R. ori care provine de la U.N.B.R.;
-
-b) organizează evidența și comunicarea deciziilor, hotărârilor, dispozițiilor și a adreselor U.N.B.R. prin care se realizează comunicări față de alte organe ale profesiei ori față de terți;
-
-c) realizează, cu participarea celorlalte departamente, sistemul de evidență a lucrărilor supuse arhivării, potrivit nomenclatorului aprobat de Comisia Permanentă;
-
-d) organizează condițiile de păstrare, predare și transfer a lucrărilor;
-
-e) organizează registrul general de evidență a lucrărilor U.N.B.R.;
-
-f) înregistrează și asigură transmiterea condicii de predare – primire a lucrărilor de la și către Consiliul U.N.B.R., Comisia Permanentă a U.N.B.R. și Președintele U.N.B.R. către departamentele U.N.B.R.;
-
-g) organizează acțiunile de protocol necesare desfășurării activităților inițiate de U.N.B.R.;
-
-h) execută orice alte dispoziții ale conducerii U.N.B.R.
-
-IV. Departamentul Afaceri europene, cooperare internațională și programe, este coordonat de un vicepreședinte și îndeplinește următoarele atribuții principale:
-
-a) asigură comunicarea activităților organizațiilor internaționale al căror membru este U.N.B.R. și a hotărârilor acestora către organele U.N.B.R.;
-
-b) participă la negocierea, implementarea și monitorizarea programelor finanțate de diferite organisme și organizații internaționale precum și a celor dezvoltate pe linie bilaterală de U.N.B.R. cu acestea;
-
-c) formulează propuneri de asistență internațională în implementarea strategiilor privind dezvoltarea profesiei de avocat;
-
-d) participă la organizarea vizitelor reprezentanților avocaților din străinătate în România ori ai reprezentanților U.N.B.R. în străinătate;
-
-e) promovează și păstrează legături cu departamente / direcții / servicii similare din cadrul instituțiilor românești și ale instituțiilor europene și internaționale cu misiuni în România (Direcția Afaceri Europene, Relații Internaționale și Programe din cadrul Consiliului Superior al Magistraturii, Direcția Afaceri Europene din cadrul Ministerului Justiției, Serviciul de Cooperare Judiciară Internațională, Relații Internaționale și Programe din cadrul Parchetului General, departamente similare din cadrul Parlamentului și Guvernului României, Biroul de Informare al Consiliului Europei la București, Delegația Comisiei Europene la București, Înaltul Comisariat al Națiunilor Unite pentru Refugiați, Programul Națiunilor Unite pentru Dezvoltare, etc.);
-
-f) asigurarea unui flux de informații eficient între organizațiile europene și internaționale și Corpul avocaților;
-
-g) colaborează pe probleme de management al procedurilor specifice cu coordonatorii de proiect sau programe;
-
-h) asigură informarea corectă și promptă a avocaților interesați să exercite profesia de avocat în spațiul european și asigură rezolvarea lucrărilor privitoare la înscrierea avocaților străini în barourile din România;
-
-i) îndeplinește activități specifice conform atribuțiilor stabilite de conducerea UNBR.;
-
-Activitatea departamentului se realizează prin coordonare directă a activităților de către doi membri ai Comisiei Permanente, desemnați ca ofițeri de legătură, unul cu atribuții în legătură cu organizațiile europene și celălalt cu atribuții în legătură cu organizațiile internaționale. În realizarea acestor atribuții vicepreședintele coordonator împreună cu ofițerii de legătură conlucrează cu membrii Consiliului U.N.B.R., ori cu avocați desemnați de barouri.
-
-În cadrul U.N.B.R. Comisia Permanentă coordonează activitatea de formare profesională pentru realizarea atribuțiilor Consiliului U.N.B.R. prevăzute la art. 63 lit. g) din Lege.
-
-Aparatul tehnico – administrativ al U.N.B.R.
-Art. 39
-Pentru îndeplinirea corespunzătoarea atribuțiilor conferite de lege și statut, în cadrul U.N.B.R. funcționează un aparat tehnico-administrativ care are structura organizatorică prevăzută în Anexa nr.1, care face parte integrantă din prezentul Regulament.Nivelurile de salarizare ale personalului angajat sau ale indemnizațiilor colaboratorilor se stabilesc prin decizie a Comisiei Permanente.
-
-Conducerea
-Art. 40
-Conducerea întregii activității a aparatului tehnico-administrativ este asigurată de Președintele U.N.B.R. sau,în situațiile prevăzute de lege și Statut, de către unul dintre Vicepreședinți desemnat de acesta.Actele, indiferent de natura acestora, întocmite de personalul din cadrul aparatului tehnico-administrativ sunt valide și angajează din punct de vedere juridic U.N.B.R. numai dacă sunt semnate de Președintele U.N.B.R. sau, după caz, de Vicepreședintele desemnat de acesta pentru a-l înlocui.
-
-Secțiunea a VII-a
-
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+389
+N VWDELOHúWH IRUPXODULVWLFD XWLOL]DWă GH EDURXUL SHQWUX RUJDQL]DUHD DFWLYLWăĠLL GH
+DVLVWHQĠăMXGLFLDUăúLH[WUDMXGLFLDUăvQFRQGLĠLLOHOHJLL
+O UHSUH]LQWă 81%5 vQ GRPHQLXO DVLVWHQĠHL MXGLFLDUH vQ FDGUXO FRODERUăULL
+LQWHUQDĠLRQDOHvQPDWHULHvQFRQGLĠLLOHOHJLLVDXDOH6WDWXWXOXL
+ÌQDSOLFDUHDDUWDOLQGLQ/HJH[art. 75 alin. (1), după rep. 2018]&RPLVLD
+3HUPDQHQWă D 81%5 SRDWH DSURED GHOHJDUHD DWULEXĠLLORU YLFHSUHúHGLQWHOXL
+81%5FăWUHXQPHPEUXDO&RPLVLHL3HUPDQHQWH
+ÌQFDGUXO81%5&RPLVLD3HUPDQHQWăFRRUGRQHD]ăDFWLYLWDWHDGHIRUPDUH
+SURIHVLRQDOăSHQWUXUHDOL]DUHDDWULEXĠLLORU&RQVLOLXOXL81%5SUHYă]XWHODDUW
+OLWJGLQ/HJH[art. 65 lit. h), după rep. 2018]
+
+Art. 40. Aparatul tehnico-administrativ al U.N.B.R.  3HQWUX vQGHSOLQLUHD
+FRUHVSXQ]ăWRDUH D DWULEXĠLLORU FRQIHULWH GH /HJH úL 6WDWXW vQ FDGUXO 81%5
+IXQFĠLRQHD]ă XQ DSDUDW WHKQLFRDGPLQLVWUDWLY FDUH DUH VWUXFWXUD RUJDQL]DWRULFă
+SUHYă]XWăvQ$QH[DQUFDUHIDFHSDUWHLQWHJUDQWăGLQSUH]HQWXO5HJXODPHQW
+ 1LYHOXULOH GH VDODUL]DUH DOH SHUVRQDOXOXL DQJDMDW VDX DOH LQGHPQL]DĠLLORU
+FRODERUDWRULORUVHVWDELOHVFSULQGHFL]LHD&RPLVLHL3HUPDQHQWH
+
+Art. 41. Conducerea. &RQGXFHUHDvQWUHJLLDFWLYLWăĠLLDDSDUDWXOXLWHKQLFRDGPLQLV
+WUDWLYHVWHDVLJXUDWăGH3UHúHGLQWHOH81%5VDXvQVLWXDĠLLOHSUHYă]XWHGH/HJHúL
+6WDWXWGHFăWUHXQXOGLQWUHYLFHSUHúHGLQĠLGHVHPQDWGHDFHVWD
+ $FWHOH LQGLIHUHQW GH QDWXUD DFHVWRUD vQWRFPLWH GH SHUVRQDOXO GLQ FDGUXO
+DSDUDWXOXL WHKQLFRDGPLQLVWUDWLY VXQW YDOLGH úL DQJDMHD]ă GLQ SXQFW GH YHGHUH
+MXULGLF81%5QXPDLGDFăVXQWVHPQDWHGH3UHúHGLQWHOH81%5VDXGXSăFD]
+GH9LFHSUHúHGLQWHOHGHVHPQDWGHDFHVWD
+SecĠiunea a VII-a
 Comisia Centrală de Cenzori
+Art. 42. Alegere. &RPLVLD&HQWUDOăGH&HQ]RULHVWHIRUPDWăGLQWUXQQXPăU
+GHPHPEULDOHúLSULQYRWVHFUHWGH&RQJUHVXODYRFDĠLORUSHQWUXXQPDQGDWGH
+SDWUXDQLPDQGDWFDUHSRDWHILUHvQQRLW
+Art. 43. Conducere. &RQGXFHUHDDFWLYLWăĠLLúLUHSUH]HQWDUHD&RPLVLHLFHQ
+WUDOHGH&HQ]RULvQIDĠDRUJDQHORUSURIHVLHLúLvQUDSRUWXULOHFXDXWRULWăĠLOHSXEOLFH
+VH IDFH GH FăWUH 3UHúHGLQWHOH DFHVWHLD DOHV FX PDMRULWDWH GH YRWXUL GLQ UkQGXO
+PHPEULORUVăL
+&RPLVLD&HQWUDOăGH&HQ]RULvQGHSOLQHúWHXUPăWRDUHOHDWULEXĠLLSULQFLSDOH
+DYHULILFăGDFăELODQĠXOFRQWDELOúLUDSRUWăULOHILVFDOHSHULRGLFHVXQWFRUHFWúLOHJDO
+vQWRFPLWHúLvQFRQFRUGDQĠăFXUHJLVWUHOHGHHYLGHQĠăFRQWDELOăĠLQXWHGHGHSDUWD
+PHQWXOHFRQRPLF
+EYHULILFăSHULRGLFFHOSXĠLQRGDWăSHWULPHVWUXPRGXOvQFDUH HVWH JHVWLRQDW
+SDWULPRQLXO81%5
+FYHULILFăFHOSXĠLQRGDWăSHOXQăúLSHQHDúWHSWDWHPRGXO vQFDUHHVWHĠLQXW
+UHJLVWUXOGHFDVăúLVXQWJHVWLRQDWHUHVXUVHOHEăQHúWLDOH81%5
+GYHULILFăFHOSXĠLQRGDWăSHWULPHVWUXPRGXOvQFDUHVXQWUHDOL]DWHFUHDQĠHOH
+81%5 SUHFXP úL FRQFRUGDQĠD úL HIHFWXDUHD FKHOWXLHOLORU SRWULYLW GHVWLQDĠLHL
+DSUREDWHGHRUJDQHOHSURIHVLHL
 
-Alegere
-Art. 41
-Comisia Centrală de Cenzori este formată dintr-un număr de 3 membri aleși, prin vot secret, de Congresul avocaților pentru un mandat de 4 (patru) ani, mandat care poate fi reînnoit.
-
-Conducere
-Art. 42
-Conducerea activității și reprezentarea Comisiei centrale de Cenzori în fața organelor profesiei și în raporturile cu autoritățile publice se face de către Președintele acesteia, ales cu majoritate de voturi din rândul membrilor săi.Comisia Centrală de Cenzori îndeplinește următoarele atribuții principale:
-
-a) verifică dacă bilanțul contabil și raportările fiscale periodice sunt legal întocmite și în concordanță cu registrele de evidență contabilă ținute de departamentul economic;
-
-b) verifică periodic, cel puțin o dată pe trimestru, modul în care este gestionat patrimoniul U.N.B.R.;
-
-c) verifică, cel puțin o dată pe lună și pe neașteptate, modul în care este ținut registrul de casă și sunt gestionate resursele bănești ale U.N.B.R.;
-
-d) verifică, cel puțin o dată pe trimestru, modul în care sunt realizate creanțele U.N.B.R. precum și concordanța și efectuarea cheltuielilor potrivit destinației aprobate de organele profesiei;
-
-e) verifică și propune măsurile necesare ținerii corespunzătoare a evidențelor contabile de către personalul din cadrul Direcției Economice;
-
-f) verifică dacă persoanele care au calitatea de gestionar, în sensul legii, au constituit și depus garanțiile corespunzătoare;
-
-g) verifică modul în care sunt gestionate și păstrate titlurile de proprietate ale bunurilor ce compun patrimoniul U.N.B.R., precum și a titlurilor de valoare deținute de Uniune;
-
-h) formulează și înaintează propuneri Președintelui U.N.B.R. vizând creșterea siguranței și eficienței depozitații resurselor financiare ale Uniunii.
-
-i) îndeplinește și alte atribuțiuni date prin lege în competența comisiilor de cenzori.
-
-Desfășurarea activității
-Art. 43
-Comisia Centrală de Cenzori își desfășoară activitatea în plenul său și poate adopta măsuri numai dacă sunt prezenți două treimi din numărul membrilor săi.În vederea îndeplinirii obligațiilor prevăzute la art. 42 lit. a), b), d), și h) membrii Comisiei Centrale de Cenzori vor delibera împreună, cu majoritate simplă de voturi, iar în ceea ce privește celelalte atribuții aceștia vor putea lucra și separat, potrivit repartizării făcute de Președintele Comisiei.
-
-Evidența activității Comisiei Centrale de Cenzori, inclusiv a sarcinilor individuale stabilite pentru unii dintre membrii săi, se va ține în mod centralizat într-un registru special, numerotat și sigilat de Președintele U.N.B.R.
-
-Actele Comisiei
-Art. 44
-Comisia Centrală de Cenzori întocmește rapoarte, procese-verbale de verificare gestionară și note de propuneri, acte ce sunt prezentate operativ Președintelui U.N.B.R. prin înregistrarea în registrul de intrare-ieșire al U.N.B.R.Măsurile adoptate de organele profesiei în legătură cu actele întocmite de Comisia Centrală de Cenzori sau unii dintre membrii săi sunt aduse la cunoștința acesteia prin grija Președintelui U.N.B.R., anexându-se obligatoriu la actele de control respective.
-
-Răspunderi
-Art. 45
-Membrii Comisiei Centrale de Cenzori răspund, în condițiile legii, în legătură cu modul în care-și duc la îndeplinire mandatul încredințat de Congresul avocaților.
-
-Secțiunea a VIII-a
-
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+390
+H YHULILFă úL SURSXQH PăVXULOH QHFHVDUH ĠLQHULL FRUHVSXQ]ăWRDUH D HYLGHQĠHORU
+FRQWDELOHGHFăWUHSHUVRQDOXOGLQFDGUXO'LUHFĠLHL(FRQRPLFH
+I YHULILFă GDFă SHUVRDQHOH FDUH DX FDOLWDWHD GH JHVWLRQDU vQ VHQVXO OHJLL DX
+FRQVWLWXLWúLGHSXVJDUDQĠLLOHFRUHVSXQ]ăWRDUH
+J YHULILFă PRGXO vQ FDUH VXQW JHVWLRQDWH úL SăVWUDWH WLWOXULOH GH SURSULHWDWH DOH
+EXQXULORUFHFRPSXQSDWULPRQLXO81%5SUHFXPúLDWLWOXULORUGHYDORDUHGHĠLQXWH
+GH8QLXQH
+K IRUPXOHD]ă úL vQDLQWHD]ă SURSXQHUL 3UHúHGLQWHOXL 81%5 YL]kQG FUHúWHUHD
+VLJXUDQĠHLúLHILFLHQĠHLGHSR]LWDĠLLUHVXUVHORUILQDQFLDUHDOH8QLXQLL
+L vQGHSOLQHúWH úL DOWH DWULEXĠLXQL GDWH SULQ OHJH vQ FRPSHWHQĠD FRPLVLLORU GH
+FHQ]RUL
+
+Art. 44. Desfâàurarea activitâäii. &RPLVLD&HQWUDOăGH&HQ]RULvúLGHVIă
+úRDUă DFWLYLWDWHD vQ SOHQXO VăX úL SRDWH DGRSWD PăVXUL QXPDL GDFă VXQW SUH]HQĠL
+GRXăWUHLPLGLQQXPăUXOPHPEULORUVăL
+ ÌQ YHGHUHD vQGHSOLQLULL REOLJDĠLLORU SUHYă]XWH OD DUW  OLW D E G úL K
+PHPEULL&RPLVLHL&HQWUDOHGH&HQ]RULYRUGHOLEHUDvPSUHXQăFXPDMRULWDWHVLPSOă
+GHYRWXULLDUvQFHHDFHSULYHúWHFHOHODOWHDWULEXĠLLDFHúWLDYRUSXWHDOXFUDúLVHSDUDW
+SRWULYLWUHSDUWL]ăULLIăFXWHGH3UHúHGLQWHOH&RPLVLHL
+ (YLGHQĠD DFWLYLWăĠLL &RPLVLHL &HQWUDOH GH &HQ]RUL LQFOXVLY D VDUFLQLORU LQGL
+YLGXDOHVWDELOLWHSHQWUXXQLLGLQWUHPHPEULLVăLVHYDĠLQHvQPRGFHQWUDOL]DWvQWUXQ
+UHJLVWUXVSHFLDOQXPHURWDWúLVLJLODWGH3UHúHGLQWHOH81%5
+
+Art. 45. Actele Comisiei. &RPLVLD&HQWUDOăGH&HQ]RULvQWRFPHúWHUDSRDUWH
+SURFHVHYHUEDOH GH YHULILFDUH JHVWLRQDUă úL QRWH GH SURSXQHUL DFWH FH VXQW
+SUH]HQWDWH RSHUDWLY 3UHúHGLQWHOXL 81%5 SULQ vQUHJLVWUDUHD vQ UHJLVWUXO GH
+LQWUDUHLHúLUHDO81%5
+ 0ăVXULOH DGRSWDWH GH RUJDQHOH SURIHVLHL vQ OHJăWXUă FX DFWHOH vQWRFPLWH GH
+&RPLVLD &HQWUDOă GH &HQ]RUL VDX GH XQLL GLQWUH PHPEULL VăL VXQW DGXVH OD
+FXQRúWLQĠD DFHVWHLD SULQ JULMD 3UHúHGLQWHOXL 81%5 DQH[kQGXVH REOLJDWRULX OD
+DFWHOHGHFRQWUROUHVSHFWLYH
+Art. 46. Râspunderi. 0HPEULL&RPLVLHL&HQWUDOHGH&HQ]RULUăVSXQGvQFRQGL
+ĠLLOHOHJLLvQOHJăWXUăFXPRGXOvQFDUHúLGXFODvQGHSOLQLUHPDQGDWXOvQFUHGLQĠDWGH
+&RQJUHVXODYRFDĠLORU
+SecĠiunea a VIII-a
 Comisia Centrală de Disciplină
-
-Alegere
-Art. 46
-Comisia Centrală de Disciplină, instanță disciplinară ce funcționează în cadrul U.N.B.R., este alcătuită din reprezentanții Barourilor desemnați de Adunările Generale, reprezentanți aleși, prin vot secret, de Congresul Avocaților.Poate fi membru al Comisiei Centrale de Disciplină numai avocați care au o vechime mai mare de 15 ani.
-
-Competență
-Art. 47
-Comisia Centrală de Disciplină judecă:a) în complet format din 3 membrii, ca instanță de fond, abaterile disciplinare ale membrilor Consiliului U.N.B.R. și ale decanilor;
-
-b) în complet format din 5 membrii, contestațiile formulate după caz de avocatul interesat, decanul baroului sau Președintele U.N.B.R. împotriva deciziilor pronunțate de comisiile de disciplină ale barourilor și a încheierilor enumerate la art. 74 alin (1) și (2) din lege.
-
-Activitatea Comisiei Centrale de Disciplină este coordonată (condusă) de Președintele acesteia, ales dintre membrii săi pentru un mandat de 4 (patru) ani
-
-Funcția de grefier al Comisiei centrale de Disciplină este îndeplinită de unul dintre secretarii U.N.B.R. desemnați de Comisia Permanentă.
-
-Arhiva Comisiei centrale de Disciplină este ținută și conservată, în condițiile legii, de către grefierul acesteia, sub directa îndrumare a Președintelui Comisiei.
-
-Președintele Comisiei Centrale de Disciplină îndeplinește următoarele atribuțiuni principale:
-
-a) ia măsurile necesare pentru organizarea și buna funcționare a activității Comisiei ca instanță disciplinară;
-
-b) primește și repartizează acțiunile disciplinare sau, după caz, contestațiile formulate împotriva deciziilor Comisiilor de disciplină ale barourilor;
-
-c) urmărește asigurarea dotărilor tehnico-materiale necesare bunei desfășurări a activității completelor de judecată;
-
-d) stabilește, prin tragere la sorți, componența completelor de judecată;
-
-e) urmărește formarea și conservarea corespunzătoare a arhivei Comisiei;
-
-f) informează lunar, în scris, Președintele U.N.B.R. în legătură cu sancțiunile disciplinare aplicate avocaților de către completele de judecată constituite la nivelul Comisiei.
-
-g) desemnează membrii unui alt complet de judecată care urmează să judece eventualele cereri de abținere sau de recuzare;
-
-h) ține evidența centralizată a completelor de judecată care au soluționat cauzele deduse judecății;
-
-i) participă, în calitate de invitat la ședințele Consiliului U.N.B.R. și Comisiei permanente și prezintă informări periodice.
-
-Grefierul Comisiei Centrale de Disciplină îndeplinește următoarele atribuțiuni principale:
-
-a) participă la ședințele completelor de judecată, îndeplinind, sub controlul președintelui de complet, atribuțiunile prevăzute de lege și prezentul regulament;
-
-b) întocmește conceptele pentru citarea părților din proces;
-
-c) întocmește actele de procedură dispuse de completul de judecată;
-
-d) completează borderourile și predă corespondența pentru expediere;
-
-e) completează condica ședințelor de judecată în care se trec dosarele din ședința respectivă, în ordinea înscrisă în lista cauzelor, cu următoarele mențiuni: numele, prenumele și calitatea părților, numărul dosarului, obiectul cauzei, termenul acordat, cu indicarea motivului amânării sau, după caz, soluția pronunțată pe baza minutei întocmite de președintele completului;
-
-f) comunică părților interesate, inclusiv Președintelui U.N.B.R. în situațiile prevăzute în Statut, decizia pronunțată de completul de judecată;
-
-g) urmărește tehnoredactarea (dactilografierea) motivării deciziei completului de judecată
-
-h) îndeplinește, în limita funcției, orice alte sarcini de serviciu trasate de Președintele Comisiei sau cel al completului de judecată.
-
-Evidența lucrărilor
-Art. 48
-Comisia Centrală de Disciplină își desfășoară lucrările la sediul U.N.B.R. prin grija Președintelui U.N.B.R. Pentru evidența activității Comisiei Centrale de Disciplină, se întocmesc și se păstrează:a) registrul general de dosare în care se trec, în ordinea intrării, toate dosarele înregistrate, adresele, cu menționarea numelui, prenumelui, calitatea părților, natura cauzei, obiectul cauzei, termenele de judecată acordate, soluția pronunțată, datele comunicării deciziilor, data ieșirii și reintrării dosarului în arhivă;
-
-b) condica ședințelor de judecată în care se trec dosarele separat pe complete, noul termen de judecată în caz de amânare a cauzei, soluția pronunțată și numărul deciziei, numele și prenumele membrilor completului și grefierului de ședință.
-
-c) registrul de corespondență în care se înregistrează, în ordine cronologică, toate adresele și înscrisurile primite sau expediate de Comisie.
-
-Desfășurarea lucrărilor
-Art. 49
-Actele de sesizare a Comisiei Centrale de Disciplină, depuse personal sau prin reprezentant, sosite prin poștă, curier sau fax, se depun la registratură unde în aceeași zi primesc data certă, după care se predau Președintelui Comisiei.După primirea actelor de sesizare, prin rezoluția Președintelui Comisiei acestea sunt repartizate completului de judecată desemnat de acesta, după care se înregistrează în Registrul general de dosare. Celelalte cereri și acte de orice natură, inclusiv corespondența cu caracter administrativ, precum și dovezile de comunicare a procedurilor se înregistrează în Registrul general de corespondență, după care se repartizează grefierului în vederea efectuării mențiunilor necesare în registrele Comisiei și atașarea la dosarul cauzei aflat pe rol, după caz.
-
-În ziua fixată pentru desfășurarea lucrărilor ședinței de judecată, grefierul Comisiei va fi prezent în sala de judecată cu o jumătate de oră înainte de începerea ședinței de judecată pentru a pune la dispoziția părților sau reprezentanților acestora dosarele spre consultare.
-
-Completul de judecată este prezidat, prin rotație, de unul dintre membrii acestuia.
-
-După strigarea cauzei și apelul părților, Grefierul Comisiei prezintă oral referatul cauzei prin precizarea obiectului pricinii și stadiul în care se află judecata acesteia, indicându-se stadiul îndeplinirii procedurii.
-
-Pe parcursul desfășurării ședinței de judecată, grefierul Comisiei ca consemna în Caietul de note de ședință numărul dosarului, poziția acestuia pe lista de ședință, susținerile orale din timpul ședinței, cererile formulate de părți și actele depuse de acestea, măsurile dispuse de președintele completului, probele administrate, incidentele procedurale ivite, data și ora când s-a amânat judecarea cauzei, precum și data și ora stabilite pentru pronunțarea deciziei.
-
-Lucrările ședințelor completelor de judecată ale Comisiei Centrale de Disciplină nu sunt publice.
-
-Soluțiile pronunțate
-Art. 50
-Judecarea cauzelor se face cu precădere, în maximum 60 de zile de la înregistrarea actului de sesizare.Lipsa părții legal citate nu împiedică judecata.
-
-Rezultatul deliberării se consemnează într-o minută care va fi scrisă pe cererea de chemare în judecată sau contestație, după caz, și va fi semnată de toți membrii completului de judecată.
-
-Decizia prin care se soluționează cauza dedusă judecății se adoptă cu majoritate de voturi.
-
-Deciziile pronunțate de Comisia Centrală de Disciplină ca instanță de recurs, precum și cele pronunțate de Consiliul U.N.B.R. ca instanță disciplinară în condițiile alineatului precedent pot fi atacate cu recurs la Secția de contencios administrativ și fiscal a Curții de Apel București, a cărei hotărâre este definitivă și irevocabilă.
-
-Executarea deciziilor
-Art. 51
-Decizia disciplinară rămasă definitivă are autoritate de lucru judecat față de părți și de organele profesiei și se pune în executare prin grija Președintelui U.N.B.R. și a decanului baroului din care face parte avocatul sancționat.Dispozițiile prezentei secțiuni se completează cu prevederile Codului de procedură civilă.
-
-Secțiunea a IX-a
-
-Casa de Asigurări a Avocaților
-
-Organizare și funcționare
-Art. 52
-Casa de Asigurări a Avocaților este organizată și funcționează în cadrul U.N.B.R. ca instituție autonomă, de interes public, având personalitate juridică, patrimoniu și buget propriu.Casa de Asigurări a Avocaților poate înființa filiale cu personalitate juridică pe lângă barouri, cu avizul Consiliului U.N.B.R.
-
-Organizarea și funcționarea C.A.A. se stabilesc prin Statutul acesteia, aprobat de Congresul avocaților.
-
-Membrii
-Art. 53
-Sunt membrii de drept ai Casei de Asigurări a Avocaților toți avocații înscriși în barouri, care figurează în Tabloul avocaților cu drept de exercitare a profesiei, avocații pensionari și urmașii acestora cu drepturi proprii la pensie și ajutoare sociale.Plata contribuției de asigurări sociale este o condiție obligatorie pentru exercitarea profesiei de avocat.
-
-Conducere
-Art. 54
-Activitatea Casei de Asigurări a Avocaților este condusă de un Consiliu de Administrație format din 5 membrii, aleși prin vot secret de Congresul avocaților, membrii din rândul cărora este desemnat Președintele Consiliului de Administrație și Vicepreședinții.În intervalul dintre Congresele avocaților, în caz de abatere gravă și evidentă ori de nereguli financiare, Consiliul U.N.B.R. va putea suspenda Consiliul de Administrație al Casei de Asigurări a avocaților, numind o conducere interimară care va conduce și gestiona patrimoniul acesteia până la primul Congres.
-
-Consiliul de Administrație al Casei de Asigurări a Avocaților va întocmi și prezenta spre aprobare Consiliului U.N.B.R. planul de investiții pentru anul următor.
-
-Președintele Consiliului de Administrație al Casei de Asigurări a Avocaților participă, în calitate de invitat, la ședințele Comisiei Permanente și ale Consiliului U.N.B.R. în cadrul cărora va prezenta informări periodice în legătură cu execuția bugetară și problemele cu care se confruntă sistemul de pensii și asigurări sociale al avocaților.
-
-Modul de ținere a evidențelor financiar-contabile și gestionare a patrimoniului Casei de Asigurări a Avocaților sunt verificate de Comisia Centrală de Cenzori a Casei de Asigurări a Avocaților, formată din 3 membrii, aleasă prin vot secret de Congresul Avocaților.
-
-Periodic, la solicitarea Președintelui U.N.B.R., președintele Comisiei Centrale de Cenzori a Casei de Asigurări a Avocaților va prezenta Consiliului U.N.B.R. informări și rapoarte în legătură cu activitatea desfășurată și neregulile descoperite în timpul verificărilor efectuate.
-
-Raporturile CAA cu Filialele
-Art. 55
-Raporturile financiar-contabile și tehnico-organizatorice dintre Casa de Asigurări a Avocaților cu filialele legal înființate se stabilesc prin Statutul acesteia.Deciziile Consiliului de Administrație al Casei de Asigurări a Avocaților referitoare la constituirea și destinațiile fondurilor bănești, criteriile și modalitățile de stabilire și calculare a pensiilor și celorlalte drepturi de asigurări sociale, precum și modalitățile de realizare a investițiilor sunt obligatorii pentru conducerile filialelor.
-
-CAPITOLUL III
-
-NORME PRIVIND PREGĂTIREA ȘI PERFECȚIONAREA
-
-PREGĂTIRII PROFESIONALE A AVOCAȚILOR
-
-Scopul șiobiectivele
-
-formării profesionale
-
-a avocatului
-
-Art. 56
-Îndeplinirea obligațiilor legale ce revin U.N.B.R. privind garantarea asigurării exercitării calificate a dreptului de apărare se realizează prin formarea și dezvoltarea competențelor profesionale a avocaților.
-
-Modalitățileformării profesionale
-
-a avocatului
-
-Art. 57
-Formarea profesională a avocaților se realizează prin:- formarea profesională inițială, la începutul exercitării profesiei;
-
-– formarea profesională continuă a fiecărui avocat definitiv.
-
-Formareaprofesională
-
-inițială a
-
-avocatului
-
-Art. 58
-Formarea profesională inițială a avocatului de realizează în perioada stagiului de pregătire profesională prin activitatea desfășurată de consiliile barourilor și Institutul Național Pentru Pregătirea și Perfecționarea Avocaților (I.N.P.P.A.)
-
-Programa –Cadru a conferințelor
-
-de stagiu
-
-Art. 59
-Consiliul U.N.B.R. aprobă Programa – Cadru a pregătirii profesionale în cadrul conferințelor de stagiu ale barourilor, pe baza propunerilor I.N.P.P.A.Programa – Cadru poate include teme și activități profesionale organizate în comun de barourile aflate pe raza aceleiași Curți de Apel.
-
-Formarea profesională în cadrul INPPA
-Art. 60
-Comisia Permanentă a U.N.B.R. aprobă programele pentru cursurile de formare inițială și planul anual de desfășurare a modulelor de pregătire în cadrul I.N.P.P.A.
-
-Formarea formatorilor
-Art. 61
-Consiliul U.N.B.R., la propunerea Comisiei Permanente, hotărăște modalitatea de selecție și formare a personalului de specialitate al I.N.P.P.A. și a corpului de lectori ai Conferințelor de stagiu ale barourilor sau ai Centrelor de formare profesională.
-
-Formarea profesională continuă
-Art. 62
-Consiliul U.N.B.R. hotărăște Programul anual pentru formare profesională continuă care va cuprinde forme de pregătire profesională organizate în cadrul I.N.P.P.A. ori de barouri, inclusiv prin conlucrarea barourilor aflate pe raza aceleiași Curți de Apel.Programul anual pentru formare profesională continuă se hotărăște pe baza Programului pentru formare profesională continuă propus de I.N.P.P.A. pe o perioadă de cel puțin 3 ani.
-
-Evidența opțiunii avocaților pentru urmarea formelor de perfecționare continuă
-Art. 63
-Fiecare avocat este obligat să participe anual la cel puțin patru acțiuni organizate de barou în baza programului anual pentru formare profesională continuă sau la acțiuni de formare profesională agreate de Consiliul U.N.B.R.Evidența opțiunii avocaților pentru participarea la acțiunile de formare profesională continuă se realizează și se încheie până la cel mai târziu 15 decembrie al anului anterior anului în care sunt organizate astfel de acțiuni.
-
-Evidența se păstrează de barou și se comunică la U.N.B.R.
-
-În baza participării avocaților la acțiunile de formare profesională continuă se atestă urmarea formelor de pregătire profesională specializată, care vor fi avute în vedere de consiliile barourilor la eliberarea și menținerea Certificatelor de atestare a titlului profesional de avocat.
-
-Procedura eliberării și menținerii Certificatelor de atestare a titlului profesional de avocat este hotărâtă de Consiliul U.N.B.R.
-
-Deductibilita-teacheltuielilor pentru pregătirea profesională continuă.
-Art. 64
-Cheltuielile necesare participării la acțiunile de formare profesională continuă au regimul cheltuielilor de pregătire și perfecționare profesională obligatorie în cadrul profesiei de avocat.
-
-CAPITOLUL IV
-
-NORME PRIVIND PROCEDURA DE STABILIRE ȘI ÎNCASARE DE
-
-TAXE ȘI CONTRIBUȚII DE CĂTRE U.N.B.R. ȘI
-
-STRUCTURILE SALE ORGANIZATORICE
-
-Stabilirea procedurii
-Art. 65
-Taxele și contribuțiile la bugetul U.N.B.R. se evidențiază în situația lunară comunicată departamentului de specialitate al U.N.B.R. de către fiecare barou, pe baza modelului decis de Comisiei Permanente a U.N.B.R.Stabilirea și încasarea taxelor datorate U.N.B.R. în limita maximă stabilită prin decizia Consiliului U.N.B.R. nr. 76 din 17 iunie 2005 se realizează prin decizia Comisiei Permanente.
-
-CAPITOLUL V
-
-DISPOZIȚII FINALE
-
-Intrarea în vigoare
-Art. 66
-Prezentul Regulament intră în vigoare după adoptarea sa de către Consiliul U.N.B.R. și publicarea pe website-ul U.N.B.R.
-
-descărcare / download format DOC sau PDF
+Art. 47. Alegere.  &RPLVLD &HQWUDOă GH 'LVFLSOLQă LQVWDQĠă GLVFLSOLQDUă FH
+IXQFĠLRQHD]ă vQ FDGUXO 81%5 HVWH DOFăWXLWă GLQ UHSUH]HQWDQĠLL %DURXULORU
+GHVHPQDĠLGH$GXQăULOH*HQHUDOHUHSUH]HQWDQĠLDOHúLSULQYRWVHFUHWGH&RQJUHVXO
+$YRFDĠLORU
+ 3RW IL PHPEUL DL &RPLVLHL &HQWUDOH GH 'LVFLSOLQă QXPDL DYRFDĠL FDUH DX R
+YHFKLPHPDLPDUHGHDQL
+
+Art. 48. Competenäâ. &RPLVLD&HQWUDOăGH'LVFLSOLQăMXGHFă
+DvQFRPSOHWIRUPDWGLQPHPEULFDLQVWDQĠăGHIRQGDEDWHULOHGLVFLSOLQDUHDOH
+PHPEULORU&RQVLOLXOXL81%5úLDOHGHFDQLORU
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+391
+EvQFRPSOHWIRUPDWGLQPHPEULFRQWHVWDĠLLOHIRUPXODWHGHDYRFDWXOLQWHUHVDW
+GHFDQXO EDURXOXL VDX 3UHúHGLQWHOH 81%5 GXSă FD] vPSRWULYD GHFL]LLORU
+SURQXQĠDWH GH FRPLVLLOH GH GLVFLSOLQă DOH EDURXULORU úL D vQFKHLHULORU SUHYă]XWH OD
+DUWDOLQúLGLQ/HJH[art. 89 alin. (1) úi (2), după rep. 2018]
+ $FWLYLWDWHD &RPLVLHL &HQWUDOH GH 'LVFLSOLQă HVWH FRRUGRQDWă FRQGXVă GH
+3UHúHGLQWHOHDFHVWHLDDOHVGLQWUHPHPEULLVăLSHQWUXXQPDQGDWGHSDWUXDQL
+)XQFĠLDGHJUHILHUDO&RPLVLHL&HQWUDOHGH'LVFLSOLQăHVWHvQGHSOLQLWăGHXQXO
+GLQWUHVHFUHWDULL81%5GHVHPQDĠLGH&RPLVLD3HUPDQHQWă
+ $UKLYD &RPLVLHL &HQWUDOH GH 'LVFLSOLQă HVWH ĠLQXWă úL FRQVHUYDWă vQ FRQGLĠLLOH
+OHJLLGHFăWUHJUHILHUXODFHVWHLDVXEGLUHFWDvQGUXPDUHD3UHúHGLQWHOXL&RPLVLHL
+ 3UHúHGLQWHOH &RPLVLHL &HQWUDOH GH 'LVFLSOLQă vQGHSOLQHúWH XUPăWRDUHOH
+DWULEXĠLXQLSULQFLSDOH
+D LD PăVXULOH QHFHVDUH SHQWUX RUJDQL]DUHD úL EXQD IXQFĠLRQDUH D DFWLYLWăĠLL
+&RPLVLHLFDLQVWDQĠăGLVFLSOLQDUă
+E SULPHúWH úL UHSDUWL]HD]ă DFĠLXQLOH GLVFLSOLQDUH VDX GXSă FD] FRQWHVWDĠLLOH
+IRUPXODWHvPSRWULYDGHFL]LLORU&RPLVLLORUGHGLVFLSOLQăDOHEDURXULORU
+FXUPăUHúWHDVLJXUDUHDGRWăULORUWHKQLFRPDWHULDOHQHFHVDUHEXQHLGHVIăúXUăULD
+DFWLYLWăĠLLFRPSOHWHORUGHMXGHFDWă
+GVWDELOHúWHSULQWUDJHUHODVRUĠLFRPSRQHQĠDFRPSOHWHORUGHMXGHFDWă
+HXUPăUHúWHIRUPDUHDúLFRQVHUYDUHDFRUHVSXQ]ăWRDUHDDUKLYHL&RPLVLHL
+I LQIRUPHD]ă OXQDU vQ VFULV 3UHúHGLQWHOH 81%5 vQ OHJăWXUă FX VDQFĠLXQLOH
+GLVFLSOLQDUHDSOLFDWHDYRFDĠLORUGHFăWUHFRPSOHWHOHGHMXGHFDWăFRQVWLWXLWHODQLYHOXO
+&RPLVLHL
+J GHVHPQHD]ă PHPEULL XQXL DOW FRPSOHW GH MXGHFDWă FDUH XUPHD]ă Vă MXGHFH
+HYHQWXDOHOHFHUHULGHDEĠLQHUHVDXGHUHFX]DUH
+KĠLQHHYLGHQĠDFHQWUDOL]DWăDFRPSOHWHORUGHMXGHFDWăFDUHDXVROXĠLRQDWFDX]HOH
+GHGXVHMXGHFăĠLL
+L SDUWLFLSă vQ FDOLWDWH GH LQYLWDW OD úHGLQĠHOH &RQVLOLXOXL 81%5 úL &RPLVLHL
+SHUPDQHQWHúLSUH]LQWăLQIRUPăULSHULRGLFH
+*UHILHUXO &RPLVLHL &HQWUDOH GH 'LVFLSOLQă vQGHSOLQHúWH XUPăWRDUHOH DWULEXĠLXQL
+SULQFLSDOH
+D SDUWLFLSă OD úHGLQĠHOH FRPSOHWHORU GH MXGHFDWă vQGHSOLQLQG VXE FRQWUROXO
+SUHúHGLQWHOXLGHFRPSOHWDWULEXĠLXQLOHSUHYă]XWHGHOHJHúLSUH]HQWXOUHJXODPHQW
+EvQWRFPHúWHFRQFHSWHOHSHQWUXFLWDUHDSăUĠLORUGLQSURFHV
+FvQWRFPHúWHDFWHOHGHSURFHGXUăGLVSXVHGHFRPSOHWXOGHMXGHFDWă
+GFRPSOHWHD]ăERUGHURXULOHúLSUHGăFRUHVSRQGHQĠDSHQWUXH[SHGLHUH
+H FRPSOHWHD]ă FRQGLFD úHGLQĠHORU GH MXGHFDWă vQ FDUH VH WUHF GRVDUHOH GLQ
+úHGLQĠD UHVSHFWLYă vQ RUGLQHD vQVFULVă vQ OLVWD FDX]HORU FX XUPăWRDUHOH PHQĠLXQL
+QXPHOHSUHQXPHOHúLFDOLWDWHDSăUĠLORUQXPăUXOGRVDUXOXLRELHFWXOFDX]HLWHUPHQXO
+DFRUGDWFXLQGLFDUHDPRWLYXOXLDPkQăULLVDXGXSăFD]VROXĠLDSURQXQĠDWăSHED]D
+PLQXWHLvQWRFPLWHGHSUHúHGLQWHOHFRPSOHWXOXL
+IFRPXQLFăSăUĠLORULQWHUHVDWHLQFOXVLY3UHúHGLQWHOXL81%5vQVLWXDĠLLOHSUHYă
+]XWHvQ6WDWXWGHFL]LDSURQXQĠDWăGHFRPSOHWXOGHMXGHFDWă
+JXUPăUHúWHWHKQRUHGDFWDUHDGDFWLORJUDILHUHDPRWLYăULLGHFL]LHLFRPSOHWXOXLGH
+MXGHFDWă
+K vQGHSOLQHúWH vQ OLPLWD IXQFĠLHL RULFH DOWH VDUFLQL GH VHUYLFLX WUDVDWH GH
+3UHúHGLQWHOH&RPLVLHLVDXDOFRPSOHWXOXLGHMXGHFDWă
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+392
+Art. 49. Evidenäa lucrârilor. &RPLVLD&HQWUDOăGH'LVFLSOLQăvúLGHVIăúRDUăOXFUăULOH
+ODVHGLXO81%5VDXvQWUXQDOWORFFRUHVSXQ]ăWRU3HQWUXHYLGHQĠDDFWLYLWăĠLL&RPLVLHL
+&HQWUDOHGH'LVFLSOLQăVHvQWRFPHVFúLVHSăVWUHD]ă
+DUHJLVWUXOJHQHUDOGHGRVDUHvQFDUHVHWUHFvQRUGLQHDLQWUăULLWRDWHGRVDUHOH
+vQUHJLVWUDWH DGUHVHOH FX PHQĠLRQDUHD QXPHOXL SUHQXPHOXL FDOLWDWHD SăUĠLORU
+QDWXUDFDX]HLRELHFWXOFDX]HLWHUPHQHOHGHMXGHFDWăDFRUGDWHVROXĠLDSURQXQĠDWă
+GDWHOHFRPXQLFăULLGHFL]LLORUGDWDLHúLULLúLUHLQWUăULLGRVDUXOXLvQDUKLYă
+EFRQGLFDúHGLQĠHORUGHMXGHFDWăvQFDUHVHWUHFGRVDUHOHVHSDUDWSHFRPSOHWH
+QRXOWHUPHQGHMXGHFDWăvQFD]GHDPkQDUHDFDX]HLVROXĠLDSURQXQĠDWăúLQXPăUXO
+GHFL]LHLQXPHOHúLSUHQXPHOHPHPEULORUFRPSOHWXOXLúLJUHILHUXOXLGHúHGLQĠă
+F UHJLVWUXO GH FRUHVSRQGHQĠă vQ FDUH VH vQUHJLVWUHD]ă vQ RUGLQH FURQRORJLFă
+WRDWHDGUHVHOHúLvQVFULVXULOHSULPLWHVDXH[SHGLDWHGH&RPLVLH
+Art. 50. Desfâàurarea lucrârilor. $FWHOHGHVHVL]DUHD&RPLVLHL&HQWUDOHGH
+'LVFLSOLQăGHSXVHSHUVRQDOVDXSULQUHSUH]HQWDQWVRVLWHSULQSRúWăFXULHUVDXID[
+VH GHSXQ OD UHJLVWUDWXUă XQGH SULPHVF GDWD FHUWă vQ DFHHDúL ]L GXSă FDUH VH
+SUHGDX3UHúHGLQWHOXL&RPLVLHL
+ 'XSă SULPLUHD DFWHORU GH VHVL]DUH SULQ UH]ROXĠLD 3UHúHGLQWHOXL &RPLVLHL
+DFHVWHDVXQWUHSDUWL]DWHFRPSOHWXOXLGHMXGHFDWăGHVHPQDWGHDFHVWDGXSăFDUH
+VH vQUHJLVWUHD]ă vQ 5HJLVWUXO JHQHUDO GH GRVDUH &HOHODOWH FHUHUL úL DFWH GH RULFH
+QDWXUă LQFOXVLY FRUHVSRQGHQĠD FX FDUDFWHU DGPLQLVWUDWLY SUHFXP úL GRYH]LOH GH
+FRPXQLFDUHDSURFHGXULORUVHvQUHJLVWUHD]ăvQ5HJLVWUXOJHQHUDOGHFRUHVSRQGHQĠă
+GXSăFDUHVHUHSDUWL]HD]ăJUHILHUXOXLvQYHGHUHDHIHFWXăULLPHQĠLXQLORUQHFHVDUHvQ
+UHJLVWUHOH&RPLVLHLúLDWDúăULLODGRVDUXOFDX]HLDIODWSHUROGXSăFD]
+ ÌQ ]LXD IL[DWă SHQWUX GHVIăúXUDUHD OXFUăULORU úHGLQĠHL GH MXGHFDWă JUHILHUXO
+&RPLVLHLYDILSUH]HQWvQVDODGHMXGHFDWăFXFHOSXĠLQRMXPăWDWHGHRUăvQDLQWHGH
+vQFHSHUHD úHGLQĠHL GH MXGHFDWă SHQWUX D SXQH OD GLVSR]LĠLD SăUĠLORU VDX UHSUH]HQ
+WDQĠLORUDFHVWRUDGRVDUHOHVSUHFRQVXOWDUH
+&RPSOHWXOGHMXGHFDWăHVWHSUH]LGDWSULQURWDĠLHGHXQXOGLQWUHPHPEULLDFHVWXLD
+ 'XSă VWULJDUHD FDX]HL úL DSHOXO SăUĠLORU *UHILHUXO &RPLVLHL SUH]LQWă RUDO
+UHIHUDWXOFDX]HLSULQSUHFL]DUHDRELHFWXOXLSULFLQLLúLVWDGLXOvQFDUHVHDIOăMXGHFDWD
+DFHVWHLDLQGLFkQGXVHVWDGLXOvQGHSOLQLULLSURFHGXULL
+ 3H SDUFXUVXO GHVIăúXUăULL úHGLQĠHL GH MXGHFDWă JUHILHUXO &RPLVLHL YD FRQ
+VHPQDvQ&DLHWXOGHQRWHGHúHGLQĠăQXPăUXOGRVDUXOXLSR]LĠLDDFHVWXLDSHOLVWDGH
+úHGLQĠă VXVĠLQHULOH RUDOH GLQ WLPSXO úHGLQĠHL FHUHULOH IRUPXODWH GH SăUĠL úL DFWHOH
+GHSXVH GH DFHVWHD PăVXULOH GLVSXVH GH SUHúHGLQWHOH FRPSOHWXOXL SUREHOH DGPL
+QLVWUDWH LQFLGHQWHOH SURFHGXUDOH LYLWH GDWD úL RUD FkQG VD DPkQDW MXGHFDUHD
+FDX]HLSUHFXPúLGDWDúLRUDVWDELOLWHSHQWUXSURQXQĠDUHDGHFL]LHL
+/XFUăULOHúHGLQĠHORUFRPSOHWHORUGHMXGHFDWăDOH&RPLVLHL&HQWUDOHGH'LVFL
+SOLQăQXVXQWSXEOLFH
+Art. 51. Soluäiile pronunäate. -XGHFDUHDFDX]HORUVHIDFHFXSUHFăGHUHvQ
+PD[LPXPGH]LOHGHODvQUHJLVWUDUHDDFWXOXLGHVHVL]DUH
+/LSVDSăUĠLLOHJDOFLWDWHQXvPSLHGLFăMXGHFDWD
+ 5H]XOWDWXO GHOLEHUăULL VH FRQVHPQHD]ă vQWUR PLQXWă FDUH YD IL VFULVă SH
+FHUHUHDGHFKHPDUHvQMXGHFDWăVDXFRQWHVWDĠLHGXSăFD]úLYDILVHPQDWăGHWRĠL
+PHPEULLFRPSOHWXOXLGHMXGHFDWă
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+393
+ 'HFL]LD SULQ FDUH VH VROXĠLRQHD]ă FDX]D GHGXVă MXGHFăĠLL VH DGRSWă FX
+PDMRULWDWHGHYRWXUL
+'HFL]LLOHSURQXQĠDWHGH&RPLVLD&HQWUDOăGH'LVFLSOLQăFDLQVWDQĠăGHUHFXUV
+SUHFXPúLFHOHSURQXQĠDWHGH&RQVLOLXO81%5FDLQVWDQĠăGLVFLSOLQDUăvQFRQGLĠLLOH
+DUWDOLQGLQ/HJH[art. 87 alin. (3), după rep. 2018] SRWILDWDFDWHFXUHFXUVOD
+6HFĠLD GH FRQWHQFLRV DGPLQLVWUDWLY úL ILVFDO D &XUĠLL GH $SHO %XFXUHúWL D FăUHL
+KRWăUkUHHVWHGHILQLWLYăúLLUHYRFDELOă
+
+Art. 52. Executarea deciziilor.  'HFL]LD GLVFLSOLQDUă UăPDVă GHILQLWLYă DUH
+DXWRULWDWH GH OXFUX MXGHFDW IDĠă GH SăUĠL úL GH RUJDQHOH SURIHVLHL úL VH SXQH vQ
+H[HFXWDUH SULQ JULMD 3UHúHGLQWHOXL 81%5 úL D GHFDQXOXL EDURXOXL GLQ FDUH IDFH
+SDUWHDYRFDWXOVDQFĠLRQDW
+ 'LVSR]LĠLLOH SUH]HQWHL VHFĠLXQL VH FRPSOHWHD]ă FX SUHYHGHULOH &RGXOXL GH
+SURFHGXUăFLYLOă
+SecĠiunea a IX-a
+Casa de Asigurări a AvocaĠilor
+Art. 53. Organizare ài funcäionare.  &DVD GH $VLJXUăUL D $YRFDĠLORU HVWH
+RUJDQL]DWă úL IXQFĠLRQHD]ă vQ FDGUXO 81%5 FD LQVWLWXĠLH DXWRQRPă GH LQWHUHV
+SXEOLFDYkQGSHUVRQDOLWDWHMXULGLFăSDWULPRQLXúLEXJHWSURSULX
+&DVDGH$VLJXUăULD$YRFDĠLORUSRDWHvQILLQĠDILOLDOHFXSHUVRQDOLWDWHMXULGLFăSH
+OkQJăEDURXULFXDYL]XO&RQVLOLXOXL81%5
+2UJDQL]DUHDúLIXQFĠLRQDUHD&$$VHVWDELOHVFSULQ6WDWXWXODFHVWHLDDSUREDW
+GH&RQJUHVXODYRFDĠLORU
+
+Art. 54. Membrii. 6XQWPHPEULGHGUHSWDL&DVHLGH$VLJXUăULD$YRFDĠLORU
+WRĠL DYRFDĠLL vQVFULúL vQ EDURXUL FDUH ILJXUHD]ă vQ 7DEORXO DYRFDĠLORU FX GUHSW GH
+H[HUFLWDUHDSURIHVLHLDYRFDĠLLSHQVLRQDULúLXUPDúLLDFHVWRUDFXGUHSWXULSURSULLOD
+SHQVLHúLDMXWRDUHVRFLDOH
+ 3ODWD FRQWULEXĠLHL GH DVLJXUăUL VRFLDOH HVWH R FRQGLĠLH REOLJDWRULH SHQWUX
+H[HUFLWDUHDSURIHVLHLGHDYRFDW
+
+Art. 55. Conducere. $FWLYLWDWHD&DVHLGH$VLJXUăULD$YRFDĠLORUHVWHFRQGXVă
+GHXQ&RQVLOLXGH$GPLQLVWUDĠLHIRUPDWGLQPHPEULúLVXSOHDQĠLDOHúLSULQYRW
+VHFUHW GH &RQJUHVXO DYRFDĠLORU PHPEUL GLQ UkQGXO FăURUD HVWH GHVHPQDW
+3UHúHGLQWHOH&RQVLOLXOXLGH$GPLQLVWUDĠLHúLYLFHSUHúHGLQĠLL
+ÌQLQWHUYDOXOGLQWUH&RQJUHVHOHDYRFDĠLORUvQFD]GHDEDWHUHJUDYăúLHYLGHQWă
+RUL GH QHUHJXOL ILQDQFLDUH &RQVLOLXO 81%5 YD SXWHD VXVSHQGD &RQVLOLXO GH
+$GPLQLVWUDĠLH DO &DVHL GH $VLJXUăUL D DYRFDĠLORU QXPLQG R FRQGXFHUH LQWHULPDUă
+FDUHYDFRQGXFHúLJHVWLRQDSDWULPRQLXODFHVWHLDSkQăODSULPXO&RQJUHV
+ &RQVLOLXO GH $GPLQLVWUDĠLH DO &DVHL GH $VLJXUăUL D $YRFDĠLORU YD vQWRFPL úL
+SUH]HQWDVSUHDSUREDUH&RQVLOLXOXL81%5SODQXOGHLQYHVWLĠLLSHQWUXDQXOXUPăWRU
+ 3UHúHGLQWHOH &RQVLOLXOXL GH $GPLQLVWUDĠLH DO &DVHL GH $VLJXUăUL D $YRFDĠLORU
+SDUWLFLSăvQFDOLWDWHGHLQYLWDWODúHGLQĠHOH&RPLVLHL3HUPDQHQWHúLDOH&RQVLOLXOXL
+81%5vQFDGUXOFăURUDYDSUH]HQWDLQIRUPăULSHULRGLFHvQOHJăWXUăFXH[HFXĠLD
+EXJHWDUăúLSUREOHPHOHFXFDUHVHFRQIUXQWăVLVWHPXOGHSHQVLLúLDVLJXUăULVRFLDOH
+DODYRFDĠLORU
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+394
+0RGXOGHĠLQHUHDHYLGHQĠHORUILQDQFLDUFRQWDELOHúLJHVWLRQDUHDSDWULPRQLXOXL
+&DVHLGH$VLJXUăULD$YRFDĠLORUVXQWYHULILFDWHGH&RPLVLD&HQWUDOăGH&HQ]RULD
+&DVHLGH$VLJXUăULD$YRFDĠLORUIRUPDWăGLQPHPEULúLVXSOHDQĠLDOHDVăSULQYRW
+VHFUHWGH&RQJUHVXO$YRFDĠLORU
+3HULRGLFODVROLFLWDUHD3UHúHGLQWHOXL81%5SUHúHGLQWHOH&RPLVLHL&HQWUDOH
+GH &HQ]RUL D &DVHL GH $VLJXUăUL D $YRFDĠLORU YD SUH]HQWD &RQVLOLXOXL 81%5
+LQIRUPăULúLUDSRDUWHvQOHJăWXUăFXDFWLYLWDWHDGHVIăúXUDWăúLQHUHJXOLOHGHVFRSHULWH
+vQWLPSXOYHULILFăULORUHIHFWXDWH
+
+Art. 56. Raporturile C.A.A. cu Filialele.  5DSRUWXULOH ILQDQFLDUFRQWDELOH úL
+WHKQLFRRUJDQL]DWRULFHGLQWUH&DVDGH$VLJXUăULD$YRFDĠLORUFXILOLDOHOHOHJDOvQILLQ
+ĠDWHVHVWDELOHVFSULQ6WDWXWXODFHVWHLD
+'HFL]LLOH&RQVLOLXOXLGH$GPLQLVWUDĠLHDO&DVHLGH$VLJXUăULD$YRFDĠLORUUHIHUL
+WRDUH OD FRQVWLWXLUHD úL GHVWLQDĠLLOH IRQGXULORU EăQHúWL FULWHULLOH úL PRGDOLWăĠLOH GH
+VWDELOLUHúLFDOFXODUHDSHQVLLORUúLFHORUODOWHGUHSWXULGHDVLJXUăULVRFLDOHSUHFXPúL
+PRGDOLWăĠLOHGHUHDOL]DUHDLQYHVWLĠLLORUVXQWREOLJDWRULLSHQWUXFRQGXFHULOHILOLDOHORU
+&DSLWROXO,,,
+1RUPHSULYLQGSUHJăWLUHDúLSHUIHFĠLRQDUHDSUHJăWLULL
+SURIHVLRQDOHDDYRFDĠLORU
+Art. 57. Scopul ài obiectivele formârii profesionale a avocatului. ÌQGH
+SOLQLUHDREOLJDĠLLORUOHJDOHFHUHYLQ81%5SULYLQGJDUDQWDUHDDVLJXUăULLH[HUFLWăULL
+FDOLILFDWHDGUHSWXOXLGHDSăUDUHVHUHDOL]HD]ăSULQIRUPDUHDúLGH]YROWDUHDFRPSH
+WHQĠHORUSURIHVLRQDOHDDYRFDĠLORU
+
+Art. 58. Modalitâäile formârii profesionale a avocatului. )RUPDUHDSURIH
+VLRQDOăDDYRFDĠLORUVHUHDOL]HD]ăSULQ
+±IRUPDUHDSURIHVLRQDOăLQLĠLDOăODvQFHSXWXOH[HUFLWăULLSURIHVLHL
+±IRUPDUHDSURIHVLRQDOăFRQWLQXăDILHFăUXLDYRFDWGHILQLWLY
+
+Art. 59. Formarea profesionalâ iniäialâ a avocatului. )RUPDUHDSURIHVLRQDOă
+LQLĠLDOă D DYRFDWXOXL GH UHDOL]HD]ă vQ SHULRDGD VWDJLXOXL GH SUHJăWLUH SURIHVLRQDOă
+SULQDFWLYLWDWHDGHVIăúXUDWăGH,133$
+
+Art. 60. Programa-Cadru a conferinäelor de stagiu.  &RQVLOLXO 81%5
+DSUREă 3URJUDPD&DGUX D SUHJăWLULL SURIHVLRQDOH LQLĠLDOH SH ED]D SURSXQHULORU
+,133$
+ 3URJUDPD&DGUX SRDWH LQFOXGH WHPH úL DFWLYLWăĠL SURIHVLRQDOH RUJDQL]DWH GH
+,133$GLUHFWVDXSULQFHQWUHOHWHULWRULDOHFXVSULMLQXOEDURXULORUDIODWHSHUD]D
+DFHOHLDúL&XUĠLGH$SHO
+
+Art. 61. Formarea profesionalâ în cadrul I.N.P.P.A. &RPLVLD3HUPDQHQWăD
+81%5DSUREăSURJUDPHOHSHQWUXFXUVXULOHGHIRUPDUHLQLĠLDOăúLSODQXODQXDOGH
+GHVIăúXUDUHDPRGXOHORUGHSUHJăWLUHvQFDGUXO,133$
+Art. 62. Formarea formatorilor. &RQVLOLXO 81%5 OD SURSXQHUHD &RPLVLHL
+3HUPDQHQWH KRWăUăúWH PRGDOLWDWHD GH VHOHFĠLH úL IRUPDUH D SHUVRQDOXOXL GH
+VSHFLDOLWDWHDO,133$úLFHQWUHORUWHULWRULDOHDOHDFHVWXLD
+
+Regulamentul de organizare úi funcĠionare a U.N.B.R.
+
+
+395
+Art. 63. Formarea profesionalâ continuâ.  &RQVLOLXO 81%5 KRWăUăúWH
+3URJUDPXODQXDOSHQWUXIRUPDUHSURIHVLRQDOăFRQWLQXăFDUHYDFXSULQGHIRUPHGH
+SUHJăWLUHSURIHVLRQDOăRUJDQL]DWHGH,133$GLUHFWVDXSULQFHQWUHOHWHULWRULDOH
+SULQFRQOXFUDUHDEDURXULORUDIODWHSHUD]DDFHOHLDúL&XUĠLGH$SHO
+3URJUDPXODQXDOSHQWUXIRUPDUHSURIHVLRQDOăFRQWLQXăVHKRWăUăúWHSHED]D
+3URJUDPXOXL SHQWUX IRUPDUH SURIHVLRQDOă FRQWLQXă SURSXV GH ,133$ SH R
+SHULRDGăGHFHOSXĠLQDQL
+
+Art. 64. Evidenäa opäiunii avocaäilor pentru urmarea formelor de perfec-
+äionare continuâ. )LHFDUHDYRFDWHVWHREOLJDWVăSDUWLFLSHODDFĠLXQLOH RUJDQL
+]DWHGH,133$vQED]DSURJUDPXOXLDQXDOSHQWUXIRUPDUHSURIHVLRQDOă FRQWLQXă
+VDX OD DOWH DFĠLXQL GH IRUPDUH SURIHVLRQDOă DJUHDWH GH &RQVLOLXO 81%5 úL Vă
+vQWUXQHDVFăQXPăUXOPLQLPREOLJDWRULXGHRUHGHSUHJăWLUHSURIHVLRQDOă VWDELOLWGH
+&RQVLOLXO81%5
+(YLGHQĠDRSĠLXQLLDYRFDĠLORUSHQWUXSDUWLFLSDUHDODDFĠLXQLOHGHIRUPDUHSURIH
+VLRQDOăFRQWLQXăVHUHDOL]HD]ăúLVHvQFKHLHSkQăODFHOPDLWkU]LXGHFHPEULHDO
+DQXOXLDQWHULRUDQXOXLvQFDUHVXQWRUJDQL]DWHDVWIHOGHDFĠLXQL
+(YLGHQĠDVHSăVWUHD]ăGHEDURXúL,133$úLVHFRPXQLFăOD81%5
+ÌQED]DSDUWLFLSăULLDYRFDĠLORUODDFĠLXQLOHGHIRUPDUHSURIHVLRQDOăFRQWLQXăVH
+DWHVWăXUPDUHDIRUPHORUGHSUHJăWLUHSURIHVLRQDOăVSHFLDOL]DWăFDUHYRUILDYXWHvQ
+YHGHUHGHFRQVLOLLOHEDURXULORUODHOLEHUDUHDúLPHQĠLQHUHD&HUWLILFDWHORUGHDWHVWDUH
+DWLWOXOXLSURIHVLRQDOGHDYRFDW
+3URFHGXUDHOLEHUăULLúLPHQĠLQHULL&HUWLILFDWHORUGHDWHVWDUHDWLWOXOXLSURIHVLRQDO
+GHDYRFDWHVWHKRWăUkWăGH&RQVLOLXO81%5
+
+Art. 65. Deductibilitatea cheltuielilor pentru pregâtirea profesionalâ con-
+tinuâ. &KHOWXLHOLOHQHFHVDUHSDUWLFLSăULLODDFĠLXQLOHGHIRUPDUHSURIHVLRQDOă FRQWLQXăDX
+UHJLPXOFKHOWXLHOLORUGHSUHJăWLUHúLSHUIHFĠLRQDUHSURIHVLRQDOă REOLJDWRULHvQFDGUXOSUR
+IHVLHLGHDYRFDW
+&DSLWROXO,9
+1RUPHSULYLQGSURFHGXUDGHVWDELOLUHúLvQFDVDUHGHWD[HúLFRQWULEXĠLL
+GHFăWUH81%5úLVWUXFWXULOHVDOHRUJDQL]DWRULFH
+Art. 66. Stabilirea procedurii. 7D[HOHúLFRQWULEXĠLLOHODEXJHWXO81%5VH
+HYLGHQĠLD]ă vQ VLWXDĠLD OXQDUă FRPXQLFDWă GHSDUWDPHQWXOXL GH VSHFLDOLWDWH DO
+81%5 GH FăWUH ILHFDUH EDURX SH ED]D PRGHOXOXL DSUREDW GH &RPLVLD 3HUPD
+QHQWăD81%5
+ 6WDELOLUHD úL vQFDVDUHD WD[HORU GDWRUDWH 81%5 VH UHDOL]HD]ă vQ ED]D
+GHFL]LHL&RPLVLHL3HUPDQHQWHD81%5
+&DSLWROXO9
+'LVSR]LĠLLILQDOH
+Art. 67. Intrarea în vigoare. 3UH]HQWXO 5HJXODPHQW LQWUă vQ YLJRDUH GXSă
+DGRSWDUHDVDGHFăWUH&RQVLOLXO81%5úLSXEOLFDUHDSHSDJLQDZHED81%5
+www.unbr.ro
+
+Anexa nr. 2
+Lista barourilor memb
+re ale U.N.B.R.
+Nr. crt.
+Baroul
+Localitatea
+Adresa poûtalĄ:
+Cod:
+Telefon:
+Fax:
+E-mail:
+Cod fiscal:
+1.
+Alba
+Alba-Iulia
+Str. Teilor Nr. 15
+510112
+0258/812-905
+0258/812-905
+office@barou-alba.ro
+4331589
+2.
+Arad
+Arad
+Str. Ion Andreescu Nr. 3, Ap. 3
+310182
+0257/257-421
+0257/257-411
+conducere@baroul-arad.org
+4143186
+3.
+Argeú
+Piteúti
+Str. I.C. Brătianu Nr. 42
+110004
+0248/213-066
+0248/213-066
+baroularges.secretariat@gmail.com
+4469264
+4.
+Bacău
+Bacău
+Str. Mihai Viteazu Nr. 12, Sc. D, Parter
+600038
+0234/570-468
+0234/570/468
+baroul_bacau@yahoo.com
+944491
+5.
+Bihor
+Oradea
+Str. George Enescu Nr. 1
+410034
+0259/411-799
+0259/411-799
+baroul.bihor@gmail.com
+16071369
+6.
+BistriĠa-Năsăud
+BistriĠa
+Bd. IndependenĠei, Bl. 71, Sc. B, Ap. 16
+420170
+0263/212-454
+0263/212-454
+baroulbn@yahoo.ro
+4730482
+7.
+Botoúani
+Botoúani
+Str. Maxim Gorki Nr. 8
+710171
+0231/580-801
+0231/580-801
+baroulbotosani@gmail.com
+8122143
+8.
+Braúov
+Braúov
+Str. Ana Ipătescu Nr. 6
+500090
+0268/547-121
+0268/547-122
+secretariat@barou-brasov.ro
+11275589
+9.
+Brăila
+Brăila
+Str. Goleúti Nr. 13
+810024
+0239/612-122
+0239/629-788
+baroulbraila@yahoo.com
+4585056
+10.
+Bucureúti
+Bucureúti
+Str. Dr. Râureanu Nr. 3, Sector 5
+050047
+021/315-4538
+021/311-1930
+021/312-1084
+021/313-8631
+secretariat@baroul-bucuresti.ro
+info@baroul-bucuresti.ro
+RO4283155
+11.
+Buzău
+Buzău
+Bd. Unirii, Bl. 13F-G, Parter
+120020
+0238/720-519
+0238/720-519
+baroulbuzau@clicknet.ro
+13192404
+12.
+Caraú-Severin
+ReúiĠa
+Str. Horea Nr. 2-4
+320061
+0255/212-598
+0255/212-598
+baroulcs@yahoo.com
+4607049
+13.
+Călăraúi
+Călăraúi
+Str. Alexandru Sahia Nr. 36-A
+910068
+0242/312-740
+0242/312-740
+baroul_av_cl@yahoo.com
+4294006
+14.
+Cluj
+Cluj-Napoca
+Str. Pavel Roúca nr. 4, Ap. 15
+400118
+0264/430-269
+0264/430-269
+contact@baroul-cluj.ro
+4288020
+15.
+ConstanĠa
+ConstanĠa
+Str. Traian Nr. 24-B
+900743
+0241/614-466
+0241/616-425
+barouct@gmb.ro
+2987081
+16.
+Covasna
+Sfântu-Gheorghe
+Str. 1 Decembrie 1918 Nr. 13
+520008
+0267/352-687
+0267/352-687
+baroucov@yahoo.com
+5228213
+17.
+DâmboviĠa
+Târgoviúte
+Str. IndependenĠei Nr. 2
+130104
+0245/212-050
+0245/210-823
+baroul_db@yahoo.com
+9192120
+18.
+Dolj
+Craiova
+Bd. Carol I, Nr. 1, Bl. 17D, Mezanin
+200678
+0251/413-940
+0251/413-940
+office@barouldolj.ro
+4553658
+19.
+GalaĠi
+GalaĠi
+Str. Brăilei Nr. 153
+800319
+0236/413-071
+0236/413-071
+secretariat@baroulgalati.ro
+3952243
+20.
+Giurgiu
+Giurgiu
+Str. G-ral Berthelot Nr. 14
+080031
+0246/211-107
+0246/211-107
+baroulgr@yahoo.com
+4145861
+21.
+Gorj
+Târgu-Jiu
+Str. Victoriei, Bl. 5-7, Mezanin
+210165
+0253/211-749
+0253/211-749
+baroulgj@yahoo.com
+4351969
+22.
+Harghita
+Miercurea Ciuc
+B-dul FrăĠiei, Nr. 3/A/6
+530112
+0266/312-984
+0266/312-984
+baroulharghita@yahoo.com
+13203767
+23.
+Hunedoara
+Deva
+Bd. Iuliu Maniu, Bl. A, Parter
+330021
+0254/213-846
+0254/219-829
+contact@barouhunedoara.ro
+4374300
+24.
+IalomiĠa
+Slobozia
+Bd. Cosminului Nr. 12
+920064
+0243/235-706
+0243/235-706
+baroulialomita@yahoo.com
+4506940
+25.
+Iaúi
+Iaúi
+Strada Sfântul Lazăr Nr. 2 bloc Mihail Kogălniceanu, Et. 2, Ap. 7 700044
+0232/217-898
+0232/211-322
+barouavocati@mail.dntis.ro
+2639389
+26.
+Ilfov
+Bucureúti
+Calea Moúilor Nr. 88, Sector 3
+030152
+0314/380-430
+0314/380-431
+secretariat@barou-ilfov.ro
+29954787
+27.
+Maramureú
+Baia-Mare
+PiaĠa LibertăĠii Nr. 15
+430321
+0262/223-336
+0755/643-622
+0262/223-336
+office@ baroul-maramures.ro
+4605608
+
+
+
+
+28.
+MehedinĠi
+Dr. Tr. Severin
+Bd. Carol I Nr. 14
+224230
+0252/321-305
+0252/321-305
+barou_mh@yahoo.com
+4222298
+29.
+Mureú
+Târgu Mureú
+Str. JustiĠiei Nr. 1
+540069
+0265/261-669
+0265/261-669
+baroul_mures_av@yahoo.com
+4275187
+30.
+NeamĠ
+Piatra-NeamĠ
+Str. Anton Viorel, nr. 6, Bl. B-6, Sc. A, Ap. 1-2
+610126
+0233/212-286
+0233/212-286
+baroulneamt@yahoo.com
+3223694
+31.
+Olt
+Slatina
+Str. GrădiniĠei Nr. 14
+230086
+0249/439-306
+0249/439-306
+baroulolt@yahoo.com
+4286372
+32.
+Prahova
+Ploieúti
+Str. Mihai Bravu Nr. 2
+100550
+0244/514-017
+0244/514-418
+baroulprahova@yahoo.com
+3282690
+33.
+Satu-Mare
+Satu-Mare
+Str. Horea, Nr. 7, Ap. 5,
+440010
+0261/712-022
+0261/711-648
+baroulsm@artelecom.net
+4376084
+34.
+Sălaj
+Zalău
+Str. Tudor Vladimirescu, Bl. Flora, Ap. 7, Et.1
+450091
+0260/612-818
+0260/612-818
+baroulsj@yahoo.com
+RO4494845
+35.
+Sibiu
+Sibiu
+Str. Rennes Nr. 4
+550003
+0269/211-669
+0269/210-520
+contact@baroulsibiu.ro
+4406649
+36.
+Suceava
+Suceava
+Str. Trandafirilor Nr. 6
+720069
+0230/520-327
+0230/520-327
+contact@baroul-suceava.ro
+4244881
+37.
+Teleorman
+Alexandria
+Str. Dunării, Nr. 218, Bl. Patria, Sc. B, Ap. 45
+140040
+0247/310-777
+0247/310-777
+baroulavtr@yahoo.com
+4731640
+38.
+Timiú
+Timiúoara
+Str. Lucian Blaga Nr. 2, Et. 2
+300002
+0256/498-055
+0256/498-055
+baroul.timis@edicomputers.ro
+4759527
+39.
+Tulcea
+Tulcea
+Str. Păcii nr. 101, Bl. P101, Sc. B, Ap. 7
+820082
+0240/510-458
+0240/510-458
+contact@baroultulcea.ro
+4320660
+40.
+Vaslui
+Vaslui
+Str. Mihail Kogălniceanu, Bl. 31, Sc. A, Ap. 20
+730104
+0235/314-172
+0235/314-172
+barou.vaslui@clicknet.ro
+4359210
+41.
+Vâlcea
+Râmnicu-Vâlcea
+Str. Gabriel Stoianovici Nr. 8, Bl. T2, Sc. C, Ap. 4
+240176
+0250/732-336
+0250/732-336
+baroul.valcea.secretariat@gmail.com
+12135516
+42.
+Vrancea
+Focúani
+Str. Cuza Vodă Nr. 4
+620034
+0237/215-631
+0237/215-631
+baroulvrancea@yahoo.com
+4447347
+
+
