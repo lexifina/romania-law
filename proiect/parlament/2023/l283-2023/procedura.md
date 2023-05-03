@@ -11,7 +11,8 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2023-04-05: registered at the Chamber of Deputies
+- 2023-05-03: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2023-05-03: Raport comisie sesizată pe fond (CR): [cr-7be2cbc2.md](cr-7be2cbc2.md); official file https://www.senat.ro/legis/PDF/2023/23L283CR.PDF
