@@ -1,0 +1,68 @@
+{
+ "key": "cjue-c-40-21-hotarare-2023-05-04",
+ "label": "CJUE, Hotărârea Curții (Camera întâi) din 4 mai 2023, Cauza C-40/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-05-04",
+ "year": "2023",
+ "case": "Cauza C-40/21",
+ "celex": "62021CJ0040",
+ "ecli": "ECLI:EU:C:2023:367",
+ "heading": "Hotărârea Curții (Camera întâi) din 4 mai 2023",
+ "formation": "CHAMB_01_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Timişoara",
+   "date": "2020-11-12",
+   "national_file": "38497/3/2019"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Timişoara",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Decizia 2006/928/CE – Mecanismul de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției – Carta drepturilor fundamentale a Uniunii Europene – Articolul 15 alineatul (1) – Articolul 47 – Articolul 49 alineatul (3) – Funcții publice alese – Conflict de interese – Reglementare națională care prevede interdicția de a ocupa funcții publice alese pentru o durată prestabilită – Sancțiune complementară încetării mandatului – Principiul proporționalității",
+ "interprets": [
+  {
+   "celex": "12007P015",
+   "folder": null
+  },
+  {
+   "celex": "12007P047",
+   "folder": null
+  },
+  {
+   "celex": "12007P049",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0040",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-40/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/49f926fb-ea58-11ed-a05c-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "f079736f735dfbe6af542a8c1b069dd60dec5d229528ac823754a2ba41cee54d"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera întâi) declară:",
+  "1) Articolul 49 alineatul (3) din Carta drepturilor fundamentale a Uniunii Europene trebuie interpretat în sensul că nu se aplică unei legislații naționale care prevede, în urma unei proceduri administrative, o măsură constând în interdicția de a ocupa orice funcție publică aleasă pentru o durată prestabilită de trei ani împotriva unei persoane față de care s‑a constatat existența unui conflict de interese în exercitarea unei asemenea funcții, în cazul în care această măsură nu este de natură penală.",
+  "2) Principiul proporționalității trebuie interpretat în sensul că nu se opune unei legislații naționale care prevede o măsură constând în interdicția de a ocupa orice funcție publică aleasă pentru o durată prestabilită de trei ani împotriva unei persoane față de care s‑a constatat existența unui conflict de interese în exercitarea unei asemenea funcții, cu condiția ca, având în vedere toate împrejurările relevante, aplicarea acestei legislații să conducă la aplicarea unei sancțiuni adecvate gravității încălcării pe care o reprimă, ținând seama de obiectivul de a asigura integritatea și transparența în exercitarea funcțiilor și a demnităților publice, precum și de a preveni corupția instituțională. Această situație nu s‑ar regăsi atunci când, în mod excepțional, având în vedere obiectivul amintit, comportamentul ilicit constatat nu prezintă niciun element de gravitate, în timp ce impactul măsurii respective asupra situației personale, profesionale și economice a acestei persoane se dovedește deosebit de grav.",
+  "3) Articolul 15 alineatul (1) din Carta drepturilor fundamentale trebuie interpretat în sensul că dreptul de a exercita un mandat electiv obținut în urma unui proces electoral democratic, precum cel de primar, nu intră sub incidența acestei dispoziții.",
+  "4) Articolul 47 din Carta drepturilor fundamentale trebuie interpretat în sensul că nu se opune unei legislații naționale care prevede o măsură constând în interdicția de a ocupa orice funcție publică aleasă pentru o durată prestabilită de trei ani împotriva unei persoane față de care s‑a constatat existența unui conflict de interese în exercitarea unei asemenea funcții, cu condiția ca persoana în cauză să aibă efectiv posibilitatea de a contesta legalitatea raportului în care s‑a efectuat această constatare și a sancțiunii aplicate în temeiul acestuia, inclusiv proporționalitatea acesteia."
+ ]
+}
