@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-18: sent for promulgation
 - 2023-05-04: promulgated, becomes Legea nr. 107/2023
+- 2023-05-08: published in the Monitorul Oficial
 
 ## Documents
 
