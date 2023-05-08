@@ -1,0 +1,168 @@
+{
+ "key": "iccj-hp-22-2023",
+ "label": "Decizia ÎCCJ nr. 22/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "22",
+ "date": "2023-03-27",
+ "year": "2023",
+ "heading": "DECIZIA nr. 22 din 27 martie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 196 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "392",
+  "bis": false,
+  "date": "2023-05-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "122/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Curtea de Apel Bacău - Secția I civilă în Dosarul nr. 1.289/321/2020, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Art. 196 din Codul de procedură civilă se interpretează în sensul că demersul de complinire a obligației de achitare a taxei judiciare de timbru reprezintă o manifestare neechivocă a părții cu privire la intenția sa de continuare a demersului judiciar, iar nu de desistare, cu consecința că nu se poate pronunța nulitatea cererii de sesizare instanței de judecată?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "196",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "483",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-05-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270008",
+  "text_sha256": "1b4022773a483bf6b2cc9deff0dc14a6d5dccb8e1b124495f01b0b6fce2dd62b",
+  "catalogue_sha256": "1b4022773a483bf6b2cc9deff0dc14a6d5dccb8e1b124495f01b0b6fce2dd62b",
+  "fetched": "2026-11-03T22:21:12Z",
+  "chars": 48875,
+  "portal_id": "270008",
+  "tip": "DECIZIE"
+ }
+}
