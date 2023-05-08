@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-04-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-18: sent for promulgation
 - 2023-05-04: promulgated, becomes Legea nr. 109/2023
+- 2023-05-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2023-04-03: Forma adoptată de Senat (FS): [fs-059eb3d2.md](fs-059eb3d2.md); official file https://www.senat.ro/legis/PDF/2023/23L104FS.PDF
 - 2023-04-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L104AXS.PDF
 - 2023-04-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L104LP.PDF
+- 2023-05-08: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L104TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-08: Document (AL): [al-52fa2792.md](al-52fa2792.md); official file https://www.senat.ro/legis/PDF/2023/23L104AL.PDF (its day is not given by the bill file: shown from the last stage held)
