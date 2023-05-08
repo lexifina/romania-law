@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-28: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2023-04-12: documents published: Aviz comisie
 - 2023-05-05: documents published: Raport comisie sesizată pe fond
+- 2023-05-08: withdrawn by the initiator
 
 ## Documents
 
