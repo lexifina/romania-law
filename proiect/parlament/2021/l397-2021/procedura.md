@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-04-12: adopted by the Chamber of Deputies
 - 2023-04-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-20: sent for promulgation
+- 2023-05-08: promulgated, becomes Legea nr. 112/2023
 
 ## Documents
 
