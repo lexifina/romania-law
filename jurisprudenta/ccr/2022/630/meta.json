@@ -1,0 +1,194 @@
+{
+ "key": "dcc-630-2022",
+ "label": "Decizia CCR nr. 630/2022",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "630",
+ "date": "2022-12-13",
+ "year": "2022",
+ "heading": "DECIZIA nr. 630 din 13 decembrie 2022",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 44 lit. d) din Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "397",
+  "bis": false,
+  "date": "2023-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "46/313/2019",
+  "3.455D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+    "number": "407",
+    "year": "2006",
+    "path": "lege/2006/407"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mircea Gogoașe în Dosarul nr. 46/313/2019 al Judecătoriei Strehaia și constată că dispozițiile art. 44 lit. d) din Legea vânătorii și a protecției fondului cinegetic nr. 407/2006 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Strehaia și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea vânătorii și a protecției fondului cinegetic nr. 407/2006",
+    "number": "407",
+    "year": "2006",
+    "path": "lege/2006/407"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270037",
+  "text_sha256": "1b02fb70ea1b5062a17adb46e2327d222ce452af7efa97aa80352950a9458dc9",
+  "catalogue_sha256": "1b02fb70ea1b5062a17adb46e2327d222ce452af7efa97aa80352950a9458dc9",
+  "fetched": "2026-11-03T01:23:03Z",
+  "chars": 19400,
+  "portal_id": "270037",
+  "tip": "DECIZIE"
+ }
+}
