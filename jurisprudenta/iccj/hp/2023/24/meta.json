@@ -1,0 +1,224 @@
+{
+ "key": "iccj-hp-24-2023",
+ "label": "Decizia ÎCCJ nr. 24/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "24",
+ "date": "2023-03-27",
+ "year": "2023",
+ "heading": "DECIZIA nr. 24 din 27 martie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 82 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "395",
+  "bis": false,
+  "date": "2023-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "161/1/2023",
+  "1.357/117/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Cluj - Secția a IV-a pentru litigii de muncă și asigurări sociale, în Dosarul nr. 1.357/117/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Cum se interpretează și se aplică dispozițiile art. 82 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, cu modificările și completările ulterioare, și dispozițiile art. 7 alin. (1), (2) și (3) din Normele metodologice de aplicare a prevederilor Legii nr. 303/2004 privind statutul judecătorilor și procurorilor, republicată, și ale Legii nr. 47/1992 privind organizarea și funcționarea Curții Constituționale, republicată, referitoare la pensiile de serviciu și la acordarea indemnizațiilor pentru creșterea copilului în vârstă de până la 2 ani, aprobate prin Hotărârea Guvernului nr. 1.275/2005, referitoare la pensiile de serviciu, în sensul de a se stabili dacă drepturile acordate prin hotărâri judecătorești irevocabile privind diferențele DNA-DIICOT, respectiv coeficienții prevăzuți de lit. A pct. 6-13 din anexa la Ordonanța de urgență a Guvernului nr. 27/2006 privind salarizarea și alte drepturi ale judecătorilor, procurorilor și altor categorii de personal din sistemul justiției, aprobată cu modificări și completări prin Legea nr. 45/2007, cu modificările și completările ulterioare, se încadrează în sintagma de „indemnizație avută“ și trebuie luate în considerare la stabilirea pensiei de serviciu a magistraților?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "82",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 27/2006",
+    "number": "27",
+    "year": "2006",
+    "path": "oug/2006/27"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/1998",
+    "number": "154",
+    "year": "1998",
+    "path": "lege/1998/154"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 10/2007",
+    "number": "10",
+    "year": "2007",
+    "path": "og/2007/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.275/2005",
+    "number": "1275",
+    "year": "2005",
+    "path": "hg/2005/1275"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 83/2014",
+    "number": "83",
+    "year": "2014",
+    "path": "oug/2014/83"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270025",
+  "text_sha256": "8599d05006bbb0d3407069d61f8c6b22a5f14ea8c9c1c23c4d0d7c2fa1ab7baf",
+  "catalogue_sha256": "8599d05006bbb0d3407069d61f8c6b22a5f14ea8c9c1c23c4d0d7c2fa1ab7baf",
+  "fetched": "2026-11-03T01:23:05Z",
+  "chars": 49043,
+  "portal_id": "270025",
+  "tip": "DECIZIE"
+ }
+}
