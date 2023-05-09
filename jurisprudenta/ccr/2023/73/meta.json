@@ -1,0 +1,172 @@
+{
+ "key": "dcc-73-2023",
+ "label": "Decizia CCR nr. 73/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "73",
+ "date": "2023-03-02",
+ "year": "2023",
+ "heading": "DECIZIA nr. 73 din 2 martie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 5 alin. (7) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "396",
+  "bis": false,
+  "date": "2023-05-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.590/2/2016/a1",
+  "2.446D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "oug/2007/33"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 5 alin. (7) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei din Constanța, excepție ridicată de Societatea e-Distribuție Dobrogea - S.A. din Constanța în Dosarul nr. 4.590/2/2016/a1 al Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 33/2007",
+    "number": "33",
+    "year": "2007",
+    "path": "oug/2007/33"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-05-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270033",
+  "text_sha256": "f6e6ef0cae2089a0fcdf0b2068830b4801bb86a59e234b632e368f46765cf236",
+  "catalogue_sha256": "f6e6ef0cae2089a0fcdf0b2068830b4801bb86a59e234b632e368f46765cf236",
+  "fetched": "2026-11-03T01:23:03Z",
+  "chars": 14309,
+  "portal_id": "270033",
+  "tip": "DECIZIE"
+ }
+}
