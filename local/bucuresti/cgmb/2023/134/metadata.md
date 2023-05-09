@@ -1,0 +1,12 @@
+# HCGMB nr. 134/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 134/2023
+- Adopted: 2023-04-27
+- Published: 2023-05-09
+- Title: PRIVIND SCHIMBAREA DESTINATIEI IMOBILULUI SITUAT IN BULEVARDUL GARII OBOR NR . 14, SECTOR 2, BUCURESTI, CU NUMARUL CADASTRAL 228326- C1 - U29, DIN SPATII CU DESTINATIA "BIROURI PENTRU FUNCTIUNI PROPRII PRIMARIEI SECTORULUI 2 AL MUNICIPIULUI BUCURESTI SI CONSILIUL LOCAL SECTOR 2 BUCUREŞTI" IN "SPATII PENTRU ORGANIZAREA UNOR STRUCTURI DE ECONOMIE SOCIALA SI BIROURI PENTRU ACTIVITATI SOCIALE DESFASURATE DE DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI SECTOR 2" ABROGA HCGMB NR. 615/2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44679
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/44679/h134_23.pdf
+- Document sha256: 9f4cf4b2f17b5025c67daaecf31ade731b086f101abb18f4badc6fb50432741d
