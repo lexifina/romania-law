@@ -1,0 +1,12 @@
+# HCGMB nr. 138/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 138/2023
+- Adopted: 2023-04-27
+- Published: 2023-05-09
+- Title: PRIVIND IMPUTERNICIREA EXPRESA A CONSILIULUI LOCAL AL SECTORULUI 6 DE A HOTART CU PRIVIRE LA ASOCIEREA SECTORULUI 6 AL MUNICIPIULUI BUCURESTI CU INSPECTORATUL PENTRU SITUATII DE URGENTA “DEALUL SPIRIT” BUCURESTI - ILFOV IN VEDEREA DERULARII SI FINANTARII IN COMUN A PROIECTELOR DE INTERES PUBLIC LOCAL “LUCRARI DE REPARATII LA DETASAMENTUL DE POMPIERI “BUJORENI” DIN CADRUL ISU “DEALUL SPIRII” BUCURESTI – ILFOV” SI “LUCRARI DE REPARATII LA DETASAMENTUL DE POMPIERI “GROZAVESTI” DIN CADRUL ISU “DEALUL SPIRII BUCURESTI” – ILFOV”
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44684
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/44684/h138_23.pdf
+- Document sha256: a5ff1000b6fd9fa6336afef22e6f32b08387a0c074dc98c1c3af02b9ab267409
