@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-25: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2020-04-14: documents published: Raport comisie sesizată pe fond
 - 2020-05-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2023-05-10: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-04-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L194CR.PDF
 - 2020-05-12: Forma adoptată de Senat (FS): [fs-6f754686.md](fs-6f754686.md); official file https://www.senat.ro/legis/PDF/2020/20L194FS.PDF
 - 2020-05-12: Adresă către Camera Deputaților (AM): [am-18a44ff5.md](am-18a44ff5.md); official file https://www.senat.ro/legis/PDF/2020/20L194AM.PDF
+- 2023-05-10: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L194AXS.PDF
+- 2023-05-10: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L194LP.PDF
