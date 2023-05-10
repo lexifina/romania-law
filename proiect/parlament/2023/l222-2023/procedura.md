@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 - 2023-04-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-05-03: documents published: Aviz comisie
 - 2023-05-09: documents published: Aviz comisie
+- 2023-05-10: documents published: Aviz comisie, Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2023-05-03: Aviz comisie (CA39): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L222CA39.PDF
 - 2023-05-03: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L222CA56.PDF
 - 2023-05-09: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L222CA43.PDF
+- 2023-05-10: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L222CA41.PDF
+- 2023-05-10: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L222CR.PDF
