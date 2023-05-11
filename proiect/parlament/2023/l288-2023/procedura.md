@@ -12,7 +12,12 @@ Initiator: Guvernul României.
 
 - 2023-02-27: registered at the Chamber of Deputies
 - 2023-05-08: adopted by the Chamber of Deputies
+- 2023-05-11: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 
 ## Documents
 
-- none held as text
+- 2023-05-11: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288AD.PDF
+- 2023-05-11: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288FG.PDF
+- 2023-05-11: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288EM.PDF
+- 2023-05-11: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288LG.PDF
+- 2023-05-11: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288HG.PDF
