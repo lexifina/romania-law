@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-24: sent for promulgation
 - 2023-05-10: promulgated, becomes Legea nr. 116/2023
+- 2023-05-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-26: Adresă către Camera Deputaților (AM): [am-8ab04cb1.md](am-8ab04cb1.md); official file https://www.senat.ro/legis/PDF/2021/21L060AM.PDF
 - 2023-04-18: Adresă privind sesizarea CCR (AXS): [axs-2747e202.md](axs-2747e202.md); official file https://www.senat.ro/legis/PDF/2021/21L060AXS.PDF
 - 2023-04-18: Forma trimisă la promulgare (LP): [lp-f8d0db4a.md](lp-f8d0db4a.md); official file https://www.senat.ro/legis/PDF/2021/21L060LP.PDF
+- 2023-05-11: Document (AA): [aa-853b364f.md](aa-853b364f.md); official file https://www.senat.ro/legis/PDF/2021/21L060AA.PDF (its day is not given by the bill file: shown from the last stage held)
