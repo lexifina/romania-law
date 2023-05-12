@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-04-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-26: sent for promulgation
 - 2023-05-11: promulgated, becomes Legea nr. 117/2023
+- 2023-05-12: published in the Monitorul Oficial
 
 ## Documents
 
