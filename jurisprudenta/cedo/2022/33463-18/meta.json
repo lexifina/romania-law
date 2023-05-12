@@ -1,0 +1,94 @@
+{
+ "key": "cedo-33463-18-2022-08-30",
+ "label": "CEDO, A.E.J. c. României, 2022-08-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-08-30",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 30 august 2022",
+ "subtitle": "în Cauza A.E.J. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "409",
+  "bis": false,
+  "date": "2023-05-12",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "33463/18"
+ ],
+ "case_name": "A.E.J.",
+ "subjects": [],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că statul pârât și-a încălcat obligațiile pozitive în temeiul art. 3 din Convenție;",
+  "3. hotărăște a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, suma de 12.500 EUR (douăsprezece mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral, sumă care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "220",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270150",
+  "text_sha256": "57ee0a9f2a5586f3ef864c763823533f9bf96e9698c140c4f0062c6c7a1b1683",
+  "catalogue_sha256": "57ee0a9f2a5586f3ef864c763823533f9bf96e9698c140c4f0062c6c7a1b1683",
+  "fetched": "2026-11-03T01:22:55Z",
+  "chars": 13995,
+  "portal_id": "270150",
+  "tip": "HOTĂRÂRE"
+ }
+}
