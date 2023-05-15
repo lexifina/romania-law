@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-21: rejected by the Chamber of Deputies
 - 2023-03-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-04-12: documents published: Aviz comisie
+- 2023-05-15: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-22: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L154FG.PDF
 - 2023-03-22: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L154EM.PDF
 - 2023-04-12: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L154CA45.PDF
+- 2023-05-15: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L154ARD.PDF (its day is not given by the bill file: shown from the last stage held)
