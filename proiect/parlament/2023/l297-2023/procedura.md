@@ -1,0 +1,21 @@
+# Proiect de lege L297/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 234/2023 (`legea-234-2023`).
+
+Proiect de lege pentru modificarea şi completarea Legii nr.111/1996 privind desfăşurarea în siguranţă, reglementarea, autorizarea şi controlul activităţilor nucleare precum şi pentru modificarea Legii nr.329/2009 privind reorganizarea unor autorităţi şi instituţii publice, raţionalizarea cheltuielilor publice, susţinerea mediului de afaceri respectarea acordurilor-cadru cu Comisia Europeană şi Fondul Monetar Internaţional
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-05-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-05-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L297AD.PDF
+- 2023-05-15: Forma inițiatorului (FG): [fg-dd4e6450.md](fg-dd4e6450.md); official file https://www.senat.ro/legis/PDF/2023/23L297FG.PDF
+- 2023-05-15: Expunere de motive (EM): [em-226fed23.md](em-226fed23.md); official file https://www.senat.ro/legis/PDF/2023/23L297EM.PDF
+- 2023-05-15: Aviz Consiliul Legislativ (LG): [lg-cbbbded1.md](lg-cbbbded1.md); official file https://www.senat.ro/legis/PDF/2023/23L297LG.PDF
+- 2023-05-15: Document (HG): [hg-ce26d3bd.md](hg-ce26d3bd.md); official file https://www.senat.ro/legis/PDF/2023/23L297HG.PDF
