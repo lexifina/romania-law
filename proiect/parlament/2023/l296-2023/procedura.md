@@ -1,0 +1,21 @@
+# Proiect de lege L296/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 225/2023 (`legea-225-2023`).
+
+Proiect de lege pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-05-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-05-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L296AD.PDF
+- 2023-05-15: Forma inițiatorului (FG): [fg-f31a008d.md](fg-f31a008d.md); official file https://www.senat.ro/legis/PDF/2023/23L296FG.PDF
+- 2023-05-15: Expunere de motive (EM): [em-f817a90f.md](em-f817a90f.md); official file https://www.senat.ro/legis/PDF/2023/23L296EM.PDF
+- 2023-05-15: Aviz Consiliul Legislativ (LG): [lg-68431a62.md](lg-68431a62.md); official file https://www.senat.ro/legis/PDF/2023/23L296LG.PDF
+- 2023-05-15: Document (HG): [hg-9c984fb7.md](hg-9c984fb7.md); official file https://www.senat.ro/legis/PDF/2023/23L296HG.PDF
