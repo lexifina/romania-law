@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-05: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-05-13: registered at the Chamber of Deputies
 - 2020-06-12: promulgated, becomes Legea nr. 168/2023
+- 2023-05-15: adopted by the Chamber of Deputies
 
 ## Documents
 
