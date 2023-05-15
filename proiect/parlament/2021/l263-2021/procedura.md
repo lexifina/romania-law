@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-06: adopted by the Senate
 - 2023-05-03: returned for re-examination
 - 2023-05-13: sent for promulgation
+- 2023-05-15: promulgated, becomes Legea nr. 121/2023
 
 ## Documents
 
