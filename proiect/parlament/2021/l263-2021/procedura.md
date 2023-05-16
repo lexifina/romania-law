@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-03: returned for re-examination
 - 2023-05-13: sent for promulgation
 - 2023-05-15: promulgated, becomes Legea nr. 121/2023
+- 2023-05-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-07: Adresă către Camera Deputaților (AM): [am-4295830f.md](am-4295830f.md); official file https://www.senat.ro/legis/PDF/2021/21L263AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263LP.PDF
+- 2023-05-16: Document (RX): [rx-d76b776f.md](rx-d76b776f.md); official file https://www.senat.ro/legis/PDF/2021/21L263RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (XA): [xa-a99c525f.md](xa-a99c525f.md); official file https://www.senat.ro/legis/PDF/2021/21L263XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-16: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L263PX.PDF (its day is not given by the bill file: shown from the last stage held)
