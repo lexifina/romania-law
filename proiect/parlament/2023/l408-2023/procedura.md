@@ -1,0 +1,17 @@
+# Propunere legislativă L408/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea art.30 din Legea nr.263/2010 privind sistemul unitar de pensii publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-05-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-05-17: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L408AD.PDF
+- 2023-05-17: Forma inițiatorului (FG): [fg-f49e2593.md](fg-f49e2593.md); official file https://www.senat.ro/legis/PDF/2023/23L408FG.PDF
+- 2023-05-17: Expunere de motive (EM): [em-986c2014.md](em-986c2014.md); official file https://www.senat.ro/legis/PDF/2023/23L408EM.PDF
