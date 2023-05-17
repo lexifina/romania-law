@@ -1,0 +1,3 @@
+# Anexa nr. 2
+REGULAMENT pentru participarea întreprinderilor cu activitate de turism, a asociațiilor profesionale, patronale și a organizațiilor neguvernamentale cu activitate în domeniul turismului și a altor entități a căror activitate are impact în domeniul turismului la manifestările expoziționale, în pavilioanele naționale, standurile specializate ori miniexpozițiile la care participă
+Ministerul Antreprenoriatului și Turismului în străinătate
