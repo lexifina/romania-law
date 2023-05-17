@@ -1,0 +1,8 @@
+# HCL Corlățel nr. 17/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Comunei Corlățel
+- Decision: nr. 17/2023
+- Adopted: 2023-05-17
+- Record: https://emol.ro/corlatel-mh/registru-hcl/104919
