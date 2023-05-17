@@ -1,0 +1,26 @@
+# Anexa nr. 1 (Anexa nr. 4 la normele metodologice)
+Județul..............................
+UAT...................................
+Tel..............................., e-mail..............................
+Nr...................../data...................
+SOLICITARE de transfer fonduri de la bugetul de stat
+Având în vedere Contractul de finanțare înregistrat la Ministerul Dezvoltării, Lucrărilor Publice și Administrației cu nr................ (număr/data) și la UAT................ cu nr................ (număr/data), pentru obiectivul de investiții „....................”, solicităm transferul sumei de................ lei, de la bugetul de stat, astfel: - pentru servicii de proiectare...................... lei, cu TVA, aferentă facturii nr./dată......................;
+- pentru lucrări de execuție...................... lei, cu TVA, aferentă facturii nr./dată......................;
+- pentru alte cheltuieli.................., în valoare de............... lei, cu TVA, aferentă................. (document) nr./dată............
+Indicatori realizați până la data transmiterii solicitării, conform: - anexei 4. a []
+- anexei 4. b []
+- anexei 4. c []
+- anexei 4. d []
+Data estimată de finalizare a obiectivului de investiție (conform contractului de lucrări și actelor adiționale aferente):...................
+Subsemnatul,.........................., având funcția de....................., în calitate de reprezentant legal al UAT......................, județul................., declar pe propria răspundere, sub sancțiunea legii penale, următoarele^1: ^1 Pct. 2, 3 sau 4 se completează, după caz, doar în situația în care se solicită transferul sumelor de la bugetul de stat pentru obiective de investiții din categoria prevăzută la art. 4 alin. (1) lit. c) din Ordonanța de urgență a Guvernului nr. 95/2021 pentru aprobarea Programului național de investiții „Anghel Saligny”, aprobată cu modificări și completări prin Legea nr. 183/2022, în funcție de situația de la art. 4 alin. (6) din Ordonanța de urgență a Guvernului nr. 95/2021, aprobată cu modificări și completări prin Legea nr. 183/2022, în care se încadrează obiectivul.
+1.
+Lucrările/Serviciile/Alte cheltuieli solicitate la plată sunt executate/prestate/efectuate la data solicitării și se încadrează în categoriile de cheltuieli care se pot finanța de la bugetul de stat, conform art. 4 alin. (5) din normele metodologice aprobate prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 1.333/2021, cu modificările și completările ulterioare.
+2.
+Lucrările pentru care solicit transferul de sume de la bugetul de stat sunt executate în intravilanul localității, pe un amplasament unde există sistem de alimentare cu apă și canalizare.
+3.
+Lucrările pentru care solicit transferul de sume de la bugetul de stat sunt executate în extravilanul localității.
+4.
+Lucrările pentru care solicit transferul de sume de la bugetul de stat se realizează pe un amplasament unde nu pot fi realizate sisteme de alimentare cu apă și canalizare, deoarece nu sunt viabile economic, conform memoriului justificativ încărcat în platforma digitală.
+Primar/Președinte/Reprezentant legal,
+Numele și prenumele.......................
+Semnătura....................
