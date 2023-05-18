@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 18.05.2023, cu respectarea prevederilor art. 139, alin.3 lit.c) din OUG nr. 57/2019 privind Codul administrativ, cu un număr de 11 voturi pentru, 2 voturi împotrivă, 2 voturi abțineri, din totalul de 15 consilieri prezenți.
