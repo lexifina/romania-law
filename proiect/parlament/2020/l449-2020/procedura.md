@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-04: sent for promulgation
 - 2023-05-19: promulgated, becomes Legea nr. 129/2023
+- 2023-05-22: published in the Monitorul Oficial
 
 ## Documents
 
