@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-13: registered at the Chamber of Deputies
 - 2020-06-12: promulgated, becomes Legea nr. 168/2023
 - 2023-05-15: adopted by the Chamber of Deputies
+- 2023-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-02-11: Aviz Consiliul Legislativ (LG): [lg-3a03da18.md](lg-3a03da18.md); official file https://www.senat.ro/legis/PDF/2020/20L147LG.PDF
 - 2020-02-11: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L147PV.PDF
 - 2020-05-05: Adresă către Camera Deputaților (AM): [am-a5296c12.md](am-a5296c12.md); official file https://www.senat.ro/legis/PDF/2020/20L147AM.PDF
+- 2023-05-22: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L147AXS.PDF
+- 2023-05-22: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L147LP.PDF
