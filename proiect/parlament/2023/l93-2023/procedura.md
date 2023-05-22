@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-05-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-04: sent for promulgation
 - 2023-05-19: promulgated, becomes Legea nr. 125/2023
+- 2023-05-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2023-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L093AM.PDF
 - 2023-05-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L093AXS.PDF
 - 2023-05-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L093LP.PDF
+- 2023-05-22: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L093TA.PDF (its day is not given by the bill file: shown from the last stage held)
