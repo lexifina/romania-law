@@ -1,0 +1,22 @@
+# Proiect de lege L322/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 338/2023 (`legea-338-2023`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.36/2023 privind stabilirea cadrului general pentru închiderea programelor operaţionale finanţate în perioada de programare 2014-2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-05-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-05-22: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322AD.PDF
+- 2023-05-22: Forma inițiatorului (FG): [fg-002c75fd.md](fg-002c75fd.md); official file https://www.senat.ro/legis/PDF/2023/23L322FG.PDF
+- 2023-05-22: Expunere de motive (EM): [em-48abc69b.md](em-48abc69b.md); official file https://www.senat.ro/legis/PDF/2023/23L322EM.PDF
+- 2023-05-22: Aviz Consiliul Legislativ (LG): [lg-f08df4c2.md](lg-f08df4c2.md); official file https://www.senat.ro/legis/PDF/2023/23L322LG.PDF
+- 2023-05-22: Document (OG): [og-a75a4382.md](og-a75a4382.md); official file https://www.senat.ro/legis/PDF/2023/23L322OG.PDF
+- 2023-05-22: Document (HG): [hg-376c9482.md](hg-376c9482.md); official file https://www.senat.ro/legis/PDF/2023/23L322HG.PDF
