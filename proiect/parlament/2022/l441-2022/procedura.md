@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-05-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-04: sent for promulgation
 - 2023-05-22: promulgated, becomes Legea nr. 131/2023
+- 2023-05-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L441AM.PDF
 - 2023-05-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L441AXS.PDF
 - 2023-05-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L441LP.PDF
+- 2023-05-23: Document (TA): [ta-d280b89f.md](ta-d280b89f.md); official file https://www.senat.ro/legis/PDF/2022/22L441TA.PDF (its day is not given by the bill file: shown from the last stage held)
