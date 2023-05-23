@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-12: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-05-19: sent for promulgation
 - 2020-07-08: published in the Monitorul Oficial
+- 2023-05-23: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,6 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-12: Forma adoptată de Senat (FS): [fs-ad456d7c.md](fs-ad456d7c.md); official file https://www.senat.ro/legis/PDF/2019/19L603FS.PDF
 - 2020-05-12: Adresă privind sesizarea CCR (AXS): [axs-711546a6.md](axs-711546a6.md); official file https://www.senat.ro/legis/PDF/2019/19L603AXS.PDF
 - 2020-05-12: Forma trimisă la promulgare (LP): [lp-38548c77.md](lp-38548c77.md); official file https://www.senat.ro/legis/PDF/2019/19L603LP.PDF
+- 2023-05-23: Document (AL): [al-439ea36c.md](al-439ea36c.md); official file https://www.senat.ro/legis/PDF/2019/19L603AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-23: Document (SC1): [sc1-33e7783f.md](sc1-33e7783f.md); official file https://www.senat.ro/legis/PDF/2019/19L603SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-23: Document (DC1): [dc1-41e16f97.md](dc1-41e16f97.md); official file https://www.senat.ro/legis/PDF/2019/19L603DC1.PDF (its day is not given by the bill file: shown from the last stage held)
