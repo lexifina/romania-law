@@ -1,0 +1,9 @@
+# HCL Băbeni nr. 46/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Băbeni
+- Decision: nr. 46/2023
+- Adopted: 2023-05-24
+- Title: aprobarea contului de execuţie al bugetului local al oraşului Băbeni şi al institutiilor publice si activitatilor finantate integral sau partial din venituri proprii si subventii pentru trimestrul I 2023
+- Record: https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#49481
