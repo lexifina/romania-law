@@ -1,0 +1,23 @@
+# Anexa 6
+Anexa nr. 6
+la normele metodologice
+Formularul FB6 - Angajament bugetar global (în limita creditelor
+bugetare reflectate în anexa la bugetul Ministerului Afacerilor Interne -
+Autoritatea de management Afaceri interne)
+Antet Autoritatea de management Afaceri interne
+Compartimentul de specialitate .........................
+Angajament bugetar global (în limita creditelor bugetare reflectate în anexa la bugetul Ministerului Afacerilor Interne - Autoritatea de management Afaceri interne) Nr. ...... din data de .............................
+Finanțare UE, din care: ………………………………………………..
+………………. Cofinanțare publică …………………..
+TOTAL ……………………….
+Compartiment de specialitate
+Data: ……………….
+Semnătura: ………………………
+Spațiu rezervat CFFP Data: ………………..
+- Viza Semnătura: ………………..
+- Refuz viză
+- Înregistrare individuală Nr. ……. Data ……………
+Ordonator principal de credite,
+................................................
+Data .....................
+Semnătura ......................
