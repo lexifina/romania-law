@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-05-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-10: sent for promulgation
 - 2023-05-23: promulgated, becomes Legea nr. 135/2023
+- 2023-05-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,6 @@ Initiator: Guvernul României.
 - 2023-05-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223FS.PDF
 - 2023-05-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223AXS.PDF
 - 2023-05-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223LP.PDF
+- 2023-05-24: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-24: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-24: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L223AL.PDF (its day is not given by the bill file: shown from the last stage held)
