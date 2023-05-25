@@ -1,0 +1,162 @@
+{
+ "key": "iccj-hp-32-2023",
+ "label": "Decizia ÎCCJ nr. 32/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "32",
+ "date": "2023-04-24",
+ "year": "2023",
+ "heading": "DECIZIA nr. 32 din 24 aprilie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 94 și art. 466 din Codul de procedură civilă și art. 9 alin. (9) din anexa nr. 2 \"Procedura pentru soluționarea alternativă a litigiilor prin impunerea unei soluții în cadrul SAL-FIN\" la Regulamentul Autorității de Supraveghere Financiară nr. 4/2016 privind organizarea și funcționarea Entității de Soluționare Alternativă a Litigiilor în domeniul financiar nonbancar (SAL-FIN), cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "455",
+  "bis": false,
+  "date": "2023-05-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "330/1/2023",
+  "8.931/196/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Brăila - Secția a II-a civilă, de contencios administrativ și fiscal, în Dosarul nr. 8.931/196/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă, în interpretarea dispozițiilor art. 94 și art. 466 din Codul de procedură civilă și art. 9 alin. (9) din anexa nr. 2 „Procedura pentru soluționarea alternativă a litigiilor prin impunerea unei soluții în cadrul SAL-FIN“ la Regulamentul Autorității de Supraveghere Financiară nr. 4/2016 privind organizarea și funcționarea Entității de Soluționare Alternativă a Litigiilor în domeniul financiar nonbancar (SAL-FIN), cu modificările și completările ulterioare, hotărârile pronunțate de judecătorie, prin care se soluționează o cerere privind anularea hotărârii pronunțate de SAL-FIN potrivit art. 9 din anexa nr. 2 la Regulamentul Autorității de Supraveghere Financiară nr. 4/2016, sunt sau nu supuse căii de atac a apelului.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "94",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-05-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270692",
+  "text_sha256": "0fdd37e0bd21ec6308765f7f4664a8aa1342e9520a0cd6502ba143139e0f604f",
+  "catalogue_sha256": "0fdd37e0bd21ec6308765f7f4664a8aa1342e9520a0cd6502ba143139e0f604f",
+  "fetched": "2026-11-06T03:57:40Z",
+  "chars": 51624,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/270692",
+   "timestamp": "20251115063655",
+   "crawl": "CC-MAIN-2025-47",
+   "filename": "crawl-data/CC-MAIN-2025-47/segments/1762439344037.68/warc/CC-MAIN-20251115045558-20251115075558-00462.warc.gz",
+   "offset": "287779470",
+   "length": "39870",
+   "sha256": "479635e8a6dd657d3165252c68eba7dc39635fb5ecbd84606ecd79948c4602ac"
+  },
+  "portal_id": "270692",
+  "tip": "DECIZIE"
+ }
+}
