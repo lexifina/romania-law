@@ -1,0 +1,225 @@
+{
+ "key": "iccj-hp-17-2023",
+ "label": "Decizia ÎCCJ nr. 17/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "17",
+ "date": "2023-03-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 17 din 13 martie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 24 alin. (1)-(3) din Legea nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "468",
+  "bis": false,
+  "date": "2023-05-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.759/1/2022",
+  "20.854/299/2022",
+  "1.442/2/2015",
+  "21.097/299/2022",
+  "22.019/299/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibile, sesizările formulate de Tribunalul București - Secția a III-a civilă, prin Încheierea din 5 iulie 2022, pronunțată în Dosarul nr. 20.854/299/2022, prin Încheierea din 5 iulie 2022, pronunțată în Dosarul nr. 22.019/299/2022, și prin Încheierea din 2 august 2022, pronunțată în Dosarul nr. 21.097/299/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În interpretarea și aplicarea art. 24 alin. (1)-(3) din Legea nr. 554/2004, cu modificările și completările ulterioare, procedura de executare a unei hotărâri judecătorești definitive, pronunțate de o instanță de contencios administrativ, se aplică inclusiv în situația în care obligația stabilită prin hotărârea respectivă este aceea de adoptare a unui act administrativ unilateral cu caracter individual?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 49/1997",
+    "number": "49",
+    "year": "1997",
+    "path": "oug/1997/49"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 173/2020",
+    "number": "173",
+    "year": "2020",
+    "path": "lege/2020/173"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-05-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/270778",
+  "text_sha256": "900bb935c829d1167a986f35235a5b2df74984c7f8ff56f6763786c5346ab1bd",
+  "catalogue_sha256": "900bb935c829d1167a986f35235a5b2df74984c7f8ff56f6763786c5346ab1bd",
+  "fetched": "2026-11-03T01:22:16Z",
+  "chars": 40888,
+  "portal_id": "270778",
+  "tip": "DECIZIE"
+ }
+}
