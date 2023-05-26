@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-08: sent for promulgation
 - 2023-05-24: promulgated, becomes Legea nr. 142/2023
+- 2023-05-26: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-02: Adresă către Camera Deputaților (AM): [am-98319262.md](am-98319262.md); official file https://www.senat.ro/legis/PDF/2021/21L556AM.PDF
 - 2023-05-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L556AXS.PDF
 - 2023-05-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L556LP.PDF
+- 2023-05-26: Document (AT): [at-b6b2515c.md](at-b6b2515c.md); official file https://www.senat.ro/legis/PDF/2021/21L556AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-05-26: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L556S1.PDF (its day is not given by the bill file: shown from the last stage held)
