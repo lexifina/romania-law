@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-20: documents published: Aviz comisie
 - 2021-10-27: rejected by the Senate; documents published: Aviz comisie, Adresă către Camera Deputaților
 - 2021-11-02: registered at the Chamber of Deputies
+- 2023-05-31: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-20: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L454CA8.PDF
 - 2021-10-27: Aviz comisie (CA45): [ca45-115d1426.md](ca45-115d1426.md); official file https://www.senat.ro/legis/PDF/2021/21L454CA45.PDF
 - 2021-10-27: Adresă către Camera Deputaților (AM): [am-5d59673b.md](am-5d59673b.md); official file https://www.senat.ro/legis/PDF/2021/21L454AM.PDF
+- 2023-05-31: Document (AA): [aa-4d71af6f.md](aa-4d71af6f.md); official file https://www.senat.ro/legis/PDF/2021/21L454AA.PDF (its day is not given by the bill file: shown from the last stage held)
