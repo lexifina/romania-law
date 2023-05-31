@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-05-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-05-09: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere Guvern
+- 2023-05-31: registered at the Senate
 
 ## Documents
 
