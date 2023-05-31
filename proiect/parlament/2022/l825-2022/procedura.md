@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-27: registered at the Chamber of Deputies
 - 2023-05-10: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-15: sent for promulgation
+- 2023-05-31: promulgated, becomes Legea nr. 166/2023
 
 ## Documents
 
