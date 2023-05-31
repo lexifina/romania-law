@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2022-07-21: returned for re-examination
 - 2022-11-28: adopted by the Senate
 - 2023-05-24: sent for promulgation
+- 2023-05-31: promulgated, becomes Legea nr. 164/2023
 
 ## Documents
 
