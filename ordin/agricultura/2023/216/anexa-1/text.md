@@ -1,0 +1,5 @@
+# ANEXĂ
+Cantitățile de motorină aferente perioadei 1 ianuarie 2023-31 martie 2023 determinate la plată și nedecontate de către Agenția de Plăți și Intervenție pentru Agricultură, ce beneficiază de ajutor de stat acordat sub formă de rambursare
+Nr. crt. Specificare Cantitatea de motorină determinată pentru plata ajutorului de stat (litri) Valoarea ajutorului de stat rotunjit, fără subdiviziuni ((lei)
+Total, din care: 58.540.501,001 89.515.233,00 1 Sectorul vegetal total, din care: 51.822.684,098 79.243.568,00 perioada 1 ianuarie 2023-31 martie 2023 51.758.671,597 79.139.228,00 diferență perioada 1 octombrie 2022-31 decembrie 2022 64.012,501 104.340,00 2 Sectorul zootehnic total, din care: 6.702.842,403 10.248.769,00 perioada 1 ianuarie 2023-31 martie 2023 6.702.038,323 10.247.458,00 diferență perioada 1 octombrie 2022-31 decembrie 2022 804,080 1.311,00 3 Sectorul îmbunătățiri funciare 14.974,500 22.896,00 (Conform prevederilor art. 9 alin. (2) din Hotărârea Guvernului nr. 1.174/2014 privind instituirea unei scheme de ajutor de stat pentru reducerea accizei la motorina utilizată în agricultură, cu modificările și completările ulterioare.
+-----
