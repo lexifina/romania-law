@@ -9,9 +9,12 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-05-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-06-06: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 
 ## Documents
 
 - 2023-05-31: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L444AD.PDF
 - 2023-05-31: Forma inițiatorului (FG): [fg-ce05b30e.md](fg-ce05b30e.md); official file https://www.senat.ro/legis/PDF/2023/23L444FG.PDF
 - 2023-05-31: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L444EM.PDF
+- 2023-06-06: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L444ES.PDF
+- 2023-06-06: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L444LG.PDF
