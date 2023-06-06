@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-17: documents published: Aviz comisie
 - 2023-05-25: documents published: Raport comisie sesizată pe fond
 - 2023-05-30: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2023-06-06: registered at the Chamber of Deputies
 
 ## Documents
 
