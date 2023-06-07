@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-13: sent for promulgation
 - 2023-05-31: promulgated, becomes Legea nr. 161/2023
+- 2023-06-07: published in the Monitorul Oficial
 
 ## Documents
 
