@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2022-11-28: adopted by the Senate
 - 2023-05-24: sent for promulgation
 - 2023-05-31: promulgated, becomes Legea nr. 164/2023
+- 2023-06-07: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,10 @@ Initiator: Guvernul României.
 - 2022-05-09: Adresă către Camera Deputaților (AM): [am-6dafb7fc.md](am-6dafb7fc.md); official file https://www.senat.ro/legis/PDF/2022/22L230AM.PDF
 - 2022-06-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230AXS.PDF
 - 2022-06-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230LP.PDF
+- 2023-06-07: Document (RX): [rx-aba88f7c.md](rx-aba88f7c.md); official file https://www.senat.ro/legis/PDF/2022/22L230RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (XA): [xa-d125a15d.md](xa-d125a15d.md); official file https://www.senat.ro/legis/PDF/2022/22L230XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-07: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L230PX.PDF (its day is not given by the bill file: shown from the last stage held)
