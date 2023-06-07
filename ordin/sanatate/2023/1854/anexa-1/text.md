@@ -1,0 +1,2 @@
+# ANEXĂ
+ANEXĂ privind lista, aferentă trimestrului I 2023, ce conține clasificarea medicamentelor de uz uman autorizate pentru punerea pe piață în România și raportate de furnizorii de servicii medicale și de medicamente la casele de asigurări de sănătate și validate de acestea, suportate din Fondul național unic de asigurări sociale de sănătate și din bugetul Ministerului Sănătății, în medicamente de tip I, tip II și tip III
