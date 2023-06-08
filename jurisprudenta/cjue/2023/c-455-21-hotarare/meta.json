@@ -1,0 +1,59 @@
+{
+ "key": "cjue-c-455-21-hotarare-2023-06-08",
+ "label": "CJUE, Hotărârea Curții (Camera a cincea) din 8 iunie 2023, Cauza C-455/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-06-08",
+ "year": "2023",
+ "case": "Cauza C-455/21",
+ "celex": "62021CJ0455",
+ "ecli": "ECLI:EU:C:2023:455",
+ "heading": "Hotărârea Curții (Camera a cincea) din 8 iunie 2023",
+ "formation": "CHAMB_05_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Tribunalul Olt, Secţia a-II-a Civilă şi de contencios administrativ şi fiscal",
+   "date": "2021-05-27",
+   "national_file": "4952/311/2020"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Olt",
+ "national_followup": null,
+ "parties": "OZ împotriva Lyoness Europe AG",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Protecția consumatorilor – Directiva 93/13/CEE – Clauze abuzive în contractele încheiate cu consumatorii – Articolul 2 litera (b) – Noțiunea de „consumator” – Contract având ca obiect afilierea la un sistem de fidelizare care permite obținerea anumitor avantaje financiare în urma achiziționării de bunuri și de servicii de la comercianți terți",
+ "interprets": [
+  {
+   "celex": "31993L0013",
+   "folder": "ue/directiva/1993/13"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0455",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-455/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/6182a287-05d8-11ee-b12e-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "df66ac00d95e7c8ae890e6555a6e542cc29b08561287d70d4bfd6c2ab1e08a09"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a cincea) declară:",
+  "Articolul 2 litera (b) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii",
+  "trebuie interpretat în sensul că",
+  "intră în sfera noțiunii de „consumator”, în sensul acestei dispoziții, o persoană fizică ce aderă la un sistem creat de o societate comercială și care permite printre altele să se beneficieze de anumite avantaje financiare în cadrul achiziționării, de către această persoană fizică sau de către alte persoane care participă la acest sistem ca urmare a recomandării sale, de bunuri și de servicii de la partenerii comerciali ai acestei societăți, atunci când persoana fizică respectivă acționează în scopuri care se află în afara activității sale profesionale."
+ ]
+}
