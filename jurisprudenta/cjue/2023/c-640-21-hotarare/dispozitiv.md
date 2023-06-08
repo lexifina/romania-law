@@ -1,0 +1,11 @@
+# CJUE, Hotărârea Curții (Camera a cincea) din 8 iunie 2023, Cauza C-640/21
+
+Pentru aceste motive, Curtea (Camera a cincea) declară:
+1) Articolele 173 și 174 din Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii
+trebuie interpretate în sensul că
+nu sunt aplicabile în cazul în care declarantul constată, după depunerea declarației sale vamale și după acordarea liberului de vamă, că o cantitate în plus de mărfuri față de cea care a făcut inițial obiectul acestei declarații ar fi trebuit de asemenea să fi făcut obiectul declarației menționate, în condițiile în care:
+– pe de o parte, o cerere de modificare a unei declarații vamale, în temeiul celei dintâi dintre aceste dispoziții, nu poate fi admisă atunci când urmărește să modifice această declarație pentru a o face aplicabilă unei cantități de mărfuri în plus față de cea care este menționată în declarația respectivă și
+– pe de altă parte, o cerere de invalidare a unei declarații vamale, în temeiul celei de a doua dintre aceste dispoziții, nu poate fi admisă atunci când această cerere a fost formulată după acordarea liberului de vamă pentru mărfuri, fără a se încadra însă în cazurile determinate de Comisia Europeană în temeiul articolului 175 din acest regulament.
+2) Regulamentul nr. 952/2013, în special articolul 42, articolul 139 alineatul (1) și articolul 158 alineatul (1) din acesta,
+trebuie interpretat în sensul că,
+atunci când un declarant constată, după acordarea liberului de vamă, că o cantitate de mărfuri importate este mai mare decât cea care a fost menționată în declarația sa vamală, el este obligat să facă o nouă declarație în ceea ce privește această cantitate în plus. Dacă, în cazul unei astfel de declarații tardive, autoritățile vamale sunt nevoite să aplice o legislație națională care prevede sancțiuni în conformitate cu articolul 42 din acest regulament, ele trebuie să țină seama, pentru a realiza încadrarea juridică a încălcării eventual săvârșite și pentru a determina, dacă este cazul, sancțiunile pentru nerespectarea legislației vamale care trebuie impuse, de toate elementele relevante, inclusiv, dacă este necesar, de buna‑credință a declarantului, pentru a garanta că aceste sancțiuni sunt efective, proporționale și cu efect de descurajare.
