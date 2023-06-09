@@ -1,0 +1,354 @@
+{
+ "key": "iccj-hp-28-2023",
+ "label": "Decizia ÎCCJ nr. 28/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "28",
+ "date": "2023-04-03",
+ "year": "2023",
+ "heading": "DECIZIA nr. 28 din 3 aprilie 2023",
+ "subtitle": "privind interpretarea prevederilor art. 311 alin. (10) lit. a) din Legea nr. 227/2015 privind Codul fiscal și ale pct. 85 alin. (6) din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, prin raportare la prevederile art. 294 alin. (1) lit. g) și ale art. 271 din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "506",
+  "bis": false,
+  "date": "2023-06-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "279/1/2023",
+  "556/110/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "311",
+     "alin": [
+      "10"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "294",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "g"
+     ]
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2018",
+    "number": "2",
+    "year": "2018",
+    "path": "og/2018/2"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 107/1999",
+    "number": "107",
+    "year": "1999",
+    "path": "og/1999/107"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, prin Încheierea din 15 decembrie 2022, pronunțată în Dosarul nr. 556/110/2021, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Interpretarea prevederilor art. 311 alin. (10) lit. a) din Legea nr. 227/2015 privind Codul fiscal și ale pct. 85 alin. (6) din Normele metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, aprobate prin Hotărârea Guvernului nr. 1/2016 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 227/2015 privind Codul fiscal, prin raportare la prevederile art. 294 alin. (1) lit. g) și ale art. 271 din Legea nr. 227/2015 privind Codul fiscal, în vederea identificării ipotezelor în care agenția de turism are un drept de opțiune între aplicarea regimului normal de taxă (scutire cu drept de deducere TVA) și aplicarea regimului special de TVA (19% pe marjă) pentru activitatea de vânzare de bilete de avion și în vederea identificării criteriilor de delimitare a noțiunii de «alte servicii turistice», respectiv dacă noțiunea de «alte servicii turistice» din Codul fiscal poate fi interpretată prin raportare la prevederile art. 3 pct. 15 lit. d) și ale art. 4 din Ordonanța Guvernului nr. 2/2018 privind pachetele de servicii de călătorie și serviciile de călătorie asociate, precum și pentru modificarea unor acte normative, respectiv art. 2 pct. 1 lit. c) din Ordonanța Guvernului nr. 107/1999 privind activitatea de comercializare a pachetelor de servicii turistice sau noțiunea din Codul fiscal are o definiție specifică în aplicarea prevederilor referitoare la fiscalizarea activității turistice",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "311",
+     "alin": [
+      "10",
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "294",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "g",
+      "a"
+     ]
+    },
+    {
+     "art": "271",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "292",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "296",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "310",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "306",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "307",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "309",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 74
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2018",
+    "number": "2",
+    "year": "2018",
+    "path": "og/2018/2"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 107/1999",
+    "number": "107",
+    "year": "1999",
+    "path": "og/1999/107"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2003",
+    "number": "571",
+    "year": "2003",
+    "path": "lege/2003/571"
+   },
+   "articles": [
+    {
+     "art": "152-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "144-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanțelor publice nr. 2.222/2006",
+    "number": "2222",
+    "year": "2006"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 1/2016",
+    "number": "1",
+    "year": "2016",
+    "path": "hg/2016/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271078",
+  "text_sha256": "29bb85dd87796c6d7db5a9a4f278c8ef01896be3ff3f206ec64bc021e717edb1",
+  "catalogue_sha256": "29bb85dd87796c6d7db5a9a4f278c8ef01896be3ff3f206ec64bc021e717edb1",
+  "fetched": "2026-11-03T01:21:53Z",
+  "chars": 80876,
+  "portal_id": "271078",
+  "tip": "DECIZIE"
+ }
+}
