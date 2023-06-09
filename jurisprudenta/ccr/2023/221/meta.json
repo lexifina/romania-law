@@ -1,0 +1,613 @@
+{
+ "key": "dcc-221-2023",
+ "label": "Decizia CCR nr. 221/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "221",
+ "date": "2023-04-20",
+ "year": "2023",
+ "heading": "DECIZIE nr. 221 din 20 aprilie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 378 alin. (1) lit. c) din Codul penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "505",
+  "bis": false,
+  "date": "2023-06-09",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "9.722/271/2019/a1",
+  "1.187/829/2019",
+  "9.899/271/2020/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "378",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite excepția de neconstituționalitate ridicată de Kinga Gabriela Tolnai în Dosarul nr. 9.722/271/2019/a1 al Judecătoriei Oradea - Secția penală, de Cosmin-Dumitru Mastacan în Dosarul nr. 1.187/829/2019 al Judecătoriei Podu Turcului, respectiv de Diana Nicoleta Galiș în Dosarul nr. 9.899/271/2020/a1 al Judecătoriei Oradea - Secția penală și constată că soluția legislativă cuprinsă în art. 378 alin. (1) lit. c) din Codul penal, care nu incriminează neplata, cu rea-credință, timp de 3 luni, a pensiei de întreținere stabilite prin act notarial, este neconstituțională.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică celor două Camere ale Parlamentului, Guvernului, Judecătoriei Oradea - Secția penală și Judecătoriei Podu Turcului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "378",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "b"
+     ]
+    },
+    {
+     "art": "227",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "358",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3911",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "915",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "916",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "917",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "918",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "919",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "920",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "921",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "922",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "923",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "924",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "925",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "926",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "927",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "928",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "929",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "930",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "931",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "932",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "933",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "934",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "935",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "454",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "305",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "513",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "499",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "259",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "373",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "375",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "376",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul familiei",
+    "path": "lege/1953/4",
+    "slug": "codul-familiei-1953"
+   },
+   "articles": [
+    {
+     "art": "37",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "230",
+     "alin": null,
+     "lit": [
+      "m"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 202/2010",
+    "number": "202",
+    "year": "2010",
+    "path": "lege/2010/202"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 192/2006",
+    "number": "192",
+    "year": "2006",
+    "path": "lege/2006/192"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "59",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "2",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii căsătoriei nr. 234/1929",
+    "number": "234",
+    "year": "1929",
+    "path": "lege/1929/234"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-06-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271079",
+  "text_sha256": "287397cecd2769b3e7e96662a440a6b5da3fdad631351bda8552a9884d00bca2",
+  "catalogue_sha256": "287397cecd2769b3e7e96662a440a6b5da3fdad631351bda8552a9884d00bca2",
+  "fetched": "2026-11-03T01:21:53Z",
+  "chars": 57680,
+  "portal_id": "271079",
+  "tip": "DECIZIE"
+ }
+}
