@@ -1,0 +1,13 @@
+# ANEXĂ (Anexa nr. 5 la metodologie)
+Comisia locală de examen.............
+Specialitatea...................
+Nr. de înregistrare.............
+CERERE
+Subsemnatul/Subsemnata,.....(numele și prenumele, cu inițiala tatălui)....., cu domiciliul în localitatea......, str....... nr...., bl...., sc...., et...., ap...., județul....., legitimat/ă cu C.I/B.I. seria... nr......., CNP......., telefon........, e-mail......, de profesie....., solicit înscrierea la examenul de grad principal, sesiunea......, în specialitatea........
+Menționez că am luat cunoștință de prevederile Metodologiei de organizare și desfășurare a examenului de grad principal pentru asistenți medicali generaliști, moașe, asistenți medicali, surori medicale și oficianți medicali, aprobată prin Ordinul ministrului sănătății nr. 1.137/2018, cu modificările și completările ulterioare.
+Prin semnarea prezentei cereri declar că am fost informat/ă cu privire la prevederile Regulamentului (UE) nr. 679/2016 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor), precum și la scopul prelucrării datelor mele cu caracter personal furnizate cu ocazia participării la examenul de grad principal organizat de către Ordinul Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România (O.A.M.G.M.A.M.R.), în vederea îndeplinirii obligației legale de organizare a examenului, ce îi revine acestuia, respectiv: a) înscrierea la examenul de grad principal și organizarea acestuia;
+b) emiterea certificatelor de grad principal; și
+c) păstrarea evidențelor organizării examenului. Datele cu caracter personal vor fi stocate și prelucrate pe perioada necesară îndeplinirii scopurilor menționate și nu vor fi transmise către terțe părți în scopuri comerciale. Datele furnizate vor fi divulgate în cadrul relației O.A.M.G.M.A.M.R. cu partenerul contractual care asigură tipărirea certificatelor de grad principal și pot fi transmise către instituții și/sau autorități publice, la solicitarea acestora, dacă solicitarea are la bază un temei legal. Înțeleg că, în lipsa furnizării datelor cu caracter personal solicitate conform art. 19 din Metodologia de organizare și desfășurare a examenului de grad principal pentru asistenți medicali generaliști, moașe, asistenți medicali, surori medicale și oficianți medicali, aprobată prin Ordinul ministrului sănătății nr. 1.137/2018, cu modificările și completările ulterioare, nu voi putea participa la examenul menționat.
+Data:
+Semnătura:
+-----
