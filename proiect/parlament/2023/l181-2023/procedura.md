@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-05-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-13: sent for promulgation
 - 2023-05-31: promulgated, becomes Legea nr. 163/2023
+- 2023-06-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2023-05-02: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L181FS.PDF
 - 2023-05-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L181AXS.PDF
 - 2023-05-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L181LP.PDF
+- 2023-06-12: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L181TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-12: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L181AL.PDF (its day is not given by the bill file: shown from the last stage held)
