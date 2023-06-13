@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-15: adopted by the Chamber of Deputies
 - 2023-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-27: sent for promulgation
+- 2023-06-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-05: Adresă către Camera Deputaților (AM): [am-a5296c12.md](am-a5296c12.md); official file https://www.senat.ro/legis/PDF/2020/20L147AM.PDF
 - 2023-05-22: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L147AXS.PDF
 - 2023-05-22: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L147LP.PDF
+- 2023-06-13: Document (AA): [aa-8a0a16f5.md](aa-8a0a16f5.md); official file https://www.senat.ro/legis/PDF/2020/20L147AA.PDF (its day is not given by the bill file: shown from the last stage held)
