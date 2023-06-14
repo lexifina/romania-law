@@ -1,0 +1,17 @@
+# Propunere legislativă L490/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea Legii nr.227/2015 privind Codul Fiscal
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-06-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-06-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L490AD.PDF
+- 2023-06-14: Forma inițiatorului (FG): [fg-2d9ff21c.md](fg-2d9ff21c.md); official file https://www.senat.ro/legis/PDF/2023/23L490FG.PDF
+- 2023-06-14: Expunere de motive (EM): [em-f57a4071.md](em-f57a4071.md); official file https://www.senat.ro/legis/PDF/2023/23L490EM.PDF
