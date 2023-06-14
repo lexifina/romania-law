@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-17: adopted by the Chamber of Deputies
 - 2023-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-27: sent for promulgation
+- 2023-06-14: promulgated, becomes Legea nr. 171/2023
 
 ## Documents
 
