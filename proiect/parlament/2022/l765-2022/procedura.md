@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-05-27: sent for promulgation
 - 2023-06-14: promulgated, becomes Legea nr. 170/2029
+- 2023-06-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L765AM.PDF
 - 2023-05-22: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L765AXS.PDF
 - 2023-05-22: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L765LP.PDF
+- 2023-06-15: Document (CC): [cc-7070c9d1.md](cc-7070c9d1.md); official file https://www.senat.ro/legis/PDF/2022/22L765CC.PDF (its day is not given by the bill file: shown from the last stage held)
