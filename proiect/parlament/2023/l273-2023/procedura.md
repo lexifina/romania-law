@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-22: documents published: Aviz comisie
 - 2023-05-31: documents published: Aviz comisie
 - 2023-06-14: documents published: Raport comisie sesizată pe fond
+- 2023-06-19: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-22: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L273CA56.PDF
 - 2023-05-31: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L273CA45.PDF
 - 2023-06-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L273CR.PDF
+- 2023-06-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L273AM.PDF
