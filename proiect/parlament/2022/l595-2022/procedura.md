@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-05-23: adopted by the Chamber of Deputies
 - 2023-05-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-01: sent for promulgation
+- 2023-06-19: promulgated, becomes Legea nr. 175/2023
 
 ## Documents
 
