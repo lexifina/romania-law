@@ -1,0 +1,292 @@
+{
+ "key": "iccj-hp-penal-38-2023",
+ "label": "Decizia ÎCCJ nr. 38/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "38",
+ "date": "2023-05-15",
+ "year": "2023",
+ "heading": "DECIZIA nr. 38 din 15 mai 2023",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 158 alin. (3) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "552",
+  "bis": false,
+  "date": "2023-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "519/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "3",
+      "7"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Aplicarea dispozițiilor art. 158 alin. (3) din Codul de procedură penală (cu referire la abilitarea procurorului de a încuviința continuarea efectuării percheziției în locurile învecinate celui cu privire la care judecătorul de drepturi și libertăți a autorizat efectuarea percheziției) este sau nu este condiționată de către descrierea acestor locuri învecinate în conținutul încheierii prin care s-a încuviințat efectuarea percheziției, respectiv în cuprinsul mandatului de percheziție, raportat la prevederile art. 158 alin. (7) lit. f) din Codul de procedură penală ?",
+  "2. Pot sau nu pot fi supuse verificării de legalitate, în procedura de cameră preliminară având de soluționat legalitatea administrării probelor, eventualele neregularități ale încheierii pronunțate de judecătorul de drepturi și libertăți prin care s-a încuviințat efectuarea percheziției?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "158",
+     "alin": [
+      "3",
+      "7",
+      "2"
+     ],
+     "lit": [
+      "f",
+      "a"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "221",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "231",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "557",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "563",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "570",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "144",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 65
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "1",
+      "3",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 550/2004",
+    "number": "550",
+    "year": "2004",
+    "path": "lege/2004/550"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271448",
+  "text_sha256": "935717a5e4d6060022ef61a22954ca2d744cef9bd2d78e2d4e849c3625aff980",
+  "catalogue_sha256": "935717a5e4d6060022ef61a22954ca2d744cef9bd2d78e2d4e849c3625aff980",
+  "fetched": "2026-11-03T01:21:28Z",
+  "chars": 84522,
+  "portal_id": "271448",
+  "tip": "DECIZIE"
+ }
+}
