@@ -1,0 +1,141 @@
+{
+ "key": "cedo-43744-17-2022-11-15",
+ "label": "CEDO, Poienaru c. României, 2022-11-15",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-11-15",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 15 noiembrie 2022",
+ "subtitle": "în Cauza Poienaru împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI",
+ "mo": {
+  "number": "556",
+  "bis": false,
+  "date": "2023-06-21",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "43744/17"
+ ],
+ "case_name": "Poienaru",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 10 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "7.500 EUR (șapte mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă, cu titlu de despăgubire pentru prejudiciul moral;",
+  "(ii)",
+  "600 EUR (șase sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de reclamant, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 188/1999",
+    "number": "188",
+    "year": "1999",
+    "path": "lege/1999/188"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 7/2004",
+    "number": "7",
+    "year": "2004",
+    "path": "lege/2004/7"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 571/2004",
+    "number": "571",
+    "year": "2004",
+    "path": "lege/2004/571"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271494",
+  "text_sha256": "cc641dc2d88c2d68d49390142d319dc8643aece419482ee62722b6ea1fbd78f0",
+  "catalogue_sha256": "cc641dc2d88c2d68d49390142d319dc8643aece419482ee62722b6ea1fbd78f0",
+  "fetched": "2026-11-03T01:21:25Z",
+  "chars": 15796,
+  "portal_id": "271494",
+  "tip": "HOTĂRÂRE"
+ }
+}
