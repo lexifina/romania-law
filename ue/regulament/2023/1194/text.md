@@ -1,0 +1,47 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/1194 AL COMISIEI
+din 20 iunie 2023
+de modificare a Regulamentului de punere în aplicare (UE) 2022/2346 în ceea ce privește dispozițiile tranzitorii privind anumite produse fără scop medical preconizat, menționate în anexa XVI la Regulamentul (UE) 2017/745 al Parlamentului European și al Consiliului
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2017/745 al Parlamentului European și al Consiliului din 5 aprilie 2017 privind dispozitivele medicale, de modificare a Directivei 2001/83/CE, a Regulamentului (CE) nr. 178/2002 și a Regulamentului (CE) nr. 1223/2009 și de abrogare a Directivelor 90/385/CEE și 93/42/CEE ale Consiliului (1), în special articolul 1 alineatul (2) coroborat cu articolul 9 alineatul (1),
+întrucât:
+(1) Articolul 2 alineatul (1) și alineatul (2) din Regulamentul de punere în aplicare (UE) 2022/2346 al Comisiei (2) stabilește dispoziții tranzitorii pentru produsele cu privire la care sunt efectuate investigații clinice sau în cazul cărora un organism notificat trebuie să fie implicat în evaluarea conformității. Articolul 2 alineatul (3) din Regulamentul de punere în aplicare respectiv stabilește, în plus, dispoziții tranzitorii specifice pentru produsele care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE a Consiliului (3).
+(2) Regulamentul (UE) 2023/607 al Parlamentului European și al Consiliului (4) a prelungit perioada de tranziție prevăzută în Regulamentul (UE) 2017/745 pentru anumite dispozitive medicale, inclusiv pentru cele care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE, care este valabil până la 31 decembrie 2027 sau până la 31 decembrie 2028, în funcție de clasa de risc a dispozitivului.
+(3) Pentru a asigura coerența și a oferi securitate juridică operatorilor economici, este necesar ca dispozițiile tranzitorii prevăzute în Regulamentul de punere în aplicare (UE) 2022/2346 pentru produsele care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE să fie aliniate la cele prevăzute în Regulamentul (UE) 2017/745, astfel cum a fost modificat prin Regulamentul (UE) 2023/607.
+(4) Produsele care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE beneficiază de o dispoziție tranzitorie specifică prevăzută în Regulamentul de punere în aplicare (UE) 2022/2346. Dispoziția este aplicabilă de la 22 decembrie 2022 și permite ca respectivele produse să fie introduse pe piață sau să fie puse în funcțiune în anumite condiții, chiar dacă certificatul a expirat. În măsura în care astfel de produse nu beneficiază de dispozițiile tranzitorii extinse prevăzute în Regulamentul (UE) 2017/745, astfel cum a fost modificat prin Regulamentul (UE) 2023/607, este necesar ca posibilitatea de a le introduce în continuare pe piață sau de a le pune în funcțiune, chiar dacă certificatul eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE a expirat, să fie prevăzută ca dispoziție tranzitorie specifică în prezentul regulament. Pentru a se asigura coerența, este necesar să fie îndeplinite condițiile aplicabile prevăzute la articolul 120 din Regulamentul (UE) 2017/745, astfel cum a fost modificat prin Regulamentul (UE) 2023/607.
+(5) Pentru a reduce cât mai mult posibil suprapunerea cu evaluările conformității dispozitivelor medicale care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE și pentru a reduce astfel sarcina organismelor notificate și riscul de deficit de dispozitive, este necesar ca dispozițiile tranzitorii din Regulamentul de punere în aplicare (UE) 2022/2346 pentru produsele cu privire la care se efectuează investigații clinice sau în cazul cărora un organism notificat trebuie să fie implicat în procedura de evaluare a conformității să fie prelungite cu 18 și, respectiv, 30 luni.
+(6) Dispozițiile tranzitorii din Regulamentul de punere în aplicare (UE) 2022/2346 pentru produsele cu privire la care sunt efectuate investigații clinice sau în cazul cărora un organism notificat trebuie să fie implicat în procedura de evaluare a conformității, se aplică de la 22 iunie 2023. Pentru a se asigura că produsele respective pot beneficia în mod direct de dispozițiile tranzitorii extinse, este necesar ca dispozițiile relevante ale prezentului regulament să se aplice de la aceeași dată. Produsele care fac obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE au beneficiat de dispozițiile tranzitorii prevăzute în Regulamentul de punere în aplicare (UE) 2022/2346 începând cu 22 decembrie 2022. Pentru a se asigura faptul că produsele respective pot beneficia fără probleme de dispozițiile tranzitorii extinse și având în vedere că condițiile specifice prevăzute în prezentul regulament asigură continuitatea cu cele aplicabile anterior, este necesar ca dispoziția relevantă din prezentul regulament să se aplice, de asemenea, de la 22 iunie 2023. În consecință, este necesar ca dispoziția anterioară care stabilește aplicabilitatea de la 22 decembrie 2022 să fie eliminată din Regulamentul de punere în aplicare (UE) 2022/2346 de la data aplicării dispoziției modificate prevăzute în prezentul regulament.
+(7) Pentru a asigura faptul că operatorii economici pot avea acces rapid la dispozițiile tranzitorii extinse stabilite prin prezentul regulament și le pot pune în aplicare rapid, este necesar ca acesta să intre în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+(8) Prin urmare, este necesar ca Regulamentul de punere în aplicare (UE) 2022/2346 să fie modificat în consecință.
+(9) Grupul de coordonare privind dispozitivele medicale a fost consultat.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului pentru dispozitive medicale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul de punere în aplicare (UE) 2022/2346 se modifică după cum urmează:
+1. articolul 2 se modifică după cum urmează:
+(a) alineatul (1) se modifică după cum urmează:
+(i) în primul paragraf, data de „22 iunie 2028” se înlocuiește cu „31 decembrie 2029”;
+(ii) în al treilea paragraf, data de „22 iunie 2026” se înlocuiește cu „31 decembrie 2027”;
+(iii) al patrulea paragraf se înlocuiește cu următorul text:
+„Prin derogare de la primul paragraf, începând cu 1 ianuarie 2028, până la 31 decembrie 2029, un produs care îndeplinește condițiile prevăzute la paragraful respectiv poate fi introdus pe piață sau pus în funcțiune numai dacă organismul notificat și producătorul au semnat un acord scris privind efectuarea evaluării conformității, în conformitate cu secțiunea 4.3 al doilea paragraf din anexa VII la Regulamentul (UE) 2017/745.”;
+(b) alineatul (2) se modifică după cum urmează:
+(i) în primul paragraf, data de „22 iunie 2025” se înlocuiește cu „31 decembrie 2028”;
+(ii) al doilea paragraf se înlocuiește cu următorul text:
+„Prin derogare de la primul paragraf, începând cu 1 ianuarie 2027, până la 31 decembrie 2028, un produs care îndeplinește condițiile prevăzute la paragraful respectiv poate fi introdus pe piață sau pus în funcțiune numai dacă organismul notificat și producătorul au semnat un acord scris privind efectuarea evaluării conformității, în conformitate cu secțiunea 4.3 al doilea paragraf din anexa VII la Regulamentul (UE) 2017/745.”;
+(c) alineatul (3) se înlocuiește cu următorul text:
+„(3) Un produs care a făcut obiectul unui certificat eliberat de un organism notificat în conformitate cu Directiva 93/42/CEE, care a expirat după 26 mai 2021 și înainte de 20 martie 2023, și în cazul căruia nu sunt îndeplinite condițiile prevăzute la articolul 120 alineatul (2) al doilea paragraf litera (a) sau (b) din Regulamentul (UE) 2017/745, poate fi introdus pe piață sau pus în funcțiune până la datele prevăzute la articolul 120 alineatul (3a) din Regulamentul (UE) 2017/745, inclusiv după expirarea certificatului, sub rezerva îndeplinirii condițiilor prevăzute la articolul 120 alineatele (3c), (3d) și (3e) din Regulamentul (UE) 2017/745.”
+;
+2. la articolul 3 alineatul (2), se elimină a doua teză.
+Articolul 2
+Prezentul regulament intră în vigoare la data publicării în Jurnalul Oficial al Uniunii Europene.
+Se aplică de la 22 iunie 2023.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 20 iunie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 117, 5.5.2017, p. 1.
+(2) Regulamentul de punere în aplicare (UE) 2022/2346 al Comisiei din 1 decembrie 2022 de stabilire a unor specificații comune pentru grupele de produse care nu sunt destinate unui scop medical enumerate în anexa XVI la Regulamentul (UE) 2017/745 al Parlamentului European și al Consiliului privind dispozitivele medicale (JO L 311, 2.12.2022, p. 60).
+(3) Directiva 93/42/CEE a Consiliului din 14 iunie 1993 privind dispozitivele medicale (JO L 169, 12.7.1993, p. 1).
+(4) Regulamentul (UE) 2023/607 al Parlamentului European și al Consiliului din 15 martie 2023 de modificare a Regulamentelor (UE) 2017/745 și (UE) 2017/746 în ceea ce privește dispozițiile tranzitorii pentru anumite dispozitive medicale și pentru anumite dispozitive medicale pentru diagnostic in vitro (JO L 80, 20.3.2023, p. 24).
