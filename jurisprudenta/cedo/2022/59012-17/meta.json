@@ -1,0 +1,368 @@
+{
+ "key": "cedo-59012-17-2022-11-08",
+ "label": "CEDO, Văleanu și alții c. României, 2022-11-08",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-11-08",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 8 noiembrie 2022",
+ "subtitle": "în Cauza Văleanu și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "561",
+  "bis": false,
+  "date": "2023-06-22",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation",
+  "inadmissible",
+  "struck-out"
+ ],
+ "applications": [
+  "59012/17",
+  "12854/18",
+  "32541/18",
+  "38992/18",
+  "40167/18",
+  "42182/18"
+ ],
+ "case_name": "Văleanu și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. decide să radieze de pe rol cererile nr. 40.167/18 și 25.811/19;",
+  "3. declară capetele de cere formulate în temeiul art. 1 din Protocolul nr. 1 la Convenție privind neexecutarea hotărârilor pronunțate în favoarea reclamanților și privind eficacitatea mecanismului de restituire admisibile, iar restul capetelor de cerere inadmisibile;",
+  "4. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "5. hotărăște că, în ceea ce privește prejudiciul material rezultat din încălcările constatate, nu se poate pronunța cu privire la problema reparației echitabile și, în consecință, (a) rezervă pronunțarea cu privire la acest aspect;",
+  "(b) invită Guvernul și reclamanții să prezinte, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, propriile observații scrise cu privire la aspectul respectiv și, în special, să informeze Curtea cu privire la orice acord la care ar putea ajunge;",
+  "(c) rezervă pronunțarea privind procedura ulterioară și deleagă președintelui Camerei competența de soluționare, în cazul în care este necesar;",
+  "6. hotărăște (a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, sumele indicate în tabelul anexat, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral și pentru cheltuielile de judecată;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "7. respinge cererile reclamanților de acordare a unei reparații echitabile pentru celelalte capete de cerere, în ceea ce privește prejudiciul material și cheltuielile de judecată."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legile nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 163/2015",
+    "number": "163",
+    "year": "2015",
+    "path": "lege/2015/163"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1531",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 72/2020",
+    "number": "72",
+    "year": "2020",
+    "path": "oug/2020/72"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 219/2020",
+    "number": "219",
+    "year": "2020",
+    "path": "lege/2020/219"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271556",
+  "text_sha256": "c33b2bad6a856d4ccc91cc99fe2de9819f74be452125ad5fe337632e84ae992c",
+  "catalogue_sha256": "c33b2bad6a856d4ccc91cc99fe2de9819f74be452125ad5fe337632e84ae992c",
+  "fetched": "2026-11-03T01:21:24Z",
+  "chars": 172149,
+  "portal_id": "271556",
+  "tip": "HOTĂRÂRE"
+ }
+}
