@@ -1,0 +1,324 @@
+{
+ "key": "dcc-335-2023",
+ "label": "Decizia CCR nr. 335/2023",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "335",
+ "date": "2023-06-14",
+ "year": "2023",
+ "heading": "DECIZIA nr. 335 din 14 iunie 2023",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor articolului unic din Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice, coroborate cu cele ale art. 3 alin. (2)-(4) și (8), ale art. 4 alin. (4) și ale art. 10 alin. (8) din această ordonanță de urgență",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "562",
+  "bis": false,
+  "date": "2023-06-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "821A/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 89/2022",
+    "number": "89",
+    "year": "2022",
+    "path": "lege/2022/89"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate și constată că dispozițiile articolului unic din Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 89/2022 privind înființarea, administrarea și dezvoltarea infrastructurilor și serviciilor informatice de tip cloud utilizate de autoritățile și instituțiile publice, coroborate cu cele ale art. 3 alin. (2)-(4) și (8), ale art. 4 alin. (4) și ale art. 10 alin. (8) din această ordonanță de urgență, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru aprobarea Ordonanței de urgență a Guvernului nr. 89/2022",
+    "number": "89",
+    "year": "2022",
+    "path": "lege/2022/89"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 89/2022",
+    "number": "89",
+    "year": "2022",
+    "path": "oug/2022/89"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "108",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 112/2023",
+    "number": "112",
+    "year": "2023",
+    "path": "hg/2023/112"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 190/2018",
+    "number": "190",
+    "year": "2018",
+    "path": "lege/2018/190"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 506/2004",
+    "number": "506",
+    "year": "2004",
+    "path": "lege/2004/506"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 363/2018",
+    "number": "363",
+    "year": "2018",
+    "path": "lege/2018/363"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-06-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271539",
+  "text_sha256": "254e1f6ef80bfa7b7ec30c670d8d6eec7c5bcadd542966fe960dbb7010d7edd9",
+  "catalogue_sha256": "254e1f6ef80bfa7b7ec30c670d8d6eec7c5bcadd542966fe960dbb7010d7edd9",
+  "fetched": "2026-11-03T01:21:23Z",
+  "chars": 59408,
+  "portal_id": "271539",
+  "tip": "DECIZIE"
+ }
+}
