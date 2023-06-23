@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-06: sent for promulgation
 - 2023-06-22: promulgated, becomes Legea nr. 177/2023
+- 2023-06-23: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-13: Adresă către Camera Deputaților (AM): [am-e5cdcd96.md](am-e5cdcd96.md); official file https://www.senat.ro/legis/PDF/2022/22L457AM.PDF
 - 2023-05-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L457AXS.PDF
 - 2023-05-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L457LP.PDF
+- 2023-06-23: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L457AT.PDF (its day is not given by the bill file: shown from the last stage held)
