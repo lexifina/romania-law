@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-06: sent for promulgation
 - 2023-06-22: promulgated, becomes Legea nr. 179/2023
+- 2023-06-23: published in the Monitorul Oficial
 
 ## Documents
 
