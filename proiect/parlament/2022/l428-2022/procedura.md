@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-04-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-05: sent for promulgation
 - 2023-06-14: published in the Monitorul Oficial
+- 2023-06-26: promulgated, becomes Legea nr. 180/2023
 
 ## Documents
 
