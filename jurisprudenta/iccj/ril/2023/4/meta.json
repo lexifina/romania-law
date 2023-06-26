@@ -1,0 +1,313 @@
+{
+ "key": "iccj-ril-4-2023",
+ "label": "Decizia ÎCCJ nr. 4/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "4",
+ "date": "2023-04-24",
+ "year": "2023",
+ "heading": "DECIZIA nr. 4 din 24 aprilie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 129 alin. (2) pct. 2, art. 130 alin. (2), art. 131 alin. (1), art. 133 și 136 din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "575",
+  "bis": false,
+  "date": "2023-06-26",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "268/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Galați și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 129 alin. (2) pct. 2, art. 130 alin. (2), art. 131 alin. (1), art. 133 și 136 din Codul de procedură civilă, competența materială procesuală a instanței de control judiciar se va determina: – cu respectarea specializării primei instanțe (complet/secție), care se va aplica în mod corespunzător și în calea de atac;",
+  "– în considerarea obiectului și naturii litigiului, astfel cum au fost acestea stabilite de instanța de fond, în cazul soluționării în prim grad de jurisdicție a litigiului de către o instanță care nu cuprinde structuri specializate (secții/completuri).",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "130",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "517",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "222",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "466",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "245",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 47
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2011",
+    "number": "71",
+    "year": "2011",
+    "path": "lege/2011/71"
+   },
+   "articles": [
+    {
+     "art": "226",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "228",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-06-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271629",
+  "text_sha256": "7dd5e740e6b5ab2f965b83dd96d92b60eebeaac19d9654955265a37a07851573",
+  "catalogue_sha256": "7dd5e740e6b5ab2f965b83dd96d92b60eebeaac19d9654955265a37a07851573",
+  "fetched": "2026-11-03T01:21:16Z",
+  "chars": 74199,
+  "portal_id": "271629",
+  "tip": "DECIZIE"
+ }
+}
