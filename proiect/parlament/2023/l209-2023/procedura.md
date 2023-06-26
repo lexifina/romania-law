@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-05-30: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-06-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-09: sent for promulgation
+- 2023-06-26: promulgated, becomes Legea nr. 184/2023
 
 ## Documents
 
