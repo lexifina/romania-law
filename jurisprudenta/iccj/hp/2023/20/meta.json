@@ -1,0 +1,562 @@
+{
+ "key": "iccj-hp-20-2023",
+ "label": "Decizia ÎCCJ nr. 20/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "20",
+ "date": "2023-03-20",
+ "year": "2023",
+ "heading": "DECIZIA nr. 20 din 20 martie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea art. 281 alin. (2) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, prin raportare la prevederile art. 8 alin. (1) teza finală din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "579",
+  "bis": false,
+  "date": "2023-06-27",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.713/1/2022",
+  "4.838/99/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": [
+      "4-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Iași - Secția contencios administrativ și fiscal, prin Încheierea din 30 iunie 2022, pronunțată în Dosarul nr. 4.838/99/2020, în vederea pronunțării unei hotărâri prealabile. În interpretarea și aplicarea art. 281 alin. (2) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, prin raportare la prevederile art. 8 alin. (1) teza finală din Legea contenciosului administrativ nr. 554/2004, cu modificările și completările ulterioare, motivele de nelegalitate invocate în cererea de anulare a deciziei de soluționare a contestației și a actelor administrative fiscale la care aceasta se referă nu sunt limitate la cele invocate în contestația administrativă.",
+  "În interpretarea și aplicarea art. 266 alin. (4^1) din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, anularea obligației fiscale datorate de debitorul persoană fizică care desfășoară activități în mod independent, ca urmare a radierii debitorului din registrul în care a fost înregistrat potrivit legii, nu împiedică preluarea obligației fiscale de către persoana fizică în condițiile art. 23 alin. (3) și (4) din Codul de procedură fiscală.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "266",
+     "alin": [
+      "4-1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "269",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "273",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "93",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "268",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "270",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "271",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "272",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "274",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "277",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "278",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "279",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "280",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "281-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 112
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 52
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "489",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2015",
+    "number": "275",
+    "year": "2015",
+    "path": "lege/2015/275"
+   },
+   "articles": [
+    {
+     "art": "269",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "273",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "276",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 44/2008",
+    "number": "44",
+    "year": "2008",
+    "path": "oug/2008/44"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2342",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2020",
+    "number": "295",
+    "year": "2020",
+    "path": "lege/2020/295"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 30/2017",
+    "number": "30",
+    "year": "2017",
+    "path": "og/2017/30"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 92/2003",
+    "number": "92",
+    "year": "2003",
+    "path": "og/2003/92"
+   },
+   "articles": [
+    {
+     "art": "281",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "205",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "206",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "210",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 30/2017",
+    "number": "30",
+    "year": "2017",
+    "path": "oug/2017/30"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-06-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271650",
+  "text_sha256": "6348f73eedeb8d965d69bea88b564dbed71b8bf6fc06442540d10fcf9fdcae25",
+  "catalogue_sha256": "6348f73eedeb8d965d69bea88b564dbed71b8bf6fc06442540d10fcf9fdcae25",
+  "fetched": "2026-11-03T01:21:14Z",
+  "chars": 112751,
+  "portal_id": "271650",
+  "tip": "DECIZIE"
+ }
+}
