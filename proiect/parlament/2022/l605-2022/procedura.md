@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-05-31: adopted by the Chamber of Deputies
 - 2023-06-09: sent for promulgation
 - 2023-06-26: promulgated, becomes Legea nr. 182/2023
+- 2023-06-27: published in the Monitorul Oficial
 
 ## Documents
 
