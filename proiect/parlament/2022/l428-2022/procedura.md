@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-04-05: sent for promulgation
 - 2023-06-14: published in the Monitorul Oficial
 - 2023-06-26: promulgated, becomes Legea nr. 180/2023
+- 2023-06-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2022-09-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L428AM.PDF
 - 2023-04-03: Adresă privind sesizarea CCR (AXS): [axs-39e2d2d4.md](axs-39e2d2d4.md); official file https://www.senat.ro/legis/PDF/2022/22L428AXS.PDF
 - 2023-04-03: Forma trimisă la promulgare (LP): [lp-8253e75b.md](lp-8253e75b.md); official file https://www.senat.ro/legis/PDF/2022/22L428LP.PDF
+- 2023-06-27: Document (SC): [sc-c6d20825.md](sc-c6d20825.md); official file https://www.senat.ro/legis/PDF/2022/22L428SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-27: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L428DC.PDF (its day is not given by the bill file: shown from the last stage held)
