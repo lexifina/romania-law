@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-06-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-09: sent for promulgation
 - 2023-06-26: promulgated, becomes Legea nr. 181/2023
+- 2023-06-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2023-05-30: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L248FS.PDF
 - 2023-06-06: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L248AXS.PDF
 - 2023-06-06: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L248LP.PDF
+- 2023-06-27: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L248AL.PDF (its day is not given by the bill file: shown from the last stage held)
