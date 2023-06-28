@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-10: rejected by the Chamber of Deputies
 - 2023-05-11: registered at the Senate
 - 2023-05-24: documents published: Aviz comisie
+- 2023-06-28: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-28: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290CR.PDF
 - 2023-05-24: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290CA45.PDF
 - 2023-05-24: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290CA3.PDF
+- 2023-06-28: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-28: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-06-28: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L290ARD.PDF (its day is not given by the bill file: shown from the last stage held)
