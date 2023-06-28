@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-05-31: adopted by the Chamber of Deputies
 - 2023-06-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-12: sent for promulgation
+- 2023-06-28: promulgated, becomes Legea nr. 189/2023
 
 ## Documents
 
