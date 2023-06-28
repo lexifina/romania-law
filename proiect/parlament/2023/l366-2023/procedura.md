@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-24: documents published: Raport comisie sesizată pe fond
 - 2023-06-07: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-06-26: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2023-06-28: documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -22,3 +23,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-07: Forma inițiatorului (FG): [fg-1e1d6f9d.md](fg-1e1d6f9d.md); official file https://www.senat.ro/legis/PDF/2023/23L366FG.PDF
 - 2023-06-07: Expunere de motive (EM): [em-d797fe6e.md](em-d797fe6e.md); official file https://www.senat.ro/legis/PDF/2023/23L366EM.PDF
 - 2023-06-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366FS.PDF
+- 2023-06-28: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366CA45.PDF
+- 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366AXS.PDF
+- 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366LP.PDF
