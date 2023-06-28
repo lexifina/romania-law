@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2023-04-26: registered at the Senate; documents published: Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-05-17: documents published: Aviz comisie
 - 2023-06-26: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2023-06-28: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2023-04-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L247HG.PDF
 - 2023-05-17: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L247CA1.PDF
 - 2023-06-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L247FS.PDF
+- 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L247AXS.PDF
+- 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L247LP.PDF
