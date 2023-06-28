@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-08: first record in the bill file
 - 2023-05-09: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-05-15: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
+- 2023-06-28: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-09: Expunere de motive (EM): [em-a5058302.md](em-a5058302.md); official file https://www.senat.ro/legis/PDF/2023/23L386EM.PDF
 - 2023-05-15: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386ES.PDF
 - 2023-05-15: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386LG.PDF
+- 2023-06-28: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L386CA45.PDF
