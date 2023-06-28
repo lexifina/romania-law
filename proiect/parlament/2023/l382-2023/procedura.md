@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-13: registered at the Chamber of Deputies; documents published: Aviz Consiliul Legislativ
 - 2023-06-22: documents published: Raport comisie sesizată pe fond
 - 2023-06-26: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-06-28: sent for promulgation; promulgated, becomes Legea nr. 192/2023; published in the Monitorul Oficial
 
 ## Documents
 
