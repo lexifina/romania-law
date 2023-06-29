@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-107-23-concluzii-2023-06-29",
+ "label": "CJUE, Concluziile avocatului general M. Campos Sánchez-Bordona prezentate la 29 iunie 2023, Cauza C-107/23 PPU.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-06-29",
+ "year": "2023",
+ "case": "Cauza C-107/23 PPU.",
+ "celex": "62023CC0107",
+ "ecli": "ECLI:EU:C:2023:532",
+ "heading": "Concluziile avocatului general M. Campos Sánchez-Bordona prezentate la 29 iunie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL_URG",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția intereselor financiare ale Uniunii Europene – Articolul 325 alineatul (1) TFUE – Convenția «PIF» – Articolul 2 alineatul (1) – Obligația de a combate frauda care aduce atingere intereselor financiare ale Uniunii prin măsuri disuasive și efective – Obligația de a prevedea sancțiuni penale – Taxa pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Fraudă gravă în domeniul TVA‑ului – Termen de prescripție a răspunderii penale – Decizie a unei curți constituționale prin care este invalidată o dispoziție națională care reglementează cauzele de întrerupere a acestui termen – Risc sistemic de impunitate – Protecția drepturilor fundamentale – Articolul 49 alineatul (1) din Carta drepturilor fundamentale a Uniunii Europene – Principiul legalității infracțiunilor și pedepselor – Cerințele privind previzibilitatea și precizia legii penale – Principiul aplicării retroactive a legii penale mai favorabile (lex mitior) – Principiul securității juridice – Standard național de protecție a drepturilor fundamentale – Obligația instanțelor unui stat membru de a lăsa neaplicate deciziile curții constituționale și/sau ale instanței supreme ale acestui stat membru în caz de neconformitate cu dreptul Uniunii – Răspunderea disciplinară a judecătorilor în cazul nerespectării acestor decizii – Principiul supremației dreptului Uniunii.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0107",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-107/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/8c5dda00-1666-11ee-806b-01aa75ed71a1.0004.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c54c07b9de10f331e728498cec428422341a918f191b94a54291b299ac5b97d8"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
