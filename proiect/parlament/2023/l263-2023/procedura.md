@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-06-20: adopted by the Chamber of Deputies
 - 2023-06-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-28: sent for promulgation; promulgated, becomes Legea nr. 193/2023
+- 2023-06-29: published in the Monitorul Oficial
 
 ## Documents
 
