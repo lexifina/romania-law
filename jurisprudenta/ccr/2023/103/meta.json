@@ -1,0 +1,265 @@
+{
+ "key": "dcc-103-2023",
+ "label": "Decizia CCR nr. 103/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "103",
+ "date": "2023-03-16",
+ "year": "2023",
+ "heading": "DECIZIA nr. 103 din 16 martie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 50 alin. (1) și (4) din Legea nr. 273/2004 privind procedura adopției, în redactarea anterioară intrării în vigoare a Legii nr. 268/2020 pentru modificarea și completarea Legii nr. 273/2004 privind procedura adopției, precum și pentru abrogarea art. 5 alin. (7) lit. ș) și cc) din Ordonanța de urgență a Guvernului nr. 11/2014 privind adoptarea unor măsuri de reorganizare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "590",
+  "bis": false,
+  "date": "2023-06-29",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.502/121/2018",
+  "2.804D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 268/2020",
+    "number": "268",
+    "year": "2020",
+    "path": "lege/2020/268"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 11/2014",
+    "number": "11",
+    "year": "2014",
+    "path": "oug/2014/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioana-Cristina Iancu în Dosarul nr. 3.502/121/2018 al Tribunalului Galați - Secția contencios administrativ și fiscal și constată că dispozițiile art. 50 alin. (1) și (4) din Legea nr. 273/2004 privind procedura adopției, în redactarea anterioară intrării în vigoare a Legii nr. 268/2020 pentru modificarea și completarea Legii nr. 273/2004 privind procedura adopției, precum și pentru abrogarea art. 5 alin. (7) lit. ș) și cc) din Ordonanța de urgență a Guvernului nr. 11/2014 privind adoptarea unor măsuri de reorganizare la nivelul administrației publice centrale și pentru modificarea și completarea unor acte normative, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Galați - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2004",
+    "number": "273",
+    "year": "2004",
+    "path": "lege/2004/273"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 57/2016",
+    "number": "57",
+    "year": "2016",
+    "path": "lege/2016/57"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 268/2020",
+    "number": "268",
+    "year": "2020",
+    "path": "lege/2020/268"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 11/2014",
+    "number": "11",
+    "year": "2014",
+    "path": "oug/2014/11"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-06-29",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271743",
+  "text_sha256": "c346431bd99b3c167525a4fd64e713c56a25dc6de4fbd3fc8862b9fa3cdaddf3",
+  "catalogue_sha256": "c346431bd99b3c167525a4fd64e713c56a25dc6de4fbd3fc8862b9fa3cdaddf3",
+  "fetched": "2026-11-03T01:21:07Z",
+  "chars": 19016,
+  "portal_id": "271743",
+  "tip": "DECIZIE"
+ }
+}
