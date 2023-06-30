@@ -1,0 +1,250 @@
+{
+ "key": "iccj-ril-6-2023",
+ "label": "Decizia ÎCCJ nr. 6/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "6",
+ "date": "2023-05-15",
+ "year": "2023",
+ "heading": "DECIZIA nr. 6 din 15 mai 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 651 alin. (1) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "597",
+  "bis": false,
+  "date": "2023-06-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "671/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 651 alin. (1) din Codul de procedură civilă, în situația în care titlul executoriu privește un dezmembrământ fără personalitate juridică, competența teritorială a instanței de executare poate fi stabilită prin raportare la sediul secundar al persoanei juridice debitoare, respectiv la sediul acestui dezmembrământ.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "651",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "109",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "666",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "714",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "112",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "719",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "536",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "527",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "528",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "529",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "531",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "532",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "533",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "534",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "535",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "107",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "117",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 80
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "227",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-06-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271784",
+  "text_sha256": "8df44068068c6065b1a20d1d7b64e4ff3c3036135443b472869351448a6390b1",
+  "catalogue_sha256": "8df44068068c6065b1a20d1d7b64e4ff3c3036135443b472869351448a6390b1",
+  "fetched": "2026-11-03T01:21:06Z",
+  "chars": 48900,
+  "portal_id": "271784",
+  "tip": "DECIZIE"
+ }
+}
