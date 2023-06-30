@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-31: adopted by the Chamber of Deputies
 - 2023-06-12: sent for promulgation
 - 2023-06-28: promulgated, becomes Legea nr. 188/2023
+- 2023-06-30: published in the Monitorul Oficial
 
 ## Documents
 
