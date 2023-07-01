@@ -1,0 +1,31 @@
+# Anexa nr. 1
+NOMINALIZAREA operatorilor economici care au obligația constituirii și menținerii stocurilor de urgență în perioada 1 iulie 2023-30 iunie 2024
+Nr. crt.
+Societatea comercială 1
+S.C. OMV PETROM - S.A.
+CUI: RO1590082 2
+S.C. ROMPETROL RAFINARE - S.A.
+CUI: RO1860712 3
+LITASCO S.A. Geneva
+CUI: 43310366 * 4
+S.C. OSCAR DOWN STREAM - S.R.L.
+CUI: RO13991630 5
+S.C. MOL ROMÂNIA PETROLEUM PRODUCTS - S.R.L.
+CUI: RO 7745470 6
+S.C. LUKOIL ROMANIA - S.R.L.
+CUI: RO10547022 7
+S.C. SOCAR PETROLEUM - S.A.
+CUI: RO12546600 8
+S.C. NIS PETROL - S.R.L.
+CUI: RO29111546 9
+S.C. AUTOGARA METROPOLI - S.R.L.
+CUI: RO 17666837 10
+S.C. MARSALA KONCEPT - S.R.L.
+CUI: RO 33767639 11
+S.C. DEA PRIM CONSULTING - S.R.L.
+CUI: RO 36089980 12
+S.C. TINMAR ENERGY - S.A.
+CUI: RO 34620961 13
+S.C. VITARO ENERGY - S.R.L.
+CUI: RO 31471946
+* Codul unic de identificare al sediului permanent din România.
