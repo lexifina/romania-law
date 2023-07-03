@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-07: adopted by the Chamber of Deputies
 - 2023-06-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-17: sent for promulgation
+- 2023-07-03: promulgated, becomes Legea nr. 195/2023; published in the Monitorul Oficial
 
 ## Documents
 
