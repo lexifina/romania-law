@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-07: adopted by the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-06-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-06-28: documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-07-03: sent for promulgation
 
 ## Documents
 
