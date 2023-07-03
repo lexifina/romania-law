@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-12: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-06-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-15: sent for promulgation
+- 2023-07-03: promulgated, becomes Legea nr. 194/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-12: Forma adoptată de Senat (FS): [fs-5b07dda7.md](fs-5b07dda7.md); official file https://www.senat.ro/legis/PDF/2023/23L264FS.PDF
 - 2023-06-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L264AXS.PDF
 - 2023-06-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L264LP.PDF
+- 2023-07-03: Document (AL): [al-47d731b7.md](al-47d731b7.md); official file https://www.senat.ro/legis/PDF/2023/23L264AL.PDF (its day is not given by the bill file: shown from the last stage held)
