@@ -1,0 +1,280 @@
+{
+ "key": "iccj-scaf-5486-2022",
+ "label": "Decizia ÎCCJ nr. 5486/2022 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "5486",
+ "date": "2022-11-16",
+ "year": "2022",
+ "heading": "DECIZIE nr. 5.486 din 16 noiembrie 2022",
+ "subtitle": "referitoare la recursul declarat de recurentul-pârât Guvernul României împotriva Sentinței nr. 1.796 din 3 decembrie 2021",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "610",
+  "bis": false,
+  "date": "2023-07-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.277/2/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de recurentul-pârât Guvernul României împotriva Sentinței nr. 1.796 din 3 decembrie 2021 pronunțate de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, ca tardiv formulat.",
+  "Respinge, ca neavenit, recursul declarat de Ministerul Afacerilor Interne prin Direcția generală juridică împotriva aceleiași sentințe.",
+  "Respinge recursul declarat de recurentul-pârât Comitetul Național pentru Situații de Urgență reprezentat de Departamentul pentru Situații de Urgență împotriva Sentinței nr. 1.796 din 3 decembrie 2021 pronunțate de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârii Guvernului nr. 1.183/2021",
+    "number": "1183",
+    "year": "2021",
+    "path": "hg/2021/1183"
+   },
+   "articles": [],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "186",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 21/2004",
+    "number": "21",
+    "year": "2004",
+    "path": "oug/2004/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 137/2020",
+    "number": "137",
+    "year": "2020",
+    "path": "hg/2020/137"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271871",
+  "text_sha256": "72d90e4d3578a4f347a83df2cd113c860954d118ffeaed9c07a50d3a5f4d3116",
+  "catalogue_sha256": "72d90e4d3578a4f347a83df2cd113c860954d118ffeaed9c07a50d3a5f4d3116",
+  "fetched": "2026-11-03T01:21:00Z",
+  "chars": 33016,
+  "portal_id": "271871",
+  "tip": "DECIZIE"
+ }
+}
