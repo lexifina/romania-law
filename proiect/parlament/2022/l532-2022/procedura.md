@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-06-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-17: sent for promulgation
 - 2023-07-04: promulgated, becomes Legea nr. 197/2023
+- 2023-07-05: published in the Monitorul Oficial
 
 ## Documents
 
