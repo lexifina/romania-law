@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-06-19: adopted by the Senate
 - 2023-06-28: adopted by the Chamber of Deputies
 - 2023-06-30: sent for promulgation
+- 2023-07-05: promulgated, becomes Legea nr. 200/2023
 
 ## Documents
 
