@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2023-05-25: sent for promulgation
 - 2023-06-21: published in the Monitorul Oficial
 - 2023-07-04: promulgated, becomes Legea nr. 199/2023
+- 2023-07-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,6 @@ Initiator: Guvernul României.
 - 2023-05-22: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L283FS.PDF
 - 2023-05-23: Adresă privind sesizarea CCR (AXS): [axs-28693467.md](axs-28693467.md); official file https://www.senat.ro/legis/PDF/2023/23L283AXS.PDF
 - 2023-05-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L283LP.PDF
+- 2023-07-05: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L283AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-05: Document (SC): [sc-4f98a1a1.md](sc-4f98a1a1.md); official file https://www.senat.ro/legis/PDF/2023/23L283SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-05: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L283DC.PDF (its day is not given by the bill file: shown from the last stage held)
