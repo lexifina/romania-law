@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-06-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-17: sent for promulgation
 - 2023-07-04: promulgated, becomes Legea nr. 196/2023
+- 2023-07-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2023-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L022AM.PDF
 - 2023-06-12: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L022AXS.PDF
 - 2023-06-12: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L022LP.PDF
+- 2023-07-05: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L022AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-05: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L022S1.PDF (its day is not given by the bill file: shown from the last stage held)
