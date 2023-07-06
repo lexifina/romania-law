@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-06-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-21: sent for promulgation
 - 2023-07-05: promulgated, becomes Legea nr. 205/2023
+- 2023-07-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2022-02-24: Adresă către Camera Deputaților (AM): [am-a35d99a9.md](am-a35d99a9.md); official file https://www.senat.ro/legis/PDF/2022/22L007AM.PDF
 - 2023-06-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L007AXS.PDF
 - 2023-06-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L007LP.PDF
+- 2023-07-06: Document (TA): [ta-93534533.md](ta-93534533.md); official file https://www.senat.ro/legis/PDF/2022/22L007TA.PDF (its day is not given by the bill file: shown from the last stage held)
