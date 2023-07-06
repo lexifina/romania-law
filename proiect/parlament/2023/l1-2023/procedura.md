@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2023-06-28: adopted by the Chamber of Deputies
 - 2023-06-30: sent for promulgation
 - 2023-07-05: promulgated, becomes Legea nr. 200/2023
+- 2023-07-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,10 @@ Initiator: Guvernul României.
 - 2023-03-29: Adresă către Camera Deputaților (AM): [am-32cb6932.md](am-32cb6932.md); official file https://www.senat.ro/legis/PDF/2023/23L001AM.PDF
 - 2023-04-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001AXS.PDF
 - 2023-04-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001LP.PDF
+- 2023-07-06: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (DC): [dc-ad2f3cef.md](dc-ad2f3cef.md); official file https://www.senat.ro/legis/PDF/2023/23L001DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-06: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L001PX.PDF (its day is not given by the bill file: shown from the last stage held)
