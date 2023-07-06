@@ -1,0 +1,10 @@
+# HCL Horlești nr. 46/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Horlești
+- Decision: nr. 46/2023
+- Adopted: 2023-04-28
+- Published: 2023-07-06
+- Title: privind aprobarea ,, salariilor de bază pentru aparatul de specialitate al primarului comunei Horlești, județul Iași”
+- Record: https://emol.ro/horlesti-is/registru-hcl/112073
