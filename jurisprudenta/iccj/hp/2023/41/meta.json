@@ -1,0 +1,174 @@
+{
+ "key": "iccj-hp-41-2023",
+ "label": "Decizia ÎCCJ nr. 41/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "41",
+ "date": "2023-05-22",
+ "year": "2023",
+ "heading": "DECIZIA nr. 41 din 22 mai 2023",
+ "subtitle": "referitoare la sesizarea Înaltei Curți de Casație și Justiție - Completul pentru dezlegarea unor chestiuni de drept, în vederea pronunțării unei hotărâri prealabile privind reducerea la plata impozitelor prevăzută de art. 456 alin (4) și art. 464 alin. (4) din Codul fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "620",
+  "bis": false,
+  "date": "2023-07-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "521/1/2023",
+  "20.243/3/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "464",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, prin Încheierea din 20 decembrie 2022, pronunțată în Dosarul nr. 20.243/3/2021, pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă reducerea la plata impozitelor prevăzută de art. 456 alin. (4) și art. 464 alin. (4) din Codul fiscal se aplică doar în cazul imobilelor și al terenurilor utilizate pentru prestarea unor servicii turistice, a căror durată este limitată în mod natural pe o durată de cel mult 180 de zile consecutive sau cumulate, în cursul unui an calendaristic, sau reducerea la plata impozitelor prevăzute de textele de lege menționate anterior se aplică și în privința imobilelor și a terenurilor care pot fi utilizate în mod natural, obiectiv, pentru prestarea unor servicii turistice pe întreaga durată a unui an calendaristic, însă, din motive care exclud culpa acestora în ceea ce privește durata de prestare a serviciilor turistice, această activitate este limitată pe o durată de cel mult 180 de zile consecutive sau cumulate, în cursul unui an calendaristic?",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "11",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "516",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [
+    {
+     "art": "456",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "464",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 230/2020",
+    "number": "230",
+    "year": "2020",
+    "path": "lege/2020/230"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/271928",
+  "text_sha256": "48d3f59b7941261288e7dcfd28d42201b6ebe46cc03b54d8d78ae517b0c53529",
+  "catalogue_sha256": "48d3f59b7941261288e7dcfd28d42201b6ebe46cc03b54d8d78ae517b0c53529",
+  "fetched": "2026-11-03T01:20:56Z",
+  "chars": 49435,
+  "portal_id": "271928",
+  "tip": "DECIZIE"
+ }
+}
