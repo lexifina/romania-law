@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-05-25: returned for re-examination
 - 2023-06-26: adopted by the Senate
 - 2023-06-30: sent for promulgation
+- 2023-07-07: promulgated, becomes Legea nr. 206/2023
 
 ## Documents
 
