@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-04-06: adopted by the Senate
 - 2023-06-28: adopted by the Chamber of Deputies
 - 2023-07-03: sent for promulgation
+- 2023-07-10: promulgated, becomes Legea nr. 215/2023
 
 ## Documents
 
