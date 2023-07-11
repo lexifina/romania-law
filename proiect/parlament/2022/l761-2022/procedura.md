@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-24: sent for promulgation
 - 2023-07-07: promulgated, becomes Legea nr. 211/2023
+- 2023-07-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L761AM.PDF
 - 2023-06-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L761AXS.PDF
 - 2023-06-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L761LP.PDF
+- 2023-07-11: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L761CF.PDF (its day is not given by the bill file: shown from the last stage held)
