@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-06-26: adopted by the Senate
 - 2023-06-30: sent for promulgation
 - 2023-07-07: promulgated, becomes Legea nr. 206/2023
+- 2023-07-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Guvernul României.
 - 2022-12-07: Adresă către Camera Deputaților (AM): [am-1243532b.md](am-1243532b.md); official file https://www.senat.ro/legis/PDF/2022/22L699AM.PDF
 - 2023-05-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699AXS.PDF
 - 2023-05-08: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699LP.PDF
+- 2023-07-11: Document (RX): [rx-71f98987.md](rx-71f98987.md); official file https://www.senat.ro/legis/PDF/2022/22L699RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L699PX.PDF (its day is not given by the bill file: shown from the last stage held)
