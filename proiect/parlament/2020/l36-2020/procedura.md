@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-28: adopted by the Chamber of Deputies
 - 2023-07-03: sent for promulgation
 - 2023-07-10: promulgated, becomes Legea nr. 215/2023
+- 2023-07-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,10 @@ Initiator: Membri ai Parlamentului.
 - 2020-03-19: Adresă către Camera Deputaților (AM): [am-9db8b55f.md](am-9db8b55f.md); official file https://www.senat.ro/legis/PDF/2020/20L036AM.PDF
 - 2020-07-28: Adresă privind sesizarea CCR (AXS): [axs-9a6d9882.md](axs-9a6d9882.md); official file https://www.senat.ro/legis/PDF/2020/20L036AXS.PDF
 - 2020-07-28: Forma trimisă la promulgare (LP): [lp-ae454098.md](lp-ae454098.md); official file https://www.senat.ro/legis/PDF/2020/20L036LP.PDF
+- 2023-07-11: Document (SC): [sc-65881afe.md](sc-65881afe.md); official file https://www.senat.ro/legis/PDF/2020/20L036SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (DC): [dc-ad687cf6.md](dc-ad687cf6.md); official file https://www.senat.ro/legis/PDF/2020/20L036DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (RC): [rc-4880ef9c.md](rc-4880ef9c.md); official file https://www.senat.ro/legis/PDF/2020/20L036RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (XD): [xd-13a8014d.md](xd-13a8014d.md); official file https://www.senat.ro/legis/PDF/2020/20L036XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (SX): [sx-37fccd72.md](sx-37fccd72.md); official file https://www.senat.ro/legis/PDF/2020/20L036SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L036XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-07-11: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L036PX.PDF (its day is not given by the bill file: shown from the last stage held)
