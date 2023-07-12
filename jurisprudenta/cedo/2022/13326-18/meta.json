@@ -1,0 +1,146 @@
+{
+ "key": "cedo-13326-18-2022-08-30",
+ "label": "CEDO, Pârvu c. României, 2022-08-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-08-30",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 30 august 2022",
+ "subtitle": "în Cauza Pârvu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "638",
+  "bis": false,
+  "date": "2023-07-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "13326/18"
+ ],
+ "case_name": "Pârvu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 2 din Convenție sub aspect material;",
+  "3. hotărăște că a fost încălcat art. 2 din Convenție sub aspect procedural;",
+  "4. hotărăște: (a) că statul pârât trebuie să plătească, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "65.000 EUR (șaizeci și cinci mii de euro) reclamantei, plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "8.630 EUR (opt mii șase sute treizeci de euro), pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de reclamantă cu titlu de impozit, sumă care trebuie plătită în contul bancar indicat de reprezentanta reclamantei;",
+  "(b) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată anuală egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272069",
+  "text_sha256": "81938189e9180580e4c40a6057f6735110bb2d437f3cb3fc363b5793a895a5e9",
+  "catalogue_sha256": "81938189e9180580e4c40a6057f6735110bb2d437f3cb3fc363b5793a895a5e9",
+  "fetched": "2026-11-03T01:20:48Z",
+  "chars": 88261,
+  "portal_id": "272069",
+  "tip": "HOTĂRÂRE"
+ }
+}
