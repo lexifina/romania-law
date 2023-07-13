@@ -1,0 +1,301 @@
+{
+ "key": "iccj-ril-12-2023",
+ "label": "Decizia ÎCCJ nr. 12/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "12",
+ "date": "2023-06-19",
+ "year": "2023",
+ "heading": "DECIZIA nr. 12 din 19 iunie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 31 alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "644",
+  "bis": false,
+  "date": "2023-07-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "426/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii declarat de Colegiul de conducere al Curții de Apel Suceava și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 31 alin. (1^2) din Legea nr. 360/2002 privind Statutul polițistului, cu modificările și completările ulterioare, introduse prin art. I din Legea nr. 288/2018 pentru modificarea și completarea unor acte normative, dreptul la compensația lunară pentru chirie, pentru plata ratelor de credit, nu poate fi recunoscut polițiștilor care au încheiat contracte de credit ipotecar/imobiliar anterior intrării în vigoare a Legii nr. 288/2018.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 288/2018",
+    "number": "288",
+    "year": "2018",
+    "path": "lege/2018/288"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "1-2",
+      "1",
+      "1-4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 55
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 30/2007",
+    "number": "30",
+    "year": "2007",
+    "path": "oug/2007/30"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului administrației și internelor nr. 129/2010",
+    "number": "129",
+    "year": "2010"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 284/2005",
+    "number": "284",
+    "year": "2005",
+    "path": "hg/2005/284"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "b",
+      "c",
+      "d",
+      "e"
+     ]
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2",
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 80/1995",
+    "number": "80",
+    "year": "1995",
+    "path": "lege/1995/80"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272127",
+  "text_sha256": "dab6d86273a858e3754080f69e62d6f284b6d13f38414f233bf9ef88126c643e",
+  "catalogue_sha256": "dab6d86273a858e3754080f69e62d6f284b6d13f38414f233bf9ef88126c643e",
+  "fetched": "2026-11-03T01:20:44Z",
+  "chars": 62568,
+  "portal_id": "272127",
+  "tip": "DECIZIE"
+ }
+}
