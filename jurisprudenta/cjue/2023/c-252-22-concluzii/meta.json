@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-252-22-concluzii-2023-07-13",
+ "label": "CJUE, Concluziile avocatului general L. Medina prezentate la 13 iulie 2023, Cauza C-252/22.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-07-13",
+ "year": "2023",
+ "case": "Cauza C-252/22.",
+ "celex": "62022CC0252",
+ "ecli": "ECLI:EU:C:2023:592",
+ "heading": "Concluziile avocatului general L. Medina prezentate la 13 iulie 2023",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Târgu-Mureş.",
+ "national_followup": null,
+ "parties": "Societatea Civilă Profesională de Avocaţi AB & CD împotriva Consiliului Judeţean Suceava și alții.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Mediu – Convenția de la Aarhus – Articolul 9 alineatele (3)-(5) – Acces la justiție – Societate civilă profesională de avocați – Acțiune prin care se contestă acte administrative – Admisibilitate – Condiții prevăzute de dreptul național – Lipsa afectării drepturilor și a intereselor legitime – Proceduri jurisdicționale care nu sunt exagerat de costisitoare – Repartizare a cheltuielilor – Criterii.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0252",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-252/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/4fd8a42e-2167-11ee-94cb-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "b0cb2a117024b39b93f01be65358ffb6026a8e2d29a04849b392d540ba19ea35"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
