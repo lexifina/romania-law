@@ -1,0 +1,344 @@
+{
+ "key": "dcc-119-2023",
+ "label": "Decizia CCR nr. 119/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "119",
+ "date": "2023-03-16",
+ "year": "2023",
+ "heading": "DECIZIA nr. 119 din 16 martie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "656",
+  "bis": false,
+  "date": "2023-07-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.934/299/2019",
+  "650D/2020",
+  "18.021/215/2019",
+  "1.000/301/2020",
+  "9.739/182/2019",
+  "1.159D/2020",
+  "23.775/215/2019",
+  "30.190/299/2019",
+  "11.535/299/2019",
+  "11.354/299/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea de Asigurare Reasigurare City - S.A. Insurance din București în dosarele nr. 8.934/299/2019, nr. 30.190/299/2019, nr. 23.850/299/2019, nr. 30.545/299/2019, nr. 6.405/299/2020, nr. 2.533/299/2020, nr. 11.535/299/2019, nr. 10.467/299/2020, nr. 10.478/299/2020, nr. 11.386/299/2020, nr. 11.354/299/2020, nr. 10.372/299/2020, nr. 22.408/299/2019, nr. 1.406/299/2020, nr. 1.678/299/2020, nr. 2.877/299/2020, nr. 10.085/299/2020, nr. 12.242/299/2020, nr. 10.802/299/2020 ale Judecătoriei Sectorului 1 București - Secția I civilă, în dosarele nr. 23.415/299/2019, nr. 33.969/299/2019, nr. 30.189/299/2019, nr. 30.958/299/2019, nr. 2.883/299/2020, nr. 1.402/299/2020, nr. 11.800/299/2020, nr. 3.020/299/2020, nr. 2.715/299/2020, nr. 14.178/299/2020 și nr. 11.109/299/2020 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă, în dosarele nr. 32.958/325/2019, nr. 35.560/325/2019, nr. 35.740/325/2019, nr. 25.335/325/2019, nr. 24.901/325/2019, nr. 19.857/325/2019 și nr. 30.557/325/2019 ale Judecătoriei Timișoara - Secția I civilă, în dosarele nr. 16.443/325/2019, nr. 23.653/325/2019, nr. 20.282/325/2018, nr. 21.823/325/2019, nr. 13.147/325/2019, nr. 13.468/325/2019, nr. 24.908/325/2019, nr. 21.840/325/2019, nr. 21.169/325/2019, nr. 13.841/325/2019, nr. 25.347/325/2019, nr. 27.176/325/2019, nr. 21.844/325/2019, nr. 13.840/325/2019, nr. 24.911/325/2019, nr. 12.875/325/2019, nr. 19.021/325/2019, nr. 19.590/325/2019, nr. 4.970/325/2019, nr. 21.473/325/2019 și nr. 22.480/325/2019 ale Tribunalului Timiș - Secția a II-a civilă, în dosarele nr. 35.371/325/2019, nr. 21.843/325/2019*, nr. 4.336/325/2021, nr. 4.355/325/2021, nr. 32.464/325/2020 și nr. 6.016/325/2021 ale Judecătoriei Timișoara - Secția a II-a civilă, în dosarele nr. 399/299/2019, nr. 1.131/299/2019, nr. 28.960/299/2018, nr. 29.132/299/2018, nr. 32.022/299/2018, nr. 23.799/299/2018, nr. 959/299/2019, nr. 4.110/299/2019, nr. 1.572/299/2019, nr. 722/299/2019, nr. 2.864/299/2019, nr. 1.748/299/2019, nr. 2.242/299/2019, nr. 10.487/299/2019, nr. 35.536/299/2018, nr. 31.230/299/2018, nr. 401/299/2019 și nr. 10.617/299/2019 ale Tribunalului București - Secția a VI-a civilă, în Dosarul nr. 18.021/215/2019 al Judecătoriei Craiova - Secția civilă, în Dosarul nr. 1.000/301/2020 al Judecătoriei Sectorului 3 București - Secția civilă, în Dosarul nr. 9.739/182/2019 al Judecătoriei Baia Mare - Secția civilă și în dosarele nr. 545/298/2021, nr. 546/298/2021, nr. 548/298/2021 și nr. 544/298/2021/a1 ale Judecătoriei Sebeș și de Societatea Euroins România Asigurare-Reasigurare - S.A. din Ilfov în Dosarul nr. 23.775/215/2019 al Judecătoriei Craiova - Secția civilă și constată că dispozițiile art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția I civilă, Judecătoriei Sectorului 1 București - Secția a IIa civilă, Judecătoriei Timișoara - Secția I civilă, Tribunalului Timiș - Secția a II-a civilă, Judecătoriei Timișoara - Secția a II-a civilă, Tribunalului București - Secția a VI-a civilă, Judecătoriei Craiova - Secția civilă, Judecătoriei Sectorului 3 București - Secția civilă, Judecătoriei Baia Mare - Secția civilă și Judecătoriei Sebeș și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5",
+      "12"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "8",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 36
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-07-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272208",
+  "text_sha256": "f4d90eb81b72e3681d5bf26973804d1ed789321f9109b61d1d05104bb25767d6",
+  "catalogue_sha256": "f4d90eb81b72e3681d5bf26973804d1ed789321f9109b61d1d05104bb25767d6",
+  "fetched": "2026-11-03T01:20:41Z",
+  "chars": 67585,
+  "portal_id": "272208",
+  "tip": "DECIZIE"
+ }
+}
