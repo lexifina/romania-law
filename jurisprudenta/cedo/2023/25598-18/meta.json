@@ -1,0 +1,131 @@
+{
+ "key": "cedo-25598-18-2023-03-07",
+ "label": "CEDO, Stoicu c. României, 2023-03-07",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-03-07",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 7 martie 2023",
+ "subtitle": "în Cauza Stoicu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR - SECȚIA A PATRA",
+ "mo": {
+  "number": "653",
+  "bis": false,
+  "date": "2023-07-17",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "25598/18"
+ ],
+ "case_name": "Stoicu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "4.000 EUR (patru mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit pentru această sumă, cu titlu de despăgubire pentru prejudiciul moral;",
+  "(ii)",
+  "450 EUR (patru sute cincizeci de euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit pentru această sumă, cu titlu de cheltuieli de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 78/2000",
+    "number": "78",
+    "year": "2000",
+    "path": "lege/2000/78"
+   },
+   "articles": [
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "326",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272180",
+  "text_sha256": "9673d6fadfb77db61443d97f054d5ed628097907f40c544662771a9c985a1ad6",
+  "catalogue_sha256": "9673d6fadfb77db61443d97f054d5ed628097907f40c544662771a9c985a1ad6",
+  "fetched": "2026-11-03T01:20:38Z",
+  "chars": 13692,
+  "portal_id": "272180",
+  "tip": "HOTĂRÂRE"
+ }
+}
