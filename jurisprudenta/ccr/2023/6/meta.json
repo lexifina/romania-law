@@ -1,0 +1,309 @@
+{
+ "key": "dcc-6-2023",
+ "label": "Decizia CCR nr. 6/2023",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "6",
+ "date": "2023-01-31",
+ "year": "2023",
+ "heading": "DECIZIA nr. 6 din 31 ianuarie 2023",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. I pct. 4 și 5 din Legea pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "657",
+  "bis": false,
+  "date": "2023-07-18",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.626A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "lege/2001/155"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de Președintele României și constată că dispozițiile art. I pct. 4 din Legea pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân sunt constituționale în raport cu criticile formulate.",
+  "2. Admite obiecția de neconstituționalitate și constată că dispozițiile art. I pct. 5 din Legea pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "lege/2001/155"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 155/2001",
+    "number": "155",
+    "year": "2001",
+    "path": "oug/2001/155"
+   },
+   "articles": [
+    {
+     "art": "13-4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "13-3",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1375",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/2004",
+    "number": "60",
+    "year": "2004",
+    "path": "lege/2004/60"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 205/2004",
+    "number": "205",
+    "year": "2004",
+    "path": "lege/2004/205"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-07-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272218",
+  "text_sha256": "7c9d3222691c7d1dc6114ba7668aeb176314bdefa5a3971678b6464855eb33a7",
+  "catalogue_sha256": "7c9d3222691c7d1dc6114ba7668aeb176314bdefa5a3971678b6464855eb33a7",
+  "fetched": "2026-11-03T01:20:36Z",
+  "chars": 50092,
+  "portal_id": "272218",
+  "tip": "DECIZIE"
+ }
+}
