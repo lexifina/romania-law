@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-20: adopted by the Chamber of Deputies
 - 2023-06-26: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-07-01: sent for promulgation
+- 2023-07-19: promulgated, becomes Legea nr. 238/2023
 
 ## Documents
 
