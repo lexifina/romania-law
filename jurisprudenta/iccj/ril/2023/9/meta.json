@@ -1,0 +1,361 @@
+{
+ "key": "iccj-ril-9-2023",
+ "label": "Decizia ÎCCJ nr. 9/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "9",
+ "date": "2023-05-29",
+ "year": "2023",
+ "heading": "DECIZIA nr. 9 din 29 mai 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. IV alin. (1) din Legea nr. 236/2019 pentru modificarea și completarea art. 15 din Ordonanța Guvernului nr. 42/2004 privind organizarea activității sanitar-veterinare și pentru siguranța alimentelor, precum și pentru modificarea unor acte normative",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "672",
+  "bis": false,
+  "date": "2023-07-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "963/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 236/2019",
+    "number": "236",
+    "year": "2019",
+    "path": "lege/2019/236"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 42/2004",
+    "number": "42",
+    "year": "2004",
+    "path": "og/2004/42"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Avocatul Poporului și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. IV alin. (1) din Legea nr. 236/2019 pentru modificarea și completarea art. 15 din Ordonanța Guvernului nr. 42/2004 privind organizarea activității sanitar-veterinare și pentru siguranța alimentelor, precum și pentru modificarea unor acte normative, aceste dispoziții sunt aplicabile în absența adoptării de către puterea executivă a normelor metodologice de aplicare prevăzute de art. V din această lege, pentru perioada 16 decembrie 2019-23 iulie 2020.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 236/2019",
+    "number": "236",
+    "year": "2019",
+    "path": "lege/2019/236"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": [
+      "7",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 122
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 42/2004",
+    "number": "42",
+    "year": "2004",
+    "path": "og/2004/42"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 64
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 291/2020",
+    "number": "291",
+    "year": "2020",
+    "path": "lege/2020/291"
+   },
+   "articles": [],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 117/2020",
+    "number": "117",
+    "year": "2020",
+    "path": "oug/2020/117"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolului nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "120",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 14/2010",
+    "number": "14",
+    "year": "2010",
+    "path": "og/2010/14"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": [
+      "s"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 236/2020",
+    "number": "236",
+    "year": "2020",
+    "path": "lege/2020/236"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 106/2015",
+    "number": "106",
+    "year": "2015"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/272334",
+  "text_sha256": "190d9ac56a0cff2748bde52a0bd2290602990f20bfcb423acc35bacec1b0987f",
+  "catalogue_sha256": "190d9ac56a0cff2748bde52a0bd2290602990f20bfcb423acc35bacec1b0987f",
+  "fetched": "2026-11-03T01:20:30Z",
+  "chars": 95081,
+  "portal_id": "272334",
+  "tip": "DECIZIE"
+ }
+}
