@@ -1,0 +1,28 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/1509 AL COMISIEI
+din 20 iulie 2023
+de derogare, pentru anul 2023, de la articolul 75 alineatul (1) al treilea paragraf din Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului în ceea ce privește nivelul avansurilor pentru măsurile de dezvoltare rurală legate de suprafață și de animale
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului (1), în special articolul 75 alineatul (3),
+întrucât:
+(1) În temeiul articolului 104 alineatul (1) al doilea paragraf litera (a) punctul (iv) din Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului (2), articolul 75 din Regulamentul (UE) nr. 1306/2013 continuă să se aplice în ceea ce privește FEADR, în legătură cu cheltuielile suportate de beneficiari și cu plățile efectuate de agenția de plăți în cadrul punerii în aplicare a programelor de dezvoltare rurală în temeiul Regulamentului (UE) nr. 1305/2013 al Parlamentului European și al Consiliului (3).
+(2) În temeiul articolului 75 alineatul (1) al treilea paragraf din Regulamentul (UE) nr. 1306/2013, statele membre pot să plătească avansuri de până la 75 % pentru măsurile de sprijin pentru dezvoltare rurală legate de suprafață și de animale în temeiul Regulamentului (UE) nr. 1305/2013.
+(3) Pandemia de COVID-19, impactul acesteia asupra lanțurilor de aprovizionare cu alimente și creșterea prețurilor la energie și la factorii de producție agricolă începând din toamna anului 2021 au pus presiune asupra sectorului agricol. În plus, invadarea Ucrainei de către Rusia a agravat situația și a avut un impact negativ suplimentar asupra sectorului agricol. Prețurile factorilor de producție, cum ar fi costurile energiei, îngrășămintelor și hranei pentru animale, au crescut semnificativ în toate sectoarele agricole.
+(4) Prin urmare, ponderea costurilor energiei și îngrășămintelor în consumul intermediar total a crescut semnificativ în 2022, cea mai mare creștere fiind observată în cazul culturilor de câmp și în cel al fermelor de culturi permanente, în ambele cazuri din cauza expunerii lor la costurile îngrășămintelor. Prețurile îngrășămintelor sunt încă la niveluri foarte ridicate din punct de vedere istoric. Datele sugerează că fermierii au reacționat prin reducerea utilizării îngrășămintelor, ceea ce a dus, până în prezent, la consecințe negative incerte asupra randamentelor și a calității produselor alimentare și a hranei pentru animale.
+(5) Prețurile altor factori de producție pentru fermierii și operatorii din lanțul alimentar din Uniune, cum ar fi, de exemplu, produsele de protecție a plantelor și tratamentele pentru sănătatea animalelor, utilajele și ambalajele au crescut în concordanță cu inflația generală.
+(6) Recent, au scăzut semnificativ prețurile pentru majoritatea produselor agricole de bază, cum ar fi cerealele, semințele oleaginoase și produsele lactate. În unele state membre, situația a devenit deosebit de dificilă, deoarece raportul dintre prețurile factorilor de producție și prețurile materiilor prime s-a deteriorat.
+(7) Aceste circumstanțe, pe lângă fenomenele meteorologice nefavorabile recente din anumite regiuni, cum ar fi seceta extremă și inundațiile, le pot cauza probleme de lichiditate producătorilor agricoli. Pentru a aborda aceste probleme de lichiditate, statelor membre trebuie să li se permită să plătească avansuri majorate pentru anul de cerere 2023 pentru măsurile de dezvoltare rurală legate de suprafață și de animale.
+(8) Măsurile prevăzute de prezentul regulament sunt conforme cu avizul Comitetului pentru fondurile agricole și al Comitetului pentru politica agricolă comună,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Prin derogare de la articolul 75 alineatul (1) al treilea paragraf din Regulamentul (UE) nr. 1306/2013, pentru anul de cerere 2023, statele membre pot plăti avansuri de până la 85 % pentru sprijinul acordat în cadrul dezvoltării rurale menționat la articolul 67 alineatul (2) din regulamentul respectiv.
+Articolul 2
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 20 iulie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) Regulamentul (UE) nr. 1306/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentelor (CEE) nr. 352/78, (CE) nr. 165/94, (CE) nr. 2799/98, (CE) nr. 814/2000, (CE) nr. 1290/2005 și (CE) nr. 485/2008 ale Consiliului (JO L 347, 20.12.2013, p. 549).
+(2) Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1306/2013 (JO L 435, 6.12.2021, p. 187).
+(3) Regulamentul (UE) nr. 1305/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 privind sprijinul pentru dezvoltare rurală acordat din Fondul european agricol pentru dezvoltare rurală (FEADR) și de abrogare a Regulamentului (CE) nr. 1698/2005 al Consiliului (JO L 347, 20.12.2013, p. 487).
