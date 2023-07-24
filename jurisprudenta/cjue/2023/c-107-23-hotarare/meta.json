@@ -1,0 +1,70 @@
+{
+ "key": "cjue-c-107-23-hotarare-2023-07-24",
+ "label": "CJUE, Hotărârea Curții (Marea Cameră) din 24 iulie 2023, Cauza C-107/23 PPU",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-07-24",
+ "year": "2023",
+ "case": "Cauza C-107/23 PPU",
+ "celex": "62023CJ0107",
+ "ecli": "ECLI:EU:C:2023:606",
+ "heading": "Hotărârea Curții (Marea Cameră) din 24 iulie 2023",
+ "formation": "CHAMB_GD_C",
+ "procedure": "REFER_PREL_URG",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Braşov, secția penală",
+   "date": "2023-02-22",
+   "national_file": "299/64/2022"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Brașov",
+ "national_followup": [
+  "Curtea de Apel Braşov, secția penală, Decizia din 22/09/2023 (ECLI:RO:CABRV:2023:002.000728)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Protecția intereselor financiare ale Uniunii Europene – Articolul 325 alineatul (1) TFUE – Convenția «PIF» – Articolul 2 alineatul (1) – Obligația de a combate frauda care aduce atingere intereselor financiare ale Uniunii prin măsuri disuasive și efective – Obligația de a prevedea sancțiuni penale – Taxa pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Fraudă gravă în domeniul TVA‑ului – Termen de prescripție a răspunderii penale – Decizie a unei curți constituționale prin care este invalidată o dispoziție națională care reglementează cauzele de întrerupere a acestui termen – Risc sistemic de impunitate – Protecția drepturilor fundamentale – Articolul 49 alineatul (1) din Carta drepturilor fundamentale a Uniunii Europene – Principiul legalității infracțiunilor și pedepselor – Cerințele privind previzibilitatea și precizia legii penale – Principiul aplicării retroactive a legii penale mai favorabile (lex mitior) – Principiul securității juridice – Standard național de protecție a drepturilor fundamentale – Obligația instanțelor unui stat membru de a lăsa neaplicate deciziile curții constituționale și/sau ale instanței supreme ale acestui stat membru în caz de neconformitate cu dreptul Uniunii – Răspunderea disciplinară a judecătorilor în cazul nerespectării acestor decizii – Principiul supremației dreptului Uniunii",
+ "interprets": [
+  {
+   "celex": "12008E325",
+   "folder": null
+  },
+  {
+   "celex": "41995A1127(03)",
+   "folder": null
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0107",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-107/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b949a1a6-2a1e-11ee-839d-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "87b8a944840c24f6953024dd78a3b56269dd02ca218f92324ef3d64afa3196b2"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Marea Cameră) declară:",
+  "1) Articolul 325 alineatul (1) TFUE și articolul 2 alineatul (1) din Convenția elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană privind protejarea intereselor financiare ale Comunităților Europene, semnată la Bruxelles la 26 iulie 1995 și anexată la Actul Consiliului din 26 iulie 1995,",
+  "trebuie interpretate în sensul că",
+  "instanțele unui stat membru nu sunt obligate să lase neaplicate deciziile curții constituționale a acestui stat membru prin care este invalidată dispoziția legislativă națională care reglementează cauzele de întrerupere a termenului de prescripție în materie penală din cauza încălcării principiului legalității infracțiunilor și pedepselor, astfel cum este protejat în dreptul național, sub aspectul cerințelor acestuia referitoare la previzibilitatea și la precizia legii penale, chiar dacă aceste decizii au drept consecință încetarea, ca urmare a prescripției răspunderii penale, a unui număr considerabil de procese penale, inclusiv procese referitoare la infracțiuni de fraudă gravă care aduce atingere intereselor financiare ale Uniunii Europene.",
+  "În schimb, dispozițiile menționate ale dreptului Uniunii trebuie interpretate în sensul că",
+  "instanțele acestui stat membru sunt obligate să lase neaplicat un standard național de protecție referitor la principiul aplicării retroactive a legii penale mai favorabile (lex mitior) care permite repunerea în discuție, inclusiv în cadrul unor căi de atac îndreptate împotriva unor hotărâri definitive, a întreruperii termenului de prescripție a răspunderii penale în astfel de procese prin acte de procedură intervenite înainte de o asemenea invalidare.",
+  "2) Principiul supremației dreptului Uniunii",
+  "trebuie interpretat în sensul că",
+  "se opune unei reglementări sau unei practici naționale potrivit căreia instanțele naționale de drept comun ale unui stat membru sunt ținute de deciziile curții constituționale, precum și de cele ale instanței supreme ale acestui stat membru și nu pot, din acest motiv și cu riscul angajării răspunderii disciplinare a judecătorilor în cauză, să lase neaplicată din oficiu jurisprudența rezultată din deciziile menționate, chiar dacă ele consideră, în lumina unei hotărâri a Curții, că această jurisprudență este contrară unor dispoziții ale dreptului Uniunii care au efect direct."
+ ]
+}
