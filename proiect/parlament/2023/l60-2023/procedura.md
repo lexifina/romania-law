@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-07-03: sent for promulgation
 - 2023-07-21: promulgated, becomes Legea nr. 252/2023
+- 2023-07-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L060AM.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L060AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L060LP.PDF
+- 2023-07-24: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L060CF.PDF (its day is not given by the bill file: shown from the last stage held)
