@@ -1,0 +1,29 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/1508 AL COMISIEI
+din 20 iulie 2023
+de derogare, pentru anul 2023, de la articolul 44 alineatul (2) al doilea paragraf din Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului în ceea ce privește nivelul avansurilor pentru intervențiile sub formă de plăți directe și intervențiile de dezvoltare rurală bazate pe suprafață și pe animale
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2021/2116 al Parlamentului European și al Consiliului din 2 decembrie 2021 privind finanțarea, gestionarea și monitorizarea politicii agricole comune și de abrogare a Regulamentului (UE) nr. 1306/2013 (1), în special articolul 44 alineatul (6),
+întrucât:
+(1) În temeiul articolului 44 alineatul (2) al doilea paragraf din Regulamentul (UE) 2021/2116, de la 16 octombrie la 30 noiembrie, statele membre pot plăti avansuri de până la 50 % în cazul intervențiilor sub formă de plăți directe, iar înainte de 1 decembrie pot plăti avansuri de până la 75 % în cazul intervențiilor de dezvoltare rurală bazate pe suprafață și pe animale în temeiul Regulamentului (UE) 2021/2115 al Parlamentului European și al Consiliului (2).
+(2) Pandemia de COVID-19, impactul acesteia asupra lanțurilor de aprovizionare cu alimente și creșterea prețurilor energiei și ale factorilor de producție agricolă începând din toamna anului 2021 au pus presiune asupra sectorului agricol. În plus, invadarea Ucrainei de către Rusia a agravat situația și a avut un impact negativ suplimentar asupra sectorului agricol. Prețurile factorilor de producție, cum ar fi costurile energiei, îngrășămintelor și hranei pentru animale, au crescut semnificativ în toate sectoarele agricole.
+(3) Prin urmare, ponderea costurilor energiei și îngrășămintelor în consumul intermediar total a crescut semnificativ în 2022, cea mai mare creștere fiind observată în cazul culturilor de câmp și în cel al fermelor cu culturi permanente, în ambele cazuri din cauza expunerii lor la costurile îngrășămintelor. Prețurile îngrășămintelor sunt încă la niveluri foarte ridicate din punct de vedere istoric. Datele sugerează că fermierii au reacționat prin reducerea utilizării îngrășămintelor, ceea ce a dus, până în prezent, la consecințe negative incerte asupra randamentelor și a calității produselor alimentare și a hranei pentru animale.
+(4) Prețurile altor factori de producție pentru fermierii și operatorii din lanțul alimentar din Uniune, cum ar fi, de exemplu, produsele de protecție a plantelor și tratamentele pentru sănătatea animalelor, utilajele și ambalajele, au crescut în concordanță cu inflația generală.
+(5) Recent, au scăzut semnificativ prețurile majorității produselor agricole de bază, cum ar fi cerealele, semințele oleaginoase și produsele lactate. În unele state membre, situația a devenit deosebit de dificilă, deoarece raportul dintre prețurile factorilor de producție și prețurile materiilor prime s-a deteriorat.
+(6) Aceste circumstanțe, pe lângă fenomenele meteorologice nefavorabile recente din anumite regiuni, cum ar fi seceta extremă și inundațiile, le pot cauza probleme de lichiditate producătorilor agricoli. Pentru a aborda aceste probleme de lichiditate, statelor membre trebuie să li se permită să plătească avansuri majorate pentru anul de cerere 2023.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului pentru fondurile agricole și al Comitetului pentru politica agricolă comună,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+(1) Prin derogare de la articolul 44 alineatul (2) al doilea paragraf litera (a) din Regulamentul (UE) 2021/2116, în ceea ce privește anul de cerere 2023, statele membre pot plăti avansuri de până la 70 % pentru intervențiile sub formă de plăți directe în temeiul titlului III capitolul II din Regulamentul (UE) 2021/2115 și pentru măsurile menționate în capitolul IV din Regulamentul (UE) nr. 228/2013 al Parlamentului European și al Consiliului (3) și în capitolul IV din Regulamentul (UE) nr. 229/2013 al Parlamentului European și al Consiliului (4).
+(2) Prin derogare de la articolul 44 alineatul (2) al doilea paragraf litera (b) din Regulamentul (UE) 2021/2116, pentru anul de cerere 2023, statele membre pot plăti avansuri de până la 85 % în cazul sprijinului acordat în cadrul intervențiilor de dezvoltare rurală bazate pe suprafață și pe animale din cadrul titlului III capitolul IV din Regulamentul (UE) 2021/2115.
+Articolul 2
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 20 iulie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 435, 6.12.2021, p. 187.
+(2) Regulamentul (UE) 2021/2115 al Parlamentului European și al Consiliului din 2 decembrie 2021 de stabilire a normelor privind sprijinul pentru planurile strategice care urmează a fi elaborate de statele membre în cadrul politicii agricole comune (planurile strategice PAC) și finanțate de Fondul european de garantare agricolă (FEGA) și de Fondul european agricol pentru dezvoltare rurală (FEADR) și de abrogare a Regulamentelor (UE) nr. 1305/2013 și (UE) nr. 1307/2013 (JO L 435, 6.12.2021, p. 1).
+(3) Regulamentul (UE) nr. 228/2013 al Parlamentului European și al Consiliului din 13 martie 2013 privind măsurile specifice din domeniul agriculturii în favoarea regiunilor ultraperiferice ale Uniunii și de abrogare a Regulamentului (CE) nr. 247/2006 al Consiliului (JO L 78, 20.3.2013, p. 23).
+(4) Regulamentul (UE) nr. 229/2013 al Parlamentului European și al Consiliului din 13 martie 2013 privind măsurile specifice din domeniul agriculturii în favoarea insulelor mici din Marea Egee și de abrogare a Regulamentului (CE) nr. 1405/2006 al Consiliului (JO L 78, 20.3.2013, p. 41).
