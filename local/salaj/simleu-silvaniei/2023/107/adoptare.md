@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 27.07.2023, cu respectarea prevederilor art. 139 alin. 3) lit.b) din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare, cu un număr de 11 voturi pentru, 1 voturi împotrivă, 1 voturi abțineri, din totalul de 13 consilieri locali prezenți.
