@@ -1,0 +1,35 @@
+# Anexa nr. 2
+Sume alocate din Fondul pentru mediu
+Nr. crt.
+Județul
+Unitatea administrativ-teritorială
+Denumirea obiectivului de investiții
+Valoarea obiectivului de investiții
+Cofinanțare cu sume din transferuri din bugetul Fondului pentru mediu
+Total, din care suplimentare conform Ordonanței Guvernului nr. 15/2021 suplimentare conform Ordonanței de urgență a Guvernului nr. 47/2022
+Realizat ani precedenți
+Rest de executat
+Total, din care suplimentare conform Ordonanței Guvernului nr. 15/2021 suplimentare conform Ordonanței de urgență a Guvernului nr. 47/2022 1
+Arad
+Arad
+Modernizare rețele termice aferente punctelor termice PT 5 Grădiște, PT 2 Lac, PT 4 Macul Roșu, PT Pasaj, PT 6V, PT Ocsko Terezia - punct termic P.T. 2 Lac 16.139.042,43 11.912.533,55 0,00 0,00 6.073.462,75 5.839.070,80 0,00 0,00 2
+Arad
+Arad
+Modernizare rețele termice aferente punctelor termice PT 5 Grădiște, PT 2 Lac, PT 4 Macul Roșu, PT Pasaj, PT 6V, PT Ocsko Terezia - punct termic P.T. Ocsko Terezia 11.147.880,44 8.288.043,36 0,00 0,00 3.084.899,57 5.203.143,79 0,00 0,00 3
+Arad
+Arad
+Modernizare rețele termice aferente punctelor termice PT 5 Grădiște, PT 2 Lac, PT 4 Macul Roșu, PT Pasaj, PT 6V, PT Ocsko Terezia - punct termic P.T. 5 Grădiște 9.289.664,21 6.860.051,53 0,00 0,00 2.882.238,14 3.977.813,39 0,00 0,00 4
+Giurgiu
+Giurgiu
+Rețea termică bretea de legătură Sud (N-C-S) 10.243.122,45 7.749.303,00 0,00 0,00 1.954.917,82 5.794.385,18 0,00 0,00 5
+Harghita
+Gheorgheni
+Modernizarea sistemului de alimentare cu energie termică a municipiului Gheorgheni 15.587.838,38 12.357.428,80 0,00 0,00 0,00 12.357.428,80 0,00 0,00 6
+Iași
+Iași
+Extinderea rețelei primare în vederea racordării de noi consumatori la SACET din municipiul Iași 27.853.790,00 21.290.138,00 2.957.596,00 0,00 15.282.942,45 6.007.195,55 459.018,11 0,00 7
+Hunedoara
+Brad
+Modernizare punct termic nr. 4 și a rețelelor aferente în municipiul Brad, județul Hunedoara 1.851.524,64 1.595.003,57 9.040,64 76.950,93 1.219.667,06 375.336,51 9.040,64 76.950,93
+Total 92.112.862,55 70.052.501,81 2.966.636,64 76.950,93 30.498.127,79 39.554.374,02 468.058,75 76.950,93
+-----
