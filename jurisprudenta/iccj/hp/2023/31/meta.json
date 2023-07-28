@@ -1,0 +1,403 @@
+{
+ "key": "iccj-hp-31-2023",
+ "label": "Decizia ÎCCJ nr. 31/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "31",
+ "date": "2023-04-24",
+ "year": "2023",
+ "heading": "DECIZIA nr. 31 din 24 aprilie 2023",
+ "subtitle": "referitoare la interpretarea coroborată a art. 24 alin. (3) și (4) din Legea nr. 554/2004 și a art. 906 din Codul de procedură civilă (modificat și completat prin Legea nr. 310/2018)",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "693",
+  "bis": false,
+  "date": "2023-07-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.748/1/2022",
+  "4.880/2/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, prin Încheierea din 7 noiembrie 2022, pronunțată în Dosarul nr. 4.880/2/2022, privind pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Din interpretarea coroborată a art. 24 alin. (3) și (4) din Legea nr. 554/2004 și a art. 906 din Codul de procedură civilă (modificat și completat prin Legea nr. 310/2018) reiese dreptul creditorului unei obligații stabilite printr-o hotărâre judecătorească definitivă, pronunțată de instanța de contencios administrativ și fiscal, de a solicita în mod repetat fixarea sumei definitive cu titlu de penalități de întârziere, anume pentru trecerea mai multor intervale succesive de 3 luni în care se pretinde că debitorul nu a executat obligația prevăzută în titlul executoriu?",
+  "Din interpretarea coroborată a art. 521 alin. (3) și a art. 431 alin. (2) din Codul de procedură civilă reiese că, în situația unui concurs între efectul pozitiv al autorității de lucru judecat și caracterul obligatoriu al deciziei Înaltei Curți de Casație și Justiție, vizând dezlegarea dată unei probleme de drept, în situația în care ambele sunt incidente într-un proces, dar soluționează în mod diferit o problemă de drept, are prioritate de aplicare autoritatea de lucru judecat sau dezlegarea obligatorie a instanței supreme?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 84/2023",
+    "number": "84",
+    "year": "2023",
+    "path": "lege/2023/84"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3",
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "4",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "906",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "906",
+     "alin": [
+      "4",
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "892",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "706",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "891",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "905",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "622",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 104
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 212/2018",
+    "number": "212",
+    "year": "2018",
+    "path": "lege/2018/212"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2000",
+    "number": "554",
+    "year": "2000",
+    "path": "lege/2000/554"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2022",
+    "number": "304",
+    "year": "2022",
+    "path": "lege/2022/304"
+   },
+   "articles": [
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273361",
+  "text_sha256": "7f043470711e95f07ad55afd72ec34dacb68e68d705c3838d1a103a8db24719c",
+  "catalogue_sha256": "7f043470711e95f07ad55afd72ec34dacb68e68d705c3838d1a103a8db24719c",
+  "fetched": "2026-11-03T01:20:19Z",
+  "chars": 127066,
+  "portal_id": "273361",
+  "tip": "DECIZIE"
+ }
+}
