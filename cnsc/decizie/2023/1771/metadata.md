@@ -1,0 +1,24 @@
+# Decizia CNSC nr. 1771/C9/1863 din 31.07.2023
+
+The record of this decision on the CNSC portal.
+
+- Body: Consiliul Național de Soluționare a Contestațiilor (CNSC)
+- Decision: 1771/C9/1863
+- Date: 2023-07-31
+- Panel: C9
+- Complainant: PROTON IMPEX 2000 SRL
+- Complainant CUI: 9000578
+- Contracting authority: MUNICIPIUL ORADEA
+- Complaint registered at CNSC: 35964 / 2023-07-04
+- Resolution: Admite
+- Operative part: admite, anuleaza, obliga
+- Procedure: *Licitatie deschisa
+- Funds: Proprii
+- CPV: 33111600-7
+- Criticisms: RA (Alte Critici Rezultat)
+- Procedure law: Legea nr. 101/2016
+- Official Bulletin number: BO2023_1771
+- Decision as issued (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MDNiZjczMmItODRhYi00MDNiLWIxOWQtMzRlMjViZmEzMjll&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzcxLnBkZg==&action=YXR0YWNobWVudA==
+- Reasoned decision (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YWQzZDg4MWMtOTZjOC00NDk1LThmMzctYTVlZGJlZTU5MzMy&pdfa1=ZmFsc2U=&filename=Qk8yMDIzXzE3NzEucGRm&action=YXR0YWNobWVudA==
+- Copyright: Legea nr. 8/1996, art. 9 lit. b: texts of a legislative, administrative or judicial nature are not protected by copyright; CNSC decisions are administrative-jurisdictional acts.
+- Publication: Published on the official-text basis by the decision of Lexifina (2026-11-06), although the CNSC portal's terms bar reproduction for commercial purposes without written consent.
