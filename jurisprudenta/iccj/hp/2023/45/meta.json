@@ -1,0 +1,230 @@
+{
+ "key": "iccj-hp-45-2023",
+ "label": "Decizia ÎCCJ nr. 45/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "45",
+ "date": "2023-06-12",
+ "year": "2023",
+ "heading": "DECIZIA nr. 45 din 12 iunie 2023",
+ "subtitle": "referitoare la interpretarea și pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "701",
+  "bis": false,
+  "date": "2023-07-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.050/1/2023",
+  "6.050/318/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Gorj - Secția contencios administrativ și fiscal, prin Încheierea din 15 martie 2023 pronunțată în Dosarul nr. 6.050/318/2022, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă în interpretarea dispozițiilor art. 10 alin. (1), (3) și (10) din Normele referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și cele privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020 în forma în vigoare până la data de 20.04.2022, coroborate cu dispozițiile pct. I lit. t) din anexa nr. 1 la norme, volumul de material lemnos ce depășește 20 mc transportat într-o perioadă de 12 luni consecutive de către o persoană fizică sau juridică și care nu s-a înregistrat în SUMAL 2.0. ca transportator profesionist reprezintă material lemnos fără proveniență legală și în consecință persoana transportatoare săvârșește contravenția prevăzută de art. 19 alin. (2) lit. c) din Legea nr. 171/2010 în forma în vigoare de la data de 05.10.2021.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "520",
+     "alin": [
+      "10",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "482",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 171/2010",
+    "number": "171",
+    "year": "2010",
+    "path": "lege/2010/171"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 497/2020",
+    "number": "497",
+    "year": "2020",
+    "path": "hg/2020/497"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 46/2008",
+    "number": "46",
+    "year": "2008",
+    "path": "lege/2008/46"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 2/2021",
+    "number": "2",
+    "year": "2021",
+    "path": "og/2021/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 512/2022",
+    "number": "512",
+    "year": "2022",
+    "path": "hg/2022/512"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "H.G. nr. 497/2022",
+    "number": "497",
+    "year": "2022",
+    "path": "hg/2022/497"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-07-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273416",
+  "text_sha256": "a8ca19f16c33a6a3e85968674e947f3305c829215df2530b86c47d497394bab1",
+  "catalogue_sha256": "a8ca19f16c33a6a3e85968674e947f3305c829215df2530b86c47d497394bab1",
+  "fetched": "2026-11-03T01:20:25Z",
+  "chars": 58258,
+  "portal_id": "273416",
+  "tip": "DECIZIE"
+ }
+}
