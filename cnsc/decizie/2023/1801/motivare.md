@@ -1,0 +1,98 @@
+În conformitate cu prevederile art. 14 alin. (2) și ale art. 27
+alin. (1) din Legea nr. 101/2016 privind remediile și căile de atac în
+materie  de  atribuire  a  contractelor  de  achiziție  publică,  a
+contractelor sectoriale și a contractelor de concesiune de lucrări și
+concesiune  de  servicii,  precum  și  pentru  organizarea  și
+funcționarea Consiliului Național de Soluționare a Contestațiilor, cu
+modificările și completările ulterioare, Consiliul adoptă următoarea
+DECIZIE
+Nr. 1801/C11/2098
+Data: 02.08.2023
+Prin contestația înregistrată la Consiliul Național de Soluționare a
+Contestațiilor cu nr. 41203/28.07.2023, depusă de SC ......... SA, cu sediul
+în ........., ........., județul ........., înregistrată la Registrul Comerțului cu
+nr. ........., având CUI RO ........., reprezentată prin administrator - .........,
+în calitate de lider al asocierii SC ......... SA & SC ......... SRL & SC .........
+SRL, și convențional prin ..., cu sediul ales pentru comunicarea actelor de
+procedură în ........., ..., privind procedura prin licitație publică, organizată
+în vederea atribuirii contractului de lucrări având ca obiect INV - 2/2023
+Execuția lucrărilor pentru obiectivele de investiții aflate în administrarea
+ANIF,  din  cadrul  Programului  Național  de  Reabilitare  a  Infrastructurii
+Principale de Irigații din România, pentru obiectivele de investiții: 4 Loturi ,
+lot 1, anunț de participare nr. CN1054065/12.04.2023, de ........., cu sediul
+în ..., ........., ........., în calitate de autoritate contractantă, s-a solicitat:
+>  suspendarea  procedurii  de  achiziție  publică  contestată  până  la
+soluționarea fondului cauzei;
+>
+
+anularea
+
+înscrisului/adresei
+
+denumit
+
+„COMUNICARE”
+
+nr.
+15060/20.07.2023  și  comunicat  petentei/publicat  în  SEAP  la  data  de
+20.07.2023,  prin  care  oferta  acesteia  a  fost  declarată  „implicit"  ca
+inacceptabilă;
+>  anularea  raportului  procedurii  nr.  15059/20.07.2023  și  a  actelor
+subsecvente acestuia;
+>  anularea  prevederilor  nelegale/erorilor  gramaticale  menționate  în
+cuprinsul documentației de atribuire prin care se limitează ofertele ce pot fi
+depuse  de  operatorii  economici  interesați  numai  la  cei  care  prezintă
+„experiența similară" eronat descrisă în documentația/erata publicată în
+SEAP  de  către  autoritatea  contractantă  raportat  la  obiectul  achiziției
+publice;
+
+> obligarea autorității contractante la modificarea/eliminarea prevederilor
+nelegale  ce  limitează  accesul  operatorilor  economici  la  procedura  da
+achiziție, astfel încât procedura de achiziție să fie pusă în concordanța cu
+dispozițiile  legale  aplicabile  în  materia  achizițiilor  publice,  precum  și
+obligarea la formularea unui enunț clar în ceea ce privește experiența
+similară din punct de vedere gramatical și raportat exclusiv la obiectul
+achiziției;
+>  obligarea  autorității  contractante  la  prelungirea  corespunzătoare  a
+termenului de depunere a ofertelor;
+> în temeiul art. 26 alin. (9) din Legea nr. 101/2016, solicită obligarea
+autorității  contractante  la  plata  tuturor  cheltuielilor  ocazionate  de
+soluționarea contestației.
+CONSILIUL NAȚIONAL DE SOLUȚIONARE A CONTESTAȚIILOR,
+asupra cauzei de față, constată următoarele:
+Consiliul  a  fost  sesizat  de  către  SC  .........  SA  să  soluționeze
+contestația  formulată  împotriva  adresei  nr.  15060/20.07.2023  și  a
+raportului procedurii nr. 15059/20.07.2023, emise de ......... în cadrul
+procedurii  de  atribuire  în  cauză,  solicitând  cele  precizate  în  partea
+introductivă.
+Prin adresa nr.1426/02.08.2023, transmisă prin e-mail, și înregistrată
+la Consiliu cu nr. 42302/02.08.2023, SC ......... SA a comunicat că renunță
+la contestație.
+Având în vedere dispozițiile art. 26 alin. (8) din Legea nr. 101/2016
+privind remediile și căile de atac în materie de atribuire a contractelor de
+achiziție publică, a contractelor sectoriale și a contractelor de concesiune de
+lucrări  și  concesiune  de  servicii,  precum  și  pentru  organizarea  și
+funcționarea Consiliului Național de Soluționare a Contestațiilor, potrivit
+cărora Consiliul poate lua act, oricând în cursul soluționării contestației, de
+renunțarea la aceasta de către contestator, Consiliul urmează să ia act de
+renunțarea la contestația formulată de SC ......... SA, în contradictoriu
+cu ..........
+Pentru aceste motive,
+în baza legii și a mijloacelor de probă aflate la dosar,
+CONSILIUL DECIDE:
+Ia act de renunțarea la contestația formulată de SC ......... SA, în
+contradictoriu cu ..........
+Prezenta decizie este obligatorie pentru părți, în conformitate cu
+dispozițiile art. 28 alin. (1) din Legea nr. 101/2016.
+Împotriva ei se poate formula plângere, în termen de 10 zile de la
+comunicare pentru părțile cauzei, respectiv de la data luării la cunoștință de
+către alte persoane vătămate, în temeiul art. 29 din Legea nr. 101/2016.
+
+   PREȘEDINTE,
+MEMBRU,
+            MEMBRU,
+       .........
+   .........
+    .........
+Redactată în 4 exemplare, conține 3 pagini.
+Redactată practicaua deciziei ....
