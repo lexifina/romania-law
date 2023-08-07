@@ -1,0 +1,190 @@
+{
+ "key": "dcc-96-2023",
+ "label": "Decizia CCR nr. 96/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "96",
+ "date": "2023-03-16",
+ "year": "2023",
+ "heading": "DECIZIA nr. 96 din 16 martie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 38 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, în interpretarea dată prin Decizia nr. 24 din 15 noiembrie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "724",
+  "bis": false,
+  "date": "2023-08-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "4.156/121/2020",
+  "1.490D/2022",
+  "1.823/121/2021",
+  "3.694/121/2020",
+  "3.756/121/2020",
+  "3.803/121/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 38 alin. (1) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, publicată în Monitorul Oficial al României, Partea I, nr. 492 din 28 iunie 2017, în interpretarea dată prin Decizia nr. 24 din 15 noiembrie 2021, pronunțată de Înalta Curte de Casație și Justiție - Completul pentru soluționarea recursului în interesul legii, excepție ridicată de Sindicatul Liber „Educația“ din Galați în numele membrilor săi Elena Radu, Adriana Mardare, Magdalena Loredana Lazăr, Liliana Gherghișan, Rodica Țilea, Carmen Dinu, Camelia Dan, Monica Matache, Margareta Călin, Liliana Dimofte, Felicia Marilena Crăciun, Otilia Gagiu, Mirela Mocanu, Ionica Miron, Mirela Carmen Balaban, Florentina Popa, Rodica Preda, Neguța Gagiu, Mariana Mîndru, Maria Scarlat, Mihaela Hilohe, Sorin Nedelcu, Gabriela Nicoleta Cristea, Talida Costandache, Minodora Silvia Manole, Daniela Parapiru, Silviu Huzum, Denisa Huzum, Nastasia Barbu, Cornel Sava, Ionică Viorel Pîrlea în Dosarul nr. 4.156/121/2020, de același autor în numele membrilor săi Iulia Hotnog, Liliana Iordache, Iulia Mânza, Viorel-Aurel Mânza în Dosarul nr. 1.823/121/2021, de Sindicatul Liber „Educația“ din Galați în numele membrilor săi Ion Cristian Roman, Gabriela Talabă, Luminița Bujor, Maricica Coșug, Veronica Frangulea, Marioara Lupu-Neicu, Luminița Lazăr, Nicoleta Gina Perju, Marinela Simionescu, Elena-Laura Tăbăcaru, Ana Chistol, Ionica Adriana Cristea în Dosarul nr. 3.694/121/2020, de sindicatul anterior menționat în numele membrilor săi Iulia Simona Andraș, Mihaela Liliana Birda, Mădălina Nicoleta Caramalău, Liliana Cioacă, Camelia Gabriela Gherbăluță, Constantina Huluțaș, Laura Panait (Vădeanu), Cristina Alina Patriche, Dana Cristina Tașcă, Georgeta Tudor, Mariana Vizinteanu, Andrei Nastasia, Marinela Bercan, Cristina Magdalena Boală, Tatiana Lăbuș în Dosarul nr. 3.756/121/2020 și de același autor menționat anterior în numele membrilor săi Daniela Câmpanu, Cristina Decianu, Adela-Cezarina Găbăuceanu, Lenuța Matei, Cezarina-Paula Niță, Gabriela Radu, Dumitra-Daniela Zaharov, Viorica Antohi, Anca Barbu, Georgeta Drăguș în Dosarul nr. 3.803/121/2020, toate ale Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Galați - Secția conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "4-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 22
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-08-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273577",
+  "text_sha256": "c5d7cd2b26fcef1283f1e5b16bb20fb7aba700ad8735d21b52205a5964d5fc98",
+  "catalogue_sha256": "c5d7cd2b26fcef1283f1e5b16bb20fb7aba700ad8735d21b52205a5964d5fc98",
+  "fetched": "2026-11-03T01:20:04Z",
+  "chars": 28728,
+  "portal_id": "273577",
+  "tip": "DECIZIE"
+ }
+}
