@@ -1,0 +1,271 @@
+{
+ "key": "cedo-21854-18-2022-08-30",
+ "label": "CEDO, Tușă c. României, 2022-08-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-08-30",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 30 august 2022",
+ "subtitle": "în Cauza Tușă împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "732",
+  "bis": false,
+  "date": "2023-08-09",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "21854/18"
+ ],
+ "case_name": "Tușă",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. reunește cu fondul excepția de neepuizare ridicată de Guvern și o respinge;",
+  "2. declară cererea admisibilă;",
+  "3. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "7.500 EUR (șapte mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "2.200 EUR (două mii două sute euro), plus orice sumă ce poate fi datorată pentru acest cuantum de reclamantă cu titlu de impozit, pentru cheltuielile de judecată.",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "442",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "443",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "444",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "445",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "446",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "447",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "448",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "449",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "450",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "679",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "680",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "681",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "682",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "683",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "684",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "685",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "673",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "687",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "O.G. nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "og/2000/1"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății publice nr. 1.343/2006",
+    "number": "1343",
+    "year": "2006"
+   },
+   "articles": [
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273633",
+  "text_sha256": "40728709e226e3ec1397ec5d40112fb6d724dc6408a3a47b449b064642905851",
+  "catalogue_sha256": "40728709e226e3ec1397ec5d40112fb6d724dc6408a3a47b449b064642905851",
+  "fetched": "2026-11-04T03:56:42Z",
+  "chars": 94825,
+  "portal_id": "273633",
+  "tip": "HOTĂRÂRE"
+ }
+}
