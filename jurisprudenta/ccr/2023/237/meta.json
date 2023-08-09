@@ -1,0 +1,285 @@
+{
+ "key": "dcc-237-2023",
+ "label": "Decizia CCR nr. 237/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "237",
+ "date": "2023-04-27",
+ "year": "2023",
+ "heading": "DECIZIA nr. 237 din 27 aprilie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 488^1 și 488^6 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "731",
+  "bis": false,
+  "date": "2023-08-09",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "9.486/281/2019/a1",
+  "286D/2020",
+  "2.199/109/2020",
+  "22.332/299/2020",
+  "25.559/215/2020",
+  "1.237D/2020",
+  "1.422D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "488-6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 488^6 din Codul de procedură penală, excepție ridicată de Viorel Florin Piperea în Dosarul nr. 22.332/299/2020 al Judecătoriei Sectorului 1 București - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Florin Lucian Constantinescu în Dosarul nr. 9.486/281/2019/a1 al Tribunalului Prahova - Secția penală, de Radu Mircea Racotă în Dosarul nr. 2.199/109/2020 al Tribunalului Argeș - Secția penală, de Viorel Florin Piperea în Dosarul nr. 22.332/299/2020 al Judecătoriei Sectorului 1 București - Secția penală, respectiv de Dan-Ștefan Bozgan în Dosarul nr. 25.559/215/2020 al Judecătoriei Craiova - Secția penală și constată că dispozițiile art. 488^1 din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secția penală, Tribunalului Argeș - Secția penală, Judecătoriei Sectorului 1 București - Secția penală și Judecătoriei Craiova - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "488-1",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488-6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 303/2004",
+    "number": "303",
+    "year": "2004",
+    "path": "lege/2004/303"
+   },
+   "articles": [
+    {
+     "art": "99",
+     "alin": null,
+     "lit": [
+      "e"
+     ]
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-08-09",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/273622",
+  "text_sha256": "ccc22c80145651030153ad3e989548753e3ee3eb9ce682d2bd6e41f2a0062bc9",
+  "catalogue_sha256": "ccc22c80145651030153ad3e989548753e3ee3eb9ce682d2bd6e41f2a0062bc9",
+  "fetched": "2026-11-06T03:04:47Z",
+  "chars": 26236,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20260304050503/https://legislatie.just.ro/Public/DetaliiDocumentAfis/273622",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/273622",
+   "timestamp": "20260304050503",
+   "sha256": "8c44a699d638d77b2c6b095cb4543cf36b6af4cf5c6b98bbfb2e126f3bd4eab1"
+  },
+  "portal_id": "273622",
+  "tip": "DECIZIE"
+ }
+}
