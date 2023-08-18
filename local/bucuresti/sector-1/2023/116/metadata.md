@@ -1,0 +1,11 @@
+# HCLS1 nr. 116/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Sectorului 1 al Municipiului București
+- Decision: nr. 116/2023
+- Adopted: 2023-07-26
+- Published: 2023-08-18
+- Record: https://emol.ro/sectorul-1/registru-hcl/?an=2023
+- Document: https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/118585/116.2023%20anonimizata.pdf
+- Document sha256: 3e67a704ea615c63852d2f2684ea333ed2741be6298ea09eccfe03c5e2783761
