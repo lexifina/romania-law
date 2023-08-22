@@ -1,0 +1,2 @@
+# ANEXĂ
+NORME privind organizarea și exercitarea activității de supraveghere desfășurate de Autoritatea de Siguranță Feroviară Română - ASFR pentru respectarea Regulamentului (UE) nr. 782/2021 al Parlamentului European și al Consiliului din 29 aprilie 2021 privind drepturile și obligațiile călătorilor din transportul feroviar
