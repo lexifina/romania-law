@@ -1,0 +1,2 @@
+# ANEXĂ
+NORMĂ SANITAR-VETERINARĂ ȘI PENTRU SIGURANȚA ALIMENTELOR de stabilire a condițiilor privind reducerea frecvențelor de prelevare a probelor privind criteriile microbiologice pentru carcase, carne tocată și carne preparată, carne proaspătă de pasăre obținute în unități cu producție scăzută, precum și a condițiilor de adaptare a criteriilor care privesc numărul total de germeni care se aplică laptelui crud folosit pentru fabricarea produselor lactate de către unitățile cu un volum mic de producție
