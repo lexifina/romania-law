@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și, respectiv, din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății Fondul Român de Garantare a Creditelor pentru Întreprinzătorii Privați IFN - S.A., cu sediul în București, str. Mătăsari nr. 46, sectorul 2, înregistrată la oficiul registrului comerțului cu nr. J40/7657/1993, cod unic de înregistrare 3682077, înscrisă în Registrul general cu nr. RG-PJR-41-110204 din 21.03.2019 și, respectiv, în Registrul special cu nr. RS-PJR-41-110153 din 14.06.2023, la secțiunea k) "Activități multiple de creditare".
+334 416
