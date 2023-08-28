@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și, respectiv, din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății D & M INVESTMENT COMPANY IFN - S.A., cu sediul în Calea Dorobanților nr. 116-122, bl. 6, sc. A, ap. 7, sectorul 1, București, înregistrată la oficiul registrului comerțului cu nr. J40/12282/2008, cod unic de înregistrare 24198879, înscrisă în Registrul general cu nr. RG-PJR-41-110244 din 9.05.2017 și, respectiv, în Registrul special cu nr. RS-PJR-41-110152 din 13.06.2023, la secțiunea k) "Activități multiple de creditare".
+334 415
