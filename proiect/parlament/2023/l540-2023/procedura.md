@@ -10,7 +10,9 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-06-12: registered at the Senate
 - 2023-08-24: documents published: Punct de vedere Guvern
+- 2023-08-31: documents published: Aviz comisie
 
 ## Documents
 
 - 2023-08-24: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L540SJ.PDF
+- 2023-08-31: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L540CA12.PDF
