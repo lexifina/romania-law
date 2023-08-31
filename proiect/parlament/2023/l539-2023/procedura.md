@@ -13,9 +13,11 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-31: first record in the bill file
 - 2023-06-06: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 - 2023-06-30: registered at the Senate
+- 2023-08-31: documents published: Aviz comisie
 
 ## Documents
 
 - 2023-06-06: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L539ES.PDF
 - 2023-06-06: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L539LG.PDF
 - 2023-06-06: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L539SJ.PDF
+- 2023-08-31: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L539CA12.PDF
