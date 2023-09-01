@@ -1,0 +1,11 @@
+# HCL Ștefan cel Mare nr. 79/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Ștefan cel Mare
+- Decision: nr. 79/2023
+- Adopted: 2023-09-01
+- Title: privind rectificarea bugetului pe trimestrul III al anului 2023
+- Record: https://www.comunastefancelmare.ro/hotarari-ale-consiliului-local-2023.html
+- Document: https://www.comunastefancelmare.ro/wp-content/uploads/2023/01/Hotararea-nr.79-din-01.09.2023-privind-rectificarea-bugetului-pe-trimestrul-III-al-anului-2023-.pdf
+- Document sha256: 26eec40e690e11e0422833d575ea6293284f83b9b41c4d2df06df9d519862538
