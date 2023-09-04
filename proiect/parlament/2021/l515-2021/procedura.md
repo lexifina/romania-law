@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-31: documents published: Aviz comisie
 - 2022-02-14: rejected by the Senate; documents published: Raport comisie sesizată pe fond, Adresă către Camera Deputaților
 - 2022-02-21: registered at the Chamber of Deputies
+- 2023-09-04: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -30,3 +31,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-31: Aviz comisie (CA6): [ca6-427a5cb0.md](ca6-427a5cb0.md); official file https://www.senat.ro/legis/PDF/2021/21L515CA6.PDF
 - 2022-02-14: Raport comisie sesizată pe fond (CR): [cr-b1ee97fe.md](cr-b1ee97fe.md); official file https://www.senat.ro/legis/PDF/2021/21L515CR.PDF
 - 2022-02-14: Adresă către Camera Deputaților (AM): [am-1cc2dc1c.md](am-1cc2dc1c.md); official file https://www.senat.ro/legis/PDF/2021/21L515AM.PDF
+- 2023-09-04: Document (AA): [aa-615f4fd8.md](aa-615f4fd8.md); official file https://www.senat.ro/legis/PDF/2021/21L515AA.PDF (its day is not given by the bill file: shown from the last stage held)
