@@ -1,0 +1,64 @@
+{
+ "key": "cjue-c-461-21-hotarare-2023-09-07",
+ "label": "CJUE, Hotărârea Curții (Camera a treia) din 7 septembrie 2023, Cauza C-461/21",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2023-09-07",
+ "year": "2023",
+ "case": "Cauza C-461/21",
+ "celex": "62021CJ0461",
+ "ecli": "ECLI:EU:C:2023:632",
+ "heading": "Hotărârea Curții (Camera a treia) din 7 septembrie 2023",
+ "formation": "CHAMB_03_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Prahova",
+ "national_followup": [
+  "Tribunalul Prahova, Secţia A II-A Civilă, de Contencios Administrativ şi Fiscal, încheiere din 17/06/2021 (6079/105/2020)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Directiva 2006/112/CE – Sistemul comun al taxei pe valoarea adăugată (TVA) – Scutiri – Operațiuni de transport rutier legate direct de importul de bunuri – Regim probatoriu – Articolele 56 și 57 TFUE – Libera prestare a serviciilor – Recuperarea TVA-ului efectuată de un nerezident – Impozitarea contravalorii plătite cu titlu de impozit pe veniturile persoanelor nerezidente – Reținere la sursă de la rezident",
+ "interprets": [
+  {
+   "celex": "12008E056",
+   "folder": null
+  },
+  {
+   "celex": "12008E057",
+   "folder": null
+  },
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62021CJ0461",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-461/21&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/fa101564-4d59-11ee-9220-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "cae4f66e9ae1007ef265aee142c949971dc95b597a198d8a14f1057bd7b69c21"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a treia) declară:",
+  "1) Articolul 86 alineatul (1) litera (b) și alineatul (2), precum și articolul 144 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată trebuie interpretate în sensul că, pentru a beneficia de scutirea de taxa pe valoarea adăugată (TVA) prevăzută pentru serviciile de transport legate de importul de bunuri, atunci când transportul unei mărfi importate în Uniunea Europeană este efectuat de o persoană impozabilă între statul membru pe teritoriul căruia se situează locul de introducere a acestui bun în Uniune și un loc de destinație situat în alt stat membru, înregistrarea operațiunii de import nu implică, doar pentru acest motiv și în mod sistematic, includerea cheltuielilor aferente acestui transport în baza de impozitare în scopuri de TVA a mărfii importate.",
+  "2) Articolul 86 alineatul (1) litera (b) și alineatul (2), precum și articolul 144 din Directiva 2006/112 trebuie interpretate în sensul că se opun practicii fiscale a unui stat membru care constă în a refuza în mod automat scutirea de taxa pe valoarea adăugată (TVA) pentru serviciile de transport legate de importul de bunuri, pentru motivul că persoana impozabilă nu a prezentat documentele specifice prevăzute de reglementarea națională, cu toate că aceasta prezintă alte documente, cărora nimic nu permite să le fie puse la îndoială autenticitatea și fiabilitatea, susceptibile să demonstreze că sunt îndeplinite condițiile de care aceste dispoziții fac să depindă dreptul la scutirea de TVA.",
+  "3) Articolele 56 și 57 TFUE trebuie interpretate în sensul, pe de o parte, că constituie o prestare de servicii, în sensul acestor articole, o prestație care constă în recuperarea taxei pe valoarea adăugată (TVA) și a accizelor de la administrațiile financiare ale mai multor state membre și, pe de altă parte, că aplicarea unei rețineri la sursă veniturilor obținute pentru o prestare de servicii realizată de un prestator nerezident, în timp ce o prestare de servicii echivalentă realizată de un prestator de servicii rezident nu ar face obiectul acesteia, constituie o restricție privind libera prestare a serviciilor. Această restricție poate fi justificată prin necesitatea de a garanta recuperarea eficientă a impozitului, în măsura în care este de natură să atingă acest obiectiv și nu depășește ceea ce este necesar pentru atingerea acestuia.",
+  "4) Articolul 56 TFUE trebuie interpretat în sensul că se opune unei legislații naționale în temeiul căreia, ca regulă generală, prestatorii de servicii nerezidenți sunt impozitați la sursă pe veniturile obținute pentru remunerarea serviciilor prestate, fără să li se acorde posibilitatea deducerii cheltuielilor profesionale legate direct de aceste activități, în timp ce o astfel de posibilitate este recunoscută prestatorilor de servicii rezidenți, cu excepția cazului în care restricția privind libera prestare a serviciilor pe care o prevede această legislație răspunde unui obiectiv legitim compatibil cu Tratatul FUE și este justificată prin motive imperative de interes general."
+ ]
+}
