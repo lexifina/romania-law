@@ -1,0 +1,314 @@
+{
+ "key": "dcc-299-2023",
+ "label": "Decizia CCR nr. 299/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "299",
+ "date": "2023-05-25",
+ "year": "2023",
+ "heading": "DECIZIA nr. 299 din 25 mai 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 12 alin. (2) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 11 alin. (2) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 12 alin. (2) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene și ale art. 40 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "806",
+  "bis": false,
+  "date": "2023-09-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.249/30/2019",
+  "184D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cătălin-Nicolae Galoș în Dosarul nr. 1.249/30/2019 al Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și constată că dispozițiile art. 12 alin. (2) din Ordonanța de urgență a Guvernului nr. 57/2015 privind salarizarea personalului plătit din fonduri publice în anul 2016, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 11 alin. (2) din Ordonanța de urgență a Guvernului nr. 99/2016 privind unele măsuri pentru salarizarea personalului plătit din fonduri publice, prorogarea unor termene, precum și unele măsuri fiscal-bugetare, ale art. 12 alin. (2) din Ordonanța de urgență a Guvernului nr. 90/2017 privind unele măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene și ale art. 40 alin. (2) din Ordonanța de urgență a Guvernului nr. 114/2018 privind instituirea unor măsuri în domeniul investițiilor publice și a unor măsuri fiscal-bugetare, modificarea și completarea unor acte normative și prorogarea unor termene sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Timișoara - Secția litigii de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2015",
+    "number": "57",
+    "year": "2015",
+    "path": "oug/2015/57"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2016",
+    "number": "99",
+    "year": "2016",
+    "path": "oug/2016/99"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 90/2017",
+    "number": "90",
+    "year": "2017",
+    "path": "oug/2017/90"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [
+    {
+     "art": "40",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 341/2004",
+    "number": "341",
+    "year": "2004",
+    "path": "lege/2004/341"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-09-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274274",
+  "text_sha256": "9529a22756628232e80e72f32870b163c716835feadf5c70e44c5a29328f76bd",
+  "catalogue_sha256": "9529a22756628232e80e72f32870b163c716835feadf5c70e44c5a29328f76bd",
+  "fetched": "2026-11-03T01:19:20Z",
+  "chars": 19588,
+  "portal_id": "274274",
+  "tip": "DECIZIE"
+ }
+}
