@@ -1,0 +1,9 @@
+# CJUE, Hotărârea Curții (Camera a șasea) din 7 septembrie 2023, Cauza C-169/22
+
+Pentru aceste motive, Curtea (Camera a șasea) declară:
+1) Articolul 47 alineatul (1) din Regulamentul (CE) nr. 1974/2006 al Comisiei din 15 decembrie 2006 de stabilire a normelor de aplicare a Regulamentului (CE) nr. 1698/2005 al Consiliului privind sprijinul pentru dezvoltarea rurală acordat din Fondul european agricol pentru dezvoltare rurală (FEADR), astfel cum a fost modificat prin Regulamentul de punere în aplicare (UE) nr. 679/2011 al Comisiei din 14 iulie 2011,
+trebuie interpretat în sensul că
+pierderea dreptului de folosință asupra bunurilor închiriate din cauza rezilierii contractului de închiriere privind aceste bunuri, ca urmare a falimentului locatorului, care făcea obiectul unei proceduri de insolvență la momentul încheierii acestui contract, nu constituie un „caz de forță majoră sau de împrejurări excepționale”, în sensul acestei dispoziții.
+2) Articolul 44 alineatul (1) și alineatul (2) litera (a) din Regulamentul nr. 1974/2006, astfel cum a fost modificat prin Regulamentul de punere în aplicare nr. 679/2011, citit în lumina principiului proporționalității,
+trebuie interpretat în sensul că
+în cazul în care, în cursul perioadei de îndeplinire a unui angajament luat ca o condiție de acordare a unui sprijin, exploatația unui beneficiar este transferată unei alte persoane care preia voluntar acest angajament și care, ulterior, își încetează definitiv activitățile agricole, acest din urmă beneficiar al ajutorului este obligat să ramburseze ajutorul primit pentru întregul angajament menționat, inclusiv sumele primite de beneficiarii anteriori ai acestui ajutor, cu excepția cazului în care statul membru în cauză a decis să nu solicite rambursarea respectivă în temeiul excepției prevăzute la acest articol 44 alineatul (2) litera (a), iar condițiile acestei excepții sunt îndeplinite.
