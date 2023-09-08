@@ -1,0 +1,268 @@
+{
+ "key": "dcc-300-2023",
+ "label": "Decizia CCR nr. 300/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "300",
+ "date": "2023-05-25",
+ "year": "2023",
+ "heading": "DECIZIA nr. 300 din 25 mai 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. VII pct. 3 din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "809",
+  "bis": false,
+  "date": "2023-09-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "8.199/63/2019",
+  "185D/2020",
+  "2.335/108/2019",
+  "706/102/2019/a1",
+  "4.545/120/2019",
+  "4.546/120/2019",
+  "653/63/2020",
+  "2.672/83/2019",
+  "8.179/63/2019",
+  "5.644/63/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Virgil Moadă în Dosarul nr. 8.199/63/2019 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Decebal-Ovidiu Mocanu în Dosarul nr. 2.335/108/2019 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Ioan Hutină în Dosarul nr. 706/102/2019/a1 al Tribunalului Mureș - Secția civilă, de Vasile Dobrescu în Dosarul nr. 4.545/120/2019 al Tribunalului Dâmbovița - Secția I civilă, de Eugen-Nicolae Florea în Dosarul nr. 4.546/120/2019 al Tribunalului Dâmbovița - Secția I civilă, de Mărgărit Dimian în Dosarul nr. 653/63/2020 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Adrian Buzea în Dosarul nr. 2.672/83/2019 al Tribunalului Satu Mare - Secția I civilă, de Costinel C. Lungu în Dosarul nr. 8.179/63/2019 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Fănel Ștefan Neacă în Dosarul nr. 5.644/63/2019 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Eusebiu-Silvius Surducan în Dosarul nr. 379/108/2020 al Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, de Ioan Pînzariu în Dosarul nr. 1.278/40/2019 al Tribunalului Botoșani - Secția I civilă, de Alexandru Ciobanu în Dosarul nr. 9.240/63/2019 al Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Costel Velniciuc în Dosarul nr. 6.951/99/2019* al Tribunalului Iași - Secția I civilă, de Antonio Iacob Cioban în Dosarul nr. 2.138/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Marius Dragomir în Dosarul nr. 1.523/101/2019 al Curții de Apel Craiova - Secția I civilă, de Dănuț Pop în Dosarul nr. 970/83/2020 al Tribunalului Satu Mare și de Eduard Ștefan Dumitrescu în Dosarul nr. 11.370/3/2020 al Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și constată că dispozițiile art. VII pct. 3 din Ordonanța de urgență a Guvernului nr. 59/2017 privind modificarea și completarea unor acte normative din domeniul pensiilor de serviciu sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, Tribunalului Arad - Secția a III-a contencios administrativ și fiscal, litigii de muncă și asigurări sociale, Tribunalului Mureș - Secția civilă, Tribunalului Dâmbovița - Secția I civilă, Tribunalului Satu Mare - Secția I civilă, Tribunalului Botoșani - Secția I civilă, Tribunalului Iași - Secția I civilă, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale și Curții de Apel Craiova - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 59/2017",
+    "number": "59",
+    "year": "2017",
+    "path": "oug/2017/59"
+   },
+   "articles": [
+    {
+     "art": "VII",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2015",
+    "number": "223",
+    "year": "2015",
+    "path": "lege/2015/223"
+   },
+   "articles": [
+    {
+     "art": "60",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "76",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-09-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274299",
+  "text_sha256": "77784b47120c6bc73c765f7356f054765db8ccddf6b515f5ee1e99c35b6a7392",
+  "catalogue_sha256": "77784b47120c6bc73c765f7356f054765db8ccddf6b515f5ee1e99c35b6a7392",
+  "fetched": "2026-11-03T01:19:17Z",
+  "chars": 29706,
+  "portal_id": "274299",
+  "tip": "DECIZIE"
+ }
+}
