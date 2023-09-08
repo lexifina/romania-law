@@ -1,0 +1,23 @@
+# Anexa 7
+Anexa nr. 6
+la normele metodologice
+Centralizator al vânzărilor titlurilor de transport cu metroul pentru studenți
+Luna ..... Abonament lunar/„10 călătorii“ cu reducere 90% Total bucăți/stație
+Total încasat/stație
+10%
+Total valoare 100% Total valoare 90%
+Anul. ..... Ziua ..... Ziua ..... Ziua ..... Ziua ..... Ziua .....
+Stația .....
+Stația .....
+Stația .....
+Total bucăți/zi
+Valoare încasată 10%
+Valoare totală 100%
+Valoare totală 90%
+Certificăm pe propria răspundere legalitatea, necesitatea, oportunitatea și exactitatea datelor înscrise.
+Director,
+................
+Director economic,
+..............................
+Viză CFP
+..............
