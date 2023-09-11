@@ -1,0 +1,196 @@
+{
+ "key": "iccj-ril-13-2023",
+ "label": "Decizia ÎCCJ nr. 13/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "13",
+ "date": "2023-06-19",
+ "year": "2023",
+ "heading": "DECIZIA nr. 13 din 19 iunie 2023",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 41 alin. (3) din Codul penal privind recidiva internațională, în situația existenței unei condamnări definitive dispuse de o instanță străină",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "818",
+  "bis": false,
+  "date": "2023-09-11",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "647/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de procurorul general al Parchetului de pe lângă Înalta Curte de Casație și Justiție și stabilește că: Aplicarea dispozițiilor art. 41 alin. (3) din Codul penal privind recidiva internațională, în situația existenței unei condamnări definitive dispuse de o instanță străină, se poate realiza numai în urma parcurgerii procedurii de recunoaștere a hotărârii străine de condamnare, exclusiv pe cale incidentală, prevăzută de art. 147 din Legea nr. 302/2004, republicată, cu modificările și completările ulterioare, iar nu pe baza mențiunilor existente în sistemul european al cazierului judiciar (comunicare prin ECRIS).",
+  "Obligatorie, potrivit dispozițiilor art. 474 alin. (4) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "43",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "91",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "104",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "472",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "585",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-09-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274378",
+  "text_sha256": "01958e95d05bee64137124be95ce3d19494e1ea978daec547456e558238c6323",
+  "catalogue_sha256": "01958e95d05bee64137124be95ce3d19494e1ea978daec547456e558238c6323",
+  "fetched": "2026-11-03T01:19:15Z",
+  "chars": 69968,
+  "portal_id": "274378",
+  "tip": "DECIZIE"
+ }
+}
