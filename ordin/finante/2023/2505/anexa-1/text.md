@@ -1,0 +1,2 @@
+# ANEXĂ
+INSTRUCȚIUNI pentru stabilirea procedurii privind efectuarea operațiunilor necesare reîntregirii fondului pentru indisponibilități temporare după închiderea măsurilor ex-ISPA, în aplicarea prevederilor art. 5 alin. (3^1) lit. g) din Ordonanța de urgență a Guvernului nr. 63/1999 cu privire la gestionarea fondurilor nerambursabile alocate României de către Comunitatea Europeană, precum și a fondurilor de cofinanțare aferente acestora
