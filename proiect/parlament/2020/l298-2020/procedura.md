@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-28: documents published: Raport comisie sesizată pe fond
 - 2020-06-10: rejected by the Senate; documents published: Adresă către Camera Deputaților
 - 2020-06-12: registered at the Chamber of Deputies
+- 2023-09-13: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2020-05-20: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L298CA45.PDF
 - 2020-05-28: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L298CR.PDF
 - 2020-06-10: Adresă către Camera Deputaților (AM): [am-79389448.md](am-79389448.md); official file https://www.senat.ro/legis/PDF/2020/20L298AM.PDF
+- 2023-09-13: Document (AA): [aa-e4aa7189.md](aa-e4aa7189.md); official file https://www.senat.ro/legis/PDF/2020/20L298AA.PDF (its day is not given by the bill file: shown from the last stage held)
