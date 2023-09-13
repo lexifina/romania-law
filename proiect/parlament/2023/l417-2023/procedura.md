@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2023-06-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-08-30: documents published: Aviz comisie
+- 2023-09-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Guvernul României.
 - 2023-06-30: Document (OG): [og-268b612f.md](og-268b612f.md); official file https://www.senat.ro/legis/PDF/2023/23L417OG.PDF
 - 2023-06-30: Document (HG): [hg-b09c3065.md](hg-b09c3065.md); official file https://www.senat.ro/legis/PDF/2023/23L417HG.PDF
 - 2023-08-30: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L417CA3.PDF
+- 2023-09-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L417CR.PDF
