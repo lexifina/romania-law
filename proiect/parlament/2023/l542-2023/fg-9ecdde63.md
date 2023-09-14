@@ -1,0 +1,9 @@
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+SENATUL
+LEGE
+pentru aprobarea Ordonanței de urgență a Guvernului nr. 53/2023
+privind stabilirea unor măsuri la nivelul administrației publice centrale
+Parlamentul României adoptă prezenta lege.
+Articol unic. - Se aprobă Ordonanța de urgență a Guvernului nr. /2023
+privind stabilirea unor măsuri la nivelul administrației publice centrale.
