@@ -1,0 +1,18 @@
+PARLAMENTUL ROMÂNIEI
+CAMERA DEPUTAȚILOR
+SENAT
+LEGE
+pentru ratificarea celui de-al doilea Protocol semnat la Bruxelles, la 6 decembrie 2022,
+de modificare a Convenției între România și Marele Ducat de Luxemburg pentru
+evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe
+venit și avere, semnată la Luxemburg la 14 decembrie 1993, așa cum a fost modificată
+de Protocolul și Protocolul adițional semnate la Luxemburg la 4 octombrie 2011
+Parlamentul României adoptă prezenta lege.
+Articol unic, - Se ratifică cel de-al doilea Protocol semnat la Bruxelles, la 6 decembrie
+2022, de modificare a Convenției între România și Marele Ducat de Luxemburg pentru
+evitarea dublei impuneri și prevenirea evaziunii fiscale cu privire la impozitele pe venit și
+avere, semnată la Luxemburg la 14 decembrie 1993, ratificată prin Legea nr, 85/1994,
+publicată în Monitorul Oficial al României, Partea I, nr. 299 din 24 octombrie 1994, așa cum
+a fost modificată de Protocolul și Protocolul adițional semnate la Luxemburg la 4 octombrie
+2011, ratificate prin Legea nr. 181/2012, publicată în Monitorul Oficial al României, Partea
+I, nr. 715 din 22 octombrie 2012.
