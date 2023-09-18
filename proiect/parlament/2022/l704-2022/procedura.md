@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-06-26: documents published: Raport comisie sesizată pe fond
 - 2023-09-13: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2023-09-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -23,3 +24,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-11-10: Expunere de motive (EM): [em-1c7fa7d5.md](em-1c7fa7d5.md); official file https://www.senat.ro/legis/PDF/2022/22L704EM.PDF
 - 2023-06-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704CR.PDF
 - 2023-09-13: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704FS.PDF
+- 2023-09-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704AXS.PDF
+- 2023-09-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704LP.PDF
