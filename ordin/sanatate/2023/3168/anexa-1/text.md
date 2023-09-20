@@ -1,0 +1,3 @@
+# Anexe nr. 1-2
+ANEXE privind modificarea Ordinului ministrului sănătății și al președintelui
+Casei Naționale de Asigurări de Sănătate nr. 106/32/2015 pentru aprobarea Regulamentelor-cadru de organizare și funcționare a comisiilor naționale și a comisiilor de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare, a standardelor de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare, precum și a metodologiei-cadru de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare
