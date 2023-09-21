@@ -1,0 +1,9 @@
+# HCLS6 nr. 203/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here. Its title names a private person or a private property, so it is not shown.
+
+- Council: Consiliul Local al Sectorului 6 al Municipiului București
+- Decision: nr. 203/2023
+- Adopted: 2023-09-21
+- Document: https://www.primarie6.ro/primarie_sector6/sites/default/files/2023-09/1.%20Hotarare%20modificat.pdf
+- Document sha256: 07f8574416e1688e5a99f215bf04983b01947029f00703e5a4550c68c35dd967
