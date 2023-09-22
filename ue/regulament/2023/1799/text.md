@@ -1,0 +1,1422 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/1799 AL COMISIEI
+din 19 septembrie 2023
+de modificare a anexelor I și II la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului din 9 martie 2016 privind bolile transmisibile ale animalelor și de modificare și de abrogare a anumitor acte din domeniul sănătății animalelor („Legea privind sănătatea animală”) (1), în special articolul 71 alineatul (3) și articolul 259 alineatul (1),
+întrucât:
+(1) Pesta porcină africană este o boală infecțioasă virală care afectează populațiile de porcine deținute și sălbatice și care poate avea un impact mare asupra populațiilor de animale în cauză și asupra profitabilității creșterii porcinelor, cauzând perturbări ale circulației transporturilor acestor animale și ale produselor obținute de la ele, în interiorul Uniunii, precum și ale exporturilor lor către țări terțe.
+(2) Regulamentul delegat (UE) 2020/687 al Comisiei (2) completează normele privind combaterea bolilor listate menționate la articolul 9 alineatul (1) literele (a), (b) și (c) din Regulamentul (UE) 2016/429 și definite ca boli de categoria A, B și C în Regulamentul de punere în aplicare (UE) 2018/1882 al Comisiei (3). În particular, articolele 21 și 22 din Regulamentul delegat (UE) 2020/687 prevăd stabilirea unei zone de restricții în cazul apariției unui focar de boală de categoria A, inclusiv de pestă porcină africană, precum și aplicarea anumitor măsuri în zona respectivă. În plus, articolul 21 alineatul (1) din respectivul regulament delegat prevede că zona de restricții trebuie să cuprindă o zonă de protecție, o zonă de supraveghere și, dacă este necesar, alte zone de restricții în jurul sau adiacent zonelor de protecție și de supraveghere.
+(3) În plus, articolele 63-66 din Regulamentul delegat (UE) 2020/687 prevăd anumite măsuri care trebuie luate în cazul confirmării oficiale a unui focar de boală de categoria A la animale sălbatice, inclusiv de pestă porcină africană apărută la porcine sălbatice.
+(4) Regulamentul de punere în aplicare (UE) 2023/594 al Comisiei (4) stabilește măsuri speciale de control al pestei porcine africane care trebuie aplicate într-o perioadă limitată de timp de către statele membre menționate, sau ale căror zone sunt menționate, în anexele I și II (statele membre în cauză). Anexa I la regulamentul de punere în aplicare respectiv conține zonele de restricții I, II și III ca urmare a apariției unor focare de boală respectivă.
+(5) Zonele menționate ca zone de restricții I, II și III în anexa I la Regulamentul de punere în aplicare (UE) 2023/594 sunt stabilite pe baza situației epidemiologice a pestei porcine africane în Uniune. Anexele I și II la Regulamentul de punere în aplicare (UE) 2023/594 au fost modificate cel mai recent prin Regulamentul de punere în aplicare (UE) 2023/1677 al Comisiei (5) ca urmare a modificărilor situației epidemiologice a bolii respective în Letonia și Polonia. De la data adoptării respectivului regulament de punere în aplicare, situația epidemiologică a bolii respective în anumite state membre în cauză a evoluat.
+(6) Este necesar ca orice fel de modificări vizând zonele de restricții I, II și III din anexa I la Regulamentul de punere în aplicare (UE) 2023/594 să fie bazate pe situația epidemiologică a pestei porcine africane în zonele afectate de această boală și pe situația epidemiologică generală a pestei porcine africane în statul membru în cauză, pe nivelul de risc de răspândire suplimentară a bolii respective, precum și pe principiile și criteriile științifice pentru definirea geografică a zonelor ca urmare a prezenței pestei porcine africane și pe orientările Uniunii convenite cu statele membre în cadrul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale, care sunt disponibile public pe site-ul de internet al Comisiei (6). Este necesar ca aceste modificări să țină seama și de standardele internaționale, cum ar fi Codul sanitar pentru animale terestre (7) al Organizației Mondiale pentru Sănătatea Animalelor (OMSA), precum și de justificările pentru stabilirea zonelor, puse la dispoziție de autoritățile competente ale statelor membre în cauză.
+(7) În cazul apariției unui focar de pestă porcină africană la porcine deținute dintr-un stat membru, articolul 3 litera (a) din Regulamentul de punere în aplicare (UE) 2023/594 prevede stabilirea unei zone de restricții de către autoritatea competentă din statul membru respectiv, în conformitate cu articolul 21 alineatul (1) din Regulamentul delegat (UE) 2020/687.
+(8) În cazul apariției unui focar de pestă porcină africană la porcine sălbatice dintr-un stat membru, articolul 3 litera (b) din Regulamentul de punere în aplicare (UE) 2023/594 prevede stabilirea unei zone infectate de către autoritatea competentă din statul membru respectiv, în conformitate cu articolul 63 din Regulamentul delegat (UE) 2020/687.
+(9) În plus, în urma apariției unui focar de pestă porcină africană la porcine sălbatice într-un stat membru sau într-o zonă anterior indemne de boală, articolul 6 alineatul (2) din Regulamentul de punere în aplicare (UE) 2023/594 prevede includerea zonei respective ca zonă infectată în partea A din anexa II la regulamentul de punere în aplicare respectiv.
+(10) De asemenea, în cazul apariției unui prim și singur focar de pestă porcină africană la porcine deținute într-un stat membru sau într-o zonă anterior indemnă de boală, articolul 7 alineatul (2) din Regulamentul de punere în aplicare (UE) 2023/594 prevede includerea zonei respective ca zonă de restricții, care cuprinde zone de protecție și de supraveghere, în partea B din anexa II la regulamentul de punere în aplicare respectiv.
+(11) Italia a informat Comisia cu privire la situația actuală a pestei porcine africane pe teritoriul ei în urma confirmării, la 18 august 2023, a unui focar de boală respectivă la porcine deținute din regiunea Lombardia, apărut într-o zonă anterior indemnă de boală. În conformitate cu Regulamentul delegat (UE) 2020/687 și cu Regulamentul de punere în aplicare (UE) 2023/594, Italia a stabilit o zonă de restricții, care cuprinde zone de protecție și de supraveghere, în care se aplică măsurile generale de control al bolii prevăzute în Regulamentul delegat (UE) 2020/687, pentru a preveni răspândirea în continuare a bolii respective.
+(12) Decizia de punere în aplicare (UE) 2023/1684 a Comisiei (8) a fost adoptată ca urmare a informațiilor primite din partea Italiei privind respectivul focar de boală apărută la porcine deținute într-o zonă anterior indemnă de boală din regiunea Lombardia a statului membru respectiv. Decizia de punere în aplicare (UE) 2023/1684 se aplică până la 28 noiembrie 2023.
+(13) De asemenea, în mai 2023, Italia a informat Comisia cu privire la confirmarea unui focar de pestă porcină africană apărută la porcine sălbatice din regiunea Campania într-o zonă anterior indemnă de boală. În consecință, autoritatea competentă din statul membru respectiv a stabilit o zonă infectată în conformitate cu Regulamentul delegat (UE) 2020/687 și cu Regulamentul de punere în aplicare (UE) 2023/594, iar această zonă infectată a fost listată în partea A din anexa II la Regulamentul de punere în aplicare (UE) 2023/594.
+(14) În plus, Suedia a informat Comisia cu privire la confirmarea, la 6 septembrie 2023, a apariției în municipalitatea Fagersta a unui focar de pestă porcină africană la porcine sălbatice dintr-o zonă anterior indemnă de boală. În consecință, autoritatea competentă din statul membru respectiv a stabilit o zonă infectată în conformitate cu Regulamentul delegat (UE) 2020/687 și cu Regulamentul de punere în aplicare (UE) 2023/594.
+(15) Decizia de punere în aplicare (UE) 2023/1778 a Comisiei (9) a fost adoptată ca urmare a informațiilor primite din partea Suediei cu privire la acest focar apărut la populația de porcine sălbatice dintr-o zonă anterior indemnă de boală din municipalitatea Fagersta a statului membru respectiv. Decizia de punere în aplicare (UE) 2023/1778 se aplică până la 6 decembrie 2023.
+(16) De la data adoptării Regulamentului de punere în aplicare (UE) 2023/1677 care a modificat Regulamentul de punere în aplicare (UE) 2023/594, au apărut noi focare de pestă porcină africană la porcine deținute din Croația și la porcine sălbatice din Italia și Croația, iar situația epidemiologică din anumite zone menționate ca zone de restricții I și II din Germania, și ca zone de restricții III din Letonia și Polonia în anexa I la Regulamentul de punere în aplicare (UE) 2023/594 s-a îmbunătățit în ceea ce privește porcinele sălbatice și deținute, ca urmare a măsurilor de control al bolii aplicate de statele membre respective în conformitate cu legislația Uniunii.
+(17) Ca urmare a apariției focarelor recente de pestă porcină africană la porcine sălbatice din Italia și ținând seama de situația epidemiologică actuală a pestei porcine africane în Uniune, stabilirea zonelor în respectivul stat membru a fost reevaluată și actualizată în conformitate cu articolele 6 și 7 din Regulamentul de punere în aplicare (UE) 2023/594. În plus, au fost reevaluate și actualizate măsurile în vigoare de gestionare a riscurilor. Este necesar ca aceste modificări să fie reflectate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594.
+(18) În septembrie 2023 au fost observate câteva focare de pestă porcină africană la porcine deținute din districtul Vukovar Srijem din Croația, în zone menționate în prezent ca zone de supraveghere în anexa II la Regulamentul de punere în aplicare (UE) 2023/594. Respectivele focare noi de pestă porcină africană apărută la porcine deținute generează un nivel crescut de risc, care necesită să fie reflectat în anexa respectivă. În consecință, este necesar ca zonele respective din Croația menționate în prezent ca zone de supraveghere în anexa respectivă, afectate de respectivele focare recente de pestă porcină africană, să fie de acum menționate ca zone de protecție în anexa respectivă în loc de zone de supraveghere, iar limitele actuale ale zonelor de supraveghere să fie redefinite pentru a se ține seama de respectivele focare recente.
+(19) Având în vedere situația epidemiologică generală a pestei porcine africane în Italia și noile focare de pestă porcină africană apărută la porcine sălbatice din regiunea Campania, este necesar ca această zonă din Italia, afectată de respectivele focare de pestă porcină africană menționate în prezent în partea A din anexa II la Regulamentul de punere în aplicare (UE) 2023/594, să fie menționată de acum ca zonă de restricții I și II în anexa I la Regulamentul de punere în aplicare (UE) 2023/594 și să fie eliminată din partea A a anexei II la regulamentul de punere în aplicare respectiv.
+(20) În plus, pe baza informațiilor și a justificărilor furnizate de Germania și ținând seama de eficacitatea măsurilor de control al pestei porcine africane vizând porcinele sălbatice din anumite zone de restricții II menționate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, care se aplică în Germania în conformitate cu Regulamentul delegat (UE) 2020/687, în special a celor prevăzute la articolele 64, 65 și 67, și în conformitate cu măsurile de atenuare a riscurilor vizând pesta porcină africană prevăzute în Codul WOAH, este necesar ca anumite zone din landurile Mecklenburg-Pomerania de Vest și Brandenburg din Germania, menționate în prezent ca zone de restricții II în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, să fie de acum eliminate din anexa respectivă datorită absenței focarelor de pestă porcină africană la porcine deținute și sălbatice din respectivele zone de restricții II în ultimele douăsprezece luni.
+(21) De asemenea, pe baza informațiilor și a justificărilor furnizate de Germania, și ținând seama de eficacitatea măsurilor de control al pestei porcine africane vizând porcinele sălbatice din anumite zone de restricții I, și din zonele de restricții cu care se învecinează respectivele zone de restricții I, menționate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, care se aplică în Germania în conformitate cu Regulamentul delegat (UE) 2020/687, în special a celor prevăzute la articolele 64, 65 și 67, și în conformitate cu măsurile de atenuare a riscurilor vizând pesta porcină africană prevăzute în Codul WOAH, este necesar ca anumite zone din landurile Mecklenburg-Pomerania de Vest și Brandenburg din Germania, menționate în prezent ca zone de restricții I în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, să fie de acum eliminate din anexa respectivă datorită absenței focarelor de pestă porcină africană la porcine deținute și sălbatice din respectivele zone de restricții I, și din zonele cu care se învecinează respectivele zone de restricții I, în ultimele douăsprezece luni.
+(22) În plus, pe baza informațiilor și a justificărilor furnizate de Polonia, și ținând seama de eficacitatea măsurilor de control al pestei porcine africane vizând porcinele deținute din anumite zone de restricții III menționate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, care se aplică în Polonia în conformitate cu Regulamentul delegat (UE) 2020/687, în special a celor prevăzute la articolele 22, 25 și 40, și în conformitate cu măsurile de atenuare a riscurilor vizând pesta porcină africană prevăzute în Codul WOAH, este necesar ca anumite zone din regiunile Lubuskie, Dolnośląskie și Wielkopolskie din Polonia, menționate în prezent ca zone de restricții III în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, să fie menționate de acum ca zone de restricții II în anexa respectivă datorită absenței focarelor de pestă porcină africană la porcine deținute în respectivele zone de restricții III în ultimele douăsprezece luni, în timp ce boala este încă prezentă la porcine sălbatice. Este necesar ca respectivele zone de restricții III să fie incluse de acum ca zone de restricții II în anexa respectivă, ținând seama de situația epidemiologică actuală a pestei porcine africane.
+(23) În final, pe baza informațiilor și a justificărilor furnizate de Letonia, și ținând seama de eficacitatea măsurilor de control al pestei porcine africane vizând porcinele deținute din anumite zone de restricții III menționate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, care se aplică în Letonia în conformitate cu Regulamentul delegat (UE) 2020/687, în special a celor prevăzute la articolele 22, 25 și 40, și în conformitate cu măsurile de atenuare a riscurilor vizând pesta porcină africană prevăzute în Codul WOAH, este necesar ca anumite zone din districtul Kuldīgas din Letonia, menționate în prezent ca zone de restricții III în anexa I la Regulamentul de punere în aplicare (UE) 2023/594, să fie menționate de acum ca zone de restricții II în anexa respectivă datorită absenței focarelor de pestă porcină africană la porcine deținute în respectivele zone de restricții III în ultimele douăsprezece luni, în timp ce boala este încă prezentă la porcinele sălbatice. Este necesar ca respectivele zone de restricții III să fie incluse de acum ca zone de restricții II în anexa respectivă, ținând seama de situația epidemiologică actuală a pestei porcine africane.
+(24) În cazul unui prim și singur focar de pestă porcină africană apărută la porcine deținute dintr-un stat membru sau dintr-o zonă anterior indemnă de boală, articolul 7 alineatul (2) din Regulamentul de punere în aplicare (UE) 2023/594 prevede includerea zonei respective ca zonă de restricții, care cuprinde zone de protecție și de supraveghere, în partea B din anexa II la regulamentul de punere în aplicare respectiv. În consecință, este necesar ca zona de restricții stabilită de autoritatea competentă din Italia în regiunea Lombardia să fie inclusă în partea B din anexa II la Regulamentul de punere în aplicare (UE) 2023/594 și ca Decizia de punere în aplicare (UE) 2023/1684 să fie abrogată.
+(25) În mod similar, în urma apariției unui focar de pestă porcină africană la porcine sălbatice într-un stat membru sau într-o zonă anterior indemnă de boală, articolul 6 alineatul (2) din Regulamentul de punere în aplicare (UE) 2023/594 prevede includerea zonei respective ca zonă infectată în partea A din anexa II la regulamentul de punere în aplicare respectiv. Prin urmare, este necesar ca zona infectată stabilită de autoritatea competentă din Suedia în municipalitatea Fagersta și în părți din municipalitățile Surahammar, Norberg, Skinnskatteberg, Västerås, Sala, Smedjebacken și Avesta să fie inclusă în partea A din anexa II la Regulamentul de punere în aplicare (UE) 2023/594 și ca Decizia de punere în aplicare (UE) 2023/1778 să fie abrogată.
+(26) În final, având în vedere situația epidemiologică generală a pestei porcine africane din Croația și focarele de pestă porcină africană apărută la porcine sălbatice și deținute, este necesar ca zonele din Croația afectate de respectivele focare de pestă porcină africană să fie incluse pentru o perioadă mai lungă în părțile A și B din anexa II la Regulamentul de punere în aplicare (UE) 2023/594. În consecință, este necesar ca zonele infectate și zonele de restricții din anexa respectivă să fie menționate de acum înainte până în octombrie 2023.
+(27) Pentru a se ține seama de recentele evoluții ale situației epidemiologice a pestei porcine africane în Uniune și pentru a combate într-un mod proactiv riscurile asociate răspândirii bolii respective, este necesar să fie delimitate noi zone de restricții, având o suprafață suficientă, în Italia, Letonia și Polonia, care să fie menționate ca zone de restricții I și II, este necesar ca anumite părți din zonele de restricții I și II să fie eliminate pentru Germania din anexa I la Regulamentul de punere în aplicare (UE) 2023/594, ca noi zone de restricții să fie delimitate în Croația, care să fie menționate ca zone de protecție în anexa II la regulamentul respectiv și ca zonele existente infectate și de restricții din Croația enumerate în anexa II la regulamentul respectiv să fie extinse. Întrucât situația pestei porcine africane este foarte dinamică în Uniune, la delimitarea respectivelor noi zone de restricții s-a ținut seama de situația epidemiologică din zonele înconjurătoare.
+(28) Având în vedere caracterul urgent al situației epidemiologice din Uniune în ceea ce privește răspândirea pestei porcine africane, este important ca modificările anexelor I și II la Regulamentul de punere în aplicare (UE) 2023/594 efectuate prin prezentul regulament să intre în vigoare cât mai curând posibil.
+(29) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificări ale Regulamentului de punere în aplicare (UE) 2023/594
+Anexele I și II la Regulamentul de punere în aplicare (UE) 2023/594 se înlocuiesc cu textul din anexa la prezentul regulament.
+Articolul 2
+Abrogarea Deciziei de punere în aplicare (UE) 2023/1684
+Decizia de punere în aplicare (UE) 2023/1684 se abrogă.
+Articolul 3
+Abrogarea Deciziei de punere în aplicare (UE) 2023/1778
+Decizia de punere în aplicare (UE) 2023/1778 se abrogă.
+Articolul 4
+Intrare în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 19 septembrie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 84, 31.3.2016, p. 1.
+(2) Regulamentul delegat (UE) 2020/687 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele de prevenire și control al anumitor boli listate (JO L 174, 3.6.2020, p. 64).
+(3) Regulamentul de punere în aplicare (UE) 2018/1882 al Comisiei din 3 decembrie 2018 privind aplicarea anumitor norme de prevenire și control al bolilor în cazul categoriilor de boli listate și de stabilire a unei liste a speciilor și a grupurilor de specii care prezintă un risc considerabil de răspândire a bolilor listate respective (JO L 308, 4.12.2018, p. 21).
+(4) Regulamentul de punere în aplicare (UE) 2023/594 al Comisiei din 16 martie 2023 de stabilire a unor măsuri speciale de control al pestei porcine africane și de abrogare a Regulamentului de punere în aplicare (UE) 2021/605 (JO L 79, 17.3.2023, p. 65).
+(5) Regulamentul de punere în aplicare (UE) 2023/1677 al Comisiei din 30 august 2023 de modificare a anexei I la Regulamentul de punere în aplicare (UE) 2023/594 de stabilire a unor măsuri speciale de control al pestei porcine africane (JO L 216, 1.9.2023, p. 39).
+(6) Documentul de lucru SANTE/7112/2015/Rev. 3 „Principles and criteria for geographically defining ASF regionalisation” (Principii și criterii pentru definirea geografică a regionalizării din perspectiva PPA). https://ec.europa.eu/food/animals/animal-diseases/control-measures/asf_en
+(7) OIE Terrestrial Animal Health Code, 29th Edition (Codul sanitar pentru animale terestre al OIE), ediția a 29-a, 2021. Volumele I și II ISBN 978-92-95115-40-8; https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/
+(8) Decizia de punere în aplicare (UE) 2023/1684 a Comisiei din 31 august 2023 privind anumite măsuri de urgență provizorii vizând pesta porcină africană din Italia (JO L 123, 4.9.2023, p. 123).
+(9) Decizia de punere în aplicare (UE) 2023/1778 a Comisiei din 12 septembrie 2023 privind anumite măsuri de urgență provizorii vizând pesta porcină africană din Suedia (JO L 228, 15.9.2023, p. 251).
+ANEXĂ
+Anexele I și II la Regulamentul de punere în aplicare (UE) 2023/594 se înlocuiesc cu următorul text:
+„ANEXA I
+ZONE DE RESTRICȚII I, II ȘI III
+PARTEA I
+1. Germania
+Următoarele zone de restricții I din Germania:
+Bundesland Brandenburg:
+Landkreis Dahme-Spreewald:
+Gemeinde Jamlitz,
+Gemeinde Lieberose,
+Gemeinde Schwielochsee mit den Gemarkungen Goyatz, Jessern, Lamsfeld, Ressen, Speichrow und Zaue,
+Landkreis Märkisch-Oderland:
+Gemeinde Müncheberg mit den Gemarkungen Müncheberg, Eggersdorf bei Müncheberg und Hoppegarten bei Müncheberg,
+Gemeinde Bliesdorf mit den Gemarkungen Kunersdorf - westlich der B167 und Bliesdorf - westlich der B167
+Gemeinde Märkische Höhe mit den Gemarkungen Reichenberg und Batzlow,
+Gemeinde Wriezen mit den Gemarkungen Haselberg, Frankenfelde, Schulzendorf, Lüdersdorf Biesdorf, Rathsdorf - westlich der B 167 und Wriezen - westlich der B167
+Gemeinde Buckow (Märkische Schweiz),
+Gemeinde Strausberg mit den Gemarkungen Hohenstein und Ruhlsdorf,
+Gemeine Garzau-Garzin,
+Gemeinde Waldsieversdorf,
+Gemeinde Rehfelde mit der Gemarkung Werder,
+Gemeinde Reichenow-Mögelin,
+Gemeinde Prötzel mit den Gemarkungen Harnekop, Sternebeck und Prötzel östlich der B 168 und der L35,
+Gemeinde Oberbarnim,
+Gemeinde Bad Freienwalde mit der Gemarkung Sonnenburg,
+Gemeinde Falkenberg mit den Gemarkungen Dannenberg, Falkenberg westlich der L 35, Gersdorf und Kruge,
+Gemeinde Höhenland mit den Gemarkungen Steinbeck, Wollenberg und Wölsickendorf,
+Landkreis Barnim:
+Gemeinde Joachimsthal östlich der L220 (Eberswalder Straße), östlich der L23 (Töpferstraße und Templiner Straße), östlich der L239 (Glambecker Straße) und Schorfheide (JO) östlich der L238,
+Gemeinde Friedrichswalde mit der Gemarkung Glambeck östlich der L 239,
+Gemeinde Althüttendorf,
+Gemeinde Ziethen mit den Gemarkungen Groß Ziethen und Klein Ziethen westlich der B198,
+Gemeinde Chorin mit den Gemarkungen Golzow, Senftenhütte, Buchholz, Schorfheide (Ch), Chorin westlich der L200 und Sandkrug nördlich der L200,
+Gemeinde Britz,
+Gemeinde Schorfheide mit den Gemarkungen Altenhof, Werbellin, Lichterfelde und Finowfurt,
+Gemeinde (Stadt) Eberswalde mit der Gemarkungen Finow und Spechthausen und der Gemarkung Eberswalde südlich der B167 und westlich der L200,
+Gemeinde Breydin,
+Gemeinde Melchow,
+Gemeinde Sydower Fließ mit der Gemarkung Grüntal nördlich der K6006 (Landstraße nach Tuchen), östlich der Schönholzer Straße und östlich Am Postweg,
+Hohenfinow südlich der B167,
+Landkreis Uckermark:
+Gemeinde Passow mit den Gemarkungen Briest, Passow und Schönow,
+Gemeinde Mark Landin mit den Gemarkungen Landin nördlich der B2, Grünow und Schönermark,
+Gemeinde Angermünde mit den Gemarkungen Frauenhagen, Mürow, Angermünde nördlich und nordwestlich der B2, Dobberzin nördlich der B2, Kerkow, Welsow, Bruchhagen, Greiffenberg, Günterberg, Biesenbrow, Görlsdorf, Wolletz und Altkünkendorf,
+Gemeinde Zichow,
+Gemeinde Casekow mit den Gemarkungen Blumberg, Wartin, Luckow-Petershagen und den Gemarkungen Biesendahlshof und Casekow westlich der L272 und nördlich der L27,
+Gemeinde Hohenselchow-Groß Pinnow mit der Gemarkung Hohenselchow nördlich der L27,
+Gemeinde Tantow,
+Gemeinde Mescherin mit der Gemarkung Radekow, der Gemarkung Rosow südlich der K 7311 und der Gemarkung Neurochlitz westlich der B2,
+Gemeinde Gartz (Oder) mit der Gemarkung Geesow westlich der B2 sowie den Gemarkungen Gartz und Hohenreinkendorf nördlich der L27 und der B2 bis zur Kastanienallee, dort links abbiegend dem Schülerweg folgend bis Höhe Bahnhof, von hier in östlicher Richtung den Salveybach kreuzend bis zum Tantower Weg, diesen in nördlicher Richtung bis zu Stettiner Straße, diese weiter folgend bis zur B2, dieser in nördlicher Richtung folgend,
+Gemeinde Pinnow nördlich und westlich der B2,
+Landkreis Oder-Spree:
+Gemeinde Spreenhagen mit den Gemarkungen Braunsdorf und Markgrafpieske,
+Gemeinde Grünheide (Mark) mit den Gemarkungen Kagel, Kienbaum und Hangelsberg,
+Gemeinde Fürstenwalde westlich der B 168 und nördlich der L 36,
+Gemeinde Rauen,
+Gemeinde Wendisch Rietz nördlich der B246 und östlich des Scharmützelsees,
+Gemeinde Bad Saarow mit den Gemarkungen Petersdorf (SP) und Neu Golm und der Gemarkung Bad Saarow-Pieskow östlich der östlichen Uferzone des Scharmützelsees und ab nördlicher Spitze östlich der L35,
+Gemeinde Tauche mit den Gemarkungen Briescht, Falkenberg (T), Giesensdorf, Wulfersdorf, Görsdorf (B), Kossenblatt, Lindenberg, Mittweide, Ranzig, Stremmen, Tauche, Trebatsch, Sabrodt und Sawall,
+Gemeinde Langewahl südlich der A12,
+Gemeinde Berkenbrück südlich der A12,
+Gemeinde Ragow-Merz,
+Gemeinde Diensdorf-Radlow,
+Gemeinde Beeskow,
+Gemeinde Schlaubetal,
+Gemeinde Neuzelle,
+Gemeinde Lawitz,
+Gemeinde Friedland,
+Gemeinde Rietz-Neuendorf westlich der L411 bis Raßmannsdorf und westlich der K 6734,
+Gemeinde Grunow-Dammendorf,
+Gemeinde Neißemünde,
+Gemeinde Vogelsang,
+Gemeinde Eisenhüttenstadt mit der Gemarkung Diehlo und der Gemarkung Eisenhüttenstadt außer nördlich der L 371 und außer östlich der B 112,
+Gemeinde Mixdorf,
+Gemeinde Siehdichum mit den Gemarkungen Pohlitz und Schernsdorf und mit der Gemarkung Rießen südlich des Oder-Spree-Kanal,
+Gemeinde Müllrose südlich des Oder-Spree-Kanal,
+Gemeinde Briesen mit der Gemarkung Kersdorf südlich A12 und der Gemarkung Neubrück Forst westlich der K 7634 und südlich der A12,
+Gemeinde Steinhöfel mit den Gemarkungen Jänickendorf, Schönfelde, Beerfelde, Gölsdorf, Buchholz, Tempelberg und den Gemarkungen Steinhöfel, Hasenfelde und Heinersdorf westlich der L36 und der Gemarkung Neuendorf im Sande nördlich der L36,
+Landkreis Spree-Neiße:
+Gemeinde Turnow-Preilack mit der Gemarkung Turnow,
+Gemeinde Drachhausen,
+Gemeinde Schmogrow-Fehrow,
+Gemeinde Drehnow,
+Gemeinde Guhrow,
+Gemeinde Werben,
+Gemeinde Dissen-Striesow,
+Gemeinde Briesen,
+Gemeinde Kolkwitz mit den Gemarkungen Babow, Eichow und Milkersdorf,
+Gemeinde Burg (Spreewald),
+Landkreis Oberspreewald-Lausitz:
+Gemeinde Lauchhammer,
+Gemeinde Schwarzheide westlich der BAB 13,
+Gemeinde Schipkau mit den Gemarkungen Annahütte, Drochow und den Gemarkungen Klettwitz und Schipkau westlich der BAB 13,
+Gemeinde Großräschen mit den Gemarkungen Wormlage, Saalhausen, Barzig, Freienhufen, Großräschen,
+Gemeinde Vetschau/Spreewald mit den Gemarkungen: Naundorf, Fleißdorf, Suschow, Stradow, Göritz, Koßwig, Vetschau, Repten, Tornitz, Missen und Orgosen,
+Gemeinde Calau mit den Gemarkungen: Kalkwitz, Mlode, Saßleben, Reuden, Bolschwitz, Säritz, Calau, Kemmen, Werchow und Gollmitz,
+Gemeinde Luckaitztal,
+Gemeinde Bronkow,
+Gemeinde Altdöbern mit der Gemarkung Altdöbern westlich der Bahnlinie,
+Gemeinde Tettau,
+Landkreis Elbe-Elster:
+Gemeinde Sallgast mit den Gemarkungen Dollenchen, Zürchel und Sallgast,
+Gemeinde Lichterfeld-Schacksdorf mit der Gemarkung Bergheide,
+Gemeinde Finsterwalde mit der Gemarkung Finsterwalde östlich der L60,
+Gemeinde Großthiemig,
+Gemeinde Hirschfeld,
+Gemeinde Gröden,
+Gemeinde Schraden,
+Gemeinde Merzdorf,
+Gemeinde Röderland mit der Gemarkung Wainsdorf, Prösen, Stolzenhain a.d. Röder,
+Gemeinde Plessa mit der Gemarkung Plessa,
+Bundesland Sachsen:
+Stadt Dresden:
+Stadtgebiet, sofern nicht bereits Teil der Sperrzone II,
+Landkreis Meißen:
+Gemeinde Diera-Zehren, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Glaubitz, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Hirschstein,
+Gemeinde Käbschütztal,
+Gemeinde Klipphausen, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Niederau, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Nünchritz, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Röderaue, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Stadt Gröditz, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Stadt Lommatzsch,
+Gemeinde Stadt Meißen, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Stadt Nossen,
+Gemeinde Stadt Riesa,
+Gemeinde Stadt Strehla,
+Gemeinde Stauchitz,
+Gemeinde Wülknitz, sofern nicht bereits Teil der Sperrzone II,
+Gemeinde Zeithain,
+Landkreis Mittelsachsen:
+Gemeinde Großweitzschen mit den Ortsteilen Döschütz, Gadewitz, Niederranschütz, Redemitz,
+Gemeinde Ostrau mit den Ortsteilen Auerschütz, Beutig, Binnewitz, Clanzschwitz, Delmschütz, Döhlen, Jahna, Kattnitz, Kiebitz, Merschütz, Münchhof, Niederlützschera, Noschkowitz, Oberlützschera, Obersteina, Ostrau, Pulsitz, Rittmitz, Schlagwitz, Schmorren, Schrebitz, Sömnitz, Trebanitz, Zschochau,
+Gemeinde Reinsberg,
+Gemeinde Stadt Döbeln mit den Ortsteilen Beicha, Bormitz, Choren, Döbeln, Dreißig, Geleitshäuser, Gertitzsch, Gödelitz, Großsteinbach, Juchhöh, Kleinmockritz, Leschen, Lüttewitz, Maltitz, Markritz, Meila, Mochau, Nelkanitz, Oberranschütz, Petersberg, Präbschütz, Prüfern, Schallhausen, Schweimnitz, Simselwitz, Theeschütz, Zschackwitz, Zschäschütz,
+Gemeinde Stadt Großschirma mit den Ortsteilen Obergruna, Siebenlehn,
+Gemeinde Stadt Roßwein mit den Ortsteilen Gleisberg, Haßlau, Klinge, Naußlitz, Neuseifersdorf, Niederforst, Ossig, Roßwein, Seifersdorf, Wettersdorf, Wetterwitz,
+Gemeinde Striegistal mit den Ortsteilen Gersdorf, Kummersheim, Marbach,
+Gemeinde Zschaitz-Ottewig,
+Landkreis Nordsachsen:
+Gemeinde Arzberg mit den Ortsteilen Stehla, Tauschwitz,
+Gemeinde Cavertitz mit den Ortsteilen Außig, Cavertitz, Klingenhain, Schirmenitz, Treptitz,
+Gemeinde Liebschützberg mit den Ortsteilen Borna, Bornitz, Clanzschwitz, Ganzig, Kleinragewitz, Laas, Leckwitz, Liebschütz, Sahlassan, Schönnewitz, Terpitz östlich der Querung am Käferberg, Wadewitz, Zaußwitz,
+Gemeinde Naundorf mit den Ortsteilen Casabra, Gastewitz, Haage, Hof, Hohenwussen, Kreina, Nasenberg, Raitzen, Reppen, Salbitz, Stennschütz, Zeicha,
+Gemeinde Stadt Belgern-Schildau mit den Ortsteilen Ammelgoßwitz, Dröschkau, Liebersee östlich der B182, Oelzschau, Seydewitz, Staritz, Wohlau,
+Gemeinde Stadt Mügeln mit den Ortsteilen Mahris, Schweta südlich der K8908, Zschannewitz,
+Gemeinde Stadt Oschatz mit den Ortsteilen Lonnewitz östlich des Sandbaches und nördlich der B6, Oschatz östlich des Schmorkauer Wegs und nördlich der S28, Rechau, Schmorkau, Zöschau,
+Landkreis Sächsische Schweiz-Osterzgebirge:
+Gemeinde Bannewitz,
+Gemeinde Dürrröhrsdorf-Dittersbach,
+Gemeinde Kreischa,
+Gemeinde Lohmen,
+Gemeinde Müglitztal,
+Gemeinde Stadt Dohna,
+Gemeinde Stadt Freital,
+Gemeinde Stadt Heidenau,
+Gemeinde Stadt Hohnstein,
+Gemeinde Stadt Neustadt i. Sa.,
+Gemeinde Stadt Pirna,
+Gemeinde Stadt Rabenau mit den Ortsteilen Lübau, Obernaundorf, Oelsa, Rabenau und Spechtritz,
+Gemeinde Stadt Stolpen,
+Gemeinde Stadt Tharandt mit den Ortsteilen Fördergersdorf, Großopitz, Kurort Hartha, Pohrsdorf und Spechtshausen,
+Gemeinde Stadt Wilsdruff, sofern nicht bereits Teil der Sperrzone II,
+Bundesland Mecklenburg-Vorpommern:
+Landkreis Vorpommern Greifswald
+Gemeinde Penkun,
+Gemeinde Nadrensee,
+Gemeinde Krackow,
+Gemeinde Glasow,
+Gemeinde Grambow.
+2. Estonia
+Următoarele zone de restricții I din Estonia:
+— Hiiu maakond.
+3. Letonia
+Următoarele zone de restricții I din Letonia:
+— Dienvidkurzemes novada, Nīcas pagasta daļa uz ziemeļiem no apdzīvotas vietas Bernāti, autoceļa V1232, A11, V1222, Bārtas upes, Otaņķu pagasts,
+— Ropažu novada Stopiņu pagasta daļa, kas atrodas uz rietumiem no autoceļa V36, P4 un P5, Acones ielas, Dauguļupes ielas un Dauguļupītes.
+4. Lituania
+Următoarele zone de restricții I din Lituania:
+— Klaipėdos rajono savivaldybė: Agluonėnų, Dovilų, Gargždų, Priekulės, Vėžaičių, Kretingalės ir Dauparų-Kvietinių seniūnijos,
+— Palangos miesto savivaldybė.
+5. Ungaria
+Următoarele zone de restricții I din Ungaria:
+— Békés megye 950150, 950250, 950350, 950450, 950550, 950650, 950660, 950750, 950850, 950860, 950950, 950960, 950970, 951050, 951150, 951250, 951260, 951350, 951950, 952050, 952150, 952250, 952550, 952750, 952850, 952950, 953050, 953150, 953250, 953260, 953270, 953350, 953450, 953550, 953560, 953650, 953660, 953750, 953850, 953950, 953960, 954050, 954060, 954150, 954250, 954260, 954350, 954450, 954550, 954650, 954750, 954850, 954860, 954950, 955050, 955150, 955250, 955260, 955270, 955350, 955450, 955510, 955650, 955750, 955760, 955850, 955950, 956050, 956060, 956150, 956160, 956250, 956450, 956550, 956650 és 956750 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Bács-Kiskun megye 600150, 600850 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Budapest 1 kódszámú, vadgazdálkodási tevékenységre nem alkalmas területe,
+— Fejér megye 400150, 400250, 400351, 400352, 400450, 400550, 401150, 401250, 401350, 402050, 402350, 402360, 402850, 402950, 403050, 403450, 403550, 403650, 403750, 403950, 403960, 403970, 404650, 404750, 404850, 404950, 404960, 405050, 405750, 405850, 405950,
+— 406050, 406150, 406550, 406650 és 406750 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Győr-Moson-Sopron megye 100550, 100650, 100950, 101050, 101350, 101450, 101550, 101560 és 102150 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Jász-Nagykun-Szolnok megye 750150, 750160, 750260, 750350, 750450, 750460, 751250, 751260, 751350, 751360, 751750, 751850, 751950, 753650, 753750, 753850, 753950, 753960, 754050, 754360, 754450, 754550, 754560, 754570, 754650, 754750, 754850 és 755450 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Komárom-Esztergom megye 250150, 250250, 250450, 250460, 250550, 250650, 250750, 251050, 251150, 251250, 251350, 251360, 251650, 251750, 251850, 252250, kódszámú vadgazdálkodási egységeinek teljes területe,
+— Pest megye 571550, 572150, 572250, 572350, 572550, 572650, 572750, 572850, 572950, 573150, 573250, 573260, 573350, 573360, 573450, 573850, 573950, 573960, 574050, 574150, 574350, 574360, 574550, 574650, 574750, 574850, 574860, 574950, 575050, 575150, 575250, 575350, 575550, 575650, 575750, 575850, 575950, 576050, 576150, 576250, 576350, 576450, 576650, 576750, 576850, 576950, 577050, 577150, 577250, 577350, 577450, 577650, 577850, 577950, 578050, 578150, 578250, 578350, 578360, 578450, 578550, 578560, 578650, 578850, 578950, 579050, 579150, 579250, 579350, 579450, 579460, 579550, 579650, 579750, 580250 és 580450 kódszámú vadgazdálkodási egységeinek teljes területe.
+6. Polonia
+Următoarele zone de restricții I din Polonia:
+w województwie kujawsko - pomorskim:
+powiat rypiński,
+powiat brodnicki,
+powiat grudziądzki,
+powiat miejski Grudziądz,
+powiat wąbrzeski,
+w województwie warmińsko-mazurskim:
+gmina Rozogi w powiecie szczycieńskim,
+w województwie podlaskim:
+gminy Wysokie Mazowieckie z miastem Wysokie Mazowieckie, Czyżew i część gminy Kulesze Kościelne położona na południe od linii wyznaczonej przez linię kolejową w powiecie wysokomazowieckim,
+powiat łomżyński,
+gminy Turośl, Mały Płock w powiecie kolneńskim,
+powiat zambrowski,
+powiat miejski Łomża,
+w województwie mazowieckim:
+powiat ostrołęcki,
+powiat miejski Ostrołęka,
+gminy Bodzanów, Bulkowo, Gąbin, Mała Wieś, Słubice, Słupno, Wyszogród w powiecie płockim,
+powiat ciechanowski,
+powiat płoński,
+powiat pułtuski,
+gminy Rościszewo i Szczutowo w powiecie sierpeckim,
+gminy Nowa Sucha, Teresin, Sochaczew z miastem Sochaczew w powiecie sochaczewskim,
+część powiatu żyrardowskiego niewymieniona w części II załącznika I,
+część powiatu grodziskiego niewymieniona w części II załącznika I,
+gminy Baranów i Jaktorów w powiecie grodziskim,
+gmina Bieżuń, Lutocin, Siemiątkowo i Żuromin w powiecie żuromińskim,
+część powiatu ostrowskiego niewymieniona w części II załącznika I,
+gminy Dzieżgowo, Lipowiec Kościelny, Mława, Radzanów, Strzegowo, Stupsk, Szreńsk, Szydłowo, Wiśniewo w powiecie mławskim,
+gminy Czernice Borowe, Krasne, Krzynowłoga Mała, miasto Przasnysz, część gminy wiejskiej Przasnysz niewymieniona w części II i części III załącznika I w powiecie przasnyskim,
+część powiatu makowskiego niewymieniona w części II i III załącznika I,
+część powiatu wyszkowskiego niewymieniona w części II załącznika I,
+część powiatu węgrowskiego niewymieniona w części II załącznika I,
+część powiatu wołomińskiego niewymieniona w części II załącznika I,
+gminy Mokobody i Suchożebry w powiecie siedleckim,
+gminy Cegłów, Dębe Wielkie, Dobre, Halinów, Jakubów, Mińsk Mazowiecki z miastem Mińśk Mazowiecki, Kałuszyn, Mrozy, Stanisławów w powiecie mińskim,
+gminy Bielany i gmina wiejska Sokołów Podlaski w powiecie sokołowskim,
+gminy Pacyna, Sanniki w powiecie gostynińskim,
+gmina Gózd, część gminy Skaryszew położona na wschód od linii wyznaczonej przez drogę nr. 9 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr. 733, a następnie na północ od linii wyznaczonej przez drogę nr. 733 biegnącą od tego skrzyżowania do wschodniej granicy gminy, w powiecie radomskim,
+gminy Ciepielów, Lipsko, Rzeczniów, Sienno w powiecie lipskim,
+gminy Kazanów, Policzna, Tczów, Zwoleń w powiecie zwoleńskim,
+w województwie podkarpackim:
+gminy Brzyska, Kołaczyce, Tarnowiec, część gminy Nowy Żmigród położona na północ od linii wyznaczonej przez drogę nr. 993, część gminy wiejskiej Jasło położona na południowy wschód od miasta Jasło w powiecie jasielskim,
+gmina Grodzisko Dolne w powiecie leżajskim,
+część powiatu ropczycko – sędziszowskiego niewymieniona w części II załącznika I,
+gminy Chłopice, Pawłosiów, Jarosław z miastem Jarosław w powiecie jarosławskim,
+gminy Fredropol, Krasiczyn, Krzywcza, Przemyśl, część gminy Orły położona na zachód od linii wyznaczonej przez drogę nr. 77, część gminy Żurawica na zachód od linii wyznaczonej przez drogę nr. 77 w powiecie przemyskim,
+powiat miejski Przemyśl,
+gminy Adamówka, Sieniawa, Tryńcza, Przeworsk z miastem Przeworsk, część gminy Zarzecze położona na północ od linii wyznaczonej przez rzekę Mleczka w powiecie przeworskim,
+gminy Rakszawa, Żołynia w powiecie łańcuckim,
+gminy Trzebownisko, Głogów Małopolski, część gminy Świlcza położona na północ od linii wyznaczonej przez drogę nr. 94 i część gminy Sokołów Małopolski położona na południe od linii wyznaczonej przez drogę nr. 875 w powiecie rzeszowskim,
+gmina Raniżów w powiecie kolbuszowskim,
+część powiatu dębickiego niewymieniona w części II załącznika I,
+gminy Chorkówka, Jedlicze, Miejsce Piastowe, Krościenko Wyżne gminy w powiecie krośnieńskim,
+powiat miejski Krosno,
+gminy Bukowsko, Zagórz, część gminy Zarszyn położona na północ od linii wynaczonej przez linię kolejową biegnącą od zachodniej do wschodniej granicy gminy, część gminy wiejskiej Sanok położona na zachód od linii wyznaczonej przez droge nr. 886 biegnącą od północnej granicy gminy do granicy gminy miejskiej Sanok oraz na południe od granicy miasta Sanok, część gminy Komańcza położona na wschód od linii wyznaczonej przez linię kolejową biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 889 oraz na północ od drogi nr. 889 biegnącej od tego skrzyżowania do północnej granicy gminy w powiecie sanockim,
+gmina Cisna w powiecie leskim,
+gminy Lutowiska, Czarna, Ustrzyki Dolne w powiecie bieszczadzkim,
+gmina Haczów, część gminy Brzozów położona na zachód od linii wyznaczonej przez droge nr. 886 biegnacą od północnej do południowej granicy gminy w powiecie brzozowskim,
+w województwie świętokrzyskim:
+powiat buski,
+powiat skarżyski,
+część powiatu opatowskiego niewymieniona w części II załącznika I,
+część powiatu sandomierskiego niewymieniona w części II załącznika I,
+powiat staszowski,
+gminy Brody, część gminy Wąchock położona na północ od linii wyznaczonej przez drogę nr. 42, część gminy Mirzec położona na południe od linii wyznaczonej przez drogę biegnącą od zachodniej granicy gminy do miejscowości Mirzec, łączącą miejscowości Gadka – Mirzec, a następnie na południe od linii wyznaczonej przez drogę nr. 744 biegnącą od miejscowości Mirzec do wschodniej granicy gminy w powiecie starachowickim,
+powiat ostrowiecki,
+gminy Gowarczów, Końskie, Stąporków w powiecie koneckim,
+w województwie łódzkim:
+gminy Łyszkowice, Kocierzew Południowy, Kiernozia, Chąśno, Nieborów, część gminy wiejskiej Łowicz położona na północ od linii wyznaczonej przez drogę nr. 92 biegnącej od granicy miasta Łowicz do zachodniej granicy gminy oraz część gminy wiejskiej Łowicz położona na wschód od granicy miasta Łowicz i na północ od granicy gminy Nieborów w powiecie łowickim,
+gminy Cielądz, Rawa Mazowiecka z miastem Rawa Mazowiecka w powiecie rawskim,
+gminy Bolimów, Głuchów, Godzianów, Lipce Reymontowskie, Maków, Nowy Kawęczyn, Skierniewice, Słupia w powiecie skierniewickim,
+powiat miejski Skierniewice,
+powiat opoczyński,
+gminy Czerniewice, Inowłódz, Lubochnia, Rzeczyca, Tomaszów Mazowiecki z miastem Tomaszów Mazowiecki, Żelechlinek w powiecie tomaszowskim,
+w województwie pomorskim:
+gminy Ostaszewo, miasto Krynica Morska oraz część gminy Nowy Dwór Gdański położona na południowy - zachód od linii wyznaczonej przez drogę nr. 55 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr. 7, następnie przez drogę nr. 7 i S7 biegnącą do zachodniej granicy gminy w powiecie nowodworskim,
+gminy Lichnowy, Miłoradz, Malbork z miastem Malbork, część gminy Nowy Staw położna na zachód od linii wyznaczonej przez drogę nr. 55 w powiecie malborskim,
+gmina Sztum w powiecie sztumskim,
+gminy Cedry Wielkie, Suchy Dąb, Pszczółki, miasto Pruszcz Gdański, część gminy wiejskiej Pruszcz Gdański położona na wschód od lini wyznaczonej przez drogę A1 w powiecie gdańskim,
+Miasto Gdańsk,
+powiat tczewski,
+część powiatu kwidzyńskiego niewymieniona w części II załącznika I,
+w województwie lubuskim:
+gmina Lubiszyn w powiecie gorzowskim,
+powiat strzelecko – drezdenecki,
+w województwie dolnośląskim:
+gminy Międzybórz, Syców, Twardogóra, część gminy wiejskiej Oleśnica położona na północ od linii wyznaczonej przez drogę nr. S8, część gminy Dobroszyce położona na wschód od linii wyznaczonej przez linię kolejową biegnącą od północnej do południowej granicy gminy w powiecie oleśnickim,
+gminy Jordanów Śląski, Kobierzyce, Sobótka, część gminy Żórawina położona na zachód od linii wyznaczonej przez autostradę A4, część w powiecie wrocławskim,
+część gminy Domaniów położona na południowy zachód od linii wyznaczonej przez autostradę A4 w powiecie oławskim,
+gmina Wiązów w powiecie strzelińskim,
+gminy Pielgrzymka, miasto Złotoryja, część gminy wiejskiej Złotoryja położona na zachód od linii wyznaczonej przez drogę biegnącą od północnej granicy gminy w miejscowości Nowa Wieś Złotoryjska do granicy miasta Złotoryja oraz na południe od linii wyznaczonej przez drogę nr. 382 biegnącą od granicy miasta Złotoryja do wschodniej granicy gminy w powiecie złotoryjskim,
+gminy Janowice Wielkie, Mysłakowice, Stara Kamienica, Szklarska Poręba w powiecie karkonoskim,
+część powiatu miejskiego Jelenia Góra położona na północ od linii wyznaczonej przez drogę nr. 366,
+gminy Bolków, Paszowice, miasto Jawor, część gminy Męcinka położona na południe od drogi nr. 363 w powiecie jaworskim,
+gminy Dobromierz i Marcinowice w powiecie świdnickim,
+gminy Dzierżoniów, Pieszyce, miasto Bielawa, miasto Dzierżoniów w powiecie dzierżoniowskim,
+gminy Głuszyca, Mieroszów w powiecie wałbrzyskim,
+gmina Nowa Ruda i miasto Nowa Ruda w powiecie kłodzkim,
+gminy Kamienna Góra, Marciszów i miasto Kamienna Góra w powiecie kamiennogórskim,
+w województwie wielkopolskim:
+gminy Koźmin Wielkopolski, Rozdrażew w powiecie krotoszyńskim,
+gminy Książ Wielkopolski, część gminy Dolsk położona na wschód od linii wyznaczonej przez drogę nr. 434 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr. 437, a następnie na wschód od drogi nr. 437 biegnącej od skrzyżowania z drogą nr. 434 do południowej granicy gminy, w powiecie śremskim,
+gminy Borek Wielkopolski, Piaski, Pogorzela, w powiecie gostyńskim,
+gminy Kleszczewo, Kostrzyn, Pobiedziska, w powiecie poznańskim,
+gmina Kiszkowo i część gminy Kłecko położona na zachód od rzeki Mała Wełna w powiecie gnieźnieńskim,
+powiat czarnkowsko-trzcianecki,
+część gminy Wronki położona na północ od linii wyznaczonej przez rzekę Wartę biegnącą od zachodniej granicy gminy do przecięcia z droga nr. 182, a następnie na wschód od linii wyznaczonej przez drogi nr. 182 oraz 184 biegnącą od skrzyżowania z drogą nr. 182 do południowej granicy gminy w powiecie szamotulskim,
+gmina Budzyń w powiecie chodzieskim,
+gminy Mieścisko, Wągrowiec z miastem Wągrowiec, część gminy Skoki położna na wschód od linii wyznaczonej przez drogę 197 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr. 196, następnie na wschód od linii wyznaczonej przez drogę nr. 196 biegnącą od tego skrzyżowania do miejscowości Skoki i dalej na wschód od linii wyznaczonej przez drogę łączącą miejscowości Skoki – Rościnno - Grzybowo biegnącą od skrzyżowania z drogą nr. 196 do zachodniej granicy gminy w powiecie wągrowieckim,
+gmina Dobrzyca w powiecie pleszewskim,
+gminy Odolanów, Przygodzice, Raszków, Sośnie, miasto Ostrów Wielkopolski, część gminy wiejskiej Ostrów Wielkopolski położona na wschód od linii wyznaczonej przez drogę łączącą miejscowości Sulisław – Łąkociny – Wierzbno i na zachód od miasta Ostrów Wielkopolski oraz część gminy wiejskiej Ostrów Wielkopolski położona na wschód od miasta Ostrów Wielkopolski w powiecie ostrowskim,
+gmina Kobyla Góra w powiecie ostrzeszowskim,
+gminy Baranów, Bralin, Perzów, Rychtal, Trzcinica, Łęka Opatowska w powiecie kępińskim,
+część powiatu średzkiego niewymieniona w części II załącznika I,
+w województwie opolskim:
+gmina Byczyna, część gminy Kluczbork położona na północ od linii wyznaczonej przez drogę nr. 42 biegnącą od zachodniej granicy gminy do skrzyżowana z drogą nr. 45, a następnie od tego skrzyżowania na wschód od linii wyznaczonej przez drogę nr. 45 do skrzyżowania z ulicą Fabryczną w miejscowości Kluczbork i dalej na północ od linii wyznaczonej przez ulice Fabryczna -Dzierżonia – Strzelecka w miejscowości Kluczbork do wschodniej granicy gminy, w powiecie kluczborskim,
+gminy Praszka, Gorzów Śląski, Radłów, Olesno, Zębowice, część gminy Rudniki położona na północ od linii wyznaczonej przez drogę nr. 42 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 43 i na zachód od linii wyznaczonej przez drogę nr. 43 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr. 42 w powiecie oleskim,
+część gminy Grodków położona na zachód od linii wyznaczonej przez linię kolejową w powiecie brzeskim,
+gminy Łambinowice, Pakosławice, Skoroszyce, część gminy Korfantów położona na północ od linii wyznaczonej przez drogę nr. 407 w powiecie nyskim,
+część gminy Biała położona na północ od linii wyznaczonej przez drogę nr. 407 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 414 i dalej na wschód od linii wyznaczonej przez drogę nr. 414 biegnącej od tego skrzyżowania do skrzyżowania z drogą nr. 409, a następnie na północ od linii wyznaczonej przez drogę nr. 409 biegnącą od tego skrzyżowania do wschodniej granicy gminy w powiecie prudnickim,
+gminy Chrząstowice, Ozimek, Komprachcice, Prószków, część gminy Łubniany położona na południe od linii wyznaczonej przez drogę łączącą miejscowości Świerkle – Masów, ulicę Leśną w miejscowości Masów oraz na południe od ulicy Kolanowskiej biegnącej do wschodniej granicy gminy, część gminy Turawa położona na południe od linii wyznaczonej przez ulice Powstańców Śląskich -Kolanowską -Opolską – Kotorską w miejscowości Węgry i dalej na południe od drogi łączącej miejscowości Węgry- Kotórz Mały – Turawa – Rzędów – Kadłub Turawski – Zakrzów Turawski biegnącą do wschodniej granicy gminy w powiecie opolskim,
+powiat miejski Opole,
+w województwie zachodniopomorskim:
+gminy Nowogródek Pomorski, Barlinek, część gminy Myślibórz położona na wschód od linii wyznaczonej przez drogę nr. 23 biegnącej od południowej granicy gminy do skrzyżowania z drogą nr. 26, następnie na wschód od drogi nr. 26 biegnącej od tego skrzyżowania do skrzyżowania z drogą nr. 119 i dalej na wschód od drogi nr. 119 biegnącej od skrzyżowania z drogą nr. 26 do północnej granicy gminy, część gminy Dębno położona na wschód od linii wyznaczonej przez drogę nr. 126 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 23 w miejscowości Dębno, następnie na wschód od linii wyznaczonej przez drogę nr. 23 do skrzyżowania z ul. Jana Pawła II w miejscowości Cychry, następnie na północ od ul. Jana Pawła II do skrzyżowania z ul. Ogrodową i dalej na północ od linii wyznaczonej przez ul. Ogrodową, której przedłużenie biegnie do wschodniej granicy gminy w powiecie myśliborskim,
+gminy Lipiany, Przelewice, Pyrzyce, Warnice w powiecie pyrzyckim,
+gminy Bierzwnik, Krzęcin, Pełczyce w powiecie choszczeńskim,
+część powiatu miejskiego Szczecin położona na północ od linii wyznaczonej przez drogę nr. S10 biegnącą od wschodniej granicy gminy do przecięcia z rzeką Regalica, następnie na wschód od linii wyznaczonej przez rzekę Regalica biegnącą do jeziora Dąbie i dalej na południe od linii wyznaczonej przez linię brzegową jeziora Dąbie do wschodniej granicy gminy,
+gminy Przybiemów, Osina, część gminy Maszewo położona na zachód od linii wyznaczonej przez drogę nr. 106 w powiecie goleniowskim,
+gminy Wolin, Międzyzdroje w powiecie kamieńskim,
+powiat miejski Świnoujście,
+gmina Kobylanka, część gminy wiejskiej Stargard położona na południowy zachód od linii wyznaczonej przez południową i zachodnią granicę miasta Stargard oraz część gminy położona na północ od miasta Stargard i na zachód od linii wyznaczonej przez drogę nr. 106 w powiecie stargardzkim,
+w województwie małopolskim:
+gminy Bobowa, Moszczenica, Łużna, Ropa, część gminy wiejskiej Gorlice położona na północ od linii wyznaczonej przez linię kolejową biegnącą od wschodniej do zachodniej granicy gminy, część gminy Biecz położona na zachód od linii wyznaczonej przez drogę nr. 28 w powiecie gorlickim,
+powiat nowosądecki,
+gminy Czorsztyn, Krościenko nad Dunajcem, Ochotnica Dolna, Szczawnica w powiecie nowotarskim,
+powiat miejski Nowy Sącz,
+gminy Skrzyszów, Lisia Góra, Radłów, Wietrzychowice, Żabno, część gminy wiejskiej Tarnów położona na wschód od miasta Tarnów w powiecie tarnowskim,
+powiat dąbrowski,
+gminy Klucze, Bolesław, Bukowno w powiecie olkuskim,
+gmina Szerzyny w powiecie tarnowskim,
+w województwie śląskim:
+gmina Sławków w powiecie będzińskim,
+powiat miejski Jaworzno,
+powiat miejski Mysłowice,
+powiat miejski Katowice,
+powiat miejski Siemianowice Śląskie,
+powiat miejski Chorzów,
+powiat miejski Piekary Śląskie,
+powiat miejski Bytom,
+gminy Kalety, Ożarowice, Świerklaniec, Miasteczko Śląskie, Radzionków w powiecie tarnogórskim,
+gmina Woźniki w powiecie lublinieckim,
+gminy Myszków i Koziegłowy w powiecie myszkowskim,
+gminy Ogrodzieniec, Zawiercie, Włodowice w powiecie zawierciańskim.
+7. Slovacia
+Următoarele zone de restricții I din Slovacia:
+— in the district of Nové Zámky, Sikenička, Pavlová, Bíňa, Kamenín, Kamenný Most, Malá nad Hronom, Belá, Ľubá, Šarkan, Gbelce, Bruty, Mužla, Obid, Štúrovo, Nána, Kamenica nad Hronom, Chľaba, Leľa, Bajtava, Salka, Malé Kosihy,
+— in the district of Veľký Krtíš, the municipalities of Ipeľské Predmostie, Veľká nad Ipľom, Hrušov, Kleňany, Sečianky,
+— in the district of Levice, the municipalities of Keť, Čata, Pohronský Ruskov, Hronovce, Želiezovce, Zalaba, Malé Ludince, Šalov, Sikenica, Pastovce, Bielovce, Ipeľský Sokolec, Lontov, Kubáňovo, Sazdice, Demandice, Dolné Semerovce, Vyškovce nad Ipľom, Preseľany nad Ipľom, Hrkovce, Tupá, Horné Semerovce, Hokovce, Slatina, Horné Turovce, Veľké Turovce, Šahy, Tešmak, Plášťovce, Ipeľské Uľany, Tehla, Lula, Beša, Jesenské, Ina, Lok, Veľký Ďur, Horný Pial, Horná Seč, Starý Tekov, Dolná Seč, Hronské Kľačany, Levice, Podlužany, Krškany, Brhlovce, Bory, Santovka, Domadice, Hontianske Trsťany, Žemberovce,
+— in the district of Krupina, the municipalities of Dudince, Terany, Hontianske Moravce, Sudince, Súdovce, Lišov,
+— the whole district of Ružomberok, except municipalities included in zone II,
+— the whole district of Turčianske Teplice, except municipalities included in zone II,
+— in the district of Martin, municipalties of Blatnica, Folkušová, Necpaly, Belá-Dulice, Ďanová, Karlová, Laskár, Rakovo, Príbovce, Košťany nad Turcom, Socovce, Turčiansky Ďur, Kláštor pod Znievom, Slovany, Ležiachov, Benice,
+— in the district of Dolný Kubín, the municipalities of Kraľovany, Žaškov, Jasenová, Vyšný Kubín, Oravská Poruba, Leštiny, Osádka, Malatiná, Chlebnice, Krivá,
+— in the district of Tvrdošín, the municipalities of Oravský Biely Potok, Habovka, Zuberec,
+— in the district of Prievidza, the municipalities of Handlová, Cígeľ, Podhradie, Lehota pod Vtáčnikom, Ráztočno,
+— the whole district of Partizánske, except municipalities included in zone II,
+— in the district of Topoľčany, the municipalities of Krnča, Prázdnovce, Solčany, Nitrianska Streda, Čeľadince, Kovarce, Súlovce, Oponice,
+— in the district of Nitra, the municipalities of Horné Lefantovce, Dolné Lefantovce, Bádice, Jelenec, Žirany, Podhorany, Nitrianske Hrnčiarovce, Štitáre, Pohranice, Hosťová, Kolíňany, Malý Lapáš, Dolné Obdokovce, Čeľadice, Veľký Lapáš, Babindol, Malé Chyndice, Golianovo, Klasov, Veľké Chyndice, Nová Ves nad Žitavou, Paňa, Vráble, Tajná, Lúčnica nad Žitavou, Žitavce, Melek, Telince, Čifáre.
+8. Italia
+Următoarele zone de restricții I din Italia:
+Piedmont Region:
+in the province of Alessandria the following Municipalities: Oviglio, Viguzzolo, Bergamasco, Castellar Guidobono, Berzano Di Tortona, Carentino, Frascaro, Borgoratto Alessandrino, Volpeglino, Gamalero, Pontecurone, Castelnuovo Scrivia, Alluvione Piovera, Sale, Bassignana, Pecetto di Valenza, Rivarone, Montecastello, Valenza, San Salvatore Monferrato, Castelletto Monferrato, Quargnento, Solero, Pietra Marazzi,
+in the province of Asti the following Municipalities: Nizza Monferrato, Incisa Scapaccino, Mombaruzzo, Maranzana, Castelletto Molina, Castelnuovo Belbo, Quaranti, Fontanile, Calamandrana, Bruno, Canelli, San Marzano Oliveto,
+in the province of Cuneo the following Municipalities: Bergolo, Pezzolo Valle Uzzone, Cortemilia, Levice, Castelletto Uzzone, Perletto, Castino, Cossano Belbo, Rocchetta Belbo, Santo Stefano Belbo, Gottasecca, Monesiglio, Sale delle Langhe, Camerana, Castelnuovo di Ceva, Priero, Prunetto, Montezemolo, Perlo,
+Liguria Region:
+in the province of Genova the following Municipalities: Portofino, Santa Margherita Ligure, Camogli, Zoagli, Leivi, Chiavari, Santo Stefano d’Aveto, Mezzanego, Carasco, Borzonasca,
+in the province of Savona the following Municipalities: Bergeggi, Spotorno, Vezzi Portio, Noli, Orco Feglino, Bormida, Calice Ligure, Rialto, Osiglia, Murialdo,
+Emilia-Romagna Region:
+in the Province of Piacenza the following Municipalities: Cerignale, Ottone (est fiume Trebbia), Corte Brugnatella, Bobbio, Alta Val Tidone, Ferriere,
+in the provonce of Parma Municipality of Tornolo (parte Amministrativa a ovest del Fiume Taro),
+Lombardia Region:
+in the Province of Pavia the following Municipalities: Volpara, Rocca De’ Giorgi, Colli Verdi – Ruino e Canevino, Casteggio, Oliva Gessi, Montebello della Battaglia, Montalto Pavese, Corvino San Quirino, Calvignano, Voghera,
+Lazio Region:
+in the province of Rome,
+North: the following Municipalities:Riano, Castelnuovo di Porto, Capena, Fiano Romano, Morlupo, Sacrofano, Magliano Romano, Formello, Campagnano di Roma, Anguillara,
+West: the municipality of Fiumicino,
+South: Municipality of Rome between the limits of Zone 2 (North), the boundaries of Municipality of Fiumicino (West), the Tiber River up to the intersection with the Grande Raccordo Anulare, the Grande Raccordo Anulare up to the intersection with A24 Highway, A24 Highway up to the intersection with Viale del Tecnopolo, viale del Tecnopolo up to the intersection with the boundaries of the municipality of Guidonia Montecelio,
+East: the following Municipalities: Guidonia Montecelio, Montelibretti, Palombara Sabina, Monterotondo, Mentana, Sant’Angelo Romano, Fonte Nuova.
+Sardinia Region:
+in the Province of Sud Sardegna the following Municipalities: Escalaplano, Genuri, Gesico, Goni, Las Plassas, Setzu, Seui Isola Amministrativa, Siurgus Donigala, Suelli, Tuili, Villanovafranca,
+in the Province of Nuoro the following Municipalities: Atzara, Bitti, Bolotana, Bortigali, Dorgali, Elini, Elini Isola Amministrativa, Gairo, Girasole, Ilbono, Lanusei, Lei, Loceri, Lotzorai, Macomer a Ovest della SS 131, Noragugume, Oliena, Ortueri, Orune, Osini, Perdasdefogu, Silanus, Sorgono, Tortolì, Ulassai,
+in the Province of Oristano the following Municipalities: Albagiara, Ardauli, Assolo, Asuni, Bidonì, Gonnosnò, Neoneli, Nughedu Santa Vittoria, Samugheo, Sedilo, Senis, Sini, Sorradile,
+in the Province of Sassari the following Municipalities: Alà Dei Sardi, Ardara, Berchidda, Bonnanaro, Bonorva a ovest della SS 131, Borutta, Cheremule, Cossoine, Giave a ovest della SS 131, Mores a nord della SS 128bis - SP 63, Oschiri a nord della E 840, Ozieri a nord della Sp 63 - SP 1 - SS 199, Torralba a ovest della SS 131, Tula,
+Calabria Region:
+In Reggio Calabria Province the following Municipalities: Taurianova, Locri, Cittanova, Gerace, Rizziconi, Canolo, Antonimina, Portigliola, Gioia Tauro, Sant’ilario dello Ionio, Agnana Calabra, Mammola, Melicucco, Polistena, Rosarno, San Ferdinando, San Giorgio Morgeto, Siderno, Placanica, Riace, San Giovanni di Gerace, Martone, Stilo, Marina di Gioiosa Jonica, Roccella Jonica, Maropati, Laureana di Borrello, Candidoni, Camini, Grotteria, Monasterace, Giffone, Pazzano, Gioiosa Ionica, Bivongi, Galatro, Stignano, San Pietro di Caridà, Serrata, Feroleto della Chiesa, Caulonia, Cinquefrondi, Anoia,
+In Basilicata Region:
+In Potenza Province the following Municipalities: Marsico Nuovo, Marsicovetere, Montemurro, Lauria, Rivello, Viggiano, Castelsaraceno, Sarconi, Spinoso, Nemoli, Armento, Sasso di Castalda, Trecchina, San Martino d’Agri, Maratea, Corleto Perticara, Laurenzana, Carbone, Latronico, Calvello, Brienza, San Chirico Raparo, Castelluccio Superiore, Abriola,
+In Campania Region:
+In Salerno Province the following Municipalities: Piaggine, Morigerati, Monte San Giacomo, Tortorella, Teggiano, Sala Consilina, Rofrano, Valle Dell’angelo, Torre Orsaia, San Giovanni a Piro, Vibonati, San Rufo, Roccagloriosa, Laurito, Roscigno, Futani, Sapri, Polla, Ispani, Montano Antilia, Novi Velia, Laurino, Cannalonga, Celle di Bulgheria, Cuccaro Vetere, Corleto Monforte, Campora, San Pietro al Tanagro, Sacco, Torraca, Sant’angelo a Fasanella, Santa Marina, Sant’Arsenio, Atena Lucana, Bellosguardo, Alfano.
+9. Cehia
+Următoarele zone de restricții I din Cehia:
+Liberecký kraj:
+v okrese Liberec katastrální území obcí Hrádek nad Nisou, Oldřichov v Hájích, Grabštejn, Václavice u Hrádku nad Nisou, Horní Vítkov, Dolní Vítkov, Bílý Kostel nad Nisou, Dolní Chrastava, Horní Chrastava, Chrastava I, Nová Ves u Chrastavy, Mlýnice, Albrechtice u Frýdlantu, Kristiánov, Heřmanice u Frýdlantu, Dětřichov u Frýdlantu, Mníšek u Liberce, Oldřichov na Hranicích, Machnín, Svárov u Liberce, Desná I, Krásná Studánka, Stráž nad Nisou, Fojtka, Radčice u Krásné Studánky, Kateřinky u Liberce, Staré Pavlovice, Nové Pavlovice, Růžodol I, Františkov u Liberce, Liberec, Ruprechtice, Rudolfov, Horní Růžodol, Rochlice u Liberce, Starý Harcov, Vratislavice nad Nisou, Kunratice u Liberce, Proseč nad Nisou, Lukášov, Rýnovice, Jablonec nad Nisou, Jablonecké Paseky, Jindřichov nad Nisou, Mšeno nad Nisou, Lučany nad Nisou, Smržovka, Tanvald, Jiřetín pod Bukovou, Dolní Maxov, Antonínov, Horní Maxov, Karlov u Josefova Dolu, Loučná nad Nisou, Hraničná nad Nisou, Janov nad Nisou, Bedřichov u Jablonce nad Nisou, Josefův Důl u Jablonce nad Nisou, Albrechtice v Jizerských horách, Desná III, Polubný, Harrachov, Jizerka, Andělská Hora u Chrastavy, Benešovice u Všelibic, Cetenov, Česká Ves v Podještědí, Dolní Sedlo, Dolní Suchá u Chotyně, Donín u Hrádku nad Nisou, Druzcov, Hlavice, Hrubý Lesnov, Chotyně, Chrastava II, Chrastná, Jablonné v Podještědí, Janovice v Podještědí, Janův Důl, Jítrava, Kněžice v Lužických horách, Kotel, Kryštofovo Údolí, Křižany, Lázně Kundratice, Loučná, Lvová, Malčice u Všelibic, Markvartice v Podještědí, Nesvačily u Všelibic, Novina u Liberce, Osečná, Panenská Hůrka, Polesí u Rynoltic, Postřelná, Přibyslavice, Rynoltice, Smržov u Českého Dubu, Vápno, Všelibice, Zábrdí u Osečné, Zdislava, Žibřidice,
+v okrese Česká Lípa katastrální území obcí Bezděz, Blatce, Brniště, Břevniště pod Ralskem, Česká Lípa, Deštná u Dubé, Dobranov, Dražejov u Dubé, Drchlava, Dřevčice, Dubá, Dubice u České Lípy, Dubnice pod Ralskem, Hamr na Jezeře, Heřmaničky u Dobranova, Hlemýždí, Holany, Horky u Dubé, Horní Krupá, Houska, Chlum u Dubé, Jabloneček, Jestřebí u České Lípy, Kamenice u Zákup, Korce, Kruh v Podbezdězí, Kvítkov u České Lípy, Lasvice, Loubí pod Vlhoštěm, Luhov u Mimoně, Luka, Maršovice u Dubé, Náhlov, Nedamov, Noviny pod Ralskem, Obora v Podbezdězí, Okna v Podbezdězí, Okřešice u České Lípy, Pavlovice u Jestřebí, Písečná u Dobranova, Skalka u Doks, Sosnová u České Lípy, Srní u České Lípy, Stará Lípa, Starý Šidlov, Stráž pod Ralskem, Šváby, Tachov u Doks, Tubož, Újezd u Jestřebí, Velenice u Zákup, Velký Grunov, Velký Valtinov, Vítkov u Dobranova, Vlčí Důl, Vojetín, Vrchovany, Zahrádky u České Lípy, Zákupy, Zbyny, Žďár v Podbezdězí, Ždírec v Podbezdězí, Žizníkov,
+Středočeský kraj
+v okrese Mladá Boleslav katastrální území obcí Bezdědice, Březovice pod Bezdězem, Víska u Březovic, Dolní Krupá u Mnichova Hradiště, Mukařov u Jiviny, Neveklovice, Strážiště u Jiviny, Vicmanov, Vrchbělá, Březinka pod Bezdězem, Bělá pod Bezdězem, Dolní Rokytá, Horní Rokytá, Rostkov, Kozmice u Jiviny.
+10. Grecia
+Următoarele zone de restricții I din Grecia:
+— in the regional unit of Drama:
+— the community departments of Sidironero and Skaloti and the municipal departments of Livadero and Ksiropotamo (in Drama municipality),
+— the municipal department of Paranesti (in Paranesti municipality),
+— the municipal departments of Prosotsani, Kokkinogeia, Mikropoli, Panorama, Pyrgoi (in Prosotsani municipality),
+— the municipal departments of Kato Nevrokopi, Chrysokefalo, Achladea, Vathytopos, Volakas, Granitis, Dasotos, Eksohi, Katafyto, Lefkogeia, Mikrokleisoura, Mikromilea, Ochyro, Pagoneri, Perithorio, Kato Vrontou and Potamoi (in Kato Nevrokopi municipality),
+— in the regional unit of Xanthi:
+— the municipal departments of Kimmerion, Stavroupoli, Gerakas, Dafnonas, Komnina, Kariofyto and Neochori (in Xanthi municipality),
+— the community departments of Satres, Thermes, Kotyli, and the municipal departments of Myki, Echinos and Oraio (in Myki municipality),
+— the community department of Selero and the municipal department of Sounio (in Avdira municipality),
+— in the regional unit of Rodopi:
+— the municipal departments of Komotini, Anthochorio, Gratini, Thrylorio, Kalhas, Karydia, Kikidio, Kosmio, Pandrosos, Aigeiros, Kallisti, Meleti, Neo Sidirochori and Mega Doukato (in Komotini municipality),
+— the municipal departments of Ipio, Arriana, Darmeni, Archontika, Fillyra, Ano Drosini, Aratos and the Community Departments Kehros and Organi (in Arriana municipality),
+— the municipal departments of Iasmos, Sostis, Asomatoi, Polyanthos and Amvrosia and the community department of Amaxades (in Iasmos municipality),
+— the municipal department of Amaranta (in Maroneia Sapon municipality),
+— in the regional unit of Evros:
+— the municipal departments of Kyriaki, Mandra, Mavrokklisi, Mikro Dereio, Protokklisi, Roussa, Goniko, Geriko, Sidirochori, Megalo Derio, Sidiro, Giannouli, Agriani and Petrolofos (in Soufli municipality),
+— the municipal departments of Dikaia, Arzos, Elaia, Therapio, Komara, Marasia, Ormenio, Pentalofos, Petrota, Plati, Ptelea, Kyprinos, Zoni, Fulakio, Spilaio, Nea Vyssa, Kavili, Kastanies, Rizia, Sterna, Ampelakia, Valtos, Megali Doxipara, Neochori and Chandras (in Orestiada municipality),
+— the municipal departments of Asvestades, Ellinochori, Karoti, Koufovouno, Kiani, Mani, Sitochori, Alepochori, Asproneri, Metaxades, Vrysika, Doksa, Elafoxori, Ladi, Paliouri and Poimeniko (in Didymoteixo municipality),
+— in the regional unit of Serres:
+— the municipal departments of Melenikitsi, Nea Tyroloi, Palaiokastro and Skotoussa (Irakleia Municipality),
+— the municipal department of Vamvakofyto, part of the municipal department of Sidirokastro and the community departments of Agkistro, Kapnofyto and Achladochori (Sintiki Municipality),
+— the municipal departments of Serres, Elaionas, Leukonas, Kala Dendra, Christos, Monokklisia, Ano Kamila, Mitrousi, Oinoussa, Agia Eleni, Adelfiko, Vamvakoussa, Kato Kamila, Kouvouklia, Koumaria, Konstantinato, Peponia, Skoutari and the community departments of Orini and Ano Vrontou (Serres Municipality),
+— the municipal departments of Choumniko, Agia Paraskevi, Ligaria, Sisamia, Anthi, Therma, Nigrita, Terpni and Flampouro (Visaltia Municipality),
+— the municipal departments of Valtotopos, Neos Skopos, Neochori Serron (Emmanouil Pappas Municipality),
+— in the regional unit of Kilkis:
+— the municipal departments of, Megali Vrisi, Megali Sterna, Kastaneon, Iliolousto, Gallikos, Kampani, Mandres, Nea Santa, Pedino, Chrisopetra, Vaptistis, Kristoni Chorigio, Mavroneri, Neo Ginekokatsro, Xilokeratea and Mesiano (Kilkis Municipality),
+— the municipal departments of Eiriniko, Euzonoi, Vafiochori, Mikro Dasos, Peukodasos, Polikastro, Pontoirakleia, Axioupoli, Gorgopi, Idomeni, Plagia, Rizia, Skra, Fanos, Goumenissa, Grivas, Karpi, Kastaneri, Stathis, Toumpa and the community department of Livadia (Peonias Municipality),
+— in the regional unit of Thessaloniki:
+— the municipal departments of Assiros, Krithia, Exalofos, Lofiskos, Analipsi, Irakleio, Kolchiko, Lagadas, Perivolaki, Chrisavgi and Askos (Lagadas Municipality),
+— the municipal departments of Arethousa, Maurouda, Skepasto, Stefanina, Filadelfio, Evagelismos, Nimfopetra, Profitis, Scholari and Volvi (Volvi Municipality),
+— the municipal departments of Drimos, Mesaio, Melissochori and Liti (Oreokastro Municipality),
+— in the regional unit of Pella:
+— the municipal departments of Aloros, Aridea, Apsalos, Vorino, Garefio, Dorothea, Loutraki, Likostomo, Megaplatanos, Xifiani, Piperia, Polikarpi, Promachoi, Sosandra, Tsaki, Archaggelos, Exaplatanos, Theodorakio, Thiriopetra, Ida, Konstantia, Milea, Neromili, Notia, Periklia, Filoteia, Foustani and Chrisi (Almopia Municipality),
+— the municipal departments of Grammatiko, Agras, Vrita, Karidia, Mesimeri, Nisi, Platani, Sotira and Flamouria (Edessa Municipality),
+— in the regional unit of Kozani:
+— the municipal departments of Komnina, Mesovouno and Pirgi (Eordea Municipality),
+— in the regional unit of Florina:
+— the municipal departments of Agrapidies, Aetos, Anargiri, Valtonera, Limnochori, Pedino, Sklithro, Aminteo, Xino Nero, Rodonas, Fanos, Antigonos, Vegora, Levea, Maniaki, Pelargos, Filotas and the community department of Nimfeo (Aminteo Municipality),
+— the municipal departments of Agios Achillios, Agios Germanos, Antartiko, Vrontero, Kallithea, Karies, Lemos, Lefkonas, Mikrolimni, Pisoderi, Plati, Prasino, Psarades and the community departments of Vatochori, Kristallopigi and Kotas (Prespes Municipality),
+— the municipal departments of Agia Paraskevi, Akritas, Ano Kalliniki, Ano Klines, Ethniko, Kato Kalliniki, Kato Klines, Kladorrachi, Krateros, Neos Kafkasos, Niki, Parorio, Poliplatano, Agios Vartholomeos, Ammochori, Ano Idroussa, Atrapos, Drosopigi, Kolchiki, Leptokaries, Perasma, Polipotamo, Triantafillia, Tropeouchos, Idroussa, Flampouro, Alona, Armenochori, Korifi, Mesonisi, Proti, Skopia, Trivouno and Florina (Florina Municipality),
+— in the regional unit of Kastoria:
+— the municipal departments of Avgi, Koromilia, Lefki, Maniaki, Omorfoklissia, Pentavriso, Tsakoni, Chiliodenro, Agia Kiriaki, Kalochori, Mesopotamia, Inoi, Pteria, Vitsi, Kastoria, Agios Antonios, Gavros, Kranionas, Makrochori, Mavrokampos, Melas, Chalara, Dispilio and the community departments of Dendrochori and Ieropigi (Kastoria Municipality),
+— the municipal departments of Akrites, Polianemo, Kotili, Kipseli, Nestorio, Ptelea and the community deprtments of Eptachori, Chrisi and Gramos (Nestorio Municipality),
+— the municipal departments of Argos Orestiko, Vrachos, Kastanofito, Lagka, Lakkomata, Melanthio and Spilea (Orestidos Municipality),
+— in the regional unit of Ioannina:
+— the municipal departments of Agios Minas, Aristi, Elafotopos, Mesovouni, Monodendri, Vradeto, Vrisochori, Kapesovo, Koukouli, Tsepelovo and the community department of Papigko (Zagori Municipality),
+— the municipal departments of Vatatades, Vlachatano, Vasilopoulo, Evrymenes, Raiko, Zitsa, Lithino, Aetopetra Dodonis, Vereniki, Voutsaras, Vrisoula, Gkrimpovo, Granitsopoula, Despotiko, Ekklisochori, Kalochori, Rizo and Fotino (Zitsa Municipality),
+— the municipal departments of Agia Varvara, Agia Paraskevi, Aetopetra Konitsas, Aidonochori, Amarantos, Ganadio, Elefthero, Exochi, Iliorachi, Kavasila, Kallithea, Klidonia, Konitsa, Mazi, Melissopetra, Molista, Molivdoskepastos, Monastiri, Nikanoras, Pades, Paleoselli, Pigi, Pournia, Pirgos, Asimochori, Vourmpiani, Gorgopotamos, Drosopigi, Kastanea, Kefalochori, Lagkada, Oxia, Plagia, Plikati, Pirsogianni. Chionades and the community departments of Aetomilitsa and Fourka (Konitsa Municipality),
+— the municipal departments of Areti, Vrontismeni, Ieromnimi, Katarraktis, Kouklii, Mazaraki, Mavronoros, Parakalamos, Repetista, Riachovo, Sitaria, Agios Kosmas, Vasiliko, Kakolakkos, Kato Meropi, Kefalovriso, Meropi, Paleopirgos, Roupsia, Oreokastro, Agia Marina, Argirochori, Vissani, Delvinaki, Kastaniani, Kerasovo, Krioneri, Ktismata, Limni, Μavropoulo, Orinos Xirovaltos, Peristeri, Pontikates, Stratinista, Teriachi, Faraggi, Charavgi, Ano Ravenia, Geroplatanos, Doliana, Kalpaki, Kato Ravenia, Mavrovouni, Negrades, Chrisorrachi and the community departments of Dimokori, Lavdani, Dolo, Drimades, Pogoniani and Stavroskiadi (Pogoni Municipality).
+— in the regional unit of Thesprotia:
+— the municipal departments of Agios Vlasios, Grekochori, Igoumenitsa, Kastri, Kriovrisi, Ladochori, Mavroudi, Nea Selefkia, Geroplatanos, Drimitsa, Parapotamos and Plataria (Igoumenitsa Municipality),
+— the municipal departments of Pente Ekklisies, Plakoti and Polidroso (Souli Municipality),
+— the municipal departments of Asprokklisi, Kestrini, Ragio, Sagiada, Smertos, Agios Nikolaos, Agii Pantes, Aetos, Ampelonas, Anavrito, Achladia, Vavouri, Vrisella, Gardiki, Giromeri, Gola, Kallithea Filiaton, Kato Xechoro, Keramitsa, Kerasochori, Kefalochori, Kokkinia, Kokkinolithari, Kouremadi, Krioneri, Kiparisso, Leptokaria, Lia, Lista, Malouni, Milea, Xechoro, Paleokklisi, Paleochori, Palampas, Pigadoulia, Plaisio, Platanos, Raveni, Rizo, Sideri, Trikorifo, Tsamantas, Faneromeni, Filiates, Finiki and Charavgi (Filiates Municipality).
+PARTEA II
+1. Bulgaria
+Următoarele zone de restricții II din Bulgaria:
+— the whole region of Haskovo,
+— the whole region of Yambol,
+— the whole region of Stara Zagora,
+— the whole region of Pernik,
+— the whole region of Kyustendil,
+— the whole region of Plovdiv,
+— the whole region of Pazardzhik, excluding the areas in Part III,
+— the whole region of Smolyan,
+— the whole region of Dobrich,
+— the whole region of Sofia city,
+— the whole region of Sofia Province,
+— the whole region of Blagoevgrad,
+— the whole region of Razgrad,
+— the whole region of Kardzhali,
+— the whole region of Burgas,
+— the whole region of Varna,
+— the whole region of Silistra,
+— the whole region of Ruse,
+— the whole region of Veliko Tarnovo,
+— the whole region of Pleven,
+— the whole region of Targovishte,
+— the whole region of Shumen,
+— the whole region of Sliven,
+— the whole region of Vidin,
+— the whole region of Gabrovo,
+— the whole region of Lovech excluding the areas in Part III,
+— the whole region of Montana, excluding the areas in Part III,
+— the whole region of Vratza excluding the areas in Part III.
+2. Germania
+Următoarele zone de restricții II din Germania:
+Bundesland Brandenburg:
+Landkreis Oder-Spree:
+Gemeinde Eisenhüttenstadt mit der Gemarkung Eisenhüttenstadt nördlich der L371 und östlich der B112,
+Gemeinde Ziltendorf,
+Gemeinde Wiesenau,
+Gemeinde Siehdichum mit der Gemarkung Rießen nördlich des Oder-Spree-Kanal,
+Gemeinde Müllrose nördlich des Oder-Spree-Kanal,
+Gemeinde Briesen mit den Gemarkungen Alt Madlitz, Madlitz-Forst, Biegen, Briesen, Falkenberg (B), Wilmersdorf (B), der Gemarkung Kersdorf nördlich A12 und der Gemarkung Neubrück Forst östlich der K7634 und nördlich der A12,
+Gemeinde Jacobsdorf,
+Gemeinde Groß Lindow,
+Gemeinde Brieskow-Finkenheerd,
+Gemeinde Rietz-Neuendorf mit der Gemarkung Neubrück östlich der L411 und K6734,
+Gemeinde Langewahl nördlich der A12,
+Gemeinde Berkenbrück nördlich der A12,
+Gemeinde Steinhöfel mit den Gemarkungen Arensdorf und Demitz und den Gemarkungen Steinhöfel, Hasenfelde und Heinersdorf östlich der L 36 und der Gemarkung Neuendorf im Sande südlich der L36,
+Gemeinde Fürstenwalde östlich der B 168 und südlich der L36,
+Landkreis Spree-Neiße:
+Gemeinde Schenkendöbern,
+Gemeinde Guben,
+Gemeinde Jänschwalde,
+Gemeinde Tauer,
+Gemeinde Peitz,
+Gemeinde Turnow-Preilack mit der Gemarkung Preilack,
+Gemeinde Teichland,
+Gemeinde Heinersbrück,
+Gemeinde Forst,
+Gemeinde Groß Schacksdorf-Simmersdorf,
+Gemeinde Neiße-Malxetal,
+Gemeinde Jämlitz-Klein Düben,
+Gemeinde Tschernitz,
+Gemeinde Döbern,
+Gemeinde Felixsee,
+Gemeinde Wiesengrund,
+Gemeinde Spremberg mit den Gemarkungen Wolkenberg, Stradow, Jessen, Pulsberg und Perpe,
+Gemeinde Welzow,
+Gemeinde Neuhausen/Spree mit der Gemarkung Gablenz,
+Gemeinde Drebkau mit den Gemarkungen Greifenhain und Kausche,
+Landkreis Märkisch-Oderland:
+Gemeinde Bleyen-Genschmar,
+Gemeinde Neuhardenberg,
+Gemeinde Golzow,
+Gemeinde Küstriner Vorland,
+Gemeinde Alt Tucheband,
+Gemeinde Reitwein,
+Gemeinde Podelzig,
+Gemeinde Gusow-Platkow,
+Gemeinde Seelow,
+Gemeinde Vierlinden,
+Gemeinde Lindendorf,
+Gemeinde Fichtenhöhe,
+Gemeinde Lietzen,
+Gemeinde Falkenhagen (Mark),
+Gemeinde Zeschdorf,
+Gemeinde Treplin,
+Gemeinde Lebus,
+Gemeinde Müncheberg mit den Gemarkungen Jahnsfelde, Trebnitz, Obersdorf, Münchehofe und Hermersdorf,
+Gemeinde Märkische Höhe mit der Gemarkung Ringenwalde,
+Gemeinde Bliesdorf mit der Gemarkung Metzdorf und Gemeinde Bliesdorf – östlich der B167 bis östlicher Teil, begrenzt aus Richtung Gemarkungsgrenze Neutrebbin südlich der Bahnlinie bis Straße “Sophienhof” dieser westlich folgend bis “Ruesterchegraben” weiter entlang Feldweg an den Windrädern Richtung “Herrnhof”, weiter entlang “Letschiner Hauptgraben” nord-östlich bis Gemarkungsgrenze Alttrebbin und Kunersdorf – östlich der B167,
+Gemeinde Bad Freienwalde mit den Gemarkungen Altglietzen, Altranft, Bad Freienwalde, Bralitz, Hohenwutzen, Schiffmühle, Hohensaaten und Neuenhagen,
+Gemeinde Falkenberg mit der Gemarkung Falkenberg östlich der L35,
+Gemeinde Oderaue,
+Gemeinde Wriezen mit den Gemarkungen Altwriezen, Jäckelsbruch, Neugaul, Beauregard, Eichwerder, Rathsdorf – östlich der B167 und Wriezen – östlich der B167,
+Gemeinde Neulewin,
+Gemeinde Neutrebbin,
+Gemeinde Letschin,
+Gemeinde Zechin,
+Landkreis Barnim:
+Gemeinde Lunow-Stolzenhagen,
+Gemeinde Parsteinsee,
+Gemeinde Oderberg,
+Gemeinde Liepe,
+Gemeinde Hohenfinow (nördlich der B167),
+Gemeinde Niederfinow,
+Gemeinde (Stadt) Eberswalde mit den Gemarkungen Eberswalde nördlich der B167 und östlich der L200, Sommerfelde und Tornow nördlich der B167,
+Gemeinde Chorin mit den Gemarkungen Brodowin, Chorin östlich der L200, Serwest, Neuehütte, Sandkrug östlich der L200,
+Gemeinde Ziethen mit der Gemarkung Klein Ziethen östlich der Serwester Dorfstraße und östlich der B198,
+Landkreis Uckermark:
+Gemeinde Angermünde mit den Gemarkungen Crussow, Stolpe, Gellmersdorf, Neukünkendorf, Bölkendorf, Herzsprung, Schmargendorf und den Gemarkungen Angermünde südlich und südöstlich der B2 und Dobberzin südlich der B2,
+Gemeinde Schwedt mit den Gemarkungen Criewen, Zützen, Schwedt, Stendell, Kummerow, Kunow, Vierraden, Blumenhagen, Oderbruchwiesen, Enkelsee, Gatow, Hohenfelde, Schöneberg, Flemsdorf und der Gemarkung Felchow östlich der B2,
+Gemeinde Pinnow südlich und östlich der B2,
+Gemeinde Berkholz-Meyenburg,
+Gemeinde Mark Landin mit der Gemarkung Landin südlich der B2,
+Gemeinde Casekow mit der Gemarkung Woltersdorf und den Gemarkungen Biesendahlshof und Casekow östlich der L272 und südlich der L27,
+Gemeinde Hohenselchow-Groß Pinnow mit der Gemarkung Groß Pinnow und der Gemarkung Hohenselchow südlich der L27,
+Gemeinde Gartz (Oder) mit der Gemarkung Friedrichsthal und den Gemarkungen Gartz und Hohenreinkendorf südlich der L27 und der B2 bis Kastanienallee, dort links abbiegend dem Schülerweg folgend bis Höhe Bahnhof, von hier in östlicher Richtung den Salveybach kreuzend bis zum Tantower Weg, diesen in nördlicher Richtung bis zu Stettiner Straße, diese weiter folgend bis zur B2, dieser in nördlicher Richtung folgend,
+Gemeinde Mescherin mit der Gemarkung Mescherin, der Gemarkung Neurochlitz östlich der B2 und der Gemarkung Rosow nördlich der K 7311,
+Gemeinde Passow mit der Gemarkung Jamikow,
+Kreisfreie Stadt Frankfurt (Oder),
+Landkreis Oberspreewald-Lausitz:
+Gemeinde Vetschau mit den Gemarkungen Wüstenhain und Laasow,
+Gemeinde Altdöbern mit den Gemarkungen Reddern, Ranzow, Pritzen, Altdöbern östlich der Bahnstrecke Altdöbern –Großräschen,
+Gemeinde Großräschen mit den Gemarkungen Woschkow, Dörrwalde, Allmosen,
+Gemeinde Neu-Seeland,
+Gemeinde Neupetershain,
+Gemeinde Senftenberg,
+Gemeinde Schipkau mit den Gemarkungen Hörlitz, Meuro und den Gemarkungen Schipkau und Klettwitz östlich der BAB 13,
+Gemeinde Schwarzheide östlich der BAB 13,
+Gemeinde Hohenbocka,
+Gemeinde Grünewald,
+Gemeinde Hermsdorf,
+Gemeinde Kroppen,
+Gemeinde Ortrand,
+Gemeinde Großkmehlen,
+Gemeinde Lindenau,
+Gemeinde Frauendorf,
+Gemeinde Ruhland,
+Gemeinde Guteborn,
+Gemeinde Schwarzbach,
+Bundesland Sachsen:
+Landkreis Bautzen,
+Stadt Dresden:
+Stadtgebiet nördlich der BAB4 bis zum Verlauf westlich der Elbe, dann nördlich der B6,
+Landkreis Görlitz,
+Landkreis Meißen:
+Gemeinde Diera-Zehren östlich der Elbe,
+Gemeinde Ebersbach,
+Gemeinde Glaubitz östlich des Grödel-Elsterwerdaer-Floßkanals,
+Gemeinde Klipphausen östlich der S177,
+Gemeinde Lampertswalde,
+Gemeinde Moritzburg,
+Gemeinde Niederau östlich der B101,
+Gemeinde Nünchritz östlich der Elbe und südlich des Grödel-Elsterwerdaer-Floßkanals,
+Gemeinde Priestewitz,
+Gemeinde Röderaue östlich des Grödel-Elsterwerdaer-Floßkanals,
+Gemeinde Schönfeld,
+Gemeinde Stadt Coswig,
+Gemeinde Stadt Gröditz östlich des Grödel-Elsterwerdaer-Floßkanals,
+Gemeinde Stadt Großenhain,
+Gemeinde Stadt Meißen östlich des Straßenverlaufs der S177 bis zur B6, dann B6 bis zur B101, ab der B101 Elbtalbrücke Richtung Norden östlich der Elbe,
+Gemeinde Stadt Radebeul,
+Gemeinde Stadt Radeburg,
+Gemeinde Thiendorf,
+Gemeinde Weinböhla,
+Gemeinde Wülknitz östlich des Grödel-Elsterwerdaer-Floßkanals,
+Landkreis Sächsische Schweiz-Osterzgebirge:
+Gemeinde Stadt Wilsdruff nördlich der BAB4 zwischen den Abfahren Wilsdruff und Dreieck Dresden-West.
+3. Estonia
+Următoarele zone de restricții II din Estonia:
+— Eesti Vabariik (välja arvatud Hiiu maakond).
+4. Letonia
+Următoarele zone de restricții II din Letonia:
+— Aizkraukles novads,
+— Alūksnes novads,
+— Augšdaugavas novads,
+— Ādažu novads,
+— Balvu novads,
+— Bauskas novads,
+— Cēsu novads,
+— Dienvidkurzemes novada Aizputes, Cīravas, Lažas, Durbes, Dunalkas, Tadaiķu, Vecpils, Bārtas, Sakas, Bunkas, Priekules, Gramzdas, Kalētu, Virgas, Dunikas, Vaiņodes, Gaviezes, Grobiņas, Rucavas, Vērgales, Medzes, Embūtes, Kalvenes, Kazdangas pagasts, Nīcas pagasta daļa uz dienvidiem no apdzīvotas vietas Bernāti, autoceļa V1232, A11, V1222, Bārtas upes, Aizputes, Durbes, Pāvilostas, Priekules, Grobiņas pilsēta,
+— Dobeles novads,
+— Gulbenes novada Daukstu, Druvienas, Galgauskas, Jaungulbenes, Lejasciema, Lizuma, Līgo, Rankas, Tirzas pagasts,
+— Jelgavas novads,
+— Jēkabpils novada Aknīstes, Asares, Atašienes, Dunavas, Elkšņu, Gārsenes, Kalna, Krustpils, Leimaņu, Rites, Rubenes, Salas, Saukas, Sēlpils, Variešu, Viesītes, Zasas pagasts, Ābeļu pagasta daļa uz rietumiem no autoceļa posmā no apdzīvotas vietas Laši līdz Ābeļu pagasta robežai, Dignājas pagasta daļa uz dienvidiem no autoceļa V824, Jēkabpils valstspilsēta, Viesītes, Aknīstes pilsēta,
+— Krāslavas novada Andrupenes, Andzeļu, Aulejas, Bērziņu, Dagdas, Ezernieku, Grāveru, Izvaltas, Kaplavas, Kastuļinas, Kombuļu, Konstantinovas, Krāslavas, Ķepovas, Piedrujas, Svariņu, Šķaunes, Šķeltovas, Ūdrīšu pagasts, Dagdas, Krāslavas pilsēta,
+— Kuldīgas novads,
+— Ķekavas novads,
+— Limbažu novads,
+— Līvānu novada Jersikas, Rožupes, Rudzātu, Sutru pagasts, Līvānu pilsēta,
+— Ludzas novads,
+— Madonas novada Barkavas pagasta daļa uz Rietumiem no ceļā Meirānu kanāls – Vēršuzepi, Bērzaunes, Ērgļu, Indrānu, Jumurdas, Kalsnavas, Ošupes, Sausnējas, Vestienas pagasts, Liezēres pagasta daļa uz rietumiem no autoceļa P30, Aronas pagasta daļa uz rietumiem no autoceļa P30, Lubānas, Madonas pilsēta,
+— Mārupes novads,
+— Ogres novads,
+— Olaines novads,
+— Preiļu novads,
+— Rēzeknes novada Audriņu, Bērzgales, Čornajas, Feimaņu, Griškānu, Ilzeskalna, Kantinieku, Kaunatas, Lendžu, Lūznavas, Mākoņkalna, Maltas, Nautrēnu, Ozolaines, Ozolmuižas, Pušas, Sakstagala, Silmalas, Sokolku, Stoļerovas, Stružānu, Vērēmu pagasts, Dekšāres pagasta daļa uz Dienvidiem no autoceļa A12, Dricānu pagasta daļa uz Austrumiem no autoceļa P36, Gaigalavas pagasta daļa uz Austrumiem no autoceļa P36, Viļānu pagasta daļa uz Dienvidiem no autoceļa A12, Viļānu pilsēta,
+— Ropažu novada Garkalnes, Ropažu pagasts, Stopiņu pagasta daļa, kas atrodas uz austrumiem no autoceļa V36, P4 un P5, Acones ielas, Dauguļupes ielas un Dauguļupītes, Vangažu pilsēta,
+— Salaspils novads,
+— Saldus novads,
+— Saulkrastu novads,
+— Siguldas novads,
+— Smiltenes novads,
+— Talsu novads,
+— Tukuma novads,
+— Valkas novads,
+— Valmieras novads,
+— Varakļānu novad, novada Murmastienes pagasts, Varakļānu pagasta daļa uz Rietumiem no autoceļa V869, Varakļānu pilsēta,
+— Ventspils novads,
+— Daugavpils valstspilsētas pašvaldība,
+— Jelgavas valstspilsētas pašvaldība,
+— Jūrmalas valstspilsētas pašvaldība,
+— Rēzeknes valstspilsētas pašvaldība.
+5. Lituania
+Următoarele zone de restricții II din Lituania:
+— Alytaus miesto savivaldybė,
+— Alytaus rajono savivaldybė,
+— Anykščių rajono savivaldybė,
+— Akmenės rajono savivaldybė,
+— Birštono savivaldybė,
+— Biržų miesto savivaldybė,
+— Biržų rajono savivaldybė,
+— Druskininkų savivaldybė,
+— Elektrėnų savivaldybė,
+— Ignalinos rajono savivaldybė,
+— Jonavos rajono savivaldybė,
+— Joniškio rajono savivaldybė,
+— Jurbarko rajono savivaldybė: Eržvilko, Juodaičių, Seredžiaus, Smalininkų ir Viešvilės seniūnijos,
+— Kaišiadorių rajono savivaldybė,
+— Kauno miesto savivaldybė,
+— Kauno rajono savivaldybė,
+— Kazlų rūdos savivaldybė: Kazlų Rūdos seniūnija, išskyrus vakarinė dalis iki kelio 2602 ir 183, Plutiškių seniūnija,
+— Kelmės rajono savivaldybė: Kelmės, Kražių, Liolių, Tytuvėnų, Tytuvėnų apylinkių, Pakražančio ir Vaiguvos seniūnijos,
+— Kėdainių rajono savivaldybė,
+— Klaipėdos rajono savivaldybė: Judrėnų, Endriejavo ir Veiviržėnų seniūnijos,
+— Kupiškio rajono savivaldybė,
+— Kretingos rajono savivaldybė,
+— Lazdijų rajono savivaldybė,
+— Mažeikių rajono savivaldybė,
+— Molėtų rajono savivaldybė: Alantos, Balninkų, Čiulėnų, Inturkės, Joniškio, Luokesos, Mindūnų, Suginčių ir Videniškių seniūnijos,
+— Pagėgių savivaldybė,
+— Pakruojo rajono savivaldybė,
+— Panevėžio rajono savivaldybė,
+— Panevėžio miesto savivaldybė,
+— Pasvalio rajono savivaldybė,
+— Radviliškio rajono savivaldybė,
+— Rietavo savivaldybė,
+— Prienų rajono savivaldybė,
+— Plungės rajono savivaldybė,
+— Raseinių rajono savivaldybė,
+— Rokiškio rajono savivaldybė,
+— Skuodo rajono savivaldybė,
+— Šakių rajono savivaldybė: Kriūkų, Lekėčių ir Lukšių seniūnijos,
+— Šalčininkų rajono savivaldybė,
+— Šiaulių miesto savivaldybė,
+— Šiaulių rajono savivaldybė: Ginkūnų, Gruzdžių, Kairių, Kužių, Meškuičių, Raudėnų, Šakynos ir Šiaulių kaimiškosios seniūnijos,
+— Šilutės rajono savivaldybė,
+— Širvintų rajono savivaldybė: Čiobiškio, Gelvonų, Jauniūnų, Kernavės, Musninkų ir Širvintų seniūnijos,
+— Šilalės rajono savivaldybė,
+— Švenčionių rajono savivaldybė,
+— Tauragės rajono savivaldybė,
+— Telšių rajono savivaldybė,
+— Trakų rajono savivaldybė,
+— Ukmergės rajono savivaldybė: Deltuvos, Lyduokių, Pabaisko, Pivonijos, Siesikų, Šešuolių, Taujėnų, Ukmergės miesto, Veprių, Vidiškių ir Žemaitkiemo seniūnijos,
+— Utenos rajono savivaldybė,
+— Varėnos rajono savivaldybė,
+— Vilniaus miesto savivaldybė,
+— Vilniaus rajono savivaldybė: Avižienių, Bezdonių, Buivydžių, Dūkštų, Juodšilių, Kalvelių, Lavoriškių, Maišiagalos, Marijampolio, Medininkų, Mickūnų, Nemenčinės, Nemenčinės miesto, Nemėžio, Pagirių, Riešės, Rudaminos, Rukainių, Sudervės, Sužionių, Šatrininkų ir Zujūnų seniūnijos,
+— Visagino savivaldybė,
+— Zarasų rajono savivaldybė.
+6. Ungaria
+Următoarele zone de restricții II din Ungaria:
+— Békés megye 951450, 951460, 951550, 951650, 951750, 952350, 952450, 952650 és 956350 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Borsod-Abaúj-Zemplén megye valamennyi vadgazdálkodási egységének teljes területe,
+— Fejér megye 403150, 403160, 403250, 403260, 403350, 404250, 404550, 404560, 404570, 405450, 405550, 405650, 406450 és 407050 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Hajdú-Bihar megye valamennyi vadgazdálkodási egységének teljes területe,
+— Heves megye valamennyi vadgazdálkodási egységének teljes területe,
+— Jász-Nagykun-Szolnok megye 750250, 750550, 750650, 750750, 750850, 750970, 750980, 751050, 751150, 751160, 751450, 751460, 751470, 751550, 751650, 752150, 752250, 752350, 752450, 752460, 752550, 752560, 752650, 752750, 752850, 752950, 753060, 753070, 753150, 753250, 753310, 753450, 753550, 753660, 754150, 754250, 754370, 755550, 755650 és 755750 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Komárom-Esztergom megye 250350, 250850, 250950, 251450, 251550, 251950, 252050, 252150, 252350, 252450, 252460, 252550, 252650, 252750, 252850, 252860, 252950, 252960, 253050, 253150, 253250, 253350, 253450 és 253550 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Nógrád megye valamennyi vadgazdálkodási egységeinek teljes területe,
+— Pest megye 570150, 570250, 570350, 570450, 570550, 570650, 570750, 570850, 570950, 571050, 571150, 571250, 571350, 571650, 571750, 571760, 571850, 571950, 572050, 573550, 573650, 574250, 580050 és 580150 kódszámú vadgazdálkodási egységeinek teljes területe,
+— Szabolcs-Szatmár-Bereg megye valamennyi vadgazdálkodási egységének teljes területe.
+7. Polonia
+Următoarele zone de restricții II din Polonia:
+w województwie warmińsko-mazurskim:
+gminy Kalinowo, Stare Juchy, Prostki oraz gmina wiejska Ełk w powiecie ełckim,
+powiat elbląski,
+powiat miejski Elbląg,
+część powiatu gołdapskiego niewymieniona w częśći III załącznika I,
+powiat piski,
+powiat bartoszycki,
+powiat olecki,
+część powiatu giżyckiego niewymieniona w części III załącznika I,
+powiat braniewski,
+powiat kętrzyński,
+powiat lidzbarski,
+gminy Dźwierzuty Jedwabno, Pasym, Świętajno, Wielbark, Szczytno i miasto Szczytno w powiecie szczycieńskim,
+powiat mrągowski,
+część powiatu węgorzewskiego niewymieniona w części III załącznika I,
+powiat olsztyński,
+powiat miejski Olsztyn,
+powiat nidzicki,
+powiat ostródzki,
+powiat nowomiejski,
+powiat iławski,
+powiat działdowski,
+w województwie podlaskim:
+powiat bielski,
+powiat grajewski,
+powiat moniecki,
+powiat sejneński,
+powiat siemiatycki,
+powiat hajnowski,
+gminy Ciechanowiec, Klukowo, Szepietowo, Kobylin-Borzymy, Nowe Piekuty, Sokoły i część gminy Kulesze Kościelne położona na północ od linii wyznaczonej przez linię kolejową w powiecie wysokomazowieckim,
+powiat białostocki,
+powiat suwalski,
+powiat miejski Suwałki,
+powiat augustowski,
+powiat sokólski,
+powiat miejski Białystok,
+gminy Grabowo, Stawiski, Kolno z miastem Kolno w powiecie kolneńskim,
+w województwie mazowieckim:
+gminy Domanice, Korczew, Kotuń, Mordy, Paprotnia, Przesmyki, Siedlce, Skórzec, Wiśniew, Wodynie, Zbuczyn w powiecie siedleckim,
+powiat miejski Siedlce,
+gminy Ceranów, Jabłonna Lacka, Kosów Lacki, Repki, Sabnie, Sterdyń w powiecie sokołowskim,
+powiat łosicki,
+część powiatu sochaczewskiego niewymieniona w części I załącznika I,
+gmina Przyłęk w powiecie zwoleńskim,
+powiat kozienicki,
+gminy Chotcza i Solec nad Wisłą w powiecie lipskim,
+gminy Jastrzębia, Jedlińsk, Jedlnia – Letnisko, Pionki z miastem Pionki, Przytyk, Wolanów, Zakrzew, część gminy Kowala położona na północ od linii wyznaczonej przez drogę nr. 733 biegnącą od wschodniej granicy gminy do skrzyżowania z drogą nr. 744 w miejscowości Maliszów i dalej na zachód od linii wyznaczonej przez drogę nr. 744 biegnącą od miejscowości Maliszów do południowej granicy gminy w powiecie radomskim,
+powiat miejski Radom,
+część powiatu szydłowickiego niewymieniona w części III załącznika I,
+gminy Szelków i Rzewnie w powiecie makowskim,
+gminy Lubowidz i Kuczbork Osada w powiecie żuromińskim,
+gmina Wieczfnia Kościelna w powicie mławskim,
+powiat nowodworski,
+gminy Radzymin, Wołomin, miasto Kobyłka, miasto Marki, miasto Ząbki, miasto Zielonka, część gminy Tłuszcz położona na północ od linii kolejowej łączącej miejscowości Łochów – Wołomin, część gminy Jadów położona na północ od linii kolejowej biegnącej od wschodniej do zachodniej granicy gminy, część gminy Dąbrówka położona na południe od linii wyznaczonej przez drogę nr. S8 w powiecie wołomińskim,
+powiat garwoliński,
+gminy Boguty – Pianki, Brok, Zaręby Kościelne, Nur, Małkinia Górna, część gminy Wąsewo położona na południe od linii wyznaczonej przez drogę nr. 60, część gminy wiejskiej Ostrów Mazowiecka położona na południe od miasta Ostrów Mazowiecka i na południe od linii wyznaczonej przez drogę 60 biegnącą od zachodniej granicy miasta Ostrów Mazowiecka do zachodniej granicy gminy w powiecie ostrowskim,
+część gminy Sadowne położona na północny- zachód od linii wyznaczonej przez linię kolejową, część gminy Łochów położona na północny – zachód od linii wyznaczonej przez linię kolejową w powiecie węgrowskim,
+gminy Brańszczyk, Długosiodło, Rząśnik, Wyszków, część gminy Zabrodzie położona na wschód od linii wyznaczonej przez drogę nr. S8 w powiecie wyszkowskim,
+gminy Latowicz, Siennica, Sulejówek w powiecie mińskim,
+powiat otwocki,
+część powiatu warszawskiego zachodniego niewymieniona w części I załącznika I,
+powiat warszawski zachodni,
+powiat legionowski,
+powiat piaseczyński,
+powiat pruszkowski,
+powiat grójecki,
+gminy Grodzisk Mazowiecki, Żabia Wola, miasto Milanówek, miasto Podkowa Leśna w powiecie grodziskim,
+gmina Mszczonów w powiecie żyrardowskim,
+powiat białobrzeski,
+powiat przysuski,
+powiat miejski Warszawa,
+gminy Chorzele, Jednorożec, część gminy wiejskiej Przasnysz położona na wschód od linii wyznaczonej przez drogę nr. 57 biegnącą od północnej granicy gminy do granicy miasta Przasnysz i na północ od linii wyznaczonej przez drogę biegnącą od wschodniej granicy gminy do granicy miasta Przasnysz, łączącej miejscowości Dębiny – Bartniki – Przasnysz w powiecie przasnyskim,
+w województwie lubelskim:
+część powiatu bialskiego niewymieniona w części III załącznika I,
+powiat miejski Biała Podlaska,
+powiat janowski,
+powiat puławski,
+powiat rycki,
+powiat łukowski,
+powiat lubelski,
+powiat miejski Lublin,
+gminy Abramów, Firlej, Jeziorzany, Kamionka, Kock, Lubartów z miastem Lubartów, Michów, Ostrówek, w powiecie lubartowskim,
+powiat łęczyński,
+powiat świdnicki,
+powiat biłgorajski,
+powiat hrubieszowski,
+powiat krasnostawski,
+część powiatu chełmskiego niewymieniona w części III załącznika I,
+powiat tomaszowski,
+powiat kraśnicki,
+część powiatu parczewskiego niewymieniona w części III załącznika I,
+powiat opolski,
+część powiatu włodawskiego niewymieniona w części III załącznika I,
+część powiatu radzyńskiego niewymieniona w części III załącznika I,
+powiat miejski Zamość,
+powiat zamojski,
+w województwie podkarpackim:
+powiat stalowowolski,
+powiat lubaczowski,
+gminy Medyka, Stubno, część gminy Orły położona na wschód od linii wyznaczonej przez drogę nr. 77, część gminy Żurawica na wschód od linii wyznaczonej przez drogę nr. 77 w powiecie przemyskim,
+gmina Laszki, Wiązownica, Radymno z miastem Radymno w powiecie jarosławskim,
+gmina Kamień, część gminy Sokołów Małopolski położona na północ od linii wyznaczonej przez drogę nr. 875 w powiecie rzeszowskim,
+gminy Cmolas, Dzikowiec, Kolbuszowa, Majdan Królewski i Niwiska powiecie kolbuszowskim,
+część powiatu leżajskiego niewymieniona w części I załącznika I,
+powiat niżański,
+powiat tarnobrzeski,
+powiat miejski Tarnobrzeg,
+gmina Ostrów, część gminy Sędziszów Małopolski położona na północ od linii wyznaczonej przez drogę nr. A4 w powiecie ropczycko – sędziszowskim,
+część gminy Czarna położona na północ od linii wyznaczonej przez drogę nr. A4, część gminy Żyraków położona na północ od linii wyznaczonej przez drogę nr. A4, część gminy wiejskiej Dębica położona na północ od linii wyznaczonej przez drogę nr. A4 w powiecie dębickim,
+powiat mielecki,
+gminy Dębowiec, Krempna, Osiek Jasielski, Skołyszyn, miasto Jasło, część gminy wiejskiej Jasło położona na południe od miasta Jasło, część gminy Nowy Żmigród położona na południe od linii wyznaczonej przez drogę nr. 993 w powiecie jasielskim,
+gminy Jaśliska, Rymanów, Iwonicz Zdrój, Dukla w powiecie krośnieńskim,
+gmina Besko, część gminy Zarszyn położona na południe od linii wynaczonej prze linię kolejową biegnącą od zachodniej do wschodniej granicy gminy, część gminy Komańcza położona na zachód od linii wyznaczonej przez linię kolejową biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 889 oraz na południe od drogi nr. 889 biegnącej od tego skrzyżowania do północnej granicy gminy w powiecie sanockim,
+w województwie małopolskim:
+gminy Lipinki, Sękowa, Uście Gorlickie, miasto Gorlice, część gminy wiejskiej Gorlice położona na południe od linii wyznaczonej przez linię kolejową biegnącą od wschodniej do zachodniej granicy gminy, część gminy Biecz położona na wschód od linii wyznaczonej przez drogę nr. 28 w powiecie gorlickim,
+w województwie pomorskim:
+gminy Mikołajki Pomorskie, Dzierzgoń i Stary Dzierzgoń, Stary Targ w powiecie sztumskim,
+gmina Stare Pole, część gminy Nowy Staw położna na wschód od linii wyznaczonej przez drogę nr. 55 w powiecie malborskim,
+gminy Stegny, Sztutowo i część gminy Nowy Dwór Gdański położona na północny - wschód od linii wyznaczonej przez drogę nr. 55 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr. 7, następnie przez drogę nr. 7 i S7 biegnącą do zachodniej granicy gminy w powiecie nowodworskim,
+gmina Prabuty w powiecie kwidzyńskim,
+w województwie świętokrzyskim:
+gminy Tarłów i Ożarów w powiecie opatowskim,
+gminy Dwikozy, Wilczyce, Zawichost w powiecie sandomierskim,
+w województwie lubuskim:
+gminy Bogdaniec, Deszczno, Kłodawa, Kostrzyn nad Odrą, Santok, Witnica w powiecie gorzowskim,
+powiat miejski Gorzów Wielkopolski,
+powiat żarski,
+powiat słubicki,
+powiat żagański,
+powiat krośnieński,
+powiat zielonogórski,
+powiat miejski Zielona Góra,
+powiat nowosolski,
+powiat sulęciński,
+powiat międzyrzecki,
+powiat świebodziński,
+powiat wschowski,
+w województwie dolnośląskim:
+powiat zgorzelecki,
+powiat polkowicki,
+powiat wołowski,
+gmina Jeżów Sudecki w powiecie karkonoskim,
+powiat lubiński,
+powiat średzki,
+gmina Mściwojów, Wądroże Wielkie, część gminy Męcinka położona na północ od drogi nr. 363 w powiecie jaworskim,
+powiat miejski Legnica,
+powiat legnicki,
+powiat trzebnicki,
+powiat lubański,
+powiat miejski Wrocław,
+gminy Czernica, Długołęka, Siechnice, Mietków, Kąty Wrocławskie, część gminy Żórawina położona na wschód od linii wyznaczonej przez autostradę A4 w powiecie wrocławskim,
+gminy Jelcz - Laskowice, Oława z miastem Oława i część gminy Domaniów położona na północny wschód od linii wyznaczonej przez autostradę A4 w powiecie oławskim,
+gmina Bierutów, Dziadowa Kłoda, miasto Oleśnica, część gminy wiejskiej Oleśnica położona na południe od linii wyznaczonej przez drogę nr. S8, część gminy Dobroszyce położona na zachód od linii wyznaczonej przez linię kolejową biegnącą od północnej do południowej granicy gminy w powiecie oleśnickim,
+powiat bolesławiecki,
+powiat milicki,
+powiat górowski,
+powiat głogowski,
+gmina Świerzawa, Wojcieszów, Zagrodno, część gminy wiejskiej Złotoryja położona na wschód od linii wyznaczonej przez drogę biegnącą od północnej granicy gminy w miejscowości Nowa Wieś Złotoryjska do granicy miasta Złotoryja oraz na północ od linii wyznaczonej przez drogę nr. 382 biegnącą od granicy miasta Złotoryja do wschodniej granicy gminy w powiecie złotoryjskim,
+powiat lwówecki,
+gminy Czarny Bór, Stare Bogaczowice, Walim, miasto Boguszów - Gorce, miasto Jedlina – Zdrój, miasto Szczawno – Zdrój w powiecie wałbrzyskim,
+powiat miejski Wałbrzych,
+część powiatu świdnickiego niewymieniona w części I załącznika I,
+w województwie wielkopolskim:
+powiat wolsztyński,
+powiat grodziski,
+powiat kościański,
+gminy Brodnica, Śrem, część gminy Dolsk położona na zachód od linii wyznaczonej przez drogę nr. 434 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr. 437, a następnie na zachód od drogi nr. 437 biegnącej od skrzyżowania z drogą nr. 434 do południowej granicy gminy w powiecie śremskim,
+gmina Zaniemyśl w powiecie średzkim,
+powiat międzychodzki,
+powiat nowotomyski,
+gmina Ryczywół, część gminy Rogoźno położona na północ od linii wyznaczonej przez drogi łączące miejscowości Rożnowo – Szczytno – Boguniewo – Studzieniec – Budziszewko – Budziszewice w powiecie obornickim,
+vczęść gminy Połajewo na położona na południe od drogi łączącej miejscowości Chraplewo, Tarnówko-Boruszyn, Krosin, Jakubowo, Połajewo – ul. Ryczywolska do północno-wschodniej granicy gminy w powiecie czarnkowsko-trzcianeckim,
+powiat miejski Poznań,
+gminy Buk, Dopiewo, Komorniki, Kórnik, Mosina, Stęszew, Swarzędz, Tarnowo Podgórne, miasto Luboń, miasto Puszczykowo w powiecie poznańskim,
+powiat rawicki,
+gminy Duszniki, Kaźmierz, Ostroróg, Pniewy, część gminy Wronki niewymieniona w części I załącznika I w powiecie szamotulskim,
+część powiatu gostyńskiego niewymieniona w części I załącznika I,
+gminy Kobylin, Zduny, Krotoszyn, miasto Sulmierzyce w powiecie krotoszyńskim,
+część gminy wiejskiej Ostrów Wielkopolski położona na zachód od linii wyznaczonej przez drogę łączącą miejscowości Sulisław – Łąkociny – Wierzbno w powiecie ostrowskim,
+gminy Włoszakowice, Święciechowa, Wijewo, część gminy Rydzyna położona na południe od linii wyznaczonej przez kanał Kopanica (Rów Polski) w powiecie leszczyńskim,
+w województwie łódzkim:
+gminy Biała Rawska, Regnów i Sadkowice w powiecie rawskim,
+gmina Kowiesy w powiecie skierniewickim,
+w województwie zachodniopomorskim:
+gmina Boleszkowice, część gminy Myślibórz położona na zachód od linii wyznaczonej przez drogę nr. 23 biegnącej od południowej granicy gminy do skrzyżowania z drogą nr. 26, następnie na zachód od drogi nr. 26 biegnącej od tego skrzyżowania do skrzyżowania z drogą nr. 119 i dalej na zachód od drogi nr. 119 biegnącej od skrzyżowania z drogą nr. 26 do północnej granicy gminy, część gminy Dębno położona na zachód od linii wyznaczonej przez drogę nr. 126 biegnącą od zachodniej granicy gminy do skrzyżowania z drogą nr. 23 w miejscowości Dębno, następnie na zachód od linii wyznaczonej przez drogę nr. 23 do skrzyżowania z ul. Jana Pawła II w miejscowości Cychry, następnie na południe od ul. Jana Pawła II do skrzyżowania z ul. Ogrodową i dalej na południe od linii wyznaczonej przez ul. Ogrodową, której przedłużenie biegnie do wschodniej granicy gminy w powiecie myśliborskim,
+gminy Bielice, Kozielice w powiecie pyrzyckim,
+powiat gryfiński,
+powiat policki,
+część miasta Szczecin niewymieniona w części I załącznika I,
+gminy Goleniów i Stepnica w powiecie goleniowskim,
+w województwie opolskim:
+gminy Brzeg, Lubsza, Lewin Brzeski, Olszanka, Skarbimierz, część gminy Grodków położona na wschód od linii wyznaczonej przez linię kolejową w powiecie brzeskim,
+gminy Dąbrowa, Dobrzeń Wielki, Popielów, Murów, Niemodlin, Tułowice, część gminy Łubniany położona na północ od linii wyznaczonej przez drogę łączącą miejscowości Świerkle – Masów, ulicę Leśną w miejscowości Masów oraz na północ od ulicy Kolanowskiej biegnącej do wschodniej granicy gminy, część gminy Turawa położona na północ od linii wyznaczonej przez ulice Powstańców Śląskich -Kolanowską -Opolską – Kotorską w miejscowości Węgry i dalej na północ od drogi łączącej miejscowości Węgry- Kotórz Mały – Turawa – Rzędów – Kadłub Turawski – Zakrzów Turawski biegnącą do wschodniej granicy gminy w powiecie opolskim,
+gminy Lasowice Wielkie, Wołczyn, część gminy Kluczbork położona na południe od linii wyznaczonej przez drogę nr. 42 biegnącą od zachodniej granicy gminy do skrzyżowana z drogą nr. 45, a następnie od tego skrzyżowania na zachód od linii wyznaczonej przez drogę nr. 45 do skrzyżowania z ulicą Fabryczną w miejscowości Kluczbork i dalej na południe od linii wyznaczonej przez ulice Fabryczna -Dzierżonia – Strzelecka w miejscowości Kluczbork do wschodniej granicy gminyw powiecie kluczborskim,
+powiat namysłowski,
+w województwie śląskim:
+powiat miejski Sosnowiec,
+powiat miejski Dąbrowa Górnicza,
+gminy Bobrowniki, Mierzęcice, Psary, Siewierz, miasto Będzin, miasto Czeladź, miasto Wojkowice w powiecie będzińskim,
+gminy Łazy i Poręba w powiecie zawierciańskim.
+8. Slovacia
+Următoarele zone de restricții II din Slovacia:
+— întregul district Gelnica,
+— the whole district of Poprad,
+— the whole district of Spišská Nová Ves,
+— the whole district of Levoča,
+— the whole district of Kežmarok,
+— the whole district of Michalovce, except municipalities included in zone III,
+— the whole district of Medzilaborce,
+— the whole district of Košice-okolie,
+— the whole district of Rožnava,
+— the whole city of Košice,
+— the whole district of Sobrance, except municipalities included in zone III,
+— the whole district of Vranov nad Topľou,
+— the whole district of Humenné,
+— the whole district of Snina,
+— the whole district of Prešov,
+— the whole district of Sabinov,
+— the whole district of Svidník,
+— the whole district of Stropkov,
+— the whole district of Bardejov,
+— the whole district of Stará Ľubovňa,
+— the whole district of Revúca,
+— the whole district of Rimavská Sobota,
+— in the district of Veľký Krtíš, the whole municipalities not included in part I,
+— the whole district of Lučenec,
+— the whole district of Poltár,
+— the whole district of Zvolen,
+— the whole district of Detva,
+— the whole district of Krupina, except municipalities included in zone I,
+— the whole district of Banska Stiavnica,
+— the whole district of Žarnovica,
+— the whole district of Banska Bystica,
+— the whole district of Brezno,
+— the whole district of Liptovsky Mikuláš,
+— the whole district of Trebišov’,
+— the whole district of Zlaté Moravce,
+— in the district of Levice the municipality of Kozárovce, Kalná nad Hronom, Nový Tekov, Malé Kozmálovce, Veľké Kozmálovce, Tlmače, Rybník, Hronské Kosihy, Čajkov, Nová Dedina, Devičany, Bátovce, Pečenice, Jabloňovce, Bohunice, Pukanec, Uhliská, Drženice,
+— in the district of Turčianske Teplice, municipalties of Turček, Horná Štubňa, Čremošné, Háj, Rakša, Mošovce,
+— in the district of Ružomberok, municipalties of Liptovské revúce, Liptovská osada, Liptovská Lúžna,
+— the whole district Žiar nad Hronom,
+— in the district of Prievidza, municipalties of Kamenec pod Vtáčnikom, Bystričany, Čereňany, Oslany, Horná Ves, Radobica,
+— in the district of Partizánske, the municipalities of Veľké Uherce, Pažiť, Kolačno, Veľký Klíž, Ješkova Ves, Klátová Nová Ves.
+9. Italia
+Următoarele zone de restricții II din Italia:
+Piedmont Region:
+in the Province of Alessandria the following Municipalities: Alessandria, Tortona, Carbonara Scrivia, Frugarolo, Paderna, Spineto Scrivia, Castellazzo Bormida, Bosco Marengo, Castelspina, Casal Cermelli, Alice Bel Colle, Terzo, Bistagno, Cavatore, Castelnuovo Bormida, Cabella Ligure, Carrega Ligure, Francavilla Bisio, Carpeneto, Costa Vescovato, Grognardo, Orsara Bormida, Pasturana, Melazzo, Mornese, Ovada, Predosa, Lerma, Fraconalto, Rivalta Bormida, Fresonara, Malvicino, Ponzone, San Cristoforo, Sezzadio, Rocca Grimalda, Garbagna, Tassarolo, Mongiardino Ligure, Morsasco, Montaldo Bormida, Prasco, Montaldeo, Belforte Monferrato, Albera Ligure, Bosio, Cantalupo Ligure, Castelletto D’orba, Cartosio, Acqui Terme, Arquata Scrivia, Parodi Ligure, Ricaldone, Gavi, Cremolino, Brignano-Frascata, Novi Ligure, Molare, Cassinelle, Morbello, Avolasca, Carezzano, Basaluzzo, Dernice, Trisobbio, Strevi, Sant’Agata Fossili, Pareto, Visone, Voltaggio, Tagliolo Monferrato, Casaleggio Boiro, Capriata D’orba, Castellania, Carrosio, Cassine, Vignole Borbera, Serravalle Scrivia, Silvano D’orba, Villalvernia, Roccaforte Ligure, Rocchetta Ligure, Sardigliano, Stazzano, Borghetto Di Borbera, Grondona, Cassano Spinola, Montacuto, Gremiasco, San Sebastiano Curone, Fabbrica Curone, Spigno Monferrato, Montechiaro d’Acqui, Castelletto d’Erro, Ponti, Denice, Pozzolo Formigaro, Cerreto Grue, Casasco, Montegioco, Montemarzino, Momperone, Merana, Pozzol Groppo, Villaromagnano, Sarezzano, Monleale, Volpedo, Casalnoceto,
+in the province of Asti the following Municipalities: Mombaldone, Castel Rocchero, Montabone, Sessame, Monatero Bormida, Roccaverano, Vesime, Cessole, Loazzolo, San Giorgio Scarampi, Olmo Gentile, Bubbio, Rocchetta Palafea, Cassinasco, Castel Boglione, Serole,
+In the Province of Cuneo, Municipality of Saliceto,
+Liguria Region:
+in the province of Genova the following Municipalities: Bogliasco, Arenzano, Ceranesi, Ronco Scrivia, Mele, Isola Del Cantone, Lumarzo, Genova, Masone, Serra Riccò, Campo Ligure, Mignanego, Busalla, Bargagli, Savignone, Torriglia, Rossiglione, Sant’Olcese, Valbrevenna, Sori, Tiglieto, Campomorone, Cogoleto, Pieve Ligure, Davagna, Casella, Montoggio, Crocefieschi, Vobbia, Fascia, Gorreto, Propata, Rondanina, Neirone, Montebruno, Uscio, Avegno, Recco, Tribogna, Moconesi, Favale Di Malvaro, Cicagna, Lorsica, Rapallo, Rezzoaglio, Orero, Fontanigorda, Rovegno, San Colombano Certenoli, Coreglia Ligure, Borzonasca,
+in the province of Savona the following Municipalities: Savona, Cairo Montenotte, Quiliano, Altare, Albisola Superiore, Celle Ligure, Stella, Pontinvrea, Varazze, Urbe, Sassello, Mioglia, Giusvalla, Dego, Vado Ligure, Albissola Marina, Carcare, Plodio, Cosseria, Piana Crixia, Mallare, Pallare, Roccavignale, Millesimo, Cengio,
+Lombardia Region:
+In the Province of Pavia the following Municipalities: Ponte Nizza, Bagnaria, Brallo Di Pregola, Menconico, Zavattarello, Romagnese, Varzi, Val Di Nizza, Santa Margherita Di Staffora, Cecima, Colli Verdi – Valverde, Borgoratto Mormorolo, Godiasco, Rocca Susella, Fortunago, Montesegale, Borgo Priolo, Rivanazzano, Torrazza Coste, Retorbido, Codevilla,
+Emilia-Romagna Region:
+in the province of Piacenza the following Municipalities: Ottone (ovest fiume Trebbia), Zerba,
+Lazio Region:
+the Area of Rome Municipality within the administrative boundaries of the Local Heatlh Unit „ASL RM1”,
+Sardinia Region:
+South Province of Sardinia: Barumi, Escolca, Escolca Isola Amministrativa, Esterzili, Genoni, Gergei, Gesturi, Isili, Mandas, Nuragas, Nurallao, Nurri, Orroli, Sadali, Serri, Seui, Seulo, Villanova Tulo,
+Nuoro Province: Aritzo, Austis, Belvi, Fonni, Gadoni, Gavoi, Lodine, Macomer (East of SS 131), Meana Sardo, Ollolai, Olzai, Orotelli, Osidda, Ottana, Ovodda, Sarule, Teti, Tiana, Tonara, Ussassai,
+Oristano Province: Laconi, Nureci,
+Sassari Province: Anela, Benetutti, Boni, Bonorva (East SS 131), Bottidda, Buddusò, Bultei, Burgos, Esporlatu, Giave (East SS 131), Illorai, Ittireddu, Mores (South SS 128 bis – SP 63), Nughedu di San Nicolò, Nule, Oschiri (South E 840), Ozieri (South SP 63 – SP 1 – SS 199), Pattada and Torralba (East SS 131),
+Calabria Region:
+In Reggio Calabria Province the following Municipalities: Cardeto, Motta San Giovanni, Montebello Ionico, Sant’eufemia D’aspromonte, Sant’Alessio in Aspromonte, Sinopoli, San Roberto, San Lorenzo, San Procopio, Palmi, Melito di Porto Salvo, Laganadi, Calanna, Melicuccà, Santo Stefano in Aspromonte, Seminara, Reggio Calabria, Scilla, Condofuri, Bagaladi, Bagnara Calabra, Fiumara, Bova Marina, Villa San Giovanni, Campo Calabro,
+In Basilicata Region
+In Potenza Province the following Municipalities: Moliterno, Lagonegro, Grumento Nova, Paterno, Tramutola,
+In Campania Region:
+In Salerno Province the following Municipalities: Sassano, Casaletto Spartano, Montesano sulla Marcellana, Casalbuono, Buonabitacolo, Sanza, Padula, Caselle in Pittari.
+10. Cehia
+Următoarele zone de restricții II din Cehia:
+Liberecký kraj:
+v okrese Liberec katastrální území obcí Arnoltice u Bulovky, Hajniště pod Smrkem, Nové Město pod Smrkem, Dětřichovec, Bulovka, Horní Řasnice, Dolní Pertoltice, Krásný Les u Frýdlantu, Jindřichovice pod Smrkem, Horní Pertoltice, Dolní Řasnice, Raspenava, Dolní Oldřiš, Ludvíkov pod Smrkem, Lázně Libverda, Háj u Habartic, Habartice u Frýdlantu, Kunratice u Frýdlantu, Víska u Frýdlantu, Poustka u Frýdlantu, Višňová u Frýdlantu, Předlánce, Černousy, Boleslav, Ves, Andělka, Frýdlant, Srbská, Hejnice, Bílý Potok pod Smrkem.
+v okrese Česká Lípa katastrální území obcí Bohatice u Zákup, Boreček, Božíkov, Brenná, Doksy u Máchova jezera, Hradčany nad Ploučnicí, Kuřívody, Mimoň, Pertoltice pod Ralskem, Ploužnice pod Ralskem, Provodín, Svébořice, Veselí nad Ploučnicí, Vranov pod Ralskem.
+PARTEA III
+1. Bulgaria
+Următoarele zone de restricții III din Bulgaria:
+the Pazardzhik region:
+in municipality of Pazardzhik the villages of Apriltsi, Sbor, Tsar Asen, Rosen, Ovtchepoltsi, Gelemenovo, Saraya, Yunatsite, Velitchkovo,
+in municipality of Panagyurishte the villages of Popintsi, Levski, Elshitsa,
+in municipality of Lesitchovo the villages of Pamidovo, Dinkata, Shtarkovo, Kalugerovo,
+in municipality of Septemvri the village of Karabunar,
+in municipality of Streltcha the village of Svoboda,
+the Montana region:
+municipalities of Vulchedrum and Lom,
+the Lovech region:
+municipalities of Lukovit and Yablanitsa,
+the Vratsa region:
+municipality of Roman.
+2. Italia
+Următoarele zone de restricții III din Italia:
+Sardinia Region:
+Nuoro Municipality: Arzana, Baunei, Desulo, Mamoiada, Nuoro, Oniferi, Orani, Orgosolo, Talana, Triei, Urzulei, Villagrande Strisaili,
+Calabria Region:
+In Reggio Calabria Province, Municipalities of: Cosoleto, Delianuova, Varapodio, Oppido Mamertina, Molochio, Terranova Sappo Minulio, Platì, Ciminà, Santa Cristina D’aspromonte, Scido, Ardore, Benestare, Careri, Casignana, Bianco, Bovalino, Sant’agata del Bianco, Samo, Africo, Brancaleone, Palizzi, Staiti, Ferruzzano, Bova, Caraffa del Bianco, Bruzzano Zeffirio, San Luca, Roghudi, Roccaforte del Greco, Roghudi, Roccaforte del Greco.
+3. Letonia
+Următoarele zone de restricții III din Letonia:
+— Gulbenes novada Beļavas, Litenes, Stāmerienas, Stradu pagasts, Gulbenes pilsēta,
+— Krāslavas novada Robežnieku, Indras, Kalniešu, Skaistas, Asūnes pagasts,
+— Madonas novada Cesvaines, Sarkaņu, Dzelzavas, Lazdonas, Ļaudonas, Praulienas, Mārcienas, Mētrienas pagasts, Liezēres pagasta daļa uz austrumiem no autoceļa P30, Aronas pagasta daļa uz austrumiem no autoceļa P30, Barkavas pagasta daļa uz Austrumiem no autoceļa Meirānu kanāls – Vēršuzepi, Cesvaines pilsēta,
+— Jēkabpils novada Kūku, Mežāres, Vīpes pagasts, Dignājas pagasta daļa uz ziemeļiem no autoceļa V824, Ābeļu pagasta daļa uz austrumiem no autoceļa posmā no apdzīvotas vietas Laši līdz Ābeļu pagasta robežai,
+— Līvānu novada Turku pagasts,
+— Rēzeknes novada Nagļu, Rikavas pagasts, Gaigalavas pagasta daļa uz Rietumiem no autoceļa P36, Dricānu pagasta daļa uz Rietumiem no autoceļa P36, Dekšāres pagasta daļa uz Ziemeļiem no autoceļa A12, Viļānu pagasta daļa uz Ziemeļiem no autoceļa A12,
+— Varakļānu novada Varakļānu pagasta daļa uz Austrumiem no autoceļa V869.
+4. Lituania
+Următoarele zone de restricții III din Lituania:
+— Jurbarko rajono savivaldybė: Jurbarko miesto seniūnija, Girdžių, Jurbarkų Raudonės, Skirsnemunės, Veliuonos ir Šimkaičių seniūnijos,
+— Molėtų rajono savivaldybė: Dubingių ir Giedraičių seniūnijos,
+— Marijampolės savivaldybė,
+— Šakių rajono savivaldybė: Barzdų, Gelgaudiškio, Griškabūdžio, Kidulių, Kudirkos Naumiesčio, Sintautų, Slavikų, Sudargo, Šakių, Plokščių ir Žvirgždaičių seniūnijos,
+— Kalvarijos savivaldybė,
+— Kazlų rūdos savivaldybė: Antanavos, Jankų ir Kazlų Rūdos seniūnijos: vakarinė dalis iki kelio 2602 ir 183,
+— Kelmės rajono savivaldybė: Kelmės apylinkių, Kukečių, Šaukėnų ir Užvenčio seniūnijos,
+— Vilkaviškio rajono savivaldybė,
+— Širvintų rajono savivaldybė: Alionių ir Zibalų seniūnijos,
+— Šiaulių rajono savivaldybė: Bubių, Kuršėnų kaimiškoji ir Kuršėnų miesto seniūnijos,
+— Ukmergės rajono savivaldybė: Želvos seniūnija,
+— Vilniaus rajono savivaldybė: Paberžės seniūnija.
+5. Polonia
+Următoarele zone de restricții III din Polonia:
+w województwie warmińsko-mazurskim:
+gmina Banie Mazurskie w powiecie godłapskim,
+gmina Budry, część gminy Pozezdrze położona na wschód od linii wyznaczonej przez drogę nr. 63, część gminy Węgorzewo położona na wschód od linii wyznaczonej przez drogę nr. 650 biegnącą od wschodniej granicy gminy do skrzyżowania z drogą nr. 63 w miejscowości Węgorzewo, a następnie od tego skrzyżowania na wschód od linii wyznaczonej przez drogę nr. 63 biegnącą do południowej granicy gminy w powiecie węgorzewskim,
+część gminy Kruklanki położna na północ od linii wyznaczonej przez drogę biegnącą od wschodniej do północnej granicy gminy i łączącej miejscowości Leśny Zakątek – Podleśne – Jeziorowskie – Jasieniec – Jakunówko w powiecie giżyckim,
+w województwie wielkopolskim:
+gminy Krzemieniewo, Lipno, Osieczna, część gminy Rydzyna położona na północ od linii wyznaczonej przez kanał Kopanica (Rów Polski) w powiecie leszczyńskim,
+powiat miejski Leszno,
+gmina Śmigiel, miasto Kościan, część gminy Kościan położona na południe od linii wyznaczonej przez drogę łączącą miejscowości Spytkówka – Stary Lubosz – Kościan, biegnącą od wschodniej granicy gminy do granicy miasta Kościan oraz na wschód od linii wyznaczonej przez drogę biegnącą od granicy miasta Kościan i łączącą miejscowości Czarkowo – Ponin do południowej granicy gminy, część gminy Krzywiń położona na zachód od linii wyznaczonej przez drogę nr. 308 w powiecie kościańskim,
+gmina Międzychód, część gminy Sieraków położona za zachód od liini wyznaczonej przez drogę nr. 150 biegnącą od północnej granicy gminy do miejscowości Sieraków, a następnie na zachód od linii wyznaczonej przez drogę nr. 133 biegnącą od skrzyżowania z drogę nr. 150 do skrzyżowania z drogą nr. 182 i dalej na zachód od linii wyznaczonej przez drogę łączącą miejscowość Sieraków od skrzyżowania z drogą nr. 182 i lączącą miejscowości Góra – Śrem – Kurnatowice do południowej granicy gminy, część gminy Kwilcz położona na zachód od linii wyznaczonej przez drogę nr. 186 biegnącą od północnej granicy gminy do skrzyżowania z drogąnr 24 w miejscowości Kwilcz, a następnie na zachód od linii wyznaczonej przez drogę biegnącą od skrzyżowania z drogą nr. 24 do zachodniej granicy gminy i łączącą miejscowości Kwilcz – Stara Dąbrowa - Miłostowo w powiecie międzychodzkim,
+gmina Oborniki, część gminy Rogoźno położona na południe od linii wyznaczonej przez drogi łączące miejscowości Rożnowo – Szczytno – Boguniewo – Studzieniec – Budziszewko – Budziszewice w powiecie obornickim,
+gminy Czerwonak, Murowana Goślina, Suchy Las, Rokietnica w powiecie poznańskim,
+część gminy Skoki położna na zachód od linii wyznaczonej przez drogę 197 biegnącą od południowej granicy gminy do skrzyżowania z drogą nr. 196, następnie na zachód od linii wyznaczonej przez drogę nr. 196 biegnącą od tego skrzyżowania do miejscowości Skoki i dalej na zachód od linii wyznaczonej przez drogę łączącą miejscowości Skoki – Rościnno - Grzybowo biegnącą od skrzyżowania z drogą nr. 196 do zachodniej granicy gminy w powiecie wągrowieckim
+gminy Obrzycko z miastem Obrzycko, Szamotuły w powiecie szamotulskim,
+w województwie lubelskim:
+gmina Milanów, Jabłoń, Parczew, Siemień, część gminy Dębowa Kłoda położona na zachód od linii wyznaczonej przez drogę łączącą miejscowości Przewłoka-Dębowa Kłoda biegnąca od północnej granicy gminy do miejscowości Dębowa Kłoda, a następnie na zachód od linii wyznaczonej przez drogę nr. 819 biegnąca od miejscowości Dębowa Kłoda do południowej granicy gminy w powiecie parczewskim,
+gmina Wohyń, Komarówka Podlaska, część gminy Radzyń Podlaski położona na wschód od linii wyznaczonej przez drogę nr. 19 biegnącą od północnej granicy gminy do granicy miasta Radzyń Podlaski oraz na wschód od miasta Radzyń Podlaski w powiecie radzyńskim,
+część gminy Drelów położona na południe od kanału Wieprz – Krzna, część gminy Wisznice położona na zachód od linii wyznaczonej przez drogę nr. 812 w powiecie bialskim,
+gminy Niedźwiada, Ostrów Lubelski, Serniki, Uścimów w powiecie lubartowskim,
+gminy Dorohusk, Kamień, Ruda - Huta, Sawin, część gminy wiejskiej Chełm położona na wschód od linii wyznaczonej przez drogę nr. 812 biegnącą od północnej granicy gminy do granicy miasta Chełm w powiecie chełmskim,
+powiat miejski Chełm,
+gmina Wola Uhruska w powiecie włodawskim,
+w województwie mazowieckim:
+część gminy wiejskiej Przasnysz położona na południe od linii wyznaczonej przez drogę biegnącą od wschodniej granicy gminy do granicy miasta Przasnysz, łączącej miejscowości Dębiny – Bartniki – Przasnysz oraz na wschód od linii wyznaczonej przez drogę biegnącą od południowej granicy miasta Przasnysz do południowej granicy gminy i łączącej miejscowości Przasnysz – Leszno – Gostkowo w powiecie przasnyskim,
+gminy Czerwonka, Płoniawy – Bramura, Krasnosielc, Sypniewo w powiecie makowskim,
+gmina Mirów powiecie szydłowieckim,
+gminy Iłża, Wierzbica, część gminy Kowala położona na południe od linii wyznaczonej przez drogę nr. 733 biegnącą od wschodniej granicy gminy do skrzyżowania z drogą nr. 744 w miejscowości Maliszów i dalej na wschód od linii wyznaczonej przez drogę nr. 744 biegnącą od miejscowości Maliszów do południowej granicy gminy, część gminy Skaryszew położona na zachód od linii wyznaczonej przez drogę nr. 9 biegnącą od północnej granicy gminy do skrzyżowania z drogą nr. 733, a następnie na południe od linii wyznaczonej przez drogę nr. 733 biegnącą od tego skrzyżowania do wschodniej granicy gminy, w powiecie radomskim,
+w województwie świętokrzyskim:
+część gminy Mirzec położona na północ od linii wyznaczonej przez drogę biegnącą od zachodniej granicy gminy do miejscowości Mirzec, łączącą miejscowości Gadka – Mirzec, a następnie na północ od linii wyznaczonej przez drogę nr. 744 biegnącą od miejscowości Mirzec do wschodniej granicy gminy w powiecie starachowickim.
+6. România
+Următoarele zone de restricții III din România:
+— Zona orașului București,
+— Județul Constanța,
+— Județul Satu Mare,
+— Județul Tulcea,
+— Județul Bacău,
+— Județul Bihor,
+— Județul Bistrița Năsăud,
+— Județul Brăila,
+— Județul Buzău,
+— Județul Călărași,
+— Județul Dâmbovița,
+— Județul Galați,
+— Județul Giurgiu,
+— Județul Ialomița,
+— Județul Ilfov,
+— Județul Prahova,
+— Județul Sălaj,
+— Județul Suceava
+— Județul Vaslui,
+— Județul Vrancea,
+— Județul Teleorman,
+— Județul Mehedinți,
+— Județul Gorj,
+— Județul Argeș,
+— Județul Olt,
+— Județul Dolj,
+— Județul Arad,
+— Județul Timiș,
+— Județul Covasna,
+— Județul Brașov,
+— Județul Botoșani,
+— Județul Vâlcea,
+— Județul Iași,
+— Județul Hunedoara,
+— Județul Alba,
+— Județul Sibiu,
+— Județul Caraș-Severin,
+— Județul Neamț,
+— Județul Harghita,
+— Județul Mureș,
+— Județul Cluj,
+— Județul Maramureș.
+7. Germania
+Următoarele zone de restricții III din Germania:
+Bundesland Brandenburg:
+Kreisfreie Stadt Cottbus,
+Landkreis Spree-Neiße:
+Gemeinde Kolkwitz mit den Gemarkungen Hänchen, Klein Gaglow, Kolkwitz, Gulben, Papitz, Glinzig, Limberg und Krieschow,
+Gemeinde Drebkau mit den Gemarkungen Jehserig, Domsdorf, Drebkau, Laubst, Leuthen, Siewisch, Casel und der Gemarkung Schorbus bis zur L521,
+Gemeinde Neuhausen/Spree mit den Gemarkungen Groß Oßnig, Klein Döbbern, Groß Döbbern, Haasow, Kathlow, Frauendorf, Koppatz, Roggosen, Sergen, Komptendorf, Laubsdorf, Neuhausen, Drieschnitz, Kahsel und Bagenz,
+Gemeinde Spremberg mit den Gemarkungen Sellessen, Bühlow, Groß Buckow, Klein Buckow, Spremberg, Radeweise und Straußdorf.
+8. Grecia
+Următoarele zone de restricții III din Grecia:
+— in the regional unit of Serres:
+— the municipal departments of Irakleia, Valtero, Dasochori, Karperi, Koimisi, Lithotopos, Limnochori, Pontismeno, Chrysochorafa, Ammoudia, Gefiroudi, Triada, Cheimaros, Ζeugolatio, Kalokastro, Livadochori and Strimoniko (Irakleia Municipality),
+— the municipal departments of Kamaroto, Kerkini, Livadia, Makrynitsa, Neochori Sintikis, Platanakia, Kastanousi, Rodopoli, Ano Poroia, Kato Poroia, Akritochori, Neo Petritsi, Vyroneia, Megalochori, Mandraki, Strymonochori, Charopo, Chortero and Gonimo, part of the municipal department of Sidirokastro and the community department of Promahonas (Sintiki Municipality),
+— the municipal departments of Anagennisi, Vamvakia and Provatas (Serres Municipality),
+— the municipal departments of Ampeloi, Vergi, Dimitritsi, Nikokleia and Triantafilia (Visaltia Municipality),
+— in the regional unit of Kilkis:
+— the municipal departments of Vathi, Agios Markos, Pontokerasea, Drosato, Amaranta, Antigoneia, Gerakario, Kokkinia, Tripotamos, Fyska, Myriofyto, Kentriko, Mouries, Agia Paraskevi, Stathmos Mourion, Kato Theodoraki, Melanthio, Anavrito, Elliniko, Eptalofos, Eukarpia, Theodosia, Isoma, Koiladi, Koronouda, Akritas, Kilkis, Lipsidrio, Stavrochori, Plagia, Cherso and Terpillos (Kilkis Municipality),
+— in the regional unit of Thessaloniki:
+— the municipal departments of Vertiskos, Ossa, Karteres, Lahanas, Leukochori, Nikopoli, Xilopoli, Krioneri and Sochos (Lagadas Municipality).
+9. Estonia
+Următoarele zone de restricții III din Estonia:
+— The following villages in Rõuge vald:
+— Tsiistre
+— Preeksa
+— Savioja
+— Kärinä
+— Põdramõtsa
+— Põnni
+— Hürsi
+— Horoski
+— Saagri
+— Purka
+— Kääraku
+— Mahtja
+— Kõomäe
+— Kotka
+— Palujüri
+— Pundi
+— Meelaku
+— Tsolli
+— Leoski
+— Holdi
+— Kergatsi
+— Haavistu
+— Pressi
+— Hämkoti
+— Kirbu
+— Ala-Suhka
+— Tummelka
+— Mäe-Suhka
+— Piipsemäe
+— Villa
+— Plaani
+— Pausakunnu
+— Vaalimäe
+— Puspuri
+— Tõnkova
+— Mäe-Lüütsepa
+— Tuuka
+— Missokülä
+— Tika
+— Pedejä
+— Sandi
+— Möldre
+— Mauri
+— Häärmäni
+— Sapi
+— Horosuu
+— Misso-Saika
+— Kundsa
+— Pältre
+— Saagrimäe
+— Savimäe
+— Välko-Tiilige
+— Ritsiko
+— Kiviora
+— Pupli
+— Siksälä
+— Muraski
+— Suurõsuu
+— Kurö
+— Misso alevik
+— Kimalasõ
+— Hino
+— Kurõ
+— Rammuka
+— Laisi
+— Murati
+— Kuklase
+— Kuura
+— Kaubi
+— Käbli
+— Savioja
+— Naapka
+— Andsumäe
+— Söödi
+— Ala-Palo
+— Sarise
+— Tsilgutaja
+— Vihkla
+— Posti
+— Laitsna-Hurda
+— Rusa
+— Vaarkali
+— Märdimiku
+— Kriguli
+— Vungi
+— Lillimõisa
+— Käänu
+— Ruusmäe
+— Pundi
+— Raagi
+— Palujüri
+— Hanija
+— Pausakunnu
+— Kotka
+— Vaalimäe
+— Plaani
+— Vorstimäe
+— Vastsekivi
+— Hulaku
+— Tuuka
+— Mäe-Lüütsepä
+— Rogosi-Mikita
+— Savioja
+— Kuura
+— Käbli
+— Puspuri
+— Tõnkova
+— The following villages in Setomaa vald:
+— Põrstõ
+— Määsi
+— Kriiva
+— Leimani
+— Napi
+— Tiilige
+— Saagri
+— Tiastõ
+— The following villages in Räpina vald:
+— Pindi
+— Võiardi
+— Ruusa
+— Võuküla
+— Pääsna
+— Jõevaara
+— Soohara
+— Sarvemäe
+— Süvahavva
+— Vareste
+— Himmiste
+— Timo
+— Viira
+— The following villages in Põlva vald:
+— Soesaare
+— Vanaküla
+— Kiisa
+— Lutsu
+— Naruski
+— Tromsi
+— Partsi
+— Uibujärve
+— Kanassaare
+— Kauksi
+— Kaaru
+— Miiaste
+— Adiste
+— Nooritsmetsa
+— Eoste
+— Valgesoo
+— Himmaste
+— Taevaskoja
+— Mammaste
+— Puuri
+— Tännassilma
+— Metste
+— Pragi
+— Himma
+— Andre
+— Meemaste
+— Peri
+— Rosma
+— The following towns in Põlva vald:
+— Põlva
+— The following villages in Võru vald:
+— Viitka
+— Vatsa
+— Perametsa
+— Heinasoo
+— Jeedasküla
+— Vana-Saaluste
+— Paloveere
+— Käpa
+— Kündja
+— Haava-Tsäpsi
+— Luhte
+— Kõo
+— Pari
+— Kirikumäe
+ANEXA II
+ZONE STABILITE LA NIVELUL UNIUNII CA ZONE INFECTATE SAU CA ZONE DE RESTRICȚII, CUPRINZÂND ZONE DE PROTECȚIE ȘI DE SUPRAVEGHERE
+[astfel cum se menționează la articolul 6 alineatul (2) și la articolul 7 alineatul (2)]
+PARTEA A
+Zone stabilite ca zone infectate în urma apariției unui focar de pestă porcină africană la porcine sălbatice într-un stat membru sau într-o zonă anterior indemne de boală:
+Stat membru: Croația
+Numărul de referință ADIS al focarului | Zona care cuprinde | Data până la care se aplică
+HR-ASF-2023-00074 | — Karlovačka županija — općina Rakovica — općina Slunj — općina Cetingrad — općina Plaški — općina Saborsko — Ličko-senjska županija — općina Plitvička jezera — Sisačko-moslavačka županija — općina Dvor — općina Donji Kukuruzari — općina Majur — grad Hrvatska Kostajnica — općina Hrvatska Dubica — naselje Slabinja — naselje Živaja — grad Glina — naselje Momčilović Kosa — naselje Trnovac Glinski — naselje Brestik — naselje Martinovići — naselje Mali Gradac — naselje Veliki Gradac — grad Petrinja — naselje Tremušnjak — naselje Veliki Šušnjar — naselje Donja Pastuša — naselje Mačkovo Selo — naselje Begovići — naselje Blinja — naselje Dodoši — naselje Miočinovići — naselje Bijelnik — naselje Jabukovac — naselje Jošavica — naselje Gornja Mlinoga — naselje Gornja Pastuša — općina Sunja — naselje Radonja Luka — naselje Čapljani — naselje Drljača — naselje Kladari — naselje Vukoševac — naselje Šaš — naselje Slovinci — naselje Četvrtkovac — naselje Jasenovčani — naselje Papići — naselje Mala Gradusa — naselje Timarci — naselje Mala Paukova — naselje Velika Gradusa — naselje Staza — naselje Kostreši Šaški — naselje Pobrđani — naselje Sjeverovac — naselje Donji Hrastovac | 26.10.2023
+Stat membru: Suedia
+Numărul de referință ADIS al focarului | Zona care cuprinde | Data până la care se aplică
+SE-ASF-2023-00001 | Districtul Västmanland: — 30 % din municipalitatea Västmanland, în partea de est, în apropiere de drumul nr. 66, — Total 100 % din municipalitatea Fagersta, — 68 % din municipalitatea Norberg, în partea de nord, în apropiere de drumul nr. 270 și nr. 68, — 6 % din municipalitatea Skinnskatteberg, în partea de sud, în apropiere de drumul nr. 250, — 0,4 % din municipalitatea Västerås, în partea de sud-est, în apropiere de drumul nr. 685 — 12 % din municipalitatea Sala, în partea de est, în apropiere de drumul nr. 68. Districtul Dalarna: — 1 % din municipalitatea Avesta, în partea de nord-est, în apropiere de drumul nr. 693 — 6 % din municipalitatea Smedjebacken, în partea de vest, în apropiere de drumul nr. 66. | 6.12.2023
+PARTEA B
+Zone stabilite ca zone de restricții, cuprinzând zone de protecție și de supraveghere, ca urmare a apariției unui focar de pestă porcină africană la porcine deținute într-un stat membru sau într-o zonă anterior indemne de boală:
+Stat membru: Croația
+Numărul de referință ADIS al focarului | Zona care cuprinde | Data până la care se aplică
+HR-ASF-2023-00001 | Zona de protecție include următoarele arealuri: (a) Vukovarsko- srijemska županija: — općina Drenovci — općina Gunja — općina Privlaka — općina Babina Greda — grad Županja — grad Otok — općina Vrbanja — općina Nijemci — općina Bošnjaci — općina Cerna — općina Štitar — općina Gradište — općina Stari Jankovci — općina Andrijaševci — općina Tompojevci — općina Bogdanovci — općina Vođinci (b) Brodsko-posavska županija: — općina Sikirevci — općina Gundinci — općina Slavonski Šamac Zona de supraveghere include următoarele arealuri: (a) Vukovarsko- srijemska županija: — grad Vinkovci — općina Borovo — općina Ivankovo — općina Jarmina — općina Lovas — općina Markušica — općina Negoslavci — općina Nuštar — općina Stari Mikanovci — općina Tordinci — općina Tovarnik — općina Trpinja — grad Ilok — grad Vukovar (b) Brodsko- posavska županija: — općina Velika Kopanica — općina Oprisavci — općina Vrpolje (c) Osječko baranjska županija — općina Strizivojna | 26.10.2023
+Stat membru: Grecia
+Numărul de referință ADIS al focarului | Zona care cuprinde | Data până la care se aplică
+GR-ASF-2023-00008 | Zona de protecție: În unitatea regională Florina Departamentul municipal Skopos (municipalitatea Florina) Zona de supraveghere: În unitatea regională Florina: Departamentele municipale Achlada, Meliti, Lofi, Vevi, Sitaria, Palaistra, Neochoraki, Tripotamos, Itea, Pappagiannis, Marina, Mesochori și Mesokampos (municipalitatea Florina) Departamentele municipale Kella, Kleidi, Petres, Agios Panteleimon și Farangi (municipalitatea Amintaio) În unitatea regională Pella: Departamentele municipale Agios Athanasios, Panagitsa, Arnissa și Peraia (municipalitatea Edessa) Departamentele municipale Orma și Sarakinoi (municipalitatea Almopia) | 5.10.2023
+Stat membru: Italia
+Numărul de referință ADIS al focarului | Zona care cuprinde | Data până la care se aplică
+IT-ASF-2023-00779 | Zona de protecție: toate municipalitățile din provincia Pavia, regiunea Lombardia, cuprinse în două cercuri cu raza de 10 km, centrate pe: — Latitudine 44.992703; Longitudine 9.116519 — latitudine 45.124925, longitudine 8.993081 — Latitudine 45.121351; Longitudine 9.009241 Zona de supraveghere: toate municipalitățile din provincia Pavia, regiunea Lombardia, care nu sunt deja incluse în zonele de restricții I și II, astfel cum sunt menționate în anexa I la Regulamentul de punere în aplicare (UE) 2023/594 al Comisiei, și municipalitățile Isola Sant’Antonio, Molino dei Torti, Alzano Scrivia și Guazzora, din provincia Alessandria, regiunea Piemonte | 28.11.2023
+”
