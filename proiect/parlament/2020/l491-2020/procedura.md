@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2020-09-24: published in the Monitorul Oficial
 - 2020-11-16: returned for re-examination
 - 2020-12-30: adopted by the Senate
+- 2023-09-25: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,7 @@ Initiator: Guvernul României.
 - 2020-08-13: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491CA3.PDF
 - 2020-08-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491AXS.PDF
 - 2020-08-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491LP.PDF
+- 2023-09-25: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-09-25: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491XD1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-09-25: Document (SX1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L491SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-09-25: Document (XA1): [xa1-31b14789.md](xa1-31b14789.md); official file https://www.senat.ro/legis/PDF/2020/20L491XA1.PDF (its day is not given by the bill file: shown from the last stage held)
