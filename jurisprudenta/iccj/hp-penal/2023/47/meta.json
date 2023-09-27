@@ -1,0 +1,429 @@
+{
+ "key": "iccj-hp-penal-47-2023",
+ "label": "Decizia ÎCCJ nr. 47/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "47",
+ "date": "2023-06-19",
+ "year": "2023",
+ "heading": "DECIZIA nr. 47 din 19 iunie 2023",
+ "subtitle": "referitoare la modul de aplicare a dispozițiilor art. 16 alin. (1) lit. f) din Codul de procedură penală, art. 309 alin. (1) din Codul de procedură penală și ale art. 315 alin. (1) lit. b) din Codul de procedură penală, în cadrul procedurii de cameră preliminară reglementate de art. 342 și următoarele din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "868",
+  "bis": false,
+  "date": "2023-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.048/1/2023",
+  "4.392/118/2022/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "309",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța, Secția penală și pentru cauze penale cu minori și de familie, prin încheierea de ședință din data de 10 februarie 2023, pronunțată în Dosarul nr. 4.392/118/2022/a1, prin care solicită pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Cu privire la modul de aplicare a dispozițiilor art. 16 alin. (1) lit. f) din Codul de procedură penală, art. 309 alin. (1) din Codul de procedură penală și ale art. 315 alin. (1) lit. b) din Codul de procedură penală, în cadrul procedurii de cameră preliminară reglementate de art. 342 și următoarele din Codul de procedură penală, respectiv dacă în cadrul acestei proceduri - vizând verificarea legalității sesizării instanței, a administrării probelor și a efectuării actelor de către organele de urmărire penală (în contextul analizării, în principal, a unor excepții de nelegalitate a actului de punere în mișcare a acțiunii penale și a actului de sesizare a instanței, pentru motivul emiterii acestora după împlinirea termenului de prescripție a răspunderii penale) - judecătorul de cameră preliminară poate reține împlinirea acestui termen, pe cale incidentală, ca temei concret al unor nelegalități ale actelor contestate, respectiv al unei nelegalități privind administrarea probelor ulterior împlinirii termenului de prescripție a răspunderii penale, în mod subsecvent constatării nulității actului de punere în mișcare a acțiunii penale?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f",
+      "a"
+     ]
+    },
+    {
+     "art": "309",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "315",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "343",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "344",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "347",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "396",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "328",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "336",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "337",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "338",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "339",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "340",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "341",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "477",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "453",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "250-2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 86
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului economiei și finanțelor nr. 1.769/2007",
+    "number": "1769",
+    "year": "2007"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.861/2006",
+    "number": "1861",
+    "year": "2006",
+    "path": "hg/2006/1861"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274770",
+  "text_sha256": "3f09ce73295990d2b40399f4c31ea695dfb3a11692569985d7c12d390d16ef70",
+  "catalogue_sha256": "3f09ce73295990d2b40399f4c31ea695dfb3a11692569985d7c12d390d16ef70",
+  "fetched": "2026-11-04T03:25:25Z",
+  "chars": 102598,
+  "portal_id": "274770",
+  "tip": "DECIZIE"
+ }
+}
