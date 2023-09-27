@@ -1,0 +1,154 @@
+{
+ "key": "dcc-398-2023",
+ "label": "Decizia CCR nr. 398/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "398",
+ "date": "2023-07-04",
+ "year": "2023",
+ "heading": "DECIZIA nr. 398 din 4 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. III alin. (2) din Legea nr. 260/2017 pentru modificarea și completarea Ordonanței Guvernului nr. 81/2000 privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "869",
+  "bis": false,
+  "date": "2023-09-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "951/174/2019",
+  "3.414D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 260/2017",
+    "number": "260",
+    "year": "2017",
+    "path": "lege/2017/260"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. III alin. (2) din Legea nr. 260/2017 pentru modificarea și completarea Ordonanței Guvernului nr. 81/2000 privind certificarea încadrării vehiculelor înmatriculate sau înregistrate în normele tehnice privind siguranța circulației rutiere, protecția mediului și în categoria de folosință conform destinației, prin inspecția tehnică periodică, excepție ridicată de Nicolae Grancea în Dosarul nr. 951/174/2019 al Judecătoriei Agnita - Secția generală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Agnita - Secția generală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 260/2017",
+    "number": "260",
+    "year": "2017",
+    "path": "lege/2017/260"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-09-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274772",
+  "text_sha256": "fcb474cdced937afdab8f982fc27a86c3bfbabdf1ae085c5ffb8b4eaf696b46b",
+  "catalogue_sha256": "fcb474cdced937afdab8f982fc27a86c3bfbabdf1ae085c5ffb8b4eaf696b46b",
+  "fetched": "2026-11-03T23:31:23Z",
+  "chars": 13836,
+  "portal_id": "274772",
+  "tip": "DECIZIE"
+ }
+}
