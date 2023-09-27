@@ -1,0 +1,86 @@
+# Anexa 1
+Anexa nr. 4
+la ghid
+Componenta C3
+Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile
+Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd
+Lista de verificare a respectării principiilor DNSH
+Investiția I2 Dezvoltarea infrastructurii pentru managementul gunoiului de grajd și al altor deșeuri agricole compostabile
+Subinvestiția I2.A-B. Sisteme integrate de colectare și valorificare a gunoiului de grajd
+Prin proiectul cu titlul ..................... se propune ........(scurtă descriere a activități lor/achizițiilor/investițiilor propuse prin proiect)....
+I.2.A-B - Sisteme integrate de colectare și valorificare a gunoiului de grajd
+Obiectiv de mediu evaluat conform principiului DNSH
+Evaluare simplificată
+Evaluare aprofundată/ de fond
+Justificarea respectării principiului DNSH pentru obiectivul de mediu relevant
+1
+Atenuarea schimbărilor climatice
+X
+Măsura de investiții este încadrată sub codul 044 Gestionarea deșeurilor comerciale și industriale: măsuri de prevenire, minimizare, sortare, reutilizare și reciclare
+În ceea ce privește vehiculele, achizițiile vor viza cea mai bună tehnologie disponibilă (best-available-technology) din punct de vedere al mediului.
+Pentru vehiculele tractate se vor prioritiza cele construite cu respectarea normelor de utilizare a materialelor reciclabile conform Directivei 2000/53/CE prin care la proiectarea componentelor și materialelor vehiculelor precum și piesele de rezervă și de schimb, s-au luat în considerare măsuri astfel încât să nu se aducă atingere standardelor de siguranță, valorilor emisiilor în aer și reducerii zgomotului. Se aplică pentru remorci, mașina de împrăștiat gunoi, cisterna vidanjă, tocător resturi vegetale etc.
+Motoarele de la tocătoarele de resturi vegetale, stațiile de împachetare, cântare, ciururi vor trebui să utilizeze tehnologii care reduc cantitatea de emisii de amoniac și alte emisii gazoase în procesul de distribuire pe terenurile agricole.
+În aceste condiții, operarea acestor vehicule nu va conduce la o creștere semnificativă a emisiilor de gaze cu efect de seră, dar nivelul acestora va fi calculat pentru fiecare proiect în cadrul procedurii de evaluare a impactului asupra mediului. Întrucât activitatea nu este vizată de pragurile ETS (Directiva 2003/87/CE a Parlamentului European și Consiliului din 13 octombrie 2003 de stabilire a unui sistem de comercializare a cotelor de emisie de gaze cu efect de seră în cadrul Comunității și de modificare a Directivei 96/61/CE a Consiliului), măsura de reformă nu afectează obiectivul de atingere a țintei de reducere de emisii de GES stabilită pentru anul 2030 și nici obiectivul de neutralitate climatică (2050).
+2
+Adaptarea la schimbările climatice
+X
+Investiția este încadrată sub codul 044 Gestionarea deșeurilor comerciale și industriale: măsuri de prevenire, minimizare, sortare, reutilizare și reciclare.
+Prin urmare, investiția are o contribuție substanțială la obiectivul de adaptare la schimbările climatice.
+3
+Utilizarea durabila si protecția resurselor de apa si a celor marine
+X
+Investiția nu va afecta obiectivul de utilizare durabilă și de protejare a resurselor de apă și a celor marine întrucât dezvoltarea infrastructurii va fi realizată cu respectarea următoarelor cerințe:
+Echipamentele de împrăștiere a compostului / fracției lichide din gunoiul de grajd vor trebui să utilizeze tehnologii care reduc cantitatea de emisii de amoniac și alte emisii gazoase în procesul de distribuire pe terenurile agricole.
+Se vor prefera tehnologii care presupun un control al aplicării fertilizanților pentru reducerea emisiilor de amoniac și a pierderilor de nitrați (de ex. injectarea în sol a fracției lichide sau aplicarea cu aerare redusă a compostului).
+Se vor aplica prevederile Codului de Bune Practici Agricole privind protecția apelor la poluarea cu nitrați și reducerea emisiilor de compuși cu azot, atât în procesul de compostare, cât și în procesul de aplicare pe terenuri agricole a acestuia.
+Lucrările nu vor deteriora starea / potențialul ecologic a / al corpurilor de apă și nu vor împiedica îmbunătățirea potențialului ecologic cu luarea în considerare a efectelor schimbărilor climatice;
+Prin excepție de la cerința de mai sus, în cazul în care investițiile propuse în cadrul proiectului pot deteriora starea / potențialul ecologic ca urmare a modificărilor de natură morfologică a corpurilor de apă sau pot conduce la deteriorarea stării / potențialului ecologic, se va demonstra că proiectul de investiții îndeplinește condițiile stabilite la articolul 4.7 din DCA, respectiv articolul 2.7 din Legea Apelor 107/1996 cu modificările și completările ulterioare, prin luarea în considerare a următoarele aspecte:
+- se vor lua toate măsurile posibile pentru a atenua impactul negativ asupra stării corpului de apă;
+- se va analiza dacă motivele care stau la baza acestor modificări sunt de interes public major și / sau beneficiile aduse mediului și societății de realizare a obiectivelor (stabilite la paragraful 1 al articolului 4 din DCA) sunt depășite de beneficiile noilor modificări sau schimbări pentru sănătatea umană, pentru menținerea securității umane sau pentru dezvoltarea durabilă;
+- beneficiile care sunt înregistrate ca urmare a acestor modificări sau schimbări aduse corpului de apă nu pot fi atinse, prin alte mijloace (opțiune superioară din punct de vedere al protecției mediului), din motive care țin de fezabilitatea tehnică sau din cauza aspecte de natură financiară.
+Lucrările nu vor afecta negativ într-o măsură semnificativă speciile și habitatele direct dependente de apă.
+4
+Economia circulară, inclusiv prevenirea generării de deșeuri și reciclarea acestora
+X
+Investiția nu va afecta obiectivul de economie circulară, inclusiv prevenirea și reciclarea deșeurilor întrucât dezvoltarea infrastructurii va fi realizată cu respectarea următoarelor cerințe:
+• Gestionarea deșeurilor rezultate în toate etapele se va realiza în linie cu obiectivele de reducere a cantităților de deșeuri generate și de maximizare a reutilizării și reciclării, respectiv în linie cu obiectivele din cadrul general de gestionare a deșeurilor la nivel național - Planul național de gestionare a deșeurilor (elaborat în baza art. 28 al Directivei 2008/98/EC privind deșeurile și de abrogare a anumitor directive, cu modificările ulterioare și aprobat prin Hotărârea Guvernului nr. 942/2017 ).
+• În toate etapele proiectului se va menține evidența gestiunii deșeurilor conform OUG 92/2021 privind regimul deșeurilor, HG nr. 856/2002 privind evidența gestiunii deșeurilor și pentru aprobarea listei cuprinzând deșeurile, inclusiv deșeurile periculoase, cu modificările și completările ulterioare și respectiv Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje, cu modificările și completările ulterioare.
+• În conformitate cu prevederile Deciziei nr. 2000/532/CE a Comisiei, preluată în legislația națională prin HG nr. 856/2002 , cu modificările și completările ulterioare, lucrările nu presupun utilizarea unor categorii de materiale care să poată fi încadrate în categoria substanțelor toxice și periculoase.
+• În ceea ce privește deșeurile recuperabile rezultate pe perioada executării lucrărilor, constructorul se va asigura că cel puțin 70% (în greutate) din deșeurile nepericuloase rezultate din construcții și demolări (cu excepția materialelor naturale definite în categoria 17 05 04 - pământ și pietriș altele decât cele vizate la rubrica 17 05 03 din lista europeană a deșeurilor stabilită prin Decizia 2000/532/CE a Comisiei, preluată în HG nr. 856/2002 , cu modificările și completările ulterioare) și generate pe șantier vor fi pregătite, respectiv sortate pentru reutilizare, reciclare și alte operațiuni de valorificare material, inclusiv operațiuni de umplere care utilizează deșeuri pentru a înlocui alte materiale, în conformitate cu ierarhia deșeurilor și cu Protocolul UE de gestionare a deșeurilor din construcții și demolări.
+• Astfel, în conformitate cu reglementările în vigoare, deșeurile rezultate vor fi colectate selectiv în funcție de caracteristicile lor, transportate în depozite autorizate sau predate unor operatori economici autorizați în scopul valorificării lor. În toate etapele proiectului se vor încheia contracte cu societăți autorizate ce vor asigura eliminarea/valorificarea tuturor tipurilor de deșeuri generate. Toate deșeurile generate în urma proiectului, în toate etapele acestuia, vor fi depozitate temporar doar pe suprafețe special amenajate în acest sens. În cazul deșeurilor contaminate, se vor lua măsuri speciale de gestionare a acestora (prin depozitarea separată doar pe suprafețe impermeabile), pentru a nu contamina restul deșeurilor sau solul.
+• În toate etapele proiectului se va menține evidența gestiunii deșeurilor conform OUG 92/2021 privind regimul deșeurilor, HG nr. 856/2002 și respectiv Legea nr. 249/2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje, cu modificările și completările ulterioare.
+Sortarea deșeurilor se va realiza la locul de producere, prin grija constructorului. Acesta are obligația, conform HG nr. 856/2002 , cu modificările și completările ulterioare, să țină evidența lunară a colectării, stocării provizorii și eliminării deșeurilor către depozitele autorizate.
+5
+Prevenirea și controlul poluării aerului, apei și solului
+X
+Implementarea proiectelor se va face cu respectarea condițiilor de protecție a factorilor de mediu (inclusiv apă, aer și sol) potențial afectați stabilite prin actele de mediu emise în conformitate cu Directiva EIA.
+În ceea ce privește vehiculele rutiere din categoria M, anvelopele sunt conforme cu normele de zgomot de rulaj din cea mai populată clasă și cu Rolling Resistance Coefficient (care influențează eficiența energetică a vedicului) în două cele mai populate clase așa cum este prevăzut în Regulamentul 740 / 2020 al Parlamentului European și al Consiliului și care se pot verifica prin EPREL (European product registry for Energy Labeling). Acolo unde este cazul, vehiculele vor respecta cele mai recente norme EURO VI (Heavy duty emission type approval) în conformitate cu Regulamentul EC 595 / 2009.
+Aerul
+În cea mai mare parte, sursele de emisie a poluanților atmosferici vor fi surse la sol libere, deschise și mobile sau staționare difuze/ dirijate.
+Activitatea de realizare a lucrărilor de construcții include deopotrivă și surse mobile de emisii, reprezentate de utilajele necesare desfășurării lucrărilor, de vehiculele care vor asigura transportul materialelor de construcții, precum și de aprovizionare cu materiale necesare lucrărilor de construcție, dar și de vehiculele necesare evacuării deșeurilor de pe amplasament. Funcționarea acestora va fi intermitentă, în funcție de programul de lucru și de graficul lucrărilor.
+Cu toate acestea, se estimează că poluarea aerului în timpul perioadei de execuție a lucrărilor nu depășește limitele maxime permise, este temporară (în timpul executării lucrărilor), intermitentă (în funcție de programul de lucru și de graficul lucrărilor), nu este concentrată doar în frontul de lucru (unele surse sunt mobile) nefiind de natură să afecteze semnificativ acest obiectiv de mediu.
+Pe cât posibil se vor lua măsuri de atenuare, astfel că lucrările aferente proiectului vor fi realizate cu utilaje mai puțin poluante.
+Apa
+Pe parcursul etapei de execuție, se vor lua măsurile necesare astfel încât deșeurile rezultate din demontări/demolări, precum și materialele necesare pentru construire, să fie corect depozitate pentru a se evita infiltrațiile în stratul acvifer sau în apele de suprafață, urmare a antrenării acestora de către apele pluviale sau de către vânt.
+Se va asigura formarea periodică a tuturor lucrătorilor de la fața locului pentru a se asigura evitarea scurgerilor accidentale de substanțe chimice, carburanți și uleiuri provenite de la funcționarea utilajelor implicate în lucrările de construcție sau datorate manevrării defectuoase a autovehiculelor de transport.
+Funcționarea unor utilaje ce utilizează motoare cu combustie internă în preajma corpurilor de apă conțin un factor de risc inerent în cazul unor accidente, ce pot astfel conduce la contaminarea punctiformă și temporară a corpurilor de apă de suprafață, însă acest risc poate fi adresat în cadrul unui plan de management de mediu (PMM), elaborat înainte de începerea etapei de execuție a proiectului.
+În etapa de dezafectare a proiectului, potențialele surse de poluare a apei vor fi similare cu cele din etapa de construcție, lucrările fiind realizate cu aceleași tipuri de utilaje.
+Utilizarea substanțelor chimice
+De asemenea, în ceea ce privește utilizarea și prezența substanțelor chimice, activitatea nu va utiliza:
+(a) ca atare, în amestecuri sau în articole, substanțele enumerate în anexa I sau anexa II la Regulamentul (UE) 2019/1021 al Parlamentului European și al Consiliului , cu excepția cazului în care substanțele sunt prezente ca urme neintenționate de contaminant;
+(b) mercurul și a compușii mercurului, amestecurile acestora și a produselor cu adaos de mercur, astfel cum sunt definite la articolul 2 din Regulamentul (UE) 2017/852 al Parlamentului European și al Consiliului;
+(c) ca atare, în amestecuri sau în articole, substanțele enumerate în anexa I sau anexa II la Regulamentul (CE) nr. 1005/2009 al Parlamentului European și al Consiliului ;
+(d) ca atare, în amestecuri sau în articole, substanțele enumerate în anexa II la Directiva 2011/65/UE a Parlamentului European și a Consiliului , cu excepția cazului în care se respectă pe deplin articolul 4 alineatul (1) din directiva respectivă;
+(e) ca atare, în amestecuri sau în articole, substanțele enumerate în anexa XVII la Regulamentul (CE) nr. 1907/2006 al Parlamentului European și al Consiliului, cu excepția cazului în care se respectă pe deplin condițiile specificate în anexa respectivă;
+(f) unor substanțe care, fie singure, fie în amestecuri, fie ca parte dintr-un articol, îndeplinesc criteriile prevăzute la articolul 57 din Regulamentul (CE) 1907/2006 și sunt identificare în conformitate cu articolul 59 alineatul (1) din regulamentul respectiv, cu excepția cazului în care s-a dovedit că utilizarea lor este esențială pentru societate;
+(g) altor substanțe care, fie singure, fie în amestecuri, fie ca parte dintr-un articol, îndeplinesc criteriile prevăzute la articolul 57 din Regulamentul (CE) 1907/2006, cu excepția cazului în care s-a dovedit că utilizarea lor este esențială pentru societate.
+Deșeurile solide, materialul rezultat din decopertări, excavații, combustibilii sau uleiurile nu se vor deversa în albia cursului de apă sau lacul de acumulare; se va proceda la colectarea selectivă a deșeurilor în vederea valorificării și /sau eliminării prin firme autorizate. Pe perioada execuției lucrărilor se va acorda o atenție deosebită scurgerilor de carburanți și se va asigura un management al deșeurilor adecvat – depozitarea deșeurilor se va realiza în locuri bine stabilite, cu asigurarea protecției adecvate pentru a fi evitate infiltrațiile și poluarea acviferelor în caz de ploaie. Se vor utiliza utilaje și mijloace de transport noi, performante, iar transportul materialelor se va realiza cu autovehicule prevăzute cu prelată. Pentru reducerea nivelului de zgomot și vibrații, acolo unde va fi cazul, vor fi instalate bariere fonice conforme cu Directiva 2002/49/CE privind evaluarea și gestiunea zgomotului.
+6
+Protecția și refacerea biodiversității și ecosistemelor
+X
+Impactul potențial al proiectelor asupra mediului, inclusiv al lucrărilor localizate în vecinătatea sau în siturile Natura 2000, este evaluat în conformitate cu prevederile Directivelor EIA, Directivei Habitate și Directivei Păsări, fiind urmărit în special potențialul impact al proiectului asupra obiectivelor specifice / măsurilor minime de conservare stabilite pentru speciile și habitatele pentru care au fost desemnate siturile, precum și evaluarea impactului cumulat (între investițiile propuse, existente sau reglementate) asupra factorilor de mediu, inclusiv la nivelul siturilor Natura 2000.
+Proiectele vor pune obligatoriu în aplicare toate măsurile de atenuare fezabile din punct de vedere tehnic și relevante din punct de vedere ecologic pentru a reduce impactul negativ asupra apei, precum și asupra habitatelor și a speciilor protejate care depind direct de apă.
+Infrastructurile nu vor fi construite pe:
+(a) teren arabil și terenuri cultivabile cu un nivel moderat până la ridicat al fertilității solului și cu biodiversitate subterană, astfel cum se menționează în studiul UE LUCAS;
+(b) terenuri ecologice cu o valoare recunoscută a biodiversității ridicate și terenuri care servesc drept habitat al speciilor pe cale de dispariție (floră și faună) enumerate pe Lista Roșie Europeană sau pe Lista Roșie IUCN;
+(c) teren forestier (acoperit sau nu de copaci), alte terenuri împădurite sau terenuri acoperite parțial sau în totalitate sau destinate a fi acoperite de copaci, chiar și atunci când acești copaci nu au atins încă dimensiunea și acoperirea pentru a fi clasificate drept pădure sau alt teren împădurit, definit în conformitate cu definiția FAO a pădurilor.
