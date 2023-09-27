@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-09-05: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-09-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-09-18: sent for promulgation
+- 2023-09-27: promulgated, becomes Legea nr. 259/2023
 
 ## Documents
 
