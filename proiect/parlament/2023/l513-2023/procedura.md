@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-13: documents published: Aviz comisie
 - 2023-09-19: documents published: Aviz comisie
 - 2023-09-20: documents published: Aviz comisie
+- 2023-09-27: documents published: Aviz comisie
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-13: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L513CA57.PDF
 - 2023-09-19: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L513CA56.PDF
 - 2023-09-20: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L513CA1.PDF
+- 2023-09-27: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L513CA12.PDF
+- 2023-09-27: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L513CA41.PDF
