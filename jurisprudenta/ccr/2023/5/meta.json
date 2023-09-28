@@ -1,0 +1,200 @@
+{
+ "key": "dcc-5-2023",
+ "label": "Decizia CCR nr. 5/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "5",
+ "date": "2023-01-31",
+ "year": "2023",
+ "heading": "DECIZIA nr. 5 din 31 ianuarie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "871",
+  "bis": false,
+  "date": "2023-09-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "33.016/299/2019",
+  "1.397D/2020",
+  "34.549/215/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea de Asigurare-Reasigurare City Insurance - S.A. din municipiul București în dosarele nr. 2.098/299/2020, nr. 11.150/299/2020, nr. 10.083/299/2020, nr. 19.612/299/2020, nr. 11.828/299/2020, nr. 17.854/299/2020, nr. 1.217/299/2020, nr. 14.968/299/2020, nr. 15.869/299/2020 ale Judecătoriei Sectorului 1 București - Secția I civilă, în dosarele nr. 33.016/299/2019, nr. 4.344/299/2020, nr. 10.309/299/2020, nr. 11.111/299/2020, nr. 38.630/299/2019, nr. 11.845/299/2020, nr. 11.829/299/2020, nr. 11.820/299/2020, nr. 17.143/299/2020 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă, în dosarele nr. 4.440/325/2019, nr. 19.854/325/2019, nr. 23.894/325/2019, nr. 9.858/325/2019, nr. 18.016/325/2019*, nr. 23.666/325/2019, nr. 21.837/325/2019, nr. 21.850/325/2019, nr. 22.982/325/2019, nr. 27.304/325/2019, nr. 35.375/325/2019, nr. 24.621/325/2019, nr. 21.477/325/2019 și nr. 24.519/325/2019 ale Tribunalului Timiș - Secția a II-a civilă, în dosarele nr. 8.696/299/2019, nr. 31.865/299/2018, nr. 2.017/299/2019, nr. 4.297/299/2019, nr. 30.161/299/2018, nr. 5.587/299/2019, nr. 35.538/299/2018, nr. 30.543/299/2019, nr. 34.691/299/2018 și nr. 9.507/299/2019 ale Tribunalului București - Secția a VI-a civilă, în dosarele nr. 10.843/325/2020, nr. 4.618/325/2020, nr. 4.901/325/2020, nr. 25.346/325/2019, nr. 4.821/325/2020, nr. 25.812/325/2020 ale Judecătoriei Timișoara - Secția I civilă, în dosarele nr. 14.150/325/2020, nr. 12.599/325/2020, nr. 30.549/325/2019, nr. 16.190/325/2020, nr. 19.123/325/2020 și nr. 14.799/325/2020 ale Judecătoriei Timișoara - Secția a II-a civilă, în dosarele nr. 1.076/208/2020 și nr. 1.081/208/2020 ale Tribunalului Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal și în Dosarul nr. 34.549/215/2019 al Judecătoriei Craiova - Secția civilă și constată că dispozițiile art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 1 București - Secția I civilă și Secția a II-a civilă, Tribunalului Timiș - Secția a II-a civilă, Tribunalului București - Secția a VI-a civilă, Judecătoriei Timișoara - Secția I civilă și Secția a II-a civilă, Tribunalului Caraș-Severin - Secția a II-a civilă, de contencios administrativ și fiscal și Judecătoriei Craiova - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5",
+      "12"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-09-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274803",
+  "text_sha256": "4398fce642174a7a4ab73dae0fadc9c7757d6516373554792b7028b366b8be95",
+  "catalogue_sha256": "4398fce642174a7a4ab73dae0fadc9c7757d6516373554792b7028b366b8be95",
+  "fetched": "2026-11-03T01:18:47Z",
+  "chars": 34171,
+  "portal_id": "274803",
+  "tip": "DECIZIE"
+ }
+}
