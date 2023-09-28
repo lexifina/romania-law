@@ -1,0 +1,151 @@
+{
+ "key": "cedo-16732-15-2022-12-13",
+ "label": "CEDO, Oprea și alții c. României, 2022-12-13",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-12-13",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 13 decembrie 2022",
+ "subtitle": "în Cauza Oprea și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "871",
+  "bis": false,
+  "date": "2023-09-28",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "16732/15"
+ ],
+ "case_name": "Oprea și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze capătul de cerere formulat în temeiul art. 1 din Protocolul nr. 1 la Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamanților, în solidar, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "5.000 EUR (cinci mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit (pentru această sumă), cu titlu de despăgubire pentru prejudiciul moral;",
+  "(ii)",
+  "6.500 EUR (șase mii cinci sute de euro), plus orice sumă ce poate fi datorată de reclamant cu titlu de impozit pentru această sumă, cu titlu de cheltuieli de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 158/2010",
+    "number": "158",
+    "year": "2010",
+    "path": "lege/2010/158"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/274809",
+  "text_sha256": "b454a7f817761ba09d5ba65afc0455a35f829d4e433a96cbfd65ad1818bb9658",
+  "catalogue_sha256": "b454a7f817761ba09d5ba65afc0455a35f829d4e433a96cbfd65ad1818bb9658",
+  "fetched": "2026-11-03T01:18:46Z",
+  "chars": 16821,
+  "portal_id": "274809",
+  "tip": "HOTĂRÂRE"
+ }
+}
