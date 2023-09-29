@@ -1,0 +1,22 @@
+# Proiect de lege L553/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 370/2023 (`legea-370-2023`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.78/2023 pentru completarea Ordonanţei de urgenţă a Guvernului nr.73/2023 privind unele măsuri bugetare, precum şi unele măsuri pentru îmbunătăţirea absorbţiei fondurilor europene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-09-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-09-29: Adresă de înaintare a inițiativei (AD): [ad-f056e8c3.md](ad-f056e8c3.md); official file https://www.senat.ro/legis/PDF/2023/23L553AD.PDF
+- 2023-09-29: Forma inițiatorului (FG): [fg-1f0da964.md](fg-1f0da964.md); official file https://www.senat.ro/legis/PDF/2023/23L553FG.PDF
+- 2023-09-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L553EM.PDF
+- 2023-09-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L553LG.PDF
+- 2023-09-29: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L553OG.PDF
+- 2023-09-29: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L553HG.PDF
