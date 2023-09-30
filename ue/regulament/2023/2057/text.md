@@ -1,0 +1,40 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/2057 AL COMISIEI
+din 26 septembrie 2023
+de modificare a anexelor VII și VIII la Regulamentul de punere în aplicare (UE) 2021/620 în ceea ce privește aprobarea sau retragerea statutului de indemn de boală al anumitor state membre sau zone ale acestora cu privire la anumite boli listate și aprobarea programelor de eradicare pentru anumite boli listate
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului din 9 martie 2016 privind bolile transmisibile ale animalelor și de modificare și de abrogare a anumitor acte din domeniul sănătății animalelor („Legea privind sănătatea animală”) (1), în special articolul 31 alineatul (3) și articolul 36 alineatul (4),
+întrucât:
+(1) Regulamentul (UE) 2016/429 stabilește norme specifice bolilor pentru bolile listate în conformitate cu articolul 5 alineatul (1) și prevede modul în care aceste norme trebuie aplicate diferitelor categorii de boli listate. Regulamentul (UE) 2016/429 prevede că statele membre trebuie să instituie programe obligatorii de eradicare pentru bolile listate menționate la articolul 9 alineatul (1) litera (b) și programe opționale de eradicare pentru bolile listate menționate la articolul 9 alineatul (1) litera (c), precum și că aceste programe trebuie să fie aprobate de către Comisie. Regulamentul respectiv prevede, de asemenea, aprobarea sau retragerea de către Comisie a statutului de indemn de boală al statelor membre sau al zonelor ori compartimentelor acestora în ceea ce privește anumite boli listate menționate la articolul 9 alineatul (1) literele (b) și (c).
+(2) Regulamentul delegat (UE) 2020/689 al Comisiei (2) completează Regulamentul (UE) 2016/429 și stabilește criteriile pentru acordarea, menținerea, suspendarea și retragerea statutului de indemn de boală pentru statele membre sau zonele ori compartimentele acestora, precum și cerințele pentru aprobarea programelor obligatorii sau opționale de eradicare pentru statele membre sau pentru zonele ori compartimentele acestora.
+(3) Regulamentul de punere în aplicare (UE) 2021/620 al Comisiei (3) stabilește normele de punere în aplicare care reglementează, în ceea ce privește bolile animalelor listate menționate la articolul 9 alineatul (1) literele (a), (b) și (c) din Regulamentul (UE) 2016/429, statutul de indemn de boală și statutul de nevaccinare al anumitor state membre sau zone ori compartimente ale acestora, precum și aprobarea programelor de eradicare a bolilor listate respective. Mai precis, regulamentul menționat listează în anexele sale statele membre sau zonele ori compartimentele acestora cu statut de indemn de boală și listează, de asemenea, programele obligatorii sau opționale de eradicare existente aprobate. Situația epidemiologică în schimbare a anumitor boli face necesară modificarea anumitor anexe la Regulamentul de punere în aplicare (UE) 2021/620 pentru a include în listă noi state membre sau zone ale acestora indemne de boală și pentru a aproba anumite programe de eradicare obligatorii sau opționale prezentate Comisiei.
+(4) Pentru BVD, Germania a transmis Comisiei informații care demonstrează că sunt îndeplinite condițiile pentru recunoașterea statutului de indemn de BVD prevăzute în Regulamentul delegat (UE) 2020/689 pe întregul teritoriul landului Bavaria, în cea mai mare parte a teritoriului landului Saxonia Inferioară, cu excepția regiunilor Cuxhaven, Göttingen, Northeim, Oldenburg și Stade, în cea mai mare parte a teritoriului landului Renania de Nord-Westfalia, cu excepția regiunilor Borken, Gütersloh, Höxter, Kleve și Paderborn, și în cea mai mare parte a teritoriului landului Schleswig-Holstein, cu excepția regiunii Rendsburg-Eckernförde. În urma evaluării de către Comisie, s-a demonstrat că cererile respective respectă criteriile prevăzute în partea II capitolul 4 din Regulamentul delegat (UE) 2020/689 pentru aprobarea statutului de indemn de BVD. Prin urmare, zonele respective trebuie incluse în lista din partea I a anexei VII la Regulamentul de punere în aplicare (UE) 2021/620 ca având statutul de indemne de BVD.
+(5) În ceea ce privește infecția cu virusul bolii limbii albastre, Luxemburgul a prezentat Comisiei informații care demonstrează că sunt îndeplinite condițiile pentru recunoașterea statutului de indemn de infecția cu virusul bolii limbii albastre pentru întregul teritoriul Luxemburgului. În urma evaluării de către Comisie, s-a demonstrat că cererea respectă criteriile prevăzute în partea II capitolul 4 din Regulamentul delegat (UE) 2020/689 pentru aprobarea statutului de indemn de infecția cu virusul bolii limbii albastre. Prin urmare, Luxemburgul trebuie inclus în lista din partea I a anexei VIII la Regulamentul de punere în aplicare (UE) 2021/620 ca având statutul de indemn de infecția cu virusul bolii limbii albastre.
+(6) Prin urmare, anexele VII și VIII la Regulamentul de punere în aplicare (UE) 2021/620 trebuie modificate în consecință.
+(7) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexele VII și VIII la Regulamentul de punere în aplicare (UE) 2021/620 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 26 septembrie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 84, 31.3.2016, p. 1.
+(2) Regulamentul delegat (UE) 2020/689 al Comisiei din 17 decembrie 2019 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele privind supravegherea, programele de eradicare și statutul de indemn de boală pentru anumite boli listate și emergente (JO L 174, 3.6.2020, p. 211).
+(3) Regulamentul de punere în aplicare (UE) 2021/620 al Comisiei din 15 aprilie 2021 de stabilire a normelor de aplicare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește aprobarea statutului de indemn de boală și a statutului de nevaccinare al anumitor state membre sau zone ori compartimente ale acestora cu privire la anumite boli listate și la aprobarea programelor de eradicare a bolilor listate respective (JO L 131, 16.4.2021, p. 78).
+ANEXĂ
+Anexele VII și VIII la Regulamentul de punere în aplicare (UE) 2021/620 se modifică după cum urmează:
+1. anexa VII se modifică după cum urmează:
+(a) în partea I, rubrica referitoare la Germania se înlocuiește cu următorul text:
+Stat membru | Teritoriul
+„Germania | Bundesland Baden-Württemberg Bundesland Bayern Bundesland Brandenburg Bundesland Bremen Bundesland Hamburg Bundesland Hessen Bundesland Mecklenburg-Vorpommern Bundesland Niedersachsen, cu excepția Landkreis Cuxhaven, Göttingen, Northeim, Oldenburg, Stade Bundesland Nordrhein-Westfalen, cu excepția Kreis Borken, Gütersloh, Höxter, Kleve, Paderborn Bundesland Schleswig-Holstein, cu excepția Kreis Rendsburg-Eckernförde Bundesland Rheinland-Pfalz Bundesland Saarland Bundesland Sachsen Bundesland Sachsen-Anhalt Bundesland Thüringen”;
+(b) în partea II, rubrica referitoare la Germania se înlocuiește cu următorul text:
+Stat membru | Teritoriul | Data aprobării inițiale menționate la articolul 15 alineatul (2) din Regulamentul delegat (UE) 2020/689
+„Germania | Bundesland Berlin Bundesland Niedersachsen: Landkreis Cuxhaven, Göttingen, Northeim, Oldenburg, Stade Bundesland Nordrhein-Westfalen: Kreis Borken, Gütersloh, Höxter, Kleve, Paderborn Bundesland Schleswig-Holstein: Kreis Rendsburg-Eckernförde | 21 februarie 2022”;
+2. în anexa VIII partea I, următoarea rubrică, referitoare la Luxemburg, se inserează între rubrica referitoare la Lituania și cea referitoare la Ungaria:
+Stat membru | Teritoriul
+„Luxemburg | Întregul teritoriu”.
