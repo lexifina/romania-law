@@ -1,0 +1,6 @@
+# Anexa nr. 9
+DECLARAȚIE medic veterinar responsabil privind administrarea de produse medicinale ce exclud temporar sau definitiv ecvideul din lanțul alimentar
+Subsemnatul,........................, medic veterinar din localitatea......./(adresa).........., județul.................., declar că ecvideul cu numărul de microcip............................., înregistrat pe codul de exploatație nr..........................., a fost tratat cu produse medicinale ce îl exclud permanent din lanțul alimentar sau în pașaportul pierdut erau înregistrate astfel de produse medicinale: [] Da [] Nu [] Nu știu
+Data...................
+Medic veterinar,
+Nume, prenume și semnătură...........................................................
