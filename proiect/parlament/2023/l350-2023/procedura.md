@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-21: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-06-26: registered at the Chamber of Deputies
 - 2023-09-25: documents published: Punct de vedere Guvern
+- 2023-10-04: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L350FS.PDF
 - 2023-06-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L350AM.PDF
 - 2023-09-25: Punct de vedere Guvern (SJ): [sj-50de209d.md](sj-50de209d.md); official file https://www.senat.ro/legis/PDF/2023/23L350SJ.PDF
+- 2023-10-04: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L350AJ.PDF (its day is not given by the bill file: shown from the last stage held)
