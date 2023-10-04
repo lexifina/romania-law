@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-19: documents published: Aviz comisie
 - 2023-05-02: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2023-09-21: documents published: Raport comisie sesizată pe fond
+- 2023-10-04: rejected by the Chamber of Deputies
 
 ## Documents
 
