@@ -1,0 +1,208 @@
+{
+ "key": "cedo-27122-14-2022-12-06",
+ "label": "CEDO, Spasov c. României, 2022-12-06",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2022-12-06",
+ "year": "2022",
+ "heading": "HOTĂRÂREA din 6 decembrie 2022",
+ "subtitle": "în Cauza Spasov împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "898",
+  "bis": false,
+  "date": "2023-10-05",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "27122/14"
+ ],
+ "case_name": "Spasov",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1 la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște că a fost încălcat art. 1 din Protocolul nr. 1 la Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "6.500 EUR (șase mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru toate prejudiciile;",
+  "(ii)",
+  "4.574 EUR (patru mii cinci sute șaptezeci și patru de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de către reclamant, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 23/2008",
+    "number": "23",
+    "year": "2008",
+    "path": "oug/2008/23"
+   },
+   "articles": [
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "65",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 17/1990",
+    "number": "17",
+    "year": "1990",
+    "path": "lege/1990/17"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 110/1996",
+    "number": "110",
+    "year": "1996",
+    "path": "lege/1996/110"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275061",
+  "text_sha256": "ffe6fbc304c1a8d6197230301d8e7f7a7a28c428d86c34fb1b7e96bb3c17d370",
+  "catalogue_sha256": "ffe6fbc304c1a8d6197230301d8e7f7a7a28c428d86c34fb1b7e96bb3c17d370",
+  "fetched": "2026-11-04T01:46:21Z",
+  "chars": 63969,
+  "portal_id": "275061",
+  "tip": "HOTĂRÂRE"
+ }
+}
