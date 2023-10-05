@@ -1,0 +1,43 @@
+{
+ "key": "cjue-c-54-22-concluzii-2023-10-05",
+ "label": "CJUE, Concluziile avocatului general N. Emiliou prezentate la 5 octombrie 2023, Cauza C-54/22 P.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2023-10-05",
+ "year": "2023",
+ "case": "Cauza C-54/22 P.",
+ "celex": "62022CC0054",
+ "ecli": "ECLI:EU:C:2023:744",
+ "heading": "Concluziile avocatului general N. Emiliou prezentate la 5 octombrie 2023",
+ "formation": null,
+ "procedure": "APPEAL",
+ "romania_role": [
+  "applicant",
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Recurs – Drept instituțional – Inițiativă cetățenească europeană – Regulamentul (UE) nr. 211/2011 – Înregistrarea propunerii de inițiativă cetățenească – Articolul 4 alineatul (2) litera (b) – Propunere care nu se află vădit în afara sferei de competență a Comisiei Europene în ceea ce privește prezentarea unei propuneri de act juridic al Uniunii în scopul punerii în aplicare a tratatelor – Sarcina probei – Competența Comisiei de a efectua o înregistrare parțială.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0054",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-54/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/458fc905-636d-11ee-9220-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "9ed63c4561a9a2b5d1c77b9c1331a57d9d52365fb74646a6a80b7a7a4c3c8ce0"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
