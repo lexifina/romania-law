@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-11: registered at the Senate
 - 2023-05-03: documents published: Aviz comisie
 - 2023-05-15: registered at the Chamber of Deputies
+- 2023-10-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-28: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L568ES.PDF
 - 2023-03-28: Punct de vedere (PV): [pv-e83a6926.md](pv-e83a6926.md); official file https://www.senat.ro/legis/PDF/2023/23L568PV.PDF
 - 2023-05-03: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L568CA12.PDF
+- 2023-10-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L568CR.PDF
