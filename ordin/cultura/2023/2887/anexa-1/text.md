@@ -1,0 +1,5 @@
+# ANEXĂ
+ZONA DE PROTECȚIE a monumentului istoric imobil Cinematograf „Bulevard” (corp C1),
+Bd. Republicii nr. 35, municipiul Bistrița, județul Bistrița-Năsăud
+X (m) Y (m) 7 626171.801 461790.964 8 626196.662 461820.444 9 626209.096 461834.083 10 626168.236 461867.270 11 626159.389 461852.303 12 626137.229 461819.624 13 626147.446 461811.154 14 626167.654 461794.403
+-----
