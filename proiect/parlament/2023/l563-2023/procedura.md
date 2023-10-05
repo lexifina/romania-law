@@ -13,9 +13,13 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-02: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2023-09-21: documents published: Raport comisie sesizată pe fond
 - 2023-10-04: rejected by the Chamber of Deputies
+- 2023-10-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2023-04-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L563CA45.PDF
 - 2023-05-02: Punct de vedere Guvern (SJ): [sj-d446736f.md](sj-d446736f.md); official file https://www.senat.ro/legis/PDF/2023/23L563SJ.PDF
 - 2023-09-21: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L563CR.PDF
+- 2023-10-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L563AD.PDF
+- 2023-10-05: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L563FG.PDF
+- 2023-10-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L563EM.PDF
