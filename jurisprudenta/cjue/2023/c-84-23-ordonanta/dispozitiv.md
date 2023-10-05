@@ -1,0 +1,6 @@
+# CJUE, Ordonanța Curții (Camera a opta) din 5 octombrie 2023, Cauza C-84/23
+
+Pentru aceste motive, Curtea (Camera a opta) declară:
+Articolul 2 alineatul (1) primul paragraf literele (a) și (b) din Regulamentul delegat (UE) 2017/1182 al Comisiei din 20 aprilie 2017 de completare a normelor de aplicare a Regulamentului (UE) nr. 1308/2013 al Parlamentului European și al Consiliului în ceea ce privește grilele utilizate în Uniune pentru clasificarea carcaselor de bovine, porcine și ovine și în ceea ce privește raportarea prețurilor de piață ale anumitor categorii de carcase și animale vii
+trebuie interpretat în sensul că
+nu se opune unei reglementări naționale în temeiul căreia cerințele referitoare la clasificarea carcaselor de bovine și de porcine, prevăzute la punctele A.V și, respectiv, B.II din anexa IV la Regulamentul (UE) nr. 1308/2013 al Parlamentului European și al Consiliului din 17 decembrie 2013 de instituire a unei organizări comune a piețelor produselor agricole și de abrogare a Regulamentelor (CEE) nr. 922/72, (CEE) nr. 234/79, (CE) nr. 1037/2001 și (CE) nr. 1234/2007 ale Consiliului, se impun tuturor abatoarelor stabilite pe teritoriul național, indiferent de numărul de capete sacrificate pe săptămână.
