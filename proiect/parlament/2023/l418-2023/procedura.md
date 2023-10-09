@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-09-14: documents published: Aviz comisie
 - 2023-09-19: documents published: Aviz comisie
 - 2023-09-30: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
+- 2023-10-09: registered at the Chamber of Deputies
 
 ## Documents
 
