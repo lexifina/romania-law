@@ -9,6 +9,7 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-09-12: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
+- 2023-10-09: legislative procedure ended; registered at the Senate
 
 ## Documents
 
