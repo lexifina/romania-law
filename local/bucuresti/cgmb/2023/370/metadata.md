@@ -1,0 +1,11 @@
+# HCGMB nr. 370/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 370/2023
+- Adopted: 2023-10-09
+- Title: PENTRU MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 225/19.04.2018 PRIVIND MODIFICAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 395/2016 9I APROBAREA STUDIULUI DE OPORTUNITATE „ACHIZITIONARE TRAMVAIE SI ECHIPAMENTE NECESARE IMBUNATATIRII TRANSPORTULUI PUBLIC DE CALATORI PE LINIILE 1, 10, 21, 25, 32, 40, 41 SI 55" MODIFICATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 242/28.07.2023 MODIFICA ANEXA NR. 3 DIN HCGMB NR. 225/2018
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/44950
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/44950/h370_23.pdf
+- Document sha256: 93eb24ec6f6de08daedbfc6cf590d3ea11be9cd30ab5781e94a70966e32716d9
