@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-04-08: sent for promulgation
 - 2023-06-28: returned for re-examination
+- 2023-10-09: rejected by the Senate
 
 ## Documents
 
