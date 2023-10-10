@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-21: adopted by the Senate
 - 2023-09-20: adopted by the Chamber of Deputies
 - 2023-10-02: sent for promulgation
+- 2023-10-10: promulgated, becomes Legea nr. 269/2023
 
 ## Documents
 
