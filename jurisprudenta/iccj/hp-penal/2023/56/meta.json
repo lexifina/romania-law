@@ -1,0 +1,218 @@
+{
+ "key": "iccj-hp-penal-56-2023",
+ "label": "Decizia ÎCCJ nr. 56/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "56",
+ "date": "2023-09-18",
+ "year": "2023",
+ "heading": "DECIZIA nr. 56 din 18 septembrie 2023",
+ "subtitle": "referitoare la sesizarea formulată de Curtea de Apel Pitești - Secția penală și pentru cauze cu minori și de familie în vederea pronunțării unei hotărâri prealabile privind procesul probator al accesului la un sistem informatic, precum și opțiunea asupra emiterii, obținerii și/sau utilizarea unui mandat de acces la un sistem informatic",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "910",
+  "bis": false,
+  "date": "2023-10-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.235/1/2023",
+  "2.485/90/2022/a1"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Pitești - Secția penală și pentru cauze cu minori și de familie, în Dosarul nr. 2.485/90/2022/a1, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Dacă procedeul probator al accesului la un sistem informatic poate fi utilizat atunci când (i) suportul informatic se află în detenția fizică a organului de urmărire penală sau dacă acest procedeu probator permite doar (ii) pătrunderea de la distanță întrun astfel de sistem în vederea monitorizării/supravegherii activității derulate?",
+  "2. Dacă opțiunea asupra emiterii, obținerii și/sau utilizării unui mandat de acces la un sistem informatic sau a unui mandat de percheziție informatică în vederea copierii integrale a datelor aflate într-un sistem informatic aflat în posesia organului de urmărire penală reprezintă o chestiune de oportunitate, aflată în sfera de apreciere a organului de urmărire penală, sau o chestiune de legalitate, supusă cenzurii judecătorului de cameră preliminară?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "5",
+      "1",
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1",
+      "3",
+      "13"
+     ],
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "168",
+     "alin": [
+      "2",
+      "11",
+      "1",
+      "9"
+     ],
+     "lit": null
+    },
+    {
+     "art": "159",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "349",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 143/2000",
+    "number": "143",
+    "year": "2000",
+    "path": "lege/2000/143"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția europeană a drepturilor omului",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-10-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275148",
+  "text_sha256": "14b2fac8f8fd1ba0f16743877e0b7b9d23fe090fc11e2e2fa5af298529511d6d",
+  "catalogue_sha256": "14b2fac8f8fd1ba0f16743877e0b7b9d23fe090fc11e2e2fa5af298529511d6d",
+  "fetched": "2026-11-03T01:18:29Z",
+  "chars": 122603,
+  "portal_id": "275148",
+  "tip": "DECIZIE"
+ }
+}
