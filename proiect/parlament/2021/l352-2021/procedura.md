@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-20: adopted by the Chamber of Deputies
 - 2023-10-02: sent for promulgation
 - 2023-10-10: promulgated, becomes Legea nr. 269/2023
+- 2023-10-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,10 @@ Initiator: Membri ai Parlamentului.
 - 2021-10-11: Adresă către Camera Deputaților (AM): [am-7394eede.md](am-7394eede.md); official file https://www.senat.ro/legis/PDF/2021/21L352AM.PDF
 - 2022-10-04: Adresă privind sesizarea CCR (AXS): [axs-aef2cb73.md](axs-aef2cb73.md); official file https://www.senat.ro/legis/PDF/2021/21L352AXS.PDF
 - 2022-10-04: Forma trimisă la promulgare (LP): [lp-9269eb73.md](lp-9269eb73.md); official file https://www.senat.ro/legis/PDF/2021/21L352LP.PDF
+- 2023-10-11: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L352RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L352XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L352CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L352XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L352SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (XXS): [xxs-aa0ad9bb.md](xxs-aa0ad9bb.md); official file https://www.senat.ro/legis/PDF/2021/21L352XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-11: Document (PX): [px-a6462745.md](px-a6462745.md); official file https://www.senat.ro/legis/PDF/2021/21L352PX.PDF (its day is not given by the bill file: shown from the last stage held)
