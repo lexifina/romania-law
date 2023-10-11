@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-09-23: sent for promulgation
 - 2023-10-10: promulgated, becomes Legea nr. 271/2023
+- 2023-10-11: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-13: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704FS.PDF
 - 2023-09-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704AXS.PDF
 - 2023-09-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704LP.PDF
+- 2023-10-11: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L704AL.PDF (its day is not given by the bill file: shown from the last stage held)
