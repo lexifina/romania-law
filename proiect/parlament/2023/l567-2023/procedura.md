@@ -1,0 +1,21 @@
+# Proiect de lege L567/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 19/2025 (`legea-19-2025`).
+
+Proiect de lege pentru modificarea şi completarea Legii nr.286/2009 privind Codul penal
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-10-13: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-10-13: Adresă de înaintare a inițiativei (AD): [ad-98789aae.md](ad-98789aae.md); official file https://www.senat.ro/legis/PDF/2023/23L567AD.PDF
+- 2023-10-13: Forma inițiatorului (FG): [fg-7acc04e7.md](fg-7acc04e7.md); official file https://www.senat.ro/legis/PDF/2023/23L567FG.PDF
+- 2023-10-13: Expunere de motive (EM): [em-1ec7c78d.md](em-1ec7c78d.md); official file https://www.senat.ro/legis/PDF/2023/23L567EM.PDF
+- 2023-10-13: Aviz Consiliul Legislativ (LG): [lg-72925cd3.md](lg-72925cd3.md); official file https://www.senat.ro/legis/PDF/2023/23L567LG.PDF
+- 2023-10-13: Document (HG): [hg-966c0660.md](hg-966c0660.md); official file https://www.senat.ro/legis/PDF/2023/23L567HG.PDF
