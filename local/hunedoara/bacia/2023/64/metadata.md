@@ -1,0 +1,10 @@
+# HCL Băcia nr. 64/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Băcia
+- Decision: nr. 64/2023
+- Adopted: 2023-07-27
+- Published: 2023-10-17
+- Title: cu privire la aprobarea execuţiei bugetului local al comunei Băcia, pe cele două secţiuni, atât la partea de venituri cât şi la partea de cheltuieli pentru trim II anul 2023
+- Record: https://emol.ro/bacia-hd/registru-hcl/114836
