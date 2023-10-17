@@ -1,0 +1,10 @@
+# HCL Tarcea nr. 72/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Tarcea
+- Decision: nr. 72/2023
+- Adopted: 2023-08-31
+- Published: 2023-10-17
+- Title: privind aprobarea prelungirii scrisorii de garantie din partea Fondului de Garantie a Creditului Rural pentru obiectivul „Reabilitarea, modernizarea și dotarea căminului cultural din localitatea Galoșpetreu, comuna Tarcea, judeţul Bihor”
+- Record: https://emol.ro/tarcea-bh/registru-hcl/118243
