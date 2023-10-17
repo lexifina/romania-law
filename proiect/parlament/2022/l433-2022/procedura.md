@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-09-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-09-29: sent for promulgation
 - 2023-10-16: promulgated, becomes Legea nr. 275/2023
+- 2023-10-17: published in the Monitorul Oficial
 
 ## Documents
 
