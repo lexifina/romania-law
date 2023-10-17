@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-07-20: first record in the bill file
 - 2023-09-05: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern, Punct de vedere
+- 2023-10-17: documents published: Aviz comisie
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565LG.PDF
 - 2023-09-05: Punct de vedere Guvern (SJ): [sj-59bdcb60.md](sj-59bdcb60.md); official file https://www.senat.ro/legis/PDF/2023/23L565SJ.PDF
 - 2023-09-05: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565PV.PDF
+- 2023-10-17: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565CA19.PDF
