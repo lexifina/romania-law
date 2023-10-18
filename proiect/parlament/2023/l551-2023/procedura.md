@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2023-09-26: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-09-29: documents published: Forma trimisă la promulgare
 - 2023-10-01: sent for promulgation
+- 2023-10-18: published in the Monitorul Oficial
 
 ## Documents
 
