@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-23: documents published: Aviz Consiliul Economic și Social
 - 2023-09-19: documents published: Aviz comisie
 - 2023-10-11: documents published: Raport comisie sesizată pe fond
+- 2023-10-18: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-23: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L412ES.PDF
 - 2023-09-19: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L412CA41.PDF
 - 2023-10-11: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L412CR.PDF
+- 2023-10-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L412AM.PDF
