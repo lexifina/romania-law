@@ -24,6 +24,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-09-29: sent for promulgation
 - 2023-10-17: promulgated, becomes Legea nr. 279/2023
+- 2023-10-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L155FS.PDF
 - 2023-09-25: Adresă privind sesizarea CCR (AXS): [axs-aa0ad9bb.md](axs-aa0ad9bb.md); official file https://www.senat.ro/legis/PDF/2023/23L155AXS.PDF
 - 2023-09-25: Forma trimisă la promulgare (LP): [lp-d96810a2.md](lp-d96810a2.md); official file https://www.senat.ro/legis/PDF/2023/23L155LP.PDF
+- 2023-10-18: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L155AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-18: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L155AL.PDF (its day is not given by the bill file: shown from the last stage held)
