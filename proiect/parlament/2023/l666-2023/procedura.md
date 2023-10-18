@@ -12,9 +12,13 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-10-16: first record in the bill file
 - 2023-10-17: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-10-18: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social, Punct de vedere
 
 ## Documents
 
 - 2023-10-17: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L666AD.PDF
 - 2023-10-17: Forma inițiatorului (FG): [fg-572b4929.md](fg-572b4929.md); official file https://www.senat.ro/legis/PDF/2023/23L666FG.PDF
 - 2023-10-17: Expunere de motive (EM): [em-0f17b075.md](em-0f17b075.md); official file https://www.senat.ro/legis/PDF/2023/23L666EM.PDF
+- 2023-10-18: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L666LG.PDF
+- 2023-10-18: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L666ES.PDF
+- 2023-10-18: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L666PV.PDF
