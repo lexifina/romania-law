@@ -1,0 +1,60 @@
+REGULAMENTUL DELEGAT (UE) 2023/2070 AL COMISIEI
+din 18 august 2023
+de modificare a Regulamentului delegat (UE) 2016/1675 în vederea adăugării Camerunului și Vietnamului pe lista țărilor terțe cu un grad ridicat de risc
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Directiva (UE) 2015/849 a Parlamentului European și a Consiliului din 20 mai 2015 privind prevenirea utilizării sistemului financiar în scopul spălării banilor sau finanțării terorismului, de modificare a Regulamentului (UE) nr. 648/2012 al Parlamentului European și al Consiliului și de abrogare a Directivei 2005/60/CE a Parlamentului European și a Consiliului și a Directivei 2006/70/CE a Comisiei (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Uniunea trebuie să asigure protecția eficace a integrității și a bunei funcționări a sistemului său financiar și a pieței interne împotriva spălării banilor și a finanțării terorismului. Prin urmare, Directiva (UE) 2015/849 prevede obligația Comisiei de a identifica jurisdicțiile țărilor terțe care au deficiențe strategice în regimul lor de combatere a spălării banilor și a finanțării terorismului, deficiențe ce reprezintă o amenințare semnificativă la adresa sistemului financiar al Uniunii („țări terțe cu un grad ridicat de risc”).
+(2) În Regulamentul delegat (UE) 2016/1675 al Comisiei (2) se identifică țările terțe cu un grad ridicat de risc care au deficiențe strategice.
+(3) Având în vedere nivelul ridicat de integrare a sistemului financiar internațional, legătura strânsă dintre operatorii de pe piață, volumul mare al tranzacțiilor transfrontaliere către/dinspre Uniune și gradul de deschidere a pieței, orice amenințare la adresa sistemului financiar internațional în ceea ce privește spălarea banilor și finanțarea terorismului este, în același timp, și o amenințare pentru sistemul financiar al Uniunii.
+(4) În temeiul articolului 9 alineatul (4) din Directiva (UE) 2015/849, atunci când identifică țări terțe cu un grad înalt de risc, Comisia trebuie să țină seama de evaluările, analizele sau rapoartele relevante elaborate de organizații internaționale și de organisme de standardizare cu competențe în domeniul prevenirii spălării banilor și al combaterii finanțării terorismului. Aceste informații includ declarații publice ale Grupului de Acțiune Financiară Internațională (GAFI), lista GAFI de „Jurisdicții care fac obiectul unei monitorizări sporite” și rapoartele Grupului de examinare a cooperării internaționale din cadrul GAFI în ceea ce privește riscurile prezentate de țări terțe individuale.
+(5) De la ultimele modificări ale Regulamentului delegat (UE) 2016/1675, GAFI și-a actualizat lista de „Jurisdicții care fac obiectul unei monitorizări sporite”. În cadrul reuniunii sale plenare din 21-23 iunie 2023, GAFI și-a actualizat lista de „Jurisdicții care fac obiectul unei monitorizări sporite” prin adăugarea Camerunului și a Vietnamului pe lista respectivă. Având în vedere aceste modificări, Comisia a efectuat o evaluare pentru a identifica țările terțe cu un grad ridicat de risc, în conformitate cu articolul 9 din Directiva (UE) 2015/849.
+(6) În iunie 2023, Camerun și-a asumat un angajament politic la nivel înalt de a colabora cu GAFI și cu Groupe d’Action contre le Blanchiment d’Argent en Afrique Centrale (GABAC), un organism regional similar cu GAFI, pentru a-și consolida eficacitatea regimului de combatere a spălării banilor și a finanțării terorismului. De la adoptarea raportului său de evaluare reciprocă în octombrie 2021, Camerun a înregistrat progrese cu privire la unele dintre acțiunile recomandate în raportul de evaluare reciprocă, sporind resursele unității de informații financiare și consolidând capacitatea autorităților de anchetă și a organismelor judiciare de a instrumenta în mod eficace cazurile de spălare a banilor/finanțare a terorismului. Camerun va depune eforturi pentru a-și pune în aplicare planul de acțiune elaborat împreună cu GAFI prin: 1. alinierea strategiilor și a politicilor naționale în materie de combatere a spălării banilor și a finanțării terorismului la constatările evaluării naționale a riscurilor și monitorizarea punerii lor în aplicare, precum și prin demonstrarea faptului că autoritățile competente cooperează și se coordonează între ele în ceea ce privește combaterea spălării banilor și a finanțării terorismului; 2. garantarea prioritizării în funcție de riscuri a cererilor de cooperare internațională primite, pe măsura riscurilor și prin furnizarea unui răspuns eficace; 3. consolidarea supravegherii în funcție de riscuri a băncilor și punerea în aplicare a unei supravegheri eficace bazate pe riscuri a instituțiilor financiare nebancare și a întreprinderilor și profesiilor nefinanciare desemnate, precum și prin desfășurarea de activități adecvate de informare a instituțiilor financiare cu un grad ridicat de risc și a întreprinderilor și profesiilor nefinanciare desemnate; 4. menținerea și asigurarea accesului, în timp util, al autorităților competente la informații adecvate și actualizate privind beneficiarii reali ai persoanelor juridice și prin instituirea unui regim de sancțiuni pentru încălcarea obligațiilor de transparență aplicabile persoanelor juridice; 5. intensificarea schimbului securizat de informații între unitatea de informații financiare, entitățile raportoare și autoritățile competente și prin demonstrarea unei diseminări intensificate a rapoartelor de informații cu scopul de a sprijini nevoile operaționale ale autorităților competente; 6. demonstrarea faptului că autoritățile sunt în măsură să efectueze o serie de anchete privind spălarea banilor și să urmărească penal spălarea banilor în funcție de riscuri; 7. punerea în aplicare a unor politici și proceduri de punere sub sechestru și confiscare a produselor și instrumentelor infracțiunilor și prin gestionarea bunurilor înghețate, sechestrate și confiscate, precum și prin acordarea de prioritate sechestrării și confiscării de bunuri la frontieră; 8. demonstrarea faptului că anchetele și urmăririle penale privind finanțarea terorismului se efectuează pe măsura riscurilor; și prin 9. demonstrarea punerii în aplicare eficace a regimurilor de sancțiuni financiare specifice pentru finanțarea terorismului și a proliferării și prin punerea în aplicare a unei abordări bazate pe riscuri a organizațiilor non-profit, fără a perturba activitățile legitime ale organizațiilor non-profit. În pofida acestui angajament și a progreselor înregistrate, Camerun nu a eliminat încă pe deplin preocupările care au condus la adăugarea Camerunului pe lista GAFI de „Jurisdicții care fac obiectul unei monitorizări sporite”. Prin urmare, Camerun ar trebui să fie considerat o jurisdicție a unei țări terțe cu deficiențe strategice în regimul său de combatere a spălării banilor și a finanțării terorismului, deficiențe care constituie amenințări semnificative la adresa sistemului financiar al Uniunii, astfel cum se menționează la articolul 9 alineatul (1) din Directiva (UE) 2015/849.
+(7) În iunie 2023, Vietnam și-a asumat un angajament politic la nivel înalt de a colabora cu GAFI și cu Grupul Asia-Pacific, cu scopul de a spori eficacitatea regimului său de combatere a spălării banilor și a finanțării terorismului. De la adoptarea raportului său de evaluare reciprocă în noiembrie 2021, Vietnam a înregistrat progrese cu privire la unele dintre acțiunile recomandate în raportul de evaluare reciprocă prin aderarea la Rețeaua inter-agenții Asia-Pacific de recuperare a bunurilor și prin adoptarea unui plan național de acțiune privind combaterea spălării banilor și a finanțării terorismului/combaterea finanțării proliferării. Vietnam va depune eforturi pentru a-și pune în aplicare planul de acțiune elaborat împreună cu GAFI prin: 1. îmbunătățirea înțelegerii riscurilor, a coordonării interne și a cooperării menite să combată spălarea banilor/finanțarea terorismului; 2. intensificarea cooperării internaționale; 3. punerea în aplicare a unei supravegheri eficace bazate pe riscuri a instituțiilor financiare și a întreprinderilor și profesiilor nefinanciare desemnate; 4. luarea de măsuri care vizează reglementarea activelor virtuale și a furnizorilor de servicii de active virtuale; 5. abordarea deficiențelor de conformitate tehnică, inclusiv în ceea ce privește infracțiunea de spălare a banilor, sancțiunile financiare specifice, precauția privind clientela și raportarea tranzacțiilor suspecte; 6. desfășurarea de activități de informare cu sectorul privat; 7. instituirea unui regim care să le ofere autorităților competente informații adecvate, exacte și actualizate cu privire la beneficiarii reali; 8. asigurarea independenței unității de informații financiare și prin îmbunătățirea calității și a cantității analizelor și diseminărilor de informații financiare; 9. prioritizarea anchetelor financiare paralele și demonstrarea faptului că s-au efectuat un număr mai mare de anchete și urmăriri penale în materie de spălare a banilor; și prin 10. demonstrarea faptului că instituțiile financiare și întreprinderile și profesiile nefinanciare desemnate sunt monitorizate în vederea respectării obligațiilor în materie de sancțiuni financiare specifice pentru finanțarea proliferării și că există cooperare și coordonare între autorități cu scopul de a se preveni eludarea sancțiunilor financiare specifice pentru finanțarea proliferării. În pofida acestui angajament și a progreselor înregistrate, Vietnam nu a eliminat încă pe deplin preocupările care au condus la adăugarea Vietnamului pe lista GAFI de „Jurisdicții care fac obiectul unei monitorizări sporite”. Prin urmare, Vietnam ar trebui să fie considerat o jurisdicție a unei țări terțe cu deficiențe strategice în regimul său de combatere a spălării banilor și a finanțării terorismului, deficiențe care constituie amenințări semnificative la adresa sistemului financiar al Uniunii, astfel cum se menționează la articolul 9 alineatul (1) din Directiva (UE) 2015/849.
+(8) Prin urmare, evaluarea Comisiei concluzionează că Camerun și Vietnam ar trebui considerate jurisdicții ale țărilor terțe care au deficiențe strategice în regimurile lor de combatere a spălării banilor și a finanțării terorismului, deficiențe care reprezintă amenințări semnificative la adresa sistemului financiar al Uniunii. În consecință, Camerun și Vietnam ar trebui adăugate în tabelul de la punctul I din anexa la Regulamentul delegat (UE) 2016/1675.
+(9) În consecință, Regulamentul delegat (UE) 2016/1675 ar trebui modificat în consecință,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa la Regulamentul delegat (UE) 2016/1675 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 august 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 141, 5.6.2015, p. 73.
+(2) Regulamentul delegat (UE) 2016/1675 al Comisiei din 14 iulie 2016 de completare a Directivei (UE) 2015/849 a Parlamentului European și a Consiliului prin identificarea țărilor terțe cu un grad ridicat de risc care au deficiențe strategice (JO L 254, 20.9.2016, p. 1).
+ANEXĂ
+La punctul I din anexa la Regulamentul delegat (UE) 2016/1675, textul din tabel se înlocuiește după cum urmează:
+„Nr. | Țară terță cu un grad ridicat de risc (1)
+1 Afganistan
+2 Barbados
+3 Burkina Faso
+4 Camerun
+5 Insulele Cayman
+6 Republica Democratică Congo
+7 Gibraltar
+8 Haiti
+9 Jamaica
+10 Iordania
+11 Mali
+12 Mozambic
+13 Myanmar
+14 Nigeria
+15 Panama
+16 Filipine
+17 Senegal
+18 Africa de Sud
+19 Sudanul de Sud
+20 Siria
+21 Tanzania
+22 Trinidad și Tobago
+23 Uganda
+24 Emiratele Arabe Unite
+25 Vanuatu
+26 Vietnam
+27 Yemen
+(1) Fără a aduce atingere poziției juridice a Regatului Spaniei în ceea ce privește suveranitatea și jurisdicția în raport cu teritoriul Gibraltarului.”
