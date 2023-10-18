@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-09-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-09-29: sent for promulgation
 - 2023-10-17: promulgated, becomes Legea nr. 277/2023
+- 2023-10-18: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2023-09-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L164FS.PDF
 - 2023-09-25: Adresă privind sesizarea CCR (AXS): [axs-aa0ad9bb.md](axs-aa0ad9bb.md); official file https://www.senat.ro/legis/PDF/2019/19L164AXS.PDF
 - 2023-09-25: Forma trimisă la promulgare (LP): [lp-50ba1ad1.md](lp-50ba1ad1.md); official file https://www.senat.ro/legis/PDF/2019/19L164LP.PDF
+- 2023-10-18: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L164AL.PDF (its day is not given by the bill file: shown from the last stage held)
