@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-02: sent for promulgation
 - 2023-10-18: promulgated, becomes Legea nr. 281/2023
+- 2023-10-19: published in the Monitorul Oficial
 
 ## Documents
 
