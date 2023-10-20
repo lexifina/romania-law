@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2023-10-16: adopted by the Chamber of Deputies
 - 2023-10-18: sent for promulgation
 - 2023-10-19: promulgated, becomes Legea nr. 282/2023
+- 2023-10-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,12 @@ Initiator: Guvernul României.
 - 2023-06-28: Forma adoptată de Senat (FS2): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004FS2.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004LP.PDF
+- 2023-10-20: Document (CD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004CD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (A2): [a2-5e0fcb30.md](a2-5e0fcb30.md); official file https://www.senat.ro/legis/PDF/2023/23L004A2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (SC): [sc-dd53fab4.md](sc-dd53fab4.md); official file https://www.senat.ro/legis/PDF/2023/23L004SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (DC): [dc-dc0aa24a.md](dc-dc0aa24a.md); official file https://www.senat.ro/legis/PDF/2023/23L004DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-20: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L004PX.PDF (its day is not given by the bill file: shown from the last stage held)
