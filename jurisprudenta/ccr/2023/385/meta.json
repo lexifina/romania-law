@@ -1,0 +1,211 @@
+{
+ "key": "dcc-385-2023",
+ "label": "Decizia CCR nr. 385/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "385",
+ "date": "2023-07-04",
+ "year": "2023",
+ "heading": "DECIZIA nr. 385 din 4 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 din Legea nr. 60/1991 privind organizarea și desfășurarea adunărilor publice, în interpretarea dată prin Decizia nr. 19 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "949",
+  "bis": false,
+  "date": "2023-10-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.052/299/2017",
+  "259D/2020",
+  "260D/2020",
+  "30.471/299/2017"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Cristian Mihai Dide în dosarele nr. 19.052/299/2017 și nr. 30.471/299/2017 ale Tribunalului București - Secția a II-a contencios administrativ și fiscal și constată că dispozițiile art. 3 din Legea nr. 60/1991 privind organizarea și desfășurarea adunărilor publice, în interpretarea dată prin Decizia nr. 19 din 15 octombrie 2018, pronunțată de Înalta Curte de Casație și Justiție - Completul competent să judece recursul în interesul legii, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului București - Secția a II-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 60/1991",
+    "number": "60",
+    "year": "1991",
+    "path": "lege/1991/60"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 30
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-10-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275495",
+  "text_sha256": "4a572aae1d5c71cc3d05cde3b40d55f38c299bee7aa24ec4d9a79123b06e8ced",
+  "catalogue_sha256": "4a572aae1d5c71cc3d05cde3b40d55f38c299bee7aa24ec4d9a79123b06e8ced",
+  "fetched": "2026-11-03T01:17:59Z",
+  "chars": 32285,
+  "portal_id": "275495",
+  "tip": "DECIZIE"
+ }
+}
