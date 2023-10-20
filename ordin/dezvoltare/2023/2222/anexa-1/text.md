@@ -1,0 +1,951 @@
+# Anexa nr. 1
+Cuprins:
+1.
+INTRODUCERE 1.1.
+Context
+1.2.
+Obiectul și domeniul de aplicare
+1.3.
+Definiții 1.3.1.
+Termeni principali utilizați
+1.3.2.
+Strategia Națională de Management al Riscului la Inundații
+1.3.3.
+Strategii europene bazate pe natură
+1.4.
+Documente normative de referință 1.4.1.
+Reglementări tehnice
+1.4.2.
+Legi și alte acte normative
+1.5.
+Caracteristici ale inundațiilor
+1.6.
+Necesitatea evaluării hazardului, vulnerabilității și riscului la inundații. Legătura între hazard, risc și vulnerabilitate și daunele produse prin inundații.
+2.
+EFECTELE GENERATE DE INUNDAȚII ASUPRA CLĂDIRILOR 2.1.
+Gradul de avariere al clădirilor în funcție de sistemul structural al acestora
+2.2.
+Moduri generale de afectare a clădirilor de către inundații
+3.
+MĂSURI DE ADAPTARE LA NIVEL URBAN
+4.
+MĂSURI DE ADAPTARE A CLĂDIRILOR EXISTENTE ȘI CLĂDIRILOR NOI ȘI A TERENULUI ADIACENT ACESTORA 4.1.
+Alegerea măsurilor de adaptare a clădirilor din zonele inundabile
+4.2.
+Atenuarea și reducerea efectelor inundațiilor
+4.3.
+Creșterea rezilienței la efectele inundațiilor
+4.4.
+Măsuri de adaptare a clădirilor și terenurilor adiacente din zonele inundabile 4.4.1.
+Măsuri de adaptare a terenului la inundații
+4.4.2.
+Soluții bazate pe natură de adaptare la inundații a terenului
+4.4.3.
+Măsuri de adaptare pentru inundare controlată a clădirilor
+4.4.4.
+Măsuri de adaptare pentru instalații
+4.4.5.
+Măsuri de adaptare a clădirilor bazate pe natură
+4.4.6.
+Măsuri de adaptare pentru clădirile istorice sau situate în arii protejate din zonă inundabilă
+Anexa A. Exemplu de calcul pentru dimensionarea golurilor prin care apa poate pătrunde în interiorul unei clădiri
+1.
+INTRODUCERE 1.1.
+Context (1)
+Directiva 2007/60/CE a Parlamentului European și a Consiliului din 23 octombrie 2007 privind evaluarea și gestionarea riscurilor de inundații, publicată în Jurnalul Oficial al Uniunii Europene L 288/27 din 6.11.2007, denumită în continuare în acest document Directiva Inundații, stabilește cadrul pentru evaluarea și gestionarea riscurilor de inundații și vizează reducerea consecințelor negative asupra populației, mediului, patrimoniului cultural și activității economice asociate inundațiilor.
+(2)
+Directiva 2007/60/CE este transpusă în legislația națională prin Hotărârea Guvernului nr. 846/2010 pentru aprobarea Strategiei naționale de management al riscului la inundații pe termen mediu și lung. Strategia vizează gestionarea integrată a tuturor acțiunilor de prevenire și reducere a consecințelor inundațiilor, inclusiv prin considerarea aspectelor legate de amenajarea teritoriului, dezvoltarea urbană și protecția construcțiilor în zone inundabile.
+(3)
+Una dintre principalele acțiuni pentru implementarea Strategiei naționale de management al riscului la inundații pe termen mediu și lung se referă la îmbunătățirea cadrului legislativ. Din această perspectivă, se are în vedere și codificarea construcțiilor amplasate în zone inundabile și stabilirea unor reguli de adaptare a acestora pentru a diminua pagubele produse de inundații. În cadrul strategiei sunt stabilite rolul, atribuțiile și responsabilitățile autorităților centrale și locale și altor factori interesați cu rol determinant în Planul de măsuri pentru diminuarea riscului la inundații (PMRI), pe domenii de activitate. Pe lângă acestea, Catalogul de măsuri potențiale la nivel național (asociat PMRI) cuprinde o detaliere cu rol de exemplu a măsurilor specifice ce pot fi realizate în sprijinirea implementării strategiei de către factorii implicați în funcție de domeniile de competență.
+1.2.
+Obiectul și domeniul de aplicare (1)
+Prezentul ghid are ca obiect prezentarea măsurilor de adaptare a clădirilor noi și existente situate în zone inundabile. Această reglementare tehnică cuprinde prevederi informative bazate pe buna practică, a căror aplicare se recomandă pentru adaptarea clădirilor noi și existente situate în zone inundabile.
+(2)
+Prezentul ghid se aplică atunci când Nivelul probabil al inundației depășește 0,80 m peste nivelul cotei de călcare al accesului în clădire. Pentru un Nivel probabil al inundației mai mic de 0,80 m peste nivelul cotei de călcare al accesului în clădire se vor utiliza și prevederile "Ghidului de bune practici privind măsuri de protecție aplicabile clădirilor existente și clădirilor noi, situate în zone inundabile, indicativ RTC 12-2022".
+(3)
+Prevederile prezentului ghid se adresează autorităților administrațiilor publice și organismelor de control, proiectanți, verificatori de proiecte, experți tehnici atestați, executanți, proprietari și utilizatori ai obiectivelor de investiții la care se face referire în ghid.
+(4)
+Ghidul urmărește următoarele aspecte: (a) identificarea potențialelor forme de degradare/avariere generate de inundații pentru diferite tipuri de clădiri (clasificate după funcțiuni și sistem structural);
+(b) stabilirea criteriilor de alegere a măsurilor de adaptare a clădirilor și a zonelor adiacente acestora, din punct de vedere constructiv, inclusiv al utilităților și amplasamentului, considerând diferite ipoteze privind caracteristicile inundației (adâncimea apei, timpul de expunere, căile potențiale de acces/intrare a apei în clădire);
+(c) descrierea și exemplificarea ilustrativă a măsurilor de adaptare aplicabile clădirilor existente și clădirilor noi, în funcție de caracterul temporar sau permanent al măsurilor, cu luarea în considerare a exigențelor specifice și a nivelurilor de performanță corespunzătoare cerințelor de calitate la care trebuie să răspundă clădirile din zone inundabile;
+(d) prezentarea avantajelor și dezavantajelor aplicării acestor măsuri, sub aspectul implicațiilor tehnice în etapele de proiectare și execuție a lucrărilor de intervenții la clădirile existente sau de proiectare a clădirilor noi, inclusiv în etapa de urmărire a comportării în exploatare. Acestea sunt detaliate și sub aspectul unor elemente generale legate de criteriile economice sau de prognozarea impactului generat de aplicarea măsurilor în timp, din perspectiva reducerii vulnerabilității clădirilor în ansamblu și a elementelor componente.
+(5)
+Deși ghidul se referă la măsuri de adaptare a clădirilor noi și existente situate în zone inundabile, punerea în practică a măsurilor propuse, precum și deciziile de dezvoltare urbană trebuie să ia în considerare în primul rând dezvoltarea cu impact redus, măsurile de prevenție ca prim pas al reducerii riscului, și implementarea prioritară a soluțiilor verzi, ulterior fiind recomandate soluțiile verzi-gri și în ultimă instanță cele gri. Pentru detalierea acestor soluții se vor consulta capitolele 3. și 4.3.2. din prezentul ghid.
+(6)
+Prin urmare, acest ghid include și conceptul de soluții bazate pe natură ca planificare durabilă, proiectare, management de mediu și practici inginerești care împletesc caracteristici sau procese naturale în mediul construit pentru a dezvolta comunități mai rezistente. Soluțiile bazate pe natură utilizează o abordare bazată pe funcționalitatea ecosistemelor, pentru a reproduce funcția hidrologică naturală a unei locații înainte de dezvoltarea urbană. Dacă aceste soluții sunt planificate și operate cu atenție pot contribui la dezvoltarea durabilă a unei comunități, oferind valoare socială, de mediu și economică.
+(7)
+Măsurile prezentate sunt corelate cu măsurile de reducere a riscului la inundații la nivel urban prevăzute în cadrul Planurilor de Management al Riscului de Inundații (PMRI), conform Directivei Inundații și legislației interne. Ghidul include și utilizează ambele concepte, Soluții bazate pe natură și Măsuri Naturale de Retenție a Apei (MNRA).
+(8)
+Suplimentar măsurilor propuse prin acest ghid, trebuie luat în considerare Sistemul de asigurări, acestea făcând parte din măsurile de protecție non-structurală a clădirilor la inundații.
+(9)
+Schemele și desenele prezentate în acest ghid sunt de principiu și cu rol informativ. Aplicarea lor în proiectare va trebui să fie consolidată și de implementarea soluțiilor de hidroizolare și termoizolare a clădirilor în conformitate cu normativele în vigoare.
+1.3.
+Definiții 1.3.1.
+Termeni principali utilizați (1)
+Definițiile termenilor principali utilizați în această reglementare tehnică sunt: (a)
+Precipitațiile - numite adesea și precipitații atmosferice, reprezintă căderi de apă lichidă sau solidă provenită din condensarea vaporilor de apă din atmosferă. Precipitațiile sunt fenomene intermitente, definite prin înălțimea stratului de apă precipitat pe o suprafață orizontală într-un anumit interval de timp. Se exprimă în 1/mp sau mm coloană de apă. Precipitațiile sunt fenomene care variază în spațiu și timp și sunt măsurate în cadrul stațiilor meteorologice sau hidrologice rezultând înregistrări locale ale fenomenului.
+(b)
+Ploile torențiale - care conduc la formarea viiturilor urbane, sunt caracterizate de valori ridicate ale precipitației într-un interval relativ redus de timp.
+(c)
+Bazinul urban - constituie unitatea naturală sau sistemul hidrologic de bază care, datorită caracteristicilor sale climatice, morfometrice și geologice, contribuie la transformarea precipitațiile căzute pe suprafața sa în componente: infiltrație, evapo-transpirație și scurgere (apă de șiroire) la suprafața terenului. În cazul unor ploi cu intensități mici, apa de șiroire ajunge integral în rețeaua de canalizare. Dimpotrivă, în cazul unor ploi torențiale care depășesc frecvența ploii de calcul rețeaua de canalizare ajunge la capacitatea maximă, iar după ce intră sub presiune, excesul de apă va curge pe rețeaua stradală sau printre clădiri.
+(d)
+Inundația - reprezintă acoperirea temporară a unui teren cu apă provenită din revărsarea cursurilor de apă, din ploile abundente sau topirea bruscă a zăpezii, din accidente la construcții hidrotehnice și care prin amploarea, intensitatea și durata sa are impact negativ semnificativ asupra sănătății umane, mediului, patrimoniului cultural și activității economice (Regulament din 7 martie 2019 privind gestionarea situațiilor de urgență generate de fenomene hidrometeorologice periculoase având ca efect producerea de inundații, secetă hidrologică precum și incidente/accidente la construcții hidrotehnice, poluări accidentale ale cursurilor de apă și poluări marine în zona costieră).
+Conform Directivei Inundații (Flood Directive), inundația reprezintă submersarea temporară a unui teren care în mod obișnuit nu este acoperit cu apă.
+(e)
+Inundațiile urbane sunt inundații cauzate în principal de depășirea capacității de preluare și evacuare a rețelei de canalizare urbană și eventual de revărsarea rețelei hidrografice limitrofe. În zonele urbane ciclul hidrologic natural a fost puternic perturbat prin dezvoltarea urbană necontrolată.
+Impermeabilizarea excesivă a solului în zonele urbane și conversia zonelor permeabile în zone impermeabile constituie una din principalele cauze ale inundațiilor urbane, creșterea suprafețelor impermeabile având efecte substanțiale asupra regimului hidrologic. Ca un principiu general de adaptare a clădirilor, respectiv terenurilor care sunt amplasate în zone inundabile, se recomandă menținerea unui regim hidrologic post-construcție cât mai apropiat de cel anterior construirii/ urbanizării terenului.
+O altă cauză care conduce la inundații urbane este reprezentată de încorsetarea la maximum a albiei râului ca urmare a extinderii spațiului construit până la limita albiei minore. Alterarea substanțială a hidromorfologiei naturale a râului în zonele urbane constituie una din principalele cauze pentru care trebuie implementate măsuri de adaptare nestructurale, cu accent pe asigurarea spațiului necesar pentru curgerea naturală a râului și conservarea/restaurarea albiei naturale a râului.
+(f)
+Viiturile - reprezintă creșterea bruscă a nivelului, respectiv a debitului, ca urmare a unei ploi torențiale, a topirii bruște a zăpezii sau din combinarea celor doi factori. În general, noțiunea de viitură este asociată cu apele curgătoare (pâraie, râuri, fluvii). Viituri se produc însă și în zonele urbane în urma unor ploi torențiale, apa șiroind pe suprafața străzilor după depășirea capacității de evacuare a rețelei de canalizare. Conform Regulamentului privind gestionarea situațiilor de urgență generate de fenomene hidrometeorologice periculoase având ca efect producerea de inundații, secetă hidrologică precum și incidente/accidente la construcții hidrotehnice, poluări accidentale ale cursurilor de apă și poluări marine în zona costieră, aprobat prin Ordinul comun al ministrului apelor și pădurilor și al ministrului afacerilor interne nr. 459/78/2019, viiturile reprezintă momente de vârf în evoluția scurgerii apei unui râu caracterizate prin creșteri rapide, uneori extraordinare, ale nivelului apei și implicit ale debitului, până la atingerea unui maxim, după care urmează scăderea nivelului, respectiv a debitului, parametrii revenind la valorile normale de scurgere. Viiturile se deosebesc de faza de "ape mari" a regimului hidrologic, prin intervalul scurt de manifestare.
+(g)
+Prin hazard se înțelege un eveniment cu potențial periculos, caracterizat din punct de vedere statistic, care conduce la pagube economice, sociale, de mediu sau patrimoniu. Exemple de hazarduri naturale sunt: precipitațiile torențiale, viiturile, alunecările de teren care acompaniază adeseori viiturile, cutremurele, valurile de căldură etc.
+(h)
+Expunerea reprezintă situarea unor obiective social-economice sau culturale în zona expusă hazardului (în cazul de față în zona expusă inundațiilor). Trebuie menționat că sintagma "obiective social-economice" include clădirile rezidențiale.
+(i)
+Consecințele - reprezintă mărimea pagubelor economice, sociale, de mediu sau de patrimoniu produse în urma unui hazard.
+(j)
+Vulnerabilitatea - reprezintă gradul în care un sistem socio-economic este sensibil la efectele adverse ale fenomenelor extreme și a variabilității climatice (inclusiv ale schimbărilor climatice), neputând face față acestora.
+Vulnerabilitatea este o funcție de variația solicitărilor la care este expus sistemul, de senzitivitate și de capacitatea de adaptare.
+(k)
+Riscul - reprezintă o pierdere așteptată din punct de vedere statistic. Riscul este caracterizat prin probabilitate, expunere și vulnerabilitate. În practică, expunerea este adeseori încorporată împreună cu vulnerabilitatea, în evaluarea consecințelor. Ca urmare se consideră că riscul este caracterizat prin două componente: probabilitatea de a se produce un eveniment și consecințele acestui eveniment. Riscul se manifestă la intersecția dintre hazard și vulnerabilitate.
+(l)
+Riscul de inundații - reprezintă combinația dintre probabilitatea aferentă apariției unor inundații și efectele potențial adverse pentru sănătatea umană, mediu, patrimoniul cultural și activitatea economică asociate apariției unei inundații (Directiva Inundații). Efectele adverse (consecințele) sunt funcție de severitatea sau mărimea hazardului, de expunere și vulnerabilitate. Riscul reprezintă, în fond, o pagubă medie probabilă pe un orizont ridicat de timp.
+Dacă o zonă nu este expusă inundațiilor, expunerea este nulă, ceea ce conduce la un risc de asemenea nul.
+Măsurile structurale sau nestructurale pot diminua riscul, dar nu îl pot reduce la zero întrucât costurile ar fi disproporționate în raport cu beneficiile ("riscul zero costă infinit").
+(m)
+Reziliența (rezistența) - reprezintă capacitatea unui sistem socio-economic de a face față într-o manieră pozitivă unor situații complexe și nefavorabile, furnizând și menținând un nivel acceptabil de servicii, și de a reveni în scurt timp la o funcționare normală în urma dereglărilor produse de solicitări extreme sau de a se adapta introducând schimbările pe care aceste situații le necesită.
+(n)
+Riscul rezidual - reprezintă riscul care nu poate fi eliminat după adoptarea măsurilor de management al riscului la inundații, care au avut ca efect atenuarea (diminuarea) riscului. Poate fi cauzat de evenimente severe (care depășesc standardul de protecție) sau de hazarduri neprevăzute.
+(o)
+Viituri urbane - reprezintă viituri produse pe suprafața localităților. Rețeaua de canalizare, în mai toate orașele mari, s-a dezvoltat către sfârșitul secolului XIX, corespunzător stadiului de dezvoltare din acel moment (populație, suprafață construită). Frecvența ploii de calcul era de 2:1, 1:1 și destul de rar 1:2 sau 1:3. Între timp, suprafața construită a crescut dramatic ca urmare a dezvoltării economice și sociale sau a racordării la rețeaua de canalizare a unor localități limitrofe, care în timp, au fost înglobate în localitatea principală. Rezultatul îl constituie creșterea amplorii și frecvenței inundațiilor urbane, acompaniată de creșterea pagubelor și a pierderilor de vieți omenești. Lucrurile au o perspectivă și mai gravă în contextul schimbărilor climatice și a acutizării fenomenelor extreme. Recomandările actuale din România prevăd frecvențe ale ploii de calcul de până la 1:5, în timp ce normele europene impun ca frecvența ploii de calcul să fie 1:10. Totuși, nici aceste frecvențe de calcul nu asigură o protecție suficientă împotriva inundațiilor pluviale de tip urban. Este cunoscut faptul că pe suprafețe mici, fie ele bazine naturale sau bazine urbane, se pot produce precipitații extreme care generează viituri rapide (viituri de tip flashflood). Astfel de viituri în cadrul bazinelor urbane au efecte deosebit de grave, nu numai ca pagube materiale, ci și ca pierderi de vieți omenești.
+Din acest motiv, deși precipitațiile cu frecvența 1:100 nu servesc la dimensionarea rețelei de canalizare, în cadrul managementului riscului la inundații din zonele urbane este prevăzută analiza efectului produs de aceste precipitații.
+(p)
+În timpul inundațiilor urbane apa se deplasează atât prin rețeaua de canalizare (rețeaua minoră), cât și pe rețeaua stradală (rețeaua majoră). La precipitații mai mici decât cele corespunzătoare frecvenței ploii de calcul, apa se deplasează prin rețeaua minoră. Pentru precipitații care depășesc ploaia de calcul, rețeaua de canalizare se pune sub presiune, gurile de canalizare refulează, iar o parte din apa pluvială se scurge pe străzi sau se acumulează în zonele depresionare. Dezvoltarea localităților a perturbat ciclul hidrologic natural, pe de o parte prin creșterea excesivă a gradului de impermeabilizare a terenului, iar pe de altă parte prin nivelarea terenului și desființarea unor vechi albii de pâraie cu caracter permanent sau temporar.
+Pentru a preveni agravarea situației în viitor, sunt necesare măsuri care să corecteze pe de o parte greșelile dezvoltării urbane, prevenind asaltul dezvoltatorilor imobiliari asupra spațiilor verzi, iar pe de altă parte să restaureze cel puțin parțial ciclul hidrologic inițial prin creșterea gradului de infiltrare sau de reținere a apei în zona în care se produc precipitațiile.
+(q)
+Hărți de inundabilitate - zonarea teritoriului are la bază hărțile de hazard și de risc, elaborate și îmbunătățite continuu în cadrul unor cicluri de 6 ani. Aceste hărți furnizează informații privind extinderea zonelor inundabile pentru diverse probabilități de depășire a debitului maxim al viiturii, adâncimea apei din zonele inundabile, viteza maximă a apei în albia majoră, precum și mărimea pagubelor medii anuale (AED - Annual Expected Damages). În principiu se disting zone inundate cu frecvență ridicată (corespunzătoare unei probabilități de depășire de 10% a debitului maxim), zone inundate cu frecvență medie (probabilitate de depășire de 1%) și zone inundate cu frecvență rară (probabilitate de depășire de 0,1%). Trebuie precizat că inundarea albiei majore se produce în medie la un interval de 1,7 - 2,4 ani, ceea ce corespunde unei probabilități de depășire a debitului maxim de 50%.
+În cadrul proiectului "Flood Hazard and Flood Risk Maps (FHRM) and Flood Risk Management Plans (FRMP) for România" contractat de Guvernul României cu Banca Mondială, au rezultat hărțile de hazard și hărțile de risc. Cele 2 tipuri de hărți au fost obținute atât pentru viiturile fluviale (sau riverane), cât și pentru viiturile pluviale. Hărțile de inundabilitate din sursa pluvială pun în evidență atât căile preferențiale de scurgere la nivelul rețelei de străzi, cât și zonele depresionare, de acumulare a apei pluviale.
+Hărțile de hazard pentru adâncime se caracterizează prin următoarea scară de intervale, cărora le corespund culori diferite: < 0,45 m (verde), 0,45-0,80 m (vernil), 0,80-1,0 m (galben), 1,0-2,0 m (oranj), 2,0-5,0 m (roșu) și > 5,0 m (maro).
+Hărțile de hazard pentru viteză se caracterizează prin următoarea scară de intervale, cărora le corespund de asemenea culori diferite: < 1,5 m/s (verde), 1,51,6 m/s (vernil), 1,6-2,0 m/s (galben), 2,0-3,0 m/s (oranj), 3,0-5,0 m/s (roșu) și > 5,0 m/s (maro).
+Viitura urbană exercită asupra clădirilor presiune hidrostatică (care poate conduce inclusiv la plutire), precum și presiune hidrodinamică. Se apreciază că o clădire este distrusă atunci când viteza apei depășește 1,9 m/s pentru o clădire cu un nivel și 2,3 m/s pentru o clădire cu 2 nivele.
+Un indicator foarte important al potențialului distructiv al viiturii este produsul v x d, unde v este viteza medie în secțiune, iar d este adâncimea apei. Distrugerea este totală dacă v > 2 m/s și v x d > 7 mp/s. Dacă însă v > 2 m/s și 3 mp/s < v x d < 7 mp/s, distrugerea este parțială.
+1.3.2.
+Strategia Națională de Management al Riscului la Inundații (1)
+Strategia Națională de Management al Riscului la Inundații pe termen mediu și lung, a fost aprobată prin Hotărârea Guvernului nr. 846/2010. În prezent Strategia face obiectul unei revizuiri și adaptări la evoluția concepțiilor pe plan internațional al managementului situațiilor de criză produse de fenomenele extreme. Documentul de bază în elaborarea Strategiei Naționale îl constituie Directiva Inundații, România având obligația de implementare în legislație a acesteia.
+(2)
+Principala schimbare de paradigmă a Directivei Inundații o constituie trecerea de la formele defensive, bazate strict pe măsuri structurale, la cele de management al riscului la inundații, care implică promovarea cu prioritate a măsurilor nestructurale.
+(3)
+Măsurile structurale, numite și măsuri gri, sunt reprezentate de lucrările hidrotehnice (în principal baraje, diguri, derivații de ape mari), care au ca efect reducerea magnitudinii undei de viitură în aval (cazul barajelor și derivațiilor de ape mari) sau evitarea inundării în dreptul acestora (cazul îndiguirilor). Totuși, așa cum s-a constatat din practică, măsurile structurale nu pot oferi o protecție absolută, iar promovarea lor trebuie realizată având în vedere conservarea factorilor de mediu.
+(4)
+Măsurile nestructurale urmăresc atenuarea efectului inundațiilor prin activități de zonare a teritoriului, prognoza viiturilor, avertizare cu timp de anticipare cât mai ridicat, precum și prin adoptarea unui ansamblu de măsuri verzi.
+(5)
+Gradul de protecție care trebuie asigurat diferă în funcție de mărimea pagubelor (sociale, economice, de mediu sau patrimoniu) care se produc. Pagubele cele mai mari se înregistrează în cazul orașelor, care reprezintă concentrări de populație și de bunuri materiale. În schimb, pagubele sunt reduse în cazul unor terenuri agricole, după cum pot fi inexistente pentru terenuri necultivate sau degradate.
+(6)
+În concordanță cu prevederile Strategiei Naționale de Management al Riscului la Inundații pe termen mediu și lung, terenurile agricole pot fi protejate la probabilitatea de depășire de 10%, sau pot fi lăsate chiar neprotejate, funcție de mărimea pagubelor potențiale, în timp ce localitățile trebuie protejate în perspectivă cel puțin la viitura cu debitul maxim 1%. În principiu, localitățile rurale și orașele sub 20.000 de locuitori vor avea un grad de protecție de 1,0%, orașele și municipiile sub 250.000 locuitori un grad de protecție de 0,5%, iar municipiile peste 250.000 locuitori 0,1%. Aceste valori se referă la inundațiile provocate de râurile din amonte sau de cursurile de apă care străbat localitățile.
+(7)
+Localitățile pot fi însă inundate și datorită precipitațiilor cu caracter torențial produse pe suprafața acestora și pe versanții limitrofi, sau din suprapunerea viiturilor pluviale pe bazinele urbane cu inundațiile produse de rețeaua hidrografică.
+(8)
+O localitate nu reprezintă o entitate izolată, separată de bazinul hidrografic în care se află situat, ci dimpotrivă, are puternice interacțiuni cu acesta, fiind influențat de procesele hidrologice din amonte, respectiv influențând la rândul lui procesele hidrologice din aval. O localitate cu suprafață importantă, puternic impermeabilizată prin suprafața construită și rețeaua stradală, poate genera viituri urbane semnificative, care conduc la inundații suplimentare în aval.
+(9)
+Ca urmare, pentru managementul riscului la inundații se impune o abordare la nivel de bazin hidrografic, cu planificare intersectorială și cooperare interinstituțională, care să includă pe lângă gospodărirea apelor de suprafață și subterane la nivel bazinal, amenajarea teritoriului și dezvoltarea urbană, protecția mediului, dezvoltarea agricolă și silvică, protecția infrastructurii de transport, protecția construcțiilor și protecția comunităților.
+(10)
+Managementul riscului la inundații are ca obiectiv diminuarea consecințelor inundațiilor și constă, anterior inundațiilor, în măsuri de prevenire, protecție și pregătire, în acțiuni de management al situațiilor de criză în timpul inundațiilor și în acțiuni post-inundație pentru a asigura revenirea în cel mai scurt timp la normalitate, urmate de analiza fenomenului și a modului în care s-a acționat în vederea creșterii performanțelor viitoare.
+1.3.3.
+Soluții bazate pe natură (1)
+Soluțiile bazate pe natură (NBS - "Nature Based Solutions") au la bază un ansamblu de măsuri verzi dintre care se menționează: menținerea sau creșterea proporției de suprafață împădurită în bazinele superioare ale cursurilor de apă, reducerea scurgerii pe versant prin perdele forestiere antierozionale, lucrări de terasamente sau utilizarea unor "bariere" ale scurgerii de suprafață, promovarea bunelor practici în agricultura pe versanți, remeandrarea cursului de apă și restaurarea luncii inundabile, zone de retenție naturală a apei, analiza posibilității de relocare a unor diguri, îndepărtarea parțială sau chiar totală a acestora.
+(2)
+Introducerea măsurilor verzi, ca măsuri nestructurale, este strâns legată de cele mai bune practici și principii de bază în managementul riscului la inundații, propuse de Uniunea Europeană și de Comisia Economică a Națiunilor Unite pentru Europa privind măsurile de prevenire, protecție și diminuare a efectelor inundațiilor, dintre care se amintesc doar cele mai importante: rolul fundamental al apei în cadrul ciclului hidrologic natural condiționând existența și diversitatea ecosistemelor, precum și toate activitățile economice și sociale ("apa este parte a unui întreg"), stocarea apei la locul unde se produc precipitațiile, precum și în lungul cursului de apă, revenirea pe cât posibil la condițiile hidrologice inițiale, lăsând râurile să curgă neîncorsetate ("mai mult spațiu pentru râuri"), acceptarea riscului remanent în zonele inundabile în pofida măsurilor generale și întreprinderea unor măsuri individuale de protecție ("conviețuirea cu viiturile").
+(3)
+Deși strategiile europene și Strategia Națională de Management al Riscului la Inundații se referă la bazinele hidrografice, ele sunt sau pot fi transpuse cu adaptări și în cazul așezărilor urbane sau rurale. Dezvoltarea istorică, necontrolată, a zonelor locuite a perturbat ciclul hidrologic natural. Rețeaua de canalizare, completată eventual de rezervoare subterane de atenuare prin stocare temporară și de stații de pompare (infrastructură gri), reprezintă măsuri structurale care asigură un grad de protecție corespunzător frecvenței ploii de calcul. Evoluțiile climatice din ultima perioadă, precum și creșterea vulnerabilității sociale și economice din zonele locuite, impun completarea măsurilor structurale prin măsuri nestructurale. Multe orașe regândesc în prezent managementul riscului la inundații urbane prin utilizarea complementară, pe lângă infrastructura gri, a Infrastructurii Verzi ("green infrastructure"), cu scopul de a aduce răspunsul hidrologic cât mai aproape de condițiile anterioare urbanizării. Aceasta implică o tranziție de la apărarea împotriva viiturilor urbane, prin măsuri gri în care scopul îl reprezintă colectarea și evacuarea rapidă a apei prin rețeaua de canalizare, la reziliența la viiturile urbane, asigurând prin măsurile verzi reținerea, atenuarea, stocarea dinamică și reutilizarea apei pluviale în cadrul orașului. Utilizarea infrastructurii verzi trebuie împinsă până la limita maximă a restricțiilor fizice, de proiectare sau financiare. După atingerea limitelor utilizării în comun a infrastructurii gri și a celei verzi, se pot desemna anumite străzi drept căi de evacuare a excesului de apă stradală pentru a evita distrugerea sau afectarea gravă a infrastructurii critice.
+(4)
+Infrastructura verde poate fi considerată echivalentă cu alte denumiri, precum: soluții bazate pe natură (Nature-Based Solutions), infrastructura verde-albastră (Blue- Green Infrastructure) sau Soft-Engineering. Infrastructura verde reprezintă o componentă de bază a unor concepte de esență asemănătoare, precum Sustainable Drainage Systems (SuDS - Marea Britanie), Low Impact Developments (LIDs) sau Best Management Practices (BMPs - SUA), Water Sensitive Urban Design (WSUD) sau a unor concept holistice precum "Blue-Green Cities" și "Sponge Cities". În toate cazurile, scopul îl constituie refacerea, cel puțin parțială, a ciclului hidrologic inițial, anterior urbanizării.
+(5)
+Principalele măsuri de tip Infrastructură Verde în cadrul zonelor urbane sunt: spații verzi, acoperișuri verzi, fațade verzi, celule de bioretenție, zone umede, bazine supraterane de retenție, pavaje permeabile, canale permeabile cu rol de epurare biologică etc. Ele au rolul de a facilita retenția apei pentru a evita debite pluviale ridicate, epurarea parțială a apei poluate de pe rețeaua stradală și, într-o anumită măsură, reutilizarea ei în cadrul localității.
+1.4.
+Documente normative de referință (1)
+Pentru reglementările tehnice, standardele de referință, legile și actele normative, se vor lua în considerare edițiile în vigoare, inclusiv modificările și completările ulterioare. 1.4.1.
+Reglementări tehnice (1)
+Normativ privind calculul termotehnic al elementelor de construcție ale clădirilor, indicativ C 107-2005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2.055/2005, cu modificările și completările ulterioare;
+(2)
+Instrucțiuni tehnice pentru folosirea profilelor încastrate din PVC plastifiat la etanșarea rosturilor elementelor de construcții, indicativ C 163-1987, aprobat prin Decizia președintelui Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 40/1987;
+(3)
+Norme tehnice pentru utilizarea foliilor din PVC la hidroizolarea construcțiilor subterane și bazinelor, indicativ C 216-1983, aprobată prin Decizia președintelui Institutului Central de Cercetare, Proiectare și Directivare în Construcții nr. 20/1984;
+(4)
+Normativ privind proiectarea, execuția și exploatarea hidroizolațiilor la clădiri, aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 607/2003, denumit în continuare în prezentul document reglementarea tehnică NP 0402002;
+(5)
+Ghid privind utilizarea chiturilor la etanșarea rosturilor în construcții, indicativ GE 047-02, aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.578/2002;
+(6)
+Ghid pentru executarea lucrărilor de drenaj orizontal și vertical, indicativ GE 02897, aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 56/N/1997;
+(7)
+Ghid privind proiectarea scărilor și rampelor la clădiri, indicativ GP-089-03, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.004/2003;
+(8)
+Ghid privind proiectarea, execuția și exploatarea hidroizolațiilor cu membrane bituminoase aditivate cu APP și SBS, indicativ GP 114-06, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.734/2006;
+(9)
+Ghid privind proiectarea și execuția acoperișurilor verzi la clădiri noi și existente, indicativ GP 120-2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 3.383/2013;
+(10)
+Normativ privind criteriile de performanță specifice rampelor și scărilor pentru circulația pietonală în construcții, indicativ NP-063-02, aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 1.994/2002;
+(11)
+Ghid privind proiectarea, execuția și exploatarea elementelor de construcții hidroizolate cu materiale bituminoase și polimerice, aprobat prin Ordinul ministrului lucrărilor publice, transporturilor și locuinței nr. 605/2003, denumit în continuare în prezentul document reglementarea tehnică NP 064-2002;
+(12)
+Normativ privind reabilitarea hidroizolațiilor bituminoase ale acoperișurilor clădirilor, indicativ NP 121-06, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 1.732/2006;
+(13)
+Normativ privind proiectarea fațadelor cu alcătuire ventilate, indicativ NP 1352013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 3.415/2013;
+(14)
+Metodologia de calcul al performanței energetice a clădirilor, indicativ Mc 0012022, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 16/2023;
+(15)
+Ghid pentru proiectarea lucrărilor ce înglobează materiale geosintetice, indicativ P134-1995, aprobat prin Ordinul ministrului lucrărilor publice și amenajării teritoriului nr. 1/N/1995;
+1.4.2.
+Legi și alte acte normative (1)
+Legea apelor nr. 107/1996, cu modificările și completările ulterioare;
+(2)
+Ordonanța de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență, cu modificările și completările ulterioare;
+(3)
+Directiva 2007/60/CE a Parlamentului European și a Consiliului din 23 octombrie 2007 privind evaluarea și gestionarea riscurilor de inundații, publicată în Jurnalul Oficial al Uniunii Europene L 288/27 din 6.11.2007;
+(4)
+Hotărârea Guvernului nr. 846/2010 pentru aprobarea Strategiei Națională de Management al Riscului la Inundații pe termen mediu și lung;
+(5)
+Ordinul ministrului mediului și pădurilor nr. 910/2010 privind aprobarea Regulamentului de organizare și funcționare a Comitetului ministerial pentru situații de urgență și a Centrului operativ pentru situații de urgență generate de inundații, fenomene meteorologice periculoase, accidente la construcțiile hidrotehnice, poluări accidentale și incendii la fondul forestier;
+(6)
+Ordinul comun al ministrului mediului și schimbărilor climatice, al ministrului afacerilor interne, al viceprim-ministrului, ministrul dezvoltării regionale și administrației publice și al ministrului delegat pentru ape, păduri și piscicultură nr. 330/44/2.178/2013 pentru aprobarea Manualului primarului pentru managementul situațiilor de urgență în caz de inundații și secetă hidrologică și a Manualului prefectului pentru managementul situațiilor de urgență în caz de inundații și secetă hidrologică;
+(7)
+Hotărârea Guvernului nr. 557/2016 privind managementul tipurilor de risc, cu modificările și completările ulterioare;
+(8)
+Hotărârea Guvernului nr. 972/2016 pentru aprobarea planurilor de management al riscului la inundații aferent celor 11 administrații bazinale de apă și fluviului Dunărea de pe teritoriul României;
+(9)
+Legea nr. 575/2001 privind aprobarea Planului de amenajare a teritoriului național - Secțiunea a V-a Zone de risc natural;
+(10)
+Hotărârea Guvernului nr. 739/2016 pentru aprobarea Strategiei naționale privind schimbările climatice și creșterea economică bazată pe emisii reduse de carbon pentru perioada 2016-2020 și a Planului național de acțiune pentru implementarea Strategiei naționale privind schimbările climatice și creșterea economică bazată pe emisii reduse de carbon pentru perioada 2016-2020;
+(11)
+Ordinul nr. 459/78/2019 pentru aprobarea Regulamentului privind gestionarea situațiilor de urgență generate de fenomene hidrometeorologice periculoase având ca efect producerea de inundații, secetă hidrologică, precum și incidente/accidente la construcții hidrotehnice, poluări accidentale pe cursurile de apă și poluări marine în zona costieră.
+1.5.
+Caracteristici ale inundațiilor (1)
+Principalele caracteristici ale inundațiilor sunt definite de următoarele elemente: (a) extinderea inundațiilor exprimate prin limitele de inundabilitate pentru diferite probabilități de depășire a debitului maxim, respectiv a frecvenței ploii de calcul;
+(b) adâncimea apei;
+(c) debitul de apă;
+(d) viteza de curgere a apei.
+(2)
+Măsurarea directă a precipitațiilor se realizează cu pluviometre, care măsoară în general precipitațiile cumulate pe intervale de 12 ore, sau pluviografe care permit înregistrări continue. Indirect, precipitațiile pot fi estimate cu radarul meteorologic sau utilizând imagini satelitare, dar este necesară o rețea de observații la sol pentru validare.
+(3)
+Pluviograma - reprezintă graficul înălțimii cumulate a precipitației în raport cu timpul de la începutul ploii până la sfârșitul acesteia.
+(4)
+În practică interesează, de asemenea, variația intensității precipitației pe intervale oarecare de timp. Funcție de mărimea intervalului de timp, intensitatea ploii se exprimă în mm/min sau în mm/oră. Un pas de timp mare estompează în mare măsură fluctuațiile reale ale intensității ploii. În cazul unor bazine urbane mici, la care timpul de reacție la o ploaie torențială este rapid, este de dorit ca pasul de discretizare a ploii să fie cât mai mic posibil.
+(5)
+Pluviogramele obținute pe baza măsurătorilor cu pluviograful, pot fi discretizate cu un pas de timp de 5 minute. Pe baza acestor valori, se obțin precipitațiile cumulate produse pe diverse durate D = 10', 15', 20', 25', 30', 40', 50', 60', 75', 90', 100', 120', 140', 180', 240', 300', 360', 720' și 1440'.
+(6)
+În continuare pentru fiecare din aceste intervale, se determină ploaia maximă anuală de durată D din fiecare an al perioadei de calcul, urmată de prelucrarea statistică a șirului de date obținut. Ca rezultat al acestei prelucrări rezultă curbele IDF (Intensitate-Durată-Frecvență).
+(7)
+Hidrograful undei de viitură - reprezintă variația nivelului sau debitului în raport cu durata viiturii. Hidrograful undei de viitură se caracterizează printr-o ramură ascendentă (sau ramura de creștere a viiturii) și o ramură descendentă (sau ramura de descreștere a acesteia). În timp ce hidrograful de viitură este determinat în cazul rețelei hidrografice pe bază de măsurători de nivel în cadrul stațiilor hidrometrice și cheilor limnimetrice (cheia debitelor) existente, în cazul orașelor operația de evaluare a debitului de viitură este mult mai dificilă, atât din cauza numărului mare de căi preferențiale de deplasare a apei (deci nu numai pe străzi), cât și a lipsei unor date necesare pentru calibrarea modelelor de calcul.
+(8)
+În managementul riscului la inundații sunt utilizate debite cu următoarele probabilități de depășire: 10%; 5%; 3%; 1%; 0,5%; 0,2% și 0,1%. Spre exemplu, se pot înregistra inundații cu probabilitate mică generate de un debit cu probabilitatea de depășire de 0,1% (magnitudinea inundației depășită în medie o dată la 1000 de ani), inundații cu probabilitate medie generate de un debit cu probabilitatea de depășire de 1% (magnitudinea inundației depășită în medie o dată la 100 de ani), și inundații cu probabilitate mare, generate de un debit cu probabilitatea de depășire de 10% (magnitudinea inundației depășită în medie o dată la 10 de ani).
+(9)
+Standardul de protecție - reprezintă gradul de protecție pe care îl oferă măsurile structurale sau nestructurale adoptate. Gradul de protecție este complementar probabilității de depășire a debitului maxim la care s-au dimensionat lucrările de apărare împotriva inundațiilor. De exemplu, dacă un dig a fost dimensionat la debitul maxim cu probabilitatea de depășire de 1%, gradul de protecție rezultat este de 99%. În limbajul curent însă gradul de protecție este asimilat cu probabilitatea de depășire a debitului maxim. În realitate, 1% nu reprezintă gradul de protecție, ci probabilitatea de cedare sau de inundare.
+(10)
+Inundațiile, în funcție de sursa evenimentului, sunt clasificate astfel: (a) inundație fluvială sau riverană - reprezintă inundarea terenului produsă de viiturile de pe cursurile de apă permanente și nepermanente, canale de drenaj, torenți, viituri cauzate de topirea zăpezii etc.;
+(b) inundație pluvială - reprezintă inundarea terenului direct din precipitațiile care se produc pe suprafața respectivă sau din apa de șiroire, ca urmare a ploilor de mare intensitate. Această sursă include inundațiile din zonele urbane, inundațiile care afectează terenurile agricole prin băltire sau prin scurgerea de suprafață, precum și inundațiile cauzate de stagnarea apei ca urmare a topirii zăpezii.
+(c) inundație din apă freatică - inundare datorată ridicării/creșterii nivelului apei freatice peste nivelul suprafeței terenului (băltire generată de lipsa drenajului natural sau artificial);
+(d) inundație de tip marin - reprezintă inundarea terenului cu apele mării, în zona litorală, estuare sau lacuri costiere. Aceste inundații pot fi produse de mareea înaltă, furtuni cu valuri mari, tsunami, remuul apărut pe râurile costiere ca urmare a acțiunii valurilor în perioada furtunilor marine.
+(e) inundare din barare artificială/infrastructură de apărare - inundarea terenului ca urmare a barării cu infrastructuri de apărare împotriva inundațiilor sau prin cedarea acestora;
+(f) altele - inundarea terenului ca urmare a altor cauze, de exemplu tsunami.
+(11)
+Inundațiile, în funcție de mecanismul de inundare, au următoarele cauze: (a) depășirea capacității de transport a albiei - inundarea terenului ca urmare a depășirii capacității de transport a albiei sau nivelului terenurilor adiacente;
+(b) depășirea gradului de siguranță a lucrărilor de apărare - inundarea terenului ca urmare a depășirii nivelului lucrărilor de apărare de către nivelul apei;
+(c) distrugerea infrastructurii de apărare - inundarea terenului ca urmare a cedării structurilor naturale sau artificiale de apărare. Mecanismul poate include cedarea structurilor de apărare sau retenție dar și eșecul unor sisteme de operare: pompe, porți etc.
+(d) blocare/restricționare - inundarea terenului cauzată de un blocaj natural sau artificial a unei albii sau a unui sistem hidraulic. Acest mecanism poate include și obturarea sistemului de canalizare, blocarea canalelor deschise sau a secțiunii podurilor ca urmare a dezghețului, transportului de plutitori sau alunecărilor de teren.
+(e) altele - inundare ca urmare a altor mecanisme, de exemplu inundații provocate de vânt în zona litorală sau a lacurilor.
+(12)
+Inundațiile, în funcție de caracteristicile relevante, se clasifică în: (a) viitura rapidă (flash-flood, produsă pe bazine mici) - conduce la inundarea unei suprafețe de teren, într-o perioadă scurtă de timp, ca urmare a unor precipitații intense sau extreme;
+(b) viitura de primăvară datorată topirii zăpezii - inundare cauzată de topirea zăpezii, posibil în combinație cu ploaia sau blocaje datorate dezghețului;
+(c) viitura cu alt tip de timp de creștere - inundație care se dezvoltă rapid, alta decât viitura rapidă;
+(d) viitura medie - inundare cu o rată mai redusă decât în cazul viiturilor rapide;
+(e) viitura lentă (viitură regională, produsă pe bazine medii sau mari) - inundare care durează;
+(f) viitura cu transport mare de aluviuni;
+(g) viitura cu propagare rapidă - inundare în situația în care apele au viteză mare;
+(h) viitura cu niveluri remarcabile - inundarea unui teren cu apă cu adâncimi semnificative.
+1.6.
+Necesitatea evaluării hazardului, vulnerabilității și riscului la inundații. Legătura între hazard, risc și vulnerabilitate și daunele produse prin inundații. (1)
+Evaluarea hazardului, vulnerabilității și a riscului la inundații este necesară pentru: (a) reducerea componentelor care definesc riscul la inundații (reducerea hazardului, a expunerii sau a vulnerabilității), prin modul de utilizare (folosință) a terenului;
+(b) dezvoltarea unor strategii locale și regionale privind managementul riscului la inundații;
+(c) stabilirea de măsuri de protecție structurale și non-structurale a mediului și a factorului uman;
+(d) delimitarea zonelor inundabile;
+(e) dezvoltarea controlată a construcțiilor în zonele supuse riscului la inundații;
+(f) conștientizarea riscurilor și a consecințelor expunerii la inundații.
+(2)
+Evaluarea riscului la inundații definește procedura prin care pericolele generate de hazardul natural sunt estimate calitativ sau cantitativ și urmărește obținerea unor informații suplimentare privind efectele potențiale ale producerii unor dezastre (consecințe/daune).
+(3)
+Daunele produse prin inundații se referă la toate consecințele inundațiilor, ele cuprinzând o gamă largă de efecte negative asupra oamenilor, construcțiilor, infrastructurii, patrimoniului, sistemelor ecologice, economiei. Efectele inundațiilor pot fi clasificate în efecte directe și indirecte, după cum urmează: (a) efectele directe se referă la toate daunele produse prin contactul direct dintre apă și elementele supuse inundației: construcții, bunuri, terenuri etc.
+(b) efectele indirecte cuprind daune care apar ca o consecință suplimentară a inundației, prin perturbarea sau chiar întreruperea diverselor activități economice și sociale.
+(4)
+Prin daune asupra clădirilor se înțelege totalitatea avariilor și degradărilor produse acestora de către inundații, atât în timpul inundației propriu-zise, cât și după ce apele s-au retras.
+(5)
+Avariile reprezintă afectarea totală sau parțială a unor elemente structurale sau nestructurale cu rol esențial în stabilitatea și integritatea unei clădiri, local sau în ansamblul ei. Prin aceste avarii, respectiva clădire devine nefuncțională și se transformă într-un pericol iminent, pentru ocupanți sau chiar pentru alte clădiri aflate în proximitatea acesteia. Readucerea clădirii la stadiul de exploatare în siguranță implică, în mod obligatoriu, refacerea sau înlocuirea totală și în cel mai scurt timp, a elementelor avariate. Exemple de elemente esențiale: stâlpi, grinzi, pereți, trasee electrice, conducte prin care se transportă gaz lichefiat etc.
+(6)
+Degradările reprezintă acele afectări ale elementelor structurale și nestructurale și a finisajelor care nu prezintă un pericol pentru siguranța clădirii în sine, a ocupanților acesteia și nici pentru clădirile aflate în apropierea ei. Refacerea, repararea sau înlocuirea elementelor, finisajelor sau componentelor degradate nu este condiționată de timp.
+2.
+EFECTELE GENERATE DE INUNDAȚII ASUPRA CLĂDIRILOR (1)
+Prin efecte generate de inundații asupra clădirilor se înțelege cumulul avariilor și degradărilor care pot apărea la acestea în timpul și după producerea inundației.
+(2)
+O încadrare exactă a efectelor generate de inundații asupra clădirilor este foarte greu de realizat, deoarece nivelul și anvergura acestora sunt influențate direct și indirect de foarte mulți factori.
+(3)
+Principalii factori care afectează clădirile, în cazul unei inundații, sunt: (a) durata totală a inundației - timpul scurs din momentul în care apa a început să se acumuleze până când aceasta s-a retras total;
+(b) durata pentru care apa se menține la nivelul maxim;
+(c) nivelul maxim al apei față de nivelul terenului;
+(d) nivelul maxim al apei față de cota superioară a sistemului de fundare;
+(e) sensul de curgere al apei față de forma în plan orizontal a clădirii: de exemplu, pentru două clădiri cu sisteme structurale identice, o clădire dreptunghiulară este mai puțin afectată decât o clădire în formă de "L" și la care sensul de curgere al apei este spre colțul interior al acesteia;
+(f) viteza apei - solicitările asupra unei clădiri sunt mai mici pentru viteze reduse de curgere a apei (maxim 1,5 m/s), la care presiunile hidrodinamice sunt relativ apropiate de cele hidrostatice (rezultate dintr-un calcul al presiunilor); pentru viteze mai mari, solicitările cresc datorită efectului hidrodinamic;
+(g) elementele sau materialele, naturale sau artificiale, antrenate de apă către aval: pământ, bolovani, trunchiuri de copaci, mașini, utilaje, anexe gospodărești sau chiar case etc.;
+(h) caracteristicile terenului pe care este amplasată clădirea;
+(i) tipul sistemului de fundare - fundații izolate, grinzi continue, radiere, piloți etc.;
+(j) dimensiunile în plan și pe verticală ale clădirilor;
+(k) sistemul constructiv al clădirilor;
+(l) materialele din care sunt realizate elementele structurale și nestructurale;
+(m) dimensiunile elementelor structurale și nestructurale.
+Fig. 1. Grafic nivel apă de proiectare pentru inundație. 1 - nivel apă de proiectare - exterior; 2 - nivel de inundare; 3 - dH (diferența dintre apa din exterior și apa din interior); 4 - nivel apă la interior; 5 - nivel pardoseală cota 0,00; 6 - nivel apă; 7 - timp; 8 - nivel apă - exterior; 9 - nivel apă interior; 10 - întârzierea cu care apa pătrunde în interiorul clădirii.
+(4)
+În funcție de caracteristicile constructive, de materialele din care sunt realizate clădirile, de natura terenului de fundare, dar și de tipul inundațiilor, unele clădiri sunt mai vulnerabile la inundații, în anumite cazuri putând fi afectată siguranța structurală a acestora. Cu cât o clădire este mai vulnerabilă, cu atât mai mari sunt pagubele asupra populației și a bunurilor din gospodărie.
+(5)
+Vulnerabilitatea clădirilor poate fi caracterizată prin: (a) siguranța pe care o oferă oamenilor;
+(b) capacitatea generală a clădirii de a rezista acțiunii apelor în creștere (presiune asupra pereților exteriori, risc de afectare a fundațiilor etc.);
+(c) posibilitatea de acces a serviciilor de urgență;
+(d) prevederea unui loc de refugiu sigur în clădire sau în zona adiacentă ce servește ca loc unde oamenii pot să aștepte ajutor;
+(e) riscurile legate de echipamentele tehnice (electrocutare, explozie, intoxicare) și de plutirea obiectelor;
+(f) riscurile legate de schimbările față de situația normală (asupra zidurilor, efecte asupra materialelor, scări și podele alunecătoare etc.);
+(g) riscuri legate de prezența bazinelor de apă (fântână, iaz, heleșteu, piscină);
+(h) căile de pătrundere a apei în clădire.
+(6)
+Determinarea căilor de pătrunde a apei în clădire presupune o evaluare a deschiderilor clădirilor, prin care este posibilă pătrunderea apei: (a) deschiderile existente cum ar fi: uși de acces, ferestre, guri de aerisire sau de ventilație, ferestre de subsol;
+(b) etanșări neadecvate la ferestre sau uși, precum și la pragurile ușilor;
+(c) pereții exteriori, pereții anexelor alăturate clădirilor, fisuri în pereții exteriori, defecte în realizarea pereților, fisuri și goluri în rosturile de mortar;
+(d) rosturi de dilatație între pereți, unde se întâlnesc materiale de construcție diferite, precum și între placa pe sol și perete;
+(e) finisaje exterioare (tencuială) erodate în timp de condițiile climatice;
+(f) conductele și canalele pentru utilități unde există posibilitatea refulării apelor uzate, imediat după ce instalațiile de preluare a acestora sunt inundate;
+(g) fundații, dacă acestea nu sunt impermeabilizate/hidroizolate;
+(h) terenul; un teren permeabil, saturat de apă, permite pătrunderea apei în subsolul clădirii;
+(i) refularea canalizării blocate de inundație.
+Fig. 2. Posibile căi de pătrundere a apei în clădire. 1 - prin străpungeri ale instalațiilor prin peretele exterior; 2 - prin porozitatea peretelui exterior; 3 - prin goluri de aerisire în peretele exterior; 4 - prin neetanșeități la tâmplărie; 5 - prin refularea sistemului de canalizare.
+2.1.
+Gradul de avariere al clădirilor în funcție de sistemul lor structural (1)
+Clădirile care sunt realizate din lemn masiv, zidărie de cărămidă, piatră sau beton celular autoclavizat - BCA (simplă sau confinată), beton armat sau oțel (grinzi și stâlpi metalici) sunt mai puțin vulnerabile la acțiunea inundațiilor la care înălțimea nivelului apei este mai mare, și pot fi mai ușor reparate și reutilizate, cu costuri relativ reduse.
+(2)
+Clădirile la care pereții exteriori sunt realizați prin placarea pe ambele fețe cu plăci din așchii de lemn orientate tip OSB sau de gips-carton, prinse pe profile subțiri din lemn sau metal, sunt vulnerabile la pătrunderea apei în și prin pereții exteriori, din inundații de mică anvergură, dacă nu se iau măsuri suplimentare de protecție precum hidroizolarea ambelor fețe ale pereților exteriori, minim la partea inferioară sau, maximal, pe toata înălțimea primului nivel suprateran.
+(3)
+Fără măsuri suplimentare de protecție, în cazul inundațiilor, indiferent de nivelul redus sau ridicat al apei precum și al sistemului constructiv, aceasta poate pătrunde în termoizolație (de regulă vata minerală) și o poate compromite, necesitând costuri mari, comparative cu cele inițiale, pentru refacerea și aducerea la starea inițială.
+(4)
+Clădirile cu structuri din paiantă sau chirpici (cărămizi realizate din pământ amestecat cu paie) sunt cele mai vulnerabile la acțiunea apei. Aceste clădiri, având sistemul structural exclusiv din materiale sensibile la apă, pot fi deteriorate iremediabil chiar și pentru inundații la care nivelul apei este redus sau care sunt de scurtă durată. Din acest motiv, pentru aceste tipuri de clădiri, este indicat ca apa să nu ajungă sub nici o formă la acestea.
+(5)
+Indiferent de sistemul constructiv și structural al unei clădiri, gradul de afectare al clădirilor amplasate în zone inundate crește cu cât se suprapun mai mulți factori cu influență negativă.
+2.2.
+Moduri generale de afectare a clădirilor de către inundații (1)
+Presiunea hidrostatică neechilibrată care acționează pe pereții perimetrali ai unei clădiri reprezintă principala cauză care produce avarii clădirilor. De cele mai multe ori, datorită acestei presiuni neechilibrate, pereții exteriori cedează și se produc avarii. Din acest motiv, adică pentru echilibrarea presiunilor, pentru înălțimi de peste 0,80 m ale apei, peste nivelul cotei de călcare al accesului în clădire, apa trebuie lăsată să intre în clădire.
+Fig. 3. Efectele presiunii hidrostatice asupra clădirilor. 1 - Clădirea fără subsol are presiuni hidrostatice mai mici; 2 - Clădirea cu subsol are presiuni hidrostatice mai mari (săgețile pline) și, suplimentar, se adaugă presiunea pământului (săgețile punctate);
+A - pământ; B - apă; C - presiune hidrostatică; D - presiunea pământului.
+(2)
+Când viteza apei depășește 1,5 m/s, presiunile hidrodinamice devin importante, iar dacă apa transportă plutitori, avariile pot fi semnificative și, de cele mai multe ori, iremediabile.
+(3)
+În cazul unor inundații la care apa are viteză de curgere mare (peste 1,5 m/s), este posibilă antrenarea hidrodinamică a pământului din jurul fundațiilor, inclusiv eroziunea internă, cu crearea de goluri în terenul de fundare. În aceste cazuri fundațiile clădirilor nu mai pot transmite încărcările pe teren într-un mod uniform, deoarece o parte a fundațiilor nu mai au ca suport terenul de fundare și clădirile prezintă un pericol iminent de prăbușire. Chiar dacă nu se prăbușesc, prin avariile structurale generale suferite și prin remedierile necesare (refacerea terenului de sub fundații, consolidări parțiale sau totale ale elementelor structurale etc.), repararea acestor clădiri devine de cele mai multe ori imposibilă sau mult mai costisitoare decât realizarea unei clădiri noi de gabaritul celei inițiale.
+Fig. 4. Dislocarea terenului de sub sistemul de fundare al clădirilor.
+(4)
+Daunele potențiale date de inundații asupra clădirilor în care apa ajunge sub nivelul cotei de călcare al accesului în clădire (de regulă parterul clădirii) sunt: (a) eroziuni ale terenului de sub fundație; saturarea terenului de fundare duce la scăderea capacității portante a acestuia și apariția în teren de stări limită ultime sau de serviciu. De asemenea, pentru unele terenuri nisipoase afânate, saturarea acestuia poate duce la apariția pericolului de lichefiere;
+(b) coroziunea elementelor metalice ale clădirii;
+(c) deteriorarea elementelor structurale de lemn la planșeu care se pot umezi și își pot pierde capacitatea portantă;
+(d) deteriorarea elementelor de finisaj de pardoseală sensibile la apă precum parchet, mochetă, dușumea;
+(e) deteriorarea anumitor materiale izolatoare în subsol, în soclu, sau în placa de la nivelul de călcare al accesului, ce își pierd eficacitatea prin umezire sau uscare prea lentă.
+(5)
+Daunele potențiale produse de inundații asupra clădirilor în care apa este sub 0,80 m peste nivelul cotei de călcare a accesului în clădire (de regulă parterul clădirii) sunt: (a) deteriorarea pereților de compartimentare de gipscarton ce se pot deforma;
+(b) deteriorarea materialelor izolatoare în pereții casei, ce își pierd eficacitatea prin umezire sau uscare prea lentă;
+(c) deteriorarea elementelor din materiale poroase sau sensibile la apă precum chirpici, paie sau lemn, ce își pierd calitățile portante sau de izolație;
+(d) acumularea de mâl și umezeală în spații neventilate și fără posibilitate de golire a apei;
+(e) apariția mucegaiului la pereți în spații neventilate, inclusiv în zone cu structură din lemn, în cazul compartimentărilor de gipscarton, precum și a pereților de cărămidă;
+(f) deteriorarea mobilierului.
+(6)
+Daunele potențiale produse de inundații asupra clădirilor în care apa depășește 0,80 m față de nivelul cotei de călcare al accesului în clădire (parter) sunt: (a) avarierea pereților de cărămidă ce pot crăpa sau chiar se pot prăbuși sub acțiunea hidrostatică a apei;
+(b) avarierea acoperișului ce poate fi dislocat de apă prin smulgerea de țigle, plăci sau bucăți de învelitoare;
+(c) avarierea tavanului prin presiunea acumulată la interiorul casei prin creșterea nivelului apei peste nivelul superior al ferestrelor.
+(7)
+Există patru motive majore de îngrijorare privind protecția sistemelor de alimentare cu combustibil (pot apărea, de asemenea, și la alte tipuri de construcții îngropate): (a) riscul de ridicare hidraulică, datorat subpresiunilor date de apa subterană (în cazul elementelor îngropate);
+(b) solicitările provenite din loviri;
+(c) deplasarea conexiunilor;
+(d) distrugerea conductelor.
+(8)
+Inundațiile prezintă trei mari pericole în cazul sistemelor de canalizare a apelor uzate din clădiri: (a) pătrunderea apei în clădire prin intermediul instalațiilor de canalizare în momentul în care acestea intră sub presiune. Aceste fenomene apar concomitent cu defectarea clapetelor antiretur sau cu funcționarea deficitară a pompelor de evacuare ape uzate. Intrarea sub presiune a colectoarelor publice de canalizare poate surveni și în afara zonelor inundate, mai ales în cazul unor sisteme unitare.
+(b) pagubele materiale suferite de componentele sistemului prin eroziune, smulgere sau secționare a unor conducte, infiltrații prin cuplaje neetanșe, dislocare a componentelor sistemului de canalizare etc.
+(c) amestecul apei din inundație cu apa uzată din sistemele de canalizare conduce la un risc important de sănătate pentru cei care intră în contact cu apa contaminată. Amestecul se poate realiza ca urmare refulării apei în clădire prin sistemele de canalizare sau ca urmare a scurgerii apelor uzate în urma avariilor survenite la sistemul de canalizare.
+(9)
+Sistemele de alimentare cu apă potabilă se protejează având în vedere riscurile la care acestea sunt expuse în perioada inundațiilor și anume: (a) prevenirea contaminării apei potabile;
+(b) prevenirea deteriorărilor fizice care pot apărea la sistemul de alimentare cu apă potabilă.
+3.
+MĂSURI DE ADAPTARE LA NIVEL URBAN (1)
+Măsurile de adaptare la nivel urban sunt concepute pentru a reduce efectele produse de inundații. Pentru măsurile de adaptare la nivel urban se recomandă o abordare integrată, managementul apei de șiroire fiind realizat, atât la nivelul terenului și clădirii, cât și printr-o succesiune de măsuri implementate la nivel de ansamblu și zonă rezidențială, cartier și oraș.
+(2)
+Măsurile de adaptare la nivel urban pot fi: (a) măsuri verzi: soluții bazate pe natură;
+(b) măsuri gri, care utilizează infrastructuri artificiale: diguri, restaurarea plajelor și malurilor etc.;
+(c) măsuri hibride care combină măsuri verzi și gri, recomandate cu precădere în cazul zonelor intens urbanizate.
+(3)
+Soluțiile bazate pe natură constituie acțiuni destinate protecției, conservării, restaurării, utilizării durabile și gestiunii ecosistemelor naturale sau antropice terestre, de apă dulce, de coastă sau marine, care abordează provocările sociale, economice și de mediu în mod eficient și adaptativ, oferind în același timp beneficii ca: bunăstarea umană, servicii ecosistemice, reziliență și biodiversitate.
+(4)
+La nivel urban (la nivelul orașului, cartierului sau a unei zone rezidențiale) pot fi implementate numeroase măsuri de adaptare a clădirilor și terenurilor la inundații: evitarea impermeabilizării solului concomitent cu menținerea coeficientului natural de conductivitate hidraulică a terenului, amenajarea de păduri urbane, amenajarea terenurilor în pantă și terasări, renaturalizarea cursurilor de apă, soluții aplicate clădirilor, amenajarea de spații verzi, coridoare verzi, agricultura urbană, amenajarea unor zone de bioretenție, a zonelor umede (naturale sau create), amenajarea zonelor inundabile (albia majoră sau zone verzi) aferente cursurilor de apă, amenajarea mlaștinilor și înnisiparea malurilor.
+(5)
+Soluțiile bazate pe natură pot fi alese în funcție de localizarea terenului în raport cu principalele cursuri de apă și formele de relief: (a) terenuri localizate în zone montane, situate la altitudini mai mari, cu declivități mari și caracterizate de o rețea extinsă și deasă de râuri, pâraie și torenți; sunt de regulă vulnerabile la viituri rapide generate de apele pluviale, eroziune și alunecări de teren;
+(b) terenuri localizate în proximitatea rețelei hidrografice, care de regulă experimentează fluctuații ale nivelului hidrografic relaționat anotimpului și sunt deseori susceptibile inundațiilor (fluviale);
+(c) terenuri localizate în zonele de deltă; sunt puternic influențate de dinamica hidrologică;
+(d) terenuri localizate în zonele de coastă, expuse creșterii nivelului mării, inundațiilor de tip marin, eroziune sau intruziunea apelor sărate.
+(6)
+Soluțiile, bazate pe natură, de adaptare a clădirilor în zonele inundabile (aplicate atât la nivel urban, de cartier sau de zonă rezidențială cât și la nivelul terenului și clădirii) favorizează următoarele procese: infiltrația apelor, evapotranspirația, stocarea apei și refacerea rezervei de apă din acvifer. De asemenea, acest tip de măsuri are efecte sinergice: reducerea riscului de inundare, reglarea temperaturii, stabilizarea terenurilor.
+(7)
+O parte din soluțiile bazate pe natură care se pot aplica la nivelul orașului funcție de localizarea terenului sunt: (a) păduri urbane și terasări pe terenurile situate la înălțime cu scopul de a încetini scurgerile de pe versanți;
+(b) crearea sau restaurarea zonelor umede în cazul terenurilor situate la altitudini scăzute cu scopul de a colecta apa și a încetini scurgerea apelor;
+(c) renaturalizarea cursurilor de apă (pâraie, canale) și sistemelor de drenaj natural cu scopul încetinirii scurgerii apelor;
+(d) extinderea suprafețelor verzi la nivel urban, de cartier și de zonă rezidențială, cu scopul de a crește capacitatea de infiltrație a solului;
+(e) crearea de aliniamente stradale și coridoare verzi.
+Fig. 5. Secțiune schematică cu aplicabilitatea soluțiilor bazate pe natură la scara orașului. 1 - lunca râului; 2 - zone umede naturale; 3 - spații verzi; 4 - zone umede construite; 5 - coridoare verzi; 6 - renaturalizare râuri și izvoare; 7 - terase și pante; 8 - păduri urbane.
+(8)
+La nivelul cartierului sau zonei rezidențiale, măsurile de adaptare la inundații includ măsuri dedicate, atât clădirilor, cât și străzilor și spațiilor publice: (a) măsuri verzi la nivelul clădirilor și terenului: acoperișuri și pereți verzi, grădini private în combinație cu coridoare verzi și plantații de aliniament aferente străzilor care le deservesc;
+(b) bazine de retenție, iazuri de stocare a apei de ploaie sau zone verzi proiectate să stocheze apa de ploaie;
+(c) intervenții la scară mică, de colectare și drenare a apei pluviale: canale și denivelări
+(d) impermeabilizarea clădirilor.
+Fig. 6. Secțiune schematică cu aplicabilitatea soluțiilor bazate pe natură, la scara cartierului sau unei zone rezidențiale. 1 - pereți verzi; 2 - acoperișuri verzi; 3 - iazuri de stocare a apei de ploaie; 4 - parcuri; 5 - renaturalizare cursuri de apă; 6 - zone de bioretenție; 7 - agricultură urbană.
+(9)
+La nivelul terenului și clădirii se recomandă alegerea unor soluții hibride care să combine integrarea măsurilor verzi și gri.
+(10)
+Măsurile de adaptare la inundații pot fi alese în funcție de localizarea terenului conform următorului tabel:
+Măsura Funcțiuni Densitate urbană
+Scara intervenției
+Terasare teren Zone verzi periurbane, zone agricole, pante, zone verzi urbane. Pot fi utilizate în zone cu densitate redusă și medie.
+Medie
+Mare
+Renaturalizarea cursurilor de apă Zone multifuncționale, zone de agrement. Pot fi utilizate în toate tipurile de zone cu densitate redusă, medie și ridicată.
+Medie
+Mare
+Acoperișuri și fațade verzi Pot fi utilizate la numeroase tipuri de clădiri: rezidențiale, publice, comerciale, birouri etc. Pot fi utilizate în toate tipurile de zone cu densitate redusă, medie și ridicată. Redusă, la nivel de clădire
+Spații verzi/ grădini amenajate pe teren Pot fi parcuri, grădini, scuaruri, spații verzi amenajate de-a lungul străzilor, dotări pentru sport în aer liber, terenuri neconstruite sau grădini amenajate pe terenuri private. Pot fi utilizate în toate tipurile de zone cu densitate redusă, medie și ridicată.
+Mică
+Medie
+Mare
+Coridoare verzi Pot fi amenajate adiacent infrastructurii majore, pe străzile aferente zonelor rezidențiale și pe terenuri neconstruite.
+Pot fi utilizate în toate tipurile de zone cu densitate redusă, medie și ridicată.
+Mică
+Medie
+Mare
+Agricultură urbană
+De cele mai multe ori exploatează terenurile neutilizate, terenuri adiacente cursurilor de apă, pante și acoperișuri.
+Este compatibilă cu zonele verzi, pentru sport și agrement, căi de comunicație, zone inundabile.
+Este des utilizată în cadrul ansamblurilor rezidențiale.
+Pot fi utilizate în zone cu densitate redusă și medie.
+Mică
+Medie
+Zone de bioretenție Pot fi utilizate pentru zone și clădiri rezidențiale, comerciale, industriale, căi de comunicație aferente, spații verzi urbane: parcuri, scuaruri, grădini, parcaje și amenajarea terenului (grădini private). Pot fi utilizate în zone cu densitate redusă și medie.
+Mică
+Medie
+Zone umede interioare (construite)
+Pot fi utilizate în cadrul zonelor verzi aferente clădirilor comerciale, rezidențiale sau industriale.
+Pot fi utilizate în zone cu densitate redusă și medie.
+Mică
+Medie
+4.
+MĂSURI DE ADAPTARE A CLĂDIRILOR EXISTENTE ȘI CLĂDIRILOR NOI ȘI A TERENULUI ADIACENT ACESTORA 4.1.
+Alegerea măsurilor de adaptare a clădirilor din zonele inundabile (1)
+Măsurile de adaptare a clădirilor și terenurilor adiacente acestora, aflate în zone inundabile, sunt concepute pentru a reduce efectele asupra clădirilor sau, după caz, pe terenul adiacent clădirilor, ca urmare a pătrunderii apei în interiorul acestora, și asigură evacuarea apei după eveniment.
+Fig. 7. Inundație în care apa pătrunde în clădire.
+(2)
+Adoptarea măsurilor de adaptare a clădirilor din zonele inundabile trebuie să țină cont de mai mulți factori: (a) cota apei la culminație în timpul inundației (nivelul maxim probabil);
+(b) durata inundației;
+(c) probabilitatea anuală de depășire a debitului maxim.
+(3)
+Măsurile de adaptare a clădirilor din zonele inundabile, în sensul creșterii rezilienței clădirilor și a terenurilor adiacente, sunt mai potrivite inundațiilor cu un nivel ridicat și cu durate mai mari.
+(4)
+Alegerea măsurii de adaptare adecvate se realizează prin parcurgerea următoarelor etape: (a) se inspectează amplasamentul pentru a se determina sursele potențiale de inundații și caracteristicile geotehnice ale terenului;
+(b) se verifică extinderea zonei inundabile pe baza hărților de hazard și risc la inundații, funcție de probabilitatea anuală de depășire a debitului maxim;
+(c) în cazul în care hărțile de hazard și risc la inundații nu acoperă zona studiată, se va realiza un studiu de inundabilitate;
+(d) în cazul clădirilor existente, acestea se inspectează pentru a evalua cât mai corect cerințele de protejare la inundații: din punct de vedere constructiv, inclusiv utilitățile și din punct de vedere al locurilor pe unde apa poate pătrunde în clădire;
+(e) se definesc obiectivele în ceea ce privește reducerea vulnerabilității la inundații;
+(f) se selectează cele mai eficiente metode de adaptare;
+(g) se implementează măsurile de adaptare;
+(h) analiza post-eveniment (evaluarea după fiecare eveniment).
+(5)
+Aplicarea diferitelor măsuri poate să nu ofere protecția preconizată dacă acestea nu sunt utilizate în paralel cu alte măsuri (de ex. barierele/sistemele demontabile, temporare necesită un timp de instalare și de aceea este necesar ca zona să fie acoperită de sisteme de avertizare/alarmare împotriva inundațiilor).
+(6)
+La alegerea tipurilor de măsuri, se va ține cont de faptul că mentenanța contribuie decisiv la menținerea nivelului de protecție al clădirii și se vor decide luând în considerare posibilitățile locale.
+(7)
+Clădirile noi se vor proiecta în conformitate cu cerințele de calitate în vigoare, coroborate cu vulnerabilitatea la inundații.
+(8)
+Extinderile la clădirile existente se vor proiecta, în funcție de situația din teren, în vederea reducerii vulnerabilității la inundații, respectând cerințele de calitate în vigoare, coroborate cu vulnerabilitatea la inundații.
+4.2.
+Atenuarea și reducerea efectelor inundațiilor (1)
+Măsurile de adaptare a clădirilor din zonele inundabile contribuie la atenuarea și reducerea efectelor inundațiilor asupra acestora, ca urmare a pătrunderii apei în clădire dar și pentru grăbirea procesului de recuperare după producerea fenomenului.
+(2)
+Măsurile descrise urmăresc să reducă efectul acțiunii hidrostatice din timpul inundațiilor, analizând efectele produse asupra structurii de rezistență a clădirilor, sistemelor constructive, finisajelor și instalațiilor acestora.
+(3)
+Măsurile de adaptare a terenului, precum și soluțiile bazate pe natură urmăresc să diminueze efectele pătrunderii apei pe terenul adiacent construcțiilor.
+(4)
+Inundarea controlată (permite intrarea apei) are la bază conceptul de reziliență la inundații. Reprezintă o metodă de proiectare și realizare a părții inundabile a unei clădiri cu materiale de construcție impermeabile/cu permeabilitate redusă (în funcție de rolul lor) și produse testate/certificate la inundații, care au rolul de a reduce deteriorările provocate de curgerea apei prin clădire, de a menține integritatea structurală și de a facilita uscarea și curățarea clădirii în urma unei inundații.
+Este o metodă care se poate aplica atât construcțiilor noi, cât și celor existente. Este utilizată, în general, când celelalte metode se dovedesc nepotrivite din rațiuni tehnico- economice și abordează clădirea ca fiind deschisă la intrarea și ieșirea apei, fără a constitui un obstacol în deplasarea acesteia. Astfel presiunea hidrostatică interioară și exterioară aplicată pereților clădirii se vor egaliza, iar daunele structurale vor fi reduse semnificativ. Este adecvată zonelor cu probabilitate redusă de inundații (produse de viituri cu debitul maxim corespunzător unei probabilități anuale de depășire sub 1%) cu durată mică de inundare.
+4.3.
+Creșterea rezilienței la efectele inundațiilor (1)
+Reziliența clădirilor la efectele inundațiilor este dată de o serie de măsuri care reduc degradările și avariile asupra clădirilor printr-o proiectare care se fundamentează pe utilizarea unor soluții constructive, materiale și elemente structurale adecvate.
+(2)
+Măsurile de adaptare presupun ajustarea la schimbările actuale sau previzionate. Măsurile de adaptare au ca scop să potențeze sau să evite efectele negative și să exploateze oportunitățile, și urmăresc reziliența clădirilor dar și reducerea vulnerabilității acestora la inundații.
+4.4.
+Măsuri de adaptare a clădirilor și terenurilor adiacente din zonele inundabile 4.4.1.
+Măsuri de adaptare a terenului la inundații (1)
+În situația în care terenul este situat într-o zonă inundabilă, este recomandat să nu fie amplasate pe acestea locuințe, echipamente publice, spații comerciale sau funcțiuni cu număr mare de utilizatori. Pot fi amplasate parcaje, spații verzi, funcțiuni de agrement.
+(2)
+Se recomandă ca toate construcțiile să fie branșate la sistemul de alimentare cu apă și canalizare.
+(3)
+Colectarea apei pluviale se va realiza în sistem separativ (separat de colectarea apei uzate menajere). Se va evita, pe cât posibil, evacuarea apelor pluviale în sistemul de canalizare.
+(4)
+Se recomandă adoptarea de soluții de amenajare a terenului care să asigure drenarea excesului de umiditate, menținerea unor suprafețe ample permeabile (înverzite), inclusiv prin plantarea de arbori și arbuști consumatori de apă în exces și utilizarea de pavaje permeabile.
+Fig. 8. Soluții de amenajare teren - vecinătate construcții. 1 - dig, bermă, terasament de protecție a proprietății sau zid impermeabil; 2 - zonă carosabilă - sistem rutier permeabil; 3 - spațiu verde cu umplutură din pietriș grosier sau piatră spartă în partea inferioară și tub perimetral de drenaj cu diametru mai mare de 80 mm prevăzut cu sistem de infiltrare a apei în sol; 4 - pantă ascendentă spre clădire sau terasă, cu rol de încetinire a procesului de inundare pentru a permite punerea în siguranță a clădirii și bunurilor; 5 - zonă de circulație pietonală - sistem permeabil; 6 - clădire; 7 - umplutură de pământ.
+(5)
+Aleile de acces pietonale, trotuarele, suprafețele aferente spațiilor tehnice din cadrul amenajării vor fi pe cât posibil permeabile, prin aplicarea unor soluții de pavare care să permită infiltrarea apei sau soluții cu dale care să permită scurgerea naturală a apelor (dale înierbate).
+(6)
+Procentul de teren care nu este permeabil (construcții, alei pietonale sau carosabile, parcaje), atât pentru terenurile deja amenajate cât și pentru cele care urmează a fi amenajate, trebuie să fie cât mai redus.
+(7)
+Se recomandă ca spațiile de parcare să fie amenajate în suprafața parterului care nu prezintă închideri ale clădirii sau la nivelurile inundabile de peste cota terenului (în amprenta construită), astfel încât să fie redusă suprafața impermeabilizată la nivelul terenului.
+(8)
+Se vor utiliza soluții de amenajare care să asigure preluarea și eliminarea rapidă a surplusului de apă pe teren: rigole înverzite, sisteme de canale de infiltrație, canale înverzite, sisteme de drenaj, pavaje permeabile, zone de bioretenție, iazuri, bazine.
+(9)
+Se recomandă plantarea terenului perimetral cu arbori și arbuști (sistem de gard viu). De asemenea, se recomandă ca secțiunea străzilor să includă și zone plantate, adiacente carosabilului sau trotuarului.
+(10)
+Se recomandă ca apa de ploaie să fie preluată și stocată în rezervoare locale (îngropate sau supraterane), iazuri amenajate, cu posibilitatea de reutilizare pentru udarea grădinii. De asemenea, apa de ploaie poate fi preluată în cadrul unor canale de irigație și reutilizată. Rezervoarele îngropate pot fi amplasate sub suprafețele impermeabilizate din cadrul amplasamentului (alei, parcaje).
+(11)
+Pentru terenurile care includ și utilizări agricole în intravilan (agricultură de subzistență sau agricultură urbană), se recomandă menținerea arealelor ocupate de pășuni, fânețe, culturi. De asemenea, se recomandă în aceste situații, implementarea de practici de cultivare care conservă solurile.
+(12)
+În situația în care, pe teren există cursuri de apă naturale permanente sau temporare, se recomandă menținerea liberă a acestora (fără blocaje antropice) și menținerea vegetației existente sau renaturalizarea, dacă este cazul.
+(13)
+În situația în care terenul se învecinează cu un curs de apă, se recomandă realizarea unor sisteme de protecție a terenului către cursul de apă: plantare de arbori și arbuști, menținerea unor zone verzi de bioretenție, utilizarea unor sisteme de drenare a apei.
+(14)
+În situația în care terenul este situat în pantă, se recomandă preluarea naturală a declivității sau implementarea unor soluții de terasare a versanților. Totodată se recomandă plantarea versanților și implementarea de soluții anti-eroziune.
+4.4.2.
+Soluții bazate pe natură, de adaptare la inundații a terenului (1)
+Terasarea terenului este de obicei utilizată pentru ameliorarea și prevenirea degradării terenurilor și eroziunii. Principalele tipuri utilizate sunt: (a) împrejmuirea naturală, realizată din plante flexibile, amplasate astfel încât să dreneze excesul de apă concomitent cu reținerea sedimentelor. Acest tip de terasare împiedică eroziunea de suprafață a solului în timpul ploilor puternice și protejează plantele de smulgere.
+(b) cleionajele (garduri din nuiele), sunt realizate din stâlpi robuști din lemn înfipți vertical în sol, cu lăstari tineri flexibili țesuți orizontal între ele. În mod tradițional, cleionajele sunt realizate din salcie sau arbori similari. Cleionajele sunt dispuse ca o barieră verticală perpendicular pe linia de cea mai mare pantă pentru reducerea transportului solid în timpul ploilor abundente.
+Fig. 9. Exemplificare de cleionaje (garduri din nuiele). 1 - garduri din nuiele realizate din stâlpi robuști din lemn înfipți vertical în sol, cu lăstari tineri flexibili țesuți orizontal între ele; 2 - sistem de drenaj din pietriș grosier sau piatră spartă.
+(c) gabioanele vegetale sunt coșuri rectangulare realizate din oțel protejat la coroziune sau alt material rezistent la coroziune sub formă de plasă, umplute cu pietre. Acestea pot fie ranforsate cu material geotextil și umplute cu pământ. Sunt utilizate pentru protecția versanților împotriva apelor de șiroire rapide din ploi torențiale, încorporând o parte din resturile angrenate în structura lor, acestea ranforsând gabionul și permițând fixarea plantelor.
+Fig. 10. Exemplificare de gabion vegetal. 1 - gabioane vegetale - coșuri rectangulare realizate din oțel protejat la coroziune sau alt material rezistent la coroziune sub formă de plasă, umplute cu pietre; 2 - sistem de drenaj din pietriș grosier sau piatră spartă.
+(2)
+Renaturalizarea cursurilor de apă (râuri, pâraie, canale naturale) presupune revenirea curgerii conform cursului natural, restabilirea coridoarelor naturale, înlăturarea terasamentelor de beton și plantarea vegetației în albia și pe malurile cursului de apă. Principalele tipuri utilizate sunt: (a) renaturalizarea albiei și malurilor având ca scop restabilirea dinamicii naturale a râului, respectiv revenirea la forma inițială sau construind structuri care direcționează scurgerea apei și oferă un climat favorabil speciilor acvatice.
+Fig. 11. Exemplificare de renaturalizare a albiei și malurilor.
+b) restabilirea cursului natural în situațiile în care cursul apei a fost transformat anterior într-un canal deschis sau închis de beton. Tehnica presupune înlăturarea structurii canalizate și recrearea formei și dinamicii inițiale a cursului de apă.
+Fig. 12. Exemplificare de restabilire a cursului natural al râului în situațiile în care anterior a fost transformat într-un canal de beton.
+(3)
+Tehnici de bioinginerie: Renaturalizarea se bazează pe o serie de tehnici de bioinginerie pentru a recrea cursul natural al apei, conectarea cu coridoarele naturale, stabilizarea malurilor și restaurarea albiei. Dinamica naturală a cursului de apă are la bază plante, roci și alte elemente naturale, totodată fiind utilizate materiale și membrane geotextile pentru a crea medii stabile structural similare condițiilor naturale.
+Fig. 13. Exemplificare privind utilizarea tehnicilor de bioinginerie pentru renaturalizarea cursurilor de apă.
+(4)
+Spațiile verzi sau grădinile reprezintă spații verzi amenajate, neimpermeabilizate. Acestea pot diminua precipitația efectivă și reduc cantitatea de apă descărcată în sistemul de canalizare. Pot fi completate de soluții care să îmbunătățească infiltrația, să reducă scurgerea apelor și să crească capacitatea de retenție a apei. Pot include atât spații publice cât și private.
+(5)
+Grădinile și scuarurile urbane sunt spații verzi de dimensiuni reduse care pot fi amplasate oriunde în țesutul construit și sunt recomandate pentru ansamblurile/zonele rezidențiale care cuprind mai multe clădiri. Funcțiile lor pot fi diverse: locuri de joacă, țarcuri pentru animale de companie, spații publice, grădini, locuri de recreere aferente zonelor rezidențiale.
+Fig. 14. Exemplificare de grădină urbană.
+(6)
+Locurile de joacă naturale constituie locuri de joacă pentru copii care includ materiale vegetale: arbori, arbuști, material floricol și amenajări cu apă. Iazuri și alte amenajări vegetale și cu apă pot fi de asemenea integrate.
+Fig. 15. Exemplificare de amenajare loc de joacă natural.
+(7)
+Grădinile rezidențiale amenajate în cadrul zonelor rezidențiale, ansamblurilor de clădiri sau pe terenuri individuale, captează apa de ploaie de pe acoperișuri, alte elemente constructive ale clădirii, suprafețe pavate, având rol de captare și reciclare a apei în exces.
+Fig. 16. Exemplificare de amenajare grădină rezidențială cu scopul captării apei de ploaie în exces.
+(8)
+Coridoarele verzi sunt reprezentate de fâșii plantate, deseori conectând spațiile verzi la nivel urban, intervențiile la scară mică fiind: amenajări de-a lungul spațiului străzii, bulevarde verzi, grădini amenajate pe teren și interconectate.
+(9)
+Aliniamentele stradale care se recomandă să fie amenajate la nivelul străzilor din zone rezidențiale, străzilor private de acces (servituți).
+Fig. 17. Exemplificare de aliniament stradal.
+(10)
+Bulevarde sau axe verzi se recomandă să fie amenajate la nivelul străzilor urbane, zone centrale, zone complexe urbane sau de-a lungul infrastructurilor majore (căi de comunicație, infrastructuri edilitare) și sunt constituite din suprafețe verzi mai ample.
+Fig. 18. Exemplificare de axă verde.
+(11)
+Coridoare verzi urbane pot fi amenajate la nivelul căilor de comunicație inclusiv căi ferate, cale de rulare tramvai, cursurilor de apă, terenuri neconstruite dar și în zone și ansambluri rezidențiale, ansambluri de clădiri, terenuri private. Pot fi piste de biciclete, amenajări pietonale și piste de alergare.
+Fig. 19. Exemplificare de coridor verde urban.
+(12)
+Agricultura urbană presupune amenajarea de grădini cultivate în cadrul terenului aferent unei clădiri sau unui ansamblu rezidențial (ansamblu de clădiri). Agricultura urbană poate include o multitudine de activități: acvacultură, grădini de legume și cerealiere, livezi. Sistemele de agricultură urbană pot fi: păduri, grădini pe acoperișurile clădirilor industriale, rezidențiale sau publice, plantații în containere sau pe balcoane, terenuri neconstruite.
+(13)
+Înălțarea terenului sau valonamentul este o tehnică care implică costuri reduse. Pot fi de orice mărime utilizând materiale necorozive, cu condiția ca structura să fie eficient drenată. În anotimpul rece, acestea pot fi convertite în solarii.
+Fig. 20. Exemplificare de valonament. 1 - valonament; 2 - tub sau tuburi de drenaj cu diametru mai mare de 80 mm prevăzut cu sistem de evacuare a apei către canalizare sau elemente de stocare, pozate în straturi din pietriș grosier sau piatră spartă.
+(14)
+Zonele de bioretenție sunt utilizate complementar sistemelor de canalizare pluvială și cu precădere pentru apele de ploaie poluate. Reprezintă depresiuni (canale, bazine) cu vegetație care pot capta, infiltra, direcționa, modifica volumul și viteza apei pluviale. Eficiența acestora este determinată de tipul de sol, adâncime, materialul vegetal folosit. Sunt foarte utile în zone lipsite de sistem de canalizare a apelor pluviale sau cu sisteme cu capacitate depășită precum și în zonele cu suprafețe permeabile reduse. Pot avea forme și utilizări variate funcție de contextul urban în care sunt realizate: bazine de bioretenție, canale cu vegetație, grădini de ploaie, iazuri de retenție, șanțuri de infiltrare, bazine de stocare temporară. În funcție de volumul de apă de ploaie care va fi colectat, o zonă de retenție a apei poate fi uscată sau udă.
+Fig. 21. Exemplu de amenajare a unei zone de bioretenție la nivelul terenului, în raport cu un ansamblu de clădiri. 1 - tub sau tuburi de drenaj cu diametru mai mare de 80 mm prevăzut cu sistem de evacuare a apei către canalizare sau elemente de stocare, pozate în straturi din pietriș grosier sau piatră spartă; 2 - zonă de bioretenție; 3 - sistem rutier sau pietonal, cu bordură de protecție, supraînălțată față de nivelul circulației.
+(15)
+Biocanalele și grădinile de ploaie constituie amenajări vegetale în zone depresionare, sub cota terenului construit, cu arbori, arbuști și ierburi destinate colectării apelor pluviale în exces. Biocanalele sunt utilizate pe străzi (pot fi utilizate și pe străzile și servituțile de acces aferente zonelor rezidențiale sau ansamblurilor de clădiri), în timp ce grădinile de ploaie sunt comune în spațiile verzi și amenajările pe terenuri private.
+Fig. 22. Exemplificare de biocanal. 1 - Sistem rutier sau pietonal, cu bordură de protecție, supraînălțată față de nivelul circulației; 2 - biocanal; 3 - sistem pietonal care face legătura între cele două laturi; 4 - sistem de drenaj din pietriș grosier sau piatră spartă.
+(16)
+Bazinele de stocare temporară sunt mai adânci și mai puțin diverse din punct de vedere al vegetației utilizate. Sunt destinate captării și stocării temporare a apei de ploaie, putând fi umplute complet cu apă de ploaie care se infiltrează în sol, surplusul putând fi descărcat în sistemul de canalizare.
+Fig. 23. Exemplificare de bazin de stocare temporară. 1 - Rigolă colectoare ape pluviale; 2 - Bazin de stocare temporară; 3 - Tub sau tuburi de canalizare care aduc apa din rigolele colectoare către bazinul temporar.
+(17)
+Iazurile de retenție reprezintă zone de bioretenție cu o zonă udă permanentă și maluri vegetale, colectează apa pluvială și reduc presiunea asupra sistemului de canalizare. Permit reutilizarea apei de ploaie pentru irigații.
+Fig. 24. Exemplificare de iaz de retenție. 1 - rezervor de suprafață, amenajat peisajer; 2 - sistem de scurgere al apelor cu bazin de evacuare.
+(18)
+Pavajul permeabil constituie o alternativă modernă la sistemele tradiționale de pavare, și poate fi realizat din diferite materiale: asfalt permeabil, beton permeabil, pavele autoblocante, griduri din plastic și este eficient pentru ploi de înălțimi reduse. Constă dintr-o suprafață pavată, un strat din pietriș și un strat de filtrare. Poate fi utilizat pentru clădiri comerciale, publice, rezidențiale în zone care în mod tradițional constituie suprafețe impermeabile: zone pietonale, căi de acces auto și platforme de parcare, piste de biciclete, străzi cu trafic redus (străzi de acces, servituți de acces, străzi interioare unor ansambluri de clădiri etc.)
+Fig. 25. Exemplificare de amplasare pavaj permeabil la nivelul terenului și în raport cu un ansamblu de clădiri.
+(19)
+Zonele umede interioare (construite) sunt sisteme proiectate să imite sistemele naturale: soluri și vegetație.
+Fig. 26. Exemplificare de amenajare zone umede interioare la nivelul unui ansamblu de clădiri. 1 - mediu plantat; 2 - preaplin; 3 - barieră.
+(20)
+Zonele umede construite la suprafață conțin plante instalate pe structuri plutitoare amplasate pe cursuri de apă (râuri, pâraie, canale, iazuri) existente având ca scop tratarea apelor poluate.
+Fig. 27. Exemplificare de zone umede construite la suprafață.
+(21)
+Zone umede cu straturi subterane de pietriș infiltrează apa gradual prin straturi succesive de pietriș.
+Fig. 28. Exemplificare de zone umede cu straturi subterane de pietriș. 1 - zonă umedă; 2 - sistem de drenaj din pietriș grosier sau piatră spartă; 3 - tub sau tuburi de drenaj cu diametru mai mare de 80 mm, prevăzut cu sistem de evacuare a apei către canalizare sau elemente de stocare; 4 - tub perimetral de drenaj cu diametru mai mare de 80 mm, prevăzut cu sistem de evacuare a apei către exterior; 5 - barbacane sau guri de scurgere; 6 - rigolă colectoare ape pluviale.
+(22)
+Colectarea apei de ploaie la nivelul terenului poate fi utilizată pentru reducerea cantității de apă în exces într-un timp scurt (folosită cu precădere pentru inundații pluviale). Apa colectată de pe acoperișul unei clădiri este stocată în rezervoare și reutilizată pentru irigații sau în scopuri casnice. Un rezervor suprateran permite ca apa să fie ușor utilizată și redistribuită, în timp ce rezervoarele îngropate sunt avantajoase pentru terenurile de dimensiuni reduse.
+Fig. 29. Modalități de stocare a apei de ploaie la nivelul unui teren. 1 - sistem de evacuare ape pluviale de pe acoperișul clădirii și sistem de stocare temporară; 2 - sistem de evacuare a apelor colectate; 3 - bazin de stocare sau rigolă colectoare ape pluviale; 4 - sistem de evacuare ape pluviale de pe acoperișul clădirii; 5 - sistem de colectare a apelor pluviale la nivel acoperișului.
+(23)
+O atenție deosebită trebuie acordată terenului de fundare pe care sunt amplasate clădirile în zonele inundabile. Unele terenuri, la contactul cu apa, pot suferi tasări sau diminuări ale capacității portante. Aceste tasări sunt de multe ori diferențiate pe suprafața construcției și pot afecta întreaga structură de rezistență a clădirii: fundații, stâlpi, pereți, planșee, scări etc.
+(24)
+Principale avantaje și dezavantaje ale soluțiilor pe bază de natură, de adaptare a terenului la inundații:
+Măsura Avantaje Dezavantaje
+Terasarea terenurilor în pantă
+Transformă lungimea totală a unei pante într-o succesiune de trepte relativ egale: fiecare treaptă absoarbe o anumită cantitate de apă și direcționează excesul de umiditate către treapta inferioară.
+Se conservă o mare parte din sol și nutrienții existenți.
+Este redus riscul de inundare la baza pantei.
+Este redusă cantitatea de material rezidual antrenat de ape și pot fi protejate structurile existente în vale: sisteme de irigații, rezervoare, căi de comunicație, canalizarea.
+Contribuie la reducerea riscului de alunecare a terenului.
+Sistemul este considerat ca fiind unul din cele mai bune sisteme de captare a apei pluviale.
+Contribuie la conservarea apei și facilitează refacerea rezervei de apă din acvifer.
+Modifică relieful natural.
+Presupune amenajarea unor suprafețe ample ale terenului.
+Are efect dacă este aplicată pe o suprafață mai mare (pentru mai multe terenuri sau clădiri).
+Renaturalizarea cursurilor de apă
+Poate încetini viteza de curgere a apei.
+Poate crea sisteme naturale de retenție a apelor.
+Presupune amenajarea unor suprafețe ample ale terenului.
+Are efect dacă este aplicată pe o suprafață mai mare (pentru mai multe terenuri sau clădiri).
+Acoperișuri și fațade verzi
+Captează și stochează apa de ploaie în solul de pe acoperiș, reducând astfel cantitatea de apă și presiunea asupra sistemelor de canalizare (20-50 l/ mp pentru acoperișuri verzi extensive și 30-160 l/ mp pentru acoperișuri verzi intensive).
+Sisteme eficiente de captare, stocare și reutilizare a apei de ploaie, fiind preferate în zonele urbane cu sisteme de canalizare proiectate sub capacitatea actuală necesară.
+Costuri ridicate de realizare.
+Cerințe speciale structurale datorate încărcărilor structurale.
+Spații verzi sau grădini amenajate pe teren
+Zonele plantate absorb apa în exces prin infiltrație și evapotranspirație.
+Contribuie la refacerea rezervei de apă din acvifer.
+Lacurile, iazurile și alte tipuri de amenajări cu apă pot constitui capacități de stocare temporară a apei în exces.
+Capacitatea spațiului verde, de reducere a extinderii inundației, depinde de mărimea și amplasarea acestuia în raport cu sursa de inundație, relief, densitatea și tipologia vegetației și caracteristicile solului.
+Pentru reducerea impactului inundațiilor, sunt eficiente spațiile verzi în rețea, astfel încât să poată fi absorbită o cantitate mai mare de apă și redusă viteza de curgere a apei în zone urbane extinse.
+Coridoare verzi
+Contribuie la reținerea apei în exces, favorizează evapotranspirația, utilizarea apei în exces de către arbuști și copaci și infiltrația îmbunătățită la nivelul solului.
+Integrarea la nivelul străzii poate îmbunătăți infiltrația și reduce viteza de curgere a apei la inundații.
+Reduc cantitatea de apă în exces preluată de canalizarea pluvială.
+Are efect dacă este aplicată pe o suprafață mai mare (pentru mai multe terenuri sau clădiri).
+Au efect cumulativ dacă interconectează spații verzi la nivel urban.
+Agricultura urbană
+Contribuie la creșterea suprafeței permeabile, poate capta, stoca și infiltra apa în exces și poate reduce intensitatea inundațiilor.
+Solurile, de cele mai multe ori, au conținut organic ridicat care permite apei să se infiltreze mai adânc.
+Terenurile pentru agricultură urbană pot include și iazuri sau rezervoare pentru colectarea apei de ploaie.
+Are efect dacă este aplicată pe o suprafață mai mare (pentru mai multe terenuri sau clădiri).
+Zone de bioretenție
+Reduc cantitatea de apă în exces și cantitatea de apă din canalizarea pluvială.
+Colectează, infiltrează și stochează apa de ploaie.
+Grădinile de ploaie sunt mai eficiente pentru ploi de intensitate redusă în timp ce biocanalele sunt mai potrivite pentru ploi abundente și rapide. O suită de astfel de intervenții reduse, contribuie la diminuarea efectelor inundațiilor pe zone mai extinse.
+Eficiența depinde de design, frecvența și magnitudinea inundațiilor pluviale, capacitatea de a crește cantitatea de apă stocată folosind spații verzi din proximitate.
+Sunt destinate cu precădere inundațiilor pluviale și se adresează unor zone urbane mici.
+Zonele umede interioare (construite)
+Reduc cantitatea de apă pluvială.
+Colectează și stochează apa în exces în timpul inundațiilor.
+Eficiența este determinată de mărimea și forma zonei umede.
+Sunt eficiente pentru inundații reduse.
+4.4.3.
+Măsuri de adaptare pentru inundare controlată a clădirilor 4.4.3.1.
+Măsuri de adaptare pentru elemente structurale (1)
+Măsuri care se pot adopta pentru a reduce și atenua avariile în zonele inundabile: (a) impermeabilizarea elementelor structurale care pot veni în contact cu apa provenită din inundații; în acest caz trebuie avut în vedere și faptul că, în anumite situații, elementele impermeabilizate pot intra în contact cu apa și se pot uda, iar impermeabilizările pot bloca procesul de uscare pentru un timp îndelungat;
+(b) prevederea de goluri prin care poate pătrunde apa controlat, amplasate pe toate fețele perimetrale ale clădirilor.
+(2)
+Pentru clădirile noi amplasate în zone inundabile este recomandat ca plăcile sau pardoselile de la cota terenului să fie realizate din beton armat, să fie armate ca și plăcile de la un etaj curent, dar cu armătură continuă, pusă pe ambele fețe, pentru a putea prelua împingerea apei din ambele sensuri, gravitațional și anti-gravitațional.
+(3)
+La clădirile noi fără subsol, care au un sistem de fundare care nu permite pătrunderea apei pe sub casă, este indicat ca plăcile așezate pe teren (cele de la cota zero) să fie capabile să preia și să transmită încărcările direct la fundații, adică să fie încastrate (legate rigid) în fundațiile clădirii și să nu fie doar simplu rezemate pe aceste fundații și pe teren. Pentru a nu suferi degradări în timpul inundațiilor, indiferent dacă aceste plăci au fost sau nu legate rigid de sistemul de fundare, trebuie să fie calculate și dimensionate împreună cu suportul lor astfel încât să poată prelua posibile încărcări suplimentare, orientate în sens gravitațional, datorate prezenței apei pe suprafața lor. De exemplu, pentru un nivel al apei din clădire de 1,00 m, încărcarea suplimentară pe fiecare metru pătrat de placă este de o tonă.
+(4)
+Deoarece clădirile vor fi inundate la interior, iar evacuarea nu va mai fi posibilă pe căile normale de acces, clădirile ar trebui să aibă prevăzute și alte ieșiri în caz de urgență la nivelurile superioare pentru posibilitatea ca echipele de intervenție/salvare să poată extrage persoanele aflate în pericol într-un timp cât mai scurt posibil. Aceste ieșiri de urgență pot fi amplasate pe lateralul clădirii, cum sunt balcoanele sau ferestrele, dar și la partea superioară, pe terasă sau acoperiș. În acest caz, acoperișurile sau terasele trebuie să fie prevăzute cu ferestre, chepenguri, trape sau lucarne cu dimensiuni suficiente care să permită facilitarea evacuării ocupanților clădirii, cu spații de staționare și sisteme de ancorare a utilizatorilor pe acoperiș
+(5)
+Odată cu creșterea nivelului apei (peste 0,80 m față de nivelul cotei de călcare al accesului în clădire), cresc foarte mult și presiunile laterale aplicate pereților exteriori, iar aceștia vor ceda, pentru că nu au fost calculați și dimensionați la solicitări laterale de o asemenea intensitate, perpendiculare pe planul pereților. Trebuie ținut cont și de subpresiuni (presiunile verticale), care tind să ridice clădirea de pe teren cu o forță egală cu volumul de apă dezlocuit. Din acest motiv, la clădirile fără subsol, dacă nivelul apei continuă să crească peste nivelul de 0,80 m față de nivelul cotei de călcare al accesului în clădire, trebuie să fie permisă intrarea apei în incinta clădirii pentru echilibrarea presiunilor exterioare și interioare, asupra pereților exteriori. Tot pentru echilibrarea presiunilor, în cazul unor inundații de amploare, la clădirile cu demisol, subsol sau subsoluri, este recomandat ca apa să fie lăsată să pătrundă de la bun început, deoarece umplerea durează foarte mult. La clădirile cu subsol sau demisol, parțial sau pe toată suprafața clădirii, suplimentar față de presiunea laterală a apei, trebuie luate în considerare și presiunile pământului.
+Fig. 30. Protejarea clădirilor prin echilibrarea presiunilor hidrostatice cu permiterea pătrunderii apei la interior. 1 - clădire fără subsol; 2 - clădire cu subsol; A - pământ; B - apă; C - presiune hidrostatică;
+D - presiunea pământului.
+(6)
+Realizarea clădirilor fără demisol, subsol sau subsoluri este de preferat în zonele inundabile deoarece s-a dovedit că acestea suferă mai puține avarii, în principal datorită presiunilor mai mici ce acționează asupra lor. Clădirile fără subsol pot fi mai ușor inundate controlat și într-un timp mai scurt pentru echilibrarea presiunilor;
+(7)
+Măsurile de adaptare bazate pe inundarea clădirilor trebuie să permită accesul apei în clădire, astfel încât să poată curge înăuntru și în afară, în toate spațiile conectate, având un debit de curgere constant, de cele mai multe ori controlat prin numărul de goluri. Numărul total de goluri, mărimea și amplasarea acestora este în funcție de suprafața inundată a clădirii și performanța anticipată a golurilor. Apa trebuie să curgă în clădire prin toate spațiile interioare ale zonei ce se va inunda, inclusiv prin uși sau alte deschideri.
+(8)
+Deoarece intrarea apei în incinta clădirii se face mult mai lent decât creșterea nivelului apei din exterior, este indicat ca pe conturul clădirii, pe fiecare latură perimetrală, să fie prevăzute cel puțin două găuri cu diametrul minim de 100 mm. Suprafața totală liberă (neobturată) a găurilor/golurilor, cumulată de pe fiecare latură, va trebui să aibă minim 1,0% din suprafața în plan a clădirii, aici fiind incluse și golurile de uși și/sau ferestre care au cota inferioară mai joasă decât nivelul apei din exterior (0,80 m). În Anexa A este prezentat un exemplu de calcul pentru determinarea dimensiunilor golurilor perimetrale.
+Fig. 31. Goluri (ferestre) la nivelul terenului prin care apa poate pătrunde în clădire.
+(9)
+Pentru adaptarea fundațiilor și a plăcilor de pardoseală la efectele inundației se poate implementa un sistem care va accelera drenarea și anume instalarea unui sistem de drenaj periferic, prin crearea unui canal de scurgere la baza pereților exteriori. Acest canal de scurgere este înconjurat de materiale de drenaj care îl protejează de infiltrare și este conectat la canalizare (sau la o ieșire exterioară). Pentru asigurarea protecției higro- termice ale acestor elemente, respectiv pentru îndeplinirea cerinței fundamentale economie de energie și izolare termică, alegerea materialelor și sistemelor se va face ținând cont de situația din teren a clădirii și de prevederile normativelor din domeniu, în special cele ale Metodologiei de calcul al performanței energetice a clădirilor, indicativ Mc 001-2022, aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 16/2023 și a reglementării tehnice Normativ privind calculul termotehnic al elementelor de construcție ale clădirilor, indicativ C 107/1-2005, aprobat prin Ordinul ministrului transporturilor, construcțiilor și turismului nr. 2055/2005, cu modificările și completările ulterioare, alături de normele aflate în vigoare la momentul proiectării clădirii.
+Fig. 32. Sistem de drenaj periferic. 1 - trotuar de protecție; 2 - hidroizolație; 3 - strat de protecție împotriva colmatării - material geotextil; 4 - pietriș grosier sau piatră spartă; 5 - pietriș; 6 - tub perimetral de drenaj cu diametru mai mare de 80 mm perforat.
+4.4.3.2.
+Măsuri de adaptare pentru elemente constructive (1)
+Pentru clădirile existente, se recomandă utilizarea de soluții de acoperiș verde sau terase verzi. Se vor respecta prevederile reglementării tehnice GP 120 - Ghid privind proiectarea și execuția acoperișurilor verzi la clădiri noi și existente, indicativ GP 1202013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 3383/2013, alături de normele aflate în vigoare la momentul proiectării clădirii.
+(2)
+Pentru partea de clădire ce va fi inundată (subsol, demisol sau niveluri inferioare), funcțiunile permise sunt: parcare, depozitare, acces în clădire; nu este recomandată utilizarea zonelor respective pentru alte funcțiuni.
+(3)
+Se recomandă ca spațiile de depozitare organizate la nivelurile inundabile să nu conțină materiale susceptibile la acțiunea apei.
+(4)
+Pentru partea de clădire care va fi inundată se vor utiliza materiale de construcție impermeabile sau cu permeabilitate scăzută și produse certificate, care să prezinte caracteristici conforme pentru protecția la inundații.
+(5)
+Se va prevedea un al doilea acces pietonal în clădire, amplasat peste nivelul probabil al inundației. Se va asigura o scară deschisă de acces, de la nivelul solului până la acest acces.
+(6)
+Tavanele suspendate și planșeele cu structură din lemn sau metal pot fi deteriorate din cauza presiunii aerului, care crește pe măsură ce nivelul apei crește iar aerul nu poate fi evacuat. Trebuie prevăzute orificii de aerisire în planșeu și tavan, care permit aerului să intre în spațiul acoperișului.
+(7)
+Orificiile de aerisire pot fi prevăzute sub formă de piese din sistemul de ventilare și pot fi aplicate peste stratul de termoizolație și peste bariera contra vaporilor (cu etanșări perimetrale corespunzătoare). Se consideră că pentru o cameră de locuit de 12 m2 este suficientă o grilă de ventilare de 200 mm2.
+Fig. 33. Exemplificarea presiunii exercitate de creșterea apei în interiorul clădirii și orificii de aerisire.
+(8)
+În cazul inundării controlate a clădirilor care au amenajate spații în zonele inundate, la nivelul subsolului, demisolului sau parterului, după inundație, în vederea evacuării apei reținute de acestea, capacitatea sistemului de canalizare local (municipal) nu trebuie depășită din cauza apei pompate din aceste spații. Acest lucru necesită o colaborare strânsă cu autoritățile locale pentru a se asigura că nu va fi depășită capacitatea sistemului de canalizare local sau pentru a identifica zonele în care excesul de apă poate fi evacuat prin alte mijloace.
+(9)
+Zona de parcare de la nivelul solului poate fi folosită ca zonă de reținere a inundațiilor. O astfel de măsură trebuie corelată cu o proiectare judicioasă a sistemului de canalizare, evacuare apă și drenare a solului după inundație. Măsura propusă trebuie investigată cu atenție și implementată cu prudență, deoarece depinde de situația locală (topografie, dotări învecinate, sistemul de canalizare municipal).
+(10)
+Se recomandă utilizarea pentru suprafața parcării de la nivelul solului, a unui material care permite absorbția apei sau, în mod ideal, este permeabil, și care este interconectat la un sistem de drenaj durabil, de ex. bazine de stocare temporară, iazuri de retenție, zone umede interioare sau zone umede amplasate la suprafață.
+(11)
+Se recomandă, utilizarea sistemelor de protecție a nivelurilor subterane destinate parcării așa cum sunt ele descrise în "Ghidul de bune practici privind măsuri de protecție aplicabile clădirilor existente și clădirilor noi, situate în zone inundabile, indicativ RTC 12-2022", astfel încât să se evite inundarea acestor niveluri.
+(12)
+Acolo unde nu este posibilă utilizarea unor sisteme de protecție pentru evitarea inundării nivelurilor de subsoluri destinate parcării, se va avea în vedere proiectarea ca un sistem complet impermeabil, de exemplu beton aditivat și impermeabilizat sau sisteme de hidroizolație, cu rosturile de construcție etanșe. Elementele structurale trebuie să fie amplasate, concepute, calculate și detaliate pentru a susține nivelurile crescute ale apelor subterane (din cauza inundațiilor) și presiunea hidrostatică aferentă.
+(13)
+În parcajele inundate, mașinile pot pluti și pot fi purtate de ape. Astfel, pot deteriora sau disloca elemente structurale sau de închidere, în timpul inundațiilor. Se vor prevedea protecții perimetrale ale acestora, la înălțimea adecvată, din materiale rezistente la impact, pentru a prelua forța de lovire a mașinilor care plutesc și care pot lovi elementele structurale și nestructurale ale clădirii în timpul unei inundații. Dimensionarea acestor sisteme de protecție se va realiza, de la caz la caz, pe baza datelor și analizelor din amplasament.
+4.4.3.3.
+Măsuri de adaptare pentru finisaje și materiale utilizate (1)
+Alegerea materialelor de construcții folosite la realizarea clădirilor noi, realizate în zone inundabile, ar trebui să țină cont de următoarele caracteristici: (a) permeabilitate la apă - capacitatea de absorbție a materialului;
+(b) capacitatea de uscare și revenire la starea inițială și timpul în care are loc uscarea completă;
+(c) menținerea dimensiunilor avute înainte de inundație - lipsa deformațiilor sau modificării în formă și aspect;
+(d) păstrarea caracteristicilor mecanice ale materialului;
+(e) proprietăți de izolare termică/fonică, ușurința de manipulare, disponibilitate, estetică, cost etc.
+(2)
+În cazul construcțiilor noi amplasate în zone inundabile, ca și în cazul general, este indicat să se folosească numai materiale de calitate superioară și care să nu fie sensibile la acțiunea apei. Acțiunea negativă a apei asupra materialelor de construcție folosite, poate fi instantanee (pereți de cărămidă de calitate inferioară sau chirpici) sau la o anumită perioadă de timp după contactul cu apa, indiferent dacă apa s-a retras sau este încă prezentă (de exemplu, cărămizi de zidărie care nu au fost arse suficient).
+(3)
+De asemenea, trebuie folosite materiale de construcție cu rol structural, cât mai impermeabile: beton, beton armat și profile din oțel. Utilizarea unor astfel de materiale are și un beneficiu post-inundație, adică uscarea mult mai rapidă a întregii structuri și reluarea mult mai rapidă a activității pentru care a fost executată. Realizarea de reparații la clădiri care au fost supuse acțiunii apei și care nu s-au uscat suficient pot fi inutile, de scurtă durată și cu costuri ridicate.
+(4)
+Utilizarea unor materiale de calitate superioară și impermeabile nu asigură automat și o calitate superioară a construcției în sine. Pentru aceasta, este nevoie de un proiect tehnic de execuție, care să cuprindă detalii de execuție conforme amplasamentului, o execuție atent supravegheată și o utilizare corespunzătoare a construcției pe durata acesteia de utilizare.
+(5)
+Dacă la execuție se folosesc totuși materiale permeabile sau poroase, trebuie să se realizeze prin diverse procedee hidroizolarea lor totală, ulterior execuției, deși aceste operații au un grad de incertitudine ridicat. Măsurile de hidroizolare și de etanșare care se iau la clădirile noi sau la clădirile existente pot fi costisitoare, iar în cazul unor inundații de amploare pot suferi cedări parțiale sau totale.
+(6)
+Spațiile interioare ale clădirii trebuie să fie pregătite pentru inundare, contaminare potențială cu mâl, golire a apei, curățire și uscare. Materialele utilizare în zonele inundate vor trebui să fie alese și puse în operă pentru a facilita acest proces.
+(7)
+Se recomandă utilizarea unui număr cât mai redus de tipuri de materiale la interior pentru hidroizolarea spațiilor cu scopul de a facilita curățarea și uscarea acestora.
+(8)
+Se recomandă înlăturarea pieselor de mobilier ce sunt supuse daunelor atunci când ajung în contact cu apa, sau utilizarea unor piese de mobilier rezistente la apă, precum cele din inox.
+(9)
+Curățarea spațiului interior după inundație poate implica substanțe chimice, jet de apă puternic sau chiar înlocuirea unor zone afectate puternic de efectele inundației.
+(10)
+Uscarea și curățarea spațiilor interioare poate avea o durată considerabilă și spațiul nu va putea fi locuit în acest timp. Timpul de uscare poate fi redus cu ajutorul dezumidificatoarelor sau ventilatoarelor.
+(11)
+Pentru soluțiile constructive de izolare termică, se recomandă utilizarea unor materiale impermeabile sau non absorbante, care nu rețin apa și se usucă repede, rezistente și care nu rețin mâl, își mențin forma după ce sunt supuse acțiunii apei și sunt bine ancorate pentru a rezista forțelor flotante.
+(12)
+Ușile de la nivelul parterului prevăzute cu portițe pentru animale de companie, trebuie să fie bidirecționale pentru a facilita mișcarea apei în ambele direcții, înspre casă și dinspre casă.
+(13)
+Planșeul de peste parter, realizat din lemn hidrofobizat, trebuie să fie conceput cu capacitate portantă suplimentară prin supradimensionare, pentru a permite o pierdere a rezistenței sale mecanice inițiale în cazul unei inundații, și trebuie să asigure o bună ventilare a substraturilor atunci când nu este impermeabilizat la suprafață.
+(14)
+Măsurile de adaptare pentru inundare controlată au următoarele avantaje și dezavantaje:
+Avantaje Dezavantaje
+- nu este nevoie de teren suplimentar pentru aplicarea acestei metode;
+- datorită curgerii apei prin clădire, pereții clădirii vor fi supuși unei încărcări provenite din presiune hidrostatică mai mică decât în cazul hidroizolării construcției;
+- pot fi aplicate împreună cu alte metode de reducere a pagubelor în timpul inundațiilor; sunt mai puțin costisitoare comparativ cu alte metode;
+- reduc pagubele produse în timpul inundațiilor (clădire și bunuri);
+- reduc costurile potențiale pentru repararea deteriorărilor.
+- mutarea bunurilor depozitate în zona potențial inundabilă a clădirii, la un nivel superior, după emiterea avertismentului de inundație necesită timp;
+- clădirea se va inunda și va putea fi potențial contaminată de chimicale, dejecții sau alte materiale/substanțe din apa de inundații; aceasta va implica o curățare amplă după inundație, inclusiv o dezinfectare sau decontaminare a spațiilor și suprafețelor;
+- perioada de timp după care clădirea se poate utiliza în siguranță este destul de mare;
+- evacuarea apei din clădire în scurt timp după o inundație, când terenul este încă îmbibat cu apă, poate conduce la deteriorări structurale;
+- necesită întreținere regulată;
+- se limitează funcțiunile permise în zona inundabilă a clădirii;
+- se pierde din suprafața utilă a clădirii;
+- sunt dificil de aplicat la clădirile existente;
+- nu au efect la clădirile amplasate în zone cu viteze mari de curgere a apei.
+4.4.4.
+Măsuri de adaptare pentru instalații (1)
+Măsurile detaliate aici sunt măsuri care nu împiedică pătrunderea apei în clădire ci asigură protecția instalațiilor atunci când clădirea este inundată. Măsurile prezentate pot fi aplicate atât clădirilor rezidențiale, cât și clădirilor nerezidențiale și reprezintă un minim ce trebuie asigurat.
+(2)
+Clădirile și structurile care se construiesc sau care sunt construite în zone inundabile, trebuie să fie proiectate și executate din punct de vedere al sistemelor de instalații în așa fel încât pericolul de distrugere sau de degradare al instalațiilor electrice, de încălzire, ventilare și aer condiționat precum și al instalațiilor sanitare, să fie redus la minimum.
+(3)
+În general metodele clasice de protecție care se aplică instalațiilor din clădirile rezidențiale sau nerezidențiale, includ următoarele două aspecte: (a) amplasarea echipamentelor și a celorlalte componente ale sistemelor deasupra cotei 1,20 m peste Nivelul probabil al inundației, pe piedestale, platforme, suspendarea acestora de elemente de construcție sau poziționarea lor la nivelurile superioare ale clădirii;
+(b) protejarea echipamentelor și elementelor de instalații existente sub cota 1,20 m peste Nivelul probabil al inundației, prin închideri etanșe, nișe (ghene) sau sisteme de ancorare.
+(4)
+Sistemele de instalații considerate în acest ghid pot fi grupate în felul următor: (a) instalații de încălzire, ventilare și aer condiționat (HVAC);
+(b) instalații de alimentare cu combustibili;
+(c) instalații electrice;
+(d) sisteme de canalizare ape uzate;
+(e) sisteme de alimentare cu apă potabilă.
+(5)
+Sistemul de evacuare a apelor, bașe și rigole de colectare, sistemul de drenaj, precum și sistemul de pompe aferent, trebuie să fie, de asemenea, proiectate corespunzător.
+(6)
+Impactul apei de inundație asupra infrastructurii subterane (rezervoare, conducte etc.) ar trebui să fie luat în considerare - nu numai în ceea ce privește presiunea de ridicare, ci și scurgerile de conținut cu consecințe grave de contaminare a zonei.
+(7)
+Este important ca toate elementele de instalații din zonele supuse inundabilității controlate, să fie proiectate să reziste la flotabilitate sau deformabilitate sub acțiunea apei.
+(8)
+Conductele aparente la nivelul tavanelor sau pereților pot fi deteriorate, dislocate sau rupte de acțiunea valurilor sau de impactul cu plutitori. Acolo unde este posibil, astfel de conducte trebuie să fie bine ancorate de sistemele structurale sau nestructurale, care conferă un suport solid (tavan, perete sau un stâlp). Ele pot fi, de asemenea, închise într-o carcasă rezistentă la acțiuni mecanice, realizată din materiale impermeabile și prevăzută cu orificii pentru drenarea apei din interior. 4.4.4.1.
+Măsuri pentru instalațiile de încălzire, ventilare și aer condiționat (1)
+În general sistemele HVAC pot fi împărțite în echipamente sau surse, și elemente de distribuție. Sursele (echipamentele) pot fi poziționate la exteriorul sau la interiorul clădirii. Echipamentele poziționate la exterior pot fi: (a) chillere;
+(b) pompe de căldură;
+(c) unități externe ale unor pompe de căldură;
+(d) agregate de climatizare.
+Echipamentele poziționate la interior pot fi: (a) cazane/centrale termice;
+(b) unități interioare ale unor pompe de căldură;
+(c) centrale de ventilare și climatizare;
+(d) echipamente de preparare și de stocare apă caldă menajeră.
+(2)
+Instalațiile pot fi poziționate atât la interior cât și în exteriorul clădirii.
+(3)
+Se urmărește protejarea echipamentelor aflate la exteriorul clădirii; în acest caz se realizează poziționarea acestor echipamente deasupra cotei 1,20 m peste Nivelul probabil al inundației, fie pe o structură în console fie pe o structură pe stâlpi; dacă poziționarea la înălțime nu este posibilă, se va încerca protejarea echipamentelor cu pereți etanși la pătrunderea apei.
+(4)
+Se urmărește protejarea echipamentelor de la interior; în acest caz se realizează poziționarea acestora pe cât posibil la niveluri superioare sau chiar în podul/ mansarda clădirii sau dacă nu se poate, la nivel inferior, utilizând o platformă deasupra cotei 1,20 m peste Nivelul probabil al inundației; dacă aceste măsuri nu sunt posibile, se urmărește protejarea cu pereți etanși la pătrunderea apei.
+(5)
+Se urmărește protejarea elementelor de distribuție, sisteme de tubulaturi, conducte, distribuitoare, colectoare etc. În acest sens, se va încerca poziționarea lor deasupra cotei 1.20 m peste Nivelul probabil al inundației. Tubulaturile de aer sau conductele de alimentare cu agent termic se vor poziționa pe cât posibil la nivelurile superioare sau chiar în pod sau în mansardă (sisteme cu distribuție superioară), sau la tavanul nivelurilor superioare. Se vor reduce la maxim instalațiile poziționate sub cota 1,20 m peste Nivelul probabil al inundației iar acolo unde acestea nu pot fi eliminate complet, se vor proteja utilizând materiale etanșe.
+4.4.4.2.
+Măsuri pentru instalațiile de alimentare cu combustibili (1)
+Componentele sistemelor de alimentare cu combustibil care deservesc zone rezidențiale sau non rezidențiale, pot fi grupate în două categorii: (a) rezervoare pentru stocarea combustibilului;
+(b) conducte de alimentare cu combustibil, contoare și panouri de control și de comandă.
+(2)
+Rezervoarele de combustibil se vor poziționa deasupra planului cotei 1,20 m, pe platforme capabile să reziste forțelor exercitate de către inundație; dacă acest lucru nu este posibil atunci se va urmări poziționarea acestor rezervoare pe plăci de beton înălțate deasupra cotei 1,20 m, pe material compactat.
+(3)
+În cazul în care ridicarea rezervoarelor de combustibil deasupra cotei 1,20 m nu este posibilă, se realizează prinderea și ancorarea acestora (subterane sau supraterane) în vederea imobilizării în timpul inundației.
+(4)
+Conductele de alimentare cu combustibil, contoarele pentru înregistrarea consumului de combustibil, panourile de comandă se vor monta deasupra planului cotei 1.20 m.
+(5)
+În cazul în care conductele nu se pot monta deasupra cotei 1,20 m peste Nivelul probabil al inundației, se va urmări fixarea acestora de către elemente care rămân în zona uscată sau protejarea lor în nișe (ghene) etanșe.
+4.4.4.3.
+Măsuri pentru instalațiile electrice (1)
+Instalațiile electrice care deservesc zone rezidențiale sau non rezidențiale sunt compuse din: (a) transformatoare;
+(b) branșamente;
+(c) contoare;
+(d) tablouri de distribuție;
+(e) tablouri de siguranțe;
+(f) cabluri electrice;
+(g) panouri de comandă;
+(h) receptori și echipamente de utilizare (prize, întrerupătoare, comutatoare).
+(2)
+Având în vedere faptul că orice contact al apei cu componentele instalațiilor electrice poate duce la accidente sau la pagube mari, este clar că trebuie evitată amplasarea instalațiilor electrice acolo unde apa poate pătrunde în timpul inundațiilor.
+(3)
+În general, abordarea corectă pentru evitarea pagubelor produse de către inundarea instalațiilor electrice este plasarea acestora deasupra planului cotei 1,20 m peste Nivelul probabil al inundației.
+(4)
+În cazul echipamentelor electrice poziționate în exteriorul clădirilor (contoare de energie electrică, tablouri de distribuție sau tablouri de siguranțe) se va încerca amplasarea lor în zone uscate deasupra planului cotei 1,20 m peste Nivelul probabil al inundației, eventual în aval de clădire, dacă este permis accesul companiei furnizoare de energie.
+(5)
+În cazul echipamentelor electrice interioare (tablouri de distribuție, tablouri de siguranțe, întrerupătoare, prize, comutatoare etc.) precum și în cazul cablurilor electrice, se urmărește poziționarea acestora deasupra planului cotei 1,20 m peste Nivelul probabil al inundației.
+(6)
+În cazul în care nu se pot elimina complet cablurile electrice amplasate sub nivelul planului cotei 1,20 m peste Nivelul probabil al inundației, se vor instala cabluri rezistente la apă, instalate în tuburi prevăzute cu pantă, pentru a asigura scurgerea gravitațională a apei.
+4.4.4.4.
+Măsuri pentru sistemele de canalizare a apelor uzate (1)
+Sistemele de canalizare a apelor uzate din clădiri pot fi grupate în felul următor: (a) instalații interioare pentru colectarea și evacuarea apelor uzate din clădire;
+(b) instalații exterioare pentru evacuarea apelor uzate;
+(c) instalații pentru epurarea și înmagazinarea apelor uzate.
+(2)
+Instalațiile exterioare de canalizare colectează apele uzate de la interior și le evacuează, fie către sistemul public de canalizare, fie către o stație locală de epurare, de unde acestea sunt reintroduse în mediu natural. În funcție de regimul de funcționare, poate exista necesitatea utilizării unor rezervoare de retenție temporară pentru apele uzate. Toate aceste echipamente și componente de instalații de canalizare (tuburi și cămine de canalizare) sunt situate la exteriorul clădirilor rezidențiale sau non rezidențiale.
+(3)
+Instalațiile interioare cuprind obiecte sanitare, conducte de legătură, coloane și colectoare orizontale, cu rolul de a colecta și de a evacua apele uzate către exterior.
+(4)
+Oricare dintre fenomenele enunțate mai sus poate conduce la apariția unor riscuri majore în ceea ce privește sănătatea celor afectați de inundație. Următoarele două abordări trebuie simultan avute în vedere, pentru a elimina riscurile pe care o inundație le poate cauza sistemului de evacuare a apelor uzate: (a) prevenirea refulării apei la interiorul clădirii prin sistemul de canalizare;
+(b) prevenirea deteriorărilor fizice care pot apărea la sistemul de canalizare ape uzate.
+(5)
+Se va urmări poziționarea echipamentelor de epurare sau de înmagazinare ape uzate precum și a colectoarelor exterioare deasupra planului cotei 1,20 m peste Nivelul probabil al inundației atunci când este posibil.
+(6)
+În cazul în care nu este posibilă amplasarea echipamentelor de epurare sau retenție ape uzate precum și a colectoarelor de ape uzate deasupra planului cotei 1,20 m peste Nivelul probabil al inundației (aspect întâlnit în marea majoritate a cazurilor), se va urmări ancorarea suplimentară a acestor echipamente sau instalații pentru a evita plutirea acestora în timpul inundațiilor sau antrenarea lor de către inundație.
+(7)
+Echipamentele de epurare, rezervoarele de retenție, colectoarele și căminele exterioare sau alte elemente exterioare ale sistemului de canalizare vor fi protejate cu elemente suplimentare (pereți, parapete etc.) împotriva eventualelor deteriorări fizice care pot apărea ca urmare a expunerii la inundații.
+(8)
+Se va urmări eliminarea elementelor care necesită prevederea de sisteme de canalizare în subsolurile clădirilor aflate în zone inundabile. În acest sens, instalațiile de canalizare ape uzate din subsol vor fi eliminate sau, în cel mai nefavorabil caz, reduse la minim.
+(9)
+Dacă există instalații interioare de canalizare în subsolul clădirilor, acestea vor fi complet separate de restul instalațiilor de canalizare ape uzate din clădire.
+(10)
+Pentru toate sistemele de evacuare ape uzate din clădire (gravitaționale sau prin pompare) se vor prevedea clapete anti-retur pentru a preveni refularea apei în interiorul clădirii. Clapetele de sens vor fi accesibile pentru întreținere (curățare, verificare stare garnituri etc.).
+(11)
+Se recomandă prevederea unor rezervoare de retenție ape uzate prevăzute cu vane de închidere în aval. În mod normal aceste vane sunt deschise și evacuarea apelor uzate se face gravitațional sau prin pompare iar în timpul inundațiilor aceste vane se închid, rezervorul preia apele uzate care sunt evacuate gravitațional sau prin pompare, atunci când inundațiile au trecut și se pot deschide vanele de închidere.
+(12)
+Se vor prevedea măsuri suplimentare de etanșare a golurilor necesare străpungerii pereților clădirii de către conducte.
+4.4.4.5.
+Măsuri pentru sistemele de alimentare cu apă potabilă (1)
+Sistemele de alimentare cu apă potabilă pentru clădiri aflate în zone inundabile trebuie concepute în așa fel încât posibilele inundații să nu contamineze apa potabilă și să nu inducă riscuri de îmbolnăvire.
+(2)
+Sistemele de alimentare cu apă pentru clădiri pot fi împărțite în: (a) instalații de înmagazinare, tratare și pompare apă;
+(b) instalații de distribuție apă.
+(3)
+Instalațiile de înmagazinare, tratare și pompare apă pot fi publice sau pot fi instalații de incintă aflate pe domeniul privat. Instalațiile de distribuție pot fi sisteme de distribuție publică a apei potabile, pot fi instalații exterioare de incintă aflate pe domeniul privat sau pot fi instalații interioare, aflate în clădire.
+(4)
+Se urmărește poziționarea echipamentelor de tratare, de pompare sau de înmagazinare ape precum și a sistemelor exterioare, deasupra planului cotei 1,20 m peste Nivelul probabil al inundației atunci când este posibil.
+(5)
+În cazul în care nu este posibilă amplasarea echipamentelor de tratare și de pompare sau înmagazinare apă precum și a sistemelor exterioare de alimentare cu apă deasupra planului cotei 1,20 m peste Nivelul probabil al inundației (aspect întâlnit în marea majoritate a cazurilor), se va urmări ancorarea suplimentară a acestor echipamente sau instalații pentru a evita plutirea acestora în timpul inundațiilor sau antrenarea lor de către inundație.
+(6)
+Echipamentele de tratare și pompare, rezervoarele de înmagazinare apă, sistemele și instalațiile exterioare de alimentare cu apă vor fi protejate cu elemente suplimentare (pereți, parapete etc.) împotriva eventualelor deteriorări fizice care pot apărea ca urmare a expunerii la inundație.
+(7)
+Instalațiile și echipamentele de alimentare cu apă aflate la interiorul clădirilor în zone inundabile, se vor localiza la niveluri superioare deasupra planului Nivelului proiectat al inundației. Nu se recomandă prevederea instalațiilor interioare de alimentare cu apă la cote inferioare cotei 1,20 m peste Nivelul probabil al inundației.
+(8)
+Se vor prevedea măsuri suplimentare de etanșare a golurilor necesare străpungerii pereților clădirii de către conducte.
+(9)
+Dacă este posibil, se va încerca amplasarea contoarelor de apă în zone uscate deasupra cotei 1,20 m peste Nivelul probabil al inundației urmărindu-se în același timp și protecția acestora contra înghețului.
+(10)
+Măsurile de adaptare pentru instalații au următoarele avantaje și dezavantaje:
+Avantaje Dezavantaje
+- Risc de deteriorare al instalațiilor la inundație mai mic
+- Costuri mai ridicate de investiție
+- Utilizarea neadecvată a spațiilor din clădire
+- Nivel mai ridicat de zgomot
+4.4.5.
+Măsuri de adaptare a clădirilor bazate pe natură (1)
+Măsurile de adaptare a clădirilor bazate pe natură includ acoperișuri și pereți verzi care au capacitatea să capteze, stocheze și reutilizeze apa de ploaie. Se vor utiliza în acest sens prevederile reglementării tehnice GP 120-2013, precum și cele din reglementarea tehnică Normativ privind proiectarea fațadelor cu alcătuire ventilată, indicativ NP 135-2013, aprobat prin Ordinul ministrului dezvoltării regionale și administrației publice nr. 3415/2013.
+Fig. 34. Exemplificarea principalelor măsuri de adaptare a clădirilor bazate pe natură.
+(2)
+Acoperișurile verzi extensive sunt formate dintr-o succesiune de straturi orizontale: mediu de creștere, membrane care să susțină rădăcinile plantelor, sisteme de colectare, stocare reutilizare și descărcare a apei și straturi structurale și de hidroizolație. Grosimea straturilor este determinată de tipul de plante utilizate și de cantitatea de apă care urmează a fi reținută.
+Fig. 35. Exemplificare de principiu pentru un acoperiș verde extensiv. 1 - ansamblu atic perimetral; 2 - sistem de drenaj din pietriș cu diferite granulații; 3 - acoperiș extensiv - conform unor sisteme agrementate; 4 - sistem suport din cofraje prefabricate - conform unor sisteme agrementate; 5 - geotextil; 6 - hidroizolație orizontală sau impermeabilizare (membrană lichidă pensulabilă, membrană aplicată la cald); 7 - termoizolație - dimensionată conform normelor în vigoare.
+Notă: straturile inferioare se vor considera în funcție de particularitățile clădirii.
+(3)
+Acoperișurile verzi intensive au un strat mai gros care suportă o varietate mai mare de plante. Acest tip de acoperiș poate fi utilizat ca: grădină urbană, zonă de activități de relaxare, socializare și agrement și poate constitui un habitat pentru diferite specii de păsări și insecte. Un tip special de acoperiș este cel prevăzut cu un sistem de rezervoare pentru stocarea apei de ploaie, aceasta putând fi reutilizată pentru irigații.
+Fig. 36. Exemplificare de acoperiș verde extensiv. 1 - ansamblu atic perimetral; 2 - sistem de drenaj din pietriș cu diferite granulații; 3 - acoperiș extensiv - conform unor sisteme agrementate; 4 - sistem suport din cofraje prefabricate - conform unor sisteme agrementate; 5 - geotextil; 6 - hidroizolație orizontală sau impermeabilizare (membrană lichidă pensulabilă, membrană aplicată la cald); 7 termoizolație - dimensionată conform normelor în vigoare.
+Notă: straturile inferioare se vor considera în funcție de particularitățile clădirii.
+(4)
+Acoperișurile cu stocare și control al scurgerii apei sunt proiectate să stocheze temporar apa și să dreneze treptat surplusul, printr-un sistem de drenuri și membrane hidroizolante. Pot fi realizate ca suprafețe deschise de apă sau amplasate sub stratul de călcare, precum și ca strat de drenaj și suport pentru acoperișuri verzi. Rolul acestora este să stocheze temporar apa de ploaie pentru a nu încărca excesiv sistemele de canalizare, să reducă debitul de apă evacuat de pe acoperiș, să stocheze și să reutilizeze apa de ploaie pentru irigații.
+(5)
+Fațadele înierbate sunt prevăzute cu plante cățărătoare plantate în jardiniere situate pe sol. Plantele pot crește direct pe fațadă sau pot fi susținute de cadre speciale.
+Fig. 37. Exemplificare de fațade verzi bazate pe sol. 1 - sistem de susținere a plantelor la nivelul fațadei; 2 - jardiniere sau spații verzi amenajate perimetral clădirilor; 3 - zonă pietonală sau rutieră.
+(6)
+Fațadele verzi autonome reprezintă o fațadă prevăzută cu tehnologie de irigație și substraturi speciale care reduc greutatea acesteia. Acest tip de fațadă permite combinarea a 5-10 specii de plante, de cele mai multe ori plante perene cu creștere rapidă.
+Fig. 38. Exemplificare de fațade verzi autonome. 1 - sistem modular, prefabricat, de fațadă plantată, prevăzută cu tehnologie de irigație și substraturi speciale care reduc greutatea fațadei - conform unor sisteme agrementate; 2 - zonă pietonală sau rutieră.
+(7)
+Măsurile de adaptare bazate pe natură a clădirilor au următoarele avantaje și dezavantaje:
+Avantaje Dezavantaje
+- Captează și stochează apa de ploaie în solul de pe acoperiș, reducând astfel cantitatea de apă și presiunea asupra sistemelor de canalizare (20-50 l/ mp pentru acoperișuri verzi extensive și 30- 160 l/ mp pentru acoperișuri verzi intensive)
+- Sisteme eficiente de captare, stocare și reutilizare a apei de ploaie, fiind preferate în zonele urbane cu sisteme de canalizare proiectate sub capacitatea actuală necesară
+- Costuri ridicate de realizare
+- Cerințe speciale structurale datorate încărcărilor structurale
+4.4.6.
+Măsuri de adaptare pentru clădirile istorice sau situate în arii protejate din zonă inundabilă (1)
+Pentru clădirile istorice sau situate în arii protejate, se vor avea în vedere în primul rând măsuri de protecție a clădirilor astfel încât apa să nu pătrundă în clădire, așa cum sunt ele definite în "Ghid de bune practici privind măsuri de protecție aplicabile clădirilor existente și clădirilor noi, situate în zone inundabile, indicativ RTC12-2022".
+(2)
+Dacă nu este posibilă protecția clădirilor astfel încât apa să nu pătrundă în clădire, se vor lua măsuri suplimentare adecvate acestui tip de clădiri descrise în acest capitol.
+(3)
+Se vor prevedea, dimensiona și amplasa la nivelul infrastructurii, o serie de goluri care să permită apei să pătrundă în clădire.
+(4)
+Este recomandată, acolo unde este posibil, păstrarea golurilor istorice de la nivelul fundației, subsolului sau demisolului în zonele vizibile ale fațadelor.
+(5)
+Proiectarea și amplasarea de noi goluri de la nivelul fundației, subsolului sau demisolului vor urmări adoptarea unui estetici compatibile cu limbajul arhitectural al fațadelor clădirii istorice. Acolo unde este posibil, acestea se vor vopsi în culoarea soclului sau fațadei.
+(6)
+Pentru adaptarea construcțiilor existente de patrimoniu la inundații, se vor selecta și pune în operă numai materiale impermeabile la apă, dar permeabile la vapori, care permit circulația aerului în interiorul anvelopei clădirii.
+(7)
+Pentru adaptarea construcțiilor existente de patrimoniu la inundații, acolo unde este posibil, pentru a limita absorbția apelor de inundații, se va prevedea o îmbinare orizontală de tip waterstop, care să poată fi instalată în pereții clădirii, în funcție de materialul din care este alcătuit peretele, fără a compromite integritatea structurală a acestuia sau a provoca pierderea caracteristicilor istorice valoroase. Acest lucru este documentat istoric, existând exemple de ziduri istorice de cărămidă cu bucăți de ardezie încorporată în mortar, pentru a limita absorbția apei în perete și urcarea prin capilaritate spre nivelurile superioare.
+(8)
+Din momentul apariției inundației, bunurile de patrimoniu trebuie relocate cât mai rapid la nivelurile superioare, pe rafturi aflate peste cota de pericol sau în afara amplasamentului, pentru a le proteja de inundație.
+(9)
+În urma unei inundații, în elaborarea unui proiect de intervenție se va ține cont de următoarele: (a) se va examina și evalua clădirea din perspectiva avariilor produse de inundații, pentru a determina impactul acestora asupra materialelor și caracteristicilor istorice;
+(b) se vor inventaria și stabili ce materiale și caracteristici constructive pot fi curățate, uscate și reparate și care materiale și elemente trebuie înlocuite;
+(c) se vor îndepărta finisajele fără valoare istorică, decorațiunile și mobilierul care absorb și captează umezeala, cum ar fi stucaturile, lambriurile de lemn și alte elemente de patrimoniu;
+(d) atunci când este nevoie de înlocuirea materialului istoric deteriorat sau distrus, se vor alege materiale compatibile, cu proprietăți similare, care respectă caracteristicile materialelor tradiționale, tipul decorațiunilor și caracteristicile clădirii.
+(10)
+După eliminarea apei ca urmare a inundației, pe suprafețele clădirilor istorice se vor folosi cele mai non invazive mijloace posibile, pentru a îndepărta eficient murdăria și a elimina bacteriile. Aceasta poate include o spălare cu apă la presiune joasă și agenți de curățare corespunzători.
+(11)
+Toate materialele de construcție care au fost imersate sau au fost în contact cu inundația trebuie uscate corespunzător, folosind dezumidificatoare și ventilatoare, înainte de a repara clădirea.
+(12)
+Se recomandă relocarea tuturor sistemelor și utilităților prezente în subsol, inclusiv HVAC, instalații sanitare și electrice, peste nivelul de pericol de inundații stabilit anterior sau în spații interioare cu rol secundar, fără semnificație istorică sau memorială și cu vizibilitate minimă, cum ar fi o mansardă sau depozite.
+Fig. 39. Exemplificare de relocare echipamente instalații deasupra nivelului proiectat al inundației. 1 - clădire cu subsol inundat și instalații existente în subsol neadaptate la inundație; 2 - adaptare la inundație și ridicarea instalațiilor peste nivelul inundației în interiorul clădirii; 3 - adaptare la inundație și ridicarea instalațiilor peste nivelul inundației în exteriorul clădirii.
+(13)
+Se recomandă relocarea conductelor, țevilor și traseelor de instalații în spații cu o probabilitate scăzută de inundare și ascunderea unor astfel de sisteme în pereți, poduri, decroșuri, intradosuri, cornișe sau mobilier în spațiile cu finisaje istorice valoroase.
+ANEXA A
+Exemplu de calcul pentru dimensionarea golurilor prin care apa poate pătrunde în interiorul unei clădiri. (1)
+Se reamintește că suprafața totală neobturată a golurilor care permit pătrunderea apei în clădire trebuie să fie minim 1,0% din suprafața în plan a clădirii și că pe fiecare latură trebuie să existe minim două goluri cu diametrul mai mare sau egal cu 10 cm (~ 0,008 mp).
+(2)
+În prezentul exemplu se consideră o clădire cu formă dreptunghiulară în plan, având dimensiunile de 10x12 m. Suprafața clădirii în plan este:
+S(clădire) = 120 mp
+(3)
+Rezultă că suprafața minimă totală a golurilor este de:
+S(total goluri) ≥ 120 x 0,01 = 1,20 mp
+(4)
+Se consideră că există o singură ușă de acces de un metru lățime, iar nivelul apei din exterior a ajuns la 80 cm față de nivelul pardoselii, dar nu a depășit nivelul parapetului la nici una din ferestre. Deci, în calcul nu se va considera decât golul de ușă. Deoarece nivelul mediu de acces al apei în interior este mai mic decât nivelul exterior, se va considera că nivelul apei care intră pe ușă este cu 10 cm mai mic.
+S(ușă) = 1,00 x 0,70 = 0,70 mp
+(5)
+Din suprafața totală a golurilor se scade suprafața ușii și rezultă suprafața minimă necesară a golurilor mai mici:
+-> S(goluri mici) ≥ 1,20 - 0,70 = 0,50 mp
+(6)
+Clădirea fiind dreptunghiulară, are 4 laturi și rezultă că, la minimul de 2 goluri pe latură, sunt necesare 8 goluri cu diametrul mai mare de 10 cm sau cu o arie mai mare de 0,008 mp:
+-> S(1 gol) ≥ 0,50 / 8 = 0,0625 mp ≥ 0,008 mp
+(7)
+Se vor considera goluri dreptunghiulare și o lățime a acestora de 30 cm, astfel va rezulta înălțimea minimă a unui gol:
+-> H(gol) ≥ 0,0625 / 0,30 = 0,21 m
+(8)
+Rezultă că, pentru exemplul dat, suplimentar față de golul existent al ușii de acces mai sunt necesare 8 goluri prin care apa poate pătrunde în incintă, câte două pe fiecare latură, cu dimensiunea minimă de 0,30x0,21 m. S-au ales dimensiunile efective de 0,30x0,25 m.
+(9)
+Verificare:
+S(total goluri efectiv) = 8 X 0,30 X 0,25 + 0,70 = 1,30 mp > S(gol,necesar) = 1,20 mp
+------
