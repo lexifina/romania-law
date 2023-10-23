@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-21: documents published: Raport comisie sesizată pe fond
 - 2023-10-04: rejected by the Chamber of Deputies
 - 2023-10-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-10-23: rejected by the Senate
 
 ## Documents
 
