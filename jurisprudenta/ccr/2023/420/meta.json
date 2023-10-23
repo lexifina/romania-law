@@ -1,0 +1,197 @@
+{
+ "key": "dcc-420-2023",
+ "label": "Decizia CCR nr. 420/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "420",
+ "date": "2023-07-11",
+ "year": "2023",
+ "heading": "DECIZIA nr. 420 din 11 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 31 alin. (3) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "954",
+  "bis": false,
+  "date": "2023-10-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "41.433/3/2018",
+  "866D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a prevederilor art. 31 alin. (3) din Legea nr. 165/2013 privind măsurile pentru finalizarea procesului de restituire, în natură sau prin echivalent, a imobilelor preluate în mod abuziv în perioada regimului comunist în România, excepție ridicată de Duncan Virgil și Duncan Dan, de Soare Ella-Carmen, de Maite Alcalay Rodica și, respectiv, de Căpitanu Diana Mira în dosarele nr. 41.433/3/2018 al Tribunalului Neamț - Secția I civilă și de contencios administrativ, nr. 41.221/3/2018 și nr. 41.539/3/2018 ale Tribunalului București - Secția a V-a civilă, și, respectiv, nr. 41.312/3/2018/a1 al Înaltei Curți de Casație și Justiție - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția I civilă și de contencios administrativ, Tribunalului București - Secția a V-a civilă și Înaltei Curți de Casație și Justiție - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "31",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-10-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275548",
+  "text_sha256": "157527df59511fc35cfa7e891b043453693005cd5b93b60cc598c775033a2f9f",
+  "catalogue_sha256": "157527df59511fc35cfa7e891b043453693005cd5b93b60cc598c775033a2f9f",
+  "fetched": "2026-11-03T01:17:55Z",
+  "chars": 17741,
+  "portal_id": "275548",
+  "tip": "DECIZIE"
+ }
+}
