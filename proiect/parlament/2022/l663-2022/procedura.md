@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-11-09: documents published: Aviz comisie
 - 2022-11-10: documents published: Aviz comisie
+- 2023-10-23: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-27: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L663EM.PDF
 - 2022-11-09: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L663CA8.PDF
 - 2022-11-10: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L663CA45.PDF
+- 2023-10-23: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L663ARD.PDF (its day is not given by the bill file: shown from the last stage held)
