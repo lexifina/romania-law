@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2022-05-04: registered at the Chamber of Deputies
 - 2022-05-09: documents published: Aviz comisie
 - 2023-10-22: published in the Monitorul Oficial
+- 2023-10-24: adopted by the Chamber of Deputies
 
 ## Documents
 
