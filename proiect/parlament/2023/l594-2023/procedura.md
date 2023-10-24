@@ -1,0 +1,22 @@
+# Proiect de lege L594/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 205/2024 (`legea-205-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.88/2023 pentru modificarea și completarea Legii nr.95/2006 privind reforma în domeniul sănătății precum și pentru modificarea și completarea unor acte normative cu impact în domeniul sănătății
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-10-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-10-24: Adresă de înaintare a inițiativei (AD): [ad-51567942.md](ad-51567942.md); official file https://www.senat.ro/legis/PDF/2023/23L594AD.PDF
+- 2023-10-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L594FG.PDF
+- 2023-10-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L594EM.PDF
+- 2023-10-24: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L594LG.PDF
+- 2023-10-24: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L594OG.PDF
+- 2023-10-24: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L594HG.PDF
