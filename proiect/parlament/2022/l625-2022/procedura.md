@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-10-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-05: sent for promulgation
 - 2023-10-23: promulgated, becomes Legea nr. 289/2023
+- 2023-10-24: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,4 @@ Initiator: Guvernul României.
 - 2022-11-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L625AM.PDF
 - 2023-10-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L625AXS.PDF
 - 2023-10-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L625LP.PDF
+- 2023-10-24: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L625TA.PDF (its day is not given by the bill file: shown from the last stage held)
