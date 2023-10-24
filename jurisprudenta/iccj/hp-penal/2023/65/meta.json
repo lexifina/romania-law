@@ -1,0 +1,398 @@
+{
+ "key": "iccj-hp-penal-65-2023",
+ "label": "Decizia ÎCCJ nr. 65/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "65",
+ "date": "2023-10-02",
+ "year": "2023",
+ "heading": "DECIZIA nr. 65 din 2 octombrie 2023",
+ "subtitle": "referitoare la aplicarea dispozițiilor art. 324 alin. (3) din Codul de procedură penală, a art. 56 alin. (3) din Codul de procedură penală și a art. 7 alin. (1) și alin. (6) din Ordonanța de urgență nr. 78 din 16 noiembrie 2016 a Guvernului României",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "960",
+  "bis": false,
+  "date": "2023-10-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.910/1/2023",
+  "8.371/118/2021/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 10
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Constanța - Secția penală și pentru cauze penale cu minori și de familie în Dosarul nr. 8.371/118/2021/a1*, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "1. Aplicarea dispozițiilor art. 324 alin. (3) din Codul de procedură penală - în cauze în care urmărirea penală este obligatoriu a fi efectuată de către procuror - constând în delegarea de către procurorul care efectuează urmărirea penală a efectuării unor acte de urmărire penală către organele de cercetare ale poliției judiciare, este sau nu este condiționată de respectarea dispozițiilor art. 201 din Codul de procedură penală, cu trimitere la dispozițiile art. 200 din Codul de procedură penală ?",
+  "2. În aplicarea dispozițiilor art. 56 alin. (3) din Codul de procedură penală - cu eventuala incidență a dispozițiilor art. 281 alin. (1) lit. b) din Codul de procedură penală, corelate cu Decizia nr. 302/2017 a Curții Constituționale - este sau nu este limitată delegarea efectuării unui act de urmărire penală, de către procurorul ce efectuează în mod obligatoriu urmărirea penală, la ipoteza imposibilității efectuării actului de către acesta sau la un/o anume volum/proporție al/a efectuării actelor de urmărire penală prin delegare?",
+  "3. Dispozițiile art. 7 alin. (1) și alin. (6) din Ordonanța de urgență nr. 78 din 16 noiembrie 2016 a Guvernului României, aprobată prin Legea nr. 120/2018, înlătură efectele dispozițiilor art. 56 alin. (3) din Codul de procedură penală - eventual corelate cu cele ale art. 201 din Codul de procedură penală, cu trimitere la dispozițiile art. 200 din Codul de procedură penală - în sensul că actele de urmărire penală efectuate de către ofițerii și agenții de poliție judiciară detașați la Direcția de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, din dispoziția procurorului, sunt considerate acte de urmărire penală efectuate nemijlocit de către procuror în exercitarea atribuției de efectuare în mod obligatoriu a urmăririi penale, fără alte condiționări în afara efectuării acestora din dispoziția scrisă a procurorului?",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "3",
+      "2",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d",
+      "a"
+     ]
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "b-1"
+     ]
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 141
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "210",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "32",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "217",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "211",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "213",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "218",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    }
+   ],
+   "mentions": 23
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "88-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 120/2005",
+    "number": "120",
+    "year": "2005",
+    "path": "oug/2005/120"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 70/2016",
+    "number": "70",
+    "year": "2016",
+    "path": "oug/2016/70"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 78/2016",
+    "number": "78",
+    "year": "2016",
+    "path": "oug/2016/78"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-10-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275593",
+  "text_sha256": "c4346af1eb2db0698910412a945b6bb91a0f52f2a0a24956dbe4bff2f6284f78",
+  "catalogue_sha256": "c4346af1eb2db0698910412a945b6bb91a0f52f2a0a24956dbe4bff2f6284f78",
+  "fetched": "2026-11-03T01:17:55Z",
+  "chars": 116663,
+  "portal_id": "275593",
+  "tip": "DECIZIE"
+ }
+}
