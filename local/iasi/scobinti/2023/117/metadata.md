@@ -1,0 +1,9 @@
+# HCL Scobinți nr. 117/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Scobinți
+- Decision: nr. 117/2023
+- Adopted: 2023-10-24
+- Title: privind aprobarea înfrățirii Comunei Scobinți cu Comuna Hîrtopu Mare din Republica Moldova și aprobarea Acordului de înfrățire
+- Record: https://emol.ro/scobinti-is/registru-hcl/148822
