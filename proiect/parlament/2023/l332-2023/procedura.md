@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-10-04: adopted by the Chamber of Deputies
 - 2023-10-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-11: sent for promulgation
+- 2023-10-25: promulgated, becomes Legea nr. 294/2023
 
 ## Documents
 
