@@ -1,0 +1,393 @@
+{
+ "key": "iccj-hp-penal-58-2023",
+ "label": "Decizia ÎCCJ nr. 58/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "58",
+ "date": "2023-09-18",
+ "year": "2023",
+ "heading": "DECIZIA nr. 58 din 18 septembrie 2023",
+ "subtitle": "referitoare le termenul general de prescripție pentru infracțiunea de lovire sau alte violențe în modalitatea violenței în familie, prevăzut de art. 193 alin. (2) din Codul penal cu aplicarea art. 199 alin. (1) din Codul penal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "965",
+  "bis": false,
+  "date": "2023-10-25",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.470/1/2023",
+  "2.168/321/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 13
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie în Dosarul nr. 2.168/321/2021, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Termenul general de prescripție pentru infracțiunea de lovire sau alte violențe în modalitatea violenței în familie, prevăzută de art. 193 alin. (2) din Codul penal cu aplicarea art. 199 alin. (1) din Codul penal, ambele norme raportate la art. 187 din Codul penal privind înțelesul noțiunii de pedeapsă prevăzută de lege, este cel arătat de art. 154 alin. (1) lit. c) din Codul penal sau cel indicat de art. 154 alin. (1) lit. d) din Codul penal, respectiv natura juridică a art. 199 alin. (1) din Codul penal este: 1. de infracțiune de sine stătătoare (autonomă); 2. de formă agravată a infracțiunii pe lângă care se aplică (în primele 2 situații termenul general de prescripție fiind astfel de 8 ani) sau 3. de cauză specială de agravare a pedepsei în anumite circumstanțe (în această din urmă situație termenul general de prescripție fiind astfel de 5 ani)“ și stabilește că:",
+  "Incriminarea din art. 199 alin. (1) din Codul penal reprezintă o variantă agravată a infracțiunii de lovire sau alte violențe, prevăzută de art. 193 alin. (2) din Codul penal.",
+  "Termenul general de prescripție pentru infracțiunea de lovire sau alte violențe în modalitatea violenței în familie, prevăzută de art. 193 alin. (2) din Codul penal cu aplicarea art. 199 alin. (1) din Codul penal, este cel arătat de art. 154 alin. (1) lit. c) din Codul penal.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "193",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "199",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "187",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "d"
+     ]
+    },
+    {
+     "art": "153",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "63",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "156",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "308",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "295",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "188",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "189",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "194",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "195",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 176
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "f"
+     ]
+    },
+    {
+     "art": "19",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "275",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "90",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "75",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1349",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1357",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1381",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "oug/2022/71"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-10-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275633",
+  "text_sha256": "5dfc532fe93ed620c45abedbdb85c0a940c8b1e3a09c8ccb8e41390552d71bc1",
+  "catalogue_sha256": "5dfc532fe93ed620c45abedbdb85c0a940c8b1e3a09c8ccb8e41390552d71bc1",
+  "fetched": "2026-11-03T01:17:53Z",
+  "chars": 72647,
+  "portal_id": "275633",
+  "tip": "DECIZIE"
+ }
+}
