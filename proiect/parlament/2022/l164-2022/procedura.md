@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-09: sent for promulgation
 - 2023-10-24: promulgated, becomes Legea nr. 291/2023
+- 2023-10-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-02: Adresă către Camera Deputaților (AM): [am-68420f6e.md](am-68420f6e.md); official file https://www.senat.ro/legis/PDF/2022/22L164AM.PDF
 - 2023-10-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L164AXS.PDF
 - 2023-10-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L164LP.PDF
+- 2023-10-25: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L164SM.PDF (its day is not given by the bill file: shown from the last stage held)
