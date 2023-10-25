@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2023-10-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-10-18: adopted by the Senate; documents published: Aviz comisie, Forma adoptată de Senat
 - 2023-10-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-10-25: sent for promulgation
 
 ## Documents
 
