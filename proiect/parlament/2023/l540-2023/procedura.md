@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-08-24: documents published: Punct de vedere Guvern
 - 2023-08-31: documents published: Aviz comisie
 - 2023-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2023-10-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L540AD.PDF
 - 2023-09-05: Forma inițiatorului (FG): [fg-f056f9df.md](fg-f056f9df.md); official file https://www.senat.ro/legis/PDF/2023/23L540FG.PDF
 - 2023-09-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L540EM.PDF
+- 2023-10-26: Forma adoptată de Senat (FS): [fs-8a20d005.md](fs-8a20d005.md); official file https://www.senat.ro/legis/PDF/2023/23L540FS.PDF
+- 2023-10-26: Adresă către Camera Deputaților (AM): [am-394238a3.md](am-394238a3.md); official file https://www.senat.ro/legis/PDF/2023/23L540AM.PDF
