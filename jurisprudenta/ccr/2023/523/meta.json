@@ -1,0 +1,1279 @@
+{
+ "key": "dcc-523-2023",
+ "label": "Decizia CCR nr. 523/2023",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "523",
+ "date": "2023-10-18",
+ "year": "2023",
+ "heading": "DECIZIA nr. 523 din 18 octombrie 2023",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, în ansamblul său, precum și a dispozițiilor art. III pct. 2 [cu referire la art. 18^1 alin. (1), (5) și (11), art. 18^2 și art. 18^3], pct. 9 [cu referire la art. 60 pct. 5 lit. c)], pct. 10 [cu referire la art. 60 pct. 7 lit. c)], pct. 13 [cu referire la art. 117], pct. 19 [cu referire la art. 138^4], pct. 28 [cu referire la art. 170 alin. (1) și alin. (3) lit. d)], pct. 29 [cu referire la art. 174], pct. 30 [cu referire la art. 174^1 alin. (12)], pct. 45 [cu referire la art. 291 alin. (3^8)], pct. 65 [cu referire la art. 500^3 alin. (1)], art. V alin. (1) și (2), art. VII alin. (1), art. XIV alin. (2) și (5), art. XV alin. (1), art. XVII alin. (3) și (4), alin. (5) lit. c), l) și n), alin. (7) și (8), art. XVIII alin. (2), art. XIX alin. (2) și (3), art. XX alin. (3) și (5), art. XXIII alin. (3), (4) și (5), art. XXVI pct. 1, art. XXVII alin. (3), (4) și (5), art. XXVIII alin. (1), art. XXIX, art. XXXI alin. (1), art. XXXIII, art. XXXIV, art. XXXV, art. XXXVI, art. XXXVII, art. LI alin. (1), art. LIV alin. (1) și (3) și art. LV din lege",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "974",
+  "bis": false,
+  "date": "2023-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.400A/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legii privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, în ansamblul său, precum și a dispozițiilor art. III pct. 2 [cu referire la art. 18^1 alin. (1), (5) și (11), art. 18^2 și art. 18^3], pct. 9 [cu referire la art. 60 pct. 5 lit. c)], p"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de un număr de 59 de deputați și constată că Legea privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, în ansamblul său, precum și dispozițiile art. III pct. 2 [cu referire la art. 18^1 alin. (1), (5) și (11), art. 18^2 și art. 18^3], pct. 9 [cu referire la art. 60 pct. 5 lit. c)], pct. 10 [cu referire la art. 60 pct. 7 lit. c)], pct. 13 [cu referire la art. 117], pct. 19 [cu referire la art. 138^4], pct. 28 [cu referire la art. 170 alin. (1) și alin. (3) lit. d)], pct. 29 [cu referire la art. 174], pct. 30 [cu referire la art. 174^1 alin. (12)], pct. 45 [cu referire la art. 291 alin. (3^8)], pct. 65 [cu referire la art. 500^3 alin. (1)], art. V alin. (1) și (2), art. VII alin. (1), art. XIV alin. (2) și (5), art. XV alin. (1), art. XVII alin. (3) și (4), alin. (5) lit. c), l) și n), alin. (7) și (8), art. XVIII alin. (2), art. XIX alin. (2) și (3), art. XX alin. (3) și (5), art. XXIII alin. (3), (4) și (5), art. XXVI pct. 1, art. XXVII alin. (3), (4) și (5), art. XXVIII alin. (1), art. XXIX, art. XXXI alin. (1), art. XXXIII, art. XXXIV, art. XXXV, art. XXXVI, art. XXXVII, art. LI alin. (1), art. LIV alin. (1) și (3) și art. LV din lege sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXVI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXVIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XXIX",
+     "alin": [
+      "1",
+      "6",
+      "11"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XXXVI",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "LV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XXXVII",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "18-1",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "LIV",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "121",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 177
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1",
+      "4",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b",
+      "e"
+     ]
+    },
+    {
+     "art": "18-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "155",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "68",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "68-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "69",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "170",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "291",
+     "alin": [
+      "3-8",
+      "3-5",
+      "3",
+      "6",
+      "2"
+     ],
+     "lit": [
+      "c",
+      "m"
+     ]
+    },
+    {
+     "art": "117",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "489",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "60",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "157",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "v"
+     ]
+    },
+    {
+     "art": "122",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "120",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "500-3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "500-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "V",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "18-3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 81
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174-1",
+     "alin": [
+      "12"
+     ],
+     "lit": null
+    },
+    {
+     "art": "50",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XIX",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XXVII",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2003",
+    "number": "52",
+    "year": "2003",
+    "path": "lege/2003/52"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2",
+      "13"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 411/2004",
+    "number": "411",
+    "year": "2004",
+    "path": "lege/2004/411"
+   },
+   "articles": [],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 63/2010",
+    "number": "63",
+    "year": "2010",
+    "path": "oug/2010/63"
+   },
+   "articles": [
+    {
+     "art": "XVII",
+     "alin": [
+      "8",
+      "8-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul administrativ",
+    "path": "oug/2019/57",
+    "slug": "codul-administrativ"
+   },
+   "articles": [
+    {
+     "art": "391",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "LV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "x"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "XX",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "619",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "233",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 329/2009",
+    "number": "329",
+    "year": "2009",
+    "path": "lege/2009/329"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 109/2011",
+    "number": "109",
+    "year": "2011",
+    "path": "oug/2011/109"
+   },
+   "articles": [
+    {
+     "art": "XXXIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "a",
+      "d"
+     ]
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul muncii",
+    "path": "lege/2003/53",
+    "slug": "codul-muncii"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/2023",
+    "number": "25",
+    "year": "2023",
+    "path": "lege/2023/25"
+   },
+   "articles": [
+    {
+     "art": "LI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "9"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "XXVI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "XXVII",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 80/2001",
+    "number": "80",
+    "year": "2001",
+    "path": "og/2001/80"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 74/2023",
+    "number": "74",
+    "year": "2023",
+    "path": "oug/2023/74"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 276/2013",
+    "number": "276",
+    "year": "2013",
+    "path": "hg/2013/276"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 2.139/2004",
+    "number": "2139",
+    "year": "2004",
+    "path": "hg/2004/2139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanțelor nr. 1.528/2022",
+    "number": "1528",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului finanțelor nr. 1.525/2022",
+    "number": "1525",
+    "year": "2022"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 16/2022",
+    "number": "16",
+    "year": "2022",
+    "path": "og/2022/16"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "XXVI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 273/2006",
+    "number": "273",
+    "year": "2006",
+    "path": "lege/2006/273"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2023",
+    "number": "187",
+    "year": "2023",
+    "path": "lege/2023/187"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 57/2002",
+    "number": "57",
+    "year": "2002",
+    "path": "og/2002/57"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 114/2018",
+    "number": "114",
+    "year": "2018",
+    "path": "oug/2018/114"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 135/2022",
+    "number": "135",
+    "year": "2022",
+    "path": "lege/2022/135"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2009",
+    "number": "8",
+    "year": "2009",
+    "path": "oug/2009/8"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 131/2021",
+    "number": "131",
+    "year": "2021",
+    "path": "oug/2021/131"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 134/2010",
+    "number": "134",
+    "year": "2010",
+    "path": "lege/2010/134"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contabilității nr. 82/1991",
+    "number": "82",
+    "year": "1991",
+    "path": "lege/1991/82"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 70/2015",
+    "number": "70",
+    "year": "2015",
+    "path": "lege/2015/70"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 120/2021",
+    "number": "120",
+    "year": "2021",
+    "path": "oug/2021/120"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 344/2005",
+    "number": "344",
+    "year": "2005",
+    "path": "lege/2005/344"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 130/2021",
+    "number": "130",
+    "year": "2021",
+    "path": "oug/2021/130"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 139/2022",
+    "number": "139",
+    "year": "2022",
+    "path": "lege/2022/139"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea energiei electrice și a gazelor naturale nr. 123/2012",
+    "number": "123",
+    "year": "2012",
+    "path": "lege/2012/123"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 34/2023",
+    "number": "34",
+    "year": "2023",
+    "path": "oug/2023/34"
+   },
+   "articles": [
+    {
+     "art": "XVII",
+     "alin": [
+      "5"
+     ],
+     "lit": [
+      "c",
+      "l"
+     ]
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 752/2001",
+    "number": "752",
+    "year": "2001",
+    "path": "lege/2001/752"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "i"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275728",
+  "text_sha256": "235307295ca9ca7fabaa39af5173f377d3694bf18da157c4cb5c842dbde22f8a",
+  "catalogue_sha256": "235307295ca9ca7fabaa39af5173f377d3694bf18da157c4cb5c842dbde22f8a",
+  "fetched": "2026-11-03T01:17:41Z",
+  "chars": 461673,
+  "portal_id": "275728",
+  "tip": "DECIZIE"
+ }
+}
