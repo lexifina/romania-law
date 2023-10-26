@@ -1,0 +1,200 @@
+{
+ "key": "iccj-hp-55-2023",
+ "label": "Decizia ÎCCJ nr. 55/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "55",
+ "date": "2023-09-18",
+ "year": "2023",
+ "heading": "DECIZIA nr. 55 din 18 septembrie 2023",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile in ceea ce privește acordul de voință al asociației de proprietari, în baza art. 50 lit. b) din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condomiilor, cu modificările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "971",
+  "bis": false,
+  "date": "2023-10-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.536/1/2023",
+  "1.577/3/2023",
+  "12.041/4/2022",
+  "7.701/4/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă, în Dosarul nr. 1.577/3/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "Dacă acordul de voință al asociației de proprietari, în baza art. 50 lit. b) din Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari și administrarea condominiilor, cu modificările ulterioare, se consideră format în baza tuturor declarațiilor scrise și semnate ale fiecărui proprietar (caz în care este necesară exprimarea în scris a opțiunii fiecărui proprietar) sau este suficientă dovedirea înștiințării fiecărui proprietar cu privire la problemele supuse dezbaterii, fără a mai fi necesară comunicarea declarației scrise a fiecărui proprietar, astfel că acordul de voință al asociației ar fi format în baza unui număr suficient de declarații pentru a asigura votul majorității simple din numărul total al proprietarilor.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 196/2018",
+    "number": "196",
+    "year": "2018",
+    "path": "lege/2018/196"
+   },
+   "articles": [
+    {
+     "art": "50",
+     "alin": null,
+     "lit": [
+      "b",
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "48",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 37
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului dezvoltării regionale și administrației publice nr. 1.058/2019",
+    "number": "1058",
+    "year": "2019"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 1.058/2019",
+    "number": "1058",
+    "year": "2019"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [
+  "subjects: none parsed"
+ ],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-10-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275694",
+  "text_sha256": "f192eef24e158ccc595f89936f8f86a08468efe5bc65b5470ad153826624ee49",
+  "catalogue_sha256": "f192eef24e158ccc595f89936f8f86a08468efe5bc65b5470ad153826624ee49",
+  "fetched": "2026-11-03T01:17:41Z",
+  "chars": 57628,
+  "portal_id": "275694",
+  "tip": "DECIZIE"
+ }
+}
