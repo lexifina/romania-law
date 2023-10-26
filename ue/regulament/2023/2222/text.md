@@ -1,0 +1,27 @@
+REGULAMENTUL DELEGAT (UE) 2023/2222 AL COMISIEI
+din 14 iulie 2023
+de prelungire a perioadei de tranziție prevăzute pentru indicii de referință din țările terțe la articolul 51 alineatul (5) din Regulamentul (UE) 2016/1011 al Parlamentului European și al Consiliului
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/1011 al Parlamentului European și al Consiliului din 8 iunie 2016 privind indicii utilizați ca indici de referință în cadrul instrumentelor financiare și al contractelor financiare sau pentru a măsura performanțele fondurilor de investiții și de modificare a Directivelor 2008/48/CE și 2014/17/UE și a Regulamentului (UE) nr. 596/2014 (1), în special articolul 54 alineatul (7),
+întrucât:
+(1) Regulamentul (UE) 2016/1011 stabilește normele privind utilizarea de către entitățile supravegheate din Uniune a indicilor de referință din țările terțe furnizați de administratorii indicilor de referință din țările terțe („regimul țărilor terțe”). Regulamentul menționat limitează capacitatea entităților supravegheate din Uniune de a utiliza indicii de referință din țările terțe.
+(2) În conformitate cu articolul 51 alineatul (5) din Regulamentul (UE) 2016/1011, utilizarea unui indice de referință dintr-o țară terță de către entitățile supravegheate din Uniune trebuie permisă numai pentru instrumentele financiare, contractele financiare și măsurarea performanței unui fond de investiții care se raportau deja la indicele de referință respectiv sau care adaugă o trimitere la un astfel de indice înainte de data de 31 decembrie 2023, cu excepția cazului în care Comisia a adoptat o decizie de echivalare în sensul articolului 30 alineatul (2) sau (3) din regulamentul respectiv, a cazului în care un administrator a fost recunoscut în temeiul articolului 32 din regulamentul respectiv sau a cazului în care un indice de referință a fost aprobat în temeiul articolului 33 din regulamentul în cauză.
+(3) Pentru a evalua situația și a pregăti raportul prevăzut la articolul 54 alineatul (7) din Regulamentul (UE) 2016/1011, Comisia a solicitat feedback în cadrul unei consultări specifice desfășurate în perioada 20 mai 2022-12 august 2022 cu privire la utilizarea regimului țărilor terțe prevăzut în Regulamentul (UE) 2016/1011 după încheierea perioadei de tranziție prevăzute la articolul 51 alineatul (5) din Regulamentul (UE) 2016/1011. Respondenții au subliniat faptul că este necesară o prelungire a perioadei de tranziție a regimului țărilor terțe în cauză, deoarece, în caz contrar, entitățile supravegheate din Uniune nu ar mai putea utiliza majoritatea indicilor de referință furnizați de administratorii din țări terțe pentru instrumente financiare, contracte financiare și măsurarea performanței unui fond de investiții care nu se raportează încă la acești indici de referință.
+(4) La data de 14 iulie 2023, Comisia a prezentat Parlamentului European și Consiliului un raport privind domeniul de aplicare al Regulamentului (UE) 2016/1011, în special în ceea ce privește utilizarea în continuare de către entitățile supravegheate a indicilor de referință din țările terțe și potențialele deficiențe ale cadrului actual.
+(5) Pe baza raportului respectiv, Comisia a concluzionat că majoritatea administratorilor de indici de referință din țările terțe nu au luat măsurile necesare pentru a se pregăti pentru încheierea la 31 decembrie 2023 a perioadei de tranziție, astfel cum este prevăzută la articolul 51 alineatul (5) din Regulamentul (UE) 2016/2011, și pentru a asigura utilizarea în continuare în Uniune a indicilor lor de referință după această dată. Această lipsă de pregătire ridică semne de întrebare pentru entitățile supravegheate din Uniune care se bazează pe anumiți indici de referință din țările terțe. O perturbare bruscă a accesului entităților supravegheate din Uniune la indicii de referință din țările terțe ar putea reprezenta, de asemenea, o anumită amenințare la adresa stabilității financiare. În plus, începerea aplicării capitolului privind țările terțe ar priva participanții la piață din Uniune de accesul la majoritatea indicilor de referință de la nivel mondial. Din acest motiv, unii dintre participanții la piață din Uniune ar avea un dezavantaj semnificativ în cadrul concurenței la nivel mondial.
+(6) Este oportun să se prelungească cu doi ani perioada de tranziție menționată la articolul 51 alineatul (5) din Regulamentul (UE) 2016/1011, până la 31 decembrie 2025, pentru a le permite entităților supravegheate din Uniune să utilizeze indicii de referință furnizați de un administrator situat într-o țară terță. Această prelungire le va permite întreprinderilor din Uniune să își continue activitățile comerciale.
+(7) Pentru a se asigura faptul că perioada de tranziție existentă este prelungită înainte de expirarea sa, prezentul regulament ar trebui să intre în vigoare în regim de urgență,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Perioada de tranziție prevăzută la articolul 51 alineatul (5) din Regulamentul (UE) 2016/1011 se prelungește până la 31 decembrie 2025.
+Articolul 2
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 14 iulie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 171, 29.6.2016, p. 1.
+ELI: http://data.europa.eu/eli/reg_del/2023/2222/oj
