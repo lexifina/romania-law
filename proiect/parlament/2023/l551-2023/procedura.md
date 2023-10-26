@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2023-09-29: documents published: Forma trimisă la promulgare
 - 2023-10-01: sent for promulgation
 - 2023-10-18: published in the Monitorul Oficial
+- 2023-10-26: promulgated, becomes Legea nr. 296/2023
 
 ## Documents
 
