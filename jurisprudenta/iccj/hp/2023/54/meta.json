@@ -1,0 +1,222 @@
+{
+ "key": "iccj-hp-54-2023",
+ "label": "Decizia ÎCCJ nr. 54/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "54",
+ "date": "2023-09-18",
+ "year": "2023",
+ "heading": "DECIZIA nr. 54 din 18 septembrie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea dispozițiilor art. 27 alin. (2^3) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare, așa cum a fost modificat prin Legea nr. 263/2022",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE",
+ "mo": {
+  "number": "976",
+  "bis": false,
+  "date": "2023-10-27",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.425/1/2023",
+  "18.902/280/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2-3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Argeș - Secția civilă, în Dosarul nr. 18.902/280/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarele chestiuni de drept: În interpretarea și aplicarea dispozițiilor art. 27 alin. (2^3) din Legea fondului funciar nr. 18/1991, republicată, cu modificările și completările ulterioare, așa cum a fost modificat prin Legea nr. 263/2022, prin sintagma „sau cei care au dobândit aceste imobile prin acte translative de proprietate“ se poate înțelege orice subdobânditor, persoană fizică sau juridică, al dreptului de proprietate asupra construcției?",
+  "În interpretarea și aplicarea dispozițiilor art. 27 alin. (2^3) lit. a) din Legea nr. 18/1991, așa cum a fost modificat prin Legea nr. 263/2022, conform cărora „dacă deținătorii sau moștenitorii acestora figurează cu casa de locuit în registrele agricole sau registrele cadastrale ori sunt înscrise în cartea funciară și sunt înregistrate în evidențele fiscale“, este necesar ca la data formulării cererii de constituire a dreptului de proprietate asupra terenului imobilul-construcție să aibă destinația de casă de locuit sau este suficient ca imobilul-construcție să fi avut această destinație la data edificării, respectiv a dobândirii în condițiile Legii nr. 112/1995 pentru reglementarea situației juridice a unor imobile cu destinația de locuințe, trecute în proprietatea statului, cu modificările ulterioare?",
+  "O persoană juridică de drept privat (societate) care a dobândit prin contract de vânzare-cumpărare imobilul-construcție de la persoana care a edificat construcția anterior anului 1990 sau de la persoana care a cumpărat-o potrivit prevederilor Legii nr. 112/1995 ori de la moștenitorii acestora poate beneficia de dispozițiile art. 27 alin. (2^3) din Legea nr. 18/1991, așa cum a fost modificat prin Legea nr. 263/2022, în condițiile în care la data formulării cererii de constituire a dreptului de proprietate asupra terenului construcția reprezintă sediul societății ori aceste dispoziții sunt edictate doar în favoarea persoanelor fizice în considerarea destinației de casă de locuit evidențiată la lit. a) din același text de lege?",
+  "Se poate aprecia că, prin transmiterea dreptului de proprietate asupra casei de locuit către o persoană juridică de drept privat (societate), imobilul-construcție își schimbă destinația în condițiile în care nu reprezintă sediul acesteia la data formulării cererii de constituire a dreptului de proprietate asupra terenului și își păstrează în cadrul societății scopul locativ avut în vedere la data edificării construcției, într-o primă variantă, respectiv nu își păstrează în cadrul societății scopul locativ avut în vedere la data edificării construcției, în varianta a doua?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "27",
+     "alin": [
+      "2-3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2022",
+    "number": "263",
+    "year": "2022",
+    "path": "lege/2022/263"
+   },
+   "articles": [],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 87/2020",
+    "number": "87",
+    "year": "2020",
+    "path": "lege/2020/87"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinței nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-10-27",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275741",
+  "text_sha256": "cdedff6d6c45d25201a6c61d30f7f0adbee78fc7834fccfe1a7d45efb5daaa22",
+  "catalogue_sha256": "cdedff6d6c45d25201a6c61d30f7f0adbee78fc7834fccfe1a7d45efb5daaa22",
+  "fetched": "2026-11-03T01:17:40Z",
+  "chars": 62482,
+  "portal_id": "275741",
+  "tip": "DECIZIE"
+ }
+}
