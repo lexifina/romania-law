@@ -1,0 +1,22 @@
+# Proiect de lege L606/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 97/2024 (`legea-97-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.89/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creşterii excesive a preţurilor la unele produse agricole şi alimentare
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-10-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-10-27: Adresă de înaintare a inițiativei (AD): [ad-a4420a21.md](ad-a4420a21.md); official file https://www.senat.ro/legis/PDF/2023/23L606AD.PDF
+- 2023-10-27: Forma inițiatorului (FG): [fg-dca2788b.md](fg-dca2788b.md); official file https://www.senat.ro/legis/PDF/2023/23L606FG.PDF
+- 2023-10-27: Expunere de motive (EM): [em-500645f1.md](em-500645f1.md); official file https://www.senat.ro/legis/PDF/2023/23L606EM.PDF
+- 2023-10-27: Aviz Consiliul Legislativ (LG): [lg-5cb1a8d3.md](lg-5cb1a8d3.md); official file https://www.senat.ro/legis/PDF/2023/23L606LG.PDF
+- 2023-10-27: Document (OG): [og-78a505df.md](og-78a505df.md); official file https://www.senat.ro/legis/PDF/2023/23L606OG.PDF
+- 2023-10-27: Document (HG): [hg-f455a14f.md](hg-f455a14f.md); official file https://www.senat.ro/legis/PDF/2023/23L606HG.PDF
