@@ -1,0 +1,10 @@
+# HCL Huedin nr. 143/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Huedin
+- Decision: nr. 143/2023
+- Adopted: 2023-10-27
+- Record: https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/
+- Document: https://primariahuedin.ro/wp-content/uploads/2023/08/HCL-nr.-143-27.10.2023-aprobare-introducere-pozitii-noi-in-Inventarul-Domeniului-public-si-privat-al-UAT-oras-Huedin.pdf
+- Document sha256: 3eb6d201e7b52bd39256cfa23ad323537eb9039388e2c0b0316e1ad1be9b4b1e
