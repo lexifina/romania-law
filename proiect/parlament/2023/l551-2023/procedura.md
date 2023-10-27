@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-10-01: sent for promulgation
 - 2023-10-18: published in the Monitorul Oficial
 - 2023-10-26: promulgated, becomes Legea nr. 296/2023
+- 2023-10-27: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Guvernul României.
 - 2023-09-26: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L551LG.PDF
 - 2023-09-26: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L551HG.PDF
 - 2023-09-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L551LP.PDF
+- 2023-10-27: Document (SC): [sc-8cd07df9.md](sc-8cd07df9.md); official file https://www.senat.ro/legis/PDF/2023/23L551SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-27: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L551DC.PDF (its day is not given by the bill file: shown from the last stage held)
