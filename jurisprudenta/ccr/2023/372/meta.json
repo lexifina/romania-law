@@ -1,0 +1,343 @@
+{
+ "key": "dcc-372-2023",
+ "label": "Decizia CCR nr. 372/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "372",
+ "date": "2023-06-29",
+ "year": "2023",
+ "heading": "DECIZIA nr. 372 din 29 iunie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 42 din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "981",
+  "bis": false,
+  "date": "2023-10-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "953/46/2020",
+  "177D/2021",
+  "921/59/2020",
+  "286D/2021",
+  "853/46/2020",
+  "943D/2021",
+  "2.353/40/2020",
+  "1.288D/2021",
+  "1.485D/2021",
+  "129/54/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 135/2020",
+    "number": "135",
+    "year": "2020",
+    "path": "oug/2020/135"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gheorghe Morcoană și Gherghina Vărzescu în dosarele nr. 953/46/2020 și nr. 853/46/2020 ale Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, de Gheorghe Schinteie în Dosarul nr. 921/59/2020 al Curții de Apel Timișoara - Secția contencios administrativ și fiscal, de Niculae Pătruță, de Dorin Dalu, de Eugenia Carmen Pătruță, de Gherghina Buzatu și Ion Buzatu și de Doru Florentin Dumitrașcu în dosarele nr. 23.293/3/2020, nr. 4.395/3/2021, nr. 23.296/3/2020, nr. 8.278/3/2021 și nr. 7.005/3/2022 ale Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, de Paula Liliana Anghel, de Elena Bădescu, de George Mihai, de Florica Anghel și de Marin Gheorghe în dosarele nr. 5.490/109/2020, nr. 5.377/109/2020, nr. 5.373/109/2020, nr. 5.375/109/2020 și nr. 5.453/109/2020 ale Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, de Florin Cimpoi în Dosarul nr. 2.353/40/2020 al Tribunalului Botoșani - Secția I civilă, de Constantin Criveanu și de Florian Belciug și alții în dosarele nr. 1.623/104/2020 și nr. 151/104/2021 ale Tribunalului Olt - Secția I civilă - Complet specializat în conflicte de muncă și asigurări sociale, de Liga Pensionarilor Unirea Satu Mare, din județul Satu Mare, în Dosarul nr. 448/35/CA/2020 al Curții de Apel Oradea - Secția de contencios administrativ și fiscal, de Gheorghe Andrei, de Corina Camelia Răuță, de Gabriela Solomon, de Marina Barbu, de Iorgu Solomon, de Viorel Dumitrache, de Nelu Barbu, de Nicolae Anghel, de Ileana Efrim și alții, de Mihai Bran, de Ion Constantinescu și alții, de Gheorghe Costache și alții, de Victor Constantin Ivan, de Elena Ivan, de Ion Bănuță, de Ileana Bănuță, de Ghiorghie Din, de Gheorghe Băiașu, de Constantin Dodoc, de Ion Simion, de Ion Văcaru, de Ștefan Kercso, de Maria Pipotă și alții, de Mihail Gogoșoiu și alții, de Lola Băiașu și alții, de Constantin Rizea și alții, de Nicolae Tița și alții, de Adrian Bălan, Elena A. Bălan și Elena I. Bălan, de Alexandru Siclitaru, de Maria Siclitaru, de Ion Ghiță și alții, de Marin Bâra și alții, precum și de Ion Fișcăleanu și alții în dosarele nr. 2.418/90/2020, nr. 2.287/90/2020, nr. 2.897/90/2020, nr. 2.895/90/2020, nr. 2.898/90/2020, nr. 2.288/90/2020, nr. 2.896/90/2020, nr. 375/90/2021, nr. 624/90/2021, nr. 525/90/2021, nr. 376/90/2021, nr. 336/90/2021, nr. 256/90/2021, nr. 1.224/90/2021, nr. 1.225/90/2021, nr. 1.226/90/2021, nr. 1.227/90/2021, nr. 1.228/90/2021, nr. 1.229/90/2021, nr. 1.230/90/2021, nr. 1.231/90/2021, nr. 1.232/90/2021, nr. 197/90/2021, nr. 549/90/2021, nr. 621/90/2021, nr. 286/90/2021, nr. 373/90/2021, nr. 562/90/2021, nr. 860/90/2021, nr. 861/90/2021, nr. 2.122/90/2021, nr. 2.463/90/2021 și nr. 1.034/90/2021 ale Tribunalului Vâlcea - Secția I civilă, de Aurel Mititelu și Georgeta Mititelu în Dosarul nr. 129/54/2021 al Curții de Apel Craiova - Secția contencios administrativ și fiscal, de Sindicatul Salariaților din Universitatea Tehnică „Gheorghe Asachi“ Iași - Filiala Seniorilor, din județul Iași, în Dosarul nr. 6.190/99/2020 al Tribunalului Iași - Secția I civilă, de Ion Coltuc în Dosarul nr. 30/87/2021 al Tribunalului Teleorman - Secția de conflicte de muncă, asigurări sociale și contencios administrativ și fiscal - Complet specializat pentru conflicte de muncă și asigurări sociale, de Elena Ghinea în Dosarul nr. 18.563/281/2020 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal, de Vera-Aurelia Neamțu și de Ionel Brezoi și alții în dosarele nr. 1.226/63/2021 și nr. 3.188/63/2021 ale Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, de Costică Grigoraș în Dosarul nr. 532/32/2020 al Curții de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, de Ion Secu în Dosarul nr. 3.059/62/2020 al Curții de Apel Brașov - Secția civilă, de Grigore Socaci în Dosarul nr. 187/62/2021 al Tribunalului Brașov - Secția I civilă, de Cornelia Mititelu și alții, de Marin Mititelu și de Ioana Gavril în Dosarele nr. 22/57/2021, nr. 469/57/2020 și nr. 420/57/2021 ale Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal, de Radu Pralea și de Neculai Istrate în dosarele nr. 1.372/86/2021 și nr. 3.227/86/2021 ale Tribunalului Suceava - Secția I civilă, de Nicolae Mihăilescu în Dosarul nr. 806/30/2021 al Tribunalului Timiș - Secția I civilă, de Cornelia Mialtu în Dosarul nr. 635/93/2021 al Tribunalului Ilfov - Secția civilă, de Olga Preda în Dosarul nr. 26.135/3/2020 (număr în format vechi 4.192/2021) al Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, de Francisc Ianchi, de Constantin Muia și de Maria Muia în dosarele nr. 449/97/2021, nr. 450/97/2021 și nr. 448/97/2021 ale Tribunalului Hunedoara - Secția I civilă, de Cornelia Constanța Albu și alții în Dosarul nr. 482/64/2021 al Curții de Apel Brașov - Secția contencios administrativ și fiscal, de Coloman Olah în Dosarul nr. 448/83/2021 al Tribunalului Satu Mare - Secția I civilă, de Dafin Rotaru în Dosarul nr. 350/121/2021 al Tribunalului Galați - Secția I civilă, de Jănică Păun în Dosarul nr. 606/44/2021 al Curții de Apel Galați - Secția contencios administrativ și fiscal, de Valentin Vlad în Dosarul nr. 48/62/2021* al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și de Costin Vasile și Maria Adochiței în Dosarul nr. 4.230/103/2022 al Tribunalului Neamț - Secția I civilă și de contencios administrativ, și constată că dispozițiile art. 42 din Ordonanța de urgență a Guvernului nr. 135/2020 cu privire la rectificarea bugetului de stat pe anul 2020, modificarea unor acte normative și stabilirea unor măsuri bugetare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Pitești - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Timișoara - Secția contencios administrativ și fiscal, Tribunalului București - Secția a VIII-a conflicte de muncă și asigurări sociale, Tribunalului Argeș - Secția pentru conflicte de muncă și asigurări sociale, Tribunalului Botoșani - Secția I civilă, Tribunalului Olt - Secția I civilă - Complet specializat în conflicte de muncă și asigurări sociale, Curții de Apel Oradea - Secția de contencios administrativ și fiscal, Tribunalului Vâlcea - Secția I civilă, Curții de Apel Craiova - Secția contencios administrativ și fiscal, Tribunalului Iași - Secția I civilă, Tribunalului Teleorman - Secția de conflicte de muncă, asigurări sociale și contencios administrativ și fiscal - Complet specializat pentru conflicte de muncă și asigurări sociale, Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Dolj - Secția conflicte de muncă și asigurări sociale, Curții de Apel Bacău - Secția a II-a civilă, de contencios administrativ și fiscal, Curții de Apel Brașov - Secția civilă, Tribunalului Brașov - Secția I civilă, Curții de Apel Alba Iulia - Secția de contencios administrativ și fiscal, Tribunalului Suceava - Secția I civilă, Tribunalului Timiș - Secția I civilă, Tribunalului Ilfov - Secția civilă, Curții de Apel București - Secția a VII-a pentru cauze privind conflicte de muncă și asigurări sociale, Tribunalului Hunedoara - Secția I civilă, Curții de Apel Brașov - Secția contencios administrativ și fiscal, Tribunalului Satu Mare - Secția I civilă, Tribunalului Galați - Secția I civilă, Curții de Apel Galați - Secția contencios administrativ și fiscal, Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal și Tribunalului Neamț - Secția I civilă și de contencios administrativ și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 135/2020",
+    "number": "135",
+    "year": "2020",
+    "path": "oug/2020/135"
+   },
+   "articles": [
+    {
+     "art": "42",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 77
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6",
+      "5",
+      "1",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "108",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "141",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "111",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 63
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 127/2019",
+    "number": "127",
+    "year": "2019",
+    "path": "lege/2019/127"
+   },
+   "articles": [
+    {
+     "art": "86",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea responsabilității fiscal-bugetare nr. 69/2010",
+    "number": "69",
+    "year": "2010",
+    "path": "lege/2010/69"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 135/2020",
+    "number": "135",
+    "year": "2020",
+    "path": "lege/2020/135"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-10-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275783",
+  "text_sha256": "ba3b6afa78b88275a15dad4e1a48f48589c811379281bbef7a719c3325d24eb5",
+  "catalogue_sha256": "ba3b6afa78b88275a15dad4e1a48f48589c811379281bbef7a719c3325d24eb5",
+  "fetched": "2026-11-03T01:17:34Z",
+  "chars": 107667,
+  "portal_id": "275783",
+  "tip": "DECIZIE"
+ }
+}
