@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-04: adopted by the Chamber of Deputies
 - 2023-10-09: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-14: sent for promulgation
+- 2023-10-31: promulgated, becomes Legea nr. 298/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L749AM.PDF
 - 2023-10-09: Adresă privind sesizarea CCR (AXS): [axs-a212034a.md](axs-a212034a.md); official file https://www.senat.ro/legis/PDF/2022/22L749AXS.PDF
 - 2023-10-09: Forma trimisă la promulgare (LP): [lp-0a802d99.md](lp-0a802d99.md); official file https://www.senat.ro/legis/PDF/2022/22L749LP.PDF
+- 2023-10-31: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L749DP.PDF
+- 2023-10-31: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L749FP.PDF
