@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-03-23: returned for re-examination
 - 2022-04-13: registered at the Chamber of Deputies
 - 2022-06-27: rejected by the Senate
+- 2023-10-31: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,9 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-02: Adresă către Camera Deputaților (AM): [am-7a2876f3.md](am-7a2876f3.md); official file https://www.senat.ro/legis/PDF/2021/21L090AM.PDF
 - 2021-12-13: Adresă privind sesizarea CCR (AXS): [axs-9f37cd95.md](axs-9f37cd95.md); official file https://www.senat.ro/legis/PDF/2021/21L090AXS.PDF
 - 2021-12-13: Forma trimisă la promulgare (LP): [lp-103d4d0e.md](lp-103d4d0e.md); official file https://www.senat.ro/legis/PDF/2021/21L090LP.PDF
+- 2023-10-31: Document (SM): [sm-fc2f059c.md](sm-fc2f059c.md); official file https://www.senat.ro/legis/PDF/2021/21L090SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-31: Document (AA): [aa-c560551f.md](aa-c560551f.md); official file https://www.senat.ro/legis/PDF/2021/21L090AA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-31: Document (SC1): [sc1-1d764e81.md](sc1-1d764e81.md); official file https://www.senat.ro/legis/PDF/2021/21L090SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-31: Document (DC1): [dc1-64ff5817.md](dc1-64ff5817.md); official file https://www.senat.ro/legis/PDF/2021/21L090DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-31: Document (RC1): [rc1-8bfdeb95.md](rc1-8bfdeb95.md); official file https://www.senat.ro/legis/PDF/2021/21L090RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-10-31: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L090XD1.PDF (its day is not given by the bill file: shown from the last stage held)
