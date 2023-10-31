@@ -1,0 +1,1 @@
+Prezenta hotărâre a fost adoptată astăzi, 31.10.2023, cu respectarea prevederilor art 139 alin.3 lit.g) din OUG 57/2019, cu un număr de 11 voturi pentru, 2 voturi împotrivă, 3 voturi abțineri, din totalul de 16 consilieri locali prezenți.
