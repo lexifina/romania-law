@@ -1,0 +1,340 @@
+{
+ "key": "dcc-243-2023",
+ "label": "Decizia CCR nr. 243/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "243",
+ "date": "2023-04-27",
+ "year": "2023",
+ "heading": "DECIZIA nr. 243 din 27 aprilie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. II pct. 2 și ale art. III din Legea nr. 240/2019 privind abrogarea Legii nr. 169/2017 pentru modificarea și completarea Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, precum și pentru modificarea Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "987",
+  "bis": false,
+  "date": "2023-10-31",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "166/89/2020",
+  "337D/2020",
+  "2.006/190/2020/a1",
+  "313/302/2020",
+  "2.456/93/2020",
+  "2.849/302/2021",
+  "1.119/325/2021",
+  "1.162/175/2021/a1",
+  "94/45/2021",
+  "1.936/235/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 240/2019",
+    "number": "240",
+    "year": "2019",
+    "path": "lege/2019/240"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Răzvan-Mihail Bumbu în Dosarul nr. 166/89/2020 al Tribunalului Vaslui - Secția penală, de Onișor Petrică Cârcu în Dosarul nr. 2.006/190/2020/a1 al Tribunalului Bistrița-Năsăud - Secția penală, de Teodor Coman în Dosarul nr. 313/302/2020 al Tribunalului București - Secția I penală, de Sorin Blejnar în Dosarul nr. 2.456/93/2020 al Tribunalului Ilfov - Secția penală, de Loredan George Grecică în Dosarul nr. 2.849/302/2021 al Judecătoriei Sectorului 5 București - Secția I penală, de Vasile Nistor în Dosarul nr. 1.119/325/2021 al Tribunalului Timiș - Secția penală, de Moisin Alen Daniel în Dosarul nr. 1.162/175/2021/a1 al Judecătoriei Aiud, de Ioan Dumitru Mironescu în Dosarul nr. 94/45/2021 al Curții de Apel Iași - Secția penală și pentru cauze cu minori, de Karacsony Andraș în Dosarul nr. 1.936/235/2021 al Tribunalului Cluj - Secția penală și de Kallos Lorand Albert în Dosarul nr. 4.224/111/2021 al Curții de Apel Oradea - Secția penală și pentru cauze cu minori și constată că dispozițiile art. II pct. 2 și ale art. III din Legea nr. 240/2019 privind abrogarea Legii nr. 169/2017 pentru modificarea și completarea Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal, precum și pentru modificarea Legii nr. 254/2013 privind executarea pedepselor și a măsurilor privative de libertate dispuse de organele judiciare în cursul procesului penal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Vaslui - Secția penală, Tribunalului Bistrița-Năsăud - Secția penală, Tribunalului București - Secția I penală, Tribunalului Ilfov - Secția penală, Judecătoriei Sectorului 5 București - Secția I penală, Tribunalului Timiș - Secția penală, Judecătoriei Aiud, Curții de Apel Iași - Secția penală și pentru cauze cu minori, Tribunalului Cluj - Secția penală, Curții de Apel Oradea - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 240/2019",
+    "number": "240",
+    "year": "2019",
+    "path": "lege/2019/240"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/2017",
+    "number": "169",
+    "year": "2017",
+    "path": "lege/2017/169"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 254/2013",
+    "number": "254",
+    "year": "2013",
+    "path": "lege/2013/254"
+   },
+   "articles": [
+    {
+     "art": "55-1",
+     "alin": [
+      "1",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 41
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 19
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 187/2012",
+    "number": "187",
+    "year": "2012",
+    "path": "lege/2012/187"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-10-31",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275837",
+  "text_sha256": "cf7f2252a10b30b6588eeab22e6bd01ffa630ad3b3d61c0a10fed7b3ba6aa7cb",
+  "catalogue_sha256": "cf7f2252a10b30b6588eeab22e6bd01ffa630ad3b3d61c0a10fed7b3ba6aa7cb",
+  "fetched": "2026-11-03T01:17:34Z",
+  "chars": 62424,
+  "portal_id": "275837",
+  "tip": "DECIZIE"
+ }
+}
