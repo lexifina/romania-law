@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-10-24: documents published: Aviz comisie
 - 2023-10-25: documents published: Aviz comisie
 - 2023-10-30: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2023-10-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2023-10-24: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585CA12.PDF
 - 2023-10-25: Aviz comisie (CA1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585CA1.PDF
 - 2023-10-30: Forma adoptată de Senat (FS): [fs-eac11823.md](fs-eac11823.md); official file https://www.senat.ro/legis/PDF/2023/23L585FS.PDF
+- 2023-10-31: Adresă privind sesizarea CCR (AXS): [axs-9162e5dd.md](axs-9162e5dd.md); official file https://www.senat.ro/legis/PDF/2023/23L585AXS.PDF
+- 2023-10-31: Forma trimisă la promulgare (LP): [lp-f75d5123.md](lp-f75d5123.md); official file https://www.senat.ro/legis/PDF/2023/23L585LP.PDF
