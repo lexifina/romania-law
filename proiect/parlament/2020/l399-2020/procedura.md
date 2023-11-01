@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-11: adopted by the Chamber of Deputies
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-18: sent for promulgation
+- 2023-11-01: promulgated, becomes Legea nr. 300/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2020-07-21: Adresă către Camera Deputaților (AM): [am-a45e3ac9.md](am-a45e3ac9.md); official file https://www.senat.ro/legis/PDF/2020/20L399AM.PDF
 - 2023-10-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L399AXS.PDF
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L399LP.PDF
+- 2023-11-01: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L399DP.PDF
+- 2023-11-01: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L399FP.PDF
