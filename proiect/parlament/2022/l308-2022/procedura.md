@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-10-11: adopted by the Chamber of Deputies
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-18: sent for promulgation
+- 2023-11-01: promulgated, becomes Legea nr. 302/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2022-06-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L308AM.PDF
 - 2023-10-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L308AXS.PDF
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L308LP.PDF
+- 2023-11-01: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L308DP.PDF
+- 2023-11-01: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L308FP.PDF
