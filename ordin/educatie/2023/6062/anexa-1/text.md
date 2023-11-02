@@ -1,0 +1,2 @@
+# Anexe nr. 1-3
+ANEXE privind aprobarea planurilor de învățământ și a programelor școlare pentru cultura de specialitate și pregătirea practică din aria curriculară Tehnologii, precum și pentru stagiile de pregătire practică - curriculum în dezvoltare locală (CDL), pentru clasele a IX-a, a X-a și a XI-a învățământ profesional, inclusiv dual, pentru calificarea profesională de nivel 3 a Cadrului național al calificărilor: Electrician sisteme fotovoltaice
