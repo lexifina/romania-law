@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-06-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-30: sent for promulgation
 - 2023-10-03: published in the Monitorul Oficial
+- 2023-11-02: promulgated, becomes Legea nr. 303/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-02-08: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L814AM.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L814AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L814LP.PDF
+- 2023-11-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L814DP.PDF
+- 2023-11-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L814FP.PDF
