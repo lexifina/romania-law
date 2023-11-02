@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-18: sent for promulgation
 - 2023-11-01: promulgated, becomes Legea nr. 301/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-02: published in the Monitorul Oficial
 
 ## Documents
 
