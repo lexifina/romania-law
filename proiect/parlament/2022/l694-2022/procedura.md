@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-18: sent for promulgation
 - 2023-11-02: promulgated, becomes Legea nr. 304/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-03: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L694LP.PDF
 - 2023-11-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L694DP.PDF
 - 2023-11-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L694FP.PDF
+- 2023-11-03: Document (TA): [ta-d829dc46.md](ta-d829dc46.md); official file https://www.senat.ro/legis/PDF/2022/22L694TA.PDF (its day is not given by the bill file: shown from the last stage held)
