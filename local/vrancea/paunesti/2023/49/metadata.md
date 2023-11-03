@@ -1,0 +1,10 @@
+# HCL Păunești nr. 49/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Păunești
+- Decision: nr. 49/2023
+- Adopted: 2023-07-25
+- Published: 2023-11-03
+- Title: privind aprobarea documentaţiei tehnico-economice (faza DALI) și a indicatorilor tehnico-economici, actualizați, pentru obiectivul de investiții „Implementarea unui sistem de supraveghere video stradală în Comuna Păunești, judetul Vrancea,, aprobat pentru finanțare prin PNRR/2022/C10 – Componenta c10 – fondul local
+- Record: https://emol.ro/paunesti-vn/registru-hcl/127729
