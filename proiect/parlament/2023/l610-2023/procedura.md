@@ -1,0 +1,19 @@
+# Proiect de lege L610/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Proiect de lege pentru modificarea și completarea Ordonanței Guvernului nr.26/2000 cu privire la asociaţii şi fundaţii
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-11-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-11-03: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L610AD.PDF
+- 2023-11-03: Forma inițiatorului (FG): [fg-98e512d5.md](fg-98e512d5.md); official file https://www.senat.ro/legis/PDF/2023/23L610FG.PDF
+- 2023-11-03: Expunere de motive (EM): [em-c8bd61e7.md](em-c8bd61e7.md); official file https://www.senat.ro/legis/PDF/2023/23L610EM.PDF
+- 2023-11-03: Aviz Consiliul Legislativ (LG): [lg-4ae43d84.md](lg-4ae43d84.md); official file https://www.senat.ro/legis/PDF/2023/23L610LG.PDF
+- 2023-11-03: Document (HG): [hg-f7c6aff5.md](hg-f7c6aff5.md); official file https://www.senat.ro/legis/PDF/2023/23L610HG.PDF
