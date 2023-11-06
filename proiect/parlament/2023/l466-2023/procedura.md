@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-10-23: adopted by the Chamber of Deputies
 - 2023-10-24: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-30: sent for promulgation
+- 2023-11-06: promulgated, becomes Legea nr. 315/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2023-10-03: Adresă către Camera Deputaților (AM): [am-5cbb17e8.md](am-5cbb17e8.md); official file https://www.senat.ro/legis/PDF/2023/23L466AM.PDF
 - 2023-10-24: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L466AXS.PDF
 - 2023-10-24: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L466LP.PDF
+- 2023-11-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L466DP.PDF
+- 2023-11-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L466FP.PDF
