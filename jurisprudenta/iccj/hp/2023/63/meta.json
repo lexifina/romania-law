@@ -1,0 +1,179 @@
+{
+ "key": "iccj-hp-63-2023",
+ "label": "Decizia ÎCCJ nr. 63/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "63",
+ "date": "2023-10-02",
+ "year": "2023",
+ "heading": "DECIZIA nr. 63 din 2 octombrie 2023",
+ "subtitle": "referitoare la interpretarea sintagmei \"persoana împotriva căreia s-a dispus o măsură prin ordinul de protecție pe durata maximă poate solicita revocarea ordinului sau înlocuirea măsurii dispuse\" din cuprinsul art. 49 alin. (1) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1009",
+  "bis": false,
+  "date": "2023-11-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.714/1/2023",
+  "3.382/278/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Hunedoara - Secția I civilă, în Dosarul nr. 3.382/278/2023, în vederea pronunțării unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept: Dacă sintagma „persoana împotriva căreia s-a dispus o măsură prin ordinul de protecție pe durata maximă poate solicita revocarea ordinului sau înlocuirea măsurii dispuse“ din cuprinsul art. 49 alin. (1) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice, republicată, cu modificările și completările ulterioare, are în vedere numai persoana împotriva căreia s-a dispus emiterea unui ordin de protecție pe durata maximă sau se va interpreta în maniera chiar și o persoană împotriva căreia s-a dispus o măsură de protecție pe o durată maximă poate cere revocarea ordinului de protecție emis împotriva sa;",
+  "Dacă sintagma „persoana împotriva căreia s-a dispus o măsură prin ordinul de protecție pe durata maximă poate solicita revocarea ordinului sau înlocuirea măsurii dispuse“ prevăzută de art. 49 alin. (1) din Legea nr. 217/2003 este imperativă și se alătură celorlalte condiții ce trebuie întrunite cumulativ, așa cum sunt prevăzute în art. 49 alin. (2) din Legea nr. 217/2003;",
+  "Dacă o persoană împotriva căreia s-a dispus o măsură prin ordin de protecție pe o durată sub maximul prevăzut de lege poate solicita revocarea ordinului sau înlocuirea măsurii dispuse;",
+  "Care este termenul pentru exercitarea căii de atac a apelului ce se declară împotriva sentinței civile prin care se dispune admiterea sau respingerea cererii de revocare a ordinului de protecție: 3 zile de la pronunțarea hotărârii sau 30 de zile de la comunicarea hotărârii?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [
+    {
+     "art": "49",
+     "alin": [
+      "1",
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "468",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 25/2012",
+    "number": "25",
+    "year": "2012",
+    "path": "lege/2012/25"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-11-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276069",
+  "text_sha256": "cd7dd7cc2f42574d4684666250bd07fa6396bdbd34df0a14e42ce99d093d172a",
+  "catalogue_sha256": "cd7dd7cc2f42574d4684666250bd07fa6396bdbd34df0a14e42ce99d093d172a",
+  "fetched": "2026-11-03T01:17:24Z",
+  "chars": 79130,
+  "portal_id": "276069",
+  "tip": "DECIZIE"
+ }
+}
