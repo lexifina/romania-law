@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-21: sent for promulgation
 - 2023-10-31: adopted by the Chamber of Deputies
+- 2023-11-06: promulgated, becomes Legea nr. 317/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2022-10-05: Adresă către Camera Deputaților (AM): [am-9a00ad4a.md](am-9a00ad4a.md); official file https://www.senat.ro/legis/PDF/2022/22L530AM.PDF
 - 2023-10-16: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L530AXS.PDF
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L530LP.PDF
+- 2023-11-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L530DP.PDF
+- 2023-11-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L530FP.PDF
