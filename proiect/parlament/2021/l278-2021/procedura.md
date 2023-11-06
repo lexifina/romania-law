@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-10-18: adopted by the Chamber of Deputies
 - 2023-10-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-25: sent for promulgation
+- 2023-11-06: promulgated, becomes Legea nr. 320/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2021-09-22: Adresă către Camera Deputaților (AM): [am-a79a0002.md](am-a79a0002.md); official file https://www.senat.ro/legis/PDF/2021/21L278AM.PDF
 - 2023-10-23: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L278AXS.PDF
 - 2023-10-23: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L278LP.PDF
+- 2023-11-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L278DP.PDF
+- 2023-11-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L278FP.PDF
