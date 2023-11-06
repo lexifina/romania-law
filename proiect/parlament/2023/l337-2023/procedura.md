@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-16: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-18: sent for promulgation
 - 2023-11-03: promulgated, becomes Legea nr. 311/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -32,3 +33,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-16: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L337LP.PDF
 - 2023-11-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L337DP.PDF
 - 2023-11-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L337FP.PDF
+- 2023-11-06: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L337AL.PDF (its day is not given by the bill file: shown from the last stage held)
