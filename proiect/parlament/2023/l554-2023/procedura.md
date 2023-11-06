@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-09-26: adopted by the Chamber of Deputies
 - 2023-09-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-10-10: documents published: Aviz comisie
+- 2023-11-06: adopted by the Senate; documents published: Forma adoptată de Senat
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Guvernul României.
 - 2023-09-28: Aviz Consiliul Legislativ (LG): [lg-528abbe7.md](lg-528abbe7.md); official file https://www.senat.ro/legis/PDF/2023/23L554LG.PDF
 - 2023-09-28: Document (HG): [hg-ee880f49.md](hg-ee880f49.md); official file https://www.senat.ro/legis/PDF/2023/23L554HG.PDF
 - 2023-10-10: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554CA41.PDF
+- 2023-11-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554FS.PDF
