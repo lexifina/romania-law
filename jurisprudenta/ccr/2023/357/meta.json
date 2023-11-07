@@ -1,0 +1,319 @@
+{
+ "key": "dcc-357-2023",
+ "label": "Decizia CCR nr. 357/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "357",
+ "date": "2023-06-27",
+ "year": "2023",
+ "heading": "DECIZIA nr. 357 din 27 iunie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 22 alin. (5^2) din Ordonanța de urgență a Guvernului nr. 144/2008 privind exercitarea profesiei de asistent medical generalist, a profesiei de moașă și a profesiei de asistent medical, precum și organizarea și funcționarea Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1015",
+  "bis": false,
+  "date": "2023-11-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "69/40/2020",
+  "423D/2020",
+  "1.228D/2020",
+  "2.381/40/2019",
+  "517/40/2019",
+  "516/40/2020",
+  "535/40/2020",
+  "2.382/40/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 144/2008",
+    "number": "144",
+    "year": "2008",
+    "path": "oug/2008/144"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5-2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Sindicatul „Sanitas“ din Spitalul Județean de Urgență „Mavromati“ din Botoșani, în numele și în calitate de reprezentant al membrelor Maria Stolniceanu și altele, de Violeta Agache, de Olimpia Spatariu, de Viorica Giocași, de Ștefana Temneanu și de Matilda Ariana Drăgoi în dosarele nr. 69/40/2020, nr. 2.381/40/2019, nr. 517/40/2019, nr. 516/40/2020, nr. 535/40/2020 și nr. 2.382/40/2019 ale Tribunalului Botoșani - Secția I civilă și constată că dispozițiile art. 22 alin. (5^2) din Ordonanța de urgență a Guvernului nr. 144/2008 privind exercitarea profesiei de asistent medical generalist, a profesiei de moașă și a profesiei de asistent medical, precum și organizarea și funcționarea Ordinului Asistenților Medicali Generaliști, Moașelor și Asistenților Medicali din România sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Botoșani - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 144/2008",
+    "number": "144",
+    "year": "2008",
+    "path": "oug/2008/144"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "5-2",
+      "5-1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "164",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "49",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "154",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "25",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 23/2014",
+    "number": "23",
+    "year": "2014",
+    "path": "oug/2014/23"
+   },
+   "articles": [
+    {
+     "art": "III",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 93/2019",
+    "number": "93",
+    "year": "2019",
+    "path": "lege/2019/93"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "p"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "56",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-11-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276125",
+  "text_sha256": "9daee72f64587045a0f6e1dbb698f05c95ee854de8f5cffb596a99616478b1a9",
+  "catalogue_sha256": "9daee72f64587045a0f6e1dbb698f05c95ee854de8f5cffb596a99616478b1a9",
+  "fetched": "2026-11-03T01:17:15Z",
+  "chars": 28648,
+  "portal_id": "276125",
+  "tip": "DECIZIE"
+ }
+}
