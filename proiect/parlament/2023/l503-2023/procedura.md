@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-24: adopted by the Chamber of Deputies
 - 2023-10-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-01: sent for promulgation
+- 2023-11-07: promulgated, becomes Legea nr. 326/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L503AM.PDF
 - 2023-10-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L503AXS.PDF
 - 2023-10-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L503LP.PDF
+- 2023-11-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L503DP.PDF
+- 2023-11-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L503FP.PDF
