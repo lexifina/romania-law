@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-10-21: sent for promulgation
 - 2023-10-31: adopted by the Chamber of Deputies
 - 2023-11-06: promulgated, becomes Legea nr. 317/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-07: published in the Monitorul Oficial
 
 ## Documents
 
