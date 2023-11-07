@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-23: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-10-28: sent for promulgation
 - 2023-11-06: promulgated, becomes Legea nr. 314/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-07: published in the Monitorul Oficial
 
 ## Documents
 
