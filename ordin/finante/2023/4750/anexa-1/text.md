@@ -1,0 +1,3 @@
+# ANEXĂ
+NORME METODOLOGICE privind mecanismul de acordare și derulare a împrumuturilor acordate unităților administrativ-teritoriale conform
+Ordonanței de urgență a Guvernului nr. 92/2023 privind aprobarea unor măsuri fiscal-bugetare, prin acordarea unor împrumuturi din Trezoreria Statului, documentele în baza cărora se acordă împrumutul și cele care stau la baza obținerii avizului Comisiei de autorizare a împrumuturilor locale, precum și modul de reflectare a sumelor respective în bugetele instituțiilor publice locale
