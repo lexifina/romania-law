@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-24: adopted by the Chamber of Deputies
 - 2023-10-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-01: sent for promulgation
+- 2023-11-09: promulgated, becomes Legea nr. 338/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -44,3 +45,5 @@ Initiator: Guvernul României.
 - 2023-06-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322AM.PDF
 - 2023-10-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322AXS.PDF
 - 2023-10-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322LP.PDF
+- 2023-11-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322DP.PDF
+- 2023-11-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L322FP.PDF
