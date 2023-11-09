@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-10-24: adopted by the Chamber of Deputies
 - 2023-10-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-01: sent for promulgation
+- 2023-11-09: promulgated, becomes Legea nr. 335/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2022-05-09: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L203CA45.PDF
 - 2023-10-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L203AXS.PDF
 - 2023-10-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L203LP.PDF
+- 2023-11-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L203DP.PDF
+- 2023-11-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L203FP.PDF
