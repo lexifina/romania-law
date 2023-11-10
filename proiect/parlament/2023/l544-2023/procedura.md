@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-10-30: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-01: sent for promulgation
 - 2023-11-09: promulgated, becomes Legea nr. 337/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-10: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2023-10-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L544LP.PDF
 - 2023-11-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L544DP.PDF
 - 2023-11-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L544FP.PDF
+- 2023-11-10: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L544AL.PDF (its day is not given by the bill file: shown from the last stage held)
