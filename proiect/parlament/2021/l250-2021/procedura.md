@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-07-22: returned for re-examination
 - 2021-12-15: returned for re-examination
 - 2021-12-17: returned for re-examination
+- 2023-11-13: returned for re-examination; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -29,3 +30,8 @@ Initiator: Membri ai Parlamentului.
 - 2021-06-30: Forma adoptată de Senat (FS): [fs-f7943cf7.md](fs-f7943cf7.md); official file https://www.senat.ro/legis/PDF/2021/21L250FS.PDF
 - 2021-06-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L250AXS.PDF
 - 2021-06-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L250LP.PDF
+- 2023-11-13: Document (AL): [al-87f066f8.md](al-87f066f8.md); official file https://www.senat.ro/legis/PDF/2021/21L250AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-13: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L250RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-13: Document (XA): [xa-f2b9b8f1.md](xa-f2b9b8f1.md); official file https://www.senat.ro/legis/PDF/2021/21L250XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-13: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L250CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-13: Document (ARD): [ard-1ff047be.md](ard-1ff047be.md); official file https://www.senat.ro/legis/PDF/2021/21L250ARD.PDF (its day is not given by the bill file: shown from the last stage held)
