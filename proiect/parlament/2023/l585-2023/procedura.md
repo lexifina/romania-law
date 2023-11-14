@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-31: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-02: sent for promulgation
 - 2023-11-10: promulgated, becomes Legea nr. 341/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-11-14: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,7 @@ Initiator: Guvernul României.
 - 2023-10-31: Forma trimisă la promulgare (LP): [lp-f75d5123.md](lp-f75d5123.md); official file https://www.senat.ro/legis/PDF/2023/23L585LP.PDF
 - 2023-11-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585DP.PDF
 - 2023-11-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585FP.PDF
+- 2023-11-14: Document (DR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585DR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-14: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-14: Document (AL): [al-ef6a3dae.md](al-ef6a3dae.md); official file https://www.senat.ro/legis/PDF/2023/23L585AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-14: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L585TC.PDF (its day is not given by the bill file: shown from the last stage held)
