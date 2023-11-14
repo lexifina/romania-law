@@ -1,0 +1,6 @@
+# ANEXĂ (Anexa la Ordinul nr. 3.956/2023)
+DECLARAȚIE
+Subsemnata/Subsemnatul,..........................., cu domiciliul în......................., localitatea.........................., județul..........................., CNP.........................., având funcția de......................... la..............................., în calitate de beneficiar final personal didactic, cunoscând prevederile Ordonanței de urgență a Guvernului nr. 58/2023 privind unele măsuri pentru acordarea unei prime de carieră didactică pentru personalul didactic și didactic auxiliar, precum și unei prime de carieră profesională pentru personalul administrativ din învățământul de stat, suportate din fonduri externe nerambursabile, cu modificările și completările ulterioare, declar pe propria răspundere că un procent de până la 30% din valoarea nominală a primei de carieră didactică a fost cheltuit pentru acoperirea de nevoi didactice individuale specifice.
+Data......................
+Semnătura......................
+-----
