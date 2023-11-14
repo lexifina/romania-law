@@ -12,6 +12,7 @@ Initiator: Guvernul României.
 
 - 2023-11-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-11-13: documents published: Aviz comisie
+- 2023-11-14: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,10 @@ Initiator: Guvernul României.
 - 2023-11-13: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA12.PDF
 - 2023-11-13: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA53.PDF
 - 2023-11-13: Aviz comisie (CA58): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA58.PDF
+- 2023-11-14: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA41.PDF
+- 2023-11-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA45.PDF
+- 2023-11-14: Aviz comisie (CA52): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA52.PDF
+- 2023-11-14: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L628CA56.PDF
+- 2023-11-14: Raport comisie sesizată pe fond (CR): [cr-19b3ffe4.md](cr-19b3ffe4.md); official file https://www.senat.ro/legis/PDF/2023/23L628CR.PDF
+- 2023-11-14: Forma adoptată de Senat (FS): [fs-712120d7.md](fs-712120d7.md); official file https://www.senat.ro/legis/PDF/2023/23L628FS.PDF
+- 2023-11-14: Adresă către Camera Deputaților (AM): [am-011fc6fd.md](am-011fc6fd.md); official file https://www.senat.ro/legis/PDF/2023/23L628AM.PDF
