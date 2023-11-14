@@ -1,0 +1,17 @@
+# Propunere legislativă L749/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.469 din Legea nr.227/2015 privind Codul fiscal, publicată în Monitorul Oficial nr.688 din 10 septembrie 2015
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-11-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-11-14: Adresă de înaintare a inițiativei (AD): [ad-8da766d2.md](ad-8da766d2.md); official file https://www.senat.ro/legis/PDF/2023/23L749AD.PDF
+- 2023-11-14: Forma inițiatorului (FG): [fg-32f66287.md](fg-32f66287.md); official file https://www.senat.ro/legis/PDF/2023/23L749FG.PDF
+- 2023-11-14: Expunere de motive (EM): [em-7d963f17.md](em-7d963f17.md); official file https://www.senat.ro/legis/PDF/2023/23L749EM.PDF
