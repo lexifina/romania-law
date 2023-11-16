@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-10-16: documents published: Aviz comisie
 - 2023-11-13: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-11-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-11-16: sent for promulgation
 
 ## Documents
 
