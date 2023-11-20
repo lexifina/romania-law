@@ -1,0 +1,22 @@
+# Proiect de lege L673/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 65/2024 (`legea-65-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.102/2023 pentru completarea art.21 din Legea nr.156/2023 privind organizarea activităţii de prevenire a separării copilului de familie
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-11-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-11-20: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673AD.PDF
+- 2023-11-20: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673FG.PDF
+- 2023-11-20: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673EM.PDF
+- 2023-11-20: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673LG.PDF
+- 2023-11-20: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673OG.PDF
+- 2023-11-20: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673HG.PDF
