@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-06-28: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-06-30: sent for promulgation
 - 2023-11-16: returned for re-examination
+- 2023-11-20: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2021-09-27: Adresă către Camera Deputaților (AM): [am-66499882.md](am-66499882.md); official file https://www.senat.ro/legis/PDF/2021/21L229AM.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L229AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L229LP.PDF
+- 2023-11-20: Document (SC1): [sc1-91b3887d.md](sc1-91b3887d.md); official file https://www.senat.ro/legis/PDF/2021/21L229SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (DC1): [dc1-d001635d.md](dc1-d001635d.md); official file https://www.senat.ro/legis/PDF/2021/21L229DC1.PDF (its day is not given by the bill file: shown from the last stage held)
