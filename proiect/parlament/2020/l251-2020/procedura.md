@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2021-02-15: adopted by the Senate
 - 2021-02-17: sent for promulgation
 - 2021-03-24: published in the Monitorul Oficial
+- 2023-11-20: documents published: Punct de vedere Guvern (day not given by the bill file), Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,17 @@ Initiator: Guvernul României.
 - 2020-05-07: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251CA49.PDF
 - 2020-06-15: Adresă privind sesizarea CCR (AXS): [axs-7b57367a.md](axs-7b57367a.md); official file https://www.senat.ro/legis/PDF/2020/20L251AXS.PDF
 - 2020-06-15: Forma trimisă la promulgare (LP): [lp-0fdf0079.md](lp-0fdf0079.md); official file https://www.senat.ro/legis/PDF/2020/20L251LP.PDF
+- 2023-11-20: Punct de vedere Guvern (SJ): [sj-a692dd48.md](sj-a692dd48.md); official file https://www.senat.ro/legis/PDF/2020/20L251SJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (AJ): [aj-10719d79.md](aj-10719d79.md); official file https://www.senat.ro/legis/PDF/2020/20L251AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (AT): [at-3d87c347.md](at-3d87c347.md); official file https://www.senat.ro/legis/PDF/2020/20L251AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (SC1): [sc1-3a841bd8.md](sc1-3a841bd8.md); official file https://www.senat.ro/legis/PDF/2020/20L251SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (RX1): [rx1-7c95c131.md](rx1-7c95c131.md); official file https://www.senat.ro/legis/PDF/2020/20L251RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (XA1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L251XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (CX1): [cx1-780a6237.md](cx1-780a6237.md); official file https://www.senat.ro/legis/PDF/2020/20L251CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (SX1): [sx1-5c875b0b.md](sx1-5c875b0b.md); official file https://www.senat.ro/legis/PDF/2020/20L251SX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (XXS1): [xxs1-7e9682bf.md](xxs1-7e9682bf.md); official file https://www.senat.ro/legis/PDF/2020/20L251XXS1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (PX1): [px1-ba6a1e86.md](px1-ba6a1e86.md); official file https://www.senat.ro/legis/PDF/2020/20L251PX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (SC2): [sc2-83e083dc.md](sc2-83e083dc.md); official file https://www.senat.ro/legis/PDF/2020/20L251SC2.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-20: Document (DC2): [dc2-d3bbca29.md](dc2-d3bbca29.md); official file https://www.senat.ro/legis/PDF/2020/20L251DC2.PDF (its day is not given by the bill file: shown from the last stage held)
