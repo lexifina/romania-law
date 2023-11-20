@@ -1,0 +1,384 @@
+{
+ "key": "iccj-hp-penal-64-2023",
+ "label": "Decizia ÎCCJ nr. 64/2023 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "64",
+ "date": "2023-10-02",
+ "year": "2023",
+ "heading": "DECIZIA nr. 64 din 2 octombrie 2023",
+ "subtitle": "referitoare la pronunțarea unei hotărâri prealabile privind punerea la dispoziție a infrastructurii necesare, conform art. 142 din Codul de procedură penală, respectiv procedura prevăzută de art. 148 alin. (3) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "1047",
+  "bis": false,
+  "date": "2023-11-20",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.796/1/2023",
+  "3.556/103/2022/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel Bacău - Secția penală și pentru cauze cu minori și de familie în Dosarul nr. 3.556/103/2022/a1, prin care se solicită pronunțarea unei hotărâri prealabile pentru dezlegarea următoarelor chestiuni de drept:",
+  "Dacă punerea la dispoziție a infrastructurii necesare, de către Centrul Național de Interceptare a Comunicațiilor din cadrul Serviciului Român de Informații, în sensul asigurării condițiilor tehnice pentru punerea în aplicare a măsurilor de supraveghere tehnică, reprezintă o activitate de punere în executare a mandatului de supraveghere tehnică, conform art. 142 din Codul de procedură penală ?“, respectiv",
+  "Dacă în procedura prevăzută de articolul 148 alin. (3) din Codul de procedură penală, precum și de articolul 150 alin. (5) din Codul de procedură penală, sesizarea judecătorului de drepturi și libertăți în vederea emiterii mandatului de supraveghere tehnică este obligatorie în cazul în care procurorul apreciază că este necesar ca investigatorul să poată folosi dispozitive tehnice de înregistrare, aceste dispoziții legale instituind o procedură specială derogatorie de la dispozițiile art. 139 din Codul de procedură penală, în cauză existând un mandat de supraveghere tehnică, emis anterior în temeiul acestor din urmă dispoziții“, și stabilește următoarele:",
+  "1. Punerea la dispoziție a infrastructurii necesare, de către Centrul Național de Interceptare a Comunicațiilor din cadrul Serviciului Român de Informații, în sensul asigurării condițiilor tehnice pentru punerea în aplicare a măsurilor de supraveghere tehnică, nu reprezintă o activitate de punere în executare a mandatului de supraveghere tehnică, conform art. 142 din Codul de procedură penală.",
+  "2. În procedura prevăzută de articolul 148 alin. (3) din Codul de procedură penală, precum și de articolul 150 alin. (5) din Codul de procedură penală, sesizarea judecătorului de drepturi și libertăți în vederea emiterii mandatului de supraveghere tehnică este obligatorie în cazul în care procurorul apreciază că este necesar ca investigatorul să poată folosi dispozitive tehnice de înregistrare, chiar dacă există un mandat de supraveghere tehnică de aceeași natură emis anterior, aceste dispoziții legale instituind o procedură specială, derogatorie de la prevederile art. 139 din Codul de procedură penală.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "148",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "150",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "139",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1",
+      "2",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b-1"
+     ]
+    },
+    {
+     "art": "138",
+     "alin": [
+      "1",
+      "13"
+     ],
+     "lit": [
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "55",
+     "alin": [
+      "1",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "140",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "141",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 125
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 14/1992",
+    "number": "14",
+    "year": "1992",
+    "path": "lege/1992/14"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru aprobarea Ordonanței de urgență a Guvernului nr. 6/2016",
+    "number": "6",
+    "year": "2016",
+    "path": "lege/2016/6"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 6/2016",
+    "number": "6",
+    "year": "2016",
+    "path": "oug/2016/6"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 51/1991",
+    "number": "51",
+    "year": "1991",
+    "path": "lege/1991/51"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 304/2004",
+    "number": "304",
+    "year": "2004",
+    "path": "lege/2004/304"
+   },
+   "articles": [
+    {
+     "art": "IV",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "30-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "124",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "131",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "132",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-11-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276458",
+  "text_sha256": "fdc12cc7c497df8e1ab4eb9d0e723baf277e45efafe2de17115bdb3635fef0d2",
+  "catalogue_sha256": "fdc12cc7c497df8e1ab4eb9d0e723baf277e45efafe2de17115bdb3635fef0d2",
+  "fetched": "2026-11-03T01:16:55Z",
+  "chars": 138298,
+  "portal_id": "276458",
+  "tip": "DECIZIE"
+ }
+}
