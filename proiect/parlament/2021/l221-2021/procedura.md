@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-09-20: sent for promulgation
 - 2023-10-10: returned for re-examination
 - 2023-11-20: adopted by the Senate
+- 2023-11-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,9 @@ Initiator: Guvernul României.
 - 2021-09-04: Adresă către Camera Deputaților (AM): [am-c476f991.md](am-c476f991.md); official file https://www.senat.ro/legis/PDF/2021/21L221AM.PDF
 - 2023-09-18: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221AXS.PDF
 - 2023-09-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221LP.PDF
+- 2023-11-22: Document (TA): [ta-7782cdd7.md](ta-7782cdd7.md); official file https://www.senat.ro/legis/PDF/2021/21L221TA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-22: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-22: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-22: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-22: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-11-22: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L221SX.PDF (its day is not given by the bill file: shown from the last stage held)
