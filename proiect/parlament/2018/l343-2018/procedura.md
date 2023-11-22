@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-19: documents published: Raport comisie sesizată pe fond
 - 2018-11-07: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2018-11-12: registered at the Chamber of Deputies
+- 2023-11-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Membri ai Parlamentului.
 - 2018-09-19: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L343CR.PDF
 - 2018-11-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L343FS.PDF
 - 2018-11-07: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L343AM.PDF
+- 2023-11-22: Document (AT): [at-cbfda607.md](at-cbfda607.md); official file https://www.senat.ro/legis/PDF/2018/18L343AT.PDF (its day is not given by the bill file: shown from the last stage held)
