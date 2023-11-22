@@ -1,0 +1,9 @@
+# HCL Erbiceni nr. 121/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Erbiceni
+- Decision: nr. 121/2023
+- Adopted: 2023-11-22
+- Title: privind aprobare participare proiect Biblio HUb
+- Record: https://emol.ro/erbiceni-is/registru-hcl/140693
