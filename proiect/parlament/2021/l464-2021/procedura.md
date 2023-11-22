@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-04: documents published: Aviz comisie
 - 2021-12-08: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2021-12-15: registered at the Chamber of Deputies
+- 2023-11-22: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2021-11-04: Aviz comisie (CA49): [ca49-852c6f87.md](ca49-852c6f87.md); official file https://www.senat.ro/legis/PDF/2021/21L464CA49.PDF
 - 2021-12-08: Forma adoptată de Senat (FS): [fs-4e1354f4.md](fs-4e1354f4.md); official file https://www.senat.ro/legis/PDF/2021/21L464FS.PDF
 - 2021-12-08: Adresă către Camera Deputaților (AM): [am-fdd1c2b2.md](am-fdd1c2b2.md); official file https://www.senat.ro/legis/PDF/2021/21L464AM.PDF
+- 2023-11-22: Document (AT): [at-d708b6fc.md](at-d708b6fc.md); official file https://www.senat.ro/legis/PDF/2021/21L464AT.PDF (its day is not given by the bill file: shown from the last stage held)
