@@ -1,0 +1,46 @@
+# Anexa nr. 7 (Antet operator economic) (Nr. de înregistrare)
+Solicitare de școlarizare în învățământul preuniversitar dual pentru anul școlar 2024-2025
+1.
+Date privind operatorul economic 1.1.
+Denumirea operatorului economic:...............
+1.2.
+CIF/CUI:...............
+1.3.
+Adresa:...................
+1.4.
+Date de contact: Telefon:.......... Fax:..........
+E-mail:.........
+Pagina web:.............
+1.5.
+Persoana de contact: Numele și prenumele:................
+Funcția:..............
+Date de contact: Telefon:.......... Fax:.............
+E-mail:............
+2.
+Solicitarea de școlarizare Solicităm includerea următoarelor calificări în planul de școlarizare pentru învățământul dual în anul școlar 2024-2025:
+Calificarea profesională solicitată*1)
+Nivelul de învățământ
+Numărul de locuri solicitate
+Preuniversitar - dual
+Preuniversitar - dual
+Preuniversitar - dual
+*1) Se completează calificarea conform denumirii din Registrul național al calificărilor profesionale (RNCP) disponibil pe pagina de internet a Autorității Naționale pentru Calificări (ANC).
+3.
+Precizări privind unitatea/unitățile administrativ-teritorială/administrativ-teritoriale pe raza căreia/cărora se solicită școlarizare și preferințe privind unitatea de învățământ pentru încheierea contractului de parteneriat
+Județul
+Localitatea
+Unitatea de învățământ parteneră preferată*2)
+*2) Indicarea preferinței pentru o unitate de învățământ este opțională. În cazul în care solicitarea de școlarizare include mai multe unități de învățământ, alături de denumirea acestora se menționează și calificarea profesională vizată la fiecare dintre acestea. Alocarea pe unități de învățământ a cifrei de școlarizare în învățământul preuniversitar dual se va realiza ținând cont de preferințele operatorilor economici și în funcție de posibilitățile de constituire a formațiunilor de studii, cu respectarea reglementărilor legale în vigoare referitoare la efectivele minime și maxime de elevi.
+Menționăm că vom asigura pregătirea practică a elevilor în cadrul unității noastre, în conformitate cu standardele de pregătire profesională în vigoare.
+Menționăm că vom acorda pentru fiecare elev, conform numărului de locuri solicitate, bursă la nivelul celei acordate din fonduri publice pentru învățământul profesional de stat.
+Menționăm că vom angaja cheltuieli pentru formarea de calitate a elevilor, cheltuieli care vor fi negociate și detaliate în contractul de parteneriat pe care îl vom încheia cu unitatea de învățământ și unitatea administrativ-teritorială pe raza căreia se află unitatea școlară la care vor fi alocate locurile aprobate pentru școlarizare în învățământul profesional dual.
+4.
+Acord cu privire la utilizarea datelor cu caracter personal Prin semnarea acestui document ne exprimăm acordul pentru utilizarea datelor cu caracter personal din conținutul prezentului document pentru a fi utilizat în următoarele scopuri: - procesul de analiză și aprobare a planului de școlarizare de către instituțiile implicate: inspectoratul școlar, unitățile de învățământ, autoritățile locale, Ministerul Educației și Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic;
+- acțiuni de consultare inițiate de Ministerul Educației, Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic și alte instituții partenere cu privire la politici, programe, propuneri legislative, strategii, documente de planificare strategică a ofertei de educație și formare profesională;
+- anchete în rândul operatorilor economici cu privire anticiparea nevoilor de calificări și competențe pe piața muncii, în scopul adaptării ofertei de educație și formare profesională la nevoile identificate, derulate de Ministerul Educației, Centrul Național de Dezvoltare a Învățământului Profesional și Tehnic și alte instituții partenere pentru implementarea mecanismelor: de anticipare a nevoilor de calificări și competențe, de monitorizare a inserției profesionale a absolvenților, de evaluare și monitorizare a politicilor publice privind măsurile active și formarea profesională.
+Data:......................
+Reprezentant legal,
+Funcția..................................
+Numele și prenumele..........................
+Semnătură [ștampilă]...........................
+--------
