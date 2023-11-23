@@ -11,7 +11,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-11-22: first record in the bill file
+- 2023-11-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2023-11-23: Adresă de înaintare a inițiativei (AD): [ad-69580aca.md](ad-69580aca.md); official file https://www.senat.ro/legis/PDF/2023/23L764AD.PDF
+- 2023-11-23: Forma inițiatorului (FG): [fg-25174e3c.md](fg-25174e3c.md); official file https://www.senat.ro/legis/PDF/2023/23L764FG.PDF
+- 2023-11-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L764EM.PDF
