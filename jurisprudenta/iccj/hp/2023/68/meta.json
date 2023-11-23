@@ -1,0 +1,206 @@
+{
+ "key": "iccj-hp-68-2023",
+ "label": "Decizia ÎCCJ nr. 68/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "68",
+ "date": "2023-10-09",
+ "year": "2023",
+ "heading": "DECIZIA nr. 68 din 9 octombrie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 3^1 alin. (3) din Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1060",
+  "bis": false,
+  "date": "2023-11-23",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.649/1/2023",
+  "8.923/118/2022",
+  "1.688/1/2023",
+  "8.890/118/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizările formulate de Tribunalul Constanța - Secția de contencios administrativ și fiscal, prin Încheierea din 31 mai 2023, pronunțată în Dosarul nr. 8.923/118/2022, și prin Încheierea din 31 mai 2023, pronunțată în Dosarul nr. 8.890/118/2022, și, în consecință, stabilește că: În interpretarea dispozițiilor art. 3^1 alin. (3) din Ordonanța Guvernului nr. 105/1999 privind acordarea unor drepturi persoanelor persecutate de către regimurile instaurate în România cu începere de la 6 septembrie 1940 până la 6 martie 1945 din motive etnice, republicată, cu modificările și completările ulterioare, de aceste prevederi pot beneficia numai copiii persoanelor care erau născute sau cel puțin concepute la data determinată a refugiului, expulzării sau strămutării în altă localitate, evenimente prevăzute de art. 1 alin. (1) lit. c) din ordonanță.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 105/1999",
+    "number": "105",
+    "year": "1999",
+    "path": "og/1999/105"
+   },
+   "articles": [
+    {
+     "art": "3-1",
+     "alin": [
+      "3",
+      "1",
+      "6",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c",
+      "a"
+     ]
+    }
+   ],
+   "mentions": 97
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 154/2021",
+    "number": "154",
+    "year": "2021",
+    "path": "lege/2021/154"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 189/2000",
+    "number": "189",
+    "year": "2000",
+    "path": "lege/2000/189"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 210/2022",
+    "number": "210",
+    "year": "2022",
+    "path": "lege/2022/210"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": [
+      "d"
+     ]
+    },
+    {
+     "art": "4",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 168/2022",
+    "number": "168",
+    "year": "2022",
+    "path": "oug/2022/168"
+   },
+   "articles": [
+    {
+     "art": "XXI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-11-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276566",
+  "text_sha256": "f91187eea690ea7e09c882624939146cb7ffef8c79b49c0d455c4ce0e7501d01",
+  "catalogue_sha256": "f91187eea690ea7e09c882624939146cb7ffef8c79b49c0d455c4ce0e7501d01",
+  "fetched": "2026-11-03T01:16:49Z",
+  "chars": 76082,
+  "portal_id": "276566",
+  "tip": "DECIZIE"
+ }
+}
