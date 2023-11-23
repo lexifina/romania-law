@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-11-14: adopted by the Senate; documents published: Aviz comisie, Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-11-15: registered at the Chamber of Deputies
 - 2023-11-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-11-23: sent for promulgation
 
 ## Documents
 
