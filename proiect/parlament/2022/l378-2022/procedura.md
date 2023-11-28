@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-11-08: adopted by the Chamber of Deputies
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-15: sent for promulgation
+- 2023-11-28: promulgated, becomes Legea nr. 357/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2022-09-06: Adresă către Camera Deputaților (AM): [am-f6bd850c.md](am-f6bd850c.md); official file https://www.senat.ro/legis/PDF/2022/22L378AM.PDF
 - 2023-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378AXS.PDF
 - 2023-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378LP.PDF
+- 2023-11-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378DP.PDF
+- 2023-11-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L378FP.PDF
