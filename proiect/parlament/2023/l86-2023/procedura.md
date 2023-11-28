@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-11-08: adopted by the Chamber of Deputies
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-15: sent for promulgation
+- 2023-11-28: promulgated, becomes Legea nr. 356/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2023-03-10: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L086AM.PDF
 - 2023-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L086AXS.PDF
 - 2023-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L086LP.PDF
+- 2023-11-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L086DP.PDF
+- 2023-11-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L086FP.PDF
