@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-11-06: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-11-08: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-10: sent for promulgation
+- 2023-11-28: promulgated, becomes Legea nr. 349/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2023-11-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554FS.PDF
 - 2023-11-08: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554AXS.PDF
 - 2023-11-08: Forma trimisă la promulgare (LP): [lp-7234a9a7.md](lp-7234a9a7.md); official file https://www.senat.ro/legis/PDF/2023/23L554LP.PDF
+- 2023-11-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554DP.PDF
+- 2023-11-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L554FP.PDF
