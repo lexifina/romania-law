@@ -1,0 +1,320 @@
+{
+ "key": "iccj-hp-67-2023",
+ "label": "Decizia ÎCCJ nr. 67/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "67",
+ "date": "2023-10-09",
+ "year": "2023",
+ "heading": "DECIZIA nr. 67 din 9 octombrie 2023",
+ "subtitle": "referitoare la aplicarea prevederilor art. 22 din Tratatul dintre România și Republica Moldova privind asistența juridică în materie civilă și penală, semnat la Chișinău la 6 iulie 1996, ratificat prin Legea nr. 177/1997, coroborate cu dispozițiile art. 1 lit. a) și b) și cu cele ale art. 2 paragraful 2 din același tratat",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1072",
+  "bis": false,
+  "date": "2023-11-28",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.618/1/2023",
+  "7.156/3/2021",
+  "7.156/3/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/1997",
+    "number": "177",
+    "year": "1997",
+    "path": "lege/1997/177"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 334/1958",
+    "number": "334",
+    "year": "1958",
+    "path": "decret/1958/334"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, prin Încheierea din 19 ianuarie 2023 pronunțată în Dosarul nr. 7.156/3/2021, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: Prevederile art. 22 din Tratatul dintre România și Republica Moldova privind asistența juridică în materie civilă și penală, semnat la Chișinău la 6 iulie 1996, ratificat prin Legea nr. 177/1997, coroborate cu dispozițiile art. 1 lit. a) și b) și cu cele ale art. 2 paragraful 2 din același tratat, nu sunt aplicabile cu ocazia soluționării cererii de redobândire a cetățeniei române de către Comisia pentru cetățenie din cadrul Autorității Naționale pentru Cetățenie.",
+  "Prevederile art. 12 din Tratatul dintre Republica Populară Română și Uniunea Republicilor Sovietice Socialiste privind acordarea asistenței juridice în cauzele civile, familiale și penale, ratificat prin Decretul nr. 334/1958, publicat în Buletinul Oficial nr. 30 din 4 august 1958, coroborate cu cele ale art. 1 pct. 2 din același tratat, nu sunt aplicabile cu ocazia soluționării cererii de redobândire a cetățeniei române de către Comisia pentru Cetățenie din cadrul Autorității Naționale pentru Cetățenie.",
+  "Obligatorie, potrivit art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 177/1997",
+    "number": "177",
+    "year": "1997",
+    "path": "lege/1997/177"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 82/2021",
+    "number": "82",
+    "year": "2021",
+    "path": "oug/2021/82"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretul nr. 334/1958",
+    "number": "334",
+    "year": "1958",
+    "path": "decret/1958/334"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 66/1999",
+    "number": "66",
+    "year": "1999",
+    "path": "og/1999/66"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 590/2003",
+    "number": "590",
+    "year": "2003",
+    "path": "lege/2003/590"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 21/1991",
+    "number": "21",
+    "year": "1991",
+    "path": "lege/1991/21"
+   },
+   "articles": [
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-11-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276679",
+  "text_sha256": "0fe642714c70a07876e80ae6ec9b118876b626a61d8787c719fd1edc0ddf19cc",
+  "catalogue_sha256": "0fe642714c70a07876e80ae6ec9b118876b626a61d8787c719fd1edc0ddf19cc",
+  "fetched": "2026-11-03T01:16:37Z",
+  "chars": 69797,
+  "portal_id": "276679",
+  "tip": "DECIZIE"
+ }
+}
