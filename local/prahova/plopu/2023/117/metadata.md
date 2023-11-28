@@ -1,0 +1,9 @@
+# HCL Plopu nr. 117/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Plopu
+- Decision: nr. 117/2023
+- Adopted: 2023-11-28
+- Title: privind APROBAREA DOCUMENTATIEI DE ATRIBUIRE PRIVIND ECHIPAMENTELE CUPRINSE IN LOTUL 1 SI LOTUL 2 PENTRU „FURNIZARE ECHIPAMENTE INFORMATICE PENTRU MODERNIZAREA INFRASTRUCTURII HARDWARE LA NIVELUL PRIMARIEI UAT COMUNA PLOPU, JUDETUL PRAHOVA” SI „FURNIZARE SISTEM AERIAN FARA PILOT LA BORD” PENTRU IMPLEMENTAREA PROIECTULUI „SISTEM INTELIGENT DE MANAGEMENT LOCAL IN COMUNA PLOPU, JUDETUL PRAHOVA”
+- Record: https://emol.ro/plopu-ph/registru-hcl/131485
