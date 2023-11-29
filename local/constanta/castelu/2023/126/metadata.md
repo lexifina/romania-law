@@ -1,0 +1,9 @@
+# HCL Castelu nr. 126/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Castelu
+- Decision: nr. 126/2023
+- Adopted: 2023-11-29
+- Title: PRIVIND APROBAREA DOCUMENTAȚIEI DE AVIZARE A LUCRĂRILOR DE INTERVENȚII, A INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI ȘI A DEVIZULUI GENERAL ACTUALIZAT PENTRU OBIECTIVUL DE INVESTIȚII „ASFALTARE DRUMURI DE PĂMÂNT ÎN LOCALITĂȚILE CASTELU ȘI NISIPARI, JUDEȚUL CONSTANȚA – ETAPA I”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTÂND CATEGORIILE DE CHELTUIELI FINANȚATE DE LA BUGETUL LOCAL PENTRU REALIZAREA OBIECTIVULUI
+- Record: https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#64877
