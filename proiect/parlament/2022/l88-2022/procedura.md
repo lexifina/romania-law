@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-17: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2022-04-06: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2022-04-13: registered at the Chamber of Deputies
+- 2023-11-29: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-01-17: Aviz Consiliul Economic și Social (ES): [es-c402a1b0.md](es-c402a1b0.md); official file https://www.senat.ro/legis/PDF/2022/22L088ES.PDF
 - 2022-04-06: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L088FS.PDF
 - 2022-04-06: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L088AM.PDF
+- 2023-11-29: Document (SM): [sm-37767ef7.md](sm-37767ef7.md); official file https://www.senat.ro/legis/PDF/2022/22L088SM.PDF (its day is not given by the bill file: shown from the last stage held)
