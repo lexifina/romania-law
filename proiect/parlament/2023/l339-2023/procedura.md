@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-30: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-06-06: registered at the Chamber of Deputies
 - 2023-06-07: documents published: Aviz comisie
+- 2023-11-29: adopted by the Chamber of Deputies
 
 ## Documents
 
