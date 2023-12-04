@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-11-20: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-23: sent for promulgation
 - 2023-11-29: promulgated, becomes Legea nr. 360/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-04: published in the Monitorul Oficial
 
 ## Documents
 
