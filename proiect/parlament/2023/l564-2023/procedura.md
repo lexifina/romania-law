@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-11-06: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-11: sent for promulgation
 - 2023-11-28: promulgated, becomes Legea nr. 352/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,6 @@ Initiator: Guvernul României.
 - 2023-11-06: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L564LP.PDF
 - 2023-11-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L564DP.PDF
 - 2023-11-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L564FP.PDF
+- 2023-12-04: Document (TX): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L564TX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-04: Document (AL): [al-c0318552.md](al-c0318552.md); official file https://www.senat.ro/legis/PDF/2023/23L564AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-04: Document (TC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L564TC.PDF (its day is not given by the bill file: shown from the last stage held)
