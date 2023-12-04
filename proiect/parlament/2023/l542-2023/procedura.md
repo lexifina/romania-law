@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2023-11-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-16: sent for promulgation
 - 2023-11-29: promulgated, becomes Legea nr. 359/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-04: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -43,3 +44,4 @@ Initiator: Guvernul României.
 - 2023-11-14: Forma trimisă la promulgare (LP): [lp-f03f7240.md](lp-f03f7240.md); official file https://www.senat.ro/legis/PDF/2023/23L542LP.PDF
 - 2023-11-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L542DP.PDF
 - 2023-11-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L542FP.PDF
+- 2023-12-04: Document (AL): [al-b50d7482.md](al-b50d7482.md); official file https://www.senat.ro/legis/PDF/2023/23L542AL.PDF (its day is not given by the bill file: shown from the last stage held)
