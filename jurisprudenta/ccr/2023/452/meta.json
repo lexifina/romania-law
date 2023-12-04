@@ -1,0 +1,271 @@
+{
+ "key": "dcc-452-2023",
+ "label": "Decizia CCR nr. 452/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "452",
+ "date": "2023-07-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 452 din 13 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 107 alin. (1) și (2) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1089",
+  "bis": false,
+  "date": "2023-12-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "14.944/197/2018/a2",
+  "1.890D/2019",
+  "7.079/233/2015",
+  "1.771/211/2013"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Nicolae Răzvan Râșnoveanu în Dosarul nr. 14.944/197/2018/a2 al Judecătoriei Brașov - Secția penală și constată că dispozițiile art. 107 alin. (1) și (2) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Brașov - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 51/1995",
+    "number": "51",
+    "year": "1995",
+    "path": "lege/1995/51"
+   },
+   "articles": [
+    {
+     "art": "107",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": null,
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "147",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "348",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-12-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/276929",
+  "text_sha256": "bad6536d66aad2c6f48d4b88065ea4bc0f7282a7bf9c40e7d29ee0c432341165",
+  "catalogue_sha256": "bad6536d66aad2c6f48d4b88065ea4bc0f7282a7bf9c40e7d29ee0c432341165",
+  "fetched": "2026-11-03T01:16:23Z",
+  "chars": 16590,
+  "portal_id": "276929",
+  "tip": "DECIZIE"
+ }
+}
