@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-20: registered at the Chamber of Deputies
 - 2023-11-22: rejected by the Chamber of Deputies
 - 2023-11-24: registered at the Senate
+- 2023-12-05: documents published: Aviz comisie
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-07-10: Punct de vedere Guvern (SJ): [sj-484442aa.md](sj-484442aa.md); official file https://www.senat.ro/legis/PDF/2023/23L678SJ.PDF
 - 2023-07-10: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L678PV.PDF
 - 2023-09-14: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L678CA3.PDF
+- 2023-12-05: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L678CA41.PDF
