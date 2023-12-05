@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-13: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-11-14: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-16: sent for promulgation
+- 2023-12-05: promulgated, becomes Legea nr. 361/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,8 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-13: Forma adoptată de Senat (FS): [fs-6a33809a.md](fs-6a33809a.md); official file https://www.senat.ro/legis/PDF/2023/23L289FS.PDF
 - 2023-11-14: Adresă privind sesizarea CCR (AXS): [axs-510e85b1.md](axs-510e85b1.md); official file https://www.senat.ro/legis/PDF/2023/23L289AXS.PDF
 - 2023-11-14: Forma trimisă la promulgare (LP): [lp-c238f345.md](lp-c238f345.md); official file https://www.senat.ro/legis/PDF/2023/23L289LP.PDF
+- 2023-12-05: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L289AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-05: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L289S1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-05: Document (AL): [al-f530d723.md](al-f530d723.md); official file https://www.senat.ro/legis/PDF/2023/23L289AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L289DP.PDF
+- 2023-12-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L289FP.PDF
