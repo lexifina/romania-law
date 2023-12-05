@@ -1,0 +1,22 @@
+# Proiect de lege L703/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 109/2024 (`legea-109-2024`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.107/2023 privind unele măsuri pentru consolidarea capacităţilor tehnice necesare funcţionării Sistemului informatic al Ministerului Finanţelor
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-12-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-12-05: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703AD.PDF
+- 2023-12-05: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703FG.PDF
+- 2023-12-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703EM.PDF
+- 2023-12-05: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703LG.PDF
+- 2023-12-05: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703OG.PDF
+- 2023-12-05: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L703HG.PDF
