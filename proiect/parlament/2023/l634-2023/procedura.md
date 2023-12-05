@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-10: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2023-11-21: documents published: Aviz comisie
 - 2023-11-22: documents published: Aviz comisie
+- 2023-12-05: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -23,3 +24,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-10: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L634PV.PDF
 - 2023-11-21: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L634CA3.PDF
 - 2023-11-22: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L634CA45.PDF
+- 2023-12-05: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L634CR.PDF
