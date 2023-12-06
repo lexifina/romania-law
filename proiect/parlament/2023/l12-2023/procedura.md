@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-18: sent for promulgation
 - 2023-12-05: promulgated, becomes Legea nr. 362/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-06: published in the Monitorul Oficial
 
 ## Documents
 
