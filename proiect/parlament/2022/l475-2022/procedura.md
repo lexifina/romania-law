@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-08: adopted by the Chamber of Deputies
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-18: sent for promulgation
+- 2023-12-06: promulgated, becomes Legea nr. 364/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L475AM.PDF
 - 2023-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L475AXS.PDF
 - 2023-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L475LP.PDF
+- 2023-12-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L475DP.PDF
+- 2023-12-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L475FP.PDF
