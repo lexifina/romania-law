@@ -1,0 +1,310 @@
+{
+ "key": "dcc-495-2023",
+ "label": "Decizia CCR nr. 495/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "495",
+ "date": "2023-10-03",
+ "year": "2023",
+ "heading": "DECIZIA nr. 495 din 3 octombrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1100",
+  "bis": false,
+  "date": "2023-12-06",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "19.856/325/2019",
+  "2.326D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea de Asigurare-Reasigurare City Insurance - S.A. din București în dosarele nr. 19.856/325/2019, nr. 33.007/325/2020, nr. 1.011/325/2021 și nr. 1.443/325/2021 ale Tribunalului Timiș - Secția a II-a civilă, în dosarele nr. 3.017/299/2020, nr. 11.564/299/2020, nr. 7.637/299/2020, nr. 6.509/299/2021, nr. 7.631/299/2021, nr. 16.004/299/2021, nr. 20.745/299/2021, nr. 21.437/299/2021, nr. 21.456/299/2021, nr. 12.160/299/2020, nr. 11.023/299/2023 și nr. 2.544/299/2021 ale Judecătoriei Sectorului 1 București - Secția I civilă, în dosarele nr. 4.903/325/2020, nr. 10.841/325/2020, nr. 10.844/325/2020, nr. 14.143/325/2020, nr. 20.501/325/2020, nr. 32.833/325/2020, nr. 12.129/325/2021 și nr. 13.658/325/2021 ale Judecătoriei Timișoara - Secția a II-a civilă, în dosarele nr. 12.602/325/2020, nr. 12.604/325/2020, nr. 25.056/325/2020, nr. 4.337/325/2021, nr. 8.313/325/2021, nr. 10.880/325/2021, nr. 11.313/325/2021, nr. 15.128/325/2021, nr. 18.001/325/2021 și nr. 16.205/325/2021 ale Judecătoriei Timișoara - Secția I civilă, în dosarele nr. 21.498/299/2020, nr. 9.739/299/2020, nr. 35.128/299/2019, nr. 2.530/299/2020, nr. 14.515/299/2021, nr. 21.457/299/2021, nr. 20.990/299/2020, 38.967/299/2020, nr. 10.923/299/2021, nr. 11.052/299/2021, nr. 6.950/299/2021, nr. 21.451/299/2021, nr. 21.771/299/2021 și nr. 11.607/299/2021 ale Judecătoriei Sectorului 1 București - Secția a II-a civilă și constată că dispozițiile art. 14 alin. (3) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția a II-a civilă, Judecătoriei Sectorului 1 București - Secția I civilă, Judecătoriei Timișoara - Secția a II-a civilă, Judecătoriei Timișoara - Secția I civilă și Judecătoriei Sectorului 1 București - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5",
+      "12"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": [
+      "8",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 99/2000",
+    "number": "99",
+    "year": "2000",
+    "path": "og/2000/99"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea concurenței nr. 21/1996",
+    "number": "21",
+    "year": "1996",
+    "path": "lege/1996/21"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 99/2001",
+    "number": "99",
+    "year": "2001",
+    "path": "oug/2001/99"
+   },
+   "articles": [
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 21/1992",
+    "number": "21",
+    "year": "1992",
+    "path": "og/1992/21"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 367/2007",
+    "number": "367",
+    "year": "2007",
+    "path": "lege/2007/367"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 363/2007",
+    "number": "363",
+    "year": "2007",
+    "path": "lege/2007/363"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277025",
+  "text_sha256": "7b741929d78d8d29ebcb8cdc097ad19d7b653cf97d02e1a6a299310a4bb322c4",
+  "catalogue_sha256": "7b741929d78d8d29ebcb8cdc097ad19d7b653cf97d02e1a6a299310a4bb322c4",
+  "fetched": "2026-11-03T01:16:18Z",
+  "chars": 44905,
+  "portal_id": "277025",
+  "tip": "DECIZIE"
+ }
+}
