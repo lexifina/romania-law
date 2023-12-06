@@ -1,0 +1,238 @@
+{
+ "key": "iccj-ril-18-2023",
+ "label": "Decizia ÎCCJ nr. 18/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "18",
+ "date": "2023-10-23",
+ "year": "2023",
+ "heading": "DECIZIA nr. 18 din 23 octombrie 2023",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 21 alin. (1), (2) și (5) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "1097",
+  "bis": false,
+  "date": "2023-12-06",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.025/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Cluj și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 21 alin. (1), (2) și (5) din Legea nr. 132/2017 privind asigurarea obligatorie de răspundere civilă auto pentru prejudicii produse terților prin accidente de vehicule și tramvaie, cu modificările și completările ulterioare, în cazul nerespectării termenului de 30 de zile reglementat de art. 21 alin. (1) și (2) din același act normativ, penalitățile de 0,2% pe zi de întârziere curg de la expirarea celor 30 de zile în care asigurătorul trebuia să răspundă cererii părții solicitante.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1",
+      "5",
+      "2",
+      "4"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "23",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 60
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 54/2016",
+    "number": "54",
+    "year": "2016",
+    "path": "oug/2016/54"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "5",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "40",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1535",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2545",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 13/2011",
+    "number": "13",
+    "year": "2011",
+    "path": "og/2011/13"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/1995",
+    "number": "136",
+    "year": "1995",
+    "path": "lege/1995/136"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 122/2019",
+    "number": "122",
+    "year": "2019",
+    "path": "lege/2019/122"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-12-06",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277006",
+  "text_sha256": "409b8a88c8874d1d9c938e4228f1d26d993727eca850694acfedd674ca15768a",
+  "catalogue_sha256": "409b8a88c8874d1d9c938e4228f1d26d993727eca850694acfedd674ca15768a",
+  "fetched": "2026-11-03T01:16:18Z",
+  "chars": 60876,
+  "portal_id": "277006",
+  "tip": "DECIZIE"
+ }
+}
