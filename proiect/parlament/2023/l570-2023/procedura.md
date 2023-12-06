@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-11-07: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-18: sent for promulgation
+- 2023-12-06: promulgated, becomes Legea nr. 366/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2023-11-07: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L570FS.PDF
 - 2023-11-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L570AXS.PDF
 - 2023-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L570LP.PDF
+- 2023-12-06: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L570DP.PDF
+- 2023-12-06: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L570FP.PDF
