@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-14: adopted by the Chamber of Deputies
 - 2023-11-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-25: sent for promulgation
+- 2023-12-07: promulgated, becomes Legea nr. 372/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L479AM.PDF
 - 2023-11-20: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L479AXS.PDF
 - 2023-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L479LP.PDF
+- 2023-12-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L479DP.PDF
+- 2023-12-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L479FP.PDF
