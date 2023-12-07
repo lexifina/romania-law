@@ -1,0 +1,13 @@
+# Anexa 5
+Anexa nr. 5
+la metodologie
+- model -
+MINISTERUL APĂRĂRII NAȚIONALE Neclasificat
+ACADEMIA FORȚELOR TERESTRE „NICOLAE BĂLCESCU“ Exemplarul nr. .......
+Nr. ...... din .................
+TABEL NOMINAL
+cu repartiția candidaților în instituțiile de învățământ superior militar, sesiunea ...................
+Nr. crt. Numele Prenumele tatălui Prenumele Colegiul Național Militar Media de repartiție Instituția de învățământ superior militar Facultatea Domeniul de licență Specializarea Arma/ Specialitatea militară
+Președintele Comisiei de repartiție,
+..........................................................
+-----
