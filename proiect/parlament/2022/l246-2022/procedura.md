@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-30: adopted by the Senate
 - 2023-11-22: adopted by the Chamber of Deputies
 - 2023-11-29: sent for promulgation
+- 2023-12-07: promulgated, becomes Legea nr. 368/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-05-18: Adresă către Camera Deputaților (AM): [am-406fa897.md](am-406fa897.md); official file https://www.senat.ro/legis/PDF/2022/22L246AM.PDF
 - 2022-06-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246AXS.PDF
 - 2022-06-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246LP.PDF
+- 2023-12-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246DP.PDF
+- 2023-12-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246FP.PDF
