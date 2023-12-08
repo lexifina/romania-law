@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-18: sent for promulgation
 - 2023-12-07: promulgated, becomes Legea nr. 367/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L795LP.PDF
 - 2023-12-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L795DP.PDF
 - 2023-12-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L795FP.PDF
+- 2023-12-08: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L795CC.PDF (its day is not given by the bill file: shown from the last stage held)
