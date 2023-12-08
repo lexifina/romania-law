@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-22: adopted by the Chamber of Deputies
 - 2023-11-29: sent for promulgation
 - 2023-12-07: promulgated, becomes Legea nr. 368/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-08: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,11 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246LP.PDF
 - 2023-12-07: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246DP.PDF
 - 2023-12-07: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246FP.PDF
+- 2023-12-08: Document (CC): [cc-e4034c55.md](cc-e4034c55.md); official file https://www.senat.ro/legis/PDF/2022/22L246CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (DC): [dc-6e0dd533.md](dc-6e0dd533.md); official file https://www.senat.ro/legis/PDF/2022/22L246DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (RC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246RC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (XD): [xd-e83b9699.md](xd-e83b9699.md); official file https://www.senat.ro/legis/PDF/2022/22L246XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (SX): [sx-867078a1.md](sx-867078a1.md); official file https://www.senat.ro/legis/PDF/2022/22L246SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-08: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L246PX.PDF (its day is not given by the bill file: shown from the last stage held)
