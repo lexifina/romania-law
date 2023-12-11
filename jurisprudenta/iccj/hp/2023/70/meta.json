@@ -1,0 +1,170 @@
+{
+ "key": "iccj-hp-70-2023",
+ "label": "Decizia ÎCCJ nr. 70/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "70",
+ "date": "2023-10-23",
+ "year": "2023",
+ "heading": "DECIZIA nr. 70 din 23 octombrie 2023",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 413 alin. (1) pct. 1, art. 415 pct. 3 și ale art. 416 alin. (1) și (3) din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1112",
+  "bis": false,
+  "date": "2023-12-11",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.795/1/2023",
+  "2.694/271/2020",
+  "3.878/302/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Bihor - Secția I civilă, în Dosarul nr. 2.694/271/2020, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Interpretarea dispozițiilor art. 413 alin. (1) pct. 1, art. 415 pct. 3 și ale art. 416 alin. (1) și (3) din Codul de procedură civilă, în sensul de a se lămuri dacă în cazul suspendării facultative dispuse de instanță atunci când dezlegarea cauzei depinde în tot sau în parte de soluția dintr-o altă cauză, dar care nu privește aceleași și/sau toate părțile din cauza suspendată, după finalizarea cauzei până la a cărei soluționare s-a dispus suspendarea, judecata cauzei suspendate se reia din oficiu, iar nu la cererea părților, sau, atunci când nicio parte nu solicită repunerea pe rol în termen de 6 luni de la încetarea motivului de suspendare, poate fi constatată perimarea cererii de chemare în judecată sau a unei căi de atac, chiar și în contra părții din cauza suspendată care nu este parte în pricina până la a cărei soluționare s-a dispus suspendarea.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "413",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "124",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-12-11",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277161",
+  "text_sha256": "6f468eb9fc2d06d20be8fcd7e7839c25dd8074710b4781b1a4a9138c13439c61",
+  "catalogue_sha256": "6f468eb9fc2d06d20be8fcd7e7839c25dd8074710b4781b1a4a9138c13439c61",
+  "fetched": "2026-11-03T01:16:08Z",
+  "chars": 46150,
+  "portal_id": "277161",
+  "tip": "DECIZIE"
+ }
+}
