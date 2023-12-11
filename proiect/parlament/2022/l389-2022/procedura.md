@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-11-14: adopted by the Chamber of Deputies
 - 2023-11-22: sent for promulgation; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-08: promulgated, becomes Legea nr. 377/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-11: published in the Monitorul Oficial
 
 ## Documents
 
