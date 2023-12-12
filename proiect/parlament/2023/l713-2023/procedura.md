@@ -1,0 +1,21 @@
+# Propunere legislativă L713/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 126/2024 (`legea-126-2024`).
+
+Propunere legislativă privind unele măsuri pentru consolidarea capacității de combatere a evaziunii fiscale precum și pentru modificarea și completarea unor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
+
+## Documents
+
+- 2023-12-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713AD.PDF
+- 2023-12-12: Forma inițiatorului (FG): [fg-9b8a4f1e.md](fg-9b8a4f1e.md); official file https://www.senat.ro/legis/PDF/2023/23L713FG.PDF
+- 2023-12-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713EM.PDF
+- 2023-12-12: Aviz Consiliul Legislativ (LG): [lg-310ae923.md](lg-310ae923.md); official file https://www.senat.ro/legis/PDF/2023/23L713LG.PDF
+- 2023-12-12: Aviz Consiliul Economic și Social (ES): [es-6f4998fd.md](es-6f4998fd.md); official file https://www.senat.ro/legis/PDF/2023/23L713ES.PDF
