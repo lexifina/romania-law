@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2023-11-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-25: sent for promulgation
 - 2023-12-11: promulgated, becomes Legea nr. 379/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-12: published in the Monitorul Oficial
 
 ## Documents
 
