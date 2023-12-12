@@ -1,0 +1,10 @@
+# HCL Gruia nr. 57/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Gruia
+- Decision: nr. 57/2023
+- Adopted: 2023-11-27
+- Published: 2023-12-12
+- Title: privind aprobarea dezmembrarii imobilului teren in suprafata de 4235 mp, situat in intravilanul localitatii Gruia in T 3,P 24 ,inscris in CF nr 51379 UAT Gruia , numar cadastral 51379 in 3 loturi , conform planului de amplasament si delimitare imobil cu propunerea de dezmembrare
+- Record: https://emol.ro/gruia-mh/registru-hcl/130590
