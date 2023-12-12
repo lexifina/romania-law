@@ -1,0 +1,245 @@
+{
+ "key": "dcc-465-2023",
+ "label": "Decizia CCR nr. 465/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "465",
+ "date": "2023-07-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 465 din 13 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 22 alin. (1) din Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale prin raportare la dispozițiile art. 28 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1120",
+  "bis": false,
+  "date": "2023-12-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.133/291/2018",
+  "161D/2019",
+  "1.808D/2019",
+  "2.991/338/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 22 alin. (1) din Legea nr. 203/2018 privind măsuri de eficientizare a achitării amenzilor contravenționale prin raportare la dispozițiile art. 28 alin. (1) din Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, excepție ridicată de Societatea Danlin XXL - S.R.L. din localitatea Secuieni, județul Neamț, în Dosarul nr. 1.133/291/2018 al Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal și de Societatea Dumbrava Minunată - S.R.L. din localitatea Șimon, județul Brașov, în Dosarul nr. 2.991/338/2018 al Judecătoriei Zărnești.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Neamț - Secția a II-a civilă, de contencios administrativ și fiscal și Judecătoriei Zărnești și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 203/2018",
+    "number": "203",
+    "year": "2018",
+    "path": "lege/2018/203"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 2/2001",
+    "number": "2",
+    "year": "2001",
+    "path": "og/2001/2"
+   },
+   "articles": [
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 28/1999",
+    "number": "28",
+    "year": "1999",
+    "path": "oug/1999/28"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-12-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277245",
+  "text_sha256": "af23684d36586e47ed26a947a4b30a2c7e60a79464377c0e81472f46005c7f0f",
+  "catalogue_sha256": "af23684d36586e47ed26a947a4b30a2c7e60a79464377c0e81472f46005c7f0f",
+  "fetched": "2026-11-03T01:16:02Z",
+  "chars": 24744,
+  "portal_id": "277245",
+  "tip": "DECIZIE"
+ }
+}
