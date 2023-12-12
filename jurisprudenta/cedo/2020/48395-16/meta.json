@@ -1,0 +1,118 @@
+{
+ "key": "cedo-48395-16-2020-05-12",
+ "label": "CEDO, Danciu și alții c. României, 2020-05-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2020-05-12",
+ "year": "2020",
+ "heading": "HOTĂRÂREA din 12 mai 2020",
+ "subtitle": "în Cauza Danciu și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "1117",
+  "bis": false,
+  "date": "2023-12-12",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "48395/16"
+ ],
+ "case_name": "Danciu și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 2 din Convenție;",
+  "3. hotărăște: (a) că statul pârât trebuie să plătească reclamanților în solidar, în termen de trei luni de la data rămânerii definitive a hotărârii, în conformitate cu art. 44 § 2 din Convenție, următoarele sume care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "15.000 EUR (cincisprezece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "8.000 EUR (opt mii de euro), plus orice sumă ce poate fi datorată de reclamanți cu titlu de impozit, pentru cheltuielile de judecată;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277204",
+  "text_sha256": "2456f701b2939f6046221674c8aa77792c9d44c310dadf414d9c8b7288c1ece3",
+  "catalogue_sha256": "2456f701b2939f6046221674c8aa77792c9d44c310dadf414d9c8b7288c1ece3",
+  "fetched": "2026-11-03T01:16:05Z",
+  "chars": 50342,
+  "portal_id": "277204",
+  "tip": "HOTĂRÂRE"
+ }
+}
