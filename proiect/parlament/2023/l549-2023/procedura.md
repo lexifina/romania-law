@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-20: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-11-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-29: sent for promulgation
+- 2023-12-12: promulgated, becomes Legea nr. 387/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-20: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549FS.PDF
 - 2023-11-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549AXS.PDF
 - 2023-11-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549LP.PDF
+- 2023-12-12: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549DP.PDF
+- 2023-12-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L549FP.PDF
