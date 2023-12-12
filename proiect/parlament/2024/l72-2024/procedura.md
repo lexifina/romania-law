@@ -9,7 +9,11 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2004-02-29: first record in the bill file; documents published: Punct de vedere
+- 2023-12-12: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2004-02-29: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L072PV.PDF
+- 2023-12-12: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L072AD.PDF
+- 2023-12-12: Forma inițiatorului (FG): [fg-c7a3ea44.md](fg-c7a3ea44.md); official file https://www.senat.ro/legis/PDF/2024/24L072FG.PDF
+- 2023-12-12: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L072EM.PDF
