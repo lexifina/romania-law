@@ -1,0 +1,25 @@
+# Anexa nr. IV la Contractul de finanțare nr........./.........
+Nr. ieșire contractor............../................
+Organizație-gazdă............
+Reprezentant legal,.................................................... (funcția, numele, prenumele, semnătura)
+Data..................
+DEVIZ POSTCALCUL* pentru Programul „Henri Coandă”
+Nr. crt.
+Denumirea capitolului
+Valoarea bugetului anul..........*
+1.
+Cuantum bursă de cercetare
+2.
+Cheltuieli cu personalul
+3.
+Cheltuieli cu logistica
+4.
+Cheltuieli de deplasare
+5.
+Cheltuieli indirecte (regie)
+TOTAL (lei)
+* Se completează conform planificării desfășurării activităților.
+Ne asumăm răspunderea pentru certitudinea datelor prezentate mai sus.
+Mentor,................................................... (numele, prenumele, semnătura)
+Director economic/Contabil-șef,.......................................................
+Data...................
