@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-25: sent for promulgation
 - 2023-12-12: promulgated, becomes Legea nr. 384/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L304LP.PDF
 - 2023-12-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L304DP.PDF
 - 2023-12-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L304FP.PDF
+- 2023-12-13: Document (CF): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L304CF.PDF (its day is not given by the bill file: shown from the last stage held)
