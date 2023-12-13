@@ -1,0 +1,10 @@
+# HCL Poiana Mărului nr. 98/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Poiana Mărului
+- Decision: nr. 98/2023
+- Adopted: 2023-11-29
+- Published: 2023-12-13
+- Title: privind aprobarea volumului de masă lemnoasă care se va recolta în anul de producție 2024, precum și destinația acestuia
+- Record: https://emol.ro/poianamarului-bv/registru-hcl/131539
