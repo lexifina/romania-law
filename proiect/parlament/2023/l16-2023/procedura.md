@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-11-22: adopted by the Chamber of Deputies
 - 2023-11-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-04: sent for promulgation
+- 2023-12-13: promulgated, becomes Legea nr. 395/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2023-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L016AM.PDF
 - 2023-11-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L016AXS.PDF
 - 2023-11-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L016LP.PDF
+- 2023-12-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L016DP.PDF
+- 2023-12-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L016FP.PDF
