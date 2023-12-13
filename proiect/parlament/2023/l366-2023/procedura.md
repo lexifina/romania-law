@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-06-28: documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-07-03: sent for promulgation
+- 2023-12-13: promulgated, becomes Legea nr. 393/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-28: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366CA45.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366LP.PDF
+- 2023-12-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366DP.PDF
+- 2023-12-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L366FP.PDF
