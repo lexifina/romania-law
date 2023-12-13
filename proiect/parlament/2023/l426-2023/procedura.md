@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-29: adopted by the Chamber of Deputies
 - 2023-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-09: sent for promulgation
+- 2023-12-13: promulgated, becomes Legea nr. 400/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L426AM.PDF
 - 2023-12-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L426AXS.PDF
 - 2023-12-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L426LP.PDF
+- 2023-12-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L426DP.PDF
+- 2023-12-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L426FP.PDF
