@@ -1,0 +1,313 @@
+{
+ "key": "iccj-hp-69-2023",
+ "label": "Decizia ÎCCJ nr. 69/2023 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "69",
+ "date": "2023-10-23",
+ "year": "2023",
+ "heading": "DECIZIA nr. 69 din 23 octombrie 2023",
+ "subtitle": "referitoare la interpretarea art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, cu modificările și completările ulterioare (forma în vigoare la data de 20 noiembrie 2018), în corelație cu art. 486 alin. (2) din Codul de procedură penală",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "1122",
+  "bis": false,
+  "date": "2023-12-13",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "1.939/1/2023",
+  "7.835/2/2021",
+  "5.555/2/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "486",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, în Dosarul nr. 7.835/2/2021, în vederea pronunțării unei hotărâri prealabile și, în interpretarea art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, cu modificările și completările ulterioare (forma în vigoare la data de 20 noiembrie 2018), în corelație cu art. 486 alin. (2) din Codul de procedură penală, stabilește că: În ipoteza pronunțării unei soluții de condamnare a inculpatului care achită integral pretențiile părții civile, în condițiile art. 10 alin. (1) din Legea nr. 241/2005, ca urmare a admiterii unui acord de recunoaștere a vinovăției în condițiile art. 478 și următoarele din Codul de procedură penală, hotărârea penală are autoritate de lucru judecat asupra întinderii prejudiciului în fața instanței civile, nefiind incidente prevederile art. 486 alin. (2) din Codul de procedură penală.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 49
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "478",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "480",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "28",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2021",
+    "number": "55",
+    "year": "2021",
+    "path": "lege/2021/55"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului de procedură fiscală",
+    "path": "lege/2015/207",
+    "slug": "legea-207-2015"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "10",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul fiscal",
+    "path": "lege/2015/227",
+    "slug": "codul-fiscal"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2023-12-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277249",
+  "text_sha256": "61c42996566b7694f4499355fd4ab84965c4966cb3c9b6dc800dc61e0a748076",
+  "catalogue_sha256": "61c42996566b7694f4499355fd4ab84965c4966cb3c9b6dc800dc61e0a748076",
+  "fetched": "2026-11-03T01:16:01Z",
+  "chars": 64620,
+  "portal_id": "277249",
+  "tip": "DECIZIE"
+ }
+}
