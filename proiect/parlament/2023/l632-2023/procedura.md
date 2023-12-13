@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-03: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-10-10: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2023-11-22: documents published: Aviz comisie
+- 2023-12-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -20,3 +21,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-10: Aviz Consiliul Economic și Social (ES): [es-89976e05.md](es-89976e05.md); official file https://www.senat.ro/legis/PDF/2023/23L632ES.PDF
 - 2023-10-10: Aviz Consiliul Legislativ (LG): [lg-7c7a8ccd.md](lg-7c7a8ccd.md); official file https://www.senat.ro/legis/PDF/2023/23L632LG.PDF
 - 2023-11-22: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L632CA45.PDF
+- 2023-12-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L632CR.PDF
