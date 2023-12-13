@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2023-10-16: registered at the Chamber of Deputies
+- 2023-12-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2023-12-13: Raport comisie sesizată pe fond (CR): [cr-fb7fb79d.md](cr-fb7fb79d.md); official file https://www.senat.ro/legis/PDF/2024/24L150CR.PDF
