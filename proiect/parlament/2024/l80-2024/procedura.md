@@ -1,0 +1,17 @@
+# Propunere legislativă L80/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru completarea art.37 din Ordonanţa de urgenţă nr.57/2019 privind Codul administrativ publicat în Monitorul Oficial, Partea I nr.555 din 05 iulie 2019
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2023-12-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2023-12-14: Adresă de înaintare a inițiativei (AD): [ad-9d16c338.md](ad-9d16c338.md); official file https://www.senat.ro/legis/PDF/2024/24L080AD.PDF
+- 2023-12-14: Forma inițiatorului (FG): [fg-2a5378ab.md](fg-2a5378ab.md); official file https://www.senat.ro/legis/PDF/2024/24L080FG.PDF
+- 2023-12-14: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L080EM.PDF
