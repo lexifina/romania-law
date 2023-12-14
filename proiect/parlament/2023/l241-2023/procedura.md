@@ -23,6 +23,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-04: sent for promulgation
 - 2023-12-13: promulgated, becomes Legea nr. 398/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-14: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -44,3 +45,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L241LP.PDF
 - 2023-12-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L241DP.PDF
 - 2023-12-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L241FP.PDF
+- 2023-12-14: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L241CC.PDF (its day is not given by the bill file: shown from the last stage held)
