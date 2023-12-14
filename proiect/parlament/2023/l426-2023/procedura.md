@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-09: sent for promulgation
 - 2023-12-13: promulgated, becomes Legea nr. 400/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-14: published in the Monitorul Oficial
 
 ## Documents
 
