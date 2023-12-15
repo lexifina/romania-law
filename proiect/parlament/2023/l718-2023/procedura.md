@@ -1,0 +1,22 @@
+# Proiect de lege L718/2023
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 123/2025 (`legea-123-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.112/2023 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr.194/2002 privind regimul străinilor în România
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-12-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-12-15: Adresă de înaintare a inițiativei (AD): [ad-b5ac7538.md](ad-b5ac7538.md); official file https://www.senat.ro/legis/PDF/2023/23L718AD.PDF
+- 2023-12-15: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L718FG.PDF
+- 2023-12-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L718EM.PDF
+- 2023-12-15: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L718LG.PDF
+- 2023-12-15: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L718OG.PDF
+- 2023-12-15: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L718HG.PDF
