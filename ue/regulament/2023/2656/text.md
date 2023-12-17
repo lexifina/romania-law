@@ -1,0 +1,32 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2023/2656 AL COMISIEI
+din 21 noiembrie 2023
+privind clasificarea anumitor mărfuri în Nomenclatura combinată
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 952/2013 al Parlamentului European și al Consiliului din 9 octombrie 2013 de stabilire a Codului vamal al Uniunii (1), în special articolul 57 alineatul (4) și articolul 58 alineatul (2),
+întrucât:
+(1) Pentru a asigura aplicarea uniformă a Nomenclaturii combinate anexate la Regulamentul (CEE) nr. 2658/87 al Consiliului (2), este necesar să se adopte măsuri privind clasificarea mărfurilor menționate în anexa la prezentul regulament.
+(2) Regulamentul (CEE) nr. 2658/87 stabilește regulile generale pentru interpretarea Nomenclaturii combinate. Aceste reguli se aplică, de asemenea, oricăror alte nomenclaturi bazate integral sau parțial pe aceasta sau care îi adaugă acesteia subdiviziuni suplimentare și care sunt stabilite prin dispoziții specifice ale Uniunii, în vederea aplicării de măsuri tarifare sau de altă natură privind comerțul cu mărfuri.
+(3) În temeiul acestor reguli generale, mărfurile descrise în coloana 1 a tabelului din anexă trebuie clasificate la codul NC indicat în coloana 2, pe baza motivelor care figurează în coloana 3 a tabelului respectiv.
+(4) Este oportun să se prevadă posibilitatea invocării în continuare de către titular, pentru o anumită perioadă de timp, în conformitate cu articolul 34 alineatul (9) din Regulamentul (UE) nr. 952/2013, a informațiilor tarifare obligatorii care sunt emise în legătură cu mărfurile vizate de prezentul regulament, dar care nu sunt conforme cu acesta. Perioada respectivă trebuie să fie de trei luni.
+(5) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului Codului vamal,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Mărfurile descrise în coloana 1 a tabelului din anexă se clasifică în Nomenclatura combinată la codul NC indicat în coloana 2 a tabelului respectiv.
+Articolul 2
+Informațiile tarifare obligatorii care nu sunt conforme cu prezentul regulament pot fi invocate în continuare în conformitate cu articolul 34 alineatul (9) din Regulamentul (UE) nr. 952/2013 timp de trei luni de la data intrării în vigoare a prezentului regulament.
+Articolul 3
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 21 noiembrie 2023.
+Pentru Comisie
+Gerassimos THOMAS
+Director general
+Direcția Generală Impozitare și Uniune Vamală
+(1) JO L 269, 10.10.2013, p. 1.
+(2) Regulamentul (CEE) nr. 2658/87 al Consiliului din 23 iulie 1987 privind Nomenclatura tarifară și statistică și Tariful vamal comun (JO L 256, 7.9.1987, p. 1).
+ANEXĂ
+Descrierea mărfurilor | Clasificare (Cod NC) | Motive
+(1) | (2) | (3)
+Un aparat multifuncțional într-o carcasă cu butoane de control frontale, care urmează să fie instalat în tabloul de bord al unui autovehicul. Aparatul constă în următoarele: — un ecran tactil cu cristale lichide (LCD) cu diagonala de 17,15 cm (6,75 inchi); — 2 porturi USB; — un modul Bluetooth; — un tuner radio digital (DAB+); — un tuner RDS FM de înaltă sensibilitate; — un procesor de semnal audio digital care oferă funcții avansate de configurare audio; — o intrare RCA A/V pentru două sisteme de camere, care conectează camerele instalate într-un autovehicul (vedere din spate și/sau din față); — o intrare HDMI pentru dispozitive compatibile, cum ar fi tabletele; — un slot pentru cititor de carduri microSD pentru redarea fișierelor A/V de pe cardurile de memorie microSD (HC); — un convertizor D/A de 24 de biți; — un decodor A/V. Aparatul nu include un receptor de semnale videofonice (tuner). Aparatul este conceput pentru: — recepționarea semnalelor radio în gama DAB și FM; — redarea de fișiere muzicale și video de pe aparatele și suporturile de stocare conectate; — controlul și funcționarea diferitelor aplicații ale dispozitivelor conectate (cum ar fi previzualizarea hărților); — efectuarea de apeluri telefonice „hands-free” și trimiterea și primirea de mesaje de pe telefonul inteligent conectat; — afișarea semnalelor de la camerele instalate în autovehicul. | 8528 52 91 | Clasificarea se stabilește pe baza regulilor generale 1, 3 litera (c) și 6 pentru interpretarea Nomenclaturii combinate și pe baza textelor codurilor NC 8528 , 8528 52 și 8528 52 91 . Aparatul este conceput pentru a îndeplini funcții precum reproducerea sunetului în sensul poziției 8519 , aparat de recepție pentru radiodifuziune în sensul poziției 8527 și funcția de monitor în sensul poziției 8528 , dintre care niciuna, având în vedere designul aparatului, nu conferă acestuia caracterul său esențial. Întrucât este un aparat multifuncțional, a cărui funcție principală nu poate fi determinată, acesta trebuie, prin urmare, să fie clasificat la poziția 8528 prin aplicarea regulii generale de interpretare 3 litera (c). Aparatul este capabil de o legătură directă cu o mașină automată de prelucrare a datelor de la poziția 8471 și este destinat să fie folosit cu o asemenea mașină. Notele explicative la Sistemul armonizat aferente poziției 8528 indică faptul că această grupă include monitoare care sunt capabile să accepte un semnal de la unitatea centrală de procesare a unei mașini automate de prelucrare a datelor și care oferă o prezentare grafică a datelor prelucrate. Acestea nu includ un receptor de semnale videofonice (tuner). Monitoarele din această grupă sunt echipate cu conectori caracteristici pentru sistemele de prelucrare a datelor (de exemplu, conectori HDMI), de obicei au butoane de control situate în panoul frontal și pot utiliza un protocol de comunicare fără fir pentru a afișa date de la o mașină automată de prelucrare a datelor de la poziția 8471 . Având în vedere caracteristicile sale obiective, afișajul aparatului nu poate fi considerat ca fiind de tipul celor utilizate exclusiv sau în principal într-un sistem automat de prelucrare a datelor de la poziția 8471 . Prin urmare, clasificarea la codul NC 8528 52 10 este exclusă. În consecință, aparatul trebuie clasificat la codul NC 8528 52 91 ca alte monitoare capabile de o legătură directă cu o mașină automată de prelucrare a datelor de la poziția 8471 și destinate să fie folosite cu o asemenea mașină, cu ecran cu cristale lichide (LCD).
+ELI: http://data.europa.eu/eli/reg_impl/2023/2656/oj
