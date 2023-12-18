@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2023-11-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2023-12-05: documents published: Aviz comisie
 - 2023-12-11: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -27,3 +28,5 @@ Initiator: Guvernul României.
 - 2023-11-24: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L683HG.PDF
 - 2023-12-05: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L683CA3.PDF
 - 2023-12-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L683FS.PDF
+- 2023-12-18: Adresă privind sesizarea CCR (AXS): [axs-2b809c91.md](axs-2b809c91.md); official file https://www.senat.ro/legis/PDF/2023/23L683AXS.PDF
+- 2023-12-18: Forma trimisă la promulgare (LP): [lp-8ed3ceda.md](lp-8ed3ceda.md); official file https://www.senat.ro/legis/PDF/2023/23L683LP.PDF
