@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-29: adopted by the Chamber of Deputies
 - 2023-12-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-09: sent for promulgation
+- 2023-12-18: promulgated, becomes Legea nr. 411/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-05: Adresă către Camera Deputaților (AM): [am-8a1652dc.md](am-8a1652dc.md); official file https://www.senat.ro/legis/PDF/2023/23L319AM.PDF
 - 2023-12-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L319AXS.PDF
 - 2023-12-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L319LP.PDF
+- 2023-12-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L319DP.PDF
+- 2023-12-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L319FP.PDF
