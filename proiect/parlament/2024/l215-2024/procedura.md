@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-11-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-12-06: documents published: Aviz comisie
+- 2023-12-18: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 
 ## Documents
 
@@ -17,3 +18,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-24: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L215FG.PDF
 - 2023-11-24: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L215EM.PDF
 - 2023-12-06: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L215CA41.PDF
+- 2023-12-18: Punct de vedere Guvern (SJ): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L215SJ.PDF
