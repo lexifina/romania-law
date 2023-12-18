@@ -10,7 +10,9 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-11-29: first record in the bill file
 - 2023-12-06: documents published: Aviz comisie
+- 2023-12-18: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 
 ## Documents
 
 - 2023-12-06: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L163CA45.PDF
+- 2023-12-18: Punct de vedere Guvern (SJ): [sj-f0034123.md](sj-f0034123.md); official file https://www.senat.ro/legis/PDF/2024/24L163SJ.PDF
