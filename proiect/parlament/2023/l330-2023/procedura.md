@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-12-05: adopted by the Chamber of Deputies
 - 2023-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-13: sent for promulgation
+- 2023-12-19: promulgated, becomes Legea nr. 415/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2023-06-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L330AM.PDF
 - 2023-12-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L330AXS.PDF
 - 2023-12-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L330LP.PDF
+- 2023-12-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L330DP.PDF
+- 2023-12-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L330FP.PDF
