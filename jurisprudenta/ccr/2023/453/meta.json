@@ -1,0 +1,184 @@
+{
+ "key": "dcc-453-2023",
+ "label": "Decizia CCR nr. 453/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "453",
+ "date": "2023-07-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 453 din 13 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 33 alin. (2) din Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1147",
+  "bis": false,
+  "date": "2023-12-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.072/301/2019",
+  "1.895D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 33 alin. (2) din Legea nr. 302/2004 privind cooperarea judiciară internațională în materie penală, excepție ridicată de Ortansa Mirela Manea în Dosarul nr. 2.072/301/2019 al Judecătoriei Sectorului 3 București - Secția penală.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Sectorului 3 București - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 302/2004",
+    "number": "302",
+    "year": "2004",
+    "path": "lege/2004/302"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "162",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "163",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-12-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277502",
+  "text_sha256": "45a79f55abe05b592d6bbb9b8b53179c6e72b676e8e4aea19e30602ca8132af4",
+  "catalogue_sha256": "45a79f55abe05b592d6bbb9b8b53179c6e72b676e8e4aea19e30602ca8132af4",
+  "fetched": "2026-11-06T02:51:40Z",
+  "chars": 12518,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20231225104214/https://legislatie.just.ro/Public/DetaliiDocument/277502",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/277502",
+   "timestamp": "20231225104214",
+   "sha256": "ab5f58d5842c287f3cebed0f353560faff0a53902d96eabfadfe067039f38d48"
+  },
+  "portal_id": "277502",
+  "tip": "DECIZIE"
+ }
+}
