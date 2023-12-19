@@ -1,0 +1,1 @@
+Hotărârea a fost adoptată în ședința ordinară a consiliului local din data de 19.12.2023 cu un număr de 17 voturi pentru, - voturi împotrivă și - abțineri, exprimate din numarul total de 17 consilieri prezenți la ședință și din totalul de 17 consilieri în funcție.
