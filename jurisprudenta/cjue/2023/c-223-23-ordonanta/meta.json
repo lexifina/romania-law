@@ -1,0 +1,52 @@
+{
+ "key": "cjue-c-223-23-ordonanta-2023-12-19",
+ "label": "CJUE, Ordonanța Curții (Camera a noua) din 19 decembrie 2023, Cauza C-223/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2023-12-19",
+ "year": "2023",
+ "case": "Cauza C-223/23",
+ "celex": "62023CO0223",
+ "ecli": "ECLI:EU:C:2023:1033",
+ "heading": "Ordonanța Curții (Camera a noua) din 19 decembrie 2023",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Braşov, secția penală",
+   "date": "2023-04-11",
+   "national_file": "13731/197/2022"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Braşov",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 53 alineatul (2) și articolul 94 din Regulamentul de procedură al Curții – Cerința indicării motivelor care justifică necesitatea unui răspuns la întrebările preliminare – Cerința indicării legăturii dintre dispozițiile dreptului Uniunii a căror interpretare este solicitată și legislația națională aplicabilă – Lipsa unor precizări suficiente – Inadmisibilitate vădită",
+ "interprets": [],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CO0223",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-223/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/d3d852c8-b504-11ee-b164-01aa75ed71a1.0002.01/DOC_1",
+  "format": "html",
+  "sha256": [
+   "32a84b06ccd8f502afd27ab5d3819d8d468802e1294a56bc9f91e96bec9a03bd"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) dispune:",
+  "Cererea de decizie preliminară formulată de Curtea de Apel Brașov (România) prin decizia din 11 aprilie 2023 este vădit inadmisibilă."
+ ]
+}
