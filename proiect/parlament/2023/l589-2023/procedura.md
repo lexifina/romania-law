@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-04: sent for promulgation
 - 2023-12-18: promulgated, becomes Legea nr. 405/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-19: published in the Monitorul Oficial
 
 ## Documents
 
