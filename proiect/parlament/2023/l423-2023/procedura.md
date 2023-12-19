@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-10-03: registered at the Chamber of Deputies
 - 2023-12-05: adopted by the Chamber of Deputies
 - 2023-12-06: registered at the Senate
+- 2023-12-19: adopted by the Senate
 
 ## Documents
 
