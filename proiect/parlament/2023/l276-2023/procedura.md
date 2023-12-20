@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-16: sent for promulgation
 - 2023-12-19: promulgated, becomes Legea nr. 416/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-20: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L276LP.PDF
 - 2023-12-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L276DP.PDF
 - 2023-12-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L276FP.PDF
+- 2023-12-20: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L276AT.PDF (its day is not given by the bill file: shown from the last stage held)
