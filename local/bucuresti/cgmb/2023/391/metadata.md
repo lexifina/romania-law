@@ -1,0 +1,12 @@
+# HCGMB nr. 391/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 391/2023
+- Adopted: 2023-12-18
+- Published: 2023-12-20
+- Title: PRIVIND APROBAREA SOLICITARII CATRE CONSILIUL JUDETEAN ILFOV A PRELUNGIRII DURATEI TRECERII DIN DOMENIUL PUBLIC AL JUDEJULUI ILFOV SI ADMINISTRAREA CONSILIULUI JUDETEAN ILFOV IN DOMENIUL PUBLIC AL MUNICIPIULUI BUCURESTI SI ADMINISTRAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI, A STRAZILOR SI SUPRAFETELOR DE TEREN PENTRU REALIZAREA BAZINELOR DE RETENTIE SI STATIILOR DE PREEPURARE DIN ANSAMBLUL DE LOCUINTE HENRI COANDA
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45507
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/45507/h391_23.pdf
+- Document sha256: 8b5624c7d56bc8ac969d0983161d655b1595b00c0bc018aa128bf278d693f163
