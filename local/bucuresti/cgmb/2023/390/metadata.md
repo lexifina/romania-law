@@ -1,0 +1,12 @@
+# HCGMB nr. 390/2023
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 390/2023
+- Adopted: 2023-12-18
+- Published: 2023-12-20
+- Title: PENTRU MODIFICAREA SI COMPLETAREA HOTARARII CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 343/2022 PRIVIND APROBAREA PROIECTULUI PILOT “SPRIJIN PENTRU LOCUINTA” IN VEDEREA ACORDARII UNUI AJUTOR FINANCIAR PENTRU PLATA CHIRIEI PENTRU FAMILIILE CARORA LI S-AU REPARTIZAT LOCUINTE SOCIALE IN BLOCUL SITUAT IN B-DUL PRELUNGIREA GHENCEA, NR. 322-326, SECTOR 6, MODIFICATA SI COMPLETATA PRIN HOTARAREA CONSILIULUI GENERAL AL MUNICIPIULUI BUCURESTI NR. 692/2022 MODIFICA ART. 3 DIN HCGMB NR. 343/2022
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45506
+- Document: https://doc.pmb.ro/legis/acteinterne/2023/45506/h390_23.pdf
+- Document sha256: 612b20b85aef6e665843050558345def8051dee2c358dddde3141ae5472facaf
