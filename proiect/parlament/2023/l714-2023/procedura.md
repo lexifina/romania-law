@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2023-12-15: registered at the Chamber of Deputies; registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Aviz Consiliul Legislativ, Document
 - 2023-12-18: documents published: Aviz comisie
 - 2023-12-20: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2023-12-22: sent for promulgation
 
 ## Documents
 
