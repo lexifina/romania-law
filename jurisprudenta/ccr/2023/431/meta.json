@@ -1,0 +1,194 @@
+{
+ "key": "dcc-431-2023",
+ "label": "Decizia CCR nr. 431/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "431",
+ "date": "2023-07-11",
+ "year": "2023",
+ "heading": "DECIZIA nr. 431 din 11 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 14 alin. (1) și (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "1169",
+  "bis": false,
+  "date": "2023-12-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "2.516/115/2019",
+  "1.768D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 14 alin. (5) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice, excepție ridicată de Sindicatul Național al Polițiștilor și Personalului Contractual din Ministerul Afacerilor Interne, pentru membrii de sindicat Marinel Alin Mirigel, Cristian Ciungu și Levente Karacsony, în dosarele nr. 2.516/115/2019, nr. 2.536/115/2019 și nr. 2.563/115/2019 ale Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de același autor în aceleași dosare ale aceleiași instanțe judecătorești și constată că dispozițiile art. 14 alin. (1) din anexa nr. VI la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Mehedinți - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2023-12-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277655",
+  "text_sha256": "4e5257e85816081a970e476c3e55772e8b04a8269e077bc42b706b1817d23ef5",
+  "catalogue_sha256": "4e5257e85816081a970e476c3e55772e8b04a8269e077bc42b706b1817d23ef5",
+  "fetched": "2026-11-03T01:15:46Z",
+  "chars": 20242,
+  "portal_id": "277655",
+  "tip": "DECIZIE"
+ }
+}
