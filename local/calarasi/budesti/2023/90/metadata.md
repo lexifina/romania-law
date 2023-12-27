@@ -1,0 +1,10 @@
+# HCL Budești nr. 90/2023
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Orașului Budești
+- Decision: nr. 90/2023
+- Adopted: 2023-12-27
+- Published: 2025-08-25
+- Title: privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale în anul fiscal 2024
+- Record: https://emol.ro/budesti-cl/registru-hcl/140795
