@@ -1,0 +1,3 @@
+# Articolul unic
+Se dispune publicarea efectuării radierii din Registrul general și din Registrul special Instituții Financiare Nebancare, ținute de către Banca Națională a României, a Societății FINANCIARUM PRIME IFN - S.A., cu sediul în București, calea Floreasca nr. 91-97, biroul nr. 203, bloc F1, scara 4, etaj 3, ap. 39, sectorul 1, înregistrată la oficiul registrul comerțului cu nr. J40/10503/2020, cod unic de înregistrare 42964478, înscrisă în Registrul general cu nr. RG-PJR-41-110361/17.02.2021 și în registrul special cu nr. RS-PJR-41-110145/07.02.2023, la secțiunea k) - "Activități multiple de creditare".
+334 755
