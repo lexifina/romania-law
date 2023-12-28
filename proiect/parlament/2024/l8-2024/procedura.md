@@ -1,0 +1,22 @@
+# Proiect de lege L8/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 128/2024 (`legea-128-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.123/2023 pentru modificarea şi completarea Ordonanţei de urgenţă a Guvernului nr.36/2023 privind stabilirea cadrului general pentru închiderea programelor operaţionale finanţate în perioada de programare 2014-2020
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2023-12-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2023-12-28: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L008AD.PDF
+- 2023-12-28: Forma inițiatorului (FG): [fg-79955904.md](fg-79955904.md); official file https://www.senat.ro/legis/PDF/2024/24L008FG.PDF
+- 2023-12-28: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L008EM.PDF
+- 2023-12-28: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L008LG.PDF
+- 2023-12-28: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L008OG.PDF
+- 2023-12-28: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L008HG.PDF
