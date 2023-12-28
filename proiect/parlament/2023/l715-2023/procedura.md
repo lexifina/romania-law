@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2023-12-18: documents published: Aviz comisie
 - 2023-12-20: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-22: sent for promulgation
+- 2023-12-28: promulgated, becomes Legea nr. 422/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Guvernul României.
 - 2023-12-20: Raport comisie sesizată pe fond (CR): [cr-48561409.md](cr-48561409.md); official file https://www.senat.ro/legis/PDF/2023/23L715CR.PDF
 - 2023-12-20: Adresă privind sesizarea CCR (AXS): [axs-333905c3.md](axs-333905c3.md); official file https://www.senat.ro/legis/PDF/2023/23L715AXS.PDF
 - 2023-12-20: Forma trimisă la promulgare (LP): [lp-198db5ce.md](lp-198db5ce.md); official file https://www.senat.ro/legis/PDF/2023/23L715LP.PDF
+- 2023-12-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L715DP.PDF
+- 2023-12-28: Forma promulgată (FP): [fp-12cbf3c1.md](fp-12cbf3c1.md); official file https://www.senat.ro/legis/PDF/2023/23L715FP.PDF
