@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: registered at the Chamber of Deputies
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Aviz comisie, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-21: sent for promulgation
+- 2023-12-29: promulgated, becomes Legea nr. 424/2023; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-19: Aviz comisie (CA45): [ca45-20151b0f.md](ca45-20151b0f.md); official file https://www.senat.ro/legis/PDF/2023/23L591CA45.PDF
 - 2023-12-19: Adresă privind sesizarea CCR (AXS): [axs-ba9c4e98.md](axs-ba9c4e98.md); official file https://www.senat.ro/legis/PDF/2023/23L591AXS.PDF
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L591LP.PDF
+- 2023-12-29: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L591SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2023-12-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L591DP.PDF
+- 2023-12-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L591FP.PDF
