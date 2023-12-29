@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-12-20: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond, Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-22: sent for promulgation
 - 2023-12-28: promulgated, becomes Legea nr. 421/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-29: published in the Monitorul Oficial
 
 ## Documents
 
