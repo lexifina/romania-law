@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-12-11: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-20: sent for promulgation
+- 2023-12-29: promulgated, becomes Legea nr. 427/2023; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2023-12-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L556FS.PDF
 - 2023-12-18: Adresă privind sesizarea CCR (AXS): [axs-2b809c91.md](axs-2b809c91.md); official file https://www.senat.ro/legis/PDF/2023/23L556AXS.PDF
 - 2023-12-18: Forma trimisă la promulgare (LP): [lp-8efd5e43.md](lp-8efd5e43.md); official file https://www.senat.ro/legis/PDF/2023/23L556LP.PDF
+- 2023-12-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L556DP.PDF
+- 2023-12-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L556FP.PDF
