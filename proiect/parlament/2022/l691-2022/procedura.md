@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-16: sent for promulgation
 - 2023-12-28: promulgated, becomes Legea nr. 419/2023; documents published: Decret de promulgare, Forma promulgată
+- 2023-12-29: published in the Monitorul Oficial
 
 ## Documents
 
