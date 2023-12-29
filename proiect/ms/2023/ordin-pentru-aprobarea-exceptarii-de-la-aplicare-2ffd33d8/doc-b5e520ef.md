@@ -1,0 +1,30 @@
+MINISTERUL SĂNĂTĂȚII
+                                                   DIRECȚIA GENERALĂ SĂNĂTATE  PUBLICĂ ȘI
+                                                   PROGRAME DE SĂNĂTATE
+
+              Aprob,
+                Ministrul Sănătăți                                                                                                          Prof.Univ.Dr. Alexandru Rafila
+
+                                                               REFERAT DE APROBARE
+
+          Potrivit art. 6 lit. e) pct. 3 din Legea nr. 95/2006 privind reforma în domeniul sănătății, republicată, cu modificările și completările ulterioare, stabilirea normelor de igienă și sănătate publică comunitare reprezintă unul dintre principalele domenii de intervenție ale asistenței de sănătate publică.
+        Ministerul Agriculturii și Dezvoltării Rurale, prin Agenția Națională a Zonei Montane, autoritate responsabilă cu administrarea  Programelor de investiții dedicate zonei montane a  sesizat  prin adresa nr.  AR. 9400/24.05.2023 impactul negativ pe care îl are modificarea art. 11, Cap. I - Norme de igienă referitoare la zonele de locuit, din Ordinul Ministrului Sănătății nr. 119/2014 prin intrarea în vigoare a Ordinului Ministrului Sănătății nr. 1257 din 10.04.2023,  asupra unor proiecte aflate în derulare  pentru care  cererile de finanțare aferente programelor de investiții  au fost evaluate și contractate în perioada 25.10.2022 - 30.12.2022, iar implementarea proiectelor, conform hotărârilor de guvern mai sus menționate, trebuie finalizată până la data de 29.11.2023 prin prezentarea autorizațiilor de functionare  respectiv :
+- Centre de colectare și/sau prelucrare a laptelui, conform Hotărârii de Guvern nr.1.238/2022 privind stabilirea valorii schemei de finanțare pentru anul 2022, condițiilor de eligibilitate, cheltuielilor eligibile, modului de acordare a finanțării, precum și a modalității de verificare și control pentru schema de finanțare în cadrul Programului de investiții pentru înființarea centrelor de colectare și/sau prelucrare a laptelui în zona montană
+ b) - Stâne montane, conform Hotărârii de Guvern  nr.1.239/ 2022 privind stabilirea valorii schemei de finanțare pentru anul 2022, condițiilor de eligibilitate, cheltuielilor eligibile, modului de acordare a finanțării, precum și a modalităților de verificare și control în cadrul Programului de investiții pentru înființarea stânelor montane
+ c) - Centre de colectare sau de colectare si prelucrare a fructelor de pădure, a ciupercilor și/sau a plantelor medicinale și aromatice din flora spontană și/sau de cultură conform Hotărârii de Guvern  nr. 1.240/2022 privind stabilirea valorii schemei de finanțare pentru anul 2022, a condițiilor de eligibilitate, a cheltuielilor eligibile, a modului de acordare a finanțării, precum și a modalităților de verificare și control în cadrul Programului de investiții pentru înființarea centrelor de colectare sau de colectare și prelucrare a fructelor de pădure, a ciupercilor și/sau a plantelor medicinale și aromatice din flora spontană și/sau de cultură în zona montană
+
+     După intrarea în vigoare a Ordinului Ministrului Sănătății nr. 1257/2023, pentru obținerea autorizației sanitare de funcționare este necesară efectuarea studiului de evaluare a impactului asupra sănătății populației
+          -  În forma anterioară a articolului 11 se stabileau distanțele minime de protecție sanitară între teritoriile protejate și o serie de unități care produc disconfort și riscuri asupra sănătății populației
+          - În forma actuală, articolul 11 stabilește faptul că pentru toate obiectivele și activitățile menționate, indiferent de distanță, este obligatorie efectuarea evaluării impactului asupra sănătății populației în conformitate cu Metodologia de organizare a studiilor de evaluare a impactului anumitor proiecte publice și private asupra sănătății populației, aprobată prin Ordinul Ministrului Sănătății nr. 1.524/2019
+     In varianta actuală se permite, în funcție de specificul fiecărei localități, aprecierea justă și obiectivă a distanței față de zonele protejate a unor investiții, insă ea nu trebuie sa producă efecte în timpul derulării Programelor de investiții pentru care au fost stabilite proceduri și reglementări inaintea modificării Ordinului Ministrului Sănătății nr. 119 /2014.
+  Obligativitatea prezentării unui studiu de evaluare a impactului populației pentru obținerea autorizației de funcționare emisă pentru proiectele  menționate, ar însemna blocarea celor 165 proiecte aflate în etapa de implementare.
+  Având în vedere că în prezent funcționează un număr insuficient de societăți comerciale care realizează studii de impact, neprezentarea autorizației de funcționare a investiției, până la data de 29.11.2023, care  avea ca efect rezilierea contractului de finanțare.
+   Prezentul proiect de  act normativ propune exceptarea de la prevederile art.11 din  Normele  de igienă și sănătate publică privind mediul de viață al populației, aprobate prin Ordinul Ministrului Sănătății nr. 119/2014, în ceea ce privește programele  gestionate de Agenția Națională a Zonei Montane, pe perioada implementării, respectiv până la data de 29.12.2023 .
+   În sensul celor de mai sus, vă transmitem, alăturat proiectul de Ordin pentru aprobarea exceptării de la aplicarea prevederilor art.11 din  Normele  de igienă și sănătate publică privind mediul de viață al populației, aprobate prin Ordinul Ministrului Sănătății nr. 119/2014, a programelor  gestionate de Agenția Națională a Zonei Montane, pe perioada implementării investițiilor, respectiv până la data de 29.12.2023 pe care dacă sunteți de acord, vă rugăm să-l aprobați în vederea postării pe siteul Ministerului Sănătății pntru îndeplinirea procedurii de transparență decizională.
+
+Cu deosebită considerație,
+
+                                                                Director General
+                                                                 Dr.Amalia Serban
+
+Intocmit cs Marcu Horatiu/665
