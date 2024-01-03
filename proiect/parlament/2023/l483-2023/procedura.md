@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-23: sent for promulgation
 - 2023-12-29: promulgated, becomes Legea nr. 430/2023; documents published: Decret de promulgare, Forma promulgată
+- 2024-01-03: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: Forma trimisă la promulgare (LP): [lp-96eb59d7.md](lp-96eb59d7.md); official file https://www.senat.ro/legis/PDF/2023/23L483LP.PDF
 - 2023-12-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L483DP.PDF
 - 2023-12-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L483FP.PDF
+- 2024-01-03: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L483SM.PDF (its day is not given by the bill file: shown from the last stage held)
