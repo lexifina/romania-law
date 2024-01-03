@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-12-13: documents published: Aviz comisie
 - 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-20: sent for promulgation
+- 2024-01-03: promulgated, becomes Legea nr. 2/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2023-12-13: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L705CA12.PDF
 - 2023-12-18: Adresă privind sesizarea CCR (AXS): [axs-2b809c91.md](axs-2b809c91.md); official file https://www.senat.ro/legis/PDF/2023/23L705AXS.PDF
 - 2023-12-18: Forma trimisă la promulgare (LP): [lp-1a2fbe6a.md](lp-1a2fbe6a.md); official file https://www.senat.ro/legis/PDF/2023/23L705LP.PDF
+- 2024-01-03: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L705DP.PDF
+- 2024-01-03: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L705FP.PDF
