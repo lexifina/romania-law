@@ -1,0 +1,372 @@
+{
+ "key": "dcc-500-2023",
+ "label": "Decizia CCR nr. 500/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "500",
+ "date": "2023-10-03",
+ "year": "2023",
+ "heading": "DECIZIA nr. 500 din 3 octombrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a prevederilor art. VI pct. 1, 2 și 3 din Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "7",
+  "bis": false,
+  "date": "2024-01-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "146/44/2022",
+  "1.430D/2022",
+  "142/36/2022",
+  "126/36/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2021",
+    "number": "8",
+    "year": "2021",
+    "path": "oug/2021/8"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Teodora Gabriela Petrea și Andreea Sabina Spătariu, de Mihai Sebastian Mirea și Costina Bianca Ursache, de Denisa Mocanu și Ștefania Cristina Roibu și de Andrei Mihai Tănase în dosarele nr. 142/36/2022, nr. 127/36/2022, nr. 143/36/2022 și nr. 126/36/2022 ale Curții de Apel Constanța - Secția de contencios administrativ și fiscal, precum și de Aida-Adriana Stan în Dosarul nr. 146/44/2022 al Curții de Apel Galați - Secția contencios administrativ și fiscal și constată că prevederile art. VI pct. 1, 2 și 3 din Ordonanța de urgență a Guvernului nr. 8/2021 privind unele măsuri fiscal-bugetare, precum și pentru modificarea și completarea unor acte normative sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Constanța - Secția de contencios administrativ și fiscal și Curții de Apel Galați - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 8/2021",
+    "number": "8",
+    "year": "2021",
+    "path": "oug/2021/8"
+   },
+   "articles": [
+    {
+     "art": "VI",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [
+    {
+     "art": "205",
+     "alin": [
+      "2",
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "118",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "202",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "84",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 2/2017",
+    "number": "2",
+    "year": "2017",
+    "path": "oug/2017/2"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4",
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "32",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 25
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 137/2017",
+    "number": "137",
+    "year": "2017",
+    "path": "lege/2017/137"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea tinerilor nr. 350/2006",
+    "number": "350",
+    "year": "2006",
+    "path": "lege/2006/350"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 500/2002",
+    "number": "500",
+    "year": "2002",
+    "path": "lege/2002/500"
+   },
+   "articles": [
+    {
+     "art": "123",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea învățământului superior nr. 199/2023",
+    "number": "199",
+    "year": "2023",
+    "path": "lege/2023/199"
+   },
+   "articles": [
+    {
+     "art": "128",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "499",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 272/2004",
+    "number": "272",
+    "year": "2004",
+    "path": "lege/2004/272"
+   },
+   "articles": [
+    {
+     "art": "55",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-01-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/277941",
+  "text_sha256": "93b803819cd6c6b5d644ef471ec1f18474de65c87d1e3388eef36e91d0cfbd07",
+  "catalogue_sha256": "93b803819cd6c6b5d644ef471ec1f18474de65c87d1e3388eef36e91d0cfbd07",
+  "fetched": "2026-11-03T01:15:20Z",
+  "chars": 41301,
+  "portal_id": "277941",
+  "tip": "DECIZIE"
+ }
+}
