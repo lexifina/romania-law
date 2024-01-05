@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-10-04: registered at the Chamber of Deputies
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-21: sent for promulgation
+- 2024-01-05: promulgated, becomes Legea nr. 4/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2022-09-29: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L478CA56.PDF
 - 2023-12-19: Adresă privind sesizarea CCR (AXS): [axs-ba9c4e98.md](axs-ba9c4e98.md); official file https://www.senat.ro/legis/PDF/2022/22L478AXS.PDF
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L478LP.PDF
+- 2024-01-05: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L478DP.PDF
+- 2024-01-05: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L478FP.PDF
