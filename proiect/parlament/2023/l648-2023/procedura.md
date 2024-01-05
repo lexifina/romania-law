@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-21: sent for promulgation
 - 2023-12-29: promulgated, becomes Legea nr. 431/2023; documents published: Decret de promulgare, Forma promulgată
+- 2024-01-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Guvernul României.
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L648LP.PDF
 - 2023-12-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L648DP.PDF
 - 2023-12-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L648FP.PDF
+- 2024-01-05: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L648TA.PDF (its day is not given by the bill file: shown from the last stage held)
