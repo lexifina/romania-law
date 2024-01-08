@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-12-19: adopted by the Senate
 - 2023-12-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-22: sent for promulgation
+- 2024-01-08: promulgated, becomes Legea nr. 10/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Guvernul României.
 - 2023-09-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L423AM.PDF
 - 2023-12-20: Adresă privind sesizarea CCR (AXS): [axs-726d70f1.md](axs-726d70f1.md); official file https://www.senat.ro/legis/PDF/2023/23L423AXS.PDF
 - 2023-12-20: Forma trimisă la promulgare (LP): [lp-9885a7ce.md](lp-9885a7ce.md); official file https://www.senat.ro/legis/PDF/2023/23L423LP.PDF
+- 2024-01-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L423DP.PDF
+- 2024-01-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L423FP.PDF
