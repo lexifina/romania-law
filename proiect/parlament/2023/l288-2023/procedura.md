@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2023-12-11: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat
 - 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-23: sent for promulgation
+- 2024-01-08: promulgated, becomes Legea nr. 11/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2023-12-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288FS.PDF
 - 2023-12-18: Adresă privind sesizarea CCR (AXS): [axs-2b809c91.md](axs-2b809c91.md); official file https://www.senat.ro/legis/PDF/2023/23L288AXS.PDF
 - 2023-12-18: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288LP.PDF
+- 2024-01-08: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288DP.PDF
+- 2024-01-08: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L288FP.PDF
