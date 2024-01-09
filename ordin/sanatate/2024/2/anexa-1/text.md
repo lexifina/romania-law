@@ -1,0 +1,589 @@
+# ANEXĂ
+MODIFICĂRI ȘI COMPLETĂRI ale anexei la Ordinul ministrului sănătății nr. 2.494/2023 pentru aprobarea prețurilor maximale ale medicamentelor de uz uman valabile în România care pot fi utilizate/comercializate exclusiv de farmaciile comunitare/oficinele locale de distribuție/farmaciile cu circuit închis și drogheriile care nu se află în relație contractuală cu casele de asigurări de sănătate și/sau direcțiile de sănătate publică județene și a municipiului București sau/și cu Ministerul Sănătății, cuprinse în Catalogul public
+1.
+După poziția nr. 6156 se introduc 41 de noi poziții, pozițiile nr. 6157-6197, cu următorul cuprins:
+Nr. crt.
+Cod_cim
+Obs
+Denumire produs
+Formă
+Concentrație
+Firmă/Țară
+DCI
+Ambalaj
+Grupa ATC
+Stat_frm
+Stat_anm
+Preț producător (lei)
+Preț ridicata maximal fără TVA (lei)
+Preț amănunt maximal cu TVA (lei)
+Stare
+Observații
+Valabilitate preț 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 6157
+W60378001
+RIFAMPICINĂ ARENA 150 mg
+CAPS. 150 mg
+ARENA GROUP - S.A. - ROMÂNIA
+RIFAMPICINUM
+Cutie x 1 blist. Al/PVC x 10 caps. (3 ani)
+J04AB02
+MG generic 8,70 9,92 13,41
+Prețurile sunt valabile până la data de 31.07.2024. 6158
+W64519004
+CARBOPLATIN TEVA 10 mg/ml
+CONC. PT. SOL. PERF. 10 mg/ml
+TEVA B.V. - OLANDA
+CARBOPLATINUM
+Cutie cu 1 flacon din sticlă incoloră x 60 ml conc. pt. sol. perf. (18 luni)
+L01XA02
+MG generic 628,05 658,05 755,42
+Prețurile sunt valabile până la data de 31.07.2024. 6159
+W67801001
+CEFAZOLINĂ APTAPHARMA 1 g
+PULB. PT. SOL. INJ./PERF. 1 g
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+CEFAZOLINUM
+Cutie cu 10 flac. din sticlă incoloră cu capacitatea de 10 ml (2 ani după ambalare pt. comercializare; după reconstituire se utilizează imediat)
+J01DB04
+MG generic 89,24 99,95 126,38
+Prețurile sunt valabile până la data de 31.07.2024. 6160
+W42284005
+OMEPRAZOL LPH 20 mg
+CAPS. GASTRO-REZ. 20 mg
+LABORMED PHARMA - S.A. - ROMÂNIA
+OMEPRAZOLUM
+Cutie x 2 blist. PVC-Al-OPA/Al x 15 caps. gastrorez. (2 ani)
+A02BC01
+MG generic 18,46 21,04 28,44
+Prețurile sunt valabile până la data de 31.07.2024. 6161
+W08363002
+CERVUGID
+OVULE
+IRCON - S.R.L. - ROMÂNIA
+COMBINAȚII (CHLORAMPHENICOLUM + METRONIDAZOLUM + NYSTATINUM + HYDROCORTISONUM)
+Cutie cu 2 folii termosudate PVC-PE x 6 ovule (2 ani)
+G01BA
+MG generic 32,54 37,09 48,52
+Prețurile sunt valabile până la data de 31.07.2024. 6162
+W69521007
+DEXMEDETOMIDINĂ EVER VALINJECT 100 micrograme/ml
+CONC. PT. SOL. PERF. 100 micro-grame/ml
+EVER VALINJECT GMBH - AUSTRIA
+DEXMEDETOMIDINUM
+Cutie cu 5 fiole din sticlă incoloră, cu capacitatea de 2 ml, care conțin conc. pt. sol. perf. (4 ani după ambalare pentru comercializare; după prima deschidere a flac. se utilizează imediat)
+N05CM18
+MG generic 412,37 442,37 520,33
+Prețurile sunt valabile până la data de 31.07.2024. 6163
+W69376003
+BORTEZOMIB EVER PHARMA 2,5 mg/ml
+SOL. INJ. 2,5 mg/ml
+EVER VALINJECT GMBH - AUSTRIA
+BORTEZOMIBUM
+Cutie cu 1 x 1,4 ml (3,5 mg/1,4 ml) flac. din sticlă incoloră cu sol. inj. (18 luni după ambalare pt. comercializare; după prima deschidere a flac. se utilizează imediat)
+L01XG01
+MG generic 1.678,44 1.708,44 1.900,35
+Prețurile sunt valabile până la data de 31.07.2024. 6164
+W67965002
+AMOXICILINĂ/ ACID CLAVULANIC APTAPHARMA 1.000 mg/200 mg
+PULB. PT. SOL. INJ./PERF. 1.000 mg/ 200 mg
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+AMOXICILLINUM + ACIDUM CLAVULANICUM
+Cutie cu 10 flac. din sticlă transparentă cu capacitatea de 20 ml cu pulb. pt. sol. inj./perf. (3 ani după ambalare pt. comercializare; după prima deschidere se utilizează imediat)
+J01CR02
+MG generic 170,83 187,91 229,40
+Prețurile sunt valabile până la data de 31.07.2024. 6165
+W66628001
+RUXIENCE 100 mg
+CONC. PT. SOL. PERF. 100 mg
+PFIZER EUROPE MA EEIG - BELGIA
+RITUXIMABUM
+Cutie cu 1 flac. din sticlă de 10 ml x 100 mg rituximab (24 luni)
+L01XC02
+MB biosimilar 503,04 533,04 619,16
+Prețurile sunt valabile până la data de 31.07.2024. 6166
+W66629001
+RUXIENCE 500 mg
+CONC. PT. SOL. PERF. 500 mg
+PFIZER EUROPE MA EEIG - BELGIA
+RITUXIMABUM
+Cutie cu 1 flac. din sticlă de 50 ml x 500 mg rituximab (24 luni)
+L01XC02
+MB biosimilar 2.542,03 2.572,03 2.841,66
+Prețurile sunt valabile până la data de 31.07.2024. 6167
+W68535002
+ERTAPENEM APTAPHARMA 1 g
+PULB. PT. CONC. PT. SOL. PERF. 1 g
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVACIA
+ERTAPENEMUM
+Cutie cu 10 flac. din sticlă incoloră tip I, cu capacitate de 20 ml, care conțin pulb. pt. conc. pt. sol. perf. (2 ani)
+J01DH03
+MG generic 1.028,17 1.058,17 1.191,56
+Prețurile sunt valabile până la data de 31.07.2024. 6168
+W69284009
+EPIDUO FORTE 3 mg/25 mg/g
+GEL 3 mg/ 25 mg/g
+GALDERMA INTERNATIONAL - FRANȚA
+COMBINAȚII (ADAPALENUM + BENZOYLIS PEROXIDUM)
+Cutie cu 1 recipient multidoză din PP, PEJD și PEID x 45 g gel (2 ani după ambalarea pt. comercializare; după prima deschidere 3 luni)
+D10AD53
+MI inovativ 140,52 154,57 188,70
+Prețurile sunt valabile până la data de 31.07.2024. 6169
+W69284005
+EPIDUO FORTE 3 mg/25 mg/g
+GEL 3 mg/ 25 mg/g
+GALDERMA INTERNATIONAL - FRANȚA
+COMBINAȚII (ADAPALENUM + BENZOYLIS PEROXIDUM)
+Cutie cu 1 recipient multidoză din PP și PEID x 45 g gel (2 ani după ambalarea pt. comercializare; după prima deschidere 3 luni)
+D10AD53
+MI inovativ 140,52 154,57 188,70
+Prețurile sunt valabile până la data de 31.07.2024. 6170
+W68667002
+VANCOMICINĂ APTHAPHARMA 1.000 mg
+PULB. PT. CONC. PT. SOL. PERF. 1.000 mg
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+VANCOMYCINUM
+Cutie cu 10 flac. de sticlă transparentă cu capacitate de 20 ml, cu pulb. pt. conc. pt. sol. perf. (3 ani după ambalare pt. comercializare; după prima deschidere a flac. se utilizează imediat)
+J01XA01
+MG generic 624,23 654,23 751,26
+Prețurile sunt valabile până la data de 31.07.2024. 6171
+W68435001
+AMPICILINĂ/ SULBACTAM APTAPHARMA 1 g/0,5 g
+PULB. PT. SOL. INJ./PERF. 1 g/0,5 g
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+AMPICILLINUM + SULBACTAM
+Cutie cu 10 flac. din sticlă incoloră, cu capacitatea de 20 ml cu pulb. pt. sol. inj./perf. (3 ani)
+J01CR01
+MG generic 142,44 156,68 191,28
+Prețurile sunt valabile până la data de 31.07.2024. 6172
+W67965003
+AMOXICILINĂ/ ACID CLAVULANIC APTAPHARMA 1.000 mg/200 mg
+PULB. PT. SOL. INJ./PERF. 1.000 mg/ 200 mg
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+AMOXICILLINUM + ACIDUM CLAVULANICUM
+Cutie cu 100 flac. din sticlă transparentă cu capacitatea de 20 ml cu pulb. pt. sol. inj./perf. (3 ani după ambalare pt. comercializare; după prima deschidere se utilizează imediat)
+J01CR02
+MG generic 1.708,34 1.738,34 1.932,94
+Prețurile sunt valabile până la data de 31.07.2024. 6173
+W65978002
+MEROPENEM APTAPHARMA 1.000 mg
+PULB. PT. SOL. INJ./PERF. 1.000 mg
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+MEROPENEMUM
+Cutie cu 10 flac. din sticlă transparentă, prevăzute cu dop din cauciuc și capse detașabile, ce conțin pulb. pt. sol. inj./perf. (4 ani; după reconstituire se utilizează imediat)
+J01DH02
+MG generic 842,70 872,70 989,39
+Prețurile sunt valabile până la data de 31.07.2024. 6174
+W69351001
+MYOCET LIPOSOMAL 50 mg
+PULB. + AMESTEC PT. CONC. PT. DISP. LIPOZOM. PT. PERF. 50 mg
+TEVA B.V. - OLANDA
+DOXORUBICINUM
+Cutie x 2 seturi a 3 flac. (1 flac. pulb. + 1 flac. lipozomi + 1 flac. sol. tamp.) (18 luni)
+L01DB01
+MI inovativ 2.874,63 2.904,63 3.204,20
+Prețurile sunt aprobate cu o diminuare de 5% pentru o perioadă de 12 luni.
+Prețurile sunt valabile până la data de 24.04.2024. 6175
+W69169007
+STERCORE 2 mg
+COMPR. FILM. 2 mg
+MEDOCHEMIE LIMITED - CIPRU
+PRUCALOPRIDUM
+Cutie cu blist. Al/Al x 28 compr. film. (36 luni)
+A06AX
+MG generic 142,85 157,13 191,83
+Prețurile sunt valabile până la data de 31.07.2024. 6176
+W69626002
+FINTEPLA
+SOL. ORALĂ 2,2 mg/ml
+UCB PHARMA S.A. - BELGIA
+FENFLURAMINUM
+Flacon care conține 120 ml de sol. orală, un adaptor pentru flacon, două seringi pentru administrare orală de 3 ml cu gradații la 0,1 ml și două seringi pentru administrare orală de 6 ml cu gradații la 0,2 ml (4 ani)
+N03AX26
+MO orfan 7.034,41 7.064,41 7.738,36
+Prețurile sunt valabile până la data de 31.07.2024. 6177
+W69710001
+VITAMINA C GALENIKA 100 mg/ml
+SOL. INJ./PERF. 100 mg/ml
+GALENIKA INTERNATIONAL KFT. - UNGARIA
+ACIDUM ASCORBICUM
+Cutie cu 5 blist. din PVC a câte 10 fiole brune din sticlă hidrolitică, cu inel de rupere x 5 ml sol. inj./perf. (2 ani)
+A11GA01
+MG generic 169,79 186,77 228,01
+Prețurile sunt valabile până la data de 31.07.2024. 6178
+W69168007
+STERCORE 1 mg
+COMPR. FILM. 1 mg
+MEDOCHEMIE LIMITED - CIPRU
+PRUCALOPRIDUM
+Cutie cu blist. Al/Al x 28 compr. film. (36 luni)
+A06AX
+MG generic 138,48 152,33 185,96
+Prețurile sunt valabile până la data de 31.07.2024. 6179
+W69415001
+TAMALIS 1 mg/ml
+SOL. ORALĂ 1 mg/ml
+NOUCOR HEALTH - S.A. - SPANIA
+RUPATADINUM
+Cutie cu 1 flac. brun din PET prevăzut cu dop perforat din PEJD, o seringă de 5 ml din PE-PP, gradată la 0,25 ml cu sol. orală (30 luni după ambalarea pt. comercializare; după prima deschidere a flac. 30 luni)
+R06AX28
+MI inovativ 23,46 26,74 34,98
+Prețurile sunt valabile până la data de 31.07.2024. 6180
+W69414006
+TAMALIS 10 mg
+COMPR. 10 mg
+NOUCOR HEALTH - S.A. - SPANIA
+RUPATADINUM
+Cutie cu blist. PVC-PVDC/Al x 30 compr. (3 ani)
+R06AX28
+MI inovativ 26,27 29,95 39,17
+Prețurile sunt valabile până la data de 31.07.2024. 6181
+W69458038
+OXIGEN LINDE 100%
+GAZ MEDICINAL CRIOGENIC 100%
+LINDE GAS A.S. - REPUBLICA CEHĂ
+OXIGENUM
+Recipiente criogenice - Tanc de transport (60 zile)
+V03AN01
+MG generic 146.958,67 146.988,67 160.255,80
+Prețurile sunt valabile până la data de 31.07.2024. 6182
+W69676001
+TIAPRIDAL 100 mg
+COMPR. 100 mg
+NEURAXPHARM ARZNEIMITTEL GMBH - GERMANIA
+TIAPRIDUM
+Cutie cu 2 blist. PVC/Al x 10 compr. (3 ani)
+N05AL03
+MI inovativ 7,11 8,11 10,96
+Prețurile sunt valabile până la data de 31.07.2024. 6183
+W66554002
+FOMICYT 40 mg/ml
+PULB. PT. SOL. PERF. 40 mg/ml
+INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH - GERMANIA
+FOSFOMYCINUM
+Cutie cu 10 flac. din sticlă transparentă tip I x 4 g fosfomicină (4 ani)
+J01XX01
+MG generic 1.410,35 1.440,35 1.608,13
+Prețurile sunt valabile până la data de 31.07.2024. 6184
+W69187001
+VERDYE 5 mg/ml
+PULB. PT. SOL. INJ. 5 mg/ml
+DIAGNOSTIC GREEN GMBH - GERMANIA
+VERDE DE INDOCIANINĂ
+Cutie cu 5 flac. din sticlă portocalie (tip I) a câte 25 mg pulb. pt. sol. inj. (5 ani după ambalare pentru comercializare; după reconstituire se utilizează imediat)
+V04CX01
+MG generic 1.792,53 1.822,53 2.024,71
+Prețurile sunt valabile până la data de 31.07.2024. 6185
+W67950017
+NORADRENALINĂ AMDIPHARM 1 mg/ml
+CONC. PT. SOL. PERF. 1 mg/ml
+AMDIPHARM
+LIMITED - IRLANDA
+NORADRENALINUM
+Cutie cu 10 fiole din sticlă transparentă x 8 ml conc. pt. sol. perf. (2 ani)
+C01CA03
+MG generic 605,16 635,16 730,47
+Prețurile sunt valabile până la data de 31.07.2024. 6186
+W69445002
+NETILDEX 3 mg/ml + 1 mg/ml
+GEL OFT. ÎN RECIPIENT UNIDOZĂ 3 mg/ml + 1 mg/ml
+SIFI S.P.A - ITALIA
+COMBINAȚII (NETILMICINUM + DEXAMETHASONUM)
+Cutie cu 3 benzi termosudate a câte 5 recipiente unidoză din PEJD introduse în câte un plic de Al, care conțin 0,4 ml gel oftalmic (2 ani după ambalare pt. comercializare; după prima deschidere se utilizează imediat)
+S01CA01
+MG generic 65,36 73,20 92,56
+Prețurile sunt valabile până la data de 31.07.2024. 6187
+W68436001
+AMPICILINĂ/ SULBACTAM APTAPHARMA 2 g/1 g
+PULB. PT. SOL. INJ./PERF. 2 g/1 g
+APTA MEDICA INTERNACIONAL D.O.O. - SLOVENIA
+AMPICILLINUM + SULBACTAM
+Cutie cu 10 flac. din sticlă incoloră, cu capacitatea de 20 ml cu pulb. pt. sol. inj./perf. (3 ani)
+J01CR01
+MG generic 264,39 290,83 355,04
+Prețurile sunt valabile până la data de 31.07.2024. 6188
+W69286005
+APIXABAN TEVA 5 mg
+COMPR. FILM. 5 mg
+TEVA PHARMACEUTICALS - S.R.L. - ROMÂNIA
+APIXABANUM
+Cutie cu blist. PVC-PVDC/Al x 60 compr. film. (2 ani)
+B01AF02
+MG generic 208,18 229,00 279,56
+Prețurile sunt valabile până la data de 31.07.2024. 6189
+W69527001
+BEKEMV 300 mg
+CONC. PT. SOL. PERF. 300 mg
+AMGEN TECHNOLOGY (IRELAND) UC - IRLANDA
+ECULIZUMABUM
+Cutie cu 1 flac. x 30 ml conc. pt. sol. perf. (3 ani)
+L04AA25
+MB biosimilar 22.621,69 22.651,69 24.728,49
+Prețurile sunt valabile până la data de 31.07.2024. 6190
+W69285003
+APIXABAN TEVA 2,5 mg
+COMPR. FILM. 2,5 mg
+TEVA PHARMACEUTICALS - S.R.L. - ROMÂNIA
+APIXABANUM
+Cutie cu blist. PVC-PVDC/Al x 60 compr. film. (2 ani)
+B01AF02
+MG generic 200,76 220,84 269,60
+Prețurile sunt valabile până la data de 31.07.2024. 6191
+W63713001
+ADEMPAS 0,5 mg
+COMPR. FILM. 0,5 mg
+BAYER AG
+RIOCIGUAT
+Cutie cu blist. din folie de Al/PP x 42 comprimate filmate
+C02KX05
+MO orfan 4.537,59 4.567,59 5.016,82
+Prețurile sunt valabile până la data de 31.07.2024. 6192
+W63714001
+ADEMPAS 1 mg
+COMPR. FILM. 1 mg
+BAYER AG
+RIOCIGUAT
+Cutie cu blist. din folie de Al/PP x 42 comprimate filmate
+C02KX05
+MO orfan 3.770,07 3.800,07 4.180,23
+Prețurile sunt valabile până la data de 31.07.2024. 6193
+W63715001
+ADEMPAS 1,5 mg
+COMPR. FILM. 1,5 mg
+BAYER AG
+RIOCIGUAT
+Cutie cu blist. din folie de Al/PP x 42 comprimate filmate
+C02KX05
+MO orfan 3.770,07 3.800,07 4.180,23
+Prețurile sunt valabile până la data de 31.07.2024. 6194
+W63716001
+ADEMPAS 2 mg
+COMPR. FILM. 2 mg
+BAYER AG
+RIOCIGUAT
+Cutie cu blist. din folie de Al/PP x 42 comprimate filmate
+C02KX05
+MO orfan 3.770,07 3.800,07 4.180,23
+Prețurile sunt valabile până la data de 31.07.2024. 6195
+W63717001
+ADEMPAS 2,5 mg
+COMPR. FILM. 2,5 mg
+BAYER AG
+RIOCIGUAT
+Cutie cu blist. din folie de Al/PP x 42 comprimate filmate
+C02KX05
+MO orfan 3.770,07 3.800,07 4.180,23
+Prețurile sunt valabile până la data de 31.07.2024. 6196
+W65648001
+PREVYMIS 240 mg
+COMPR. FILM. 240 mg
+MERCK SHARP & DOHME B.V.
+LETERMOVIRUM
+Cutie x 4 blist. PA-Al-PVC/Al tip card x 7 compr. film.
+J05AX18
+MO orfan 19.551,82 19.581,82 21.382,33
+Prețurile sunt valabile până la data de 31.07.2024. 6197
+W69696003
+PANTOPRAZOL KALCEKS 40 mg
+PULB. PT. SOL. INJ. 40 mg
+AS KALCEKS - LETONIA
+PANTOPRAZOLUM
+Cutie cu 10 flac. din sticlă incoloră, de capacitate 10 ml cu pulb. pt. sol. inj.
+A02BC02
+MG generic 125,00 137,50 167,86
+Prețurile sunt valabile până la data de 31.07.2024.
+2.
+Pozițiile nr. 2134, 2189, 2780, 2945, 3033, 3034, 3542, 4022, 4391, 5045, 5046, 5106, 5107, 5108, 5193, 5194, 5306 și 5732 se modifică și vor avea următorul cuprins:
+Nr. crt.
+Cod_cim
+Obs.
+Denumire produs
+Formă
+Concentrație
+Firmă/Țară
+DCI
+Ambalaj
+Grupa ATC
+Stat_frm
+Stat_anm
+Preț producător (lei)
+Preț ridicata maximal fără TVA (lei)
+Preț amănunt maximal cu TVA (lei)
+Stare
+Observații
+Valabilitate preț 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 2134
+W68995002 !
+FINTEPLA
+SOL. ORALĂ 2,2 mg/ml
+ZOGENIX ROI LIMITED - IRLANDA
+FENFLURAMINUM
+Flacon care conține 120 ml de sol. orală, un adaptor pentru flacon, două seringi pentru administrare orală de 3 ml cu gradații la 0,1 ml și două seringi pentru administrare orală de 6 ml cu gradații la 0,2 ml (4 ani)
+N03AX26
+MO orfan 7.034,41 7.064,41 7.738,36
+DC
+Prețurile sunt valabile până la data de 31.07.2024............................................. 2189
+W52917001
+FLUOCINOLON D FITERMAN 0,25 mg+50 mg/g
+CREMĂ 0,25 mg + 50 mg/g
+FITERMAN PHARMA - S.R.L.
+COMBINAȚII (FLUOCINOLONUM + DEXPANTHENOLUM)
+Cutie cu 1 tub Al x 20 g cremă
+D07XCN1
+MG generic 11,20 12,77 17,26
+Prețurile sunt valabile până la data de 31.07.2024.................................. 2780
+W68481004
+JANSITIN 100 mg
+COMPR. FILM. 100 mg
+G.L. PHARMA GMBH - AUSTRIA
+SITAGLIPTINUM
+Cutie cu blist. PVC-PVDC/Al x 30 compr. film. (2 ani)
+A10BH01
+MG generic 66,50 74,48 94,17
+Prețurile sunt valabile până la data de 31.07.2024........................... 2945
+W65240002
+LAMZEDE 10 mg
+PULB. PT. SOL. PERF. 10 mg
+CHIESI FARMACEUTICI S.P.A.
+VELMANAZA ALFA
+Flacon de 10 ml (sticlă de tip I) cu dop din cauciuc bromobutilic, sigiliu din aluminiu și un capac fără filet, detașabil, din polipropilenă (2 ani)
+A16AB15
+MO orfan 4.532,73 4.562,73 5.011,53
+Prețurile sunt valabile până la data de 31.12.2023....................................... 3033
+W66007002
+LEVETIRACETAM AUROBINDO 1.000 mg
+COMPR. FILM. 1.000 mg
+AUROBINDO PHARMA ROMANIA - S.R.L.
+LEVETIRACETAMUM
+Cutie cu blist. PVC-PE-PVDC-Al x 30 compr. film.
+N03AX14
+MG generic 51,10 57,23 72,36
+Prețurile sunt valabile până la data de 31.07.2024. 3034
+W66006002
+LEVETIRACETAM AUROBINDO 500 mg
+COMPR. FILM. 500 mg
+AUROBINDO PHARMA ROMANIA - S.R.L.
+LEVETIRACETAMUM
+Cutie cu blist. PVC-PE-PVDC/Al x 30 compr. film.
+N03AX14
+MG generic 28,34 32,31 42,26
+Prețurile sunt valabile până la data de 31.07.2024....................................... 3542
+W62998001 !
+MYOCET 50 mg
+PULB. + AMESTEC PT. CONC. PT. DISP. LIPOZOM. PT. PERF. 50 mg
+TEVA B.V.
+DOXORUBICINUM
+Cutie x 2 seturi x 3 flacoane (1 flacon pulbere + 1 flacon lipozomi + 1 flacon sol. tampon) (18 luni)
+L01DB01
+MI inovativ 2.874,63 2.904,63 3.204,20
+DC
+Prețurile sunt aprobate cu o diminuare de 5% pentru o perioadă de 12 luni.
+Prețurile sunt valabile până la data de 24.04.2024.......................................... 4022
+W64114007 !
+OXIGEN LINDE 100%
+GAZ MEDICINAL CRIOGENIC 100%
+LINDE GAZ A.S.
+OXIGENUM
+Tanc criogenic cu volumul 9000-29350 l
+V03AN01
+MG generic 146.958,67 146.988,67 160.255,80
+DC
+Prețurile sunt aprobate pentru o perioadă de 12 luni, în condițiile art. 5 alin. (7) din Normele aprobate prin OMS nr. 368/2017.
+Prețurile sunt valabile până la data de 31.07.2024..................................... 4391
+W56033001
+PROCTOLIZIN 10 mg/20 mg/ 50 mg pe gram
+CREMĂ 10 mg/ 20 mg/ 50 mg pe gram
+FITERMAN PHARMA - S.R.L.
+COMBINAȚII
+Cutie cu 1 tub din Al x 25 g cremă
+C05AX03
+MI inovativ 25,54 29,11 38,08
+Prețurile sunt valabile până la data de 31.07.2024..................................... 5045
+W69168003 !
+STERCORE 1 mg
+COMPR. FILM. 1 mg
+MEDOCHEMIE LIMITED - CIPRU
+PRUCALOPRIDUM
+Cutie cu blist. OPA-Al-PVC/Al perforate pt. eliberarea unei unități dozate x 28x1 compr. film. (30 luni)
+A06AX05
+MG generic 138,48 152,33 185,96
+DC
+Prețurile sunt valabile până la data de 31.07.2024. 5046
+W69169003 !
+STERCORE 2 mg
+COMPR. FILM. 2 mg
+MEDOCHEMIE LIMITED - CIPRU
+PRUCALOPRIDUM
+Cutie cu blist. OPA-Al-PVC/Al perforate pt. eliberarea unei unități dozate x 28x1 compr. film. (30 luni)
+A06AX05
+MG generic 142,85 157,13 191,83
+DC
+Prețurile sunt valabile până la data de 31.07.2024................................................ 5106
+W67789002
+SUNITINIB G.L. PHARMA 12,5 mg
+CAPS. 12,5 mg
+G.L. PHARMA GMBH
+SUNITINIBUM
+Cutie cu blist. PVC-OPA/Al x 30 caps.
+L01EX01
+MG generic 518,00 548,00 635,47
+Prețurile sunt valabile până la data de 31.07.2024. 5107
+W67790002
+SUNITINIB G.L. PHARMA 25 mg
+CAPS. 25 mg
+G.L. PHARMA GMBH
+SUNITINIBUM
+Cutie cu blist. PVC-OPA/Al x 30 caps.
+L01EX01
+MG generic 1.150,00 1.180,00 1.324,35
+Prețurile sunt valabile până la data de 31.07.2024. 5108
+W67791002
+SUNITINIB G.L. PHARMA 50 mg
+CAPS. 50 mg
+G.L. PHARMA GMBH
+SUNITINIBUM
+Cutie cu blist. PVC-OPA/Al x 30 caps.
+L01EX01
+MG generic 1.785,36 1.815,36 2.016,89
+Prețurile sunt valabile până la data de 31.07.2024......................................... 5193
+W60423001 !
+TAMALIS 1 mg/ml
+SOL. ORALĂ 1 mg/ml
+J. URIACH Y COMPANIA - S.A.
+RUPATADINUM
+Cutie cu 1 flac. brun din PET prevăzut cu dop perforat din PEJD, o seringă de 5 ml din PE-PP, gradată la 0,25 ml cu sol. orală
+R06AX28
+MI inovativ 23,46 26,74 34,98
+DC
+Prețurile sunt valabile până la data de 31.07.2024. 5194
+W60424006 !
+TAMALIS 10 mg
+COMPR. 10 mg
+J. URIACH Y COMPANIA - S.A.
+RUPATADINUM
+Cutie cu blist. PVC-PVDC/Al x 30 compr.
+R06AX28
+MI inovativ 26,27 29,95 39,17
+DC
+Prețurile sunt valabile până la data de 31.07.2024............................................. 5306
+W63530001 !
+TIAPRIDAL 100 mg
+COMPR. 100 mg
+SANOFI ROMANIA - S.R.L.
+TIAPRIDUM
+Cutie cu 2 blist. PVC/Al x 10 compr.
+N05AL03
+MI inovativ 7,11 8,11 10,96
+DC
+Prețurile sunt valabile până la data de 31.07.2024................................. 5732
+W69261001 !
+VITAMINA C MESFARMA 100 mg/ml
+SOL. INJ./PERF. 100 mg/ml
+GALENIKA INTERNATIONAL KFT. - UNGARIA
+ACIDUM ASCORBICUM
+Cutie cu 5 blist. din PVC a câte 10 fiole brune din sticlă hidrolitică, cu inel de rupere x 5 ml sol. inj./perf. (2 ani)
+A11GA01
+MG generic 169,79 186,77 228,01
+DC
+Prețurile sunt valabile până la data de 31.07.2024.
+3.
+În anexă, pozițiile nr. 3137 și 3139 se abrogă.
+-----
