@@ -1,0 +1,8 @@
+# CJUE, Ordonanța Curții (Camera a noua) din 9 ianuarie 2024, Cauza C-131/23
+
+Pentru aceste motive, Curtea (Camera a noua) declară:
+Decizia 2006/928/CE a Comisiei din 13 decembrie 2006 de stabilire a unui mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției
+trebuie interpretată în sensul că
+instanțele unui stat membru nu sunt obligate să lase neaplicate deciziile curții constituționale a acestui stat membru prin care este invalidată dispoziția legislativă națională care reglementează cauzele de întrerupere a termenului de prescripție în materie penală din cauza încălcării principiului legalității infracțiunilor și pedepselor, astfel cum este protejat în dreptul național, sub aspectul cerințelor acestuia referitoare la previzibilitatea și la precizia legii penale, chiar dacă aceste decizii au drept consecință încetarea, ca urmare a prescripției răspunderii penale, a unui număr considerabil de procese penale, inclusiv procese referitoare la infracțiuni de corupție.
+În schimb, această decizie trebuie interpretată în sensul că
+instanțele acestui stat membru sunt obligate să lase neaplicat un standard național de protecție referitor la principiul aplicării retroactive a legii penale mai favorabile (lex mitior) care permite repunerea în discuție, inclusiv în cadrul unor căi de atac îndreptate împotriva unor hotărâri definitive, a întreruperii termenului de prescripție a răspunderii penale în astfel de procese prin acte de procedură intervenite înainte de o asemenea invalidare.

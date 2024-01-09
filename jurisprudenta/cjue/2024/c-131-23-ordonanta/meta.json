@@ -1,0 +1,63 @@
+{
+ "key": "cjue-c-131-23-ordonanta-2024-01-09",
+ "label": "CJUE, Ordonanța Curții (Camera a noua) din 9 ianuarie 2024, Cauza C-131/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "ordonanta",
+ "act_type": "ORDER",
+ "date": "2024-01-09",
+ "year": "2024",
+ "case": "Cauza C-131/23",
+ "celex": "62023CO0131",
+ "ecli": "ECLI:EU:C:2024:42",
+ "heading": "Ordonanța Curții (Camera a noua) din 9 ianuarie 2024",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": [
+  {
+   "court": "Curtea de Apel Braşov, secţia penală",
+   "date": "2023-03-02",
+   "national_file": "314/64/2022"
+  }
+ ],
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Braşov",
+ "national_followup": [
+  "Curtea de Apel Braşov, secţia penală, Decizia din 27/03/2024 (ECLI:RO:CABRV:2024:002.00239)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Articolul 99 din Regulamentul de procedură al Curții – Acte éclairé – Decizia 2006/928/CE – Mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției – Natură și efecte juridice – Caracter obligatoriu pentru România – Efectul direct al obiectivelor de referință – Obligația de a lupta împotriva corupției în general și în special a corupției la nivel înalt – Obligația de a prevedea sancțiuni penale disuasive și efective – Termen de prescripție a răspunderii penale – Decizie a unei curți constituționale prin care a fost invalidată o dispoziție națională care reglementează cauzele de întrerupere a acestui termen – Risc sistemic de impunitate – Principiul legalității infracțiunilor și pedepselor – Cerințele privind previzibilitatea și precizia legii penale – Principiul aplicării retroactive a legii penale mai favorabile (lex mitior) – Principiul securității juridice – Standard național de protecție a drepturilor fundamentale – Obligația instanțelor unui stat membru de a lăsa neaplicate deciziile curții constituționale și/sau ale instanței supreme ale acestui stat membru în caz de neconformitate cu dreptul Uniunii",
+ "interprets": [
+  {
+   "celex": "32006D0928",
+   "folder": "ue/decizie/2006/928"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CO0131",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-131/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/b89f7942-b697-11ee-b164-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "b86157db29115f645ef70aea55b931dbcaedf3b28c29deaeaf2dd105992c0c5f"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) declară:",
+  "Decizia 2006/928/CE a Comisiei din 13 decembrie 2006 de stabilire a unui mecanism de cooperare și de verificare a progresului realizat de România în vederea atingerii anumitor obiective de referință specifice în domeniul reformei sistemului judiciar și al luptei împotriva corupției",
+  "trebuie interpretată în sensul că",
+  "instanțele unui stat membru nu sunt obligate să lase neaplicate deciziile curții constituționale a acestui stat membru prin care este invalidată dispoziția legislativă națională care reglementează cauzele de întrerupere a termenului de prescripție în materie penală din cauza încălcării principiului legalității infracțiunilor și pedepselor, astfel cum este protejat în dreptul național, sub aspectul cerințelor acestuia referitoare la previzibilitatea și la precizia legii penale, chiar dacă aceste decizii au drept consecință încetarea, ca urmare a prescripției răspunderii penale, a unui număr considerabil de procese penale, inclusiv procese referitoare la infracțiuni de corupție.",
+  "În schimb, această decizie trebuie interpretată în sensul că",
+  "instanțele acestui stat membru sunt obligate să lase neaplicat un standard național de protecție referitor la principiul aplicării retroactive a legii penale mai favorabile (lex mitior) care permite repunerea în discuție, inclusiv în cadrul unor căi de atac îndreptate împotriva unor hotărâri definitive, a întreruperii termenului de prescripție a răspunderii penale în astfel de procese prin acte de procedură intervenite înainte de o asemenea invalidare."
+ ]
+}
