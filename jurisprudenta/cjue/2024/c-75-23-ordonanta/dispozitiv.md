@@ -1,0 +1,11 @@
+# CJUE, Ordonanța Curții (Camera a noua) din 9 ianuarie 2024, Cauza C-75/23
+
+Pentru aceste motive, Curtea (Camera a noua) dispune:
+1) Articolul 325 alineatul (1) TFUE și articolul 2 alineatul (1) din Convenția elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană privind protejarea intereselor financiare ale Comunităților Europene, semnată la Bruxelles la 26 iulie 1995,
+trebuie interpretate în sensul că
+instanțele unui stat membru nu sunt obligate să lase neaplicate deciziile curții constituționale a acestui stat membru prin care este invalidată dispoziția legislativă națională care reglementează cauzele de întrerupere a termenului de prescripție în materie penală din cauza încălcării principiului legalității infracțiunilor și pedepselor, astfel cum este protejat în dreptul național, sub aspectul cerințelor acestuia referitoare la previzibilitatea și la precizia legii penale, chiar dacă aceste decizii au drept consecință încetarea, ca urmare a prescripției răspunderii penale, a unui număr considerabil de procese penale, inclusiv procese referitoare la infracțiuni de fraudă gravă care aduce atingere intereselor financiare ale Uniunii Europene.
+În schimb, dispozițiile menționate ale dreptului Uniunii trebuie interpretate în sensul că
+instanțele acestui stat membru sunt obligate să lase neaplicat un standard național de protecție referitor la principiul aplicării retroactive a legii penale mai favorabile (lex mitior) care permite repunerea în discuție a întreruperii termenului de prescripție a răspunderii penale în astfel de procese prin acte de procedură intervenite înainte de o asemenea invalidare.
+2) Principiul supremației dreptului Uniunii
+trebuie interpretat în sensul că
+se opune unei reglementări sau unei practici naționale potrivit căreia instanțele naționale de drept comun ale unui stat membru sunt ținute de deciziile curții constituționale, precum și de cele ale instanței supreme ale acestui stat membru și nu pot, din acest motiv și cu riscul angajării răspunderii disciplinare a judecătorilor în cauză, să lase neaplicată din oficiu jurisprudența rezultată din deciziile menționate, chiar dacă ele consideră, în lumina unei hotărâri a Curții, că această jurisprudență este contrară unor dispoziții ale dreptului Uniunii care au efect direct.
