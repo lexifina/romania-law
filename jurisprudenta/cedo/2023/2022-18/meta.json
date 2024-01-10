@@ -1,0 +1,113 @@
+{
+ "key": "cedo-2022-18-2023-10-24",
+ "label": "CEDO, Lungu c. României, 2023-10-24",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-10-24",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 24 octombrie 2023",
+ "subtitle": "în Cauza Lungu împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "19",
+  "bis": false,
+  "date": "2024-01-10",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "2022/18"
+ ],
+ "case_name": "Lungu",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA,",
+  "1. declară cererea admisibilă;",
+  "2. unește cu fondul excepția preliminară ridicată de Guvern, de neepuizare a căilor de atac, și o respinge;",
+  "3. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "4. hotărăște: a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "10.000 EUR (zece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "8.235 EUR (opt mii două sute treizeci și cinci de euro), plus orice sumă ce poate fi datorată de reclamantă cu titlu de impozit, pentru cheltuielile de judecată, sumă care se va plăti direct avocatei N.T. Popescu;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278055",
+  "text_sha256": "734da626687cd6ca62cf6c4fd2884b121fc8ed0b05f815af679bf41ea571e4d0",
+  "catalogue_sha256": "734da626687cd6ca62cf6c4fd2884b121fc8ed0b05f815af679bf41ea571e4d0",
+  "fetched": "2026-11-03T01:15:13Z",
+  "chars": 16075,
+  "portal_id": "278055",
+  "tip": "HOTĂRÂRE"
+ }
+}
