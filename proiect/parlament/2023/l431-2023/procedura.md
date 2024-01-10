@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-25: documents published: Aviz comisie
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-27: sent for promulgation
+- 2024-01-10: promulgated, becomes Legea nr. 15/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-25: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L431CA45.PDF
 - 2023-12-19: Adresă privind sesizarea CCR (AXS): [axs-ba9c4e98.md](axs-ba9c4e98.md); official file https://www.senat.ro/legis/PDF/2023/23L431AXS.PDF
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L431LP.PDF
+- 2024-01-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L431DP.PDF
+- 2024-01-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L431FP.PDF
