@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-27: sent for promulgation
 - 2024-01-12: promulgated, becomes Legea nr. 17/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-01-16: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236LP.PDF
 - 2024-01-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236DP.PDF
 - 2024-01-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236FP.PDF
+- 2024-01-16: Document (ASF): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236ASF.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-01-16: Document (BNR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236BNR.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-01-16: Document (CC): [cc-9461cc17.md](cc-9461cc17.md); official file https://www.senat.ro/legis/PDF/2023/23L236CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-01-16: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L236SM.PDF (its day is not given by the bill file: shown from the last stage held)
