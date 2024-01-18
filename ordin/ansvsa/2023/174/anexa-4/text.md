@@ -1,0 +1,9 @@
+# Anexa nr. 4 (Anexa nr. 6 la norma sanitar-veterinară)
+CERERE de eliberare a documentului de identificare unic pe viață pentru bovine, camelide, cervidee și reni
+Subsemnatul,.................................................., CNP [][][][][][][][][][][][][], posesor al BI/CI seria....... nr.................., eliberat(ă) de...................... la data de..................., cu domiciliul în..................................., solicit eliberarea documentului de identificare unic pe viață pentru bovina/bovinele, camelida/camelidele, cervideul/cervideele, renul/renii: deținută/deținut/deținute/deținuți de......................................, cu domiciliul în................................. (adresa completă), în exploatația RO............................
+Declar pe propria răspundere că depun odată cu prezenta cerere următoarele:
+1. copie a BI/CI personal/personale;
+2. dovada că sunt: a) deținătorul bovinelor, camelidelor, cervidelor, renilor (copia documentului de înregistrare a exploatației/de autorizare a centrului de colectare în care sunt deținute animalele - pe baza căruia direcția sanitar-veterinară și pentru siguranța alimentelor județeană, respectiv a municipiului București, să poată verifica în baza electronică de date înregistrarea animalului și locația acestuia);
+b) împuternicit de deținătorul bovinelor, camelidelor, cervideelor și renilor să ridic documentul/documentele de identificare unic/unice pe viață.
+Data...............................
+Semnătura solicitantului......................................
