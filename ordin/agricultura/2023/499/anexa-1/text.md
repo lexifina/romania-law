@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURĂ privind acordarea garanțiilor pentru beneficiarii Programului național de dezvoltare și susținere a industriei alimentare INVESTALIM aferent perioadei 2023-2026, regulile de gestionare a plafonului de garantare, criteriile de eligibilitate pentru acordarea garanțiilor, garanțiile suplimentare aferente creditului, plata garanțiilor, recuperarea creanțelor, dispozițiile privind transparența, monitorizarea și raportarea
