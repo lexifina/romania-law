@@ -1,0 +1,190 @@
+{
+ "key": "dcc-597-2023",
+ "label": "Decizia CCR nr. 597/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "597",
+ "date": "2023-11-21",
+ "year": "2023",
+ "heading": "DECIZIA nr. 597 din 21 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 38 alin. (1) și (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "56",
+  "bis": false,
+  "date": "2024-01-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.195/30/2019",
+  "118D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Daniela Popovici în Dosarul nr. 1.195/30/2019 al Tribunalului Timiș - Secția de contencios administrativ și fiscal și constată că dispozițiile art. 38 alin. (1) și (4) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Timiș - Secția de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-01-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278333",
+  "text_sha256": "67b7f50a9c6598412e65ebe089e841507f87f892bcb8a9dcf9151f7a67dff5fb",
+  "catalogue_sha256": "67b7f50a9c6598412e65ebe089e841507f87f892bcb8a9dcf9151f7a67dff5fb",
+  "fetched": "2026-11-06T02:27:53Z",
+  "chars": 18759,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20240315113154/https://legislatie.just.ro/Public/DetaliiDocument/278333",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/278333",
+   "timestamp": "20240315113154",
+   "sha256": "8057f5e3754ba9f85c39b6c4f969757abd8099422aa7d5a753adc1fe1728f38c"
+  },
+  "portal_id": "278333",
+  "tip": "DECIZIE"
+ }
+}
