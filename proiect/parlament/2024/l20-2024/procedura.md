@@ -1,0 +1,22 @@
+# Proiect de lege L20/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 140/2024 (`legea-140-2024`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.5/2024 privind instituirea unei scheme de ajutor de stat pentru sprijinirea întreprinderilor care îşi desfăşoară activitatea în domeniul producţiei primare de produse agricole vegetale, ca urmare a agresiunii Rusiei împotriva Ucrainei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-01-23: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-01-23: Adresă de înaintare a inițiativei (AD): [ad-9ee7fe2c.md](ad-9ee7fe2c.md); official file https://www.senat.ro/legis/PDF/2024/24L020AD.PDF
+- 2024-01-23: Forma inițiatorului (FG): [fg-f83df620.md](fg-f83df620.md); official file https://www.senat.ro/legis/PDF/2024/24L020FG.PDF
+- 2024-01-23: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L020EM.PDF
+- 2024-01-23: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L020LG.PDF
+- 2024-01-23: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L020OG.PDF
+- 2024-01-23: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L020HG.PDF
