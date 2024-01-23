@@ -1,0 +1,6 @@
+# Anexa nr. 2 (Anexa nr. 3 la Ordinul nr. 63/2024)
+DECLARAȚIE
+Sub sancțiunile aplicate faptei de fals în declarații prevăzute de Legea nr. 286/2009 privind Codul penal, cu modificările și completările ulterioare, subsemnatul/subsemnata,..................................., domiciliat(ă) în..........................., str...................... nr....., bl...., sc...., ap...., județul/sectorul......................., legitimat(ă) cu B.I./C.I. seria....... nr................, CNP............................., declar pe propria răspundere că nu am ridicat din altă unitate farmaceutică cantitatea maximă aferentă dozei pe 48 de ore de medicament............................., în cursul acestui tratament.
+Data...................................
+Semnătura pacientului/aparținătorului......................
+-----
