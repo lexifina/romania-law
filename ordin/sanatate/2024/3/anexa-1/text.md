@@ -1,0 +1,4 @@
+# ANEXĂ
+NORME PROPRII de aplicare a prevederilor Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, adaptate la specificul organizării asistenței medicale în rețeaua sanitară a ministerelor și instituțiilor din domeniul apărării, ordinii publice, siguranței naționale și autorității judecătorești, aplicabile în relațiile contractuale dintre
+Casa Asigurărilor de Sănătate a Apărării, Ordinii Publice, Siguranței
+Naționale și Autorității Judecătorești și furnizorii de servicii medicale și medicamente care aparțin acestei rețele
