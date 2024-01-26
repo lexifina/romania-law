@@ -1,0 +1,224 @@
+{
+ "key": "dcc-474-2023",
+ "label": "Decizia CCR nr. 474/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "474",
+ "date": "2023-09-20",
+ "year": "2023",
+ "heading": "DECIZIA nr. 474 din 20 septembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 513 alin. (3) și (4) din Codul de procedură civilă, în ceea ce privește sintagma \"în cazul hotărârilor potrivnice ea va anula cea din urmă hotărâre\"",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "74",
+  "bis": false,
+  "date": "2024-01-26",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.173/1/2018/a1",
+  "1.054D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "513",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Alexandru Gavrilescu și Societatea Hotel Dacia - S.R.L. din București în Dosarul nr. 2.173/1/2018/a1 al Înaltei Curți de Casație și Justiție - Secția a II-a civilă și constată că dispozițiile art. 513 alin. (3) și (4) din Codul de procedură civilă, în ceea ce privește sintagma „în cazul hotărârilor potrivnice ea va anula cea din urmă hotărâre“, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "513",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "509",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "461",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "430",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "431",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "126",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-01-26",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278495",
+  "text_sha256": "26cf00778c18f7c13d1634e46441a560ad97a750fa31812aae1c01e47c5838ac",
+  "catalogue_sha256": "26cf00778c18f7c13d1634e46441a560ad97a750fa31812aae1c01e47c5838ac",
+  "fetched": "2026-11-03T01:14:50Z",
+  "chars": 20379,
+  "portal_id": "278495",
+  "tip": "DECIZIE"
+ }
+}
