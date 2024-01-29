@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2023-12-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2024-01-29: documents published: Aviz comisie
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Guvernul României.
 - 2023-12-22: Expunere de motive (EM): [em-d7aaf5fa.md](em-d7aaf5fa.md); official file https://www.senat.ro/legis/PDF/2023/23L739EM.PDF
 - 2023-12-22: Aviz Consiliul Legislativ (LG): [lg-f4603225.md](lg-f4603225.md); official file https://www.senat.ro/legis/PDF/2023/23L739LG.PDF
 - 2023-12-22: Document (HG): [hg-05da6d91.md](hg-05da6d91.md); official file https://www.senat.ro/legis/PDF/2023/23L739HG.PDF
+- 2024-01-29: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L739CA41.PDF
