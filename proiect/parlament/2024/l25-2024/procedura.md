@@ -1,0 +1,22 @@
+# Proiect de lege L25/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 237/2024 (`legea-237-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei Guvernului nr.10/2024 pentru completarea art.XLVIII din Ordonanţa de urgenţă a Guvernului nr.115/2023 privind unele măsuri fiscal-bugetare în domeniul cheltuielilor publice, pentru consolidare fiscală, combaterea evaziunii fiscale, pentru modificarea şi completarea unor acte normative, precum şi pentru prorogarea unor termene, precum şi pentru instituirea unor măsuri în domeniul gestionării fondurilor europene
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-01-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-01-29: Adresă de înaintare a inițiativei (AD): [ad-f802f90d.md](ad-f802f90d.md); official file https://www.senat.ro/legis/PDF/2024/24L025AD.PDF
+- 2024-01-29: Forma inițiatorului (FG): [fg-853ffe62.md](fg-853ffe62.md); official file https://www.senat.ro/legis/PDF/2024/24L025FG.PDF
+- 2024-01-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L025EM.PDF
+- 2024-01-29: Aviz Consiliul Legislativ (LG): [lg-490df9fe.md](lg-490df9fe.md); official file https://www.senat.ro/legis/PDF/2024/24L025LG.PDF
+- 2024-01-29: Document (OG): [og-f7ba9b23.md](og-f7ba9b23.md); official file https://www.senat.ro/legis/PDF/2024/24L025OG.PDF
+- 2024-01-29: Document (HG): [hg-26bf1ace.md](hg-26bf1ace.md); official file https://www.senat.ro/legis/PDF/2024/24L025HG.PDF
