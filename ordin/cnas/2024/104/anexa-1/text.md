@@ -1,0 +1,36 @@
+# Anexa nr. 1 (Anexa nr. 1-k la Ordinul nr. 563/2023)
+Casa de Asigurări de Sănătate....................................
+Furnizorul de servicii medicale..........................................
+Localitatea..........................
+Județul.........................
+Reprezentantul legal al furnizorului,...................................
+Medic de familie.............................................. (numele și prenumele)
+CNP medic de familie.............................
+DESFĂȘURĂTOR privind numărul de chestionare care vizează arii de dezvoltare psihomotorii care ar putea fi afectate în tulburarea de spectru autist, aplicate copiilor înscriși pe lista proprie de către dr................................... (numele și prenumele medicului)
+Luna.................... anul...............
+Nr. crt.
+Numele și prenumele Gen
+Codul numeric personal/
+Codul unic de identificare
+Vârsta împlinită în luni
+M F c1 c2 c3 c4 c5
+1.
+2....
+TOTAL nr. chestionare aplicate copiilor de 12-14 luni
+X X X
+1.
+2....
+TOTAL nr. chestionare aplicate copiilor de 15-17 luni
+X X X
+1.
+2....
+TOTAL nr. chestionare aplicate copiilor de 18-23 de luni
+X X X
+1.
+2....
+TOTAL nr. chestionare aplicate copiilor de 24-36 de luni
+X X X
+Se va bifa genul copilului căruia i se aplică chestionarul.
+NOTĂ: Desfășurătorul se întocmește distinct pentru fiecare medic de familie cu listă proprie de persoane înscrise, care are contract de furnizare de servicii medicale în asistența medicală primară cu o casă de asigurări de sănătate.
+Răspundem de realitatea și exactitatea datelor.
+Reprezentantul legal al furnizorului,.................................. (semnătură electronică extinsă/calificată)
