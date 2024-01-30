@@ -1,0 +1,288 @@
+{
+ "key": "iccj-ril-19-2023",
+ "label": "Decizia ÎCCJ nr. 19/2023 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "19",
+ "date": "2023-11-13",
+ "year": "2023",
+ "heading": "DECIZIA nr. 19 din 13 noiembrie 2023",
+ "subtitle": "cu privire la interpretarea și aplicarea unitară a dispozițiilor art. 35 și 95 din Legea nr. 69/2000, coroborate cu art. 6, 33 și 35 din Ordonanța Guvernului nr. 26/2000, precum și cu art. 8 din Regulamentul privind organizarea Registrului asociațiilor și fundațiilor, Registrului federațiilor și Registrului național al persoanelor juridice fără scop patrimonial, aprobat prin Ordinul ministrului justiției nr. 954/2000",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "86",
+  "bis": false,
+  "date": "2024-01-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.223/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Galați și, în consecință: În interpretarea și aplicarea unitară a dispozițiilor art. 35 și 95 din Legea nr. 69/2000, coroborate cu art. 6, 33 și 35 din Ordonanța Guvernului nr. 26/2000, precum și cu art. 8 din Regulamentul privind organizarea Registrului asociațiilor și fundațiilor, Registrului federațiilor și Registrului național al persoanelor juridice fără scop patrimonial, aprobat prin Ordinul ministrului justiției nr. 954/2000, stabilește că:",
+  "Afilierea de noi membri ai unei fundații sportive reprezintă o modificare de act constitutiv sau, după caz, de statut, în sensul dispozițiilor art. 33 din Ordonanța Guvernului nr. 26/2000.",
+  "Drepturile ce rezultă din calitatea de membru sunt condiționate de înscrierea în Registrul federațiilor a modificării de statut constând în afilierea de noi membri.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 69/2000",
+    "number": "69",
+    "year": "2000",
+    "path": "lege/2000/69"
+   },
+   "articles": [
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "g",
+      "a"
+     ]
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului justiției nr. 954/2000",
+    "number": "954",
+    "year": "2000"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 276/2020",
+    "number": "276",
+    "year": "2020",
+    "path": "lege/2020/276"
+   },
+   "articles": [],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [
+    {
+     "art": "95",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul nr. 954/2000",
+    "number": "954",
+    "year": "2000"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-01-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278709",
+  "text_sha256": "7d9fb05b4009d0a3e739fe5974a2609b82c92b0cafb81f66c19d26430964f760",
+  "catalogue_sha256": "7d9fb05b4009d0a3e739fe5974a2609b82c92b0cafb81f66c19d26430964f760",
+  "fetched": "2026-11-03T01:14:37Z",
+  "chars": 52910,
+  "portal_id": "278709",
+  "tip": "DECIZIE"
+ }
+}
