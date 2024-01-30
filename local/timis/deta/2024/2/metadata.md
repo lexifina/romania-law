@@ -1,0 +1,9 @@
+# HCL Deta nr. 2/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Deta
+- Decision: nr. 2/2024
+- Adopted: 2024-01-30
+- Title: privind decontarea navetei cadrelor didactice de la unitățile de învățământ din orașul Deta
+- Record: https://emol.ro/deta-tm/registru-hcl/139882
