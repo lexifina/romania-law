@@ -1,0 +1,22 @@
+# Proiect de lege L34/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 225/2024 (`legea-225-2024`).
+
+Proiect de lege pentru aprobarea Ordonanţei Guvernului nr.16/2024 privind inspecţia tehnică şi supravegherea prin acţiuni de inspecţie tehnică în domeniul feroviar, al transportului cu metroul, metroul uşor, monorai şi al transportului urban, suburban şi regional pe şine, pe linii ferate industriale şi pe căile ferate cu caracter de patrimoniu, de muzeu sau turistic
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-01-31: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-01-31: Adresă de înaintare a inițiativei (AD): [ad-0f07ef86.md](ad-0f07ef86.md); official file https://www.senat.ro/legis/PDF/2024/24L034AD.PDF
+- 2024-01-31: Forma inițiatorului (FG): [fg-61386c94.md](fg-61386c94.md); official file https://www.senat.ro/legis/PDF/2024/24L034FG.PDF
+- 2024-01-31: Expunere de motive (EM): [em-f6804e00.md](em-f6804e00.md); official file https://www.senat.ro/legis/PDF/2024/24L034EM.PDF
+- 2024-01-31: Aviz Consiliul Legislativ (LG): [lg-3e3c87ee.md](lg-3e3c87ee.md); official file https://www.senat.ro/legis/PDF/2024/24L034LG.PDF
+- 2024-01-31: Document (OG): [og-7f81cfdb.md](og-7f81cfdb.md); official file https://www.senat.ro/legis/PDF/2024/24L034OG.PDF
+- 2024-01-31: Document (HG): [hg-1ce0af7c.md](hg-1ce0af7c.md); official file https://www.senat.ro/legis/PDF/2024/24L034HG.PDF
