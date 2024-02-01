@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-533-22-concluzii-2024-02-01",
+ "label": "CJUE, Concluziile avocatei generale J. Kokott prezentate la 1 februarie 2024, Cauza C-533/22.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-02-01",
+ "year": "2024",
+ "case": "Cauza C-533/22.",
+ "celex": "62022CC0533",
+ "ecli": "ECLI:EU:C:2024:106",
+ "heading": "Concluziile avocatei generale J. Kokott prezentate la 1 februarie 2024",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Argeş.",
+ "national_followup": null,
+ "parties": "SC Adient Ltd & Co.Kg împotriva Agenţiei Naţionale de Administrare Fiscală și a Agenţiei Naţionale de Administrare Fiscală – Direcţia Generală Regională a Finanţelor Publice Ploieşti – Administraţia Judeţeană a Finanţelor Publice Argeş.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 44 – Regulamentul de punere în aplicare (UE) nr. 282/2011 – Articolul 11 alineatul (1) – Locul de prestare a serviciilor – Noțiunea de «sediu comercial fix» – Aptitudine, ca resurse umane și tehnice, de a primi și de a utiliza serviciile pentru necesitățile proprii – Servicii de fabricare de tapițerii pentru autovehicule prestate de o societate în numele unei alte societăți care aparține aceluiași grup și care este stabilită în alt stat membru.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0533",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-533/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/339a3a8e-c0f5-11ee-b164-01aa75ed71a1.0015.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "3ed0061dcea3fb01ac8b984375eeb65b7e59b1de0ef1d5be2b2ad0f04e9a0c56"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
