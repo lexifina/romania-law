@@ -1,0 +1,9 @@
+# Anexa nr. 2 la procedură
+DECLARAȚIE DE INTERESE
+Subsemnatul/Subsemnata,........................................., având norma didactică de.............., la unitatea/unitățile de învățământ preuniversitar...................................., CNP......................................., domiciliul.........................................................., declar pe propria răspundere, sub sancțiunile prevăzute de Codul penal privind falsul în declarații, că în anul școlar............. am următoarea încadrare și nu desfășor activități de pregătire suplimentară contra cost pentru elevii de la clasa/clasele la care predau:
+1. Activități de predare:
+Unitatea de învățământ
+- denumirea și adresa -
+Disciplina Clasa Anul școlar 1.1......
+Data completării..........................
+Semnătura..........................
