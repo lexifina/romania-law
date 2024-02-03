@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-30: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-11-14: documents published: Aviz comisie
 - 2023-11-16: documents published: Aviz comisie
+- 2024-02-03: adopted by the Senate; documents published: Document (day not given by the bill file), Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-10-30: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L624EM.PDF
 - 2023-11-14: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L624CA45.PDF
 - 2023-11-16: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L624CA41.PDF
+- 2024-02-03: Document (AJ): [aj-d74b9e9d.md](aj-d74b9e9d.md); official file https://www.senat.ro/legis/PDF/2023/23L624AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-02-03: Forma adoptată de Senat (FS): [fs-3a6162ef.md](fs-3a6162ef.md); official file https://www.senat.ro/legis/PDF/2023/23L624FS.PDF
+- 2024-02-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L624AM.PDF
