@@ -1,0 +1,134 @@
+{
+ "key": "cedo-36127-19-2023-03-30",
+ "label": "CEDO, State și alții c. României, 2023-03-30",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-03-30",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 30 martie 2023",
+ "subtitle": "în Cauza State și alții împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "102",
+  "bis": false,
+  "date": "2024-02-05",
+  "part": "I"
+ },
+ "outcome": "other",
+ "applications": [
+  "36127/19",
+  "50088/20"
+ ],
+ "case_name": "State și alții",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. decide să conexeze cererile;",
+  "2. declară cererile admisibile;",
+  "3. hotărăște că aceste cereri indică o încălcare a art. 6 § 1 din Convenție și a art. 1 din Protocolul nr. 1 cu privire la neexecutarea sau executarea cu întârziere a deciziilor interne, conform informațiilor din tabelul anexat;",
+  "4. hotărăște că nu este necesar să examineze separat capătul de cerere întemeiat pe art. 13 din Convenție;",
+  "5. hotărăște că statul pârât trebuie să asigure, prin mijloace adecvate, în termen de 3 luni, executarea în totalitate a deciziilor interne menționate în tabelul anexat, cu excepția hotărârii din cererile nr. 50.088/20 și nr. 52.089/21 care a fost executată în întregime;",
+  "6. hotărăște: (a) că statul pârât trebuie să plătească reclamanților, în termen de 3 luni, sumele indicate în tabelul anexat, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 1",
+    "path": null,
+    "slug": "conventia-edo-protocolul-1"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278834",
+  "text_sha256": "fff8e11d82b7e494393525b8e644c14609da6782e3889e1e893a61d0dfa6bbe8",
+  "catalogue_sha256": "fff8e11d82b7e494393525b8e644c14609da6782e3889e1e893a61d0dfa6bbe8",
+  "fetched": "2026-11-03T01:14:29Z",
+  "chars": 10890,
+  "portal_id": "278834",
+  "tip": "HOTĂRÂRE"
+ }
+}
