@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-12: documents published: Aviz comisie
 - 2023-12-13: documents published: Aviz comisie
 - 2024-02-01: documents published: Raport comisie sesizată pe fond
+- 2024-02-05: withdrawn by the initiator; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -25,3 +26,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-12: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L699CA56.PDF
 - 2023-12-13: Aviz comisie (CA12): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L699CA12.PDF
 - 2024-02-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L699CR.PDF
+- 2024-02-05: Document (CC): [cc-0b2b5f20.md](cc-0b2b5f20.md); official file https://www.senat.ro/legis/PDF/2023/23L699CC.PDF (its day is not given by the bill file: shown from the last stage held)
