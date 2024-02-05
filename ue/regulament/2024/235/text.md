@@ -1,0 +1,37 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/235 AL COMISIEI
+din 15 ianuarie 2024
+de aprobare a clorurii de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] ca substanță activă destinată utilizării în produsele biocide din tipul de produs 2, în conformitate cu Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului din 22 mai 2012 privind punerea la dispoziție pe piață și utilizarea produselor biocide (1), în special articolul 89 alineatul (1) al treilea paragraf,
+întrucât:
+(1) Regulamentul delegat (UE) nr. 1062/2014 al Comisiei (2) stabilește o listă a substanțelor active existente care urmează să fie evaluate în vederea unei eventuale aprobări pentru utilizare în produse biocide. Lista respectivă include clorură de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] pentru tipul de produs 2 (nr. CAS: 68424-85-1).
+(2) Clorura de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] a fost evaluată pentru utilizare în produsele biocide din tipul de produs 2, dezinfectanți utilizați în domeniul privat și în domeniul sănătății publice și alte produse biocide, astfel cum este descris în anexa V la Directiva 98/8/CE a Parlamentului European și al Consiliului (3), care corespunde tipului de produs 2, dezinfectante și algicide care nu sunt destinate aplicării directe la oameni sau animale, astfel cum este descris în anexa V la Regulamentul (UE) nr. 528/2012.
+(3) Italia a fost desemnată ca stat membru raportor, iar autoritatea sa competentă responsabilă de evaluări a transmis Comisiei, la 10 septembrie 2012, raportul de evaluare împreună cu concluziile sale. După prezentarea raportului de evaluare, au avut loc discuții în cadrul unor reuniuni tehnice organizate de Agenția Europeană pentru Produse Chimice (denumită în continuare „agenția”).
+(4) Din articolul 90 alineatul (2) primul paragraf din Regulamentul (UE) nr. 528/2012 se poate deduce că substanțele pentru care evaluarea statelor membre a fost finalizată până la 1 septembrie 2013 trebuie să fie evaluate în conformitate cu Directiva 98/8/CE.
+(5) În conformitate cu articolul 75 alineatul (1) al doilea paragraf litera (a) din Regulamentul (UE) nr. 528/2012, Comitetul pentru produse biocide pregătește avizul agenției cu privire la cererile de aprobare a substanțelor active. În conformitate cu articolul 7 alineatul (2) din Regulamentul delegat (UE) nr. 1062/2014 coroborat cu articolul 75 alineatele (1) și (4) din Regulamentul (UE) nr. 528/2012, Comitetul pentru produse biocide a adoptat avizul agenției la 2 decembrie 2021 (4), ținând seama de concluziile autorității competente responsabile de evaluare. În avizul său, agenția a concluzionat că clorura de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] poate fi aprobată ca substanță activă, dar trei membri ai Comitetului pentru produse biocide și-au exprimat, prin opinii minoritare, preocuparea cu privire la un posibil risc pentru sol.
+(6) Comisia a inițiat o nouă consultare a statelor membre cu privire la această chestiune în cadrul Comitetului permanent pentru produse biocide, în cadrul căruia s-a decis că sunt necesare discuții suplimentare la nivel tehnic cu privire la riscul pentru sol. Ulterior, agenției i-a fost transmisă o cerere de aviz în conformitate cu articolul 75 alineatul (1) litera (g) din Regulamentul (UE) nr. 528/2012. La 7 iunie 2023 (5), Comitetul pentru produse biocide a adoptat un aviz revizuit al agenției, concluzionând că riscul pentru solul este acceptabil. Conform avizului respectiv al agenției, este de așteptat ca produsele biocide din tipul de produs 2 care conțin clorură de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] să îndeplinească cerințele prevăzute la articolul 5 alineatul (1) literele (b), (c) și (d) din Directiva 98/8/CE, sub rezerva respectării anumitor cerințe referitoare la utilizarea lor.
+(7) Având în vedere avizul agenției, este adecvat să se aprobe clorura de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] ca substanță activă destinată utilizării în produsele biocide din tipul de produs 2, sub rezerva respectării anumitor condiții.
+(8) Este necesar să se permită trecerea unei perioade de timp rezonabile până la aprobarea unei substanțe active, pentru a se permite părților interesate să se pregătească în vederea îndeplinirii noilor cerințe.
+(9) Măsurile prevăzute în prezentul regulament sunt în conformitate cu avizul Comitetului permanent pentru produse biocide,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Clorura de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] se aprobă ca substanță activă destinată utilizării în produsele biocide din tipul de produs 2, sub rezerva respectării condițiilor prezentate în anexă.
+Articolul 2
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 15 ianuarie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 167, 27.6.2012, p. 1.
+(2) Regulamentul delegat (UE) nr. 1062/2014 al Comisiei din 4 august 2014 privind programul de lucru pentru examinarea sistematică a tuturor substanțelor active existente conținute de produsele biocide, menționat în Regulamentul (UE) nr. 528/2012 al Parlamentului European și al Consiliului (JO L 294, 10.10.2014, p. 1).
+(3) Directiva 98/8/CE a Parlamentului European și a Consiliului din 16 februarie 1998 privind comercializarea produselor biodestructive (JO L 123, 24.4.1998, p. 1).
+(4) Avizul Comitetului pentru produse biocide privind cererea de aprobare a substanței active clorură de alchil (C12-16) dimetilbenzil amoniu; Tipul de produs: 2; ECHA/BPC/310/2021, adoptat la 2 decembrie 2021.
+(5) Avizul Comitetului pentru produse biocide privind cererea de aprobare a substanței active clorură de alchil (C12-16) dimetilbenzil amoniu; Tipul de produs: 2; ECHA/BPC/387/2023, adoptat la 7 iunie 2023.
+ANEXĂ
+Denumire comună | Denumire IUPAC Numere de identificare | Gradul minim de puritate a substanței active(1) | Data aprobării | Data de expirare a aprobării | Tipul de produs | Condiții specifice
+Clorură de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] | Denumire IUPAC: - Nr. CE: 270-325-2 Nr. CAS: 68424-85-1 | 972 g/kg greutate de materie uscată | 1 iulie 2025 | 30 iunie 2035 | 2 | Autorizarea produselor biocide care utilizează clorura de alchil (C12-16) dimetilbenzil amoniu [ADBAC/BKC (C12-C16)] ca substanță activă este supusă următoarelor condiții: 1. evaluarea produsului acordă o atenție deosebită expunerilor, riscurilor și eficacității aferente oricăror utilizări care fac obiectul unei cereri de autorizare, dar care nu sunt abordate în evaluarea efectuată la nivelul Uniunii a riscurilor determinate de substanța activă; 2. evaluarea produsului acordă o atenție deosebită utilizatorilor profesionali.
+(1) Puritatea indicată în această coloană a fost gradul minim de puritate a substanței active evaluate. Substanța activă din produsul introdus pe piață poate avea o puritate egală sau diferită dacă s-a demonstrat că este echivalentă din punct de vedere tehnic cu substanța activă evaluată.
+ELI: http://data.europa.eu/eli/reg_impl/2024/235/oj
