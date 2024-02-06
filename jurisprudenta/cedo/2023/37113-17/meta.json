@@ -1,0 +1,97 @@
+{
+ "key": "cedo-37113-17-2023-06-20",
+ "label": "CEDO, Temeșan c. României, 2023-06-20",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-06-20",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 20 iunie 2023",
+ "subtitle": "în Cauza Temeșan împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "108",
+  "bis": false,
+  "date": "2024-02-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "37113/17"
+ ],
+ "case_name": "Temeșan",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 § 1 din Convenție;",
+  "3. hotărăște: (a) că statul pârât trebuie să plătească reclamantului, în termen de trei luni (de la data rămânerii definitive a hotărârii), următoarele sume, care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "6.000 EUR (șase mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, cu titlu de prejudiciu moral;",
+  "(ii)",
+  "3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată de reclamanți, cu titlu de cheltuieli de judecată;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "4. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/278874",
+  "text_sha256": "b7da27ddd7abaf4dce3161d4a882698b5a2102c6394e2b17f2057d39a86c9041",
+  "catalogue_sha256": "b7da27ddd7abaf4dce3161d4a882698b5a2102c6394e2b17f2057d39a86c9041",
+  "fetched": "2026-11-03T01:14:31Z",
+  "chars": 15223,
+  "portal_id": "278874",
+  "tip": "HOTĂRÂRE"
+ }
+}
