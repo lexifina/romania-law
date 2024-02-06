@@ -1,0 +1,19 @@
+# Propunere legislativă L128/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 79/2024 (`legea-79-2024`).
+
+Propunere legislativă pentru instituirea zilei de 21 aprilie ca "Ziua Prieteniei dintre România şi Republica Federală Germania"
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-02-06: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-02-06: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L128AD.PDF
+- 2024-02-06: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L128FG.PDF
+- 2024-02-06: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L128EM.PDF
