@@ -14,6 +14,7 @@ Initiator: Guvernul României.
 - 2024-01-17: documents published: Aviz comisie
 - 2024-02-05: documents published: Aviz comisie
 - 2024-02-06: documents published: Aviz comisie
+- 2024-02-07: documents published: Aviz comisie
 
 ## Documents
 
@@ -27,3 +28,4 @@ Initiator: Guvernul României.
 - 2024-02-05: Aviz comisie (CA58): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L741CA58.PDF
 - 2024-02-06: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L741CA3.PDF
 - 2024-02-06: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L741CA56.PDF
+- 2024-02-07: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L741CA19.PDF
