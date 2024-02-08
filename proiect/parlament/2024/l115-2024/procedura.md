@@ -10,7 +10,10 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-10-03: registered at the Chamber of Deputies
 - 2024-02-07: adopted by the Chamber of Deputies
+- 2024-02-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
-- none held as text
+- 2024-02-08: Adresă de înaintare a inițiativei (AD): [ad-0bbbe1f6.md](ad-0bbbe1f6.md); official file https://www.senat.ro/legis/PDF/2024/24L115AD.PDF
+- 2024-02-08: Forma inițiatorului (FG): [fg-56f9bb55.md](fg-56f9bb55.md); official file https://www.senat.ro/legis/PDF/2024/24L115FG.PDF
+- 2024-02-08: Expunere de motive (EM): [em-aeddf87e.md](em-aeddf87e.md); official file https://www.senat.ro/legis/PDF/2024/24L115EM.PDF
