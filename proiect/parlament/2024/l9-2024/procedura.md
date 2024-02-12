@@ -13,6 +13,7 @@ Initiator: Guvernul României.
 - 2024-02-01: documents published: Aviz comisie
 - 2024-02-06: documents published: Aviz comisie
 - 2024-02-07: documents published: Aviz comisie
+- 2024-02-12: registered at the Senate
 
 ## Documents
 
