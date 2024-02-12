@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-29: first record in the bill file
 - 2023-12-06: documents published: Aviz comisie
 - 2023-12-18: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
+- 2024-02-12: legislative procedure ended
 
 ## Documents
 
