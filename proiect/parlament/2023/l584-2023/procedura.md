@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-01: documents published: Raport comisie sesizată pe fond
 - 2023-11-13: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-11-20: registered at the Chamber of Deputies
+- 2024-02-13: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L584CR.PDF
 - 2023-11-13: Forma adoptată de Senat (FS): [fs-37e8fdd5.md](fs-37e8fdd5.md); official file https://www.senat.ro/legis/PDF/2023/23L584FS.PDF
 - 2023-11-13: Adresă către Camera Deputaților (AM): [am-ff366a4a.md](am-ff366a4a.md); official file https://www.senat.ro/legis/PDF/2023/23L584AM.PDF
+- 2024-02-13: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L584AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-02-13: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L584S1.PDF (its day is not given by the bill file: shown from the last stage held)
