@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-06: documents published: Aviz comisie
 - 2023-12-18: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2024-02-12: legislative procedure ended
+- 2024-02-13: registered at the Senate
 
 ## Documents
 
