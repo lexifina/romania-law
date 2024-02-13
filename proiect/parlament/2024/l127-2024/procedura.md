@@ -11,7 +11,9 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-27: registered at the Chamber of Deputies; documents published: Punct de vedere Guvern
 - 2024-02-01: legislative procedure ended
 - 2024-02-02: registered at the Senate
+- 2024-02-13: documents published: Aviz comisie
 
 ## Documents
 
 - 2023-12-27: Punct de vedere Guvern (SJ): [sj-ac2e03d1.md](sj-ac2e03d1.md); official file https://www.senat.ro/legis/PDF/2024/24L127SJ.PDF
+- 2024-02-13: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L127CA41.PDF
