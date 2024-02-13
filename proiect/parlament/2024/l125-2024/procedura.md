@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-02-02: registered at the Senate
+- 2024-02-13: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2024-02-13: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L125CA3.PDF
