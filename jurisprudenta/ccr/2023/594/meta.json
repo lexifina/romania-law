@@ -1,0 +1,327 @@
+{
+ "key": "dcc-594-2023",
+ "label": "Decizia CCR nr. 594/2023",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "594",
+ "date": "2023-11-02",
+ "year": "2023",
+ "heading": "DECIZIA nr. 594 din 2 noiembrie 2023",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 150/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate, precum și pentru stabilirea unor măsuri în domeniul sănătății",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "128",
+  "bis": false,
+  "date": "2024-02-15",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": false,
+ "dossiers": [
+  "1.702A/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 150/2022",
+    "number": "150",
+    "year": "2022",
+    "path": "lege/2022/150"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 151/2010",
+    "number": "151",
+    "year": "2010",
+    "path": "lege/2010/151"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite obiecția de neconstituționalitate formulată de 53 de deputați, aparținând Grupului parlamentar al Uniunii Salvați România și deputați neafiliați și constată că Legea privind aprobarea Ordonanței de urgență a Guvernului nr. 150/2022 pentru modificarea și completarea Legii nr. 95/2006 privind reforma în domeniul sănătății și a Legii nr. 151/2010 privind serviciile specializate integrate de sănătate, educație și sociale adresate persoanelor cu tulburări din spectrul autist și cu tulburări de sănătate mintală asociate, precum și pentru stabilirea unor măsuri în domeniul sănătății este neconstituțională, în ansamblul său.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii privind aprobarea Ordonanței de urgență a Guvernului nr. 150/2022",
+    "number": "150",
+    "year": "2022",
+    "path": "lege/2022/150"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 151/2010",
+    "number": "151",
+    "year": "2010",
+    "path": "lege/2010/151"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 150/2022",
+    "number": "150",
+    "year": "2022",
+    "path": "oug/2022/150"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 95/2006",
+    "number": "95",
+    "year": "2006",
+    "path": "lege/2006/95"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "3-3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "14",
+      "7-3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "703",
+     "alin": [
+      "2-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "875",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "z"
+     ]
+    },
+    {
+     "art": "897",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "931",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "935",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "775",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "165",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "387-7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "25",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 37/2022",
+    "number": "37",
+    "year": "2022",
+    "path": "og/2022/37"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-02-15",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279026",
+  "text_sha256": "475306adc4a83c40b7d419b4a7c959b46cfd7f45887cb8e0d1baf2e57611f167",
+  "catalogue_sha256": "475306adc4a83c40b7d419b4a7c959b46cfd7f45887cb8e0d1baf2e57611f167",
+  "fetched": "2026-11-03T01:14:21Z",
+  "chars": 40525,
+  "portal_id": "279026",
+  "tip": "DECIZIE"
+ }
+}
