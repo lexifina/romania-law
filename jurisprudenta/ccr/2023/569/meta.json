@@ -1,0 +1,221 @@
+{
+ "key": "dcc-569-2023",
+ "label": "Decizia CCR nr. 569/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "569",
+ "date": "2023-10-31",
+ "year": "2023",
+ "heading": "DECIZIA nr. 569 din 31 octombrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 458 alin. (4), în redactarea inițială, și ale art. 495 lit. a) din Legea nr. 227/2015 privind Codul fiscal",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "133",
+  "bis": false,
+  "date": "2024-02-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.632/117/2018",
+  "1.742D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "458",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "495",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ana Morar și Hera Ramona Sălăjan Morar în Dosarul nr. 3.632/117/2018 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și constată că dispozițiile art. 458 alin. (4), în redactarea inițială, și ale art. 495 lit. a) din Legea nr. 227/2015 privind Codul fiscal sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "458",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "495",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "457",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 252/2022",
+    "number": "252",
+    "year": "2022",
+    "path": "lege/2022/252"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "47",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-02-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279075",
+  "text_sha256": "2dc4d6336bc45161818a02e3667115fa746369bfb55d285b253760bfd8cb06d7",
+  "catalogue_sha256": "2dc4d6336bc45161818a02e3667115fa746369bfb55d285b253760bfd8cb06d7",
+  "fetched": "2026-11-06T02:28:04Z",
+  "chars": 16126,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20240716111619/https://legislatie.just.ro/Public/DetaliiDocument/279075",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocument/279075",
+   "timestamp": "20240716111619",
+   "sha256": "ee6b134b67efd993333057768ea9ac6e7435ac03223ce6fd414c4195a36c4802"
+  },
+  "portal_id": "279075",
+  "tip": "DECIZIE"
+ }
+}
