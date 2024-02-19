@@ -1,0 +1,95 @@
+{
+ "key": "cedo-23112-16-2023-09-26",
+ "label": "CEDO, Ciorcaș c. României, 2023-09-26",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-09-26",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 26 septembrie 2023",
+ "subtitle": "în Cauza Ciorcaș împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "140",
+  "bis": false,
+  "date": "2024-02-19",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "23112/16"
+ ],
+ "case_name": "Ciorcaș",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 6 din Convenție;",
+  "3. hotărăște: a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, următoarele sume, care trebuie convertite în moneda statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "3.000 EUR (trei mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral;",
+  "(ii)",
+  "500 EUR (cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit de reclamantă, pentru cheltuielile de judecată;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279336",
+  "text_sha256": "d4c2feb28a225fcb7484ad580817a30adf79b460a6b08658b488b0faead9ea75",
+  "catalogue_sha256": "d4c2feb28a225fcb7484ad580817a30adf79b460a6b08658b488b0faead9ea75",
+  "fetched": "2026-11-03T01:14:08Z",
+  "chars": 15448,
+  "portal_id": "279336",
+  "tip": "HOTĂRÂRE"
+ }
+}
