@@ -1,0 +1,173 @@
+{
+ "key": "dcc-705-2023",
+ "label": "Decizia CCR nr. 705/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "705",
+ "date": "2023-12-12",
+ "year": "2023",
+ "heading": "DECIZIA nr. 705 din 12 decembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 33 alin. (2) din Legea nr. 295/2004 privind regimul armelor și al munițiilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "136",
+  "bis": false,
+  "date": "2024-02-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.420/270/2021",
+  "1.112D/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Victor Laurențiu Neghină în Dosarul nr. 5.420/270/2021 al Tribunalului Bacău - Secția a II-a civilă și de contencios administrativ și fiscal și constată că dispozițiile art. 33 alin. (2) din Legea nr. 295/2004 privind regimul armelor și al munițiilor sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Bacău - Secția a II-a civilă și de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 295/2004",
+    "number": "295",
+    "year": "2004",
+    "path": "lege/2004/295"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-02-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279302",
+  "text_sha256": "1bb7bca39532aaddef6a70e0f5013392a138cef40fca8620733714ba3da83e1c",
+  "catalogue_sha256": "1bb7bca39532aaddef6a70e0f5013392a138cef40fca8620733714ba3da83e1c",
+  "fetched": "2026-11-03T01:14:08Z",
+  "chars": 15840,
+  "portal_id": "279302",
+  "tip": "DECIZIE"
+ }
+}
