@@ -12,8 +12,12 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-01: legislative procedure ended
 - 2024-02-02: registered at the Senate
 - 2024-02-13: documents published: Aviz comisie
+- 2024-02-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2023-12-27: Punct de vedere Guvern (SJ): [sj-ac2e03d1.md](sj-ac2e03d1.md); official file https://www.senat.ro/legis/PDF/2024/24L127SJ.PDF
 - 2024-02-13: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L127CA41.PDF
+- 2024-02-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L127AD.PDF
+- 2024-02-19: Forma inițiatorului (FG): [fg-d2038379.md](fg-d2038379.md); official file https://www.senat.ro/legis/PDF/2024/24L127FG.PDF
+- 2024-02-19: Expunere de motive (EM): [em-1945b3c9.md](em-1945b3c9.md); official file https://www.senat.ro/legis/PDF/2024/24L127EM.PDF
