@@ -1,0 +1,17 @@
+# Propunere legislativă L181/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.IX alin.(1) din Ordonanța de urgență a Guvernului nr.44/2022 privind stabilirea unor măsuri în cadrul sistemului de sănătate, precum și pentru interpretarea, modificarea și completarea unor acte normative
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-02-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-02-20: Adresă de înaintare a inițiativei (AD): [ad-72996609.md](ad-72996609.md); official file https://www.senat.ro/legis/PDF/2024/24L181AD.PDF
+- 2024-02-20: Forma inițiatorului (FG): [fg-b76a6451.md](fg-b76a6451.md); official file https://www.senat.ro/legis/PDF/2024/24L181FG.PDF
+- 2024-02-20: Expunere de motive (EM): [em-a0eb3db0.md](em-a0eb3db0.md); official file https://www.senat.ro/legis/PDF/2024/24L181EM.PDF
