@@ -1,0 +1,10 @@
+# HCL Sărulești nr. 14/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Sărulești
+- Decision: nr. 14/2024
+- Adopted: 2024-02-12
+- Published: 2024-02-20
+- Title: privind aprobarea utilizarii de sume din excedentului anului 2023 pentru Sectiunea dezvoltare
+- Record: https://emol.ro/sarulesti-cl/registru-hcl/143885
