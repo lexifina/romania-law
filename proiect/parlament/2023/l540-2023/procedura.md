@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-10-26: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-11-06: registered at the Chamber of Deputies
+- 2024-02-20: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-05: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L540EM.PDF
 - 2023-10-26: Forma adoptată de Senat (FS): [fs-8a20d005.md](fs-8a20d005.md); official file https://www.senat.ro/legis/PDF/2023/23L540FS.PDF
 - 2023-10-26: Adresă către Camera Deputaților (AM): [am-394238a3.md](am-394238a3.md); official file https://www.senat.ro/legis/PDF/2023/23L540AM.PDF
+- 2024-02-20: Document (AJ): [aj-9025358b.md](aj-9025358b.md); official file https://www.senat.ro/legis/PDF/2023/23L540AJ.PDF (its day is not given by the bill file: shown from the last stage held)
