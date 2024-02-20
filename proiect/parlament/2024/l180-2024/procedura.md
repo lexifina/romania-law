@@ -1,0 +1,17 @@
+# Propunere legislativă L180/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea și completarea Legii nr.207/2015 privind Codul de procedură fiscală
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-02-20: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-02-20: Adresă de înaintare a inițiativei (AD): [ad-13833ac1.md](ad-13833ac1.md); official file https://www.senat.ro/legis/PDF/2024/24L180AD.PDF
+- 2024-02-20: Forma inițiatorului (FG): [fg-cfd45462.md](fg-cfd45462.md); official file https://www.senat.ro/legis/PDF/2024/24L180FG.PDF
+- 2024-02-20: Expunere de motive (EM): [em-d73774b0.md](em-d73774b0.md); official file https://www.senat.ro/legis/PDF/2024/24L180EM.PDF
