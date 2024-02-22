@@ -1,0 +1,6 @@
+# Anexa nr. 10 la norme
+DECLARAȚIE DE INACTIVITATE
+Subsemnatul/Subsemnata,.........................................., legitimat(ă) cu buletinul/cartea de identitate/pașaportul seria....... nr.........., eliberat(ă) de........................ la data de............................, cod numeric personal (CNP).................................., în calitate de auditor financiar/reprezentant legal al firmei de audit........................................., nr. de înregistrare în Registrul public electronic..........................., declar pe propria răspundere, cunoscând prevederile art. 322, 323 și 326 din Codul penal privind falsul în înscrisuri sub semnătură privată, uzul de fals și, respectiv, falsul în declarații, că nu am desfășurat activitate de audit, în nume propriu sau în numele vreunei firme de audit/firma de audit nu a desfășurat nicio misiune de audit, începând cu anul 2018 și până la momentul depunerii cererii de retragere.
+Subsemnatul/Subsemnata,..........................................., declar că sunt de acord cu stocarea, utilizarea și prelucrarea de către Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar a datelor cu caracter personal, în condițiile prevăzute de Regulamentul general privind protecția datelor, în exercitarea atribuțiilor legale.
+Data............................
+Semnătura...................

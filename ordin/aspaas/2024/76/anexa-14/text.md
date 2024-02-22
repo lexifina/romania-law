@@ -1,0 +1,7 @@
+# Anexa nr. 13 la norme
+DECLARAȚIE cu privire la depunerea rapoartelor de activitate pe platforma online a Autorității pentru Supravegherea Publică a Activității de Audit Statutar
+Subsemnatul/Subsemnata,...................................., auditor financiar autorizat cu nr. de înregistrare în Registrul public electronic (RPE)..................., în calitate de reprezentant legal al firmei de audit......................................., înregistrată în RPE cu numărul...................., declar pe propria răspundere, cunoscând prevederile art. 322, 323 și 326 din Codul penal privind falsul în înscrisuri sub semnătură privată, uzul de fals și, respectiv, falsul în declarații, că firma de audit a depus pe platforma online disponibilă la adresa raportare.aspaas.gov.ro raportul/rapoartele aferent(e) activității desfășurate până la momentul depunerii cererii de retragere a autorizării.
+Subsemnatul/Subsemnata,..................................................., declar pe propria răspundere că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar a datelor cu caracter personal, în condițiile prevăzute de Regulamentul general privind protecția datelor, în exercitarea atribuțiilor legale.
+Data............................
+Semnătura...................
+------

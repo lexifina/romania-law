@@ -1,0 +1,6 @@
+# Anexa nr. 12 la norme
+DECLARAȚIE PE PROPRIA RĂSPUNDERE
+Subsemnatul/Subsemnata,............................................., auditor financiar autorizat cu nr. de înregistrare în Registrul public electronic (RPE)..................., în calitate de reprezentant legal al firmei de audit.............................................., înregistrată în RPE cu numărul..........................................., declar pe propria răspundere, cunoscând prevederile art. 322, 323 și 326 din Codul penal privind falsul în înscrisuri sub semnătură privată, uzul de fals și, respectiv, falsul în declarații, că firma de audit nu se află în vreuna dintre situațiile prevăzute la art. 20 alin. (7) din normele aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 87/2018, cu modificările și completările ulterioare.
+Subsemnatul/Subsemnata,..................................................., declar pe propria răspundere că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către Autoritatea pentru Supravegherea Publică a Activității de Audit Statutar a datelor cu caracter personal, în condițiile prevăzute de Regulamentul general privind protecția datelor, în exercitarea atribuțiilor legale.
+Data............................
+Semnătura...................

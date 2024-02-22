@@ -1,0 +1,10 @@
+# Anexa nr. 7 la norme
+CERERE de retragere a autorizării ca auditor financiar
+Subsemnatul/Subsemnata,................................, legitimat(ă) cu buletinul/cartea de identitate/pașaportul seria................. nr.................., eliberat(ă) de............................... la data de..............., cod numeric personal (CNP).................................................., în calitate de auditor financiar, nr. de înregistrare în Registrul public electronic........................................., solicit retragerea autorizării ca auditor financiar.
+Anexez la prezenta cerere următoarele documente: a) declarația pe propria răspundere, conform anexei nr. 8 la Normele privind autorizarea auditorilor financiari și a firmelor de audit din România, autorizarea auditorilor financiari/recunoașterea firmelor de audit din alte state membre, retragerea și redobândirea autorizării, aprobate prin Ordinul președintelui Autorității pentru Supravegherea Publică a Activității de Audit Statutar nr. 87/2018, cu modificările și completările ulterioare (norme);
+b) declarația pe propria răspundere cu privire la depunerea rapoartelor de activitate pe platforma online a Autorității pentru Supravegherea Publică a Activității de Audit Statutar (ASPAAS), conform anexei nr. 9 la norme;
+c) declarația de inactivitate, conform anexei nr. 10 la norme, după caz.
+Date de contact: • adresă de e-mail.............................................................; • nr. de telefon...................................................................
+Subsemnatul/Subsemnata,.................................., în calitate de reprezentant legal al societății...................................., declar că informațiile furnizate sunt corecte și complete și că sunt de acord cu stocarea, utilizarea și prelucrarea de către ASPAAS a datelor cu caracter personal, în exercitarea atribuțiilor legale, în condițiile prevăzute de Regulamentul general privind protecția datelor.
+Data............................
+Semnătura...................
