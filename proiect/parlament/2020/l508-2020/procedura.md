@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-02-12: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-02-14: sent for promulgation
 - 2024-02-22: promulgated, becomes Legea nr. 18/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-02-23: published in the Monitorul Oficial
 
 ## Documents
 
