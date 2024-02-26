@@ -11,6 +11,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2023-12-28: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere
 - 2024-02-13: documents published: Aviz comisie
+- 2024-02-26: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-28: Aviz Consiliul Legislativ (LG): [lg-9189693f.md](lg-9189693f.md); official file https://www.senat.ro/legis/PDF/2024/24L099LG.PDF
 - 2023-12-28: Punct de vedere (PV): [pv-aa50fc2c.md](pv-aa50fc2c.md); official file https://www.senat.ro/legis/PDF/2024/24L099PV.PDF
 - 2024-02-13: Aviz comisie (CA41): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L099CA41.PDF
+- 2024-02-26: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L099CR.PDF
