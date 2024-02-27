@@ -1,0 +1,11 @@
+# HCL Nădlac nr. 25/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Orașului Nădlac
+- Decision: nr. 25/2024
+- Adopted: 2024-02-27
+- Title: privind aprobarea instituirii cu titlu gratuit a unui drept de superficie și a unui drept de servitute de trecere asupra terenului în suprafață de 5.133 mp parcela cu nr. cadastral 317855, evidenţiată în CF nr. 317855 Nădlac
+- Record: https://primaria-nadlac.ro/hotarari-din-anul-2024/
+- Document: http://www.primaria-nadlac.ro/images/hotarari/2024/h25.pdf
+- Document sha256: 3205b7bb48656bab06a17f5c851e9dbce785d193995f6408bd78ee42f04d21e9
