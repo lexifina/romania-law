@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2024-02-13: adopted by the Chamber of Deputies
 - 2024-02-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
 - 2024-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2024-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -25,3 +26,5 @@ Initiator: Guvernul României.
 - 2024-02-14: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117LG.PDF
 - 2024-02-14: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117HG.PDF
 - 2024-02-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117FS.PDF
+- 2024-02-27: Adresă privind sesizarea CCR (AXS): [axs-1046ce0b.md](axs-1046ce0b.md); official file https://www.senat.ro/legis/PDF/2024/24L117AXS.PDF
+- 2024-02-27: Forma trimisă la promulgare (LP): [lp-006f4f11.md](lp-006f4f11.md); official file https://www.senat.ro/legis/PDF/2024/24L117LP.PDF
