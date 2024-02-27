@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-02-02: first record in the bill file
 - 2024-02-13: documents published: Aviz comisie
+- 2024-02-27: registered at the Senate
 
 ## Documents
 
