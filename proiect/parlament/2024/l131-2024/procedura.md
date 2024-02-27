@@ -1,0 +1,22 @@
+# Proiect de lege L131/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 197/2024 (`legea-197-2024`).
+
+Proiect de lege pentru aprobarea Ordonanţei de urgenţã a Guvernului nr.11/2024 privind gestionarea financiară a alocărilor din Fondul european pentru afaceri maritime, pescuit și acvacultură aferente politicii comune de pescuit și politicii maritime integrate la nivelul Uniunii Europene, precum și a fondurilor alocate de la bugetul de stat pentru perioada de programare 2021-2027
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-02-27: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-02-27: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L131AD.PDF
+- 2024-02-27: Forma inițiatorului (FG): [fg-89f5ae5f.md](fg-89f5ae5f.md); official file https://www.senat.ro/legis/PDF/2024/24L131FG.PDF
+- 2024-02-27: Expunere de motive (EM): [em-710c03a7.md](em-710c03a7.md); official file https://www.senat.ro/legis/PDF/2024/24L131EM.PDF
+- 2024-02-27: Aviz Consiliul Legislativ (LG): [lg-759a9b13.md](lg-759a9b13.md); official file https://www.senat.ro/legis/PDF/2024/24L131LG.PDF
+- 2024-02-27: Document (OG): [og-9537b426.md](og-9537b426.md); official file https://www.senat.ro/legis/PDF/2024/24L131OG.PDF
+- 2024-02-27: Document (HG): [hg-b6491802.md](hg-b6491802.md); official file https://www.senat.ro/legis/PDF/2024/24L131HG.PDF
