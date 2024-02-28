@@ -1,0 +1,40 @@
+{
+ "key": "cjue-t-164-23-hotarare-2024-02-28",
+ "label": "CJUE, Hotărârea Tribunalului (Camera a șasea) din 28 februarie 2024, Cauza T-164/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-02-28",
+ "year": "2024",
+ "case": "Cauza T-164/23",
+ "celex": "62023TJ0164",
+ "ecli": "ECLI:EU:T:2024:132",
+ "heading": "Hotărârea Tribunalului (Camera a șasea) din 28 februarie 2024",
+ "formation": "CHAMB_06_T",
+ "procedure": "ACTION_ANNU",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": null,
+ "national_followup": null,
+ "parties": "Drinks Prod SRL împotriva Oficiului Uniunii Europene pentru Proprietate Intelectuală",
+ "parties_withheld": false,
+ "keywords": "Marcă a Uniunii Europene – Procedură de opoziție – Cerere de înregistrare a mărcii Uniunii Europene figurative IGISAN – Marca Uniunii Europene verbală anterioară IGNISAN – Motiv relativ de refuz – Risc de confuzie – Articolul 8 alineatul (1) litera (b) din Regulamentul (UE) 2017/1001",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": true,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023TJ0164",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=T-164/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": null,
+  "format": null,
+  "sha256": null
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
