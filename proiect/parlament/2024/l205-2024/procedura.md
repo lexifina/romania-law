@@ -1,0 +1,17 @@
+# Propunere legislativă L205/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea articolului 16 din Legea - cadru nr.153/2017 privind salarizarea personalului plătit din fonduri publice
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-02-28: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-02-28: Adresă de înaintare a inițiativei (AD): [ad-7f9ba674.md](ad-7f9ba674.md); official file https://www.senat.ro/legis/PDF/2024/24L205AD.PDF
+- 2024-02-28: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L205FG.PDF
+- 2024-02-28: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L205EM.PDF
