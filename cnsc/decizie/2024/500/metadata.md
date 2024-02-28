@@ -1,0 +1,25 @@
+# Decizia CNSC nr. 500/C3/84 din 28.02.2024
+
+The record of this decision on the CNSC portal.
+
+- Body: Consiliul Național de Soluționare a Contestațiilor (CNSC)
+- Decision: 500/C3/84
+- Date: 2024-02-28
+- Panel: C3
+- Complainant: EURO AUDIT SERVICE SRL
+- Complainant CUI: 16869469
+- Contracting authority: COMUNA HOMOCEA
+- Contracting authority CUI: 4350688
+- Complaint registered at CNSC: 2224 / 2024-01-15
+- Resolution: Admite
+- Operative part: admite, anuleaza, obliga
+- Procedure: *Procedura simplificata
+- Funds: Europene
+- CPV: 45310000-3
+- Criticisms: R8 (alte motive cu privire la rezultatul procedurii)
+- Procedure law: Legea nr. 101/2016
+- Official Bulletin number: BO2024_500
+- Decision as issued (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzJlMjkyNWItNThlOC00OTUwLTk2MTQtN2Y4ODJjM2Q5MTUy&pdfa1=ZmFsc2U=&filename=RGVjaXppZV81MDAucGRm&action=YXR0YWNobWVudA==
+- Reasoned decision (PDF): http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MTQwNDBkM2QtM2NjMi00ZGEyLTk3MmItYWVhOWYwNWJmZWM3&pdfa1=ZmFsc2U=&filename=Qk8yMDI0XzUwMC5wZGY=&action=YXR0YWNobWVudA==
+- Copyright: Legea nr. 8/1996, art. 9 lit. b: texts of a legislative, administrative or judicial nature are not protected by copyright; CNSC decisions are administrative-jurisdictional acts.
+- Publication: Published on the official-text basis by the decision of Lexifina (2026-11-06), although the CNSC portal's terms bar reproduction for commercial purposes without written consent.
