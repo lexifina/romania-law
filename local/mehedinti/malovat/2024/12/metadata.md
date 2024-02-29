@@ -1,0 +1,9 @@
+# HCL Malovăț nr. 12/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Local al Comunei Malovăț
+- Decision: nr. 12/2024
+- Adopted: 2024-02-29
+- Title: privind aprobarea Dispoziției nr.33/06.02.2024 a Primarului comunei Malovăț prin care s-a dispus completarea bugetului local de venituri și cheltuieli al comunei Malovăț pe anul 2024
+- Record: https://emol.ro/malovat-mh/registru-hcl/145732
