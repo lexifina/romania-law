@@ -1,0 +1,87 @@
+REGULAMENTUL DELEGAT (UE) 2024/204 AL COMISIEI
+din 18 decembrie 2023
+de completare a Regulamentului (UE) 2021/691 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de ajustare la globalizare pentru lucrătorii disponibilizați (FEG)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2021/691 al Parlamentului European și al Consiliului din 28 aprilie 2021 privind Fondul european de ajustare la globalizare pentru lucrătorii disponibilizați (FEG) și de abrogare a Regulamentului (UE) nr. 1309/2013 (1), în special articolul 23 alineatul (6),
+întrucât:
+(1) Scopul prezentului regulament este de a completa dispoziția prevăzută la articolul 23 alineatul (1) primul paragraf litera (e) și al doilea paragraf din Regulamentul (UE) 2021/691 privind obligația statelor membre de a raporta Comisiei neregulile referitoare la FEG. Pentru a permite Comisiei să își îndeplinească responsabilitățile privind protecția intereselor financiare ale Uniunii, în special să efectueze analize de risc, să dezvolte sisteme pentru o identificare mai eficace a riscurilor și să elaboreze rapoarte în scopul îndeplinirii unor astfel de sarcini, este necesar să se prevadă criteriile pentru stabilirea cazurilor de nereguli pe care statele membre trebuie să le raporteze Comisiei și să se specifice datele care trebuie furnizate.
+(2) Interesele financiare ale Uniunii ar trebui protejate în același fel, indiferent de fondurile vizate pentru realizarea obiectivelor pentru care au fost instituite. În acest scop, articolul 23 alineatul (6) din Regulamentul (UE) 2021/691 împuternicește Comisia să adopte norme care să completeze dispozițiile privind obligația statelor membre de a raporta neregulile legate de finanțarea din FEG. Aceste norme ar trebui să fie echivalente cu normele detaliate privind raportarea neregulilor prevăzute în anexa XII secțiunea 1 la Regulamentul (UE) 2021/1060 al Parlamentului European și al Consiliului (2) și în concordanță cu normele prevăzute în Regulamentul delegat (UE) 2024/205 al Comisiei (3).
+(3) Pentru a permite o aplicare consecventă a cerințelor de raportare în toate statele membre, este necesar să se definească termenul „suspiciune de fraudă”, ținând seama de definiția fraudei și a altor infracțiuni prevăzute la articolul 3 alineatul (2) literele (a) și (b) și la articolul 4 alineatele (1), (2) și (3) din Directiva (UE) 2017/1371 a Parlamentului European și a Consiliului (4) și, în cazul statelor membre care nu au obligații în temeiul directivei respective, la articolul 1 alineatul (1) litera (a) din Convenția privind protecția intereselor financiare ale Comunităților Europene, elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană (5).
+(4) În mod similar, expresia „constatare primară administrativă sau judiciară” ar trebui definită pentru a se asigura eficacitatea și coerența în executarea obligațiilor de raportare.
+(5) Este necesar să se clarifice faptul că expresia „operator economic” în scopul aplicării noțiunii de „neregulă” în sensul articolului 3 alineatul (4) din Regulamentul (UE) 2021/691 ar trebui să însemne orice persoană fizică sau juridică ori o altă entitate care participă la implementarea asistenței din partea fondului, cu excepția unui stat membru care își exercită prerogativele în calitate de autoritate publică în sensul articolului 2 punctul 30 din Regulamentul (UE) 2021/1060.
+(6) Regulamentul (UE) 2021/1060 stabilește pragul de raportare până la care neregulile nu trebuie raportate Comisiei și cazurile în care nu este necesară raportarea. Pentru a se ajunge la un echilibru între sarcina administrativă a statelor membre și interesul comun de a furniza date exacte pentru analize în cadrul luptei Uniunii împotriva fraudei, este oportun să se alinieze pragurile de raportare și derogările pentru raportarea neregulilor în temeiul prezentului regulament delegat cu cele prevăzute în Regulamentul (UE) 2021/1060.
+(7) În vederea asigurării coerenței raportării, este necesar să se stabilească criteriile pentru determinarea cazurilor în care neregulile să fie raportate inițial și datele care trebuie furnizate în astfel de rapoarte inițiale.
+(8) Pentru ca datele furnizate Comisiei să fie exacte, este necesară transmiterea unor rapoarte subsecvente. Statele membre ar trebui, prin urmare, să furnizeze Comisiei informații actualizate cu privire la orice progrese semnificative privind procedurile sau demersurile administrative și judiciare realizate în legătură cu fiecare raport inițial.
+(9) Atunci când, în sensul prezentului regulament, este necesar să se prelucreze date cu caracter personal, această operațiune trebuie efectuată în conformitate cu legislația Uniunii în materie de protecție a datelor cu caracter personal. Având în vedere Regulamentul (UE) 2016/679 al Parlamentului European și a Consiliului (6) și Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului (7), Comisia și statele membre ar trebui, în ceea ce privește informațiile furnizate în temeiul prezentului regulament, să ia măsuri de prevenire a divulgării neautorizate sau a accesului neautorizat la datele cu caracter personal. De asemenea, prezentul regulament ar trebui să specifice scopul în care Comisia și statele membre pot prelucra datele respective. Orice utilizare ulterioară a acestora nu aduce atingere articolului 6 alineatul (4) din Regulamentul (UE) 2016/679.
+(10) Obligațiile statelor membre de a raporta Comisiei neregulile prin intermediul Sistemului de gestionare a neregulilor (IMS) în temeiul Regulamentului (UE) 2021/691 ar trebui să se aplice fără a aduce atingere obligațiilor care le revin în temeiul Regulamentului (UE, Euratom) nr. 883/2013 al Parlamentului European și al Consiliului (8) și al Regulamentului (UE) 2017/1939 al Consiliului (9).
+(11) Autoritatea Europeană pentru Protecția Datelor a fost consultată în legătură cu prezentul regulament, în conformitate cu articolul 42 alineatul (1) din Regulamentul (UE) 2018/1725.
+(12) Întrucât este posibil ca neregulile raportabile să fi avut deja loc și este în interesul Uniunii să remedieze astfel de nereguli, prezentul regulament ar trebui să se aplice cât mai curând posibil. Prin urmare, acesta ar trebui să intre în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Obiectul
+Prezentul regulament stabilește criteriile de stabilire a cazurilor de nereguli ce trebuie raportate de statele membre și datele ce trebuie furnizate în acest context.
+Articolul 2
+Definiții
+Se aplică definițiile prevăzute de Regulamentul (UE) 2021/691. În plus, în sensul prezentului regulament, se aplică următoarele definiții:
+(a) „suspiciune de fraudă” înseamnă o neregulă care determină inițierea unor proceduri administrative sau judiciare la nivel național pentru a stabili prezența unui comportament intenționat, în special a fraudei sau a altor infracțiuni, astfel cum se menționează la articolul 3 alineatul (2) literele (a) și (b), la articolul 4 alineatele (1), (2) și (3) din Directiva (UE) 2017/1371 și, pentru statele membre care nu au obligații în temeiul directivei respective, la articolul 1 alineatul (1) litera (a) din Convenția privind protecția intereselor financiare ale Comunităților Europene, elaborată în temeiul articolului K.3 din Tratatul privind Uniunea Europeană;
+(b) „constatare primară administrativă sau judiciară” înseamnă o primă evaluare scrisă a unei autorități competente, administrativă sau judiciară, care a confirmat, pe baza unor fapte concrete, eventuala existență a unei nereguli, indiferent dacă există posibilitatea ca această concluzie să fie revizuită sau retrasă ulterior, în urma unor evoluții în cursul procedurii administrative sau judiciare.
+Articolul 3
+Raportare
+(1) Statele membre raportează Comisiei neregulile care au făcut obiectul unei constatări primare administrative sau judiciare.
+(2) Prin derogare de la alineatul (1), statele membre nu raportează Comisiei:
+(a) neregulile care implică o contribuție din fond mai mică de 10 000 EUR; această derogare nu se aplică neregulilor care sunt interconectate și care implică o contribuție totală din fond de peste 10 000 EUR, chiar și în cazul în care nicio neregulă individuală nu depășește plafonul în mod individual;
+(b) cazurile în care neregula constă exclusiv în neexecutarea, totală sau parțială, a unei măsuri sprijinite prin FEG din cauza falimentului nefraudulos al operatorului economic implicat în implementarea FEG;
+(c) cazurile aduse în atenția autorității de management sau a altei autorități competente de către operatorul economic implicat în implementarea FEG, în mod voluntar și înainte de detectarea de către oricare dintre autorități, fie înainte, fie după plata contribuției publice;
+(d) cazuri care sunt detectate și corectate de autoritatea de management sau de altă autoritate competentă, înainte de a fi incluse în declarația de cheltuieli transmisă Comisiei împreună cu raportul final privind execuția contribuției financiare.
+Derogările prevăzute la literele (c) și (d) de la paragraful anterior nu se aplică în cazurile de nereguli menționate la articolul 2 litera (a).
+(3) În raportul inițial al neregulilor, statele membre furnizează următoarele informații:
+(a) identificatorii cazului FEG [codul comun de identificare (CCI), numărul și titlul cazului], măsura și operațiunea în cauză;
+(b) identitatea persoanelor fizice sau juridice implicate, ori a ambelor, ori a altor entități implicate în producerea neregulii, precum și rolul acestora, cu excepția cazului în care asemenea informații sunt irelevante în scopul combaterii neregulilor, dată fiind natura neregulii în cauză;
+(c) numărul național de identificare al persoanelor în cauză;
+(d) numărul de TVA al persoanelor în cauză;
+(e) regiunea sau zona în care operațiunea a fost realizată, identificată prin informații adecvate, cum ar fi nivelul NUTS (nomenclator comun al unităților teritoriale de statistică);
+(f) dispoziția sau dispozițiile de la nivelul Uniunii și de la nivel național care au fost încălcate;
+(g) data și sursa primei informații care a condus la suspiciunea producerii unei nereguli;
+(h) practicile (modi operandi) utilizate la producerea neregulii;
+(i) atunci când este cazul, dacă practica dă naștere unei suspiciuni de fraudă;
+(j) metoda prin care a fost constatată neregula;
+(k) numărul cazului OLAF (Oficiul European de Luptă Antifraudă), dacă există;
+(l) dacă este cazul, statele membre implicate;
+(m) perioada în care sau data la care s-a produs neregula;
+(n) data la care a avut loc constatarea primară administrativă sau judiciară a neregulii;
+(o) suma totală a cheltuielilor, exprimată în funcție de contribuția Uniunii, și de cofinanțarea națională, inclusiv de contribuția privată, dacă există;
+(p) suma afectată de neregulă, exprimată în funcție de contribuția Uniunii și de cofinanțarea națională, inclusiv de contribuția privată, dacă există;
+(q) în cazurile de suspiciune de fraudă și atunci când nu s-a efectuat nicio plată din contribuția publică către operatorul economic implicat în implementarea FEG, suma care ar fi fost plătită necuvenit dacă nu s-ar fi constatat neregula, exprimată în funcție de contribuția Uniunii și de cofinanțarea națională, inclusiv de contribuția privată, dacă există;
+(r) tipul cheltuielilor afectate de nereguli.
+(4) În cazul în care dispozițiile naționale prevăd confidențialitatea investigațiilor, comunicarea informațiilor face obiectul autorizării de către instanța competentă sau de către un alt organism în conformitate cu normele naționale.
+(5) În cazul în care anumite informații menționate la alineatul (3), și, în special, informațiile referitoare la practicile utilizate la producerea neregulii și modul în care aceasta a fost constatată, nu sunt disponibile sau trebuie rectificate sau completate, statele membre furnizează informațiile lipsă sau rectifică informațiile prezentând Comisiei rapoarte subsecvente de monitorizare privind neregulile.
+(6) Statele membre informează în mod constant Comisia cu privire la inițierea, încheierea sau abandonarea oricărei proceduri sau oricărui demers de impunere de măsuri administrative, sancțiuni administrative sau sancțiuni penale cu privire la neregulile raportate, precum și cu privire la rezultatul acestor proceduri sau demersuri. În ceea ce privește neregulile pentru care au fost impuse sancțiuni, statele membre indică, de asemenea:
+(a) dacă sancțiunile sunt de natură administrativă sau penală și detalii privind sancțiunile;
+(b) dacă sancțiunile sunt o consecință a nerespectării legislației Uniunii sau a legislației naționale;
+(c) dacă s-a constatat săvârșirea unei fraude.
+(7) La cererea scrisă a Comisiei, statele membre furnizează informații referitoare la o neregulă sau la un grup de nereguli specifice.
+Articolul 4
+Utilizarea și prelucrarea informațiilor raportate
+(1) Comisia poate utiliza orice informație transmisă de către statele membre în conformitate cu prezentul regulament pentru a efectua o analiză de risc, utilizând în acest scop un suport informatic, și, pe baza informațiilor obținute, poate întocmi rapoarte și dezvolta sisteme care să servească la o mai eficientă identificare a riscurilor.
+(2) Informațiile furnizate în temeiul prezentului regulament intră sub incidența secretului profesional și sunt protejate la fel cum ar fi protejate de legislația națională a statului membru care le-a furnizat și de dispozițiile relevante aplicabile instituțiilor Uniunii. Statele membre și Comisia iau toate măsurile de precauție necesare pentru a garanta că informațiile rămân confidențiale.
+(3) În special, informațiile menționate la alineatul (2) nu se transmit altor persoane decât cele care, în statele membre sau în cadrul instituțiilor, agențiilor, birourilor și organelor Uniunii, prin funcția lor, trebuie să aibă acces la acestea, cu excepția cazului în care statul membru care le-a furnizat și-a dat consimțământul expres în acest sens.
+(4) Informațiile menționate la alineatul (2) nu se utilizează în niciun alt scop decât protecția intereselor financiare ale Uniunii, cu excepția cazului în care statul membru care furnizează informațiile și-a dat consimțământul expres în acest sens.
+Articolul 5
+Intrarea în vigoare
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 18 decembrie 2023.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 153, 3.5.2021, p. 48.
+(2) Regulamentul (UE) 2021/1060 al Parlamentului European și al Consiliului din 24 iunie 2021 de stabilire a dispozițiilor comune privind Fondul european de dezvoltare regională, Fondul social european Plus, Fondul de coeziune, Fondul pentru o tranziție justă și Fondul european pentru afaceri maritime, pescuit și acvacultură și de stabilire a normelor financiare aplicabile acestor fonduri, precum și Fondului pentru azil, migrație și integrare, Fondului pentru securitate internă și Instrumentului de sprijin financiar pentru managementul frontierelor și politica de vize (JO L 231, 30.6.2021, p. 159).
+(3) Regulamentul delegat (UE) 2024/205 al Comisiei din 18 decembrie 2023 de completare a Regulamentului (UE) 2021/2116 al Parlamentului European și al Consiliului cu dispoziții specifice privind raportarea neregulilor legate de Fondul european de garantare agricolă și Fondul european agricol pentru dezvoltare rurală și de abrogare a Regulamentului (UE) 2015/1971 al Comisiei (JO L, 29.2.2024, ELI: http://data.europa.eu/eli/reg_del/2024/205/oj).
+(4) Directiva (UE) 2017/1371 a Parlamentului European și a Consiliului din 5 iulie 2017 privind combaterea fraudelor îndreptate împotriva intereselor financiare ale Uniunii prin mijloace de drept penal (JO L 198, 28.7.2017, p. 29).
+(5) JO C 316, 27.11.1995, p. 49.
+(6) Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor) (JO L 119, 4.5.2016, p. 1).
+(7) Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului din 23 octombrie 2018 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal de către instituțiile, organele, oficiile și agențiile Uniunii și privind libera circulație a acestor date și de abrogare a Regulamentului (CE) nr. 45/2001 și a Deciziei nr. 1247/2002/CE (JO L 295, 21.11.2018, p. 39).
+(8) Regulamentul (UE, Euratom) nr. 883/2013 al Parlamentului European și al Consiliului din 11 septembrie 2013 privind investigațiile efectuate de Oficiul European de Luptă Antifraudă (OLAF) și de abrogare a Regulamentului (CE) nr. 1073/1999 al Parlamentului European și al Consiliului și a Regulamentului (Euratom) nr. 1074/1999 al Consiliului (JO L 248, 18.9.2013, p. 1).
+(9) Regulamentul (UE) 2017/1939 al Consiliului din 12 octombrie 2017 de punere în aplicare a unei forme de cooperare consolidată în ceea ce privește instituirea Parchetului European (EPPO) (JO L 283, 31.10.2017, p. 1).
+ELI: http://data.europa.eu/eli/reg_del/2024/204/oj
