@@ -1,0 +1,38 @@
+# Anexa 6
+Anexa nr. 6
+la norme
+Nr. .................. din ..................,
+CERERE
+pentru acordarea pensiei de invaliditate
+Către Casa Teritorială de Pensii ..................
+Subsemnatul(a), ............................................, având codul numeric personal ..................................., domiciliat(ă) în localitatea ................................, str. ............................ nr. .........., bl. .........., sc. .........., et. .........., ap. .........., județul .................., posesor/posesoare al (a) actului de identitate seria ....... nr. ..................., eliberat de ................................. la data de ...................., născut(ă) la data de .................. în localitatea/județul .................., fiul (fiica) lui.................. și al (a) .................., nr. telefon ................., adresă de e-mail .................., solicit înscrierea la pensie de invaliditate.
+În acest scop depun, după caz, următoarele documente: – carnet de muncă seria .................. nr. .................., în original și copie;
+– carnetul de pensii și asigurări sociale pentru membrii CAP (original și copie);
+– carnetul de pensii și asigurări sociale pentru țăranii cu gospodărie individuală din zonele necooperativizate (original și copie);
+– carnet de asigurări sociale seria .................. nr. .................., în original și copie;
+– livret militar seria .................. nr. .................., în copie;
+– buletin/carte de identitate seria .................. nr. .................., în copie;
+– certificat de naștere și/sau certificate de căsătorie seria .................. nr. .................., în copie;
+– diploma de studii însoțită de foaia matricolă sau adeverința de certificare a perioadelor de studii învățământ superior nr. ................. din ................., copie/original, după caz;
+– adeverință privind sporurile la salariu nr. .................. din .................., în original;
+– adeverință privind grupa superioară/condiții de muncă nr. .................. din .................., în original;
+– alte acte pentru dovedirea perioadelor de activitate și a veniturilor realizate ................., în original;
+– adeverință din care să reiasă data încetării plății indemnizației pentru incapacitate temporară de muncă sau, după caz, data încetării calității de asigurat .................., în original;
+– decizia medicală asupra capacității de muncă nr. .................. din .................., în original;
+– FIAM pentru accident de muncă nr. .................. din .................., în copie;
+– BP2 pentru boală profesională nr. .................. din .................., în copie;
+– adeverință eliberată de angajatorul/angajatorii la care își desfășoară activitatea, cu datele de identificarea ale acestuia/acestora, în vederea informării cu privire la emiterea deciziei de pensie, conform art. 93 alin. (7) din lege , nr. .................. din .................. (original).
+Declar pe propria răspundere, sub sancțiunile prevăzute de Codul penal pentru declarații false, că: – sunt/nu sunt asigurat(ă);
+– primesc/nu primesc o altă pensie sau ajutor social - dosar nr. ..................;
+– primesc/nu primesc pensie din alt sistem de pensii integrat sistemului public de pensii - dosar nr...................;
+– primesc/nu primesc pensie din alt sistem de pensii neintegrat sistemului public de pensii - dosar nr. ..................;
+– primesc/nu primesc indemnizație - dosar nr. ..................;
+– primesc/nu primesc indemnizație de șomaj;
+– primesc/nu primesc indemnizație acordată persoanelor cu handicap.
+Declar că îmi exprim acordul cu privire la prelucrarea datelor, în scopul și pentru îndeplinirea atribuțiilor legale ale instituției, cu respectarea prevederilor Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE ( Regulamentul general privind protecția datelor).
+Mă oblig a anunța, în termen de 15 zile, casei teritoriale de pensii orice schimbare ce va surveni în cele declarate mai sus.
+În cazul în care nu îmi voi respecta declarația asumată prin prezenta cerere, mă oblig să restitui integral sumele încasate nelegal, suportând rigorile legii.
+Data
+…………………………
+Semnătura
+…………………………………
