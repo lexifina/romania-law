@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-02-13: adopted by the Chamber of Deputies
 - 2024-02-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-02-21: sent for promulgation
+- 2024-03-04: promulgated, becomes Legea nr. 31/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2022-05-06: Adresă către Camera Deputaților (AM): [am-7a5979b1.md](am-7a5979b1.md); official file https://www.senat.ro/legis/PDF/2022/22L207AM.PDF
 - 2024-02-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L207AXS.PDF
 - 2024-02-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L207LP.PDF
+- 2024-03-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L207DP.PDF
+- 2024-03-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L207FP.PDF
