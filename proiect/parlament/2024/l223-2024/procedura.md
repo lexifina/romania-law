@@ -1,0 +1,19 @@
+# Propunere legislativă L223/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 208/2024 (`legea-208-2024`).
+
+Propunere legislativă pentru modificarea și completarea Legii nr.95/2006 privind reforma în domeniul sănătății
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-03-05: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-03-05: Adresă de înaintare a inițiativei (AD): [ad-5d6c55da.md](ad-5d6c55da.md); official file https://www.senat.ro/legis/PDF/2024/24L223AD.PDF
+- 2024-03-05: Forma inițiatorului (FG): [fg-e3e89b73.md](fg-e3e89b73.md); official file https://www.senat.ro/legis/PDF/2024/24L223FG.PDF
+- 2024-03-05: Expunere de motive (EM): [em-218affe6.md](em-218affe6.md); official file https://www.senat.ro/legis/PDF/2024/24L223EM.PDF
