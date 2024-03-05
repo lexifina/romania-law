@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2023-02-01: documents published: Raport comisie sesizată pe fond
 - 2023-02-05: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-02-08: registered at the Chamber of Deputies
+- 2024-03-05: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,4 @@ Initiator: Guvernul României.
 - 2023-02-01: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L780CR.PDF
 - 2023-02-05: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L780FS.PDF
 - 2023-02-05: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L780AM.PDF
+- 2024-03-05: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L780TA.PDF (its day is not given by the bill file: shown from the last stage held)
