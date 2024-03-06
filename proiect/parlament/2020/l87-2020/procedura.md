@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-17: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2020-06-22: sent for promulgation
 - 2021-02-01: returned for re-examination
+- 2024-03-06: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -26,3 +27,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-16: Forma adoptată de Senat (FS): [fs-ffc76edb.md](fs-ffc76edb.md); official file https://www.senat.ro/legis/PDF/2020/20L087FS.PDF
 - 2020-06-17: Adresă privind sesizarea CCR (AXS): [axs-8870fa9c.md](axs-8870fa9c.md); official file https://www.senat.ro/legis/PDF/2020/20L087AXS.PDF
 - 2020-06-17: Forma trimisă la promulgare (LP): [lp-ec073d29.md](lp-ec073d29.md); official file https://www.senat.ro/legis/PDF/2020/20L087LP.PDF
+- 2024-03-06: Document (AT): [at-443bad99.md](at-443bad99.md); official file https://www.senat.ro/legis/PDF/2020/20L087AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-06: Document (AL): [al-354b9763.md](al-354b9763.md); official file https://www.senat.ro/legis/PDF/2020/20L087AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-06: Document (SC1): [sc1-d75fa53b.md](sc1-d75fa53b.md); official file https://www.senat.ro/legis/PDF/2020/20L087SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-06: Document (DC1): [dc1-cf3c0a90.md](dc1-cf3c0a90.md); official file https://www.senat.ro/legis/PDF/2020/20L087DC1.PDF (its day is not given by the bill file: shown from the last stage held)
