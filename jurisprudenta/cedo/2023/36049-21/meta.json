@@ -1,0 +1,110 @@
+{
+ "key": "cedo-36049-21-2023-12-12",
+ "label": "CEDO, P. c. României, 2023-12-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-12-12",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 12 decembrie 2023",
+ "subtitle": "în Cauza P. împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI SECȚIA A PATRA",
+ "mo": {
+  "number": "184",
+  "bis": false,
+  "date": "2024-03-06",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "36049/21"
+ ],
+ "case_name": "P.",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 3 din Convenție;",
+  "3. hotărăște că nu este necesară examinarea admisibilității și temeiniciei celorlalte capete de cerere formulate în temeiul altor dispoziții ale Convenției;",
+  "4. hotărăște: a) că statul pârât trebuie să îi plătească reclamantei, în termen de trei luni, 12.500 EUR (douăsprezece mii cinci sute de euro), plus orice sumă ce poate fi datorată cu titlu de impozit pentru aceasta, cu titlu de despăgubire pentru prejudiciul moral, care va fi convertită în moneda statului pârât la rata de schimb aplicabilă la data plății;",
+  "b) că, de la expirarea termenului menționat și până la efectuarea plății, această sumă trebuie majorată cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 217/2003",
+    "number": "217",
+    "year": "2003",
+    "path": "lege/2003/217"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279662",
+  "text_sha256": "526d95a8a742539c455ee61c4215d9d68e0d7b41f9cb37ebf8c911d7d9f076e1",
+  "catalogue_sha256": "526d95a8a742539c455ee61c4215d9d68e0d7b41f9cb37ebf8c911d7d9f076e1",
+  "fetched": "2026-11-03T01:13:51Z",
+  "chars": 14841,
+  "portal_id": "279662",
+  "tip": "HOTĂRÂRE"
+ }
+}
