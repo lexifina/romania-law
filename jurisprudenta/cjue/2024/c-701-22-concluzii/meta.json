@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-701-22-concluzii-2024-03-07",
+ "label": "CJUE, Concluziile avocatului general A. Rantos prezentate la 7 martie 2024, Cauza C-701/22.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-03-07",
+ "year": "2024",
+ "case": "Cauza C-701/22.",
+ "celex": "62022CC0701",
+ "ecli": "ECLI:EU:C:2024:220",
+ "heading": "Concluziile avocatului general A. Rantos prezentate la 7 martie 2024",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj.",
+ "national_followup": null,
+ "parties": "SC AA SRL împotriva MFE.",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fondul european de dezvoltare regională (FEDER) – Regulamentul (CE) nr. 1083/2006 – Articolul 60 – Principiul bunei gestiuni financiare – Articolul 80 – Dreptul beneficiarilor de a primi plățile în cele mai scurte termene și integral – Dreptul de a obține dobânzi pentru întârzierea în efectuarea plăților – Principiile efectivității și echivalenței – Rezilierea unui contract de finanțare din FEDR din cauza unor neregularități săvârșite cu ocazia executării acestuia – Anularea acestei rezilieri – Corectarea neregularităților – Combaterea întârzierii în efectuarea plăților în tranzacțiile comerciale – Directiva 2011/7/UE – Domeniu de aplicare.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CC0701",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-701/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/3cb3772a-dc76-11ee-b9d9-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "6beb977cb60f46b66c17fa240254a64bafd5e3178f6acf0530bf97f21bbb4a49"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
