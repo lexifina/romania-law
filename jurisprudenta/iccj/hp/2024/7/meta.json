@@ -1,0 +1,211 @@
+{
+ "key": "iccj-hp-7-2024",
+ "label": "Decizia ÎCCJ nr. 7/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "7",
+ "date": "2024-02-05",
+ "year": "2024",
+ "heading": "DECIZIA nr. 7 din 5 februarie 2024",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 324 alin. (1) și (4) din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "186",
+  "bis": false,
+  "date": "2024-03-07",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.711/1/2023",
+  "25.846/325/2020",
+  "9.538/325/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Admite sesizarea formulată de Tribunalul Timiș - Secția I civilă, în Dosarul nr. 25.846/325/2020*, în vederea pronunțării unei hotărâri prealabile și, în consecință, stabilește că: În interpretarea dispozițiilor art. 324 alin. (1) și (4) din Codul civil, sintagma „până la data rămânerii definitive a hotărârii de partaj“ reprezintă momentul maxim până la care hotărârea prin care a fost admisă o cerere având ca obiect atribuirea beneficiului locuinței conjugale la desfacerea căsătoriei își produce efectele juridice, fără ca admisibilitatea acțiunii să fie condiționată de existența pe rolul instanțelor judecătorești a unei cereri având ca obiect ieșirea din indiviziune asupra aceleiași locuințe.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "324",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "312",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "321",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "322",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1268",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "670",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "639",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 32
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "44",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 5/1973",
+    "number": "5",
+    "year": "1973",
+    "path": "lege/1973/5"
+   },
+   "articles": [
+    {
+     "art": "22",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea locuinței nr. 114/1996",
+    "number": "114",
+    "year": "1996",
+    "path": "lege/1996/114"
+   },
+   "articles": [
+    {
+     "art": "27-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 196/1997",
+    "number": "196",
+    "year": "1997",
+    "path": "lege/1997/196"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-03-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279671",
+  "text_sha256": "4cce1d9aa0e5ede951c0bacd568fa024cea53ad78db10f14372e53cffd746c92",
+  "catalogue_sha256": "4cce1d9aa0e5ede951c0bacd568fa024cea53ad78db10f14372e53cffd746c92",
+  "fetched": "2026-11-03T01:13:51Z",
+  "chars": 46926,
+  "portal_id": "279671",
+  "tip": "DECIZIE"
+ }
+}
