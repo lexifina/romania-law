@@ -1,0 +1,186 @@
+{
+ "key": "iccj-hp-6-2024",
+ "label": "Decizia ÎCCJ nr. 6/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "6",
+ "date": "2024-02-05",
+ "year": "2024",
+ "heading": "DECIZIA nr. 6 din 5 februarie 2024",
+ "subtitle": "referitoare la prevederile art. 89 alin. (1) lit. a) și alin. (2) din Legea nr. 263/2010",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "192",
+  "bis": false,
+  "date": "2024-03-08",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.847/1/2023",
+  "3.182/86/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "89",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Suceava - Secția I civilă, în Dosarul nr. 3.182/86/2022, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept: Dacă prevederile art. 89 alin. (1) lit. a) și alin. (2) din Legea nr. 263/2010 privind sistemul unitar de pensii publice, cu modificările și completările ulterioare, exclud existența dreptului beneficiarului pensiei de urmaș de a solicita recalcularea sau revizuirea drepturilor de pensie ale susținătorului defunct pentru a modifica baza de calcul pentru pensia de urmaș, prin raportare la dispozițiile art. 113 alin. (1) lit. a) și art. 107 din aceeași lege.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2010",
+    "number": "263",
+    "year": "2010",
+    "path": "lege/2010/263"
+   },
+   "articles": [
+    {
+     "art": "89",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "107",
+     "alin": [
+      "1",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "83",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "113",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a",
+      "b"
+     ]
+    },
+    {
+     "art": "94",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 33
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "478",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1345",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-03-08",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279696",
+  "text_sha256": "ae49857aa220124754519b460ebd079dea57e4a10244055e5c7ffe70fc3236a0",
+  "catalogue_sha256": "ae49857aa220124754519b460ebd079dea57e4a10244055e5c7ffe70fc3236a0",
+  "fetched": "2026-11-03T01:13:40Z",
+  "chars": 63102,
+  "portal_id": "279696",
+  "tip": "DECIZIE"
+ }
+}
