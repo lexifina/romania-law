@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-02-29: sent for promulgation
+- 2024-03-11: promulgated, becomes Legea nr. 44/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2024-02-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117FS.PDF
 - 2024-02-27: Adresă privind sesizarea CCR (AXS): [axs-1046ce0b.md](axs-1046ce0b.md); official file https://www.senat.ro/legis/PDF/2024/24L117AXS.PDF
 - 2024-02-27: Forma trimisă la promulgare (LP): [lp-006f4f11.md](lp-006f4f11.md); official file https://www.senat.ro/legis/PDF/2024/24L117LP.PDF
+- 2024-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117DP.PDF
+- 2024-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L117FP.PDF
