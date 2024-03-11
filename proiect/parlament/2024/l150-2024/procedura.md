@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-10-16: registered at the Chamber of Deputies
 - 2023-12-13: documents published: Raport comisie sesizată pe fond
+- 2024-03-11: adopted by the Chamber of Deputies
 
 ## Documents
 
