@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2023-07-26: returned for re-examination
 - 2023-10-23: adopted by the Senate
 - 2024-03-06: sent for promulgation
+- 2024-03-11: promulgated, becomes Legea nr. 43/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2022-04-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156AM.PDF
 - 2023-06-28: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156AXS.PDF
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156LP.PDF
+- 2024-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156DP.PDF
+- 2024-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156FP.PDF
