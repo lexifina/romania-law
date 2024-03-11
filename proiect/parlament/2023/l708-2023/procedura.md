@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-02-12: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-02-19: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-02-24: sent for promulgation
+- 2024-03-11: promulgated, becomes Legea nr. 41/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2024-02-12: Forma adoptată de Senat (FS): [fs-3416222c.md](fs-3416222c.md); official file https://www.senat.ro/legis/PDF/2023/23L708FS.PDF
 - 2024-02-19: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L708AXS.PDF
 - 2024-02-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L708LP.PDF
+- 2024-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L708DP.PDF
+- 2024-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L708FP.PDF
