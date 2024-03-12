@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-19: adopted by the Chamber of Deputies
 - 2024-02-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-03-05: documents published: Aviz comisie
+- 2024-03-12: documents published: Aviz comisie
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565CA45.PDF
 - 2024-03-05: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L565CA8.PDF
 - 2024-03-05: Aviz comisie (CA12): [ca12-fc5ca2ef.md](ca12-fc5ca2ef.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA12.PDF
+- 2024-03-12: Aviz comisie (CA3): [ca3-39f2764c.md](ca3-39f2764c.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA3.PDF
+- 2024-03-12: Aviz comisie (CA50): [ca50-85d2631e.md](ca50-85d2631e.md); official file https://www.senat.ro/legis/PDF/2023/23L565CA50.PDF
