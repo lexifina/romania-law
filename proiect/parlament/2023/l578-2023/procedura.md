@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-02: sent for promulgation
 - 2024-03-11: promulgated, becomes Legea nr. 42/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -37,3 +38,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L578LP.PDF
 - 2024-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L578DP.PDF
 - 2024-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L578FP.PDF
+- 2024-03-12: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L578CC.PDF (its day is not given by the bill file: shown from the last stage held)
