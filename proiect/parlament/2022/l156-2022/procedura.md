@@ -22,6 +22,7 @@ Initiator: Guvernul României.
 - 2023-10-23: adopted by the Senate
 - 2024-03-06: sent for promulgation
 - 2024-03-11: promulgated, becomes Legea nr. 43/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-12: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -41,3 +42,10 @@ Initiator: Guvernul României.
 - 2023-06-28: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156LP.PDF
 - 2024-03-11: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156DP.PDF
 - 2024-03-11: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156FP.PDF
+- 2024-03-12: Document (RX): [rx-a9f28833.md](rx-a9f28833.md); official file https://www.senat.ro/legis/PDF/2022/22L156RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (XD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-12: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L156PX.PDF (its day is not given by the bill file: shown from the last stage held)
