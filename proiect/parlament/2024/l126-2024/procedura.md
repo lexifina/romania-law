@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-01: legislative procedure ended
 - 2024-02-02: registered at the Senate
 - 2024-02-19: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+- 2024-03-13: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -19,3 +20,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-19: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L126AD.PDF
 - 2024-02-19: Forma inițiatorului (FG): [fg-7b801cc2.md](fg-7b801cc2.md); official file https://www.senat.ro/legis/PDF/2024/24L126FG.PDF
 - 2024-02-19: Expunere de motive (EM): [em-e973e099.md](em-e973e099.md); official file https://www.senat.ro/legis/PDF/2024/24L126EM.PDF
+- 2024-03-13: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L126CR.PDF
