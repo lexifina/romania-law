@@ -1,0 +1,202 @@
+{
+ "key": "iccj-scaf-4059-2020",
+ "label": "Decizia ÎCCJ nr. 4059/2020 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "4059",
+ "date": "2020-08-13",
+ "year": "2020",
+ "heading": "DECIZIA nr. 4.059 din 13 august 2020",
+ "subtitle": "referitoare la recursul formulat de reclamanta unitatea administrativ-teritorială împotriva Sentinței civile nr. 694 din 4 august 2020 a Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "208",
+  "bis": false,
+  "date": "2024-03-13",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila",
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.887/2/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge excepțiile inadmisibilității și nulității recursului formulat de pârâtul Departamentul pentru Situații de Urgență, invocate de recurenta-reclamantă unitatea administrativ-teritorială comuna X.",
+  "Respinge recursul declarat de pârâtul Departamentul pentru Situații de Urgență împotriva Sentinței civile nr. 694 din 4 august 2020, pronunțată de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, ca nefondat.",
+  "Ia act de renunțarea la judecata recursului formulat de reclamanta unitatea administrativ-teritorială comuna X.",
+  "Obligă recurentul-pârât Departamentul pentru Situații de Urgență la plata sumei de 1.000 lei, cu aplicarea art. 451 alin. (2) din Codul de procedură civilă, reprezentând cheltuieli de judecată către recurenta-reclamantă unitatea administrativ-teritorială comuna X.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 136/2020",
+    "number": "136",
+    "year": "2020",
+    "path": "lege/2020/136"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului sănătății nr. 1.309/2020",
+    "number": "1309",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "81",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "85",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "463",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "406",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "451",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codului civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 1.309/2020",
+    "number": "1309",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-03-13",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/279934",
+  "text_sha256": "33a09318aca77c0f6f817d0ff79f1d8c6e1b275108cf09364b6a8f19f26e7145",
+  "catalogue_sha256": "33a09318aca77c0f6f817d0ff79f1d8c6e1b275108cf09364b6a8f19f26e7145",
+  "fetched": "2026-11-03T01:13:33Z",
+  "chars": 32293,
+  "portal_id": "279934",
+  "tip": "DECIZIE"
+ }
+}
