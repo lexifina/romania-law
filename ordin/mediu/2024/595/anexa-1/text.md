@@ -1,0 +1,2 @@
+# ANEXĂ
+GHID DE FINANTARE a Programului privind instalarea sistemelor de panouri fotovoltaice pentru producerea de energie electrică, în vederea acoperirii necesarului de consum și livrării surplusului în rețeaua națională, pentru unități de cult, instituții și autorități publice din sistemul național de asistență socială, precum și entități juridice nonprofit acreditate pentru furnizarea de servicii sociale
