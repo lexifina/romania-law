@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-20: adopted by the Chamber of Deputies
 - 2024-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-02: sent for promulgation
+- 2024-03-15: promulgated, becomes Legea nr. 49/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-10: Adresă către Camera Deputaților (AM): [am-d687998a.md](am-d687998a.md); official file https://www.senat.ro/legis/PDF/2022/22L462AM.PDF
 - 2024-02-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L462AXS.PDF
 - 2024-02-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L462LP.PDF
+- 2024-03-15: Decret de promulgare (DP): [dp-2cf8f0c6.md](dp-2cf8f0c6.md); official file https://www.senat.ro/legis/PDF/2022/22L462DP.PDF
+- 2024-03-15: Forma promulgată (FP): [fp-a99d6820.md](fp-a99d6820.md); official file https://www.senat.ro/legis/PDF/2022/22L462FP.PDF
