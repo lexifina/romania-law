@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-19: rejected by the Chamber of Deputies
 - 2022-10-21: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2022-11-01: documents published: Aviz comisie
+- 2024-03-18: rejected by the Senate; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -21,3 +22,4 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-21: Forma inițiatorului (FG): [fg-993fee88.md](fg-993fee88.md); official file https://www.senat.ro/legis/PDF/2022/22L642FG.PDF
 - 2022-10-21: Expunere de motive (EM): [em-e5f0828a.md](em-e5f0828a.md); official file https://www.senat.ro/legis/PDF/2022/22L642EM.PDF
 - 2022-11-01: Aviz comisie (CA8): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L642CA8.PDF
+- 2024-03-18: Document (ARD): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L642ARD.PDF (its day is not given by the bill file: shown from the last stage held)
