@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2023-12-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-03-11: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2024-03-18: registered at the Chamber of Deputies
 
 ## Documents
 
