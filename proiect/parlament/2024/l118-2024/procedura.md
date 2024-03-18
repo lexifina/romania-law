@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-02-26: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-02-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-02-29: sent for promulgation
+- 2024-03-18: promulgated, becomes Legea nr. 50/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-02-26: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L118FS.PDF
 - 2024-02-27: Adresă privind sesizarea CCR (AXS): [axs-f4fb154d.md](axs-f4fb154d.md); official file https://www.senat.ro/legis/PDF/2024/24L118AXS.PDF
 - 2024-02-27: Forma trimisă la promulgare (LP): [lp-f0770b4b.md](lp-f0770b4b.md); official file https://www.senat.ro/legis/PDF/2024/24L118LP.PDF
+- 2024-03-18: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L118DP.PDF
+- 2024-03-18: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L118FP.PDF
