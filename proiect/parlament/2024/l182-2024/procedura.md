@@ -12,8 +12,10 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-13: documents published: Aviz comisie
 - 2024-02-27: registered at the Senate
 - 2024-03-07: documents published: Punct de vedere Guvern
+- 2024-03-19: documents published: Aviz comisie
 
 ## Documents
 
 - 2024-02-13: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L182CA3.PDF
 - 2024-03-07: Punct de vedere Guvern (SJ): [sj-95a31b87.md](sj-95a31b87.md); official file https://www.senat.ro/legis/PDF/2024/24L182SJ.PDF
+- 2024-03-19: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L182CA45.PDF
