@@ -1,0 +1,9 @@
+# Recomandarea Avocatul Poporului nr. 67/2024
+
+Text withheld: this record names private persons and is not anonymised, so only its metadata is published here; the official text is at the source link.
+
+- Body: Avocatul Poporului
+- Type: recomandare
+- Number: 67
+- Date: 2024-03-19
+- Source: https://avp.ro/wp-content/uploads/2024/03/Recomandarea67_2024.pdf
