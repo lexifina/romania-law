@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: registered at the Chamber of Deputies; adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 - 2023-12-19: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-21: sent for promulgation
+- 2024-03-19: published in the Monitorul Oficial
 
 ## Documents
 
