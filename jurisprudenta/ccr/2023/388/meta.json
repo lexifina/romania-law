@@ -1,0 +1,232 @@
+{
+ "key": "dcc-388-2023",
+ "label": "Decizia CCR nr. 388/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "388",
+ "date": "2023-07-04",
+ "year": "2023",
+ "heading": "DECIZIA nr. 388 din 4 iulie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. XI din Ordonanța de urgență a Guvernului nr. 25/2018 privind modificarea și completarea unor acte normative, precum și pentru aprobarea unor măsuri fiscal-bugetare și a dispozițiilor art. 1 din Ordonanța de urgență a Guvernului nr. 71/2018 privind prorogarea termenului de administrare, de către organele fiscale de la nivel județean și al municipiului București, a obligațiilor fiscale datorate de contribuabilii mijlocii, de la data de 1 august 2018 la data de 1 noiembrie 2018",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "229",
+  "bis": false,
+  "date": "2024-03-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.179/117/2019",
+  "3.242D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 25/2018",
+    "number": "25",
+    "year": "2018",
+    "path": "oug/2018/25"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2018",
+    "number": "71",
+    "year": "2018",
+    "path": "oug/2018/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Dankouz - S.R.L. din Cluj-Napoca în Dosarul nr. 1.179/117/2019 al Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și constată că dispozițiile art. XI din Ordonanța de urgență a Guvernului nr. 25/2018 privind modificarea și completarea unor acte normative, precum și pentru aprobarea unor măsuri fiscal-bugetare și dispozițiile art. 1 din Ordonanța de urgență a Guvernului nr. 71/2018 privind prorogarea termenului de administrare, de către organele fiscale de la nivel județean și al municipiului București, a obligațiilor fiscale datorate de contribuabilii mijlocii, de la data de 1 august 2018 la data de 1 noiembrie 2018 sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Cluj - Secția mixtă de contencios administrativ și fiscal, de conflicte de muncă și asigurări sociale și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 25/2018",
+    "number": "25",
+    "year": "2018",
+    "path": "oug/2018/25"
+   },
+   "articles": [
+    {
+     "art": "XI",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 71/2018",
+    "number": "71",
+    "year": "2018",
+    "path": "oug/2018/71"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 30/2018",
+    "number": "30",
+    "year": "2018",
+    "path": "lege/2018/30"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "114",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-03-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280100",
+  "text_sha256": "57abad9b531ff45db6847df5d931e199e47c4a59abff10afb1607c8f7cfc9d1e",
+  "catalogue_sha256": "57abad9b531ff45db6847df5d931e199e47c4a59abff10afb1607c8f7cfc9d1e",
+  "fetched": "2026-11-03T01:13:21Z",
+  "chars": 21422,
+  "portal_id": "280100",
+  "tip": "DECIZIE"
+ }
+}
