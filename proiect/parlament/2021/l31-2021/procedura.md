@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-03-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-06: sent for promulgation
 - 2024-03-19: promulgated, becomes Legea nr. 57/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-20: published in the Monitorul Oficial
 
 ## Documents
 
