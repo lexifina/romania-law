@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: adopted by the Chamber of Deputies
 - 2024-03-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-16: sent for promulgation
+- 2024-03-20: promulgated, becomes Legea nr. 58/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L626AM.PDF
 - 2024-03-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L626AXS.PDF
 - 2024-03-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L626LP.PDF
+- 2024-03-20: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L626DP.PDF
+- 2024-03-20: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L626FP.PDF
