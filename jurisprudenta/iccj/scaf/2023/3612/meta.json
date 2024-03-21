@@ -1,0 +1,499 @@
+{
+ "key": "iccj-scaf-3612-2023",
+ "label": "Decizia ÎCCJ nr. 3612/2023 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3612",
+ "date": "2023-06-28",
+ "year": "2023",
+ "heading": "DECIZIA nr. 3.612 din 28 iunie 2023",
+ "subtitle": "referitoare la anularea: Ordinului ministrului educației și cercetării și al ministrului sănătății nr. 5.487/1.494/31.08.2020, art. 1 din Hotărârea Comitetului Național pentru Situații de Urgență nr. 2/8.01.2021, Ordinului ministrului educației și cercetării nr. 3.090/8.01.2021, art. 2 și 3 din Hotărârea Comitetului Municipiului București pentru Situații de Urgență nr. 15/10.09.2020 și art. 1 pct. 6 din Hotărârea Comitetului Municipiului București pentru Situații de Urgență nr. 24/2020",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "240",
+  "bis": false,
+  "date": "2024-03-21",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "7.228/2/2020"
+ ],
+ "subjects": [],
+ "operative": [
+  "Admite recursurile formulate de pârâții CMSBU, CNSU, ME și MS împotriva Sentinței nr. 212 din 25 februarie 2021 a Curții de Apel B. - Secția a IX-a contencios administrativ și fiscal.",
+  "Casează în parte sentința atacată și, rejudecând: Respinge acțiunea formulată de reclamanții AȘP, BIL, EME, MII, MM, M.A.L., SLF, ȘDM, TOA și TA în ceea ce privește anularea:",
+  "Ordinului ministrului educației și cercetării și al ministrului sănătății nr. 5.487/1.494/31.08.2020, art. 1 din Hotărârea Comitetului Național pentru Situații de Urgență nr. 2/8.01.2021, Ordinului ministrului educației și cercetării nr. 3.090/8.01.2021, art. 2 și 3 din Hotărârea Comitetului Municipiului București pentru Situații de Urgență nr. 15/10.09.2020 și art. 1 pct. 6 din Hotărârea Comitetului Municipiului București pentru Situații de Urgență nr. 24/2020, ca neîntemeiată.",
+  "Admite cererea de intervenție accesorie formulată de DSU în interesul recurentului-pârât CNSU.",
+  "Menține celelalte dispoziții ale sentinței atacate.",
+  "Respinge recursul formulat de pârâtul IPMB împotriva Sentinței nr. 212 din 25 februarie 2021 a Curții de Apel B. - Secția a IX-a contencios administrativ și fiscal, ca nefondat.",
+  "Obligă intimatele-reclamante la plata în solidar a sumei de 600 lei cheltuieli de judecată către recurenții-pârâți: MS - 100 lei, ME - 200 lei, CMBSU - 100 lei și CNSU, prin reprezentant legal DSU din cadrul MAI - 200 lei, reprezentând taxă judiciară de timbru.",
+  "Hotărârea se va publica în Monitorul Oficial al României, conform art. 23 din Legea nr. 554/2004, cu modificările și completările ulterioare.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "397",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1-2",
+      "1",
+      "1-3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "71",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 28
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 192/2020",
+    "number": "192",
+    "year": "2020",
+    "path": "oug/2020/192"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 81/2018",
+    "number": "81",
+    "year": "2018",
+    "path": "lege/2018/81"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "OUG nr. 194/2002",
+    "number": "194",
+    "year": "2002",
+    "path": "oug/2002/194"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "26",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "79",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației nr. 5.972/2021",
+    "number": "5972",
+    "year": "2021"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 2/2021",
+    "number": "2",
+    "year": "2021",
+    "path": "oug/2021/2"
+   },
+   "articles": [],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației și cercetării nr. 5.972/2020",
+    "number": "5972",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului educației și cercetării nr. 6.122/2020",
+    "number": "6122",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "n",
+      "a",
+      "s"
+     ]
+    },
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 24/2020",
+    "number": "24",
+    "year": "2020",
+    "path": "hg/2020/24"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "265",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 460/2006",
+    "number": "460",
+    "year": "2006",
+    "path": "hg/2006/460"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 340/2004",
+    "number": "340",
+    "year": "2004",
+    "path": "lege/2004/340"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 141/2020",
+    "number": "141",
+    "year": "2020",
+    "path": "oug/2020/141"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 58/2020",
+    "number": "58",
+    "year": "2020",
+    "path": "oug/2020/58"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 70/2020",
+    "number": "70",
+    "year": "2020",
+    "path": "oug/2020/70"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii educației naționale nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului ministrului educației și cercetării nr. 5.972/2020",
+    "number": "5972",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea contenciosului administrativ nr. 544/2004",
+    "number": "544",
+    "year": "2004",
+    "path": "lege/2004/544"
+   },
+   "articles": [
+    {
+     "art": "20",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-03-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280172",
+  "text_sha256": "8571f4b06a1038adfea19657ef5a79d3fce736dc2add2e82386b5c9d9b66b29f",
+  "catalogue_sha256": "8571f4b06a1038adfea19657ef5a79d3fce736dc2add2e82386b5c9d9b66b29f",
+  "fetched": "2026-11-03T15:21:19Z",
+  "chars": 94183,
+  "portal_id": "280172",
+  "tip": "DECIZIE"
+ }
+}
