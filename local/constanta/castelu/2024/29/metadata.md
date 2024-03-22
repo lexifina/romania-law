@@ -1,0 +1,9 @@
+# HCL Castelu nr. 29/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Castelu
+- Decision: nr. 29/2024
+- Adopted: 2024-03-22
+- Title: PRIVIND APROBAREA STUDIULUI DE FEZABILITATE, A INDICATORILOR TEHNICO-ECONOMICI ACTUALIZAȚI ȘI A DEVIZULUI GENERAL ACTUAL-IZAT PENTRU OBIECTIVUL DE INVESTIȚII „ÎNFIINȚARE REȚEA INTELI-GENTĂ DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CASTELU ȘI SATELE APARȚINĂTOARE, JUDEȚUL CONSTANȚA”, APROBAT PENTRU FINANȚARE PRIN PROGRAMUL NAȚIONAL DE INVESTIȚII „ANGHEL SALIGNY”, PRECUM ȘI A SUMEI REPREZENTÂND CATEGORIILE DE CHELTUIELI FINANȚATE DE LA BUGETUL LOCAL PENTRU REALIZAREA OBIECTIVULUI
+- Record: https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#76088
