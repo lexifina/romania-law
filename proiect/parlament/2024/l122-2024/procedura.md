@@ -17,6 +17,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-05: documents published: Aviz comisie
 - 2024-03-12: documents published: Aviz comisie
 - 2024-03-18: adopted by the Senate; documents published: Forma adoptată de Senat
+- 2024-03-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-12: Aviz comisie (CA50): [ca50-95b8c06b.md](ca50-95b8c06b.md); official file https://www.senat.ro/legis/PDF/2024/24L122CA50.PDF
 - 2024-03-12: Aviz comisie (CA57): [ca57-ab6e35bc.md](ca57-ab6e35bc.md); official file https://www.senat.ro/legis/PDF/2024/24L122CA57.PDF
 - 2024-03-18: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L122FS.PDF
+- 2024-03-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L122AXS.PDF
+- 2024-03-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L122LP.PDF
