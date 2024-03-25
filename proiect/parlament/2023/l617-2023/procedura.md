@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-27: adopted by the Chamber of Deputies
 - 2024-03-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-09: sent for promulgation
+- 2024-03-25: promulgated, becomes Legea nr. 61/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: Adresă către Camera Deputaților (AM): [am-92374cdc.md](am-92374cdc.md); official file https://www.senat.ro/legis/PDF/2023/23L617AM.PDF
 - 2024-03-04: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L617AXS.PDF
 - 2024-03-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L617LP.PDF
+- 2024-03-25: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L617DP.PDF
+- 2024-03-25: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L617FP.PDF
