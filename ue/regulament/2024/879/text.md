@@ -1,0 +1,38 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/879 AL COMISIEI
+din 21 martie 2024
+de modificare a Regulamentului de punere în aplicare (UE) 2018/2019 în ceea ce privește anumite plante din specia Corylus avellana, destinate plantării și originare din Regatul Unit
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/2031 al Parlamentului European și al Consiliului din 26 octombrie 2016 privind măsurile de protecție împotriva organismelor dăunătoare plantelor, de modificare a Regulamentelor (UE) nr. 228/2013, (UE) nr. 652/2014 și (UE) nr. 1143/2014 ale Parlamentului European și ale Consiliului și de abrogare a Directivelor 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE și 2007/33/CE (1) ale Consiliului, în special articolul 42 alineatul (4) primul paragraf,
+întrucât:
+(1) Regulamentul de punere în aplicare (UE) 2018/2019 (2) al Comisiei stabilește, pe baza unei evaluări preliminare a riscurilor, o listă cu plante, produse vegetale și alte obiecte cu risc ridicat.
+(2) În urma unei evaluări preliminare, plante din 34 de genuri și dintr-o specie de plante, destinate plantării, originare din țări terțe, au fost incluse provizoriu în lista din Regulamentul de punere în aplicare (UE) 2018/2019 ca plante cu risc ridicat. Lista respectivă include genul Corylus L.
+(3) La 31 martie 2023, Regatul Unit (3) a prezentat Comisiei o cerere de export către Uniune al următoarelor plante destinate plantării: plante de Corylus avellana L., în vârstă de până la 2 ani, destinate plantării cu un diametru maxim de 10 mm la baza tulpinii, plante de Corylus avellana L., în vârstă de până la 7 ani, cu rădăcini nude, destinate plantării, cu un diametru maxim de 40 mm la baza tulpinii și plantele din specia Corylus avellana L., în vârstă de până la 15 ani, destinate plantării în substrat de cultură, cu un diametru maxim de 20 cm la baza tulpinii, originare din Regatul Unit (denumite în continuare „plantele relevante”). Cererea respectivă a fost susținută de un dosar tehnic relevant.
+(4) La 30 noiembrie 2023, Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a adoptat un aviz științific privind evaluarea riscurilor prezentate de plantele relevante (4). Autoritatea a identificat Phytophthora ramorum (izolate din afara UE) și Thaumetopoea processionea ca fiind organisme dăunătoare relevante pentru plantele respective, a evaluat măsurile de reducere a riscurilor descrise în dosar și a estimat probabilitatea ca plantele relevante să fie indemne de organismele dăunătoare respective.
+(5) Phytophthora ramorum (izolate non-UE) și Thaumetopoea processionea sunt enumerate ca organism dăunător de carantină și, respectiv, ca organism dăunător de carantină pentru zone protejate pentru Uniune în anexele II și III la Regulamentul de punere în aplicare (UE) 2019/2072 al Comisiei (5).
+(6) Pe baza avizului autorității, riscul fitosanitar care decurge din introducerea pe teritoriul Uniunii a plantelor relevante este considerat acceptabil.
+(7) Pe lângă plantele relevante, este oportun să se includă toate plantele de Corylus avellana L. cu rădăcini nude, în vârstă de până la 15 ani, destinate plantării, cu un diametru maxim de 20 cm la baza tulpinii, în pofida faptului că Regatul Unit a depus o cerere pentru plante cu rădăcini nude în vârstă de până la 7 ani. Acest lucru se datorează faptului că plantele respective, datorită naturii lor cu rădăcini nude, prezintă un risc fitosanitar mai scăzut decât plantele în vârstă de 15 ani destinate plantării în substraturi de cultură, care sunt incluse în cererea respectivă și au făcut obiectul avizului științific al autorității.
+(8) În consecință, plantele de Corylus avellana L., cu vârsta de până la 15 ani, destinate plantării, cu un diametru maxim de 20 cm la baza tulpinii, originare din Regatul Unit, nu mai trebuie să fie considerate ca fiind plante cu risc ridicat. Prin urmare, acestea trebuie eliminate de pe lista plantelor, a produselor vegetale și a altor obiecte cu risc ridicat din anexa la Regulamentul de punere în aplicare (UE) 2018/2019.
+(9) Prin urmare, Regulamentul de punere în aplicare (UE) 2018/2019 trebuie modificat în consecință.
+(10) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Anexa la Regulamentul de punere în aplicare (UE) 2018/2019 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 21 martie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 317, 23.11.2016, p. 4, ELI: http://data.europa.eu/eli/reg/2016/2031/2019-12-14.
+(2) Regulamentul de punere în aplicare (UE) 2018/2019 al Comisiei din 18 decembrie 2018 de stabilire a unei liste provizorii cu plante, produse vegetale sau alte obiecte cu risc ridicat, în sensul articolului 42 din Regulamentul (UE) 2016/2031, și a unei liste cu plante pentru care nu sunt necesare certificate fitosanitare în vederea introducerii în Uniune, în sensul articolului 73 din același regulament (JO L 323, 19.12.2018, p. 10, ELI: http://data.europa.eu/eli/reg_impl/2018/2019/oj).
+(3) În conformitate cu Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice, în special cu articolul 5 alineatul (4) din Cadrul Windsor [a se vedea Declarația comună nr. 1/2023 a Uniunii și a Regatului Unit în cadrul Comitetului mixt instituit prin Acordul privind retragerea Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană și din Comunitatea Europeană a Energiei Atomice (JO L 102, 17.4.2023, p. 87)], coroborat cu anexa 2 la respectivul cadru, în sensul prezentului act, trimiterile la Regatul Unit nu includ Irlanda de Nord.
+(4) EFSA PLH Panel (EFSA Panel on Plant Health) [Comitetul PLH al EFSA (Comitetul EFSA pentru sănătatea plantelor)], 2024. Scientific Opinion on the commodity risk assessment of Corylus avellana plants from the UK (Aviz științific privind evaluarea riscurilor prezentate de plantele de Corylus avellana din Regatul Unit). https://doi.org/10.2903/j.efsa.2024.8495.
+(5) Regulamentul de punere în aplicare (UE) 2019/2072 al Comisiei din 28 noiembrie 2019 de stabilire a unor condiții uniforme pentru punerea în aplicare a Regulamentului (UE) 2016/2031 al Parlamentului European și al Consiliului în ceea ce privește măsurile de protecție împotriva organismelor dăunătoare plantelor, de abrogare a Regulamentului (CE) nr. 690/2008 al Comisiei și de modificare a Regulamentului de punere în aplicare (UE) 2018/2019 al Comisiei (JO L 319, 10.12.2019, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2019/2072/oj).
+ANEXĂ
+În anexa la Regulamentul de punere în aplicare (UE) 2018/2019, în tabelul de la punctul 1, în a doua coloană, „Descriere”, rubrica „ Corylus L., altele decât plantele destinate plantării care aparțin speciei Corylus avellana L. sau speciei Corylus colurna L. originare din Serbia” se înlocuiește cu următorul text:
+„ Corylus L., cu excepția:
+— plantelor destinate plantării de Corylus avellana L. sau Corylus colurna L. originare din Serbia; și
+— a plantelor destinate plantării, în vârstă de până la 15 ani, de Corylus avellana L., cu un diametru maxim de 20 cm la baza tulpinii, originare din Regatul Unit.”
+ELI: http://data.europa.eu/eli/reg_impl/2024/879/oj
