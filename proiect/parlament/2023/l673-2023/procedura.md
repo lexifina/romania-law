@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-03-05: adopted by the Chamber of Deputies
 - 2024-03-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-13: sent for promulgation
+- 2024-03-27: promulgated, becomes Legea nr. 65/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2023-12-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673AM.PDF
 - 2024-03-11: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673AXS.PDF
 - 2024-03-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673LP.PDF
+- 2024-03-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673DP.PDF
+- 2024-03-27: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L673FP.PDF
