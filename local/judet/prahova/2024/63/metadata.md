@@ -1,0 +1,11 @@
+# HCJ Prahova nr. 63/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul Județean Prahova
+- Decision: nr. 63/2024
+- Adopted: 2024-03-28
+- Title: privind modificarea statului de funcţii pentru aparatul de specialitate al Consiliului Judeţean Prahova
+- Record: https://cjph.ro/consiliul-judetean-prahova/consiliul-judetean/sedinte/hotararile-consiliului-judetean-prahova/hotarari-2024/?dpage=8
+- Document: https://cjph.ro/wp-content/uploads/2024/04/Hotararea-nr.-63-din-data-28-03-2024.pdf
+- Document sha256: a70377f993c76639a9cc65e9844cf017a59e7989f93a85a35dbc980263ecea05
