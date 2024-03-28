@@ -25,6 +25,7 @@ Initiator: Membri ai Parlamentului.
 - 2022-12-21: returned for re-examination
 - 2024-03-11: returned for re-examination
 - 2024-03-23: sent for promulgation
+- 2024-03-28: promulgated, becomes Legea nr. 71/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Forma adoptată de Senat (FS): [fs-c7db0a3b.md](fs-c7db0a3b.md); official file https://www.senat.ro/legis/PDF/2018/18L384FS.PDF
 - 2020-06-30: Adresă privind sesizarea CCR (AXS): [axs-1ff08c6e.md](axs-1ff08c6e.md); official file https://www.senat.ro/legis/PDF/2018/18L384AXS.PDF
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-4b24e282.md](lp-4b24e282.md); official file https://www.senat.ro/legis/PDF/2018/18L384LP.PDF
+- 2024-03-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384DP.PDF
+- 2024-03-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384FP.PDF
