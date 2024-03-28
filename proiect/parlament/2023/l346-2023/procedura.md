@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-04: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-09: sent for promulgation
 - 2024-03-27: promulgated, becomes Legea nr. 66/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-28: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-04: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L346LP.PDF
 - 2024-03-27: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L346DP.PDF
 - 2024-03-27: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L346FP.PDF
+- 2024-03-28: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L346SM.PDF (its day is not given by the bill file: shown from the last stage held)
