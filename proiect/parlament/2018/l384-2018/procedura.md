@@ -26,6 +26,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: returned for re-examination
 - 2024-03-23: sent for promulgation
 - 2024-03-28: promulgated, becomes Legea nr. 71/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -42,3 +43,14 @@ Initiator: Membri ai Parlamentului.
 - 2020-06-30: Forma trimisă la promulgare (LP): [lp-4b24e282.md](lp-4b24e282.md); official file https://www.senat.ro/legis/PDF/2018/18L384LP.PDF
 - 2024-03-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384DP.PDF
 - 2024-03-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384FP.PDF
+- 2024-03-29: Document (AJ): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384AJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (AL): [al-01d66221.md](al-01d66221.md); official file https://www.senat.ro/legis/PDF/2018/18L384AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (SC): [sc-09f49647.md](sc-09f49647.md); official file https://www.senat.ro/legis/PDF/2018/18L384SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (RX): [rx-01a4837e.md](rx-01a4837e.md); official file https://www.senat.ro/legis/PDF/2018/18L384RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (XA): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (CX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2018/18L384LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (XXS): [xxs-ed5beafd.md](xxs-ed5beafd.md); official file https://www.senat.ro/legis/PDF/2018/18L384XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-03-29: Document (PX): [px-e4729bda.md](px-e4729bda.md); official file https://www.senat.ro/legis/PDF/2018/18L384PX.PDF (its day is not given by the bill file: shown from the last stage held)
