@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-03-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-13: sent for promulgation
 - 2024-03-28: promulgated, becomes Legea nr. 72/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-03-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2024-03-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L361LP.PDF
 - 2024-03-28: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L361DP.PDF
 - 2024-03-28: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L361FP.PDF
+- 2024-03-29: Document (TA): [ta-6ad19c0c.md](ta-6ad19c0c.md); official file https://www.senat.ro/legis/PDF/2020/20L361TA.PDF (its day is not given by the bill file: shown from the last stage held)
