@@ -1,0 +1,22 @@
+# Proiect de lege L171/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 316/2024 (`legea-316-2024`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.32/2024 pentru modificarea și completarea Ordonanţei de urgenţă a Guvernului nr.27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022 - 31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei și adoptarea unor măsuri în domeniul energiei
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-03-29: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-03-29: Adresă de înaintare a inițiativei (AD): [ad-4bc98221.md](ad-4bc98221.md); official file https://www.senat.ro/legis/PDF/2024/24L171AD.PDF
+- 2024-03-29: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171FG.PDF
+- 2024-03-29: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171EM.PDF
+- 2024-03-29: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171LG.PDF
+- 2024-03-29: Document (OG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171OG.PDF
+- 2024-03-29: Document (HG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L171HG.PDF
