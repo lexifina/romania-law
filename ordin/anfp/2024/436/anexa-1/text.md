@@ -1,0 +1,2 @@
+# ANEXĂ
+INSTRUCȚIUNI privind utilizarea instrumentelor informatice de extragere automată a subiectelor de către comisia de concurs pentru ocuparea unor funcții publice de execuție vacante și temporar vacante și a unor funcții publice de conducere vacante, precum și la concursul de promovare în clasă și în grad profesional
