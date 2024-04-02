@@ -1,0 +1,62 @@
+Biroul permanent ai Senatului
+/
+PARLAMENTUL ROMÂNII I
+Comisia buget, finanțe, activitate bancară și piață de capital
+Nr. XXII /160/02.04.2024
+Comisia pentru administrație publică
+Nr. XXX/100/01.04.2024
+RAPORT COMUN
+asupra
+propunerii legislative pentru modificarea alineatului (1) al articolului
+unic din Legea nr.46/2022 privind aprobarea plății cotizației anuale de
+participare a Autorității Electorale Permanente ca membru cu drepturi
+depline la Rețeaua de Competențe Electorale Francofone (RECEF)
+L152/2024
+în conformitate cu prevederile art.70 din Regulamentul Senatului, republicat,
+Comisia pentru buget, finanțe, activitate bancară și piață de capital și Comisia pentru
+administrație publică, prin adresa nr. L152/2024, au fost sesizate de către Biroul permanent
+al Senatului, în vederea dezbaterii și elaborării raportului comun asupra propunerii
+legislative pentru modificarea alineatului (1) al articolului unic din Legea nr.46/2022
+privind aprobarea plății cotizației anuale de participare a Autorității Electorale
+Permanente ca membru cu drepturi depline Ia Rețeaua de Competențe
+ElectoraleFrancofone(RECEF), inițiată de: Breahnă-Pravăț lonela-Cristina - senator PSD;
+Cazanciuc Robert-Marius - senator PSD; Crețu Gabriela - senator PSD; Deneș loan - senator PSD;
+Dogariu Eugen - senator PSD; Firea Gabriela - senator PSD; Genoiu Mihail - senator PSD;
+Georgescu Laura - senator PSD; Humelnicu Marius - senator PSD; Mazilu Liviu-Lucian - senator
+PSD; Mihai Alfred-Laurențiu-Antonio - senator PSD; Mirea Siminica - senator PSD; Moagher
+Laura-Mihaela - senator PSD; Mureșan Claudiu-Marinel - senator PSD; Pistru Eusebiu-Manea -
+senator PSD; Popa Măricel - senator PSD; Prioteasa Ion - senator PSD; Puiu Ovidiu - senator
+PSD; Resmeriță Cornel-Cristian - senator PSD; Romașcanu Lucian - senator PSD; Rujan lon-
+Cristinel - senator PSD; Sbîrnea Liliana - senator PSD; Stan loan - senator PSD; Stocheci Cristina-
+Mariana - senator PSD; Toanchină Marius-Gheorghe - senator PSD; Torma Adrian Constantin -
+senator PSD; Vlașin Sorin - senator PSD.
+
+Propunerea legislativă are ca obiect de reglementare modificarea alin. (1] al
+articolului unic din Legea nr.46/2002 privind aprobarea plății cotizației anuale de participare
+a AEP ca membru cu drepturi depline la Rețeaua de Competente Electorale Francofone [RECEF]
+în sensul creșterii limitei sumei care poate fi alocată plății cotizației anuale de la 1.350/an la
+2.100 euro/an.
+Consiliul Legislativ a analizat propunerea legislativă și a transmis un aviz
+favorabil cu observați și propuneri.
+Consiliul Economic și Social a analizat propunerea legislativă și a transmis un aviz
+favorabil.
+Membrii celor două comisii sesizate pentru raport comun au analizat propunerea
+legislativă, punctele de vedere exprimate, avizele primite și au hotărât, cu majoritate de voturi
+ale celor prezenți, să adopte un raport comun de admitere, fără amendamente.
+Față de cele prezentate. Comisia pentru buget, finanțe, activitate bancară și piață de
+capital și Comisia pentru administrație publică supun Plenului Senatului pentru dezbatere și
+adoptare raportul comun de admitere și propunerea legislativă.
+în raport cu obiectul de reglementare, propunerea legislativă face parte din
+categoria legilor ordinare și urmează a fi supusă votului plenului Senatului în conformitate cu
+prevederile art.76 alin.[23 din Constituția României, republicată.
+Potrivit art.75 alin.(l) din Constituția României, republicată și ale art.92 alin.(7]
+pct.1 din Regulamentul Senatului, republicat. Senatul este prima Cameră sesizată.
+PREȘEDINTE,
+Senator Nicpme NEMiiU
+SECRETAR,
+Senator Ionel Dănuț CRISTESCU
+PREȘEDINTE,
+Senator/OSÂSZÂifKârbl
+SECRETAR,
+Senator Măricel POPA
+It
