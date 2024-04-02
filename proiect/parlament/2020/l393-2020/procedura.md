@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-01: sent for promulgation
 - 2024-02-23: returned for re-examination
 - 2024-03-25: rejected by the Senate
+- 2024-04-02: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,7 @@ Initiator: Membri ai Parlamentului.
 - 2020-08-05: Adresă către Camera Deputaților (AM): [am-856279dd.md](am-856279dd.md); official file https://www.senat.ro/legis/PDF/2020/20L393AM.PDF
 - 2023-10-30: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L393AXS.PDF
 - 2023-10-30: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L393LP.PDF
+- 2024-04-02: Document (SC1): [sc1-74f964f0.md](sc1-74f964f0.md); official file https://www.senat.ro/legis/PDF/2020/20L393SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-02: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L393DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-02: Document (RC1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L393RC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-02: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L393XD1.PDF (its day is not given by the bill file: shown from the last stage held)
