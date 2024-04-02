@@ -1,0 +1,438 @@
+{
+ "key": "iccj-ril-2-2024",
+ "label": "Decizia ÎCCJ nr. 2/2024 (RIL)",
+ "court": "iccj",
+ "kind": "RIL",
+ "panel": "ril",
+ "number": "2",
+ "date": "2024-02-26",
+ "year": "2024",
+ "heading": "DECIZIA nr. 2 din 26 februarie 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea unitară a dispozițiilor art. 115 alin. (1) din Legea nr. 85/2014",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU SOLUȚIONAREA RECURSULUI ÎN INTERESUL LEGII",
+ "mo": {
+  "number": "284",
+  "bis": false,
+  "date": "2024-04-02",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "partly": false,
+ "dossiers": [
+  "2.975/1/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Admite recursul în interesul legii formulat de Colegiul de conducere al Curții de Apel Cluj și, în consecință, stabilește că: În interpretarea și aplicarea unitară a dispozițiilor art. 115 alin. (1) din Legea nr. 85/2014, coroborate cu prevederile art. 32 și 33 din Ordonanța de urgență a Guvernului nr. 80/2013, raportat la dispozițiile art. 197, art. 470 alin. (2) și (3), respectiv art. 486 alin. (2) și (3) din Codul de procedură civilă, în cazul cererilor de chemare în judecată și al căilor de atac introduse sau declarate de către debitor anterior deschiderii procedurii de insolvență, supuse taxei judiciare de timbru, potrivit legii, însușirea cererii de chemare în judecată sau a căii de atac de către practicianul în insolvență desemnat în procedura ulterior declanșată nu atrage scutirea de la plata taxei judiciare de timbru.",
+  "Obligatorie, potrivit dispozițiilor art. 517 alin. (4) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "516",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "197",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "470",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "514",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "200",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "515",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "185",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "373-1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "115",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "o"
+     ]
+    },
+    {
+     "art": "58",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "h"
+     ]
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [
+    {
+     "art": "32",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "37",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "l"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "46",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2006",
+    "number": "85",
+    "year": "2006",
+    "path": "lege/2006/85"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1309",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 83/1998",
+    "number": "83",
+    "year": "1998",
+    "path": "lege/1998/83"
+   },
+   "articles": [
+    {
+     "art": "20-1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 64/1995",
+    "number": "64",
+    "year": "1995",
+    "path": "lege/1995/64"
+   },
+   "articles": [
+    {
+     "art": "58",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 80/2023",
+    "number": "80",
+    "year": "2023",
+    "path": "oug/2023/80"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/1997",
+    "number": "146",
+    "year": "1997",
+    "path": "lege/1997/146"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-02",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280667",
+  "text_sha256": "909806db3b3523e3228ff5d026c56a0c8c6f39b1a86ac533aeebda654fbb3d78",
+  "catalogue_sha256": "909806db3b3523e3228ff5d026c56a0c8c6f39b1a86ac533aeebda654fbb3d78",
+  "fetched": "2026-11-03T23:03:16Z",
+  "chars": 53790,
+  "portal_id": "280667",
+  "tip": "DECIZIE"
+ }
+}
