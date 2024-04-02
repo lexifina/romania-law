@@ -15,6 +15,7 @@ Initiator: Guvernul României.
 - 2024-02-07: documents published: Aviz comisie
 - 2024-02-12: registered at the Senate
 - 2024-03-04: registered at the Chamber of Deputies
+- 2024-04-02: adopted by the Chamber of Deputies
 
 ## Documents
 
