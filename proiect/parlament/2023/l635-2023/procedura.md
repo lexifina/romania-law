@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-16: sent for promulgation
 - 2024-04-02: promulgated, becomes Legea nr. 74/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-03: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L635LP.PDF
 - 2024-04-02: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L635DP.PDF
 - 2024-04-02: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L635FP.PDF
+- 2024-04-03: Document (AT): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L635AT.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-03: Document (S1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L635S1.PDF (its day is not given by the bill file: shown from the last stage held)
