@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-16: sent for promulgation
 - 2024-04-02: promulgated, becomes Legea nr. 73/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-03: published in the Monitorul Oficial
 
 ## Documents
 
