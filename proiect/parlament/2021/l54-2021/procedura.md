@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2022-04-11: registered at the Chamber of Deputies
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-20: sent for promulgation
+- 2024-04-04: promulgated, becomes Legea nr. 77/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2021-04-06: Adresă către Camera Deputaților (AM): [am-eefa2dd1.md](am-eefa2dd1.md); official file https://www.senat.ro/legis/PDF/2021/21L054AM.PDF
 - 2024-03-18: Adresă privind sesizarea CCR (AXS): [axs-ed5beafd.md](axs-ed5beafd.md); official file https://www.senat.ro/legis/PDF/2021/21L054AXS.PDF
 - 2024-03-18: Forma trimisă la promulgare (LP): [lp-85114f66.md](lp-85114f66.md); official file https://www.senat.ro/legis/PDF/2021/21L054LP.PDF
+- 2024-04-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L054DP.PDF
+- 2024-04-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L054FP.PDF
