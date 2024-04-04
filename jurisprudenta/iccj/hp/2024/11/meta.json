@@ -1,0 +1,151 @@
+{
+ "key": "iccj-hp-11-2024",
+ "label": "Decizia ÎCCJ nr. 11/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "11",
+ "date": "2024-03-11",
+ "year": "2024",
+ "heading": "DECIZIA nr. 11 din 11 martie 2024",
+ "subtitle": "referitoare la art. 5 alin. (5^1) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "296",
+  "bis": false,
+  "date": "2024-04-04",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.994/1/2023",
+  "3.717/121/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5-1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Galați - Secția contencios administrativ și fiscal, în Dosarul nr. 3.717/121/2022, pentru pronunțarea unei hotărâri prealabile privind dezlegarea următoarei probleme de drept:",
+  "Un copil adoptat cu efecte depline și care, anterior adopției, a stabilit relații de familie și a fost îngrijit de către părintele supraviețuitor împreună cu părintele persecutat politic, decedat înainte de pronunțarea adopției, este inclus în categoria persoanelor ce pot beneficia de indemnizația prevăzută de art. 5 alin. (5^1) din Decretul-lege nr. 118/1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945, precum și celor deportate în străinătate ori constituite în prizonieri, republicat, cu modificările și completările ulterioare?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 118/1990",
+    "number": "118",
+    "year": "1990",
+    "path": "decret-lege/1990/118"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": [
+      "5-1",
+      "6",
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 232/2020",
+    "number": "232",
+    "year": "2020",
+    "path": "lege/2020/232"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/1968/15",
+    "slug": "codul-penal-1969"
+   },
+   "articles": [
+    {
+     "art": "327",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 71/2022",
+    "number": "71",
+    "year": "2022",
+    "path": "lege/2022/71"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-04",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/280746",
+  "text_sha256": "70f73b552791a56b634805fdac28bc2113f96b0a4bd8edeefa92f6d91897290b",
+  "catalogue_sha256": "70f73b552791a56b634805fdac28bc2113f96b0a4bd8edeefa92f6d91897290b",
+  "fetched": "2026-11-03T01:12:57Z",
+  "chars": 29172,
+  "portal_id": "280746",
+  "tip": "DECIZIE"
+ }
+}
