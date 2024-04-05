@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2023-11-20: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-11-22: sent for promulgation
 - 2024-04-04: promulgated, becomes Legea nr. 76/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-05: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2023-11-20: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L541LP.PDF
 - 2024-04-04: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L541DP.PDF
 - 2024-04-04: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L541FP.PDF
+- 2024-04-05: Document (SC): [sc-2b274d3c.md](sc-2b274d3c.md); official file https://www.senat.ro/legis/PDF/2023/23L541SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-05: Document (DC): [dc-7e302269.md](dc-7e302269.md); official file https://www.senat.ro/legis/PDF/2023/23L541DC.PDF (its day is not given by the bill file: shown from the last stage held)
