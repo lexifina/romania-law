@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: adopted by the Chamber of Deputies
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-23: sent for promulgation
+- 2024-04-09: promulgated, becomes Legea nr. 84/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-06-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L254AM.PDF
 - 2024-03-18: Adresă privind sesizarea CCR (AXS): [axs-ed5beafd.md](axs-ed5beafd.md); official file https://www.senat.ro/legis/PDF/2023/23L254AXS.PDF
 - 2024-03-18: Forma trimisă la promulgare (LP): [lp-3eb592a0.md](lp-3eb592a0.md); official file https://www.senat.ro/legis/PDF/2023/23L254LP.PDF
+- 2024-04-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L254DP.PDF
+- 2024-04-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L254FP.PDF
