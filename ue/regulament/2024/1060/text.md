@@ -1,0 +1,34 @@
+REGULAMENTUL DELEGAT (UE) 2024/1060 AL COMISIEI
+din 26 ianuarie 2024
+de modificare a Regulamentului (UE) 2019/1241 al Parlamentului European și al Consiliului în ceea ce privește măsurile tehnice pentru halibutul de Atlantic în Skagerrak și Kattegat
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2019/1241 al Parlamentului European și al Consiliului din 20 iunie 2019 privind conservarea resurselor piscicole și protecția ecosistemelor marine prin măsuri tehnice, de modificare a Regulamentelor (CE) nr. 1967/2006 și (CE) nr. 1224/2009 ale Consiliului și a Regulamentelor (UE) nr. 1380/2013, (UE) 2016/1139, (UE) 2018/973, (UE) 2019/472 și (UE) 2019/1022 ale Parlamentului European și ale Consiliului și de abrogare a Regulamentelor (CE) nr. 894/97, (CE) nr. 850/98, (CE) nr. 2549/2000, (CE) nr. 254/2002, (CE) nr. 812/2004 și (CE) nr. 2187/2005 ale Consiliului (1), în special articolul 15 alineatul (2),
+întrucât:
+(1) Regulamentul (UE) 2019/1241 („Regulamentul privind măsurile tehnice”) privind măsurile de conservare a resurselor piscicole și protecția ecosistemelor marine prin măsuri tehnice a intrat în vigoare la 14 august 2019. Anexa V stabilește măsuri tehnice regionale pentru Marea Nordului.
+(2) Belgia, Danemarca, Germania, Franța, Țările de Jos și Suedia („Grupul de la Scheveningen”) au un interes direct în gestionarea activităților de pescuit din regiunea Marii Nordului. În conformitate cu articolul 15 alineatul (3) din Regulamentul privind măsurile tehnice, la 27 iunie 2023, statele membre în cauză au prezentat Comisiei o recomandare comună privind un act delegat. Anterior, la 23 iunie 2023, statele membre în cauză au trimis recomandarea comună spre consultare de către Consiliul consultativ pentru Marea Nordului (NSAC).
+(3) În Procesul-verbal convenit al concluziilor consultărilor în domeniul pescuitului dintre Norvegia și Uniunea Europeană privind reglementarea pescuitului în Skagerrak și Kattegat pentru 2023 (2), Uniunea a remarcat necesitatea ca părțile să urmărească armonizarea măsurilor tehnice pentru halibutul de Atlantic (Hippoglossus hippoglossus), reamintind decizia Suediei din 2010 de a interzice navelor suedeze să păstreze la bord, să debarce și să comercializeze halibutul de Atlantic în Skagerrak și Kattegat în timpul sezonului de reproducere al speciei. Prin urmare, în procesul-verbal respectiv s-a convenit să se ia în considerare introducerea unei închideri sezoniere la nivelul Uniunii pentru halibutul de Atlantic.
+(4) Recomandarea comună prezentată de Grupul de la Scheveningen a propus modificări ale anexei V la Regulamentul (UE) 2019/1241, prin introducerea unei perioade de interzicere a pescuitului cuprinse între 20 decembrie și 31 martie, în timpul sezonului de reproducere a halibutului de Atlantic în Skagerrak și Kattegat (diviziunea ICES 3a).
+(5) Măsura tehnică propusă în recomandarea comună a fost evaluată de Comisie în conformitate cu articolul 15 din Regulamentul privind măsurile tehnice. Statele membre în cauză au furnizat date care demonstrează că propunerea respectă dispozițiile articolului 15 alineatul (4) din Regulamentul privind măsurile tehnice.
+(6) Comitetul științific, tehnic și economic pentru pescuit (CSTEP) a analizat și a evaluat pozitiv dovezile prezentate de statele membre în cauză. CSTEP a concluzionat (3) că perioada de interzicere a pescuitului, cuprinsă între 20 decembrie și 31 martie, propusă pentru halibutul de Atlantic în Skagerrak și în zona economică exclusivă a Suediei Kattegat corespunde din punct de vedere spațial și temporal cu localizarea posibilelor zone de depunere a icrelor și acoperă intervalul de vârf presupus a perioadei de reproducere a speciilor în diviziunea ICES 3a. De asemenea, CSTEP a concluzionat că există o nevoie urgentă de a reface stocul prin reducerea mortalității prin pescuit cu ajutorul unor măsuri de gestionare și că închiderea sezonieră propusă la nivelul UE este în concordanță cu măsurile în vigoare în prezent în Norvegia și Suedia.
+(7) Grupul de experți în domeniul pescuitului și acvaculturii a fost consultat în cadrul unei reuniuni care a avut loc la 15 noiembrie 2023.
+(8) Având în vedere că stocul de halibut de Atlantic este epuizat și extrem de vulnerabil și ținând cont de nevoia urgentă de a aborda obiectivele de conservare ale Regulamentului privind măsurile tehnice, precum și de impactul direct al măsurii asupra activităților economice legate de pescuit și asupra planificării sezonului de pescuit pentru navele Uniunii, prezentul regulament trebuie să intre în vigoare în ziua următoare datei publicării sale.
+(9) Măsurile din prezentul regulament aplicabile apelor Uniunii sunt menite să îndeplinească obiectivele stabilite la articolul 494 alineatele (1) și (2) din Acordul comercial și de cooperare (ACC) (4) și țin seama de principiile menționate la articolul 494 alineatul (3) din acordul respectiv. Acestea nu aduc atingere niciunei măsuri aplicabile în apele Regatului Unit al Marii Britanii și Irlandei de Nord,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Regulamentul (UE) 2019/1241 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 26 ianuarie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 198, 25.7.2019, p. 105, ELI: http://data.europa.eu/eli/reg/2019/1241/oj.
+(2) https://oceans-and-fisheries.ec.europa.eu/system/files/2023-03/2023-eu-norway-skagerrak-fisheries-consultations_en.pdf
+(3) Comitetul științific, tehnic și economic pentru pescuit (CSTEP) – Raportul celei de a 73-a sesiuni plenare (STECF-PLEN-23-02). Oficiul pentru Publicații al Uniunii Europene, Luxemburg, 2023.https://stecf.jrc.ec.europa.eu/documents/43805/67497497/STECF+PLEN+23-02.pdf/94846c76-e677-408e-b23c-ec0d572a9bca
+(4) Acordul comercial și de cooperare dintre Uniunea Europeană și Comunitatea Europeană a Energiei Atomice, pe de o parte, și Regatul Unit al Marii Britanii și Irlandei de Nord, pe de altă parte (JO L 149, 30.4.2021, p. 10, ELI: http://data.europa.eu/eli/agree_internation/2021/689(1)/oj).
+ANEXĂ
+În anexa V la Regulamentul (UE) 2019/1241, la partea C, se adaugă următorul punct:
+„5.4. | Se interzice desfășurarea oricărei activități de pescuit în scop comercial și recreațional, reținerea la bord, transferul, transbordarea sau debarcarea halibutului de Atlantic (Hippoglossus hippoglossus) în Skagerrak (diviziunea ICES 3aN) și în zona economică exclusivă a Suediei în Kattegat (diviziunea ICES 3aS) în perioada 20 decembrie-31 martie a fiecărui an. În cazul în care sunt capturate accidental, exemplarele nu trebuie vătămate și trebuie eliberate imediat.”
+ELI: http://data.europa.eu/eli/reg_del/2024/1060/oj
