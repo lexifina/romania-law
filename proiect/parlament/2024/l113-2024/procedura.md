@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-03-11: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-23: sent for promulgation
+- 2024-04-09: promulgated, becomes Legea nr. 81/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-03-11: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L113FS.PDF
 - 2024-03-18: Adresă privind sesizarea CCR (AXS): [axs-ed5beafd.md](axs-ed5beafd.md); official file https://www.senat.ro/legis/PDF/2024/24L113AXS.PDF
 - 2024-03-18: Forma trimisă la promulgare (LP): [lp-d3615943.md](lp-d3615943.md); official file https://www.senat.ro/legis/PDF/2024/24L113LP.PDF
+- 2024-04-09: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L113DP.PDF
+- 2024-04-09: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L113FP.PDF
