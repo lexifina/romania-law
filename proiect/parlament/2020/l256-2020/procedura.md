@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-23: sent for promulgation
 - 2024-04-09: promulgated, becomes Legea nr. 85/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-10: published in the Monitorul Oficial
 
 ## Documents
 
