@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-03-11: adopted by the Chamber of Deputies
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-23: sent for promulgation
+- 2024-04-10: promulgated, becomes Legea nr. 89/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2023-03-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L020AM.PDF
 - 2024-03-18: Adresă privind sesizarea CCR (AXS): [axs-ed5beafd.md](axs-ed5beafd.md); official file https://www.senat.ro/legis/PDF/2023/23L020AXS.PDF
 - 2024-03-18: Forma trimisă la promulgare (LP): [lp-9ab31a13.md](lp-9ab31a13.md); official file https://www.senat.ro/legis/PDF/2023/23L020LP.PDF
+- 2024-04-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L020DP.PDF
+- 2024-04-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L020FP.PDF
