@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-03-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-23: sent for promulgation
 - 2024-04-10: promulgated, becomes Legea nr. 91/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-11: published in the Monitorul Oficial
 
 ## Documents
 
