@@ -1,0 +1,335 @@
+{
+ "key": "dcc-722-2023",
+ "label": "Decizia CCR nr. 722/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "722",
+ "date": "2023-12-12",
+ "year": "2023",
+ "heading": "DECIZIA nr. 722 din 12 decembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 1 alin. (1) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. 38 alin. (1) și alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. II din Ordonanța Guvernului nr. 8/2008 pentru modificarea și completarea Legii nr. 138/1999 privind salarizarea și alte drepturi ale personalului militar din instituțiile publice de apărare națională, ordine publică și siguranță națională, precum și acordarea unor drepturi salariale personalului civil din aceste instituții și pentru modificarea Ordonanței Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor și a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "344",
+  "bis": false,
+  "date": "2024-04-12",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.366/107/2019",
+  "863D/2021",
+  "1.133D/2021",
+  "12.371/3/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2008",
+    "number": "8",
+    "year": "2008",
+    "path": "og/2008/8"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Raluca-Pompilia Iordache în Dosarul nr. 2.366/107/2019 al Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, de Victor Tenovici, prin Sindicatul Polițiștilor din România „Diamantul“, în Dosarul nr. 12.371/3/2020 al Tribunalului Ilfov - Secția civilă, de Sindicatul polițiștilor „Mihai Viteazul“, pentru membrii de sindicat Cristian-Florin Ivancea, Cristian-Iulian Birtu și Ionuț-Robert Dimieru, în dosarele nr. 7.826/63/2021, nr. 7.838/63/2021 și nr. 7.840/63/2021 ale Tribunalului Dolj - Secția contencios administrativ și fiscal și constată că dispozițiile art. 1 alin. (1) din Ordonanța de urgență a Guvernului nr. 9/2017 privind unele măsuri bugetare în anul 2017, prorogarea unor termene, precum și modificarea și completarea unor acte normative, ale art. 38 alin. (1) și alin. (2) lit. a) din Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice și ale art. II din Ordonanța Guvernului nr. 8/2008 pentru modificarea și completarea Legii nr. 138/1999 privind salarizarea și alte drepturi ale personalului militar din instituțiile publice de apărare națională, ordine publică și siguranță națională, precum și acordarea unor drepturi salariale personalului civil din aceste instituții și pentru modificarea Ordonanței Guvernului nr. 38/2003 privind salarizarea și alte drepturi ale polițiștilor și a Ordonanței Guvernului nr. 64/2006 privind salarizarea și alte drepturi ale funcționarilor publici cu statut special din sistemul administrației penitenciare sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Hunedoara - Secția a II-a civilă, de contencios administrativ și fiscal, Tribunalului Ilfov - Secția civilă și Tribunalului Dolj - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 9/2017",
+    "number": "9",
+    "year": "2017",
+    "path": "oug/2017/9"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 153/2017",
+    "number": "153",
+    "year": "2017",
+    "path": "lege/2017/153"
+   },
+   "articles": [
+    {
+     "art": "38",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 10
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 8/2008",
+    "number": "8",
+    "year": "2008",
+    "path": "og/2008/8"
+   },
+   "articles": [
+    {
+     "art": "II",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 12
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 64/2006",
+    "number": "64",
+    "year": "2006",
+    "path": "og/2006/64"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "73",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "j"
+     ]
+    },
+    {
+     "art": "115",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 38/2003",
+    "number": "38",
+    "year": "2003",
+    "path": "og/2003/38"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "30",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 330/2009",
+    "number": "330",
+    "year": "2009",
+    "path": "lege/2009/330"
+   },
+   "articles": [
+    {
+     "art": "48",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/2012",
+    "number": "49",
+    "year": "2012",
+    "path": "lege/2012/49"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea-cadru nr. 284/2010",
+    "number": "284",
+    "year": "2010",
+    "path": "lege/2010/284"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-04-12",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281737",
+  "text_sha256": "c9889fac1e82a9723df75287c65cbd34ce5a3f374faf3ed1a9fd9037203ce4c6",
+  "catalogue_sha256": "c9889fac1e82a9723df75287c65cbd34ce5a3f374faf3ed1a9fd9037203ce4c6",
+  "fetched": "2026-11-03T01:12:11Z",
+  "chars": 26714,
+  "portal_id": "281737",
+  "tip": "DECIZIE"
+ }
+}
