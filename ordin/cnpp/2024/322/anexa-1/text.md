@@ -1,0 +1,4 @@
+# ANEXĂ
+METODOLOGIE DE CALCUL al drepturilor de pensie în aplicarea prevederilor
+Regulamentelor (CE) nr. 883/2004 al Parlamentului European și al Consiliului din 29 aprilie 2004 privind coordonarea sistemelor de securitate socială, cu modificările și completările ulterioare, și (CE) nr. 987/2009 al Parlamentului European și al Consiliului din 16 septembrie 2009 de stabilire a procedurii de punere în aplicare a Regulamentului (CE) nr. 883/2004 privind coordonarea sistemelor de securitate socială, cu modificările și completările ulterioare, a prevederilor Acordului Comercial și de Cooperare între Uniunea
+Europeană și Comunitatea Europeană a Energiei Atomice, pe de o parte, și Regatul Unit al Marii Britanii și Irlandei de Nord, pe de altă parte, și a prevederilor acordurilor bilaterale de securitate socială la care România este parte, odată cu intrarea în vigoare a prevederilor Legii nr. 360/2023 privind sistemul public de pensii
