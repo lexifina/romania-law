@@ -1,0 +1,2 @@
+# Anexa nr. 1
+PROCEDURĂ privind întocmirea și transmiterea de către organul de inspecție fiscală a listei cu obligațiile fiscale ce pot face obiectul anulării prevăzute la art. II din Legea nr. 10/2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creșterii excesive a prețurilor la unele produse agricole și alimentare, precum și pentru stingerea unor obligații fiscale datorate de cooperativele agricole

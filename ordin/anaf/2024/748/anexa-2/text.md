@@ -1,0 +1,2 @@
+# Anexa nr. 2
+PROCEDURĂ pentru anularea obligațiilor fiscale ce pot face obiectul facilității prevăzute la art. II din Legea nr. 10/2024 pentru aprobarea Ordonanței de urgență a Guvernului nr. 67/2023 privind instituirea unei măsuri cu caracter temporar de combatere a creșterii excesive a prețurilor la unele produse agricole și alimentare, precum și pentru stingerea unor obligații fiscale datorate de cooperativele agricole, precum și modalitățile de restituire a acestora
