@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-03-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-27: sent for promulgation
 - 2024-04-12: promulgated, becomes Legea nr. 96/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2024-03-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L019LP.PDF
 - 2024-04-12: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L019DP.PDF
 - 2024-04-12: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L019FP.PDF
+- 2024-04-15: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L019TA.PDF (its day is not given by the bill file: shown from the last stage held)
