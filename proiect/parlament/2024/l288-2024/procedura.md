@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-02-19: registered at the Chamber of Deputies
+- 2024-04-15: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2024-04-15: Raport comisie sesizată pe fond (CR): [cr-8ab118da.md](cr-8ab118da.md); official file https://www.senat.ro/legis/PDF/2024/24L288CR.PDF
