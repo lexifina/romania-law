@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-19: adopted by the Chamber of Deputies
 - 2024-03-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-30: sent for promulgation
+- 2024-04-15: promulgated, becomes Legea nr. 99/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-03-14: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L083AM.PDF
 - 2024-03-25: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L083AXS.PDF
 - 2024-03-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L083LP.PDF
+- 2024-04-15: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L083DP.PDF
+- 2024-04-15: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L083FP.PDF
