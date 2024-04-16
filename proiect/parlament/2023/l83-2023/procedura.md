@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-30: sent for promulgation
 - 2024-04-15: promulgated, becomes Legea nr. 99/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-16: published in the Monitorul Oficial
 
 ## Documents
 
