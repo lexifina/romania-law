@@ -10,6 +10,7 @@ Initiator: Membri ai Parlamentului.
 
 - 2024-04-09: registered at the Chamber of Deputies
 - 2024-04-15: documents published: Raport comisie sesizată pe fond
+- 2024-04-16: adopted by the Chamber of Deputies
 
 ## Documents
 
