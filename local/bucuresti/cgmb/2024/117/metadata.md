@@ -1,0 +1,12 @@
+# HCGMB nr. 117/2024
+
+Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+- Council: Consiliul General al Municipiului București
+- Decision: nr. 117/2024
+- Adopted: 2024-04-08
+- Published: 2024-04-16
+- Title: PRIVIND DECLANSAREA PROCEDURILOR DE EXPROPRIERE PENTRU IMOBILUL PROPRIETATE PRIVATA SITUAT PE AMPLASAMENTUL LUCRARII DE UTILITATE PUBLICA AVAND CA SCOP AMENAJAREA DE NOI SPATII VERZI PUBLICE CU ACCES NELIMITAT „AMENAJARE PARC MOROENI”, IN VEDEREA ASIGURARII CRESTERII CALITATII FACTORILOR DE MEDIU SI A STARII DE SANATATE A POPULATIEI IN CADRUL UNITATII ADMINISTRATIV TERITORIALE A SECTORULUI 2 AL MUNICIPIULUI BUCURESTI ART. 2, ART. 3 SI ANEXA NR. 2 MODIFICATE PRIN HCGMB NR. 257/2026
+- Record: https://acteinterne.pmb.ro/legis/acteinterne/acte_int/45674
+- Document: https://doc.pmb.ro/legis/acteinterne/2024/45674/h117_24.pdf
+- Document sha256: c2dd4179ffc6e57a68a516ff92ad441a4c0e59391ce08c6424bcc2710f65eea8
