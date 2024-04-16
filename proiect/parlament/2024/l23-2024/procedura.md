@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-03-26: adopted by the Chamber of Deputies
 - 2024-04-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-08: sent for promulgation
+- 2024-04-16: promulgated, becomes Legea nr. 102/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Guvernul României.
 - 2024-02-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L023AM.PDF
 - 2024-04-02: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L023AXS.PDF
 - 2024-04-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L023LP.PDF
+- 2024-04-16: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L023DP.PDF
+- 2024-04-16: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L023FP.PDF
