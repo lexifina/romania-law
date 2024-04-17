@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-08: sent for promulgation
 - 2024-04-16: promulgated, becomes Legea nr. 102/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-17: published in the Monitorul Oficial
 
 ## Documents
 
