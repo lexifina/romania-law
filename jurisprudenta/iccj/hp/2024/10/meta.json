@@ -1,0 +1,196 @@
+{
+ "key": "iccj-hp-10-2024",
+ "label": "Decizia ÎCCJ nr. 10/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "10",
+ "date": "2024-03-11",
+ "year": "2024",
+ "heading": "DECIZIA nr. 10 din 11 martie 2024",
+ "subtitle": "privind interpretarea și aplicarea dispozițiilor art. 53 din Legea nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România, cu modificările și completările ulterioare, raportat la dispozițiile cuprinse în Hotărârea Guvernului nr. 1.061/1995 privind unele drepturi și obligații ale personalului care efectuează transporturi aeriene de pasageri și mărfuri în trafic internațional, Hotărârea Guvernului nr. 1.162/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 518/1995 privind unele drepturi și obligații ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar și în Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, în sensul de a se stabili dacă în media veniturilor realizate în ultimele 3 luni de activitate ca personal aeronautic civil navigant profesionist sunt incluse diurna și concediul de odihnă suplimentar",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "359",
+  "bis": false,
+  "date": "2024-04-17",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.016/1/2023",
+  "14.926/94/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.061/1995",
+    "number": "1061",
+    "year": "1995",
+    "path": "hg/1995/1061"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.162/2004",
+    "number": "1162",
+    "year": "2004",
+    "path": "hg/2004/1162"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul Ilfov - Secția civilă, în Dosarul nr. 14.926/94/2021, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Interpretarea și aplicarea dispozițiilor art. 53 din Legea nr. 223/2007 privind Statutul personalului aeronautic civil navigant profesionist din aviația civilă din România, cu modificările și completările ulterioare, raportat la dispozițiile cuprinse în Hotărârea Guvernului nr. 1.061/1995 privind unele drepturi și obligații ale personalului care efectuează transporturi aeriene de pasageri și mărfuri în trafic internațional, Hotărârea Guvernului nr. 1.162/2004 pentru modificarea anexei la Hotărârea Guvernului nr. 518/1995 privind unele drepturi și obligații ale personalului român trimis în străinătate pentru îndeplinirea unor misiuni cu caracter temporar și în Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, în sensul de a se stabili dacă în media veniturilor realizate în ultimele 3 luni de activitate ca personal aeronautic civil navigant profesionist sunt incluse diurna și concediul de odihnă suplimentar.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 223/2007",
+    "number": "223",
+    "year": "2007",
+    "path": "lege/2007/223"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": [
+      "b"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.061/1995",
+    "number": "1061",
+    "year": "1995",
+    "path": "hg/1995/1061"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "hg",
+    "label": "Hotărârea Guvernului nr. 1.162/2004",
+    "number": "1162",
+    "year": "2004",
+    "path": "hg/2004/1162"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 227/2015",
+    "number": "227",
+    "year": "2015",
+    "path": "lege/2015/227"
+   },
+   "articles": [
+    {
+     "art": "76",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "443",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "712",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "713",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-17",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281857",
+  "text_sha256": "79469af9d9e2917615fde47d3e501d8df7b6c1e728b658f1cdc7db8a783a894a",
+  "catalogue_sha256": "79469af9d9e2917615fde47d3e501d8df7b6c1e728b658f1cdc7db8a783a894a",
+  "fetched": "2026-11-03T01:12:00Z",
+  "chars": 41353,
+  "portal_id": "281857",
+  "tip": "DECIZIE"
+ }
+}
