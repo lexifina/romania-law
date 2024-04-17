@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-25: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-03-30: sent for promulgation
 - 2024-04-16: promulgated, becomes Legea nr. 105/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-17: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-25: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L213LP.PDF
 - 2024-04-16: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L213DP.PDF
 - 2024-04-16: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L213FP.PDF
+- 2024-04-17: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L213CC.PDF (its day is not given by the bill file: shown from the last stage held)
