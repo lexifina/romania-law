@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-11-06: registered at the Chamber of Deputies
 - 2024-04-09: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-11: sent for promulgation
+- 2024-04-17: promulgated, becomes Legea nr. 107/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -32,3 +33,5 @@ Initiator: Guvernul României.
 - 2023-10-30: Adresă către Camera Deputaților (AM): [am-7b351ac1.md](am-7b351ac1.md); official file https://www.senat.ro/legis/PDF/2023/23L562AM.PDF
 - 2024-04-09: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L562AXS.PDF
 - 2024-04-09: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L562LP.PDF
+- 2024-04-17: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L562DP.PDF
+- 2024-04-17: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L562FP.PDF
