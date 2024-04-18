@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-04: sent for promulgation
 - 2024-04-17: promulgated, becomes Legea nr. 108/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-18: published in the Monitorul Oficial
 
 ## Documents
 
