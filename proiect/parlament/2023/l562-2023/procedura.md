@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-04-09: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-11: sent for promulgation
 - 2024-04-17: promulgated, becomes Legea nr. 107/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-18: published in the Monitorul Oficial
 
 ## Documents
 
