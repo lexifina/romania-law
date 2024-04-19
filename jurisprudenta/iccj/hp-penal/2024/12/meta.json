@@ -1,0 +1,233 @@
+{
+ "key": "iccj-hp-penal-12-2024",
+ "label": "Decizia ÎCCJ nr. 12/2024 (HP penal)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp-penal",
+ "number": "12",
+ "date": "2024-03-11",
+ "year": "2024",
+ "heading": "DECIZIA",
+ "subtitle": "nr. 12 din 11 martie 2024 cu privire la pronunțarea unei hotărâri prealabile pentru dezlegarea unei chestiuni de drept",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT ÎN MATERIE PENALĂ",
+ "mo": {
+  "number": "372",
+  "bis": false,
+  "date": "2024-04-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "3.017/1/2023",
+  "5.157/99/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Curtea de Apel Iași - Secția penală și pentru cauze cu minori, în Dosarul nr. 5.157/99/2020, prin care s-a solicitat pronunțarea unei hotărâri prealabile pentru dezlegarea următoarei chestiuni de drept:",
+  "În situația infracțiunilor de evaziune fiscală prevăzute de art. 9 din Legea nr. 241/2005, pentru care încadrarea în variantele agravate, incriminate de art. 9 alin. (2) și (3) din aceeași lege, este condiționată de o valoare a prejudiciului mai mare de 100.000 euro, respectiv de 500.000 euro, în echivalentul monedei naționale, modificarea cursului valutar stabilit de BNR ulterior consumării faptei, astfel încât aceeași faptă concretă, analizată în raport cu un curs valutar superior valoric, nu s-ar mai încadra în varianta agravantă prevăzută de art. 9 alin. (2) sau (3) din Legea nr. 241/2005, ci în varianta de bază, reglementată de art. 9 alin. (1) din Legea nr. 241/2005, este de natură să activeze principiul aplicării legii penale mai favorabile, cu consecința stabilirii în cauză a încadrării juridice care este cea mai favorabilă inculpatului în condițiile art. 5 din Codul penal, în raport cu cursurile valutare succesive ulterioare consumării faptei sau, dimpotrivă, într-o astfel de situație, se are în vedere, în mod exclusiv, cursul valutar BNR aplicabil la momentul consumării faptei.",
+  "Obligatorie de la data publicării în Monitorul Oficial al României, Partea I, potrivit art. 477 alin. (3) din Codul de procedură penală."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2005",
+    "number": "241",
+    "year": "2005",
+    "path": "lege/2005/241"
+   },
+   "articles": [
+    {
+     "art": "9",
+     "alin": [
+      "2",
+      "1",
+      "3"
+     ],
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 44
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul penal",
+    "path": "lege/2009/286",
+    "slug": "codul-penal"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "66",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "173",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "475",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "476",
+     "alin": [
+      "10"
+     ],
+     "lit": null
+    },
+    {
+     "art": "473",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 13
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 241/2015",
+    "number": "241",
+    "year": "2015",
+    "path": "lege/2015/241"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281942",
+  "text_sha256": "e63f357dd0c86f5b44d111c1912a8b1502861092fe583f1ac8171e9b363cd315",
+  "catalogue_sha256": "e63f357dd0c86f5b44d111c1912a8b1502861092fe583f1ac8171e9b363cd315",
+  "fetched": "2026-11-03T01:11:54Z",
+  "chars": 71425,
+  "portal_id": "281942",
+  "tip": "DECIZIE"
+ }
+}
