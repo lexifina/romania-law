@@ -1,0 +1,29 @@
+# Anexa 7
+Anexa nr. 1
+la Anexa nr. 3
+FONDUL ................................
+Str. .................. nr. ..., localitatea .....................
+Persoana de contact .................., telefon .................
+Înscris nr. ...... din data de..............
+Către:..................*),
+*) Se vor completa elementele de identificare ale debitorului și adresa acestuia.
+Spre știință:..........**)
+**) Organul fiscal competent al Agenției Naționale de Administrare Fiscală.
+Întrucât la termenul din data de .............. beneficiarul .............., cu sediul social în localitatea .............., str. .............. nr. ..., bloc ..., scară ...., etaj ...., apartament ...., sectorul/județul .............., telefon .............., fax , e-mail ............................, înregistrat la registrul comerțului cu numărul .............., cod unic de înregistrare .............., nu a achitat creditul acordat în cadrul Programului IMM PLUS - componenta .............., de instituția de credit ..............***), cu sediul în localitatea .............., str. .............. nr. ..., bloc ..., etaj ..., sectorul/județul .............., și a fost executată garanția acordată prin Contractul de garantare nr. .... din data de.............., s-a întocmit, în temeiul art. 14 alin. (1) din anexa la OUG nr. 18/2024 și al art. 30 alin. (2) din "Procedura de implementare a Programului IMM PLUS - componentele IMM ROMÂNIA PLUS, AGRO PLUS, IMM PROD PLUS, CONSTRUCT PLUS și INNOVATION PLUS", prezentul înscris, prin care s-au individualizat următoarele sume de plată:
+***) Se completează denumirea instituției de credit finanțatoare care a acordat creditul garantat în cadrul Programului IMM PLUS.
+Natura obligației bugetare
+Scadența obligației bugetare****)
+Nr. contractului de garantare a creditului de investiții/creditului/liniei de credit pentru capital de lucru garantate în cadrul Componentei .......
+Cuantumul sumei datorate
+- lei -
+****) Se completează data plății garanției de către Ministerul Finanțelor.
+Sumele menționate mai sus se achită în contul ..............
+Pe documentul de plată se indică în mod obligatoriu și numărul contractului de garantare a creditului.
+Dacă în termen de 15 zile de la data comunicării prezentului înscris nu achitați sau nu faceți dovada stingerii obligațiilor înscrise în acesta, în temeiul dispozițiilor art. 30 alin. (7) din "Procedura de implementare a Programului IMM PLUS - componentele IMM ROMÂNIA PLUS, AGRO PLUS, IMM PROD PLUS, CONSTRUCT PLUS și INNOVATION PLUS", prezentul înscris devine titlu executoriu, în baza căruia organele fiscale competente ale Agenției Naționale de Administrare Fiscală vor proceda la recuperarea creanțelor bugetare, conform Legii nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare.
+Pentru suma rezultată din executarea garanției de stat, datorați obligații fiscale accesorii conform dispozițiilor Ordonanței de urgență a Guvernului nr. 18/2024 privind aprobarea schemei de ajutor de stat IMM PLUS, care se calculează de către organele fiscale competente ale Agenției Naționale de Administrare Fiscală, începând cu ziua următoare datei scadenței acestora până la data stingerii inclusiv, și se recuperează de către acestea în conformitate cu prevederile Legii nr. 207/2015 privind Codul de procedură fiscală , cu modificările și completările ulterioare.
+Pentru orice nelămuriri sau obiecții în legătură cu acest înscris se poate contacta persoana al cărei nume figurează mai sus, la sediul nostru sau la numărul de telefon menționat.
+Data emiterii ..............
+Director,
+Numele și prenumele ..............
+Semnătura ..............
+L.S.
