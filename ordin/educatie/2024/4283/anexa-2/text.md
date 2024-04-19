@@ -1,0 +1,2 @@
+# Anexa nr. 2
+PROCEDURĂ privind elaborarea avizului conform, prevăzut la art. 146 alin. (8) din Legea învățământului preuniversitar nr. 198/2023, pentru schimbarea destinației terenului folosit de unitățile de învățământ preuniversitar de stat, precum și a spațiilor/clădirilor în care nu se mai desfășoară activități didactice, în primii 3 ani calendaristici de la întreruperea activității educaționale, precum și condițiile necesare acordării acestuia
