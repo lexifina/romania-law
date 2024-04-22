@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-02: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-08: sent for promulgation
 - 2024-04-19: promulgated, becomes Legea nr. 111/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-22: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -34,3 +35,4 @@ Initiator: Guvernul României.
 - 2024-04-02: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L135LP.PDF
 - 2024-04-19: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L135DP.PDF
 - 2024-04-19: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L135FP.PDF
+- 2024-04-22: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L135AL.PDF (its day is not given by the bill file: shown from the last stage held)
