@@ -1,0 +1,250 @@
+{
+ "key": "iccj-scaf-3982-2023",
+ "label": "Decizia ÎCCJ nr. 3982/2023 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "3982",
+ "date": "2023-09-20",
+ "year": "2023",
+ "heading": "DECIZIA nr. 3.982 din 20 septembrie 2023",
+ "subtitle": "referitoare la recursul declarat de recurentul-pârât Ministerul Educației împotriva Sentinței nr. 1.028 din 29 iunie 2021",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA DE CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "378",
+  "bis": false,
+  "date": "2024-04-23",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.751/2/2021"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de recurentul-pârât Ministerul Educației împotriva Sentinței nr. 1.028 din 29 iunie 2021 pronunțate de Curtea de Apel București - Secția a VIII-a contencios administrativ și fiscal, ca nefondat.",
+  "În temeiul art. 23 din Legea nr. 554/2004, dispune publicarea, în Monitorul Oficial al României, a hotărârii recurate.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "392",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "394",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "42",
+     "alin": [
+      "1",
+      "13"
+     ],
+     "lit": null
+    },
+    {
+     "art": "486",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "490",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "471-1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "201",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MEC nr. 6.129/2016",
+    "number": "6129",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MEC nr. 5.229/2020",
+    "number": "5229",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Educației Naționale și Cercetării Științifice nr. 6.129/2016",
+    "number": "6129",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul Ministerului Educației și Cercetării nr. 5.229/2020",
+    "number": "5229",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Educației Naționale și Cercetării Științifice nr. 6.129/2016",
+    "number": "6129",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului Ministerului Educației și Cercetării nr. 5.229/2020",
+    "number": "5229",
+    "year": "2020"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MECS nr. 6.129/2016",
+    "number": "6129",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 1/2011",
+    "number": "1",
+    "year": "2011",
+    "path": "lege/2011/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "O.U.G. nr. 80/2013",
+    "number": "80",
+    "year": "2013",
+    "path": "oug/2013/80"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-23",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282014",
+  "text_sha256": "1f7cf7268e001fc7d017bd9ac3dc1baf05a77cd77a0b6f5d0656d451e8b28c05",
+  "catalogue_sha256": "1f7cf7268e001fc7d017bd9ac3dc1baf05a77cd77a0b6f5d0656d451e8b28c05",
+  "fetched": "2026-11-06T04:00:56Z",
+  "chars": 38251,
+  "archive": {
+   "source": "wayback",
+   "url": "https://web.archive.org/web/20251027153504/https://legislatie.just.ro/Public/DetaliiDocumentAfis/282014",
+   "page": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/282014",
+   "timestamp": "20251027153504",
+   "sha256": "12a18f5de50df123285312697f9d7d1836b5c7302254400a09f2724f4f823ada"
+  },
+  "portal_id": "282014",
+  "tip": "DECIZIE"
+ }
+}
