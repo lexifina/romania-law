@@ -1,0 +1,36 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/997 AL COMISIEI
+din 3 aprilie 2024
+privind autorizarea L-valinei produse de Corynebacterium glutamicum CGMCC 18932 ca aditiv pentru hrana tuturor speciilor de animale
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (CE) nr. 1831/2003 al Parlamentului European și al Consiliului din 22 septembrie 2003 privind aditivii din hrana animalelor (1), în special articolul 9 alineatul (2),
+întrucât:
+(1) Regulamentul (CE) nr. 1831/2003 prevede autorizarea aditivilor destinați utilizării în hrana animalelor, precum și motivele și procedurile de acordare a unor astfel de autorizații.
+(2) În conformitate cu articolul 7 din Regulamentul (CE) nr. 1831/2003, a fost transmisă o cerere de autorizare a L-valinei produse de Corynebacterium glutamicum (CGMCC 18932). Cererea a fost însoțită de informațiile și de documentele necesare în conformitate cu articolul 7 alineatul (3) din Regulamentul (CE) nr. 1831/2003.
+(3) Cererea se referă la autorizarea L-valinei produse de Corynebacterium glutamicum CGMCC 18932 ca aditiv pentru hrana și apa de băut pentru toate speciile de animale, în vederea clasificării în categoria „aditivi nutriționali” și în grupa funcțională „aminoacizi, sărurile acestora și produse analoage”.
+(4) În avizul său din 5 iunie 2023 (2), Autoritatea Europeană pentru Siguranța Alimentară (denumită în continuare „autoritatea”) a concluzionat că, în condițiile de utilizare propuse, L-valina produsă de Corynebacterium glutamicum CGMCC 18932 este sigură pentru speciile-țintă, atunci când este suplimentată la regimul alimentar în cantități adecvate, în funcție de nevoile nutriționale ale speciilor-țintă, și că este sigură pentru consumatori și pentru mediu. Autoritatea nu a putut concluziona cu privire la potențialul L-valinei produse de Corynebacterium glutamicum CGMCC 18932 de a fi iritantă pentru piele sau ochi sau de a fi sensibilizant pentru piele, dar a concluzionat că este probabilă expunerea prin inhalare. De asemenea, autoritatea a concluzionat că substanța este privită drept o sursă eficientă de aminoacid esențial L-valină pentru animalele nerumegătoare și că, pentru ca substanța să fie pe deplin eficace la rumegătoare, aceasta trebuie să fie protejată contra degradării în rumen. Autoritatea nu a considerat că este necesar să se prevadă cerințe specifice de monitorizare ulterioară introducerii pe piață. În plus, autoritatea a verificat raportul privind metoda de analiză a aditivului în hrana pentru animale prezentat de laboratorul de referință înființat în temeiul Regulamentului (CE) nr. 1831/2003.
+(5) Având în vedere cele de mai sus, Comisia consideră că L-valina produsă de Corynebacterium glutamicum CGMCC 18932 îndeplinește condițiile prevăzute la articolul 5 din Regulamentul (CE) nr. 1831/2003. În consecință, este necesar ca utilizarea substanței respective ca aditiv pentru hrana animalelor să fie autorizată. Este oportun ca utilizatorul să fie avertizat să țină seama de aportul alimentar cu toți aminoacizii esențiali și esențiali în anumite condiții, în special în cazul suplimentării cu L-valină prin intermediul apei de băut. În plus, Comisia consideră că este necesar să fie luate măsuri de protecție adecvate pentru a preveni efectele adverse asupra sănătății utilizatorilor aditivului.
+(6) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Autorizare
+Substanța specificată în anexă, aparținând categoriei „aditivi nutriționali” și grupei funcționale „aminoacizi, sărurile acestora și produse analoage”, este autorizată ca aditiv pentru hrana animalelor în condițiile prevăzute în anexă.
+Articolul 2
+Intrare în vigoare
+Prezentul regulament intră în vigoare în a douăzecea zi de la data publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 3 aprilie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 268, 18.10.2003, p. 29.
+(2) EFSA Journal 2023; 21(7):8104.
+ANEXĂ
+Numărul de identificare al aditivului pentru hrana animalelor | Aditivul | Compoziția, formula chimică, descrierea, metoda analitică | Specia sau categoria de animale | Vârsta maximă | Conținutul minim | Conținutul maxim | Alte dispoziții | Sfârșitul perioadei de autorizare
+mg/kg de hrană completă pentru animale cu un conținut de umiditate de 12 %
+Categorie: aditivi nutriționali. Grupa funcțională: aminoacizi, sărurile acestora și produse analoage
+3c373 | L-valină | Compoziția aditivului L-valină cu un conținut minim de 98 % (raportat la substanța uscată) și un conținut maxim de apă de 0,5 %. Formă solidă Caracterizarea substanței active L-valină [acid (2S)-2-amino-3-metilbutanoic] produsă de Corynebacterium glutamicum CGMCC 18932 Formula chimică: C5H11NO2 Numărul CAS: 72-18-4 Metoda analitică (1) Pentru identificarea L-valinei în aditivul destinat hranei pentru animale: — Codexul substanțelor chimice din alimente (Food Chemical Codex) „Monografia L-valinei” Pentru cuantificarea valinei din aditivul destinat hranei pentru animale: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și cu detecție optică (IEC-VIS) Pentru cuantificarea valinei din preamestecuri și din hrana combinată pentru animale: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și detecție optică (IEC-VIS) – Regulamentul (CE) nr. 152/2009 al Comisiei(2) (anexa III, partea F) Pentru cuantificarea valinei în apă: — cromatografie prin schimb ionic cuplată cu derivatizare post-coloană și cu detecție optică (IEC-VIS sau IEC-VIS/FLD) | Toate speciile de animale | — | — | — | 1. În instrucțiunile de utilizare a aditivului și a preamestecurilor se menționează condițiile de depozitare și stabilitatea la tratament termic și în apă. 2. Aditivul poate fi utilizat prin intermediul apei de băut. 3. Declarația care trebuie menționată pe eticheta aditivului și a preamestecurilor: „Suplimentarea cu L_valină, îndeosebi prin intermediul apei de băut, trebuie să țină seama de toți aminoacizii esențiali și condiționat esențiali, pentru a se evita dezechilibrele.” 4. Pentru utilizatorii aditivului și ai preamestecurilor, operatorii din sectorul hranei pentru animale trebuie să stabilească proceduri operaționale și măsuri organizatorice pentru a contracara riscurile potențiale care rezultă din utilizarea lor. În cazul în care riscurile respective nu pot fi eliminate prin astfel de proceduri și de măsuri, aditivul și preamestecurile se utilizează cu echipamente individuale de protecție cutanată, oculară și respiratorie. | 24 aprilie 2034
+(1) Detaliile metodelor analitice sunt disponibile la următoarea adresă a laboratorului de referință: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_ro.
+(2) Regulamentul (CE) nr. 152/2009 al Comisiei din 27 ianuarie 2009 de stabilire a metodelor de eșantionare și analiză pentru controlul oficial al furajelor (JO L 54, 26.2.2009, p. 1).
+ELI: http://data.europa.eu/eli/reg_impl/2024/997/oj
