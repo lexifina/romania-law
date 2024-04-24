@@ -1,0 +1,264 @@
+{
+ "key": "dcc-150-2024",
+ "label": "Decizia CCR nr. 150/2024",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "150",
+ "date": "2024-03-20",
+ "year": "2024",
+ "heading": "DECIZIA nr. 150 din 20 martie 2024",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor Legii pentru completarea art. 24^1 alin. (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "381",
+  "bis": false,
+  "date": "2024-04-24",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "25A/2024"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "24-1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de Președintele României și constată că dispozițiile Legii pentru completarea art. 24^1 alin. (2) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "24-1",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "4"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea pentru completarea Ordonanței de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "lege/2002/195"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "77",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "4",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "61",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "80",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul ministrului transporturilor nr. 75/2014",
+    "number": "75",
+    "year": "2014"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-04-24",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282030",
+  "text_sha256": "9132e9d8c90ac9f409c7621534cc608b4298535a446f8fab2ab749b4cfd39c8f",
+  "catalogue_sha256": "9132e9d8c90ac9f409c7621534cc608b4298535a446f8fab2ab749b4cfd39c8f",
+  "fetched": "2026-11-06T03:15:40Z",
+  "chars": 37956,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/282030",
+   "timestamp": "20240530125129",
+   "crawl": "CC-MAIN-2024-22",
+   "filename": "crawl-data/CC-MAIN-2024-22/segments/1715971667627.93/warc/CC-MAIN-20240530114606-20240530144606-00066.warc.gz",
+   "offset": "305370475",
+   "length": "32095",
+   "sha256": "4019492c2f34f491e58cd625fc0dec5405ad23510361bce343228036a6972a4e"
+  },
+  "portal_id": "282030",
+  "tip": "DECIZIE"
+ }
+}
