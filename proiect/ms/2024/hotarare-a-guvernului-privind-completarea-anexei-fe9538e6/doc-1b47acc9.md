@@ -1,0 +1,22 @@
+Guvernul României
+
+HOTĂRÂRE
+
+privind completarea Anexei la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate
+
+    În temeiul art. 108 din Constituția României, republicată,
+
+    Guvernul României adoptă prezenta hotărâre:
+
+    Art. I – Anexa la Hotărârea Guvernului nr. 720/2008 pentru aprobarea Listei cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, republicată în Monitorul Oficial al României, Partea I, nr. 479 din 5 iunie 2020, cu modificările și completările ulterioare, se modifică și se completează după cum urmează:
+
+    1. În sublista E «DCI-uri corespunzătoare medicamentelor imunologice folosite pentru producerea imunității active (sau folosite pentru prevenirea unor boli transmisibile), de care beneficiază unele segmente populaționale în tratamentul ambulatoriu», la secțiunea E2: «DCI-uri corespunzătoare medicamentelor imunologice folosite pentru producerea imunității active (sau folosite pentru prevenirea unor boli transmisibile), de care beneficiază unele segmente populaționale în tratamentul ambulatoriu în regim de compensare 100% din prețul de referință», după poziția 13 se adaugă o nouă poziție, poziția 14, cu următorul cuprins:
+
+Art. II - Prevederile prezentei hotărâri intră în vigoare la data publicării în Monitorul Oficial al României, Partea I.
+
+PRIM-MINISTRU
+ION-MARCEL CIOLACU
+
+Nr.
+crt. | DCI | Cod ATC
+14. | Vaccin pneumococic polizaharidic CONJ. 23-VALENT ADS** | J07AL02
