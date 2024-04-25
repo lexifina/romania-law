@@ -1,0 +1,134 @@
+{
+ "key": "iccj-hp-14-2024",
+ "label": "Decizia ÎCCJ nr. 14/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "14",
+ "date": "2024-03-25",
+ "year": "2024",
+ "heading": "DECIZIA nr. 14 din 25 martie 2024",
+ "subtitle": "referitoare la interpretarea dispozițiilor art. 697 alin. (2) teza a doua din Codul de procedură civilă",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "390",
+  "bis": false,
+  "date": "2024-04-25",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "121/1/2024",
+  "25.360/302/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a V-a civilă, în Dosarul nr. 25.360/302/2019, în vederea pronunțării unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "Interpretarea dispozițiilor art. 697 alin. (2) teza a doua din Codul de procedură civilă, respectiv dacă termenul de perimare a executării silite curge de la data cererii de suspendare a executării silite formulate de creditor sau de la data solicitării scrise a executorului judecătoresc privind îndeplinirea de către creditor a unui act sau demers necesar executării silite, anterioară cererii de suspendare a executării silite.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "697",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "627",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "651",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "634",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 59
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "cod/1865/procedura-civila",
+    "slug": "codul-procedura-civila-1865"
+   },
+   "articles": [
+    {
+     "art": "389",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-04-25",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282278",
+  "text_sha256": "8499eda59021599a93cbf11e0cd050380454dc13e8479275533fd6a1f1cd0fa9",
+  "catalogue_sha256": "8499eda59021599a93cbf11e0cd050380454dc13e8479275533fd6a1f1cd0fa9",
+  "fetched": "2026-11-03T01:11:47Z",
+  "chars": 55766,
+  "portal_id": "282278",
+  "tip": "DECIZIE"
+ }
+}
