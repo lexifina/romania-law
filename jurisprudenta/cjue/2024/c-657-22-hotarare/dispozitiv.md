@@ -1,0 +1,9 @@
+# CJUE, Hotărârea Curții (Camera a opta) din 25 aprilie 2024, Cauza C-657/22
+
+Pentru aceste motive, Curtea (Camera a opta) declară:
+1) Directiva 2003/96/CE a Consiliului din 27 octombrie 2003 privind restructurarea cadrului comunitar de impozitare a produselor energetice și a electricității și principiul proporționalității
+trebuie interpretate în sensul că
+se opun unor dispoziții sau unor practici naționale în temeiul cărora, în cazul reintroducerii în antrepozitul fiscal a unor produse energetice destinate utilizării drept combustibil, pentru a fi comercializate ulterior, lipsa notificării acestei reintroduceri autorității competente, precum și lipsa din notele de recepție și din facturile de stornare referitoare la aceste produse a unor indicații privind marcarea și colorarea produselor menționate determină, cu titlu de sancțiune pentru nerespectarea acestor condiții, aplicarea în cazul acelorași produse, indiferent de utilizarea lor reală, a ratei de acciză mai ridicate prevăzute pentru motorina destinată utilizării drept carburant.
+2) Articolul 2 alineatul (1) litera (a), articolul 63 și articolul 78 alineatul (1) litera (a) din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată
+trebuie interpretate în sensul că
+se opun unor dispoziții sau unor practici naționale în temeiul cărora, în cazul reintroducerii în antrepozitul fiscal a unor produse energetice destinate utilizării drept combustibil, se datorează taxa pe valoarea adăugată pentru suma stabilită de autoritatea fiscală cu titlu de acciză suplimentară, ca urmare a aplicării în cazul produselor menționate a ratei de acciză prevăzute pentru motorina destinată utilizării drept carburant, cu excepția cazului în care se efectuează o operațiune impozabilă constând într‑o livrare a produsului energetic în cauză în vederea utilizării sale drept carburant.
