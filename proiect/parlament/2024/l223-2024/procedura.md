@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-04-23: documents published: Aviz comisie
 - 2024-04-24: documents published: Raport comisie sesizată pe fond
+- 2024-04-29: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -24,3 +25,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: Aviz Consiliul Legislativ (LG): [lg-76219b82.md](lg-76219b82.md); official file https://www.senat.ro/legis/PDF/2024/24L223LG.PDF
 - 2024-04-23: Aviz comisie (CA45): [ca45-828acef9.md](ca45-828acef9.md); official file https://www.senat.ro/legis/PDF/2024/24L223CA45.PDF
 - 2024-04-24: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L223CR.PDF
+- 2024-04-29: Forma adoptată de Senat (FS): [fs-67da8028.md](fs-67da8028.md); official file https://www.senat.ro/legis/PDF/2024/24L223FS.PDF
+- 2024-04-29: Adresă către Camera Deputaților (AM): [am-94a1e8d3.md](am-94a1e8d3.md); official file https://www.senat.ro/legis/PDF/2024/24L223AM.PDF
