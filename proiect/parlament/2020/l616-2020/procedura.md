@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2020-12-28: returned for re-examination
 - 2021-04-06: adopted by the Senate
 - 2024-04-24: sent for promulgation
+- 2024-04-29: promulgated, becomes Legea nr. 117/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2020-10-07: Adresă către Camera Deputaților (AM): [am-164ca9ce.md](am-164ca9ce.md); official file https://www.senat.ro/legis/PDF/2020/20L616AM.PDF
 - 2020-10-14: Adresă privind sesizarea CCR (AXS): [axs-36ff60c9.md](axs-36ff60c9.md); official file https://www.senat.ro/legis/PDF/2020/20L616AXS.PDF
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-856516e4.md](lp-856516e4.md); official file https://www.senat.ro/legis/PDF/2020/20L616LP.PDF
+- 2024-04-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616DP.PDF
+- 2024-04-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616FP.PDF
