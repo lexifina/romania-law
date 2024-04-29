@@ -1,0 +1,7 @@
+# Anexa nr. 1: PROCEDURĂ de punere în aplicare a prevederilor art. 321^2 alin. (7) lit. b) din Legea nr. 227/2015 privind Codul fiscal 1. În situația în care România este stat membru de origine sau stat membru gazdă
+
+Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
+
+- Official web service (FreeWebService) document: 282330 (https://legislatie.just.ro/Public/DetaliiDocument/282330)
+- sha256 of that document's text as the service returned it: 9a9f3f34d7576813ac3b2f0287a9953e3126a826947513ae95c3b05c264e903e
+- Retrieved: 2026-11-03
