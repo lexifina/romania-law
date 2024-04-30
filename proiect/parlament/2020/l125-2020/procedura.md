@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-04-24: sent for promulgation
 - 2023-05-10: promulgated, becomes Legea nr. 115/2023
 - 2023-05-11: published in the Monitorul Oficial
+- 2024-04-30: adopted by the Senate
 
 ## Documents
 
