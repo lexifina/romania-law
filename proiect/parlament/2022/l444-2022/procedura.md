@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2023-12-18: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-20: sent for promulgation
 - 2024-04-29: promulgated, becomes Legea nr. 116/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2023-12-18: Forma trimisă la promulgare (LP): [lp-e1549d63.md](lp-e1549d63.md); official file https://www.senat.ro/legis/PDF/2022/22L444LP.PDF
 - 2024-04-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L444DP.PDF
 - 2024-04-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L444FP.PDF
+- 2024-04-30: Document (SC): [sc-70bfc80a.md](sc-70bfc80a.md); official file https://www.senat.ro/legis/PDF/2022/22L444SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (DC): [dc-11fa0dd5.md](dc-11fa0dd5.md); official file https://www.senat.ro/legis/PDF/2022/22L444DC.PDF (its day is not given by the bill file: shown from the last stage held)
