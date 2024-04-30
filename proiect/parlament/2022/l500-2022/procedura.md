@@ -18,6 +18,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-09: adopted by the Chamber of Deputies
 - 2024-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-20: sent for promulgation
+- 2024-04-30: promulgated, becomes Legea nr. 123/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2022-10-29: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L500AM.PDF
 - 2024-04-15: Adresă privind sesizarea CCR (AXS): [axs-25ed4610.md](axs-25ed4610.md); official file https://www.senat.ro/legis/PDF/2022/22L500AXS.PDF
 - 2024-04-15: Forma trimisă la promulgare (LP): [lp-6472be22.md](lp-6472be22.md); official file https://www.senat.ro/legis/PDF/2022/22L500LP.PDF
+- 2024-04-30: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L500DP.PDF
+- 2024-04-30: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L500FP.PDF
