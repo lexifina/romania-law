@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2023-12-16: sent for promulgation
 - 2024-04-29: promulgated, becomes Legea nr. 115/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -35,3 +36,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-11: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475LP.PDF
 - 2024-04-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475DP.PDF
 - 2024-04-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475FP.PDF
+- 2024-04-30: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (SC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L475DC.PDF (its day is not given by the bill file: shown from the last stage held)
