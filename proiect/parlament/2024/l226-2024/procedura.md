@@ -12,6 +12,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: documents published: Aviz Consiliul Legislativ, Aviz Consiliul Economic și Social
 - 2024-04-23: documents published: Aviz comisie
 - 2024-04-29: documents published: Aviz comisie
+- 2024-04-30: documents published: Aviz comisie
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-03-11: Aviz Consiliul Economic și Social (ES): [es-8f72a7fb.md](es-8f72a7fb.md); official file https://www.senat.ro/legis/PDF/2024/24L226ES.PDF
 - 2024-04-23: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L226CA3.PDF
 - 2024-04-29: Aviz comisie (CA43): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L226CA43.PDF
+- 2024-04-30: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L226CA19.PDF
