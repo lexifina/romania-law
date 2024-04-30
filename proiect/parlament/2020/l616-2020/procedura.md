@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2021-04-06: adopted by the Senate
 - 2024-04-24: sent for promulgation
 - 2024-04-29: promulgated, becomes Legea nr. 117/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-04-30: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,12 @@ Initiator: Guvernul României.
 - 2020-10-14: Forma trimisă la promulgare (LP): [lp-856516e4.md](lp-856516e4.md); official file https://www.senat.ro/legis/PDF/2020/20L616LP.PDF
 - 2024-04-29: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616DP.PDF
 - 2024-04-29: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616FP.PDF
+- 2024-04-30: Document (SC): [sc-d34aa228.md](sc-d34aa228.md); official file https://www.senat.ro/legis/PDF/2020/20L616SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616DC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (RX): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L616RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (XA): [xa-ddd2a88f.md](xa-ddd2a88f.md); official file https://www.senat.ro/legis/PDF/2020/20L616XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (CX): [cx-d49a663d.md](cx-d49a663d.md); official file https://www.senat.ro/legis/PDF/2020/20L616CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (XD): [xd-58ab1b29.md](xd-58ab1b29.md); official file https://www.senat.ro/legis/PDF/2020/20L616XD.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (SX): [sx-81495a7a.md](sx-81495a7a.md); official file https://www.senat.ro/legis/PDF/2020/20L616SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (XXS): [xxs-0445dacc.md](xxs-0445dacc.md); official file https://www.senat.ro/legis/PDF/2020/20L616XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-04-30: Document (PX): [px-1a26803f.md](px-1a26803f.md); official file https://www.senat.ro/legis/PDF/2020/20L616PX.PDF (its day is not given by the bill file: shown from the last stage held)
