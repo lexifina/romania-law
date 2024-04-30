@@ -1,0 +1,271 @@
+{
+ "key": "dcc-632-2023",
+ "label": "Decizia CCR nr. 632/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "632",
+ "date": "2023-11-21",
+ "year": "2023",
+ "heading": "DECIZIA nr. 632 din 21 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 434 alin. (2) lit. e) și ale art. 438 alin. (1) din Codul de procedură penală, precum și ale art. 102 pct. 267 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "404",
+  "bis": false,
+  "date": "2024-04-30",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.683/277/2016",
+  "407D/2019",
+  "2.775/1/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "434",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 434 alin. (2) lit. e) din Codul de procedură penală, excepție ridicată de Societatea Ageas Insurance Ltd., prin mandatar Avus International - S.R.L. din București, în Dosarul nr. 1.683/277/2016 al Înaltei Curți de Casație și Justiție - Secția penală.",
+  "2. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de aceeași autoare în același dosar al aceleiași instanțe și constată că dispozițiile art. 438 alin. (1) din Codul de procedură penală și ale art. 102 pct. 267 din Legea nr. 255/2013 pentru punerea în aplicare a Legii nr. 135/2010 privind Codul de procedură penală și pentru modificarea și completarea unor acte normative care cuprind dispoziții procesual penale sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Completul de 5 judecători și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "434",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "e"
+     ]
+    },
+    {
+     "art": "438",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "9",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 29
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 255/2013",
+    "number": "255",
+    "year": "2013",
+    "path": "lege/2013/255"
+   },
+   "articles": [
+    {
+     "art": "102",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 201/2023",
+    "number": "201",
+    "year": "2023",
+    "path": "lege/2023/201"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-04-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282374",
+  "text_sha256": "018a51ac51ad99cb86edce05cd68cfc4d756afe47dbbfae12f2a6bd149012242",
+  "catalogue_sha256": "018a51ac51ad99cb86edce05cd68cfc4d756afe47dbbfae12f2a6bd149012242",
+  "fetched": "2026-11-03T01:11:37Z",
+  "chars": 20256,
+  "portal_id": "282374",
+  "tip": "DECIZIE"
+ }
+}
