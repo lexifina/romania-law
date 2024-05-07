@@ -11,7 +11,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-04-30: registered at the Chamber of Deputies
+- 2024-05-07: adopted by the Chamber of Deputies; documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
-- none held as text
+- 2024-05-07: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L280CR.PDF
