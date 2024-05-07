@@ -9,7 +9,10 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-04-30: first record in the bill file
+- 2024-05-07: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ, Punct de vedere Guvern
 
 ## Documents
 
-- none held as text
+- 2024-05-07: Aviz Consiliul Economic și Social (ES): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L600ES.PDF
+- 2024-05-07: Aviz Consiliul Legislativ (LG): [lg-668745f7.md](lg-668745f7.md); official file https://www.senat.ro/legis/PDF/2024/24L600LG.PDF
+- 2024-05-07: Punct de vedere Guvern (SJ): [sj-9b912a31.md](sj-9b912a31.md); official file https://www.senat.ro/legis/PDF/2024/24L600SJ.PDF
