@@ -1,0 +1,42 @@
+{
+ "key": "cjue-c-4-23-concluzii-2024-05-07",
+ "label": "CJUE, Concluziile avocatului general J. Richard de la Tour prezentate la 7 mai 2024, Cauza C-4/23.",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "concluzii",
+ "act_type": "OPIN_AG",
+ "date": "2024-05-07",
+ "year": "2024",
+ "case": "Cauza C-4/23.",
+ "celex": "62023CC0004",
+ "ecli": "ECLI:EU:C:2024:385",
+ "heading": "Concluziile avocatului general J. Richard de la Tour prezentate la 7 mai 2024",
+ "formation": null,
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Judecătoria Sectorului 6 București.",
+ "national_followup": null,
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Cetățenia Uniunii – Articolele 20 și 21 TFUE – Articolele 7 și 45 din Carta drepturilor fundamentale a Uniunii Europene – Dreptul de liberă circulație și de liberă ședere pe teritoriul statelor membre – Cetățean al Uniunii care a obținut în mod legal, în timpul exercitării acestui drept și al șederii sale în alt stat membru, schimbarea prenumelui său și a identității sale de gen – Obligația statului membru de origine de a recunoaște și de a înscrie în actul de naștere această schimbare a prenumelui și a identității de gen – Reglementare națională care nu permite o astfel de recunoaștere și o asemenea înscriere, obligând persoana interesată să inițieze o nouă procedură, de natură judecătorească, de schimbare a identității de gen în statul membru de origine – Impactul retragerii Regatului Unit al Marii Britanii și Irlandei de Nord din Uniunea Europeană.",
+ "interprets": [],
+ "text": null,
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": null,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CC0004",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-4/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/ddea62aa-0c5a-11ef-a251-01aa75ed71a1.0016.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "cce365806662dc1c6628df1193cbf8674d8124e41564dfcc925f1e2042d5de1c"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)"
+}
