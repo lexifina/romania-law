@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-17: sent for promulgation
 - 2024-04-30: promulgated, becomes Legea nr. 122/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-07: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -38,3 +39,4 @@ Initiator: Guvernul României.
 - 2024-04-15: Forma trimisă la promulgare (LP): [lp-ecca0bb2.md](lp-ecca0bb2.md); official file https://www.senat.ro/legis/PDF/2024/24L003LP.PDF
 - 2024-04-30: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L003DP.PDF
 - 2024-04-30: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L003FP.PDF
+- 2024-05-07: Document (TA): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L003TA.PDF (its day is not given by the bill file: shown from the last stage held)
