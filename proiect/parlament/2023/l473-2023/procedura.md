@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-04-15: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-17: sent for promulgation
 - 2024-04-30: promulgated, becomes Legea nr. 119/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-07: published in the Monitorul Oficial
 
 ## Documents
 
