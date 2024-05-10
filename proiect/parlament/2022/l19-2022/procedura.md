@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-16: adopted by the Chamber of Deputies
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-24: sent for promulgation
+- 2024-05-10: promulgated, becomes Legea nr. 131/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Guvernul României.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-3f7f1add.md](am-3f7f1add.md); official file https://www.senat.ro/legis/PDF/2022/22L019AM.PDF
 - 2024-04-22: Adresă privind sesizarea CCR (AXS): [axs-0445dacc.md](axs-0445dacc.md); official file https://www.senat.ro/legis/PDF/2022/22L019AXS.PDF
 - 2024-04-22: Forma trimisă la promulgare (LP): [lp-be6de57f.md](lp-be6de57f.md); official file https://www.senat.ro/legis/PDF/2022/22L019LP.PDF
+- 2024-05-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L019DP.PDF
+- 2024-05-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L019FP.PDF
