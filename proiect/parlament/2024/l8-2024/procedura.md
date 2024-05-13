@@ -21,6 +21,7 @@ Initiator: Guvernul României.
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-24: sent for promulgation
 - 2024-05-10: promulgated, becomes Legea nr. 128/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-13: published in the Monitorul Oficial
 
 ## Documents
 
