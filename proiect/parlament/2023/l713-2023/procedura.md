@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-21: sent for promulgation
 - 2024-03-19: published in the Monitorul Oficial
 - 2024-05-10: promulgated, becomes Legea nr. 126/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-13: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-19: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713LP.PDF
 - 2024-05-10: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713DP.PDF
 - 2024-05-10: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713FP.PDF
+- 2024-05-13: Document (SC): [sc-c3aca077.md](sc-c3aca077.md); official file https://www.senat.ro/legis/PDF/2023/23L713SC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-05-13: Document (DC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L713DC.PDF (its day is not given by the bill file: shown from the last stage held)
