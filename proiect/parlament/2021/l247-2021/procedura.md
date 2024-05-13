@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-04-16: adopted by the Chamber of Deputies
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-24: sent for promulgation
+- 2024-05-13: promulgated, becomes Legea nr. 133/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,5 @@ Initiator: Guvernul României.
 - 2021-09-19: Adresă către Camera Deputaților (AM): [am-4f76da1b.md](am-4f76da1b.md); official file https://www.senat.ro/legis/PDF/2021/21L247AM.PDF
 - 2024-04-22: Adresă privind sesizarea CCR (AXS): [axs-0445dacc.md](axs-0445dacc.md); official file https://www.senat.ro/legis/PDF/2021/21L247AXS.PDF
 - 2024-04-22: Forma trimisă la promulgare (LP): [lp-df8aa2b3.md](lp-df8aa2b3.md); official file https://www.senat.ro/legis/PDF/2021/21L247LP.PDF
+- 2024-05-13: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L247DP.PDF
+- 2024-05-13: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L247FP.PDF
