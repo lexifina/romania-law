@@ -1,0 +1,17 @@
+# Propunere legislativă L363/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Propunere legislativă pentru modificarea art.168, alin (1), lit.a) din Legea nr.360/2023 privind sistemul public de pensii
+
+Initiator: Membri ai Parlamentului.
+
+## Stages published so far
+
+- 2024-05-14: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
+
+## Documents
+
+- 2024-05-14: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L363AD.PDF
+- 2024-05-14: Forma inițiatorului (FG): [fg-bc648c7e.md](fg-bc648c7e.md); official file https://www.senat.ro/legis/PDF/2024/24L363FG.PDF
+- 2024-05-14: Expunere de motive (EM): [em-ddb8c0a2.md](em-ddb8c0a2.md); official file https://www.senat.ro/legis/PDF/2024/24L363EM.PDF
