@@ -16,6 +16,7 @@ Initiator: Guvernul României.
 - 2024-03-04: documents published: Raport comisie sesizată pe fond
 - 2024-03-18: registered at the Chamber of Deputies
 - 2024-05-07: adopted by the Chamber of Deputies
+- 2024-05-15: sent for promulgation
 
 ## Documents
 
