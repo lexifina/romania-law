@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-16: adopted by the Chamber of Deputies
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-27: sent for promulgation
+- 2024-05-15: promulgated, becomes Legea nr. 143/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-18: Adresă către Camera Deputaților (AM): [am-92374cdc.md](am-92374cdc.md); official file https://www.senat.ro/legis/PDF/2023/23L638AM.PDF
 - 2024-04-22: Adresă privind sesizarea CCR (AXS): [axs-0445dacc.md](axs-0445dacc.md); official file https://www.senat.ro/legis/PDF/2023/23L638AXS.PDF
 - 2024-04-22: Forma trimisă la promulgare (LP): [lp-2132fce9.md](lp-2132fce9.md); official file https://www.senat.ro/legis/PDF/2023/23L638LP.PDF
+- 2024-05-15: Decret de promulgare (DP): [dp-a17f4dfb.md](dp-a17f4dfb.md); official file https://www.senat.ro/legis/PDF/2023/23L638DP.PDF
+- 2024-05-15: Forma promulgată (FP): [fp-6d5bd2be.md](fp-6d5bd2be.md); official file https://www.senat.ro/legis/PDF/2023/23L638FP.PDF
