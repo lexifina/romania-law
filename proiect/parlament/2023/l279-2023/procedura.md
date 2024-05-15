@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-27: sent for promulgation
 - 2024-05-14: promulgated, becomes Legea nr. 139/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-15: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-22: Forma trimisă la promulgare (LP): [lp-fa34afca.md](lp-fa34afca.md); official file https://www.senat.ro/legis/PDF/2023/23L279LP.PDF
 - 2024-05-14: Decret de promulgare (DP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L279DP.PDF
 - 2024-05-14: Forma promulgată (FP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L279FP.PDF
+- 2024-05-15: Document (SM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L279SM.PDF (its day is not given by the bill file: shown from the last stage held)
