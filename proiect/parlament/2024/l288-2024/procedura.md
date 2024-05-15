@@ -11,7 +11,11 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-19: registered at the Chamber of Deputies
 - 2024-04-15: documents published: Raport comisie sesizată pe fond
 - 2024-05-14: rejected by the Chamber of Deputies
+- 2024-05-15: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 
 ## Documents
 
 - 2024-04-15: Raport comisie sesizată pe fond (CR): [cr-8ab118da.md](cr-8ab118da.md); official file https://www.senat.ro/legis/PDF/2024/24L288CR.PDF
+- 2024-05-15: Adresă de înaintare a inițiativei (AD): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L288AD.PDF
+- 2024-05-15: Forma inițiatorului (FG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L288FG.PDF
+- 2024-05-15: Expunere de motive (EM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L288EM.PDF
