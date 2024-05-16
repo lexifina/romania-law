@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-22: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-04-27: sent for promulgation
 - 2024-05-15: promulgated, becomes Legea nr. 140/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-16: published in the Monitorul Oficial
 
 ## Documents
 
