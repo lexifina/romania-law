@@ -1,0 +1,174 @@
+{
+ "key": "dcc-47-2024",
+ "label": "Decizia CCR nr. 47/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "47",
+ "date": "2024-01-30",
+ "year": "2024",
+ "heading": "DECIZIA nr. 47 din 30 ianuarie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 19, ale art. 33 alin. (1) și (3) și ale art. 36 alin. (1) și (3) din Ordonanța Guvernului nr. 65/1994 privind organizarea activității de expertiză contabilă și a contabililor autorizați",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "455",
+  "bis": false,
+  "date": "2024-05-16",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.241/59/2018",
+  "2.890D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 65/1994",
+    "number": "65",
+    "year": "1994",
+    "path": "og/1994/65"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 19, ale art. 33 alin. (1) și (3) și ale art. 36 alin. (1) și (3) din Ordonanța Guvernului nr. 65/1994 privind organizarea activității de expertiză contabilă și a contabililor autorizați, excepție ridicată de Petru Bădăluță în Dosarul nr. 1.241/59/2018 al Curții de Apel Timișoara - Secția contencios administrativ și fiscal.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Timișoara - Secția contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 65/1994",
+    "number": "65",
+    "year": "1994",
+    "path": "og/1994/65"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-16",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/282973",
+  "text_sha256": "ef4368fb6100515b20eecfd94318c810874671c105f533b17e22ffda28f3deaf",
+  "catalogue_sha256": "ef4368fb6100515b20eecfd94318c810874671c105f533b17e22ffda28f3deaf",
+  "fetched": "2026-11-03T01:11:06Z",
+  "chars": 12374,
+  "portal_id": "282973",
+  "tip": "DECIZIE"
+ }
+}
