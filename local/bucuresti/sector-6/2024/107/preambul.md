@@ -1,0 +1,19 @@
+Văzând Referatul de aprobare al Primarului Sectorului 6, Nota de Fundamentare a Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 nr. D/4403/28.03.2024 și Raportul de specialitate al Serviciului Juridic și Contencios Administrativ nr. 102/14.05.2024, din cadrul aparatului de specialitate al Primarului Sectorului 6;
+Luând în considerare avizele Comisiilor de specialitate ale Consiliului Local al Sectorului 6 nr. 4 și nr. 5;
+Ținând seama de:
+- Legea nr. 198/2023 - învățământului preuniversitar, cu modificările și completările ulterioare;
+- Legea nr. 292/2011 a asistenței sociale, cu modificările și completările ulterioare;
+- Legea nr. 272/2004 privind protecția și promovarea drepturilor copilului, cu modificările și completările ulterioare;
+- Legea nr. 17/2022 privind aprobarea Ordonanței de Urgență a Guvernului nr. 100/2021 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și abrogarea unor acte normative din domeniul protecției sociale;
+- Hotărârea nr. 566/2022 privind aprobarea Metodologiei de organizare și funcționare a creșelor și a altor unități de educație timpurie antepreșcolară, cu modificările și completările ulterioare;
+- Hotărârea Consiliului Local al Sectorului 6 nr. 51/09.03.2022 pentru reorganizarea centrelor de zi de tip creșă, aflate în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6 în structuri de creșă, unități de educație timpurie și îngrijire pentru copii de vârstă antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6;
+- Hotărârea Consiliului Local al Sectorului 6 nr. 1/18.01.2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat și particular de pe raza Sectorului 6 al Municipiului București pe anul școlar 2024 – 2025;
+- Hotărârea Consiliului Local al Sectorului 6 nr. 306/21.12.2022 privind aprobarea Organigramei, Statului de funcții și numărului de personal al Creșei Neghiniță, unitate de educație antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și protecția Copilului Sector 6;
+- Hotărârea Consiliului Local al Sectorului 6 nr. 307/21.12.2022 privind aprobarea Organigramei, Statului de funcții și numărului de personal al Creșei Pinocchio, unitate de educație antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și Protecția Copilului Sector 6;
+- Hotărârea Consiliului Local al Sectorului 6 nr. 308/21.12.2022 privind aprobarea Organigramei, Statului de funcții și numărului de personal al Creșei Harap Alb, unitate de educație antepreșcolară, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și protecția Copilului Sector 6;
+- Hotărârea Consiliului Local Sector 6 nr. 185/07.09.2023 privind aprobarea înfințării unității de educație timpurie antepreșcolară Creșa Îngerașii, cu personalitate juridică, în subordinea Direcției Generale de Asistență Socială și protecția Copilului Sector 6;
+ROMÂNIA CONSILIUL LOCAL AL SECTORULUI 6 AL MUNICIPIULUI BUCUREȘTI
+- Ordinul Ministerului Educației nr. 4018/2024 privind aprobarea Metodologiei-cadru de înscriere a copiilor în unități de învățământ preuniversitar cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar și în servicii de educație timpurie complementare și a Calendarului înscrierii copiilor antepreșcolari și preșcolari în anul școlar 2024-2025 în unități de învățământ preuniversitar cu personalitate juridică cu grupe de nivel preșcolar și/sau antepreșcolar și în servicii de educație timpurie complementare;
+În temeiul dispozițiilor art. 139 alin. (1), precum și cele ale art. 166 alin. (2) lit. p), art. 196 alin. (1) lit. a) și art. 197 din O.U.G. nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare;
+Consiliul Local al Sectorului 6
+HOTĂRĂȘTE:
