@@ -1,0 +1,102 @@
+{
+ "key": "cedo-22415-22-2024-03-12",
+ "label": "CEDO, Toader c. României, 2024-03-12",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2024-03-12",
+ "year": "2024",
+ "heading": "HOTĂRÂREA din 12 martie 2024",
+ "subtitle": "în Cauza Toader împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "461",
+  "bis": false,
+  "date": "2024-05-20",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "22415/22"
+ ],
+ "case_name": "Toader",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze admisibilitatea și temeinicia capătului de cerere formulat în temeiul art. 14 din Convenție, coroborat cu art. 8 din Convenție;",
+  "4. hotărăște: (a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, suma de 10.000 EUR (zece mii de euro), plus orice sumă ce poate fi datorată cu titlu de impozit, pentru prejudiciul moral, sumă care trebuie convertită în moneda națională a statului pârât la rata de schimb aplicabilă la data plății;",
+  "(b) că, de la expirarea termenului menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "41",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283070",
+  "text_sha256": "5fb52d242c4fc5f31d0aa3691c8c06338490a0a82605997342ef906949c67995",
+  "catalogue_sha256": "5fb52d242c4fc5f31d0aa3691c8c06338490a0a82605997342ef906949c67995",
+  "fetched": "2026-11-03T01:11:07Z",
+  "chars": 15316,
+  "portal_id": "283070",
+  "tip": "HOTĂRÂRE"
+ }
+}
