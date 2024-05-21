@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-04-22: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-04-29: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-07: sent for promulgation
+- 2024-05-21: promulgated, becomes Legea nr. 144/2024; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -29,3 +30,6 @@ Initiator: Guvernul României.
 - 2024-04-22: Forma adoptată de Senat (FS): [fs-29f90d16.md](fs-29f90d16.md); official file https://www.senat.ro/legis/PDF/2024/24L151FS.PDF
 - 2024-04-29: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L151AXS.PDF
 - 2024-04-29: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L151LP.PDF
+- 2024-05-21: Document (AL): [al-f9433719.md](al-f9433719.md); official file https://www.senat.ro/legis/PDF/2024/24L151AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-05-21: Decret de promulgare (DP): [dp-03d3a48b.md](dp-03d3a48b.md); official file https://www.senat.ro/legis/PDF/2024/24L151DP.PDF
+- 2024-05-21: Forma promulgată (FP): [fp-7b270a83.md](fp-7b270a83.md); official file https://www.senat.ro/legis/PDF/2024/24L151FP.PDF
