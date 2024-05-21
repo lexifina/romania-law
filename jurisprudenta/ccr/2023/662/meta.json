@@ -1,0 +1,321 @@
+{
+ "key": "dcc-662-2023",
+ "label": "Decizia CCR nr. 662/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "662",
+ "date": "2023-11-28",
+ "year": "2023",
+ "heading": "DECIZIA nr. 662 din 28 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 68 alin. (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "465",
+  "bis": false,
+  "date": "2024-05-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "47.645/3/2017/a3",
+  "2.206D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gabriel Florin Andrei în Dosarul nr. 47.645/3/2017/a3 al Curții de Apel București - Secția a II-a penală și constată că dispozițiile art. 68 alin. (7) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a II-a penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "68",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "408",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "409",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "410",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "411",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "412",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "413",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "414",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "415",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "416",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "417",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "418",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "419",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "420",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "421",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "422",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "423",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "424",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "64",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 7",
+    "path": null,
+    "slug": "conventia-edo-protocolul-7"
+   },
+   "articles": [
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283080",
+  "text_sha256": "fd274de348ff91ec61242b84cc9a2286fd6f1804b2c6f82627ed2b974e784e13",
+  "catalogue_sha256": "fd274de348ff91ec61242b84cc9a2286fd6f1804b2c6f82627ed2b974e784e13",
+  "fetched": "2026-11-03T01:10:58Z",
+  "chars": 22588,
+  "portal_id": "283080",
+  "tip": "DECIZIE"
+ }
+}
