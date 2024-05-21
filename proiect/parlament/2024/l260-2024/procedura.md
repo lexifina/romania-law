@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-05-07: documents published: Aviz comisie
 - 2024-05-14: documents published: Raport comisie sesizată pe fond
+- 2024-05-21: rejected by the Senate; documents published: Adresă către Camera Deputaților
 
 ## Documents
 
@@ -22,3 +23,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-22: Expunere de motive (EM): [em-1a5240d9.md](em-1a5240d9.md); official file https://www.senat.ro/legis/PDF/2024/24L260EM.PDF
 - 2024-05-07: Aviz comisie (CA58): [ca58-a1175f4b.md](ca58-a1175f4b.md); official file https://www.senat.ro/legis/PDF/2024/24L260CA58.PDF
 - 2024-05-14: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L260CR.PDF
+- 2024-05-21: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L260AM.PDF
