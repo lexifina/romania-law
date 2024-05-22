@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-13: documents published: Aviz comisie
 - 2024-05-14: documents published: Aviz comisie
 - 2024-05-21: documents published: Aviz comisie
+- 2024-05-22: documents published: Aviz comisie
 
 ## Documents
 
@@ -29,3 +30,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-14: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259CA49.PDF
 - 2024-05-14: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259CA56.PDF
 - 2024-05-21: Aviz comisie (CA41): [ca41-3187118e.md](ca41-3187118e.md); official file https://www.senat.ro/legis/PDF/2024/24L259CA41.PDF
+- 2024-05-22: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L259CA3.PDF
