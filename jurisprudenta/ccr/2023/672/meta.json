@@ -1,0 +1,290 @@
+{
+ "key": "dcc-672-2023",
+ "label": "Decizia CCR nr. 672/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "672",
+ "date": "2023-11-28",
+ "year": "2023",
+ "heading": "DECIZIA nr. 672 din 28 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 62 alin. 2 și 3 din Legea nr. 58/1934 asupra cambiei și biletului la ordin, precum și ale art. 718 din Codul de procedură civilă raportat la art. 483 alin. (2) teza a doua din Codul de procedură civilă",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "474",
+  "bis": false,
+  "date": "2024-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "2.170/245/2017",
+  "3.041D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1934",
+    "number": "58",
+    "year": "1934",
+    "path": "lege/1934/58"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "718",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Construcții Hidrotehnice - S.A. din Iași în Dosarul nr. 2.170/245/2017* al Curții de Apel Iași - Secția civilă și constată că dispozițiile art. 62 alin. 2 și 3 din Legea nr. 58/1934 asupra cambiei și biletului la ordin și ale art. 718 din Codul de procedură civilă sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 483 alin. (2) teza a doua din Codul de procedură civilă, excepție ridicată de aceeași autoare în același dosar al aceleiași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Iași - Secția civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 58/1934",
+    "number": "58",
+    "year": "1934",
+    "path": "lege/1934/58"
+   },
+   "articles": [
+    {
+     "art": "62",
+     "alin": [
+      "2",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "718",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "129",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 76/2012",
+    "number": "76",
+    "year": "2012",
+    "path": "lege/2012/76"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenției pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 2/2013",
+    "number": "2",
+    "year": "2013",
+    "path": "lege/2013/2"
+   },
+   "articles": [
+    {
+     "art": "XVIII",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 95/2016",
+    "number": "95",
+    "year": "2016",
+    "path": "oug/2016/95"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283145",
+  "text_sha256": "f3b11e8b3953e3b61f0d320cbcaa163a2e0ffe09fe2fa156493a15b0ec3ef201",
+  "catalogue_sha256": "f3b11e8b3953e3b61f0d320cbcaa163a2e0ffe09fe2fa156493a15b0ec3ef201",
+  "fetched": "2026-11-03T01:11:00Z",
+  "chars": 22363,
+  "portal_id": "283145",
+  "tip": "DECIZIE"
+ }
+}
