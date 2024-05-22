@@ -1,0 +1,209 @@
+{
+ "key": "dcc-655-2023",
+ "label": "Decizia CCR nr. 655/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "655",
+ "date": "2023-11-28",
+ "year": "2023",
+ "heading": "DECIZIA nr. 655 din 28 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 342, ale art. 345 alin. (3) și ale art. 346 alin. (3) și (4) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "471",
+  "bis": false,
+  "date": "2024-05-22",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "4.421/63/2019/a1",
+  "755D/2020",
+  "4421/63/2019/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Gigi Vadik Zavera în Dosarul nr. 4.421/63/2019/a1 al Tribunalului Dolj - Secția penală și pentru cauze cu minori și constată că dispozițiile art. 342, ale art. 345 alin. (3) și ale art. 346 alin. (3) și (4) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dolj - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "342",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "3",
+      "6",
+      "5",
+      "4"
+     ],
+     "lit": [
+      "a",
+      "b",
+      "c"
+     ]
+    },
+    {
+     "art": "280",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "281",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "282",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "103",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 20
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-22",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283133",
+  "text_sha256": "3b20b7a1317aa6c91cb610d585c7a18f818cb3471ead33509e5b5a06827419f2",
+  "catalogue_sha256": "3b20b7a1317aa6c91cb610d585c7a18f818cb3471ead33509e5b5a06827419f2",
+  "fetched": "2026-11-03T01:11:01Z",
+  "chars": 17713,
+  "portal_id": "283133",
+  "tip": "DECIZIE"
+ }
+}
