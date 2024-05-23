@@ -14,6 +14,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-02: documents published: Aviz Consiliul Economic și Social, Aviz Consiliul Legislativ
 - 2024-05-13: documents published: Aviz comisie
 - 2024-05-14: documents published: Aviz comisie
+- 2024-05-23: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -24,3 +25,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-02: Aviz Consiliul Legislativ (LG): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L270LG.PDF
 - 2024-05-13: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L270CA3.PDF
 - 2024-05-14: Aviz comisie (CA45): [ca45-df9e2410.md](ca45-df9e2410.md); official file https://www.senat.ro/legis/PDF/2024/24L270CA45.PDF
+- 2024-05-23: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L270CR.PDF
