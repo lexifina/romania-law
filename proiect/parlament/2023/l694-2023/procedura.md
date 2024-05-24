@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-13: sent for promulgation
+- 2024-05-24: promulgated, becomes Legea nr. 147/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -34,3 +35,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-02-16: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L694AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L694AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L694LP.PDF
+- 2024-05-24: Decret de promulgare (DP): [dp-9b801106.md](dp-9b801106.md); official file https://www.senat.ro/legis/PDF/2023/23L694DP.PDF
+- 2024-05-24: Forma promulgată (FP): [fp-56ccadef.md](fp-56ccadef.md); official file https://www.senat.ro/legis/PDF/2023/23L694FP.PDF
