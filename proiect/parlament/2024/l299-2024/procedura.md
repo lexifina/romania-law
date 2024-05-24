@@ -1,0 +1,22 @@
+# Proiect de lege L299/2024
+
+Proiect / draft — not law. This text was never in force unless and until adopted; see the act it became.
+
+Became: Legea nr. 184/2025 (`legea-184-2025`).
+
+Proiect de lege privind aprobarea Ordonanţei de urgenţã a Guvernului nr.50/2024 pentru modificarea art.58 alin.(4) și (5) din Legea nr.448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap
+
+Initiator: Guvernul României.
+
+## Stages published so far
+
+- 2024-05-24: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+
+## Documents
+
+- 2024-05-24: Adresă de înaintare a inițiativei (AD): [ad-01a16f84.md](ad-01a16f84.md); official file https://www.senat.ro/legis/PDF/2024/24L299AD.PDF
+- 2024-05-24: Forma inițiatorului (FG): [fg-bbfcb0b3.md](fg-bbfcb0b3.md); official file https://www.senat.ro/legis/PDF/2024/24L299FG.PDF
+- 2024-05-24: Expunere de motive (EM): [em-8bbfdf78.md](em-8bbfdf78.md); official file https://www.senat.ro/legis/PDF/2024/24L299EM.PDF
+- 2024-05-24: Aviz Consiliul Legislativ (LG): [lg-adade91f.md](lg-adade91f.md); official file https://www.senat.ro/legis/PDF/2024/24L299LG.PDF
+- 2024-05-24: Document (OG): [og-54e932f3.md](og-54e932f3.md); official file https://www.senat.ro/legis/PDF/2024/24L299OG.PDF
+- 2024-05-24: Document (HG): [hg-0899740f.md](hg-0899740f.md); official file https://www.senat.ro/legis/PDF/2024/24L299HG.PDF
