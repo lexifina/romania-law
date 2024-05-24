@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-09: sent for promulgation
+- 2024-05-24: promulgated, becomes Legea nr. 149/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2021-09-19: Adresă către Camera Deputaților (AM): [am-661437d5.md](am-661437d5.md); official file https://www.senat.ro/legis/PDF/2021/21L246AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L246AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L246LP.PDF
+- 2024-05-24: Decret de promulgare (DP): [dp-86e7b3bf.md](dp-86e7b3bf.md); official file https://www.senat.ro/legis/PDF/2021/21L246DP.PDF
+- 2024-05-24: Forma promulgată (FP): [fp-50a14e81.md](fp-50a14e81.md); official file https://www.senat.ro/legis/PDF/2021/21L246FP.PDF
