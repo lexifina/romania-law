@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-13: documents published: Aviz comisie
 - 2024-05-21: documents published: Aviz comisie
 - 2024-05-23: documents published: Raport comisie sesizată pe fond
+- 2024-05-27: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-13: Aviz comisie (CA12): [ca12-32cdadf1.md](ca12-32cdadf1.md); official file https://www.senat.ro/legis/PDF/2024/24L252CA12.PDF
 - 2024-05-21: Aviz comisie (CA41): [ca41-49e9c7bb.md](ca41-49e9c7bb.md); official file https://www.senat.ro/legis/PDF/2024/24L252CA41.PDF
 - 2024-05-23: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252CR.PDF
+- 2024-05-27: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252FS.PDF
+- 2024-05-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L252AM.PDF
