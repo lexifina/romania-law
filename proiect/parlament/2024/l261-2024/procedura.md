@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-22: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-05-14: documents published: Raport comisie sesizată pe fond
 - 2024-05-21: rejected by the Senate; documents published: Adresă către Camera Deputaților
+- 2024-05-27: registered at the Chamber of Deputies
 
 ## Documents
 
