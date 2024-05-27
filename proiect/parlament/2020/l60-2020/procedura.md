@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-09: sent for promulgation
+- 2024-05-27: promulgated, becomes Legea nr. 158/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2020-03-02: Adresă către Camera Deputaților (AM): [am-94363485.md](am-94363485.md); official file https://www.senat.ro/legis/PDF/2020/20L060AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L060AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2020/20L060LP.PDF
+- 2024-05-27: Decret de promulgare (DP): [dp-c030aa2b.md](dp-c030aa2b.md); official file https://www.senat.ro/legis/PDF/2020/20L060DP.PDF
+- 2024-05-27: Forma promulgată (FP): [fp-1c346886.md](fp-1c346886.md); official file https://www.senat.ro/legis/PDF/2020/20L060FP.PDF
