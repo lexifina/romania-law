@@ -1,0 +1,10 @@
+# Anexa nr. 1 la regulament
+DECLARAȚIE privind confidențialitatea și imparțialitatea
+Subsemnatul/Subsemnata,......................................., membru(ă) în Comisia Națională a Artelor Spectacolului, constituită prin Ordinul ministrului culturii nr..........................., declar pe propria răspundere, sub sancțiunea falsului în declarații prevăzută de art. 326 din Codul penal, următoarele: a) nu am participat, direct sau indirect, prin soț/soție sau rude de gradul I, la pregătirea și/sau elaborarea documentațiilor depuse în vederea obținerii statutului de importanță națională de către solicitanții din cadrul sesiunii de avizare din perioada............;
+b) nu am avut în ultimii 2 ani și nu am, direct sau indirect, prin soț/soție sau rude de gradul I, în perioada de derulare a procedurii de analiză a documentațiilor depuse, raporturi contractuale încheiate cu instituția care solicită statutul de importanță națională;
+c) nu am niciun interes de natură să afecteze imparțialitatea mea pe parcursul procesului de deliberare în cadrul Comisiei Naționale a Artelor Spectacolului.
+Mă angajez să păstrez confidențialitatea informațiilor și datelor cu caracter personal și a celor care intră sub incidența protecției date de Legea nr. 8/1996 privind dreptul de autor și drepturile conexe, republicată, cu modificările și completările ulterioare, pe care le voi obține sau le voi afla ca efect al calității mele de membru al Comisiei Naționale a Artelor Spectacolului, pe toată durata mandatului și după încetarea acestuia, potrivit prevederilor legii.
+Mă angajez ca, în situația în care aș descoperi, pe durata exercitării mandatului comisiei, că mă aflu în una dintre situațiile arătate sau în afara angajamentelor de mai sus, voi declara imediat acest lucru.
+Declar că am luat cunoștință de prevederile Regulamentului de organizare și funcționare a Comisiei Naționale a Artelor Spectacolului, aprobat prin Ordinul ministrului culturii nr. 2.890/2024.
+Data................................
+Semnătura....................
