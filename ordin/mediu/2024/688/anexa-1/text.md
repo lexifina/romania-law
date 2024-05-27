@@ -1,0 +1,9 @@
+# ANEXĂ
+AMENAJAMENT SILVIC al fondului forestier proprietate privată aparținând persoanelor fizice
+Dobra Gheorghe, Vodislav Profira-Steluța-Alexandrina,
+Popescu Amuliu Gabriel, Albulescu Alexandru Victor,
+Popescu Alexe, Radu Ștefania, Voicu Alexe, Păun Oprea Maria,
+Voicu Mircea, Tiugan Marin Victor-Grig, Tiugan Iulian,
+Tiugan Nicoleta-Gabriela, Predoană Maria, Matei Damian,
+Bondrescu Aurel și Bondrescu Aurel-Silviu,
+Unitatea de Producție I Oltenii din Olt, județul Olt
