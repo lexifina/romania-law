@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-13: adopted by the Chamber of Deputies
 - 2024-05-15: registered at the Senate
 - 2024-05-27: documents published: Aviz comisie
+- 2024-05-28: documents published: Aviz comisie
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-11-21: Punct de vedere (PV): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L292PV.PDF
 - 2024-01-31: Aviz comisie (CA58): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L292CA58.PDF
 - 2024-05-27: Aviz comisie (CA3): [ca3-13604924.md](ca3-13604924.md); official file https://www.senat.ro/legis/PDF/2024/24L292CA3.PDF
+- 2024-05-28: Aviz comisie (CA45): [ca45-70240c3b.md](ca45-70240c3b.md); official file https://www.senat.ro/legis/PDF/2024/24L292CA45.PDF
+- 2024-05-28: Aviz comisie (CA12): [ca12-2e6495b3.md](ca12-2e6495b3.md); official file https://www.senat.ro/legis/PDF/2024/24L292CA12.PDF
