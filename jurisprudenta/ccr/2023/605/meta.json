@@ -1,0 +1,394 @@
+{
+ "key": "dcc-605-2023",
+ "label": "Decizia CCR nr. 605/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "605",
+ "date": "2023-11-21",
+ "year": "2023",
+ "heading": "DECIZIA nr. 605 din 21 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 24 alin. (1^1) și (3) și ale art. 27 alin. (2^3) din Legea fondului funciar nr. 18/1991, cu modificările și completările ulterioare",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "493",
+  "bis": false,
+  "date": "2024-05-28",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "1.233/337/2021",
+  "2.883D/2021",
+  "2.126D/2022",
+  "1.527D/2023"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2-3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 24 alin. (1^1) și (3) și ale art. 27 alin. (2^3) din Legea fondului funciar nr. 18/1991, cu modificările și completările ulterioare, excepție ridicată de Comisia județeană Sălaj pentru stabilirea dreptului de proprietate privată asupra terenurilor, Comisia municipală Cluj-Napoca pentru stabilirea dreptului de proprietate privată asupra terenurilor, Comisia locală Cluj-Napoca pentru aplicarea Legii fondului funciar nr. 18/1991, Municipiul Cluj-Napoca, prin primar și Consiliul Local al Municipiului Cluj-Napoca, Comisia municipală Iași pentru stabilirea dreptului de proprietate privată asupra terenurilor și Municipiul Iași, prin primar, Judecătoria Cluj-Napoca - Secția civilă, Judecătoria Timișoara - Secția I civilă și Judecătoria Suceava - Secția civilă, din oficiu, Cristian Cosma și Ana Nicoleta Oltean, Georgeta Banu, Ana-Maria Negoțiu, Liviu-Alexandru Negoțiu și Dan-Florin Negoțiu, Stelian Mancaș și Elena-Fira Mancaș în dosarele nr. 1.233/337/2021, nr. 17.658/211/2020, nr. 5.604/211/2021, nr. 10.808/211/2019, nr. 19.293/211/2020, nr. 7.941/211/2021, nr. 3.375/211/2021, nr. 3.374/211/2021/a1, nr. 4.196/211/2021/a1, nr. 20.190/211/2021/a1, nr. 5.923/211/2021, nr. 15.554/211/2021/a1, nr. 10.808/211/2019, nr. 5.493/211/2021, nr. 16.723/211/2022/a1, nr. 20.783/211/2020, nr. 8.827/211/2021, nr. 5.923/211/2021, nr. 10.332/211/2021, nr. 11.109/211/2021, nr. 23.983/211/2020, nr. 22.463/211/2020, nr. 6.796/211/2021, nr. 10.527/211/2021, nr. 11.110/211/2021, nr. 12.686/211/2021, nr. 15.833/211/2021, nr. 16.978/211/2021, nr. 12.685/211/2021, nr. 6.862/211/2021, nr. 7.867/211/2021, nr. 7.103/211/2021, nr. 8.826/211/2021, nr. 9.959/211/2021, nr. 9.960/211/2021, nr. 10.941/211/2021, nr. 9.961/211/2021, nr. 20.316/211/2021, nr. 12.894/211/2021, nr. 9.963/211/2021, nr. 12.822/211/2021, nr. 14.622/211/2021, nr. 16.567/211/2021, nr. 23.989/211/2020, nr. 8.825/211/2021, nr. 14.195/211/2021, nr. 11.837/211/2021, nr. 12.823/211/2021, nr. 22.917/211/2021, nr. 21.920/211/2020, nr. 6.038/211/2021, nr. 12.821/211/2021, nr. 5.493/211/2021, nr. 3.730/211/2021, nr. 6.083/211/2022, nr. 19.942/211/2020, nr. 5.233/211/2022, nr. 1.679/211/2022, nr. 4.365/211/2022, nr. 6.081/211/2022, nr. 5.994/211/2021, nr. 1.725/211/2021, nr. 14.232/211/2021, nr. 6.083/211/2022, nr. 19.470/211/2020, nr. 3.691/211/2021, nr. 6.082/211/2022, nr. 9.641/211/2020, nr. 13.714/211/2022, nr. 19.686/211/2022, nr. 18.937/211/2021, nr. 14.195/211/2021, nr. 3.107/211/2022, nr. 10.946/211/2022, nr. 9.388/211/2022, nr. 3.310/211/2022, nr. 8.922/211/2022, nr. 12.825/211/2021/a1*, nr. 15.416/211/2022, nr. 8.920/211/2022, nr. 19.354/211/2022, nr. 20.371/211/2022, nr. 15.554/211/2021, nr. 9.938/211/2022, nr. 23.131/211/2022, nr. 25.699/211/2022, nr. 24.277/211/2022, nr. 20.690/211/2022, nr. 15.036/211/2022, nr. 26.384/211/2022, nr. 965/211/2022, nr. 1.137/211/2023, nr. 14.245/211/2022, nr. 25.974/211/2022, nr. 2.884/211/2023, nr. 2.344/211/2023, nr. 2.501/211/2023, nr. 22.544/211/2022, nr. 760/176/2021, nr. 3.293/176/2021, nr. 3.188/176/2021, nr. 696/175/2021/a1, nr. 27.779/325/2021*, nr. 27.817/325/2021*, nr. 33.173/325/2021*, nr. 27.472/325/2021*, nr. 1.796/233/2022, nr. 6.446/314/2021 și nr. 16.429/245/2021, ale Judecătoriei Zalău, Tribunalului Cluj - Secția civilă, Judecătoriei Cluj-Napoca - Secția civilă, Judecătoriei Alba Iulia, Judecătoriei Aiud, Judecătoriei Timișoara - Secția I civilă, Judecătoriei Galați - Secția civilă, Judecătoriei Suceava - Secția civilă și, respectiv, Tribunalului Iași - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Zalău, Tribunalului Cluj - Secția civilă, Judecătoriei Cluj-Napoca - Secția civilă, Judecătoriei Alba Iulia, Judecătoriei Aiud, Judecătoriei Timișoara - Secția I civilă, Judecătoriei Galați - Secția civilă, Judecătoriei Suceava - Secția civilă și Tribunalului Iași - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea fondului funciar nr. 18/1991",
+    "number": "18",
+    "year": "1991",
+    "path": "lege/1991/18"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": [
+      "3",
+      "1-1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "27",
+     "alin": [
+      "2-3"
+     ],
+     "lit": [
+      "b",
+      "a",
+      "c"
+     ]
+    },
+    {
+     "art": "36",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 112/1995",
+    "number": "112",
+    "year": "1995",
+    "path": "lege/1995/112"
+   },
+   "articles": [],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "lege/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 169/1997",
+    "number": "169",
+    "year": "1997",
+    "path": "lege/1997/169"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 247/2005",
+    "number": "247",
+    "year": "2005",
+    "path": "lege/2005/247"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 263/2022",
+    "number": "263",
+    "year": "2022",
+    "path": "lege/2022/263"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "136",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "61",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "142",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 16
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 231/2018",
+    "number": "231",
+    "year": "2018",
+    "path": "lege/2018/231"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretul-lege nr. 42/1990",
+    "number": "42",
+    "year": "1990",
+    "path": "decret-lege/1990/42"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "2",
+      "3",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "126",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 10/2001",
+    "number": "10",
+    "year": "2001",
+    "path": "lege/2001/10"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 165/2013",
+    "number": "165",
+    "year": "2013",
+    "path": "lege/2013/165"
+   },
+   "articles": [
+    {
+     "art": "12",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 87/2020",
+    "number": "87",
+    "year": "2020",
+    "path": "lege/2020/87"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 105/2019",
+    "number": "105",
+    "year": "2019",
+    "path": "lege/2019/105"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 237/2020",
+    "number": "237",
+    "year": "2020",
+    "path": "lege/2020/237"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-28",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283308",
+  "text_sha256": "d747c0e6807aab4b84a38ab6ba70c22cdb1bb677a8bf38a98c957d9c95af20e3",
+  "catalogue_sha256": "d747c0e6807aab4b84a38ab6ba70c22cdb1bb677a8bf38a98c957d9c95af20e3",
+  "fetched": "2026-11-03T01:10:50Z",
+  "chars": 66402,
+  "portal_id": "283308",
+  "tip": "DECIZIE"
+ }
+}
