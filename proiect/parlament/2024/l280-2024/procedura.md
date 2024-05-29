@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-08: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive
 - 2024-05-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
+- 2024-05-29: sent for promulgation
 
 ## Documents
 
