@@ -23,6 +23,7 @@ Initiator: Guvernul României.
 - 2021-07-22: returned for re-examination
 - 2024-02-21: returned for re-examination
 - 2024-05-21: returned for re-examination
+- 2024-05-29: sent for promulgation
 
 ## Documents
 
