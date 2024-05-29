@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-09: sent for promulgation
 - 2024-05-24: promulgated, becomes Legea nr. 151/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-29: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -39,3 +40,4 @@ Initiator: Guvernul României.
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L028LP.PDF
 - 2024-05-24: Decret de promulgare (DP): [dp-500ad349.md](dp-500ad349.md); official file https://www.senat.ro/legis/PDF/2023/23L028DP.PDF
 - 2024-05-24: Forma promulgată (FP): [fp-4020b43b.md](fp-4020b43b.md); official file https://www.senat.ro/legis/PDF/2023/23L028FP.PDF
+- 2024-05-29: Document (TA): [ta-2f3ef4b9.md](ta-2f3ef4b9.md); official file https://www.senat.ro/legis/PDF/2023/23L028TA.PDF (its day is not given by the bill file: shown from the last stage held)
