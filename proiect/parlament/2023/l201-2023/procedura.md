@@ -20,6 +20,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-13: sent for promulgation
+- 2024-05-29: promulgated, becomes Legea nr. 165/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Membri ai Parlamentului.
 - 2023-05-24: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L201AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L201AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L201LP.PDF
+- 2024-05-29: Decret de promulgare (DP): [dp-3528b6fb.md](dp-3528b6fb.md); official file https://www.senat.ro/legis/PDF/2023/23L201DP.PDF
+- 2024-05-29: Forma promulgată (FP): [fp-61c52fae.md](fp-61c52fae.md); official file https://www.senat.ro/legis/PDF/2023/23L201FP.PDF
