@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-13: sent for promulgation
+- 2024-05-29: promulgated, becomes Legea nr. 162/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -37,3 +38,5 @@ Initiator: Membri ai Parlamentului.
 - 2019-03-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L064AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L064AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2019/19L064LP.PDF
+- 2024-05-29: Decret de promulgare (DP): [dp-6c5335c3.md](dp-6c5335c3.md); official file https://www.senat.ro/legis/PDF/2019/19L064DP.PDF
+- 2024-05-29: Forma promulgată (FP): [fp-9d644332.md](fp-9d644332.md); official file https://www.senat.ro/legis/PDF/2019/19L064FP.PDF
