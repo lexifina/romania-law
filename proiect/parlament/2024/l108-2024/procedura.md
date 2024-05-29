@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-03-18: registered at the Chamber of Deputies
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-15: sent for promulgation
+- 2024-05-29: promulgated, becomes Legea nr. 163/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -28,3 +29,5 @@ Initiator: Guvernul României.
 - 2024-02-20: Aviz comisie (CA58): [ca58-2c4eb4a8.md](ca58-2c4eb4a8.md); official file https://www.senat.ro/legis/PDF/2024/24L108CA58.PDF
 - 2024-02-26: Aviz comisie (CA5): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L108CA5.PDF
 - 2024-03-04: Raport comisie sesizată pe fond (CR): [cr-8838b373.md](cr-8838b373.md); official file https://www.senat.ro/legis/PDF/2024/24L108CR.PDF
+- 2024-05-29: Decret de promulgare (DP): [dp-e0fccced.md](dp-e0fccced.md); official file https://www.senat.ro/legis/PDF/2024/24L108DP.PDF
+- 2024-05-29: Forma promulgată (FP): [fp-d93301d6.md](fp-d93301d6.md); official file https://www.senat.ro/legis/PDF/2024/24L108FP.PDF
