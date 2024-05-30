@@ -1,0 +1,106 @@
+{
+ "key": "cedo-65128-19-2023-04-18",
+ "label": "CEDO, Csata c. României, 2023-04-18",
+ "court": "cedo",
+ "kind": "hotarare",
+ "date": "2023-04-18",
+ "year": "2023",
+ "heading": "HOTĂRÂREA din 18 aprilie 2023",
+ "subtitle": "în Cauza Csata împotriva României",
+ "issuer": "CURTEA EUROPEANĂ A DREPTURILOR OMULUI - SECȚIA A PATRA",
+ "mo": {
+  "number": "503",
+  "bis": false,
+  "date": "2024-05-30",
+  "part": "I"
+ },
+ "outcome": "violation",
+ "findings": [
+  "violation"
+ ],
+ "applications": [
+  "65128/19"
+ ],
+ "case_name": "Csata",
+ "subjects": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenție",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "În unanimitate,",
+  "CURTEA:",
+  "1. declară cererea admisibilă;",
+  "2. hotărăște că a fost încălcat art. 8 din Convenție;",
+  "3. hotărăște că nu este necesar să examineze pe fond capătul de cerere întemeiat pe art. 14 din Convenție;",
+  "4. hotărăște: (a) că statul pârât trebuie să plătească reclamantei, în termen de trei luni, următoarele sume, care trebuie convertite în moneda națională a statului pârât la rata de schimb aplicabilă la data plății: (i)",
+  "7.500 EUR (șapte mii cinci sute de euro), cu titlu de despăgubire pentru prejudiciul moral, plus orice sumă ce poate fi datorată cu titlu de impozit;",
+  "(ii)",
+  "810 EUR (opt sute zece euro), pentru cheltuielile de judecată, plus orice sumă ce poate fi datorată de reclamantă cu titlu de impozit.",
+  "(b) că, de la expirarea termenului de trei luni menționat și până la efectuarea plății, aceste sume trebuie majorate cu o dobândă simplă, la o rată anuală egală cu rata dobânzii facilității de împrumut marginal practicată de Banca Centrală Europeană, aplicabilă pe parcursul acestei perioade și majorată cu trei puncte procentuale;",
+  "5. respinge cererea de acordare a unei reparații echitabile pentru celelalte capete de cerere."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "35",
+     "alin": [
+      "3"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 16
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Europeană a Drepturilor Omului",
+ "binding_from": null,
+ "text": "hotarare.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283378",
+  "text_sha256": "ac52b1df8793eada211631d3e79904dac748d06d2a7d83bb6355d7cc8671275f",
+  "catalogue_sha256": "ac52b1df8793eada211631d3e79904dac748d06d2a7d83bb6355d7cc8671275f",
+  "fetched": "2026-11-03T01:10:39Z",
+  "chars": 16722,
+  "portal_id": "283378",
+  "tip": "HOTĂRÂRE"
+ }
+}
