@@ -1,0 +1,355 @@
+{
+ "key": "dcc-79-2024",
+ "label": "Decizia CCR nr. 79/2024",
+ "court": "ccr",
+ "kind": "a-priori",
+ "subkind": "lege-inainte-de-promulgare",
+ "number": "79",
+ "date": "2024-02-14",
+ "year": "2024",
+ "heading": "DECIZIA nr. 79 din 14 februarie 2024",
+ "subtitle": "referitoare la obiecția de neconstituționalitate a dispozițiilor art. 15 alin. (1) și (3) cu referire la sintagma \"adunare generală\" și ale art. 33 alin. (3) și (4) din Legea tinerilor",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "500",
+  "bis": false,
+  "date": "2024-05-30",
+  "part": "I"
+ },
+ "outcome": "admitted",
+ "finds_unconstitutional": true,
+ "interpretive": false,
+ "partly": true,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.695A/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "proiect",
+    "label": "Legea tinerilor"
+   },
+   "articles": []
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, obiecția de neconstituționalitate formulată de Avocatul Poporului și constată că dispozițiile art. 15 alin. (1) și (3) cu referire la sintagma „adunare generală“ din Legea tinerilor sunt constituționale în raport cu criticile formulate.",
+  "2. Admite obiecția de neconstituționalitate formulată de Avocatul Poporului și constată că dispozițiile art. 33 alin. (3) și (4) din Legea tinerilor sunt neconstituționale.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Președintelui României, președinților celor două Camere ale Parlamentului și prim-ministrului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "decret-lege",
+    "label": "Decretului-lege nr. 150/1990",
+    "number": "150",
+    "year": "1990",
+    "path": "decret-lege/1990/150"
+   },
+   "articles": [],
+   "mentions": 27
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 166/2002",
+    "number": "166",
+    "year": "2002",
+    "path": "oug/2002/166"
+   },
+   "articles": [],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 146/2002",
+    "number": "146",
+    "year": "2002",
+    "path": "lege/2002/146"
+   },
+   "articles": [
+    {
+     "art": "19",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "4",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 42
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "67",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "33",
+     "alin": [
+      "3",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5",
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "49",
+     "alin": [
+      "5",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "77",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 17
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "16",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "18",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.a"
+     ]
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea tinerilor nr. 350/2006",
+    "number": "350",
+    "year": "2006",
+    "path": "lege/2006/350"
+   },
+   "articles": [
+    {
+     "art": "13",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 24
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanței Guvernului nr. 26/2000",
+    "number": "26",
+    "year": "2000",
+    "path": "og/2000/26"
+   },
+   "articles": [],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "decret",
+    "label": "Decretului nr. 31/1954",
+    "number": "31",
+    "year": "1954",
+    "path": "decret/1954/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 287/2009",
+    "number": "287",
+    "year": "2009",
+    "path": "lege/2009/287"
+   },
+   "articles": [
+    {
+     "art": "874",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea societăților nr. 31/1990",
+    "number": "31",
+    "year": "1990",
+    "path": "lege/1990/31"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 57/2019",
+    "number": "57",
+    "year": "2019",
+    "path": "oug/2019/57"
+   },
+   "articles": [
+    {
+     "art": "297",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "362",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "363",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-05-30",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283352",
+  "text_sha256": "d742a35be07d52ee67b9291ec4900749f43b48090a9d9f0f4644c6eaac1acb01",
+  "catalogue_sha256": "d742a35be07d52ee67b9291ec4900749f43b48090a9d9f0f4644c6eaac1acb01",
+  "fetched": "2026-11-04T18:41:45Z",
+  "chars": 94818,
+  "portal_id": "283352",
+  "tip": "DECIZIE"
+ }
+}
