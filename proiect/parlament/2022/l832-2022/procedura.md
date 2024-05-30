@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-15: sent for promulgation
+- 2024-05-30: promulgated, becomes Legea nr. 170/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2023-02-15: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L832AM.PDF
 - 2024-05-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L832AXS.PDF
 - 2024-05-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L832LP.PDF
+- 2024-05-30: Decret de promulgare (DP): [dp-8d14499a.md](dp-8d14499a.md); official file https://www.senat.ro/legis/PDF/2022/22L832DP.PDF
+- 2024-05-30: Forma promulgată (FP): [fp-9dee8e10.md](fp-9dee8e10.md); official file https://www.senat.ro/legis/PDF/2022/22L832FP.PDF
