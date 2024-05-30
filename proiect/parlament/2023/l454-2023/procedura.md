@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-04-30: adopted by the Chamber of Deputies
 - 2024-05-07: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-13: sent for promulgation
+- 2024-05-30: promulgated, becomes Legea nr. 167/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2023-10-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L454AM.PDF
 - 2024-05-07: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L454AXS.PDF
 - 2024-05-07: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L454LP.PDF
+- 2024-05-30: Decret de promulgare (DP): [dp-e3aebb6e.md](dp-e3aebb6e.md); official file https://www.senat.ro/legis/PDF/2023/23L454DP.PDF
+- 2024-05-30: Forma promulgată (FP): [fp-680bc34d.md](fp-680bc34d.md); official file https://www.senat.ro/legis/PDF/2023/23L454FP.PDF
