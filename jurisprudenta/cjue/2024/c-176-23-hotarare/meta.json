@@ -1,0 +1,58 @@
+{
+ "key": "cjue-c-176-23-hotarare-2024-05-30",
+ "label": "CJUE, Hotărârea Curții (Camera a opta) din 30 mai 2024, Cauza C-176/23",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-05-30",
+ "year": "2024",
+ "case": "Cauza C-176/23",
+ "celex": "62023CJ0176",
+ "ecli": "ECLI:EU:C:2024:443",
+ "heading": "Hotărârea Curții (Camera a opta) din 30 mai 2024",
+ "formation": "CHAMB_08_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Specializat Mureş",
+ "national_followup": [
+  "Tribunalul Specializat Mureş, decizia din 02/03/2021 (15890/32012017)"
+ ],
+ "parties": "UG împotriva SC Raiffeisen Bank SA",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Directiva 93/13/CEE – Clauze abuzive în contractele încheiate cu consumatorii – Articolul 1 alineatul (2) – Domeniu de aplicare – Excluderea clauzelor contractuale care reflectă acte cu putere de lege sau norme administrative obligatorii – Act adițional la un contract de credit notificat de profesionist consumatorului în vederea asigurării conformității acestuia cu o reglementare națională – Articolul 3 alineatul (2) – Clauză contractuală care nu s‑a negociat individual – Nesemnarea actului adițional de către consumator – Prezumție de acceptare tacită a acestui act adițional – Jurisprudență națională care exclude controlul jurisdicțional al caracterului abuziv al unei clauze contractuale cuprinse într‑un asemenea act adițional",
+ "interprets": [
+  {
+   "celex": "31993L0013",
+   "folder": "ue/directiva/1993/13"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62023CJ0176",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-176/23&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/c20dca1a-1e5d-11ef-a251-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "174a96653c95a87fc0e6537ac34777ec799a8706c89ebdb91668755702ed13db"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a opta) declară:",
+  "1) Articolul 1 alineatul (2) din Directiva 93/13/CEE a Consiliului din 5 aprilie 1993 privind clauzele abuzive în contractele încheiate cu consumatorii",
+  "trebuie interpretat în sensul că",
+  "nu se opune aprecierii caracterului abuziv al unor clauze cuprinse într‑un contract de credit de consum încheiat între un consumator și un profesionist în împrejurări în care acest profesionist a adus modificări acestor clauze pentru a asigura conformitatea acestui contract cu o reglementare națională imperativă referitoare la modalitățile de determinare a ratei dobânzii, dacă această reglementare nu face decât să stabilească un cadru general în vederea determinării ratei dobânzii aferente contractului respectiv, lăsând în același timp profesionistului menționat o marjă de apreciere în ceea ce privește atât alegerea indicelui de referință al acestei rate, cât și importanța marjei fixe pe care o poate adăuga la acesta din urmă.",
+  "2) Articolul 3 din Directiva 93/13",
+  "trebuie interpretat în sensul că",
+  "se opune unei jurisprudențe naționale în temeiul căreia modificările aduse de un profesionist clauzelor unui contract de credit de consum pentru a asigura conformitatea acestui contract cu o reglementare națională, care lasă o marjă de apreciere profesionistului, nu pot face obiectul unei examinări a caracterului lor eventual abuziv chiar dacă aceste clauze nu au fost negociate cu consumatorul."
+ ]
+}
