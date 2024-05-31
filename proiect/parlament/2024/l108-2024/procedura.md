@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-15: sent for promulgation
 - 2024-05-29: promulgated, becomes Legea nr. 163/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-05-31: published in the Monitorul Oficial
 
 ## Documents
 
