@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-14: adopted by the Chamber of Deputies
 - 2024-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-27: sent for promulgation
+- 2024-05-31: promulgated, becomes Legea nr. 172/2024; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -36,3 +37,6 @@ Initiator: Membri ai Parlamentului.
 - 2023-12-19: Aviz comisie (CA45): [ca45-77e5445f.md](ca45-77e5445f.md); official file https://www.senat.ro/legis/PDF/2023/23L604CA45.PDF
 - 2024-05-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L604AXS.PDF
 - 2024-05-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L604LP.PDF
+- 2024-05-31: Document (SM): [sm-5466451e.md](sm-5466451e.md); official file https://www.senat.ro/legis/PDF/2023/23L604SM.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-05-31: Decret de promulgare (DP): [dp-1d4d2aa8.md](dp-1d4d2aa8.md); official file https://www.senat.ro/legis/PDF/2023/23L604DP.PDF
+- 2024-05-31: Forma promulgată (FP): [fp-1257a559.md](fp-1257a559.md); official file https://www.senat.ro/legis/PDF/2023/23L604FP.PDF
