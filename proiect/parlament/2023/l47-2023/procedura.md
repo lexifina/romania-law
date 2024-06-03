@@ -19,6 +19,7 @@ Initiator: Membri ai Parlamentului.
 - 2023-09-27: published in the Monitorul Oficial
 - 2024-04-11: returned for re-examination
 - 2024-05-27: rejected by the Senate
+- 2024-06-03: documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -33,3 +34,10 @@ Initiator: Membri ai Parlamentului.
 - 2023-02-22: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047AM.PDF
 - 2023-04-03: Adresă privind sesizarea CCR (AXS): [axs-39e2d2d4.md](axs-39e2d2d4.md); official file https://www.senat.ro/legis/PDF/2023/23L047AXS.PDF
 - 2023-04-03: Forma trimisă la promulgare (LP): [lp-d4894a57.md](lp-d4894a57.md); official file https://www.senat.ro/legis/PDF/2023/23L047LP.PDF
+- 2024-06-03: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (SC1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047SC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (DC1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047DC1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (RX1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047RX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (XA1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047XA1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (CX1): [cx1-d8d241e0.md](cx1-d8d241e0.md); official file https://www.senat.ro/legis/PDF/2023/23L047CX1.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Document (XD1): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L047XD1.PDF (its day is not given by the bill file: shown from the last stage held)
