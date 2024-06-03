@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-18: sent for promulgation
+- 2024-06-03: promulgated, becomes Legea nr. 177/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2022-03-07: Adresă către Camera Deputaților (AM): [am-932ac720.md](am-932ac720.md); official file https://www.senat.ro/legis/PDF/2022/22L027AM.PDF
 - 2024-05-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L027AXS.PDF
 - 2024-05-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L027LP.PDF
+- 2024-06-03: Decret de promulgare (DP): [dp-4aa2e6aa.md](dp-4aa2e6aa.md); official file https://www.senat.ro/legis/PDF/2022/22L027DP.PDF
+- 2024-06-03: Forma promulgată (FP): [fp-9819064a.md](fp-9819064a.md); official file https://www.senat.ro/legis/PDF/2022/22L027FP.PDF
