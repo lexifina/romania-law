@@ -1,0 +1,8 @@
+# ANEXĂ la regulament
+Către
+COMISIA DE AUDIERE
+Domnule președinte/Doamnă președinte,
+Subsemnatul/Subsemnata,..................................., cu domiciliul în localitatea.........................., str.................... nr........, bl........, sc........, et......, ap......, cod poștal................, județul/sectorul.............., și reședința în localitatea.................., str.................. nr........, bl......, sc....., et......, ap....., cod poștal......., județul/sectorul..................., număr de telefon........................, adresă de e-mail.................................., identificat(ă) cu...... seria..... nr.................., eliberat(ă) de................. la data de..................., valabil(ă) până la data de..................., CNP......................................, legitimat(ă) la................................., reprezentat legal/convențional prin..........................., ca urmare a Notificării Agenției Naționale Anti-Doping nr........./..........., primită la data de..........., formulez prezenta
+CERERE DE SESIZARE A COMISIEI DE AUDIERE prin care solicit sesizarea Comisiei de audiere de pe lângă Agenția Națională Anti-Doping în vederea organizării audierii mele cu privire la posibila încălcare a reglementărilor anti-doping descrisă în notificare
+Poziția mea cu privire la posibila încălcare a reglementărilor anti-doping descrisă în notificare, precum și motivarea în fapt și în drept le voi menționa în fața completului de audiere sau într-un memoriu separat pe care îl voi formula și transmite completului de audiere potrivit dispozițiilor Regulamentului de organizare și funcționare al Comisiei de audiere.
+-----
