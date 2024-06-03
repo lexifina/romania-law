@@ -22,6 +22,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-18: sent for promulgation
+- 2024-06-03: promulgated, becomes Legea nr. 176/2024; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,6 @@ Initiator: Membri ai Parlamentului.
 - 2022-06-27: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L276AM.PDF
 - 2024-05-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L276AXS.PDF
 - 2024-05-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L276LP.PDF
+- 2024-06-03: Document (CC): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L276CC.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-03: Decret de promulgare (DP): [dp-dd23d01b.md](dp-dd23d01b.md); official file https://www.senat.ro/legis/PDF/2022/22L276DP.PDF
+- 2024-06-03: Forma promulgată (FP): [fp-c2e019e9.md](fp-c2e019e9.md); official file https://www.senat.ro/legis/PDF/2022/22L276FP.PDF
