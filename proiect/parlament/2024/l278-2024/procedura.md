@@ -11,6 +11,7 @@ Initiator: Guvernul României.
 ## Stages published so far
 
 - 2024-05-10: registered at the Senate; documents published: Adresă de înaintare a inițiativei, Forma inițiatorului, Expunere de motive, Aviz Consiliul Legislativ, Document
+- 2024-06-03: adopted by the Senate; documents published: Raport comisie sesizată pe fond, Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -20,3 +21,6 @@ Initiator: Guvernul României.
 - 2024-05-10: Aviz Consiliul Legislativ (LG): [lg-bc5ea530.md](lg-bc5ea530.md); official file https://www.senat.ro/legis/PDF/2024/24L278LG.PDF
 - 2024-05-10: Document (OG): [og-9a67ed71.md](og-9a67ed71.md); official file https://www.senat.ro/legis/PDF/2024/24L278OG.PDF
 - 2024-05-10: Document (HG): [hg-41506321.md](hg-41506321.md); official file https://www.senat.ro/legis/PDF/2024/24L278HG.PDF
+- 2024-06-03: Raport comisie sesizată pe fond (CR): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L278CR.PDF
+- 2024-06-03: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L278FS.PDF
+- 2024-06-03: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L278AM.PDF
