@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-05-07: adopted by the Chamber of Deputies
 - 2024-05-13: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-18: sent for promulgation
+- 2024-06-03: promulgated, becomes Legea nr. 175/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -31,3 +32,5 @@ Initiator: Guvernul României.
 - 2024-02-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L036AM.PDF
 - 2024-05-13: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L036AXS.PDF
 - 2024-05-13: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L036LP.PDF
+- 2024-06-03: Decret de promulgare (DP): [dp-86e9169a.md](dp-86e9169a.md); official file https://www.senat.ro/legis/PDF/2024/24L036DP.PDF
+- 2024-06-03: Forma promulgată (FP): [fp-7baa566f.md](fp-7baa566f.md); official file https://www.senat.ro/legis/PDF/2024/24L036FP.PDF
