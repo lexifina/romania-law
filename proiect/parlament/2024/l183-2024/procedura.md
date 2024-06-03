@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-05-14: adopted by the Chamber of Deputies
 - 2024-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-23: sent for promulgation
+- 2024-06-03: promulgated, becomes Legea nr. 173/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-04-16: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L183CA45.PDF
 - 2024-05-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L183AXS.PDF
 - 2024-05-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L183LP.PDF
+- 2024-06-03: Decret de promulgare (DP): [dp-39f167ad.md](dp-39f167ad.md); official file https://www.senat.ro/legis/PDF/2024/24L183DP.PDF
+- 2024-06-03: Forma promulgată (FP): [fp-7ef91a33.md](fp-7ef91a33.md); official file https://www.senat.ro/legis/PDF/2024/24L183FP.PDF
