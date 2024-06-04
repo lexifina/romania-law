@@ -1,0 +1,3 @@
+# ANEXĂ
+LISTA aferentă trimestrului I 2024, ce conține clasificarea medicamentelor de uz uman autorizate pentru punere pe piață în România, raportate de furnizorii de servicii medicale și de medicamente la casele de asigurări de sănătate și validate de acestea, suportate din FNUASS și din bugetul Ministerului Sănătății, în medicamente de tip I și tip II, potrivit prevederilor art. 38 din Ordonanța de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății, aprobată prin
+Legea nr. 184/2015, cu modificările și completările ulterioare
