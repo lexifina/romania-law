@@ -1,0 +1,317 @@
+{
+ "key": "dcc-81-2024",
+ "label": "Decizia CCR nr. 81/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "81",
+ "date": "2024-02-14",
+ "year": "2024",
+ "heading": "DECIZIA nr. 81 din 14 februarie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 539 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "523",
+  "bis": false,
+  "date": "2024-06-05",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "23.292/3/2018",
+  "1.933/83/2019",
+  "92/118/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. 539 din Codul de procedură penală, excepție ridicată de Costin Gabriel Șocarici în Dosarul nr. 23.292/3/2018 al Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, de Istvan Peter Gerenyi în Dosarul nr. 1.933/83/2019 al Tribunalului Satu Mare - Secția I civilă, respectiv de Valentin Roșculeț în Dosarul nr. 92/118/2020 al Tribunalului Constanța - Secția I civilă.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel București - Secția a III-a civilă și pentru cauze cu minori și de familie, Tribunalului Satu Mare - Secția I civilă și Tribunalului Constanța - Secția I civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "539",
+     "alin": [
+      "1",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "538",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 21
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "396",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "52",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "23",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "252",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "253",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1372",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1374",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1384",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    },
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii contenciosului administrativ nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 37/1992",
+    "number": "37",
+    "year": "1992",
+    "path": "lege/1992/37"
+   },
+   "articles": [
+    {
+     "art": "29",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/1968/29",
+    "slug": "codul-procedura-penala-1968"
+   },
+   "articles": [
+    {
+     "art": "504",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-05",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283779",
+  "text_sha256": "9f7ca11b0afc3c530ac39193c59f3f74969354b248a18761cf49f718fcfb9eab",
+  "catalogue_sha256": "9f7ca11b0afc3c530ac39193c59f3f74969354b248a18761cf49f718fcfb9eab",
+  "fetched": "2026-11-03T01:10:29Z",
+  "chars": 36332,
+  "portal_id": "283779",
+  "tip": "DECIZIE"
+ }
+}
