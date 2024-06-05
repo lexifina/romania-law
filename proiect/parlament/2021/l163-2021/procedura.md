@@ -24,6 +24,7 @@ Initiator: Guvernul României.
 - 2024-02-21: returned for re-examination
 - 2024-05-21: returned for re-examination
 - 2024-05-29: sent for promulgation
+- 2024-06-05: promulgated, becomes Legea nr. 178/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -41,3 +42,5 @@ Initiator: Guvernul României.
 - 2021-06-28: Forma adoptată de Senat (FS): [fs-f2e55e5b.md](fs-f2e55e5b.md); official file https://www.senat.ro/legis/PDF/2021/21L163FS.PDF
 - 2021-06-29: Adresă privind sesizarea CCR (AXS): [axs-1d70f085.md](axs-1d70f085.md); official file https://www.senat.ro/legis/PDF/2021/21L163AXS.PDF
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-5d424f73.md](lp-5d424f73.md); official file https://www.senat.ro/legis/PDF/2021/21L163LP.PDF
+- 2024-06-05: Decret de promulgare (DP): [dp-9f3aac86.md](dp-9f3aac86.md); official file https://www.senat.ro/legis/PDF/2021/21L163DP.PDF
+- 2024-06-05: Forma promulgată (FP): [fp-93fa09af.md](fp-93fa09af.md); official file https://www.senat.ro/legis/PDF/2021/21L163FP.PDF
