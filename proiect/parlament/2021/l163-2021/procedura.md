@@ -25,6 +25,7 @@ Initiator: Guvernul României.
 - 2024-05-21: returned for re-examination
 - 2024-05-29: sent for promulgation
 - 2024-06-05: promulgated, becomes Legea nr. 178/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-06-06: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -44,3 +45,11 @@ Initiator: Guvernul României.
 - 2021-06-29: Forma trimisă la promulgare (LP): [lp-5d424f73.md](lp-5d424f73.md); official file https://www.senat.ro/legis/PDF/2021/21L163LP.PDF
 - 2024-06-05: Decret de promulgare (DP): [dp-9f3aac86.md](dp-9f3aac86.md); official file https://www.senat.ro/legis/PDF/2021/21L163DP.PDF
 - 2024-06-05: Forma promulgată (FP): [fp-93fa09af.md](fp-93fa09af.md); official file https://www.senat.ro/legis/PDF/2021/21L163FP.PDF
+- 2024-06-06: Document (AL): [al-7eca5dea.md](al-7eca5dea.md); official file https://www.senat.ro/legis/PDF/2021/21L163AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (RX): [rx-3e372c71.md](rx-3e372c71.md); official file https://www.senat.ro/legis/PDF/2021/21L163RX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (XA): [xa-69c1a3bc.md](xa-69c1a3bc.md); official file https://www.senat.ro/legis/PDF/2021/21L163XA.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (CX): [cx-a4bac7ae.md](cx-a4bac7ae.md); official file https://www.senat.ro/legis/PDF/2021/21L163CX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (SX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L163SX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (LX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L163LX.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (XXS): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L163XXS.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-06: Document (PX): not held as text; official file https://www.senat.ro/legis/PDF/2021/21L163PX.PDF (its day is not given by the bill file: shown from the last stage held)
