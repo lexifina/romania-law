@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-05-14: adopted by the Chamber of Deputies
 - 2024-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-23: sent for promulgation
+- 2024-06-07: promulgated, becomes Legea nr. 180/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-04-02: Adresă către Camera Deputaților (AM): [am-f9042e04.md](am-f9042e04.md); official file https://www.senat.ro/legis/PDF/2024/24L149AM.PDF
 - 2024-05-21: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L149AXS.PDF
 - 2024-05-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L149LP.PDF
+- 2024-06-07: Decret de promulgare (DP): [dp-e26ab353.md](dp-e26ab353.md); official file https://www.senat.ro/legis/PDF/2024/24L149DP.PDF
+- 2024-06-07: Forma promulgată (FP): [fp-8ef72d91.md](fp-8ef72d91.md); official file https://www.senat.ro/legis/PDF/2024/24L149FP.PDF
