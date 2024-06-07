@@ -1,0 +1,211 @@
+{
+ "key": "dcc-656-2023",
+ "label": "Decizia CCR nr. 656/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "656",
+ "date": "2023-11-28",
+ "year": "2023",
+ "heading": "DECIZIA nr. 656 din 28 noiembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 202 și ale art. 223 alin. (2) teza finală din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "532",
+  "bis": false,
+  "date": "2024-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "1.909/30/2020",
+  "860D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Mircea Gabriel Leonescu în Dosarul nr. 1.909/30/2020 al Curții de Apel Timișoara - Secția penală și constată că dispozițiile art. 202 și ale art. 223 alin. (2) teza finală din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Curții de Apel Timișoara - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "202",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "223",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "230",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "234",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 14
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "23",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 49/2018",
+    "number": "49",
+    "year": "2018",
+    "path": "lege/2018/49"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "5",
+     "alin": null,
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 5
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283828",
+  "text_sha256": "c942b5fd6e7b7a1e5616e991c1fe108f5030a5de6628b1f29140052592b2bf6c",
+  "catalogue_sha256": "c942b5fd6e7b7a1e5616e991c1fe108f5030a5de6628b1f29140052592b2bf6c",
+  "fetched": "2026-11-06T01:14:56Z",
+  "chars": 22632,
+  "archive": {
+   "source": "commoncrawl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/283828",
+   "timestamp": "20251217033829",
+   "crawl": "CC-MAIN-2025-51",
+   "filename": "crawl-data/CC-MAIN-2025-51/segments/1764871658078.94/warc/CC-MAIN-20251217021107-20251217051107-00322.warc.gz",
+   "offset": "268865152",
+   "length": "25715",
+   "sha256": "b47e5da3c078817f9e4b1a3ecebbb63a397fe7e07577217b09cc0ac1e7fac502"
+  },
+  "portal_id": "283828",
+  "tip": "DECIZIE"
+ }
+}
