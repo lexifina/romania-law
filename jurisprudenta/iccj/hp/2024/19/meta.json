@@ -1,0 +1,207 @@
+{
+ "key": "iccj-hp-19-2024",
+ "label": "Decizia ÎCCJ nr. 19/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "19",
+ "date": "2024-04-22",
+ "year": "2024",
+ "heading": "DECIZIA nr. 19 din 22 aprilie 2024",
+ "subtitle": "referitoare la interpretarea art. 14 din Legea nr. 132/2017",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "530",
+  "bis": false,
+  "date": "2024-06-07",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "193/1/2024",
+  "3.393/301/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca inadmisibilă, sesizarea formulată de Tribunalul București - Secția a VI-a civilă, în Dosarul nr. 3.393/301/2022, pentru pronunțarea unei hotărâri prealabile cu privire la următoarea chestiune de drept:",
+  "În ce măsură art. 14 din Legea nr. 132/2017 trebuie interpretat în sensul că, atunci când a fosst reparat autovehiculul și se depun facturi de reparații emise de unitatea service, valoarea despăgubirii trebuie să fie stabilită la valoarea rezultată din aceste facturi sau, dimpotrivă, și într-o astfel de situație, instanța trebuie și poate aprecia asupra caracterului justificat sau rezonabil al pretențiilor întemeiate pe aceste facturi, prin raportare la prețul mediu al pieței?",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 132/2017",
+    "number": "132",
+    "year": "2017",
+    "path": "lege/2017/132"
+   },
+   "articles": [
+    {
+     "art": "14",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "22",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "6",
+     "alin": [
+      "8"
+     ],
+     "lit": null
+    },
+    {
+     "art": "19",
+     "alin": [
+      "5",
+      "12"
+     ],
+     "lit": [
+      "k"
+     ]
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 237/2015",
+    "number": "237",
+    "year": "2015",
+    "path": "lege/2015/237"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "1534",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1530",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "15",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituția României",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "520",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "521",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 310/2018",
+    "number": "310",
+    "year": "2018",
+    "path": "lege/2018/310"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-06-07",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283823",
+  "text_sha256": "5255cd69a3a0e2d9f9ec373fecba9ec760638713b263c8a0a597e29828c6d3f0",
+  "catalogue_sha256": "5255cd69a3a0e2d9f9ec373fecba9ec760638713b263c8a0a597e29828c6d3f0",
+  "fetched": "2026-11-03T01:10:25Z",
+  "chars": 59167,
+  "portal_id": "283823",
+  "tip": "DECIZIE"
+ }
+}
