@@ -1,0 +1,214 @@
+{
+ "key": "iccj-hp-26-2024",
+ "label": "Decizia ÎCCJ nr. 26/2024 (HP)",
+ "court": "iccj",
+ "kind": "HP",
+ "panel": "hp",
+ "number": "26",
+ "date": "2024-05-20",
+ "year": "2024",
+ "heading": "DECIZIA nr. 26 din 20 mai 2024",
+ "subtitle": "referitoare la interpretarea și aplicarea prevederilor art. 4 alin. (1^1) din Legea nr. 77/2016, raportat la art. 970 din Codul civil de la 1864 și art. 1.271 din Codul civil",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - COMPLETUL PENTRU DEZLEGAREA UNOR CHESTIUNI DE DREPT",
+ "mo": {
+  "number": "539",
+  "bis": false,
+  "date": "2024-06-10",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "inadmisibila"
+ ],
+ "dossiers": [
+  "457/1/2024",
+  "20.740/325/2022"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1-1",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  }
+ ],
+ "operative": [
+  "Respinge ca inadmisibilă sesizarea formulată de Tribunalul Timiș - Secția a II-a civilă în vederea pronunțării unei hotărâri prealabile cu privire la următoarele probleme de drept: a)",
+  "În interpretarea și aplicarea prevederilor art. 4 alin. (1^1) din Legea nr. 77/2016, raportat la art. 970 din Codul civil de la 1864 și art. 1.271 din Codul civil, intervenția instanței în contractul dintre părți, ca urmare a manifestării impreviziunii (atingerea cursului valutar instituit de prezumția legală), se realizează la momentul apariției evenimentului de impreviziune (atingerea cursului valutar instituit de prezumția legală) sau la momentul înregistrării notificării de echilibrare a contractului/dare în plată sau la momentul pronunțării instanței asupra echilibrării contractului;",
+  "b) În situația în care răspunsul la întrebarea (chestiunea de drept) numărul 1 este în sensul că intervenția instanței în contract se poate realiza încă de la momentul apariției impreviziunii (atingerea cursului valutar instituit de prezumția legală), vor fi supuse echilibrării și prestațiile executate după acel moment, raportat la prevederile art. 4 alin. (1^1) din Legea nr. 77/2016, raportat la art. 4 alin. (4) din Legea nr. 77/2016;",
+  "c) În situația în care răspunsul la întrebarea (chestiunea de drept) numărul 1 este în sensul că intervenția instanței în contract se poate realiza doar de la momentul înregistrării notificării de echilibrare a contractului, prestațiile deja executate în stare de impreviziune, respectiv peste pragul instituit de prezumția legală, sunt considerate câștigate contractului, sau instanța trebuie să țină cont de acestea în situația în care este chemată să dispună echilibrarea contractului și eventual să găsească modalități suplimentare de echilibrare a contractului pe lângă cea a stabilirii unui curs valutar mediu;",
+  "d) În interpretarea și aplicarea prevederilor art. 4 alin. (4) din Legea nr. 77/2016, raportat la art. 970 din Codul civil de la 1864 și art. 1.271 din Codul civil, în situația în care răspunsul la întrebarea (chestiunea de drept) numărul 1 este în sensul că intervenția instanței în contract se poate realiza doar de la momentul înregistrării notificării de echilibrare a contractului, reducerea soldului creditului ar putea reprezenta o modalitate de echilibrare a contractului de credit care să producă efecte numai pentru viitor.",
+  "Obligatorie, potrivit dispozițiilor art. 521 alin. (3) din Codul de procedură civilă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 77/2016",
+    "number": "77",
+    "year": "2016",
+    "path": "lege/2016/77"
+   },
+   "articles": [
+    {
+     "art": "4",
+     "alin": [
+      "1-1",
+      "4"
+     ],
+     "lit": [
+      "a"
+     ]
+    },
+    {
+     "art": "5",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "7",
+     "alin": [
+      "1",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 26
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "lege/2009/287",
+    "slug": "codul-civil"
+   },
+   "articles": [
+    {
+     "art": "970",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1271",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 18
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "519",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "483",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 50/2010",
+    "number": "50",
+    "year": "2010",
+    "path": "oug/2010/50"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul civil",
+    "path": "cod/1864/civil",
+    "slug": "codul-civil-1864"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 52/2020",
+    "number": "52",
+    "year": "2020",
+    "path": "lege/2020/52"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-06-10",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/283905",
+  "text_sha256": "af9ab9dd623bdbecc91ed8b4092b963baa2b3d22b221f4c4322eda894994e91a",
+  "catalogue_sha256": "af9ab9dd623bdbecc91ed8b4092b963baa2b3d22b221f4c4322eda894994e91a",
+  "fetched": "2026-11-03T01:10:20Z",
+  "chars": 56568,
+  "portal_id": "283905",
+  "tip": "DECIZIE"
+ }
+}
