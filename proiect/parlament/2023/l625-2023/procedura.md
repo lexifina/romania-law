@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-27: sent for promulgation
 - 2024-06-12: promulgated, becomes Legea nr. 185/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-06-13: published in the Monitorul Oficial; documents published: Punct de vedere Guvern (day not given by the bill file), Document (day not given by the bill file)
 
 ## Documents
 
@@ -36,3 +37,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L625LP.PDF
 - 2024-06-12: Decret de promulgare (DP): [dp-0aae63a6.md](dp-0aae63a6.md); official file https://www.senat.ro/legis/PDF/2023/23L625DP.PDF
 - 2024-06-12: Forma promulgată (FP): [fp-792a5d98.md](fp-792a5d98.md); official file https://www.senat.ro/legis/PDF/2023/23L625FP.PDF
+- 2024-06-13: Punct de vedere Guvern (SJ): [sj-316711b8.md](sj-316711b8.md); official file https://www.senat.ro/legis/PDF/2023/23L625SJ.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-13: Document (AJ): [aj-b142b0e7.md](aj-b142b0e7.md); official file https://www.senat.ro/legis/PDF/2023/23L625AJ.PDF (its day is not given by the bill file: shown from the last stage held)
