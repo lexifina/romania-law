@@ -21,6 +21,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-27: sent for promulgation
 - 2024-06-12: promulgated, becomes Legea nr. 186/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-06-13: published in the Monitorul Oficial
 
 ## Documents
 
