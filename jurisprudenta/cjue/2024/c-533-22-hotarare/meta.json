@@ -1,0 +1,65 @@
+{
+ "key": "cjue-c-533-22-hotarare-2024-06-13",
+ "label": "CJUE, Hotărârea Curții (Camera a zecea) din 13 iunie 2024, Cauza C-533/22",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-06-13",
+ "year": "2024",
+ "case": "Cauza C-533/22",
+ "celex": "62022CJ0533",
+ "ecli": "ECLI:EU:C:2024:501",
+ "heading": "Hotărârea Curții (Camera a zecea) din 13 iunie 2024",
+ "formation": "CHAMB_10_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Tribunalul Argeş",
+ "national_followup": [
+  "Tribunalul Argeş, încheiere din 10/06/2021 (2172/109/2021)"
+ ],
+ "parties": "SC Adient Ltd & Co.Kg împotriva Agenţiei Naţionale de Administrare Fiscală și a Agenţiei Naţionale de Administrare Fiscală – Direcţia Generală Regională a Finanţelor Publice Ploieşti – Administraţia Judeţeană a Finanţelor Publice Argeş",
+ "parties_withheld": false,
+ "keywords": "Trimitere preliminară – Fiscalitate – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 44 – Regulamentul de punere în aplicare (UE) nr. 282/2011 – Articolul 11 alineatul (1) – Locul de prestare a serviciilor – Noțiunea de «sediu comercial fix» – Aptitudine, ca resurse umane și tehnice, de a primi și de a utiliza serviciile pentru necesitățile proprii – Servicii de fabricare de tapițerii pentru autovehicule prestate de o societate în numele unei alte societăți care aparține aceluiași grup și care este stabilită în alt stat membru",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  },
+  {
+   "celex": "32011R0282",
+   "folder": "ue/regulament/2011/282"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CJ0533",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-533/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/99755494-295f-11ef-9290-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "c3b86bf6998b5a53835da3d948ca87edf8817227c9242331b0535b430fb65869"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a zecea) declară:",
+  "1) Articolul 44 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva (UE) 2018/1695 a Consiliului din 6 noiembrie 2018, și articolul 11 alineatul (1) din Regulamentul de punere în aplicare (UE) nr. 282/2011 al Consiliului din 15 martie 2011 de stabilire a măsurilor de punere în aplicare a Directivei 2006/112/CE privind sistemul comun al taxei pe valoarea adăugată",
+  "trebuie interpretate în sensul că",
+  "nu se poate considera că o societate supusă taxei pe valoarea adăugată care are sediul activității sale economice într‑un stat membru, care beneficiază de servicii furnizate de o societate stabilită într‑un alt stat membru, dispune în acest din urmă stat membru de un sediu fix, în vederea determinării locului de prestare a acestor servicii, doar pentru că cele două societăți aparțin aceluiași grup sau pentru că aceste societăți sunt legate între ele printr‑un contract de prestări de servicii.",
+  "2) Articolul 44 din Directiva 2006/112, astfel cum a fost modificată prin Directiva 2018/1695, și articolul 11 din Regulamentul de punere în aplicare nr. 282/2011",
+  "trebuie interpretate în sensul că",
+  "nici împrejurarea că o societate supusă taxei pe valoarea adăugată (TVA) care are sediul activității sale economice într‑un stat membru, care beneficiază de servicii de procesare furnizate de o societate stabilită într‑un alt stat membru, dispune în acest din urmă stat membru de o structură care participă la livrarea produselor finite rezultate din aceste servicii de procesare, nici faptul că respectivele operațiuni de livrare sunt realizate majoritar în afara statului membru menționat și că cele care sunt realizate în statul respectiv sunt supuse TVA‑ului nu sunt relevante pentru a stabili, în vederea determinării locului de prestare a serviciilor, că această societate deține chiar în acest din urmă stat membru un sediu fix.",
+  "3) Articolele 44 și 192a din Directiva 2006/112, astfel cum a fost modificată prin Directiva 2018/1695, precum și articolele 11 și 53 din Regulamentul de punere în aplicare nr. 282/2011",
+  "trebuie interpretate în sensul că",
+  "o societate supusă taxei pe valoarea adăugată care are sediul activității sale economice într‑un stat membru, care beneficiază de servicii furnizate de o societate stabilită într‑un alt stat membru, nu deține un sediu fix în acest din urmă stat membru dacă resursele umane și tehnice de care dispune în statul membru menționat nu sunt distincte de cele prin care îi sunt furnizate serviciile sau dacă aceste resurse umane și tehnice nu asigură decât activități pregătitoare sau auxiliare."
+ ]
+}
