@@ -1,0 +1,64 @@
+{
+ "key": "cjue-c-696-22-hotarare-2024-06-13",
+ "label": "CJUE, Hotărârea Curții (Camera a noua) din 13 iunie 2024, Cauza C-696/22",
+ "court": "cjue",
+ "court_name": "Curtea de Justiție a Uniunii Europene",
+ "kind": "hotarare",
+ "act_type": "JUDG",
+ "date": "2024-06-13",
+ "year": "2024",
+ "case": "Cauza C-696/22",
+ "celex": "62022CJ0696",
+ "ecli": "ECLI:EU:C:2024:499",
+ "heading": "Hotărârea Curții (Camera a noua) din 13 iunie 2024",
+ "formation": "CHAMB_09_C",
+ "procedure": "REFER_PREL",
+ "romania_role": [
+  "originates"
+ ],
+ "referred_by": null,
+ "referral_text": "Cerere de decizie preliminară formulată de Curtea de Apel Cluj",
+ "national_followup": [
+  "Curtea de Apel Cluj, încheiere din 15/07/2021 (1239429)"
+ ],
+ "parties": null,
+ "parties_withheld": true,
+ "keywords": "Trimitere preliminară – Sistemul comun al taxei pe valoarea adăugată (TVA) – Directiva 2006/112/CE – Articolul 64 alineatele (1) și (2) – Aplicabilitate – Prestații ale administratorilor și lichidatorilor judiciari – Prestații care au loc în mod continuu – Articolul 168 litera (a) – Deducerea TVA‑ului achitat în amonte – Cheltuieli legate de dreptul de utilizare a unui nume comercial – Dreptul la apărare – Dreptul de a fi ascultat",
+ "interprets": [
+  {
+   "celex": "32006L0112",
+   "folder": "ue/directiva/2006/112"
+  }
+ ],
+ "text": "dispozitiv.md",
+ "text_withheld": "personal_data",
+ "withheld_reason": "The full text names the parties' lawyers (and, in older cases, private parties); only the metadata and the operative part are published here, with the official link.",
+ "operative_missing": false,
+ "eurlex_url": "https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=CELEX:62022CJ0696",
+ "curia_url": "https://curia.europa.eu/juris/liste.jsf?num=C-696/22&language=ro",
+ "source": {
+  "name": "CELLAR, Publications Office of the European Union",
+  "url": "http://publications.europa.eu/resource/cellar/7683b667-295f-11ef-9290-01aa75ed71a1.0002.05/DOC_1",
+  "format": "xhtml",
+  "sha256": [
+   "a9ddec640b97152531859b8bad37623bda8e9e5c47d164e9f700959d562986d5"
+  ]
+ },
+ "legal_basis": "Jurisprudența Curții de Justiție a Uniunii Europene (texte oficiale; reutilizare permisă cu menționarea sursei: Decizia Comisiei 2011/833/UE și condițiile CURIA; © Uniunea Europeană). Textele oficiale nu sunt protejate de dreptul de autor în România (Legea nr. 8/1996, art. 9 lit. b).",
+ "attribution": "© European Union, https://eur-lex.europa.eu (via the Publications Office CELLAR)",
+ "operative": [
+  "Pentru aceste motive, Curtea (Camera a noua) declară:",
+  "1) Articolul 64 din Directiva 2006/112/CE a Consiliului din 28 noiembrie 2006 privind sistemul comun al taxei pe valoarea adăugată, astfel cum a fost modificată prin Directiva 2008/117/CE a Consiliului din 16 decembrie 2008,",
+  "trebuie interpretat în sensul că",
+  "intră în domeniul de aplicare al alineatului (1) al acestui articol prestările de servicii efectuate în mod continuu pentru o anumită perioadă, precum cele efectuate, în temeiul dreptului român, de administratorii și de lichidatorii judiciari în favoarea întreprinderilor care fac obiectul unor proceduri de insolvență, în măsura în care, sub rezerva verificărilor care revin instanței de trimitere, aceste prestații determină decontări sau plăți succesive.",
+  "2) Articolul 64 alineatul (1) din Directiva 2006/112, astfel cum a fost modificată prin Directiva 2008/117,",
+  "trebuie interpretat în sensul că,",
+  "în ipoteza în care plata remunerației pentru prestații care intră în domeniul de aplicare al acestei dispoziții nu poate avea loc din cauza insuficienței lichidităților în conturile debitorului, dispoziția menționată nu permite să se considere că taxa pe valoarea adăugată devine exigibilă numai în momentul încasării efective a remunerației.",
+  "3) Articolul 168 litera (a) din Directiva 2006/112, astfel cum a fost modificată prin Directiva 2008/117,",
+  "trebuie interpretat în sensul că,",
+  "pentru a stabili existența unei legături directe și imediate între, pe de o parte, o anumită operațiune în amonte și, pe de altă parte, operațiuni în aval care dau drept de deducere, trebuie să se determine conținutul obiectiv al acestor operațiuni, ceea ce implică luarea în considerare a tuturor împrejurărilor în care s‑au derulat operațiunile menționate, și anume, printre altele, utilizarea efectivă a bunurilor și a serviciilor achiziționate de persoana impozabilă în amonte, precum și cauza exclusivă a acestei achiziții, fără ca creșterea cifrei de afaceri sau cea a volumului operațiunilor taxabile să fie elemente pertinente în această privință.",
+  "4) Principiul general al dreptului Uniunii al respectării dreptului la apărare",
+  "trebuie interpretat în sensul că,",
+  "în cadrul unei proceduri administrative de contestare a unei decizii de impunere privind taxa pe valoarea adăugată, atunci când autoritatea competentă adoptă o decizie întemeiată pe elemente de fapt și de drept noi cu privire la care persoana interesată nu a putut să își exprime poziția, se impune ca decizia adoptată la finalul acestei proceduri să fie anulată dacă, în lipsa acestei neregularități, procedura menționată ar fi putut conduce la un rezultat diferit, chiar dacă, la cererea persoanei interesate, s‑a procedat la suspendarea executării acestei decizii de impunere în paralel cu calea de atac jurisdicțională formulată împotriva acestei decizii."
+ ]
+}
