@@ -13,6 +13,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-23: documents published: Aviz comisie
 - 2024-04-24: documents published: Aviz comisie
 - 2024-05-21: documents published: Aviz comisie
+- 2024-06-13: adopted by the Senate; documents published: Forma adoptată de Senat, Adresă către Camera Deputaților
 
 ## Documents
 
@@ -26,3 +27,5 @@ Initiator: Membri ai Parlamentului.
 - 2024-04-23: Aviz comisie (CA57): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L235CA57.PDF
 - 2024-04-24: Aviz comisie (CA56): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L235CA56.PDF
 - 2024-05-21: Aviz comisie (CA55): [ca55-cd09d24b.md](ca55-cd09d24b.md); official file https://www.senat.ro/legis/PDF/2024/24L235CA55.PDF
+- 2024-06-13: Forma adoptată de Senat (FS): [fs-e38ecac9.md](fs-e38ecac9.md); official file https://www.senat.ro/legis/PDF/2024/24L235FS.PDF
+- 2024-06-13: Adresă către Camera Deputaților (AM): [am-19872c24.md](am-19872c24.md); official file https://www.senat.ro/legis/PDF/2024/24L235AM.PDF
