@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-05-21: registered at the Chamber of Deputies
 - 2024-06-03: adopted by the Chamber of Deputies; documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-05: sent for promulgation
+- 2024-06-14: promulgated, becomes Legea nr. 187/2024; published in the Monitorul Oficial; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -39,3 +40,5 @@ Initiator: Guvernul României.
 - 2024-05-15: Aviz comisie (CA53): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L243CA53.PDF
 - 2024-06-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L243AXS.PDF
 - 2024-06-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L243LP.PDF
+- 2024-06-14: Decret de promulgare (DP): [dp-4e2231f9.md](dp-4e2231f9.md); official file https://www.senat.ro/legis/PDF/2024/24L243DP.PDF
+- 2024-06-14: Forma promulgată (FP): [fp-a90f34d7.md](fp-a90f34d7.md); official file https://www.senat.ro/legis/PDF/2024/24L243FP.PDF
