@@ -1,0 +1,192 @@
+{
+ "key": "iccj-scaf-1462-2024",
+ "label": "Decizia ÎCCJ nr. 1462/2024 (SCAF)",
+ "court": "iccj",
+ "kind": "alta",
+ "panel": "scaf",
+ "number": "1462",
+ "date": "2024-03-13",
+ "year": "2024",
+ "heading": "DECIZIA nr. 1.462 din 13 martie 2024",
+ "subtitle": "referitoare la recursul declarat de recurentul-pârât împotriva Sentinței nr. 690 din 10 aprilie 2023",
+ "issuer": "ÎNALTA CURTE DE CASAȚIE ȘI JUSTIȚIE - SECȚIA A IX-A CONTENCIOS ADMINISTRATIV ȘI FISCAL",
+ "mo": {
+  "number": "556",
+  "bis": false,
+  "date": "2024-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.468/2/2022"
+ ],
+ "subjects": [],
+ "operative": [
+  "Respinge recursul declarat de recurentul-pârât Ministerul Afacerilor Interne împotriva Sentinței nr. 690 din 10 aprilie 2023 pronunțate de Curtea de Apel București - Secția a IX-a contencios administrativ și fiscal, ca nefondat.",
+  "Definitivă."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură civilă",
+    "path": "lege/2010/134",
+    "slug": "codul-procedura-civila"
+   },
+   "articles": [
+    {
+     "art": "394",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "488",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "8",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "193",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "425",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "496",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 7
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MAI nr. 140/2016",
+    "number": "140",
+    "year": "2016"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinul MAI nr. 298/2011",
+    "number": "298",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 554/2004",
+    "number": "554",
+    "year": "2004",
+    "path": "lege/2004/554"
+   },
+   "articles": [
+    {
+     "art": "7",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "c"
+     ]
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 360/2002",
+    "number": "360",
+    "year": "2002",
+    "path": "lege/2002/360"
+   },
+   "articles": [
+    {
+     "art": "69",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "78",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului nr. 289/2011",
+    "number": "289",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "ordin",
+    "label": "Ordinului MAI nr. 298/2011",
+    "number": "298",
+    "year": "2011"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Înalta Curte de Casație și Justiție",
+ "binding_from": "2024-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284036",
+  "text_sha256": "0f1b88af3ca7be9ac178863081158d3f551b17fc22140eb958d387cb1af41811",
+  "catalogue_sha256": "0f1b88af3ca7be9ac178863081158d3f551b17fc22140eb958d387cb1af41811",
+  "fetched": "2026-11-03T14:46:07Z",
+  "chars": 20789,
+  "portal_id": "284036",
+  "tip": "DECIZIE"
+ }
+}
