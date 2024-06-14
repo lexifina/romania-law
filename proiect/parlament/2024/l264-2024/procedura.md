@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-05-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-29: sent for promulgation
+- 2024-06-14: promulgated, becomes Legea nr. 189/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2024-05-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L264FS.PDF
 - 2024-05-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L264AXS.PDF
 - 2024-05-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L264LP.PDF
+- 2024-06-14: Decret de promulgare (DP): [dp-8d70ef81.md](dp-8d70ef81.md); official file https://www.senat.ro/legis/PDF/2024/24L264DP.PDF
+- 2024-06-14: Forma promulgată (FP): [fp-65584e0c.md](fp-65584e0c.md); official file https://www.senat.ro/legis/PDF/2024/24L264FP.PDF
