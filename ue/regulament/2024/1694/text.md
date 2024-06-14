@@ -1,0 +1,161 @@
+REGULAMENTUL DE PUNERE ÎN APLICARE (UE) 2024/1694 AL COMISIEI
+din 12 iunie 2024
+de modificare a anexelor V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 în ceea ce privește rubricile referitoare la Canada și la Statele Unite din listele conținând țările terțe, teritoriile sau zonele acestora care sunt autorizate pentru introducerea în Uniune a transporturilor de păsări de curte, de materiale germinative provenite de la păsări de curte și de carne proaspătă provenită de la păsări de curte și de la vânat cu pene
+(Text cu relevanță pentru SEE)
+COMISIA EUROPEANĂ,
+având în vedere Tratatul privind funcționarea Uniunii Europene,
+având în vedere Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului din 9 martie 2016 privind bolile transmisibile ale animalelor și de modificare și de abrogare a anumitor acte din domeniul sănătății animalelor („Legea privind sănătatea animală”) (1), în special articolul 230 alineatul (1) și articolul 232 alineatele (1) și (3).
+întrucât:
+(1) Regulamentul (UE) 2016/429 prevede că transporturile de animale, de materiale germinative de origine animală și de produse de origine animală trebuie să provină dintr-o țară terță sau dintr-un teritoriu ori o zonă sau un compartiment ale acestora, menționate, în conformitate cu articolul 230 alineatul (1) din regulamentul respectiv, pentru a intra în Uniune.
+(2) Regulamentul delegat (UE) 2020/692 al Comisiei (2) stabilește cerințele de sănătate animală pe care transporturile de animale din anumite specii și categorii, de materiale germinative de origine animală și de produse de origine animală, provenite din țări sau teritorii terțe ori din zone sau compartimente ale acestora în cazul animalelor de acvacultură, trebuie să le respecte pentru a intra în Uniune.
+(3) Regulamentul de punere în aplicare (UE) 2021/404 al Comisiei (3) prevede listele cu țările terțe, teritoriile sau zonele acestora din care este permisă introducerea în Uniune a animalelor aparținând speciilor și categoriilor de animale, a materialelor germinative și a produselor de origine animală care intră sub incidența Regulamentului delegat (UE) 2020/692. Listele respective și anumite norme generale referitoare la ele sunt prevăzute în anexele I-XXII la respectivul regulament de punere în aplicare.
+(4) Mai precis, anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 conțin listele cu țările terțe, teritoriile sau zonele acestora autorizate pentru introducerea în Uniune a transporturilor de păsări de curte, de materiale germinative provenite de la păsări de curte și, respectiv, de carne proaspătă de păsări de curte și de vânat cu pene.
+(5) Statele Unite au notificat Comisiei apariția a patru focare epidemice de gripă aviară înalt patogenă (HPAI) la păsări de curte din statele Iowa (2) și Minnesota (2), care au fost confirmate între 28 mai 2024 și 3 iunie 2024 prin analize de laborator (RT-PCR).
+(6) În urma apariției respectivelor focare recente de HPAI, autoritățile veterinare din Statele Unite au stabilit zone de restricții de cel puțin 10 km în jurul unităților afectate și au implementat o politică de depopulare totală pentru a menține sub control prezența HPAI și a-i limita răspândirea.
+(7) Statele Unite au transmis Comisiei informații cu privire la situația epidemiologică de pe teritoriul lor și la măsurile luate pentru a preveni răspândirea suplimentară a HPAI în urma apariției respectivelor recente focare în statele Iowa și Minnesota.
+(8) Informațiile respective au fost evaluate de Comisie. Comisia consideră că, având în vedere situația sănătății animale din zonele care fac obiectul restricțiilor stabilite de autoritatea veterinară din Statele Unite, este necesar să se suspende introducerea în Uniune a transporturilor de păsări de curte și de materiale germinative provenite de la păsări de curte și de carne proaspătă provenită de la păsări de curte și de la vânat cu pene din zonele afectate de focarele recente din statele Iowa și Minnesota, pentru a proteja statutul sanitar-veterinar al Uniunii.
+(9) În plus, Canada și Statele Unite au furnizat Comisiei informații actualizate cu privire la situația epidemiologică de pe teritoriile lor în ceea ce privește HPAI care a condus la suspendarea intrării în Uniune a anumitor produse, astfel cum se menționează în anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404.
+(10) Canada a transmis informații actualizate privind situația epidemiologică a două focare de HPAI apărute la păsări de curte din provinciile Columbia Britanică și Noua Scoție, care au fost confirmate la 13 decembrie 2023 și, respectiv, la 2 februarie 2024, prin analize de laborator (RT-PCR).
+(11) Statele Unite au transmis informații actualizate cu privire la situația epidemiologică a 19 focare de HPAI apărute la păsări de curte din statele California (9), Florida (1), Idaho (1), Michigan (1), Missouri (1), New York (1), Dakota de Nord (2), Dakota de Sud (2) și Washington (1), care au fost confirmate între 27 noiembrie 2023 și 15 aprilie 2024 prin analize de laborator (RT-PCR).
+(12) Canada și Statele Unite au transmis informații și cu privire la măsurile pe care le-au luat pentru a preveni răspândirea suplimentară a HPAI. În particular, în urma apariției focarelor de HPAI, Canada și Statele Unite au implementat o politică de depopulare totală pentru a menține sub control și a limita răspândirea acestei boli și, în plus, au finalizat curățarea și dezinfectarea necesare în urma implementării politicii de depopulare totală în unitățile avicole de pe teritoriile lor unde s-au înregistrat cazuri de infecții.
+(13) Comisia a evaluat informațiile transmise de Canada și de Statele Unite și consideră că acestea au oferit garanții adecvate că situația sănătății animale care a condus la suspendarea intrării în Uniune a transporturilor de anumite produse din zonele în cauză din respectivele țări terțe, astfel cum se menționează în anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404, nu mai reprezintă o amenințare pentru sănătatea animală sau publică din Uniune și că, în consecință, este necesar ca intrarea în Uniune a transporturilor respective din zonele în cauză din Canada și din Statele Unite din care a fost suspendată intrarea în Uniune să fie reautorizată.
+(14) Prin urmare, este necesar ca anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 să fie modificate pentru a se ține seama de situația epidemiologică actuală în ceea ce privește HPAI din Statele Unite și Canada.
+(15) Având în vedere situația epidemiologică actuală din Statele Unite în ceea ce privește HPAI și pentru a evita perturbarea inutilă a comerțului cu Canada și cu Statele Unite, este necesar ca modificările anexelor V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 efectuate prin prezentul regulament să intre în vigoare în regim de urgență.
+(16) Măsurile prevăzute în prezentul regulament sunt conforme cu avizul Comitetului permanent pentru plante, animale, produse alimentare și hrană pentru animale,
+ADOPTĂ PREZENTUL REGULAMENT:
+Articolul 1
+Modificări ale Regulamentului de punere în aplicare (UE) 2021/404
+Anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 se modifică în conformitate cu anexa la prezentul regulament.
+Articolul 2
+Intrare în vigoare și aplicabilitate
+Prezentul regulament intră în vigoare în ziua următoare datei publicării în Jurnalul Oficial al Uniunii Europene.
+Prezentul regulament este obligatoriu în toate elementele sale și se aplică direct în toate statele membre.
+Adoptat la Bruxelles, 12 iunie 2024.
+Pentru Comisie
+Președinta
+Ursula VON DER LEYEN
+(1) JO L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+(2) Regulamentul delegat (UE) 2020/692 al Comisiei din 30 ianuarie 2020 de completare a Regulamentului (UE) 2016/429 al Parlamentului European și al Consiliului în ceea ce privește normele privind intrarea în Uniune, precum și circulația și manipularea după intrare, a transporturilor de anumite animale, de materiale germinative și de produse de origine animală (JO L 174, 3.6.2020, p. 379, ELI: http://data.europa.eu/eli/reg_del/2020/692/oj).
+(3) Regulamentul de punere în aplicare (UE) 2021/404 al Comisiei din 24 martie 2021 de stabilire a listelor cu țările terțe, teritoriile sau zonele din acestea din care introducerea în Uniune de animale, material germinativ și produse de origine animală este autorizată în conformitate cu Regulamentul (UE) 2016/429 al Parlamentului European și al Consiliului (JO L 114, 31.3.2021, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2021/404/oj).
+ANEXĂ
+Anexele V și XIV la Regulamentul de punere în aplicare (UE) 2021/404 se modifică după cum urmează:
+1. Anexa V se modifică după cum urmează:
+(a) în partea 1, secțiunea B se modifică după cum urmează:
+(i) în rubrica pentru Canada, rândul corespunzător zonei CA-2.228 se înlocuiește cu următorul text:
+„CA Canada | CA-2.228 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 13.12.2023 | 29.5.2024”
+(ii) în rubrica pentru Canada, rândul corespunzător zonei CA-2.232 se înlocuiește cu următorul text:
+„CA Canada | CA-2.232 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 2.2.2024 | 29.5.2024”
+(iii) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.547 și US-2.548 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.547 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 27.11.2023 | 1.6.2024
+US-2.548 | N, P1 | | 30.11.2023 | 1.6.2024”
+(iv) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.550 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.550 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 29.11.2023 | 2.5.2024”
+(v) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.560 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.560 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 6.12.2023 | 1.6.2024”
+(vi) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.574 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.574 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 7.12.2023 | 19.5.2024”
+(vii) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.579 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.579 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 12.12.2023 | 13.5.2024”
+(viii) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.585 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.585 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 15.12.2023 | 14.5.2024”
+(ix) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.589, US-2.590 și US-2.591 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.589 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 18.12.2023 | 1.6.2024
+US-2.590 | N, P1 | | 18.12.2023 | 1.6.2024
+US-2.591 | N, P1 | | 19.12.2023 | 1.6.2024”
+(x) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.593 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.593 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 19.12.2023 | 16.5.2024”
+(xi) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.597 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.597 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 20.12.2023 | 18.5.2024”
+(xii) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.603 și US-2.604 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.603 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 28.11.2023 | 1.6.2024
+US-2.604 | N, P1 | | 28.11.2023 | 1.6.2024”
+(xiii) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.607 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.607 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 28.12.2023 | 28.5.2024”
+(xiv) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.609 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.609 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 3.1.2024 | 1.6.2024”
+(xv) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.625 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.625 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 9.2.2024 | 1.5.2024”
+(xvi) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.632 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.632 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 12.3.2024 | 5.5.2024”
+(xvii) în rubrica pentru Statele Unite, rândul corespunzător zonei US-2.638 se înlocuiește cu următorul text:
+„SUA Statele Unite ale Americii | US-2.638 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 15.4.2024 | 17.5.2024”
+(xviii) în rubrica pentru Statele Unite, următoarele rânduri corespunzătoare zonelor US-2.656-US-2.659 se adaugă după rândul corespunzător zonei US-2.655:
+„SUA Statele Unite ale Americii | US-2.656 | BPP, BPR, DOC, DOR, SP, SR, POU-LT20, HEP, HER, HE-LT20 | N, P1 | | 28.5.2024 |
+US-2.657 | N, P1 | | 3.6.2024 |
+US-2.658 | N, P1 | | 29.5.2024 |
+US-2.659 | N, P1 | | 31.5.2024”; |
+(b) în partea 2, în rubrica pentru Statele Unite, următoarea descriere a zonelor US-2.656-US-2.659 se adaugă după descrierea zonei US-2.655:
+„Statele Unite | US-2.656 | State of Iowa Sioux 02 Sioux County: A circular zone of a 10 km radius starting with North point (GPS coordinates: 96.2343464°W 43.1420431°N)
+US-2.657 | State of Iowa Cherokee 04 Cherokee County: A circular zone of a 10 km radius starting with North point (GPS coordinates: 95.5047457°W 42.7160288°N)
+US-2.658 | State of Minnesota Stearns 20 Stearns County: A circular zone of a 10 km radius starting with North point (GPS coordinates: 94.7452009°W 45.6150057°N)
+US-2.659 | State of Minnesota Stearns 21 Stearns County: A circular zone of a 10 km radius starting with North point (GPS coordinates: 94.7652885°W 45.6366057°N)”
+2. În anexa XIV, în partea 1, secțiunea B se modifică după cum urmează:
+(a) în rubrica pentru Canada, rândurile corespunzătoare zonei CA-2.228 se înlocuiesc cu următorul text:
+„CA Canada | CA-2.228 | POU, RAT | N, P1 | | 13.12.2023 | 29.5.2024
+GBM | P1 | | 13.12.2023 | 29.5.2024”
+(b) în rubrica pentru Canada, rândurile corespunzătoare zonei CA-2.232 se înlocuiesc cu următorul text:
+„CA Canada | CA-2.232 | POU, RAT | N, P1 | | 2.2.2024 | 29.5.2024
+GBM | P1 | | 2.2.2024 | 29.5.2024”
+(c) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.547 și US-2.548 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.547 | POU, RAT | N, P1 | | 27.11.2023 | 1.6.2024
+GBM | P1 | | 27.11.2023 | 1.6.2024
+US-2.548 | POU, RAT | N, P1 | | 30.11.2023 | 1.6.2024
+GBM | P1 | | 30.11.2023 | 1.6.2024”
+(d) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.550 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.550 | POU, RAT | N, P1 | | 29.11.2023 | 2.5.2024
+GBM | P1 | | 29.11.2023 | 2.5.2024”
+(e) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.560 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.560 | POU, RAT | N, P1 | | 6.12.2023 | 1.6.2024
+GBM | P1 | | 6.12.2023 | 1.6.2024”
+(f) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.574 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.574 | POU, RAT | N, P1 | | 7.12.2023 | 19.5.2024
+GBM | P1 | | 7.12.2023 | 19.5.2024”
+(g) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.579 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.579 | POU, RAT | N, P1 | | 12.12.2023 | 13.5.2024
+GBM | P1 | | 12.12.2023 | 13.5.2024”
+(h) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.585 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.585 | POU, RAT | N, P1 | | 15.12.2023 | 14.5.2024
+GBM | P1 | | 15.12.2023 | 14.5.2024”
+(i) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.589, US-2.590 și US-2.591 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.589 | POU, RAT | N, P1 | | 18.12.2023 | 1.6.2024
+GBM | P1 | | 18.12.2023 | 1.6.2024
+US-2.590 | POU, RAT | N, P1 | | 18.12.2023 | 1.6.2024
+GBM | P1 | | 18.12.2023 | 1.6.2024
+US-2.591 | POU, RAT | N, P1 | | 19.12.2023 | 1.6.2024
+GBM | P1 | | 19.12.2023 | 1.6.2024”
+(j) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.593 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.593 | POU, RAT | N, P1 | | 19.12.2023 | 16.5.2024
+GBM | P1 | | 19.12.2023 | 16.5.2024”
+(k) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.597 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.597 | POU, RAT | N, P1 | | 20.12.2023 | 18.5.2024
+GBM | P1 | | 20.12.2023 | 18.5.2024”
+(l) în rubrica pentru Statele Unite, rândurile corespunzătoare zonelor US-2.603 și US-2.604 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.603 | POU, RAT | N, P1 | | 28.11.2023 | 1.6.2024
+GBM | P1 | | 28.11.2023 | 1.6.2024
+US-2.604 | POU, RAT | N, P1 | | 28.11.2023 | 1.6.2024
+GBM | P1 | | 28.11.2023 | 1.6.2024”
+(m) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.607 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.607 | POU, RAT | N, P1 | | 28.12.2023 | 28.5.2024
+GBM | P1 | | 28.12.2023 | 28.5.2024”
+(n) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.609 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.609 | POU, RAT | N, P1 | | 3.1.2024 | 1.6.2024
+GBM | P1 | | 3.1.2024 | 1.6.2024”
+(o) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.625 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.625 | POU, RAT | N, P1 | | 9.2.2024 | 1.5.2024
+GBM | P1 | | 9.2.2024 | 1.5.2024”
+(p) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.632 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.632 | POU, RAT | N, P1 | | 12.3.2024 | 5.5.2024
+GBM | P1 | | 12.3.2024 | 5.5.2024”
+(q) în rubrica pentru Statele Unite, rândurile corespunzătoare zonei US-2.638 se înlocuiesc cu următorul text:
+„SUA Statele Unite ale Americii | US-2.638 | POU, RAT | N, P1 | | 15.4.2024 | 17.5.2024
+GBM | P1 | | 15.4.2024 | 17.5.2024”
+(r) în rubrica pentru Statele Unite, următoarele rânduri corespunzătoare zonelor US-2.656-US-2.659 se adaugă după rândurile corespunzătoare zonei US-2.655:
+„SUA Statele Unite ale Americii | US-2.656 | POU, RAT | N, P1 | | 28.5.2024 |
+GBM | P1 | | 28.5.2024 |
+US-2.657 | POU, RAT | N, P1 | | 3.6.2024 |
+GBM | P1 | | 3.6.2024 |
+US-2.658 | POU, RAT | N, P1 | | 29.5.2024 |
+GBM | P1 | | 29.5.2024 |
+US-2.659 | POU, RAT | N, P1 | | 31.5.2024 |
+GBM | P1 | | 31.5.2024” |
+ELI: http://data.europa.eu/eli/reg_impl/2024/1694/oj
