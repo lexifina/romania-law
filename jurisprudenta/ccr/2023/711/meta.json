@@ -1,0 +1,319 @@
+{
+ "key": "dcc-711-2023",
+ "label": "Decizia CCR nr. 711/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "711",
+ "date": "2023-12-12",
+ "year": "2023",
+ "heading": "DECIZIA nr. 711 din 12 decembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 173 alin. (4), art. 177 alin. (1) - (5) și ale art. 178 din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "559",
+  "bis": false,
+  "date": "2024-06-14",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "2.669/120/2016",
+  "124D/2020",
+  "352D/2020",
+  "5.353/63/2018"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Nicolae Sarcină în Dosarul nr. 2.669/120/2016 al Tribunalului Dâmbovița - Secția penală și de Virgil Alexandru Florescu și Andrei Ionuț Firu în Dosarul nr. 5.353/63/2018 al Tribunalului Dolj - Secția penală și pentru cauze cu minori și constată că dispozițiile art. 173 alin. (4), ale art. 177 alin. (1) - (5) și ale art. 178 din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Dâmbovița - Secția penală și Tribunalului Dolj - Secția penală și pentru cauze cu minori și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "173",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "177",
+     "alin": [
+      "1",
+      "4",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "178",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "172",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "97",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "34",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "174",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "175",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "176",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "179",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "180",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "181",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "182",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "183",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 35
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3",
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 6
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [
+    {
+     "art": "6",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "og",
+    "label": "Ordonanța Guvernului nr. 1/2000",
+    "number": "1",
+    "year": "2000",
+    "path": "og/2000/1"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-14",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284050",
+  "text_sha256": "ec270fa73c0c780df43dcd2ade6c7a155d333893695f41e175886e0211570c0b",
+  "catalogue_sha256": "ec270fa73c0c780df43dcd2ade6c7a155d333893695f41e175886e0211570c0b",
+  "fetched": "2026-11-04T22:50:48Z",
+  "chars": 28543,
+  "portal_id": "284050",
+  "tip": "DECIZIE"
+ }
+}
