@@ -16,6 +16,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: adopted by the Senate; documents published: Forma adoptată de Senat
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-05-29: sent for promulgation
+- 2024-06-14: promulgated, becomes Legea nr. 190/2024; published in the Monitorul Oficial; documents published: Document (day not given by the bill file), Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -26,3 +27,6 @@ Initiator: Membri ai Parlamentului.
 - 2024-05-21: Forma adoptată de Senat (FS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L280FS.PDF
 - 2024-05-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L280AXS.PDF
 - 2024-05-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L280LP.PDF
+- 2024-06-14: Document (AL): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L280AL.PDF (its day is not given by the bill file: shown from the last stage held)
+- 2024-06-14: Decret de promulgare (DP): [dp-0bbb258b.md](dp-0bbb258b.md); official file https://www.senat.ro/legis/PDF/2024/24L280DP.PDF
+- 2024-06-14: Forma promulgată (FP): [fp-49484732.md](fp-49484732.md); official file https://www.senat.ro/legis/PDF/2024/24L280FP.PDF
