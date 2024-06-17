@@ -15,6 +15,7 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: documents published: Aviz comisie
 - 2024-06-04: documents published: Aviz comisie
 - 2024-06-12: documents published: Aviz comisie
+- 2024-06-17: documents published: Raport comisie sesizată pe fond
 
 ## Documents
 
@@ -26,3 +27,4 @@ Initiator: Membri ai Parlamentului.
 - 2024-06-03: Aviz comisie (CA19): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312CA19.PDF
 - 2024-06-04: Aviz comisie (CA49): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312CA49.PDF
 - 2024-06-12: Aviz comisie (CA3): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L312CA3.PDF
+- 2024-06-17: Raport comisie sesizată pe fond (CR): [cr-efbfe5ca.md](cr-efbfe5ca.md); official file https://www.senat.ro/legis/PDF/2024/24L312CR.PDF
