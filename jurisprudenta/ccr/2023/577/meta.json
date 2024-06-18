@@ -1,0 +1,221 @@
+{
+ "key": "dcc-577-2023",
+ "label": "Decizia CCR nr. 577/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "577",
+ "date": "2023-10-31",
+ "year": "2023",
+ "heading": "DECIZIA nr. 577 din 31 octombrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (3) și ale art. 5 alin. (4)-(7) din Ordonanța de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "566",
+  "bis": false,
+  "date": "2024-06-18",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "5.732/2/2015/a1",
+  "3.640D/2021",
+  "555/2/2019",
+  "5.443/2/2022",
+  "1.960/2/2020",
+  "5.212/2/2016/a1",
+  "442D/2022",
+  "5.675/2/2015",
+  "1.316D/2022",
+  "7.322/2/2014/a1"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2011",
+    "number": "77",
+    "year": "2011",
+    "path": "oug/2011/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Societatea Fiscal Advisor - S.R.L. din Timișoara în dosarele nr. 5.732/2/2015/a1 și nr. 5.212/2/2016/a1 ale Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, de Societatea Romastru Trading S.R.L. din București în Dosarul nr. 555/2/2019 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și în Dosarul nr. 5.443/2/2022 al Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și în dosarele nr. 1.529/1/2020/a1 și nr. 1.907/2/2023*/a1 ale Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și de Societatea Neola Pharma S.R.L. din București în Dosarele nr. 5.675/2/2015*/a1, nr. 7.322/2/2014/a1, nr. 587/1/2020/a1 și nr. 6.391/1/2016*/a1 ale Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal și în Dosarul nr. 1.960/2/2020 al Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și constată că dispozițiile art. 3 alin. (3) și ale art. 5 alin. (4)-(7) din Ordonanța de urgență a Guvernului nr. 77/2011 privind stabilirea unor contribuții pentru finanțarea unor cheltuieli în domeniul sănătății sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Înaltei Curți de Casație și Justiție - Secția de contencios administrativ și fiscal, Curții de Apel București - Secția a VIII-a contencios administrativ și fiscal și Curții de Apel București - Secția a IX-a contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 77/2011",
+    "number": "77",
+    "year": "2011",
+    "path": "oug/2011/77"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3",
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 31
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "24",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "56",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 8
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-18",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284094",
+  "text_sha256": "bfcfd0d237a5844a4f7b2cc1d6b75993cf4b461886bf402a0cd17f0610eff991",
+  "catalogue_sha256": "bfcfd0d237a5844a4f7b2cc1d6b75993cf4b461886bf402a0cd17f0610eff991",
+  "fetched": "2026-11-03T01:10:13Z",
+  "chars": 33495,
+  "portal_id": "284094",
+  "tip": "DECIZIE"
+ }
+}
