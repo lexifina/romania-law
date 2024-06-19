@@ -18,6 +18,7 @@ Initiator: Guvernul României.
 - 2024-05-21: adopted by the Chamber of Deputies
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-01: sent for promulgation
+- 2024-06-19: promulgated, becomes Legea nr. 193/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -33,3 +34,5 @@ Initiator: Guvernul României.
 - 2023-10-18: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L455AM.PDF
 - 2024-05-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L455AXS.PDF
 - 2024-05-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L455LP.PDF
+- 2024-06-19: Decret de promulgare (DP): [dp-9bb90111.md](dp-9bb90111.md); official file https://www.senat.ro/legis/PDF/2023/23L455DP.PDF
+- 2024-06-19: Forma promulgată (FP): [fp-232e9d6b.md](fp-232e9d6b.md); official file https://www.senat.ro/legis/PDF/2023/23L455FP.PDF
