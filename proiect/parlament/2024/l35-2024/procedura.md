@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-05-21: adopted by the Chamber of Deputies
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-01: sent for promulgation
+- 2024-06-19: promulgated, becomes Legea nr. 195/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -38,3 +39,5 @@ Initiator: Guvernul României.
 - 2024-02-20: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L035AM.PDF
 - 2024-05-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L035AXS.PDF
 - 2024-05-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L035LP.PDF
+- 2024-06-19: Decret de promulgare (DP): [dp-39fd8c94.md](dp-39fd8c94.md); official file https://www.senat.ro/legis/PDF/2024/24L035DP.PDF
+- 2024-06-19: Forma promulgată (FP): [fp-81534dbe.md](fp-81534dbe.md); official file https://www.senat.ro/legis/PDF/2024/24L035FP.PDF
