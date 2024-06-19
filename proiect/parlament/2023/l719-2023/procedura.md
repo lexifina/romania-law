@@ -17,6 +17,7 @@ Initiator: Guvernul României.
 - 2024-05-21: adopted by the Chamber of Deputies
 - 2024-05-27: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-01: sent for promulgation
+- 2024-06-19: promulgated, becomes Legea nr. 191/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -30,3 +31,5 @@ Initiator: Guvernul României.
 - 2024-02-13: Adresă către Camera Deputaților (AM): [am-0e8f7ffa.md](am-0e8f7ffa.md); official file https://www.senat.ro/legis/PDF/2023/23L719AM.PDF
 - 2024-05-27: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L719AXS.PDF
 - 2024-05-27: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2023/23L719LP.PDF
+- 2024-06-19: Decret de promulgare (DP): [dp-e649df33.md](dp-e649df33.md); official file https://www.senat.ro/legis/PDF/2023/23L719DP.PDF
+- 2024-06-19: Forma promulgată (FP): [fp-a77f8d2d.md](fp-a77f8d2d.md); official file https://www.senat.ro/legis/PDF/2023/23L719FP.PDF
