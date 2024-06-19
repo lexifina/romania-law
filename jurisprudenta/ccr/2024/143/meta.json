@@ -1,0 +1,212 @@
+{
+ "key": "dcc-143-2024",
+ "label": "Decizia CCR nr. 143/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "143",
+ "date": "2024-03-19",
+ "year": "2024",
+ "heading": "DECIZIA nr. 143 din 19 martie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor Ordonanței de urgență a Guvernului nr. 37/2021 pentru modificarea și completarea Legii nr. 53/2003 - Codul muncii",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "573",
+  "bis": false,
+  "date": "2024-06-19",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "1.681D/2021"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 37/2021",
+    "number": "37",
+    "year": "2021",
+    "path": "oug/2021/37"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor Ordonanței de urgență a Guvernului nr. 37/2021 pentru modificarea și completarea Legii nr. 53/2003 - Codul muncii, excepție ridicată direct de Avocatul Poporului.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Avocatului Poporului și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 37/2021",
+    "number": "37",
+    "year": "2021",
+    "path": "oug/2021/37"
+   },
+   "articles": [],
+   "mentions": 11
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 53/2003",
+    "number": "53",
+    "year": "2003",
+    "path": "lege/2003/53"
+   },
+   "articles": [
+    {
+     "art": "17",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "241",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "119",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "41",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "146",
+     "alin": null,
+     "lit": [
+      "d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "33",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 275/2022",
+    "number": "275",
+    "year": "2022",
+    "path": "lege/2022/275"
+   },
+   "articles": [],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-19",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284148",
+  "text_sha256": "5b813c0fb75d68dfc4c22141673bb3ec6f0e707d008b1c9fab3a883511a0e912",
+  "catalogue_sha256": "5b813c0fb75d68dfc4c22141673bb3ec6f0e707d008b1c9fab3a883511a0e912",
+  "fetched": "2026-11-03T16:32:03Z",
+  "chars": 14601,
+  "portal_id": "284148",
+  "tip": "DECIZIE"
+ }
+}
