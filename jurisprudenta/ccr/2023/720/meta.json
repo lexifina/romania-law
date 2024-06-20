@@ -1,0 +1,205 @@
+{
+ "key": "dcc-720-2023",
+ "label": "Decizia CCR nr. 720/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "720",
+ "date": "2023-12-12",
+ "year": "2023",
+ "heading": "DECIZIA nr. 720 din 12 decembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 118 alin. (5) coroborate cu cele ale alin. (4) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, în redactarea anterioară modificării și completării prin Legea nr. 152/2019 privind aprobarea Ordonanței Guvernului nr. 21/2014 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, precum și pentru completarea Ordonanței Guvernului nr. 81/2000 privind inspecția tehnică periodică a vehiculelor înmatriculate sau înregistrate în România",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "575",
+  "bis": false,
+  "date": "2024-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "3.312/105/2018",
+  "384D/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "5",
+      "4"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2019",
+    "number": "152",
+    "year": "2019",
+    "path": "lege/2019/152"
+   },
+   "articles": [],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ioan Mihai Tănase în Dosarul nr. 3.312/105/2018 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și constată că dispozițiile art. 118 alin. (5) coroborate cu cele ale alin. (4) din Ordonanța de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, în redactarea anterioară modificării și completării prin Legea nr. 152/2019 privind aprobarea Ordonanței Guvernului nr. 21/2014 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002 privind circulația pe drumurile publice, precum și pentru completarea Ordonanței Guvernului nr. 81/2000 privind inspecția tehnică periodică a vehiculelor înmatriculate sau înregistrate în România, sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 195/2002",
+    "number": "195",
+    "year": "2002",
+    "path": "oug/2002/195"
+   },
+   "articles": [
+    {
+     "art": "118",
+     "alin": [
+      "5",
+      "4",
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "96",
+     "alin": [
+      "2"
+     ],
+     "lit": [
+      "b"
+     ]
+    },
+    {
+     "art": "97",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "a"
+     ]
+    }
+   ],
+   "mentions": 15
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "53",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 152/2019",
+    "number": "152",
+    "year": "2019",
+    "path": "lege/2019/152"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284161",
+  "text_sha256": "a9bde3f7a5ff5763d06b211b6d7f371e571a3ad32f5fbc8816eed16ab9c96048",
+  "catalogue_sha256": "a9bde3f7a5ff5763d06b211b6d7f371e571a3ad32f5fbc8816eed16ab9c96048",
+  "fetched": "2026-11-03T01:10:00Z",
+  "chars": 17714,
+  "portal_id": "284161",
+  "tip": "DECIZIE"
+ }
+}
