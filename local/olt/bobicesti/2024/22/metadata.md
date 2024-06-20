@@ -1,0 +1,9 @@
+# HCL Bobicești nr. 22/2024
+
+Text not yet included: no document of it is held. It will be added when it is.
+
+- Council: Consiliul Local al Comunei Bobicești
+- Decision: nr. 22/2024
+- Adopted: 2024-06-20
+- Title: continuarea activitatii serviciului public de alimentare cu apă și canalizare Bobicești
+- Record: https://bobicesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21932#78245
