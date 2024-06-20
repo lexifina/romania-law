@@ -1,0 +1,174 @@
+{
+ "key": "dcc-67-2024",
+ "label": "Decizia CCR nr. 67/2024",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "67",
+ "date": "2024-02-01",
+ "year": "2024",
+ "heading": "DECIZIA nr. 67 din 1 februarie 2024",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. 3 alin. (3) și ale art. 346 alin. (7) din Codul de procedură penală",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "574",
+  "bis": false,
+  "date": "2024-06-20",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata"
+ ],
+ "dossiers": [
+  "16.766/55/2019",
+  "2.188D/2020"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  }
+ ],
+ "operative": [
+  "Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată de Ion Bulat în Dosarul nr. 16.766/55/2019 al Judecătoriei Arad - Secția penală și constată că dispozițiile art. 3 alin. (3) și ale art. 346 alin. (7) din Codul de procedură penală sunt constituționale în raport cu criticile formulate.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Arad - Secția penală și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "cod",
+    "label": "Codul de procedură penală",
+    "path": "lege/2010/135",
+    "slug": "codul-procedura-penala"
+   },
+   "articles": [
+    {
+     "art": "3",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "346",
+     "alin": [
+      "7"
+     ],
+     "lit": null
+    },
+    {
+     "art": "383",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "345",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 9
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituției",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [],
+   "mentions": 1
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 3
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-20",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284153",
+  "text_sha256": "6c4556811da1a5a85052f76c231cc4ca0abc19c31596628f427c4da0a66452cc",
+  "catalogue_sha256": "6c4556811da1a5a85052f76c231cc4ca0abc19c31596628f427c4da0a66452cc",
+  "fetched": "2026-11-03T01:10:02Z",
+  "chars": 16067,
+  "portal_id": "284153",
+  "tip": "DECIZIE"
+ }
+}
