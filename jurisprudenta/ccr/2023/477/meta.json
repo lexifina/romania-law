@@ -1,0 +1,486 @@
+{
+ "key": "dcc-477-2023",
+ "label": "Decizia CCR nr. 477/2023",
+ "court": "ccr",
+ "kind": "exceptie",
+ "subkind": "exceptie",
+ "number": "477",
+ "date": "2023-09-21",
+ "year": "2023",
+ "heading": "DECIZIA nr. 477 din 21 septembrie 2023",
+ "subtitle": "referitoare la excepția de neconstituționalitate a dispozițiilor art. I pct. 8, 10 și 14 [cu referire la art. 143 alin. (1) teza finală din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență] și ale art. VIII, ale art. IX alin. (1) [cu referire la sintagma \"se aplică și pentru cererile formulate în cadrul proceselor începute înainte de data intrării în vigoare a acesteia\"] și ale art. X din Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative, precum și a ordonanței de urgență, în ansamblul său",
+ "issuer": "CURTEA CONSTITUȚIONALĂ",
+ "mo": {
+  "number": "579",
+  "bis": false,
+  "date": "2024-06-21",
+  "part": "I"
+ },
+ "outcome": "rejected",
+ "finds_unconstitutional": false,
+ "interpretive": false,
+ "partly": false,
+ "rejected_as": [
+  "neintemeiata",
+  "devenita-inadmisibila"
+ ],
+ "dossiers": [
+  "31.364/245/2018",
+  "293D/2019",
+  "24.253/300/2018",
+  "5.963/105/2017",
+  "31.365/245/2018",
+  "31.576/245/2018",
+  "32.079/245/2018",
+  "3.513/281/2019",
+  "4.637/62/2017/a30",
+  "5.666/245/2019"
+ ],
+ "subjects": [
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanța de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "X",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 4
+  }
+ ],
+ "operative": [
+  "1. Respinge, ca neîntemeiată, excepția de neconstituționalitate ridicată, după caz, de Societatea Lotus Farm - S.R.L. din Iași în Dosarul nr. 31.364/245/2018 al Judecătoriei Iași - Secția civilă, de Societatea Prime Time Productions - S.R.L. din București în Dosarul nr. 24.253/300/2018 al Judecătoriei Sectorului 2 București - Secția civilă, de Societatea Upetrom 1 Mai - S.A. din Ploiești în Dosarul nr. 5.963/105/2017 al Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea Răzvan Tur Company - S.R.L. din satul Lețcani, comuna Lețcani, județul Iași, în Dosarul nr. 31.365/245/2018 al Judecătoriei Iași - Secția civilă, de Societatea Cavior Agro - S.R.L. din Iași în Dosarul nr. 31.576/245/2018 al Judecătoriei Iași - Secția civilă, de instanța de judecată, din oficiu, în Dosarul nr. 32.079/245/2018 al Judecătoriei Iași - Secția civilă, de Societatea Upetrom 1 Mai - S.A. din Ploiești în Dosarul nr. 3.513/281/2019 al Judecătoriei Ploiești - Secția civilă, de Societatea E.V.A. Energy - S.A. din București în Dosarul nr. 4.637/62/2017/a30 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea Lotus Farm - S.R.L. din Iași în Dosarul nr. 5.666/245/2019 al Judecătoriei Iași - Secția civilă, de Societatea Engie România - S.A. din București în Dosarul nr. 4.637/62/2017/a32 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea Ozon Cota 1400 - S.R.L. din Sinaia în Dosarul nr. 184/105/2015/a4 al Judecătoriei Sinaia, de Societatea Spet Shipping - S.A. din București în Dosarul nr. 8.386/299/2019 al Judecătoriei Sectorului 1 București - Secția I civilă, de Societatea Upetrom 1 Mai - S.A. din Ploiești în Dosarul nr. 1.974/281/2019 al Judecătoriei Ploiești - Secția civilă, de Societatea A&amp;G Med Trading - S.R.L. în Dosarul nr. 8.792/4/2019 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Cramele Pâncota - S.R.L. din Pâncota, județul Arad, în Dosarul nr. 709/246/2019 al Judecătoriei Ineu, de Societatea Tehnologica Radion - S.R.L. din București în Dosarul nr. 6.808/303/2019 al Judecătoriei Sectorului 6 București - Secția civilă, de Societatea Imobiliara - S.R.L. din București în Dosarul nr. 8.919/3/2019 al Judecătoriei Sectorului 1 București - Secția a II-a civilă, de Societatea Agromec Cernei - S.A. din Cernei, județul Arad, în Dosarul nr. 3.695/108/2007*/a1 al Tribunalului Arad - Secția a II-a civilă, de Societatea Agromec Cernei - S.A. din Cernei, județul Arad, în Dosarul nr. 710/246/2019 al Judecătoriei Ineu, de instanța de judecată, din oficiu, și de Societatea Agro Zumer - S.R.L. din Țipari, comuna Sintea Mare, județul Arad, în Dosarul nr. 5.649/108/2017/a10 al Tribunalului Arad - Secția a II-a civilă, de Nedelcu Vasile în Dosarul nr. 1.423/62/2018/a3 al Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, de Societatea A&amp;G Med Trading - S.R.L. din București în Dosarul nr. 20.424/4/2019 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Raiffeisen Bank - S.A. cu sediul în București în Dosarul nr. 2.157/115/2018/a8 al Curții de Apel Timișoara - Secția a II-a civilă, de Societatea Quick Protect - S.R.L. din Baia Mare în Dosarul nr. 3.665/100/2017/a4 al Curții de Apel Cluj - Secția a II-a civilă, de Societatea A&amp;G Med Trading - S.R.L. în Dosarul nr. 6.393/300/2019 al Judecătoriei Sectorului 4 București - Secția civilă, de Societatea Pharma Vision - S.R.L. din București în Dosarul nr. 27.618/4/2019 al Judecătoriei Sectorului 4 București - Secția civilă și de Societatea Pallet Express - S.R.L. din Sibiu în Dosarul nr. 29.816/299/2019 al Judecătoriei Sectorului 1 București - Secția a II-a civilă și constată că dispozițiile art. I pct. 10 și 14 [cu referire la art. 143 alin. (1) teza finală din Legea nr. 85/2014 privind procedurile de prevenire a insolvenței și de insolvență] din Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative, precum și ordonanța de urgență, în ansamblu, sunt constituționale în raport cu criticile formulate.",
+  "2. Respinge, ca devenită inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. I pct. 8 și ale art. IX alin. (1) [cu referire la sintagma „se aplică și pentru cererile formulate în cadrul proceselor începute înainte de data intrării în vigoare a acesteia“] din Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative, excepție ridicată, după caz, de aceleași părți în aceleași dosare ale acelorași instanțe.",
+  "3. Respinge, ca inadmisibilă, excepția de neconstituționalitate a dispozițiilor art. VIII și X din Ordonanța de urgență a Guvernului nr. 88/2018 pentru modificarea și completarea unor acte normative în domeniul insolvenței și a altor acte normative, excepție ridicată, după caz, de aceleași părți în aceleași dosare ale acelorași instanțe.",
+  "Definitivă și general obligatorie.",
+  "Decizia se comunică Judecătoriei Iași - Secția civilă, Judecătoriei Sectorului 2 București - Secția civilă, Tribunalului Prahova - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoriei Ploiești - Secția civilă, Tribunalului Brașov - Secția a II-a civilă, de contencios administrativ și fiscal, Judecătoriei Sinaia, Judecătoriei Sectorului 1 București - Secția I civilă, Judecătoriei Sectorului 4 București - Secția civilă, Judecătoriei Ineu, Judecătoriei Sectorului 6 București - Secția civilă, Judecătoriei Sectorului 1 București - Secția a II-a civilă, Tribunalului Arad - Secția a II-a civilă, Curții de Apel Timișoara - Secția a II-a civilă, Curții de Apel Cluj - Secția a II-a civilă și se publică în Monitorul Oficial al României, Partea I."
+ ],
+ "cites": [
+  {
+   "act": {
+    "kind": "oug",
+    "label": "Ordonanței de urgență a Guvernului nr. 88/2018",
+    "number": "88",
+    "year": "2018",
+    "path": "oug/2018/88"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "IX",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "X",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 67
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 85/2014",
+    "number": "85",
+    "year": "2014",
+    "path": "lege/2014/85"
+   },
+   "articles": [
+    {
+     "art": "I",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "14",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "VIII",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "143",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "47",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "5",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "102",
+     "alin": [
+      "6"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "75",
+     "alin": [
+      "3"
+     ],
+     "lit": null
+    },
+    {
+     "art": "133",
+     "alin": [
+      "5",
+      "5-1"
+     ],
+     "lit": [
+      "k"
+     ]
+    },
+    {
+     "art": "135-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 39
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 113/2020",
+    "number": "113",
+    "year": "2020",
+    "path": "lege/2020/113"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legii nr. 207/2015",
+    "number": "207",
+    "year": "2015",
+    "path": "lege/2015/207"
+   },
+   "articles": [
+    {
+     "art": "264-1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 24/2000",
+    "number": "24",
+    "year": "2000",
+    "path": "lege/2000/24"
+   },
+   "articles": [],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Convenția pentru apărarea drepturilor omului și a libertăților fundamentale",
+    "path": null,
+    "slug": "conventia-edo"
+   },
+   "articles": [],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "conventie",
+    "label": "Protocolul nr. 12 adițional la Convenție",
+    "path": null,
+    "slug": "conventia-edo-protocolul-12"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": null,
+     "lit": null
+    }
+   ],
+   "mentions": 2
+  },
+  {
+   "act": {
+    "kind": "constitutie",
+    "label": "Constituție",
+    "path": "constitutie/1991",
+    "slug": "constitutia"
+   },
+   "articles": [
+    {
+     "art": "15",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "115",
+     "alin": [
+      "6",
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "1",
+     "alin": [
+      "5"
+     ],
+     "lit": null
+    },
+    {
+     "art": "16",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "44",
+     "alin": [
+      "2",
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "53",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "21",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "20",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "135",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "57",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "45",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "147",
+     "alin": [
+      "4"
+     ],
+     "lit": null
+    },
+    {
+     "art": "148",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    }
+   ],
+   "mentions": 38
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 47/1992",
+    "number": "47",
+    "year": "1992",
+    "path": "lege/1992/47"
+   },
+   "articles": [
+    {
+     "art": "1",
+     "alin": [
+      "2"
+     ],
+     "lit": null
+    },
+    {
+     "art": "2",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "3",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "10",
+     "alin": null,
+     "lit": null
+    },
+    {
+     "art": "29",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "31",
+     "alin": [
+      "1"
+     ],
+     "lit": null
+    },
+    {
+     "art": "11",
+     "alin": [
+      "1"
+     ],
+     "lit": [
+      "A.d"
+     ]
+    }
+   ],
+   "mentions": 5
+  },
+  {
+   "act": {
+    "kind": "lege",
+    "label": "Legea nr. 55/2020",
+    "number": "55",
+    "year": "2020",
+    "path": "lege/2020/55"
+   },
+   "articles": [],
+   "mentions": 1
+  }
+ ],
+ "warnings": [],
+ "court_name": "Curtea Constituțională",
+ "binding_from": "2024-06-21",
+ "text": "decizie.md",
+ "source": {
+  "portal": "https://legislatie.just.ro/Public/DetaliiDocument/284190",
+  "text_sha256": "6c2d8f64a8f1a3a40e02a6e40c0874a32fa0530d44066cd16801b0ca638a66e5",
+  "catalogue_sha256": "6c2d8f64a8f1a3a40e02a6e40c0874a32fa0530d44066cd16801b0ca638a66e5",
+  "fetched": "2026-11-03T01:10:00Z",
+  "chars": 83667,
+  "portal_id": "284190",
+  "tip": "DECIZIE"
+ }
+}
