@@ -19,6 +19,7 @@ Initiator: Guvernul României.
 - 2024-05-28: adopted by the Chamber of Deputies
 - 2024-06-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-05: sent for promulgation
+- 2024-06-21: promulgated, becomes Legea nr. 199/2024; documents published: Decret de promulgare, Forma promulgată
 
 ## Documents
 
@@ -35,3 +36,5 @@ Initiator: Guvernul României.
 - 2024-02-19: Adresă către Camera Deputaților (AM): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L010AM.PDF
 - 2024-06-03: Adresă privind sesizarea CCR (AXS): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L010AXS.PDF
 - 2024-06-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L010LP.PDF
+- 2024-06-21: Decret de promulgare (DP): [dp-cf04ee9c.md](dp-cf04ee9c.md); official file https://www.senat.ro/legis/PDF/2024/24L010DP.PDF
+- 2024-06-21: Forma promulgată (FP): [fp-70715e2e.md](fp-70715e2e.md); official file https://www.senat.ro/legis/PDF/2024/24L010FP.PDF
