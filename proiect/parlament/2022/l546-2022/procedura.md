@@ -20,6 +20,7 @@ Initiator: Guvernul României.
 - 2024-06-03: documents published: Adresă privind sesizarea CCR, Forma trimisă la promulgare
 - 2024-06-05: sent for promulgation
 - 2024-06-21: promulgated, becomes Legea nr. 196/2024; documents published: Decret de promulgare, Forma promulgată
+- 2024-06-25: published in the Monitorul Oficial; documents published: Document (day not given by the bill file)
 
 ## Documents
 
@@ -40,3 +41,4 @@ Initiator: Guvernul României.
 - 2024-06-03: Forma trimisă la promulgare (LP): not held as text; official file https://www.senat.ro/legis/PDF/2022/22L546LP.PDF
 - 2024-06-21: Decret de promulgare (DP): [dp-a5962695.md](dp-a5962695.md); official file https://www.senat.ro/legis/PDF/2022/22L546DP.PDF
 - 2024-06-21: Forma promulgată (FP): [fp-802f116b.md](fp-802f116b.md); official file https://www.senat.ro/legis/PDF/2022/22L546FP.PDF
+- 2024-06-25: Document (TA): [ta-5a9f62bf.md](ta-5a9f62bf.md); official file https://www.senat.ro/legis/PDF/2022/22L546TA.PDF (its day is not given by the bill file: shown from the last stage held)
