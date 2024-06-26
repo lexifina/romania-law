@@ -9,7 +9,8 @@ Initiator: Membri ai Parlamentului.
 ## Stages published so far
 
 - 2024-06-12: registered at the Senate
+- 2024-06-26: documents published: Aviz comisie
 
 ## Documents
 
-- none held as text
+- 2024-06-26: Aviz comisie (CA45): not held as text; official file https://www.senat.ro/legis/PDF/2024/24L417CA45.PDF
